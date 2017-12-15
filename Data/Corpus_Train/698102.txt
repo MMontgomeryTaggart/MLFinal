@@ -1,0 +1,236 @@
+Chief Complaint:
+   24 Hour Events:
+   Hcts stable. Started diuresing in evening; put out ~800cc with 20 IV
+   Lasix. Lowish blood sugars so gave only 10 of lantus; reduced regular
+   dose from 40 -> 20 -> 16. Phosphate rising.
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Congestive Hear
+   Last dose of Antibiotics:
+   Nafcillin - [**3196-2-20**] 04:00 PM
+   Vancomycin - [**3196-2-21**] 07:54 PM
+   Infusions:
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3196-2-21**] 08:15 PM
+   Dextrose 50% - [**3196-2-22**] 05:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3196-2-22**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**97**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.6
+C (99.6
+   HR: 84 (76 - 87) bpm
+   BP: 138/52(75) {132/52(74) - 150/70(88)} mmHg
+   RR: 11 (9 - 18) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 133.4 kg (admission): 129 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,553 mL
+                                                                    335 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,553 mL
+                                                                    310 mL
+   Blood products:
+   Total out:
+                                                                  2,395 mL
+                                                                    600 mL
+   Urine:
+                                                                  2,395 mL
+                                                                    600 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -842 mL
+                                                                   -265 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 600 (600 - 761) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 35
+   PIP: 16 cmH2O
+   SpO2: 98%
+   ABG: ///17/
+   Ve: 8.1 L/min
+   Physical Examination
+   Gen:
+   Pulm:
+   CV:
+   Abd:
+   Peripheral Vascular:
+   Skin:
+   Neurologic: Responds
+   Labs / Radiology
+   429 K/uL
+   9.7 g/dL
+   58 mg/dL
+   1.8 mg/dL
+   17 mEq/L
+   3.9 mEq/L
+   78 mg/dL
+   108 mEq/L
+   137 mEq/L
+   27.1 %
+   14.9 K/uL
+        [image002.jpg]
+                             [**3196-2-20**]  04:19 PM
+                             [**3196-2-20**]  08:00 PM
+                             [**3196-2-21**]  12:00 AM
+                             [**3196-2-21**]  04:47 AM
+                             [**3196-2-21**]  07:57 AM
+                             [**3196-2-21**]  12:21 PM
+                             [**3196-2-21**]  04:16 PM
+                             [**3196-2-21**]  04:20 PM
+                             [**3196-2-21**]  10:00 PM
+                             [**3196-2-22**]  03:59 AM
+   WBC
+   14.6
+   14.1
+   14.9
+   Hct
+   27.5
+   27.0
+   27.0
+   26.7
+   28.0
+   27.4
+   27.3
+   28.5
+   27.1
+   Plt
+   [**Telephone/Fax (3) 11710**]
+   Cr
+   2.3
+   2.1
+   1.8
+   Glucose
+   65
+   65
+   58
+   Other labs: PT / PTT / INR:11.5/24.8/1.0, CK / CKMB /
+   Troponin-T:25//<0.01, ALT / AST:[**8-21**], Alk Phos / T Bili:145/0.4,
+   Differential-Neuts:89.0 %, Band:1.0 %, Lymph:7.0 %, Mono:1.0 %, Eos:0.0
+   %, D-dimer:1862 ng/mL, Fibrinogen:718 mg/dL, Lactic Acid:0.9 mmol/L,
+   Albumin:1.8 g/dL, LDH:209 IU/L, Ca++:8.1 mg/dL, Mg++:2.1 mg/dL, PO4:6.9
+   mg/dL
+   Assessment and Plan
+   49 y/o F with DM2, HTN,  CAD s/p CABG, admitted/in hospital for MSSA
+   bacteremia, charcot foot infected with MSSA, hypotension from sepsis
+   with ATN transferred from medical [**Hospital1 **] with upper GI bleed likely from
+   ASA/Plavix in setting of critical illness and prior hx of ulcers.
+   # Upper GI Bleed: active bleeding that did not clear with NG lavage.
+   Scope x2 Sat showing clot in stomach the first endoscopy and then were
+   able to intervene on second endoscopy with cautery (see GI note).  Was
+   intubated for second endoscopy and remains intubated. 3^rd scope
+   Tuesday showing clot. Hct has now been stable for the last 24 hours.
+   -          Maintain [**Location (un) **] and power-PICC (both equivalent to > 18G)
+   -          NPO
+   -          Maintain active T&S
+   -          IV protonix gtt
+   -          Transfuse to HCT > 25 given coronary history and baseline
+   HCT of 30 or if drop >3
+   -          Continue Q4H HCT
+   # Respiratory Status/Diastolic CHF: Currently doing well intubated on
+   pressure support. Difficult intubation with concern for laryngeal
+   edema. Has reassuring cuff leak.
+   -          Keep even today
+ if stable bleed, consider diuresis
+   -          plan to extubate tomorrow
+   -          continue propofol gtt
+   # Leukocytosis: no clear source other than foot, known bacteremia which
+   has cleared per blood cultures or diarrhea that is c. diff neg. Could
+   be stress response to GI bleed.
+   -          Trend WBC
+   -          F/U blood cultures
+   -          Follow-up CXR
+   -          C. Diff has been negative
+   -          Monitor clinical exam for spread of erythema over LLE
+   # MSSA Bacteremia: repeat blood cultures negative. Temp [**2-17**] to 99.5 on
+   standing tylenol.
+   -          Vancomycin (stopped nafcillin 3/16 per ID)
+   -          Repeat blood cultures
+   -          Appreciate ID recommendations
+   # Left Charcot Foot and Cellulitis: followed by podiatry/vascular
+   surgery. Non-Contrast CT of LLE:
+   -          Continue vancomycin
+   -          Follow-up on final tissue cultures
+   -          Monitor for improvement
+   -          Appreciate podiatric surgery recommendations
+   -          Vascular recommends noncontrast CT of LLE
+   -          Surgery Recs: [**Hospital1 **] betadine packing, DSD, ace daily
+   -          Plan for further debridement once medically stable
+   # [**Last Name (un) **] d/t ATN: patient without known CKD at baseline. ATN attributed to
+   hypotension in setting of MSSA bacteremia. Peak Cr 4.3.
+   -          Renally dose all meds
+   -          Hold sevelamer while NPO
+   -          Monitor UOP, trend Cr
+   -          Keep MAPs > 60 to maintain renal perfusion
+   -          Appreciate renal consult recommendations
+   # HTN: reasonably well controlled at present
+   -          Diurese today as above
+   -          Continue to hold norvasc, lopressor, valsartan in setting of
+   GIB
+   -          Monitor BPs
+   Hyponatremia: Resolved. Initially 130 in setting volume depletion. Has
+   been an issue throughout hospitalization and improves with volume and
+   hydration.  Na is 136 this morning.
+   Diarrhea: currently in setting of melena, but prior likely antibiotic
+   associated with multiple negative c. diff
+   -          When able to tolerate PO initiate yogurt in diet /
+   probiotics
+   -          Consider loperamide once GI bleed resolves and if there is
+   no evidence for infection
+   Cervical Disc Disease: C6-C7 disc herniation
+   -          Appreciate spine consultation recommendations
+   -          Will hold on CT C spine w/o contrast until patient stable
+   from a Upper GI bleed perspective
+   DM c/b retinopathy, neuropathy:
+   -          Lantus to 20 units (half dose) QHS given NPO status
+   -          Continue HISS but only treat BG > 200 given currently NPO
+   -          Renally dose gabapentin and hold until while patient NPO
+   Pain: concern that tylenol could be masking fevers
+   -          Stop tylenol for 48 hours to trend temperature curve
+   -          Continue dilaudid IV for pain
+   CAD s/p CABG [**3186**]:  last intervention > 1 year ago, given acute upper
+   GI bleed need to stop ASA and Plavix.
+   -          Restart imdur when able
+   -          Check EKG
+   HL: hold atorvastatin and fish oil while NPO
+   Vitamin D Deficiency: hold vitamin D
+   Sugar Control:  Will follow sugars closely, consider backing down on
+   her glucose control today.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3196-2-18**] 07:18 AM
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**3196-2-18**] 09:26 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

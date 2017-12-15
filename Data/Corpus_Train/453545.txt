@@ -1,0 +1,214 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   none
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2782-1-27**] 07:39 AM
+   Ceftazidime - [**2782-1-29**] 04:03 PM
+   Infusions:
+   Furosemide (Lasix) - 15 mg/hour
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2782-1-29**] 08:21 AM
+   Fentanyl - [**2782-1-29**] 06:21 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2782-1-30**] 06:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**84**] AM
+   Tmax: 38.1
+C (100.5
+   Tcurrent: 37.4
+C (99.3
+   HR: 98 (84 - 102) bpm
+   BP: 98/60(73) {95/53(68) - 121/89(96)} mmHg
+   RR: 19 (10 - 21) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 89.9 kg (admission): 87.5 kg
+             Total In:
+                                                                  2,492 mL
+                                                                    564 mL
+   PO:
+             TF:
+                                                                  1,365 mL
+                                                                    334 mL
+   IVF:
+                                                                    546 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  3,700 mL
+                                                                  1,000 mL
+   Urine:
+                                                                  3,700 mL
+                                                                  1,000 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,208 mL
+                                                                   -436 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 391 (359 - 545) mL
+   PS : 10 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 30%
+   RSBI: 111
+   PIP: 15 cmH2O
+   SpO2: 98%
+   ABG: 7.50/63/105/43/21
+   NIF: -5 cmH2O
+   Ve: 5.9 L/min
+   PaO2 / FiO2: 350
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed, locked in
+   Labs / Radiology
+   332 K/uL
+   14.4 g/dL
+   139 mg/dL
+   0.8 mg/dL
+   43 mEq/L
+   3.0 mEq/L
+   42 mg/dL
+   89 mEq/L
+   142 mEq/L
+   44.4 %
+   8.5 K/uL
+        [image002.jpg]
+                             [**2782-1-27**]  05:05 AM
+                             [**2782-1-27**]  04:02 PM
+                             [**2782-1-28**]  03:50 AM
+                             [**2782-1-28**]  04:19 AM
+                             [**2782-1-28**]  02:30 PM
+                             [**2782-1-28**]  07:15 PM
+                             [**2782-1-29**]  02:42 AM
+                             [**2782-1-29**]  02:32 PM
+                             [**2782-1-30**]  02:27 AM
+                             [**2782-1-30**]  02:38 AM
+   WBC
+   8.2
+   8.8
+   8.5
+   Hct
+   41.4
+   43.5
+   44.4
+   Plt
+   [**Telephone/Fax (3) 12365**]
+   Cr
+   0.6
+   0.6
+   0.7
+   0.7
+   0.7
+   0.7
+   0.8
+   TCO2
+   49
+   43
+   51
+   Glucose
+   140
+   132
+   134
+   137
+   143
+   145
+   139
+   Other labs: INR 1.3
+   Ca++:10.0 mg/dL, Mg++:2.2 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   69M with pontine CVA, CAD, dilated cardiomyopathy LVEF 20%, and
+   recurrent aspiration pneumonia presenting with progressively worsening
+   dyspnea over 2.5 weeks and hypoxic respiratory failure secondary to
+   HCAP vs aspiration PNA vs. CHF.
+   .
+   #.  Hypoxic Respiratory Failure:  Multi-factorial.  Patient may have
+   had pulmonary infection leading to respiratory failure, but more
+   relevant is likely worsening CHF and poor forward flow.  We are
+   continuing to diurese to optimize for extubation on [**2782-2-1**]. Patient is
+   now -650cc for LOS, and BUN/Cr rising.  We will continue to treat for
+   HCAP/VAP pneumonia.  Patient on MMV with minimal support but has low VT
+   when weaned down to PSV to [**5-26**]. NIF -5 yesterday so central muscle
+   weakness also a significant problem.
+   - repeat NIF
+   - scopolamine patch for secretions
+   - Will continue ceftaz, today day [**8-31**]
+   - diuresis
+lasix gtt with metolazone [**Hospital1 7**] for goal -500cc today
+   - Albuterol and ipratropium prn
+   .
+   #. HAP: Has pseudomonas in sputum, on ceftazidime. Afebrile, no
+   leukocytosis, and decreasing secretions.
+   - cont ceftaz as above
+   .
+   #  Metabolic alkalosis- likely [**2-23**] diuresis, bicarb trending up in
+   setting of diuresis
+   -  less aggressive diuresis
+   - KCl supplementation, check chem. 7 TID with aggressive KCL
+   - diamox q6
+   .
+   # Right Greater Saphenous vein thrombus: Does not extend into common
+   femoral vein.  IVC filter not indicated or wanted by family.  Will not
+   change warfarin in interim.
+   .
+   #  Cardiomyopathy: Unclear etiology, likely ischemic and related to
+   dysnychromy. TTE shows low EF and worsened MR from prior.  CHF is
+   likely contributing to respiratory failure as above.
+   - increased warfarin to 5 mg daily
+   - Follow INR and dose appropriately
+   - diuresis as above
+   - cont rate control and reduce afterload with metoprolol/captopril
+   .
+   #. CAD: Extensive, but stable.
+   - will continue ASA, home statin
+   .
+   #.  Depression/Anxiety- currently on fentanyl and midazolam
+   - continue lexapro
+   .  .
+   #.  h/o pontine infarct: At baseline, patient able to nod yes and no
+   and shake head in response to questions.
+   - continue coumadin
+   - ASA 325
+   BARRIERS TO EXTUBATION:  strength (low NIF), fluid overload
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2782-1-28**] 03:52 AM 50 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2782-1-18**] 11:08 PM
+   PICC Line - [**2782-1-19**] 10:00 PM
+   Prophylaxis:
+   DVT:  warfarin
+   Stress ulcer:   ranitidine
+   VAP:  ceftaz
+   Comments:
+   Communication:  Comments:
+   Code status:   full -> ? re-intubation vs. Terminal extubation
+   Disposition: ICU
+
+
+
+DOC CLASS

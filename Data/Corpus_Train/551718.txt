@@ -1,0 +1,267 @@
+Chief Complaint: 82 yo F with CAD s/p CABG and AVR, CHF, AF, COPD on
+   home oxygen p/w hypercarbic respiratory failure and failure to extubate
+   x3.
+   24 Hour Events:
+   - schedule for trach and PEG by IP in AM (NPO after MN)
+   - wound care recs: sacral decub not infected, improving (less
+   serosanguinous drainage) => d/c-ed silver sulfadiazene.
+   - rpt VBG WNL (7.42/62/24/42)
+   - B12 low => B12 IM x1, folate WNL (11.1)
+   - iron studies c/w anemia of chronic disease (low Fe and transferrin,
+   elevated ferritin).
+   - tapered prednisone to 10 mg PO daily
+   - HR dipped to 50s o/n, decreased frequency of diltiazem to TID from
+   QID.
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**2840-1-22**] 12:00 PM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Other medications:
+   Diltiazem 15 mg PO TID
+   B12 IM x1
+   Prednisone 10 mg PO daily
+   Carvedilol 25 mg PO BID
+   Lansoprazole
+   Simvastatin 20 mg PO daily
+   Iptratroprium
+   Lactulose
+   Insulin Sliding Scale
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2840-1-25**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 68 (57 - 75) bpm
+   BP: 120/37(59) {102/34(52) - 134/93(101)} mmHg
+   RR: 15 (10 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 60 Inch
+             Total In:
+                                                                  1,657 mL
+                                                                    343 mL
+   PO:
+             TF:
+                                                                    389 mL
+                                                                    230 mL
+   IVF:
+                                                                    408 mL
+                                                                    113 mL
+   Blood products:
+   Total out:
+                                                                    895 mL
+                                                                    170 mL
+   Urine:
+                                                                    895 mL
+                                                                    170 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    762 mL
+                                                                    173 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI Deferred: No Spon Resp
+   PIP: 19 cmH2O
+   Plateau: 16 cmH2O
+   SpO2: 99%
+   ABG: ///37/
+   Ve: 5.2 L/min
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Eyes / Conjunctiva: Pupils dilated
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), irregularly irregular pulse
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   65 K/uL
+   8.9 g/dL
+   108 mg/dL
+   0.8 mg/dL
+   37 mEq/L
+   4.5 mEq/L
+   46 mg/dL
+   105 mEq/L
+   144 mEq/L
+   26.3 %
+   6.8 K/uL
+        [image002.jpg]
+                            [**2840-1-22**]  06:51 AM
+                            [**2840-1-22**]  09:27 AM
+                            [**2840-1-22**]  04:14 PM
+                            [**2840-1-23**]  04:26 AM
+                            [**2840-1-23**]  02:29 PM
+                            [**2840-1-23**]  05:00 PM
+                            [**2840-1-24**]  12:00 AM
+                            [**2840-1-24**]  04:45 AM
+                            [**2840-1-24**]  07:46 AM
+                            [**2840-1-25**]  04:32 AM
+   WBC
+   8.6
+   8.5
+   4.6
+   5.0
+   6.8
+   Hct
+   26.6
+   28.5
+   25.2
+   26.4
+   26.3
+   Plt
+   67
+   70
+   61
+   70
+   65
+   Cr
+   0.8
+   0.9
+   0.9
+   0.8
+   0.8
+   TCO2
+   44
+   43
+   44
+   Glucose
+   126
+   125
+   109
+   154
+   135
+   108
+   Other labs: PT / PTT / INR:12.7/29.5/1.1, CK / CKMB /
+   Troponin-T:36/2/0.20, ALT / AST:[**8-24**], Alk Phos / T Bili:43/0.3,
+   Differential-Neuts:90.5 %, Band:0.0 %, Lymph:4.7 %, Mono:4.5 %, Eos:0.2
+   %, Fibrinogen:105 mg/dL, Lactic Acid:0.6 mmol/L, Albumin:3.5 g/dL,
+   LDH:284 IU/L, Ca++:9.0 mg/dL, Mg++:2.2 mg/dL, PO4:2.8 mg/dL
+   No new micro data
+   Assessment and Plan
+   Impression: 82 year old female with CAD s/p CABG and AVR, AF, and COPD
+   on home oxygen, presenting from OSH for management of GI bleed, and
+   hypercarbic respiratory failure, with failure to extubate x3 while
+   admitted.
+   Hypercarbic Respiratory Failure:  At OSH was extubated [**2840-1-10**], but
+   re-intubated [**1-15**] at [**Hospital1 52**] for hypercarbic respiratory failure. Then
+   extubated [**1-16**], put on intermittent bipap o/n and reintubated [**2-26**] AMS
+   and hypercarbic resp failure [**1-17**].  Attempted extubation on [**1-23**],
+   patient became progressively hypercarbic and required intubation.
+   Likely multifactorial; both infectious (pneumonia) and cardiac
+   (hypertension, tachycardia and underlying CHF causing flash pulmonary
+   edema) as well as COPD.
+   For COPD:
+   -stop steroids today
+   -continue advair, ipratropium, home xopenex
+   For PNA: No evidence of growth, leukocytosis resolving, no fevers.
+   Compled 8 day course of Vancomycin/Meropenem.
+   For Cardiac optimization:
+   - cont carvedilol 25  [**Hospital1 **]
+   - diltiazem to 15 QID
+   - runs even today
+   Ventilation:
+   - Decrease vent settings to RR of 10 to correct alkalosis.
+   - increase sedation, as agitated on the vent and ripping the skin on
+   her hands.
+   - to receive trach and PEG by IP today
+   - start sedation wean (midaz to ativan or valium, fentanyl IV to patch)
+   once trached.
+   - start rehab screen
+    Acute Renal Failure: Cre stable at 0.9. Consider starting ACEI once
+   extubated and hemodynamically stable.
+   Gastrointestinal Bleeding:  HCT stable at 28 x3 days.   Hct down to 26,
+   stable on rpt, likely due to some oozing from PICC site repositioning.
+   No EGD only evidence for GI bleed is guaiac positive stool on
+   admission. No scope indicated per GI. Also has large ecchymosis
+   surrounding L upper leg. DIC labs negative.
+   - active type and screen
+   - PICC access currently
+   - transfusion goal > 25
+   - PO PPI daily
+   - monitoring hematoma. Low threshold to CT for RP bleed if HCT keeps
+   dropping.
+   - consider restarting anticoagulatins (ASA, coumadin) after trach and
+   if platelets improve.
+   - check B12, folate iron studies
+    .
+   Thrombocytopenia:  Possible antibiotics or PPI related. Stable in 70s.
+   PF4 antibodies negative this admission. Other etiologies include
+   infection, although appears to be recovering from PNA.
+   - daily PLT check
+   - d/c PPI (can cause thrombocytopenia)
+   - transfuse for platelets < 50 or active bleeding
+   - consider restarting anticoagulation for AF once procedures over and
+   platelets recover.
+   - consider heme consult if platelets do not improve upon d/c of PPI.
+   Atrial Fibrillation:  Currently rate controlled  and hemodynamically
+   stable. Currently not anticoagulated after GI bleed, but has been
+   stable in Hct x3 days.
+   - diltiazem 15 [**Hospital1 **]
+   - consider restarting coumadin after procedures.
+   - holding tykosin and digoxin
+   Coronary Artery Disease: s/p CABG (LIMA to LAD and SVG to RCA).
+   - continue simvastatin
+   - switched metoprolol to coreg [**1-18**] after bradycardia and hypotension
+   [**1-17**].
+   - consider restarting ASA
+   Aortic Valve Replacement (bioprosthetic): Not anticoagulated.
+   Performed in [**2833**]. TTE here with EF 50%, severe pulm regurg and mild
+   pulm HTN
+   .
+   Hypertension: improved control (SBPs in 130s) with transient SBPs to
+   150s-160s.
+   -cont Coreg at 25 [**Hospital1 **]
+   -cont dilt for now
+   Hyperlipidemia:
+   - simvastatin
+   Back Wound:  Patient with stage II ulcer on back from burn injury at
+   [**Location (un) **]. Wound care seen, appreciate recs. Dressings per recs. Stopped
+   steroids (can contribute to skin thinning).
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2840-1-25**] 04:00 AM 45 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2840-1-18**] 09:20 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: d/c-ed PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: DNR. Start rehab screen today.
+   Disposition: in ICU
+
+
+
+DOC CLASS

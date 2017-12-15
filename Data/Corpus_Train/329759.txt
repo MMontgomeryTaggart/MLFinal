@@ -1,0 +1,243 @@
+TSICU
+   HPI:
+   66M w/ EUS staged T3N1 distal esophageal adenoca, s/p R portacath, 16Fr
+   open feeding jejunostomy [**4-7**], s/p neoadjuvant chemorads
+   (5FU/cisplatin) s/p 3-hole esophagectomy [**7-22**]
+   POD35 now with ?loculated right apical effusion and pelvic abscesss now
+   PPD 11 s/p IR drainage of collections. PPD4 for pelvic drainage
+   Chief complaint:
+   1.Pelvic abscess
+   2.loculated pulmonary apical effusion
+   3.hypotension
+   CHIEF COMPLAINT: dypnea, increased o2 requirements, and
+   hypotension(70s)
+   PMHx:
+   PMH: duodenal ulcer '[**23**] & '[**45**], Rx for H pylori '[**54**], hiatal hernia,
+   gastritis, duodenitis '[**51**], exercise-induced asthma (well controlled w/
+   pulmicort, albuterol prn, no O2), ADHD, s/p MVA w/ depressed skull fx
+   '[**25**], SBO '70s (managed non-op), colonic polyps, s/p colonoscopy &
+   excision (adenoma), last colonoscopy '[**60**] - no polyps, hemorrhoids
+   Current medications:
+   1. 2. Albuterol MDI 3. Chlorhexidine Gluconate 0.12% Oral Rinse 4.
+   Fentanyl Citrate 5. Fluconazole
+   6. Furosemide 7. Heparin 8. Influenza Virus Vaccine 9. Insulin 10.
+   Magnesium Sulfate 11. Metoprolol Tartrate
+   12. Midazolam 13. Norepinephrine 14. Nystatin Oral Suspension 15.
+   Pantoprazole 16. Piperacillin-Tazobactam Na
+   17. Pneumococcal Vac Polyvalent 18. Potassium Chloride 19. Sodium
+   Chloride 0.9% Flush 20. Vancomycin
+   24 Hour Events:
+   [**2764-8-28**]-Transfused 1 unit of PRBC's with goal of keeping patient above
+   goal of 30.  Diuresed to goal of 100cc/hour of urinary output with a
+   CVP greater than 10 and an SBP > 100.
+   Post operative day:
+   POD#3 - s/p exploratory lap, cleanout with tissue biopsy sent
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**2764-8-28**] 04:00 PM
+   Vancomycin - [**2764-8-28**] 08:00 PM
+   Fluconazole - [**2764-8-28**] 09:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2764-8-29**] 12:00 AM
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Furosemide (Lasix) - 1 mg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2764-8-28**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**2764-8-29**] 12:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2764-8-29**] 04:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**67**] a.m.
+   Tmax: 37.2
+C (99
+   T current: 36.7
+C (98
+   HR: 77 (75 - 97) bpm
+   BP: 77/63(66) {0/0(0) - 0/0(0)} mmHg
+   RR: 16 (14 - 35) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 87.5 kg (admission): 71.2 kg
+   Height: 69 Inch
+   CVP: 11 (11 - 19) mmHg
+   Total In:
+                                                                  3,073 mL
+                                                                    556 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,545 mL
+                                                                    310 mL
+   Blood products:
+                                                                    280 mL
+   Total out:
+                                                                  5,780 mL
+                                                                  1,145 mL
+   Urine:
+                                                                  5,080 mL
+                                                                  1,120 mL
+   NG:
+                                                                    475 mL
+                                                                     25 mL
+   Stool:
+   Drains:
+                                                                    215 mL
+   Balance:
+                                                                 -2,707 mL
+                                                                   -589 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 30 cmH2O
+   Plateau: 26 cmH2O
+   Compliance: 21.4 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.45/49/98.[**Numeric Identifier 492**]/32/8
+   Ve: 7.4 L/min
+   PaO2 / FiO2: 196
+   Physical Examination
+   Labs / Radiology
+   285 K/uL
+   10.0 g/dL
+   93 mg/dL
+   0.9 mg/dL
+   32 mEq/L
+   4.0 mEq/L
+   25 mg/dL
+   104 mEq/L
+   140 mEq/L
+   28.9 %
+   12.0 K/uL
+        [image002.jpg]
+                             [**2764-8-28**]  03:20 AM
+                             [**2764-8-28**]  08:01 AM
+                             [**2764-8-28**]  08:11 AM
+                             [**2764-8-28**]  10:00 AM
+                             [**2764-8-28**]  02:04 PM
+                             [**2764-8-28**]  03:53 PM
+                             [**2764-8-28**]  05:51 PM
+                             [**2764-8-29**]  12:10 AM
+                             [**2764-8-29**]  04:02 AM
+                             [**2764-8-29**]  04:10 AM
+   WBC
+   15.1
+   13.5
+   14.3
+   12.0
+   Hct
+   28.0
+   29.3
+   30.8
+   28.9
+   Plt
+   [**Telephone/Fax (3) 1068**]85
+   Creatinine
+   1.0
+   1.0
+   0.9
+   TCO2
+   29
+   31
+   32
+   32
+   29
+   35
+   Glucose
+   167
+   106
+   79
+   93
+   Other labs: PT / PTT / INR:17.4/36.7/1.6, CK / CK-MB / Troponin
+   T:95/3/0.04, ALT / AST:51/57, Alk-Phos / T bili:108/2.4, Amylase /
+   Lipase:[**11-1**], Differential-Neuts:80.0 %, Band:15.0 %, Lymph:1.0 %,
+   Mono:0.0 %, Eos:2.0 %, Lactic Acid:1.7 mmol/L, Albumin:2.4 g/dL, Ca:7.5
+   mg/dL, Mg:2.0 mg/dL, PO4:2.9 mg/dL
+   Imaging: [**8-25**] CXR: A mild-to-moderate pulmonary edema unchanged for
+   several days. Moderate left pleural effusion with a fissural component
+   stable. Moderate cardiomegaly unchanged. Right supraclavicular line
+   ends centrally. Right pleural tube still in place. No pneumothorax.
+   [**8-23**] UE LENI L Basilic vein thrombus
+   [**8-26**] CXR: The ET tube tip is approximately 5 cm above the carina. The
+   NG tube tip passes below the diaphragm, most likely terminating in the
+   stomach. The position of the right internal jugular vein line and right
+   subclavian vein line is unchanged terminating in mid and distal SVC
+   accordingly. There is no change in the cardiomediastinal contour,
+   bilateral parenchymal opacities and bilateral left more than right
+   pleural effusion, loculated on the left.
+   [**2764-8-28**] CXR: . Minimal improvement in parenchymal opacities and
+   unchanged bilateral effusions.
+   2. Multiple support tubes as described above, not significantly changed
+   from previous radiograph.
+   Microbiology:  [**7-24**] Pleural: 4+PMN, no micro
+   [**8-5**] Blood cx:ng
+   [**8-3**] Ucx: ng
+   [**8-12**] Ucx: GNR KLEBSIELLA PNEUMONIAE >100,000 Pan [**Last Name (un) 203**].
+   [**8-13**] Bl cx:p
+   [**8-15**] pleural fluid x 2: NG
+   [**8-15**] Pelvic Absess: 2+ GNR
+   [**8-15**] Abd abscess: Prevotella. B LACTAMASE POSITIVE.
+   [**8-17**] Bl cx:P
+   [**8-17**] Ucx: P
+   [**8-19**]: 4+ PMNs, 1+ GPC; 1+ GNR
+   [**8-26**]: Tissue enterococcus, 2+ GPC
+   [**8-26**]: BAL 1+ GPC, pairs and clusters
+   Assessment and Plan
+   Assessment and Plan: 66M w/ EUS staged T3N1 distal esophageal adenoca,
+   s/p R portacath, 16Fr open feeding jejunostomy [**4-7**], s/p neoadjuvant
+   chemorads (5FU/cisplatin) s/p 3-hole esophagectomy [**7-22**]
+   POD35 now with ?loculated right apical effusion and pelvic abscesss now
+   PPD 11 s/p IR drainage of collections. PPD4 for pelvic drainage  Pt
+   presents in moderate distress with tachypnea, dyspnea, and hypotension
+   of currently unknown etiology
+   Neurologic: Neuro checks Q: 1 hr, Pain controlled
+   Cardiovascular: Now normotensive off pressors
+   Pulmonary: Cont ETT
+   Gastrointestinal / Abdomen: TF to be restarted, but held based on when
+   patient likely to go back to OR.
+   Nutrition: NPO 12 hours before heading back to OR
+   Renal: Foley
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: continue broad spectrum abx with vanc zosyn
+   Lines / Tubes / Drains: Foley, NGT, ETT, foley, ETT, R portacath, 16Fr
+   open feeding jejunostomy, s/p 3-hole esophagectomy IR drainage of
+   collection
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: NS
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Post-op complication
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**2764-8-28**] 04:32 PM 52 mL/hour
+   Glycemic Control:
+   Lines:
+   Indwelling Port (PortaCath) - [**2764-8-26**] 04:45 AM
+   Arterial Line - [**2764-8-26**] 09:55 AM
+   Multi Lumen - [**2764-8-26**] 10:10 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

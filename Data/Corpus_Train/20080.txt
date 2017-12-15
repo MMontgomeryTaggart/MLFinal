@@ -1,0 +1,140 @@
+Admission Date:  [**2504-11-12**]       Discharge Date:  [**2504-11-20**]
+
+Date of Birth:   [**2434-1-30**]       Sex:  M
+
+Service:  Cardiothoracic Surgery
+
+CHIEF COMPLAINT:  Severe coronary artery disease.
+
+HISTORY OF PRESENT ILLNESS:  This is a 70-year-old man, who
+was transferred from outside hospital.  He has been
+experiencing chest pain at rest with left arm pain while
+eating breakfast.  He has no shortness of breath.  No nausea,
+vomiting, no lightheadedness, no history of coronary artery
+disease, no hypertension, and no shortness of breath, no
+tobacco use.  He is an active person, who participates in
+both golf and tennis.
+
+One day prior to admission, he had an exercise tolerance test
+that was discontinued after three minutes because of EKG
+changes.
+
+PAST MEDICAL HISTORY:
+1. Type 2 diabetes.
+2. Hypercholesterolemia.
+
+PAST SURGICAL HISTORY:
+1. Appendectomy.
+2. Bilateral knee arthroscopies.
+
+ALLERGIES:  He has no known drug allergies.
+
+MEDICATIONS:
+1. Glucophage.
+2. Lipitor.
+3. Viagra.
+
+SOCIAL HISTORY:  He lives in [**Location 1368**] with his wife.  [**Name (NI) **] is
+currently retired and also has a summer house in [**First Name8 (NamePattern2) 18771**]
+[**First Name4 (NamePattern1) 5**] [**Last Name (NamePattern1) **].  He has no tobacco use and he drinks 2-4
+drinks per week.
+
+REVIEW OF SYSTEMS:  He has no history of any sort of strokes.
+
+PHYSICAL EXAMINATION:  He is afebrile.  Vital signs stable.
+He is in general, a well-developed and well-nourished man
+lying in bed in no apparent distress.  Head and neck:  There
+is no JVD, no lymphadenopathy, and no bruits.  His oropharynx
+is clear.  Cardiovascular:  Regular, rate, and rhythm, no
+murmurs.  Lungs are clear to auscultation bilaterally.
+Abdomen is soft, nontender, nondistended.  Extremities:  No
+cyanosis, clubbing, or edema.  Saphenous vein has no
+varicosities.  His pulses are 3+ throughout the spine.
+
+LABORATORY VALUES ON ADMISSION:  Were within normal limits.
+
+EKG:  Was normal sinus rhythm, no ischemic changes.
+
+An echocardiogram showed mild inferior hypokinesis and
+ejection fraction of greater than 55%.
+
+The catheterization performed on the day of admission showed
+a 90% occlusion of the left main coronary artery and a 60%
+occlusion of diagonal #1, 95% occlusion of diagonal #2.  He
+was also shown to be right dominant.
+
+[**Last Name (STitle) 15949**]was admitted to [**Hospital1 58**]
+in preparation for a CABG procedure.  On [**11-13**], patient was
+preoped for this procedure.  An ultrasound of the carotid
+arteries was unremarkable and chest x-ray and EKG were within
+normal limits.  He was consented, and made NPO after
+midnight, and was taken to the operating room on [**2504-11-14**].
+Please refer to the previously dictated operative note by Dr.
+[**Last Name (Prefixes) **] of [**11-14**].
+
+In brief, the left internal mammary artery was anastomosed to
+the left anterior descending artery and two saphenous vein
+grafts were connected to the diagonal and oblique arteries.
+The patient tolerated the procedure well, and transferred
+postoperatively to the Intensive Care Unit.
+
+Over the next day, the patient was weaned off his various
+drips including Neo-Synephrine, propofol, and insulin.  On
+postoperative day two, he was transferred to the floor in
+good condition.  He was tolerating a regular diet, and was
+alert and oriented times three.
+
+On the floor, his major issues were physical therapy, and by
+the day of discharge, he was up walking about the floor and
+ambulating up stairs.  Activity level .............  His
+diet, he is tolerating a full regular diet.  He did have some
+constipation, which resolved with some Colace and at the time
+of discharge, he is having regular bowel movements, and
+finally, there was some tweaking of his cardiac medications
+increasing his Lopressor to maintain a regular heart rate.
+
+Therefore, on [**2504-11-20**], postoperative day six, patient is
+being discharged home in good condition.
+
+DISCHARGE DIAGNOSES:
+1. Hypercholesterolemia.
+2. Diabetes mellitus type 2.
+3. Coronary artery disease.
+4. Unstable angina.
+5. Status post coronary artery bypass graft.
+6. Status post coronary angiography.
+7. Constipation.
+8. Tachycardia.
+
+DISCHARGE MEDICATIONS:
+1. Lasix 20 mg once a day for seven days.
+2. Potassium chloride 20 mg twice a day for seven days.
+3. Aspirin 325 mg once a day.
+4. Percocet 1-2 tablets p.o. q.4h. as needed for pain.
+5. Lipitor 40 mg once a day.
+6. Glucophage 500 mg p.o. twice a day.
+7. Pioglitazone 30 mg p.o. once a day.
+8. Metoprolol 100 mg p.o. twice a day.
+9. Colace 100 mg p.o. twice a day.
+10. Benadryl 25 mg as needed for help with sleep.
+
+FO[**Last Name (STitle) 658**]P INSTRUCTIONS:  He has a follow-up appointment with
+his primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 7191**] in about 10 days, and he
+has a follow-up appointment with Dr. [**Last Name (Prefixes) **] in four
+weeks.
+
+
+
+
+                            FRANK [**Last Name (Prefixes) **], M.D.
+
+Dictated By:[**Last Name (NamePattern1) 4646**]
+MEDQUIST36
+
+D:  [**2504-11-19**]  22:27
+T:  [**2504-11-20**]  06:07
+JOB#:  [**Job Number 31990**]
+
+
+
+DOC CLASS

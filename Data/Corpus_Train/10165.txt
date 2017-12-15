@@ -1,0 +1,470 @@
+Admission Date:  [**2587-2-11**]              Discharge Date:   [**2587-2-14**]
+
+Date of Birth:  [**2517-10-8**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril
+
+Attending:[**First Name3 (LF) 630**]
+Chief Complaint:
+Confusion, Poor PO intake, [**Last Name (un) **], Hyperkalemia, UTI
+
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr. [**Name13 (STitle) 4549**] is a 69-year-old gentleman with a pmhx. significant
+for IDDM, bladder cancer s/p cystectomy with ileal conduit
+creation in [**10-16**], COPD, HTN, and hyperlipidemia who presents to
+the ED after his daughter found him confused and hallucinating
+at home.
+.
+According to patient, he has felt "not-himself" for the past 3
+weeks.  During this time, he complains of erratic blood sugars,
+increased pain in his back, and worsening infection of his feet.
+ He has also started falling during this time: the most recent
+episode was the day before admission while he was taking
+communion.  Patient states that when he falls, he doesn't feel
+lightheaded or dizzy, but his legs just "give out."  He denies
+any head trauma with these episodes.  According to the patient's
+daughter, she is worried that Mr. [**Name13 (STitle) 4549**] isn't taking care of
+himself anymore at home.  Daughter found patient at home acting
+strangely, and called [**Company **] to complain of erratic behavior;
+daughter was told to bring patient into the ED.  Of note,
+patient has had multiple admissions for hypoglycemia.  However,
+his sugars have been running high over the past few days (in the
+400s), and he was told by his PCP to increase insulin dosage
+from 12 to 15 units/day.  He uses a pre-filled pen for
+injections.
+.
+In the ED, initial VS were:  97.4 104 115/53 20 96%. UA was
+positive and he was given Cipro 400mg IV x1. Vanc also given for
+? cellulitis in lower extremity. His blood sugar was 511 with
+anion gap 14, so DKA diagnosed and insulin gtt started. His K+
+was 6.6, with peaked T waves on EKG; he was given calcium
+gluconate and kayexalate in addition to the insulin gtt. He was
+also given 1 liter of normal saline.  Upon admission to the
+MICU, vitals were: afebrile, BP: 140/74, HR: 69, SP02 100% on
+RA.  C-collar was removed as no evidence of fracture on CT.
+Insulin drip was continued and labs were rechecked.
+
+
+Past Medical History:
+DM - A1c 7% [**2586-12-18**]
+Asthma, COPD, smoker - PNA in [**4-15**]
+CKD - Cr 1.4
+CAD s/p CABG [**2577**], multiple stents to LAD, cath [**2581**], subclavian
+
+bare metal [**Last Name (LF) 3924**], [**First Name3 (LF) **] 56% by MIBI
+Hyperlipid
+HTN
+H/o small stroke 1y ago: right parietal lobe w/ left arm
+affected
+Obesity
+GERD
+Anxiety
+Chronic back pain
+Partial blindness
+Invasive bladder Cancer
+
+Social History:
+Lives alone. Has 4 children. Works as a cab driver and school
+bus driver. Quit smoking >7 years ago after 2ppd x 50 years.
+Used to drink alcohol heavily but now sober.  Denies illicit
+drug use.
+
+
+Family History:
+Mom with heart attack @ 86, Dad HTN and heart attack at 36.
+
+
+Physical Exam:
+Admission exam
+Vitals: T: 97 BP: 138/45 P: 69  R: 16 SPO2: 100% on RA
+GENERAL: Alert , oriented, no acute distress (but thought that
+this [**First Name3 (LF) 1817**] was New Year's Day)
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs:  Wheezes on exhale, no dullness or consolidation
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+ileal conduit in place, ?puss in bag
+GU: no foley
+EXT:  Erythema bilaterally, no ulcerations
+
+Discharge exam
+
+
+Pertinent Results:
+Admission labs
+[**2587-2-11**] 01:40PM BLOOD WBC-9.1 RBC-3.92* Hgb-10.9* Hct-33.8*
+MCV-86 MCH-27.7 MCHC-32.1 RDW-16.3* Plt Ct-384
+[**2587-2-11**] 01:40PM BLOOD Neuts-86.1* Lymphs-7.7* Monos-5.0 Eos-1.0
+Baso-0.3
+[**2587-2-11**] 01:40PM BLOOD PT-10.7 PTT-24.9* INR(PT)-1.0
+[**2587-2-11**] 01:40PM BLOOD Glucose-511* UreaN-89* Creat-2.5* Na-125*
+K-6.6* Cl-98 HCO3-13* AnGap-21*
+[**2587-2-11**] 01:40PM BLOOD ALT-14 AST-9 LD(LDH)-147 AlkPhos-157*
+TotBili-0.2
+[**2587-2-11**] 06:00PM BLOOD CK-MB-3 cTropnT-0.02*
+[**2587-2-11**] 01:40PM BLOOD Albumin-3.6 Calcium-9.4 Phos-3.7 Mg-1.8
+[**2587-2-11**] 06:00PM BLOOD VitB12-385 Folate-10.9
+[**2587-2-11**] 06:00PM BLOOD TSH-0.92
+[**2587-2-11**] 01:40PM BLOOD ASA-NEG Acetmnp-NEG
+[**2587-2-11**] 02:01PM BLOOD Glucose-494* Lactate-2.2* Na-127* K-6.0*
+Cl-101 calHCO3-16*
+.
+Discharge labs
+[**2587-2-13**] 06:20AM BLOOD WBC-6.2 RBC-3.57* Hgb-10.0* Hct-30.4*
+MCV-85 MCH-28.0 MCHC-32.8 RDW-16.7* Plt Ct-316
+[**2587-2-14**] 06:20AM BLOOD Glucose-128* UreaN-42* Creat-1.6* Na-133
+K-5.0 Cl-105 HCO3-18* AnGap-15
+[**2587-2-14**] 06:20AM BLOOD Calcium-9.2 Phos-2.8 Mg-1.8
+.
+URINE STUDIES
+[**2587-2-11**] 03:00PM URINE Color-Straw Appear-Hazy Sp [**Last Name (un) **]-1.011
+[**2587-2-11**] 03:00PM URINE Blood-MOD Nitrite-NEG Protein-30
+Glucose-300 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+[**2587-2-11**] 03:00PM URINE RBC-11* WBC-127* Bacteri-FEW Yeast-FEW
+Epi-<1
+[**2587-2-11**] 03:49PM URINE Hours-RANDOM UreaN-459 Creat-82 Na-34
+K-29 Cl-10
+[**2587-2-11**] 03:49PM URINE Osmolal-356
+.
+MICROBIOLOGY
+[**2587-2-11**] Blood cultures pending x 2- No growth to date
+.
+URINE CULTURE (Final [**2587-2-12**]):
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+WITH FECAL
+      CONTAMINATION.
+.
+EKG
+The underlying rhythm is likely sinus with intra-atrial
+conduction abnormality. Low QRS voltage in the limb leads.
+Compared to the previous tracing of [**2587-2-11**] R wave progression
+has improved in the precordial leads and the rate is faster
+.
+HEAD CT WITHOUT INTRAVENOUS CONTRAST: No intra- or extra-axial
+hemorrhage, mass effect, or shift of midline structures is
+demonstrated. Confluent  periventricular and subcortical white
+matter hypodensities are again demonstrated in the cerebral
+hemispheres bilaterally most likely compatible with chronic
+microvascular infarction. Punctate hypodensities within the
+basal ganglia bilaterally likely reflect chronic lacunar
+infarcts as well as within the right caudate head. Widening of
+the ventricles and sulci bilaterally is compatible with
+age-appropriate involutional change. Opacification of the right
+mastoid air cells suggests an ongoing inflammatory process.
+Minimal opacification of an inferior mastoid air cell on the
+left is also noted. The paranasal sinuses are clear. Surrounding
+osseous and soft tissue structures are otherwise unremarkable.
+
+IMPRESSION: No acute intracranial hemorrhage or mass effect.
+.
+CT OF THE CERVICAL SPINE WITHOUT INTRAVENOUS CONTRAST: No
+fracture, change in alignment, or prevertebral soft tissue
+swelling is demonstrated. There are multilevel degenerative
+changes identified, worst at C6/7 where posterior osteophyte
+results in moderate canal narrowing. There is bilateral moderate
+to severe neural foraminal narrowing present at this level as
+well. Mild grade 1 retrolisthesis of C5 on C6 is unchanged.
+Ossification of the nuchal ligament is noted posterior to C6.
+Carotid vascular calcifications are most pronounced at the
+bifurcations bilaterally. Surrounding soft tissue structures
+otherwise are unremarkable. A vascular [**Date Range 3924**] is noted within the
+proximal right subclavian artery, and is partially imaged.
+Severe emphysematous changes are noted within the lung apices.
+Ossification of the right mastoid air cell suggests ongoing
+inflammation.
+.
+IMPRESSION: No acute fracture or subluxation. Moderate cervical
+spondylosis, worst at C6/7 with moderate central canal narrowing
+and moderate to severe bilateral neural foraminal narrowing.
+Emphysema within the lung apices.
+.
+PA AND LATERAL VIEWS OF THE CHEST: Patient is status post median
+sternotomy and CABG. Vascular [**Date Range 3924**] is noted within the right
+subclavian artery. Heart size is normal. Coronary arterial
+vascular [**Date Range 3924**] is also demonstrated. The mediastinal and hilar
+contours are unchanged. The pulmonary vascularity is normal.
+There is hyperinflation of the lungs with attenuation of the
+pulmonary vascular markings towards the apices, compatible with
+emphysema. Minimal interstitial opacities are seen predominantly
+within the lung bases, likely reflecting chronic changes. No
+focal consolidation, pleural effusion or pneumothorax is
+present. There are mild degenerative changes of the thoracic
+spine. Degenerative spurring is also noted within the right
+acromioclavicular joint.
+
+IMPRESSION: Emphysema with chronic interstitial changes, but no
+evidence for pneumonia or congestive heart failure.
+
+Brief Hospital Course:
+Mr [**Known patient lastname 4546**] is a 69-year-old gentleman with a past medical history
+of of IDDM, CAD s/p CABG, CVA, HTN, HL, invasive bladder CA s/p
+cystectomy, and CKD, who presents with anion gap, falls,
+confusion, poor PO intake, [**Last Name (un) **], Hyperkalemia, and UTI.
+.
+# ANION GAP: Patient with anion gap of 15 in the setting of
+elevated blood sugar and lactate of 2.2.  No ketones in urine to
+suggest overt DKA.  Likely combination of dehydration and renal
+failure. He has had substantial N/V for abotu 1 week. He was
+briefly in the MICU after admission. Gap closed quickly with
+fluid and insulin (only 2units/hour on drip). Lactate trended
+down to normal quickly with IVF. He was called out to the floor
+where he continued to do well and was ultimately discharged to a
+[**First Name4 (NamePattern1) 4558**] [**Last Name (NamePattern1) **] on [**2587-2-14**].
+.
+# HYPERGLYCEMIA:  Potentially HONK, with precipitant being
+possible infection (cellulitis), dehydration and renal failure
+(patient unable to excrete glucose).  Patient is an elderly type
+II diabetic, presenting with dehydration and change in mental
+status. He improved with minimal insulin (per above), and mostly
+with IVF. He was initially restarted on his home dose of
+insulin. [**Last Name (un) 124**] was consulted and recommended decreasing lantus
+to 8 units at night and intiating a humalog sliding scale with
+meals and at bed time. Blood glucose control improved and FSG
+were in the 100-200s at the time of discharge. The patient will
+follow-up with [**Last Name (un) 124**] Diabetes Center as an outpatient.
+Underlying infection was treated per below.
+.
+# CONFUSION:  Likely a combination of infection, dehydration,
+and hyperglycemia superimposed on ?more chronic memory decline.
+Head CT unrevealing, but only prelim report. Underlying issues
+were treated per respective paragraphs. TSH, B12, and folate
+were checked and were normal. Mental status improved with
+correction of acidosis and hydration.  The patient may benefit
+from neurocognitive testing as an outpatient to evaluate for
+underlying dementia.
+.
+# HYPERKALEMIA: Likely secondary to [**Last Name (un) **] and acidosis.  EKG with
+peaked T's on admission, given calcium gluconate, kayexalate,
+and insulin drip. K+ lowered to 5.0 in MICU. Losartan was held.
+On the floor potassium remained stable at around 5.0. Losartan
+was restarted at the time of discharge.
+.
+# UTI:  On admission, urine with blood, leuks, and WBC clumps.
+Evidence of pus in urine bag.  Last urine culture with
+klebsiella sensitive to ciprofloxacin. It was unclear if this
+was represntative of a true UTI as the patient has an iliostomy
+especially as urine culture showed mixed bacterial flora. He was
+started bactrim 7 day course as below.
+.
+# CELLULITIS:  Patient with bilateral erythema of his feet.  No
+evidence of blisters or pustules that would suggest a MRSA
+infection.  Patient was given a dose of vancomycin in the ED. He
+was initally strated on bactrim/keflex and then narrowed to
+bactrim alone for a planned 7 day course (3 more days). Erythema
+and pain were noted to improve. The patient was afebrile with a
+noraml white blood cell count throughout this admission.
+.
+# ACUTE ON CHRONIC RENAL FAILURE:  Likely pre-renal in setting
+of severe volume depletion secondary to DKA.  Urine lytes show
+FeNA of 0.8%. He was given IVF and with improvement in his
+creatinine
+.
+# FREQUENT FALLS:  Likely reflective of mechanical instability
+exacerbated in the setting of dehydration.  History was not
+consistent with a syncopal event, there was no nausea,
+lightheadedness to suggest vaso-vagal episode. Troponin were
+negative. There were no signs of arrythmia on tele. The
+development of falls coincides with patient's overall decline
+since [**Month (only) **]. The patient was evaluated by PT who recommended
+acute rehab as above.
+.
+# Non gap acidosis:  Patient contined to have persistently low
+bicarb despite correction of hyperglycemia and gap acidosis.
+This was felt to be possibly resultant from iliostomy, although
+worsening of renal function may also be contributing.
+Bicarbonate was noted to increase over the course of the
+admission
+.
+# HTN: The patients home losartan was held in setting of
+hyperkalemia. He was continued on his home metoprolol succinate
+50mg daily at home.
+.
+# COPD/ASTHMA:  Continued home Advair, albuterol, ipratropium
+.
+# CAD:  Continued home ASA, plavix, simvastatin.
+.
+# DEPRESSION:  Continued home citalopram.
+.
+# GERD:  Continued ranitadine, renally dosed.
+.
+# BACK PAIN:  Continued tylenol, oxycodone
+===============================
+Transitional issues
+- Blood culures were pending at the time of discharge
+- Patient was full code throughout this admission
+- Patient will follow-up with [**Last Name (un) 124**] regarding management of his
+insulin regimen
+
+Medications on Admission:
+ALBUTEROL SULFATE [PROAIR HFA] - 90 mcg HFA Aerosol Inhaler - 2
+(Two) puffs(s) inhaled every four (4) hours
+CITALOPRAM - 20 mg Tablet - 1 Tablet(s) by mouth once a day for
+depressed
+CLOPIDOGREL [PLAVIX] -  (Prescribed by Other Provider: [**Last Name (NamePattern4) **].
+[**First Name (STitle) **] - 75 mg Tablet - 1 Tablet(s) by mouth once a day
+currently not taking -- last dose of plavix [**2586-6-5**].
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - 500 mcg-50 mcg/Dose
+Disk
+with Device - 1 (One) puff inhaled twice a day
+FUROSEMIDE - 20 mg Tablet - 1 Tablet(s) by mouth qam as needed
+for for edema
+INSULIN GLARGINE [LANTUS SOLOSTAR] - 100 unit/mL (3 mL) Insulin
+Pen - 12 units once a day
+IPRATROPIUM-ALBUTEROL - 0.5 mg-2.5 mg/3 mL Solution for
+Nebulization - 3 cc q4 as needed for shortness of breatth use
+with nebulizer
+LACTULOSE [CONSTULOSE] - 10 gram/15 mL Solution - 15 ml by mouth
+once a day as needed for for constipation
+LOSARTAN - 50 mg Tablet - 1 Tablet(s) by mouth once a day
+METOPROLOL SUCCINATE - 50 mg Tablet Extended Release 24 hr - 1
+(One) Tablet(s) by mouth once a day
+NITROGLYCERIN - 0.4 mg Tablet, Sublingual - 1 sublingually as
+needed for chest pain
+OXAZEPAM - 10 mg Capsule - 1 Capsule(s) by mouth once a day as
+needed for anxiety
+OXYCODONE-ACETAMINOPHEN - 5 mg-325 mg Tablet - 1 or 2 Tablet(s)
+by mouth q4 as needed for back pain do not exceed 8 tablets in
+one day
+RANITIDINE HCL - 150 mg Capsule - 1 (One) Capsule(s) by mouth
+twice a day
+SIMVASTATIN - 40 mg Tablet - 1 Tablet(s) by mouth once a day
+TAMSULOSIN - 0.4 mg Capsule, Ext Release 24 hr - 1 Capsule(s) by
+mouth Daily
+UREA - 40 % Cream - apply twice a day
+Medications - OTC
+ASPIRIN -  (OTC; Dose adjustment - no new Rx) - 81 mg Tablet,
+Delayed Release (E.C.) - 1 Tablet(s) by mouth once a day
+BLOOD SUGAR DIAGNOSTIC [FREESTYLE LITE STRIPS] -   Strip - use
+as
+directed to test blood sugar
+BLOOD-GLUCOSE METER [FREESTYLE LITE METER] -   Kit - use as
+directed to check blood sugar up to three times a day.
+FERROUS SULFATE - 325 mg (65 mg iron) Tablet - 1 Tablet(s) by
+mouth once a day
+INSULIN NEEDLES (DISPOSABLE) [PEN NEEDLE] - 29 gauge X [**2-5**]"
+Needle - use as directed qd
+LANCETS [LANCETS,THIN] -   Misc - use as directed three times a
+day
+
+
+Discharge Medications:
+1. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+4. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig:
+One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+5. fluticasone-salmeterol 500-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+6. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1)
+Tablet PO once a day.
+9. urea 40 % Cream Sig: One (1) application Topical twice a day.
+
+10. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1)
+Tablet PO BID (2 times a day) for 3 days.
+12. ipratropium-albuterol 0.5 mg-3 mg(2.5 mg base)/3 mL Solution
+for Nebulization Sig: One (1) nebulizer Inhalation every six (6)
+hours as needed for shortness of breath or wheezing.
+13. lactulose 10 gram/15 mL (15 mL) Solution Sig: Fifteen (15)
+mL PO once a day as needed for constipation.
+14. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+15. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for Constipation.
+16. insulin glargine 100 unit/mL Solution Sig: Eight (8) units
+Subcutaneous at bedtime.
+17. Humalog 100 unit/mL Solution Sig: see below  Subcutaneous
+four times a day: see sliding scale .
+18. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every four (4) hours as needed for back pain: hold for RR < 12.
+
+19. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) puffs Inhalation every four (4) hours as needed for
+shortness of breath or wheezing.
+20. oxazepam 10 mg Capsule Sig: One (1) Capsule PO once a day as
+needed for anxiety.
+21. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tab
+Sublingual As Needed as needed for chest pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 4558**] [**Last Name (NamePattern1) **] at [**Location (un) 4559**] for Nursing and Rehab
+
+Discharge Diagnosis:
+Primary Diagnosis
+Hyperglycemia
+Dehydration
+Cellulitis
+Diabetes
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+
+It was a pleasure participating in your care while you were
+admitted to [**Hospital1 58**].  As you know
+you were admitted due to confusion.  This was most likely caused
+by several factors including high blood sugar, dehydration, and
+pain medications.  You were given fluids and insulin and your
+mental status improved. The diabetes doctors started [**Name5 (PTitle) **] on
+insulin with your meals which you will need to continue. You
+will need to follow up at [**Last Name (un) 124**] Diabetes Center. You were seen
+by our physical therapist who felt you would benefit from
+inpatient rehab.  You were therefore discharged to a rehab
+facility
+
+We made the following changes to your medications
+1. START humalog insulin according to sliding scale
+2. DECREASE lantus to 8 units at night
+3. HOLD losartan until instructed to restart this medication by
+Dr. [**First Name (STitle) **]
+4. START Bactrim for 3 more days
+
+You should continue to take all other mediations as instructed.
+Please feel
+
+Followup Instructions:
+[**Last Name (un) 124**] Diabetes Center and [**Hospital 124**] Clinic
+One [**Last Name (un) 124**] Place
+[**Location (un) 211**], [**Numeric Identifier 1230**]
+([**Telephone/Fax (1) 4560**]
+[**3-12**] at 2pm with Dr. [**Last Name (STitle) 4561**]
+
+Please call [**Company **] at [**Telephone/Fax (1) 494**] to make an appointment to see
+Dr. [**First Name (STitle) **] with 1-2 weeks of discharge from rehab
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 640**] MD, [**MD Number(3) 641**]
+
+
+ 
+ 
+DOC CLASS

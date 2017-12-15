@@ -1,0 +1,277 @@
+Admission Date:  [**3196-7-27**]              Discharge Date:   [**3196-7-28**]
+
+Date of Birth:  [**3123-2-1**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5837**]
+Chief Complaint:
+Upper GI Bleed
+
+Major Surgical or Invasive Procedure:
+Placement of Right Femoral Cordis
+
+History of Present Illness:
+The patient is a 73 y.o. female with h/o duodenal adenocarcinoma
+(dx in [**1-6**] @[**Hospital1 577**]) h/o epidoses of hematemesis, h/o CAD s/p
+stent placement, ?h/o esophageal cancer? per nursing home
+records but not found in records from [**Hospital6 **], who
+presents from a nursing home after an episode of hematemesis.
+In the ED she was found to be hypotensive to 74/42, tachy to
+120s and HCT = 23. She was given protonix 40 mg IV x T, IVF, R
+fem cordis placed, transfused 1 unit then transferred to the
+MICU. Of note her ECG in the ED demonstrated ST depressions in
+leads V2 and V3. Upon transfer to the MICU the patient was
+tachycardic to 110s, SBPs = 90-120. An NGT was placed and NG
+lavage produced blood which did not clear even after lavaging
+with 1L.
+
+Past Medical History:
+PMH:
+1. h/o duodenal dysplasia then found to have duodenal adenoCA
+diagnosed at [**Hospital1 577**] in [**1-6**]. Not a surgical candidate
+2. NSTEMI in [**6-2**] with EF = 60% on echo in [**3194**] with RVH and
+depressed RVEF
+3. Diabetes.
+4. Chronic atrial flutter (times 10 years).
+5. Status post cerebrovascular accident in [**3180**] with
+residual facial droop.
+6. Hypertension.
+7. Status post herniorrhaphy.
+8. Status post bladder surgery.
+
+
+Social History:
+Shx:
+Patient currently lives at [**Location 1706**] house where she was
+transferred to a hospice program but remains full code. She used
+to live with her daughter, grandaughter, [**Name2 (NI) 693**] who is pregnant
+[**Last Name (NamePattern1) 29490**] Project in a 2 bedroom appt.  The appartment is
+in her grandmother's name and no one else is on the lease.  On a
+more emotional level her daughter (HCP) would like her mother to
+meet her unborn baby.  Apparently when she was well, her mother
+stated that she wants to live at all cost and her daughter
+believes that she is not in her right mind because she is so
+tired because of her illness.
+
+
+Family History:
+Brother with heart disease.
+
+
+Physical Exam:
+Vitals: Tm = 99.2, HR = 90s-112, currently 102, BP =
+90-120/60-80,
+Gen: Thin elderly female, NAD, A&O 3. Can state name of of
+president.
+CV: tachy, nml S1, S2, no m/r/g
+Lungs: CTAB
+Abd: soft, nt, guaiac negative brown stool.
+Extremities: R femoral cordis in place. No other access besides
+cordis.
+
+
+Pertinent Results:
+Admission CXRay:
+IMPRESSION:
+1. Findings consistent with congestive heart failure.
+2. Interval opacity in left lower lung zone; underlying effusion
+or consolidation cannot be ruled out. Ideally, a PA and lateral
+chest radiograph should be obtained for complete evaluation.
+*
+CT ABDOMEN W/CONTRAST  [**3196-7-27**] 8:57 AM
+
+CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST
+
+Reason: HEMATEMESIS, ESOPHAGEAL CA, HYPOTENSION, ? BLEED, ? MASS
+Field of view: 32 Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+73 year old woman with hx of esophageal CA p/w hematemesis,
+hypotension.
+REASON FOR THIS EXAMINATION:
+IV contrast eval for bleed.
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Esophageal cancer and hematemesis. Evaluate for
+hemorrhage and metastatic disease.
+
+COMPARISON: CTA of the chest dated [**3195-7-24**].
+
+TECHNIQUE: Contiguous axial images through the chest, abdomen,
+and pelvis were obtained following the administration of 150 cc
+of Optiray contrast. As the patient was actively bleeding from
+the upper GI tract, the referring service requested no oral
+contrast.
+
+CT OF THE CHEST WITH IV CONTRAST: There are no pathologically
+enlarged axillary, mediastinal or hilar lymph nodes that are
+definitely identified. There is some soft tissue density in the
+subcarinal region, but a discrete lymph node is not definitely
+identified. There are small bilateral pleural effusions, and the
+left pleural effusion tracks medially with a small amount of
+low-attenuating fluid surrounding the descending thoracic aorta.
+Within the left lung apex, there is a 4 mm nodule which is new
+compared to the prior study of [**3195-7-2**]. No additional lung
+nodules are identified. There are no consolidations. There is
+bilateral minimal dependent atelectasis associated with the
+small pleural effusions. There is no pericardial effusion. The
+central airways are patent. A small lymph node is noted at the
+gastroesophageal junction, measuring 7 mm in short axis
+dimension.
+
+CT OF THE ABDOMEN WITH IV CONTRAST: The liver, pancreas and
+adrenal glands are normal. The gallbladder is somewhat
+distended. There is relative low attenuation that is ill defined
+in the inferior aspect of the spleen, which is nonspecific. The
+kidneys enhance symmetrically and excrete normally. There is a
+rounded hypoattenuating lesion on the lower pole of the right
+kidney measuring 2.8 x 3.1 cm. It likely represents a cyst, as
+it measures 8.7 Hounsfield units. The stomach contains a fair
+amount of mixed attenuation material with air. The small bowel
+is not dilated. The colon is unremarkable. The aorta is of
+normal caliber, and the celiac, SMA, renal arteries and proximal
+[**Female First Name (un) 220**] are patent. There is atherosclerosis of the abdominal aorta.
+Small retrocrural lymph nodes are noted, which do not meet CT
+criteria for pathologic enlargement. They measure approximately
+6-7 mm in short axis dimension. Small mesenteric lymph nodes are
+noted that do not meet CT criteria for pathological enlargement
+as well.
+
+CT OF THE PELVIS WITH IV CONTRAST: The rectum, sigmoid, and
+uterus are normal. There is a Foley catheter within the bladder,
+with associated air. No pathologically enlarged pelvic or
+inguinal lymph nodes.
+
+BONE WINDOWS: There is a small amount of cystic change with
+associated sclerosis of the right ilial portion of the superior
+sacroiliac joint, likely degenerative. No other osseous lesions
+are noted.
+
+IMPRESSION:
+1. No areas of active extravasation. There is a fair amount of
+mixed attenuation material within the stomach.
+2. A 7-mm lymph node at the gastroesophageal junction and small
+retrocrural lymph nodes. While these small lymph nodes do not
+meet CT criteria for pathologic enlargement, attention on
+follow-up studies is recommended to evaluate for interval growth
+and evaluation of possible metastases.
+3. New 4 mm nodule within the left lung apex.
+4. Small bilateral pleural effusions.
+5. Coronary artery calcifications and calcification of the
+abdominal aorta.
+*
+Admission ECG:
+
+
+Brief Hospital Course:
+A/P 73 y. o. female with h/o CAD, s/p stent, h/o duodenal
+cancer, h/o admissions with UGI bleed p/w UGI bleed.
+UGI bleed:
+We thought that her hematemesis was most likely secondary to her
+duodenal cancer. We obtained records from [**Hospital1 **] which clearly
+demonstrated that she had not been considered to be a candidate
+for surgery and she had refused chemotherapy.  She is s/p
+radiation therapy which she completed in 04/[**3195**]. A CT scan was
+obtained which did not demonstrate an acute GI process. She was
+then aggressively transfused and her HCT remained stable. The
+case was discussed with GI who thought that an EGD would offer
+little therapeutic benefit and in light of the risks associated
+with the procedure an EGD was not performed. Her HCT remained
+stable and thus her diet was advanced to CLD.  She was continued
+on a proton pump inhibitor [**Hospital1 12**].
+*
+ECG changes:
+The patient remained chest pain free and cardiac ischemia was
+ruled out by serial flat cardiac enzymes. She was not given an
+aspirin in light of her risk of bleeding and she continued on a
+statin.
+*
+FEN:
+She was initially NPO and then her diet was slowly advanced to
+clear liquids.  Her potassium and magnesium were repleted. Her
+sodium was elevated on the day of discharge and she was
+encouraged to drink fluids to correct her sodium. Her free water
+deficit was calculated to be 1L.
+*
+Prophylaxis:
+She was continued on a proton pump inhibitor [**Hospital1 12**], compression
+boots, subpx: PPI IV bid, SCDs. SQ heparin was held secondary to
+bleeding.
+*
+Disposition: To return to [**First Name4 (NamePattern1) 1706**] [**Last Name (NamePattern1) **] today for hospice care.
+*
+Code Status:
+Upon admission she was felt to be CPR not indicated although her
+code status was a full code.  Upon discussion with the patient
+she clearly expressed her desire to be comfortable and she also
+longed to spend just a few hours at home before she dies.  She
+understands that her family is not able to care for her at home
+and thus she is willing to return to [**First Name4 (NamePattern1) 1706**] [**Last Name (NamePattern1) **].  After
+intense discussions the family accepted her wish to be DNR/DNI
+and Do Not Hospitalize.
+*
+
+Medications on Admission:
+Meds in NH:
+Tylenol
+Lorazepam
+Bisacodyl 10 mg supp
+Ritalin 5 mg
+Morphine 15mg SR [**Hospital1 12**]
+Mirtazapine 7.5 qhs
+Prochlorperazine 10 mg q 8 prn
+Prochlorperazine 25 mg supp q 8 prn nausea
+Hyoscyamine 0.125 Sl PRN increased secretions
+Morphine 20 mg /ml give 0.5ML q 1-2 hrs prn pain
+Morphine .75 ML - 15 mg LS prn pain
+
+
+Discharge Medications:
+1. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+2. Morphine 10 mg/5 mL Solution Sig: [**12-3**]  PO Q3H (every 3 hours)
+as needed.
+3. Pantoprazole Sodium 40 mg Recon Soln Sig: One (1) Recon Soln
+Intravenous  Q12H (every 12 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 4636**] - [**Location (un) 13**]
+
+Discharge Diagnosis:
+Primary:
+Duodenal Cancer with upper GI bleed
+Secondary:
+1. CHF with EF = 60%
+2. Diabetes.
+3. Chronic atrial flutter (times 10 years).
+4. Status post cerebrovascular accident in [**3180**] with
+residual facial droop.
+5. Hypertension.
+6. Status post herniorrhaphy.
+7. Status post bladder surgery.
+
+
+Discharge Condition:
+Fair, back to baseline.
+
+
+Discharge Instructions:
+DNR/DNI transitioning to hospice.
+
+Followup Instructions:
+Please follow up with your doctor [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1706**] [**Last Name (NamePattern1) **].
+
+
+
+
+
+
+DOC CLASS

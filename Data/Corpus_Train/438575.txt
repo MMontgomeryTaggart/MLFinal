@@ -1,0 +1,190 @@
+Chief Complaint: PNA, arrythmias
+   HPI:
+   24 Hour Events:
+   -- metoprolol increased for Rate control
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2598-9-28**] 09:14 AM
+   Ceftriaxone - [**2598-9-28**] 12:47 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2598-9-28**] 07:19 PM
+   Pantoprazole (Protonix) - [**2598-9-29**] 12:20 AM
+   Other medications:
+   Vancomycin, Ceftriaxone, [**Last Name (LF) 3893**], [**First Name3 (LF) 114**], Plavix, Synthroid, Atrovent,
+   metoprolol, captopril
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2598-9-29**] 07:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.8
+   HR: 77 (64 - 92) bpm
+   BP: 148/62(73) {111/44(62) - 148/69(81)} mmHg
+   RR: 26 (15 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 69.4 kg (admission): 70.5 kg
+   Height: 62 Inch
+             Total In:
+                                                                  1,226 mL
+                                                                     10 mL
+   PO:
+                                                                    855 mL
+             TF:
+   IVF:
+                                                                    371 mL
+                                                                     10 mL
+   Blood products:
+   Total out:
+                                                                  1,055 mL
+                                                                    280 mL
+   Urine:
+                                                                  1,055 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    171 mL
+                                                                   -270 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress, sitting in a chair
+   Eyes / Conjunctiva: PERRL, EOMI
+   Head, Ears, Nose, Throat: Normocephalic, MMM
+   Cardiovascular: (S1: Normal), (S2: Normal), irregularly irregular
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: decreased
+   at bases, soft crackles at B bases : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, non-distended
+   Skin:  Not assessed
+   Neurologic: A&Ox3, moves all extremities
+   Labs / Radiology
+   9.6 g/dL
+   144 K/uL
+   123 mg/dL
+   1.1 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   27 mg/dL
+   106 mEq/L
+   140 mEq/L
+   27.9 %
+   14.6 K/uL
+        [image002.jpg]
+                            [**2598-9-25**]  11:23 PM
+                            [**2598-9-26**]  04:07 AM
+                            [**2598-9-26**]  12:20 PM
+                            [**2598-9-26**]  01:05 PM
+                            [**2598-9-26**]  03:58 PM
+                            [**2598-9-26**]  07:50 PM
+                            [**2598-9-27**]  03:42 AM
+                            [**2598-9-27**]  04:54 PM
+                            [**2598-9-28**]  03:20 AM
+                            [**2598-9-29**]  04:49 AM
+   WBC
+   14.8
+   15.0
+   11.8
+   14.6
+   Hct
+   25.0
+   24.5
+   29.3
+   29.5
+   27.0
+   24.7
+   30.4
+   27.8
+   27.9
+   Plt
+   176
+   180
+   143
+   144
+   Cr
+   1.9
+   1.4
+   1.2
+   1.2
+   1.1
+   TropT
+   2.85
+   Glucose
+   143
+   108
+   123
+   118
+   123
+   Other labs: PT / PTT / INR:12.9/71.6/1.1, CK / CKMB /
+   Troponin-T:150/6/2.85, ALT / AST:36/119, Alk Phos / T Bili:77/0.3,
+   Differential-Neuts:94.5 %, Lymph:2.9 %, Mono:2.4 %, Eos:0.1 %, Lactic
+   Acid:1.1 mmol/L, LDH:517 IU/L, Ca++:7.7 mg/dL, Mg++:2.3 mg/dL, PO4:2.6
+   mg/dL
+   Lyme negative
+   Assessment and Plan
+   76F with h/o asthma with prior intubation and CAD s/p CABG p/w
+   respiratory failure requiring intubation (now extubated), intermittent
+   heart block (including CHB) requiring pacing wire, intermittent Afib
+   RVR, elevated cardiac biomarkers, reduced EF of unknown chronicity,
+   possible asthma exacerbation and RLL PNA.
+   # Leukocytosis: Unclear etiology, peak WBC 20, now [**10-29**].  Abx as
+   below.
+   - Repeat UA/Ucx, CXR, sputum
+   - D/c foley
+   #Arrhythmias: Intermittent CHB with temp wire, intermittently paced,
+   intermittent Afib.
+   - Continue with temp pacer at 40 likely needs permanent pacemaker, but
+   EP is deferring until WBC count nl
+   - Continue lopressor for a fib, goal HR is ~60, although cards would
+   prefer to minimize pacing in case temp wire needs to be d/c
+   - Discuss transfer to CCU as only ICU indication is pacing wire.
+   # Respiratory failure: Likely a combination of RLL PNA, asthma
+   exacerbation and cardiogenic pulmonary edema. Possible mild upper
+   airway obstruction.   Now extubated and improving.
+   - Continue Vanc/CTX x 8 days ([**9-30**] last day)
+   - Wean O2
+   - Atrovent for asthma. Holding albuterol given RVR
+   # ARF: Likely prerenal from diuresis and loss of atrial kick.  Now
+   improving.
+   - Follow creatinine
+   - Mucomyst prior to cath
+   #NSTEMI: elevated cardiac biomarkers to TnI 7.21, now trending down.
+   Could be demand ischemia or ACS.
+   - Cont [**Month/Year (2) 114**], statin, plavix, BB, ACEi
+   - Titrate BB to HR ~60, captopril to goal SBP ~110
+   - Cath deferred given ARF and ongoing medical issues, now may get cath
+   tomorrow
+   # CHF: mild volume overloaded with cardiogenic pulmonary edema
+   - Start ACE-I now that ARF improving (wean off CCB), continue BB
+   - Resume IV diuretics, goal ~1L negative/24hrs
+   ICU Care
+   Nutrition: PO cardiac diet
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**2598-9-22**] 09:44 PM
+   20 Gauge - [**2598-9-26**] 07:48 PM
+   Prophylaxis:
+   DVT: Hep sq
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : ICU
+   Total time spent: 30min
+
+
+
+DOC CLASS

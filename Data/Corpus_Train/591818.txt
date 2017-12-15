@@ -1,0 +1,184 @@
+Chief Complaint: Acute on chronic diastolic CHF, pulm HTN
+   24 Hour Events:
+   Rec
+d 20 mg lasix x 3 with 2800 cc UOP (-800 @ MN)
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown; Hives;
+   Cardizem (Oral) (Diltiazem Hcl)
+   Unknown; Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3221-6-8**] 08:50 PM
+   Other medications:
+   Changes to medical and family history: N/A
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3221-6-9**] 07:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 73 (64 - 83) bpm
+   BP: 108/72(81) {94/56(67) - 137/99(109)} mmHg
+   RR: 15 (12 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 75 Inch
+    CVP: 8 (5 - 12)mmHg
+   PAP: (51 mmHg) / (28 mmHg)
+   CO/CI (Fick): (5 L/min) / (2.4 L/min/m2)
+   Mixed Venous O2% Sat: 69 (66
+ 69)
+   SVR 968
+   Total In:
+                                                                  2,005 mL
+                                                                    363 mL
+   PO:
+                                                                  1,400 mL
+                                                                    180 mL
+   TF:
+   IVF:
+                                                                    605 mL
+                                                                    183 mL
+   Blood products:
+   Total out:
+                                                                  2,825 mL
+                                                                    650 mL
+   Urine:
+                                                                  2,825 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -820 mL
+                                                                   -287 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   Physical Examination
+   GEN: well-appearing NAD
+   HEENT: anicteric
+   NECK: R swan cath site c/d/i
+   CV: irreg irreg no m/r/g
+   PULM: CTAB no w/r/r
+   ABD: soft NTND normoactive BS
+   EXT: warm, dry +PP no edema
+   Labs / Radiology
+   162 K/uL
+   15.7
+   119 mg/dL
+   1.5 mg/dL
+   26 mEq/L
+   3.3 mEq/L
+   19 mg/dL
+   98 mEq/L
+   133 mEq/L
+   47
+   8.1 K/uL
+        [image002.jpg]
+                             [**3221-6-7**]  10:56 AM
+                             [**3221-6-8**]  03:50 AM
+                             [**3221-6-8**]  04:14 AM
+                             [**3221-6-8**]  11:49 AM
+                             [**3221-6-8**]  02:38 PM
+                             [**3221-6-8**]  11:11 PM
+                             [**3221-6-9**]  04:23 AM
+                             [**3221-6-9**]  04:53 AM
+   WBC
+   7.7
+   6.8
+   8.1
+   Hct
+   42.6
+   42.5
+   44
+   45
+   44
+   44.8
+   47
+   Plt
+   197
+   180
+   162
+   Cr
+   1.7
+   1.5
+   1.6
+   1.5
+   Glucose
+   99
+   97
+   107
+   119
+   Other labs: PT / PTT / INR:19.8/38.4/1.8, Differential-Neuts:58.3 %,
+   Lymph:30.8 %, Mono:7.5 %, Eos:2.5 %, Ca++:9.1 mg/dL, Mg++:1.7 mg/dL,
+   PO4:2.8 mg/dL
+   Assessment and Plan
+   53 M h/o cryptogenic cirrhosis awaiting transplant, portal HTN, pulm
+   HTN, chronic diastolic dysfunction, PE and Afib on coumadin admitted
+   for elective RHC demonstrating acute on chronic LV diastolic CHF and
+   pulmonary hypertension.
+   .
+   #Acute on chronic diastolic CHF: negative 2.4L LOS; PAD improving with
+   diuresis and afterload reduction but not yet optimal; borderline low CI
+   and elev. SVR may suggest need for further afterload reduction
+   -cont diuresis to goal PAD 21-23 mmHg (PCWP 16-18 mmHg)
+   -goal -1 L today
+   -incr. captopril prn for improved afterload reduction
+   .
+   #Pulm HTN
+ PAD remain elevated due to left-sided CHF; not
+   NO-responsive per cath [**3221-4-5**]
+   -cont amlodipine although not likely to produce substantial response
+   given lack of vasodilator responsive
+   -treat left-sided CHF, as above
+   .
+   #DVT/PE
+   -resume heparin for subtherapeutic INR
+   -cont coumadin goal INR [**3-16**]
+   .
+   #Afib
+ rate well-controlled
+   -cont heparin/coumadin
+   -cont lopressor
+   .
+   #Cirrhosis - awaiting transplant
+   -continue rifaxamin, lactulose
+   .
+   #HTN: well-controlled
+   -continue BB, CCB
+   .
+   #FEN: low Na diet; replete lytes prn
+   .
+   #Access:  PIV; consider d/c;ing Swan and treating acute CHF clinically
+   .
+   #PPx:  PPI, bowel regimen, systemic AC
+   .
+   #. Emergency contact: sister [**Name (NI) **] [**Telephone/Fax (1) 5518**]
+   .
+   #. Code: FULL
+   .
+   #. Dispo: CCU for hemodynamic monitoring until swan comes out
+   ICU Care
+   Nutrition: low Na diet
+   Lines:
+   PA Catheter - [**3221-6-7**] 10:30 AM
+   20 Gauge - [**3221-6-7**] 11:00 AM
+   Prophylaxis:
+   DVT: systemic AC
+   Stress ulcer: PPI
+   Communication:  sister [**Name (NI) **] [**Telephone/Fax (1) 5518**]
+   [**Name2 (NI) 127**] status: FULL
+   Disposition: CCU for hemodynamic monitoring until swan comes out
+
+
+
+DOC CLASS

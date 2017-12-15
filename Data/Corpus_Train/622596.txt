@@ -1,0 +1,223 @@
+TITLE:
+   Chief Complaint:  altered mental status, urinary retention
+   HPI: Mr. [**Known patient lastname 7516**] is a 78-year-old male with PMH significant for BPH,
+   HTN, several prior CVAs, and seizure disorder who presents now with
+   worsened AMS from baseline, fevers, leukocytosis and positive
+   urinalysis concerning for looming urosepsis. Per patient's wife, he had
+   chills and shivering at home over last 24 hours followed by fevers to
+   Tmax 101F. He seemed unsteady on his feet, fatigued and much less alert
+   than his usual baseline. She also noticed his home indwelling foley
+   catheter had dark urine that appeared blood tinged.
+   .
+   Of note, Mr. [**Known patient lastname 7516**] was seen in the [**Hospital1 5**] Urology Clinic on [**2687-8-10**] for
+   recent followup for an acute episode of urinary retention after being
+   seen in the ED on Sunday, [**2687-8-7**], and having a foley placed at that
+   time which, per OMR records, drained 900cc clear urine. Urinalysis was
+   negative at that time for any infections but there was some evidence of
+   microhematuria ( [**4-7**] RBCs). At his recent Urology Clinic visit his
+   foley catheter that was placed on [**2687-8-7**] was not removed given the
+   brief time between placement and his clinic followup. He was also
+   placed on Flomax .4mg PO qdaily to help
+   optimize an upcoming voiding trial.
+   .
+   In the ED, initial vital signs were: Temp 100.F, BP 150/76, HR 89, O2
+   saturation 99% on 2L nasal cannula. Labs in ED notable for a WBC of 17
+   (81% neutrophils) and lactate of 2.6.  He was given total of 4.5L of
+   normal saline IVFs, Vancomycin 1g IV x1, Zosyn 4.5mg IV x1, and then
+   2mg Ativan and 5mg Haldol for some agitation.  Upon arrival to the [**Hospital Unit Name 4**]
+   patient was somnolent but arousable and appeared to be in no apparent
+   distress.
+   Allergies:
+   Iodine; Iodine Containing
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2687-8-14**] 08:18 PM
+   Cefipime - [**2687-8-14**] 09:05 PM
+   Infusions:
+   Other ICU medications:
+   HOME medications:
+   Aricept 5mg PO qdaily
+   Trileptal 600mg [**Hospital1 **]
+   HCTZ 25mg PO qdaily
+   Flomax .4mg PO qdaily
+   Vitamin B12 1000mcg qdaily
+   Past medical history:
+   Family history:
+   Social History:
+   -seizure disorder
+   -hypertension
+   -benign prostatic hypertrophy
+   -intracranial hemorrhages about ~10  and ~15 years ago
+   -cervical spondylosis
+   -paralyzed vocal cord
+   -vitamin B12 deficiency
+   -s/p appendectomy
+   Father with CVA in his 60s and again at age 83. Mother with HTN, DM and
+   large fatal CVA at age 67.  There is also a family history of diabetes.
+   He lives at home with his wife in [**Location (un) 2503**]. He is a 30 pack-year
+   smoker, quit about 38 years ago. Denies alcohol or illicit drugs. He
+   lives a portion of the year in [**Location (un) 7517**] [**State 488**] as well.
+   Review of systems:
+   No SOB, headaches, fevers, chills, nausea, vomiting, back pain, chest
+   pain, palpitations, abdominal pain,
+   diarrhea, or bloody stool. ROS positive for recent weakness, known
+   memory problems at baseline and tendency to lean towards his left side
+   when walking per his wife.
+   Flowsheet Data as of [**2687-8-15**] 12:10 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 36.8
+C (98.3
+   HR: 57 (57 - 109) bpm
+   BP: 113/43(66) {113/43(63) - 140/62(79)} mmHg
+   RR: 17 (17 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                  6,320 mL
+                                                                    100 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,320 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  1,060 mL
+                                                                    200 mL
+   Urine:
+                                                                  1,060 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,260 mL
+                                                                   -100 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   (Of note, pt was s/p 2g Ativan and 5g Haldol so significantly sedated
+   during initial exam)
+   VS: T=100.6  BP=140/62  HR=109 RR=29  O2 sat= 96% 2L
+   GENERAL: lethargic male, easily arousable, A&Ox1, appears to be in no
+   acute distress at rest.
+   HEENT: NC/AT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink and well
+   perfused. OP clear but dry MM.
+   NECK: Supple with JVP of [**8-10**] cm. No lymphadenopathy noted. 2+ carotid
+   pulses bilaterally
+   CARDIAC: rapid but regular rate, S1/S2 appreciated, no
+   murmurs/rubs/gallops.
+   LUNGS: Respirations were unlabored, no accessory muscle use. CTA
+   bilaterally. No crackles, wheezes or rhonchi.
+   ABDOMEN: small well healed RLQ scar [**4-6**]", soft, NT/ND, no HSM. No flank
+   tenderness, no suprapubic tenderness to palpation.
+   EXTREMITIES: No edema, 2+ pedal pulses bilaterally, no inguinal LAD
+   SKIN: No rashes, stasis dermatitis, ulcers or lesions
+   NEURO: CNs [**3-17**] grossly intact, equal grasp strength, no focal sensory
+   or motor deficits, gait assessment deferred, unable to cooperate for
+   cerebellar testing or pronator drift assessment, downgoing toes
+   bilaterally
+   Labs / Radiology
+   223
+   16
+   93
+   1.0
+   21
+   24
+   98
+   4.1
+   136
+   46
+   16
+        [image002.jpg]
+   Other labs: Lactic Acid:2.6 mmol/L   PT/PTT/INR:12.9/38.3/1.1
+   ALT/AST/AP:  15/17/83, Tbili: 0.7, Ca: 8.8, Mg: 2.0, PO4: 3.4
+   UA: pH 6.5, bili neg, mod leuks, large blood, + nitrites, prot 30,
+   glucose neg, ket trace, >50 RBCs, 21-50 WBCs, many bacteria
+   EKG: rate 90s, NSR, 1st degree AV prolongation, normal QT interval, no
+   notable ST elevations/depressions
+   [**2687-8-14**] CT HEAD : no intracranial hemorrhage or other acute process.
+   encephalomalacia in the right occipital region is unchanged. extensive
+   small vessel disease is noted, and limits sensitivity for acute
+   ischemia. consider mri as clinically indicated. global atrophy is
+   grossly stable since [**2683**].
+   [**2687-8-14**] CXR - no acute infiltrates, pleural effusions, or pulmonary
+   edema
+   Assessment and Plan
+ URINARY TRACT INFECTION (UTI)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   In summary, Mr. [**Known patient lastname 7516**] is a 78-year-old male with h/o BPH, seizure
+   disorder, prior intracranial hemorrhages, and HTN who p/w shaking
+   chills, fever, and hematuria in the setting of a Foley placed 1 week
+   ago for urinary retention.
+   #SIRS:  Patient has leukocytosis, fevers, and tachycardia which support
+   SIRS criteria. Also had lactate of 2.6 in ED. He responded to 4L IVF in
+   the ED and his systolic blood pressure is now in the 140s range.
+   Tachycardia has resolved but still having low grade fevers at this
+   time. CXR negative for infiltrate. Most likely source of infection is
+   urological/UTI given positive UA and indwelling foley catheter.
+   --will continue broad coverage with Vancomycin 1g Q12H & Zosyn IV
+   --maintain UOP >50cc hour, continue generous IVFs overnight (MAP goal
+   >65)
+   --follow-up blood cultures, urine cultures
+   --maintain 2 large gauge PIVs
+   --follow-up Urology consult recs
+   --monitor BUN/Cr
+   --will discontinue indwelling foley overnight and consider CBI if
+   begins to produce clots or if UOP decreasing
+   #Altered mental status: [**Month (only) 8**] be secondary to UTI/urosepsis which has
+   worsened his already baseline dementia status. Head CT shows no acute
+   changes from priors. He has known encephalomalacia in the right
+   occipital region is unchanged since [**2683**] and he also has some
+   periventricular white matter hypodensities which signify small vessel
+   chronic infarcts. Patient was given 2mg Ativan and 5mg Haldol in the ED
+   which also appears to have left him much more somnolent.
+   --Repeat more thorough neuro exam when patient is more alert and
+   sedation has worn off
+   --PRN Haldol for agitation
+   --will consider soft restraints as needed if begins to pull on
+   lines/foley
+   --Continue home dose Aricept
+   #BPH: Longstanding history per OMR notes and patient's wife mentioned
+   he had a green laser procedure to shrink his prostate size and he had
+   been off of his Flomax for several months leading up to this past week
+   when he was placed back on it.
+   -follow-up urology recommendations
+   -switch out indwelling foley to new foley/keep in place overnight
+   -monitor BUN/Cr
+   -continue on Flomax daily
+   #HTN: Longstanding history of elevated blood pressures. In setting of
+   SIRS will plan to hold all anti-hypertensive medications at this time.
+   -start home dose HCTZ when vital signs stable for >24h
+   #Seizure Hx:
+   -continue on current regimen of Trileptal
+   -will notify neurologist, Dr. [**Last Name (STitle) 7518**], that patient is here in ICU
+   #CVA Hx: CT stable with no acute changes, nonfocal neurological exam
+   --will repeat neuro exam q8 hours overnight
+   #FEN: monitor electrolytes and replete as needed, NPO for now given
+   sedated state and history of vocal cord dysfunction, continue with IVFs
+   overnight for hydration; switch to LR to avoid non-AG metabolic
+   acidosis
+   #ACCESS: PIVs x 2
+   #PROPHYLAXIS:
+   -DVT prophylaxis with pneumoboots, avoiding anticoagulation in setting
+   of gross hematuria
+   -Pain management with Tylenol
+   -Bowel regimen with Colace and Senna tablets
+   #CODE: DNR/DNI, confirmed with HCP & wife
+   #Social - main contact and HCP is wife [**Name (NI) 102**] [**Name (NI) 7516**]
+   - cell# [**Telephone/Fax (1) 7513**].
+   #DISPO: Continue on ICU service for monitoring of hemodynamics
+   overnight, if stable tomorrow may be able to transfer to regular
+   medical floor
+
+
+
+DOC CLASS

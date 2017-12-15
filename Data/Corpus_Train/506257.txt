@@ -1,0 +1,218 @@
+TITLE:
+   CVICU
+   HPI:
+   HD15
+   [**1-4**] POD 12
+   72F CABGX3 (LIMA-LAD,SVG-OM,SVG-PDA)IABP in preop [**12-24**]
+   EF:40% CR:1.3 WT: 64kg HgA1c:5.1
+   PMH;COPD,depression,DJD,FeDef.anemia,HTN,monoclonal gammopathy
+   [**Last Name (un) 500**]:albuterol1-2p prn,alprazolam 0.5 HS,Atenolol100/D,Tricor
+   145/D,Spiriva 1 IH/D,Verapamil 200/HS,Torsemide 20BID,Lisinopril
+   40/D,Advair 1p [**Hospital1 **],Fluoxetine 20/D ASA, FeSO4 [**Hospital1 **] VitD .
+   Current medications:
+   Acetaminophen, Albumin 25% (12.5g / 50mL), Albuterol 0.083% Neb Soln,
+   Artificial Tears Preserv. Free, Aspirin, Beclomethasone Dipropionate,
+   Bisacodyl, Digoxin, Docusate Sodium, Fluoxetine, Furosemide, Heparin,
+   Insulin, Ipratropium Bromide Neb, Lactulose, MetRONIDAZOLE (FLagyl),
+   Metoprolol Tartrate, Micafungin, Pantoprazole, Vancomycin
+   24 Hour Events:
+   Remains in ICU due to pulmonary, CPAP and became acidotic with
+   breathing trial
+   Continued to hold coumadin and let INR trend down due to potential LP
+   because of continued fevers and WBC
+ FEVER - 102.3
+F - [**3105-1-4**] 08:00 PM
+   Post operative day:
+   POD#12 - cabg x3
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3105-1-4**] 11:59 AM
+   Vancomycin - [**3105-1-4**] 01:55 PM
+   Metronidazole - [**3105-1-4**] 08:08 PM
+   Micafungin - [**3105-1-5**] 06:39 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3105-1-4**] 08:00 AM
+   Heparin Sodium - [**3105-1-5**] 04:19 AM
+   Furosemide (Lasix) - [**3105-1-5**] 06:08 AM
+   Other medications:
+   Flowsheet Data as of  [**3105-1-5**] 08:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**07**] a.m.
+   Tmax: 39.1
+C (102.3
+   T current: 37.1
+C (98.8
+   HR: 87 (69 - 92) bpm
+   BP: 135/48(75) {96/38(56) - 140/98(112)} mmHg
+   RR: 28 (18 - 31) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 79.4 kg (admission): 62.7 kg
+   Height: 56 Inch
+   CVP: 21 (15 - 37) mmHg
+   Total In:
+                                                                  2,468 mL
+                                                                    930 mL
+   PO:
+   Tube feeding:
+                                                                    543 mL
+                                                                    150 mL
+   IV Fluid:
+                                                                  1,200 mL
+                                                                    280 mL
+   Blood products:
+                                                                    485 mL
+                                                                    500 mL
+   Total out:
+                                                                  1,267 mL
+                                                                    710 mL
+   Urine:
+                                                                  1,260 mL
+                                                                    710 mL
+   NG:
+                                                                      7 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,201 mL
+                                                                    220 mL
+   Respiratory support
+   O2 Delivery Device: Face tent, T-piece
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 350 (350 - 350) mL
+   Vt (Spontaneous): 282 (0 - 348) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 31
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   RSBI: 99
+   PIP: 11 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 31.8 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.21/62/62/24/-4
+   Ve: 7.1 L/min
+   PaO2 / FiO2: 155
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular) Sternal incision with eschar mild to
+   lower pole, no drainage, sternum stable
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bilat bases)
+   Abdominal: Soft, Non-distended, Non-tender, diarrhea
+   Left Extremities: (Edema: 1+ lower), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present) edema in upper extremity +3
+   Right Extremities: (Edema: 1+lower), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present) edema in upper extremity +3
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, Moves all extremities
+   Labs / Radiology
+   482 K/uL
+   8.2 g/dL
+   117 mg/dL
+   1.6 mg/dL
+   24 mEq/L
+   4.6 mEq/L
+   65 mg/dL
+   116 mEq/L
+   149 mEq/L
+   25.5 %
+   23.3 K/uL
+                             [**3105-1-4**]  11:23 AM
+                             [**3105-1-4**]  12:24 PM
+                             [**3105-1-4**]  02:04 PM
+                             [**3105-1-4**]  04:38 PM
+                             [**3105-1-4**]  04:50 PM
+                             [**3105-1-5**]  12:34 AM
+                             [**3105-1-5**]  04:44 AM
+                             [**3105-1-5**]  04:51 AM
+                             [**3105-1-5**]  06:46 AM
+                             [**3105-1-5**]  07:53 AM
+   WBC
+   23.3
+   Hct
+   25.5
+   Plt
+   482
+   Creatinine
+   1.6
+   TCO2
+   26
+   25
+   25
+   24
+   24
+   25
+   25
+   26
+   Glucose
+   136
+   88
+   105
+   100
+   117
+   Other labs: PT / PTT / INR:20.4/39.3/1.9, ALT / AST:29/37, Alk-Phos / T
+   bili:52/3.1, Amylase / Lipase:86/165, Differential-Neuts:89.9 %,
+   Band:2.0 %, Lymph:5.5 %, Mono:2.9 %, Eos:1.4 %, Fibrinogen:609 mg/dL,
+   Lactic Acid:1.5 mmol/L, Albumin:3.0 g/dL, LDH:243 IU/L, Ca:8.4 mg/dL,
+   Mg:2.3 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   HYPOTENSION (NOT SHOCK), ALTERED MENTAL STATUS (NOT DELIRIUM), CORONARY
+   ARTERY BYPASS GRAFT (CABG), .H/O HEPATITIS, ISCHEMIC (SHOCK LIVER),
+   .H/O ANXIETY, .H/O BACTEREMIA, ALTERATION IN NUTRITION, ALTERATION IN
+   ELIMINATION RELATED TO CONSTIPATION, HYPOKALEMIA (LOW POTASSIUM,
+   HYPOPOTASSEMIA), [**Last Name **] PROBLEM - ENTER DESCRIPTION IN COMMENTS,
+   ACIDOSIS, RESPIRATORY, ATRIAL FIBRILLATION (AFIB), HYPONATREMIA (LOW
+   SODIUM, HYPOSMOLALITY), FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF
+   UNKNOWN ORIGIN), RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF),
+   CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+   Assessment and Plan:
+   Neurologic: neuro checks q4h denies pain
+   Cardiovascular: Afib --> cont Digoxin, B-blocker and ASA.  Coumadin on
+   hold--> follow INR, check digoxin level
+   Pulmonary: Extubate today, Spontaneous breathing trial, (Ventilator
+   mode: CPAP + PS), Attempt extubation today.
+   Gastrointestinal / Abdomen: change to dobhoff, continue with Diarrhea
+   Nutrition: Tube feeds
+   Renal: Foley, Adequate UO, Will start lasix gtt and cont Albumin TID
+   and follow Na --> mild hypernatremia with 2.4 free water deficit
+ d5w
+   at 25ml/hr and will increase 250 q4h via dobhoff
+   Hematology: stable anemia
+   Endocrine: RISS goal BG < 150
+   Infectious Disease:  No new growths on cultures, change to diflucan per
+   ID recs since LFT normalizing, will stop levofloxacin today,
+   vancomycin held level 21, continue flagyl and last cdiff sent today,
+   defer on LP due to INR
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: D5W (2.4 l free water deficit)
+   Consults:,Neurology, ID dept, PT
+   ICU [**Name (NI) 228**]
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3104-12-28**] 01:19 PM
+   Multi Lumen - [**3105-1-2**] 05:16 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin (Systemic anticoagulation: Coumadin on hold
+   INR 1.9
+   Stress ulcer: PPI
+   VAP bundle:  yes
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

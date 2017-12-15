@@ -1,0 +1,184 @@
+Chief Complaint:
+   24 Hour Events:
+   -Cordis placed. Pt started on Dobutamine for SBP in high 60's; shortly
+   thereafter, became tachy to 140's RR high 30's, SBP 70's. Dobutamine
+   was stopped. Phenyl. started. Bolused 500cc's NS, then 250cc's, then
+   100 cc's. CVP = 14. Tachychardia and Tachypnea improved, SBP 90's. CXR
+   obtained = no pneumothorax. Repeat HCT not suggestive of bleeding.
+   Patient much improved by 1800 hours.
+   -Discussed case in full with HCP.
+   -Holding on A line.
+   -Gave 20mEq K (pm k = 3.7)
+   -Vanc, Zosyn ID appropved.
+   -2/4 bottles (both anaerobic), positive for GPC P and Cl's. Diff w 90.6
+   P, 4.6 L.
+   -Low suspicion for c. diff so not getting second set. Stopped Flagyl.
+   - PPI ordered
+   -TTE: Anterior septal akinesis. Pulm regurg. Aortic valve area under
+   .8cm. LVH. NO THROMBI
+   -ECHO w/o vegetations
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3380-5-30**] 09:20 AM
+   Metronidazole - [**3380-5-30**] 12:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3380-5-30**] 04:30 PM
+   Infusions:
+   Phenylephrine - 2.7 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3380-5-30**] 02:00 PM
+   Other medications:
+   Changes to medical and family history:
+   None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   + Cough while drinking. Denies pain, fevers, chills, nausea, vomitting
+   Flowsheet Data as of  [**3380-5-31**] 06:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 36.3
+C (97.4
+   HR: 83 (78 - 127) bpm
+   BP: 93/55(64) {55/44(47) - 98/73(77)} mmHg
+   RR: 23 (19 - 36) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+    CVP: 17 (12 - 19)mmHg
+   Total In:
+                                                                  2,053 mL
+                                                                    380 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,053 mL
+                                                                    380 mL
+   Blood products:
+   Total out:
+                                                                    465 mL
+                                                                    175 mL
+   Urine:
+                                                                    465 mL
+                                                                    175 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,588 mL
+                                                                    206 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: ///21/
+   Physical Examination
+   Gen: ill appearing, lethargic but easily arousable, A and Ox3
+   HEENT: no appreciable JVD while lying flat
+   CV: Regular , [**3-24**] harsh late peaking SEM, no rubs or gallops
+   Pulm: Crackles RIGHT base
+   Abdomen: +BS, soft, NT, ND, no organomegaly
+   Exts: WWP, 1+ edema 3 cm above ankle bilaterally,, thready DP and PT
+   pulses but palpable
+   Labs / Radiology
+   86 K/uL
+   13.8 g/dL
+   130 mg/dL
+   1.8 mg/dL
+   21 mEq/L
+   4.4 mEq/L
+   34 mg/dL
+   93 mEq/L
+   126 mEq/L
+   40.3 %
+   13.7 K/uL
+        [image002.jpg]
+                             [**3380-5-30**]  02:36 PM
+                             [**3380-5-31**]  05:03 AM
+   WBC
+   13.7
+   Hct
+   38.7
+   40.3
+   Plt
+   86
+   Cr
+   1.5
+   1.8
+   Glucose
+   101
+   130
+   Other labs: PT / PTT / INR:20.1/50.6/1.9, ALT / AST:43/113, Alk Phos /
+   T Bili:53/3.0, Lactic Acid:2.2 mmol/L, Ca++:9.0 mg/dL, Mg++:2.3 mg/dL,
+   PO4:3.9 mg/dL
+   Assessment and Plan
+   79M w/ hx of critical AS (valve area 0.5cm2), sCHF (EF 40), alcoholic
+   cirrhosis, DM, recently admitted w/ sCHF exacerbation and worsening of
+   AS, who no p/w persistent severe DOE due to critical AS now awaiting
+   valvuloplasty, course complicated by sepsis.
+   # Critical AS: AS critical by valve area and awaiting palliative
+   valvuloplasy while Bacteremia clears. Volume status remains tenuous,
+   and patient appears to be retaining. Limiting fluid intake as much as
+   possible and utilizing phenylephrine to keep MAPs greater than 55
+   because Dobutamine was complicated by tachycardia.
+   -  Continue phenylephrine for MAPs greater than 55
+   -  CXR to assess volume status
+   -  Valvuloplasty later this week
+   # New onset A fib: Noted on admission. Cardioversion [**5-26**]. Chads 2 is
+   4. Was on heparin gtt on the floor but will d/c now given hct drop.
+   Appears to be in NSR this am.
+   -Continue Dofetelide
+   # Sepsis: Urine culture growing coag. Neg staph and Blood cultures
+   growing coag. Positive staph. No peripheral manifestations of
+   endocarditis, and TTE negative for vegetations. No obvious sources for
+   staph bacteremia. Sensitivities pending. C diff negative x1.
+   - Continue Vancomycin but change to Once daily dosing. D/c Zosyn.
+   - Follow culture data
+   - repeat C diff
+   # Acute renal failure: Cr up to 1.8 from 1.7 yesterday. Likely due to
+   poor forward flow in the setting of sepsis and critical AS.
+   - Trend Cr. Renally dose meds
+   - Urine lytes
+   # Cirrhosis: - Likely [**2-21**] EtOH use. Pt reports that he stopped drinking
+   approx 1 year ago.documented on MRCP as well as CT abdomen. Pt
+   hepatitis panel negative for Hep A,B,C. G positive stools may be due to
+   upper GIB but no report of [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 6179**] so unlikely variceal bleed.
+   In addition EGD [**3380-5-25**] without varices. EGD did show Erythema and
+   congestion in the first part of the duodenum, second part of the
+   duodenum and third part of the duodenum compatible with mild
+   duodenitis. Given brown stools, and Hct drop, in the setting of
+   heparin, history is most consistent with likely upper source of GIB.
+   -2 pivs
+   -active T and S
+   -Consider IV ppi
+   - Consider reconsulting GI
+   # DM
+ ISS
+   # FEN
+ NPO
+   # Access: PIV
+   # PPx
+ No heparin given ? GIB
+   # Code- DNR/I
+   # Communication
+ [**Known patient firstname 64**] [**Last Name (NamePattern1) 2967**] (first cousin [**Name (NI) 217**] [**Telephone/Fax (1) 6181**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**3380-5-30**] 01:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

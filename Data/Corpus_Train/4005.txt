@@ -1,0 +1,238 @@
+Admission Date:  [**2699-1-9**]     Discharge Date:  [**2699-1-20**]
+
+
+Service:  Cardiothoracic Surgery
+
+CHIEF COMPLAINT:  This patient was transferred from an
+outside hospital for cardiac catheterization, where his chief
+complaint had been shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 17474**] is an 81-year-old
+white male with a past medical history significant for
+hypertension, benign prostatic hypertrophy, and a remote
+tobacco history, who was in generally good health with no
+known coronary artery disease, and presented to an outside
+hospital with acute shortness of breath the night prior to
+admission while sitting and watching television.  He stated
+that his shortness of breath worsened with ambulation and
+other activity.  He denied having any associated chest pain,
+nausea, vomiting, palpitations, or diaphoresis.  He was taken
+to the Emergency Department of the outside hospital, where an
+EKG done showed poor R wave progression in leads V1 through
+V3.  Cardiac enzymes were cycled and showed a troponin of
+39.21, and a CK of 246.  At this time he was transferred to
+the coronary care unit at the outside hospital, where a chest
+x-ray was found to be consistent with congestive heart
+failure.  The patient received a 40 mg intravenous dose of
+Lasix, and responded with a 1,200 cc diuresis.  He was
+started on heparin, aspirin, a beta blocker and an ACE
+inhibitor.  The heparin was however discontinued secondary to
+some mild hematuria.  He continued to remain symptom free,
+and was transferred to the [**Hospital1 186**] for cardiac catheterization.
+
+PAST MEDICAL HISTORY:  1. Hypertension.  2. Gout.  3.
+Hypercholesterolemia.  4. Remote history of kidney stones.
+5. Benign prostatic hypertrophy with normal biopsy.
+
+MEDICATIONS ON ADMISSION:  1. Univasc 15 mg p.o. q.d.  2.
+Allopurinol 300 mg p.o. q.d.  3. Atenolol 100 mg p.o. q.d.
+4. Hydrochlorothiazide.
+
+ALLERGIES:  The patient has no known drug allergies..
+
+SOCIAL HISTORY:  Mr. [**Known patient lastname 17474**] has a 20-pack-year smoking
+history, but quit smoking approximately 20 years before.  He
+denies any alcohol or other illicit drug use.  He lives with
+his son in [**Name (NI) 5044**] and is a retired employee of [**Company 86**]
+[**Male First Name (un) 17475**] Company.
+
+FAMILY HISTORY:  His mother and sister both passed away in
+their 70s secondary to coronary artery disease.
+
+PHYSICAL EXAMINATION:  On admission Mr. [**Known patient lastname 17474**] was a pleasant
+elderly man in no acute distress.  He was found to have a
+temperature of 98.1 degrees, heart rate of 78 and sinus
+rhythm, blood pressure 178/90, respiratory rate 18 and an
+oxygen saturation on room air of 95%.  His pupils were
+equally reactive to light and accommodation and his
+extraocular movements were intact.  His neck was supple with
+jugular venous distension at approximately 8 cm, 2+ palpable
+carotid pulses with no bruits.  His cardiac examination
+revealed a regular rate and rhythm with normal S1 and S2, as
+well as a 2/6 systolic ejection murmur.  He did not have any
+S3, S4 or rubs.  His lungs were clear to auscultation
+bilaterally.  His abdomen was soft, nontender, nondistended
+with no hepatosplenomegaly or other palpable masses.  His
+extremities were warm and dry, with minimal bilateral pedal
+edema.  He had 2+ palpable pedal pulses.  Neurologically he
+was alert and oriented  to person, place and time, with 5/5
+strength and sensation in both upper and lower extremities.
+
+LABORATORY DATA:  On admission his complete blood count was
+significant for a white blood cell count of 9.9, hematocrit
+44 and a platelet count of 188.  Chem-7 showed a sodium of
+136, potassium 3.9, chloride 99 and a bicarbonate of 29, BUN
+and creatinine of 46 and 1.8, and a blood glucose of 154.
+His prostate specific antigen at the time of admission was
+18.  At the outside hospital he was found to have successive
+troponins of 39.2 and 47.1 as well as a CK of 246.  His
+initial PT and PTT were 12.2 and 31.8, and at the time that
+his heparin was stopped due to hematuria his PTT was 91.5.
+
+HOSPITAL COURSE:  Mr. [**Known patient lastname 17474**] was accepted as a transfer from
+[**Hospital3 **], and admitted to the cardiac catheterization
+laboratory.  While there, he was found to have a left
+ventricular ejection fraction estimated to be 20-25%.  He was
+also found to have distal 40% occlusion of his left main
+coronary artery, subtotal occlusion of the left anterior
+descending artery, proximal 70% focal disease as well as
+distal occlusion of the left circumflex artery, and a
+proximal 70% occlusion of the obtuse marginal artery.  The
+patient tolerated his catheterization well, and was
+subsequently transferred to the floor in stable condition.
+
+On hospital day two, through various discussions with his
+family and the cardiac surgery service, the patient decided
+to proceed with coronary artery bypass grafting surgery.
+
+On hospital day two the patient was restarted on heparin at
+which time he redeveloped hematuria.  The urology service was
+subsequently consulted to further evaluate this issue.  He
+underwent flexible cystoscopy which revealed a likely
+prostatic source to his gross hematuria.  The heparin drip
+was restarted and a three-way Foley catheter was placed so
+that he could have continuous bladder irrigation to keep his
+urine clear.  Follow up was arranged with the urology service
+as an outpatient in the future once his cardiac issues have
+been resolved.
+
+Mr. [**Known patient lastname 17474**] was taken to the operating room on [**2699-1-13**] where he underwent coronary artery bypass grafting x 3.
+Please refer to the dictated operative note for full details
+of his procedure.  The patient tolerated the procedure well,
+and was transferred in stable condition to the cardiac
+surgery recovery unit.  At the time of transfer, he was found
+to have a mean arterial pressure of 72, being A-paced at 80
+beats per minute.  He was on a milrinone drip at 0.25 mcg per
+kg per minute as well as a propofol drip at 10 mcg per kg per
+minute.  Following arrival in the CSRU, the patient
+subsequently required a small dose of Levophed to maintain a
+mean arterial pressure in the 60s.  He also received two
+units of packed red blood cells for an hematocrit of 24.6,
+and was found to have a post transfusion hematocrit of 25.6.
+
+On postoperative day one the patient was reversed, weaned
+from the ventilator, and successfully extubated.  He was
+weaned off of his milrinone and Levophed drips, continuing
+only on an insulin drip at approximately two units per hour.
+He continued at this time to have continuous bladder
+irrigation through his three-way Foley catheter.
+
+In the days following extubation, the patient did require
+intermittent milrinone to maintain his cardiac index.  At
+this time diuresis was also started with Lasix with excellent
+response.  Levofloxacin was also started for treatment of a
+urinary tract infection.
+
+On postoperative day four, the patient was weaned off
+milrinone altogether, received one unit of blood for an
+hematocrit of 27%, and captopril was slowly titrated up.  At
+this time, he was deemed stable and ready for transfer to the
+floor.  Continuous bladder irrigation had been stopped, and
+urine draining into the Foley catheter was tea colored.
+
+On transfer to the floor, the patient initially had a large
+oxygen requirement, requiring six liters of nasal cannula
+oxygen to maintain oxygen saturations above 95%.  This was
+slowly weaned, as he improved, and diuresis continued.  He
+continued to improve as well in terms of functional mobility
+in his therapy sessions with the physical therapy service.
+
+His Foley catheter was discontinued on [**1-19**] which was
+postoperative day six, and the patient was initially able to
+void, though in small amounts.  By lateral that night, the
+patient became uncomfortable and was subsequently unable to
+void.  A three-way Foley catheter was replaced, and 800 cc of
+clear yellow urine as well as one large blood clot drained
+into the Foley catheter.
+
+On postoperative day seven, it was felt that the patient was
+stable and ready for discharge from a cardiopulmonary
+standpoint.  It was felt at this time that he would benefit
+from a short stay at an extended care rehabilitation
+facility.  It was also deemed necessary at this time that the
+Foley catheter, which was placed on the night prior to
+discharge remain in place for approximately 1-2 weeks with
+outpatient urology follow up.
+
+Physical examination on discharge:  Mr. [**Known patient lastname 17474**] was found to
+have a temperature of 99.1 degrees with a heart rate of 78 in
+sinus rhythm and a blood pressure of 120/56.  He had an
+oxygen saturation on room air of approximately 92%, but
+continued to require some nasal cannula oxygen for activity.
+He continued to diurese well at this time.  His neck was
+supple with no abnormalities.  On cardiac examination he had
+a regular rate and rhythm with normal S1 and S2 and a grade
+2/6 systolic ejection murmur.  His lungs were clear to
+auscultation bilaterally.  His sternal incision was healing
+nicely with no erythema or drainage, and his sternum was
+stable.  His abdomen was soft, nontender, nondistended, with
+no organomegaly or other probable masses.  He had a three-way
+Foley catheter in place with a small amount of fresh blood
+around the penile meatus.  His extremities were warm and well
+perfused with minimal lower extremity edema.
+
+DISCHARGE MEDICATIONS:
+1. Enteric-coated aspirin 325 mg p.o. q.d.
+2. Lasix 20 mg p.o. b.i.d. x 7 days.
+3. Potassium chloride 20 mEq p.o. b.i.d. x 7 days.
+4. Captopril 12.5 mg p.o. t.i.d.
+5. Lopressor 12.5 mg p.o. b.i.d.
+6. Zantac 150 mg p.o. q. day.
+7. Trazodone 100 mg p.o. q.h.s. for sleep.
+8. Tylenol 650 mg p.o. q. 4 hours as needed for pain or
+discomfort.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease status post coronary artery bypass
+grafting x 3.
+2. Hypertension.
+3. Gout.
+4. Hypercholesterolemia.
+5. Benign prostatic hypertrophy with hematuria, and failure
+to void following surgery.
+
+The patient is being discharged with a three-way Foley
+catheter in place.  His activity should be as tolerated,
+though he requires continued sessions with physical therapy
+to increase strength, mobility and endurance.  During this
+time he should slowly be weaned from his nasal cannula oxygen
+requirement with activity.  His diet should be a cardiac
+heart healthy diet.
+
+FOLLOW UP:  He will follow up with his cardiologist in
+approximately one to two weeks, with the wound clinic in
+approximately two weeks.  He should also follow up with Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 70**] in approximately four weeks' time.  Follow up
+should also be with Dr. [**Last Name (STitle) 973**] of the Urology Department at
+[**Hospital1 69**] in approximately one to
+two weeks' time, phone #[**Telephone/Fax (1) 976**].
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Name8 (MD) 17476**]
+
+MEDQUIST36
+
+D:  [**2699-1-20**]  09:24
+T:  [**2699-1-20**]  09:33
+JOB#:  [**Job Number 17477**]
+
+
+
+DOC CLASS

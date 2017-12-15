@@ -1,0 +1,169 @@
+Chief Complaint:
+   24 Hour Events:
+   - pt's respiratory status did not improve with adjustment of his BiPAP,
+   ultimately resulting in intubation/mechanical ventilation
+   Allergies:
+   Penicillins
+   itching;
+   Levofloxacin
+   Rash;
+   Phenazopyridine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Dopamine - 6 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3011-1-24**] 12:00 AM
+   Midazolam (Versed) - [**3011-1-24**] 06:00 AM
+   Fentanyl - [**3011-1-24**] 06:07 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3011-1-24**] 06:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**12**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 89 (85 - 107) bpm
+   BP: 105/58(75) {64/47(54) - 120/60(79)} mmHg
+   RR: 15 (15 - 33) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                      1 mL
+                                                                    453 mL
+   PO:
+             TF:
+   IVF:
+                                                                      1 mL
+                                                                    453 mL
+   Blood products:
+   Total out:
+                                                                    260 mL
+                                                                    300 mL
+   Urine:
+                                                                    260 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -259 mL
+                                                                    153 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 16
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Unstable Airway
+   PIP: 30 cmH2O
+   Plateau: 22 cmH2O
+   SpO2: 96%
+   ABG: 7.25/91.[**Numeric Identifier 88**]/277//9
+   Ve: 8.4 L/min
+   PaO2 / FiO2: 554
+   Physical Examination
+   GENERAL: Sedated, Intubated..
+   HEENT: NC/AT.
+   NECK: JVP of [**9-3**] cm.
+   CARDIAC: RRR, normal S1, S2. No m/r/g. No S3 or S4 appreciated.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Harsh breath
+   sounds anteriorly. ?decreased breath sounds at the right base.
+   ABDOMEN: Obese. Soft, NTND. No masses noted.
+   EXTREMITIES: No c/c. Some edema at the ankles.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   4.0 mEq/L
+        [image002.jpg]
+   No other labs yet this morning.
+                             [**3011-1-24**]  03:16 AM
+                             [**3011-1-24**]  03:39 AM
+                             [**3011-1-24**]  04:11 AM
+   TropT
+   0.09
+   TCO2
+   43
+   42
+   Other labs: CK / CKMB / Troponin-T:47//0.09, Lactic Acid:0.8 mmol/L
+   Assessment and Plan
+   [**Age over 90 304**] y/o M with history of CHF, ?COPD who was sent to the ED from [**Hospital 11**]
+   Rehab for respiratory distress.
+   .
+   # Respiratory Distress
+ dCHF vs. PNA vs. COPD.  Story does not seem
+   likely for COPD. Pt is now s/p intubation. Likely a component of
+   CHF/fluid overload. For this, the patient has received Lasix boluses.
+   Also, possibly a component of PNA, as pt was noted to have purulent
+   sputum from ET tube.
+   - continue bolus lasix to attempt to get fluid off of pt
+ goal for
+   today of negative 500 to 1000 cc
+   - trend ABG's
+   - vanc/cefepime for empiric therapy for PNA
+   - resuming bronchodilators
+   - continue to cycle cardiac enzymes
+   - repeat echo in AM
+   - sputum cx sent, will f/u
+   - attempt to wean down pressors
+   .
+   # CORONARIES: Pt with a history of CAD, no other details seen in OMR.
+   - attempt to obtain outside records
+   - conitnue ROMI
+   .
+   # PUMP: Reported history of CHF, although most recent echo in OMR does
+   not show notable systolic or diastolic dysfunction.
+   - repeat echo in AM
+   - continue to bolus lasix for fluid removal
+   .
+   # RHYTHM: Pt is in a demand-paced rhythm.
+   - continue telemetry
+   - continue coumadin for atrial fibrillation
+   .
+   # Atrial Fibrillation - Pt with a history of atrial fibrillation. He is
+   on coumadin for anticoagulation.
+   - continue coumadin with goal INR [**12-26**]
+   - FFP on standby in case pt needs a CVL
+   .
+   # Hypertension - Pt with a history of hypertension but is not on any
+   antihypertensives.
+   - attempt to obtain outside records
+   - monitor BP, currently borderline hypotensive
+   .
+   # Hypothyroidism
+   - continue levothyroxine
+   .
+   # ?COPD - Pt with reported history of COPD.
+   - attempt to obtain outside records
+   - restarting bronchodilators
+   .
+   # Acute on Chronic Renal Insufficiency - Baseline Cr is 1.3 - 1.6.
+   Current Cr is 1.9.  Likely, this is pre-renal in the setting of CHF
+   (?poor forward flow).
+   - continue to trend creatinine
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3011-1-23**] 11:37 PM
+   20 Gauge - [**3011-1-23**] 11:38 PM
+   Arterial Line - [**3011-1-24**] 03:00 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

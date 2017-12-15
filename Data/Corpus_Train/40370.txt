@@ -1,0 +1,228 @@
+Admission Date:  [**2535-1-31**]              Discharge Date:   [**2535-2-4**]
+
+Date of Birth:  [**2478-12-7**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Statins-Hmg-Coa Reductase Inhibitors / Percocet
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Positive stress
+
+Major Surgical or Invasive Procedure:
+[**2535-1-31**] Coronary artery bypass graft
+x4(LIMA-LAD,SVG-PDA,SVG-OM,SVG-RI)
+
+
+History of Present Illness:
+56 year old female that was undergoing preoperative workup for
+knee surgery and had positive stress test. Was referred for
+cardiac catheterization for further evaluation which revealed
+coronary artery disease.
+
+Past Medical History:
+Familial hyperlipidemia
+Left bundle branch block
+Gastroesophageal reflux disease
+Arthritis with significant right knee pain requiring surgery
+Vitamin D deficiency
+Past Surgical History
+s/p partial hysterectomy
+s/p bladder suspension
+s/p bilateral carpal tunnel surgery
+
+Social History:
+Race: Caucasian
+Last Dental Exam: 1 month ago
+Lives with: spouse
+Occupation: nurse [**First Name (Titles) 22**] [**Last Name (Titles) **]
+Tobacco: Denies
+ETOH: Denies
+
+Family History:
+Mother with valvular heart disease, deceased 43.
+
+Physical Exam:
+Pulse: 69  Resp: 16   O2 sat: 99% RA
+B/P  Right: 128/79   Left: 126/79
+Height: 5'7"    Weight: 106 kg
+
+General: No acute distress
+Skin: Dry [x] intact [x] right groin cath site
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x] anterior
+Heart: RRR [x]  Irregular []  Murmur none
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] no palpable masses
+Extremities: Warm [x], well-perfused [x]  Edema trace
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: cath site   Left: +2
+DP           Right: +1  Left: +1
+PT           [**Name (NI) **]: +2  Left: +2
+Radial       Right: +2  Left: +2
+
+Carotid Bruit        Right: no bruit    Left: no bruit
+
+Pertinent Results:
+[**2535-1-31**] Intra-op TEE
+Conclusions
+PRE-CPB:1. The left atrium is normal in size. No atrial septal
+defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 50 %).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets (3) are mildly thickened. There is no aortic valve
+stenosis. Trace aortic regurgitation is seen.
+6. Mild (1+) mitral regurgitation is seen.
+7. There is a trivial/physiologic pericardial effusion.
+Dr. [**Last Name (STitle) 222**] was notified in person of the results.
+
+POST-CPB: On infusion of phenylephrine briefly. AV pacing for
+long pr interval. Preserved biventricular systolic function post
+CPB. LVEF is now 60%. MR remains 1+. Aortic contour is normal
+post decannulation.
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 10511**] was a same day admit and on [**1-31**] she was brought
+directly to the operating room and underwent a coronary artery
+bypass graft. Please see operative report for surgical details.
+Following surgery she was transferred to the CVICU for invasive
+monitoring in stable condition. Within 24 hours she was weaned
+from sedation, awoke neurologically intact and extubated. Beta
+blockers and diuretics were started on post-op day one and she
+was diuresed towards her pre-op weight. Chest tubes and
+epicardial pacing wires were removed per protocol. On post-op
+day one she was transferred to the step-down floor for further
+care. She worked with physical therapy for strength and
+mobility.  She was started on amiodarone for post-operative
+atrial fibrillation, which resolved.  By post-operative day four
+she was ready for discahrge to home.  All follow-up appointments
+were advised.
+
+Medications on Admission:
+CALCIUM 750MG + D -  (Prescribed by Other Provider) -   - twice
+a day
+NITROGLYCERIN [NITROSTAT] - 0.4 mg Tablet, Sublingual - 1
+Tablet(s) sublingually every 5 minutes x2 as needed for chest
+pain, shortness of breath Contact cardiac surgery if these are
+used
+OMEPRAZOLE -  (Prescribed by Other Provider) - 20 mg Capsule,
+Delayed Release(E.C.) - 1 Capsule(s) by mouth every evening
+Medications - OTC
+ASPIRIN -  (Prescribed by Other Provider; OTC) - 325 mg Tablet -
+1 Tablet(s) by mouth daily
+CHOLECALCIFEROL (VITAMIN D3) [VITAMIN D-3] -  (Prescribed by
+Other Provider) - 5,000 unit Tablet - 1 Tablet(s) by mouth daily
+
+MAGNESIUM -  (Prescribed by Other Provider) - 250 mg Tablet - 1
+Tablet(s) by mouth daily
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+4. potassium chloride 10 mEq Tablet Sustained Release Sig: Two
+(2) Tablet Sustained Release PO once a day for 3 weeks.
+Disp:*42 Tablet Sustained Release(s)* Refills:*0*
+5. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+3 weeks.
+Disp:*21 Tablet(s)* Refills:*0*
+6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours).
+8. tramadol 50 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+9. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): 400mg [**Hospital1 **] x7 days then 400mg QD x7 days then 200mg QD.
+Disp:*65 Tablet(s)* Refills:*1*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Home Health [**Last Name (LF) 208**], [**First Name3 (LF) **]
+
+Discharge Diagnosis:
+Coronary artery disease s/p Coronary artery bypass graft
+x4(LIMA-LAD,SVG-PDA,SVG-OM,SVG-RI)
+Past medical history:
+Familial hyperlipidemia
+Left bundle branch block
+Gastroesophageal reflux disease
+Arthritis with significant right knee pain requiring surgery
+Vitamin D deficiency
+Past Surgical History
+s/p partial hysterectomy
+s/p bladder suspension
+s/p bilateral carpal tunnel surgery
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with Dilaudid and Ultram
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+Edema- 2+ pedal edema bilat
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) 222**] [**Telephone/Fax (1) 294**] Thrusday  [**2-24**] at 1:30pm
+Cardiologist: Dr. [**Last Name (STitle) 2418**] [**Telephone/Fax (1) 113**] - [**3-3**] at 1:20pm
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) **] in [**5-10**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2535-2-4**]
+
+
+DOC CLASS

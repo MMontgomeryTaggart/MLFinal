@@ -1,0 +1,244 @@
+Chief Complaint:  cough, hypoxia
+   HPI:
+   79 y/o M of PMHx of Atrial Fib, Diastolic CHF, Hypertrophic CMP, CAD
+   s/p stenting and hyperthyroidism who presented to the ED with 4 days of
+   productive cough, shortness of breath, progressive DOE, low grade
+   fevers/chills and decreased appetite.
+   .
+   In the ED, initial VS were: T 100.1 P 100 BP 155/106 RR 20 Sats 90% on
+   RA. Initial EKG revealed rapid afib and HR trended up into 150-180s, pt
+   was started on dilt gtt at 5mg/hr which acheived good rate control.
+   Portable CXR showed pulmonary edema & possible RUL opacity.  Labs
+   revealed a troponin of 0.06, CK 181, MB 3 and lactate of 2.8 that came
+   down to 2.2 after 2L of NS IVF.  Pt received Aspirin 325mg, Ceftriaxone
+   1gram & Levofloxacin 750mg for possible RUL infiltrate.
+   .
+   On arrival to the ICU, pt was feeling better but still reporting cough,
+   congestion and shortness of breath.  Pt also reported some new
+   abdominal fullness, decreased appetite and subjective fever/chills.  He
+   had possible sick contacts from a wake he attended last week.  He
+   denied CP but reported orthopnea and progressive DOE.
+   .
+   Review of sytems:
+   (+) fever, chills, night sweats, Denies headache, sinus tenderness,
+   rhinorrhea or congestion. Denied chest pain or tightness, palpitations
+   and ankle edema. Denied nausea, vomiting, diarrhea, constipation or
+   abdominal pain. No change in bowel/bladder habits. No dysuria. Denied
+   arthralgias or myalgias.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Diltiazem - 5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Vitamin D 1000 unit daily
+   Lipitor 80mg daily
+   Flomax 0.4mg daily
+   Benicar 20mg daily
+   Tapazole 5mg daily
+   Aspirin 325mg daily
+   Furosemide 40mg daily
+   Omeprazole 20mg daily
+   Iron 325mg daily
+   Flovent q4hr prn
+   Toprol 100mg daily
+   Coumadin 10mg daily
+   Past medical history:
+   Family history:
+   Social History:
+   -Chronic Atrial fibrillation
+   -CAD s/p cath [**3138**] with 95% lesion in proximal LAD s/p Cypher stent
+   -Hypertrophic obstructive cardiomyopathy
+   -Chronic wheezing and asthmatic-type symptoms.
+   -Eosinophilia.
+   -Possible strongyloidiasis treated with ivermectin 25 mg x 2days
+   -Hypertension
+   -Hypercholesterolemia
+   -Hyperthyroidism
+   -BPH
+   -OA s/p total knee replacement
+   -OSA on BiPAP at home
+   -Pulmonary artery enlarged at 5.3 cm, enlarged asc aorta 4.5 cm
+   Mother died of ?heart dz at young age. Brother has [**Name2 (NI) 190**] ca and
+   CAD. Son recently died of [**Name2 (NI) 190**] ca in his 50's.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Lives alone at home, completely independent in ADLs. Smoked 1ppd
+   x 20yrs, quit 20 yrs ago. [**1-24**] glasses of wine per night.
+   Review of systems:
+   Flowsheet Data as of [**3141-2-24**] 10:10 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.6
+C (99.6
+   HR: 103 (95 - 103) bpm
+   BP: 141/83(98) {111/75(85) - 141/88(98)} mmHg
+   RR: 24 (18 - 28) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             16 mL
+   PO:
+             TF:
+   IVF:
+   16 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    720 mL
+   Urine:
+   720 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -704 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   Physical Examination
+   Vitals: T: 99.6 BP: 118/88 P: 100 R: 28 O2: 96% on 4L NC
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP elevated to below ear, no LN
+   Lungs: crackles bilaterally [**1-24**] way up posterior lung [**Last Name (un) 3700**], diffuse
+   insp & expiratory wheezes, scattered rhonchi, coughing through exam
+   CV: Irreg/irreg, intermittent S3, gr 2-3 SEM over LSB.
+   Abdomen: soft, NABS, distended, no rebound tenderness or guarding
+   Ext: Warm, 2+ pulses, no apprec. edema
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: Trop-T: 0.06  CK: 181  MB: 3
+   .
+   D-Dimer: <150
+   .
+   140  100  29  BS 181  anion gap 16
+   -------------
+   3.9  24  1.4
+   .
+   proBNP: [**Numeric Identifier 3754**]
+   .
+   WBC 7.1 Hgb 14.4 Hct 43 Plts 163
+   N:85.7 L:8.8 M:4.7 E:0.2 Bas:0.6
+   .
+   PT: 34.3  PTT: 34.9  INR: 3.6
+   .
+   Imaging: Echo [**3140-3-7**]: The left atrium is dilated. Mild spontaneous
+   echo contrast is seen in the body of the left atrium and left atrial
+   appendage. No mass/thrombus is seen in the left atrium or left atrial
+   appendage. The left atrial appendage emptying velocity is depressed
+   (<0.2m/s). Mild spontaneous echo contrast is seen in the body of the
+   right atrium. Mild spontaneous echo contrast is seen in the right
+   atrial appendage. No atrial septal defect or patent foramen ovale is
+   seen by 2D, color Doppler or saline contrast with maneuvers. There is
+   severe symmetric left ventricular hypertrophy. The left ventricular
+   cavity is unusually small. Overall left ventricular systolic function
+   is normal (LVEF>55%). Right ventricular function is normal with normal
+   free wall contractility. There are simple and complex (>4mm) atheroma
+   (at 34 cm from the incisors) in the descending thoracic aorta. There
+   are simple atheroma in the aortic arch. The aortic valve leaflets (3)
+   are mildly thickened. Mild (1+) aortic regurgitation is seen. The
+   mitral valve leaflets are mildly thickened. An eccentric, posteriorly
+   directed jet of mild to moderate ([**1-24**]+) mitral regurgitation is seen.
+   There is a small pericardial effusion.
+   .
+   Microbiology: Micro: blood cx pending
+   .
+   UA neg for WBCs
+   .
+   ECG: EKG: irreg/irreg rhythm with rapid rate in 150s, low voltage in
+   limb leads unchanged from prior and no acute ST-T wave changes as
+   compared to prior tracings
+   CXR portable [**3141-2-24**]: no acute infiltrate appreciated, small lung
+   volumes, enlarged cardiac silhouette
+   Assessment and Plan
+   79 y/o M with PMHx of CAD, Diastolic CHF, HOCM and Atrial Fib who
+   presents with subjective fevers, cough, hypoxia and volume overload.
+   .
+   # Hypoxia: Etiology likely multifactorial including pulm edema [**2-24**]
+   diastolic CHF, possible URI with bronchiolitis, possible infiltrate c/w
+   PNA, ACS much less likely given absence of symptoms. Pt is clinically
+   volume overloaded on exam with BNP >[**Numeric Identifier 3249**]. Exam also reveals diffuse
+   wheezes and cough that may all be cardiac in origin.  However, pt
+   describes URI symptoms, possible sick contacts and elevated lactate.
+   - continue Levofloxacin 750mg for possible CAP
+   - albuterol/atrovent nebs
+   - f/u am CXR, consider stopping Abx if no infiltrate
+   - send sputum, rapid viral screen & f/u blood Cx
+   - diuresis with lasix 40mg IV (goal neg 1-2L/day)
+   - rate control with BB & valsartan for afterload reduction
+   - trend lactate
+   - place foley, strict i/os
+   - wean oxygen as tolerated
+   - CPAP overnight
+   .
+   # Atrial Fibrillation with RVR: Pt presented with HR of 100 and
+   developped rapid Afib in the ED. Pt was started on a Dilt gtt and rate
+   came down to 100s.  Pt is currently CP free, denying palpitations and
+   BP stable in 120/70s.
+   - wean dilt gtt overnight
+   - start Metoprolol 25mg QID, titrate up prn
+   - hold coumadin given INR 3.6
+   - f/u TSH/T4 given h/o hyperthyroid
+   .
+   # Diastolic CHF/HOCM: Pt with severe HOCM and diastolic CHF who
+   developped rapid Afib with RVR in ED which likely decreased filling
+   time further and worsened pulm edema.  Rate controlled in 100s on dilt
+   gtt but would prefer to use betablocker for HOCM/diastolic CHF.
+   - wean dilt gtt
+   - start Metoprolol 25mg QID and titrate up prn
+   - Valsartan 80mg daily (replace olmesartan while in house)
+   - lasix 40mg IV now, goal neg 1-2L/day
+   .
+   # CAD/trop: Pt denying CP, CKs flat and EKGs without acute changes.  Pt
+   noted to have Afib with RVR in ED.  Suspect that isolated elevation in
+   troponin may be due to acute renal failure vs demand ischemia in
+   setting of RVR and hypoxia
+   - will continue to cycle CEs
+   - monitor on telemetry
+   - continue ASA, Toprol and Atorvastatin
+   - f/u repeat EKG
+   .
+   # Hyperthyroid: continue home medications of tapazole 2.5mg daily
+   .
+   # Hypertension: stable
+   - start metoprolol 25mg QID as above (wean dilt gtt)
+   - replace Olmesartan 20mg with Valsartan 80mg daily while in house
+   .
+   # FEN: Cardiac heart healthy, low Na diet
+   - replete electrolytes prn
+   .
+   # Prophylaxis: Heparin 5000u sc TID, bowel regimen, PPI
+   .
+   # Access: PIV x 2
+   .
+   # Code: DNR/DNI confirmed with patient
+   .
+   # Communication: with patient & son
+   .
+   # Disposition: pending improvement in hypoxia and rate control
+   ICU Care
+   Nutrition:  Cardiac Heart healthy
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3141-2-24**] 07:00 PM
+   Prophylaxis:
+   DVT:  heparin sc tid
+   Stress ulcer:  PPI
+   Communication:  with patient
+   Code status:  DNR/DNI
+   Disposition:  ICU for now
+   .
+
+
+
+DOC CLASS

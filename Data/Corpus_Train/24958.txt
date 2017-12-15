@@ -1,0 +1,345 @@
+Admission Date:  [**3232-2-3**]              Discharge Date:   [**3232-2-23**]
+
+Date of Birth:  [**3156-8-10**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4169**]
+Chief Complaint:
+Esophageal cancer
+
+Major Surgical or Invasive Procedure:
+Minimally invasive esophagogastrectomy with abdominal
+conversion, exploratory laparoscopy, feeding jejunostomy,
+splenectomy.
+
+History of Present Illness:
+Mr. [**Known patient lastname 41948**] is a 75-year-old man diagnosed with T3 N1
+adenocarcinoma of the distal esophagus treated with neoadjuvant
+chemoradiation who presents for elective esophagectomy.
+
+Past Medical History:
+Emphysema, hypercholesterolemia, positive PPD, arthritis, BPH,
+and hypertension.
+
+
+Social History:
+Married, retired service technician for gas company x 43 years.
+Significant asbestos exposure in past. Former smoker, 2 to 3
+packs per day x40 years.
+Quit smoking 4 years ago. Heavy alcohol use history, 3 to 4
+"strong drinks" daily for the past 20 years.
+
+Family History:
+Half-brother died of lung cancer at age 47. Father died of
+leukemia at age 75.
+
+Physical Exam:
+Wt. 175.4 lbs P 96 BP 137/78 RR 16 T 97 %O2 Sat 96
+Gen- NAD
+Chest- CTAB, no wheezes or rales
+Heart- RRR, nl S1S2, no M/G/R
+Abd- soft, NTND, +BS
+Ext- warm, no C/C/E
+
+Pertinent Results:
+[**3232-2-3**] calcHCT-32
+
+Pathology Examination
+SPECIMEN SUBMITTED: Esophageal Gastrectomy Specimen, SPLEEN,
+PARA ESOPHAGEAL LYMPH NODE & SUBCARINAL LYMPH NODE.
+
+DIAGNOSIS:
+I.  Esophagogastrectomy (A-Q):
+
+1.  Adenocarcinoma, see synoptic report.
+
+2.  Extensive Barretts esophagus with dysplasia.
+
+3.  Eleven lymph nodes, no carcinoma seen.
+
+II.  Subcarinal lymph node (R):
+
+One lymph node, no carcinoma seen.
+
+III.  Paraesophageal lymph node (S):
+
+One lymph node, no carcinoma seen.
+
+IV.  Spleen, 75 grams (T-V):
+
+No diagnostic abnormalities recognized.
+
+Esophagus: Resection Synopsis
+MACROSCOPIC
+
+Specimen Type:  Esophagogastrectomy.
+
+Tumor site:  Gastroesophageal junction.
+
+Tumor Size
+     See comment.
+
+MICROSCOPIC
+
+Histologic Type:  Adenocarcinoma.
+
+Histologic Grade:  Not applicable due to irradiation.
+
+EXTENT OF INVASION
+
+Primary Tumor:  pT2:  Tumor invades muscularis propria.
+
+Regional Lymph Nodes:  pN0:  No regional lymph node metastasis.
+
+Lymph Nodes
+    Number examined:  13.
+    Number involved:  0.
+
+Distant metastasis:  pMX:  Cannot be assessed.
+
+Margins
+    Proximal margin:  Uninvolved by invasive carcinoma.
+    Distal margin:  Uninvolved by invasive carcinoma.
+    Circumferential (adventitial) margin:  Uninvolved by
+invasive carcinoma.
+    Distance of invasive carcinoma from closest margin:  1 mm
+(Circumferential). Keratin immunostains evaluated.
+
+Lymphatic (Small Vessel) Invasion:  Absent.
+
+Venous (Large vessel) invasion:  Absent.
+
+Additional Pathologic Findings:  Intestinal metaplasia,
+dysplasia.
+
+Comments:  1. The tumor size is difficult to assess because of
+treatment effect. The grossly described nodule which measures
+2.2 cm shows scattered tumor nests with very prominent
+fibroblastic reaction.
+
+2. There are rare, small mucinous collections in the adventitia
+of the esophagus with no associated tumor cells as being
+evaluated by immunostains.
+
+Clinical:  Esophageal cancer - status post chemotherapy.
+Gross:
+The specimen is received fresh labeled with "[**Known patient lastname 41948**], [**Known patient firstname **]"
+and the medical record number and "esophagogastrectomy specimen"
+and consists of a segmental resection of esophagus and proximal
+stomach measuring 26 cm in length.  There is a stapled proximal
+resection margin measuring 2.5 cm in length and a stapled distal
+resection margin measuring 8.5 cm.  There is an additional
+staple line present 4 cm from the proximal resection margin. The
+attached fat measures up to 5 cm in length.  The outer portion
+of the specimen is remarkable for an area of firmness felt
+around the gastroesophageal junction.  This area is inked in
+black. The specimen is opened to reveal a fungating pink tan
+mass measuring 2.2 x 2.2 x 0.7 cm at the GE Junction along the
+side of the greater curvature. This mass lies 2.5 cm from the
+distal resection margin and 24 cm from the proximal resection
+margin. The total length of esophagus measures 24 cm.  The
+mucosa from the GE junction appears tan, [**Location (un) 114**] and irregular,
+suggestive of Barrett's esophagus and extends for 12 cm. There
+is an irregular Z-line that lies 10 cm from the proximal
+resection margin. The mass is sectioned to reveal invasion into
+the muscular layer.  It does not appear to extend through the
+serosa. The gastric mucosa appears unremarkable. Multiple lymph
+nodes are identified measuring up to 4.2 cm. The specimen is
+represented as follows: A = stapled distal resection, B =
+stapled proximal resection margin of esophagus, C = distal
+resection margin, D-F = tumor, G = GE junction, H = stomach, I =
+Z-line, J = esophagus, K = area near second staple line near
+proximal resection margin, L = area of largest lymph node, M-Q =
+individual lymph nodes.
+
+Part 2 is additionally labeled "subcarinal lymph node" and
+consists of a 0.9 x 0.8 x 0.3 cm lymph node that is bisected and
+entirely submitted in R.
+
+Part 3 is additionally labeled "para-esophageal lymph nodes and
+consists of a lymph node and associated fat measuring 1.2 x 0.7
+x 0.4 cm. It is bisected and entirely submitted in S.
+
+Part 4 is additionally labeled "spleen" and consists of a 75
+gram spleen measuring overall 8.5 x 6 x 2.5 cm.  There is a
+stapled resection margin at the hilum measuring 6 cm. The
+specimen is sectioned to reveal unremarkable beefy red cut
+surfaces. No abnormalities are noted. Representative sections
+are submitted in T-U.
+
+Cardiology Report ECHO Study Date of [**3232-2-13**]
+MEASUREMENTS:
+Left Atrium - Long Axis Dimension: *4.2 cm (nl <= 4.0 cm)
+Left Ventricle - Septal Wall Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 5.5 cm (nl <= 5.6 cm)
+Left Ventricle - Systolic Dimension: 3.7 cm
+Left Ventricle - Fractional Shortening: 0.33 (nl >= 0.29)
+Left Ventricle - Ejection Fraction: >= 65% (nl >=55%)
+Aorta - Valve Level: 3.6 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.2 cm (nl <= 3.4 cm)
+Aortic Valve - Peak Velocity: 1.3 m/sec (nl <= 2.0 m/sec)
+Mitral Valve - E Wave: 0.6 m/sec
+Mitral Valve - A Wave: 0.9 m/sec
+Mitral Valve - E/A Ratio: 0.67
+Mitral Valve - E Wave Deceleration Time: 151 msec
+
+INTERPRETATION:
+Findings:
+LEFT ATRIUM: Mild LA enlargement.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+systolic function  (LVEF>55%). Suboptimal technical quality, a
+focal LV wall motion abnormality  cannot be fully excluded.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic root diameter.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. LV inflow
+pattern c/w  impaired relaxation.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+
+
+Conclusions:
+1. The left atrium is mildly dilated.
+2. Left ventricular wall thickness, cavity size, and systolic
+function are normal (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded.
+3. The aortic valve leaflets (3) are mildly thickened.
+4. The mitral valve leaflets are mildly thickened.
+5. There is a trivial/physiologic pericardial effusion.
+
+Electronically signed by [**First Name8 (NamePattern2) 446**] [**Last Name (NamePattern1) **], MD on [**3232-2-13**] 14:54.
+[**Location (un) **] PHYSICIAN: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].
+
+
+Brief Hospital Course:
+The patient was admitted to the Crimson Surgery service and
+underwent minimally invasive esophagogastrectomy converted to
+open with splenectomy and feeding jejunostomy on [**3232-2-3**] by Drs.
+[**Last Name (STitle) 60**] and [**Name5 (PTitle) 456**] (see op note for details). He remained
+intubated postoperatively and was transferred to the CSRU in
+stable condition. The patient was resuscitated with crystalloid
+and packed red blood cells POD 1 due to low urine output. He
+remained sedated and intubated.
+
+POD 2, trophic tube feedings were initiated. He was extubated
+and remained in stable condition. Ativan and Haldol had to be
+administered a couple of times for agitation, confusion, and
+tube/IV pulling.  However, once his mentation normalizes, he
+progressed nicely.  He was maintained on a heparin drip for his
+paroxysmal afib and received nutrition via tube feeding.
+
+On POD 15 he was transferred to the cardiac floor where he
+stayed until day of discharge.
+
+On POD 16 he passed his bedside swallow evaluation for pureed
+foods and nectar thick liquids. He continues to aspirate thin
+liquids, however this is expected to improve.
+
+On POD 17, he was give Pneumovac, H. influenza B, Meningicoccus
+vaccines.  His INR was therapeutic on warfarin (given for
+paroxysmal afib, pt currently in sinus rhythm, goal INR 2.0) and
+the heparin drip was discontinued.
+
+On POD 20 he was dishcarged to a rehabilitation center in fair
+condition with specific instructions for post-hospital care and
+follow-up.
+
+
+Medications on Admission:
+[**First Name9 (NamePattern2) 41949**]
+[**Last Name (un) **]
+lipitor
+ASA
+nexium
+MVI
+vitamin E
+seaweed
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs
+PO Q4-6H (every 4 to 6 hours) as needed.
+3. Albuterol Sulfate 0.083 % Solution Sig: [**11-24**]  Inhalation Q4H
+(every 4 hours) as needed.
+4. Ipratropium Bromide 0.02 % Solution Sig: [**11-24**]  Inhalation Q4H
+(every 4 hours).
+5. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+6. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One
+(1)  PO DAILY (Daily).
+7. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+8. insulin
+Insulin SC  (per Insulin Flowsheet)
+      Sliding Scale
+9. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO TID (3
+times a day).
+10. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+HS (at bedtime) as needed.
+11. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+12. Warfarin 1 mg Tablet Sig: One (1) Tablet PO at bedtime: dose
+varies depending on INR.  Pt had been getting 5 mg QHS.
+13. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1096**] Northwest [**Hospital1 1814**]
+
+Discharge Diagnosis:
+Esophageal cancer, status post
+neoadjuvant chemoradiation.
+
+
+Discharge Condition:
+Fair and Stable
+
+
+Discharge Instructions:
+[**Month (only) 496**] return to taking outpatient medications.  Please follow
+directions as discussed previously with Dr. [**Last Name (STitle) 60**].
+
+Please take medications as prescribed and read warning labels
+carefully.  If signs of infections such as purulent discharge
+from wound, increased pain and redness at wound, please call or
+go to the emergency room.  If signs and symptoms of bowel
+obstruction, such as abdomenal pain with vomiting and
+distention, please go to the emergency room.  Remember to call
+for a follow up appointment (bellow).  Light activities until
+seen in clinic.  [**Month (only) 496**] have thickened fluids.  Absolutely no
+smoking.
+
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) 60**] in [**11-24**] weeks. Call his office at
+([**Telephone/Fax (1) 4170**] to schedule your appointment.
+
+Please remember to follow up your Coumadin dosing with your
+primary care provider.  [**Name10 (NameIs) **] to do so may result in dangerous
+levels of the anti-coagulation medication that can result in
+complications such strokes, internal bleeding, and easy
+bruising. PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 41950**]
+
+
+
+
+
+
+DOC CLASS

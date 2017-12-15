@@ -1,0 +1,341 @@
+Admission Date:  [**3383-3-21**]              Discharge Date:   [**3383-4-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Dicloxacillin
+
+Attending:[**First Name3 (LF) 6300**]
+Chief Complaint:
+Dyspnea
+
+Major Surgical or Invasive Procedure:
+Left PICC line placed on [**3383-3-23**].
+
+
+History of Present Illness:
+The patient is an 86-yo-woman with history of atrial fib
+presents w/ dyspnea. She was feeling well until 2-3 days ago,
+when she developed cough productive of scant sputum with
+devlopment of wheezing. She became progressively more dyspnic
+throughout the day, until the ALF staff became concerned and
+referred her to the [**Hospital1 52**] by EMS. Patient denied at that time
+any recent fever, chest pain, increased LE edema, leg pain.
+.
+In the ED, the patient was found to be hypertensive, in afib w/
+rate 100-120, O2 sat 98% on 2L/m with CXR revealing pulm edema.
+She was given lasix and diuresed 1000cc, started on nitro gtt
+for BP control and admitted to the MICU for ongoing care.
+
+Past Medical History:
+Atrial fibrillation: on coumadin
+Sick sinus syndrome: has required temporary pacer for skin
+surgery previously
+HTN
+Hyperlipidemia
+Chronic venous stasis
+Squamous cell carcinoma: right medial calf, s/p excision [**1-8**],
+positive margins on 1st and 2nd excision attempts, needs XRT to
+area 6 weeks after the wound heals.
+UTI: last culture w/ enterobacter resistant to all but bactrim
+and meropenem
+rectal ulcers: possibly from constipation and straining
+History of C diff colitis
+Anemia: from blood loss after GI bleed, last HCT 25-30 in [**1-8**]
+
+Urge incontinence
+Depression
+Colon adenoma in [**3375**]: last colonoscopy in [**3377**], no polyps
+s/p hysterectomy
+
+
+Social History:
+Husband recently died from terminal liver disease. Lives in
+[**Hospital3 937**] facility in [**Location (un) **]. No TOB, EtOH, or other
+drugs.
+
+
+Family History:
+NC
+
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+Vitals: T- 96.7 BP: 147/71 HR: 81 (78-87)
+RR: 18-24 O2: 95-98% on 3L NC
+I/O: 1737/1515 LOS: - 750cc
+.
+General: Patient is an elderly female, Oriented to name, place?,
+year [**3382**] in NAD. Patient at times tangential, difficult to
+direct
+HEENT: NCAT, EOMI. OP: MM dry appearing
+Neck: JVP approx 8cm
+Chest: Patient with significant expiratory wheezing diffusely
+with inspiratory crackles at both bases. Prolonged expiratory
+phase
+Cor: Irreg irreg. intermittent II/VI systolic murmur loudest at
+LLSB
+Abdomen: Obese, soft, NT, ND
+Extremity: trace to 1+ pedal edema, hyperpigmented skin. 3-4cm
+surgical ulcer over right lower extrmiety. Right thigh with
+hyperpigmented flap s/p excision of skin flap.
+
+
+Pertinent Results:
+[**3383-3-21**] 07:15PM   PT-21.0* PTT-31.2 INR(PT)-2.0*
+[**3383-3-21**] 07:15PM   PLT COUNT-166
+[**3383-3-21**] 07:15PM   MICROCYT-1+
+[**3383-3-21**] 07:15PM   NEUTS-61.6 LYMPHS-31.8 MONOS-6.0 EOS-0.3
+BASOS-0.2
+[**3383-3-21**] 07:15PM   WBC-7.7 RBC-3.57* HGB-10.7* HCT-31.3* MCV-88
+MCH-29.9 MCHC-34.2 RDW-16.0*
+[**3383-3-21**] 07:15PM   CK-MB-NotDone cTropnT-<0.01
+[**3383-3-21**] 07:15PM   CK(CPK)-62
+[**3383-3-21**] 07:15PM   estGFR-Using this
+[**3383-3-21**] 07:15PM   GLUCOSE-109* UREA N-19 CREAT-0.7 SODIUM-139
+POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-22 ANION GAP-17
+[**3383-3-21**] 07:27PM   LACTATE-3.0*
+.
+[**3383-4-1**] 06:27AM BLOOD WBC-8.5 RBC-3.49* Hgb-9.9* Hct-30.9*
+MCV-88 MCH-28.3 MCHC-32.0 RDW-15.9* Plt Ct-290
+[**3383-4-1**] 06:27AM BLOOD PT-13.8* PTT-64.7* INR(PT)-1.2*
+[**3383-3-31**] 06:38AM BLOOD Glucose-90 UreaN-20 Creat-1.1 Na-142
+K-3.7 Cl-106 HCO3-28 AnGap-12
+[**3383-4-1**] 06:27AM BLOOD Glucose-96 UreaN-21* Creat-1.2* Na-140
+K-4.2 Cl-106 HCO3-27 AnGap-11
+IMAGING:
+[**3383-3-21**] PORTABLE CXR: IMPRESSION: Findings consistent with CHF
+.
+[**3383-3-22**] CXR:
+Compared with one day earlier, the right suprahilar patchy
+opacity is more extensive and patchy opacity in the right
+cardiophrenic region is also more pronounced. However, I doubt
+the presence of upper zone redistribution or significant CHF.
+Minimal patchy opacity in the retrocardiac region and right is
+unchanged. No effusion is identified. No pneumothorax is seen.
+IMPRESSION: Doubt CHF. More extensive patchy opacities in the
+right perihilar and right cardiophrenic regions.
+.
+[**3383-3-22**] LENIs: IMPRESSION: No evidence of deep vein thrombosis
+of the right or left lower extremity.
+
+
+Brief Hospital Course:
+86 yo female with history of afib with SSS on coumadin, HTN,
+hyperlipidemia who presents from ALF with worsening dyspnea,
+treated in MICU for NSTEMI, CHF and PNA.
+.
+# NSTEMI:  In the setting of her acute illness the patient
+suffered an NSTEMI with Trop increasing from <.01 to peak of
+0.77, since trending downward. Cardiology was consulted with
+recommendation to treat comorbidities and maximize med regimen
+without likely plan for cath. However, given NSTEMI exacerbated
+by afib with RVR and history of likely tachy-brady, EP consulted
+as well. Patient is currently well rate controlled with
+Metoprolol with potential plan for PPM at some point in future.
+.
+# Dyspnea: Likely multifactorial including PNA, CHF.  In the
+MICU, the patient initially required BiPap for resp distress.
+She was subsequently diuresed and started on broad spectrum
+coverage abx (Vanc/Zosyn/Flagyl) given fever on admission and
+course pulmonary exam. With above treatment patient's fever
+curve improved as did her resp status.  Antibiotics were then
+narrowed to levofloxacin and she will complete a 14 day course
+to finish on [**3383-4-7**].  Of note, she did have LLE swelling on
+admission which has since resolved, but LENIs neg for DVT.
+.
+# CHF: Echo done in [**10-9**] with EF >70. Likely [**3-7**] diastolic
+dysfunction.  She was initially diuresed aggressively, but her
+diuretics were discontinued when she appeared clinically
+euvolemic, if not mildly dry [**3-7**] to decreased PO intake.  Her
+fluid status will need to be continually addressed while in
+rehab with reinitiation of her diuretics as needed accordingly.
+.
+#. Pneumonia: was on vanc/zosyn/azithro in ICU for LLL opacity
+on CXR. Changed to levaquin PO for ? CAP/asp.  She was not
+covered for hospital acquired infection (gram negatives and
+MRSA), but doubt that based on clinical status and CXR findings.
+ She has remained afebrile without leukocytosis since initiation
+of abx.  Her pulmonary exam remains rhonchorus and she has not
+been able to clear her secretions well.  Chest PT was initiated
+with improvement in her O2 saturation on room air.  Aggressive
+pulmonary toilet should be continued in rehab as well.  If
+clinical status were to deteriorate, broadening antibiotic
+coverage to include hospital acquired infections is very
+reasonable given her multiple hospital and rehab admissions.
+Respiratory and blood cultures were negative.  She is to
+complete a 14 day course of levofloxacin on [**3383-4-7**].  She was
+maintaining oxygen saturations in the low to mid 90s (increasing
+to high 90s with chest PT) at time of discharge.
+.
+#. COPD: likely experiencing exacerbation [**3-7**] pneumonia.
+Although predominantly rhonchorus on exam, she did have
+intermittent wheezing.  She was continued on advair,
+albuterol/atrovent nebulizers, which have improved her
+bronchospastic symptoms and exam findings.
+.
+#. CAD: Patient with troponin elevation, peak 0.77 and
+subsequent downward trend. Likely a demand picture in setting of
+afib with RVR, PNA, and CHF with resultant hypoxia in the unit.
+She was started on plavix for anticipated cath but no plan for
+that currently so it was discontinued.  She will be continued on
+ASA and statin for discharge.
+.
+#. Atrial fibrillation: Known history of a. fib with history of
+likely SSS, previously requiring temporary pacing.  Had 2
+episodes of A-fib w/ RVR on [**3-27**], which were largely
+unresponsive to IV lopressor, but broke with diltiazem 10-20 mg
+IV.  She will be continued on PO metoprolol at 50mg QID.  Her
+coumadin was originally held for the potential of PPM placement
+by EP.  However, given her pulmonary status currently, there are
+holding on PPM placement currently.  She does, however, have
+outpatient follow up with EP on [**3383-6-4**] at which time this will
+be readdressed.  Currently, she remains on heparin gtt and will
+be restarted on coumadin.  Weight based heparin gtt (as included
+in discharge paperwork) can be discontinued when her INR is
+again therapeutic, but this will need to be followed in rehab.
+.
+#.  Hematuria:  While on the heparin gtt, she developed
+hematuria via her foley 1 day prior to admission.  There were no
+clots.  Hct and HD were entirely stable in this setting.  Her
+foley catheter was discontinued and her UA did not reveal
+evidence of infection.  She was able to void without difficulty
+and she denied urinary symptoms.  A urine cx is currently
+pending and should be followed up.  She should call [**Hospital1 52**]
+urology at([**Telephone/Fax (1) 3161**] for a follow up appointment to further
+evaluate this if persists.
+.
+#. Anemia: baseline HCT 25-30.  Stable throughout hospital
+course.  Should be monitored at rehab given anticoagulation and
+recent hematuria.
+.
+#. ARF:  She had a very mild bump in her creatinine to 1.2 (BL
+creatinine nml) just prior to discharge and clinically on exam
+appeared to be dry with dry MM.  Creatinine normalized on day of
+d/c to 1.0 after small IV fluid bolus.  Prior to her creatinine
+bump, she had been kept NPO for the potential PPM placement.
+Her diet has since been restarted and she was given a small
+fluid bolus (given known CHF and recent aggressive diuresis).
+Her kidney function and fluid status should be monitored at
+rehab as well.
+.
+#. Depression:  She was continued on Celexa per her outpatient
+regimen.
+.
+#. FEN:  Low sodium, heart healthy diet, ground, thick liquids.
+Given concern for aspiration pneumonia, she was evaluated by
+speech and swallow twice during this stay and was cleared to
+take PO (ground and thin liquids) diet without evidence of
+aspiration.
+.
+#  On [**3383-4-1**], primary team was notified that patient had a bed
+at [**Hospital **] rehab and she was discharged there.  However, upon
+arrival to [**Hospital **] rehab, transport team was informed that there
+was no bed available.  Thus, she was transferred back to [**Hospital1 52**]
+in the care of original team and nursing staff.  She was
+discharged to [**Hospital **] Rehab on [**3383-4-2**].
+
+Medications on Admission:
+MEDS ON ADMISSION:
+- aspirin 81 mg (on hold pre-op)
+- metoprolol 12.5 mg tid
+- atorvastatin 20 mg daily
+- warfarin 4 mg qhs
+- celexa 60 mg daily
+.
+MEDS ON TRANSFER FROM MICU:
+Insulin SC
+Ipratropium Bromide Neb 1 NEB IH Q6H
+Acetaminophen 325-650 mg PO Q4-6H:PRN
+Metoprolol 75 mg PO TID
+Aspirin 81 mg PO DAILY
+Nitroglycerin SL 0.3 mg SL PRN
+Atorvastatin 20 mg PO DAILY
+Pantoprazole 40 mg IV Q24H
+Azithromycin 250 mg PO Q24H Order date: [**3-22**]
+Piperacillin-Tazobactam Na 2.25 gm IV Q6H [**3-23**]
+Citalopram Hydrobromide 60 mg PO DAILY
+Clopidogrel Bisulfate 75 mg PO DAILY
+Senna 1 TAB PO BID:PRN
+Docusate Sodium 100 mg PO BID
+Heparin IV per Weight-Based Dosing Guidelines
+Vancomycin HCl 1000 mg IV Q 24H
+.
+Allergies: Sulfonamides / Dicloxacillin
+
+Discharge Medications:
+1. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Citalopram 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+4. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed).
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 5 doses: To complete 10 day course on [**3383-4-7**].
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO QID
+(4 times a day).
+9. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q4H (every 4 hours).
+10. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 9**] (2 times a day).
+11. Heparin (Porcine) in NS  Intravenous
+12. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One
+(1) ML Intravenous DAILY (Daily) as needed: for left PICC.
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 47**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary:
+Pneumonia
+Tachy-brady syndrome
+Atrial fibrillation
+Non ST-elevation MI
+Hematuria
+Congestive heart failure
+.
+Secondary:
+Depression
+Anemia
+
+
+Discharge Condition:
+Stable. With oxygen saturations on room air in the low-mid 90s.
+Maintaining O2 sats while ambulating with physical therapy.
+
+
+Discharge Instructions:
+Please take your medications as prescribed, ensuring in
+particular, that you complete your course of antibiotics (to
+finish on [**3383-4-7**]).
+.
+Please call your doctor or return to the emergency room if you
+develop chest pain, shortness of breath, worsening cough, weight
+gain of greater than 3 pounds, worsening blood in your urine,
+discomfort urinating, or inability to void, fevers/chills, blood
+in your stool or any other symptoms that concern you.
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], M.D. Date/Time:[**3383-4-15**] 2:30
+.
+Provider: [**Name10 (NameIs) 310**] [**Name8 (MD) 2270**], M.D. Phone:[**Telephone/Fax (1) 4465**]
+Date/Time:[**3383-6-4**] 10:20
+.
+Please call urology at ([**Telephone/Fax (1) 3161**] to schedule an appointment
+to further evaluate the cause of your bloody urine.
+
+
+
+
+
+DOC CLASS

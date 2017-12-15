@@ -1,0 +1,257 @@
+Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   Belladonna Alkaloids
+   itching; swolle
+   Flagyl (Oral) (Metronidazole)
+   Diarrhea;
+   Last dose of Antibiotics:
+   Metronidazole - [**2831-2-21**] 08:00 AM
+   Vancomycin - [**2831-2-22**] 12:00 PM
+   Cefipime - [**2831-2-22**] 10:00 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2831-2-22**] 08:38 AM
+   Morphine Sulfate - [**2831-2-22**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2831-2-23**] 07:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**32**] AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 65 (63 - 94) bpm
+   BP: 119/32(56) {102/31(52) - 134/54(81)} mmHg
+   RR: 19 (6 - 30) insp/min
+   SpO2: 94%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Height: 63 Inch
+             Total In:
+                                                                    680 mL
+                                                                     73 mL
+   PO:
+                                                                    180 mL
+             TF:
+   IVF:
+                                                                    500 mL
+                                                                     73 mL
+   Blood products:
+   Total out:
+                                                                    805 mL
+                                                                    180 mL
+   Urine:
+                                                                    805 mL
+                                                                    180 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -125 mL
+                                                                   -107 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   SpO2: 94%
+   ABG: ///25/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   132 K/uL
+   7.8 g/dL
+   97 mg/dL
+   2.4 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   81 mg/dL
+   116 mEq/L
+   149 mEq/L
+   24.3 %
+   7.3 K/uL
+        [image002.jpg]
+                                                                [**2831-2-22**]
+                                                                     5:32p
+   _______________________________________________________________________
+                                     pH
+                                    7.24
+                                    pCO2
+                                     60
+                                     pO2
+                                     57
+                                    HCO3
+                                     27
+                                   BaseXS
+                                     -2
+                             [**2831-2-21**]  02:22 AM
+                             [**2831-2-21**]  04:43 AM
+                             [**2831-2-21**]  12:28 PM
+                             [**2831-2-22**]  06:05 AM
+                             [**2831-2-23**]  05:17 AM
+   WBC
+   4.6
+   6.4
+   7.3
+   Hct
+   25.2
+   24.9
+   26
+   24.5
+   24.3
+   Plt
+   114
+   136
+   132
+   Cr
+   2.9
+   2.7
+   2.4
+   Glucose
+   108
+   94
+   97
+   Other labs: PT / PTT / INR:10.7/28.1/0.9, ALT / AST:[**1-23**], Alk Phos / T
+   Bili:75/0.4, Lactic Acid:0.8 mmol/L, LDH:189 IU/L, Ca++:8.0 mg/dL,
+   Mg++:2.3 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   83 year old female with very complicated medical history including
+   Crohn's disease, with both bleeding and clotting who fell out of bed
+   and sustained multiple fractures and ecchymosis; transferred to the ICU
+   [**2831-2-20**] for hypercarbia and respiratory acidosis for non-invasive
+   ventilation.
+   # Hypercarbic respiratory failure: Patient with improved VBG this
+   morning.  Initially suspected [**1-21**] narcotics use given recent injury but
+   last dosing was [**2-15**].  Could also consider OSA that has been untreated
+   but daughter states patient rarely uses CPAP at home.  Other
+   considerations include PE (given history, femur fracture and off
+   Lovenox) vs PNA.
+    - CXR --> with e/o new consolidation, will treat for HAP
+   -  continue vanc/cefepime (No flagyl d/t terrible diarrhea in the past)
+    - Hold CTA, Ddimer given ARF/CKD
+   -  follow VBG
+ start noninvasive if pH< 7.2 or CO2> 65
+   - consider lasix in next several days
+   # Fall with mulitple fractures and laceration: Intraarticular right
+   knee/femur fracture and right elbow fracture with associated head
+   injury and deep laceration to right arm and tear of left leg. Pt became
+   more sleepy with oxycodone, so this was discontinued.  She was then
+   treated with 7 days of Cefazolin per Ortho recs.  This was discontinued
+   [**2831-2-20**]
+    - Pain management: Tylenol scheduled (PR while NPO), Morphine PRN
+    - Ortho recs (will need follows in 2 weeks with [**Doctor Last Name 3169**] [**Telephone/Fax (1) 11575**])
+    - Vitamin A per Plastics
+    - Take down brace once daily for skin checks
+    - Avoid creams/lotions as may macerate skin further
+    - Will need Plastics follow-up Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] @ [**Hospital3 271**]
+   [**Telephone/Fax (1) 11576**]
+    - Dressing changes Q3 days per Plastics
+   # Positive Blood Cultures: GPC in pairs and clusters, [**12-23**]: likely
+   contaminant, will await speciation, already on vanco. Treat HAP as
+   above.
+   - f/u cultures, surveillance cultures
+   - echo if high grade bacteremia
+   # Hypothermia: Noted [**2831-2-20**], now resolved.  Concern for possible
+   infectious sepsis.  Blood and urine cultures were obtained.  She was
+   bolused with NS and treated with increased Dexamethasone given she's
+   chronically on steroids for her Crohn's disease.
+    - Decadron 4mg IV Q8
+    - Continue abx as above
+    - Send C.diff x 3
+    - CXR to evaluate for pulmonary process --> with e/o new
+   consolidation, will treat for HAP as above
+    - Follow-up cultures
+   # AMS: Suspect multifactorial including toxic-metabolic abnormalities
+   (hypercarbia, infection); hospital delirium and/or infection that is
+   being untreated.  UA from catheter concerning infection, awaiting urine
+   culture.
+    - Infectious work-up as above
+    - Avoid sedating medications while trying to control pain
+ morphine
+   prn
+    - Avoid unnessary wake-ups
+   # Oliguria: Patient with intermittent oliguria during hospitalization.
+   This has been in conjunction with poor po intake and [**Last Name (un) **] on CKD.
+   Baseline Cr 2.2.  This AM Creatinine 2.4
+    - Monitor urine output
+    - Continue IVF for now
+    - If poor urine output: Ulytes, UEos (multiple antibiotics exposures)
+   - Goal for fluid is negative, continue to monitor and treat with lasix
+   if needed
+   # Acute on chronic renal failure: Cr improved to 2.7 today, baseline is
+   2.2. Per renal, somewhere between pre-renal and ATN. Renal ultrasound
+   without hydronephrosis.
+    - cont to monitor
+    - Renally dose as appropriate
+    - Kayexelate PR/PO if newly hyperkalemic
+   # Acute on chronic anemia: History of myelodysplastic disorder, now
+   with acute blood loss [**1-21**] to multiple eccymoses /  hematomas.  CT
+   abdomen negative for RP bleed.  S/p 4U PRBC prior to transfer to the
+   ICU.
+    - Steroids as above (increased dosing)
+    - PPx Bactrim once taking improved PO
+    - monitor Hct daily
+    - T&S
+    - B12 injections monthly, Folate
+   # Crohn's: Currently with diarrhea, though may be related to Kayexelate
+   given for hyperkalemia
+    - mesalamine PO
+   - Increased steroids as above
+    - f/u C. Diff culture, hold flagyl
+   # Hx of PE/DVT: last DVT [**3-28**] with PICC. Was on lovenox at home, but
+   now concern for bleeding in setting of significant lacerations and
+   fractures. Lovenox held briefly while inpatient for acute blood loss
+   anemia.   She has IVC filter.
+    - follow Hct
+   - hold lovenox for now
+ considering IVC filter
+   # Loss of vision/cataracts: per daughter lost vision in left eye 2
+   months ago, no eye evaluation since due to unable to get to doctors
+   [**Name5 (PTitle) **].  Ophthalmology consulted while inpatient and recommended
+   continuation of home eye drops.
+    - eye gtts per home regimen
+   # Decubitus ulcer: Being followed by wound care with multiple
+   recommendations.
+    - Atmos Air Mattress
+    - Wound Care recs
+   # FEN: hold IVF/ Replete PRN & monitor for hyperkalemia / start to
+   advance diet today
+   # Prophylaxis:
+    - DVT
+ consider IVC filter, hold heparin/lovenox
+    - Bowel regimen
+    - PPI given steroids
+    - Insulin Sliding Scale while on increased Decadron
+   # Access: Port
+   # Code: DNR/DNI per daughter (who is at the bedside), avoid central
+   lines/arterial lines
+   # Communication: Patient (Russian) , daughter
+   # Emergency Contact: Daughter
+   # Disposition: ICU today
+ possible call out todayif doing well on
+   intermittent bipap
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Indwelling Port (PortaCath) - [**2831-2-20**] 08:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

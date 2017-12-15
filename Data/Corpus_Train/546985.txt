@@ -1,0 +1,239 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**3078-10-26**] 08:00 PM
+   RIJ placed from OSH
+ TRANSTHORACIC ECHO - At [**3078-10-26**] 09:15 PM
+ NASAL SWAB - At [**3078-10-26**] 10:00 PM
+   MRSA screen
+ URINE CULTURE - At [**3078-10-26**] 10:00 PM
+   UA/UCx
+ BLOOD CULTURED - At [**3078-10-27**] 01:15 AM
+   venipuncture
+ MULTI LUMEN - START [**3078-10-27**] 03:00 AM
+ MULTI LUMEN - STOP [**3078-10-27**] 03:30 AM
+   RIJ placed from OSH
+ BLOOD CULTURED - At [**3078-10-27**] 03:30 AM
+ SPUTUM CULTURE - At [**3078-10-27**] 05:00 AM
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Midazolam (Versed) - 4 mg/hour
+   Fentanyl - 25 mcg/hour
+   Dobutamine - 2.5 mcg/Kg/min
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3078-10-26**] 08:00 PM
+   Pantoprazole (Protonix) - [**3078-10-27**] 12:00 AM
+   Heparin Sodium (Prophylaxis) - [**3078-10-27**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3078-10-27**] 05:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 35.9
+C (96.7
+   HR: 77 (73 - 110) bpm
+   BP: 100/70(78) {90/59(68) - 135/92(98)} mmHg
+   RR: 18 (13 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+    CO/CI (Fick): (8.5 L/min) / (4.2 L/min/m2)
+   Mixed Venous O2% Sat: 87 - 87
+   Total In:
+                                                                     13 mL
+                                                                    818 mL
+   PO:
+   TF:
+   IVF:
+                                                                     13 mL
+                                                                    287 mL
+   Blood products:
+                                                                    531 mL
+   Total out:
+                                                                    685 mL
+                                                                  1,080 mL
+   Urine:
+                                                                    525 mL
+                                                                  1,080 mL
+   NG:
+                                                                     60 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -673 mL
+                                                                   -262 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 10
+   RR (Spontaneous): 14
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 53
+   PIP: 14 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 90.2 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.44/36/214/24/1  9PM
+   Ve: 7.4 L/min
+   PaO2 / FiO2: 535
+   Physical Examination
+   General: 48 M, intubated and sedated, NAD.
+   HEENT: NC/AT. Pupils pinpoint and reactive. ET tube in place. OG tube
+   in place. Right IJ in place with 1/3 of line out of neck.
+   Neck: No JVD.
+   CV: S1, S2 with Grade III/VI systolic ejection murmur, RUSB, radiating
+   to the carotids.
+   Pulm: Faint bibasilar crackles, otherwise CTAB.
+   Abd: Soft, NT/ND with normoactive BS.
+   Ext: 2+ pitting edema B/L to mid-thigh. Distal pulses intact.  Cool
+   toes.
+   Skin: No rash.
+   Labs / Radiology
+   [**3078-10-26**]  09:23 PM
+                            [**3078-10-26**]  09:49 PM
+                            [**3078-10-27**]  04:51 AM
+   WBC
+   13.4
+   9.8
+   Hct
+   49.7
+   41.7
+   Plt
+   111
+   105
+   Cr
+   1.6
+   TropT
+   0.04
+   TCO2
+   25
+   Glucose
+   73
+   Other labs: PT / PTT / INR:23.3/33.8/2.2, CK / CKMB /
+   Troponin-T:128/5/0.04, ALT / AST:302/521, Alk Phos / T Bili:177/7.0,
+   Differential-Neuts:77.7 %, Lymph:10.8 %, Mono:10.6 %, Eos:0.2 %,
+   Fibrinogen:216 mg/dL, Lactic Acid:3.9 mmol/L, Albumin:3.5 g/dL, LDH:915
+   IU/L, Ca++:9.0 mg/dL, Mg++:1.9 mg/dL, PO4:5.1 mg/dL
+   B, U Cx  P
+   Echo: There is moderate symmetric left ventricular hypertrophy. The
+   left ventricular cavity is moderately dilated. There is severe global
+   left ventricular hypokinesis (LVEF = 15-20 %). The right ventricular
+   cavity is moderately dilated with depressed free wall contractility.
+   The ascending aorta is moderately dilated. The number of aortic valve
+   leaflets cannot be determined. The aortic valve leaflets are severely
+   thickened/deformed. Significant aortic stenosis is present (not
+   quantified). Mild to moderate ([**12-12**]+) aortic regurgitation is seen. The
+   aortic regurgitation jet is eccentric, directed toward the anterior
+   mitral leaflet. There is no pericardial effusion.
+   PRELIMINARY REPORT developed by a Cardiology Fellow. Not
+   reviewed/approved by the Attending Echo Physician.
+   [**Name Initial (NameIs) **]: Left IJ line terminates in expected location of lower SVC
+   Assessment and Plan
+   48 M with HTN, hyperlipidemia, severe AS, and tobacco abuse who was
+   transferred from an OSH for further evaluation and management of his
+   heart failure, aortic stenosis, and acute respiratory distress.
+   .
+   # Biventricular heart failure - Most likely [**1-12**] to severe aortic
+   stenosis. Had been on Lasix PO as an outpatient. Known last EF was 25%,
+   confirmed by bedside echo.
+   - will diurese with IV lasix 80 mg and gtt if needed
+   - will start low-dose dobutamine as an ionotropic [**Doctor Last Name **] to improve his
+   hemodynamics
+   - will need repeat cardiac catheterization and CT surgery c/s for valve
+   repair
+   - consider repeat formal TTE in AM
+   .
+   # Severe aortic stenosis, known bicuspid aortic valve
+   - CT surgery c/s in AM for valve replacement
+   - will start dobutamine and lasix to improve profusion and pump
+   function
+   .
+   # Respiratory failure
+   Pt intubated earlier today at an OSH for respiratory distress. Will
+   keep on vent ON tonight and wean in AM. Unclear what precipitated need
+   for intubation, likely hypoxia from pulmonary edema [**1-12**] to severe AS
+   and heart failure.  Also could represent aspiration event.  Flash pulm
+   edema also a possibility.
+   - wean vent in AM
+   - VAP bundle
+   - [**Month/Day (2) **] in AM
+   - serial ABG
+   .
+   # HTN
+   - dobutamine for now, normotensive currently, will monitor
+   .
+   # Hyperlipidemia
+   - not on any medications as an outpatient, will hold on statins for now
+   given liver failure [**1-12**] to congestion
+   .
+   # Liver failure/coagulopathy - Most likely [**1-12**] to hepatic congestion
+   from right sided heart failure.
+   - will send DIC labs
+   - hepatitis serologies, consider HIV test when pt awake and able to
+   consent for procedure
+   .
+   # Upper GI bleed - Guiac positive dark NG tube aspirate.  Likely
+   related to coaugulopathy.  Hct currently elevated.  Could also
+   represent esophageal trauma.
+   - trend Hct
+   - may need EGD.
+   - transfuse for > 10 point HCT drop
+   - Protonix IV BID
+   .
+   # Renal failure - Likely from poor forward flow, will send urine lytes,
+   U/A, and urine culture
+   - renally dose all meds
+   .
+   # Leukocytosis/fever
+   - Will send BCx and UCx, obtain [**Month/Day (2) **]
+   - Sputum culture while intubated
+   .
+   # Alcohol withdrawal - Positive CIWA scales at outside hospital.
+   treated with diazapimes.  Will use versed for sedation and watch for
+   withdrawaul symptoms by CIWA
+   .
+   # FEN - NPO for now
+   .
+   # PPx - Protonix IV BID, hold SQ heparin given INR 2.2/coagulopathy,
+   pneumoboots
+   .
+   # Code status - fullcode
+   .
+   # Dispo - CCU care
+   .
+   # Access: resited central line
+   .
+   # Contact:  Wife
+   1. IV access: Temporary central access (ICU) Location: Left Internal
+   Jugular, Date inserted: [**3078-10-27**] Order date: [**10-27**] @ 0309
+   6. Furosemide 1-5 mg/hr IV DRIP INFUSION
+   Titrate to urine output 100 mL per hour.  Order date: [**10-26**] @ 2234
+   2. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]
+   Use only if patient is on mechanical ventilation.  Order date: [**10-27**] @
+   0036
+   7. Midazolam 2-4 mg/hr IV DRIP TITRATE TO [**Last Name (un) 1224**] 3
+   Only while intubated  Order date: [**10-26**] @ [**3075**]
+   3. DOBUTamine 2.5 mcg/kg/min IV DRIP TITRATE TO MAP > 65  Order date:
+   [**10-26**] @ 2256
+   8. Ondansetron 4 mg IV Q8H:PRN Nausea  Order date: [**10-26**] @ [**3100**]
+   4. Fentanyl Citrate 12.5-50 mcg/hr IV DRIP INFUSION  Order date: [**10-26**]
+   @ [**3075**]
+   9. Pantoprazole 40 mg IV Q12H  Order date: [**10-26**] @ 2157
+   5. Furosemide 80 mg IV ONCE Duration: 1 Doses Order date: [**10-26**] @ 2234
+   10. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush
+   Temporary Central Access-ICU: Flush with 10mL Normal Saline daily and
+   PRN.  Order date: [**10-27**] @ 0309
+
+
+
+DOC CLASS

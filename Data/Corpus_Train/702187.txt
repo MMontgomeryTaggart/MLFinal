@@ -1,0 +1,290 @@
+Chief Complaint: A. fib with RVR.
+   24 Hour Events:
+ FLUOROSCOPY - At [**3104-1-12**] 03:25 PM
+   G-tube placement.
+ BRONCHOSCOPY - At [**3104-1-12**] 06:25 PM
+   [**3104-1-12**]:
+   -PEG placed.
+   -Bleeding around trach.  IP came to evaluate: saw a clot in the
+   suprastomal area which was suctioned with no residual active bleeding
+   between 2nd/3rd ring during bronch.  Applied lidocain/epi.
+   -There was a concern for tracheal innominate fistula.  Had a long
+   discussion between IP, heme/onc, radiology, surgery regarding MRA vs
+   CTA (given his renal failure).  Ultimately, he needed stat CTA neck.
+   Discussed this with patient and his wife to great depths.  He was
+   premedicated with sodium bicarb, famotidine, benadryl, and zofran.
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientAmphotericin B
+   Unknown;
+   Ambisome (Intraven.) (Amphotericin B Liposome)
+   Unknown;
+   Campath (Intraven.) (Alemtuzumab)
+   Fever/Chills; R
+   Heparin Agents
+   Unknown;
+   Last dose of Antibiotics:
+   Cefazolin - [**3104-1-12**] 08:15 PM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**3104-1-13**] 04:00 AM
+   Dilantin - [**3104-1-13**] 06:00 AM
+   Fentanyl - [**3104-1-13**] 06:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Cardiovascular: No(t) Chest pain
+   Respiratory: No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis
+   Flowsheet Data as of  [**3104-1-13**] 07:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**05**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.2
+C (97.2
+   HR: 91 (84 - 100) bpm
+   BP: 117/73(82) {94/46(57) - 118/74(85)} mmHg
+   RR: 16 (0 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 61.6 kg (admission): 61.6 kg
+   Height: 71 Inch
+             Total In:
+                                                                    328 mL
+                                                                  1,079 mL
+   PO:
+             TF:
+   IVF:
+                                                                     88 mL
+                                                                  1,079 mL
+   Blood products:
+   Total out:
+                                                                     39 mL
+                                                                     15 mL
+   Urine:
+                                                                     39 mL
+                                                                     15 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    289 mL
+                                                                  1,064 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 272 (272 - 290) mL
+   PS : 10 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 4
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 616
+   PIP: 30 cmH2O
+   SpO2: 100%
+   ABG: ///30/
+   Ve: 8.1 L/min
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Bowel sounds present, Tender: Mild epigastric TTP
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Not assessed, Rash:
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Not assessed
+   Labs / Radiology
+   176 K/uL
+   7.1 g/dL
+   64 mg/dL
+   3.2 mg/dL
+   30 mEq/L
+   4.3 mEq/L
+   22 mg/dL
+   102 mEq/L
+   141 mEq/L
+   22.9 %
+   11.0 K/uL
+        [image002.jpg]
+                             [**3104-1-7**]  06:20 AM
+                             [**3104-1-8**]  06:06 AM
+                             [**3104-1-8**]  09:21 PM
+                             [**3104-1-9**]  08:56 AM
+                             [**3104-1-10**]  03:48 AM
+                             [**3104-1-11**]  04:14 AM
+                             [**3104-1-12**]  04:23 AM
+                             [**3104-1-12**]  07:15 PM
+                             [**3104-1-13**]  04:20 AM
+                             [**3104-1-13**]  06:20 AM
+   WBC
+   10.1
+   10.3
+   12.1
+   12.7
+   12.0
+   10.9
+   10.5
+   11.0
+   Hct
+   24.2
+   21.7
+   24.0
+   24.8
+   26.3
+   24.9
+   23.4
+   24.0
+   22.9
+   Plt
+   [**Telephone/Fax (3) 11362**]92
+   183
+   172
+   179
+   176
+   Cr
+   2.6
+   2.2
+   1.7
+   2.6
+   3.4
+   2.3
+   3.2
+   Glucose
+   70
+   91
+   108
+   104
+   79
+   76
+   64
+   Other labs: PT / PTT / INR:12.8/24.5/1.1, CK / CKMB /
+   Troponin-T:14/2/0.05, ALT / AST:[**7-20**], Alk Phos / T Bili:325/0.4,
+   Amylase / Lipase:/24, Differential-Neuts:81.9 %, Band:0.0 %, Lymph:10.5
+   %, Mono:6.0 %, Eos:1.4 %, D-dimer:2192 ng/mL, Lactic Acid:0.8 mmol/L,
+   Albumin:2.3 g/dL, LDH:165 IU/L, Ca++:8.4 mg/dL, Mg++:2.2 mg/dL, PO4:2.8
+   mg/dL
+   Imaging: CXR AP [**3104-1-12**]:
+   The tracheostomy tip is approximately 3.5 cm above the carina. The NG
+   tube
+   tip passes below the diaphragm with its tip not clearly seen. The right
+   central venous line tip is at the cavoatrial junction.
+   Cardiomediastinal
+   silhouette is stable. Bilateral pleural effusions are unchanged as well
+   as
+   moderate-to-severe pulmonary edema. The above-described findings might
+   obscure infection and if clinically warranted further evaluation with
+   chest CT might be considered.
+   Microbiology: [**3104-1-12**]
+   Gram stain no organisms seen
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ RESPIRATORY FAILURE, CHRONIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ATRIAL FLUTTER (AFLUTTER)
+   with RVR
+ ANEMIA, OTHER
+ ALKALOSIS, METABOLIC
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ ALTERATION IN NUTRITION
+ .H/O CANCER (MALIGNANT NEOPLASM), OTHER
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Heparin Allergy, Pneumonitis
+   45 y.o. Male with h.o. CML s/p allogenic transplant, chronic GVH,
+   bronchiolitis obliterans chronic respiratory failure now with trach.
+ RESPIRATORY FAILURE, CHRONIC: s/p Trach placement.  Underlying
+   disease bronchiolitis obliterans, end stage lung disease
+   -- Continue trials of decreased pressure support
+   -- Continue HD and UF
+   -- IP consult to tap pleural effusions which will hopefully make pt
+   less ventilator dependent
+ ANXIETY: Likely superficial bleeding given quick control with local
+   epi. CT neck on my read negative. Low concern for arterial erosion into
+   airway.
+   -Monitor wound site closely for signs of bleeding.
+   -F/u CTA Neck final read
+ OLIGURIC RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF): Secondary
+   to ATN (hypotension and supratherapeutic vanc levels) with low urine
+   output. Vanc levels trending down. Pt likely will have needed HD
+   permanently, therefore CTA unlikely to be harmful.
+   -- Continue HD and attempt U/F
+   -- Monitor daily vanc levels
+   -- Follow I
+s, Cr
+ ATRIAL FLUTTER (AFLUTTER): with RVR. Currently in NSR..
+   -- Continue PO dilt and metoprolol
+ Anxiety
+   -- Continue clonazepam, continue zyprexa
+   -- Continue Fentanyl patch
+ ANEMIA: stable s/p transfusion for now although slightly trending
+   down.
+   -- Trend hct
+   -- PM HCT
+ ALTERATION IN NUTRITION: s/p PEG
+   -- Start tube feeds via PEG tube
+   -- Elevate HOB to 30 degrees
+   -- Aspiration precautions
+ .H/O CANCER (MALIGNANT NEOPLASM), OTHER: Complicated by chronic GVHD
+   and bronchiolitis obliterans.
+   -- Cont home dose prednisone
+   -- Cont azithromycin
+   -- Hold bactrim and acyclovir IV and restart as outpatient per BMT team
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Heparin Allergy, Pneumonitis
+   ICU Care
+   Nutrition: PEG tube:
+   Tubefeeding: Isosource 1.5 Cal Full strength;
+   Starting rate: 10 ml/hr; Advance rate by 20 ml q6h Goal rate: 45 ml/hr
+   Residual Check: q4h Hold feeding for residual >= : 200 ml
+   Flush w/ 50 ml water q6h
+   Glycemic Control:
+   Lines:
+   Midline - [**3103-12-22**] 03:51 PM
+   Prophylaxis:
+   DVT: boots
+   Stress ulcer: ppi
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Likely to LTAC tomorrow
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 45M CML s/p BMT c/b BO / GVHD p/w resp
+   failure. IR PEG placed, CT s e/o tracheo-inominate fistula.
+   Exam notable for Tm 99.8 BP 110/59 HR 90/AFL RR 18 with sat 100 on VAC
+   450x16 5 0.5. Frail man, lucid, follows commands. No new bleeding at
+   trach site. Coarse BS. Hyperdynamic s1s2. Soft +BS. Diffuse skin
+   changes c/w GVHD. Labs notable for WBC 11K, HCT 22, K 4.3, Cr 3.2.
+   Agree with plan to manage multifactorial respiratory failure with vent
+   support and PSV wean; continue azithro and pred for BO, HD for volume
+   removal and IP consult for R thoracentesis to assist in weaning. Will
+   consider TM trials after procedures. Trach bleed stable, will confirm
+   no TIF on final CT read. ARF continues with minimal UOP, tolerating HD,
+   would favor aggressive volume removal to assist in weaning. Atrial
+   flutter
+ dilt / metoprolol per NGT. Keppra for TL mass / possible
+   seizures - give after HD. Will d/w BMT re acyclovir and bactrim
+   prophylaxis, continue fluconazole. Resume TFs today, monitor FSG. PT /
+   OT eval, rehab screening. Fentanyl patch / klonopin for anxiety
+   working well. Remainder of plan as outlined above.
+   Total time: 35 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3104-1-13**] 06:55 PM ------
+
+
+
+DOC CLASS

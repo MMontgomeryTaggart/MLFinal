@@ -1,0 +1,221 @@
+CVICU
+   HPI:
+   HD24   POD 11-MVR (29mm [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1078**] [**Last Name (NamePattern1) 1079**]) debridement of aortic valve
+    POD 10-PEG placement
+   Ejection Fraction:60
+   Hemoglobin A1c:5.6
+   Pre-Op Weight:141.09 lbs   64 kgs
+   Baseline Creatinine:0.9, 1.6 prior to OR
+   Foley:Day3
+   PMHx:
+   PMH: none had not had medical care in 30 years
+   [**Last Name (un) **]: none
+   Current medications:
+   Acetaminophen 4. Albuterol Aspirin 7. Atorvastatin 8. Calcium Gluconate
+   9. Dextrose 50% 10. Docusate Sodium (Liquid) 11. Fluconazole 12.
+   Furosemide 13. Haloperidol Heparin 16. HydrALAzine 18. Insulin 19.
+   Ipratropium Bromide Neb 20. Magnesium Sulfate 21. Metoprolol Tartrate
+   22. Milk of Magnesia 23. Miconazole Powder 2% 24. Multiple Vitamins
+   Liq. 25. Nafcillin 26. Ondansetron 27. Potassium Chloride 28. Sarna
+   Lotion 29. Warfarin
+   24 Hour Events:
+ INTUBATION - At [**3379-12-6**] 11:41 AM
+ INVASIVE VENTILATION - START [**3379-12-6**] 11:41 AM
+ PEG INSERTION - At [**3379-12-6**] 01:51 PM
+ EXTUBATION - At [**3379-12-6**] 04:27 PM
+ INVASIVE VENTILATION - STOP [**3379-12-6**] 04:29 PM
+   Events:
+   [**3379-12-6**] reintubated for PEG
+   [**3379-12-5**] Pan CXd->WBC ct sl.increased.Hep gtt->DC at MN for *PEG [**12-6**]
+   w/Dr.[**Last Name (NamePattern4) 10408**]
+   [**3379-12-4**] TPN started. [**Doctor Last Name 8941**] to take for PEG mon. Coumadin held. Lasix
+   [**3379-12-3**] Failed video swallow, needs PEG. Coumadin held. can go to
+   rehab Mon w/PEG
+   [**3379-11-30**] PT/OT/Speech eval, rehab screen started, coumadin 5mg, hep
+   stopped INR 2.3
+   [**3379-11-29**] optho - eyes dilated, extub coumadin 5mg, heparin started, CT
+   and wires removed
+   Post operative day:
+   [**12-7**] POD 11-MVR (29mm [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1078**] [**Last Name (NamePattern1) 1079**]) debridement of aortic valve
+    POD 10-PEG placement
+   Allergies:
+   Penicillin G
+   Hallucinations;
+   Last dose of Antibiotics:
+   Fluconazole - [**3379-12-6**] 12:22 PM
+   Nafcillin - [**3379-12-7**] 06:00 AM
+   Infusions:
+   Heparin Sodium - 1,500 units/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3379-12-6**] 02:19 PM
+   Fentanyl - [**3379-12-6**] 02:30 PM
+   Haloperidol (Haldol) - [**3379-12-6**] 04:40 PM
+   Metoprolol - [**3379-12-7**] 04:00 AM
+   Furosemide (Lasix) - [**3379-12-7**] 06:00 AM
+   Flowsheet Data as of  [**3379-12-7**] 09:01 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**81**] a.m.
+   Tmax: 36.6
+C (97.9
+   T current: 36.6
+C (97.8
+   HR: 92 (75 - 99) bpm
+   BP: 134/78(90) {89/60(67) - 134/90(98)} mmHg
+   RR: 22 (11 - 24) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 70.8 kg (admission): 63 kg
+   Height: 70 Inch
+             Total In:
+                                                                  4,385 mL
+                                                                  1,139 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  3,246 mL
+                                                                    565 mL
+   Blood products:
+   Total out:
+                                                                  2,662 mL
+                                                                    735 mL
+   Urine:
+                                                                  2,362 mL
+                                                                    560 mL
+   NG:
+   175 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,723 mL
+                                                                    404 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 776 (776 - 776) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   PIP: 11 cmH2O
+   Plateau: 18 cmH2O
+   SPO2: 98%
+   ABG: ///24/
+   Ve: 12.7 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : scattered), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, PEG
+   site clean and dry. Peg to gravity drainage
+   Left Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   695 K/uL
+   8.8 g/dL
+   157 mg/dL
+   1.9 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   33 mg/dL
+   111 mEq/L
+   145 mEq/L
+   26.9 %
+   12.3 K/uL
+        [image002.jpg]
+                            [**3379-12-4**]  04:54 PM
+                            [**3379-12-4**]  06:00 PM
+                            [**3379-12-4**]  10:00 PM
+                            [**3379-12-5**]  04:46 AM
+                            [**3379-12-5**]  06:00 AM
+                            [**3379-12-6**]  04:05 AM
+                            [**3379-12-6**]  12:00 PM
+                            [**3379-12-6**]  06:00 PM
+                            [**3379-12-6**]  11:00 PM
+                            [**3379-12-7**]  04:00 AM
+   WBC
+   16.7
+   11.1
+   12.3
+   Hct
+   28.7
+   25.6
+   26.9
+   Plt
+   [**Telephone/Fax (3) 10436**]
+   Creatinine
+   1.7
+   1.8
+   1.9
+   1.9
+   Glucose
+   83
+   118
+   123
+   125
+   79
+   [**Telephone/Fax (2) 10437**]
+   Other labs: PT / PTT / INR:16.1/62.6/1.4, CK / CK-MB / Troponin
+   T:51/7/0.28, ALT / AST:21/23, Alk-Phos / T bili:50/0.4, Amylase /
+   Lipase:45/48, Differential-Neuts:80.6 %, Band:10.0 %, Lymph:13.6 %,
+   Mono:4.5 %, Eos:0.9 %, D-dimer:1765 ng/mL, Fibrinogen:445 mg/dL, Lactic
+   Acid:1.1 mmol/L, Albumin:2.2 g/dL, LDH:435 IU/L, Ca:7.8 mg/dL, Mg:2.0
+   mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   ALTERATION IN NUTRITION, DYSPHAGIA, DELIRIUM / CONFUSION, AROUSAL,
+   ATTENTION, AND COGNITION, IMPAIRED, BALANCE, IMPAIRED, MUSCLE
+   PERFORMACE, IMPAIRED, POSITION SENSE, IMPAIRED, RESPIRATION / GAS
+   EXCHANGE, IMPAIRED, TRANSFERS, IMPAIRED, .H/O VALVE REPLACEMENT, MITRAL
+   MECHANICAL (MVR), INEFFECTIVE COPING, PNEUMONIA, BACTERIAL, COMMUNITY
+   ACQUIRED (CAP), SEPSIS WITHOUT ORGAN DYSFUNCTION, TOBACCO USE, CURRENT,
+   ALCOHOL ABUSE, IMPAIRED SKIN INTEGRITY, KNOWLEDGE DEFICIT,
+   ENDOCARDITIS, BACTERIAL, ALTERED MENTAL STATUS (NOT DELIRIUM)
+   Assessment and Plan: 49 year old male with Mitral valve endocarditis,
+   preop stroke s/p MVR (29mm [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1078**] [**Last Name (NamePattern1) 1079**]) debridement of aortic valve
+   [**11-26**]
+   Neurologic: No complaint of pain at this time.
+   haldol PRN for agitation
+   Cardiovascular: Aspirin, Statins, start Bblocker when tolerated
+   hemodynamically
+   Mechanical MVR on heparin infusion will resume coumadin today
+   Pulmonary: IS, OOB today
+   Gastrointestinal / Abdomen: start Tube feeds via PEG today
+   Nutrition: Tube feeding, start tube feeds today, advance slowly. stop
+   TPN
+   Renal: Foley, Adequate UO, Continue [**Hospital1 **] lasix to keep net negative
+   1-1.5L/day
+   Hematology: stable post-op anemai will continue to follow HCT
+   Endocrine: RISS
+   Infectious Disease: Nafcillin for endocarditis to continue thru [**12-31**].
+   Fluconazole for yeast in urine-will stop today
+   no other positive cultures. afebrile
+   Lines / Tubes / Drains: Foley, d/c foley after flomax x1day
+   Wounds: Dry dressings
+   Consults: Trauma surgery, Ortho, Neurology, ID dept, P.T., Nutrition
+   ICU Care
+   Nutrition: TPN w/ Lipids - [**3379-12-6**] 06:01 PM 66.[**Telephone/Fax (5) 8775**]
+   mL/hour. Start tube feeds today
+   Glycemic Control:  Regular insulin sliding scale
+   Lines: PICC Line - [**3379-11-29**] 09:45 AM
+   Prophylaxis: DVT:  (Systemic anticoagulation: Heparin drip, Coumadin
+   (R))
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

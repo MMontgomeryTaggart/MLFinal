@@ -1,0 +1,345 @@
+Admission Date:  [**2545-4-7**]              Discharge Date:   [**2545-4-20**]
+
+Date of Birth:  [**2463-3-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Benadryl / Ace Inhibitors
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+[**2545-4-8**]  AVR ( 25mm [**Company 55**] Mosaic Ultra Porcine)/ CABG x3
+(LIMA to LAD, SVG to OM, SVG to dRCA/PDA)
+
+
+History of Present Illness:
+82 yo male with episode of angioedema  a couple of weeks ago and
+has had SOB since. ACE-I was discontinued and angioedema
+resolved. Echo revealed worsening aortic stenosis, with [**Location (un) **] now
+0.6 cm2 (1.4 cm2 2 years ago).Subsequent cath showed
+siginificant 3 vessel disease. Transferred here for surgery.
+
+Past Medical History:
+insulin-dependent diabetes mellitus
+severe dilated cardiomyopathy
+macular degeneration (partially blind)
+? emphysema
+neuropathy left leg
+
+
+Social History:
+retired
+lives alone
+20 pack-years -quit many years ago
+no recent ETOH use
+
+
+Family History:
+NC
+
+Physical Exam:
+HR 70 RR 12 126/70  5'9"  204#
+skin intact
+PERRLA, EOMI
+neck supple with full ROM
+CTAB
+RRR
+abd soft, NT, ND, + BS
+warm, well-perfused
+no edema or varicosities noted
+neuro grossly intact
+2+ bil. fem/DP/PT/radials
+murmur transmits to both carotids
+left leg skin tag
+
+Pertinent Results:
+
+[**2545-4-7**] 05:20PM   GLUCOSE-288* UREA N-33* CREAT-1.4* SODIUM-139
+POTASSIUM-4.6 CHLORIDE-100 TOTAL CO2-29 ANION GAP-15
+[**2545-4-7**] 05:20PM   ALT(SGPT)-14 AST(SGOT)-16 LD(LDH)-227 ALK
+PHOS-97 TOT BILI-0.8
+[**2545-4-7**] 05:20PM   ALBUMIN-4.1
+[**2545-4-7**] 05:20PM   %HbA1c-9.7*
+[**2545-4-7**] 05:20PM   WBC-8.8 RBC-3.80* HGB-11.3* HCT-34.4* MCV-91
+MCH-29.7 MCHC-32.8 RDW-14.5
+[**2545-4-18**] 06:15AM BLOOD WBC-13.4* RBC-3.47* Hgb-10.6* Hct-31.0*
+MCV-89 MCH-30.5 MCHC-34.1 RDW-15.5 Plt Ct-459*
+[**2545-4-18**] 06:15AM BLOOD Plt Ct-459*
+[**2545-4-18**] 06:15AM BLOOD PT-14.9* INR(PT)-1.3*
+[**2545-4-18**] 06:15AM BLOOD Glucose-81 UreaN-72* Creat-1.8* Na-138
+K-5.1 Cl-99 HCO3-29 AnGap-15
+[**2545-4-7**] 05:20PM BLOOD %HbA1c-9.7*
+
+PRE BYPASS
+No atrial septal defect is seen by 2D or color Doppler. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity is severely dilated. There is severe regional left
+ventricular systolic dysfunction with akinesis of the septal
+walls and severe hypokinesis of the apex, mid to distal
+anterior, inferior anterolateral and inferolateral walls. There
+is sparing of the anterior, anterolateral, lateral base. Overall
+left ventricular systolic function is severely depressed
+(LVEF`10%). The RV is mildly to moderately depressed with apical
+hypokinesis. There are complex (>4mm) atheroma in the descending
+thoracic aorta. There are three aortic valve leaflets. The
+aortic valve leaflets are moderately thickened. There is
+critical aortic valve stenosis (valve area <0.8cm2). No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild to moderate ([**12-4**]+) mitral regurgitation is seen.
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+POST BYPASS
+The patient is receiving IV dobutamine at 5 ucg/kg/min and
+norepinephrine at 0.07 ucg/kg/min There is slight improvement of
+the previously functioning basilar rim of mycocardium in the
+setting of inotropes. LVEF~15%. There is slight improvement of
+RV systolic function. There is a well seated, well functioning
+bioprosthesis in the aortic position (#25 [**Company 55**] mosaic)
+There is no AI visualized. The MR now appears to me mild (1+).
+The remaining study is unchanged from prebypass.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9027**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2545-4-8**] 14:10
+Radiology Report CHEST (PA & LAT) Study Date of [**2545-4-16**] 10:25
+AM
+ UNDERLYING MEDICAL CONDITION:
+   82 year old man s/p CABG x3
+REASON FOR THIS EXAMINATION:
+   interval chnage
+HISTORY: Status post CABG.
+IMPRESSION: AP chest compared to [**2545-4-13**]:
+Small bilateral pleural effusions persist, left lower lobe
+atelectasis is
+improved. Postoperative widening of the cardiomediastinal
+silhouette is
+stable. No pneumothorax. No edema.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3428**]
+Approved: FRI [**2545-4-16**] 12:51 PM
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname 32311**], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 32312**]       Portable TTE
+(Complete) Done [**2545-4-19**] at 2:12:47 PM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] C.
+[**Hospital Unit Name 3828**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2463-3-4**]
+Age (years): 82 M  Hgt (in): 69
+BP (mm Hg): 112/63  Wgt (lb): 210
+HR (bpm): 72  BSA (m2): 2.11 m2
+Indication: Coronary artery disease. Valvular heart disease.
+Aortic valve replacement. CABG.
+ICD-9 Codes: 428.0, V43.3, 414.8, 424.1, 424.0
+Test Information
+Date/Time: [**2545-4-19**] at 14:12    Interpret MD: [**Name6 (MD) 672**] [**Name8 (MD) 12824**], MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 652**]: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 681**],
+RDCS
+Doppler: Full Doppler and color Doppler Test Location: West Echo
+Lab
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2009W014-0:39 Machine: Vivid [**6-8**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.7 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.8 cm  <= 5.2 cm
+Left Atrium - Peak Pulm Vein S:  0.4 m/s
+Left Atrium - Peak Pulm Vein D:  0.7 m/s
+Right Atrium - Four Chamber Length:  *7.2 cm  <= 5.0 cm
+Left Ventricle - Septal Wall Thickness:  0.8 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  5.7 cm
+Left Ventricle - Fractional Shortening:  *0.05  >= 0.29
+Left Ventricle - Ejection Fraction:  <= 20%  >= 55%
+Aorta - Sinus Level:  2.0 cm  <= 3.6 cm
+Aorta - Ascending:  2.2 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  *2.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  19 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  12 mm Hg
+Aortic Valve - LVOT diam:  2.0 cm
+Mitral Valve - E Wave:  1.3 m/sec
+Mitral Valve - E Wave deceleration time:  161 ms  140-250 ms
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement.
+
+LEFT VENTRICLE: Normal LV wall thickness. Mildly dilated LV
+cavity. Severe global LV hypokinesis.
+
+RIGHT VENTRICLE: Moderately dilated RV cavity. Severe global RV
+free wall hypokinesis.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). AVR
+well seated, normal leaflet/disc motion and transvalvular
+gradients. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Mild thickening of mitral valve
+chordae. Calcified tips of papillary muscles. Mild to moderate
+([**12-4**]+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Indeterminate PA systolic pressure.
+
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Left pleural effusion.
+Conclusions
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is mildly
+dilated with severe global hypokinesis (LVEF <20 %). The right
+ventricular cavity is moderately dilated with severe global free
+wall hypokinesis. A bioprosthetic aortic valve prosthesis is
+present. The aortic valve prosthesis appears well seated, with
+normal transvalvular gradients. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild to moderate
+([**12-4**]+) mitral regurgitation is seen (may be underestimated). The
+pulmonary artery systolic pressure could not be quantified.
+There is a small pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Biventricular cavity
+enlargement with severe global hypokinesis. At least
+mild-moderate mitral regurgitation. Normal functioning
+bioprosthetic aortic valve.
+
+CLINICAL IMPLICATIONS:
+Based on [**2542**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis IS recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+  Electronically signed by [**First Name11 (Name Pattern1) 672**] [**Last Name (NamePattern4) 673**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2545-4-19**] 17:15
+
+
+?????? [**2538**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Transfered [**4-7**] from OSH with known AS and 3 vessel coronary
+artery disease for surgical evaluation. Brought to the operating
+room and underwent Aortic Valve Replacement (#25mm [**Company 55**]
+Mosaic Ultraporcine) /Coronary artery bypass grafting (Left
+internal mammary artery grafted to Left anterior descending
+artery/Saphenous vein grafted to Obtuse Marginal/Posterior desc.
+artery)with Dr. [**Last Name (STitle) **] on [**4-8**]. Cross clamp time = 139
+minutes/Cardiopulmonary Bypass time =183 minutes. Please refer
+to Dr[**Last Name (STitle) **] operative report for further details. He
+tolerated the operation well and was transferred to the CVICU in
+stable condition on levophed, insulin, dobutamine and propofol
+drips. He remained intubated while weaning off of vasoactive
+infusions, and on POD#3 maintaining hemodynamic stability, he
+awoke neurologically intact and was extubated. Mr.[**Known patient lastname **] became
+increasingly confused after extubation and remained in ICU for
+an additional 2 days with minimal narcotic coverage.All lines
+and drains removed in a timely fashion. He began to clear
+mentally and was transferred to the stepdown floor on POD6 for
+further monitoring. The remainder of his postoperative course
+was essentially uncomplicated. He was started on Amiodarone and
+Anticoagulation with Coumadin for rate controlled Atrial
+Fibrillation.  Once on the floor the patient's confusion
+cleared, his physical activity was advanced with the assistance
+of the nursing and physical therapy staff and on POD 12
+Dr.[**Last Name (STitle) **] cleared Mr [**Known patient lastname **] for discharge to rehabilitation at
+[**Hospital3 5422**] Center in [**Location (un) 800**], NH. All follow up
+appointments were advised. He will followup with Dr [**Last Name (STitle) **] in 2
+weeks
+
+Medications on Admission:
+aspirin 81 mg daily
+diovan 80 mg daily
+glyburide 10 mg [**Hospital1 **]
+insulin (unclear type) 15u QAM
+lasix 80 mg daily
+metformin 1500 mg daily
+Kcl 10 mEq daily
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**3-8**]
+hours as needed for temp.
+7. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+8. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+11. Ciprofloxacin 250 mg Tablet Sig: Three (3) Tablet PO Q12H
+(every 12 hours) for 5 days.
+12. Furosemide 10 mg/mL Solution Sig: Forty (40) mg Injection
+[**Hospital1 **] (2 times a day).
+13. Potassium Chloride 20 mEq Packet Sig: Twenty (20) mEq PO
+Q12H (every 12 hours).
+14. Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units
+Subcutaneous once a day.
+15. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q2H (every 2 hours) as
+needed for wheezes.
+16. Warfarin 1 mg Tablet Sig: as directed Tablet PO once a day
+as needed for a fib: adjust dose daily to target INR 2-2.5***2mg
+to be administered on [**4-20**].
+Last 3 days recieved 5/5/5.* Tablet(s)* Refills:*0*
+17. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+18. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 7023**] [**Doctor Last Name **]
+
+Discharge Diagnosis:
+s/p AVR(25 [**Company 55**]
+Ultra-porcine)CABGx3(LIMA-LAD,SVG-OM,SVG-dRCA)[**4-8**]
+insulin-dependent diabetes mellitus
+severe dilated cardiomyopathy
+macular degeneration (partially blind)
+? emphysema
+neuropathy left leg
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+no lotions, creams or powders on any incision
+shower daily and pat incisions dry
+no driving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever, redness, drainage, or weight gain of 2 pounds in
+2 days or 5 pounds in one week
+**Daily INR draw for Coumadin dose [**Name8 (MD) **] MD
+
+Followup Instructions:
+see Dr. [**Last Name (STitle) **] in 2 weeks [**Telephone/Fax (1) 181**]
+see Dr.[**Last Name (STitle) 22154**] in 4 weeks
+see Dr. [**Last Name (STitle) 24430**] in 6 weeks
+please call for appts.
+
+
+
+Completed by:[**2545-4-20**]
+
+
+DOC CLASS

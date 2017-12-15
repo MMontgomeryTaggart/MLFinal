@@ -1,0 +1,554 @@
+Admission Date:  [**3500-7-1**]              Discharge Date:   [**3500-8-6**]
+
+Date of Birth:  [**3451-3-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Vancomycin / Ceftriaxone / Zosyn
+
+Attending:[**First Name3 (LF) 2263**]
+Chief Complaint:
+SOB, fever
+
+Major Surgical or Invasive Procedure:
+Tracheostomy Placement
+PEG placement
+PICC line placement
+
+
+History of Present Illness:
+49M h/o schizophrenia, poor historian, p/w SOB, non-productive
+cough, fevers and CP. States he has had a progressively
+worsening non-productive cough over the last month. Denies any
+subjective fevers or rigoring chills, but admits night sweats x
+1 month. Denies weight loss or known TB exposures. No recent
+travel or sick contacts. Over the last 5-7 days, his symptoms
+have worsened. He began experiencing chest pain, though only
+when coughing. Was found to be hypertensive to 160s/100s,
+tachycardic to 130s by EMS, satting 90% on 2L NC (RA sat not
+recorded). Given ASA 325mg by ems and nitro sl.
+.
+In the ED, he was febrile to 102.3F and tachycardic to 130s w/
+inferior STD and RAD on ECG. Heartrate improved to 100s with a
+total of 4L NS. CE's negative x2 although CK elevated at 2609
+with negative MB fraction. CXR w/ LUL consolidation. CTA chest
+negative for PE, and reconfirmed lobar LUL consolidation with
+prominent air bronchograms. Bedside echo negative for effusion.
+WBC 20.9 w/ left shift of 10% bands; lactate 2.3. Blood cultures
+sent and given levofloxacin, combivent nebs. Other labs notable
+for Na 127 and Cre 1.9 that improved to 132 and 1.3,
+respectively, after IV hydration. As patient remained
+tachycardic and hypoxic, satting 93% on 4L NC, admitted to the
+MICU for management.
+
+
+Past Medical History:
+Schizophrenia - h/o hospitalization at [**Doctor Last Name 1248**] Hospital and
+[**Hospital1 1661**] JP
+HTN
+
+Social History:
+rare EtOH, +smoker, currently trying to quit, last cigarette [**3-20**]
+days ago, no h/o cocaine. Lives at home with mother, on
+disability. Has been court ordered to take Haldol IM 100 mg q30
+days until [**1-24**] because of assault charges.
+
+Family History:
+T2DM
+
+Physical Exam:
+T HR BP RR SaO2 Weight
+General: Anxious appearing Hispanic male, diaphoretic, having to
+stop in midsentence to breathe. Warm to the touch.
+HEENT: PERRL, EOMI, anicteric sclera, conjunctivae pink
+Neck: supple, trachea midline, no thyromegaly or masses, no LAD
+
+Cardiac: Tachycardic, regular rhythm, s1s2 normal, no m/r/g, no
+JVD
+Pulmonary: Mild rhonchi and inspiratory wheezing LUL, slight
+decrease to percussion and egophony.
+Abdomen: +BS, soft, nontender, nondistended, no HSM
+Extremities: warm, 2+ DP pulses, no edema, no calf tenderness
+Neuro: A&Ox3, speech clear and logical, CNII-XII intact, moves
+all extremities
+
+
+Pertinent Results:
+CBC: Max WBC 19.3, 11.8 on d/c.
+.
+Chem-7: Max K: 5.3 on [**7-28**]
+        Max P04: 7.5
+        Max Na: 150 on 7.13
+        Baseline Cre: 1.1,
+        max of 7.6 on [**7-16**], d/c-ed at Cre of 4.4 on [**8-6**].
+.
+LFTs: Max Tbili: 11.3, down to 2.5 on d/c.
+Hct: 34 on admit, min 20.9 on [**3500-7-18**], stable at ~24 x5 days on
+d/c.
+.
+Lactate: max 4.0 at admit, 0.8 on [**3500-8-1**]
+Micro:
+2 blood cx's + for coag neg staph. ([**7-6**], [**7-20**]).
+remainder of 33 blood cx's neg.
+.
+BALs ([**7-11**], [**7-25**]): neg on GS, cx's for
+Legionella/PCP/fungal/viral all neg.
+.
+Catheter tip (R IJ) [**7-26**]: + for MRSE. All other cath tip cx's
+neg (central lines/a-lines/HD femoral catheter)
+.
+all sputum cx's neg for bacteria/mycobacteria/fungal/viral
+.
+stool cx's neg for C.diff x5, neg for SSYCE organisms, and OVA +
+Parasites.
+.
+Pathology:
+R upper arm bx: ([**7-17**]) focal spongiosis w/ perivascular
+dermatitis (rare PMNs, dyskeratotic cells, and eosinophils) c/w
+drug eruption, vasculititis not suspected. all
+bacterial/fungal/viral cx's negative.
+.
+IMAGING:
+CARDIOLOGY*****************
+TTE: ([**7-3**]) The left atrium is normal in size. The estimated
+right atrial pressure is 10-20mmHg. Left ventricular wall
+thicknesses and cavity size are normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Overall left ventricular systolic function is
+normal (LVEF>55%). The right ventricular free wall is
+hypertrophied. The right ventricular cavity is dilated with mild
+global free wall hypokinesis. The ascending aorta is mildly
+dilated. The aortic valve is not well seen. No masses or
+vegetations are seen on the aortic valve, but cannot be fully
+excluded due to suboptimal image quality. The mitral valve
+leaflets are structurally normal. No masses or vegetations are
+seen on the mitral valve, but cannot be fully excluded due to
+suboptimal image quality. Trivial mitral regurgitation is seen.
+No masses or vegetations are seen on the tricuspid valve, but
+cannot be fully excluded due to suboptimal image quality. The
+pulmonary artery systolic pressure could not be determined.
+.
+IMPRESSION: Suboptimal image quality. Normal left ventricular
+global function. Right ventricle is dilated, hypertrophied, and
+mildly hypokinetic. No vegetations identified. If clinically
+suggested, the absence of a vegetation by 2D echocardiography
+does not exclude endocarditis.
+.........................
+TTE: [**3500-7-10**]
+The left atrium is mildly dilated. The estimated right atrial
+pressure is 10-20mmHg. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Overall left ventricular systolic function is normal
+(LVEF>55%). The right ventricular cavity is dilated with mild
+global free wall hypokinesis. The aortic valve is not well seen.
+No masses or vegetations are seen on the aortic valve, but
+cannot be fully excluded due to suboptimal image quality. The
+mitral valve leaflets are structurally normal. No masses or
+vegetations are seen on the mitral valve, but cannot be fully
+excluded due to suboptimal image quality. Physiologic mitral
+regurgitation is seen (within normal limits). No masses or
+vegetations are seen on the tricuspid valve, but cannot be fully
+excluded due to suboptimal image quality. There is an anterior
+space which most likely represents a fat pad.
+.
+IMPRESSION: Suboptimal study. No obvious vegetations identified,
+but valvular structures not well visualized. If clinically
+indicated, a TEE may better assess for valvular endocarditis.
+Normal eft ventricular systolic function. Dilated right
+ventricle with global hypokinesis. Marked resting tachycardia.
+.
+Compared with the prior study (images reviewed) of [**3500-7-3**],
+the findings are similar.
+...............................
+TTE ([**3500-7-27**]) The left atrium is mildly dilated. No atrial
+septal defect is seen by 2D or color Doppler. Left ventricular
+wall thickness, cavity size and regional/global systolic
+function are normal (LVEF 60-70%) The right ventricular cavity
+is dilated with normal free wall contractility. The aortic root
+is mildly dilated at the sinus level. The aortic valve leaflets
+(3) are mildly thickened but aortic stenosis is not present. No
+masses or vegetations are seen on the aortic valve. The mitral
+valve leaflets are mildly thickened. There is no mitral valve
+prolapse. No mass or vegetation is seen on the mitral valve.
+Trivial mitral regurgitation is seen. The pulmonary artery
+systolic pressure could not be determined. There is an anterior
+space which most likely represents a fat pad.
+If clinically suggested, the absence of a vegetation by 2D
+echocardiography does not exclude endocarditis
+VASCULAR
+LENIs: IMPRESSION: No evidence of DVT on [**7-11**] or [**7-27**] studies.
+RADIOLOGY
+.....................................
+[**3500-7-26**] RUQ U/S: 1. Large amount of sludge within the
+gallbladder. No intrahepatic or extrahepatic biliary dilatation.
+2. Small right pleural effusion.
+.
+[**3500-7-18**] RUQ U/S: IMPRESSION: Sludge within the gallbladder,
+without son[**Name (NI) 487**] evidence for acute cholecystitis.
+.
+[**3500-7-12**] RUQ U/S: IMPRESSION:
+1. Sludge within the gallbladder. No son[**Name (NI) 487**] findings
+specific for acute cholecystitis.
+2. Trace ascites. Right-sided pleural effusion.
+.
+[**3500-7-6**] Abdominal U/S:
+IMPRESSION:
+1. No signs of cholecystitis and no biliary dilatation.
+2. Bilateral pleural effusions.
+3. Trace of ascites.
+.....................................
+ [**3500-7-25**] Head CT: FINDINGS: There is no acute intracranial
+hemorrhage or major vascular territorial infarct, hydrocephalus
+or edema. The ventricles and sulci are normal in appearance.
+There are no fractures. There is diffuse opacification of the
+paranasal sinuses and mastoid air cells.
+IMPRESSION: No intracranial process. Diffuse mucosal thickening
+in the
+paranasal sinuses and mastoid air cells.
+.
+[**3500-7-25**] CT Chest/Abdomen/Pelvis: IMPRESSION:
+1. Interval worsening of bilateral effusions bilaterally,
+consolidation and collapse. No evidence of loculated effusion.
+Intravenous contrast
+would be necessary to definitely rule out empyema.
+2. Right upper lobe nodule, which is likely also infectious.
+Suggest follow- up on subsequent imaging.
+3. No acute intra-abdominal process, GB normal.
+.
+[**3500-6-30**] CTA Chest: 1. Extensive pneumonic consolidation
+involving the lingular and apical posterior segments of the left
+upper lobe, perhaps necrotizing.  2. No evidence of PE or aortic
+dissection.
+..........................
+[**3500-7-14**] Renal U/S: IMPRESSION: Normal renal ultrasound. No
+evidence of hydronephrosis. Non specific enlarged size of
+bilateral kidneys, [**Month/Day/Year **] correlation is recommended.
+.............................
+CXR ([**6-30**]) admission:
+PORTABLE UPRIGHT CHEST: Dense airspace opacity involving the mid
+left lung
+with numerous air bronchograms is unchanged. The remainder of
+the lungs are
+clear, without evidence of effusion or pneumothorax. The
+cardiomediastinal
+silhouette is normal.
+
+IMPRESSION: Unchanged pneumonic consolidation in the left mid
+lung.
+.
+Brief CXR summaries: consolidation increased to complete
+opacificatin of the entire L lung, c/w multilobar PNA. L pleural
+effusions developed, along w/ increased consolidation of R
+mid/lower lung zones. Some c/f superimposed CHF. Pneumonia on
+CXR noted to be stabilized around [**3500-7-27**]. Likely progression to
+fibrosis, resolving inflammation, hepatization,
+stabilization/decrease noted in pleural effusions, improved
+aeration of lung bases.
+.
+CXR (on discharge)[**8-5**]:
+HISTORY: Progressive resolution of pneumonia.
+
+FINDINGS: In comparison with the study of [**8-3**], there may be
+further slight  decrease in opacification in the left lung
+consistent with pneumonia. The right lung remains clear.
+Tracheostomy tube is in place.
+
+
+Brief Hospital Course:
+HOSPITAL COURSE BY PROBLEM
+.
+49 yoM with a hx of schizophrenia diagnosed with ARDS 2' to
+Legionella PNA -- the patient was intubated for hypoxic
+respiratory distress from [**3500-7-1**] to [**3500-7-27**], treated with a 21
+day course of Levofloxacin, and received a tracheostomy on
+[**3500-7-27**]. His hospital course was complicated by persistent
+fevers attributed to a a pneumonia and later drug
+hypersensitivity reaction (Zosyn vs. Vancomycin vs.
+Ceftriaxone), a line infection, and acute renal failure
+requiring CVVH.
+.
+1. Respiratory failure/ARDS from Legionella PNA: Patient had
+hypoxic respiratory decompensation requiring ventilatory
+support. He was diagnosed w/ Legionella PNA (positive Legionella
+urine antigen on [**3500-7-2**]) and completed a 21-day course of
+Levofloxacin on [**7-26**]. He was intubated on [**7-1**] and remained
+intubated until [**7-27**].  He had extensive dead space, calculated
+to be 67% on [**7-24**]. He had 2 BALs on [**7-11**] and [**7-25**] which showed no
+growth on all cultures. His ventilatory settings were requiring
+high PIPs and PEEP, with stable plateau pressures.  ETT was
+found to be clogged with hardened secretions, and was unable to
+be exchanged by anesthesia. Interventional Pulmonary was called,
+and successfully cryoprecipitated and removed the hardened
+secretions.After the ETT cleaning, and finishing his antibiotics
+course, he tolerated a ventilatory wean, with a decrease in his
+PEEP down from 20s to 8 on [**7-26**], despite demonstrated an
+interval worsening of pleural effusions on Chest CT. His CXRs
+showed stabilized PNA of the L lung after he was extubated on
+[**3500-7-27**], and remained stable/improved for the remainder of his
+hospital course. A tracheostomy was placed on [**7-27**], and he was
+placed on pressure support with eventual transfer to trach mask
+with cool nebs and oxygen. A PM valve was fitted by Speech and
+Swallow on [**8-2**] so the patient could speak and use along with
+his trach mask. His sedation was weaned from fentanyl drip to
+fentanyl patch and versed drip to valium PO, and agitation was
+controlled by PO and IM Haldol (see Schizophrenia below).
+.
+2. Mental status: Patient intubated/sedated from [**7-1**] until
+[**7-27**].  He received trach on [**7-27**].  By [**8-1**], patient became much
+more awake and able to follow commands as well as interact with
+the medical team.  Mental status continued to improve and
+patient received PM valve for intermittent use on [**8-2**]. On
+discharge, he was interacting appropriately with staff.
+.
+3. Fevers, Sepsis- The patient had persistently elevated fevers
+throughout his hospital course. The differential diagnosis was
+broad, including:
+
+-- CAP/HAP (+ Cx from [**7-20**] showed coagulase negative staph, and
+patient was placed on vancomycin/zosyn for coverage of hospital
+acquired PNA. His sputum and blood cultures remained negative,
+and these antibiotics were stopped with the advent of the drug
+rash, and he was transitioned over to Levoquin after his urine
+legionella antigen returned positive.
+.
+-- Drug fevers: The patient was seen by dermatology on [**3500-7-17**]
+for a worsening rash on his upper extremities and chest while he
+was on Vancomycin/Zosyn. Dermatology diagnosed him with a drug
+rash, (skin biopsy on [**3500-7-17**] showed focal spongiosis and
+perivascular dermatitis w/ rare PMNs and eosinophilia c/w drug
+eruption w/o vasculitis) with likely offenders being ceftriaxone
+vs. B-lactams. He was treated with clobetasol, and his rash
+resolved.
+.
+Pt subsequently had positive blood cx's and a R IJ catheter tip
+cx positive for coag neg staph on [**3500-7-20**] and [**3500-7-26**],
+respectively. He was restarted on Vancomycin on [**3500-7-20**] for a
+line infection, and received a 10 day course. During this time,
+he continued to spike fevers as high as 102 F, rigors (treated
+w/ demerol), and rashes on his upper extremities, chest, and
+flexor aspects of knees BL worsened. He was extensively cultured
+throughout this period, with no growth. His differential showed
+an elevated eosinophilia of 12.4%, leading the team to suspect a
+drug fever to either Vancomycin or Zosyn. His antibiotics were
+discontinued (Zosyn on [**7-29**], Vancomycin on [**7-30**] after a 10 day
+course for his line infection), clobetosol ointment was
+re-started. He defervesced to temps in the 100s, his
+eosinophilia resolved, and his rashes improved.
+
+Other sources of fever were investigated, but were ruled out,
+including possible acute cholecystitis (LFT abnormalities and
+elevated bilirubins noted, distended abdomen, icteric sclera,
+but RUQ U/S negative on [**7-27**] and Abdominal CT on [**7-25**] was
+negative), C. diff infection (negative x3), endocarditis (TTE on
+[**7-27**] negative for vegetations), and UTI (urine cx's all
+negative).
+.
+It was also thought possible that fevers during his early
+intubation period had been masked previously w/ hypothermic
+fluid from CVVH.
+.
+4.ARF- Cre peaked at 7.6 on [**7-16**]. Thought to be likely ATN in
+the setting of hypotension and of exposure to possible
+nephrotoxic drugs such as vancomycin. Line was placed for CVVH
+on [**7-16**], which was continued until [**7-24**] when U/O began to
+increase. U/O noted to be very dependent on BPs.  SBPs were
+maintained in the 120s-160s, and the amount of fluid pulled off
+by dialysis was titrated to blood pressure.  Patient was treated
+with Lasix as needed to improve UOP and in response to fluid
+overload/pleural effusions noted on CXR.  Creatinine slowly
+trended downwards over latter hospital course, and was 4.4 on
+discharge. Electrolyte abnormalities were treated as needed
+(kayexalate for elevated Potassium, and renagel for elevated
+phosphate.) His foley was removed on [**8-4**], and his urine output
+remained well above 100 ccs/hr.
+.
+5. Anemia: In the setting of hypotension patient had coffee
+ground emesis, requiring transfusion of two units of pRBCs. HTC
+responded and then stabilized. Fecal occults negative throughout
+and no more NG tube coffe ground emesis afterwards.   Anemia was
+thought to be secondary to initial renal failure and sepsis. Pt
+was on epo, which was discontinued prior to d/c. Hct stable at
+~24 on discharge.
+.
+6. Hyperbilirubinemia: Patient had evidence of cholestatic liver
+picture (persistenly elevated LFTs, bili elevated, sclera
+icteric, distended abd), likely associated w/ TPN. Abd CT on [**7-25**]
+showed no acute gallbladder processes. RUQ ultrasound on [**7-27**]
+showed sludge but no ductal dilatation, wall thickening, or
+stones.  Tube feeds through PEG were initiated. Starting on
+[**8-25**], LFTs and Bili trended downward; ursodiol 300 PO BID
+was started per hepatology and was continued on discharge.
+.
+7. Drug hypersenitivity rash: See Fever/Sepsis above as well.
+Patient developed large dark brown to reddish purple, flat rash,
+covering the back and armpit area from neck to buttocks, first
+noted on [**7-10**]. derm bx showed focal spongiosis w/ perivascular
+dermatitis w/ rare PMNs and eosinophils and rash was thought to
+be [**2-17**] beta lactam or ceftriaxone. Topical steroids (clobetasol
+ointment w/ saran wrap for improved occlusion) were started and
+the rash improved.  He later began to spike fevers as per above,
+and peripheral eosinophilia was noted (12.4%) and it was thought
+these fevers were likely representative of drug fever.  He then
+re-developed a desquamating rash with Vancomycin/Zosyn and was
+restarted on clobetasol; the rash improved and peripheral
+eosinophilia decreased slightly.
+.
+8. Schizophrenia: Patient had long history of paranoid
+schizophrenia complicated by medication non-compliance resulting
+in many psychiatric hospitalizations.  Patient's medications
+were held while he was intubated; after extubation psych was
+consulted re: patient's psychiatric medications.  Psychiatry was
+instrumental in obtaining his past psychiatry records from
+[**Doctor Last Name 1248**] and [**Hospital1 1661**] JP and [**Hospital1 **], which indicated that patient is
+court ordered until [**1-24**] to take IM Haldol 100 mg q30 days, and
+has been on Zyprexa (5-20 mg Qdaily) in the past.
+.
+He was kept sedated w/ propofol/versed/fentanyl during his
+intubation. As he was transitioned to trach mask, psychiatry was
+consulted, and he was started on haldol 1-2mg PO TID per their
+recs, as well as haldol 5 mg IV/IM PRN agitation.  EKG was
+monitored for prolonged QTc while on haldol, and remained < 440.
+ He also had a standing order from state court mandating a 100mg
+monthly haldol injection, which was given on [**8-3**]. His standing
+haldol was then weaned and stopped completely on [**3500-8-6**]. His
+sedation was also weaned from a fentanyl drip to a fentanyl
+patch, and his versed drip was changed to valium 5 mg PO TID,
+which was weaned and stopped on [**3500-8-6**].    He remained
+appropriate interactive with staff, w/o psychosis,
+hallucinations, or thought disorders after being extubated.
+.
+9. HTN: Patient was persistently hypertensive during his stay,
+with high SBPs to the 180s.  He had no history of any
+antihypertensive medication use.  Target SPB 120-160 and patient
+was treated with standing labetalol and given hydralazine PRN
+for BP control.  His PO labetolol was titrated to 200 mg PO TID,
+and IV anti-hypertensives were discontinued.
+.
+10. Hypernatremia: Patient developed hypernatremia because of
+significant free water deficit [**2-17**] fever, dialysis, tube feeds.
+He was given free water boluses and IV D5W to correct the
+hypernatremia.  His Na resolved to low 140s prior to discharge.
+.
+11. FEN- Patient was initially placed on TPN but this was D/C
+after increasing LFTs.  Patient received PEG on [**7-27**] and then
+received tube feeds.  Once he was off sedation and passed speech
+and swallow eval, his diet was advanced to regular. His
+electroLytes were checked daily.
+.
+# PPx: continued on PPI (d/c-ed on [**8-5**]), heparin sc,
+pneumoboots, bowel regimen.
+.
+# Access: PICC line.
+.
+# Code status: Full Code on discharge. (was DNR on [**7-18**], reversed
+on [**8-1**] based on improved MS [**First Name (Titles) **] [**Last Name (Titles) **] picture)
+.
+Dispo: Rehabilitation.
+
+
+Medications on Admission:
+Haldol Decanoate IM q1mo, dose unknown
+
+Discharge Medications:
+1. Diazepam 5 mg Tablet Sig: One (1) Tablet PO QHS (once a day
+(at bedtime)): via PO or Gtube.
+2. Fentanyl 12 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+3. Labetalol 200 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day): hold for SBP<100, HR<60 .
+4. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO BID (2 times
+a day).
+5. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: 6-15 Puffs
+Inhalation Q4H (every 4 hours) as needed for shortness of breath
+or wheezing.
+6. Albuterol 90 mcg/Actuation Aerosol Sig: 6-8 Puffs Inhalation
+Q4H (every 4 hours) as needed for shortness of breath or
+wheezing.
+7. Heparin (Porcine) 5,000 unit/mL Syringe Sig: One (1)
+injection Injection three times a day.
+8. Haloperidol 5 mg Tablet Sig: One (1) Tablet PO three times a
+day as needed for agitation.
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as
+needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 693**] - [**Location (un) 679**]
+
+Discharge Diagnosis:
+ARDS 2' to Legionella PNA
+Acute Renal Failure
+Line Infection
+Anemia
+Drug Rash
+Drug associated Fevers
+Schizophrenia
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+
+You were admitted to the [**Hospital1 18**] with a diagnosis of legionella
+pneumonia and acute respiratory distress syndrome (ARDS) that
+required you to be intubated and mechanically ventilated from
+[**3500-7-1**] to [**3500-7-27**]. You were treated with three weeks of an
+antibiotic called Levofloxacin for your pneumonia. You also
+developed renal failure (failure of the kidneys) requiring
+dialysis (running your blood through a filter to remove the
+build-up of toxic particles and electrolytes.)
+You were eventually taken off the ventilator, and a tracheostomy
+was placed in your neck to help you breathe, with a valve to
+help you talk. You also developed a line infection, which was
+treated with a 10 day course of antibiotics. You also had
+persistent fevers and a skin which we discovered were due to a
+drug sensitivity/allergy to Vancomycin and/or Zosyn. You also
+have a PICC line (a peripherally inserted central line) from
+which blood can be drawn and medication can be administerred.
+You also were restarted on your psychiatric medications, as you
+have been given your Haldol 100 mg IM, with your next dose due
+on [**3500-9-3**]. You are also being discharged on Actigall for
+treatment of your elevated bilirubin levels, and Labetolol 200
+mg PO three times a day for your blood pressure. You are being
+discharged to a rehabilitation center where your tracheostomy
+can be properly cared for, you can obtain physical therapy to
+become stronger, and your labs can be check daily to monitor
+your kidney failure.
+Please return to the nearest emergency department or contact
+your primary care physician if you experience any of the
+following symptoms:
+Temperature greater than 102 F, increased shortness of breath,
+worsened cough, increased chest pain with coughing, loss of
+consciousness, shaking chills, light
+headedness/dizziness/hypotension. Also return if your urine
+output starts to decrease to less than 15 ccs/hr, indicating
+worsening renal failure. Please also return if your mood changes
+significantly, if you are having difficulty with your thoughts,
+start hearting voices, or you start feeling thoughts of wanting
+to commit suicide or to hurt other people, or if those around
+you feel your previous symptoms of psychosis are returning and
+you may be a harm to yourself or others. Please also return if
+you experience any other symptoms not listed here that are
+concerning to you or to your rehabilitation center.
+
+Followup Instructions:
+--Please follow up with the psychiatrists who follow you (Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 12195**]: [**Telephone/Fax (1) 12196**], [**Location (un) 11935**] Community Health
+Center).
+--Please follow up with your primary care physician at [**Name9 (PRE) 11935**]
+Community Health Center (unknown).
+--You may contact Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 798**] at [**Telephone/Fax (1) 810**] for
+outpatient renal follow-up.
+
+
+
+Completed by:[**3500-8-21**]
+
+
+DOC CLASS

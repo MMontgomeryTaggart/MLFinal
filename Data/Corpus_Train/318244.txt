@@ -1,0 +1,220 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**2891-6-29**] 06:01 PM
+ MAGNETIC RESONANCE IMAGING - At [**2891-6-29**] 10:30 PM
+   Brain
+   Hct 23.3
+17.3 2 U PRBC given
+   500 cc NS bolus BP 93/44
+ 116/53
+   500 cc NS bolus BP 98/45
+102/49
+   Allergies:
+   Penicillins
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2891-6-29**] 08:00 PM
+   Aztreonam - [**2891-6-30**] 04:21 AM
+   Metronidazole - [**2891-6-30**] 06:03 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2891-6-29**] 08:00 PM
+   Other medications:
+   Changes to medical and family history: daughter unsure of rxn to [**Name (NI) 895**];
+   reports that patient
+s father had anaphylaxis to [**Name (NI) 895**]
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: Crampy abd pain has improved with BM; no CP, SOB,
+   N/V/D
+   Flowsheet Data as of  [**2891-6-30**] 07:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 35.9
+C (96.6
+   HR: 103 (97 - 115) bpm
+   BP: 92/38(51) {91/38(51) - 116/95(100)} mmHg
+   RR: 16 (15 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 67 Inch
+             Total In:
+                                                                    680 mL
+                                                                  1,194 mL
+   PO:
+             TF:
+   IVF:
+                                                                    600 mL
+                                                                  1,124 mL
+   Blood products:
+   Total out:
+                                                                    279 mL
+                                                                    207 mL
+   Urine:
+                                                                    179 mL
+                                                                    207 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    401 mL
+                                                                    987 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 2 L
+   SpO2: 100%
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   42 K/uL
+   5.6 g/dL
+   90 mg/dL
+   0.3 mg/dL
+   23 mEq/L
+   3.5 mEq/L
+   18 mg/dL
+   108 mEq/L
+   136 mEq/L
+   17.3 %
+   2.7 K/uL
+        [image002.jpg]
+                             [**2891-6-30**]  03:56 AM
+   WBC
+   2.7
+   Hct
+   17.3
+   Plt
+   42
+   Cr
+   0.3
+   Glucose
+   90
+   Other labs: PT / PTT / INR:13.9/28.0/1.2, Ca++:7.1 mg/dL, Mg++:1.8
+   mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   61 yo F w/ hodgkin's s/p autosct, ITP, now with altered mental status,
+   syncopal episode and transient hypoxia.
+   .
+   # Respiratory Distress: the patient is an extremely high aspiration
+   risk given ?vocal cord paralysis and recent dysphagia. Was in the [**Hospital Unit Name 1**]
+   1 week ago for a similar hypoxic episode, thought to be secondary to
+   aspiration at that time. The patient has since developed bibasilar
+   infiltrates on CXR and on exam, had no breath sounds at the left base.
+   She has been on very broad spectrum antibiotics for this.
+   Currently, the differential diagnosis of the hypoxia witnessed during
+   today's syncopal event includes a new aspiration pneumonitis (likely
+   given hx and secretions) in the setting of an already brewing pna in
+   the LLL, PE (possible since only on boots s/p brain surgery, however no
+   other changes and has radiographic findings that support infectious
+   etiology), acute coronary syndrome (but EKG unchanged and negative set
+   of cardiac enzymes).
+   - will treat for asp pneumonitis with supportive care, suctioning, O2
+   etc. Satting very well on minimal supplemental O2 right now.
+   - continue flagyl and vanco for now to also cover potential
+   intracranial infection, would prefer cefepime instead of aztreonam for
+   postoperative neurosurgical infection, but patient is pen allergic.
+   - repeat sputum cx and assess interval change on CXR
+   - although PE is quite possible, there continues to be no evidence of
+   RH strain on EKG, and there is no appreciable difference in her
+   tachycardia as this has been ongoing.  Will treat other etiologies and
+   consider CTA in am if remains hypoxic.
+   - continue nebs as per previous
+   .
+   # Hypotension: patient was transiently hypotensive to the 80's during
+   this syncopal episode, she has not been taking good PO's in last 24
+   hours or so, secondary to nausea. Her pressure rebounded quickly with
+   minimal fluids and has remained stable. Could be infection, but patient
+   is afebrile and is otherwise not appearing bacteremic.
+   - continue to monitor.
+   - small boluses as required given history of systolic and diastolic
+   dysfunction, albeit mild.
+   .
+   # Altered Mental Status: the patient was thought to have CNS lymphoma
+   vs. paraneoplastic syndrome vs. PML explaining her difficulty with
+   vocal cord paralysis, and proximal weakness, although the biopsy is
+   still pending, the findings so far are inconsistent with lymphoma or
+   PML. Currently, in the setting of today's syncopal episode, a stat head
+   CT showed new edema surrounding the site of biopsy. This is concerning
+   for infection. Neurosurgery is on board.  Cultures, EBV PCR, and [**Male First Name (un) 549**]
+   Virus PCR from CSF were all negative. HSV PCR was negative.
+   - MRI with gad to further evaluate edema
+   - continue antibiotics but ?coverage for intraparenchymal brain abscess
+   that covers anaerobes
+   - holding on steroids per neurosurg for now
+   - q2h neuro checks
+   - f/u brain bx results
+   - f/u pending studies
+   .
+   # Tachycardia: baseline HR appears to be 100-110 for last several
+   days.  Sinus tachy on EKG.  [**Month (only) 47**] be in setting of hypoxia and anxiety.
+   Also consider PE as above.  Tachycardia may also be worsening her
+   diastolic dysfunction leading to increased pulm congestion.
+   - continue metop [**Hospital1 **] as scheduled.
+   .
+   # Cards Pump: Echo showed decreased EF with systolic dysfunction and
+   diastolic dysfunction. No evidence of volume overload on exam, on
+   contrary, likely there is some hypovolemia given syncope and transient
+   hypotension.
+   - rate control with metoprolol
+   .
+   # Cards vascular: no known hx CAD.  Monitor on telemetry.
+   - BB
+   - hold on ASA for now.
+   .
+   # Coagulopathy: had been receiving IV Vitamin K and now INR has
+   normalized.  Coagulopathy thought [**1-6**] liver involvement of cancer
+   - trend daily
+   .
+   # Recent seizure/neuro: continue keppra 1500 [**Hospital1 **].  no evidence of
+   seizure activity on exam.
+   .
+   # Lymphoma: defer to heme/onc for further management, ?chemo
+   - continue antifungal
+   .
+   # anemia: has been in mid-20s. Goal HCT is >21.
+   - note: needs irradiated blood [**1-6**] to SCT
+   .
+   # h/o ITP: s/p splenectomy and rituxan. on outpt. prednisone taper but
+   this has been stopped
+   - trend plts, currently 59
+   .
+   # hypothyroidism: cont synthroid
+   .
+   # PPX: boots, ppi, bowel regimen
+   .
+   # FEN: NPO. will hold tube feeds and IVF overnight.
+   .
+   # full code, confirmed
+   .
+   # Contact: [**Name (NI) 101**] (husband) HCP [**Telephone/Fax (1) 907**] or [**Doctor First Name 908**] (daughter and [**Name2 (NI) **]
+   HCP) [**Telephone/Fax (1) 909**].  consent in chart.
+   .
+   # access: midline. PIV.
+   .
+   # Dispo: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2891-6-29**] 06:01 PM
+   PICC Line - [**2891-6-29**] 06:01 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

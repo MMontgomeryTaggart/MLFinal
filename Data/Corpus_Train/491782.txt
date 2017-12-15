@@ -1,0 +1,236 @@
+Chief Complaint:
+   24 Hour Events:
+   - got an ABG, which was stable
+   - stopped lasix gtt temporarily because she was hypotensive, restarted
+   when BP's improved
+   - allowed her to get some applesauce
+   - changed metoprolol to PO
+   - all Cx NGTD
+   - sent stool for C.diff
+   - wound care: rheum should be consulted when patients condition
+   improves (for leg ulcers) - refer to wound care note for furhter
+   details
+   Allergies:
+   Penicillins
+   Rash;
+   Erythromycin Base
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   Unknown; sores
+   Ampicillin
+   Unknown;
+   Lactose
+   Unknown; Abdomi
+   Latex
+   Rash;
+   Adaptic (Topical) (Non-Adherent Bandage)
+   Rash;
+   Amiodarone
+   Hepatic toxicit
+   Last dose of Antibiotics:
+   Vancomycin - [**3073-3-15**] 08:00 PM
+   Cefipime - [**3073-3-15**] 08:00 PM
+   Metronidazole - [**3073-3-15**] 11:00 PM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3073-3-15**] 08:45 AM
+   Metoprolol - [**3073-3-15**] 12:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3073-3-16**] 06:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**75**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 35.9
+C (96.7
+   HR: 93 (82 - 99) bpm
+   BP: 115/52(66) {82/38(49) - 119/62(73)} mmHg
+   RR: 22 (16 - 28) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 86 kg (admission): 80.1 kg
+             Total In:
+                                                                  1,523 mL
+                                                                    104 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,523 mL
+                                                                    104 mL
+   Blood products:
+   Total out:
+                                                                  1,215 mL
+                                                                    475 mL
+   Urine:
+                                                                  1,215 mL
+                                                                    475 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    308 mL
+                                                                   -371 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: 7.36/60/73.[**Numeric Identifier 582**]//5
+   PaO2 / FiO2: 104
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   354 K/uL
+   8.8 g/dL
+   85 mg/dL
+   1.0 mg/dL
+   33 mEq/L
+   3.6 mEq/L
+   20 mg/dL
+   101 mEq/L
+   142 mEq/L
+   30.0 %
+   8.2 K/uL
+        [image002.jpg]
+                             [**3073-3-12**]  04:27 AM
+                             [**3073-3-14**]  07:42 PM
+                             [**3073-3-14**]  09:22 PM
+                             [**3073-3-15**]  05:40 AM
+                             [**3073-3-15**]  02:18 PM
+                             [**3073-3-16**]  05:28 AM
+   WBC
+   11.7
+   9.9
+   8.2
+   Hct
+   34.7
+   30.6
+   30.0
+   Plt
+   [**Telephone/Fax (3) 11586**]
+   Cr
+   0.8
+   1.0
+   1.0
+   TropT
+   0.02
+   TCO2
+   34
+   35
+   Glucose
+   107
+   87
+   85
+   Other labs: PT / PTT / INR:55.1/41.5/6.1, CK / CKMB /
+   Troponin-T:15//0.02, ALT / AST:[**6-27**], Alk Phos / T Bili:62/0.2, Amylase
+   / Lipase:/47, Differential-Neuts:80.4 %, Lymph:10.9 %, Mono:6.6 %,
+   Eos:2.0 %, Fibrinogen:499 mg/dL, LDH:202 IU/L, Ca++:8.1 mg/dL, Mg++:1.8
+   mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   86 y/o female with hx CAD s/p CABG, Afib, with severe AS s/p
+   valvuloplasty, diastolic CHF, colonic adenocarcinoma, chronic c.diff,
+   admitted with new onset tonic clonic seizures  on [**3073-3-11**] who had MS
+   change first noted following MRI, who subsequently flashed on the floor
+   in the setting of holding lasix.
+   .
+   Afib: Pt in Afib with RVR on arrival. Had been NPO for some time on the
+   floor, had been on p.o metoprolol on [**3-12**] am  then changed to IV at 5-10
+   Q4 on 3/3pm but didn't get any on [**3-13**] although written, ? [**2-11**] low SBPs.
+   On arrival to floor received IV metoprolol 2.5 with improvement rate to
+   80's from 128.
+   Uptitrated metoprolol to 15mg IV q4 (conversion 2.5:1 IV to p.o)
+   -continue metoprolol IV.
+   As becomes more alert, able to tolerate pills convert to p.o.
+   -am EKG.
+   # Flash Pulmonary Edema: CAD s/p CABG  86F with CAD s/p CABG [**12/3066**]
+   (SVG-OM, LIMA-LAD)
+   -Given AS pt very sensitive to fluid shifts, had been lying down for a
+   long time at MRI and lasix was being held on floor to prevent cerebral
+   hypoperfusion with subsequent flash.
+   On arrival to ICU received IV lasix bolus 60mg IV and started on lasix
+   drip.
+   Continue lasix drip, titrating based on clinical appearance/respiratory
+   status.
+   -On digoxin chronically, typically not preferred in setting of normal
+   EF, will continue for now. Dig level 0.9 (range 0.9-2)
+   -repeat ABG this pm
+   -repeat CXR in am.
+   .
+   #AS:  AS s/p valvuloplasty [**12-18**].Severe AS on Echo [**3073-3-12**] with valve
+   area not quantified but LVOT of 12 noted which was not noted on Echo of
+   [**2-11**] but valve area of 0.8. EF stable at 60%.  AS known critical,
+   unclear if worsened AS since [**Month (only) **] as valve area not quantified but known
+   to be critical. Pt poor surgical candidate thus had not received AVR.
+   -Consideration being given for minimally invasive percutaneous valve
+   replacement.
+   -f/u with ICU fellow/Dr [**Last Name (STitle) 8766**]
+   [**Name (STitle) 1614**] cautious diruesis in setting critical AS.
+   .
+   #  MS Change: Likely multifactorial related to benzodiazepine pre MRI
+   although only received 0.5mg, C02 retention [**2-11**] fatigue with mildly
+   elevated C02 of 63 on ABG, and low CO with CHF.
+   Did have [**Doctor Last Name 11577**] on CTA and has new, subtle LUE/LLE weakness and no
+   reflexes on LLE which is new per neuro consistent with lesion on right.
+   This lesion is most likely vascular in nature, either a small infarct
+   which converted to a bleed, versus less likely malignant ? metastatic
+   colon cancer. Once medically stable neuro recommends MRI with
+   gadolinium to asses lesion. If does not enhance, likely bleed.
+   -appreciate neuro recs
+   -ASA 81mg
+   -serial neuro exams.
+   -keppra for seizure prophylaxis.
+   -gentle diuresis
+   -avoid benzos
+   -follow resp status, serial ABGs.
+   -diuresis
+   .
+   # ? Infection: Pt low grade temp to 100.3.
+   Had been lying flat at MRI y/d, possible aspiration pneumonitis.
+   If spikes temp, white count, institute Abx coverage with cipro.
+   f/u with [**Hospital1 **] ? chronic suppression with vanc for c.diff
+   Blood cx drawn with initial question of meningitis on presentation with
+   seizures have been negative x 3. Urine cx negative x1, repeat drawn on
+   [**3073-3-14**] pending.
+   -f/u final urine cx
+   -trend WBC, fever curve.
+   .
+   # Hx Diarrhea:
+   hx C.diff on chronic suppression therapy with p.o  vanc/flagyll with
+   last cx at [**Hospital **] rehab on [**3073-2-28**] negative but abx were continued to
+   continued diarrhea. However diarrhea has stopped so abx stopped this
+   hospitalization.
+   Continue to monitor.
+   .
+   #hx GI bleed: s/p hemicolectomy following which she presented to [**Hospital 11**]
+   rehab.
+   Baseline Hct ~ 30, 35 on [**4-19**] now 32.2
+   Continue to trend daily.
+   Guiac all stools
+   active type and screen.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3073-3-13**] 11:01 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Possible transfer to floor
+
+
+
+DOC CLASS

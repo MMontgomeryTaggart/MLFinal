@@ -1,0 +1,224 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Hypocalcemic O/N despite calcium in dialysate. Repleted.
+   Hypokalemic. Now on K sliding scale.
+   Subjective:
+   Feels better this AM. Abdominal pain much improved, though still tender
+   to deep palpation diffusely. No nausea or vomiting. Breathing is
+   comfortable. Back pain is chronic and unchanged.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3213-7-17**] 12:30PM
+   Today is day 3
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3213-7-17**]
+   Heparin Sodium (Prophylaxis) - [**3213-7-18**]
+   Flowsheet Data as of  [**3213-7-18**] 05:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.2
+C (97.2
+   HR: 87 (82 - 118) bpm
+   BP: 95/48(59) {91/40(52) - 133/83(86)} mmHg
+   RR: 23 (10 - 26) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+    CVP: 9 (6 - 21)mmHg
+   CO/CI (Fick): (6.8 L/min) / (2.9 L/min/m2)
+   SvO2: 67%
+   Total In:
+                                                                  1,290 mL
+                                                                    201 mL
+   PO:
+                                                                    100 mL
+   TF:
+   IVF:
+                                                                  1,190 mL
+                                                                    201 mL
+   Blood products:
+   Total out:
+                                                                  3,000 mL
+                                                                 -1,650 mL
+   Urine:
+   NG:
+   Stool:
+                                                                    650 mL
+   Drains:
+   Balance:
+                                                                 -1,710 mL
+                                                                  1,851 mL
+   Respiratory support
+   O2 Delivery Device: 5L by nasal cannula
+   SpO2: 98%
+   ABG: ///28/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   354 K/uL
+   10.1 g/dL
+   92 mg/dL
+   10.5 mg/dL
+   28 mEq/L
+   3.7 mEq/L
+   42 mg/dL
+   98 mEq/L
+   138 mEq/L
+   32.0 %
+   12.7 K/uL
+        [image002.jpg]
+   Ca++:8.3 mg/dL, Mg++:1.7 mg/dL, PO4:3.8 mg/dL
+   Differential-Neuts:54.0 %, Band:24.0 %, Lymph:8.0 %, Mono:0.0 %,
+   Eos:2.0 % ([**7-17**], 5:15am)
+                             [**3213-7-16**]  09:20 PM
+                             [**3213-7-17**]  05:15 AM
+                             [**3213-7-17**]  03:52 PM
+                             [**3213-7-17**]  09:13 PM
+                             [**3213-7-17**]  10:28 PM
+                             [**3213-7-18**]  02:23 AM
+   WBC
+   13.2
+   13.8
+   12.7
+   Hct
+   34.0
+   34.9
+   33.0
+   34
+   32.0
+   Plt
+   399
+   336
+   354
+   Cr
+   11.9
+   10.5
+   TropT
+   0.25
+   Glucose
+   59
+   165
+   129
+   115
+   92
+   Other labs:
+   PT / PTT / INR:15.4/38.4/1.4
+   CK / CKMB / Troponin-T:763/11/0.25
+   Lactic Acid:1.5 mmol/L (from 1.9, 4.5, 3.8, 3.4)
+   LDH:247 IU/L
+   CPK: 763 (from 925, 509, 333)
+   PD fluid: WBC = 2055, RBC = 35, Polys = 98, Lymphs = 2, Monos = 0
+   Vanco: 23.5 (ref range = [**9-23**])
+   Micro:
+[**3213-7-16**] 10:20 am BLOOD CULTURE
+   Blood Culture, Routine (Preliminary):
+      GRAM POSITIVE COCCUS(COCCI).    IN PAIRS AND CHAINS.
+   Aerobic Bottle Gram Stain (Final [**3213-7-17**]):
+      GRAM POSITIVE COCCI.
+      IN PAIRS AND CHAINS.
+   Anaerobic Bottle Gram Stain (Final [**3213-7-17**]):
+      GRAM POSITIVE COCCI.
+      IN PAIRS AND CHAINS.
+[**3213-7-16**] 9:00 am BLOOD CULTURE
+   Blood Culture, Routine (Pending):
+[**3213-7-16**] 11:45 am PERITONEAL FLUID
+   GRAM STAIN (Final [**3213-7-16**]):
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CHAINS.
+   FLUID CULTURE (Preliminary):
+      BETA STREPTOCOCCUS GROUP B.    SPARSE GROWTH.
+   CXR:
+   [**7-16**]
+   No significant change with scattered areas of lung fibrosis better
+   visualized
+   on a prior CT chest. No definite evidence of pneumonia or CHF on this
+   limited
+   study.
+   CT abdomen and pelvis without contrast:
+   RLL consolidation increased. Abdomenal ascites. Equivocal bowel wall
+   thickening.
+   Assessment and Plan
+   This is a 58 yo M with ESRD on HD since [**2-5**] then PD since [**8-10**], DM2,
+   HTN, diastolic CHF, and h/o MSSA peritonitis in [**5-11**], who presented to
+   ED with new onset abdominal pain since this morning, associated with
+   nausea/vomiting and fevers. He was admitted to the ICU after
+   parcentesis was suspicious for bacterial peritonitis.
+   # Bacterial peritonitis with bacteremia:  Patient presents with
+   symptoms on abdominal pain, fevers, N/V and paracentesis consistent
+   with bacterial peritonitis.  He was originally started on
+   Vanco/Ceftazidime for treatment of infection, but ceftazidime was
+   d/c
+ed one day later.  Vanc trough 23.5 this AM. Gram stain and
+   cultures from group B strep in pairs and chains. Sensitivities not yet
+   available. Abdominal pain significantly improved. Renal is following.
+   - Continue periotoneal dialysis q6 with 4.25% diasylate.
+   - f/u blood cultures from [**7-17**].
+   - f/u PD fluid cells and culture sent this AM.
+   - Continue to follow lactate, CPK, and CBC.
+   - Vanco 2 gm daily in PD fluid, for 6h duration, beginning tomorrow.
+   - Re-check vanco level tomorrow AM (them once weekly); dose vanco
+   accordingly.
+   - Morphine 2-4mg IV q6h PRN abdominal pain.
+   # Hypotension: Likely due to low vascular tone in the setting of
+   sepsis, and challenges of fluid balance with PD treatments. Has
+   maintained SBP above 90 without pressors or fluid bolus.
+   - Monitor blood pressure and CVP closely. Consider adjusting PD for
+   fluid balance or using levophed if necessary.
+   # Hypoxemia:  Initially thought to be [**1-5**] fluid overload s/p 1L NS
+   bolus, however, CXR showed no signs of increased infiltrates. Likely
+   from COPD given + tobacco use. Slight expiratory wheezes, which he
+   received albuterol for yesterday. On 5L by NC with good oxygenation
+   (98%).
+   - Continue albuterol PRN wheezing.
+   - Cont O2 supplementation, wean as tolerated.
+   # ESRD on PD :
+   - 12 cycles PD per day with 2.5%, 2.5L volume.
+   - Heparin with PD.
+   - f/u renal recs.
+   - cont home Renagel, Calcitriol, Sensipar.
+   # h/o HTN: controlled on PD. BPs have been dipping low today, with PD.
+   # DM:  No antihyperglycemic agents on home med list.  Diet-controlled?
+   - cont Gabapentin, ASA
+   - Finger stick blood glucose QID
+   - ISS
+   # Chronic Back pain:
+   - cont home methadone
+   - hold home oxycodone, start Morphine IV PRN pain
+   # Depression:
+   - Cont home Mirtazapine, paroxetine
+   # Hyperlipidemia:
+   - Cont home lipitor
+   # FEN: K+ and Ca+ repleted overnight.
+   - Continue to monitor electrolytes and replete when necessary.
+   ICU Care
+   Nutrition: NPO with clear liquids
+   Glycemic Control:  ISS
+   Lines:
+   Presep Catheter - [**3213-7-16**] 09:03 PM
+   18 Gauge - [**3213-7-16**] 09:06 PM
+   Prophylaxis:
+   DVT: SC UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  ICU consent signed
+   Code status: Full code
+   Disposition: ICU
+   [**First Name8 (NamePattern2) 3914**] [**Last Name (NamePattern1) 3915**], MS4
+
+
+
+DOC CLASS

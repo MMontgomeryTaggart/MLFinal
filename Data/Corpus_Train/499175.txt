@@ -1,0 +1,147 @@
+Chief Complaint: fatigue
+   24 Hour Events:
+   Received 2 units of pRBCs with Hct from 17.5 to 21.5
+   Had multiple episodes of black guaiac + stool with Golytely prep and
+   given a 3rd unit of pRBCs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: feeling great
+   Cardiovascular: No(t) Chest pain
+   Respiratory: No(t) Dyspnea
+   Flowsheet Data as of  [**3117-2-23**] 07:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.4
+C (97.6
+   HR: 69 (62 - 77) bpm
+   BP: 104/50(63){86/17(41) - 106/62(70)} mmHg
+   RR: 22 (18 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 78 kg (admission): 78 kg
+   Height: 71 Inch
+           Total In:
+                                                                  1,752 mL
+                                                                  3,830 mL
+   PO:
+                                                                  1,000 mL
+                                                                  3,000 mL
+   TF:
+   IVF:
+                                                                     92 mL
+                                                                    455 mL
+   Blood products:
+                                                                    660 mL
+                                                                    375 mL
+   Total out:
+                                                                    825 mL
+                                                                      0 mL
+   Urine:
+                                                                    825 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    927 mL
+                                                                  3,830 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///22/
+   PaO2 / FiO2: 2L NC
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL, less pale today
+   Head, Ears, Nose, Throat: MMM, OP clear
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic), Irreg
+   irreg with systolic murmur
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   at bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: LE edema
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to):
+   person, place, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   103 K/uL
+   7.8 g/dL
+   83 mg/dL
+   1.2 mg/dL
+   22 mEq/L
+   4.6 mEq/L
+   45 mg/dL
+   105 mEq/L
+   137 mEq/L
+   24.5 %
+   3.7 K/uL
+        [image002.jpg]
+                             [**3117-2-22**]  10:49 PM
+                             [**3117-2-23**]  05:15 AM
+   WBC
+   3.7
+   Hct
+   21.5
+   24.5
+   Plt
+   103
+   Cr
+   1.2
+   TropT
+   0.05
+   0.06
+   Glucose
+   83
+   Other labs: PT / PTT / INR:15.4/33.3/1.4, CK / CKMB /
+   Troponin-T:49/5/0.06, Ca++:8.3 mg/dL, Mg++:2.3 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   75yo gentleman with CAD and MDS admitted with guaiac positive stool and
+   Hct of 17, Hct improving with transfusion.
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+   -          PIV x 2, active T+S
+   -          [**Hospital1 **] IV PPI
+   -          s/p 3 units of pRBCs
+   -          monitor Hct q6h and transfuse for Hct < 21
+   -          INR 1.4; will monitor and consider FFP if he needs more pRBC
+   transfusions
+   -          Contact [**Hospital3 514**] for records of prior EGD
+   -          Appreciate GI consult; plan for colonoscopy and upper
+   endoscopy today
+ .H/O CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ .H/O HEART FAILURE (CHF), SYSTOLIC, CHRONIC
+ .H/O MYELODYSPLASTIC SYNDROME
+ ATRIAL FIBRILLATION (AFIB)
+ .H/O HYPERTENSION, BENIGN
+   ICU Care
+   Nutrition:
+   Comments: NPO for colonoscopy
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   18 Gauge - [**3117-2-22**] 05:06 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

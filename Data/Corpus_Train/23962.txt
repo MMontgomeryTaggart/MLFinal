@@ -1,0 +1,295 @@
+Admission Date:  [**2674-6-23**]              Discharge Date:   [**2674-6-27**]
+
+Date of Birth:  [**2599-5-19**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lasix / Paxil / Allopurinol / Lipitor
+
+Attending:[**First Name3 (LF) 954**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy to evaluate the position of the Trach.  Trach
+Removal and [**First Name3 (LF) **] removal
+
+
+History of Present Illness:
+Pt is a 75 yo man w/ COPD, HTN, recent complicated CCU admit
+([**Date range (3) 40031**]) with NSTEMI, intubation, PEA arrest at cardiac
+cath, IABP, tracheostomy, H influenza pna, MRSA pneumonia tx w/
+[**Last Name (LF) **], [**First Name3 (LF) **] placement, AVM/GI bleed, who presents from [**Hospital **]
+Hospital with acute resp distress, hypoxia. Most of history
+obtained from chart and patient's son, who is at his bedside.
+Patient reports he was in his USOH, doing well at rehab until
+last night, when he acutely became SOB w/ increased secretions.
+He was noted to have sats in the 70's on his 2L and was placed
+on a non rebreather with improvement in sats to 100%. They were
+unable to suction from his trach and he was sent to the ED for
+evaluation. Of note, his trach was capped last week and he has
+been on a nasal cannula at 2L since that time w/o incident. Also
+of note, pt has been eating well independently and [**Hospital **] has not
+been used. Patient denies any known aspiration event and has
+been eating w/o incident for many days. He denies fevers but
+does report a "cold sweat" last night. He also says he has felt
+fatigued over the last few days. Denies diarrhea/chest pain/ abd
+pain/ headaches. Has some chronic urinary incontinence and foley
+was just d/c'd last week. He has been urinating on his own since
+then. Pt had some bloody secretions and feels he has been able
+to cough up his mucous well until this am. Has a strong gag per
+patient. On [**Name (NI) 40032**] pt has had a petechial rash on his legs that
+was thought to be due to lasix or paxil. It was biopsied by
+dermatology at [**Hospital1 **]-- much improvement over last few days.
+*
+In ED, mild hypoxia (91% RA, tachy 120's, low grade temp), rec'd
+1 g vanco, 500 mg IV flagyl, albuterol/atrovent, CT surgery
+called for eval of trach. VSS, sats improved w/ ventimask. ABG
+AT [**Hospital1 **] 7.2/85/107 (ON NRB??- UNSURE)
+*
+Patient was then sent to floor and abx coverage switched to
+vancomycin/ zosyn. He went to OR procedure for replacement of
+trach and hours later developed hemoptysis and hypoxia down to
+mid 80's requiring suctioning and NC to 10L and trach mask.
+Despite the latter patient's oxygenation did not improve. They
+called a MICU consult for evaluation of hypoxia. Once MICU team
+arrived to floor patients sats had increased to low 90's, tachy
+to 100-120's, blood pressure 120's/70's, RR to 30's but with
+abdominal breathing and respiratory retractions. Cycled cardiac
+enzymes ruled patient in for NSTEMI.
+Patient was then transferred to ICU.
+*
+ICU course:
+Pt Hypoxic and in respiratory distress on presentation to ICU.
+Pt initially coved with vanc/zosyn for PNA, however these were
+d/c'ed after culture results. Underwent a bronchoscopy to
+evaluate for the location of trach, it was in ant. mediastinum.
+Replaced under video.  [**Last Name (un) **] also revealed 3 polypoid lesions in
+LLL which were biopside.Pt eventually coughed it out and trach
+was removed and remained stable with weaning of O2 down to
+3L/min (baseline 1.5cc/min).
+Cardiac
+Pt was continued on ASA/statin/BB and was started on ACEI
+.
+Pt was transferred to the floor and remained stable.  He had no
+further c/o SOB.
+
+Past Medical History:
+1.NSTEMI [**4-7**] - cardiac cath [**4-7**] w/ 3VD: distal LM 50%, Lcx
+60%, OM2 90%, OM1 80%, no intervention, dropped BP at end of
+cath w/ PEA arrest---> resuscitated w/ epi/pressors
+2. EF 35% 1-2+MR [**5-7**] echo (had flash pulm edema on last admit)
+
+3. COPD on home Oxygen (2L for years) Dr. [**Last Name (STitle) **] is pulm
+fev1 590 cc by report- no pft's here
+4. h/o pneumothorax
+5. depression
+6. IABP on last admit- was evaluated by CT surgery for CABG but
+was thought not to be a surgical candidate given MMP
+7. ARF on last admit - Cr 1.7, now 0.98
+8. GIB-- AVM on last admit at hepatic flexure- s/p embolization
+by IR (after 4 bleeding scans, c scope, push enteroscopy,etc)
+REQUIRED 15 units of prbc's on last admit
+
+Social History:
+Married with two children. Tobacco: 2 ppd x 25 years, quit 35
+years ago. No EtOH.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Exam from [**2674-6-26**] on admission to the floor.
+
+PE: T 98.4 BP 100/48 P 81 R 27 Sat 97% 3L
+Gen: NAD lying comfortably in bed
+HEENT: NC/AT, EOMI, PERRL,MMM, NC in place
+NECK: JVP difficult to asses, Supple. Trach site with dressing
+with scant serosang. secretions.
+CHEST: Wheezes apically, decreased breath sounds at bases.
+Prolonged expiratory phase.
+CV: distant HS, Regular
+ABD: obese, non tender, [**Month/Day/Year **] tube in place.
+EXTRM: [**Known patient lastname **], macular petechial-like rash over dorsal aspect of
+BLE, no edema 2+DP 1+PT pulses bilaterally.
+NEURO: intact mental status; alert and oriented x 3, able to
+give clear history when asked, moving all extremities.
+
+Pertinent Results:
+[**2674-6-23**] 07:10AM BLOOD WBC-10.9 RBC-3.73* Hgb-10.6* Hct-33.6*
+MCV-90 MCH-28.5 MCHC-31.6 RDW-14.7 Plt Ct-422
+[**2674-6-23**] 07:10AM BLOOD Neuts-89* Bands-1 Lymphs-1* Monos-8 Eos-0
+Baso-1 Atyps-0 Metas-0 Myelos-0
+[**2674-6-23**] 07:10AM BLOOD PT-12.3 PTT-27.0 INR(PT)-1.0
+[**2674-6-23**] 07:10AM BLOOD Glucose-155* UreaN-13 Creat-0.8 Na-141
+K-4.8 Cl-99 HCO3-33* AnGap-14
+[**2674-6-23**] 07:26PM BLOOD CK-MB-39* MB Indx-21.4* cTropnT-0.29*
+[**2674-6-24**] 03:45AM BLOOD CK-MB-33* MB Indx-22.8* cTropnT-0.35*
+[**2674-6-23**] 09:55PM BLOOD Type-ART O2 Flow-10 pO2-78* pCO2-70*
+pH-7.32* calHCO3-38* Base XS-6 Intubat-NOT INTUBA
+##
+Right LENI [**6-23**]:
+No evidence of deep vein thrombosis
+##
+CXR [**6-23**]:
+Probable bilateral pleural effusions with multifocal patchy
+opacities that may represent fluid overload pattern in this
+patient with background emphysema. Infection cannot be excluded.
+[**2674-6-27**] 07:10AM BLOOD WBC-8.5 RBC-3.54* Hgb-9.9* Hct-31.7*
+MCV-90 MCH-28.1 MCHC-31.3 RDW-14.6 Plt Ct-443*
+[**2674-6-27**] 07:10AM BLOOD Glucose-90 UreaN-15 Creat-0.8 Na-142
+K-4.7 Cl-97 HCO3-41* AnGap-9
+
+[**2674-6-25**] 05:00AM BLOOD CK-MB-NotDone cTropnT-0.63*
+[**2674-6-24**] 08:00PM BLOOD CK-MB-NotDone cTropnT-0.42*
+[**2674-6-24**] 11:55AM BLOOD CK-MB-NotDone cTropnT-0.31*
+
+Brief Hospital Course:
+75 yo man w/ complicated recent PMH including PEA arrest,
+prolonged intubation w/ trach, MRSA/H influenza pna, GI bleed,
+here w/ multilobar pneumonia.  Pt sent to unit secondary to
+hypoxia and respitory distress earlier.  In the unit pt received
+nebs and respiratory support.  Pt remained stable in the unit
+and was sent to floor.
+
+1. REsp distress: Baseline for pt is 2L O2 at home with COPD.
+He was initially treated empirically for possible mulifocal pna
+(asp, CAP, vent-assoc pna), however pt remained afebrile and
+sputum culture (a good specimen) grew only sparse staph aureus.
+Pt believed to be colonized only and antibiotics were stopped in
+MICU. More likely etiology is cardiac given NSTEMI and CHF. Pt
+presented with trach, which upon examination during bronchoscopy
+was found to be in the mediastinum and was removed. Resp status
+improved after trach removal.  Pt transferred from MICU satting
+well on 4LNC with Serovent QID.
+-lactate 1.5 and HD stable, which is reassuring.
+Pt remained stable satting above 92% on 4L NC on the floor
+-hypoxia resolved after bronch and removeal of trach.
+-Chest PT
+-Home O2
+-no indication for abx. were d/c;d in MICU.
+*
+2. COPD: nebs prn, on chronic steroids (5 mg).
+Pt will be sent home with prednisone 5mg, serovent, albuterol
+and salmeterol.
+*
+3. CAD: on bb, asa, statin. Pt s/p NSTEMI this admission now CP
+free.  Continue to afterload reduce with captopril 6.25mg tid.
+Will Followup with Dr. [**Last Name (STitle) **] in Mid [**Month (only) 314**] for likely therapeutic
+cath.
+*
+4. CHF: euvolemic on exam, EF 35%. Currenrtly euvolemic. On bb
+and aceI.
+*
+5. Hemoptysis: In setting of bronch now resolved.
+*
+6. GIBleed: has h/o AVM but hct stable for now. Hct stable. on
+ppi.
+*
+7. FEN: [**Month (only) **] d/c'ed on day of discharge.  Will go home on heart
+healthy PO diet.
+*
+8. Dispo:  Patient being discharged to home with wife and
+daughter present.  PT evaluated him and pt ok to go home with
+services.  will need home O2, and chest PT.
+
+
+Medications on Admission:
+1. allopurinol 100 mg qd
+2. asa 325 mg qd
+3. voltaren eye drops
+4. finasteride 5 mg qd
+5. lasix 20 mg --d/c [**6-19**]
+6. lansoprazole 30 qd
+7. metoprolol 50 mg tid
+8. pravachol 80 mg qd
+9. prednisone 5 mg qd
+10. flomax 0.4 mg [**Hospital1 12**]
+11. trazodone 50 mg qhs
+12. remeron 7.5 mg qd
+13. bacitracin to G tube
+14. tylenol prn
+15. lorazepam prn
+16. hydrocortisone cream to his feet tid
+17. insulin humalin sliding scale
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Diclofenac Sodium 0.1 % Drops Sig: One (1)  Ophthalmic  once
+a day ().
+3. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+5. Pravastatin Sodium 20 mg Tablet Sig: Four (4) Tablet PO HS
+(at bedtime). Tablet(s)
+6. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: Two (2)
+Tablet Sustained Release 24HR PO once a day.
+Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*2*
+7. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO BID (2 times a day).
+9. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+10. Mirtazapine 15 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime).
+
+11. Hydrocortisone 1 % Cream Sig: One (1) Appl Topical  TID (3
+times a day).
+12. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO QID (4 times a day).
+Disp:*120 Tablet, Chewable(s)* Refills:*2*
+13. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*qs Tablet(s)* Refills:*2*
+14. Salmeterol Xinafoate 50 mcg/Dose Disk with Device Sig: One
+(1) Disk with Device Inhalation Q12H (every 12 hours).
+Disp:*60 Disk with Device(s)* Refills:*2*
+15. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation
+q4-6h:PRN.
+Disp:*qs 1* Refills:*2*
+16. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+Disp:*qs 1* Refills:*2*
+17. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+18. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-4**] Sprays Nasal
+TID (3 times a day) as needed.
+19. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 891**] VNA
+
+Discharge Diagnosis:
+COPD
+NSTEMI
+ARF
+GIBleeding
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please continue to take all your medications as directed. Please
+return to the ED if you experience any Chest pain or shortness
+of breath.  Call PCP or return to ED if you have fevers, chills.
+
+Followup Instructions:
+Please follow up with your PCP [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].[**Telephone/Fax (1) 40033**].
+Please call ENT [**Telephone/Fax (1) 307**] to setup an appt for your ears.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 970**] MD, [**MD Number(3) 971**]
+
+Completed by:[**2674-6-27**]
+
+
+DOC CLASS

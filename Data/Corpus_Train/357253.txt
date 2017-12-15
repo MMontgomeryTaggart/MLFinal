@@ -1,0 +1,174 @@
+Chief Complaint: resp distress, hyponatremia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ NASAL SWAB - At [**2693-12-2**] 04:20 AM
+   MRSA screen
+   Overnight Na rising to 134 - making massive dilute urine
+   head CT without acute findings
+   BIPAP on and off
+   Allergies:
+   Thorazine (Oral) (Chlorpromazine Hcl)
+   Rash;
+   Penicillins
+   lower extremity
+   Last dose of Antibiotics:
+   Vancomycin - [**2693-12-1**] 08:15 PM
+   Ceftazidime - [**2693-12-2**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2693-12-1**] 10:00 PM
+   Pantoprazole (Protonix) - [**2693-12-2**] 06:00 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2693-12-2**] 08:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.6
+   Tcurrent: 37.7
+C (99.8
+   HR: 76 (72 - 99) bpm
+   BP: 105/54(65) {90/42(54) - 168/87(140)} mmHg
+   RR: 21 (15 - 29) insp/min
+   SpO2: 90%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    501 mL
+                                                                  1,460 mL
+   PO:
+                                                                     30 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    471 mL
+                                                                  1,400 mL
+   Blood products:
+   Total out:
+                                                                  5,110 mL
+                                                                  2,030 mL
+   Urine:
+                                                                  5,110 mL
+                                                                  2,030 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -4,610 mL
+                                                                   -570 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   Ventilator mode: Standby
+   Vt (Spontaneous): 897 (369 - 897) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 36
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   PIP: 16 cmH2O
+   SpO2: 90%
+   ABG: 7.32/65/86/34/4
+   Ve: 4.2 L/min
+   PaO2 / FiO2: 172
+   Physical Examination
+   Gen: lying in bed, on neb, mild resp distress
+   HEENT: o/p dry
+   CV: RR
+   Chest: inspi and exp wheezes
+   ABd: soft NT + BS
+   Ext: trace edema
+   Neuro: alert, answering [**Last Name (un) **] ?s knows [**Last Name (LF) **], [**11-30**]^st, [**Location (un) 322**] but not
+   year- asking to leave
+   Labs / Radiology
+   12.8 g/dL
+   186 K/uL
+   140 mg/dL
+   0.6 mg/dL
+   34 mEq/L
+   4.3 mEq/L
+   11 mg/dL
+   94 mEq/L
+   131 mEq/L
+   36.9 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**2693-12-1**]  10:38 AM
+                             [**2693-12-1**]  01:08 PM
+                             [**2693-12-1**]  04:47 PM
+                             [**2693-12-1**]  05:55 PM
+                             [**2693-12-2**]  03:19 AM
+                             [**2693-12-2**]  04:07 AM
+   WBC
+   12.6
+   9.4
+   Hct
+   40.2
+   36.9
+   Plt
+   173
+   186
+   Cr
+   0.6
+   0.6
+   0.6
+   TCO2
+   33
+   35
+   35
+   Glucose
+   105
+   77
+   140
+   Other labs: PT / PTT / INR:13.6/30.5/1.2, Alk Phos / T Bili:/0.3,
+   Amylase / Lipase:29/16, Differential-Neuts:94.9 %, Lymph:3.1 %,
+   Mono:1.9 %, Eos:0.1 %, Lactic Acid:0.7 mmol/L, Albumin:3.5 g/dL,
+   LDH:204 IU/L, Ca++:8.2 mg/dL, Mg++:2.0 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ DELIRIUM / CONFUSION
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITH ACUTE EXACERBATION
+ HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY)
+   61 yr old woman with recent admit for CXOPD exacerbation presents with
+   hypothermia, hypoNa, and resp distress
+   1.       COPD exacerbation requiring non invasive ventilation: DDX is
+   flare in setting of LLL infiltrates. Will Rx with IV medrol, nebs,
+   BIPAP. Vanco, Ceftaz, Azithro, check sputum cx and nasal aspirate,
+   Legionella urine Ag neg
+   2. .       HypoNa: Low serum and urine OSM, U NA less than 10
+ DDX
+   hypovolemia, cerebral salt wasting, adrenal crisis.
+   DDx was dehydration with ingestion of sig amounts of hypotonic fluids,
+   she has continued to put out massive dilute urine but has been
+   correcting herself. Was given D5W overnight to prevent too acute a rise
+   and now settled at 131.
+   Repeat serum and urine Osm and urine Na and if stable allow to
+   autocorrect. Get [**Year (4 digits) **] in to vosot and determine if this is close to
+   her baseline. Doubt CPM if she is
+   3. Psytch: restart psyc meds
+   Remaining issues as per Housestaff notes.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2693-12-1**] 10:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   Communication:  with [**Year (4 digits) **] to come in today
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 40 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

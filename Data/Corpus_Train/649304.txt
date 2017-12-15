@@ -1,0 +1,265 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Oliguric over last 24 hrs. Bumex and metolazone stopped. 3L removed via
+   ultrafiltration. New plan in PM: dobutamine, bumex, metolazone
+   started.  Plan for Impella ventricular assist device tomorrow.  NPO
+   after midnight. Repeat white count elevated 23.3 with 89.7%
+   neutrophils. Blood cx repeated, HD catheter tip swabbed for cx.
+   Patient feeling well overnight, denies CP, fevers/chills. Noticed some
+   tremors in the hands b/l, continues to have throat pain and labored
+   breathing (not shortness of breath per se). Some nausea this morning
+   [**1-26**] anxiety about procedure today. Has been NPO since MN. Wife at
+   bedside.
+   Allergies:
+   Penicillins
+   Unknown;
+   Heparin Agents
+   positive [**Last Name (un) 3979**]
+   Last dose of Antibiotics:
+   Infusions:
+   Dobutamine - 3 mcg/Kg/min
+   Milrinone - 0.542 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2984-9-10**] 07:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.9
+C (98.4
+   HR: 90 (88 - 102) bpm
+   BP: 95/50(62) {59/23(37) - 112/92(108)} mmHg
+   RR: 13 (12 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: AV Paced
+   Wgt (current): 110.1 kg (admission): 116.8 kg
+   Height: 69 Inch
+             Total In:
+                                                                  1,467 mL
+                                                                    459 mL
+   PO:
+                                                                    240 mL
+             TF:
+   IVF:
+                                                                  1,227 mL
+                                                                    459 mL
+   Blood products:
+   Total out:
+                                                                  3,250 mL
+                                                                      0 mL
+   Urine:
+                                                                    250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,783 mL
+                                                                    459 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   SpO2: 97%
+   ABG: ///25/
+   Physical Examination
+   General: NAD, AAO
+   HEENT: pupils equal, MMM, RIJ ecchymosis improved
+   CVS: RRR, no m/r/g, RV heave
+   Pulm: CTA-B
+   Abdomen: soft, NT/ND, obese, b.s. present
+   Peripheral Vascular: 1+ PT pulses b/l
+   Skin:  Not assessed
+   Neurologic: asterixis
+   Labs / Radiology
+   181 K/uL
+   11.4 g/dL
+   168 mg/dL
+   4.0 mg/dL
+   25 mEq/L
+   4.5 mEq/L
+   28 mg/dL
+   93 mEq/L
+   131 mEq/L
+   36.2 %
+   21.9 K/uL
+        [image002.jpg]
+                             [**2984-9-7**]  02:14 AM
+                             [**2984-9-7**]  08:28 AM
+                             [**2984-9-7**]  03:14 PM
+                             [**2984-9-8**]  03:04 AM
+                             [**2984-9-9**]  04:19 AM
+                             [**2984-9-9**]  05:00 AM
+                             [**2984-9-9**]  06:00 AM
+                             [**2984-9-9**]  03:30 PM
+                             [**2984-9-9**]  07:00 PM
+                             [**2984-9-10**]  05:20 AM
+   WBC
+   13.5
+   13.7
+   16.1
+   14.9
+   16.4
+   20.3
+   23.3
+   21.9
+   Hct
+   37.0
+   36.7
+   34.5
+   36.2
+   37.7
+   36.0
+   35.6
+   36.2
+   Plt
+   165
+   162
+   153
+   161
+   170
+   160
+   176
+   181
+   Cr
+   2.4
+   2.2
+   2.7
+   3.8
+   4.0
+   3.0
+   3.6
+   4.0
+   Glucose
+   128
+   232
+   221
+   150
+   171
+   158
+   203
+   168
+   Other labs: PT / PTT / INR:13.8/29.4/1.2, Differential-Neuts:85.5 %,
+   Band:0.0 %, Lymph:8.5 %, Mono:5.0 %, Eos:0.8 %, Lactic Acid:1.4 mmol/L,
+   Ca++:8.8 mg/dL, Mg++:2.3 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   68 yo M with severe NYHA class IV systolic CHF with EF of 20%,
+   secondary to ischemic cardiomyopathy, admitted [**2984-8-31**] for acute
+   exacerbation of CHF and transferred to CCU from [**Hospital1 2208**] service for
+   aggressive diuresis and RRT for fluid removal and acute on chronic
+   renal failure.
+   .
+   # PUMP: Severe systolic CHF, LVEF 20%, akinetic anterior,septal,and
+   apical segments in LV, severe TR. Elevated right- and left- sided
+   pressures (mean RA pressure and mean PCWP both 30 mmHg). Aggressive
+   diuresis with Bumex and metolazone has been ineffective. Will try
+   - Plan for Impella left ventricular assist device placement today in
+   cath lab for 3-10 days
+   - Will place Swan-Ganz in cath lab today to monitor CI
+   - Continue milrinone gtt and dobutamine gtt to augment systolic
+   function
+   - Keep maintaining MAP > 60 with phenylephrine gtt
+   - Will not intiate ACE-I secondary to renal failure
+   - Monitor I/O, daily weights (dry weight is 100 kg)
+   .
+   # CORONARIES: CAD s/p MI in [**2958**], CABG x 2. Cardiac cath showed
+   right-dominant system w/ 50% mid-RCA stenosis, patent SVG-D1 and
+   SVG-OM3 grafts. Known occluded native LCx and LAD. No PCI undertaken.
+   - Continue ASA 81 mg
+   - Continue Atorvastatin 20 mg
+   - Continue Toprol XL 50 mg daily
+   .
+   # RHYTHM: BiV-ICD recently interrogated [**2984-8-31**]. Per EP, not candidate
+   for LV pacing. Had NSVT on [**8-27**], 7 a.m., rate 150 bpm. ICD is
+   programmed to fire for VT>140 bpm and VF>190bpm. DDI pacer with rate >
+   90 bpm, AV delay 160 msec.
+   - Keep on cardiac monitor
+   - Continue home amiodarone 200 mg daily
+   .
+   # Tender tunnelled HD line
+ concern for infection, given chills/rigors
+   on [**9-5**], relative hypothermia; [**Name2 (NI) **] count trending up with neutrophil
+   predominance, no bands. Cultures (blood from cath tips, sputum)
+   repeated [**9-9**].
+   -  f/u pending blood cultures from HD and PICC line tips
+   - will continue to trend WBC (increasing progressively from [**9-5**] to
+   today at 16.4), no left shift
+   .
+   # h/o HIT
+ swan-ganz cath had 500 cc heparin delivered in first 30
+   minutes.
+   - Platelets trending down but stable (today 153). Will continue to
+   follow daily for 4-10 days p heparin exposure.
+   - No need for Argatroban per heme/onc
+   .
+   # s/p MVR: Bioprosthetic mitral valve appears to be functioning well on
+   TTE.
+   - Was on warfarin x 2 yrs before d/c'ed by cardiologist, ? need for
+   long-term anticoagulation upon discharge -> pt declined in past per Dr.
+   [**First Name (STitle) **]
+   .
+   # Acute on chronic renal failure: Cr increased from baseline 2.5 to
+   4.0. Etiology likely poor renal perfusion given severe systolic CHF and
+   FeNa<1%. Anuric today
+   - Continue to monitor UOP, oliguric currently
+   - Continue to trend renal function after Impella to assess for
+   end-organ perfusion
+   - Ultrafiltration as necessary for fluid removal.
+   - Replete K PRN (K today is 4.6)
+   - Does not need PhosLo at this point
+   .
+   # URI: Cough and sore throat improved
+   - continue guaifenisin and lozenges for symptom relief
+   - consider Tessalon Pearls for improved symptom relief
+   .
+   # DM: IDDM with recent HA1c in [**2984-7-30**] of 9.2%
+   - Continue home insulin regimen
+   - SSI for meal coverage
+   .
+   # Hypothyroidism
+   - Continue home levothyroxine
+   .
+   # OSA
+   - Continue CPAP at night
+   .
+   FEN:
+   - Will replete potassium as needed to goal of [**4-27**].5
+   - Fluid restriction of 1200 mL/day
+   - Low-sodium (<2g/day), cardiac-prudent, diabetic diet
+   .
+   ACCESS: PIV's, PICC, RIJ tunneled catheter
+   .
+   PROPHYLAXIS:
+   -DVT ppx with SCD's
+   - Incentive spirometer at bedside
+   -Pain management with Percocet q6h prn, PRN morphine for breakthrough
+   -Bowel regimen with senna, docusate
+   .
+   CODE: Full  code (confirmed)
+   .
+   COMM: [**Name (NI) 51**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2984-9-1**] 12:28 PM
+   Dialysis Catheter - [**2984-9-2**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

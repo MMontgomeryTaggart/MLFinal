@@ -1,0 +1,146 @@
+TITLE:
+   Chief Complaint:
+   None.
+   24 Hour Events:
+   Weaned off of pressor (phenylephrine) overnight. Approximately 12 hours
+   now without pressor. Feels well.
+   Denies chest pain/pressure, shortness of breath, abdominal pain.
+   Keen to go home.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3039-9-5**] 06:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.7
+C (98.1
+   HR: 68 (6 - 75) bpm
+   BP: 92/55(64) {80/36(52) - 112/60(70)} mmHg
+   RR: 17 (12 - 22) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,962 mL
+                                                                     28 mL
+   PO:
+                                                                    240 mL
+             TF:
+   IVF:
+                                                                    822 mL
+                                                                     28 mL
+   Blood products:
+   Total out:
+                                                                    634 mL
+                                                                  1,530 mL
+   Urine:
+                                                                    234 mL
+                                                                  1,530 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,328 mL
+                                                                 -1,502 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ///24/
+   Physical Examination
+   GEN: NAD, resting comfortably in bed, cooperative
+   CV: RRR, no m/r/g
+   PULM: CTAB other than bilateral mild crackles at lung bases
+   ABD: soft, nt, nd
+   EXTR; 2+ DP pulses bilaterally
+   Labs / Radiology
+   402 K/uL
+   10.7 g/dL
+   122 mg/dL
+   0.8 mg/dL
+   24 mEq/L
+   5.3 mEq/L
+   20 mg/dL
+   109 mEq/L
+   137 mEq/L
+   33.1 %
+   7.6 K/uL
+        [image002.jpg]
+                            [**3039-9-5**]  05:29 AM
+   WBC
+   7.6
+   Hct
+   33.1
+   Plt
+   402
+   Cr
+   0.8
+   Glucose
+   122
+   Other labs: PT / PTT / INR:24.7/24.8/2.4, Ca++:8.6 mg/dL, Mg++:2.5
+   mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   69 yo woman with DM, htn, HL, suspected CAD, PAF on sotalol now s/p
+   TEE/DCCV with post-procedure hypotension that has improved overnight
+   somewhat, and patient was weaned off of pressors.
+   # Hypotension: Pt reports poor po intake day prior to procedure and was
+   then NPO. Believed to be due to sedation and dehydration/hypovolemia.
+   Patient was given 3 x 250mL NS fluid boluses overnight, was weaned off
+   of pressors, and was asymptomatic.
+   - continue to hold sotalol and antihypertensives
+   - repeat fluid bolus prn for recurrent hypotension
+   - avoid QT-prolonging meds
+   .
+   # A. fib: Currently in NSR at normal rate. S/P second DCCV on [**9-4**].
+   INR today 2.4
+   - Maintain on coumadin at home dose
+   - Possibly restart sotalol
+   .
+   # Hypertension: Was hypotensive, now slowly recovering blood pressure.
+   - Hold lisinopril for now but consider restart before discharge
+   .
+   # Hyperkalemia (K 5.3 this morning):
+   - Recheck pm lytes
+   .
+   #. Type II Diabetes: ISS, restart PO meds on discharge.
+   #. Hypothyroid: Continue on home levothyroxine
+   #. Hyperlipidemia.  Continue on atorvastatin
+   #. Depression. Continue on paroxetine
+   .
+   FEN:  Diabetic, heart healthy, low sodium
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with warfain
+   -Bowel regimen
+   .
+   CODE: full
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3039-9-4**] 08:27 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

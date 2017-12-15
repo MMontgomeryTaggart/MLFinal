@@ -1,0 +1,208 @@
+TITLE:
+   Chief Complaint:
+   [**Age over 90 56**] yo man with h/o CAD s/p cath, CHF (EF of 25-30% per report in [**3120**]),
+   who is here with a CHF exacerbation now on a milrinone drip.
+   24 Hour Events:
+   Patient did well on the milrinone gtt and lasix gtt yesterday - put out
+   over 3 L.  The patient was continued on the milrinone and lasix gtts
+   for another day.  His dig level returned at 1.8 and he is now on 0.125
+   of dig every other day.  His LOS fluid balance this am was negative 6.7
+   L.
+   The patient had episodes of apnea overnight where he would not breathe
+   for up to 15 sec, however his oxygen saturation generally remained
+   normal.  This am he denies CP, SOB, or recent dizziness.
+   Allergies:
+   Coumadin (Oral) (Warfarin Sodium)
+   generalized swe
+   Xanax (Oral) (Alprazolam)
+   Confusion/Delir
+   Morphine
+   Hallucinations;
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Milrinone0.625 mcg/kg/hr
+   Other ICU medications:
+   Heparin Sodium - [**3122-10-30**] 09:27 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3122-10-31**] 05:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.4
+C (97.5
+   HR: 60 (59 - 73) bpm
+   BP: 92/53(62) {84/31(45) - 113/54(64)} mmHg
+   RR: 8 (8 - 19) insp/min
+   SpO2: 98%
+   Heart rhythm: V Paced
+   Wgt (current): 87.6 kg (admission): 90.5 kg
+   Height: 71 Inch
+             Total In:
+                                                                  1,403 mL
+                                                                    188 mL
+   PO:
+                                                                    870 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    533 mL
+                                                                    128 mL
+   Blood products:
+   Total out:
+                                                                  3,220 mL
+                                                                  1,210 mL
+   Urine:
+                                                                  3,220 mL
+                                                                  1,210 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,817 mL
+                                                                 -1,022 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///28/
+   Physical Examination
+   GENERAL: elderly male lying in bed in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. OP clear
+   NECK: Supple with JVP elevated to ear lobe.
+   CARDIAC: PMI displaced, RRR,  no MRG
+   LUNGS: decreased breath sounds at the bases b/l, CTAB otherwise
+   ABDOMEN: +BS, Soft, NTND. No HSM or tenderness..
+   EXTREMITIES: 1+ pitting  edema in thighs and sacrum, lower legs have
+   trace edema
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:  2+ throughout
+   Labs / Radiology
+   178 K/uL
+   9.5 g/dL
+   84 mg/dL
+   1.7 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   48 mg/dL
+   100 mEq/L
+   135 mEq/L
+   28.1 %
+   4.4 K/uL
+        [image002.jpg]
+                             [**3122-10-28**]  05:21 AM
+                             [**3122-10-28**]  05:31 PM
+                             [**3122-10-29**]  03:35 AM
+                             [**3122-10-29**]  11:12 PM
+                             [**3122-10-30**]  06:39 AM
+                             [**3122-10-31**]  04:59 AM
+   WBC
+   4.8
+   5.2
+   4.6
+   4.4
+   Hct
+   28.9
+   27.4
+   28.9
+   28.1
+   Plt
+   153
+   168
+   188
+   178
+   Cr
+   1.4
+   1.7
+   1.7
+   1.7
+   1.7
+   Glucose
+   189
+   149
+   204
+   84
+   Other labs: PT / PTT / INR:14.9/32.5/1.3, Ca++:9.2 mg/dL, Mg++:2.0
+   mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   [**Age over 90 **] yo M with CAD, CHF (EF 25-30%), afib, s/p ICD pacer who presents
+   with LE edema after multiple prior admission, transferred to CCU after
+   becoming hypotensive and having confusion with IV Lasix boluses.
+   Getting Milrinone and Lasix gtts.
+   #. CHF with both systolic and diastolic failure, EF 20%, poor response
+   to both preload and afterload changes. did not respond to iv lasix and
+   then dropped bp to lasix drip.  On Milrinone, increased overnight to
+   0.625 mcg/kg/min.  On lasix gtt.  Patient was 1.8 L negative yesterday
+   and 6.7 L negative for LOS.  The patient has completed his digoxin
+   loading and had a dig level of 1.8 yesterday; no dig dose was given
+   yesterday given his renal failure.
+   - daily i&os, low na diet
+   - daily weight, 1200 fluid restriction
+   - Will stop his milrinone and lasix gtt after confirming with Dr. [**First Name (STitle) **]
+   as he has reached his goal of almost 7 L negative and his Cr has
+   started to increase likely secondary to intravascular volume
+   depletion.  Will discuss starting a po lasix dose once his drips are
+   stopped.
+   - will decrease his digoxin dosing to 0.0625 every other day given his
+   rising Cr and check a level t/m
+   - continue Toprol XL 25 PO qday, Lisinopril 2.5mg PO qday
+   #. Acute renal failure:  The patient
+s Cr increased to 2.0 from 1.7
+   likely secondary to intravascular volume depletion from his diuresis.
+   His baseline is in the 1.7-1.8 more recently, but had been 1.3-1.4
+   within the last year.
+   - Will likely stop aggressive diuresis as above and continue to
+   monitor.
+   #. Coronary Artery Disease: The patient has a h/o CAD. He is not
+   currently having any symptoms of chest pain.
+   - Continue home dose of Metoprolol, NTG, Simvastatin, aspirin
+   #. Gout: Patient has a history of gout. He currently takes Allopurinol
+   300 mg daily at home. Given the patient's renal function, this dose was
+   changed to Allopurinol 100 mg daily.
+   - Continue lower dose of Allopurinol given ARF.
+   #. GERD: Patient
+s home dose of ranitidine was decreased due to his
+   decreased renal function to 150 mg daily.
+   #. FEN: Heart-healthy, low sodium, 1200 cc fluid restriction diet.
+   Replete K > 4.0 and Mg > 2.0
+   #. Access: PIV
+   .
+   #. PPx:
+   - DVT: Heparin SQ
+   - GI: Colace and Senna daily
+   - Pain: Tylenol prn
+   .
+   #. Code: DNR/DNI (confirmed with patient and health care proxy)
+   .
+   #. Dispo: Patient can be called out to the floor today.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3122-10-30**] 06:45 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+   ------ Protected Section ------
+   Upon discussion with Dr. [**First Name (STitle) **], it was decided to pursue another day of
+   diuresis as the patient has continued edema in his upper thighs.  Will
+   continue the milrinone and lasix gtts (increasing lasix gtt back up to
+   5 mg/hr)  with a goal of 2 L negative for today.  Will check pm lytes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 389**] [**Last Name (NamePattern1) 2666**], MD
+   on:[**3122-10-31**] 11:00 ------
+
+
+
+DOC CLASS

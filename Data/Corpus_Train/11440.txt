@@ -1,0 +1,85 @@
+Admission Date: [**3015-9-7**]        Discharge Date: [**3015-9-11**]
+
+Date of Birth:  [**2958-5-28**]        Sex:  M
+
+Service:  NSU
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 54-year-old gentleman,
+with difficulty walking, first noting left leg weakness about
+5 years ago.  Over the past several years, increased left leg
+weakness and difficulty lifting left leg up, has been
+dragging left leg for past year.  He has been using cane for
+past 2 weeks.  No bowel or bladder incontinence.  PPD
+negative.  Biopsy reportedly negative.
+
+PAST MEDICAL HISTORY:  Negative.
+
+PAST SURGICAL HISTORY:  Appendectomy.
+
+MEDICATIONS:  Propoxy-N/APAP.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Nonsmoker.  Works as a [**Company 2890**] bus driver.
+
+PHYSICAL EXAM:  He is 5 feet 8 inches, 280 pounds.  Spastic
+gait, using cane.  Upper extremities:  Strength 5/5.  IP:  On
+the right 4, on the left 3 plus.  Hamstrings:  On the right
+5, on the left 4 plus.  Quads:  On the right 5, on the left
+5.  Dorsiflexion:  On the right 5, on the left 4 plus.
+Plantar flexion:  On the right 5, on the left 5.  Plus 4
+patellar reflexes.  Upper extremity hyperactive.  Eight beat
+clonus on the right.  A sustained clonus on the left.
+
+MRI shows T10-11 destructive process with paraspinal mass and
+irregular enhancement.  There was positive cord compression
+at T10-11 with his pharynx extending to the C-spine.
+Impression at the time was thoracic myelopathy.
+
+HOSPITAL COURSE:  The patient received a thoracic laminectomy
+and placement of syringopleural shunt.  Postoperative course
+was uncomplicated.  Physical therapy and occupational therapy
+were consulted.  He was discharged to extended care facility
+for acute rehab.
+
+DISCHARGE INSTRUCTIONS:  Keep the staples dry.  Call for
+fever or any signs of infection, redness, swelling or
+drainage from wound.
+
+Please monitor for the following:  Fevers, chills, nausea,
+vomiting, inability to tolerate food or drink.  If any of
+these occur, please contact your physician [**Name Initial (PRE) 1981**].
+
+FINAL DIAGNOSES:  Syringomyelia
+
+Status post thoracic laminectomy and placement of
+syringopleural shunt.
+
+RECOMMENDED FOLLOW-UP:  Follow-up with Dr. [**Last Name (STitle) 322**] for staple
+removal 2 weeks postop, [**3015-9-19**].  Call for an appointment
+at [**Telephone/Fax (1) 9556**].
+
+MAJOR SURGICAL OR INVASIVE PROCEDURE:  Thoracic laminectomy
+and placement of syringopleural shunt.
+
+DISCHARGE CONDITION:  Neurologically stable.
+
+DISCHARGE MEDICATIONS:
+1. Percocet.
+2. Colace.
+
+
+
+
+                        [**Name6 (MD) **] [**Last Name (NamePattern4) **], [**MD Number(1) 2834**]
+
+Dictated By:[**Last Name (NamePattern1) 9557**]
+MEDQUIST36
+D:  [**3015-9-11**] 10:48:11
+T:  [**3015-9-11**] 11:17:45
+Job#:  [**Job Number 9558**]
+
+
+
+DOC CLASS

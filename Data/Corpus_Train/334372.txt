@@ -1,0 +1,151 @@
+CVICU
+   HPI:
+   60yoM s/p Repair of Asc Ao dissection w/28mm hemiarch gelweave graft.
+   PMH:s/p Melanoma resec.[**3301**],IBS,HTN,Hyper chol,Gilberts syndrome,f/h
+   alc.cirrhosis,appendectomy.
+   [**Last Name (un) **]: Hydrochlorothiazide
+   24 Hour Events:
+ INTUBATION - At [**3336-9-10**] 02:30 AM
+ OR RECEIVED - At [**3336-9-10**] 02:30 AM
+ ARTERIAL LINE - START [**3336-9-10**] 02:30 AM
+ ARTERIAL LINE - START [**3336-9-10**] 02:30 AM
+ ARTERIAL LINE - START [**3336-9-10**] 02:30 AM
+ CCO PAC - START [**3336-9-10**] 02:30 AM
+ TRIPLE INTRODUCER - START [**3336-9-10**] 02:30 AM
+ INVASIVE VENTILATION - START [**3336-9-10**] 02:30 AM
+   Post operative day:
+   POD#0 - repair ascending aorta and hemiarch with circ arrest and
+   bilateral carotid perfusion.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 1 mcg/Kg/min
+   Propofol - 60 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3336-9-10**] 07:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**39**] a.m.
+   HR: 96 (84 - 96) bpm
+   BP: 114/55(74) {91/46(63) - 114/63(78)} mmHg
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   CVP: 4 (1 - 5) mmHg
+   PAP: (19 mmHg) / (9 mmHg)
+   CO/CI (CCO): (5.5 L/min) / ()
+   SvO2: 60%
+   Mixed Venous O2% sat: 65 - 65
+   Total In:
+                                                                 12,242 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                 12,242 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,155 mL
+   Urine:
+                                                                    225 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 11,087 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 700 (700 - 700) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 19 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 87.5 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.42/35/152/23/0
+   Ve: 9.6 L/min
+   PaO2 / FiO2: 380
+   Labs / Radiology
+   130 K/uL
+   9.7 g/dL
+   114 mg/dL
+   0.8 mg/dL
+   23 mEq/L
+   4.4 mEq/L
+   15 mg/dL
+   115 mEq/L
+   139 mEq/L
+   26.4 %
+   14.2 K/uL
+        [image002.jpg]
+                            [**3336-9-9**]  10:38 PM
+                            [**3336-9-9**]  11:42 PM
+                            [**3336-9-10**]  12:34 AM
+                            [**3336-9-10**]  01:17 AM
+                            [**3336-9-10**]  01:26 AM
+                            [**3336-9-10**]  01:55 AM
+                            [**3336-9-10**]  01:56 AM
+                            [**3336-9-10**]  03:00 AM
+                            [**3336-9-10**]  03:12 AM
+                            [**3336-9-10**]  04:13 AM
+   WBC
+   16.7
+   14.2
+   Hct
+   26
+   26
+   29
+   29
+   29
+   28.6
+   32
+   26.4
+   Plt
+   133
+   130
+   Creatinine
+   0.8
+   TCO2
+   25
+   22
+   20
+   26
+   23
+   24
+   25
+   23
+   Glucose
+   116
+   126
+   231
+   182
+   153
+   132
+   115
+   114
+   Other labs: PT / PTT / INR:16.9/47.5/1.5, Fibrinogen:100 mg/dL, Lactic
+   Acid:3.7 mmol/L
+   Assessment and Plan
+   Wean sedation and cont neuro checks Q1-2 hrs
+   Change to Pressure Support and wean vent for extubation
+   Keep SBP < 120
+   Follow CT output and serial Hct
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3336-9-10**] 02:30 AM
+   CCO PAC - [**3336-9-10**] 02:30 AM
+   Triple Introducer - [**3336-9-10**] 02:30 AM
+   20 Gauge - [**3336-9-10**] 02:30 AM
+
+
+
+DOC CLASS

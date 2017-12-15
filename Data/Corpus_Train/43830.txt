@@ -1,0 +1,362 @@
+Admission Date:  [**2538-8-21**]              Discharge Date:   [**2538-9-3**]
+
+Date of Birth:  [**2499-11-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Prochlorperazine / Heparin Agents
+
+Attending:[**First Name3 (LF) 4826**]
+Chief Complaint:
+Fevers
+
+Major Surgical or Invasive Procedure:
+Pericardiocentesis
+
+History of Present Illness:
+Ms. [**Known patient firstname **] [**First Name4 (NamePattern1) **] [**Known patient lastname 1804**] is a 38yo F ALL s/p double cord blood
+SCT [**1-/2537**] c/b GVHD, severe left ventricular systolic
+dysfunction attributed to chemotherapy for ALL as well as XRT
+for [**Year (4 digits) 1581**] (EF 15-20%), embolic CVA now on coumadin, asthma,
+hypertension and chronic kidney disease, well-known to the [**Year (4 digits) 1581**]
+service who was just discharged yesterday ([**2538-8-20**]) after a
+prolonged hospital course for acute on chronic CHF thought be be
+due to cardiac GVHD and acute on chronic renal failure. She was
+discharged home with daily infusions of IV torsamide and
+methylprednisolone. She came to clinic today fopr follow-up
+where she was found to be febrile to 102 and up 0.5lbs from her
+discharge weight. CXR was done and cardiac silloette was
+increased, concerning for pleural effusion. Blood (PICC and
+peripheral) and urine cultures were sent, and she was started on
+empiric meropenem.
+.
+On arrival to the floor, pt has no complaints. She spent an hour
+outside yesterday and was otherwise at home resting. She does
+nto recal any bug bites. She did not feel subjectively febrile.
+She has some cough, but no different or worse than prior to
+discharge. She has some pedal [**Last Name (un) **],a put attributes this to
+being up and walking around today. No calf pain. Otherwise, ROS
+is negative. Per her sister, the pt got her torsemide and
+methyprednisolone in clinic today. [**Name6 (MD) **] outpatient NP, pt's
+weight was 137# today, up slightly from 136.5# on the day of
+discharge.
+
+Past Medical History:
+ALL:
+- initially presented in [**2536-8-15**] right chest and right upper
+extremity pain and paresthesias and visual blurriness. WBC
+149,000; received leukapheresis, started on hydroxyurea.
+Diagnosed with precursor B-cell ALL.
+- underwent phase I induction with daunorubicin, vincristine,
+dexamethasone, L-asparaginase, MTX; phase II with
+cyclophosphamide, cytarabine, mercaptopurine, MTX
+- Bone Marrow Aspirate/Biopsy on [**2536-11-5**] showed no morphologic
+evidence of residual leukemia
+- underwent allo double cord blood SCT [**2537-1-21**], course
+complicated by neutropenic fever and acute skin GVHD
+- subsequent course has been complicated by pseudomonas
+pneumonia
+in [**5-25**], empiric treatment of CMV pericarditis in [**7-25**], chronic
+nausea and vomiting which has been treated as GVHD with steroids
+though colonoscopies in [**8-24**] and [**11-24**] were negative for GVHD.
+.
+OTHER MEDICAL HISTORY:
+- Embolic stroke in [**3-/2538**] on coumadin
+- Asthma
+- Hypertension
+- Cervical Intraepithelial Neoplasia
+- C-section in [**2529**]
+- Cardiomyopathy due to early anthracycline-related
+cardiotoxicity [**10/2536**]
+- Chronic kidney disease stage III/IV, baseline creatinine ~2.0
+- Chronic abdominal pain: Her workup so far has included EGD
+[**2537-9-15**], [**2537-11-15**] with mild signs of gastritis, no GVHD.
+Colonoscopy [**2537-8-15**], unremarkable with biospy negative for
+GVHD, CMV.  UGI and SBFT [**4-/2538**] was mostly unremarkable.  She
+has had multiple CT scans which have demonstrated moderate
+ascites with interval increase, no drainable fluid collection,
+diverticulosis, small fat-containing umbilical hernia with mild
+fat stranding, no bowel obstruction.  RUQ ultrasound revealed
+ascites, gallbladder wall edema presumably from third spacing,
+and no biliary duct dilatation.
+
+Social History:
+She is single with a daughter and a son. Lives in [**Location 953**].
+Previously employed at [**Company 8288**] though has not worked since her
+diagnosis. Lifelong nonsmoker, but not currently. Denies
+illicits or EtOH.
+
+Family History:
+Mother with history of gastric cancer, died at age 40.  Father
+with hypertension.
+
+Physical Exam:
+Physical Exam on Admission:
+VS: T97.9/Tm 102, BP 110/67, HR 86, RR 18, 94% on 2L
+GEN: AOx3, NAD
+HEENT: Pupil equal and round. Sclera and conjunctiva clear. MMM.
+
+No oral lesions or exudates.
+Cards: S1/S1, S3. RRR.
+Pulm: Bibasilar crackles
+Abd: soft, NT, ND
+Extremities: wwp, edema of the feet and distal ankles B/L
+Skin: no rashes or bruising
+Neuro: nonfocal
+Pulsus paradoxus 2mmHg
+.
+Physical Exam on Discharge:
+Patient expired.
+
+
+Pertinent Results:
+[**2538-8-21**] 02:07PM   UREA N-82* CREAT-2.7* SODIUM-129*
+POTASSIUM-4.4 CHLORIDE-90* TOTAL CO2-27 ANION GAP-16
+[**2538-8-21**] 02:07PM   ALT(SGPT)-23 AST(SGOT)-75* LD(LDH)-1186* ALK
+PHOS-540* TOT BILI-1.9* DIR BILI-1.4* INDIR BIL-0.5
+[**2538-8-21**] 02:07PM   ALBUMIN-3.6 CALCIUM-8.3* PHOSPHATE-4.2
+MAGNESIUM-1.9
+[**2538-8-21**] 02:07PM   WBC-4.1 RBC-2.62* HGB-8.8* HCT-24.4* MCV-93
+MCH-33.7* MCHC-36.3* RDW-23.7*
+[**2538-8-21**] 02:07PM   NEUTS-86* BANDS-0 LYMPHS-6* MONOS-7 EOS-1
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-5*
+[**2538-8-21**] 02:07PM   PLT SMR-VERY LOW PLT COUNT-24*
+[**2538-8-21**] 02:07PM   GRAN CT-3543
+.
+IMAGING:
+CXR ([**2538-8-21**]):
+AP single view of the chest has been obtained with patient in
+upright position. Comparison is made with the next preceding PA
+and lateral
+chest examination of [**2538-8-13**]. The heart size has increased
+further in
+size. There is no typical configurational abnormality. The
+rather general
+increase of the heart shadow is suggestive of pericardial
+effusion. Previously described right-sided PICC line remains in
+unchanged position.
+Pulmonary vascular congestive pattern has not changed
+significantly; however, the previously described patchy and
+partially confluenting parenchymal densities persist and
+apparently have progressed further. They are most marked in the
+mid lung field on the right side and the lateral upper lobe area
+on the left. Lateral pleural sinuses are partially concealed by
+the described parenchymal densities. Conclusive evidence of
+pleural effusion is not present, and major pleural effusion is
+unlikely as it did not exist on the lateral view on the
+preceding chest examination.
+.
+Progression of bilateral pulmonary infiltrates in this patient
+on stem cell
+transplant therapy.
+.
+Echo ([**2538-8-22**]):  Moderate ?partially loculated pericardial
+effusion without definite evidence for tamponade physiology.
+Normal biventricular cavity sizes with preserved global and
+regional biventricular systolic function.
+Compared with the prior study (images reviewed) of [**2538-8-14**],
+the pericardial effusion is larger. Serial evaluation is
+suggested.
+.
+Echo ([**2538-8-28**]):
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF 65%). The right ventricular
+free wall is hypertrophied. Right ventricular chamber size is
+normal. with borderline normal free wall function. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic stenosis or aortic regurgitation. The
+mitral valve appears structurally normal with trivial mitral
+regurgitation. There is no mitral valve prolapse. The pulmonary
+artery systolic pressure could not be determined. There is a
+small to moderate sized pericardial effusion. The effusion
+appears circumferential. There are no echocardiographic signs of
+tamponade.
+.
+Echo ([**2538-9-2**]):
+The left atrium appears extrinsically compressed (mildly)
+posteriorly, possibly by a consolidated posterior pericardial
+effusion. There is mild symmetric left ventricular hypertrophy.
+The left ventricular cavity is unusually small. Overall left
+ventricular systolic function is low normal (LVEF 50%). The
+right ventricular free wall is hypertrophied. with depressed
+free wall contractility. The epicardial surface of the right
+ventricle as well as atria appears to be encased in a layer of
+echodense material (epicardial fat vs consolidated effusive
+material). No evidence of cardiac tamponade seen.
+.
+RUQ ([**2538-9-2**]):
+1. No evidence of acute cholecystitis, as clinically queried.
+2. Reversed flow in the main portal vein, could be secondary to
+cardiac
+tamponade or tricuspid regurgitation.
+3. Redemonstration of FNH in the right hepatic lobe.
+4. Moderate-sized bilateral pleural effusions and a small amount
+of ascites
+
+
+Brief Hospital Course:
+38 year old female with ALL s/p cord blood transplant
+complicated by multi-organ GVHD admitted directly to the ICU for
+recurrent fever and increased pulmonary infiltrates on CXR.
+
+#Sepsis:
+Patient presented to the clinic with fevers to 102; CXR showed
+increased pulmonary infiltrates and heart size. She received a
+dose of meropenem, blood and urine cultures were sent, and she
+was admitted directly to the ICU. After transfer to the ICU she
+was given IV fluids and continued on broad-spectrum antibiotics
+(vancomycin, cefepime), antifungal (voriconazole) and antiviral
+(gancyclovir). Bronchoscopy lavage fluid was sent for
+pan-culture, pneumocystis smear, and CMV screen. CMV pneumonitis
+was suspected given previous BAL CMV+. Hypoxia and work of
+breathing worsening and she required intubation for ventilation
+(see below). Microbiology revealed parainfluenza 3, but no other
+pathogens: sputum bacterial and fungal cultures + BAL
+cultures/stains/labs were all negative, including negative PCRs
+for PCP and CMV. She received vancomycin, cefepime, ganciclovir,
+voriconazole, and amphotericin B for broad anti-bacterial,
+anti-fungal, and anti-viral coverage. She also received four
+doses of IVIG.
+.
+# Hypoxia:
+Serial CXRs showed diffuse bilateral infiltrates. Microbiology
+as above. Patient arrived in the ICU unintubated but was
+intubated on the day after transfer for increasing respiratory
+effort and somnolence. She was sedated on fentanyl and versed
+due to agitation and discomfort on the vent. She was difficult
+to wean from 80% Fi02 and 14 PEEP. She required mechanical
+ventilation at an Fi02 of 100% O2 until the time of expiration.
+In addition to infection, there was concern for ARDS. The
+patient expired on the ventilator.
+.
+#Pericardial Effusion: Admission CXR showed increased heart
+size, and the echo done on [**2538-8-22**] showed increase in pericardial
+effusion without evidence of tamponade. Patient's primary
+cardiologist, Dr. [**First Name (STitle) 205**] was alerted and recommended follow up
+with echo on [**2538-8-25**]. Follow-up echo showed worsening
+moderate-to-large pericardial effusion, which was drained by
+bedside pericardiocentesis. Pericardial fluid included 30%
+lymphocytes and 60% macrocytes, cultures negative. Although she
+does not carry a diagnosis of cardiac GVHD, this was suspected.
+A third follow-up echo showed normal LVEF.
+.
+#Congestive heart failure with systolic dysfunction:
+Patient has known CHF with systolic dysfunction from chemo, XRT
+and suspected cardiac GVHD. Considered whether patient's recent
+CHF lability might contribute to current respiratory acuity. She
+was euvolemic to slightly volume up on exam with lower extremity
+pitting edema. Daily weights showed her to be under her recent
+discharge weight of 136.5 lb. She was on torsemide on arrival,
+but this was held in the context of hypovolemia (see below).
+NiCOM maneuvers were performed and a transesophageal Balloon was
+placed for pleural pressure monitoring. Following
+pericardiocentesis her cardiac output improved, repeat Echo was
+performed, and congestive heart failure was thought not to be
+the cause of her declining clinical picture. A repeat ECHO did
+show worsening right ventricular function. Despite being on
+three pressors, the patient's clinical picture declined and she
+developed hypotension.
+
+#Chronic Kidney Disease: Patient baseline creatinine 2.5 - 3.0
+with admission Cr of 2.7. Creatinine continued to rise from 3.0
+to 3.7 despite IVF. Renal service followed. Pt was hypocalcemic
+to 5.9 (requiring standing supplementation) and
+hyperphosphatemic, both likely secondary to renal failure. She
+became anuric and was started on CVVHD. CVVHD was discontinued
+as the patient developed hypotension despite being on three
+pressors.
+.
+#ALL: Pt is s/p double cord blood SCT [**1-/2537**] complicated by
+GVHD on immunosuppression, recently discharged on mycophenolate,
+IV solumedrol and bactrim/acyclovir for prophylaxis. Her
+mycophenolate dose was changed to 500 mg PO BID and she was
+continued on this plus 60 mg IV solumedrol daily. She was on
+Bactrim prophylaxis prior to admission, and this was increased
+to therapeutic dosing while in the ICU.
+
+#Hypotension. She was transiently IV fluid and pressor-dependent
+with hypotension to 85/45 but maintained BP through most of her
+ICU stay. Home nifedipine and lopressor were held.
+
+#Anemia. Transfused 1U PRBC for Hct 22 on ICU day 2;
+post-transfusion Hct 27.
+
+# Hyponatremia. She was hyponatremic, likely due to diuresis
+(which was stopped). No mental status changes prior to
+intubation. Free water restricted.
+
+# LFT abnormalities. Stable transaminases, with normal ALT and
+AST mildly elevated. Unclear etiology, likely secondary to
+hypoxia and end-organ underperfusion.
+
+# Thrombocytopenia. Platelet count remained low but patient did
+not show signs of coagulopathy.
+
+Medications on Admission:
+-acyclovir 400 mg Tablet One (1) Tablet by mouth every twelve
+(12) hours.
+-albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization
+One (1) Neb Inhalation every six (6) hours as needed for SOB,
+wheezing
+-digoxin 125 mcg Tablet One (1) Tablet by mouth EVERY OTHER DAY.
+-ergocalciferol (vitamin D2)50,000 unit Capsule One (1) Capsule
+by mouth 1X/week
+-lorazepam 0.5 mg Tablet One (1) Tablet by mouth every six (6)
+hours as needed for anxiety/nausea.
+-methylprednisolone sodium succ Sixty (60) mg Intravenous once a
+day.
+-metoprolol succinate 50 mg Tablet Extended Release 24 hr, One
+(1) Tablet Extended Release 24 hr by mouth once a day
+-morphine [MS Contin]15 mg Tablet Extended Release One (1)
+Tablet Extended Release by mouth twice a day.
+-mycophenolate mofetil 500 mg Tablet Two (2) Tablet by mouth
+twice a day.
+-nifedipine 60 mg Tablet Extended Release One (1) Tablet
+Extended Release by mouth once a day in the evening.
+-NPH insulin human recomb Ten (10) units Subcutaneous twice a
+day: Please administer 10 units before breakfast and 10 units
+before dinner.
+-omeprazole 40 mg Capsule, Delayed Release(E.C.) One (1)
+Capsule, Delayed Release(E.C.) by mouth once a day.
+-ondansetron 4 mg Tablet, Rapid Dissolve [**2-16**] Tablet, Rapid
+Dissolves by mouth three times a day as needed for nausea.
+-oxycodone 5 mg Tablet One (1) Tablet by mouth every 4-6 hours
+as needed for pain.
+-sildenafil 20 mg Tablet Four (4) Tablet by mouth three times a
+day.
+-sulfamethoxazole-trimethoprim 400-80 mg Tablet One (1) Tablet
+by mouth DAILY (Daily).
+-torsemide 20 mg/2 mL (10 mg/mL) Solution Forty (40) mg
+Intravenous once a day.
+-voriconazole 200 mg Tablet One (1) Tablet by mouth every twelve
+(12) hours.
+
+Discharge Medications:
+Deceased
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 238**] Homecare
+
+Discharge Diagnosis:
+Deceased
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+Deceased
+
+Followup Instructions:
+Deceased
+
+
+
+
+
+DOC CLASS

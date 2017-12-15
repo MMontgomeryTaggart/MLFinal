@@ -1,0 +1,298 @@
+Admission Date:  [**3007-10-13**]              Discharge Date:   [**3007-10-21**]
+
+Date of Birth:  [**2948-8-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+known Mitral Regurg-eval for Mitral Valve
+repair/Replacement
+
+
+Major Surgical or Invasive Procedure:
+[**3007-10-13**]
+Radical mitral valve repair with posterior leaflet P1/P2)
+triangular resection with ring annuloplasty using
+[**Last Name (un) 4743**]-[**Doctor Last Name 1804**] Physio II 30-mm ring.
+Resection of left atrial appendage.
+
+
+History of Present Illness:
+59 year old male with a long standing history of asymptomatic
+severe mitral regurgitation secondary to posterior flail
+leaflet.
+A recent echocardiogram demonstrates interval progression of
+mildly enlarged left ventricle, moderate left atrial enlargement
+with preserved systolic function, EF 65%. The patient denies
+shortness of breath or chest discomfort. He states he will
+occasionally take a 45 minute walk without any shortness of
+breath or difficulty. He presents today for  elective cardiac
+cath. Cardiac surgery consulted for evaluation of Mitral Valve
+repair vs.Replacement.
+
+
+Past Medical History:
+Severe Mitral Regurgitation,Esophageal
+Reflux,Trigger Finger
+
+
+Social History:
+Last Dental Exam:[**3007-6-7**]-Dr.[**Last Name (STitle) 14287**] at [**Last Name (NamePattern4) 14288**] Community Health
+Lives with:Lives with wife and daughter
+Contact:                      Phone #
+Occupation:Works fulltime as a signs fabricator/installer
+
+Cigarettes: Smoked no [] yes [x] -occasional cigar
+Other Tobacco use:
+ETOH: < 1 drink/week []  [**3-16**] drinks/week [x] >8 drinks/week []
+Illicit drug use-denies
+
+
+Family History:
+Uncle died of an MI, grandfather had DM
+
+
+Physical Exam:
+Pulse:61  Resp:20  O2 sat: 98%
+B/P  106/94
+Height: 5 ft 9inches
+Weight: 200lbs
+
+Five Meter Walk Test #1_______ #2 _________  #3_________
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI []
+Neck:  Supple [x] Full ROM []
+Chest: Lungs clear bilaterally [x]intermittent (R)exp wz
+Heart: RRR [x]  Irregular []  Murmur [] grade _IV/VI SEM_____
+Abdomen: Soft [x] non-distended [x] nonx-tender [x]  bowel
+sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema []none
+appreciated at this time _____ Varicosities: (R)LE
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:   Left:
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) **]:   Left:
+Radial       Right:   Left:
+
+Carotid Bruit-none appreciated, pulse Right:2+  Left:2+
+
+
+Pertinent Results:
+[**3007-10-16**] 05:49AM BLOOD WBC-11.8* RBC-3.44* Hgb-11.1* Hct-30.0*
+MCV-87 MCH-32.3* MCHC-37.0* RDW-12.5 Plt Ct-151
+[**3007-10-13**] 01:08PM BLOOD WBC-17.1*# RBC-4.51* Hgb-13.9* Hct-39.0*
+MCV-87 MCH-30.8 MCHC-35.6* RDW-12.9 Plt Ct-190
+[**3007-10-13**] 01:08PM BLOOD PT-14.3* PTT-44.6* INR(PT)-1.2*
+[**3007-10-16**] 05:49AM BLOOD Glucose-98 UreaN-9 Creat-0.7 Na-138 K-3.9
+Cl-102 HCO3-28 AnGap-12
+[**3007-10-13**] 01:08PM BLOOD UreaN-10 Creat-0.8 Na-142 K-4.1 Cl-112*
+HCO3-25 AnGap-9
+[**3007-10-20**] 06:30AM BLOOD WBC-8.5 RBC-3.50* Hgb-11.0* Hct-29.7*
+MCV-85 MCH-31.4 MCHC-37.1* RDW-12.9 Plt Ct-349
+[**3007-10-19**] 06:00AM BLOOD WBC-7.4 RBC-3.55* Hgb-11.1* Hct-30.3*
+MCV-85 MCH-31.3 MCHC-36.6* RDW-12.9 Plt Ct-271
+[**3007-10-20**] 06:30AM BLOOD Glucose-87 UreaN-10 Creat-0.7 Na-139
+K-4.3 Cl-104 HCO3-26 AnGap-13
+[**3007-10-19**] 06:00AM BLOOD Na-144 K-4.5 Cl-107
+[**3007-10-18**] 08:57AM BLOOD UreaN-13 Creat-0.7 Na-141 K-4.3 Cl-103
+
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Diastolic Dimension:  *7.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Aorta - Annulus:  2.5 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.3 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.7 cm  <= 3.0 cm
+Aorta - Ascending:  3.4 cm  <= 3.4 cm
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+LEFT VENTRICLE: Normal LV wall thickness. Severely dilated LV
+cavity. Normal regional LV systolic function. [Intrinsic LV
+systolic function likely depressed given the severity of
+valvular regurgitation.]
+RIGHT VENTRICLE: Moderately dilated RV cavity. Moderate global
+RV free wall hypokinesis.
+AORTA: Normal ascending, transverse and descending thoracic
+aorta with no atherosclerotic plaque.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Moderately thickened mitral valve leaflets.
+Eccentric MR jet. Severe (4+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+PREBYPASS
+No atrial septal defect is seen by 2D or color Doppler. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity is severely dilated. Regional left ventricular wall
+motion is normal. [Intrinsic left ventricular systolic function
+is likely more depressed given the severity of valvular
+regurgitation.] The right ventricular cavity is moderately
+dilated with moderate global free wall hypokinesis. The
+ascending, transverse and descending thoracic aorta are normal
+in diameter and free of atherosclerotic plaque.The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are moderately thickened. An
+eccentric, anteriorly directed jet of Severe (4+) mitral
+regurgitation is seen.
+POSTBYPASS
+LV function now appears borderline normal (LVEF ~ 50%). The LV
+is now moderately dilated. The RV appears less dilated and its
+function is improved compared to prebypass. There is a ring
+prosthesis in the mitral position. The MR is now trace. The
+remaining study is unchanged from prebypass
+
+
+
+Brief Hospital Course:
+59 year old whose preoperative transesophageal echo showed
+severe mitral regurgitation, and his preoperative cardiac cath
+showed normal coronaries.  The patient was felt to be a good
+candidate for mitral valve repair. The patient was admitted to
+the hospital and brought to the operating room on [**3007-10-13**] where
+the patient underwent a radical mitral valve repair with
+posterior leaflet (P1/P2) triangular resection with ring
+annuloplasty using [**Last Name (un) 4743**]-[**Doctor Last Name 1804**] Physio II 30-mm ring and
+resection of left atrial appendage. Overall the patient
+tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring. POD 1 found the patient extubated, alert
+and oriented and breathing comfortably.  The patient was
+neurologically intact and hemodynamically stable on no inotropic
+or vasopressor support. Beta blocker was initiated and the
+patient was gently diuresed toward the preoperative weight.  The
+patient was transferred to the telemetry floor for further
+recovery. Chest tubes and pacing wires were discontinued without
+complication. POD #2 the patient spiked a temperature to 102 and
+was pan cultured. Central line was removed and tip culture came
+back negative. He did have some nausea and liver function tests
+and abdominal ultrasound were both negative for a source of
+fevers. He was started on Kefzol and continued with fevers over
+the next several days. He had multiple blood cultures drawn -
+all of which are no growth to date. He was switched to
+Vancomycin and infectious disease service was consulted. They
+recommended switching to Keflex for a 10 day course. On POD 8 he
+had been afebrile x  greater than 24 hrs and sternum was without
+erythema or draiange.  The patient was evaluated by the physical
+therapy service for assistance with strength and mobility.  By
+the time of discharge on POD 8 the patient was ambulating
+freely, the wound was healing and pain was controlled with oral
+analgesics.  The patient was discharged home in good condition
+with appropriate follow up instructions.
+
+Medications on Admission:
+OMEPRAZOLE -20 mg Capsule Q AM
+Zantac 75mg QPM
+
+Medications - OTC
+HORSE CHESTNUT Dosage uncertain
+BilBERRY-  Dosage uncertain
+MULTIVITAMIN -Dosage uncertain
+SAW [**Location (un) **] - Dosage uncertain
+VITAMIN E -Dosage uncertain
+ZINC - Dosage uncertain
+
+
+Discharge Medications:
+1. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*1*
+3. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO q3hours as
+needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*1*
+5. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*1*
+6. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*1*
+8. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/temp.
+10. sodium chloride 0.65 % Aerosol, Spray Sig: [**2-8**] Sprays Nasal
+QID (4 times a day).
+11. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 10 days.
+Disp:*40 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 385**] VNA
+
+Discharge Diagnosis:
+Severe mitral regurgitation.
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with Percocet
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Edema
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr [**Last Name (STitle) **] on [**11-24**] at 1:15pm
+Cardiologist: Dr. [**First Name (STitle) 14289**] [**Name (STitle) 14005**] on [**10-29**] at 1:00pm
+
+Wound check in cardiac surgery office [**Telephone/Fax (1) 294**]
+[**Hospital **] medical building on Thrus [**10-29**] at 10:15 am
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) 4367**] in [**5-12**] weeks [**Telephone/Fax (1) 11050**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**3007-10-21**]
+
+
+DOC CLASS

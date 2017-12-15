@@ -1,0 +1,274 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**11-15**]
+   -ECHO showed LV hypokinesis, severe MR.
+   [**Name14 (STitle) 5882**] need repeat echo Wed to eval for any improvement in papillary
+   muscle function, plans for surgical valve repair/replacement Friday.
+   -Cardiac cath:
+   1. Two vessel obstructive coronary artery disease with chronically
+   occluded RCA and subacute LCX occlusion.
+   2. Systolic dysfunction with severe inferior and posterobasal
+   hypokinesis and ejection fraction of 30-35%.
+   3. Left ventricular diastolic dysfunction.
+   4. Severe [**3-31**]+/4+ mitral regurgitation.
+   -Anticipate CT surgery Fri
+   -Started on lasix gtt and captopril
+   -Pressures low at night, therefore captopril held, lasix gtt continued
+   and SBPs held in 80s-90s
+   - MAPs remain 55-60,  continued slow diuresis on 5mg/hr IV Lasix, neg.
+   658 at MN, u/o remains 60-80s in setting of lower BP
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2726-11-16**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2726-11-16**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.9
+C (98.5
+   HR: 50 (45 - 70) bpm
+   BP: 88/58(64) {81/47(57) - 98/64(70)} mmHg
+   RR: 22 (18 - 29) insp/min
+   SpO2: 98%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 86.4 kg (admission): 86.5 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,173 mL
+                                                                     38 mL
+   PO:
+                                                                    920 mL
+             TF:
+   IVF:
+                                                                    253 mL
+                                                                     38 mL
+   Blood products:
+   Total out:
+                                                                  1,830 mL
+                                                                    550 mL
+   Urine:
+                                                                  1,830 mL
+                                                                    550 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -658 mL
+                                                                   -512 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///26/
+   Physical Examination
+   GEN: Lying comfortably in bed, NAD.
+   Respiratory: CTA B, no wheezing, rhonchi or rales
+   Cardiac: RRR,  [**2-2**] holosystolic, best at LUSB
+   Abdominal / Gastrointestinall: soft, NT, ND +BD
+   Extremities / Musculoskeletal: WWP, no CCE
+   Labs / Radiology
+   222 K/uL
+   13.2 g/dL
+   105 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   18 mg/dL
+   105 mEq/L
+   141 mEq/L
+   40.2 %
+   9.2 K/uL
+        [image002.jpg]
+                            [**2726-11-13**]  08:30 PM
+                            [**2726-11-14**]  04:30 AM
+                            [**2726-11-15**]  04:30 AM
+                            [**2726-11-15**]  09:50 PM
+                            [**2726-11-16**]  05:42 AM
+   WBC
+   7.9
+   9.2
+   8.6
+   9.2
+   Hct
+   36.7
+   39.0
+   39.6
+   40.2
+   Plt
+   167
+   195
+   199
+   222
+   Cr
+   1.1
+   1.0
+   1.0
+   0.9
+   1.0
+   TropT
+   2.33
+   2.69
+   Glucose
+   142
+   108
+   102
+   105
+   Other labs: PT / PTT / INR:14.1/26.3/1.2, CK / CKMB /
+   Troponin-T:128/4/2.69, ALT / AST:90/36, Alk Phos / T Bili:56/0.5,
+   Differential-Neuts:67.8 %, Lymph:25.7 %, Mono:3.9 %, Eos:1.7 %,
+   Albumin:3.2 g/dL, LDH:365 IU/L, Ca++:8.5 mg/dL, Mg++:2.3 mg/dL, PO4:4.2
+   mg/dL
+   Imaging: Cardiac Cath:
+   1. Two vessel obstructive coronary artery disease with chronically
+   occluded RCA and subacute LCX occlusion.
+   2. Systolic dysfunction with severe inferior and posterobasal
+   hypokinesis and ejection fraction of 30-35%.
+   3. Left ventricular diastolic dysfunction.
+   4. Severe [**3-31**]+/4+ mitral regurgitation.
+   CXR [**11-15**]
+   FINDINGS: The opacity at the left lung base has increased, there is a
+   new
+   left pleural effusion. The findings may represent atelectasis, however,
+   infection is not excluded. The right basilar opacity remains present.
+   There is no overrt pulmonary edema. Mild cardiomegaly is stable. Right
+   pleural effusion has decreased.
+   Assessment and Plan
+ This is a 50 year old male with HTN and tobacco abuse who presents
+   with 5 days of intermittent chest discomfort, worsening shortness of
+   breath found to have evidence of older lateral ischemic changes and new
+   4+MR
+   .
+   # CORONARIES: Likely had an event on [**11-8**] with possible stuttering
+   plaque since then. Old due to Q-waves on EKG. Risk factors of HTN, and
+   tobacco abuse. LDL WNL, HDL low.  Underwent R and L heart cath [**11-15**]
+   with results as above, TTE consistent.
+   - Anticipate CT surgery (Dr. [**Last Name (STitle) 1012**] Fri for MV repair and 2 vessel
+   CABG.
+   - f/u CT [**Doctor First Name 86**] re: any additional necessary pre-surgery w/u
+   - Given age of infarct, no heparin for now
+   - Holding BB given relative hypotension and HR in the 60s
+   - ASA 325, atorvastatin 80, Captopril (also for afterload reduction)
+   - Holding further plavix until surgery
+   - counsel smoking cessation
+   .
+   # Possible PNA:  Possible PNA, ?consolidation seen at OSH CXR, low
+   grade fever on initial presentation, on Levaquin initiated [**11-13**] on
+   five day course.
+   - Continue Levaquin until [**11-17**]
+   .
+   # PUMP: Signs of acute pulmonary edema on history, exam, and CXR.
+   Likely due to acute MR. MR likely due to papillary muscle dysfunction
+   from MI.   Right and left heart cath showed mildly elevated R and L
+   heart pressures, but will prioritize ACEi over Lasix given hypotension
+   overnight.
+   - f/u TTE final read
+   - Gentle diuresis with Lasix gtt; goal -500cc today
+   - Afterload reduction with Captopril; prioritize ACEi over Lasix if pt
+   becomes hypotensive again
+   - If becomes any more unstable, to cath lab for IABP
+   .
+   # RHYTHM: Currently in NSR
+   -Monitor on telemetry
+   .
+   # Elevated LFTs:  Downtrending, likely [**3-1**] recent MI.
+   .
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with HSC
+   -Bowel regimen
+   .
+   CODE:  full
+   .
+   COMM: Wife and daughter
+   .
+   DISPO: Call out to floor vs. home
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2726-11-13**] 05:53 PM
+   20 Gauge - [**2726-11-14**] 05:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  Floor vs. home
+   ------ Protected Section ------
+   TITLE:
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s) [**Name (NI) **].
+   I would add the following remarks:
+   History
+   50 year old man with tobacco abuse and hypertension, with hours of
+   chest discomfort and dyspnea several days ago while in [**Country 3423**].
+   Returned to U.S. and then developed progressive dyspnea, orthopnea,
+   PND, cough, subjective fever/chills. Presented to MWMC on [**2726-11-13**]
+   where he was found to be hypoxemic, ECG consistent with completed
+   inferoposterolateral MI. TTE there reportedly showed lateral
+   hypokinesis and severe mitral regurgitation, RV reportedly with normal
+   function. CK 404; transferred to [**Hospital1 5**]. Since arrival, improved
+   oxygenation with gentle diuresis, supplemental oxygen. No new ECG
+   changes. Denies chest pain, dyspnea, PND.
+   -Overnight, rested comfortably. Denied dyspnea, diaphoresis, nausea,
+   chest discomfort.
+   -Underwent TTE yesterday, which I personally reviewed. Demonstrates
+   akinesis of the inferior and inferolateral walls with tethering of the
+   posterior mitral valve leaflet resulting in an eccentric, posteriorly
+   directed jet of moderate to severe MR. [**First Name (Titles) **] [**Last Name (Titles) **] approximately 40%. RV
+   normal in size/function. No pericardial effusion. Other valves
+   structurally normal. No pulmonary hypertension.
+   -Cardiac catheterization 10.19 demonstrated proximally occluded RCA
+   with L-R collaterals and proximal (subacute) occlusion of LCx due to
+   thrombotic lesion. Given captopril in cath lab without hypotension,
+   IABP not inserted. Markedly elevated left sided filling pressures
+   (LVEDP30 mm Hg, PCWP 20, CI 2.0, RA 10, RVEDP 15)
+   -Tolerating captopril and low-dose furosemide gtt although blood
+   pressure still
+   -CT surgery planning on surgery later this week after repeat TTE done
+   to assess severity of MR.
+   Physical Examination
+   37.6 p 50-58 bpm, BP 81-91/47-64 mm Hg, 98% 3L NC
+   I/O 1.1/1.8 L
+   Medical Decision Making
+   1. Inferoposterolateral MI complicated by posterior mitral leaflet
+   tethering with moderate to severe MR:
+   Tolerating low-dose captopril and diuresis with low dose furosemide
+   gtt.
+   Cardiac catheterization with 2 vessel CAD and markedly elevated left
+   sided filling pressures. RCA lesion likely chronic, LCx subacute
+   (thrombotic occlusion).
+   Continue aspirin, statin, holding clopidogrel (last dose Saturday). No
+   beta-blocker for now given hypotension.
+   2. Mitral regurgitation: TTE with moderate to severe mitral
+   regurgitation from MI with resulting posterior mitral leaflet
+   tethering; Dr. [**Last Name (STitle) 1012**] to evaluate for mitral valve repair + 2 vessel
+   CABG which may take place Thursday/Friday.
+   Treating for possible pneumonia with levofloxacin  (?LLL consolidation
+   seen at outside hospital, although has remained afebrile here and
+   without clinical findings to suggest PNA) with levofloxacin
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name8 (MD) 1456**], MD
+   on:[**2726-11-16**] 12:04 ------
+
+
+
+DOC CLASS

@@ -1,0 +1,126 @@
+Admission Date:  [**2755-8-26**]              Discharge Date:   [**2755-8-31**]
+
+Date of Birth:  [**2682-6-29**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Iodine; Iodine Containing
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+CP
+
+Major Surgical or Invasive Procedure:
+[**8-26**] CABG x 5 (LIMA->LAD, SVG->[**Last Name (LF) **], [**First Name3 (LF) **], RCA, PLV)
+
+
+History of Present Illness:
+73 yo chinese woman with history of MI referreed for surgical
+revasculization
+
+Past Medical History:
+HTN
+hyperlipidemia
+Mi ([**7-14**])
+Bilat cataract surgery
+"brain embolism"
+
+Social History:
+no tob
+no etoh
+lives with son and daughter in law
+
+Family History:
+sister with cad age 70
+
+Physical Exam:
+NAD
+CV RRR
+Lungs CTAB
+Abd Benign
+Extrem no edema
+MSI healing well
+
+
+Pertinent Results:
+[**2755-8-30**] 06:35AM BLOOD WBC-8.3 RBC-3.46* Hgb-10.8* Hct-30.3*
+MCV-88 MCH-31.2 MCHC-35.5* RDW-14.9 Plt Ct-169
+[**2755-8-30**] 06:35AM BLOOD Plt Ct-169
+[**2755-8-31**] 06:55AM BLOOD Creat-0.4 K-4.1
+[**2755-8-30**] 06:35AM BLOOD Glucose-106* UreaN-12 Creat-0.5 Na-143
+K-3.5 Cl-104 HCO3-29 AnGap-14
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 3147**] was taken to the operating room on [**2755-8-26**] where she
+underwent a CABG x 5. She was transferred to the SICU in
+critical but stable condition on phenylephrine and propofol. She
+was extubated later that same day. He neo was weaned to off on
+POD #2, after she received 2 units of PRBCs for an HCT of 21.She
+was transferred to the floor on POD #3. She did well
+postoperatively, she had no problems with atrial fibrillation
+and was very easily diuresed. She was ready for discharge on POD
+#5.
+
+Medications on Admission:
+lopressor, fosinopril, zocor, norvasc, asa, indur
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+8. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours) for 3
+days.
+Disp:*12 Capsule, Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+CAD
+PMH: CAD s/p MI, HTN, ^chol, s/p b/l cataracts, ? brain embolism
+that resolved with Chinese medicine
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No heavy lifting or driving until follow up with surgeon.
+
+Followup Instructions:
+Dr. [**First Name (STitle) **] 4 weeks
+Dr. [**Last Name (STitle) 11226**] 2 weeks
+Dr. [**First Name (STitle) **] 2 weeks
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2755-8-31**]
+
+
+DOC CLASS

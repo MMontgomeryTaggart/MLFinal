@@ -1,0 +1,142 @@
+Admission Date:  [**2612-1-3**]     Discharge Date:  [**2612-1-9**]
+
+Date of Birth:   [**2543-12-17**]     Sex:  F
+
+Service:  [**Company 189**]
+
+CHIEF COMPLAINT:  Abdominal pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a 68 year old female
+with end-stage renal disease previously on hemodialysis with
+multiple access problems.  She was recently switched to
+peritoneal dialysis about three weeks ago.  She presents
+today with one day history of abdominal pain, fevers, chills
+and shaking, which all started last night.  Peritoneal
+dialysis went in last night without any difficulty; no
+nausea, vomiting, no change in her bowel symptoms.  The
+patient makes minimal urine at baseline.  The patient was
+complaining of aching abdominal pain which has subsided to
+some extent.  The patient denies chest pain or shortness of
+breath.
+
+In the Emergency Room, the patient was given her Dilaudid and
+was also given one gram of Ancef as empiric treatment for a
+question of an infected sacral decubitus.  There was an
+initial thought that the patient's symptoms represented
+bacterial peritonitis from the peritoneal dialysis catheter.
+Fluid was obtained and sent for cell counts and differential
+and culture to rule out bacterial peritonitis.  [**Known patient lastname 993**] blood
+cell count in the ascitic fluid was only 24.  At that time,
+no further work-up was done by the medical team for bacterial
+peritonitis.  It was felt that the leading diagnosis at the
+time was an infected draining purulent left buttock abscess.
+
+Meanwhile, while in the Emergency Room, the patient's blood
+pressure had dropped initially from 140/60 to the 80s
+systolic and at one point dropping to as low as 65 systolic
+while in the Emergency Room.  The patient received about two
+liters of fluid and received Vancomycin and Ceptaz
+intravenously.  It was noted that the patient's fever was
+down to 98.7 F., with improvement of the systolic blood
+pressure to the 130s.  A CT scan of the abdomen which was
+done in the Emergency Room showed a small decubitus abscess
+with extensive inflammation in the right buttock area.
+Surgery was consulted in the Emergency Room and drained
+abscess and packed it with sterile gauze.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 98.7 F.;
+heart rate 90; systolic blood pressure in the 130s over 60.
+HEENT:  Normocephalic, atraumatic.  Extraocular muscles are
+intact.  Pupils equally round and reactive to light.  Mucous
+membranes were moist.  Neck was supple.  Lungs clear to
+auscultation anteriorly and laterally.  Heart examination:
+S1, S2, regular rate and rhythm.  No murmurs, rubs or gallops
+were appreciated.  Abdominal examination showed normoactive
+bowel sounds, mild tenderness at the peritoneal dialysis
+catheter site.  No erythema.  The left buttock had a purulent
+and bloody drainage, a 1 cm lesion which probed down to at
+least 3 to 4 cm.  Extremities were status post amputation of
+the left index finger, the right third and fifth fingers, and
+a left below the knee amputation.
+
+LABORATORY:  On admission, [**Known patient lastname **] blood cell count 14,600,
+hematocrit 31.6, platelets 257,000, 90% neutrophils, zero
+bands, 5 lymphocytes.  PT was 22.9, PTT was 54.2; INR was
+3.6.  Magnesium 1.7, phosphorus 6.2.  Lactate 3.9.  Sodium
+138, potassium 6.8 which was hemolyzed.  Chloride 98,
+bicarbonate 26, BUN 47, creatinine 8.2.  Glucose 88, AST 59,
+ALT 18, alkaline phosphatase 74, total bilirubin 0.3, albumin
+3.1, amylase 100, lipase 0.  Blood cultures and wound
+cultures were drawn in the Emergency Room.
+
+The ascites showed amylase of 4, [**Known patient lastname **] blood cell count of
+24.
+
+Wound Gram stain showed two plus PMM, one plus Gram positive
+cocci in pairs.
+
+CT scan abdomen showed sacral decubitus abscess in the right
+buttock region and sacral region with a destructive lesion in
+the sacrum.  Question of chronic osteomyelitis.  There was no
+abscess present in the peritoneum.
+
+Chest x-ray showed increased pulmonary vascularity with
+blunting of the costophrenic angles with mild retrocardiac
+opacity.
+
+PAST MEDICAL HISTORY:
+1.  End-stage renal disease on peritoneal dialysis secondary
+    to multiple access issues with hemodialysis.
+2.  Peripheral vascular disease status post left below the
+    knee amputation and finger amputations.
+3.  B-cell non-Hodgkin's lymphoma of the ribs, skull, pelvis,
+    status post palliative XRT.
+4.  Systemic lupus erythematosus.
+5.  Hypertension.
+6.  Rheumatoid arthritis.
+7.  Gout.
+8.  Sacral decubitus ulcer with osteomyelitis.
+9.  Hyperhomocystinemia.
+10. Nephrolithiasis.
+11. Bilateral bibasilar nodules on chest CT scan.
+12. Chronic anemia.
+
+ALLERGIES:  To aspirin.
+
+SOCIAL HISTORY:  The patient lives with her daughter who is
+the Health Care Proxy.  [**Name (NI) **] [**Hospital6 403**] once
+or twice a week.  Denies tobacco, no drugs or ethanol.
+
+MEDICATIONS:  On admission:
+1.  Nephrocaps 1 tablet once a day.
+2.  Vitamin C 500 mg p.o. q. day.
+3.  Renagel 800 mg p.o. three times a day.
+4.  PhosLo 1 tablet p.o. three times a day.
+5.  Hydralazine 10 mg p.o. q. day.
+6.  Coumadin 3 mg p.o. q. day.
+7.  Dilaudid 4 mg q. three p.r.n.
+8.  Duragesic patch 75 micrograms q. 72 hours.
+9.  Elavil 25 mg p.o. q. h.s.
+10. Senokot one tablet p.o. q. day.
+11. Lovenox 30 mg subcutaneously twice a day.
+12. Neurontin 100 mg p.o. three times a day.
+13. Allopurinol 100 mg p.o. q. day.
+14. MetroGel Cream, applied to the affected area twice a day.
+
+HOSPITAL COURSE:
+
+INCOMPLETE DICTATION; CUT OFF
+
+                          [**Name6 (MD) 248**] [**Last Name (NamePattern4) 11718**], M.D.  [**MD Number(1) 11719**]
+
+Dictated By:[**Name8 (MD) 9656**]
+
+MEDQUIST36
+
+D:  [**2612-2-4**]  23:10
+T:  [**2612-2-7**]  13:20
+JOB#:  [**Job Number 11720**]
+
+
+
+DOC CLASS

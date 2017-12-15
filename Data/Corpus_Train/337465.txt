@@ -1,0 +1,175 @@
+TITLE:
+   Chief Complaint: HOTN due to line sepsis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   81 y.o. M w/ ESRD on HD, s/p multiple line infections on treatment
+   transferred for new HOTN/sepsis
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**2526-11-22**] 01:30 PM
+   - levophed weaned to off
+   - temporary dialysis line placed
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**2526-11-21**] 02:28 AM
+   Linezolid - [**2526-11-21**] 08:00 AM
+   Vancomycin - [**2526-11-21**] 08:50 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2526-11-23**] 02:21 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2526-11-22**] 11:53 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2526-11-23**] 08:17 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 36.7
+C (98.1
+   HR: 92 (83 - 108) bpm
+   BP: 116/67(78) {88/47(58) - 116/72(82)} mmHg
+   RR: 19 (14 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 66 Inch
+   CVP: 11 (5 - 12)mmHg
+   Total In:
+                                                                    849 mL
+                                                                    131 mL
+   PO:
+                                                                    440 mL
+   TF:
+   IVF:
+                                                                    409 mL
+                                                                    131 mL
+   Blood products:
+   Total out:
+                                                                    445 mL
+                                                                    190 mL
+   Urine:
+                                                                    445 mL
+                                                                    190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    404 mL
+                                                                    -59 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SpO2: 100%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, No(t) Oriented (to): , Movement: Not assessed, Tone: Not
+   assessed
+   Labs / Radiology
+   7.9 g/dL
+   144 K/uL
+   89 mg/dL
+   3.3 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   32 mg/dL
+   101 mEq/L
+   136 mEq/L
+   23.8 %
+   4.4 K/uL
+        [image002.jpg]
+                            [**2526-11-20**]  01:25 AM
+                            [**2526-11-20**]  04:24 PM
+                            [**2526-11-21**]  04:47 AM
+                            [**2526-11-22**]  02:47 AM
+                             [**2526-11-23**]  01:59 AM
+   WBC
+   10.1
+   8.6
+   6.1
+   5.3
+   4.4
+   Hct
+   25.6
+   28.5
+   25.4
+   24.9
+   23.8
+   Plt
+   147
+   144
+   155
+   149
+   144
+   Cr
+   1.5
+   2.5
+   3.0
+   3.3
+   Glucose
+   123
+   124
+   105
+   116
+   89
+   Other labs: PT / PTT / INR:14.1/33.6/1.2, Differential-Neuts:75.1 %,
+   Lymph:16.1 %, Mono:6.5 %, Eos:2.3 %, Lactic Acid:1.1 mmol/L, LDH:166
+   IU/L, Ca++:8.1 mg/dL, Mg++:2.3 mg/dL, PO4:3.7 mg/dL
+   Microbiology: BCx - [**11-19**] sensitive to Zosyn, Gent, Tobra
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK) - line sepsis due to ESBL E.coli
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   - on Zosyn, line removed [**11-21**] - change to gentamycin today to be dosed
+   at HD per renal
+   - temporary line placed [**11-22**]
+   - continue holding lopressor until post HD (follow BP on floor)
+   - continue vanco for MRSA line sepsis
+ ELECTROLYTE & FLUID DISORDER, OTHER
+   - managed at HD
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+   - HD today via new temp HD line
+   - AF, rate well controlled
+   - resume ASA 325 mg qd
+   - COPD
+   - continue Spiriva
+   - HYPOXEMIA - noted overnight, likely OSA
+   - CPAP overnight to be initiated
+   ICU Care
+   Nutrition:
+   Comments: TOLERATES po DIET
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2526-11-19**] 06:53 PM
+   20 Gauge - [**2526-11-19**] 07:19 PM
+   Dialysis Catheter - [**2526-11-22**] 01:30 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

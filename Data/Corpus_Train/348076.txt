@@ -1,0 +1,196 @@
+Chief Complaint:
+   HPI:
+   24 Hour Events:
+   Vaginal bleeding - u/s non-diagnostic.
+   -1.4 L iters since MN.
+   Transient SBP tp 70's CVVH to -200/hr, now back up to -300/hr.
+   Dapto, flagyl now off.
+   Allergies:
+   Penicillins
+   Rash;  Swelling
+   Codeine
+   Wheezing; Short
+   Heparin Agents
+   Thrombocytopeni
+   Levofloxacin
+   Rash;
+   Last dose of Antibiotics:
+   Colistin - [**3212-1-10**] 10:59 AM
+   Daptomycin - [**3212-1-10**] 09:15 PM
+   Ampicillin - [**3212-1-11**] 08:00 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Morphine Sulfate - [**3212-1-11**] 10:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3212-1-11**] 11:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.1
+C (97
+   HR: 83 (67 - 83) bpm
+   BP: 93/59(63) {76/12(35) - 113/59(66)} mmHg
+   RR: 20 (13 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  6,479 mL
+                                                                  3,048 mL
+   PO:
+                                                                    340 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  5,764 mL
+                                                                  2,928 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                 10,244 mL
+                                                                  4,988 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,765 mL
+                                                                 -1,940 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///32/
+   Physical Examination
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Extremities: Right: 2+, Left: 2+
+   Musculoskeletal: Unable to stand
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   9.2 g/dL
+   61 K/uL
+   83 mg/dL
+   1.6 mg/dL
+   32 mEq/L
+   4.3 mEq/L
+   9 mg/dL
+   98 mEq/L
+   140 mEq/L
+   26.9 %
+   16.3 K/uL
+        [image002.jpg]
+                             [**3212-1-9**]  05:44 AM
+                             [**3212-1-9**]  11:18 AM
+                             [**3212-1-9**]  05:09 PM
+                             [**3212-1-9**]  11:17 PM
+                             [**3212-1-10**]  04:57 AM
+                             [**3212-1-10**]  10:03 AM
+                             [**3212-1-10**]  03:46 PM
+                             [**3212-1-10**]  08:13 PM
+                             [**3212-1-10**]  10:14 PM
+                             [**3212-1-11**]  04:17 AM
+   WBC
+   24.2
+   17.0
+   18.3
+   16.1
+   16.3
+   Hct
+   26.5
+   24.5
+   24.1
+   26.5
+   26.9
+   Plt
+   73
+   71
+   75
+   57
+   61
+   Cr
+   2.0
+   1.9
+   1.9
+   1.9
+   1.7
+   1.8
+   1.6
+   1.6
+   Glucose
+   172
+   166
+   162
+   130
+   102
+   111
+   175
+   142
+   109
+   83
+   Other labs: PT / PTT / INR:20.4/38.6/1.9, CK / CKMB / Troponin-T:25//,
+   ALT / AST:13/25, Alk Phos / T Bili:212/1.1, Differential-Neuts:87.8 %,
+   Band:0.0 %, Lymph:4.7 %, Mono:6.6 %, Eos:0.5 %, Lactic Acid:1.9 mmol/L,
+   Albumin:2.0 g/dL, LDH:247 IU/L, Ca++:10.3 mg/dL, Mg++:1.7 mg/dL,
+   PO4:1.4 mg/dL
+   Assessment and Plan
+   Septic Shock -
+   Continues on vasopressin alone. Colisitn + unasyn. Aim to run neg. on
+   CVVH as long as SBP > 80.
+   Concerned re: AB CT showing standing and ? rectal extension of
+   infection. Surgery to see today.
+   Renal Failure -
+   CVVH with -200 to -300 negative again today.
+   Further plans as per resident note.
+   Thrombocytopenia -
+   Verify that all lines are heparin free.
+   ICU Care
+   Nutrition:
+   Comments: Oral Diet
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3212-1-6**] 05:38 PM
+   Dialysis Catheter - [**3212-1-6**] 05:39 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR/DNI
+   Disposition :ICU
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan, written by Dr. [**Last Name (STitle) **].
+   [**Location (un) 5554**]. I would emphasize and add the following points: 78F ESRD, PVD,
+   volume overload, GNR sepsis now with falling platelets. R arm pain
+   continues; will treat symptomatically for now.
+   Exam notable for Tm 96.8 BP 100/50 HR 80 RR 18 with sat 99 on RA. Obese
+   female, anxious but NAD> Diminished BS B, distant s1s2. Obese, soft. 3+
+   edema. RUE unchanged. Labs notable for WBC 16K, HCT 26, K+ 4.3, Cr 1.7.
+   Agree with plan to treat acinetobacter sepsis with unasyn and d/c
+   colistin. Continue CVVH with pressor support. Will f/u USG re vaginal
+   bleed, but patient is s/p TAH/BSO. CT raises concern of deep pelvic
+   infection; will review with colorectal surgery / [**Doctor Last Name 2044**]. Will place
+   heprin free PICC in L arm as able and d/c groin line. If this is not
+   possible, will need to confirm that groin line is heparin free; if not
+   will change over a wire. Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+
+
+
+DOC CLASS

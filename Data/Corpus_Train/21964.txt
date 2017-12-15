@@ -1,0 +1,309 @@
+Admission Date:  [**2644-9-4**]              Discharge Date:   [**2644-9-9**]
+
+Date of Birth:  [**2569-7-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Amiodarone
+
+Attending:[**Last Name (un) 16654**]
+Chief Complaint:
+ICD firing three times
+
+Major Surgical or Invasive Procedure:
+VT Ablation
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 35991**] is a 75 year old male with past medical history of
+type2 DM, atrial fibrillation s/p AVN ablation and several AADs,
+CAD complicated by systolic heart failure with LVEF of 25%,
+ventricular tachycardia s/p ICD placement and VT ablation in
+[**2639**] complicated by right iliac artery disection requiring
+emergent angiography and stenting.
+
+He woke up this morning with ICD shock. He does not report chest
+pain, shortness of breath, palpatations or syncope prior to the
+episode. He went to his PCP today where [**Name9 (PRE) 1232**] interrogation
+was thought to be inappropriate. He was instructed to go home
+and come to the ED if he has ICD shock. He did have ICD shock x
+2 this evening without any associated symptoms. He called EMS
+and was brought to [**Hospital3 **]. Labs at OSH were notable for
+normal electrolytes, creatinine at baseline of 1.56, BNP of 193,
+nomral CBC and troponin of 0.068. He was transferred to [**Hospital1 68**]
+for further management.
+In the ED, initial vitals were: 98.2 70 141/91 18 100% 2LNC. EP
+was consulted who recommended increasing metoprolol to 100 mg
+[**Hospital1 **], trending troponin and admission to [**Hospital1 **] after interrogation
+revealed his ICD shocks were appropriate for 330 ms cycle length
+ventricular tachycardia.
+
+
+Past Medical History:
+AAA - 4 cm per recent ultrasound
+Peripheral Vascular Disease s/p iliac disection and stenting
+[**2640-4-23**]
+Prostate Cancer
+Coronary Artery Disease s/p angioplasty
+s/p pacemaker placement
+GERD
+Hyperlipidemia
+Hypertension
+Sciatica
+Hyperthyroidism
+Atrial Fibrillation
+Type II diabetes
+Stage III Chronic Kidney Disease
+
+
+Social History:
+Patient quit smoking in [**2633**].  He has a 10 pack year smoking
+history.  He occassionally has alcohol.  He never uses other
+drugs.  He was never married.  He is a priest and lives in a
+monastary.
+
+
+Family History:
+His father did of a heart attack at age 46, his sister at age
+59.
+
+
+Physical Exam:
+Admission Physical Exam:
+VS: 98.0 134/80 88 18 98%RA
+Gen: Elderly male, pale, lying in bed in no acute distress.
+Oriented x 3, mood and affect appropriate.
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor
+
+or cyanosis of the oral mucosa. No xanthalesma.
+Neck: Supple with JVP of 7 cm, left sided carotid bruit
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+AICD site intact, well healed incision.
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+
+palpation. No abdominial bruits.
+Ext: No c/c/e. Bilateral femoral bruits.
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Discharge Physical Exam:
+VS: t = 97.9, bp = 99/58 - 111/56, hr = 81, rr = 18, O2 sat =
+99% on RA
+General: Older Caucasian male, no acute distress, sitting up
+easily this morning.
+HEENT: Normocephalic, atraumatic. MMM. OP clear.
+Neck: Supple. Nondistended JVD.
+Heart: Regular rate, S1 and S2. No audible mumurs, rubs, or
+gallops. AICD site intact with well healed incision.
+Lungs: No increased WOB or accessory muscle use. Lungs clear
+bilaterally to wheezes, rhonchi, rhales.
+Abd: NABS, soft, nondistended. Nontender to palpation.
+Ext: Warm to perfusion, no edema. Distal pulses diminished but
+intact.
+
+
+Pertinent Results:
+Admission Labs:
+[**2644-9-4**] 08:57PM BLOOD WBC-9.5 RBC-3.76*# Hgb-12.7*# Hct-36.6*#
+MCV-97 MCH-33.8* MCHC-34.7 RDW-14.2 Plt Ct-222
+[**2644-9-4**] 08:57PM BLOOD Neuts-77.1* Lymphs-14.6* Monos-5.7
+Eos-1.7 Baso-0.8
+[**2644-9-4**] 08:57PM BLOOD PT-32.3* PTT-41.8* INR(PT)-3.1*
+[**2644-9-4**] 08:57PM BLOOD Glucose-118* UreaN-30* Creat-1.7* Na-140
+K-4.0 Cl-102 HCO3-26 AnGap-16
+[**2644-9-4**] 08:57PM BLOOD cTropnT-0.03*
+[**2644-9-5**] 03:21AM BLOOD CK-MB-3 cTropnT-0.03*
+[**2644-9-5**] 12:27PM BLOOD CK-MB-3 cTropnT-0.02*
+[**2644-9-5**] 03:21AM BLOOD Calcium-8.6 Phos-3.4 Mg-2.3
+[**2644-9-4**] 08:57PM BLOOD TSH-7.1*
+[**2644-9-5**] 12:27PM BLOOD T4-7.9
+[**2644-9-4**] 08:57PM BLOOD Digoxin-0.8*
+
+Discharge Labs:
+[**2644-9-9**] 06:33AM BLOOD WBC-8.4 RBC-3.58* Hgb-11.7* Hct-35.3*
+MCV-98 MCH-32.6* MCHC-33.2 RDW-14.2 Plt Ct-211
+[**2644-9-9**] 06:33AM BLOOD Plt Ct-211
+[**2644-9-9**] 06:33AM BLOOD Glucose-117* UreaN-34* Creat-1.8* Na-136
+K-4.2 Cl-101 HCO3-26 AnGap-13
+[**2644-9-9**] 06:33AM BLOOD Calcium-8.8 Phos-3.3 Mg-2.2
+
+Imaging
+
+EKG ([**2644-9-5**]):
+A-V sequential pacing with a very short A-V interval.
+Ventricular paced
+complex is of the appropriate left axis deviation, but with a
+right
+bundle-branch block pattern in the precordial leads consistent
+with
+biventricular pacing. Compared to the previous tracing of the
+same date the overall rate has increased with uniform atrial
+pacing rather than intermittent atrial sensing. Morphology of
+the ventricular paced beats is unchanged.
+
+CXR ([**2644-9-5**]):
+FINDINGS:  As compared to the previous radiograph there is no
+relevant change. No pulmonary edema.  No pneumonia.  Borderline
+size of the cardiac silhouette. Moderate tortuosity of the
+thoracic aorta.  Pacemaker in left pectoral position.  No
+pneumothorax.
+
+
+Brief Hospital Course:
+75 yo M with history of ischemic cardiomyopathy, recurrent
+Vtach, atrial fibrillation, and PVD who p/w recurrent VT. He had
+an unsuccessful VT ablation, and was started on quinidine and
+mexilitine, w/ suppression of VT, prior to discharge.
+
+# Vtach: The patient has a h/o Vtach and is s/p 2 ablations and
+ICD placement previously. He presented with recurrent Vtach from
+a scar focus with ICD firing and ATP pacing successful in
+terminating VT. The patient was taken to the EP lab and
+underwent ablation. In the PACU, he had an episode of Vtach,
+either from irritation of the myocardium from the procedure
+versus failed ablation. The patient was given lidocaine bolous
+and started on lidocaine drip in the PACU. He was then sent to
+the CCU for monitoring. He was started on mexilitine and recived
+2 doses before the lidocaine gtt was stopped. He was monitored
+on telemetry without event. The mexilitine was stopped the day
+after the procedure. He returned to the floor, and had two
+additional episodes of VT the following day. He was started on
+quinidine and mexilitine prior to discharge. At the time of
+discharge, he had been VT free for over 24 hours.
+
+# PVD: The patient has PVD and has a R iliac artery stent from
+previous admission. During the cath, a long sheath was used that
+traversed the stent. This occluded the stent and caused
+transient leg ischemia. Once the sheath was pulled, LE perfusion
+returned. Pulses were monitored and at time of discharge were at
+his normal baseline.
+
+# A fib: Coumadin was continued for goal INR [**1-5**]. Home
+metoprolol and digoxin were continued. Because of interaction
+with quinidine, coumadin was restarted post-EP procedure at a
+lower dose, and he will need an INR check 2-3 days
+post-discharge.
+
+# CAD: Continued statin, plavix, aspirin, lisinopril, and
+metoprolol.
+
+# Chronic Systolic CHF: Continue lisinopril, metoprolol, lasix.
+Patient received 80mg IV lasix x 1 on arrival to CCU because
+appeared volume overloaded. He responded well and was euvolemic
+the next day.
+
+# DM2: The patient's home insulin regimen was continued and he
+was additionally covered with ISS.
+
+# BPH: Continue flomax
+
+Transitional Issues:
+- Follow up on hospital thyroid studies - TSH elevated, but T4
+normal suggesting subclinical hypothyroidism
+- Follow up INR check 2-3 days post-discharge
+- Follow up with EP scheduled for Friday.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Patient.
+1. Aspirin 81 mg PO DAILY Start: In am
+2. Clopidogrel 75 mg PO DAILY Start: In am
+3. Metoprolol Tartrate 100 mg PO BID
+Hold for SBP < 95 or HR < 65
+4. Furosemide 80 mg PO DAILY Start: In am
+Hold for SBP < 100
+5. Lisinopril 10 mg PO DAILY Start: In am
+Hold for SBP < 95
+6. Digoxin 0.125 mg PO 4X/WEEK (MO,WE,FR,SA) Start: In am
+7. Ranitidine 150 mg PO BID
+8. Tamsulosin 0.4 mg PO HS
+9. Atorvastatin 80 mg PO DAILY Start: In am
+10. 70/30 22 Units Breakfast
+NPH 8 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+11. Warfarin 2 mg PO DAILY16
+
+
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY
+2. Atorvastatin 80 mg PO DAILY
+3. Clopidogrel 75 mg PO DAILY
+4. Furosemide 80 mg PO DAILY
+Hold for SBP < 100
+5. 70/30 22 Units Breakfast
+NPH 8 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+6. Ranitidine 150 mg PO BID
+7. Tamsulosin 0.4 mg PO HS
+8. Outpatient Lab Work
+Please get INR checked on Tuesday, [**9-10**] and Friday [**9-13**]
+9. quiniDINE Gluconate E.R. 324 mg PO Q12H
+RX *quinidine gluconate 324 mg 1 tablet(s) by mouth twice a day
+Disp #*60 Tablet Refills:*2
+10. Digoxin 0.0625 mg PO 4X/WEEK (MO,WE,FR,SA)
+RX *digoxin 125 mcg 0.5 (One half) tablet(s) by mouth 4x/week
+Disp #*10 Tablet Refills:*0
+11. Lisinopril 10 mg PO DAILY
+Hold for SBP < 95
+12. Metoprolol Succinate XL 100 mg PO DAILY
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp
+#*30 Tablet Refills:*0
+13. Mexiletine 150 mg PO Q12H
+RX *mexiletine 150 mg 1 capsule(s) by mouth twice a day Disp
+#*60 Capsule Refills:*0
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Community VNA, [**Location (un) 5045**]
+
+Discharge Diagnosis:
+Ventricular tachycardia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname 35991**],
+
+It was a pleasure taking care of you at [**Hospital1 **]. You came in after your ICD went off several
+times for a heart arrhythmia called ventricular tachycardia.
+While in the hospital, you received a VT ablation procedure. You
+were also started on 2 anti-arrhythmic medications. Please
+continue to take these medications.
+
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] A
+Location: [**Hospital **] MEDICAL ASSOCIATES
+Address: [**Street Address(2) 35994**], [**Location (un) **],[**Numeric Identifier 17508**]
+Phone: [**Telephone/Fax (1) 14773**]
+*Please call your primary care provider to book [**Name Initial (PRE) **] follow up
+appointment for your hospitalization. You need to be seen within
+1 week of discharge.
+
+We are working on a follow up appointment for your
+hospitalization with Dr. [**Last Name (STitle) **] [**Name (STitle) **]. It is recommended you be
+seen within 2 weeks of discharge. The office will contact you at
+home with an appointment. If you have not heard within 2
+business days please call the office [**Telephone/Fax (1) 654**].
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) 2976**] MD [**MD Number(2) 16656**]
+
+
+
+
+DOC CLASS

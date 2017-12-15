@@ -1,0 +1,188 @@
+Chief Complaint:
+   24 Hour Events:
+   - Multilumen catheter was discontinued
+   - Patient was called-ou to floor, but did not receive bed assignment
+   - Called in the AM that patient had gram neg rods in her blood culture
+   from ED, later had urine culture positive for E. Coli
+   Allergies:
+   Penicillins
+   Rash;
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Metformin
+   Nausea/Vomiting
+   Prednisone
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Vancomycin - [**2674-3-19**] 09:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2674-3-20**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2674-3-20**] 06:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (101
+   Tcurrent: 37.8
+C (100.1
+   HR: 90 (82 - 97) bpm
+   BP: 122/63(76) {98/52(63) - 147/89(101)} mmHg
+   RR: 26 (17 - 36) insp/min
+   SpO2: 89%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,395 mL
+                                                                    255 mL
+   PO:
+                                                                    240 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    915 mL
+                                                                    135 mL
+   Blood products:
+   Total out:
+                                                                  1,307 mL
+                                                                    420 mL
+   Urine:
+                                                                  1,307 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     88 mL
+                                                                   -165 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   SpO2: 89%
+   ABG: ///25/
+   Physical Examination
+   GEN:
+   HEENT:
+   NECK:
+   PULM:
+   CARD:
+   ABD:
+   EXT:
+   NEURO:
+   Labs / Radiology
+   142 K/uL
+   10.6 g/dL
+   213 mg/dL
+   1.2 mg/dL
+   25 mEq/L
+   3.6 mEq/L
+   17 mg/dL
+   100 mEq/L
+   131 mEq/L
+   32.1 %
+   7.3 K/uL
+        [image002.jpg]
+                             [**2674-3-19**]  12:54 AM
+                             [**2674-3-19**]  03:04 AM
+                             [**2674-3-20**]  05:30 AM
+   WBC
+   7.5
+   7.3
+   Hct
+   35.3
+   32.1
+   Plt
+   146
+   142
+   Cr
+   1.3
+   1.2
+   TropT
+   0.03
+   TCO2
+   25
+   Glucose
+   163
+   213
+   Other labs: PT / PTT / INR:16.5/26.2/1.5, CK / CKMB /
+   Troponin-T:101/3/0.03, Differential-Neuts:83.3 %, Lymph:13.1 %,
+   Mono:3.4 %, Eos:0.1 %, Lactic Acid:1.4 mmol/L, Ca++:8.3 mg/dL, Mg++:3.0
+   mg/dL, PO4:1.9 mg/dL
+   Assessment and Plan
+   A/P:  66 yo F with MR, bipolar disorder who presents with altered
+   mental status, fever, and hypotension.
+   .
+   1.  Hypotension:  Remains off levophed,  lactate remains normal.  Given
+   high fever and now GNRs in bcxs from admission, concern for septic
+   shock.  Possible sources include UTI (positive U/A), UCx pending.  Less
+   likely to be pneumonia given no clear infiltrate on CXR yesterday and
+   today.  Less likely to be meningitis given lack of HA, neck stiffness,
+   photophobia.  Currently appears euvolemic after fluid resuscitation by
+   ED; good UOP overnight.  Does not appear to be cardiogenic but will
+   repeat ECHO.
+   - f/u urine cultures, blood cultures
+   - sputum culture if can produce
+   - check legionella
+   - IVF boluses prn with caution given dCHF
+   - hold lasix for now
+   - vanc and zosyn for UTI, ?[**Last Name (LF) 8526**], [**First Name3 (LF) 167**] tailor abx to culture data
+   .
+   2.  Acute mental status changes:  Unclear baseline given MR, bipolar.
+   Pt alert and oriented x3 and to president.  Able to relay medications.
+   No recent changes to medications.  ABG in ED did not show hypercapnia
+   though with sig. history for this.
+   - cont. cogentin, haldol per patient insistence
+   - hold seroquel, topmax for now
+   - will need family to assess mental status
+   - if mental status changes worsen, will re-gas and try bipap
+   .
+   3.  Tachypnea:  Patient extremely wheezy.  Known restrictive lung
+   disease.  BNP only 500, less likely to be cardiogenic wheeze.
+   - nebulizers q4 standing, q2 prn
+   - cont. Advair
+   - avoid steroids given h/o steroid-induced psychosis
+   - CPAP for OSA, home settings of (CPAP 19cm/4L)
+   - consider CTA if no improvement, hold off while in ARF
+   .
+   4.  Sinus Tachycardia:  Improved after IVFs.
+   - IVFs prn
+   - consider CTA if no improvement, hold off while in ARF
+   # Fall:
+   Difficult to obtain history.  DDx inc. cardiac, arrhythmia, worsening
+   of AS, med effect.
+   - monitor on tele
+   - rule out CEs, ASA
+   - repeat ECHO
+   - hold seroquel, topamax
+   #  [**Last Name (un) **]:
+   Baseline Cr of 0.9, is at 1.2 this AM. Furosemide had been held.
+   - Follow-up urine lytes
+   - Avoid nephrotoxins, renally dose meds
+   #  h/o Hypertension:
+   ?hypotensive in ED.  Is now normotensive off of home meds.
+   - Restart furosemide today
+   # Diastolic CHF, mild aortic valve stenosis:  Currently euvolemic.
+   - monitor fluid status, I&Os, O2 sats given fluid resuscitation in the
+   ED
+   # Bipolar disorder:
+   - cont. lithium, haldol, congentin
+   - hold seroquel, topmax for now given ?mental status changes
+   ICU Care
+   Nutrition: Regular, cardiac, diabetic
+   Glycemic Control:  Insulin standing and sliding scale
+   Lines:
+   20 Gauge - [**2674-3-19**] 01:02 AM
+   Prophylaxis:
+   DVT: Heparin
+   Stress ulcer: No prophylaxis indicated
+   Communication:  Comments:
+   Code status: FULL
+   Disposition: Call-out to floor
+
+
+
+DOC CLASS

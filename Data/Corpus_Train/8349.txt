@@ -1,0 +1,71 @@
+Admission Date:  [**3067-9-4**]       Discharge Date:
+
+Date of Birth:   [**3006-5-24**]       Sex:  F
+
+Service:
+
+HISTORY:  The patient is a 60-year-old female who was found
+to have a T2, N2 right upper lobe lung carcinoma.  The
+patient was admitted for elective surgery, right upper lobe
+lobectomy.  The patient did well with neoadjuvant treatment.
+
+PAST MEDICAL HISTORY:  Included breast cancer on the right
+side.  Underwent chemotherapy in [**3048**].
+
+PAST SURGICAL HISTORY:  Includes right mastectomy,
+mediastinoscopy.
+
+ALLERGIES:  None.
+
+The patient was taken by Dr. [**Last Name (STitle) 173**] to the operating room on
+[**3067-9-4**] for a right upper lobe lobectomy, Stage III-A lung
+cancer.
+
+Postoperatively the patient did well however, her recovery
+course was complicated by hypotensive episodes in the Post
+Anesthesia Care Unit.  It was treated with Neo and the
+patient was transferred to Intensive Care Unit for several
+days because of difficulty weaning off Neo.  However on
+postoperative day three the patient was able to be
+transferred onto the floor.  The patient's chest tube was
+discontinued without incident.  Pain was initially controlled
+with an epidural and later switched onto PCA and before
+discharge the patient's pain was controlled on p.o. Percocet.
+Preoperatively the patient had bilateral wheezing but
+postoperatively the patient's wheezing was treated with
+Albuterol nebulizer and upon discharge her wheezing improved.
+ The patient was afebrile.
+
+DISCHARGE MEDICATION:
+1.  Percocet one to two tabs p.o. q 4 to 6 h p.r.n.
+2.  Motrin 800 mg p.o. q 8 h times 48 hours then p.r.n.
+3.  Zantac 150 mg p.o. b.i.d. times one week.
+4.  Albuterol nebulizer.
+
+CONDITION ON DISCHARGE:  Physical examination still had some
+diffuse bilateral wheezes.  Heart rate was regular.  Normal
+sinus.  Incision is clean, dry, intact.  No drainage, no pus.
+Pain controlled on p.o. Percocets.  Condition was stable,
+afebrile.
+
+
+The patient will be discharged home and told to follow-up
+with Dr. [**Last Name (STitle) 173**] in one week.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) 175**] [**Last Name (NamePattern4) 176**], M.D.  [**MD Number(1) 177**]
+
+Dictated By:[**Name8 (MD) 184**]
+MEDQUIST36
+
+D:  [**3067-9-9**]  17:31
+T:  [**3067-9-9**]  19:50
+JOB#:  [**Job Number 29152**]
+
+
+
+DOC CLASS

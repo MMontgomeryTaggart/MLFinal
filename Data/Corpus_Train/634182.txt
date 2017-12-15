@@ -1,0 +1,206 @@
+CVICU
+   HPI:
+   HD3   POD 1-s/pL [**Last Name (un) **] LV epicardial lead placement w/generator
+   Pre-Op Weight:0 lbs   0 kgs
+   PMHx: Chronic AF, tachy-brady, ESRD on HD with fistula (left) tunnel
+   right IJ
+   [**Last Name (un) **]: ASA 162', Zocor 40', Zetia 10', Flomax 0.4', Trazadone 75 prn
+   sleep, Allopurinol 100', Coumadin and Toprol at the OSH.
+   Current medications:
+   Allopurinol, Aspirin EC, Bisacodyl, Ciprofloxacin, Docusate Sodium,
+   Epinephrine HCl, Ezetimibe, HYDROmorphone, Insulin, Simvastatin,
+   Tamsulosin, Vasopressin Vancomycin
+   24 Hour Events:
+   Received from the OR
+   Weaned and extubated
+   Urology consulted for foley placement - scoped to place foley
+ DIALYSIS CATHETER - START [**2993-7-24**] 12:50 PM
+ INTUBATION - At [**2993-7-24**] 01:00 PM
+    ARTERIAL LINE - START [**2993-7-24**] 01:50 PM
+ ARTERIAL LINE - START [**2993-7-24**] 01:50 PM
+ MULTI LUMEN - START [**2993-7-24**] 01:50 PM
+ EKG - At [**2993-7-24**] 03:17 PM
+ INVASIVE VENTILATION - START [**2993-7-24**] 05:00 PM
+    INVASIVE VENTILATION - STOP [**2993-7-25**] 03:35 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2993-7-24**] 05:30 PM
+   Ciprofloxacin - [**2993-7-24**] 07:00 PM
+   Infusions:
+   Epinephrine - 0.01 mcg/Kg/min
+   Vasopressin - 1.2 units/hour
+   Other ICU medications:
+   Insulin - Regular - [**2993-7-24**] 07:00 PM
+   Hydromorphone (Dilaudid) - [**2993-7-24**] 09:45 PM
+   Other medications:
+   Flowsheet Data as of  [**2993-7-25**] 10:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**95**] a.m.
+   Tmax: 36.9
+C (98.5
+   T current: 36.9
+C (98.5
+   HR: 112 (83 - 132) bpm
+   BP: 80/43(55) {76/41(51) - 126/67(83)} mmHg
+   RR: 20 (11 - 24) insp/min
+   SPO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 63 Inch
+   CVP: 16 (14 - 28) mmHg
+   CO/CI (Fick): (6.1 L/min) / (3.7 L/min/m2)
+   Mixed Venous O2% sat: 71 - 97
+   Total In:
+                                                                  1,666 mL
+                                                                    349 mL
+   PO:
+                                                                     90 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,666 mL
+                                                                    259 mL
+   Blood products:
+   Total out:
+                                                                    194 mL
+                                                                    125 mL
+   Urine:
+                                                                    146 mL
+                                                                     90 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,472 mL
+                                                                    224 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 1
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 20 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 41.7 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.41/28/147/20/-4
+   Ve: 10.4 L/min
+   PaO2 / FiO2: 367
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular), intermittent v pacing
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : ), left thoracotomy
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   130 K/uL
+   8.6 g/dL
+   96 mg/dL
+   4.0 mg/dL
+   20 mEq/L
+   4.6 mEq/L
+   45 mg/dL
+   98 mEq/L
+   132 mEq/L
+   28.1 %
+   15.7 K/uL
+        [image002.jpg]
+                             [**2993-7-24**]  11:41 AM
+                             [**2993-7-24**]  01:26 PM
+                             [**2993-7-24**]  01:36 PM
+                             [**2993-7-24**]  06:16 PM
+                             [**2993-7-24**]  06:32 PM
+                             [**2993-7-24**]  10:34 PM
+                             [**2993-7-25**]  02:53 AM
+                             [**2993-7-25**]  03:07 AM
+                             [**2993-7-25**]  05:58 AM
+                             [**2993-7-25**]  08:08 AM
+   WBC
+   9.9
+   15.7
+   Hct
+   32
+   29.6
+   28.1
+   Plt
+   107
+   130
+   Creatinine
+   3.7
+   4.0
+   Troponin T
+   0.82
+   TCO2
+   20
+   22
+   20
+   19
+   23
+   24
+   18
+   Glucose
+   89
+   100
+   94
+   96
+   Other labs: PT / PTT / INR:17.4/37.2/1.6, CK / CK-MB / Troponin
+   T:245/13/0.82, ALT / AST:18/33, Alk-Phos / T bili:179/1.1, Amylase /
+   Lipase:199/72, Lactic Acid:1.9 mmol/L, LDH:276 IU/L, Ca:9.5 mg/dL,
+   Mg:3.0 mg/dL, PO4:5.4 mg/dL
+   Imaging: CXR at 130pm - ct on water seal
+   Microbiology: MRSA pending
+   Assessment and Plan
+   HYPOTENSION (NOT SHOCK), .H/O RENAL FAILURE, CHRONIC (CHRONIC RENAL
+   FAILURE, CRF, CHRONIC KIDNEY DISEASE), PAIN CONTROL (ACUTE PAIN,
+   CHRONIC PAIN)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, dilaudid prn
+   Cardiovascular: Aspirin, Statins, Dc milirone, wean Epinephrine and
+   vasopressin for SBP > 85 MAP > 60
+   Cardiology consult
+   Pulmonary: IS, cough and deep breath, nebs q6h
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Clear liquids
+   Renal: Foley, Dialysis patient - renal following, minimal urine output
+   as baseline
+   Hematology: stable anemia
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: mrsa pending, vanco for pacer placement, cipro due
+   to cystoscopy, wbc 15 post op increase with monitor for fevers
+   Lines / Tubes / Drains: Foley, Chest tube - pleural
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: Cardiology, Nephrology, P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**2993-7-24**] 12:50 PM
+   18 Gauge - [**2993-7-24**] 12:50 PM
+   Arterial Line - [**2993-7-24**] 01:50 PM
+   Multi Lumen - [**2993-7-24**] 01:50 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

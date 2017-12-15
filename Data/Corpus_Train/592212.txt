@@ -1,0 +1,209 @@
+CVICU
+   HPI:
+   HD2
+   [**5-4**] POD 1
+   83M s/p CABG X 2 (LIMA>LAD, SVG>OM2) [**5-3**]
+   EF 65 Wt 90.9 Cr 1.6 HgbA1C 6.8
+   PMH CAD s/p PTCA stent '[**66**], HTN, ^chol, DM, Schatzki's ring, BPH, Mild
+   CRI (1.6), anemia, renal calculi, s/p back surgery, bilat cat,
+   esophageal [**First Name9 (NamePattern2) 7105**]
+   [**Last Name (un) **] simvastatin 20', lisinopril 40', atenolol 50', HCTZ 25', Terazosin
+   2', Glipizide 40", Protonix 40', ASA 81', Plavix 75', Iron, Vit B 12
+   Current medications:
+   Acetaminophen, Aspirin EC, CefazoLIN, Docusate Sodium, Insulin,
+   Morphine Sulfate, Oxycodone-Acetaminophen, Pantoprazole, Simvastatin,
+   Terazosin
+   24 Hour Events:
+   Received from OR
+   Required fluids, PRBC, nitro and neo for hemodynamic management
+   weaned from sedation and extubated without complications
+ INTUBATION - At [**2778-5-3**] 01:30 PM
+   received from OR
+ INVASIVE VENTILATION - START [**2778-5-3**] 01:30 PM
+ OR RECEIVED - At [**2778-5-3**] 01:42 PM
+ NASAL SWAB - At [**2778-5-3**] 01:43 PM
+ ARTERIAL LINE - START [**2778-5-3**] 02:13 PM
+ CORDIS/INTRODUCER - START [**2778-5-3**] 02:14 PM
+    PA CATHETER - START [**2778-5-3**] 02:14 PM
+ EKG - At [**2778-5-3**] 02:16 PM
+ EXTUBATION - At [**2778-5-3**] 09:05 PM
+ PA CATHETER - STOP [**2778-5-4**] 06:40 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2778-5-4**] 05:57 AM
+   Infusions:
+   Phenylephrine - 1.3 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2778-5-3**] 06:00 PM
+   Morphine Sulfate - [**2778-5-4**] 12:15 AM
+   Insulin - Regular - [**2778-5-4**] 05:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2778-5-4**] 11:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**81**] a.m.
+   Tmax: 37.6
+C (99.7
+   T current: 35.8
+C (96.5
+   HR: 87 (83 - 103) bpm
+   BP: 109/47(68) {75/33(48) - 155/60(86)} mmHg
+   RR: 25 (12 - 25) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 96 kg (admission): 90.2 kg
+   Height: 72 Inch
+   CVP: 4 (1 - 18) mmHg
+   PAP: (26 mmHg) / (10 mmHg)
+   CO/CI (Thermodilution): (7.04 L/min) / (3.3 L/min/m2)
+   SVR: 545 dynes*sec/cm5
+   SV: 73 mL
+   SVI: 34 mL/m2
+   Total In:
+                                                                  6,204 mL
+                                                                    905 mL
+   PO:
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  5,829 mL
+                                                                    845 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  1,255 mL
+                                                                    670 mL
+   Urine:
+                                                                    845 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,949 mL
+                                                                    235 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 582 (160 - 676) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 10 cmH2O
+   Plateau: 18 cmH2O
+   SPO2: 99%
+   ABG: 7.37/34/167/18/-3
+   Ve: 8 L/min
+   PaO2 / FiO2: 239
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: right pupil > left reactive to light
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), left EVH ace wrap
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   169 K/uL
+   10.7 g/dL
+   130 mg/dL
+   1.5 mg/dL
+   18 mEq/L
+   4.6 mEq/L
+   29 mg/dL
+   113 mEq/L
+   138 mEq/L
+   31.1 %
+   14.2 K/uL
+        [image002.jpg]
+                             [**2778-5-3**]  09:01 PM
+                             [**2778-5-3**]  09:51 PM
+                             [**2778-5-3**]  10:00 PM
+                             [**2778-5-3**]  11:00 PM
+                             [**2778-5-4**]  12:00 AM
+                             [**2778-5-4**]  01:00 AM
+                             [**2778-5-4**]  02:00 AM
+                             [**2778-5-4**]  03:42 AM
+                             [**2778-5-4**]  03:56 AM
+                             [**2778-5-4**]  09:26 AM
+   WBC
+   14.2
+   Hct
+   31.3
+   31.1
+   Plt
+   169
+   Creatinine
+   1.3
+   1.5
+   TCO2
+   21
+   Glucose
+   142
+   139
+   115
+   93
+   103
+   135
+   130
+   Other labs: PT / PTT / INR:15.8/44.0/1.4, Differential-Neuts:79.7 %,
+   Lymph:15.6 %, Mono:1.9 %, Eos:2.5 %, Fibrinogen:136 mg/dL, Lactic
+   Acid:0.7 mmol/L, Mg:2.2 mg/dL
+   Microbiology: urine < 10,000 preop
+   MRSA pending
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), HYPOTENSION (NOT SHOCK)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, percocet, morphine
+   prn effective on pain
+   Cardiovascular: Aspirin, Statins, Discontinue PA monitor, wean neo for
+   MAP > 60, consider betablocker after weaned off neo.
+   Pulmonary: IS, cough and deep breath, oob to chair
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Clear liquids, Advance diet as tolerated
+   Renal: Foley, start lasix for diuresis with goal 1000 ml negative for
+   24 hours, cr baseline 1.6 - currently below baseline
+   Hematology: stable anemia
+   Endocrine: RISS, Insulin drip, Lantus (R), goal BG < 150, lantus 40
+   units given to transition to sliding scale insulin from insulin gtt,
+   resume glipizide
+   Infectious Disease: cefazolin for periop antibiotics, wbc 14 postop
+   increase, recheck in am [**5-5**]
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Fluids: KVO
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Insulin infusion,
+   Lantus (R) protocol
+   Lines:
+   Arterial Line - [**2778-5-3**] 02:13 PM
+   16 Gauge - [**2778-5-3**] 02:15 PM
+   20 Gauge - [**2778-5-4**] 06:11 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

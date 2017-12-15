@@ -1,0 +1,205 @@
+SICU
+   HPI:
+   72 y/o w m s/p aorta dissection corrected with AVR and aortic arch
+   graft replacement (POD#8) with post-operative course complicated by RF
+   & pneumonia, UTI, [**Last Name (un) **]
+   Chief complaint:
+   Chest pain
+   PMHx:
+   hyperlipidemia, HTN,AAA, AF 2 yrs ago-> coumadin, hemorrhoids
+   [**Last Name (un) **]:Atenolol 100',Lisinopril 20',Diliatzem 180', ASA 81', coumadin 5',
+   (7.5 [**Last Name (un) **]), Simvastatin 40',VitC 500', VitE 400', BuprionCR 150'
+   Current medications:
+   24 Hour Events:
+   Post operative day:
+   POD#10 - Trach and PEG
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3012-9-23**] 06:00 AM
+   Ciprofloxacin - [**3012-9-23**] 06:08 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3012-9-25**] 07:23 AM
+   Other medications:
+   Flowsheet Data as of  [**3012-9-25**] 09:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**14**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 36.6
+C (97.9
+   HR: 72 (68 - 80) bpm
+   BP: 94/55(64) {90/52(60) - 134/74(98)} mmHg
+   RR: 27 (17 - 32) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95.4 kg (admission): 89 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,973 mL
+                                                                    908 mL
+   PO:
+             Tube feeding:
+                                                                    861 mL
+                                                                    509 mL
+   IV Fluid:
+                                                                    622 mL
+                                                                    189 mL
+   Blood products:
+   Total out:
+                                                                  2,650 mL
+                                                                  1,210 mL
+   Urine:
+                                                                  2,050 mL
+                                                                  1,110 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -677 mL
+                                                                   -302 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: Standby
+   Vt (Spontaneous): 430 (332 - 430) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 25
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI: 75
+   PIP: 20 cmH2O
+   SPO2: 100%
+   ABG: ///30/
+   Ve: 10.1 L/min
+   Physical Examination
+   General Appearance: No acute distress, No(t) Anxious
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular, Irregular), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm, Cool), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   309 K/uL
+   9.1 g/dL
+   122 mg/dL
+   1.2 mg/dL
+   30 mEq/L
+   4.4 mEq/L
+   41 mg/dL
+   108 mEq/L
+   145 mEq/L
+   29.4 %
+   15.9 K/uL
+        [image002.jpg]
+                            [**3012-9-21**]  03:50 AM
+                            [**3012-9-21**]  06:12 AM
+                            [**3012-9-21**]  02:12 PM
+                            [**3012-9-22**]  04:22 AM
+                            [**3012-9-22**]  03:35 PM
+                            [**3012-9-23**]  03:10 AM
+                            [**3012-9-23**]  03:36 AM
+                            [**3012-9-24**]  06:49 AM
+                            [**3012-9-24**]  05:00 PM
+                            [**3012-9-25**]  02:13 AM
+   WBC
+   13.1
+   14.1
+   15.3
+   15.1
+   15.9
+   Hct
+   29.0
+   27.8
+   26.8
+   28.1
+   29.4
+   Plt
+   [**Telephone/Fax (3) 10908**]34
+   309
+   Creatinine
+   1.1
+   1.1
+   1.1
+   1.2
+   1.2
+   TCO2
+   28
+   28
+   29
+   30
+   Glucose
+   146
+   153
+   121
+   119
+   184
+   181
+   122
+   Other labs: PT / PTT / INR:20.8/74.1/1.9, CK / CK-MB / Troponin
+   T:441/13/, ALT / AST:41/43, Alk-Phos / T bili:76/0.6, Amylase /
+   Lipase:106/169, Differential-Neuts:87.0 %, Lymph:9.8 %, Mono:2.3 %,
+   Eos:0.4 %, Fibrinogen:280 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:3.2
+   g/dL, LDH:442 IU/L, Ca:8.8 mg/dL, Mg:2.2 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   EDEMA, PERIPHERAL, DIARRHEA, .H/O HYPERTENSION, BENIGN, AORTIC
+   DISSECTION, VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), AIRWAY,
+   INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH)
+   Assessment and Plan: 72 y/o w m s/p aorta dissection corrected with AVR
+   and aortic arch graft replacement (POD#8) with post-operative course
+   complicated by RF & pneumonia, UTI, [**Last Name (un) **]
+   Neurologic: Neuro checks Q: 4 hr, Slight discomfort at sternotomy side.
+   Increase Percocet. Add Tramadol
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   HD stable. AF with rate controlled on amiodarone, CCI and b-blocker. On
+   coumadin with INR=1.9. Discontinue heparin drip.
+   Pulmonary: Trach, Will continue trach collar as tolerated. OOB->chair
+   Gastrointestinal / Abdomen: Elevated lipase and amyslase. Will call
+   surgical consult due to the concenr of pancreatitis. LFT stabilizing.
+   Continue to monitor them. Loose stool present
+ will add bana flakes.
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO, Gentle diuresis with goal of 1-2L. BUN and
+   CREA stable but will be monitored.
+   Hematology: Serial Hct, Post-operative stable anemia
+   Endocrine: RISS, BG with spotty control but generally below 180mg%.
+   Will change insulin orders
+   Infectious Disease: No issues at this point. Eleavted WBC from
+   pancreatitis (?). no fevers
+   Lines / Tubes / Drains: Foley, J-Tube, Trach
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: General surgery
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   hypotension, Pancreatitis, Acute renal failure
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3012-9-24**] 04:00 PM 55 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3012-9-17**] 09:32 AM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

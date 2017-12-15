@@ -1,0 +1,318 @@
+Admission Date:  [**3203-8-18**]              Discharge Date:   [**3203-9-1**]
+
+Date of Birth:  [**3140-11-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor First Name 1386**]
+Chief Complaint:
+Fatigue
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+Left femoro-popliteal catheterization
+
+History of Present Illness:
+Briefly, patient is a 62M h/o DM2, no known CAD who presented
+with EKG changes in PCP office and [**Name Initial (PRE) **]/o fatigue and sent to ED.
+Patient was in his USOH until one week prior to admission when
+he started feeling fatigued and light headed and presented to
+his PCP. [**Name10 (NameIs) **] was found to have elevated blood sugar on labs and
+ECG which showed ST elevations v3-6. The pt denies any CP or
+SOB. He denies polyuria, polydipsia. No f/c/n/v.
+
+    He was referred to ED for further management. In ED, he was
+found to have sugar 657, trop 0.96, CK 59. He was given IVF,
+insulin 10 IV, 10 SC, asa, plavix 600. He was taken to the cath
+lab and the LAD was stented. On ECHO he was found to have severe
+biventricular regional systolic dysfunction c/w CAD and LV/RV
+infarction and mural left ventricular apical thrombus.
+
+After coming from the cath he started complaining about pain in
+left lower extremity. DP and PT non-dopplerable. was taken to
+cath and found to have left popliteal artery embolus. removal of
+the embolus was unsuccessful, hence vascular surgery was called.
+vascular surgery recommended to take the pt to the OR. Pt
+declined surgery and was brought back to CCU. The LLE pain
+improved and PT pulse was dopplerable. Pt was supposed to get
+d/c next day.
+
+Next day in am , he developed AMS and weakness on the left side.
+Neuro was called. The CT brain w/ and w/o contrast showed right
+frontal intraparenchymal hemorrhage. Pt was transferred to Neuro
+ICU. Over the last few days, his MS improved and the strength in
+his left upper and lower extremity improved. Today he was
+transferred to CCU to have a better control of the heart rate
+and subsequent rehab.
+
+
+Past Medical History:
+DM2
+
+Social History:
+Not married, smokes 4 cigs/day. Works at Palladium Security
+
+
+Family History:
+Mother alive at 98. Father died of unknown causes in his 40s.
+
+Physical Exam:
+VS:  Temp:  99.4  BP: 120/73    HR: 60  RR: 17   O2sat: 100 RA
+general: pleasant, comfortable, NAD
+HEENT: PERLLA, EOMI,
+lungs: CTA b/l with good air movement throughout
+heart: RR, S1 and S2 wnl, no murmurs, +s3
+abdomen: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+extremities: trace ankle edema
+
+
+Pertinent Results:
+[**3203-8-18**] 06:37PM   GLUCOSE-265* UREA N-33* CREAT-1.2 SODIUM-136
+POTASSIUM-4.2 CHLORIDE-98 TOTAL CO2-25 ANION GAP-17
+[**3203-8-18**] 06:37PM   CK(CPK)-42
+[**3203-8-18**] 02:35PM   GLUCOSE-657* UREA N-36* CREAT-1.4*
+SODIUM-129* POTASSIUM-5.2* CHLORIDE-89* TOTAL CO2-23 ANION
+GAP-22*
+[**3203-8-18**] 02:35PM   CK(CPK)-59
+[**3203-8-18**] 02:35PM   cTropnT-0.96*
+[**3203-8-18**] 02:35PM   CK-MB-NotDone
+[**3203-8-18**] 02:35PM   CALCIUM-10.1 PHOSPHATE-5.0* MAGNESIUM-2.1
+[**3203-8-18**] 02:35PM   WBC-12.6* RBC-4.90 HGB-15.3 HCT-43.5 MCV-89
+MCH-31.3 MCHC-35.3*# RDW-14.0
+[**3203-8-18**] 02:35PM   NEUTS-79.2* LYMPHS-16.5* MONOS-3.9 EOS-0.2
+BASOS-0.2
+[**3203-8-18**] 02:35PM   PLT COUNT-355
+[**3203-8-18**] 02:35PM   PT-12.5 PTT-23.9 INR(PT)-1.1
+[**3203-8-25**] 01:56AM BLOOD WBC-10.9 RBC-4.90 Hgb-15.0 Hct-44.3
+MCV-90 MCH-30.5 MCHC-33.8 RDW-14.3 Plt Ct-317
+[**3203-8-25**] 01:56AM BLOOD Plt Ct-317
+[**3203-8-25**] 01:56AM BLOOD Glucose-154* UreaN-20 Creat-0.8 Na-139
+K-3.7 Cl-103 HCO3-23 AnGap-17
+[**3203-8-25**] 01:56AM BLOOD ALT-32 AST-22 LD(LDH)-343* CK(CPK)-29*
+AlkPhos-143* TotBili-0.5
+[**3203-8-25**] 01:56AM BLOOD CK-MB-NotDone cTropnT-1.06*
+[**3203-8-25**] 01:56AM BLOOD Calcium-8.2* Phos-3.1 Mg-2.2
+[**3203-8-25**] 01:56AM BLOOD Phenyto-5.1*
+
+Echo ([**3203-8-18**]):
+Severe biventricular regional systolic dysfunction c/w CAD and
+LV/RV infarction. Mural left ventricular apical thrombus.
+Dilated ascending aorta. Mild mitral regurgitation.
+
+CATH ([**3203-8-19**]): One vessel coronary artery disease. Mild
+systolic ventricular dysfunction. Successful PCI of the LAD with
+Cyher drug eluting stents (see PTCA comments for details).
+
+CATH ([**3203-8-19**]):Unsuccessful attempt in crossing the acutely
+occluded LSFA
+
+CT head w/ and w/o contrast([**3203-8-22**]):  :
+Right frontal intraparenchymal hemorrhage.  Probable 5 mm
+aneurysm of anterior communicating artery.  Prior infarcts,
+right cerebellar hemisphere and right centrum semiovale.
+
+MR HEAD [**3203-9-1**]:  FINDINGS: Upon reviewing the prior study, a
+large, somewhat patchy area of restricted diffusion was seen
+within the right posterior cerebral artery territory. While the
+prior and present FLAIR images are degraded considerably by
+patient motion, both examinations also showed elevated T2 signal
+in portions of this infarct, suggesting that the infarct was
+already subacute in age on the first scan.
+The large right frontal hemorrhage is again seen. A small amount
+of blood appears to be sedimenting in both occipital horns. No
+other definite new abnormalities are appreciated.
+CONCLUSION: Evolution of extensive right posterior cerebral
+artery territory infarct. Redemonstration of large right frontal
+hemorrhage with a small intraventricular component.
+ADDENDUM: The study was continued with gadolinium-enhanced
+images in all three planes. There does not appear to be any
+overt enhancement associated with the large right frontal
+hemorrhage, allowing for considerable image degradation due to
+patient motion. Some of the areas of the right posterior
+cerebral artery infarct do enhance, a finding consistent with
+the subacute nature of this abnormality. The most prominent
+areas of enhancement in the infarct relates to gyri along the
+undersurface of the right temporal lobe as well as the right
+occipital lobe. The gyral enhancement, once again, is consistent
+with the subacute age of this infarct.
+
+
+Brief Hospital Course:
+A/P: 62M h/o DM2 now with new diagnosis of CHF, EF 25% and LV
+aneurysm with clot in setting of likely recent infarct. Stented
+LAD [**8-19**]. After coming from the cath he started complaining
+about pain in left lower extremity. DP and PT non-dopplerable.
+He was taken to cath and found to have left popliteal artery
+embolus. Removal of the embolus was unsuccessful, hence vascular
+surgery was called. Vascular surgery recommended to take the pt
+to the OR. Pt declined surgery and was brought back to CCU. The
+LLE pain improved and PT pulse was dopplerable. Pt was supposed
+to get discharged the next day, however the next day in the
+morning he developed altered mental status and weakness on the
+left side. Neuro was called. The CT brain w/ and w/o contrast
+showed right frontal intraparenchymal hemorrhage. Pt was
+transferred to Neuro ICU. Over the last few days, his mental
+status improved and the strength in his left upper and lower
+extremity improved. He was subsequently transferred back to the
+CCU to have a better control of the heart rate and subsequent
+rehab.
+
+[**Last Name **] problem by problem as follows:
+
+## Cardiac:
+- Ischemia: ST elevations on admission, likely secondary to LV
+apical aneurysm, elevated trop and negative CK. Had LAD stented
+with 3 DESs. Started on ASA 325 mg PO qd, clopidogrel 75 mg PO
+qd, atorvastatin 80 mg PO qd, metoprolol long-acting 200 mg PO
+bid.  No further chest pain.
+- Pump: New diagnosis of CHF, EF 25% with apical aneurysm and
+mural thrombus. Started standing furosemide 20 mg PO qd,
+lisinopril 10 mg PO qd and metoprolol long-acting 200 mg PO bid
+- Rhythm: paroxysmal atrial fibrillation with very difficult to
+control rate. Started on amiodarone 200 mg PO qd, metoprolol
+long-acting 200 mg PO bid and diltiazem 90 mg PO qid. Warfarin
+withheld pending results of f/u head CT to make sure ICH is
+stable/resolving and MRI.  On the day of discharge, repeat MRI
+with natural subacute evolution of hemorrhagic stroke.  After
+lengthy discussions between cardiology and Neurology, it was
+felt advisable to proceed with anticoagulation (see below).
+
+## ICH: As above, status post right frontal ICH while on
+anticoagulation, also in setting of A-fib. Presented with left
+sided hemiparesis, symptoms now improving. Now waxing and [**Doctor Last Name 681**]
+mental status and physical exam. Head CT 9 days after event
+showed no change from prior CT. MRI of brain showed natural
+evolution of the hemorrhagic stroke, without any new bleed.
+After lengthy discussions between neurology and cardiology it
+was felt advisable to proceed with anticoagulation at this
+point.  The longer anticoagulation is withheld the less of a
+risk of rebleeding, however the risk of further thromboembolism
+from his a-fib/ventricular thrombus persists.  Therefore, at
+this point in time, the risk of further hemorrhage is thought
+less than the risk of further thromboembolism, and he will be
+started on coumadin 2 mg PO QHS tonight.  He will need close INR
+monitoring, EVERY OTHER DAY at least, until INR is at goal of
+[**3-6**].5, and thereafter monitoring can be decreased, though his
+therapeutic range should be strictly adhered to.
+.
+## Fever, leukocytosis: Pan-cultured. U/A not concerning for
+UTI. Concern was most likely for aspiration PNA; CXR showed no
+infiltrates, only atelectasis and bilateral pleural effusions.
+CT chest showed RLL abscess vs. necrotizing pneumonia vs.
+atelectasis. Effusion tapped and consistent with transudate. A
+repeat CT scan after tapping the right hemithorax revealed
+resolution of the concern for abscess.  He had been started on
+vancomycin and zosyn, which were discontinued.  He remained
+afebrile for 24 hours prior to transfer to rehab.  Most likely
+etiology of fevers was atelectasis. C Diff was negative x 1.
+
+## DM2: Poorly controlled on admit, glucose 657 on admission.
+HbA1C was 15.1. [**Last Name (un) **] consulted. They recommended NPH [**Hospital1 **],
+uptitrate with sliding scale. Will be sent to rehab on NPH 15
+QAM, 15 QPM, with regular insulin sliding scale (see attached
+sheet).
+
+## hyponatrimia - Differential included SIADH given recent ICH
+vs dehydration with diarrhea and lasix.  Serum Osm 276, UNa 46
+(>20) supportive of SIADH.  He was placed on fluid restriction
+of 1000 mL daily, which should be continued.  He should have his
+Na repeated every other day with INR checks for the time being
+to assure it is heading in the right direction.  If not, should
+increase free fluid restriction and start salt tablets.
+
+## FEN: Regular; Cardiac/Heart healthy. Consistency: Soft; Thin
+liquids. Supplement: Boost breakfast, lunch, dinner.  Please
+give liquids by straw.  Single sips of liquid only. Give pills
+whole with purees.
+
+## Code status: FULL
+
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Diltiazem HCl 90 mg Tablet Sig: One (1) Tablet PO QID (4
+times a day).
+7. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: Two (2) Tablet Sustained Release 24HR PO BID (2 times a
+day).
+8. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+11. Coumadin 2 mg Tablet Sig: One (1) Tablet PO at bedtime: For
+goal INR 2-2.5.
+12. Insulin NPH Human Recomb  Subcutaneous
+13. Insulin Regular Human  Subcutaneous
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 85**] - [**Location (un) 86**]
+
+Discharge Diagnosis:
+Myocardial infarction
+Hemorrhagic stroke (thromboembolic)
+Atrial fibrillation
+Syndrome of inappropriate anti-diuretic hormone (Hyponatremia)
+Popliteal artery embolism
+Type 2 Diabetes mellitus
+
+
+Discharge Condition:
+Stable.  Right sided hemiparesis, with waxing and wanning mental
+status.
+
+
+Discharge Instructions:
+It is imperative that you continue to take your Plavix every
+day. Please do not miss a dose without talking to a physician
+[**Name Initial (PRE) **].
+
+If you experience chest pain, shortness of breath or fevers,
+please return to the emergency room.
+
+You should restrict your fluid intake to less than 1 L of per
+day.
+
+You should follow a cardiac healthy, diabetic healthy diet.
+
+When you finish rehabilitation, you should have your diabetes
+evaluated and your glucose control medications adjusted.
+
+Followup Instructions:
+We have scheduled a follow-up appointment with Drs. [**First Name8 (NamePattern2) **]
+[**Name (STitle) **] and [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] on [**9-19**] at 1 p.m. The
+appointment is on the [**Location (un) 431**] of the Clinical Care Center at
+[**Hospital1 69**]. They will contact you if a
+sooner appointment becomes available.
+
+You will need to follow up with a neurologist within the next
+month.  The phone number for scheduling this appointment is
+[**Telephone/Fax (1) 44**].  Please call to make this appointment as soon as
+possible.  He can be scheduled to see any neurologist, however
+was seen by Dr. [**Last Name (STitle) 31323**] while in the hospital.
+
+
+
+
+
+
+DOC CLASS

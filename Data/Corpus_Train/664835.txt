@@ -1,0 +1,230 @@
+Chief Complaint: Pneumonia, hypoxemia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Remains extubated.
+   Somewhat aggitated overnight, self d/c'd NGT, pulling at central line.
+   Received Ativan with good response.
+   This AM, awake, oriented, appropriate.
+   No hemodynamic compromise.
+   History obtained from Patient, Medical records
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Hives;
+   Vancomycin
+   Diarrhea;
+   Ambien (Oral) (Zolpidem Tartrate)
+   Unknown;
+   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)
+   Unknown;
+   Cephalexin
+   Unknown;
+   IV Dye
+   Iodine Containing
+   Unknown;
+   Last dose of Antibiotics:
+   Clindamycin - [**3274-12-18**] 05:15 PM
+   Levofloxacin - [**3274-12-20**] 12:27 PM
+   Aztreonam - [**3274-12-21**] 03:05 AM
+   Vancomycin - [**3274-12-21**] 08:19 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3274-12-20**] 08:41 PM
+   Lorazepam (Ativan) - [**3274-12-21**] 03:04 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: No(t) NPO, No(t) Tube feeds, No(t) Parenteral
+   nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, Constipation
+   Genitourinary: No(t) Dysuria, Foley, No(t) Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**3274-12-21**] 10:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.5
+   HR: 103 (70 - 103) bpm
+   BP: 118/88(95) {90/36(37) - 121/88(95)} mmHg
+   RR: 21 (11 - 21) insp/min
+   SpO2: 95%
+   Heart rhythm: AV Paced
+   Wgt (current): 85.5 kg (admission): 80 kg
+   CVP: 10 (7 - 318)mmHg
+   Total In:
+                                                                  1,961 mL
+                                                                    250 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,911 mL
+                                                                    250 mL
+   Blood products:
+   Total out:
+                                                                  1,265 mL
+                                                                    670 mL
+   Urine:
+                                                                  1,265 mL
+                                                                    670 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    696 mL
+                                                                   -420 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 473 (473 - 473) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 43
+   PIP: 15 cmH2O
+   SpO2: 95%
+   ABG: ///26/
+   Ve: 6.6 L/min
+   Physical Examination
+   General Appearance: No(t) Well nourished, No(t) No acute distress,
+   No(t) Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: Cervical WNL, No(t) Supraclavicular WNL, No(t) Cervical
+   adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: Systolic, No(t)
+   Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: No(t) Clear : , No(t) Crackles : , No(t) Bronchial: ,
+   Wheezes : , No(t) Diminished: , No(t) Absent : , Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , No(t) Obese
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): ox3, Movement: Purposeful, No(t) Sedated, No(t)
+   Paralyzed, Tone: Normal
+   Labs / Radiology
+   7.5 g/dL
+   246 K/uL
+   127 mg/dL
+   1.5 mg/dL
+   26 mEq/L
+   4.1 mEq/L
+   32 mg/dL
+   100 mEq/L
+   134 mEq/L
+   25.5 %
+   8.7 K/uL
+        [image002.jpg]
+                             [**3274-12-19**]  03:33 AM
+                             [**3274-12-19**]  07:08 AM
+                             [**3274-12-20**]  04:33 AM
+                             [**3274-12-21**]  03:49 AM
+   WBC
+   8.0
+   10.7
+   8.7
+   Hct
+   24.2
+   24.9
+   25.5
+   Plt
+   [**Telephone/Fax (3) 9616**]
+   Cr
+   1.5
+   1.5
+   1.5
+   TCO2
+   31
+   Glucose
+   119
+   119
+   127
+   Other labs: PT / PTT / INR:36.7/46.4/3.8, ALT / AST:15/20, Alk Phos / T
+   Bili:62/0.5, Differential-Neuts:91.2 %, Lymph:5.0 %, Mono:3.6 %,
+   Eos:0.2 %, LDH:182 IU/L, Ca++:8.0 mg/dL, Mg++:2.1 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   75 [**Hospital 5228**] nursing home resident, COPD, now with CAP/HCAP and sepsis.
+   RESPIRATORY FAILURE -- multifactorial, attributed to pneumonia and
+   component of pulmomary edema (cardiogenic or non-cardiogenic).
+   Pneumonia may be precipitant.  Stable following extubation.  Monitor
+   ABG, SaO2.
+   COPD -- optimize medications, including steroids, antimicrobials.
+   PULMONARY INFILTRATES -- suspect attributable predominately to
+   pneumonia , and component of CHF (underlying cardiomyopathy).
+   Empirical antimicrobials.  Monitor CXR.
+   HYPOTENSION -- Resolved.  Responded to iv fluid bolus yesterday,
+   allowing discontinuation of vasoopressor.  Attributed to sepsis,
+   hypovolemia, contribution of PEEP.  [**Month (only) 8**] be component of adrenal
+   insufficiency (stress dose steroids).  s/p fluid resussitation.
+   Maintain vasopressor, aim MAP >60 mmHg.
+   SEPSIS -- resolved.
+   ADRENAL INSUFFICIENCY -- taper steroids to baseline dose.
+   CHF -- underlying cardiomyopathy, EF 15-25 %.  Monitor for evidence for
+   overt CHF.
+   FLUIDS -- net volume expanded following resussitation.  Plan monitor
+   I/O, maintain balance.  IV fluid bolus as needed to maintain BP.  D/C
+   central line, maintain PICC.
+   COAGULOPATHY -- improved INR following vitamin K and while holding
+   coumadin; elevation  likely reflect nutrition and drug-effect (ex.
+   Levofloxicin).  Consider FFP (or coumadin) if INR continues to rise.
+   Consider substituting Levofloxicin.  Monitor coags.
+   h/o PULMONARY EMBOLI -- continue chronic anticoagulation once INR in
+   therapeutic range.
+   NUTRITIONAL SUPPORT -- initiate TF if remains intubated.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3274-12-18**] 06:21 PM
+   PICC Line - [**3274-12-18**] 06:22 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition :ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

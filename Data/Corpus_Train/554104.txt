@@ -1,0 +1,196 @@
+TITLE:
+   Chief Complaint: - pt and family changed code status to DNR/DNI, CMO
+   - started morphine gtt
+   - [**Last Name (un) 3497**] visited
+   - d/c-ed unneeded labs and meds
+   24 Hour Events:
+   Allergies:
+   Streptomycin
+   Hives;
+   Beeswax
+   allergic to bee
+   Last dose of Antibiotics:
+   Vancomycin - [**3168-12-29**] 12:39 AM
+   Levofloxacin - [**3168-12-29**] 04:38 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3168-12-29**] 08:00 AM
+   Infusions:
+   Morphine Sulfate - 1 mg/hour
+   Other ICU medications:
+   Morphine Sulfate - [**3168-12-29**] 08:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3168-12-30**] 05:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.3
+C (99.2
+   HR: 101 (97 - 119) bpm
+   BP: 105/58(69) {63/41(53) - 115/75(84)} mmHg
+   RR: 19 (18 - 36) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  2,716 mL
+                                                                     65 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,656 mL
+                                                                     65 mL
+   Blood products:
+   Total out:
+                                                                  1,585 mL
+                                                                    280 mL
+   Urine:
+                                                                  1,285 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,131 mL
+                                                                   -215 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SpO2: 98%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : [**2-26**] way up bilaterally)
+   Abdominal: Soft, Distended
+   Extremities: Right: 2+, Left: 2+, No(t) Cyanosis, No(t) Clubbing
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): place and date, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   61 K/uL
+   10.0 g/dL
+   110 mg/dL
+   1.4 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   64 mg/dL
+   86 mEq/L
+   125 mEq/L
+   27.8 %
+   17.1 K/uL
+        [image002.jpg]
+                             [**3168-12-29**]  06:49 AM
+   WBC
+   17.1
+   Hct
+   27.8
+   Plt
+   61
+   Cr
+   1.4
+   TropT
+   0.49
+   Glucose
+   110
+   Other labs: PT / PTT / INR:15.7/36.2/1.4, CK / CKMB /
+   Troponin-T:90//0.49, ALT / AST:102/132, Alk Phos / T Bili:309/1.0,
+   Differential-Neuts:94.9 %, Lymph:1.4 %, Mono:2.2 %, Eos:1.5 %,
+   Albumin:2.4 g/dL, LDH:276 IU/L, Ca++:7.7 mg/dL, Mg++:1.9 mg/dL, PO4:4.4
+   mg/dL
+   Assessment and Plan
+ COMFORT CARE (CMO, COMFORT MEASURES)
+ HYPOXEMIA
+ HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY)
+   65 yo Male with metastatic esophageal cancer, chylothorax s/p pleurex
+   tube placement, R subclavian & LIJ DVTs on lovenox, p/w worsening
+   SOB/edema/weakness, elevated white count, elevated troponins (with flat
+   CK), new transaminitis, thrombocytopenia, PE c/w fluid overload, but
+   chem-10 suggestive of pre-renal state. Pt with lymphangitic spread, and
+   after lone discussion of attending with family and patient, he will be
+   CMO.
+   .
+   1. SOB: Pt has numerous potential reasons for hypoxia such as:
+   bilateral pleural effusions and compressive atelectasis, pulmonary
+   edema from CHF given elevated BNP vs. lymphangitic carcinomatosis.
+   pneumonia given leukocytosis, PE given hx of numerous DVTs although now
+   on lovenox; chylothorax; interstital lung dz s/p chest radiation;
+   pericardial effusion.
+   - CT of chest without contrast showed increased reticulation of the
+   lungs concerning for lymphangitic spread, also signs of metastatic
+   disease in liver and abdomen
+   - blood culture, sputum culture as high WBC with left shift and current
+   presentation suggestive of PNA, however abx were stopped when pt became
+   CMO
+   -3 Liters drained from pleurex
+   .
+   2. Elevated troponin: Given that troponin has been rising for 1 day as
+   per OSH records and CK has not bumped, this likely does not represent
+   infarction. Most likely a troponin spill in response to systemic
+   stress. If [**Name (NI) 1845**], pt is already on lovenox. No EKG changes appreciated
+   on our or OSH EKGs.
+   - holding on further labs for now
+   - low suspicion for ACS; will d/c metoprolol
+   -lovenox- held
+   - hold ASA given thrombocytopenia
+   .
+   3. Elevated WBC with left shift. Possibly from pneumonia.  will pan
+   culture, was on broad abx given recent hospitalization, however stopped
+   this AM when became CMO
+   - CT chest as above
+   - Empiric covg with Vanco/Zosyn for HAP given recent hospitalization
+   - Blood Cx, urine Cx, sent on admission
+   .
+   4. Transaminitis: Not present during last hospitalization. CT showing
+   likely liver mets. Elevated transaminitis with elevated alkaline
+   phosphatase suggestive of infiltrative process-RUQUS with dopplers
+   -will hold on further testing at this time
+   .
+   5. Thrombocytopenia: Differential includes sepsis, DIC, HIT given
+   recent admission with heparin administration. Other possibility
+   includes liver failure and diminshed thrmobopoeitin.  Likely from liver
+   mets.
+   .
+   6. Renal Failure: Likely pre-renal given elevated BUN and Creatine,
+   with ratio 30:1.  Patient total body fluid overloaded but with low
+   albumin is likely intravascularly depleted.
+   - holding on further tests
+   .
+   7.Hyponatremia:Hypervolemic hyponatremia, likely from low albumin, low
+   oncotic pressure, decreased effective circulating volume. Secondary to
+   lymph involvement of metastatic disease
+   .
+   8.Hypoalbuminemia: likely from rapidly accumulating chylothoraces with
+   albumin leakage.
+   .
+   FEN: regular diet
+   PPX: none, stopped today for comfort
+   CMO: Patient and his family discussed their wishes with the attending
+   and have decided to be CMO, started morphine gtt, d/c blood draws,
+   changed diet to regular. Will try to transfer pt to floor to private
+   room.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Indwelling Port (PortaCath) - [**3168-12-28**] 10:29 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

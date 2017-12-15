@@ -1,0 +1,126 @@
+[**Hospital Unit Name 42**] Resident Admission Note
+   Reason for MICU Admission: hypercarbic respiratory failure
+   Primary Care Physician: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5924**], MD
+   CC: Combative, found to be hypercarbic
+   HPI: This is a 83yoF with COPD on 3L home O2 and diastolic CHF who
+   represents after having being discharged to her NF earlier today after
+   admission for hypercarbic respiratory failure in the setting of COPD
+   exacerbation and HAP. Per pt's daughter, the NF called her b/c pt was
+   combative and refusing her meals which usually happens in the setting
+   hypercarbia. She was transferred to [**Hospital1 52**] ED for further evaluation.
+   In the ED, initially vitals were T 98.1 BP 160/76 HR 86 RR 32 sat 98%
+   2L NC. ABG 7.25/116/74 on 2L NC, pt refused BIPAP. She was otherwise
+   afebrile but tachypneic w/ RR 30 BP 146/58 HR 87. She received
+   Furosemide 40mg IV x 1, Vancomycin 1g IV x 1.
+   Currently, the pt feels well, denies SOB, cough. She is unaware of the
+   reason for her admission. Her complete ROS is negative at this time.
+   Past Medical History:
+   HTN
+   DM2
+   CVA: bleeding aneurysm x 2, s/p clipping
+   CHF: diastolic (EF 65% [**3198-11-16**])
+   mild AS, mild MR
+   COPD: FEV1 0.46, 27%; FVC 0.48, 20%
+   - h/o hypercarbic respiratory failure, intubated last [**7-19**]
+   seizure d/o (further details unknown)
+   h/o urosepsis
+   Anemia, normocytic- guiac + during prior admission but iron studies c/w
+   anemia of chronic disease
+   Medications
+   Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Inh Q4H
+   Ipratropium Bromide 0.02 % Inh Q6H
+   Aspirin 81 mg PO DAILY
+   Calcium Carbonate 500 mg Tablet PO TID
+   Ferrous Sulfate 325 mg PO DAILY
+   Lisinopril 10 mg PO DAILY
+   Metoprolol Tartrate 50 mg PO BID
+   Omeprazole 40 mg PO DAILY
+   Acetaminophen 325 mg PO Q6H as needed.
+   Guaifenesin 600 mg Tablet Sustained Release PO BID
+   Camphor-Menthol 0.5-0.5 % Lotion Topical QID
+   Phenytoin Sodium Extended 200 mg PO TID
+   Furosemide 20 mg PO DAILY
+   Piperacillin-Tazobactam-Dextrs 4.5 gram IV Q8H for 4 days: Day 1 on
+   [**11-15**]; 14 day course
+   Prednisone taper by 10mg q 3 days to final of 10mg QD: 30 mg started on
+   [**11-24**]
+   Vancomycin 1 gram IV Q 24H: Day 1 on [**11-15**]; 14 day course
+   Polyethylene Glycol 3350 100 % Powder PO DAILY as needed
+   Docusate Sodium 100 mg PO BID
+   Senna 8.6 mg PO BID
+   insulin sliding scale
+   Allergies:  NKDA
+   Social History:
+   Lives with daughter. Smoked 1ppd x 30-40 years, quit [**3185**].
+   Family History:
+   NC
+   Physical Exam
+   Vitals: T 97.8 HR 90 BP 146/44 RR 32 sat90% 2LNC
+   GEN: elderly, combative alternating w/lethargy
+   HEENT: pupils do not react BL, EOMI, MMM
+   Neck: Supple, no LAD
+   Resp: [**Year (4 digits) 2819**] air movement BL, expiratory wheezes soft, diffuse
+   Card: S1S2, borderline tachy with III/VI systolic murmur at base
+   that radiates to her neck
+   Abd: Soft, +BS, NT, distended
+   Extr: No LE edema b/l
+   Neuro: oriented only to self, weak on left
+   EKG: NSR at 85, new TWI in III o/w unchanged from baseline dated
+   [**3198-11-15**]
+   labs:
+   ABG 7.25/116/74 on 2L NC
+   Studies:
+   Admission CXR: A right upper extremity PICC line is again noted with
+   its tip in the approximate location of the superior vena cava.
+   Cardiomegaly is again noted with small bilateral pleural effusions.
+   There is improved aeration in the lower lungs with mild residual
+   bibasilar atelectasis. No evidence of CHF or pneumothorax.
+   The mediastinal contour is unchanged. Osseous structures are stable.
+   IMPRESSION:
+   Cardiomegaly with small bilateral pleural effusions, likely small
+   amount of bibasilar atelectasis. Improved aeration at the lung bases.
+   TTE [**3198-11-16**]:
+   The left atrium and right atrium are normal in cavity size. There is
+   mild symmetric left ventricular hypertrophy with normal cavity size and
+   regional/global systolic function (LVEF>55%). Tissue Doppler imaging
+   suggests an increased left ventricular filling pressure (PCWP>18mmHg).
+   The aortic valve leaflets are moderately thickened. There is mild
+   aortic valve stenosis (area 1.2-1.9cm2). No aortic regurgitation is
+   seen. The mitral valve leaflets are mildly thickened. There is no
+   mitral valve prolapse. Mild (1+) mitral regurgitation is seen. There is
+   moderate pulmonary artery systolic hypertension. There is no
+   pericardial effusion.
+   IMPRESSION: Mild symmetric left ventricular hypertrophy with preserved
+   global and regional biventricular systolic function. Mild aortic valve
+   stenosis. Moderate pulmonary artery systolic hypertension. Increased
+   PCWP.
+   A/P: This is a 83 yoF who returns to the hospital in hypercarbic
+   respiratory failure after very recent admission for the same earlier
+   today.
+   # Hypercarbic respiratory failure: in pt w/multiple admissions and h/o
+   intubation. ABGs reveal rising CO2 and her MS [**First Name (Titles) **] [**Last Name (Titles) 2819**].
+   - pt refuses BIPAP and intubation, per discussion w/HCP, plan for pt to
+   be DNR/DNI
+   - steroids
+   - nebs
+   - continue supplemental oxygen as needed
+   # HAP: clinically stable
+   - continue Vanc/Zosyn to complete course started during prior admission
+   # Chronic Diastolic CHF:
+   - Lisinopril and B-blockers
+   - Lasix
+   # Anemia: stable
+   - guiac all stools
+   # Seizure Hx:
+   - continue phenytoin
+   - monitor levels
+   # DM: cover w/SSI
+   # Ppx: heparin SC, PPI
+   # Code: DNR/DNI after discussion w/pt and her HCP, [**Name (NI) 5925**]
+   # Access: PIVs, PICC
+   # Contact: daughter [**Name (NI) 5925**], HCP
+   # Dispo: ICU for now
+
+
+
+DOC CLASS

@@ -1,0 +1,212 @@
+Admission Date:  [**2550-5-10**]              Discharge Date:   [**2550-5-20**]
+
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 4277**]
+Chief Complaint:
+Fever and diarrhea
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+83 yo F with h.o dementia, CAD s/p CABG, DM, seizure disorder,
+hyperntension, who presented to ED with diarrhea and fever. She
+was admitted to [**Hospital1 4**] in [**Month (only) **] and treated for pneumonia. She was
+discharged to rehab at [**Hospital1 531**] and was discharged from [**Hospital1 531**] to
+home on Wednesday. She is helped by a home health aide. Pt is
+demented and could not provide any history, she denies all
+complaints including abd pain, chest pain, sob, dysuria. Per her
+aid and husband over the telephone, they say that she has had
+diarrhea since Wed, 3 episodes on day of admission, with mucous
+and traces of blood x one day. They also note she had nausea and
+vomited 2x on day of admission, ne hemetemesis. They do not
+believe she had abd pain. They are not sure if she was recently
+on antibiotics and per the d/c summary was not sent out on
+antibiotics but only treated for a few days during that
+hospitalization. Per the home nurse, she has been declining over
+the past weeks. She said that it would not be unusual for
+[**Known patient firstname 25602**] to not realize she was in the ER.
+
+
+Past Medical History:
+DM type 2
+CAD s/p 2 vessel CABG and PCI to LIMA-LAD in '[**30**]
+Carotid stenosis s/p stent to L ICA in '[**43**]
+Atrial septal defect
+TIA/CVA
+Chronic kidney disease, baseline cr 1.6-2.1
+Stroke Induced Seizures
+HTN
+Hyperlipidemia
+Cervical Spondylosis
+Lumbar Radiculopathy
+Depression
+CHF EF 20% 8/04, mildly dil LA, small ASD w/ L->R flow, mild
+LVH, near akinesis distal [**3-20**] ventricle, mildly hypokinetic
+basal anterior septal and inferolatral walls. Mild global RV
+free wall hypokinesis. trace AR, 1+ MR, 3+ TR. Mild pulmonary
+artery systolic hypertension
+.
+PSH:
+S/p cataract repair
+s/p LUE fx repair
+s/p CABG '[**30**]
+
+
+Social History:
+SH:
+Retired math professor [**First Name (Titles) **] [**Last Name (Titles) **], married and lives at [**Location 25603**] with
+husband. [**Name (NI) 2541**] is primary HCP and son is secondary HCP.
+Denies present or past tobacco, no EtoH. Pt has 24h home health
+aid. Per health aid she is wheelchair bound. Son- [**Name (NI) **] phone #
+[**Telephone/Fax (1) 25600**]; Nurse [**First Name8 (NamePattern2) **] [**Last Name (Titles) **] #[**Telephone/Fax (1) 25601**].
+
+
+Family History:
+Non- contributory
+Non- contributory
+
+Physical Exam:
+PE:
+101.3, 99, 154/45, 20, 98%RA
+GENL: pleasantly demented
+HEENT: PERL, EOMI, OP clear, no LAD
+CV: RRR +systolic murmur
+Lungs: CTA with crackles at bases
+Abd: soft, nt, nd, +bs, no HSM
+Ext: trace edema, 1+ pedal pulses.
+Neuro: awake, oriented to self only, follwed some simple
+commands. moves all extremities
+
+Pertinent Results:
+Abd CT: Marked wall thickening of the rectosigmoid colon,
+surrounded by
+fat stranding, suspicious for infectious versus inflammatory
+colitis. The
+abnormality is in similar area compared to the prior study,
+therefore,
+chronicity of the finding is uncertain. Clinical correlation is
+recommended. Multiple small gallstones.
+
+[**2550-5-11**] 06:20AM BLOOD WBC-21.1* RBC-3.30* Hgb-9.8* Hct-29.0*
+MCV-88 MCH-29.7 MCHC-33.8 RDW-14.9 Plt Ct-369
+[**2550-5-11**] 06:20AM BLOOD Neuts-79* Bands-17* Lymphs-2* Monos-2
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2550-5-11**] 06:20AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+[**2550-5-11**] 06:20AM BLOOD Plt Smr-NORMAL Plt Ct-369
+[**2550-5-11**] 06:20AM BLOOD Glucose-202* UreaN-29* Creat-1.1 Na-136
+K-3.5 Cl-106 HCO3-17* AnGap-17
+[**2550-5-11**] 06:20AM BLOOD TSH-1.6
+[**2550-5-10**] 10:20PM BLOOD K-4.9
+
+Brief Hospital Course:
+83 yo F with dementia, CAD, CVA and seizure d/o, admitted with
+diarrhea x 3 days and fever. Pts floor course was notable for
+elevated WBC with left shift,low grade fever initially (99.2).
+She was made NPO and found to be C diff +. CT abd showed
+rectosigmoid thickening with fat stranding. Given NS a 75 cc/hr
+over the course of the day with little UOP. Overnight on [**5-11**],
+the patient triggered for low BP (80/50) at 10:12 pm. VS were
+104, 80/50, 20, 99.2, 94%. Given 250 cc bolus with improvement
+in BP. Another trigger called at 6 am on [**5-12**]. HR 104,
+120/doppler, 20, 97.1, 98% 1L, UOP 10 cc/6-7 hrs. PO vanco was
+added. Surgery was consulted and recommended transfer to the ICU
+for closer monitoring.
+.
+In the ICU, renal was consulted. A renal ultrasound showed no
+significant abnormalities but ascites. A KUB showed C. difficile
+but no toxic megacolon and a uretherogram showed ATN. The
+patient was given 100 mg IV lasix in the unit and diuresed well.
+She was continued on IV Lasix until her creat came back down to
+baseline of 1.0. In addition, after fluid recusitation pt became
+anasarcic which improved with diuresis. Pt should continue lasix
+80mg PO for approximately 2 weeks or until her edema resolved.
+Her creat and potassium should be followed while she is on this
+dose of lasix.
+.
+After addition of PO Vancomycin and aggressive IVF pt's BP
+stablitized. Nutrition was maintained with TPN while pt still
+nauseous. Diet advanced slowly and pt tolerated this well. Pt
+should receive full 2 week course of abx. PICC line placed for
+IV Flagyl for 4 additional days of treatment.
+.
+Pt was found to be anemic with GUIAC neg stools prior to
+placement of recal tube. Pt had trace amounts of bright red
+blood after recal tube removed which resolved. Iron studies were
+normal. Baseline HCT is 27-30. Pt is on epogen. Pt dropped HCT
+to 24 during admission and was transfused one unit PRBC with
+appropriate response. Pt should have HCT rechecked in 2 days.
+.
+CVA/seizure d/o: Pt was continued on her depakote per outpt
+dose. Depakote level can also be checked in 2 days.
+.
+DM: While pt NPO, she was maintained on insulin sliding scale.
+Glyburide restarted after pt tolerating PO.
+.
+Psych: per son, pt has been diagnosed with depression and
+schitzoaffective d/o. Cont zoloft.
+.
+HTN: Pt switched to IV Lopressor while NPO and started back on
+PO Lopressor once tolerating PO. Will change to PO Lopressor
+instead of Toprol XL as outpatient as Metoprolol can be crushed.
+
+.
+FEN: Pt was on TPN until able to tolerate PO diet. Pt can have
+only Nector thickened liquids and ground solids. Meds should be
+crushed when able and pt should be assisted to eat with
+aspiration precautions.
+.
+Code: Patient is a full code per son. This was discussed with
+the family.
+
+
+Medications on Admission:
+Glyburide
+Depakote 125 [**Hospital1 **]
+Toprol xl 50 mg daily
+ASA 81 mg daily
+Zoloft 25 mg QD
+Albuterol IH
+Atrovent IH
+RISS
+Pantoprazole
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 531**] of [**Location (un) 4178**]
+
+Discharge Diagnosis:
+C.Diff colitis
+Dementia
+ATN
+Anemia
+Hypertentiosn
+
+
+Discharge Condition:
+Stable.
+
+
+Discharge Instructions:
+Please return to the hospital if you develop:
+Chest pain, shortness of breath, diarrhea, severe
+nausea/vomiting, fevers or any other concerning symptoms.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] in [**2-16**] weeks.
+
+
+
+
+
+
+DOC CLASS

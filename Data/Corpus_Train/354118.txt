@@ -1,0 +1,207 @@
+Chief Complaint:  Hypercarbic acute on chronic respiratory failure
+   Transferred for management of GIB
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   82 year old woman with a complicated medical history including CAD s/p
+   CABG, AVR, Afib, COPE (3 L/min home O2, FEV less than 1.0) transferred
+   from [**Location (un) **] Hosptial after complicated hospital course. Admitted on
+   [**2840-1-9**] after she was found unresponsive in a shelter (temporarily
+   there due to power outage in her home).  Bradycardic with HR-20's,
+   hypotensive.  At [**Location (un) **] she had an emergent TV pacing wire placed,
+   nodal agents were held,  intubated for hypercarbic respiratory failure,
+   labs notable for digoxin level ~3 for which she received digibind.
+   She was empirically treated for COPD exacerbation/PNA with
+   zosyn/azithromycin, solumedrol.  Course also notable for ARF felt
+   secondary to ATN in setting of hypotension.  Cr had improved from 2.6
+   to 1.7 prior to transfer.  Had received lasix for oliguria.  Hct on
+   presentation was 19.4 (?baseline) for which she received 2 u pRBCs
+   (unclear date of last transfusion).  She was extubated on HD #3.  Echo
+   in hospital there showed preserved systolic function; pulmonary
+   hypertension (PAP ~50).  Thrombocytopenia developed, zosyn stopped as
+   felt to be the etiology, no heparin associated antibodies checked
+   (unclear if she was receiving heparin).  She had a left sided
+   thorocentesis which was transudative.  She continued to have loose
+   stools, black guaiac positive requiring placement of rectal tube.
+   Started empirically on IV flagyl and PO vanco for possible C. Diff,
+   culture there negative x 1 for C. Diff.   Finally, course c/b heating
+   pad related burn on back; stage II decubitous ulcer.  TV pacer was
+   removed prior to transfer.
+   Upon arrival to th eMICH she was in afib with RVR, experiencing chest
+   tightness which she noted had been present since her extubation and was
+   not new.  HR ~140, SBP ~160.  She received metoprolog 5 mg IV x 2 with
+   better rate control; removed nitropaste prior to treating afib.
+   Patient admitted from: Transfer from other hospital
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2840-1-14**] 05:30 PM
+   Other medications:
+   (home neds): simbastatin, diltiazem, tikosyn, lasix, digoxin,
+   hydralazine, toprol XL, enalapril
+   (Transfer meds): protonix, advair, ativan, albuterol, atrovent, flagyl,
+   vancomycin, solumedrol, silvadene, clotrimazole, cardizem, nitropaste,
+   imdur
+   Past medical history:
+   Family history:
+   Social History:
+   CAD, CABG
+   Afib (not on coumadin, unclear why not albeit now with GIB)
+   AVR (bioprosthetic)
+   Hypertension
+   Hyperlipidemia
+   COPD as noted above
+   Diastolic CHF
+   Depression
+   Left phrenic nerve paralysis
+   Father with CAD
+   Mother with [**Name (NI) 775**] dementia
+   Occupation: No occupational exposure history notable
+   Drugs: None
+   Tobacco: 100-pack year history
+   Alcohol: None
+   Other: son is local, HCP
+   Review of systems:
+   Constitutional: Fatigue
+   Ear, Nose, Throat: Dry mouth
+   Respiratory: Dyspnea
+   Gastrointestinal: Diarrhea
+   Genitourinary: Foley
+   Heme / Lymph: Anemia, thrombocytopenia
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2840-1-14**] 10:09 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.3
+C (97.3
+   HR: 90 (83 - 136) bpm
+   BP: 147/55(80) {142/55(80) - 184/94(114)} mmHg
+   RR: 18 (11 - 23) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    100 mL
+   Urine:
+   100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -100 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   FiO2: 4 L/min
+   SpO2: 98%
+   ABG: ///36/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: anicteric
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   end-expiratory, rare, Diminished: )
+   Abdominal: Soft
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm, stage II decubitus ulcer;
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   86 K/uL
+   26.0 %
+   8.7 g/dL
+   127 mg/dL
+   1.5 mg/dL
+   51 mg/dL
+   36 mEq/L
+   104 mEq/L
+   4.0 mEq/L
+   145 mEq/L
+   11.1 K/uL
+        [image002.jpg]
+                            [**2840-1-14**]  05:25 PM
+   WBC
+                                    11.1
+   Hct
+                                    26.0
+   Plt
+                                     86
+   Cr
+                                     1.5
+   TropT
+                                    0.21
+   Glucose
+                                     127
+   Other labs: PT / PTT / INR:13.6/26.2/1.2, CK / CKMB /
+   Troponin-T:141/7/0.21, ALT / AST:7/33, Alk Phos / T Bili:48/0.4,
+   Differential-Neuts:90.6 %, Band:0.0 %, Lymph:4.0 %, Mono:5.0 %, Eos:0.1
+   %, Lactic Acid:0.9 mmol/L, Albumin:3.5 g/dL, LDH:308 IU/L, Ca++:9.4
+   mg/dL, Mg++:2.2 mg/dL, PO4:3.7 mg/dL
+   Imaging: CXR:  CHF/effusions
+   ECG: Afib, t wave flattening laterally
+   Assessment and Plan
+   1.  Acute on chronic hypercarbic respiratory failure with known severe
+   oxygen dependent COPD.  Treated empirically with solumedrol/abx course
+   for acute COPD exacerbation (?tracheobronchitis/PNA). Left pleural
+   effusion transudative, more consistent with CHF which may have been
+   iatrogenic in setting of aggressive volume repletion when she presented
+   with bradycardia/hypotension which has since resolved.  Now without
+   productive cough, on 4 L/min NC (baseline home oxygen is 3 L/min).
+   Continues in CHF.  Will continue solumedrol taper, bronchodilators,
+   lasix diuresis, oxygen.
+   2.  GIB:  Persistent dark guaiac positive stools.  Hct 26.0.  No
+   documentation of NGT lavage.  Hemodynamically stable here.  Guaiac
+   stools, serial CBC's, IV PPI, active type and screen, will transfuse
+   for Hct < 25.  GI to consult.
+   3. Acute renal failure in setting of hypotension, most likely ATN as
+   felt by outside MD's.  Resolving with improved urine output and Cr.
+   Monitor I/Os with foley, daily Cr.
+   4.  Afib: Rate better controlled after metoprolol.  Restart metoprolol,
+   diltiazem.  Hold on anticoagulation in setting of GIB.
+   5.  Thrombocytopenia:  Felt to be secondary to zosyn, counts have
+   improved after stopping this med.  Not clear if she had heparin, or
+   antibodies checked.  Will hold on heparin products here for now and
+   check for antibodies.  Follow counts.
+   6.  CAD:  Has had chest tightness albeit notes this has been present
+   since extubation.  No acute changes on ECG except flattened twaves in
+   setting of RVR.  Will trend enzymes.  Cntinue simvastatin, beta blocker
+   as above.
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines / Intubation:
+   Multi Lumen - [**2840-1-14**] 05:49 PM
+   Comments:
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Need for restraints reviewed
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 65 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

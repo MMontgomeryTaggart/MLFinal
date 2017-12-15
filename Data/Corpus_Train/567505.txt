@@ -1,0 +1,230 @@
+TITLE:
+   CVICU
+   HPI:
+   HD4
+   [**1-15**] POD 1
+   66M s/p AVR/CABGx1 (SVG to OM)[**2939-1-14**]
+   EF 55 Cre 1.3 wt 72 kg
+   PMHx AS, HTN, upper GI bleed [**1-5**] [**Doctor First Name **] [**Doctor Last Name **] tear, EtOH, prostate CA
+   [**Last Name (un) **]:lopressor 50", folic acid, zocor 20, lorazepam 1, MVI, symbicort,
+   albuterol
+   P:needs hepatology consult in am for childs classification given EtOH
+   hx, carotids, CTA/V to look for IVC occlusion seen on cath, PFTs,
+   labs/EKG, OR wednesday
+   Current medications:
+   Acetaminophen,  Albuterol Inhaler, Aspirin EC, Aspirin, Docusate
+   Sodium, Epinephrine HCl, Fluticasone-Salmeterol Diskus (250/50),
+   Insulin, Morphine Sulfate, Oxycodone-Acetaminophen, Pantoprazole,
+   Simvastatin, Vancomycin
+   24 Hour Events:
+   Received from OR requiring epi and neo for hemodynamics, epi weaned off
+   remained on neo for b/p
+   Tachycardia received fluid remained  tachy
+   Remained Intubated overnight due to pulmonary history
+ OR RECEIVED - At [**2939-1-14**] 02:15 PM
+ ARTERIAL LINE - START [**2939-1-14**] 02:37 PM
+ ARTERIAL LINE - START [**2939-1-14**] 02:38 PM
+   capped- from OR
+ CORDIS/INTRODUCER - START [**2939-1-14**] 02:39 PM
+ PA CATHETER - START [**2939-1-14**] 02:40 PM
+ EKG - At [**2939-1-14**] 02:42 PM
+ ARTERIAL LINE - STOP [**2939-1-14**] 05:01 PM
+   capped- from OR
+ FEVER - 101.5
+C - [**2939-1-15**] 05:00 AM
+   Post operative day:
+   POD#1 - CABG X 1(svg-OM), AVR-21 mm porcine
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2939-1-14**] 08:06 PM
+   Infusions:
+   Phenylephrine - 1 mcg/Kg/min
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2939-1-14**] 04:00 PM
+   Morphine Sulfate - [**2939-1-15**] 04:15 AM
+   Other medications:
+   Flowsheet Data as of  [**2939-1-15**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**41**] a.m.
+   Tmax: 38.6
+C (101.5
+   T current: 38
+C (100.4
+   HR: 100 (83 - 126) bpm
+   BP: 87/59(71) {81/54(65) - 143/86(106)} mmHg
+   RR: 20 (14 - 25) insp/min
+   SPO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 67 Inch
+   CVP: 21 (15 - 24) mmHg
+   PAP: (37 mmHg) / (24 mmHg)
+   CO/CI (Thermodilution): (3.92 L/min) / (2.6 L/min/m2)
+   CO/CI (Fick): (4.4 L/min) / (2.4 L/min/m2)
+   SVR: 1,196 dynes*sec/cm5
+   SvO2: 64%
+   Mixed Venous O2% sat: 64 - 64
+   SV: 40 mL
+   SVI: 22 mL/m2
+   Total In:
+                                                                  3,274 mL
+                                                                  1,223 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,774 mL
+                                                                    723 mL
+   Blood products:
+                                                                    500 mL
+                                                                    500 mL
+   Total out:
+                                                                  1,207 mL
+                                                                    390 mL
+   Urine:
+                                                                    625 mL
+                                                                    255 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,067 mL
+                                                                    833 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 11 cmH2O
+   Plateau: 26 cmH2O
+   Compliance: 26 cmH2O/mL
+   SPO2: 97%
+   ABG: 7.37/44/91/25/0
+   Ve: 13.7 L/min
+   PaO2 / FiO2: 182
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   bilat, Diminished: bilat), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, hypoactive bowel sounds
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact) sternum stable, left leg EVH ace
+   wrap
+   Neurologic: Follows simple commands, Moves all extremities
+   Labs / Radiology
+   230 K/uL
+   10.7 g/dL
+   97 mg/dL
+   1.2 mg/dL
+   25 mEq/L
+   4.7 mEq/L
+   12 mg/dL
+   107 mEq/L
+   137 mEq/L
+   30.4 %
+   9.7 K/uL
+                             [**2939-1-14**]  11:51 AM
+                             [**2939-1-14**]  12:24 PM
+                             [**2939-1-14**]  01:15 PM
+                             [**2939-1-14**]  02:37 PM
+                             [**2939-1-14**]  02:42 PM
+                             [**2939-1-14**]  03:52 PM
+                             [**2939-1-14**]  06:16 PM
+                             [**2939-1-15**]  12:02 AM
+                             [**2939-1-15**]  01:09 AM
+                             [**2939-1-15**]  05:48 AM
+   WBC
+   10.5
+   12.8
+   9.7
+   Hct
+   27
+   26
+   25.0
+   31.8
+   30.4
+   Plt
+   232
+   211
+   230
+   Creatinine
+   1.0
+   1.2
+   TCO2
+   30
+   27
+   28
+   28
+   22
+   23
+   26
+   26
+   Glucose
+   120
+   122
+   132
+   118
+   98
+   113
+   118
+   97
+   Other labs: PT / PTT / INR:15.7/42.2/1.4, Differential-Neuts:58.6 %,
+   Lymph:35.7 %, Mono:1.4 %, Eos:3.7 %, Fibrinogen:209 mg/dL, Lactic
+   Acid:1.2 mmol/L, Mg:2.4 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), VALVE REPLACEMENT, AORTIC
+   BIOPROSTHETIC (AVR), .H/O CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD,
+   BRONCHITIS, EMPHYSEMA) WITHOUT ACUTE EXACERBATION
+   Assessment and Plan:
+   Neurologic: Neuro checks q4h, propofol discontinued, morphine and
+   Percocet effective on pain
+   Cardiovascular: Aspirin, Statin, Hypotension treated with neo wean for
+   sbp >90, if remains off neo start betablockers
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), Change to CP/PS and wean
+   as tolerated, extubate, continue neb treatments, dc chest tubes
+   Gastrointestinal / Abdomen: bowel regimen, og removed with extubation
+   Nutrition: start clears after extubated
+   Renal: Foley, Adequate UO, Start Lasix this AM, goal 1000 ml negative
+   for 24 hours
+   Hematology: stable anemia
+   Endocrine: RISS goal BG < 150
+   Infectious Disease: Vancomycin for Periop antibiotics, no evidence of
+   infection wbc nl
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today s/p CT removal
+   Fluids: KVO
+   Consults: PT
+   ICU [**Name (NI) 146**]
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2939-1-14**] 02:37 PM
+   Cordis/Introducer - [**2939-1-14**] 02:39 PM
+   PA Catheter - [**2939-1-14**] 02:40 PM
+   16 Gauge - [**2939-1-14**] 02:41 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

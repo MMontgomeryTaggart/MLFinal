@@ -1,0 +1,187 @@
+TITLE:
+   Chief Complaint:
+   s/p ICD
+   Firing
+   24 Hour Events:
+   Ablation - unable to get 2nd focus, changed pacer settings to kick in
+   to ATP pace at 122, start on home amio dose and uptitrated BB.
+   Bleeding from groin site after venous and arterial sheaths removed.
+   New bruit -> US with AV fistula. Evaluated by vascular surgery - no
+   plan for surgery unless uncontrollable bleeding, hypoperfusion to
+   distal extremity or develops high output CHF. Otherwise usually heals
+   on its own. NPO after MN just in case.
+   Allergies:
+   Morphine
+   Rash;
+   Asacol (Oral) (Mesalamine)
+   Fever/Chills;
+   Other medications:
+   Lipitor 40mg
+   Isosorbide 90mg daily
+   Colace 100mg [**Hospital1 **]
+   Hydralazine 50mg q8hrs
+   HCTZ 25mg daily
+   Spironolactone 25mg daily
+   Sertraline 25mg daily
+   Dig 0.0625 QOD
+   Lopressor 37.5mg TID
+   Amiodarone 200mg daily
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3288-12-8**] 06:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.8
+C (98.2
+   HR: 70 (60 - 72) bpm
+   BP: 128/55(73) {111/50(64) - 170/75(98)} mmHg
+   RR: 22 (12 - 27) insp/min
+   SpO2: 92%
+   Heart rhythm: V Paced
+             Total In:
+                                                                  2,160 mL
+                                                                    188 mL
+   PO:
+                                                                    120 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  2,040 mL
+                                                                     68 mL
+   Blood products:
+   Total out:
+                                                                  3,000 mL
+                                                                    350 mL
+   Urine:
+                                                                  3,000 mL
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -840 mL
+                                                                   -162 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 92%
+   ABG: ///29/
+   Physical Examination
+   Neck: Supple without JVD.
+   CV:  RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   Chest: CTAB, no wheezes or rhonchi.
+   Abd: Soft, NT/ND. Normoactive BS.
+   Ext: No c/c/e.  [**2-14**] Pedal/PT pulses bilaterally.  R Femoral Bruit
+   Labs / Radiology
+   210 K/uL
+   10.3 g/dL
+   95 mg/dL
+   1.1 mg/dL
+   29 mEq/L
+   3.4 mEq/L
+   21 mg/dL
+   101 mEq/L
+   138 mEq/L
+   28.9 %
+   7.0 K/uL
+        [image002.jpg]
+                            [**3288-12-7**]  12:23 AM
+                            [**3288-12-7**]  04:20 AM
+                            [**3288-12-7**]  08:03 PM
+                            [**3288-12-8**]  02:17 AM
+                            [**3288-12-8**]  05:10 AM
+   WBC
+   6.2
+   6.7
+   7.2
+   7.0
+   Hct
+   31.2
+   32.4
+   27.9
+   28.9
+   Plt
+   192
+   207
+   181
+   210
+   Cr
+   1.1
+   1.1
+   TropT
+   0.01
+   0.01
+   Glucose
+   90
+   95
+   Other labs: PT / PTT / INR:17.8/27.7/1.6, Ca++:8.5 mg/dL, Mg++:1.5
+   mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   The patient is an 82 year old male with CAD s/p CABG and multiple MIs,
+   HTN, CHF EF 35%, afib, and sustained VT with ICD and subsequent
+   catheter ablation treatment who presents with an episode of ICD firing,
+   found to be in slow VT.
+   .
+   # CAD - The patient has a history of CAD with multiple MIs and is
+   medically managed on atorvastatin, metoprolol, and isosorbide
+   mononitrate. Will continue home meds for now. Ischemia unlikely as a
+   cause for his ICD firing and slow VT however will complete a rule out
+   for ACS.  No evidence for infection or volume overload on exam.
+   - cycle CEs
+   - monitor on telemetry
+   - serial EKGs
+   .
+   # Pump - Currently euvolemic.  He has chronic systolic heart failure
+   with an LVEF of 35%. No active issues.
+   - continue home meds
+   .
+   # Rhythm - The pt is now s/p ICD firing. He was found to be in slow VT
+   in the ED. He was able to be paced out of VT. He received a bolus of
+   amiodarone and started on a gtt.
+   - continue amiodarone gtt
+   - monitor on telemetry
+   - NPO after MN for possible ablation/EP study in AM, he has had several
+   ablation procedures in the past but unclear how successful it may be
+   given past unsuccessful attempts, will d/w EP
+   - will d/w EP in AM about alternative antiarrhythmic for recurrent VT
+   such as flecanide/mexilitine for long term, will d/w outpatient
+   cardiologist
+   .
+   # Hypertension - Continue home meds. No active issues.
+   .
+   # h/o atrial fibrillation - Currently in sinus rhythm. Will continue
+   home meds for now. Heparin gtt, hold Coumadin for now given possibility
+   of study, follow INR.
+   .
+   # h/o DVT - heparin gtt, hold coumadin for now
+   .
+   # FEN - cardiac healthy diet, NPO after MN for possible EP
+   study/ablation
+   .
+   # Access - PIV
+   .
+   # Code - full code
+   .
+   # Dispo - CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3288-12-6**] 08:35 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

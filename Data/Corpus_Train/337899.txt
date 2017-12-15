@@ -1,0 +1,199 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI: Acute respiratory failure, CHF
+   24 Hour Events:
+ ARTERIAL LINE - START [**3101-9-19**] 01:00 PM
+   SBT this AM with RSBI of 95
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3101-9-19**] 08:00 AM
+   Vancomycin - [**3101-9-19**] 08:23 PM
+   Piperacillin - [**3101-9-20**] 12:22 AM
+   Ciprofloxacin - [**3101-9-20**] 02:04 AM
+   Infusions:
+   Furosemide (Lasix) - 4 mg/hour
+   Propofol - 15 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3101-9-20**] 12:04 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3101-9-20**] 07:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.6
+C (97.8
+   HR: 68 (55 - 71) bpm
+   BP: 111/45(66) {99/33(53) - 134/53(80)} mmHg
+   RR: 22 (13 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+   CVP: 12 (4 - 24)mmHg
+   Total In:
+                                                                  2,314 mL
+                                                                    499 mL
+   PO:
+   TF:
+                                                                    168 mL
+                                                                      2 mL
+   IVF:
+                                                                  1,946 mL
+                                                                    497 mL
+   Blood products:
+   Total out:
+                                                                  4,705 mL
+                                                                  1,440 mL
+   Urine:
+                                                                  4,705 mL
+                                                                  1,440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,391 mL
+                                                                   -941 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 373 (373 - 485) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 29
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 89
+   PIP: 15 cmH2O
+   SpO2: 100%
+   ABG: 7.48/40/118/30/6
+   Ve: 9.6 L/min
+   PaO2 / FiO2: 295
+   Physical Examination
+   General Appearance: Well nourished, intubated
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Dullness :
+   bases bilateral), (Breath Sounds: Diminished: anterior and inferior)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): intubated, Movement: Purposeful, Sedated, Tone:
+   Normal
+   Labs / Radiology
+   10.2 g/dL
+   376 K/uL
+   131 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   3.4 mEq/L
+   8 mg/dL
+   103 mEq/L
+   141 mEq/L
+   31.7 %
+   10.7 K/uL
+        [image002.jpg]
+                            [**3101-9-17**]  04:28 AM
+                            [**3101-9-18**]  03:41 AM
+                            [**3101-9-18**]  12:40 PM
+                            [**3101-9-18**]  09:48 PM
+                            [**3101-9-19**]  04:16 AM
+                            [**3101-9-19**]  02:32 PM
+                            [**3101-9-19**]  06:00 PM
+                            [**3101-9-19**]  06:52 PM
+                            [**3101-9-19**]  10:55 PM
+                            [**3101-9-20**]  04:09 AM
+   WBC
+   10.6
+   9.6
+   10.4
+   10.7
+   Hct
+   28.9
+   28.3
+   30.5
+   31.7
+   Plt
+   [**Telephone/Fax (3) 6168**]76
+   Cr
+   1.1
+   1.1
+   0.9
+   0.9
+   0.9
+   0.9
+   TropT
+   0.08
+   0.08
+   TCO2
+   30
+   28
+   31
+   Glucose
+   100
+   157
+   148
+   132
+   132
+   139
+   131
+   Other labs: PT / PTT / INR:15.4/40.7/1.4, CK / CKMB /
+   Troponin-T:51//0.08, ALT / AST:130/15, Alk Phos / T Bili:188/1.1,
+   Differential-Neuts:71.4 %, Lymph:16.3 %, Mono:6.9 %, Eos:5.3 %, Lactic
+   Acid:1.1 mmol/L, Albumin:3.0 g/dL, LDH:262 IU/L, Ca++:8.5 mg/dL,
+   Mg++:1.7 mg/dL, PO4:2.4 mg/dL
+Sputm [**9-18**]  GRAM STAIN (Final [**3101-9-18**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      NO MICROORGANISMS SEEN.
+   Assessment and Plan
+   79M with CAD s/p recent admission persistent chest pain, ruling in for
+   NSTEMI, 3VD on cath and now s/p in CABG w/AVR on [**3101-7-18**], DMII found
+   unresponsive at NH with low blood sugar. Slow to clear mental status
+   with concern also for asp PNA on broad spectrum Abx.
+   >Respiratory failure: possible HAP + volume overload. Goal to net neg
+   out 1L with Neo to augment CO
+   - Abx: Vanc, Zosyn and Cipro ([**9-17**] is day 1). Follow up clx data from
+   sputum is negative but will cont to treat for a 7 days course. Seems
+   that sputum has decreased. SBT is borderline. Will stop propofol and
+   reassess.
+   - Hopeful for extubation today with likely extubation to BiPAP
+   He will help with secretion clearance post extubation
+   - Goal net neg 1L
+   >Mental status: improved today, following commands
+   - min propofol for sedation
+   >Hypoglycemia: resolved
+   >UTI: enterococcal UTI [**9-14**] ([**9-24**] last day of ciprofloxacin)
+   >CHF: EF 30%, lasix gtt with goal out 1 L today
+   - some episodes of bigeminy. Optimize Mg and K with goal K>4 and Mg >2
+   - hold beta blocker and lisinopril for now. cont ASA
+   other issues per resident note.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3101-9-18**] 05:00 PM
+   Arterial Line - [**3101-9-19**] 01:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:zantac
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 40 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

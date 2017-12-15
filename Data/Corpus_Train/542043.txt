@@ -1,0 +1,219 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ FEVER - 101.6
+F - [**3078-10-28**] 05:00 AM
+   Spoke with family to give update, answered questions to their apparent
+   satisfaction.
+   Diuresed aggressively, BPs tolerated.
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Midazolam (Versed) - 3 mg/hour
+   Fentanyl - 25 mcg/hour
+   Dobutamine - 2.5 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3078-10-27**] 08:11 AM
+   Pantoprazole (Protonix) - [**3078-10-28**] 12:00 AM
+   Heparin Sodium (Prophylaxis) - [**3078-10-28**] 06:30 AM
+   Other medications:
+   Flowsheet Data as of  [**3078-10-28**] 06:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.7
+C (101.6
+   Tcurrent: 37.3
+C (99.1
+   HR: 85 (70 - 107) bpm
+   BP: 101/70(77) {87/58(65) - 110/75(82)} mmHg
+   RR: 15 (8 - 19) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80.1 kg (admission): 83.2 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,823 mL
+                                                                    218 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,092 mL
+                                                                    218 mL
+   Blood products:
+                                                                    531 mL
+   Total out:
+                                                                  5,855 mL
+                                                                    295 mL
+   Urine:
+                                                                  5,055 mL
+                                                                    295 mL
+   NG:
+                                                                    800 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -4,032 mL
+                                                                    -77 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 317 (317 - 317) mL
+   RR (Set): 10
+   RR (Spontaneous): 4
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 45
+   PIP: 17 cmH2O
+   Plateau: 14 cmH2O
+   Compliance: 61.1 cmH2O/mL
+   SpO2: 95%
+   ABG: ///35/
+   Ve: 8.5 L/min
+   Physical Examination
+   Labs / Radiology
+   105 K/uL
+   15.9 g/dL
+   81 mg/dL
+   1.2 mg/dL
+   35 mEq/L
+   4.0 mEq/L
+   19 mg/dL
+   100 mEq/L
+   142 mEq/L
+   44.7 %
+   10.7 K/uL
+        [image002.jpg]
+                            [**3078-10-26**]  09:23 PM
+                            [**3078-10-26**]  09:49 PM
+                            [**3078-10-27**]  04:51 AM
+                            [**3078-10-27**]  02:40 PM
+                            [**3078-10-27**]  09:00 PM
+                            [**3078-10-28**]  04:07 AM
+   WBC
+   13.4
+   9.8
+   9.6
+   9.8
+   10.7
+   Hct
+   49.7
+   41.7
+   46.1
+   45.4
+   44.7
+   Plt
+   111
+   105
+   117
+   112
+   105
+   Cr
+   1.6
+   1.3
+   1.1
+   1.2
+   TropT
+   0.04
+   0.03
+   TCO2
+   25
+   Glucose
+   73
+   99
+   81
+   Other labs: PT / PTT / INR:17.7/33.9/1.6, CK / CKMB /
+   Troponin-T:87/5/0.03, ALT / AST:261/446, Alk Phos / T Bili:139/5.5,
+   Differential-Neuts:77.7 %, Lymph:10.8 %, Mono:10.6 %, Eos:0.2 %,
+   Fibrinogen:216 mg/dL, Lactic Acid:3.9 mmol/L, Albumin:3.5 g/dL, LDH:915
+   IU/L, Ca++:8.3 mg/dL, Mg++:1.7 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+   48 M with HTN, hyperlipidemia, severe AS, and tobacco abuse who was
+   transferred from an OSH for further evaluation and management of his
+   heart failure, aortic stenosis, and acute respiratory distress.
+   .
+   # Biventricular heart failure - Most likely [**1-12**] to severe aortic
+   stenosis with known bicuspid aortic valve. Had been on Lasix PO as an
+   outpatient. Known last EF was 25%, confirmed by bedside echo.  [**Month (only) 8**] also
+   represent vitamin deficiency eg. beriberi, scurvy, or
+   hematochromatosis.
+   - will diurese with IV lasix 80 mg and gtt if needed with goal 2-3 L
+   negative
+   - will start low-dose dobutamine as an ionotropic [**Doctor Last Name **] to improve his
+   hemodynamics.  MAP goal > 65, will follow lactate and CV-O2 sat.
+   - will need repeat cardiac catheterization and CT surgery c/s for valve
+   repair
+   - formal TTE in on Monday
+   - would consider valvuar dilation if not a surgical candidate
+   .
+   # Respiratory failure
+   Pt intubated earlier today at an OSH for respiratory distress. Will
+   keep on vent until tomorrow for assistance with diuresis. Unclear what
+   precipitated need for intubation, likely hypoxia from pulmonary edema
+   [**1-12**] to severe AS and heart failure.  Also could represent aspiration
+   event, especially given emesis on arrival and infiltrate on CXR.
+   Consider infiltrate a pneumonitis for now, but low threshold to
+   initiate antibiotics for aspiration coverage.
+   - goal to wean vent tomorrow if diuresed
+   - VAP bundle
+   - daily CXRs
+   - serial ABGs
+   .
+   # HTN
+   - dobutamine for now, normotensive currently, will monitor
+   .
+   # Hyperlipidemia
+   - not on any medications as an outpatient, will hold on statins for now
+   given liver failure [**1-12**] to congestion
+   .
+   # Liver failure/coagulopathy - Most likely [**1-12**] to hepatic congestion
+   from right sided heart failure.
+   - will send DIC labs
+   - hepatitis serologies, consider HIV test when pt awake and able to
+   consent for procedure
+   .
+   # Upper GI bleed - Guiac positive dark NG tube aspirate.  Likely
+   related to coaugulopathy.  Hct currently elevated.  Could also
+   represent esophageal trauma.
+   - trend Hct
+   - GI consult as may need EGD.
+   - transfuse for > 10 point HCT drop
+   - Protonix IV BID
+   .
+   # Renal failure - Likely from poor forward flow, will send urine lytes,
+   U/A, and urine culture
+   - renally dose all meds
+   .
+   # Leukocytosis/fever
+   - Will send BCx and UCx, obtain CXR
+   - Sputum culture while intubated
+   .
+   # Alcohol withdrawal - Positive CIWA scales at outside hospital.
+   treated with diazapimes.  Will use versed for sedation and watch for
+   withdrawaul symptoms by CIWA
+   .
+   # FEN - NPO for now
+   # PPx - Protonix IV BID, SQ heparin,  pneumoboots
+   # Code status - fullcode
+   # Dispo - CCU
+   # Access: Central line
+                       Active Medications [**Known patient lastname 2631**],[**Known patient firstname **]
+         1. Ascorbic Acid (Liquid) 504 mg PO DAILY Duration: 5 Days
+   7. Midazolam 2-4 mg/hr IV DRIP
+   2. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]
+   8. Multivitamins 5 mL PO DAILY
+   3. DOBUTamine 2.5 mcg/kg/min IV
+   9. Ondansetron 4 mg IV Q8H:PRN Nausea
+   4. Fentanyl Citrate 12.5-50 mcg/hr IV DRIP INFUSION
+   10. Pantoprazole 40 mg IV Q12H
+   5. FoLIC Acid 1 mg IV Q24H
+   11. Heparin 5000 UNIT SC TID
+   6. Furosemide 1-5 mg/hr IV DRIP INFUSION
+   12. Thiamine 100 mg IV DAILY
+
+
+
+DOC CLASS

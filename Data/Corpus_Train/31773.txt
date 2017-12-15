@@ -1,0 +1,236 @@
+Admission Date:  [**3101-12-16**]              Discharge Date:   [**3101-12-20**]
+
+Date of Birth:  [**3022-7-14**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Mild Dyspnea on exertion, pre-op finding for AAA repair
+
+Major Surgical or Invasive Procedure:
+[**3101-12-16**] - Coronary Artery Bypass Graft x 3
+
+History of Present Illness:
+This is 79 year old female with a history of a prior myocardial
+infarction, Hypertension, Hyperlipidemia and + Tobacco abuse who
+was undergoing pre-operative work-up for a AAA repair. She
+underwent a stress test that revealed a large anteroseptal and
+anteroapical abnormality which is non-reversible. Subsequently
+underwent cardiac cath which revealed three vessel coronary
+artery disease and she was referred for surgical
+revascularization prior to her AAA repair.
+
+Past Medical History:
+Myocardial Infarction at the age 46
+Chronic obstructive pulmonary disease
+Abdominal Aortic Aneurysm 5.1cm
+Hypertension
+Hyperlipidemia
+Hypothyroidism
+TIA's (right brain hemispheric)patient denies any TIA's since
+endarterectomy
+Right arm cellulitis in [**6-8**] from cat bite
+Past Surgical History
+s/p Right Carotid endarterectomy and angioplasty [**3099-10-27**]
+s/p Tonsillectomy
+s/p Appendectomy age 9
+
+Social History:
+Occupation: Retired
+Last Dental Exam: Full dentures
+Lives with husband
+[**Name (NI) **]: Caucasian
+Tobacco: [**6-5**] cigarettes a day x 50 years
+ETOH: [**2-1**] glasses of wine daily
+
+Family History:
+Father had CAD, PVD
+
+Physical Exam:
+Pulse: Resp:  O2 sat:
+B/P  Right:    Left:
+Height: 5'7"   Weight: 120lbs
+
+General: Elderly female in no acute distress
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [X] EOMI [X]
+Neck:  Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X]  Irregular []  Murmur
+Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds
++ [X]
+Extremities: Warm [X], well-perfused [X]  Edema Varicosities:
+None [X]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 1+  Left: 1+
+DP           Right: NP  Left: NP
+PT           [**Name (NI) 647**]: NP  Left: NP
+Radial       Right: 1+  Left: 1+
+
+Carotid Bruit   Right: ?   Left: -
+
+
+Pertinent Results:
+[**12-16**] Echo: Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. The ascending aorta is moderately dilated. There are
+complex (>4mm) atheroma in the ascending aorta. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. There is
+no pericardial effusion. Post bypass: The patient is on a
+Neosynephrine drip. LV function is preserved. The ascending
+aorta is normal with no dissection flaps.
+[**3101-12-16**] 12:09PM   HGB-11.6* calcHCT-35
+[**3101-12-16**] 12:09PM   GLUCOSE-97 LACTATE-1.4 NA+-137 K+-3.9 CL--95*
+[**3101-12-16**] 04:02PM   GLUCOSE-83 LACTATE-3.3* NA+-132* K+-3.6
+CL--102 TCO2-27
+[**3101-12-16**] 05:10PM   PT-14.7* PTT-40.1* INR(PT)-1.3*
+[**3101-12-16**] 05:10PM   PLT COUNT-194#
+[**3101-12-16**] 05:10PM   WBC-17.8*# RBC-3.76* HGB-11.8* HCT-35.1*
+MCV-93 MCH-31.5 MCHC-33.7 RDW-15.6*
+[**3101-12-16**] 05:10PM   UREA N-11 CREAT-0.5 CHLORIDE-109* TOTAL
+CO2-26
+[**3101-12-16**] 05:16PM   GLUCOSE-106* NA+-136 K+-3.5
+[**3101-12-16**] 09:37PM   PT-14.5* PTT-34.5 INR(PT)-1.3*
+[**3101-12-20**] 06:50AM BLOOD WBC-8.7 RBC-3.22* Hgb-9.5* Hct-29.1*
+MCV-90 MCH-29.4 MCHC-32.5 RDW-16.2* Plt Ct-185
+[**3101-12-20**] 06:50AM BLOOD Plt Ct-185
+[**3101-12-19**] 06:05AM BLOOD Glucose-93 UreaN-15 Creat-0.6 Na-139
+K-4.0 Cl-102 HCO3-32 AnGap-9
+Radiology Report CHEST (PA & LAT) Study Date of [**3101-12-19**] 6:17 PM
+
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 22375**]
+Bilateral small pleural effusions, with adjacent atelectasis at
+the lung
+bases.
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 8403**]
+[**Doctor First Name 668**] [**3101-12-19**] 10:48 PM
+
+
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname **] was admitted to the [**Hospital1 22**] on [**3101-12-16**] for elective
+surgical management of her coronary artery disease. She was
+taken to the Operating Room where she underwent coronary artery
+bypass grafting to three vessels. Please see operative note for
+details. In summary she had: Coronary artery bypass surgery x3
+left
+internal mammary artery graft to left anterior descending,
+reverse saphenous vein graft to the marginal branch of the
+posterior descending artery. Her bypass time was 78 minutes with
+a crossclamp time of 61 minutes. She tolerated the operation
+well and postoperatively she was taken to the intensive care
+unit for monitoring. She was hemodynamically stable in the
+immediate post operative period, she awoke neurologically intact
+and was extubated. On POD# 1 she was weaned from all vasoactive
+infusions and on POD# 2 she was transferred from the ICU  to the
+step down unit for continued recovery. The chest tubes and
+temporary pacing wires were removed per cardiac surgery
+guidelines. She was started on betablockers and diuretics and
+gently diuresed toward her pre-op weight. She was evaluated by
+physical therapy and rehab was recommended. The remainder of her
+post operative course was uneventful. She was discharged to
+rehab at Lifecare of [**Location 2026**] on POD# 4.
+
+Medications on Admission:
+Atenolol 50mg(2),Folic Acid 1mg (1)Levothyroxine 112mcg
+(1)Lisinopril 10mg (1)Simvastatin 40mg(1)Acetaminophen 325mg
+prn,Aspirin 81mg (1)Hydrochlorothiazide 25mg (1)
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours): 20mg [**Hospital1 **] x7 days then 20mg QD.
+2. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours):
+20mEq [**Hospital1 **] x 7days then 20mEq QD.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+6. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever.
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+8. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO
+twice a day: hold for
+SBP<100
+HR<60.
+11. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+12. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+13. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day:
+hold for SBP<100.
+14. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q4H (every 4 hours) as needed for shortness
+of breath or wheezing.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Life Care Center of [**Location 2026**]
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 3
+Myocardial Infarction at the age 46
+Chronic obstructive pulmonary disease
+Abdominal Aortic Aneurysm 5.1cm
+Hypertension
+Hyperlipidemia
+Hypothyroidism
+TIA's (right brain hemispheric)patient denies any TIA's since
+endarterectomy
+Right arm cellulitis in [**6-8**] from cat bite
+Past Surgical History
+s/p Right Carotid endarterectomy and angioplasty [**3099-10-27**]
+s/p Tonsillectomy
+s/p Appendectomy age 9
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain. Please contact your [**Name2 (NI) 3620**] with all
+wound issues at ([**Telephone/Fax (1) 72**].
+2) Report any temperature greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) Please shower daily. Wash incisions with soap and water. No
+lotions, creams or powders to incisions for 6 weeks. No swimming
+for 6 weeks.
+5) No driving for 1 month.
+6) No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+7) Please call with any questions or concerns.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 72**]
+Please follow-up with your PCP [**Last Name (NamePattern4) 21**]. [**Last Name (STitle) **] in [**3-5**] weeks.
+[**Telephone/Fax (1) 6002**]
+Please follow-up with your cardiologist Dr. [**First Name4 (NamePattern1) 677**] [**Last Name (NamePattern1) 2104**]
+[**Telephone/Fax (1) 172**]
+Please follow-up with your vascular [**Telephone/Fax (1) 3620**] Dr. [**Last Name (STitle) 581**]
+[**Telephone/Fax (1) 1752**]
+
+
+
+Completed by:[**3101-12-20**]
+
+
+DOC CLASS

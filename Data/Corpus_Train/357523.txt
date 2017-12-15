@@ -1,0 +1,178 @@
+CVICU
+   HPI:
+   HD 5 [**1-2**]
+   64M s/p off-pump CABGx4 on [**3020-12-7**].Post-operatively he was discharged
+   to rehab and has had multiple readmissions since for bradycardia and
+   now shortness of breath and anemia (hct 20.2)
+   PMHX: ESRD, CAD, hyperlipidemia, secondary hyperparathyroidism, COPD,
+   CVA
+   Meds: [**Last Name (LF) 115**], [**First Name3 (LF) 114**], simvastatin, protonix, Ipratropium Bromide,
+   Ipratropium Bromide, percocet, dulcolax, Cinacalcet
+   Plan/issues: L>R pleural effusion on CT chest, ? splenic infarct on CT
+   abd. f/u Ht, L chest tube, repeat CT angio if new Ht drop
+   Current medications:
+   Albuterol 0.083% Neb Soln 3. Cinacalcet 4. Docusate Sodium 5.
+   Ipratropium Bromide Neb 6. Lorazepam 7. Metoclopramide 8. Mirtazapine
+   9. Ondansetron 10. Oxycodone-Acetaminophen 11. Pantoprazole 12.
+   Simvastatin 14. Vancomycin 15. sevelamer
+   24 Hour Events:
+ BLOOD CULTURED - At [**3021-1-1**] 10:30 AM
+    - 2nd set sent yesterday.  Results pending from [**12-31**] and [**1-1**].
+ TRANSTHORACIC ECHO - At [**3021-1-1**] 01:00 PM
+   - no evidence of endocarditis
+Hypotension overnight with SBP in 70
+s with MAP
+s in high 40
+   - resolved spontaneously without intervention
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3021-1-1**] 03:45 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3021-1-2**] 08:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**23**] a.m.
+   Tmax: 36.5
+C (97.7
+   T current: 36.5
+C (97.7
+   HR: 79 (70 - 87) bpm
+   BP: 79/37(48) {75/32(43) - 107/53(99)} mmHg
+   RR: 17 (12 - 34) insp/min
+   SPO2: 96%
+   Heart rhythm: 1st AV (First degree AV Block)
+                  Total In:
+                                                                    560 mL
+                                                                    120 mL
+   PO:
+                                                                    360 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    200 mL
+   Blood products:
+   Total out:
+                                                                  2,130 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,570 mL
+                                                                    120 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///36/
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric)
+   Abdominal: Soft, Non-distended, Non-tender, No(t) Bowel sounds present,
+   Hypoactive BS
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Moves all extremities
+   Labs / Radiology
+   232 K/uL
+   9.6 g/dL
+   122 mg/dL
+   3.5 mg/dL
+   36 mEq/L
+   3.4 mEq/L
+   27 mg/dL
+   101 mEq/L
+   140 mEq/L
+   27.7 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**3020-12-30**]  12:17 PM
+                             [**3020-12-30**]  08:17 PM
+                             [**3020-12-31**]  01:41 AM
+                             [**3020-12-31**]  02:07 PM
+                             [**3020-12-31**]  06:47 PM
+                             [**3020-12-31**]  06:51 PM
+                             [**3021-1-1**]  03:10 AM
+                             [**3021-1-1**]  10:00 AM
+                             [**3021-1-1**]  07:31 PM
+                             [**3021-1-2**]  03:56 AM
+   WBC
+   8.3
+   7.5
+   7.5
+   Hct
+   24.6
+   28.6
+   27.8
+   27.7
+   29.0
+   29.4
+   28.7
+   29.4
+   29.2
+   27.7
+   Plt
+   220
+   221
+   232
+   Creatinine
+   3.9
+   3.0
+   4.6
+   3.5
+   Glucose
+   87
+   80
+   122
+   Other labs: PT / PTT / INR:16.5/29.7/1.5, CK / CK-MB / Troponin
+   T:52//0.17, ALT / AST:[**10-15**], Alk-Phos / T bili:133/0.9, Fibrinogen:537
+   mg/dL, LDH:248 IU/L, Ca:6.9 mg/dL, Mg:1.6 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Infection: + Blood cultures, Gm + cocci, DYSPNEA (SHORTNESS OF BREATH),
+   PLEURAL EFFUSION, ACUTE, RENAL FAILURE, END STAGE (END STAGE RENAL
+   DISEASE, ESRD), ANEMIA, OTHER, .H/O CORONARY ARTERY BYPASS GRAFT
+   (CABG), IMPAIRED SKIN INTEGRITY
+   Assessment and Plan:
+   Neurologic: Pain controlled, continue Oxycodone/Acetaminophen for ankle
+   and abd pain
+   Cardiovascular: Statins; Holding [**Last Name 114**] / [**Last Name **] for now.
+   Pulmonary: OOB/IS/Phys therapy.  Cont MDI
+s and Neb
+   Gastrointestinal / Abdomen:  Cont guiac stool.
+   Nutrition: Regular diet
+   Renal: got HD on [**1-1**]
+   Hematology: Hct has been stable con
+t serial Hct Q12hr.  Epogen with
+   HD.
+   Endocrine: RISS
+   Infectious Disease:  No antibx currently.
+   Lines / Tubes / Drains:  left chest tube draining serosangous drainage
+   Wounds: no issues.
+   Imaging: Fluids: KVO
+   Consults: General surgery, CT surgery
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3020-12-30**] 03:12 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status:  Full
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

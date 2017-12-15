@@ -1,0 +1,224 @@
+CVICU
+   HPI:
+   HD12
+   86M s/p MVR/CABG [**6-10**] readmitted with hypoxia, purulent sputum and
+   hypotension from rehab
+   EF 70 Cr 1.8 Wt 68.5K HgbA1c 6.3
+   Antibx: Vanco-Zosyn-Enterococcus/blood
+   PMH: ^lipids, AFib, TURP, Ing Hernia repair, Sleep Apnea-CPAP -home,
+   CRI(1.8), Ascites, Squamous Cell CA-excision groin, Lower Back
+   Arthritis, depression
+   [**Last Name (un) **]: ASA 325', Diltiazem SR 240', Furosemide 80", Metolazone 2.5 Q
+   M-W-F, Metoprolol 25', Warfarin 2alt4mg, Potassium 20'''
+   ***DNR/pressors/fluid bolus. ***
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Albumin 5% (25g / 500mL) 2. Artificial Tears 3. Aspirin 4. Bisacodyl 5.
+   Calcium Gluconate 6. Chlorhexidine Gluconate 0.12% Oral Rinse
+   7. Ciprofloxacin 8. Dextrose 50% 9. Famotidine 10.
+   OxycoDONE-Acetaminophen Elixir 11. Phenylephrine
+   12. Pneumococcal Vac Polyvalent 13. Vancomycin
+   24 Hour Events:
+   Post operative day:
+   HD12
+   86M s/p MVR/CABG [**6-10**] readmitted with hypoxia, purulent sputum and
+   hypotension from rehab
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3261-7-28**] 10:38 PM
+   Ciprofloxacin - [**3261-7-29**] 04:30 PM
+   Vancomycin - [**3261-7-30**] 08:00 PM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3261-7-31**] 04:16 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**64**] a.m.
+   Tmax: 36.4
+C (97.6
+   T current: 36.1
+C (96.9
+   HR: 81 (80 - 84) bpm
+   BP: 70/31(40) {70/31(40) - 90/45(54)} mmHg
+   RR: 15 (12 - 27) insp/min
+   SPO2: 100%
+   Heart rhythm: V Paced
+   Wgt (current): 84 kg (admission): 80 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,778 mL
+                                                                    630 mL
+   PO:
+             Tube feeding:
+                                                                    840 mL
+                                                                    389 mL
+   IV Fluid:
+                                                                    557 mL
+                                                                    240 mL
+   Blood products:
+                                                                    250 mL
+   Total out:
+                                                                    610 mL
+                                                                    430 mL
+   Urine:
+                                                                    460 mL
+                                                                    380 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    150 mL
+                                                                     50 mL
+   Balance:
+                                                                  1,168 mL
+                                                                    200 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: SIMV/PSV/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 558 (0 - 558) mL
+   PS : 12 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 63
+   PIP: 19 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 37.5 cmH2O/mL
+   SPO2: 100%
+   ABG: ///20/
+   Ve: 6.7 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: EOMI
+   Cardiovascular: (Rhythm: Irregular), V-paced w/ ventricular ectopy
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 3+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Absent)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Responds to: Unresponsive)
+   Labs / Radiology
+   183 K/uL
+   9.5 g/dL
+   118 mg/dL
+   2.4 mg/dL
+   20 mEq/L
+   3.5 mEq/L
+   105 mg/dL
+   98 mEq/L
+   131 mEq/L
+   29.0 %
+   12.7 K/uL
+        [image002.jpg]
+                             [**3261-7-21**]  03:15 AM
+                             [**3261-7-22**]  01:23 AM
+                             [**3261-7-23**]  02:13 AM
+                             [**3261-7-24**]  01:37 AM
+                             [**3261-7-25**]  12:18 AM
+                             [**3261-7-26**]  01:43 AM
+                             [**3261-7-27**]  05:07 AM
+                             [**3261-7-28**]  04:17 AM
+                             [**3261-7-29**]  04:07 AM
+                             [**3261-7-31**]  03:42 AM
+   WBC
+   18.5
+   16.0
+   8.8
+   12.0
+   11.2
+   11.4
+   12.0
+   12.7
+   Hct
+   33.4
+   33.4
+   28.1
+   31.3
+   30.8
+   30.5
+   29.4
+   29.0
+   Plt
+   152
+   158
+   138
+   141
+   137
+   143
+   150
+   183
+   Creatinine
+   2.9
+   2.8
+   2.8
+   2.6
+   2.4
+   2.4
+   2.8
+   2.1
+   2.1
+   2.4
+   Glucose
+   109
+   165
+   142
+   122
+   100
+   116
+   137
+   128
+   118
+   Other labs: PT / PTT / INR:23.6/32.2/2.2, ALT / AST:45/61, Alk-Phos / T
+   bili:85/10.5, Amylase / Lipase:153/234, Differential-Neuts:92.0 %,
+   Lymph:5.4 %, Mono:2.6 %, Eos:0.0 %, Lactic Acid:3.6 mmol/L, Albumin:2.8
+   g/dL, LDH:295 IU/L, Ca:7.5 mg/dL, Mg:2.4 mg/dL, PO4:6.0 mg/dL
+   Assessment and Plan
+   INEFFECTIVE COPING, SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION), IMPAIRED
+   SKIN INTEGRITY, .H/O RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE,
+   CRF, CHRONIC KIDNEY DISEASE), .H/O RESPIRATORY FAILURE, CHRONIC, .H/O
+   CORONARY ARTERY BYPASS GRAFT (CABG), HYPOTENSION (NOT SHOCK)
+   Assessment and Plan: HD12
+   86M s/p MVR/CABG [**6-10**] readmitted with hypoxia, purulent sputum and
+   hypotension from rehab
+   Neurologic: Neuro checks Q: 4 hr, PCT prn pain, Unresponsive. No change
+   Cardiovascular: Aspirin, V-Paced, Neo->no change. Requested by daughter
+   to infuse Albumin to increase BP.
+   Pulmonary: Trach, (Ventilator mode: CMV)
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding, at goal
+   Renal: Foley, BUN/Cr=105/2.4, oliguric
+   Hematology:
+   Endocrine:
+   Infectious Disease: Cont Vanco/Cipro
+   Lines / Tubes / Drains: Foley, G-tube, Trach
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults: CT surgery, Palliative care to meet with family on [**8-1**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3261-7-21**] 01:00 AM
+   Multi Lumen - [**3261-7-21**] 01:12 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status:
+   Disposition: ICU
+
+
+
+DOC CLASS

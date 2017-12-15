@@ -1,0 +1,240 @@
+Chief Complaint:  fever, hypotension
+   HPI:
+   Pt is a 51 y/o M hx HIV (last CD4 1080 [**12-16**]), OSA, s/p splenectomy now
+   presents with fever and rigors. He had been in good health until 4:45
+   this AM when he woke suddenly with rigors, chills, and temp to 101.9,
+   Prior to this, he had been feeling well for the past few weeks except
+   for very mild R flank tenderness the day prior to admission. No sick
+   contacts, although he does work at [**Name (NI) 1011**] and sees pts, no travel. He
+   called EMS, temp at that time was 101, and was brought to [**Hospital1 **] ED.
+   .
+   In the ED, initial vs were: T P BP R O2 sat. His SBP rapidly decreased
+   to 60's with MAPs 40's and he received 7L NS. He was started on neo,
+   then + levophed with SBP in the 80-90's. Vanc/Cefepime/Azithro/Tamiflu
+   given. He also recieved decadron 10 mg IV X 1, tylenol, motrin Mixed
+   venous O2 82-86. With aggressive fluids, he became more SOB with
+   increasing Oxygen requirements to 90% on 5L NC and was placed on NRB
+   with sats 98% and RR 30's. CT abd negative for acute intraabdominal
+   pathology.
+   .
+   On the floor, he is feeling weak, but slightly better. ROS is positive
+   for mild flank pain, but currently resolved. he did have an arm scratch
+   which bled several days ago, but no dental abscess, toothache, cough,
+   GI symptoms, dysuria or other sources for infection. He did received
+   pneumovax and flu shot.
+   .
+   Review of sytems:
+   (+) Per HPI
+   (-) Denies fever, chills, night sweats, recent weight loss or gain.
+   Denies headache, sinus tenderness, rhinorrhea or congestion. Denied
+   cough, shortness of breath. Denied chest pain or tightness,
+   palpitations. Denied nausea, vomiting, diarrhea ([**2-8**] BM/day, formed,
+   brown), constipation or abdominal pain. No recent change in bowel or
+   bladder habits. No dysuria. Denied arthralgias or myalgias.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Rash; Shortness
+   Morphine
+   Unknown;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   myalgia;
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 1.9 mcg/Kg/min
+   Norepinephrine - 0.28 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   HOME MEDS:
+   Cholestoff OTC
+   albuterol PRN
+   Past medical history:
+   Family history:
+   Social History:
+   # HIV since [**2801**], not on HAART due to side effects from meds, followed
+   by PCP
+   # emergency splenectomy after assult in [**2807**]
+   # shingles
+   # arthroscopic ACL repair
+   # tonsillectomy
+   # right inguinal hernia repair [**2812**]
+   # orthostatic hypotension with vasovagal syncope
+   # central and obstructive sleep apnea, mask CPAP (11)
+   # hyperlipidemia not well controlled (>400 when last checked per
+   patient)
+   # BPH
+   paternal grandfather and maternal grandmother DM2
+   maternal grandfather died from MI at age 58
+   sister died from ovarian cancer at age 50
+   Occupation: [**Hospital1 1011**] stress test tech
+   Drugs: none
+   Tobacco: none
+   Alcohol: rare
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: Cough, Dyspnea, Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation, R flank tenderness
+   Genitourinary: No(t) Dysuria, Foley
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): Rash
+   Neurologic: No(t) Numbness / tingling, No(t) Headache
+   Flowsheet Data as of [**2823-1-17**] 04:08 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.7
+C (99.8
+   HR: 71 (71 - 80) bpm
+   BP: 107/70(74) {107/70(74) - 107/70(74)} mmHg
+   RR: 23 (18 - 23) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+             Total In:
+             7,139 mL
+   PO:
+             TF:
+   IVF:
+   139 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    680 mL
+   Urine:
+   680 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  6,459 mL
+   Respiratory
+   O2 Delivery Device: Non-rebreather
+   SpO2: 99%
+   Physical Examination
+   General Appearance: Well nourished, Diaphoretic
+   Eyes / Conjunctiva: PERRL, Pupils dilated
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Crackles : at bases bilaterally)
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Tender: no CVA
+   tenderness
+   Extremities: Right: Absent, Left: Absent
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, Rash: erythema at back, blanching, cool at hands and feet
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Other labs: Lactic Acid:2.1 mmol/L
+   Fluid analysis / Other labs: Lactate: 2-2.1
+   Imaging: CT ABD: IMPRESSION:
+   No acute intra-abdominal or pelvic process identified. Multiple
+   retroperitoneal, periportal, and bilateral external iliac lymph nodes
+   identified, which are prominent compared to the prior study and are
+   either reactive in nature and/or attributed to HIV.
+   .
+   CXR: IMPRESSION:
+   Mild prominence of the central pulmonary vasculature without overt CHF.
+   Bibasilar atelectasis.
+   Microbiology: 2 bottles GPCs in pairs
+   ECG: sinus tachy, nl axis, nl intervals, non specific TW changes
+   Assessment and Plan
+   Assessment and Plan: This is a 51 y/o M hx HIV (last CD4 1080 [**12-16**]) now
+   presents with fever, hypotension requiring pressors and GPC septic
+   shock
+   .
+   # Septic Shock: His hypotension and positive blood cx (GPCs in
+   pairs)are consistent with septic shock. Of note, he is asplenic and at
+   high risk for encapsulated organisms such as Streptococcus pneumoniae,
+   Haemophilus influenza, and Neisseria meningitidis. Given very high
+   fever, there was some concern for flu. No clinical signs to suggest
+   cardiogenic shock. Also, not adrenally insufficient as cortisol is 38.
+   - goal CVP>[**9-18**], MAP>65, mixed venous >70
+   - trend lactate
+   - goal UOP > 30 cc/hr
+   - check LFTs given hypotension
+   - continue levophed and neo and titrate to above parameters
+   - if persistantly needs pressors, would add on vasopressin and
+   preferentially wean down neo
+   - f/u blood cx speciation and continue Vanc/Cefepime for broad coverage
+   - urine/sputum cx, rapid viral screen in ED
+   - consider ID consult (ID care at OSH)
+   - current mental status is good, but if altered, would have low
+   threshold for LP
+   - echo to look for vegetations
+   .
+   # Hypoxic respiratory distress: CXR with no clear infiltrate, and by ED
+   report, he only became SOB and hypoxic after aggressive fluid
+   [**Last Name (LF) 5584**], [**First Name3 (LF) **] I suspect volume overload. No echo in OMR. he does
+   have OSA with central and obstructive.
+   - continue NRB and low threshold for intubation for resp failure
+   - at this point, priority of treatment of septic physiology
+   - echo as above
+   .
+   # Rash: he has a blanching erythematous macular rash over enitre back.
+   Per pt, was initially full body in ED, but has since improved
+   - continue to monitor for drug rash
+   .
+   # HIV: Currently not on HAART and CD4 count is 1080, so no need for
+   ppx.
+   - touch base with outpt
+   .
+   # OSA:
+   - continue home CPAP
+   .
+   # FEN:
+   - IVF as above
+   - replete electrolytes
+   - NPO for now
+   .
+   # Prophylaxis:
+   - Subcutaneous heparin
+   - PPI
+   .
+   # Access:
+   - RIJ
+   .
+   # Code: FULL
+   .
+   # Communication: Patient
+   .
+   # Disposition: ICU for now
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Presep Catheter - [**2823-1-17**] 02:00 PM
+   18 Gauge - [**2823-1-17**] 02:00 PM
+   16 Gauge - [**2823-1-17**] 02:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

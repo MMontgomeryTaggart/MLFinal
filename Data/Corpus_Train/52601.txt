@@ -1,0 +1,250 @@
+Admission Date:  [**3396-9-25**]              Discharge Date:   [**3396-10-3**]
+
+Date of Birth:  [**3333-10-18**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 1270**]
+Chief Complaint:
+SOB/DOE and progressive edema
+
+Major Surgical or Invasive Procedure:
+emergent intubation
+
+
+History of Present Illness:
+This is a 62F who presented to the ED with SOB. According to her
+husband, on the day of admission, he found the patient sitting
+on the chair struggling to breath. He did not notice any
+wheezing but did note that the patient has swollen extremities.
+According to the patient, she had been progressively declining
+for the past 5 years to the point that she is literally home
+bound. Her activity of daily living is managed by her husband.
+She is very short of breath with any physical activity and she
+usually just sit in her room and watch TV. According to her son,
+he noted SOB with talking long sentences while talking to the
+patient on the phone. She also claims that she had been swollen
+for almost a month prior to admission. SHe did not seek medical
+attention all this while because she believes that there is
+nothing that could be done.She denies any history of asthma or
+previously diagnosed cardiopulmonary problems.
+
+On ROS, she denies chest pain/orthopnea/PND/[**Last Name (un) 955**]
+pain/n/v/f/c/dysuria. She claims that she has "sensitive
+stomach" and would have diarrhea with certain food.
+
+patient was intubated. She subsequently had hypotension which
+was not responsive to neosynephrine and levophed. Sepsis code,
+given levaquin, flagyl. Stress dose steroid was started. Her
+respiratory status seems to improve with nebs and diuresis. Her
+BP gradually stabilizes and she was extubated without
+complication.
+
+
+Past Medical History:
+1. [**Doctor Last Name 2192**] disease on radioiodine in the past
+2. anxiety/depression
+3. hypothyroidism
+5. HTN
+
+PSH: abd surgery [**22**] years ago (bowel obstruction)
+
+
+Social History:
+smokes 2 ppd since 16yo.
+no ETOH
+lives with husband who manages everything in her life
+
+
+Physical Exam:
+BP 140/64 P101 R20 92%RA
+Gen-pleasant but anxious, up in bed, very talkative,very thin
+HEENT-anicteric, no conjunctival pallor, oral mucosa moist,
+nasal cannula in place. neck supple, no LAD
+CVS-nl S1/S2, no S3/S4/murmur, JVP 10cm, DP not palpable,
+3+edema on LE up to thigh, 2+ pitting edema on upper extremities
+resp-decreased breath sounds bilaterally, rales bilateral bases,
+no wheezes,tracheal indrawing and occasional accessory muscle
+use, no intercostal indrawing or paradoxical movement
+GI-nl BS, very thin abdomen, no tenderness, no HSM, no bruit, no
+pulsatile mass
+no CVA tenderness
+neuro A+O x3,moves all 4 limbs symmetrically, PERRL, EOMI,
+CNII-XII normal
+
+
+Pertinent Results:
+[**3396-10-3**] 07:12AM BLOOD WBC-6.7 RBC-4.15* Hgb-13.5 Hct-41.4
+MCV-100* MCH-32.5* MCHC-32.6 RDW-14.4 Plt Ct-131*
+[**3396-10-2**] 06:00AM BLOOD WBC-8.0 RBC-4.48 Hgb-14.4 Hct-44.2
+MCV-99* MCH-32.1* MCHC-32.6 RDW-14.5 Plt Ct-146*
+[**3396-10-3**] 07:12AM BLOOD Plt Ct-131*
+[**3396-10-2**] 06:00AM BLOOD Plt Ct-146*
+[**3396-10-3**] 07:12AM BLOOD Glucose-91 UreaN-25* Creat-0.4 Na-138
+K-4.2 Cl-91* HCO3-43* AnGap-8
+[**3396-10-2**] 06:00AM BLOOD Glucose-90 UreaN-25* Creat-0.5 Na-137
+K-3.9 Cl-87* HCO3-43* AnGap-11
+[**3396-10-3**] 07:12AM BLOOD ALT-192* AST-179* AlkPhos-84 TotBili-0.5
+[**3396-10-2**] 06:00AM BLOOD ALT-120* AST-47* AlkPhos-79
+[**3396-10-1**] 06:00AM BLOOD ALT-149* AST-48* AlkPhos-74 TotBili-0.6
+[**3396-9-30**] 04:04AM BLOOD TotBili-0.4 DirBili-0.1 IndBili-0.3
+[**3396-9-29**] 04:51AM BLOOD ALT-285* AST-64* LD(LDH)-291* AlkPhos-79
+TotBili-0.4
+[**3396-9-24**] 11:00PM BLOOD Amylase-30
+[**3396-10-3**] 07:12AM BLOOD Calcium-8.6 Phos-2.9 Mg-1.9
+[**3396-9-29**] 04:51AM BLOOD VitB12-929* Folate-5.7
+[**3396-9-24**] 11:00PM BLOOD TSH-17*
+[**3396-9-25**] 09:44AM BLOOD Free T4-1.3
+[**3396-10-1**] 06:00AM BLOOD Cortsol-28.5*
+[**3396-9-28**] 05:50AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+HBcAb-NEGATIVE
+[**3396-9-26**] 10:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3396-9-28**] 05:50AM BLOOD HCV Ab-NEGATIVE
+[**3396-9-26**] 02:26PM BLOOD Type-ART pO2-96 pCO2-66* pH-7.27*
+calHCO3-32* Base XS-0 Intubat-INTUBATED
+[**3396-9-24**] 11:54PM BLOOD Type-ART Rates-/14 Tidal V-450 O2-100
+pO2-246* pCO2-68* pH-7.16* calHCO3-26 Base XS--5 AADO2-417 REQ
+O2-71 Intubat-INTUBATED Vent-IMV
+[**3396-9-26**] 04:05AM BLOOD Glucose-74 Lactate-1.1 Na-135 K-5.0
+Cl-99*
+[**3396-9-26**] 04:05AM BLOOD freeCa-1.29
+
+Brief Hospital Course:
+1. hypercarbic respiratory failure
+In ICU, the initial thought process was COPD exacerbation given
+hypercarbia, no infiltrate on CXR, and evidence of emphysema on
+CXR. She was treated with steroid taper/solumedrol, albuterol,
+atrovent and swithced to po prednisone prior transfer to floor.
+She also had a CTA which was negative for PE. On the floor, she
+was continued on nebulizers and eventually MDI and she
+demonstrated appropriate usage of MDI upon discharge. She
+declined pulm rehab but was willing to have PT at home. Smoking
+cessation was addressed on multiple occasions & pt did well on
+NRT throughout her stay.
+
+4.anasarca
+Her initial workup included LENI which was negative for deep
+veous thrombosis.Her albumin was 2.3 initially but this was not
+reliable since it is a negative acute phase reactant. The
+albumin returned to [**Location 386**] limit when her acute problem s
+resolved.
+For the anasarca, she also had workup for congestive heart
+failure. Echocardiogram in [**3396-9-26**] showed that overall left
+ventricular systolic function is normal (LVEF>55%) and right
+ventricular systolic function appears borderline depressed.
+Concurrently, her liver enzymes showed hepatitis and her
+hepatitis serology was negative. Thus this was thought to be
+caused by possible right heart failure with hepatic congestion.
+Cardiology was consulted. They suggested a possiblity of fluid
+overload from the resuscitation fluid that the patient recieved
+in ICU. Of note, pt presented originally with anasarca, prior to
+volume resuscitation. Right heart catheterization was suggested
+if no improvememnt with diuresis. Patient was diurese with goal
+of -one liter a day. SHe responded very well with lasix. Her
+transaminases decreased and edema improved drastically. She was
+kept on CHF diet and lasix, initially IV then switched to po
+upon discharge.
+
+4.RLL pulmonary nodule
+CT [**3396-9-25**] showed RLL pulmonary nodule likely bronchogenic cyst.
+Pulmonary team was curb-sided. Given the size and appearance of
+the nodule, this is felt to be unlikely malignant. Repeat CT in
+3 month to assess growth given extensive smoking hx.Pt denies
+any weight loss.
+
+Medications on Admission:
+1. alprazolam 1 TID
+2. bac tablets 1 QPM
+3. lisinopril 10 QD
+4. levoxyl 0.1 QD
+
+
+Discharge Medications:
+1. Oxygen-Air Delivery Systems     Device Sig: as directed
+Miscell.  continuous: home oxygen 24 hours per day.
+2L Oxygen at baseline, titrate to Os sat >92%.
+Disp:*1 system* Refills:*2*
+2. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q6H (every 6 hours) as needed.
+Disp:*2 MDI* Refills:*2*
+4. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+Disp:*2 MDI* Refills:*2*
+5. Alprazolam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*60 Tablet, Chewable(s)* Refills:*2*
+8. White Petrolatum-Mineral Oil     Cream Sig: One (1) Appl
+Topical  TID (3 times a day).
+Disp:*1 applicator* Refills:*2*
+9. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR
+Transdermal QD (once a day) for 5 weeks.
+Disp:*35 Patch 24HR(s)* Refills:*0*
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation [**Hospital1 9**] (2 times a day).
+Disp:*2 MDI* Refills:*2*
+12. Fluoxetine HCl 20 mg Capsule Sig: One (1) Capsule PO QD
+(once a day).
+Disp:*30 Capsule(s)* Refills:*2*
+13. Prednisone 20 mg Tablet Sig: One (1) Tablet PO qd () for 3
+doses.
+Disp:*3 Tablet(s)* Refills:*0*
+14. Prednisone 10 mg Tablet Sig: One (1) Tablet PO qd () for 3
+doses: start after you finished the prednisone 20mg dose.
+Disp:*3 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 75**] Homecare
+
+Discharge Diagnosis:
+1. Chronic obstructive pulmonary disease
+2. volume overload/ R-sided congestive heart failure
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+1. please return to the hospital or call your doctor if you
+experience difficulty in breathing, if you are swollen again or
+if you have any concerns at all.
+2. please take your prescribed medication, follow up with your
+doctor [**First Name (Titles) **] [**Last Name (Titles) 20824**] to 2 g sodium diet
+
+Followup Instructions:
+1. Please call [**Telephone/Fax (1) 151**] to make an appointment with the
+first available primary care doctor in order to ensure proper
+and ongoing outpatient follow up, preferably within  2 weeks
+after your discharge.
+2.Provider: [**Name10 (NameIs) **] BREATHING TEST Where: [**Hospital6 64**]
+Phone:[**Telephone/Fax (1) 7688**] Date/Time:[**3396-11-2**] 10:45
+3.Provider: [**Name10 (NameIs) **] EXAM ROOM IS (NO CHARGE) Where: IS (NO
+CHARGE) Date/Time:[**3396-11-2**] 11:00
+4.Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1915**], M.D. Where: [**Hospital6 64**]
+Phone:[**Telephone/Fax (1) 7688**] Date/Time:[**3396-11-2**] 11:00
+
+
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 1272**]
+
+Completed by:[**3396-10-11**]
+
+
+DOC CLASS

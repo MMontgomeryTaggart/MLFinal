@@ -1,0 +1,152 @@
+Admission Date:  [**2989-8-19**]     Discharge Date:  [**2989-8-25**]
+
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is an 84-year-old woman
+with cardiac risk factors of smoking and age, and no cardiac
+history, who presented to an outside hospital for substernal
+chest pressure, which awoke her this morning from sleep.  She
+describes the pain as knife like and sharp without radiation,
+but associated with nausea, vomiting, and diaphoresis rated
+[**9-18**], no associated shortness of breath.  No back or
+abdominal pain.  Patient activated EMS and was taken to
+[**Hospital1 **] at which ECG demonstrated anterior ST elevations.
+Her initial laboratories are unremarkable and chest x-ray was
+consistent with congestive heart failure.  She was treated
+with aspirin, Heparin drip, nitroglycerin drip, and Morphine,
+and was transferred to [**Hospital1 58**]
+for cardiac catheterization.
+
+Coronary angiography demonstrated severe left main, two
+vessel coronary artery disease.  The LMCA had a proximal 80%
+stenosis.  The LAD had a thrombotic 100% proximal occlusion
+and RCA had a 50% ostial stenosis.  The LAD was a 3 x 13 mm
+Hepakote stent and the left main was stented with a 3.5 x 8
+mm Cypher stent.  Resting hemodynamics demonstrated evidence
+of elevated right sided filling pressures and decreased
+cardiac index.
+
+Integrilin was initially held secondary to history of
+prior stroke and bleeding, but was given after
+initiating complex left main stent procedure. An intra-aortic
+balloon pump was not placed due to history of abdominal aortic
+aneurysm.
+
+PAST MEDICAL HISTORY:
+1. Hemorrhagic CVA in 10/00.
+2. Abdominal aortic aneurysm of 6.5 cm on pyelogram on [**2-8**].
+3. Renal cancer status post resection.
+
+ALLERGIES:  Penicillin.
+
+MEDICATIONS:  Multivitamin.
+
+PHYSICAL EXAMINATION:  Vital signs:  Blood pressure 150/94,
+pulse 81, respirations 22, and sating 92% on room air.
+General:  Well-developed and well-nourished in no apparent
+distress.  HEENT:  Normocephalic, atraumatic.  Extraocular
+movements are intact.  Oropharynx is clear.  Chest:  Coarse
+breath sounds bilaterally anteriorly.  Cor:  Regular, distant
+heart sounds, normal S1, S2, no rub or gallop appreciated.
+Positive JVD, no bruits.  Abdomen:  Soft, nontender, and
+nondistended, positive bowel sounds.  Extremities are warm
+and well perfused, 2+ dorsalis pedis pulses bilaterally.
+Hematoma on the right groin.  Neurologic:  Cranial nerves II
+through XII intact.  Moves all four extremities.
+
+LABORATORIES:  White count 10.2, hematocrit 38.2, platelets
+210.  Sodium 134, potassium 4.6, chloride 104, bicarb 20, BUN
+19, creatinine 1.1, and glucose of 164.  AST 345, ALT 53,
+alkaline phosphatase 119, and total bilirubin 0.5.  CK peak
+4488, CK MB 494, troponin-T 24.8.
+
+EKG post intervention, sinus rhythm at 84, Q waves in V1, V2,
+and V3 with persistent ST elevation, improved from prior,
+poor R-wave progression, T-wave inversion in V1 through V3,
+aVL, normal axis, and no left ventricular hypertrophy.
+
+Chest x-ray:  Pulmonary edema, overlying emphysema.
+
+Echocardiogram:  Normal left atrium, normal left ventricular
+wall thickness and cavity size.  Moderate regional left
+ventricular systolic dysfunction with an ejection fraction of
+30-40%, apical akinesis, hypokinesis of the mid and distal
+anterior wall and hypokinesis of the anterior septum, mid and
+distal inferior walls, moderate pulmonary artery systolic
+hypertension.
+
+HOSPITAL COURSE:
+1. ST elevation MI:  The patient's CK had peaked at admission
+at 4488.  Postcatheterization, she was treated with aspirin,
+Plavix, beta blocker, ACE inhibitor and a statin.  She had no
+recurrent chest pain throughout her hospitalization.  She will
+need a relook angiography in three months to evaluate her LMCA
+stent. Echocardiogram demonstrated systolic dysfunction with an
+ejection fraction of approximately 30%, focal hypokinesis.
+Patient was diuresed for her congestive heart failure and did
+well.
+
+It was felt that anticoagulation was not indicated in this
+patient despite her poor ejection fraction and akinesis,
+secondary to bleeding risk.  The patient did have one
+episode of hematemesis while on Integrilin as well as a right
+groin hematoma.  Her hematocrit was followed serially and
+required transfusion of 2 units of packed red blood cells.
+
+2. Abdominal aortic aneurysm:  Patient is not a surgical
+candidate at this time.  This may be followed up on an
+outpatient setting.
+
+3. Pulmonary:  The patient was in obvious failure responding
+to diuresis, however, there seemed to be a component of COPD
+which may be exacerbating her oxygen requirements.  Pulmonary
+function tests were obtained prior to discharge to be
+followed up by her primary care provider.
+
+4. Renal:  The patient had acute renal failure.  This was
+felt secondary to large dye load received while undergoing
+cardiac catheterization.  This did trend down and finally
+trended down prior to discharge.  Discharge plan - Will be
+followed up as an outpatient.
+
+5. Smoking cessation:    The patient was
+counseled to quit smoking tobacco.
+
+DISCHARGE CONDITION:  Good.
+
+DISCHARGE STATUS:  Home.
+
+DISCHARGE DIAGNOSES:
+1. ST elevation myocardial infarction.
+2. Congestive Heart Failure
+
+DISCHARGE MEDICATIONS:
+1. Atorvastatin 10 mg p.o. q.d.
+2. Clopidogrel 75 mg p.o. q.d.
+3. Metoprolol XL 25 mg p.o. q.d.
+4. Aspirin 325 mg p.o. q.d.
+5. Bupropion one tablet p.o. q.d. x3 days, then one tablet
+p.o. b.i.d. thereafter.
+6. Nitroglycerin 0.3 mg sublingual prn.
+
+FOLLOW-UP PLANS:  Patient is to followup with Dr. [**Last Name (STitle) 19987**],
+her cardiologist on [**8-31**] and with Dr. [**Last Name (STitle) 7191**] on
+[**8-27**].  The patient will need re-catheterization
+three months after discharge.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2219**], M.D.  [**MD Number(1) 15441**]
+
+Dictated By:[**Name8 (MD) 7849**]
+
+MEDQUIST36
+
+D:  [**2989-10-19**]  09:49
+T:  [**2989-10-19**]  11:52
+JOB#:  [**Job Number 28337**]
+
+
+
+DOC CLASS

@@ -1,0 +1,213 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   - Doboff placed under floro
+   - Dopoff pulled out
+   - OGT placed and TFs started
+   - Transitioned off lasix gtt to IVP
+   - Hydrocortisone and albumin discontinued [**1-19**] stable BPs
+   - Back on AC overnight
+   Allergies:
+   Haldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3209-6-12**] 12:12 PM
+   Furosemide (Lasix) - [**3209-6-12**] 04:55 PM
+   Midazolam (Versed) - [**3209-6-13**] 06:03 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-6-13**] 08:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 106 (68 - 110) bpm
+   BP: 120/55(69) {102/47(61) - 154/82(97)} mmHg
+   RR: 32 (18 - 33) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 103 kg (admission): 103.7 kg
+   Height: 69 Inch
+   CVP: 15 (8 - 15)mmHg
+   Total In:
+                                                                  3,635 mL
+                                                                  1,329 mL
+   PO:
+                                                                    240 mL
+   TF:
+                                                                    378 mL
+                                                                    472 mL
+   IVF:
+                                                                  1,927 mL
+                                                                    237 mL
+   Blood products:
+                                                                    100 mL
+   Total out:
+                                                                  3,090 mL
+                                                                    830 mL
+   Urine:
+                                                                  2,190 mL
+                                                                    830 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    545 mL
+                                                                    499 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 512 (467 - 512) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 33
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 12 cmH2O
+   SpO2: 98%
+   ABG: ///30/
+   Ve: 15.7 L/min
+   Physical Examination
+   General Appearance: No acute distress, less responsive
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Skin:  Not assessed, stable edema
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed, tremulous
+   Labs / Radiology
+   8.3 g/dL
+   65 K/uL
+   137 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   3.6 mEq/L
+   20 mg/dL
+   114 mEq/L
+   152 mEq/L
+   26.6 %
+   11.6 K/uL
+        [image002.jpg]
+                             [**3209-6-8**]  04:54 PM
+                             [**3209-6-9**]  03:18 AM
+                             [**3209-6-10**]  05:42 AM
+                             [**3209-6-10**]  04:49 PM
+                             [**3209-6-11**]  04:16 AM
+                             [**3209-6-11**]  04:49 PM
+                             [**3209-6-11**]  11:46 PM
+                             [**3209-6-12**]  03:26 AM
+                             [**3209-6-12**]  06:00 AM
+                             [**3209-6-13**]  03:43 AM
+   WBC
+   10.2
+   7.2
+   5.2
+   6.1
+   11.6
+   Hct
+   23.8
+   25.0
+   24.7
+   23.9
+   26.6
+   Plt
+   55
+   46
+   44
+   48
+   65
+   Cr
+   0.8
+   0.9
+   1.0
+   0.9
+   0.9
+   1.0
+   0.9
+   0.9
+   0.9
+   Glucose
+   147
+   126
+   214
+   181
+   189
+   186
+   [**Telephone/Fax (3) 9282**]
+   137
+   Other labs: PT / PTT / INR:18.1/42.3/1.6, CK / CKMB /
+   Troponin-T:21/5/0.09, ALT / AST:14/28, Alk Phos / T Bili:99/4.9,
+   Amylase / Lipase:43/33, Differential-Neuts:75.1 %, Band:4.0 %,
+   Lymph:16.7 %, Mono:5.3 %, Eos:2.5 %, Fibrinogen:219 mg/dL, Lactic
+   Acid:2.3 mmol/L, Albumin:3.5 g/dL, LDH:136 IU/L, Ca++:8.9 mg/dL,
+   Mg++:1.7 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   58y.o. M with alcoholic cirrhosis s/p esophageal banding for variceal
+   bleed, who presented with hepatic encephalopathy on [**3209-5-3**], multiple
+   ICU transfers, now transferred intubated to ICU s/p respiratory
+   failure, likely secondary to aspiration event.
+   # Respiratory Failure: aspiration with [**Doctor Last Name **]/pneumonitis.  Intubation x
+   3. s/p 16 + 6 days of Abx.  Had been on PS 5/5, but placed on AC
+   overnight in setting of sedation.
+   - I/O goal -500, lasix IV prn
+   - F/U CXR this am in setting of elevated WBC count
+   - Wean back to PS if tolerated
+   - OR on Monday for trach; will replaced Dopoff at that time
+   # Alcoholic Cirrhosis: Complicated by hepatic encephalopathy and grade
+   II esophageal varices s/p banding on this prolonged hospitalization.
+   - rifaximin
+   - lactulose
+   #Diarrhea:
+   - D/C reglan
+   - Check for c diff
+    # Hypernatremia:  worsened overnight in the setting of no NGT
+   - resumed free water flushes overnight
+   - trend Na
+    # Anemia: currently at baseline, no transfusion
+   # Thrombocytopenia: lower platelet count off vancomycin and heparin.
+   Trend platelets
+   # Diabetes Mellitus: standing NPH with HISS,  dextrose prn FS<70
+   # Alcohol abuse:  folate/MVI
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3209-6-12**] 10:13 PM 70 mL/hour
+   Glycemic Control:  RISS
+   Lines:
+   PICC Line - [**3209-6-6**] 07:29 AM
+   Multi Lumen - [**3209-6-9**] 08:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:  Protonix
+   VAP:  HOB elevated, mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : ICU
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

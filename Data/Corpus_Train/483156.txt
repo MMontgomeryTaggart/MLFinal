@@ -1,0 +1,239 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   New R femoral CVC placed and L IJ CVC removed.  New R radial A-line
+   placed and L radial A-line removed.
+   Opthomalogy saw patient, no evidence of ocular involvement with fungus.
+   Ambisome started per ID recommendations.
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Amikacin - [**2583-4-3**] 09:10 PM
+   Vancomycin - [**2583-4-5**] 12:00 PM
+   Cefipime - [**2583-4-5**] 09:05 PM
+   Micafungin - [**2583-4-5**] 10:00 PM
+   Metronidazole - [**2583-4-6**] 12:00 AM
+   Ambisome - [**2583-4-6**] 02:00 AM
+   Infusions:
+   Norepinephrine - 0.02 mcg/Kg/min
+   Heparin Sodium - 750 units/hour
+   Propofol - 15 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**2583-4-5**] 11:30 AM
+   Pantoprazole (Protonix) - [**2583-4-5**] 09:07 PM
+   Other medications:
+   ursodiol, pancrease, RISS, peridex, tenofovir, entecavir, po vancomycin
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2583-4-6**] 09:10 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**84**] AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.1
+C (97
+   HR: 65 (61 - 73) bpm
+   BP: 137/63(87) {78/39(53) - 177/78(107)} mmHg
+   RR: 27 (14 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 64 Inch
+   CVP: 16 (14 - 16)mmHg
+   Total In:
+                                                                  3,247 mL
+                                                                    974 mL
+   PO:
+   TF:
+                                                                    494 mL
+                                                                    114 mL
+   IVF:
+                                                                  1,244 mL
+                                                                    679 mL
+   Blood products:
+                                                                    546 mL
+   Total out:
+                                                                     70 mL
+                                                                    600 mL
+   Urine:
+   NG:
+                                                                     70 mL
+   Stool:
+                                                                    600 mL
+   Drains:
+   Balance:
+                                                                  3,177 mL
+                                                                    374 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 349 (349 - 478) mL
+   PS : 12 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 28
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 18 cmH2O
+   Plateau: 22 cmH2O
+   Compliance: 29.4 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.48/26/167/18/-1
+   Ve: 10.3 L/min
+   PaO2 / FiO2: 418
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL, sclera icterus
+   Head, Ears, Nose, Throat: Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: course ventilated BS
+   Abdominal: Soft, Non-tender, Bowel sounds present, Vac dressing in
+   place.
+   Extremities: Right lower extremity edema: 2+, Left lower extremity
+   edema: 2+
+   Skin:  Not assessed, Jaundice
+   Neurologic: Follows simple commands, Responds to: Not assessed,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   6.8 g/dL
+   301 K/uL
+   101 mg/dL
+   3.2 mg/dL
+   18 mEq/L
+   4.0 mEq/L
+   68 mg/dL
+   105 mEq/L
+   141 mEq/L
+   22.5 %
+   23.8 K/uL
+        [image002.jpg]
+                             [**2583-4-3**]  12:24 PM
+                             [**2583-4-3**]  02:50 PM
+                             [**2583-4-4**]  04:24 AM
+                             [**2583-4-4**]  04:54 AM
+                             [**2583-4-4**]  03:10 PM
+                             [**2583-4-5**]  02:46 AM
+                             [**2583-4-5**]  03:08 AM
+                             [**2583-4-5**]  01:08 PM
+                             [**2583-4-5**]  06:16 PM
+                             [**2583-4-6**]  03:26 AM
+   WBC
+   25.1
+   26.9
+   22.2
+   21.9
+   23.8
+   Hct
+   26.7
+   24.7
+   23.0
+   22.8
+   22.5
+   Plt
+   [**Telephone/Fax (3) 11759**]84
+   301
+   Cr
+   2.0
+   2.7
+   2.8
+   3.2
+   3.2
+   TropT
+   0.23
+   0.21
+   TCO2
+   29
+   24
+   23
+   23
+   20
+   Glucose
+   130
+   91
+   63
+   78
+   101
+   Other labs: PT / PTT / INR:22.9/124.4/2.2, CK / CKMB /
+   Troponin-T:34//0.21, ALT / AST:[**10-19**], Alk Phos / T Bili:164/10.1,
+   Differential-Neuts:71.0 %, Band:0.0 %, Lymph:13.0 %, Mono:11.0 %,
+   Eos:3.0 %, Lactic Acid:1.6 mmol/L, LDH:240 IU/L, Ca++:7.7 mg/dL,
+   Mg++:1.9 mg/dL, PO4:5.0 mg/dL
+   Imaging: CXR: Markedly rotated film, difficult to compare to priors.
+   No obvious infiltrate, perhaps some increase in volume but could also
+   be rotational artifact.
+   Microbiology: Peritoneal fluid:  NGTD
+   C diff:  neg
+   Pleural fluid cx: pending
+   Picc tip: pending
+   HD cath tip: pending
+   BCX: Yeast on [**5-19**], 415
+   BCx: [**4-5**] pending
+   Assessment and Plan
+   48 yo with ESRD and HBV cirrhosis with prolonged course after recent
+   complicated abd wound and polymicrobial bacteremia.  Now with fungemia.
+    1.) Sepsis:  Likely source fungemia.  All lines changed again
+   yesterday.  Also concern that fungus may be colonizing intravascular
+   clots.
+   -Now on micafungin and ambisome per ID.  Cx now suggests [**Female First Name (un) 439**]
+   albicans.  Fluc sensis will be known tomorrow-->Will tailor regimen as
+   able tomorrow.
+   -Will discuss with ID re: ?scaling back some of the anti-bacterial
+   regimen which is empiric.
+   -TEE to be done next week
+   -Daily surveillance cultures
+   -Appreciate optho input
+   -Still requiring a small amount of pressors.  Will continue to wean as
+   able.
+    2.) Respiratory Failure:  Oxygenating well.  Currently overventilating
+   on PSV 12/5.
+   -SBT this AM.  If passes would like to extubate today.
+    3.) Cdif: cont po vanc and flagyl; will likely require prolonged
+   course
+    4.) Altered mental status: Cleared quickly here.  Head CT
+   unremarkable.  EEG with diffuse slowing.  Likely toxic metabolic.
+   Following commands and nodding appropriately today.
+   -Avoid offending meds as able.
+   -Daily awakening if remains intubated.
+    5.)  Renal:  Currently on HD holiday.  No clear indication for RRT
+   today although volume will eventually become an issue.
+    6.) A/C:
+   - Back on heparin gtt for portal vein thrombosis and R IJ thrombosis.
+   Holding on coumadin given plans for new HD line in the future.
+    7). Autoimmune cholangiopathy: completed  steroid taper
+   8.)  FEN:  Off TPN.  Hold TF for possible extubation.
+   ICU Care
+   Nutrition:
+   Peptamen 1.5 (Full) - [**2583-4-4**] 11:15 PM 25 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2583-4-5**] 05:45 PM
+   Arterial Line - [**2583-4-6**] 12:13 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 31 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

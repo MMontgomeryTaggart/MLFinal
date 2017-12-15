@@ -1,0 +1,207 @@
+Chief Complaint:
+   24 Hour Events:
+   -lasix 80 mg IV @ 0900 -> 1L out, -430 @ 1430, lasix 120 mg IV @ [**3112**]
+   -put on 1L fluid restriction
+   -changed captopril to lisinopril
+   -held coumadin for INR 3.0
+   -plts stable, held off on ordering HIT/starting fondaparinux per
+   heme-onc c/s
+   -PCWP 25 mmHg, mPAP 45 mmHg
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown; Hives;
+   Cardizem (Oral) (Diltiazem Hcl)
+   Unknown; Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications: coumadin 5mg PO daily, omeprazole 20mg daily, MVI,
+   Calcium 1000mg PO BID, miralax, metoprolol 25mg PO BID, amlodipine 10mg
+   PO daily, lactulose 60mL PO q6h, rifaximin 400mg PO TID, senna 2 tab PO
+   BID, lisinopril 5mg PO daily
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: No complaints. Denies nausea, vomiting or abdominal
+   pain. Eating well. +Bm
+s daily. No SOB or chest pain
+   Flowsheet Data as of  [**3221-6-14**] 06:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.1
+C (97
+   HR: 54 (50 - 74) bpm
+   BP: 99/85(88) {99/50(62) - 127/87(97)} mmHg
+   RR: 25 (12 - 25) insp/min
+   SpO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 75 Inch
+    CVP: 12 (-3 - 12)mmHg
+   PAP: (59 mmHg) / (27 mmHg)
+   PCWP: 27 (25 - 31) mmHg
+   CO/CI (Fick): (5.6 L/min) / (2.7 L/min/m2)
+   SvO2: 72%
+   Mixed Venous O2% Sat: 72 - 72
+   Total In:
+                                                                  2,005 mL
+                                                                     66 mL
+   PO:
+                                                                  1,000 mL
+   TF:
+   IVF:
+                                                                  1,005 mL
+                                                                     66 mL
+   Blood products:
+   Total out:
+                                                                  2,300 mL
+                                                                  1,100 mL
+   Urine:
+                                                                  2,300 mL
+                                                                  1,100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -295 mL
+                                                                 -1,034 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///29/
+   Physical Examination
+   GEN: well-appearing NAD
+   HEENT: anicteric
+   NECK: R swan cath c/d/i
+   CV: reg rate nl S1 S2 no m/r/g
+   PULM: no rales/rhonchi/wheezes
+   ABD: soft NTND normoactive BS
+   EXT: warm, dry +PP no edema
+   Labs / Radiology
+   123 K/uL
+   14.8 g/dL
+   89 mg/dL
+   1.8 mg/dL
+   29 mEq/L
+   4.0 mEq/L
+   27 mg/dL
+   98 mEq/L
+   137 mEq/L
+   43.7 %
+   9.5 K/uL
+        [image002.jpg]
+                             [**3221-6-10**]  04:28 AM
+                             [**3221-6-10**]  03:17 PM
+                             [**3221-6-11**]  05:23 AM
+                             [**3221-6-11**]  04:20 PM
+                             [**3221-6-12**]  05:22 AM
+                             [**3221-6-12**]  06:24 AM
+                             [**3221-6-12**]  05:22 PM
+                             [**3221-6-13**]  01:58 AM
+                             [**3221-6-13**]  02:10 PM
+                             [**3221-6-14**]  05:20 AM
+   WBC
+   10.5
+   11.1
+   12.5
+   8.4
+   9.5
+   Hct
+   40
+   43.4
+   44.0
+   44.0
+   42.2
+   44.1
+   43.7
+   Plt
+   116
+   128
+   100
+   116
+   123
+   Cr
+   1.7
+   1.5
+   1.9
+   1.9
+   2.0
+   1.8
+   1.9
+   1.8
+   Glucose
+   111
+   94
+   125
+   89
+   131
+   100
+   128
+   89
+   Other labs: PT / PTT / INR:28.5/38.9/2.9, ALT / AST:43/39, Alk Phos / T
+   Bili:69/1.1, Amylase / Lipase:/39, Differential-Neuts:61.8 %,
+   Lymph:23.9 %, Mono:12.1 %, Eos:1.7 %, Albumin:3.0 g/dL, Ca++:8.5 mg/dL,
+   Mg++:1.8 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   53 M h/o cryptogenic cirrhosis awaiting transplant, portal HTN, pulm
+   HTN, chronic diastolic dysfunction, CRI, PE and Afib on coumadin
+   admitted for elective RHC demonstrating acute on chronic LV diastolic
+   CHF and pulmonary hypertension.
+   .
+   #Acute on chronic diastolic CHF- hemodynamics improving, -7.9L LOS; Cr
+   has remained relatively stable despite diuresis
+   -cont diuresis to goal  2-3 L neg today
+   -will start lasix gtt
+   -[**Hospital1 **] lytes
+   -continue lisinopril 5 mg po daily
+   .
+   #Pulm HTN
+ pulm pressures improving but not at preoperative target of
+   mPAP 35 mmHg, consistent with element of irreversible pulm HTN, also
+   suggested by absence of response to inhaled NO at cath [**3221-4-5**]. Based
+   on wedge however, he has not been completely diuresed
+   -cont amlodipine
+   -treat left-sided CHF, as above
+   .
+   # Thrombocytopenia
+ platelets decreased to 100 from 200 on admission,
+   low pre-test prob for HIT. Recovering with no intervention
+   -check platelets daily
+   .
+   #DVT/PE - INR 2.9 this am
+   -cont coumadin
+   .
+   #Afib
+ s/p successful cardioversion, remains in NSR
+   -cont lopressor for rate-control
+   .
+   #CKD
+ Cr remains stable at 1.8-2.0 despite aggressive diuresis
+   -cont to monitor [**Hospital1 **] while diuresing
+   .
+   #Cirrhosis
+ stable; awaiting transplant
+   -continue rifaxamin, lactulose
+   -Rx comorbidities as above
+   .
+   #HTN: well-controlled
+   -continue BB, CCB
+   .
+   #FEN: low Na diet; fluid restrict to 1L; replete lytes prn
+   .
+   #Access:  PIV; Swan
+   .
+   #PPx:  PPI, bowel regimen, systemic AC
+   .
+   #Emergency contact: sister [**Name (NI) **] [**Telephone/Fax (1) 5518**]
+   .
+   #. Code: FULL
+   .
+   #. Dispo: CCU for hemodynamic monitoring while swan in place
+
+
+
+DOC CLASS

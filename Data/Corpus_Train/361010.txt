@@ -1,0 +1,123 @@
+TITLE:
+   History of Present Illness
+   - started milrinone drip, continued lasix
+   - mental status initially lethargic but arousable, later not arousable
+   with BP falling to ~80/18 and UOP <10cc/h.  ABG 7.43/45/63.  Stopped
+   lasix gtt-->BP increased to 90/20, somewhat more responsive although
+   noncoherent and not following commands, UOP still quite low.
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 37.8 C
+   Tmax F last 24 hours: 100 F
+   T current C: 37.1 C
+   T current F: 98.8 F
+   Previous day:
+   Intake: 245 mL
+   Output: 315 mL
+   Fluid balance: -70 mL
+   Today:
+   Intake: 121 mL
+   Output: 25 mL
+   Fluid balance: 96 mL
+   VITAL SIGNS: Tc=Tm=98.8, BP 89/19, HR 101, RR 25, O2 Sat 94% on 2L by
+   NC
+   GENERAL: somnolent, awakens to voice but mumbles incoherently
+   HEENT: EOMI, PERRLA, MMM
+   NECK: JVP to angle of mandible
+   CARDIAC: RRR, normal s1, s2 obscured by 4/6 systolic murmur heard best
+   at LUSB
+   LUNGS: bibasilar crackles to 2/3 up posterior lung fields;
+   ABDOMEN: mildly distended; normal bowel sounds; LLQ tenderness
+   EXTREMITIES: no pitting edema,  1+ DP pulses bilaterally
+   Labs
+   198
+   8.5
+   190
+   3.6
+   26
+   4.7
+   111
+   93
+   131
+   24.4
+   11.3
+        [image002.jpg]
+                            [**3286-2-13**]  06:44 PM
+                            [**3286-2-14**]  03:41 AM
+   WBC
+   11.3
+   Hgb
+   8.5
+   Hct (Serum)
+   24.4
+   Plt
+   198
+   K + (Serum)
+   4.5
+   BUN
+   103
+   Creatinine
+   2.7
+   ABG: 7.43 / 45 / 63 /  / 4   Values as of [**3286-2-13**] 08:29 PM
+   Assessment and Plan
+ [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ LEUKOCYTOSIS
+ HEART FAILURE (CHF), SYSTOLIC AND DIASTOLIC, ACUTE ON CHRONIC
+   88 yo woman with h/o CHF, severe MR [**First Name (Titles) 608**] [**Last Name (Titles) **] chordae transferred from
+   cardiology floor to CCU for a milrinone trial after failed diuresis
+   with lasix drip.
+   .
+   #. Acute on Chronic Systolic and diastolic congestive heart failure.
+   The patient presented with signs and symptoms of congestive heart
+   failure with shortness of breath, increased oxygen requirement,
+   pulmonary edema, lower extremity edema, and elevated BNP.  She has a
+   known history of mitral regurgitation, however her worsening dyspnea
+   and CHF was found to be secondary to a ruptured chordae tendonae and
+   flair mitral valve.  She did not tolerate diuresis with lasix boluses
+   secondary to hypotension, and her diuresis with lasix gtt has been
+   limited by oliguria and increased creatinine.  An inotrope would
+   possibly increase cardiac output to the point of improving diuresis.
+   The goal of diuresis in this patient will be palliation of her dyspnea
+   before sending home.
+   -start milrinone, 50mcg.kg bolus, followed by .375mcg/kg/min.
+   -continue lasix gtt
+   -continue metolazone
+   -continue albuterol/ipratropium
+   -continue hydralazine for afterload reduction
+   -consider nitroprusside for afterload reduction
+   -holding [**Last Name (un) **] secondary to acute renal failure.
+   .
+   # Leukocytosis: rapid increase in WBC with prominent bandemia, now
+   decreasing, afebrile since admission. Also with intermittent diahrrea
+   as per nursing. C-Diff negative x 2. Abdomen mildly distended and
+   tender.  Supine films with non-specific bowel gas pattern.
+   - continue flagyl
+   - follow abdominal exam.
+   .
+   #. CAD: no known history of coronary disease. Troponin peaked at 0.04
+   and CK in 70s.
+   - Continue ASA 81MG.
+   .
+   #. Rhythm: Sinus, monitor telemetry.
+   .
+   #. Depression, anxiety.
+   - continue outpatient Wellbutrin and Paxil
+   #. Hypothyroid.
+   - continue outpatient Synthroid
+   .
+   FEN: cardiac heart-healthy diet
+   PPX:
+   -DVT ppx with HSQ
+   -Bowel regimen docusate, senna
+   ACCESS: PIV's
+   CODE STATUS: DNR/DNI (CONFIRMED)
+   EMERGENCY CONTACT: [**First Name8 (NamePattern2) 128**] [**Last Name (NamePattern1) 5093**] is her HCP: [**Telephone/Fax (1) 5094**] (cell),
+   [**Telephone/Fax (1) 5095**] (office); [**First Name8 (NamePattern2) 1809**] [**Last Name (NamePattern1) 5096**] is her social worker [**Telephone/Fax (1) 5097**];
+   Podi is her home health aide [**Telephone/Fax (1) 5098**].
+   DISPOSITION: CCU for milrinone.
+
+
+
+DOC CLASS

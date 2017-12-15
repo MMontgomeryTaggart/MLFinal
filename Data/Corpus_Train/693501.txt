@@ -1,0 +1,236 @@
+Chief Complaint:
+   24 Hour Events:
+   Lasix gtt started, patient with good UOP throughout the day.  Blood
+   pressures increased with Lasix gtt, weaned off of pressor yesterday
+   afternoon.
+   LUE U/S done to evaluate for swelling, negative for DVT.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**2598-10-4**] 04:48 PM
+   Vancomycin - [**2598-10-4**] 06:06 PM
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2598-10-6**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2598-10-7**] 07:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.2
+C (97.2
+   HR: 99 (84 - 109) bpm
+   BP: 91/42(55) {91/42(42) - 147/79(92)} mmHg
+   RR: 26 (16 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 69.4 kg (admission): 72.3 kg
+   Height: 62 Inch
+             Total In:
+                                                                    433 mL
+                                                                    111 mL
+   PO:
+             TF:
+   IVF:
+                                                                    433 mL
+                                                                    111 mL
+   Blood products:
+   Total out:
+                                                                  1,465 mL
+                                                                    620 mL
+   Urine:
+                                                                  1,465 mL
+                                                                    620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,032 mL
+                                                                   -509 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///21/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   215 K/uL
+   10.2 g/dL
+   135 mg/dL
+   1.9 mg/dL
+   21 mEq/L
+   4.0 mEq/L
+   44 mg/dL
+   110 mEq/L
+   142 mEq/L
+   30.7 %
+   12.5 K/uL
+        [image002.jpg]
+                            [**2598-9-29**]  09:16 PM
+                            [**2598-9-30**]  03:24 AM
+                            [**2598-10-4**]  04:47 PM
+                            [**2598-10-4**]  09:09 PM
+                            [**2598-10-5**]  12:11 AM
+                            [**2598-10-5**]  05:44 AM
+                            [**2598-10-5**]  06:03 PM
+                            [**2598-10-6**]  04:47 AM
+                            [**2598-10-6**]  05:05 PM
+                            [**2598-10-7**]  05:46 AM
+   WBC
+   16.0
+   21.1
+   24.3
+   19.2
+   19.7
+   12.5
+   Hct
+   27.3
+   26.9
+   26.9
+   26.7
+   31.1
+   33.3
+   30.7
+   Plt
+   163
+   292
+   310
+   286
+   295
+   215
+   Cr
+   1.2
+   2.3
+   2.2
+   2.2
+   2.1
+   1.9
+   1.9
+   TropT
+   2.01
+   1.93
+   2.02
+   TCO2
+   24
+   Glucose
+   115
+   126
+   104
+   163
+   155
+   151
+   135
+   Other labs: PT / PTT / INR:14.1/41.3/1.2, CK / CKMB /
+   Troponin-T:97/5/2.02, ALT / AST:185/276, Alk Phos / T Bili:134/0.5,
+   Amylase / Lipase:/89, Differential-Neuts:89.1 %, Lymph:5.8 %, Mono:3.6
+   %, Eos:1.2 %, Fibrinogen:560 mg/dL, Lactic Acid:0.9 mmol/L, Albumin:3.0
+   g/dL, LDH:517 IU/L, Ca++:7.9 mg/dL, Mg++:2.1 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ HYPOTENSION (NOT SHOCK)
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+   76 yo F with ischemic cardiomyopathy EF=25-30%, CAD s/ CABG & s/p
+   NSTEMI w/in the last week, heart block s/p dual-chamber pacer
+   transferred to the MICU with hypotension, decreased urine output, new
+   anion gap, and increased leukocytosis.
+   .
+   # Hypotension: Initially volume depleted as suported by physical exam
+   (flat neck veins , clear lungs, skin tenting, dry tongue) and urine
+   sodium of 11.  Volume repletion overshot and resulted in some degree of
+   failure. At peak was 5.5 L positive, with lasix drip, ended 3.5 L
+   positive length of stay. Crackles only at bases, JVP now at clavicle at
+   90 degrees, likely approaching euvolemia. Off pressors
+   --started on dig yesterday for failure and rate control
+   --d/c lasix drip as approaching euvolemia
+   --consider cardioversion as seems to have done better hemodynamically
+   when in sinus
+   --d/c
+ed Vanc and Cefepime given that this is more likely cardiogenic
+   in etiology. Would restart abx if patient spikes fevers.
+   .
+   # Leukocytosis: Etilogy of leukocytosis was unclear. C diff negative.
+   Less likely would be acute rxn to pacer implantation --too early to
+   invoke infectious process in pacer pocket, moreover, does not appear
+   infected.  Lines could have been a source, but BCX on [**10-1**] NGTD and
+   pending from [**10-4**].
+   --d/c
+ed Vanc and Cefepime for now given no localizing signs of
+   infection. Restart if develops fevers or worsening hypotension.
+   --LFTs with mild new transaminitis but normal bili, alk phos arguing
+   against biliary process. That said, would image, if WBC persists. LFTS
+   now trending down, was likely acute injury [**12-18**] hypotension.
+   --f/u culture data
+   .
+   # CAD: 3VD of both native vessels and grafts. EKG not overtly
+   concerning for ischemia, but difficult to interpret in setting of LBBB.
+   --ASA, PLAVIX, LIPITOR 80, HOLD ACEi, Metoprolol with high hold
+   parameters.
+   .
+   # CHF: Currrently fluid overloaded. Holding ACEI given  ARF, but will
+   resume ASAP. Holding parameters for BB. As above, will carefully
+   monitor fluid status with repletion given hx of flash pulm edema.
+   - Given low EF, her tolerance of afib may be limited and forward flow
+   may improve with restoration of atrial kick; consdier discussing
+   elective cardioversion with EP (would require TEE).
+   ***Need to discuss with cardiology re: inferior LV aneurysm seen on
+   second echo. Per read in system, unclear if this is new s/p NSTEMI, if
+   that is the case, anticoagulation would be indiacted in the acute
+   setting to avoid LV thrombus. If this is an old finding, no acute
+   anti-coag needed, pt would require it only for AFIB with high CHADS.
+   .
+   Rhythm: AFIB, Heart Block s/p dual chamber pacer: S/p EP interogation.
+   Changed to VVI set at 60.
+   --speak with EP prior to d/c so they can reset pacer
+   .
+   # Oliguric Renal Failure: Initial Urine sodium=11 suggesting pre-renal
+   etiology.  This rose to 84 with volume repletion (prior to receiving
+   lasix) further suggesting prereanl etiology of initial oliguria. Also
+   some likely contribution from contrast as [**Last Name (un) **] seems [**Last Name (un) 8950**] have occurred
+   48-72 hrs post cath
+   --Avoid nephrotoxins, renally dose meds
+   .
+   # Elevated PTT: Noted previously. SQH d/c by floor team for this
+   reason. Will restart SQH [**Hospital1 **] over tid and monitor PTT.
+   # Anemia: Guiaic +. If requires long term coumadin, colonoscopy should
+   be expedited for soon after d/c.
+   .
+   # FEN: replete lytes prn / speech and swallow consult
+   # PPX: H2B, heparin SQ, bowel regimen
+   # ACCESS: PIV  PICC
+   # CODE:  FULL
+   # CONTACT:  DAUGHTERS
+   # DISPO: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2598-10-4**] 06:07 PM
+   Prophylaxis:
+   DVT: SQH
+   Stress ulcer: h2b
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

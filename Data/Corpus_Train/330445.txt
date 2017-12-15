@@ -1,0 +1,207 @@
+Chief Complaint: aspiration PNA
+   HPI:
+   75 y/o M w/MMP, admitted with wound infection and course c/b
+   multisystem organ failure, now improved.
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2603-8-31**] 12:25 PM
+ PICC LINE - START [**2603-8-31**] 01:06 PM
+ MULTI LUMEN - STOP [**2603-8-31**] 05:23 PM
+   Started on daptomycin for GPCs on blood culture.
+   Remains on TM.
+   History obtained from Patient, Medical records
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Daptomycin
+   Infusions:
+   Heparin Sodium - 1,250 units/hour
+   Other ICU medications:
+   Other medications:
+   ASA
+   Lansoprazole
+   Plavix
+   Clorhexidine
+   Synthroid
+   Lopressor
+   Oxycodone
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Ear, Nose, Throat: OG / NG tube
+   Cardiovascular: Edema
+   Nutritional Support: Tube feeds
+   Gastrointestinal: No(t) Abdominal pain
+   Endocrine: History of thyroid disease
+   Flowsheet Data as of  [**2603-9-1**] 10:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.8
+C (98.3
+   HR: 116 (92 - 120) bpm
+   BP: 116/51(68) {85/23(45) - 122/66(77)} mmHg
+   RR: 17 (9 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 69 Inch
+   CVP: 11 (5 - 12)mmHg
+   Total In:
+                                                                  1,317 mL
+                                                                  1,083 mL
+   PO:
+   TF:
+                                                                    460 mL
+                                                                    518 mL
+   IVF:
+                                                                    477 mL
+                                                                    136 mL
+   Blood products:
+   Total out:
+                                                                    797 mL
+                                                                    330 mL
+   Urine:
+                                                                    737 mL
+                                                                    320 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    520 mL
+                                                                    753 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: Standby
+   Vt (Spontaneous): 0 (0 - 0) mL
+   RR (Spontaneous): 0
+   PEEP: 0 cmH2O
+   FiO2: 50%
+   PIP: 0 cmH2O
+   SpO2: 100%
+   ABG: ///31/
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: trach tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 2+ edema, LLE wrapped, Left knee erythema is stable
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   8.4 g/dL
+   337 K/uL
+   105 mg/dL
+   0.7 mg/dL
+   31 mEq/L
+   4.3 mEq/L
+   19 mg/dL
+   109 mEq/L
+   142 mEq/L
+   24.9 %
+   19.9 K/uL
+        [image002.jpg]
+                             [**2603-8-28**]  04:48 PM
+                             [**2603-8-29**]  04:09 AM
+                             [**2603-8-29**]  04:19 AM
+                             [**2603-8-30**]  03:53 AM
+                             [**2603-8-30**]  04:01 AM
+                             [**2603-8-31**]  12:16 AM
+                             [**2603-8-31**]  04:01 AM
+                             [**2603-8-31**]  04:42 AM
+                             [**2603-8-31**]  05:34 AM
+                             [**2603-9-1**]  04:18 AM
+   WBC
+   12.5
+   16.8
+   14.1
+   19.9
+   Hct
+   26.2
+   26.3
+   25.8
+   24.9
+   Plt
+   294
+   334
+   346
+   337
+   Cr
+   0.5
+   0.5
+   0.5
+   0.7
+   TCO2
+   35
+   35
+   34
+   32
+   33
+   34
+   Glucose
+   108
+   116
+   102
+   105
+   Other labs: PT / PTT / INR:15.9/72.9/1.4, CK / CKMB /
+   Troponin-T:21/4/0.12, ALT / AST:33/30, Alk Phos / T Bili:54/0.4,
+   Amylase / Lipase:24/10, Differential-Neuts:79.8 %, Lymph:7.8 %,
+   Mono:3.1 %, Eos:9.2 %, Lactic Acid:0.6 mmol/L, LDH:218 IU/L, Ca++:8.0
+   mg/dL, Mg++:2.1 mg/dL, PO4:4.2 mg/dL
+   Fluid analysis / Other labs: Right pleural fluid: pH>8.0, glucose 69,
+   LDH=156
+   Microbiology: Blood 9/30:  [**12-1**] GPC pairs/clusters
+   Urine [**8-30**]:  10-100K pseudomonas
+   Pleural fluid [**8-31**]: 2+ GNR.
+   Assessment and Plan
+   1)  Respiratory failure:  Now resolved.  Continues to do well on
+   TM--will continue with aggressive pulmonary toilet.  PMV.
+   2) Pleural effusions:  Right pigtail catheter remains in place.
+   Pleural [**Last Name (un) 5654**] analysis not consistent with empyema or complicated
+   exudative effusion therefore will not treat the acinetobacter as a
+   pathogen..
+   3) Leukocytosis:  He has 1/4 bottles from [**8-30**] positive for GPCs.  At
+   this point, it is not clear if this is a contaminant or pathogen.
+   Given his worsening leukocytosis, will cover for GPC bacteremia until
+   speciation returns.  REcheck blood cultures and check diff on WBC given
+   past eosinophilia.  Recheck UA and urine culture.
+   4) CAD:  Plan for perioperative beta-blockade
+   5) PAD:  Will d/w vascular surgery on their plans for surgery.  His
+   respiratory status is stable and there is no plan for further cardiac
+   risk stratification.
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2603-9-1**] 12:00 AM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Blood sugar well
+   controlled
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments: Plan for family meeting
+   today.
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+
+
+
+DOC CLASS

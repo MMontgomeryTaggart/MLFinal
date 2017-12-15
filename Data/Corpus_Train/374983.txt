@@ -1,0 +1,202 @@
+Chief Complaint: 81 year old male with CHF, Stage III CKD, lung CA s/p
+   wedge resection, and prostate CA s/p hormonal tx and XRT who presented
+   [**1-10**] with ruptured appendix medically managed, transferred to medicine
+   floor for tachycardia, now transferred to [**Hospital Unit Name 10**] with tachycardia and
+   relative hypotension.
+   24 Hour Events:
+   - No GI recs
+   - [**Doctor First Name 3**] recs do not adv diet as pt still distended with rising WBC
+   - Cards recs pt rate-controlled without dig so do not need to add dig
+   now, tachycardia likely related to infection
+   - Rash on back
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3347-1-16**] 08:38 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3347-1-17**] 08:26 AM
+   Ciprofloxacin - [**3347-1-17**] 08:45 PM
+   Metronidazole - [**3347-1-18**] 12:17 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3347-1-17**] 08:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3347-1-18**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 112 (93 - 119) bpm
+   BP: 73/38(64) {72/32(43) - 117/71(80)} mmHg
+   RR: 32 (22 - 41) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 66 Inch
+             Total In:
+                                                                  1,950 mL
+                                                                    173 mL
+   PO:
+                                                                    240 mL
+             TF:
+   IVF:
+                                                                  1,710 mL
+                                                                    173 mL
+   Blood products:
+   Total out:
+                                                                  1,665 mL
+                                                                    175 mL
+   Urine:
+                                                                  1,665 mL
+                                                                    175 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    285 mL
+                                                                     -2 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.42/40/31/24/0
+   Physical Examination
+   GEN: NAD
+   HEENT: dry MM
+   CV: tachycardic, no murmurs
+   PULM: CTA B
+   ABD: soft but distended, TTP worst in RLQ, +BS, no guarding, no
+   rebound, not tense
+   EXT: no edema
+   PERINEUM: erythematous, most rash over scrotum and surrounding area
+   Labs / Radiology
+   203 K/uL
+   12.8 g/dL
+   87 mg/dL
+   1.8 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   33 mg/dL
+   105 mEq/L
+   139 mEq/L
+   37.3 %
+   22.9 K/uL
+        [image002.jpg]
+                             [**3347-1-15**]  09:35 AM
+                             [**3347-1-15**]  04:00 PM
+                             [**3347-1-15**]  09:55 PM
+                             [**3347-1-16**]  03:32 AM
+                             [**3347-1-16**]  11:16 AM
+                             [**3347-1-17**]  05:12 AM
+                             [**3347-1-17**]  05:56 PM
+                             [**3347-1-18**]  12:00 AM
+                             [**3347-1-18**]  12:53 AM
+                             [**3347-1-18**]  04:20 AM
+   WBC
+   19.4
+   26.1
+   22.9
+   Hct
+   40.7
+   37.5
+   39.2
+   36.8
+   41.1
+   38.0
+   34.5
+   40.2
+   37.3
+   Plt
+   227
+   215
+   203
+   Cr
+   1.1
+   1.4
+   1.8
+   TCO2
+   27
+   Glucose
+   150
+   113
+   87
+   Other labs: PT / PTT / INR:14.0/26.0/1.2, CK / CKMB / Troponin-T:67/4/,
+   ALT / AST:32/36, Alk Phos / T Bili:57/0.2, Differential-Neuts:92.6 %,
+   Band:1.0 %, Lymph:3.8 %, Mono:2.5 %, Eos:0.9 %, Lactic Acid:2.4 mmol/L,
+   Albumin:2.5 g/dL, LDH:191 IU/L, Ca++:7.1 mg/dL, Mg++:2.3 mg/dL, PO4:3.7
+   mg/dL
+   Assessment and Plan
+   81 year old male with CHF, Stage III CKD, lung CA s/p wedge resection,
+   and prostate CA s/p hormonal tx and XRT who presented [**1-10**] with
+   ruptured appendix medically managed, transferred to medicine floor for
+   tachycardia, now transferred to [**Hospital Unit Name 10**] with tachycardia and relative
+   hypotension.
+   # Ruptured Appendix: No plan for surgery
+   - switched antibiotics from Vanco/Zosyn (for also concern of pulmonary
+   infection) to Cipro/Flagyl day #2
+   - passing stool and  imaging without obstruction. Abdomen benign but
+   distended and tender
+   - f/u surgery recs
+   # [**Last Name (un) 2359**] on CKD: FeNa  <1 yesterday, but received over 2L yesterday and Cr
+   incr to 1.8 today. Likely [**12-19**] contrast nephropathy
+   - will give D5 1/2NS maintenece fluid
+   - will recheck FeNa for comparison
+   - check for urine eos
+   # Tachycardia: has h/o PAF, but on eval by cardiology is thought to be
+   in sinus tachycardia. In setting of worsening renal function, pulm HTN
+   and biventricular systolic dysfunction, may be physiological response
+   to decreased preload.  Other possiblities entertained have included
+   anemia from GIB, pain, albuterol nebs. PE ruled out.
+   - continue 75mg TID, if still not rate-controlled with incr to 100 TID
+   or switch to CCB for less bronchoconstriction properties.
+   - IVF bolus
+   # Leukocytosis- WBC 13->26 over 2 days. Concerning for C diff or
+   abscess
+   - urine and blood cultures pending, UA positive but not broadening
+   antibiotics unless culture shows resistence
+   - CXR with worsening atelectasis and bilateral effusion, no infiltrate
+   - KUB with dilated bowl loops, without free air
+   - C Diff pending, starting IV flagyl empirically to cover C diff and
+   bowel perf.
+   - If continues to worsen, could consider PO vanco, although safety
+   unclear with perf
+   # GIB- Hct now stable s/p 4 u PRBCs on [**1-14**] . Continues to have grossly
+   bloody stool
+   - GI following, no plan to scope at this point
+   - Hct q12, transfuse for Hct <30?
+   - IV PPI [**Hospital1 **]
+   .
+   #COPD:  On multiple nebs, and Vanc/Zosyn, off steroids
+   - Stopping antibiotic coverage of COPD flair.
+   - consider switching BB to CCB for rate control without
+   broncoconstriction
+   #Prostate and Lung Ca: Not currently on treatment for these at home.
+   No tx indicated at this time.
+   #Hyperlipidemia: Continue pravastatin at home dose.
+   # Inguinal rash
+likely fungal
+   - starting silver sulfadiazine cream [**Hospital1 **]
+   # FEN
+starting TPN today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3347-1-15**] 11:33 AM
+   Prophylaxis:
+   DVT:  no SQH (from GI bleed) (also no ASA)
+   Stress ulcer:  pantoprazole
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

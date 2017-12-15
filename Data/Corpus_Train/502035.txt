@@ -1,0 +1,177 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   repeat Lactate 1.2
+   Advanced diet to clears
+   GPCs in blood
+   2nd set of cultures ordered
+   Anxiety overnight; gave ativan 0.5mg with improvement
+   Also c/o TMJ pain; has mouth guard at home; contact husband today
+ PHERESIS CATHETER - START [**3036-1-5**] 05:27 PM
+   Allergies:
+   Betadine (Topical) (Povidone-Iodine)
+   Anaphylaxis;
+   Nitroglycerin Transdermal (Transderm.) (Nitroglycerin)
+   Headache;
+   Gabapentin
+   delirium;
+   Cilostazol
+   Rash;
+   Colestipol
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3036-1-5**] 08:55 PM
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3036-1-6**] 12:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3036-1-6**] 07:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**37**] AM
+   Tmax: 36.3
+C (97.3
+   Tcurrent: 36.1
+C (96.9
+   HR: 98 (95 - 115) bpm
+   BP: 143/90(103) {114/65(79) - 150/108(114)} mmHg
+   RR: 20 (13 - 32) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  4,796 mL
+                                                                    927 mL
+   PO:
+             TF:
+   IVF:
+                                                                    796 mL
+                                                                    927 mL
+   Blood products:
+   Total out:
+                                                                  3,170 mL
+                                                                    700 mL
+   Urine:
+                                                                  1,720 mL
+                                                                    700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,626 mL
+                                                                    227 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///25/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   151 K/uL
+   12.4 g/dL
+   108 mg/dL
+   0.7 mg/dL
+   25 mEq/L
+   3.6 mEq/L
+   10 mg/dL
+   106 mEq/L
+   139 mEq/L
+   36.5 %
+   2.9 K/uL
+        [image002.jpg]
+                             [**3036-1-6**]  05:33 AM
+   WBC
+   2.9
+   Hct
+   36.5
+   Plt
+   151
+   Cr
+   0.7
+   Glucose
+   108
+   Other labs: Lactic Acid:1.2 mmol/L, Ca++:8.5 mg/dL, Mg++:1.8 mg/dL,
+   PO4:3.2 mg/dL
+   Assessment and Plan
+   51 yo female s/p renal tx X3 (most recent CRT [**9-15**]) and panc X2 (most
+   recent [**2-14**]), severe PVD, HTN presents with rigors/fevers and mental
+   status changes.
+   # Sepsis- Patient presented with fever, tachycardia and hypotension.
+   Thus far source of infection unclear; CXR negative, CT abdomen
+   unrevealing, U/A negative, Renal Ultrasound unrevealing, Lactate 2.0,
+   LFTs unremarkable.  Patient does have history of VRE Peritonitis as
+   well as an indwelling tunneled femoral line which is a likely source;
+   at this point patient refusing line removal. CT did show maxillary
+   sinusitis and pt did have recent complain of a persistant "head cold"
+   per her husband. [**Name (NI) **] source could be ostomy site given recent
+   purulent drainage although exam at this point unrevealing.
+   - Will continue to treat with Imipenem/Vancomycin for broad coverage
+   given h/o VRE and immunosuppression (day #1 is [**1-5**])
+   - Continue home steroids for now - received stress dose in ED
+   - Goal MAP>65
+   - F/U Urine culture
+   - F/U Blood cultures
+   - Follow up final read of CT abdomen, renal transplant ultrasound, CXR
+   and CT head
+   - Need to address access and removal of line pending culture growth
+   - Check vanc trough after 3rd dose (day #1 [**1-5**])
+   .
+   # Mental Status change- Patient with acute MS changes although events
+   not clear at this time. Per her husband, pt has altered MS every time
+   her BP drops.  BP was low on EMS arrival. Pt does have labile BPs and
+   takes both BB and fludrocortisone prn to manage her pressures. It is
+   possible that infection precipitation hypotension causing the MS
+   changes. Currently MS improving and appears to be mentating well.
+   - CT at this point unrevealing for ICH or edema.
+   - Toxic metabolic work up in place as above.
+   - Follow up final CT read
+   .
+   #Apnea-Unclear if truly apneic; appears to be breathing shallow on exam
+   -Monitor for now
+   .
+   #S/P Kidney/Pancreas Transplant-Pts creatinine slightly above baseline
+   on admission; likely prerenal given hypotension/sepsis
+   -Continue immunosuppressives Azathioprine, Prednisone, Tacrolimus 3mg
+   [**Hospital1 **] (sublingual per transplant; crush meds)
+   -Tacrolimus level in AM
+   -Transplant Surgery/Medicine following
+   .
+   #h/o Hypertension/Orthostatic Hypotension
+   -Will hold Toprol and Fludrocortisone for now
+   .
+   #CAD- Holding BB given hypotension, continue aspirin
+   .
+   # Blindness [**1-12**] DMI: stable, She continued her home drops and may need
+   to bring in from home given non-formulary
+   - Cyclosporine 0.05% gtts; one in each eye QID
+   - Acular 0.5% drops 1 gtt os q3D
+   - Loteprednol Etabonate 0.2% drops 1 gtt ou [**Hospital1 **]
+ ANXIETY
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3036-1-5**] 05:26 PM
+   Pheresis Catheter - [**3036-1-5**] 05:27 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

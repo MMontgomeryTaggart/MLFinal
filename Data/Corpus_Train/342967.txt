@@ -1,0 +1,232 @@
+Chief Complaint: respiratory failure
+   24 Hour Events:
+   - continued lactulose
+   - UA with hyaline casts and blood
+   - mental status with slow improvement, 130am responsive to commands in
+   all exts, appropriate eye contact
+   - urine lytes [**Name (NI) 3724**] 0%, FeUrea 13.2%, urine osm 508, hr 105 --> IVF NS
+   - ABG pm [**10-11**] - 7.49/22/169
+   - lactate trend downward from 3.7 to 2 at 9pm, then back to 3.7 in am
+   - needed to start propofol gtt at 5am due to discomfort and concern for
+   pulling NGT
+   Allergies:
+   Amoxicillin
+   Rash;
+   Adhesive Bandage (Topical)
+   Rash;
+   Last dose of Antibiotics:
+   Metronidazole - [**3274-10-12**] 02:11 AM
+   Infusions:
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3274-10-11**] 10:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3274-10-12**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 37.8
+C (100.1
+   HR: 97 (81 - 126) bpm
+   BP: 102/65(71) {100/45(57) - 143/84(95)} mmHg
+   RR: 16 (10 - 20) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 69.9 kg (admission): 65 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,589 mL
+                                                                    406 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,269 mL
+                                                                    236 mL
+   Blood products:
+   Total out:
+                                                                    470 mL
+                                                                    269 mL
+   Urine:
+                                                                    470 mL
+                                                                    269 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,119 mL
+                                                                    137 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 1,206 (1,089 - 1,530) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 16
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 13
+   PIP: 6 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 100%
+   ABG: 7.49/22/169/15/-3
+   Ve: 12.7 L/min
+   PaO2 / FiO2: 338
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed, No(t) Rash: , Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Sedated, Tone: Not assessed
+   Labs / Radiology
+   86 K/uL
+   8.7 g/dL
+   110 mg/dL
+   1.1 mg/dL
+   15 mEq/L
+   4.0 mEq/L
+   22 mg/dL
+   105 mEq/L
+   132 mEq/L
+   25.9 %
+   14.7 K/uL
+        [image002.jpg]
+                            [**3274-10-7**]  07:44 PM
+                            [**3274-10-8**]  04:42 AM
+                            [**3274-10-8**]  09:07 AM
+                            [**3274-10-11**]  05:50 AM
+                            [**3274-10-11**]  07:19 AM
+                            [**3274-10-11**]  09:21 AM
+                            [**3274-10-11**]  09:38 AM
+                            [**3274-10-11**]  02:47 PM
+                            [**3274-10-11**]  06:39 PM
+                            [**3274-10-12**]  04:00 AM
+   WBC
+   10.6
+   9.8
+   18.6
+   14.7
+   Hct
+   27.9
+   30
+   28.1
+   27.3
+   25.9
+   Plt
+   123
+   92
+   86
+   86
+   Cr
+   0.8
+   0.8
+   0.9
+   1.0
+   1.0
+   1.1
+   TCO2
+   20
+   18
+   17
+   Glucose
+   143
+   105
+   107
+   113
+   129
+   103
+   110
+   Other labs: PT / PTT / INR:22.6/58.2/2.2, ALT / AST:82/138, Alk Phos /
+   T Bili:180/5.8, Amylase / Lipase:126/104, Differential-Neuts:86.4 %,
+   Lymph:6.3 %, Mono:6.8 %, Eos:0.5 %, Lactic Acid:3.3 mmol/L, Albumin:2.8
+   g/dL, LDH:315 IU/L, Ca++:8.3 mg/dL, Mg++:2.4 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   A/P: 41 yo M with pulmonary hypertension, ESLD on transplant list with
+   Hep C cirrhosis, alcoholic cirrhosis, hypothyroidism who presents with
+   his fourth episode of altered mental status requiring intubation for
+   airway protection.
+   # Somnolence.  Again prompting respiratory code and intubation for
+   airway protection on floor.  Differential has included hepatic
+   encephalopathy (worsening overnight with no overnight doses of
+   lactulose), OSA or other sleep disordered breathing.  Most likely
+   explanation is severe hepatic encephalopathy with overnight break from
+   lactulose, as these episodes have all occurred within a few hours of
+   8am meds (no lactulose for at least 8-10 hours).
+   -          Treat aggressively for hepatic encephalopathy  - now
+   lactulose Q4-6H to start until mental status clearing, continue
+   rifaximin and flagyl.  [**Month (only) 47**] need specific overnight wakeup for
+   lactulose.
+   -          Possible OSA
+ consider CPAP upon extubation (trial 2 nights
+   ago).
+   -          Extubation today
+    # Respiratory alkalosis/metabolic acidosis.  Stable pH at 7.50 with
+   significant respiratory alkalemia.  Taking large breaths on vent.
+   Likely related to ascites/large abdomen with other hormonal effects
+   from cirrhosis.  Also with metabolic acidosis
+ in part compensatory
+   for respiratory alkalosis, but bicarb dropping throughout this
+   admission, likely an effect of increasing lactulose requirements
+   leading to worsening diarrhea and bicarb losses.
+   -          Continue with PSV on vent at current settings ([**3-26**]).
+   -          Check urinary anion gap
+ anticipate seeing negative gap due
+   to GI losses of bicarb.
+   # Hyponatremia: Stable in 120s.  Has been in the low 130s previously on
+   this admission.  Yesterday with Na 118, up to 126 this AM.  Unlikely to
+   be primary cause of altered mental status.
+   -          1 L fluid restriction once taking PO.
+   -          Hold diuretics
+   -          Avoid rapid correction of Na if drops again.
+   # ESLD: Hep C and alcohol cirrhosis.
+   - lactulose, rifaximin, flagyl as above.
+   -holding diuretics for now
+   -continue prophylactic cipro (SBP).
+   - follow up hepatology recs
+    # Pulmonary HTN: on iloprost and sildenifil at home.  Sildenifil
+   discontinued yesterday due to concern of worsening OSA.  No evidence
+   that this or other decompensations were related to pulmonary
+   hypertension, as remains hemodynamically stable during these events.
+   -          continue to hold both sildenifil and iloprost for now
+   (iloprost can resume once extubated).
+   # Epistaxis.  Noted to have blood in nose during event.  No current
+   bleeding.  Neither OGT or ETT suctioning returning blood.
+   -          continue to monitor for now
+   -          FFP and platelets is needed if has recurrent bleeding.
+   # Hypothyroidism: continue levothyroxine
+   ICU Care
+   Nutrition:
+   Comments: NPO for planned extubation
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3274-10-11**] 08:10 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

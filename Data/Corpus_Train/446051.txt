@@ -1,0 +1,190 @@
+Chief Complaint:
+   24 Hour Events:
+   -cardiac enzymes rising:  0.27 -> 0.63 -> 1.07 ; CK 1200 -> 1800
+   -started IV heparin
+   -EKG shows LBBB (unclear if old or new)
+   -cardiology aware ? cath today
+   -chest CT suggests sequlae of massive aspiration event leading to
+   bilateral lower lobe consolidations/ground glass opacities
+   -creatinine improved from 1.3 to 1.1
+   Allergies:
+   Last dose of Antibiotics:
+   Vancomycin - [**3185-11-11**] 08:32 PM
+   Ciprofloxacin - [**3185-11-11**] 10:10 PM
+   Cefipime - [**3185-11-12**] 06:14 AM
+   Infusions:
+   Heparin Sodium - 1,100 units/hour
+   Fentanyl - 100 mcg/hour
+   Midazolam (Versed) - 8 mg/hour
+   Other ICU medications:
+   Heparin Sodium - [**3185-11-11**] 05:58 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3185-11-12**] 08:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.1
+C (97
+   HR: 81 (80 - 110) bpm
+   BP: 101/49(60) {91/49(13) - 122/86(142)} mmHg
+   RR: 20 (18 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+             Total In:
+                                                                  2,618 mL
+                                                                  1,026 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,618 mL
+                                                                  1,026 mL
+   Blood products:
+   Total out:
+                                                                  1,475 mL
+                                                                    825 mL
+   Urine:
+                                                                  1,475 mL
+                                                                    625 mL
+   NG:
+   200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,143 mL
+                                                                    201 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 498 (498 - 498) mL
+   RR (Set): 20
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 33 cmH2O
+   Plateau: 22 cmH2O
+   Compliance: 61.1 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.39/35/110/22/-2
+   Ve: 11.1 L/min
+   PaO2 / FiO2: 220
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   160 K/uL
+   10.8 g/dL
+   210 mg/dL
+   0.9 mg/dL
+   22 mEq/L
+   4.0 mEq/L
+   16 mg/dL
+   113 mEq/L
+   143 mEq/L
+   31.1 %
+   15.3 K/uL
+        [image002.jpg]
+                             [**3185-11-11**]  03:40 PM
+                             [**3185-11-11**]  05:34 PM
+                             [**3185-11-11**]  09:16 PM
+                             [**3185-11-11**]  11:11 PM
+                             [**3185-11-12**]  03:11 AM
+                             [**3185-11-12**]  06:22 AM
+   WBC
+   18.6
+   15.3
+   Hct
+   36.7
+   31.1
+   Plt
+   208
+   160
+   Cr
+   1.1
+   0.9
+   0.9
+   TropT
+   0.63
+   1.07
+   1.05
+   TCO2
+   18
+   21
+   22
+   Glucose
+   [**Telephone/Fax (3) 9040**]
+   Other labs: PT / PTT / INR:13.8/51.4/1.2, CK / CKMB /
+   Troponin-T:2146/110/1.05, ALT / AST:52/188, Alk Phos / T Bili:52/0.2,
+   Differential-Neuts:95.5 %, Lymph:2.7 %, Mono:1.2 %, Eos:0.5 %, Lactic
+   Acid:2.2 mmol/L, Ca++:7.5 mg/dL, Mg++:2.4 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   Assessment/Plan: 49 yo man with presumed CAD, DM who presents w/ resp
+   distress found to be profoundly hypertensive, evidence of aspiration on
+   CT chest and rising CEs
+   .
+   1) ACS:  Presented with shortness of breath, rising troponins, and LBBB
+   (unknown baseline), overal suspicious for ACS, possibly in the setting
+   of hypertensive emergency and flash pulmonary edema. Troponin, CKs
+   rising since presentation to OSH. Pt denies pain on exam, though
+   partially sedated.
+   -Started IV heparin
+   -cardiology c/s today (no cath overnight per fellow)
+   -ASA, Plavix
+   -Cycled troponins X 3
+   -EKG
+   -Holding metformin
+   -Obtaining 2D echo to look for myocardial wall abnormalities
+   -need to obtain outside records
+   .
+   2) Aspiration PNA - Febrile with WBC count elevated at 27 on initial
+   labs, now trending down likely after fluid resuscitation. Aspiration
+   PNA read based on appearance on CT Chest.
+   -Start vanc, cefepime, ciprofloxacin
+   -Trending WBC
+   - sputum cultures
+   - blood cultures
+   .
+   3) Acute renal failure - Resolved with IVFs
+    -IV hydration
+   -Trend creatinines
+   -Holding metformin, glyburide, lisinopril
+   .
+   4) DM
+   -SSC insulin
+   .
+   PPx: heparin drip, IV PPI
+   Code: Presumed full, confirmed with son
+   Access: [**Name (NI) 1370**] x 3
+   Dispo: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3185-11-11**] 02:36 PM
+   16 Gauge - [**3185-11-11**] 06:26 PM
+   Arterial Line - [**3185-11-11**] 07:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

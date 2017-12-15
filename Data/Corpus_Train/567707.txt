@@ -1,0 +1,218 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2880-3-25**] 01:00 PM
+ BLOOD CULTURED - At [**2880-3-25**] 09:00 PM
+   Patient put on propofol overnight for restlessness, hypertension.
+   Reglan increased, continued lactulose/rifaxamine - stooling well
+   Still no urine output
+   DIC labs were wnl last night
+   Allergies:
+   Zanaflex (Oral) (Tizanidine Hcl)
+   hallucinations;
+   Last dose of Antibiotics:
+   Vancomycin - [**2880-3-24**] 11:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2880-3-26**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2880-3-26**] 06:04 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2880-3-26**] 06:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.9
+C (98.4
+   HR: 85 (79 - 113) bpm
+   BP: 116/52(66) {93/45(56) - 167/91(108)} mmHg
+   RR: 26 (14 - 35) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 103.7 kg (admission): 99.5 kg
+   Height: 65 Inch
+    CVP: 21 (15 - 24)mmHg
+   Bladder pressure: 18 (18 - 18) mmHg
+   Total In:
+                                                                  1,722 mL
+                                                                    482 mL
+   PO:
+   TF:
+                                                                    500 mL
+                                                                     79 mL
+   IVF:
+                                                                    705 mL
+                                                                    314 mL
+   Blood products:
+                                                                    157 mL
+   Total out:
+                                                                    991 mL
+                                                                    128 mL
+   Urine:
+                                                                     41 mL
+                                                                      8 mL
+   NG:
+                                                                    450 mL
+   Stool:
+   Drains:
+                                                                    300 mL
+                                                                    120 mL
+   Balance:
+                                                                    731 mL
+                                                                    354 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 375 (375 - 530) mL
+   PS : 10 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 23
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 21 cmH2O
+   SpO2: 97%
+   ABG: ///22/
+   Ve: 8.8 L/min
+   Physical Examination
+   Gen: intubated sedated
+   CVS: +S1/S2, no m/r/g, RRR
+   LUNGS: CTAB anteriorly
+   ABD: +massive ascites/tense, decreased bowel sounds
+   EXT: +2 peripheral edema
+   Labs / Radiology
+   40 K/uL
+   10.4 g/dL
+   193 mg/dL
+   3.7 mg/dL
+   22 mEq/L
+   3.4 mEq/L
+   58 mg/dL
+   105 mEq/L
+   142 mEq/L
+   29.0 %
+   6.5 K/uL
+        [image002.jpg]
+                             [**2880-3-24**]  05:53 AM
+                             [**2880-3-24**]  06:01 AM
+                             [**2880-3-24**]  12:02 PM
+                             [**2880-3-24**]  12:16 PM
+                             [**2880-3-24**]  02:58 PM
+                             [**2880-3-24**]  09:59 PM
+                             [**2880-3-25**]  12:53 AM
+                             [**2880-3-25**]  03:57 AM
+                             [**2880-3-25**]  04:55 PM
+                             [**2880-3-26**]  03:27 AM
+   WBC
+   4.2
+   4.4
+   4.2
+   8.2
+   11.4
+   6.5
+   Hct
+   29.1
+   27.5
+   28.2
+   30.7
+   33.0
+   29.0
+   Plt
+   29
+   34
+   26
+   47
+   61
+   61
+   40
+   Cr
+   3.4
+   3.3
+   3.7
+   TCO2
+   20
+   22
+   Glucose
+   122
+   126
+   176
+   193
+   Other labs: PT / PTT / INR:21.0/42.1/2.0, ALT / AST:[**12-29**], Alk Phos / T
+   Bili:89/20.4, Differential-Neuts:87.4 %, Lymph:6.7 %, Mono:4.1 %,
+   Eos:1.7 %, D-dimer:[**Numeric Identifier 7797**] ng/mL, Fibrinogen:136 mg/dL, Lactic Acid:1.9
+   mmol/L, Albumin:4.3 g/dL, LDH:181 IU/L, Ca++:9.1 mg/dL, Mg++:2.0 mg/dL,
+   PO4:3.7 mg/dL
+   Assessment and Plan
+   58 F with history of HCV cirrhosis s/p TIPS, CKD, admit from OSH with
+   encephalopathy and hepatorenal syndrome with respiratory failure.
+   # Respiratory Failure: Patient intubated [**3-18**] encephalopathy.  Off
+   sedation.  Patient remains lethargic not waking to commands, this is
+   likely [**3-18**] encephalopathy.  Benzos may still be in her system as well
+   given her renal and liver failure.  Will cont to monitor.
+   -          if <10 peep, try RSBI
+   -  may attempt to extubate tomorrow if mental status improves
+   # Septic Shock
+ likely source was SBP. Cultures continue to be
+   negative and WBC trending down on most recent para.
+   -          continue to follow cultures
+   -          continue Zosyn for 10 day course, Vanco for 7 day course
+   -          MAP>65 (off pressors for 48 hours)
+   # DIC:  Most likely [**3-18**] sepsis/liver failure.  HCT, fibrinogen has
+   remained stable.  PLT < 30 overnight and received 1u Platelets.
+   -- [**Hospital1 **] hct, plts, coags and fibrinogen
+   -- transfuse PRBC for HCT < 25
+   -- transfuse FFP for INR > 2
+   -- transfuse cryo for fibrinogen <100
+   -- PPI IV BID
+   # Hepatorenal syndrome - likely triggered by 11 L Para on [**3-14**] with
+   only 25gm albumin. Patient is currently oliguric.  Renal has been
+   following.  She is now off pressors.  Holding daily albumin.  Patient
+   was on CVVH this morning but line has clotted off. Currently, plan is
+   to stop CVVH and start HD today.
+   -f/u renal recs
+   -consider restarting midodrine if tolerates TF
+   # Altered mental status - likely hepatic encephalopathy triggered by
+   SBP and hepatorenal syndrome.  Restarted lactulose and rifaxamine today
+ stooling as of this morning.
+   -push PO lactulose
+   -treat SBP, hepatorenal as above
+   # HCV cirrhosis - decompensated w/ varices, massive ascites s/p tips,
+   encephalopathy. Awaiting transplant.
+   -treat complications as above
+   - f/u liver recs
+   .# DM2
+ increase lantus 32u daily for hyperglycemia, and HISS
+   .# Seizure disorder -
+   - cont keppra IV
+   .# Depression/Anxiety. - holding psych meds due to delta MS.
+   # PPx:  pneumoboots, PPI IV BID, VAP bundle
+   # FEN: TF
+s today.
+   # Access RIJ, HD line
+   # Code: Full
+   # Dispo: pending improvement.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**2880-3-26**] 04:36 AM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2880-3-21**] 10:57 AM
+   Dialysis Catheter - [**2880-3-23**] 05:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

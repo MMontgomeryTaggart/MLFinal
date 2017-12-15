@@ -1,0 +1,220 @@
+Chief Complaint:
+   24 Hour Events:
+ ULTRASOUND - At [**3272-5-11**] 10:41 AM
+   - Started aztreonam
+   - Weaned off neo
+   - Renal U/S: no hydronephrosis
+   - R diagnostic thoracentesis: pH 7.10, LDH 2259, Gluc 81, WBC [**Numeric Identifier 5187**],
+   gram stain with 4+ polys, 1+ GPCs, concentrated smear
+   - Added Flagyl
+   - Good UOP with 1L LR, NS piggybacks
+   - HR sustained in 130s-140s, afib, BP ok gave metoprolol 5mg IV,, no
+   change
+   - Multiofcal pneumonia with a moderate right pleural effusion which
+   appears to be superior to the large RML and RLL consolidation, raising
+   the question of loculation. Accurate evaluation is limited due to lack
+   of IV contrast (witheld in the setting of Cr=2.2). concomitant
+   multifocal areas of consolidation, groundglass opacities and septal
+   thickening with a mixed subpleural and central distribution
+   (particularly left), part of this is due to multifocal pneumonia, may
+   also have some contribution from superimposed mild edema.
+   Allergies:
+   Lisinopril
+   Unknown;
+   Ceftriaxone
+   Hives;
+   Last dose of Antibiotics:
+   Vancomycin - [**3272-5-11**] 08:00 AM
+   Aztreonam - [**3272-5-12**] 04:25 AM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3272-5-11**] 05:30 PM
+   Metoprolol - [**3272-5-12**] 03:28 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3272-5-12**] 07:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 35.9
+C (96.7
+   HR: 110 (104 - 127) bpm
+   BP: 97/60(69) {71/48(54) - 156/125(131)} mmHg
+   RR: 47 (27 - 47) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+    CVP: 9 (3 - 17)mmHg
+   Total In:
+                                                                  3,560 mL
+                                                                    487 mL
+   PO:
+                                                                  1,000 mL
+   TF:
+   IVF:
+                                                                  2,560 mL
+                                                                    487 mL
+   Blood products:
+   Total out:
+                                                                  5,250 mL
+                                                                  2,260 mL
+   Urine:
+                                                                  5,250 mL
+                                                                  2,260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,690 mL
+                                                                 -1,773 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   General: Alert, oriented, appears slightly dyspnic although speaking in
+   full sentences.
+   HEENT: NC AT PERLA, EOMI Sclera anicteric, dry mucous membranes,
+   oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: bronchial breath sounds to [**2-5**] way on the right with crackles
+   and dullness to percussion, left with slight basilar crackles, no
+   wheezing
+   CV: tachycardic, irregularly irregular, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, slightly distended, bowel sounds present, no
+   rebound tenderness or guarding
+   Ext: warm, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   160 K/uL
+   12.0 g/dL
+   142 mg/dL
+   1.4 mg/dL
+   23 mEq/L
+   3.4 mEq/L
+   39 mg/dL
+   105 mEq/L
+   141 mEq/L
+   33.5 %
+   15.4 K/uL
+        [image002.jpg]
+                             [**3272-5-11**]  08:03 AM
+                             [**3272-5-11**]  06:28 PM
+                             [**3272-5-12**]  05:14 AM
+   WBC
+   8.6
+   15.4
+   Hct
+   33.2
+   33.5
+   Plt
+   127
+   160
+   Cr
+   3.5
+   2.2
+   1.4
+   TropT
+   <0.01
+   Glucose
+   95
+   177
+   142
+   Other labs: PT / PTT / INR:14.3/31.1/1.2, CK / CKMB /
+   Troponin-T:182/4/<0.01, ALT / AST:30/102, Alk Phos / T Bili:72/1.0,
+   Amylase / Lipase:48/106, Differential-Neuts:41.0 %, Band:43.0 %,
+   Lymph:1.0 %, Mono:1.0 %, Eos:0.0 %, D-dimer:2690 ng/mL, Fibrinogen:1076
+   mg/dL, Albumin:2.5 g/dL, LDH:266 IU/L, Ca++:7.0 mg/dL, Mg++:2.0 mg/dL,
+   PO4:2.5 mg/dL
+   Imaging: [**3272-5-12**] CT Chest: (prelim)
+   Multiofcal pneumonia with a moderate right pleural effusion which
+   appears to
+   be superior to the large RML and RLL consolidation, raising the
+   question of
+   loculation. Accurate evaluation is limited due to lack of IV contrast
+   (witheld in the setting of Cr=2.2). concomitant multifocal areas of
+   consolidation, groundglass opacities and septal thickening with a mixed
+   subpleural and central distribution (particularly left), part of this
+   is due to multifocal pneumonia, may also have some contribution from
+   superimposed mild edema.
+   Microbiology: [**3272-5-11**] Pleural Fluid:
+   4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+         1+    (<1 per 1000X FIELD):
+    GRAM POSITIVE COCCI.  IN PAIRS.
+   [**3272-5-11**] Legionella Urine Ag negative
+   [**3272-5-11**] Blood Cx: ngtd
+   Assessment and Plan
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+   Mr. [**Known patient lastname 5161**] is a 46 yo M with PMH HTN, hyperlipid, h/o ETOH abuse
+   presenting with hypotension, hypoxia RLL infiltrate and acute renal
+   failure.
+   .
+   #Sepsis - likely [**3-7**] pneumonia given RLL infiltrate/effusion on CXR, no
+   evidence of urine infection at this time.  Most likely CAP vs
+   aspiration pneumonia given h/o profuse vomiting prior to onset of
+   dyspnea.  Severity of systemic illness worrisome for staph or strep
+   pneumo.  Other consideration is legionella given associated nausea and
+   vomiting as well as significant hypoxia on admission.
+   -vanc/levo for now to cover for CAP and possiblity of MRSA pna
+   -continue aztreonam, vancomycine, levofloxacin, d/c flagyl
+   - thoracentesis  yesterday with pH 7.1, CT with ? of loculation
+   - thoracics on board for likely decortication in next 24-48hrs
+   -IVF for CVP <10 (already given 7L IVF in ED)
+   -off pressors
+   -f/u blood cx, urine cx, stool cx
+   -send sputum culture if able to provide sample
+   -urine legionella antigen negative
+   .
+   #Acute Renal Failure - with relatively [**Name2 (NI) 5162**] sediment, moderate amount
+   of blood but no casts on urine microscopy.  CK is not elevated.  Per
+   patient no history of kidney disease at baseline.  Likely [**3-7**] sepsis
+   and volume depletion.
+   -renal ultrasound to eval for post obstructive cause although unlikely
+   -drastically improved c/w pre-renal etiology
+   -renally dose all meds, avoid nephrotoxins
+   -already given 7L IVF in ED and CVP 10 on admission, hold off on
+   further volume resuscitation for now
+   .
+   #anemia, thrombocytopenia, relative leukopenia with significant
+   bandemia - likely [**3-7**] severe pneumonia and sepsis.   Also worrisome for
+   possibility of DIC
+   -improved today
+   -monitor cbc, diff
+   -fibrinogen, fdp, ddimer to eval for DIC negative
+   -iron studies, retic count to eval anemia
+   -active type and screen
+   .
+   #Atrial fibrillation
+ appears to be new onset while in ED likely [**3-7**]
+   severe pneumonia, hypoxia and sepsis.  He was started on heparin gtt in
+   the ED presumably in case of need for cardioversion given concurrent
+   hypotension.
+   -monitor on tele
+   -start low dose metoprolol for rate control
+   -hold heparin gtt for now as plan for thoracentesis, may consider
+   restarting if afib persistent and clinically stable if plan for
+   cardioversion.
+   ICU Care
+   Nutrition:
+   Glycemic Control: monitor
+   Lines:
+   20 Gauge - [**3272-5-11**] 06:30 AM
+   Multi Lumen - [**3272-5-11**] 06:44 AM
+   18 Gauge - [**3272-5-11**] 06:47 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

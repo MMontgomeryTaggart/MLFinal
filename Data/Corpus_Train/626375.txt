@@ -1,0 +1,205 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   >Chest PT yesterday
+   > Arterial line removed (non functioning)
+   Allergies:
+   Haldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Vancomycin - [**3209-5-30**] 08:00 AM
+   Meropenem - [**3209-6-2**] 12:14 AM
+   Erythromycin - [**3209-6-2**] 03:54 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3209-6-1**] 12:52 PM
+   Heparin Sodium (Prophylaxis) - [**3209-6-2**] 01:14 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-6-2**] 07:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100
+   Tcurrent: 36.6
+C (97.8
+   HR: 94 (91 - 121) bpm
+   BP: 133/50(67) {89/29(59) - 135/63(79)} mmHg
+   RR: 19 (14 - 25) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 103 kg (admission): 103.7 kg
+   Height: 69 Inch
+             Total In:
+                                                                  4,495 mL
+                                                                  1,500 mL
+   PO:
+             TF:
+                                                                  1,680 mL
+                                                                    320 mL
+   IVF:
+                                                                  2,015 mL
+                                                                    870 mL
+   Blood products:
+   Total out:
+                                                                  1,935 mL
+                                                                    190 mL
+   Urine:
+                                                                  1,235 mL
+                                                                    190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,560 mL
+                                                                  1,310 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///21/
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, NG tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished)
+   Respiratory / Chest: (Breath Sounds: Crackles : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 2+, Left: 2+
+   Musculoskeletal: Unable to stand
+   Skin:  Warm, Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x1, Movement: Purposeful, No(t) Sedated, Tone:
+   Normal
+   Labs / Radiology
+   7.4 g/dL
+   176 K/uL
+   231 mg/dL
+   0.9 mg/dL
+   21 mEq/L
+   4.0 mEq/L
+   33 mg/dL
+   114 mEq/L
+   144 mEq/L
+   23.8 %
+   19.4 K/uL
+        [image002.jpg]
+                             [**3209-5-30**]  05:12 AM
+                             [**3209-5-30**]  11:50 AM
+                             [**3209-5-31**]  03:38 AM
+                             [**3209-5-31**]  08:10 AM
+                             [**3209-5-31**]  12:46 PM
+                             [**3209-5-31**]  04:46 PM
+                             [**3209-6-1**]  03:53 AM
+                             [**3209-6-1**]  05:24 PM
+                             [**3209-6-1**]  07:47 PM
+                             [**3209-6-2**]  04:25 AM
+   WBC
+   25.2
+   19.5
+   18.7
+   19.4
+   Hct
+   23.9
+   24.0
+   24.7
+   23.8
+   Plt
+   121
+   157
+   167
+   176
+   Cr
+   0.9
+   0.8
+   0.7
+   0.8
+   0.9
+   0.9
+   0.9
+   TCO2
+   26
+   24
+   23
+   Glucose
+   107
+   187
+   170
+   200
+   649
+   260
+   231
+   Other labs: PT / PTT / INR:18.1/58.4/1.6, CK / CKMB /
+   Troponin-T:177/5/, ALT / AST:39/69, Alk Phos / T Bili:145/4.3,
+   Differential-Neuts:80.0 %, Band:4.0 %, Lymph:6.0 %, Mono:1.0 %, Eos:0.0
+   %, Fibrinogen:219 mg/dL, Lactic Acid:1.9 mmol/L, Albumin:2.6 g/dL,
+   LDH:193 IU/L, Ca++:8.5 mg/dL, Mg++:1.8 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   58 y/o M with history of ETOH cirrhosis c/b encephalopathy, ascites and
+   portal gastropathy with recent UGIB.  Found today to be apneic with
+   respiratory arrest and likely aspiration s/p intubation with MDR
+   enterobacter; extubated [**5-31**],
+   >Sepsis / Resp. failure:  Multifocal pneumonia most likely aspiration
+   pneumonia., extubated 6/14Overall improving.  s/p Bronch and now
+   cultures negative; s/p vancomycin (completed) and continues meropenem
+   treatment until [**6-2**]
+   -goal even (with albumin and lasix)
+   -aspiration precautions
+   - Abx: Meropenem D1= [**5-19**] for MDR enterobacter, last day [**6-2**].
+   - pulmonary toilet  (PT consult)
+    > ARF: Cr 0.9
+   - monitor Cr trend
+   - goal neg 500 L to neg L (lasix gtt with albumin)
+   - afternoon electrolytes
+   >hypernatremia:
+   - cont free water
+   - PM lytes
+    >. Ileus:  now having stool, continuing current regimen (reglan and
+   erythro)
+   - NG tube with lactulose /rifax
+   > Mental status: multifactorial including uyderlying iver dysfunction,
+   ICU delirium and metabolic abnormalities, seems to have asterixis on
+   exam, will uptitrate the lactulose and rifax
+   -continue lactulose, treat pneumonia, MS conts to improve
+   - can use prn haldol/zyprexa
+   > EtoH Cirrhosis: Complicated by encephalopathy, ascites, varices with
+   recent UGIB.  LFTs improving. Encephalopathy management as above
+   - cont to trend LFTs
+   - Gi plans to repeat endoscopy prior to d/ from ICU (defer for now)
+    > Coagulopathy: INR elevated/Plt count stable
+   Additional issues per ICU resident note.
+   ICU Care
+   Nutrition:
+   Comments: tube feeds
+   Glycemic Control:  Insulin infusion
+   Lines:
+   PICC Line - [**3209-5-17**] 07:48 PM
+   Arterial Line - [**3209-5-21**] 08:45 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments: aspiration precautions
+   Communication: Family meeting held  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :ICU
+   Total time spent: 45 minutes
+
+
+
+DOC CLASS

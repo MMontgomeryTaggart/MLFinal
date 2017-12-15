@@ -1,0 +1,382 @@
+Admission Date:  [**2998-11-7**]              Discharge Date:   [**2998-11-17**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 19294**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**2998-11-8**] Cardiac Catheterization
+[**2998-11-12**] Placement of an IABP
+[**2998-11-12**] Aortic Valve Replacement(19mm St. [**Male First Name (un) 357**] Porcine) and
+Three Vessel Coronary Artery Bypass Grafting(LIMA to LAD, SVG to
+OM, SVG to PDA) on IABP
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname **] is a 88 year old female with a history of aortic
+stenosis who presented to an outside hospital on [**2998-11-5**] with
+acute shorteness of breath. She was found to have acute
+pulmonary edema thought to be secondary to dietary indiscretion,
+aortic stenosis, and URI. She was found initially to have
+hypertension treated with biPAP and lasix with improvement of
+her breathing. While admitted the patient did have cardiac
+enzyme elevation that was thought to be secondary to LV strain
+rather than acute coronary syndrome. Upon arrival to the [**Hospital1 4**],
+the patient is asymptomatic. She had no shortness of breath,
+chest pain, nausea or vomiting. She reported that she has had no
+dyspnea in 12 hours and has been off 02 since arrival to [**Hospital1 4**].
+She confirms that she had high salt intake prior to the
+admission to the OSH but otherwise has had no change in her
+medications or symptoms including no preceeding chest pain,
+nausea or palpitations. ROS + for increasing cough without
+sputum prior to admission negative except as above including no
+bleeding, syncope, fatigue, fever, chills, nausea, vomiting
+
+
+Past Medical History:
+Chronic Diastolic Cardiac Dysfunction
+Hypertension
+Aortic stenosis
+Dyslipidemia
+Glaucoma
+s/p appendectomy, left knee surgery, cataract surgery and
+hysterectomy
+
+
+Social History:
+Distant smoking history, occ etoh, no illicits, lives alone in
+Rye, has daughter who is HCP [**Name (NI) **] [**Telephone/Fax (1) 23289**] or [**Telephone/Fax (1) 23290**]
+
+Family History:
+No family history of early cardiac events or sudden death.
+
+Physical Exam:
+Admission
+VS 97.7 139/68 66 18 96% RA
+Gen: NAD, A/Ox3, cooperative
+HEENT: anicteric sclera, MMM, op clear
+Neck: JVP ~ 10, no LAD
+Lungs: CTAB, no wheezes, ronchi appreciated
+CV: RRR, normal S1 + S2, systolic cres/decres murmur [**3-29**] loudest
+at LUSBAbd: SNTND, no tenderness or guarding, liver edge not
+palpable
+Ext: warm, well perfused, 2+ pulses PT, DP, radial, no clubbing,
+trace edema
+
+Discharge
+VS 98.8 146/72 62 18 95% RA
+Gen pleasant to speak with, answers questions appropriately
+Neuro: intact
+Pulm: decreased breath sounds @right base, otherwise clear to
+auscultation
+CV: NL s1s2. I/VI systolic murmur heard best at base
+Abdm: soft, nontender
+Ext: warm with 1+ pitting edema to ankles bilaterally
+
+
+Pertinent Results:
+[**2998-11-8**] 05:40AM BLOOD WBC-6.8 RBC-4.32 Hgb-12.8 Hct-36.6 MCV-85
+MCH-29.7 MCHC-35.1* RDW-13.2 Plt Ct-244
+[**2998-11-8**] 05:40AM BLOOD PT-13.0 PTT-22.9 INR(PT)-1.1
+[**2998-11-8**] 05:40AM BLOOD Glucose-100 UreaN-34* Creat-0.9 Na-142
+K-3.7 Cl-99 HCO3-36* AnGap-11
+[**2998-11-8**] 05:40AM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2998-11-8**] 11:30AM BLOOD Albumin-3.7
+[**2998-11-8**] 11:30AM BLOOD %HbA1c-5.8
+[**2998-11-9**] 05:45AM BLOOD Triglyc-82 HDL-56 CHOL/HD-3.3 LDLcalc-114
+
+[**2998-11-8**] Cardiac Cath:
+1. Selective coronary angiography of this right dominant system
+demonstrated 3-vessel coronary artery disease. The LMCA was
+heavily calcified with an ostial stenosis of 40-50% and a distal
+stenosis of 30-40%. The LAD was heavily calcified with a
+proximal 30% stenosis and a mid 70% after the take off of a
+modest D1. The LAD had diffuse disease in the mid to distal
+portion of the vessel. The LCX was heavily calcified with
+diffuse disease to 50% proximally with a mid stenosis of 60-70%
+before an aneurysmal segment from which small OM3 and a large
+OM4 arose. The OM5/LPL had a proximal tubular stenosis of 60%. A
+small high OM1 has a moderate stenosis at its origin. The RCA
+was heavily calcified with diffuse disease throughout to 60% mid
+vessel. The RPDA had a proximal 70% stenosis.
+2. Resting hemodynamics revealed mildly elevated left
+ventricuHg. There was mild systolic pulmonary artery pressures
+with 32 mmHg. The cardiac index was normal at 2.3 L/min/m2.
+There was mild systolic arterial blood pressure at 140 mmHg with
+a systemic vascular resistance of [**2887**] dynes/s-1/cm-5. There was
+severe aortic stenosis with a mean gradient of 67 mmHg and a
+calculated valve area of 0.5 cm2 (based on an assumed VO2 and an
+UNDERESTIMATE in the setting of aortic regurgitation).
+3. Left ventriculography showed a preserved ejection fraction at
+71% with normal regional wall motion and a stroke volume index
+of 49 mL/m2.
+
+[**2998-11-9**] Carotid Ultrasound:
+Less than 40% right ICA stenosis. 40-59% left ICA stenosis.
+
+[**2998-11-9**] Chest CT Scan:
+1. Moderate cardiomegaly with coronary artery and aortic
+calcifications, as well as calcification of the aortic valve and
+milder calcification of the mitral annulus. No evidence of acute
+pulmonary infection or pulmonary edema. Small right greater than
+left pleural effusions with associated compressive atelectasis
+in the lower lobes. 2. Incidentally noted small pulmonary
+nodules measuring up to 4 mm. In a patient without strong risk
+factors for intrathoracic malignancy, no followup is recommended
+per the [**Last Name (un) 1278**] guidelines.
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2998-11-16**] 10:38
+AM
+[**Last Name (LF) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2711**] FA6A [**2998-11-16**] SCHED
+CHEST (PA & LAT)   Clip # [**Clip Number (Radiology) 23291**]
+UNDERLYING MEDICAL CONDITION:
+   88 year old woman s/p AVR/CABG
+REASON FOR THIS EXAMINATION:
+   eval for pleural effusions
+Provisional Findings Impression: LCpc FRI [**2998-11-16**] 1:10 PM
+PFI: Bilateral pleural effusion increased, still small with
+adjacent
+atelectasis. Left apical pneumothorax decreased, now down to 1
+mm at the
+apex.
+PFI: Bilateral pleural effusion increased, still small with
+adjacent
+atelectasis. Left apical pneumothorax decreased, now down to 1
+mm at the
+apex.
+
+DR. [**First Name8 (NamePattern2) **] [**Name (STitle) 23292**]
+DR. [**First Name (STitle) 512**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 513**]
+DR. [**First Name4 (NamePattern1) 292**] [**Last Name (NamePattern1) **]
+
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 4**] [**Numeric Identifier 23293**]       TEE (Complete)
+Done [**2998-11-12**] at 3:10:33 PM      FINAL
+Referring Physician  [**Name9 (PRE) **], [**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **]
+[**Last Name (NamePattern4) **] DOB: [**2910-4-3**]
+Age (years): 88 F  Hgt (in): 60
+BP (mm Hg): 139/47  Wgt (lb): 125
+HR (bpm): 78  BSA (m2): 1.53 m2
+Indication: Intra-op TEE for CABG, AVR
+ICD-9 Codes: 440.0, 413.9, 414.8, 424.1, 424.0
+Test Information
+Date/Time: [**2998-11-12**] at 15:10   Interpret MD: [**Name6 (MD) 599**]
+[**Name8 (MD) 600**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 410**]: [**Last Name (NamePattern5) 19223**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *5.2 cm  <= 4.0 cm
+Left Ventricle - Septal Wall Thickness:  *1.3 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.3 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.4 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Annulus:  2.0 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.5 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.1 cm  <= 3.0 cm
+Aorta - Ascending:  2.1 cm  <= 3.4 cm
+Aorta - Arch:  2.1 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  1.9 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *4.7 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *87 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  60 mm Hg
+Aortic Valve - Valve Area:  *0.5 cm2  >= 3.0 cm2
+Findings
+LEFT ATRIUM: Moderate LA enlargement.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Lipomatous
+hypertrophy of the interatrial septum. No ASD by 2D or color
+Doppler.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Mild symmetric LVH. Normal LV cavity
+size. Normal regional LV systolic function. Overall normal LVEF
+(>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Focal calcifications in ascending
+aorta. Normal aortic arch diameter. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets.
+Severe AS (AoVA <0.8cm2). Mild (1+) AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate
+mitral annular calcification. Mild (1+) MR.
+TRICUSPID VALVE: Physiologic TR.
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions
+Conclusions
+PRE-BYPASS:
+1. The left atrium is moderately dilated. No atrial septal
+defect is seen by 2D or color Doppler.
+2. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are simple atheroma in the descending thoracic aorta.
+5. The aortic valve leaflets are severely thickened/deformed.
+There is severe aortic valve stenosis (area <0.8cm2). Mild (1+)
+aortic regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+7. There is no pericardial effusion.
+Dr. [**Last Name (STitle) 17500**] was notified in person of the results.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including phenylephrine and is
+being AV paced.
+1. A well-seated bioprosthetic valve is seen in the Aortic
+position with normal leaflet motion and gradients (peak gradient
+= 15 mmHg). A trace perivalvular leak is seen.
+2. Bi ventricular function is preserved.
+3. Aorta is intact post decannulation.
+4. After massive transfusion, biventricular function is
+preserved, but MR is now moderate and TR is now moderate
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 599**] [**Name8 (MD) 600**], MD, MD,
+Interpreting physician [**Last Name (NamePattern4) **] [**2998-11-13**] 07:54
+
+
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname **] was admitted under the cardiology service and
+underwent cardiac catheterization which confirmed severe aortic
+stenosis and revealed three vessel coronary artery disease -
+see result section for further detail. Based upon those results,
+cardiac surgery was consulted and further preoperative
+evaluation was performed. Preoperative workup consisted of
+dental clearance, carotid ultraound and chest CT scan - see
+result section for results.
+
+The night before surgery, she became acutely short of breath and
+devleoped respiratory distress. She was concomitantly
+hypotensive at that time(attributed to Nitro). She required
+intubation and was placed on Neosynephrine to maintain stable
+hemodynamics. Following intubation, she transferred to the CCU.
+Shortly thereafter, she was brought to the cardiac cath lab for
+placement of an IABP. Following successfull placement of the
+IABP, she was urgently brought to the operating room where Dr.
+[**Last Name (STitle) 17500**] performed aortic valve replacement and coronary artery
+bypass grafting surgery. For surgical details, please see
+seperate dicatated operative note.
+
+Following the operation, she was brought to the CVICU for
+invasive monitoring. Within 24 hours, she awoke neurologically
+intact and was extubated without incident. The IABP was slowly
+weaned and removed without complication on postoperative day
+one. She maintained stable hemodynamics and transferred to the
+SDU on postoperative day two.
+
+Once on the floors she had an uneventful post-operative course.
+Her activity level progressed slowly and on POD5 she was
+discharged to rehabilitation.
+
+Medications on Admission:
+Verapamil 180sr [**Hospital1 **]
+HCTZ 25 md [**First Name (Titles) **] [**Last Name (Titles) 23294**] 81 mg QOD
+Azopt qd
+Travtan Z qd
+Brimonidine TID ou
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H
+(every 8 hours).
+Disp:*qs * Refills:*2*
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+Disp:*qs * Refills:*0*
+6. Brinzolamide 1 % Drops, Suspension Sig: One (1)  Ophthalmic
+TID (3 times a day).
+Disp:*qs * Refills:*0*
+7. Tramadol 50 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours):
+20meq [**Hospital1 **] x10 days then 20mEq QD x10 days.
+10. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): 400mg [**Hospital1 **] x5 days then 400mg QD x 1wk then 200mg QD.
+11. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+12. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day: 20mg
+[**Hospital1 **] x10days then
+20mg QD x10 days .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 2571**] House Nursing Home - [**Location 2572**]
+
+Discharge Diagnosis:
+Aortic Stenosis, Coronary Artery Disease - s/p AVR/CABG
+Cardiogenic Shock
+Chronic Diastolic Congestive Heart Failure
+Hypertension
+Elevated Cholesterol
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain. In the event that you have drainage
+from your sternal wound, please contact the [**Name2 (NI) 239**] at ([**Telephone/Fax (1) 684**].
+2) Report any fever greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry. Please shower daily. No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for at least one month.
+7) Call with any questions or concerns.
+8) Take all medication as prescribed.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 17500**] in 4 weeks, call for appt
+Dr. [**Last Name (STitle) 14862**] in [**2-25**] weeks, call for appt
+
+
+
+Completed by:[**2998-11-17**]
+
+
+DOC CLASS

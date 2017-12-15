@@ -1,0 +1,125 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**3404-10-22**] 05:57 PM
+ FEVER - 101.2
+F - [**3404-10-22**] 10:00 PM
+   Allergies:
+   Clindamycin
+ Rash;
+   Ace Inhibitors
+ angioedema;
+   Valsartan
+ angioedema;
+   Last dose of Antibiotics:
+   Piperacillin - [**3404-10-22**] 10:00 PM
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3404-10-23**] 07:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 36.2
+C (97.1
+   HR: 92 (79 - 107) bpm
+   BP: 160/82(101) {123/61(76) - 174/90(109)} mmHg
+   RR: 10 (10 - 20) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,605 mL
+                                                                     78 mL
+   PO:
+                                                                    300 mL
+             TF:
+   IVF:
+                                                                    155 mL
+                                                                     78 mL
+   Blood products:
+   Total out:
+                                                                     75 mL
+                                                                     75 mL
+   Urine:
+   NG:
+                                                                     75 mL
+                                                                     75 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,530 mL
+                                                                      3 mL
+   Respiratory support
+   SpO2: 100%
+   ABG: ///25/
+   Physical Examination
+   General:
+   HEENT:
+   CV:
+   Lungs:
+   Ab:
+   Ext:
+   Neuro:
+   Labs / Radiology
+   12.0 g/dL
+   234 K/uL
+   6.6 mg/dL
+   25 mEq/L
+   4.6 mEq/L
+   34 mg/dL
+   97 mEq/L
+   134 mEq/L
+   37.4 %
+   15.8 K/uL
+        [image002.jpg]
+                            [**3404-10-22**]  04:10 PM
+                            [**3404-10-23**]  12:19 AM
+                            [**3404-10-23**]  05:56 AM
+   WBC
+   15.8
+   Hct
+   37.4
+   Plt
+   234
+   Cr
+   6.6
+   TropT
+   0.40
+   0.51
+   Other labs:
+   PT / PTT / INR:17.0/65.7/1.5,
+   CK / CKMB / Troponin-T:86//0.51,
+   ALT / AST:14/81,
+   Ca++:9.7 mg/dL, Mg++:2.3 mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3404-10-22**] 05:56 PM
+   Dialysis Catheter - [**3404-10-22**] 05:57 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :
+   Total time spent:
+
+
+
+DOC CLASS

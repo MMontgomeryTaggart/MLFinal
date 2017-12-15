@@ -1,0 +1,218 @@
+TITLE:
+   24 Hour Events:
+ ANGIOGRAPHY - At [**3157-1-11**] 07:45 PM
+   received from neuro angio following unsuccessful attempt to dissolve
+   clot with 6mg intraarterial tpa
+ NASAL SWAB - At [**3157-1-11**] 08:00 PM
+ ARTERIAL LINE - START [**3157-1-11**] 08:00 PM
+ URINE CULTURE - At [**3157-1-11**] 11:41 PM
+   [**1-12**] Extubated.  Started on home dose coumadin 1 mg PR. Failed doboff
+   placement will likely need floro placement vs peg.
+   HPI:
+   79F w/ hx of CAD, afib, COPD on home O2 (2L), htn, initially admitted
+   to the ICU 4 days ago with SOB and a large GIB.  She required 4un pRBCs
+   and in this setting, she suffered an NSTEMI and resultingly, her EF
+   decreased to 20%.  She was taken off of the coumadin but a full GI work
+   up was not completed secondary to the NSTEMI.  Pt was doing well and
+   was transferred to the floor where she was diuresed and was restarted
+   on her home cardiac meds and was supposed to start on ASA.  Coumadin
+   was held.  The plan had been to send her home tomorrow, however, this
+   afternoon at approx 2:30pm, pt began to slur her words and her face
+   appeared to be asymmetric.  She was noted to have a left hemiparesis
+   and a right gaze deviation.  She had a CT angio that showed a large MCA
+   clot and she was emergently taken for thrombectomy and intra-arterial
+   tPA.
+   Allergies:
+   Altace (Oral) (Ramipril)
+   Rash;
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3157-1-12**] 09:00 PM
+   Metoprolol - [**3157-1-12**] 09:00 PM
+   Other medications:
+   Flowsheet Data as of  [**3157-1-13**] 01:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**58**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.4
+C (97.6
+   HR: 104 (72 - 113) bpm
+   BP: 123/61(83) {99/44(62) - 142/76(98)} mmHg
+   RR: 17 (12 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 76.5 kg (admission): 76.5 kg
+                  Total In:
+                                                                  1,242 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                  1,242 mL
+   Blood products:
+   Total out:
+                                                                  1,405 mL
+                                                                     80 mL
+   Urine:
+                                                                  1,405 mL
+                                                                     80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -163 mL
+                                                                    -80 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 290 (290 - 371) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 0%
+   RSBI: 51
+   PIP: 11 cmH2O
+   SpO2: 100%
+   ABG: 7.35/49/160/28/0
+   Ve: 6.2 L/min
+   PaO2 / FiO2: 160
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), tachycardic low 100s
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Not assessed), (Right DP pulse: Not assessed), (Left DP pulse: Not
+   assessed)
+   Respiratory / Chest: (Percussion: Resonant : ), (Breath Sounds: Clear :
+   )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   184 K/uL
+   9.3 g/dL
+   135 mg/dL
+   1.1 mg/dL
+   28 mEq/L
+   3.6 mEq/L
+   29 mg/dL
+   104 mEq/L
+   139 mEq/L
+   28.3 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**3157-1-8**]  05:29 AM
+                             [**3157-1-8**]  11:35 AM
+                             [**3157-1-8**]  07:51 PM
+                             [**3157-1-9**]  04:54 AM
+                             [**3157-1-11**]  08:15 PM
+                             [**3157-1-11**]  08:28 PM
+                             [**3157-1-12**]  03:34 AM
+                             [**3157-1-12**]  03:43 AM
+                             [**3157-1-12**]  09:41 AM
+                             [**3157-1-12**]  08:00 PM
+   WBC
+   12.5
+   13.0
+   10.3
+   13.0
+   9.9
+   Hct
+   29.6
+   31.6
+   31.6
+   31.0
+   29.1
+   31.1
+   28.3
+   Plt
+   186
+   201
+   202
+   264
+   184
+   Cr
+   1.3
+   1.5
+   1.0
+   1.1
+   TropT
+   1.80
+   1.37
+   1.18
+   TCO2
+   29
+   29
+   28
+   Glucose
+   149
+   93
+   183
+   135
+   Other labs: PT / PTT / INR:15.1/24.7/1.3, CK / CKMB /
+   Troponin-T:305/16/1.18, Ca++:9.0 mg/dL, Mg++:2.5 mg/dL, PO4:2.4 mg/dL
+   Imaging: [**1-12**] Head Ct: No intracranial hemorrhage or edema.
+   Microbiology: [**1-11**] [**Last Name (un) **] cx: P
+   .
+   Assessment and Plan
+   CVA (STROKE, CEREBRAL INFARCTION), ISCHEMIC , DYSPNEA (SHORTNESS OF
+   BREATH), ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING),
+   CHEST PAIN
+   79F w/ GIB s/p NSTEMI now w/ R MCA CVA s/p clot retrieval and intra-art
+   tPA with incomplete recanalization of the R MCA although it did improve
+   collateral flow.
+   .
+   NEURO:  Pt is s/p clot retrieval and intra-art tPA.  Keep SBP 100-160.
+   Will need a repeat CT in the am.
+   Neuro checks Q:  per tPA protocol.
+   Pain:  Currently intubated and sedated.
+   CVS:  Close monitoring of BP, goal SBP 120-160.  Use labetalol prn SBP
+   > 180.  Transfuse prn given recent STEMI.  Holding other BP meds:
+   lisinopril, Imdur, but should keep low dose beta blocker for NSTEMI.
+   Restarted coumadin
+   PULM:  No acute issues.
+   GI:  Follow GI c/s re recent GIB. Restarted on anticoag so monitor HCT.
+   RENAL:  Stable. Replete lytes prn.  Po meds once enreral access
+   HEME:  Follow HCT q 8hrs. Transfuse HCT if < 28.  Pt received 3un pRBCs
+   during the procedure.  Will likely need anticoag in the future but will
+   discuss pending repeat head CT and after GI c/s.
+   ENDO:  Hold on subq insulin and finger sticks. Can give insulin IV
+   prn.
+   ID:  F/up cultures.
+   TLD: foley, PIV x 2, left radial A Line
+   IVF:  HLIV
+   CONSULTS:  neuromed, GI
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3157-1-11**] 08:00 PM
+   22 Gauge - [**3157-1-11**] 08:00 PM
+   18 Gauge - [**3157-1-11**] 08:00 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:ICU
+   Total time spent: 40 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

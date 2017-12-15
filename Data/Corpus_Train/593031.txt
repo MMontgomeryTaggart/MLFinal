@@ -1,0 +1,277 @@
+Chief Complaint:
+   24 Hour Events:
+ PARACENTESIS - At [**3105-3-21**] 02:00 PM
+   ultrasound guided tap, ~1000cc removed.
+   - Cardiology recs: c/s PE, diurese aggressively, likely not
+   dressler's/auto-immune.
+   - Started Lasix drip at 10, given chlorthiazide 250mg IV x 1
+   - UCx growing klebsiella from [**3-19**], recent sputum Cx growing
+   acinetobacter and E. coli [**3-19**], [**3-18**] B Cx coag. neg. staph
+   - vancomycin discontinued per ID recs
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3105-3-21**] 09:00 AM
+   Tobramycin - [**3105-3-21**] 10:06 PM
+   Infusions:
+   Furosemide (Lasix) - 10 mg/hour
+   Other ICU medications:
+   Enoxaparin (Lovenox) - [**3105-3-21**] 08:09 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3105-3-22**] 07:10 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (100.9
+   Tcurrent: 36.1
+C (97
+   HR: 67 (65 - 110) bpm
+   BP: 98/42(54) {84/39(53) - 147/91(105)} mmHg
+   RR: 18 (14 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 80.2 kg (admission): 74 kg
+   Height: 56 Inch
+             Total In:
+                                                                  2,665 mL
+                                                                    335 mL
+   PO:
+             TF:
+                                                                    648 mL
+                                                                    193 mL
+   IVF:
+                                                                  1,717 mL
+                                                                    143 mL
+   Blood products:
+   Total out:
+                                                                  2,100 mL
+                                                                  1,140 mL
+   Urine:
+                                                                  1,100 mL
+                                                                  1,140 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,000 mL
+   Balance:
+                                                                    565 mL
+                                                                   -805 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 94 (94 - 321) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 116
+   PIP: 17 cmH2O
+   SpO2: 100%
+   ABG: ///34/
+   Ve: 7.2 L/min
+   Physical Examination
+   GEN: Trach in place. Appears comfortable.
+   HEENT: AT / NC, alopecia, PERRL, EOMI
+   NECK: Neck supple, no LAD, trach in place without surrounding erythema,
+   exudate, or tenderness
+   PULM: Difficult to auscultate but relatively clear anteriorly
+   CARD: Irregular, tachycardic, nl S1, nl S2
+   ABD: PEG tube in place in L. abdomen without surrounding erythema,
+   exudate, or tenderness
+   EXT:  2+ pitting LE edema b/l
+   SKIN: Chest wound c/ granulation tissue appears well healing, no ttp,
+   no surrounding erythema
+   NEURO: Difficult to assess orientation
+   Labs / Radiology
+   171 K/uL
+   9.3 g/dL
+   106 mg/dL
+   0.9 mg/dL
+   34 mEq/L
+   4.0 mEq/L
+   46 mg/dL
+   100 mEq/L
+   141 mEq/L
+   29.6 %
+   18.8 K/uL
+        [image002.jpg]
+                             [**3105-3-19**]  03:28 AM
+                             [**3105-3-19**]  11:26 AM
+                             [**3105-3-19**]  04:15 PM
+                             [**3105-3-20**]  02:57 AM
+                             [**3105-3-20**]  03:56 PM
+                             [**3105-3-20**]  07:45 PM
+                             [**3105-3-21**]  03:19 AM
+                             [**3105-3-21**]  12:01 PM
+                             [**3105-3-21**]  06:23 PM
+                             [**3105-3-22**]  12:20 AM
+   WBC
+   21.1
+   19.3
+   20.7
+   18.8
+   Hct
+   28.7
+   29.2
+   27.9
+   29.2
+   29.3
+   28.7
+   29.6
+   Plt
+   235
+   226
+   216
+   171
+   Cr
+   0.8
+   0.8
+   0.8
+   0.7
+   0.8
+   0.9
+   0.9
+   TCO2
+   38
+   Glucose
+   120
+   143
+   87
+   140
+   109
+   112
+   106
+   Other labs: PT / PTT / INR:20.5/57.7/1.9, CK / CKMB /
+   Troponin-T:12/2/0.03, ALT / AST:[**8-18**], Alk Phos / T Bili:102/0.7,
+   Amylase / Lipase:19/30, Differential-Neuts:75.5 %, Lymph:14.7 %,
+   Mono:7.7 %, Eos:1.6 %, Lactic Acid:0.9 mmol/L, Albumin:2.8 g/dL,
+   LDH:234 IU/L, Ca++:8.1 mg/dL, Mg++:2.7 mg/dL, PO4:3.7 mg/dL
+   PERITONEAL FLUID; ADD ON @1704;LDH
+                                   Ascites
+                                  Chemistry
+                                    Protein
+                                     3.4
+                                    Glucose
+                                      LDH
+                                     50
+   Albumin: 1.5
+   PERITONEAL FLUID
+     Ascites
+                                      WBC
+                                     275
+                                      RBC
+                                    [**Numeric Identifier 5538**]
+                                     Poly
+                                      5
+                                     Lymph
+                                     71
+                                     Mono
+                                      0
+                                      EOs
+   Mesothe: 1
+   Macroph: 23
+   MICRO:
+   [**3-21**]: Peritoneal fluid: 1+ PMNs on Gram stain. Culture pending
+   [**3-21**]: BCx: PND
+   [**3-20**]: BCx: PND
+   [**3105-3-20**]: PICC tip: PND
+   [**3105-3-20**]: Wound Cx: GN Diplococci 2+ GP Diplococci 1+
+   [**3105-3-19**] UCx: Klebsiella Pneumoniae
+   [**3105-3-19**]: Sputum culture: Acinetobacter baumannii, Ecoli
+   [**3105-3-18**] BLOOD CULTURE- Coag negative staph.
+   [**3105-3-18**] BLOOD CULTURE- NGTD
+   [**3105-3-18**] URINE CULTURE- GNR and Yeast
+   [**3105-3-16**]  STOOL FECAL CULTURE-PENDING NEGATIVE; CAMPYLOBACTER
+   CULTURE-PENDING NEGATIVE; CLOSTRIDIUM DIFFICILE TOXIN A & B TEST-FINAL
+   NEGATIVE
+   [**3105-3-16**]  URINE URINE CULTURE-FINAL INPATIENT  NEGATIVE
+   [**3105-3-16**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT NGTD
+   [**3105-3-15**]  PLEURAL FLUID GRAM STAIN-FINAL NEGATIVE; FLUID
+   CULTURE-PRELIMINARY NGTD; ANAEROBIC CULTURE-PRELIMINARY NGTD
+   [**3105-3-15**]  BRONCHOALVEOLAR LAVAGE GRAM STAIN-FINAL; RESPIRATORY
+   CULTURE-PRELIMINARY {ACINETOBACTER BAUMANNII COMPLEX}
+ tobramycin
+   sensitive
+   [**3105-3-14**]  URINE URINE CULTURE-FINAL {YEAST}
+   [**3105-3-13**]  CATHETER TIP-IV WOUND CULTURE-FINAL NGTD
+   [**3105-3-12**]  BLOOD CULTURE Blood Culture, Routine-PENDING NGTD
+   [**3105-3-12**]  BLOOD CULTURE Blood Culture, Routine-PENDING NGTD
+   Assessment and Plan
+   73F s/p CABG on [**12-24**] complicated by sternal wound infxn, a-fib, and
+   respiratory failure requiring trach/PEG returns with bleeding from her
+   tracheostomy site and later developed loculated left pleural effusion
+   and persistent leukocytosis on tobramycin, and tigecycline..
+   # Hypoxemic respiratory failure:
+   Pt s/p Vent 2/09 after surgery. Now with recurrent L.sided pulmonary
+   effusions. Consideration are infection-although pleural fluid from [**3-15**]
+   without positive cultures; however had elevated WBCs on cell count.
+   Sputum growing E.coli and acinetobacter from [**3-7**]. Recent sputum from
+   [**3-15**], [**3-18**] growing acinetobacter with same sensitivities of [**3-7**]
+   sample. [**3-18**] sputum also growing Ecoli.  Likely other components
+   include fluid overload (basilar crackles on exam, gross edema) and
+   decompensation. Thoracic and IP services have been involved and have
+   bronched and performed thoracentesis.  Increased ascites on CT chest on
+   [**3-20**].  Diagnostic paracentesis shows no evidence of SBP.
+   - Furosemide drip has been restarted 4/28 per Cardiology recs with goal
+   diauresis 1L/day
+   - Continue tobramycin and tigecycline, vancomycin
+   - Cont. surveillance Cx
+   -f/u paracentesis cultures and cytology
+   - **Consult with interventional pulmonology/thoracic surgery concerning
+   potential drainage of left pleural effusion
+   - Wean pressure support as tolerated
+   # Cardiac:
+   History of hypertension, hyperlipidemia, and new onset atrial
+   fibrillation post-operatively. Is not currently anticoagulated. Had
+   been in sinus rhythm all day until atrial fibrillation [**3-18**].  Also
+   volume overloaded with preserved EF on last Echo. Cardiology
+   recommended aggressive diuresis given fluid overload.
+   - Continue lasix/diuril
+   - Continue amiodarone, asa, BB, statin, dilt
+   # Leukocytosis/fever
+   Likely related to pulmonary etiology.  BCx grew coag negative staph
+   from [**3-18**], likely contaminant. On tobramycin and tigecycline
+   following. C Diff. negative x 3 ([**3-12**], 23, 26).  Now with Klebsiella in
+   urine.  Sputum culture still growing Acinetobacter and Ecoli from [**3-18**],
+   despite abx.  Has multiple other pending fluid, urine, and blood
+   cultures.
+   - Continue tobramycin and tigecycline
+   - PICC line tip culture NGTD
+   - Appreciate ongoing infectious disease consult input
+   - Follow-up urine culture
+   - Follow-up sputum cx and BAL
+   - Follow-up stool cx for c.diff for two additional samples in next two
+   days
+   - Follow-up trend fever curve/WBCs
+   # Atrial fibrillation with RVR:
+   Started [**3-18**] with rate to the 130s Potential causes of atrial
+   fibrillation included atrial stretch from volume overload, catechol
+   increase form intravascular volume depletion. Rate well controlled
+   overnight.
+   - Rate controlled on metoprolol to 50mg q6h and dilatizem at 60mg q6h,
+   continued on amiodarone
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3105-3-21**] 04:59 PM 27 mL/hour
+   Glycemic Control:
+   Lines: 2 PIVs
+   20 Gauge - [**3105-3-20**] 05:39 PM
+   Prophylaxis:
+   DVT: Lovenox 30mg sc q12 hours
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: FULL
+   Disposition: ICU for now
+
+
+
+DOC CLASS

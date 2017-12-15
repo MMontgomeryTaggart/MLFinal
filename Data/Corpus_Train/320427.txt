@@ -1,0 +1,281 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - STOP [**3214-7-10**] 11:00 PM
+   -D/c'd L PICC and sent tip for cx, will f/u
+ FEVER - 102.9
+C - [**3214-7-10**] 03:00 PM
+   Increased free water flushes to 400 mL q 4 hrs for hypernatremia.
+   Renal also recommended repleting K, changing drips to 1/2 NS (though
+   this was deferred, as total volume low).
+   FSBS consistently 160-190, increased NPH from 12 -> 15 in AM and PM.
+   ID: consider bone marrow bx if family wants to aggressively pursue
+   diagnosis
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftazidime - [**3214-7-11**] 03:52 AM
+   Nafcillin - [**3214-7-11**] 03:52 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 1.5 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3214-7-10**] 12:00 PM
+   Heparin Sodium (Prophylaxis) - [**3214-7-11**] 03:53 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3214-7-11**] 06:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.4
+C (102.9
+   Tcurrent: 36.4
+C (97.5
+   HR: 109 (72 - 122) bpm
+   BP: 100/70(79) {93/58(67) - 123/83(93)} mmHg
+   RR: 25 (20 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 142.4 kg (admission): 164 kg
+   Height: 74 Inch
+    CVP: 361 (9 - 361)mmHg
+   Total In:
+                                                                  4,252 mL
+                                                                  1,754 mL
+   PO:
+   TF:
+                                                                  1,080 mL
+                                                                    286 mL
+   IVF:
+                                                                  1,492 mL
+                                                                    468 mL
+   Blood products:
+   Total out:
+                                                                  4,300 mL
+                                                                    920 mL
+   Urine:
+                                                                  3,850 mL
+                                                                    920 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -48 mL
+                                                                    834 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 600) mL
+   Vt (Spontaneous): 519 (519 - 519) mL
+   PS : 8 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 2
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 19 cmH2O
+   Plateau: 17 cmH2O
+   SpO2: 100%
+   ABG: 7.48/29/196/21/0
+   Ve: 11 L/min
+   PaO2 / FiO2: 490
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   229 K/uL
+   11.9 g/dL
+   221 mg/dL
+   1.0 mg/dL
+   21 mEq/L
+   2.9 mEq/L
+   113 mg/dL
+   120 mEq/L
+   155 mEq/L
+   37.0 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**3214-7-9**]  02:09 AM
+                             [**3214-7-9**]  02:58 AM
+                             [**3214-7-9**]  04:57 PM
+                             [**3214-7-10**]  02:45 AM
+                             [**3214-7-10**]  03:03 AM
+                             [**3214-7-10**]  11:11 AM
+                             [**3214-7-10**]  04:00 PM
+                             [**3214-7-11**]  02:09 AM
+                             [**3214-7-11**]  02:24 AM
+                             [**3214-7-11**]  04:48 AM
+   WBC
+   10.3
+   10.7
+   11.3
+   Hct
+   35.3
+   34.2
+   37.0
+   Plt
+   [**Telephone/Fax (3) 4257**]
+   Cr
+   3.2
+   1.9
+   1.5
+   1.5
+   1.0
+   TCO2
+   20
+   23
+   23
+   23
+   22
+   Glucose
+   146
+   173
+   196
+   192
+   221
+   Other labs: PT / PTT / INR:14.9/26.2/1.3, CK / CKMB /
+   Troponin-T:922/3/0.13, ALT / AST:24/27, Alk Phos / T Bili:82/0.6,
+   Amylase / Lipase:84/88, Differential-Neuts:77.0 %, Band:0.0 %,
+   Lymph:14.3 %, Mono:7.9 %, Eos:0.5 %, Fibrinogen:932 mg/dL, Lactic
+   Acid:1.8 mmol/L, Albumin:3.1 g/dL, LDH:315 IU/L, Ca++:9.2 mg/dL,
+   Mg++:3.0 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+    Pts failure likely multifactorial.  From an infectious standpoint,
+   multi-lobar pneumonia is contributing in addition to CHF (EF 10%)
+   - Continue atrovent nebs prn
+   -[**7-3**] sputum, showed MSSA, therefore d/c vanc. Had added flagyl for
+   concern of aspiration pna.  As per ID switched to clindamycin  450mg IV
+   q6h for MSSA and anerobe coverage.  However, clinda sensitivities were
+   not listed, called lab to add on clindamycin sensitivity, will be ready
+   [**7-7**]. Switched from clinda to nafcillin yesterday ([**7-7**]). Will renally
+   dose nafcillin.
+   -daily CXR to monitor for aspiration PNA.
+   - Pt tolerated PSV w/ [**7-4**] overnight, required brief rest on AC this
+   morning.  Will continue on PSV.
+    # SHOCK
+   -         Pt continues to be febrile, has + sputum cultures,
+   hypotensive overnight with elevated Cr in addition to respiratory
+   failure and CVP 23.
+   - Likely septic shock as well as cardiac shock although do not have a
+   good gauge of [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 4139**].
+   - Mixed venous O2 [**7-8**]. If <60% will consider cardiac shock more
+   likely. >70% sepsis would be more likely.- resulted at 68%, so does not
+   clarify picture
+   - Urine grew Pseudomonas, continue on Ceftazidime 2gm q12h IV
+   -          Antibiotics for sputum MSSA and urine Pseudomonas as above
+   -          CVL placed [**3214-7-7**].
+   -          Arterial line [**7-7**] to monitor BP
+   -          CVP 23 on [**7-9**], UOP around 100 mL/hr
+   -          Continue Ceftaz
+   -          Continue Nafcillin
+   -          D/c
+d Flagyl as above
+   -          Cultures re-sent, will f/u results
+   -          Tylenol 650 q6 prn fever, UOP seems to have improved with
+   decreased temp
+   -          Keep CVPs in 20s with fluid as needed, monitor UOP
+   #Metabolic Alkalosis- Likely [**12-28**] large volume diuresis; pH 7.41 this
+   morning.
+   -          aggressively give KCL, goal K > 4.5
+   -          TTKG previously 12.7, consistent with renal losses of K+
+   (not suggestive of GI loss) will consider work up for hyperadrenal
+   state.
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+    Pt with severe cardiomyopathy and EF of only 10%.
+   - Pt has been hypotensive and therefore not receiving his coreg or
+   metoprolol. Metoprolol d/c
+   -  Continue with coreg, consider increasing dose from 12.5 to 25 in
+   next few days
+   - Continue Digoxin
+   - cards suggested starting heparin, will hold for now given recent
+   oozing of PEG and possibility of procedures in near future.  Given 5%
+   risk of event per year and limit expected pt lifespan, do not feel
+   strongly on starting heparin
+    -Holding Lasix given increased BUN/Cr
+   #[**Name (NI) 4010**] Pt previously had high residuals, residuals overnight were <10
+   cc.  Pt stooling.
+   - CT consistent with ileus, now apparently resolved
+   - will d/c lactulose as now stooling often
+   - finished erythromycin
+   - d/c Reglan
+   - monitor PEG residuals.
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)- Recent increase in
+   Cr concern for new injury, possibly combined with prerenal ARF.  Renal
+   consult given concern for electrolye abnormalities and increasing Cr,
+   decreased UOP.  Had been discussing need for dialysis.
+   - Cr continues to decrease
+   - UOP increased
+   - Holding lasix
+   - Renally dose meds
+   - Continue to monitor Cr, BUN, UOP
+   # Hypernatremia:
+   -          Will increase free water flushes to 300 mL q 4 hrs.
+   -          Monitor electrolytes
+   -          Consider increasing free water flushes
+   # Hypokalemia:
+   -          Replete K+ aggressively, using PO preferentially over IV
+   replacement
+   -          Follow electrolytes
+ ATRIAL FIBRILLATION (AFIB)
+    - HR now in 100s likely [**12-28**] hypovolemia in addition to Afib. Will see
+   if responds to fluids.
+    -Cardiology consulted; transitioned from metoprolol to carvedilol
+   - Continue carvedilol, consider increasing dose as above
+   - Continue digoxin
+   - No anti-coagulation for now given oozing from peg site previously and
+   coagulopathy
+   - Will consider adding back Coumadin in next few days
+   #COAGULOPATHY - possible sources since the last coumadin was given on
+   [**6-18**] include hepatic and nutritional.  Hepatic possible given poor CO
+   and episodic hypotension, however would expect higher LFTs if cause was
+   ischemia. Of note LFTs are no longer elevated but PTT/INR remain
+   elevated. Nutrition possible since no Vit K in tube feeds but near
+   normal alb. a source could be levaquin, as this effects coumadin
+   metabolism. DIC unlikely since platelets are rising, fibrinogen high,
+   and haptoglobin low.
+   - Got DDAVP [**3214-7-7**] and 1unit FFP as well
+   -Holding heparin
+   - INR 1.4 today down from 2.6 on [**7-8**]
+   - Vit K 10mg QD for 3 days last dose today ([**7-10**])
+   ICU Care
+   -Nutrition: NPO,  Nutren renal with 40g beneprotein @ 45mL/hour. Will
+   change back if gets HD to remove protein.  Increased free water flushes
+   as above.
+   Glycemic Control:  Insulin SS, raised standing NPH to 12U q12H
+   -Lines:  L PICC,  Left subclavian CVL [**3214-7-7**], Arterial line [**3214-7-7**]
+   -Prophylaxis:
+   DVT: Pneumoboots, Heparin SC
+   Stress ulcer:  Famotidine
+   VAP:
+   -Communication:  Comments:  Family aware patient is very ill.
+   -Code status: DNR (no CPR, no shocks). Will take pressors, intubation
+   and HD.
+   -Disposition: ICU
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3214-7-10**] 05:29 PM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3214-7-7**] 01:08 PM
+   Multi Lumen - [**3214-7-7**] 04:39 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+
+DOC CLASS

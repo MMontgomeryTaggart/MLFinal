@@ -1,0 +1,242 @@
+Chief Complaint:
+   24 Hour Events:
+   [**2-5**]
+   - IR placed PEG tube without complications; able to take meds through
+   PEG right away, can start tube feeding tomorrow
+   - [**Doctor First Name **] was positive, titer pending; ANCA negative, RF wnl
+   - negative cx on pleural fluid
+   - restarted D5W at 100 cc/hr post-PEG, for Na 148
+   - Hct drop 29 -> 24 (WBC and plts down too), but +hematuria this AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2771-2-6**] 12:01 AM
+   Infusions:
+   Heparin Sodium - 1,450 units/hour
+   Propofol - 30 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2771-2-6**] 06:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**72**] AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 37.2
+C (99
+   HR: 58 (51 - 73) bpm
+   BP: 130/47(71) {109/34(54) - 157/61(89)} mmHg
+   RR: 16 (13 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                  2,968 mL
+                                                                    802 mL
+   PO:
+             TF:
+                                                                     12 mL
+   IVF:
+                                                                  2,836 mL
+                                                                    802 mL
+   Blood products:
+   Total out:
+                                                                    745 mL
+                                                                    170 mL
+   Urine:
+                                                                    745 mL
+                                                                    170 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,223 mL
+                                                                    632 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 68
+   PIP: 25 cmH2O
+   Plateau: 18 cmH2O
+   Compliance: 42.3 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.46/47/116/29/9
+   Ve: 7.9 L/min
+   PaO2 / FiO2: 290
+   Physical Examination
+   General Appearance: Well nourished, responsive to verbal stimuli
+   follows commands
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Bowel sounds present
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   348 K/uL
+   8.0 g/dL
+   128 mg/dL
+   0.7 mg/dL
+   29 mEq/L
+   3.9 mEq/L
+   15 mg/dL
+   112 mEq/L
+   147 mEq/L
+   24.4 %
+   8.3 K/uL
+        [image002.jpg]
+                             [**2771-2-4**]  04:25 AM
+                             [**2771-2-4**]  05:37 AM
+                             [**2771-2-4**]  08:27 AM
+                             [**2771-2-4**]  04:08 PM
+                             [**2771-2-5**]  01:05 AM
+                             [**2771-2-5**]  01:26 AM
+                             [**2771-2-5**]  03:17 AM
+                             [**2771-2-5**]  07:56 AM
+                             [**2771-2-5**]  04:11 PM
+                             [**2771-2-6**]  02:31 AM
+   WBC
+   13.4
+   8.3
+   Hct
+   27.0
+   29.4
+   24.4
+   Plt
+   515
+   348
+   Cr
+   0.7
+   0.7
+   0.7
+   0.7
+   TCO2
+   37
+   35
+   36
+   37
+   36
+   34
+   Glucose
+   120
+   176
+   116
+   128
+   Other labs: PT / PTT / INR:13.7/95.1/1.2, Differential-Neuts:70.8 %,
+   Lymph:21.0 %, Mono:5.2 %, Eos:2.8 %, Lactic Acid:0.8 mmol/L, LDH:220
+   IU/L, Ca++:8.4 mg/dL, Mg++:2.5 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   70M with Type 2 DM, HTN, CHF, AF, s/p pericardial drain for idiopathic
+   effusion, admitted to MICU with PNA, large bilateral pleural effusions,
+   possible CVA, resp distress with incrased somulence requiring
+   intubation.
+   .
+   # Hypercarbic resp failure: Had been doing well on CPAP/PSV from 0800
+   AM [**2-4**] to 0200 [**2-5**], but with downward tending minute volume. At 0200
+   put back on vent for ABG 7.22/85/117 and has remained on Assist Control
+   since. CXR: RLL haziness compared to [**2-4**]; derecruited? But CXR from
+   this morning looks impoved. No PTX on the right side where effusion was
+   diagnostically tapped (only 50cc removed). WBC bumped yesterday but
+   back to baseline again today (~8.3)
+   - Discontinue Zosyn that was restarted yesterday for ?reblossoming
+   pneumonia
+   - Follow-up sputum culture; gram stain negative
+   - Follow-up rheum labs
+ [**Doctor First Name **] positive, titer still pending this morning
+   - Will diurese today and trial SBT. If unsuccessful, will do
+   thoracentesis therapeutically this afternoon and then attempt
+   extubation
+   - If cultures remain negative, may consider steroids since pericardial
+   and parapneumonic effusions consistent with exudative process (could be
+   collagen vascular disease vs. lung infection vs. malignancy vs. PE)
+   .
+   # Expressive aphasia/AMS- Likely secondary to cardioembolic CVA per
+   neuro. MRI/MRA negative for acute processes so ?delirium/toxic
+   metabolic in addition to cardioembolic stroke as etiology. Back on
+   Heparin gtt but with low PTT goal for possible thoracentesis later
+   today
+   - BP control
+   #. AF / Bradycardia- Looks like tachy-brady syndrome. After D/c
+   standing Dilt per cards recs, patient had frequent PVCs and bradys to
+   40s and 30s, but no more episodes in the last 24 hours. (Prior bradys
+   had been seen as possibly vagal w/ETT).
+   - Continue anticoagulation with heparin gtt per above
+ eventual bridge
+   to coumadin will be needed
+   - EP f/u once stable for ablation &pacer
+   - Atropine and pacer pads at bedside
+   # Hypernatremia-. Received D5W at 100/hr X1L after D5W with bicarb and
+   500cc of D5W in KCl repletion, Na+ went from 149->146
+ 147
+   - Patient receiving free water with flushes for PEG tube feeds
+   - PM lytes for resumption of Lasix diuresis
+   .
+   #. Dysphagia- Likely secondary to cardioembolic CVA. Failed a swallow
+   study; PEG placed yesterday and can be used starting this afternoon
+   - Continuing heparin gtt for now
+   # Pericardial effusion: Unclear etiology, cultures were negative.
+   - Monitor clinically for reaccumulation
+   - Cardiology: no further recs
+   .
+   # DM2- On metformin at home.
+   - ISS, follow fingersticks
+   .
+   # HTN- Continue amlodipine
+   # BPH/hematuria- Hematuria improving
+   - Will need outpatient cystoscopy
+   - Continue foley for now since intubated
+   - Resume flomax prior to foley removal
+   # FEN: PEG tube feeds, replete electrolytes PRN
+   CODE: FULL, confirmed, wife is [**Name (NI) 3505**] number on consent in chart
+   [**Name (NI) **]: heparin gtt with low goal PTT for now
+   Dispo: ICU for now
+    Glycemic Control: Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2771-2-3**] 06:31 AM
+   Arterial line
+   PICC line
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: Family meeting held, ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+ PLEURAL EFFUSION, ACUTE
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ PERICARDIAL EFFUSION (WITHOUT TAMPONADE)
+ DYSPHAGIA
+ ATRIAL FIBRILLATION (AFIB)
+ HYPERNATREMIA (HIGH SODIUM)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2771-2-3**] 12:00 PM
+   20 Gauge - [**2771-2-3**] 01:12 PM
+   PICC Line - [**2771-2-4**] 09:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :
+
+
+
+DOC CLASS

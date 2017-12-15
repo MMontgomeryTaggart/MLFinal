@@ -1,0 +1,294 @@
+Admission Date:  [**2815-5-22**]              Discharge Date:   [**2815-5-31**]
+
+Date of Birth:  [**2736-10-22**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+Chest discomfort
+
+Major Surgical or Invasive Procedure:
+[**2815-5-26**] - Redosternotomy, Coronary artery bypass grafting to two
+vessels (Left internal mammary artery->Left anterior descending
+artery, saphenous vein graft->obtuse mraginal artery)
+
+
+History of Present Illness:
+78M hx CAD s/p CABG (RIMA to RCA) [**2798**], DM2, in [**2814-12-16**]
+developed chest pain and cath showed LAD disease not amenable to
+intervention.  Also showed disease in the distal RIMA prior to
+touchdown and DES was paced.  He was discharged on
+ASA/plavix/atenolol/statin.  According to the patient he was
+doing well until over the past few days he has had epigastric
+buring that occurs with rest. Denies other associated symptoms.
+His cath today revealed signifcant Left main disease.
+
+
+Past Medical History:
+- Coronarary artery disease
+- Diabetes
+- Hypertension
+- hx of vocal chord tumor
+
+Social History:
+Married and lives with his wife in [**Name (NI) 2584**], insurance [**Doctor Last Name 355**] and
+still works part time.
+-Tobacco history: quit 45 years prior, approx [**8-23**] pack-year
+history.
+-ETOH: None
+
+Family History:
+Mother - died of "old age" in 90s
+Father - died of "massive MI" in his 60s
+
+Physical Exam:
+Admission exam:
+VS: T 98.0 BP 120/54 HR 66 RR 15 SpO2 96/RA  Weight: 229  Kg
+103.8 kg
+GENERAL: WDWN male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of [**7-23**] cm H2O
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: CTAB in anterior lung fields (pt on bedrest after cath),
+no crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND, obese.
+EXTREMITIES: No c/c/e. TR band in place on right wrist,
+sensation intact in fingers and cap refill <2 sec. Right groin
+access site has some oozing of blood, no tenderness or hematoma.
+
+PULSES:
+Right: Carotid 2+ DP 2+ PT 2+
+Left: Carotid 2+ DP 2+ PT 2+
+
+Discharge:
+VS: T: 98.0  HR: 50-60's SR  BP: 100-120's/60's  Sats: 93% 3L
+Weight: 107.7 kg
+General: 78 year-old male in no apparent distress
+HEENT: normocephalic, mucus membranes moist
+Neck: supple no lymphadenopathy
+Card: RRR normal S1,S2 no murmur
+Resp: decreased breath sounds on left 1/4 up otherwise clear
+GI: benign
+Extr: warm bilateral with 1+ edema
+Incision: sternal clean dry intact no erythema or sternal click.
+Left lower extremity vasoview site clean dry intact no erythema
+Neuro: awake, alert oriented.
+
+Pertinent Results:
+Admission labs:
+[**2815-5-22**] WBC-4.4 RBC-3.73* Hgb-10.7* Hct-33.0* MCV-89 MCH-28.7
+MCHC-32.4 RDW-14.0 Plt Ct-189
+[**2815-5-22**] PT-12.2 PTT-91.4* INR(PT)-1.1
+[**2815-5-22**] Glucose-81 UreaN-12 Creat-0.1* Na-143 K-4.2 Cl-110*
+HCO3-23
+[**2815-5-22**] Albumin-3.4*
+[**2815-5-22**] %HbA1c-6.4* eAG-137*
+[**2815-5-22**] ALT-20 AST-7 AlkPhos-81 TotBili-0.3
+
+Discharge labs:
+[**2815-5-31**] WBC-9.8 RBC-3.08* Hgb-9.3* Hct-29.1* MCV-95 MCH-30.1
+MCHC-31.8 RDW-15.1 Plt Ct-289
+[**2815-5-31**] Glucose-189* UreaN-29* Creat-1.1 Na-141 K-4.0 Cl-102
+HCO3-31
+[**2815-5-29**] Mg-2.3
+
+Imaging:
+-CXR ([**2815-5-23**]): No acute cardiopulmonary radiographic
+abnormality.
+-CXR ([**2815-5-29**]): There is no evident pneumothorax. There are low
+lung volumes with increasing bibasilar atelectasis, larger on
+the left side. If any, there is a small left pleural effusion.
+Right IJ catheter tip is in the lower SVC. There are no other
+interval changes.
+
+-TEE ([**2815-5-26**]):
+PRE BYPASS The left atrium is dilated. No spontaneous echo
+contrast or thrombus is seen in the body of the left atrium/left
+atrial appendage or the body of the right atrium/right atrial
+appendage. A patent foramen ovale is present. A left-to-right
+shunt across the interatrial septum is seen at rest. There is
+mild symmetric left ventricular hypertrophy. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. There are three
+aortic valve leaflets. The aortic valve leaflets are moderately
+thickened. There is no aortic valve stenosis. Trace to mild
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**2-16**]+) mitral regurgitation
+is seen. There is no pericardial effusion. Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) **]
+were notified in person at the time of the study.
+
+POST BYPASS The patient is atrially paced. There is normal
+biventricular systolic function. Valvular functiojn is
+unchanged. The thoracic aorta is intact after decannulation.
+
+-Carotid US ([**5-25**]/ Right ICA 60-69% stenosis. Left ICA 40-59%
+stenosis.
+
+-Cardiac CAth [**2815-5-22**]:
+1. Selective coronary angiography showed LMCA disease. The LMCA
+had a
+90% distal stenosis. THe LAD had mild luminal irregularities.
+The LCX
+had mild luminal irregularities. The RCA is known occluded.
+2. Limited hemodynamics showed mild hypertension with central
+pressure
+of 142/61/75 mmHg.
+3. Arterial conduit angiography showed via nonselective imaging
+the RIMA
+was widely patent with patent distal stent. The RIMA was unable
+to be
+engaged selective via the right radial approach (using many
+differnt
+catheters) or via the femoral approach using an [**Female First Name (un) 887**] guide.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 24064**] was admitted to the [**Hospital1 18**] on [**2815-5-22**] for further
+management of his chest pain. He underwent a cardiac
+catheterization and was found to have a 90% stenosed left main
+coronary artery. Given the severity of his disease, the cardiac
+surgery service was consulted for surgical management. Plavix
+was continued given his drug eluting stent from [**2814-12-16**].
+He was worked-up in the usual preoperative manner including a
+carotid duplex ultrasound which showed right internal carotid
+artery of 60-69% stenosed and a left internal carotid artery
+40-59% stenosed. He complained of thigh claudication, mostly in
+his right thigh, which is reporoducible with walking 100-200
+yards and relieved by rest. His non-invasive vascuilar studies
+were normal however. On [**2815-5-25**], Mr. [**Known patient lastname 24064**] was taken to the
+operating room where he underwent a redo sterontomy with
+coronary artery bypass grafting to two vessels. Please see
+operative note for details. Postoperatively he was taken to the
+intensive care unit for monitoring. On postoperative day one, he
+awoke neurologically intact and was extubated. He was gently
+diuresed towards his preoperative weight. He developed
+post-operative atrial fibrillation and converted to sinus rhythm
+with amiodarone. Beta-blockers were continued. Aggressive
+pulmonary toilet continued.  His oxygenation improved but still
+required supplemental oxygen via nasal cannula.  His glyburide
+was restarted with blood sugars 69-170's. Insulin sliding scale
+continued. He was seen by physical therapy service for
+assistance with his postoperative strength and mobility. He was
+discharged to the Hellenic Rehab [**Telephone/Fax (1) 24065**] on POD5. He will
+follow-up as an outpatient.
+
+Medications on Admission:
+1. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. glyburide 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+
+day).
+5. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): for cardiac stents.
+2. simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every six
+(6) hours as needed for fever, pain.
+5. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+6. glyburide 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 7 days: then 200 mg daily starting [**6-7**].
+9. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. potassium chloride 10 mEq Capsule, Extended Release Sig: Two
+(2) Capsule, Extended Release PO DAILY (Daily).
+11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+12. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+13. tramadol 50 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Hellenic - [**Location (un) 2584**]
+
+Discharge Diagnosis:
+- Coronarary artery disease
+- Diabetes
+- Hypertension
+- hx of vocal chord tumor
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage. Edema 1+
+
+
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with
+mild soap, no baths or swimming until cleared by surgeon. Look
+at your incisions daily for redness or drainage.
+2) Please NO lotions, cream, powder, or ointments to incisions.
+3) Each morning you should weigh yourself and then in the
+evening take your temperature, these should be written down on
+the chart provided.
+4) No driving for approximately one month and while taking
+narcotics. Driving will be discussed at follow up appointment
+with surgeon when you will likely be cleared to drive.
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **], [**Telephone/Fax (1) 168**] Date/Time:[**2815-7-1**] 2:45 in
+the [**Last Name (un) 2538**] Building [**Last Name (NamePattern1) **] [**Hospital Unit Name **]
+
+Cardiologist: [**Doctor Last Name **] [**2815-6-8**] at 2:00p ([**Location (un) **], STE
+7600, [**Location (un) **],MA)
+
+Please call to schedule appointments with your
+
+Primary Care Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] [**Telephone/Fax (1) 24066**] in [**5-21**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+
+
+
+Completed by:[**2815-5-31**]
+
+
+DOC CLASS

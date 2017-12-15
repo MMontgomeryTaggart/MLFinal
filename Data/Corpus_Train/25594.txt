@@ -1,0 +1,264 @@
+Admission Date:  [**2726-6-28**]              Discharge Date:   [**2726-7-12**]
+
+Date of Birth:  [**2653-8-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+Sternal drainage
+
+Major Surgical or Invasive Procedure:
+[**2726-6-29**] Sternal Debridement, Placement of VAC Dressing
+[**2726-7-2**] Sternal closure with Talon system along with pectoral
+advancement flaps
+PICC placement [**7-9**]
+
+
+History of Present Illness:
+This 72 year old white male is s/p CABGx4(LIMA->LAD, RSVG-> OM1,
+PDA, and Diag) on [**2726-6-11**].  He was discharged to home on POD#5
+in stable condition and was doing well until 2 days ago.  He had
+increased sternal pain and developed purulent sternal drainage.
+He saw Dr. [**Last Name (STitle) **] this morning and was sent to be seen by our
+service.
+
+
+Past Medical History:
+CAD s/p CABGx4 [**2726-6-11**]
+postop atrial fibrillation
+Hypertension
+Hyperlipidemia
+GERD
+Glaucoma
+Gout
+Thrombocytopenia
+[**2721**] motorcycle accident with significant bony and soft tissue
+damage to the right foot, s/p ORIF of right 5th metatarsal and
+I&D
+
+
+Social History:
+Occupation: retired
+Lives with spouse
+[**Name (NI) 3826**]: 80 - 90 pack year history, quit 20 years ago
+
+ETOH:denies
+
+
+Family History:
+non contributory
+
+Physical Exam:
+Pulse: 75 Resp: 75  O2 sat: 98% RA
+B/P  Right: 113/80    Left:
+Height:     Weight:
+
+General:
+Skin: Dry [] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Sternum: purulent drainage from upper pole of wound, upper wound
+bone not healed, no errythema
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x] L leg wound healing well.
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 647**]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right: no   Left: no
+
+
+Pertinent Results:
+[**2726-6-28**] WBC-6.9 RBC-3.15* Hgb-8.9* Hct-29.0* MCV-92 MCH-28.4
+MCHC-30.8* RDW-13.6 Plt Ct-210#
+[**2726-6-28**] Glucose-123* UreaN-15 Creat-1.0 Na-137 K-4.9 Cl-100
+HCO3-28 [**2726-6-28**] ALT-20 AST-20 AlkPhos-59 TotBili-0.3
+
+[**2726-6-28**] CT Scan: Retrosternal fluid collection is posterior to
+the extent of the body of the sternum measuring 21 x 25 x 125 mm
+in AP, transverse and sagittal dimensions. A smaller second
+retrosternal fluid collection is posterior to the manubrium of
+the sternum. A small area of edema and fluid collection is
+anterior to the manubrium of the sternum. Small pocket of gas is
+incompletely imaged anterior to the trachea seen in the first
+three images of the study at the level of the thoracic inlet.
+This can be post-operative. There are no air bubbles within the
+fluid collections anterior and posterior to the sternum. Native
+coronary arteries are calcified.Small-to-moderate bilateral
+pleural effusions are greater on the left side. There is a
+sliver of pericardial effusion. Patient is post CABG. There is
+no mediastinal lymphadenopathy. The pleural effusions are
+associated with adjacent atelectasis left greater than right.
+
+[**2726-7-2**] TEE:
+No spontaneous echo contrast or thrombus is seen in the body of
+the left atrium or left atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. Overall left ventricular
+systolic function is low normal (LVEF 50-55%). Right ventricular
+chamber size and free wall motion are normal. There are simple
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) are mildly thickened. No masses or vegetations are
+seen on the aortic valve. No aortic regurgitation is seen. No
+mass or vegetation is seen on the mitral valve. No mitral
+regurgitation is seen. No masses or vegetations are seen on the
+tricuspid valve. No tricuspid regurgitation is seen. No
+vegetation/mass is seen on the pulmonic valve. There is no
+pericardial effusion.
+
+[**2726-7-10**] 03:48AM BLOOD WBC-4.9 RBC-3.16* Hgb-9.2* Hct-28.4*
+MCV-90 MCH-28.9 MCHC-32.2 RDW-15.3 Plt Ct-149*
+[**2726-7-12**] 05:54AM BLOOD WBC-4.3
+[**2726-7-12**] 05:54AM BLOOD UreaN-22* Creat-1.9* K-4.3
+[**2726-7-11**] 05:51AM BLOOD UreaN-24* Creat-1.8* K-3.7
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 1969**] was admitted to the [**Hospital1 22**] on [**2726-6-28**] for further
+management of his sternal wound infection. A CT scan was
+obtained which was suggestive of a retrosternal fluid
+collection. He was pancultured and started on broad spectrum
+antibiotics(Ciprofloxacin and Vancomycin) pending culture
+results. On [**6-29**], he was brought to the operating room
+where sternal debridement was performed with placement of a VAC
+dressing. For surgical details, please see operative note. He
+was kept sedated and paralyzed for several days and returned to
+the operating room on [**7-2**] where sternal closure was
+performed with Talon system along with pectoral advancement
+flaps by the Plastic surgery team. Operative wound cultures grew
+out Proteus mirabilis along with coagulase negative
+Staphylococcus. Antibiotics were titrated and adjusted per ID
+recommendatioms. Rifampin was eventually added. Mr. [**Known patient lastname 1969**] will
+require an 8 week (start [**7-2**]) course of Vanco and rifampin and
+possibly lifelong cipro or bactrim to be determined by ID in
+follow up. A PICC line was placed on [**7-6**]. The remainder of his
+postoperative course was essentially uneventful. He is advised
+to follow up with Plastics 2 weeks after discharge to reassess
+removal of the remaining JP drain. He continued to progress and
+was cleared by Dr.[**Last Name (STitle) **] for discharge on POD #12 with
+VNA. All follow up appointments were advised.
+
+
+Medications on Admission:
+ASA 81 mg PO daily
+Colace 100 mg PO BID
+Omeprazole 20 mg PO daily
+Lumigan 0.03% 1 gtt OU daily
+Lipitor 20 mg PO daily
+Percocet [**12-18**] PO q 4-6 hours PRN
+Coumadin 2.5 mg PO daily
+Lopressor 75 mg PO TID
+Amiodorone 200 mg PO daily
+Lisinopril 10 mg PO daily
+
+
+
+Discharge Medications:
+1. Omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+Disp:*270 Tablet(s)* Refills:*2*
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+7. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain.
+8. Hydralazine 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours).
+Disp:*120 Tablet(s)* Refills:*2*
+9. Outpatient Lab Work
+Please monitor weekly CBC w differential, LFTs, BUN/Creatinine
+while on vancomycin/rifapmin
+vancomycin trough
+fax results to [**Hospital **] clinic: ([**Telephone/Fax (1) 3835**]
+
+10. Rifampin 300 mg Capsule Sig: One (1) Capsule PO Q12H (every
+12 hours): duration approx 6-12 months, pending ID
+recommendations.
+Disp:*60 Capsule(s)* Refills:*2*
+11. Ciprofloxacin 750 mg Tablet Sig: One (1) Tablet PO every
+twelve (12) hours: duration approximately 6-12 months pending ID
+recommendations.
+Disp:*60 Tablet(s)* Refills:*2*
+12. Vancomycin 500 mg Recon Soln Sig: 2.5  Intravenous once a
+day for 10 weeks: 1250mg Q 24hours x 6-10 weeks pending ID
+recommendations.
+Disp:*qs * Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 70**] VNA
+
+Discharge Diagnosis:
+Sternal Wound Infection
+Coronary Disease, s/p CABG on [**2726-6-11**]
+Hypertension
+Dyslipidemia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month, and while taking
+narcotics
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+- Continue intravenous and oral antibiotics as directed
+DRAIN DISCHARGE INSTRUCTIONS
+
+You are being discharged with drains in place.
+
+Drain care is a clean procedure. Wash your hands thoroughly with
+soap and warm water before performing drain care. Perform
+drainage care twice a day. Try to empty the drain at the same
+time each day. Pull the stopper out of the drainage bottle and
+empty the drainage fluid into the measuring cup. Record the
+amount of drainage fluid on the record sheet. Reestablish drain
+suction.
+
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in [**3-21**] weeks, call for appt
+Dr. [**Last Name (STitle) **] in [**1-19**] weeks, call for appt
+Dr. [**First Name (STitle) 919**](Plastic surgeon) in 2 weeks
+Dr. [**Last Name (STitle) 1396**](Infectious disease)Phone:[**Telephone/Fax (1) 302**]
+Date/Time:[**2726-8-17**] 11:00
+weekly labs to include CBC w diff, LFTs, BUN, Cr, vanc trough-
+results to [**Hospital **] clinic [**Telephone/Fax (1) 1395**]
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2726-7-12**]
+
+
+DOC CLASS

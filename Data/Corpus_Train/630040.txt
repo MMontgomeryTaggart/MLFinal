@@ -1,0 +1,175 @@
+Chief Complaint:
+   24 Hour Events:
+   Lasix 40mg IV given x 2.
+   Lytes repeated in PM and stable.
+    ABG to be repeated ~3pm, no change from prior.   Patient tolerating
+   FiO2 100 -> 80.  Unable to tolerate lower FiO2, tried to go to 60, pO2
+   on ABG down to 50.  Has skin breakdown on nose and chin from bipap.
+   Started on Bactrim/solumedrol because of concern for PCP.
+   [**Name10 (NameIs) **] attempting to get induced sputum to send for PCP.
+   [**Name10 (NameIs) 6426**] pending
+   LDH 98 -> 598 --> 624 --> 529
+   Lactate 1.4 --> 1.6 --> pending
+   Allergies:
+   Benzocaine
+   Unknown; genera
+   Last dose of Antibiotics:
+   Vancomycin - [**3485-9-13**] 12:38 AM
+   Cefipime - [**3485-9-13**] 03:06 AM
+   Ciprofloxacin - [**3485-9-13**] 04:00 AM
+   Bactrim (SMX/TMP) - [**3485-9-13**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Insulin - Humalog - [**3485-9-12**] 01:23 PM
+   Furosemide (Lasix) - [**3485-9-13**] 01:42 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3485-9-13**] 07:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 35.6
+C (96
+   HR: 54 (54 - 72) bpm
+   BP: 122/56(73) {0/0(0) - 0/0(0)} mmHg
+   RR: 18 (16 - 24) insp/min
+   SpO2: 99%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 67 Inch
+             Total In:
+                                                                  1,180 mL
+                                                                    950 mL
+   PO:
+                                                                     30 mL
+             TF:
+   IVF:
+                                                                  1,150 mL
+                                                                    950 mL
+   Blood products:
+   Total out:
+                                                                  1,365 mL
+                                                                    260 mL
+   Urine:
+                                                                  1,315 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     50 mL
+                                                                     60 mL
+   Balance:
+                                                                   -185 mL
+                                                                    690 mL
+   [**Year (4 digits) **] support
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 453 (340 - 693) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 25
+   PEEP: 10 cmH2O
+   FiO2: 80%
+   PIP: 19 cmH2O
+   SpO2: 99%
+   ABG: 7.33/57/50/30/1
+   Ve: 6.2 L/min
+   PaO2 / FiO2: 63
+   Physical Examination
+   Gen: somnolent, responding to verbal and physical stimuli, NAD
+   HEENT: Sclera anicteric, PERRLA, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Anterior exam only, diffusely rhonchorus b/l
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, distended, bowel sounds present, no rebound
+   tenderness or guarding, no asterixis. Peritoneal drain in place,
+   draining clear yellow fluid, no erythema or tenderness, at drain site
+   Ext: warm, well perfused, 2+ pulses, no edema, clubbing,  or cyanosis.
+   Venous stasis changes on shins bilaterally
+   .
+   Labs / Radiology
+   80 K/uL
+   9.5 g/dL
+   372 mg/dL
+   1.8 mg/dL
+   30 mEq/L
+   4.2 mEq/L
+   56 mg/dL
+   100 mEq/L
+   137 mEq/L
+   31.7 %
+   6.1 K/uL
+        [image002.jpg]
+                             [**3485-9-11**]  12:34 PM
+                             [**3485-9-11**]  01:38 PM
+                             [**3485-9-11**]  03:21 PM
+                             [**3485-9-11**]  04:59 PM
+                             [**3485-9-12**]  05:23 AM
+                             [**3485-9-12**]  08:25 AM
+                             [**3485-9-12**]  02:25 PM
+                             [**3485-9-12**]  02:44 PM
+                             [**3485-9-13**]  05:07 AM
+                             [**3485-9-13**]  05:30 AM
+   WBC
+   10.4
+   8.3
+   6.1
+   Hct
+   32.6
+   30.3
+   31.7
+   Plt
+   100
+   90
+   80
+   Cr
+   2.1
+   1.8
+   1.8
+   1.8
+   TCO2
+   30
+   28
+   29
+   29
+   32
+   31
+   Glucose
+   238
+   224
+   220
+   372
+   Other labs: PT / PTT / INR:17.0/37.1/1.5, ALT / AST:[**6-28**], Alk Phos / T
+   Bili:62/0.9, Amylase / Lipase:47/19, Differential-Neuts:93.2 %,
+   Lymph:4.6 %, Mono:1.9 %, Eos:0.1 %, Lactic Acid:1.6 mmol/L, Albumin:4.5
+   g/dL, LDH:529 IU/L, Ca++:9.1 mg/dL, Mg++:2.1 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+ HYPOXEMIA
+ HEPATITIS OTHER
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ ASCITES
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3485-9-10**] 06:44 PM
+   20 Gauge - [**3485-9-10**] 07:34 PM
+   Arterial Line - [**3485-9-11**] 12:34 PM
+   PICC Line - [**3485-9-11**] 02:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

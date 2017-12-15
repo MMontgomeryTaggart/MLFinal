@@ -1,0 +1,205 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Cardiac catheterization: removed balloon in LAD, observed for worsened
+   bleeding, attempted pericardiocentesis but aborted- not enough
+   drainage. RHC checked as well- pt to CCU 8:30pm, VSS, alert and
+   oriented x 3
+   Allergies:
+   Penicillins
+   Unknown;
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Unknown;
+   Codeine
+   Unknown;
+   Prednisone
+   Unknown;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   Unknown;
+   Vytorin (Oral) (Ezetimibe/Simvastatin)
+   Unknown;
+   Tricor (Oral) (Fenofibrate Nanocrystallized)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2511-12-23**] 04:25 AM
+   Other medications:
+   rosuvostatin 40mg
+   docusate 100mg
+   clonazepan 1 mg TID prn
+   ipratroprium
+   tiotroprium
+   senna
+   bisacodyl
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2511-12-23**] 07:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36
+C (96.8
+   Tcurrent: 36
+C (96.8
+   HR: 69 (67 - 80) bpm
+   BP: 91/47(62) {91/47(62) - 144/79(105)} mmHg
+   RR: 21 (14 - 22) insp/min
+   SpO2: 90%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,139 mL
+                                                                     71 mL
+   PO:
+                                                                    100 mL
+             TF:
+   IVF:
+                                                                    789 mL
+                                                                     71 mL
+   Blood products:
+   Total out:
+                                                                    800 mL
+                                                                    385 mL
+   Urine:
+                                                                    600 mL
+                                                                    385 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    339 mL
+                                                                   -314 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 90%
+   ABG: ///25/
+   Physical Examination
+   GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with flat JVP
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTA anteriorly, no crackles,
+   wheezes or rhonchi.
+   ABDOMEN: dressing of ther epigastric region, soft, NTND. No HSM or
+   tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP doppler PT 1+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   184 K/uL
+   13.5 g/dL
+   109 mg/dL
+   0.9 mg/dL
+   25 mEq/L
+   4.5 mEq/L
+   15 mg/dL
+   107 mEq/L
+   141 mEq/L
+   41.4 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**2511-12-22**]  09:14 PM
+                             [**2511-12-23**]  04:15 AM
+   WBC
+   9.2
+   Hct
+   41.4
+   Plt
+   184
+   Cr
+   0.9
+   0.9
+   TropT
+   0.36
+   1.21
+   Glucose
+   119
+   109
+   Other labs: PT / PTT / INR:14.3/26.8/1.2, CK / CKMB /
+   Troponin-T:292/25/1.21, ALT / AST:20/32, Alk Phos / T Bili:81/0.5,
+   Amylase / Lipase:57/22, Differential-Neuts:82.4 %, Lymph:10.6 %,
+   Mono:5.3 %, Eos:1.4 %, Albumin:4.1 g/dL, LDH:215 IU/L, Ca++:8.5 mg/dL,
+   Mg++:2.0 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   73 yr old male w/ COPD, HTN, Hypercholesterolemia, h/o silent [**Hospital **]
+   transferred from [**Hospital1 **] after LAD perforation found to have
+   dissection of the mid LAD, thrombosis of his stent and small
+   pericardial effusion.
+   .
+   # CORONARIES: Pt with 100% occlusion of his LAD. Attempted intervention
+   was complicated by mid LAD dissection.  Upon transfer for covered stent
+   placement he subsequently thrombosed his stent. No further attempts at
+   PCI given the perforation complication. Pt with CP that is not similar
+   to his angina, but consistent with pericardial irritation.  Small
+   effusion seen on ECHO w/o tamponade. Pericardiocentesis was performed,
+   but no fluid was removed. Pt hemodynamically stable and CP improving.
+   - closely monitor hemodynamics and signs of worsening effusion. If
+   worsens will need to return to cath lab for pericardiocentesis
+   - check pulsus
+   - Cardiac [**Doctor First Name 3**] consult to evaluate given blood in the pericardium.
+   Concern for development of constrictive pericarditis. Additionally,
+   eval for LIMA-LAD revasc
+   - CXR to check for PTX given pericardiocentesis
+   - TTE in AM
+   - cycle CE
+   - pain management with IV morphine given likely pericardial irritation
+   and not ischemia. Can consider nitro if symptoms more consistent with
+   angina
+   - bedside spirometry for CT-srugery eval
+   - cont Crestor 40mg daily
+   - hold on BB and ACE-I overnight, consider restarting in AM
+   - hold on ASA overnight given concern for bleed
+   - ECG in AM
+   - monitor on tele
+   .
+   #. HTN: Pt elevated BP on arrive with SBP 150's. Holding BP meds
+   overnight.
+   - consider restarting ACE-I in AM
+   .
+   # COPD: Pt breathing comfortably. Reports home O2 use only at night.
+   - bedside spirometry
+   - cont ipratropium neb q6
+   - cont spiriva and advair
+   - consider restarting theophylline in AM
+   .
+   # Hyperlipidemia: Increase crestor to 40mg daily
+   .
+   FEN: NPO overnight
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots
+   -Pain management with morphine
+   -Bowel regimen
+   .
+   CODE: Full
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Sheath - [**2511-12-22**] 08:30 PM
+   Arterial Line - [**2511-12-22**] 08:31 PM
+   20 Gauge - [**2511-12-22**] 09:08 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

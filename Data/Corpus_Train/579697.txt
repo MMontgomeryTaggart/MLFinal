@@ -1,0 +1,261 @@
+TITLE:
+   Chief Complaint: Difficulty breathing
+   24 Hour Events:
+   - CXR: Interval worsening
+   - Goal to wean FiO2 if possible, not attained
+   - Discontinued all oral medications patient is repeatedly refusing
+   including: Clonazepam 0.5 mg PO QID, Docusate Sodium 800 mg PO BID,
+   Uroqid-Acid No.2 *NF* 500-500 mg Oral [**Hospital1 **], Lactulose 30 mL PO TID,
+   Pseudoephedrine 30 mg PO Q6H:PRN, Neo-Synephrine *NF* 0.5 % NU qid:prn,
+   Sodium Chloride Nasal [**1-15**] SPRY NU QID:PRN, Baclofen 30 mg PO BID,
+   Mucinex *NF* 600 mg Oral [**Hospital1 **], Zinc Sulfate 220 mg PO DAILY,
+   Theophylline SR 600 mg PO DAILY, Ascorbic Acid 1000 mg PO BID,
+   Polyethylene Glycol 17 g PO DAILY, Simethicone 40-80 mg PO QID:PRN,
+   Multivitamins 1 TAB PO DAILY, Guaifenesin [**5-22**] mL PO Q6H:PRN,
+   Fexofenadine 60 mg PO BID, Methadone 20 mg PO BID, Ondansetron 4 mg IV
+   Q8H:PRN, Calcium Carbonate 500 mg PO QID:PRN, Acetaminophen 325-650 mg
+   PO Q6H:PRN, Montelukast Sodium 10 mg PO DAILY, Mexiletine 150 mg PO
+   Q12H, Fentanyl Citrate *NF* 800 mcg Buccal QID pain, BuPROPion
+   (Sustained Release) 100 mg PO BID
+   - Seen by PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], states patient should go home
+   - [**Female First Name (un) **] - if unwilling to have g-tube, then should address goals of care
+   and comfort measures
+   - Given peripheral TPN and lipids
+   - Psych - concerned about abrupt cessation of benzos and opiates.
+   recommend haldol 2mg iv bid plus 1 mg q2hrs prn.  would continue to
+   give ativan .5-1mg q6h prn; recommend continuation of po benzos and
+   wellbutrim if pt goes home (and not on hospice)
+   - FeNa 1.2
+   History obtained from Patient, Medical records
+   Allergies:
+   History obtained from Patient, Medical recordsAspirin
+   Samter's syndro
+   Erythromycin Base
+   Unknown;
+   Iodine; Iodine Containing
+   Unknown;
+   Cottonseed Oil
+   Unknown;
+   Ceftazidime
+   Rash;
+   Clindamycin
+   Hives; Rash;
+   Naloxone
+   oral naloxone n
+   Last dose of Antibiotics:
+   Piperacillin - [**2596-4-3**] 04:16 PM
+   Vancomycin - [**2596-4-4**] 10:11 PM
+   Levofloxacin - [**2596-4-5**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2596-4-6**] 12:13 AM
+   Infusions:
+   Heparin Sodium - 1,500 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2596-4-5**] 09:00 AM
+   Fentanyl - [**2596-4-5**] 03:00 PM
+   Lorazepam (Ativan) - [**2596-4-6**] 12:06 AM
+   Haloperidol (Haldol) - [**2596-4-6**] 12:06 AM
+   Other medications:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue, Weight loss
+   Cardiovascular: Edema
+   Nutritional Support: NPO
+   Respiratory: Tachypnea
+   Genitourinary: Foley
+   Psychiatric / Sleep: Agitated
+   Pain: [**5-18**] Moderate
+   Pain location: LE b/l
+   Flowsheet Data as of  [**2596-4-6**] 07:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36
+C (96.8
+   Tcurrent: 35.2
+C (95.4
+   HR: 97 (92 - 112) bpm
+   BP: 141/77(92) {117/65(78) - 149/97(106)} mmHg
+   RR: 22 (15 - 44) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,740 mL
+                                                                  1,522 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,563 mL
+                                                                    792 mL
+   Blood products:
+   Total out:
+                                                                  1,490 mL
+                                                                  1,220 mL
+   Urine:
+                                                                  1,490 mL
+                                                                  1,220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,250 mL
+                                                                    302 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 100%
+   ABG: ///31/
+   Physical Examination
+   General Appearance: Thin, Anxious
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: )
+   Abdominal: Soft, Bowel sounds present
+   Extremities: Right: 2+, Left: 2+
+   Musculoskeletal: Muscle wasting, Unable to stand
+   Skin:  Warm, sacral decubitus ulcers
+   Neurologic: Responds to: Not assessed, Movement: Not assessed,
+   Paralyzed, Tone: Decreased
+   Labs / Radiology
+   588 K/uL
+   10.2 g/dL
+   181 mg/dL
+   1.1 mg/dL
+   31 mEq/L
+   3.5 mEq/L
+   21 mg/dL
+   98 mEq/L
+   140 mEq/L
+   33.3 %
+   16.5 K/uL
+        [image002.jpg]
+                             [**2596-3-30**]  05:09 AM
+                             [**2596-4-3**]  04:06 AM
+                             [**2596-4-4**]  03:13 AM
+                             [**2596-4-4**]  11:48 PM
+                             [**2596-4-5**]  05:57 AM
+                             [**2596-4-6**]  05:43 AM
+   WBC
+   13.6
+   15.2
+   16.1
+   18.5
+   16.5
+   Hct
+   28.5
+   28.1
+   29.3
+   33.5
+   33.3
+   Plt
+   633
+   603
+   589
+   561
+   588
+   Cr
+   0.5
+   0.7
+   1.1
+   1.3
+   1.2
+   1.1
+   TropT
+   0.02
+   Glucose
+   104
+   161
+   154
+   154
+   110
+   181
+   Other labs: PT / PTT / INR:17.7/74.6/1.6, CK / CKMB /
+   Troponin-T:24//0.02, ALT / AST:27/39, Alk Phos / T Bili:157/0.3,
+   Differential-Neuts:91.3 %, Band:0.0 %, Lymph:5.8 %, Mono:2.8 %, Eos:0.1
+   %, Albumin:2.6 g/dL, Ca++:8.8 mg/dL, Mg++:2.4 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+ INEFFECTIVE COPING
+ ANXIETY
+ DEEP VENOUS THROMBOSIS (DVT), LOWER EXTREMITY
+ ALTERATION IN NUTRITION
+ RESPIRATORY FAILURE, CHRONIC
+ PNEUMONIA, ASPIRATION
+ HYPOXEMIA
+ DECUBITUS ULCER (PRESENT AT ADMISSION)
+ CHRONIC PAIN
+   62M paraplegic s/p transverse myelitis, sent to ICU from floor for
+   hypoxia and closer monitoring/nursing care.
+   .
+   # Hypoxia: persistent despite antibiotics for presumed pneumonia,
+   ?aspiration especially as patient has patulous esophagus. Concerning
+   for underlying IPF given chest CT findings. Unable to bronch so far due
+   to easy desaturation to 60s. No PE per chest CTA. Less likely is
+   pulmonary edema. Leukocytosis improving on abx. Did consider elective
+   intubation for bronch but given pt adamantly DNI given possible need
+   for trach, no bronch; also bronch would be difficult given
+   desaturations
+   - continue vanco, pip-tazo, levoflox for now
+   - steroids (Solumedrol 60mg IV QD)
+ will need po equivalent if going
+   home
+   - some coughing over last 24H, try to obtain sputum sample
+   - Follow-up ACE-I, IGE, anti-GBM
+   # ARF: Worsening since admission, unclear etiology.  UA negative for
+   infection.  FeNa [**4-5**] = 1.2.  Likely some component of prerenal despite
+   this given poor po intake.
+   - Maintenance fluid while NPO
+   - Send urine eos given new antibiotics
+   - Trend, renally dose meds
+   # LE edema: Pt with notable LE edema which by report is new. Bilateral,
+   with some erythema which could represent venous stasis vs cellulitis.
+   Echo showed preserved biventricular systolic function. LENIS showed DVT
+   in left femoral vein.
+   - vanco will cover cellulitis
+   - continue heparin gtt for now, will not go home on anti-coagulation
+   - encourage improved nutition as likely reflects prealbumin = 2
+   .
+   # Sacral decubiti: Multiple sacral decubiti, with some ? osteo per
+   wife. Was treated with levoflox as outpatient, scheduled for Plastics
+   eval [**2596-3-31**] as outpatient..
+   - f/u wound care recs & on Vancomycin
+   - f/u plastics consult
+   - holding vitamins / zinc currently as patient refusing all oral
+   medications
+   .
+   # Tib/fib fx: Fx sustained falling from WC. This was not treated
+   surgically.  Ortho aware.
+   - Continue boot
+   .
+   # Chronic pain: Pt is on several medications, including methadone and
+   fentanyl.
+   - Continue meds cautiously given resp status
+   - palliative care consult recs
+   - [**Female First Name (un) 1253**]-psych c/s: start remeron
+   - prn fentanyl
+   - continue IV ativan, IV haldol, IV fentanyl
+   - psyche consult recs
+   .
+   # FEN: IVFs / replete lytes prn /  bowel regimen/  minimal PO, consider
+   continued peripheral nutrition
+   .
+   # PPX: PPI, heparin gtt, bowel regimen
+   # ACCESS: PIV
+   # CODE: DNR/DNI
+   # CONTACT:  Wife
+   .
+   # DISPO: ICU for now vs home with hospice, family mtg today
+   ICU Care
+   Nutrition:
+   Peripheral Parenteral Nutrition - [**2596-4-5**] 09:10 PM 62.5 mL/hour
+   Lines:
+   18 Gauge - [**2596-4-5**] 01:22 PM
+   20 Gauge - [**2596-4-5**] 09:20 PM
+
+
+
+DOC CLASS

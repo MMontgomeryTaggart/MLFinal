@@ -1,0 +1,332 @@
+Admission Date:  [**2497-4-24**]              Discharge Date:   [**2497-4-30**]
+
+Date of Birth:  [**2450-12-26**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 910**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2497-4-24**] - CABGx3 (Left internal mammary artery->left anterior
+decending artery, Saphenous vein graft->Obtuse marginal artery,
+Saphenous vein graft->Posterior left ventricular artery).
+
+
+History of Present Illness:
+[**Known patient firstname **] is a 46-year-old patient of Dr. [**First Name8 (NamePattern2) 1428**] [**Last Name (NamePattern1) 5196**].  She has a
+history of diabetes, CAD, status post MI, and renal
+insufficiency.  She states  she has had on and off dizziness for
+a month and on [**2497-4-18**] when getting ready for work suddenly felt
+dizzy and nauseous and actually vomited.  She made her way down
+the stairs into the kitchen and within about two minutes, she
+felt better.  She was very concerned because these are the same
+symptoms she had when she had an MI [**00**] years ago.
+ She is high risk for an MI with her CAD and diabetes and
+actually recently had a stress test, which showed an increased
+area of concern.  She has had no diarrhea, no fever or chills,
+and no other obvious explanation for her symptoms.
+
+
+Past Medical History:
+1.  CAD status post MI [**2483**] (presented with nausea, vomiting,
+syncope) status post RCA PTCA.  Subsequent MRI [**2486**],
+asymptomatic
+with RCA total occlusion and collaterals from the LAD.
+Subsequent cardiac catheterizations in 12/99, [**12-3**], and [**9-5**],
+[**11-8**]:
+with last catheterization demonstrating mid LAD 70% lesion, mid
+circ 80% stenosis, with an 80% narrowing at the bifurcation of
+the OM and a 40% proximal OM lesion, RCA is occluded
+2.  Hypertension
+3.  Type 1 diabetes diagnosed [**2460**], age 10 complicated by
+neuropathy, retinopathy, chronic kidney disease, gastroparesis
+4.  Asthma
+5.  GERD.
+6.  Prior tobacco use, quit [**10-8**].
+7.  Obesity
+8.  Depression on medications.
+9.  Carpal tunnel surgery in the [**2477**] bilaterally.
+10.  Recurrent rhinitis.
+11.  Bilateral cataract surgery.
+12.  Chronically elevated CPK levels
+13.  ORIF of the right ankle with removal of hardware and
+subsequent repeat surgery.
+14.  Hyperprolactinemia, negative MRI, presumed medication
+induced.
+15.  Axillary abscess [**9-13**] and right groin abscess in the recent
+past, status post I&D.
+16.  Chronically elevated CPK levels
+
+Social History:
+Patient has worked as a paralegal for the last 25 years.  She
+lives by herself with her Golden Retriever, [**Doctor Last Name 25352**].  10 pack
+year history (quit), one drink/week.
+
+
+Family History:
+Father with HTN, mother with breast CA in remission.  No family
+history of early MI, arrhythmia, cardiomyopathies, or sudden
+cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Pulse: 50 Resp: 18 O2 sat: 98%
+B/P  Right: 107/58   Left:
+Height:     Weight:
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: +2  Left:+2
+DP           Right:  +2 Left:+2
+PT           [**Name (NI) 165**]:  +2 Left:+2
+Radial       Right:   Left:
+
+Carotid Bruit: none      Right:+2    Left:+2
+
+
+Pertinent Results:
+Pre-op:
+[**2497-4-24**] 09:27AM   HGB-12.4 calcHCT-37
+[**2497-4-24**] 09:27AM   GLUCOSE-206* LACTATE-1.1 NA+-139 K+-4.3
+CL--102
+[**2497-4-24**] 11:04AM   GLUCOSE-170* LACTATE-1.4 NA+-138 K+-3.5
+CL--105
+[**2497-4-24**] 01:50PM   PT-13.0 PTT-35.9* INR(PT)-1.1
+[**2497-4-24**] 01:50PM   PLT COUNT-202
+[**2497-4-24**] 01:50PM   GLUCOSE-113* LACTATE-1.4 NA+-137 K+-3.2*
+CL--108
+[**2497-4-24**] 03:24PM   WBC-14.6*# RBC-3.61* HGB-9.6* HCT-28.7*#
+MCV-79* MCH-26.6* MCHC-33.6 RDW-12.9
+[**2497-4-24**] 03:24PM   UREA N-28* CREAT-1.3* CHLORIDE-115* TOTAL
+CO2-20*
+Discharge:
+[**2497-4-30**] 05:36AM BLOOD WBC-9.1 RBC-3.26* Hgb-8.9* Hct-27.3*
+MCV-84 MCH-27.4 MCHC-32.7 RDW-13.9 Plt Ct-266
+[**2497-4-30**] 05:36AM BLOOD Plt Ct-266
+[**2497-4-26**] 03:44AM BLOOD PT-12.6 PTT-31.6 INR(PT)-1.1
+[**2497-4-30**] 05:36AM BLOOD Glucose-120* UreaN-19 Creat-1.1 K-4.5
+HCO3-27
+[**2497-4-30**] 05:36AM BLOOD Calcium-8.2* Mg-2.1
+[**2497-4-24**] ECHO
+PRE BYPASS The left atrium is mildly dilated. No spontaneous
+echo contrast or thrombus is seen in the body of the left
+atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. A patent foramen ovale is
+present. A left-to-right shunt across the interatrial septum is
+seen at rest. Left ventricular wall thickness, cavity size, and
+global systolic function are normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the ascending aorta. There are simple
+atheroma in the aortic arch. There are simple atheroma in the
+descending thoracic aorta. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+stenosis. No aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Physiologic mitral regurgitation
+is seen (within normal limits). There is a trivial/physiologic
+pericardial effusion. Dr. [**Last Name (STitle) 902**] was notified in person of the
+results in the operating room at the time of the study.
+
+POST BYPASS The patient is being a paced. There is normal
+biventricular systolic function. The thoracic aorta appears
+intact. No changes from the prebypass study.
+Radiology Report CHEST PORT. LINE PLACEMENT Study Date of
+[**2497-4-27**]
+Final Report
+HISTORY: CABG. PICC line placement.
+There is increased density in the retrocardiac area consistent
+with
+atelectasis or consolidation. The costophrenic sulci are
+blunted.
+Mediastinal structures are unchanged. A right internal jugular
+sheath remains in place. A PICC line has been inserted on the
+left and terminates at the level of the cavoatrial junction.
+Compared with the previous study
+retrocardiac density has increased and blunting of the
+costophrenic sulci is new or more apparent.
+IMPRESSION: PICC placement as described. Increased atelectasis
+or
+consolidation in the lower left lung. Evidence for small pleural
+effusions.
+The study and the report were reviewed by the staff radiologist.
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4332**]
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 110**] was a same day admission to the [**Hospital1 18**] on [**2497-4-24**] for
+coronary artery bypass grafting. She was taken to the operating
+room where she underwent coronary artery bypass grafting to
+three vessels. Please see operative note for details.
+In summary she had: Coronary artery bypass grafting x3 with left
+internal mammary artery to the left anterior descending coronary
+artery; reverse saphenous vein single graft from the aorta to
+the first obtuse marginal coronary artery; reverse saphenous
+vein single graft from the aorta to the posterior left
+ventricular coronary artery.
+Endoscopic left greater saphenous vein harvesting.
+Her bypass time was 78 minutes with a crossclamp time of 63
+minutes.
+She tolerated the operation well and post-operatively she was
+transferred to the intensive care unit for monitoring. In the
+immediate post-op period she remained hemodynamically stable,
+she awoke neurologically intact and was extubated.
+Because the patient is a type 1 diabetic followed by the [**Last Name (un) 383**]
+diabetes service they were consulted for assistance in her care
+and insulin management. The patient stayed in the ICU for 3
+additional days because she required a Phenylephrine infusion to
+support her blood pressure. On POD4 she transferred out of the
+ICU to the stepdown floor for continued care and recovery from
+her surgery. Beta blockade, aspirin and a statin were resumed.
+She was seen by physical therapy and her activity was advanced.
+The remainder of her hospital course ws uneventful. On POD6 the
+patient was discharged home with visiting nurses. she is to
+follow-up with Dr [**Last Name (STitle) 902**] in 4 weeks.
+
+Medications on Admission:
+Acetaminophen-Codeine [**Hospital1 **] prn
+Albuterol Sulfate [ProAir HFA]
+Atenolol 25 mg Tablet QD
+Bupropion HCl 200 mg Tablet Sustained Release QD
+Clobetasol [Olux] 0.05 % Foam apply to affected area once a day
+
+Esomeprazole Magnesium [Nexium] 40 mg QD
+Fexofenadine 180 mg Tablet QD
+Folic Acid 1 mg QD
+Furosemide 80 mg Tablet QD
+Insulin pump
+Isosorbide Mononitrate 120 mg Tablet SR
+Losartan 50mg QD
+Metoclopramide [Reglan] 10 mg Tablet with meals and at bedtime
+Montelukast [Singulair] 10 mg Tablet QD
+Sertraline 200mg QD
+Simvastatin 40 mg Tablet QD
+Topiramate [Topamax] 25 mg Tablet
+Aspirin 325 mg Tablet QD
+Calcium Carbonate-Vitamin D3
+Cyanocobalamin [Vitamin B-12] 250 mcg Tablet QD
+Flaxseed Oil 1,000 mg Capsule
+Multivitamin QD
+Pyridoxine [Vitamin B-6] 100 mg Tablet
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*1*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Sertraline 100 mg Tablet Sig: Two (2) Tablet PO once a day.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Bupropion HCl 100 mg Tablet Sustained Release Sig: Two (2)
+Tablet Sustained Release PO QAM (once a day (in the morning)).
+Disp:*60 Tablet Sustained Release(s)* Refills:*0*
+7. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO every twenty-four(24)
+hours for 10 days.
+Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+10. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every [**5-7**]
+hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+11. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+12. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO once a
+day.
+13. Metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS
+(4 times a day (before meals and at bedtime)).
+14. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: 15-30
+MLs PO Q6H (every 6 hours) as needed for cough.
+Disp:*360 mls* Refills:*0*
+15. Insulin Pump Cartridge     Cartridge Sig: as directed units
+Subcutaneous infusion: resume preop schedule.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 2173**] VNA
+
+Discharge Diagnosis:
+1. CAD s/p CABGx3 [**2497-4-24**]
+2. Hypertension
+3. Type 1 diabetes diagnosed [**2460**], age 10 complicated by
+neuropathy, retinopathy, chronic kidney disease, gastroparesis
+4. Asthma
+5. GERD.
+6. Prior tobacco use, quit [**10-8**].
+7. Obesity
+8. Depression on medications.
+9. Carpal tunnel surgery in the [**2477**] bilaterally.
+10. Recurrent rhinitis.
+11. Bilateral cataract surgery.
+12. Chronically elevated CPK levels
+13. ORIF of the right ankle with removal of hardware and
+subsequent repeat surgery.
+14. Hyperprolactinemia, negative MRI, presumed medication
+induced.
+15. MRSA forehead
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with Dilaudid prn
+Sternal wound healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) 902**] [**2497-5-28**] 1:00PM
+Please follow-up with Dr. [**First Name8 (NamePattern2) 398**] [**Last Name (NamePattern1) 5196**] [**Telephone/Fax (1) 247**]
+Date/Time:[**2497-6-10**] 11:10.
+Please follow-up with Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 62**]
+Date/Time:[**2497-5-8**] 3:20
+Wound Clinic in 2 weeks, nurses to schedule appt befoer
+discharge
+
+
+
+Completed by:[**2497-4-30**]
+
+
+DOC CLASS

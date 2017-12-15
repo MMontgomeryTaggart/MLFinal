@@ -1,0 +1,271 @@
+Admission Date:  [**3315-11-22**]              Discharge Date:   [**3315-11-23**]
+
+Date of Birth:  [**3276-6-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Gabapentin / Trazodone / Codeine
+
+Attending:[**First Name3 (LF) 3276**]
+Chief Complaint:
+ETOH Withdrawl
+
+Major Surgical or Invasive Procedure:
+none
+
+
+Past Medical History:
+* Subdural hematoma ([**3314-3-29**]) from fall
+* Alcohol and polysubstance abuse
+* Hepatitis C virus infection
+* Mood disorder with multiple suicide attempts
+* ?PTSD, bipolar/anti-social personality/impulse/rage disorders
+
+* Migraines
+* Chronic lower back pain
+* MVA s/p chest tube placement in [**3309**]
+* Seizure disorder since [**17**] yo, alcohol withdrawal seizures
+(Please see note from [**First Name8 (NamePattern2) 723**] [**Last Name (NamePattern1) **] [**3315-11-23**] which calls into
+question the veracity of this history)
+* Aspiration pneumonia treated at [**Hospital1 2148**] from [**Date range (1) 27027**]
+
+
+Social History:
+Stays with his girlfriend in [**Name (NI) **].
+- Tobacco: Smokes 5 cigarettes/day last 2-3 years.
+- Alcohol: 1/5th daily of hard liquour, has been drinking since
+
+9 yo, has h/o DTs and alcohol withdrawal seizures,
+- Illicits: Past use of cocaine, heroin, opiates,
+benzodiazepines documented in [**Name (NI) **], but patient currently denying
+
+any of this.
+
+
+Family History:
+Father was an alcoholic.
+
+Physical Exam:
+39M well known to [**Hospital1 18**] for multiple alcohol related admissions,
+BIBA for [**Last Name (un) 10602**] unresponsive on a park bench.
+
+
+
+The patient states that today he got back together with his
+long-term girlfriend/wife who brought him a family sized bottle
+of Listerine in the mall and then layed on bench and became
+unresponsive.  He states that they began to fight and then she
+beat him about the head and chest with his own cane.  She left
+and at a time distant to the assault he passed out on a park
+bench.  He states that he drank more of the listerine, "being
+the bigger man."
+
+
+
+EMS arrived and finger stick was found to be in the 150's. In
+the ER he opened his eyes and was able to communicate
+appropriately despite slurred speech. He adamantly claimed that
+he only drank listerine, and no other drugs.  Initial vitals
+were 99.1 100 144/78 20 100%.
+
+.
+
+Plan was for CIWA and observation until sober re-evaluation.
+However after several hours in observation he began to withdraw
+and score on CIWA for tremulousness and tachycardia.  Given his
+seizure history and requirement of 6mg Ativan over an hour he
+was transferred to the [**Hospital Unit Name **].
+
+.
+
+
+
+On arrival here, he is alert, interactive and asking for pain
+meds
+
+.
+
+Of note Mr [**Known patient lastname 27019**] has had multiple recent admissions as
+follows:
+
+- [**Hospital1 18**] ICU w/ d/c AMA on [**10-31**] for presumed isopropyl alcohol
+intoxication and admission from [**Date range (1) 27030**] to [**Hospital1 2148**] for presumed
+aspiration pneumonia on cefpodoxime/azithromycin
+
+- [**Hospital1 18**] [**11-14**] for fevers, CP, and productive cough cough.
+
+.
+
+- [**Hospital1 18**] ICU from [**10-30**] to [**10-31**]. Patient was visiting his wife
+[**Name (NI) **] in the ICU when he was noted to become unresponsive.
+
+- Durring his hospitalization [**11-14**] he called his [**Company 189**] PCP and
+complained of not getting enough pain meds, he then told his PCP
+[**Name Initial (PRE) **] "if he didnt give him more pain meds he would put him in as
+much pain as he ([**Known patient firstname **]) was already in."  This resulted in the
+patient being banned from [**Hospital 189**] clinic, patient relations
+involvement and an agreement by which Mr. [**Known patient lastname 27019**] is not
+allowed to get any outpatient prescriptions from [**Hospital1 **].
+
+
+
+
+Pertinent Results:
+[**3315-11-22**] 09:21PM URINE  HOURS-RANDOM
+[**3315-11-22**] 06:40PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG
+barbitrt-NEG tricyclic-NEG
+
+[**3315-11-22**] 10:31PM BLOOD ASA-NEG Ethanol-82*
+[**3315-11-22**] 10:31PM BLOOD Osmolal-314*
+[**3315-11-23**] 06:15AM BLOOD Osmolal-290
+
+Brief Hospital Course:
+39M with complicated social situation and multiple [**Hospital1 18**]
+admission for ingestions of alcohol and its related denatured
+counterparts.
+
+.
+
+Listerine Ingestion:
+
+Per the ingredient list Listerine is 40% etoh and also includes
+a salicylate.  Mr [**Known patient lastname 27031**] ETOH level on admission to the ICU
+was 85 while his salicylate level was negative.  It is likely
+that ETOH was driving all of his assorted issues.  This likely
+explained his lowish anion gap metabolic acidosis on admission.
+Using the formula that ETOH is corrected for in the osmolar gap
+by dividing by 3.8, his osmolar gap is accounted for by his ETOH
+level, making coingestion with isopropanol or ethylene glycol
+much less likely.  He scored only once on CIWA, over 18 hours
+ago, and currently has normal vital signs.  We will plan for
+discharge.
+
+- Per prior agreement he will not be discharged with
+prescriptions for any medications
+.
+Hypoxia:
+Suspect medication induced hypoventilion c/b splinting leading
+to increased CO2 and thus increased CO2 admixture via the
+alveolar gas equation, stably in the low 90's overnight while
+asleep. Resolved morning of discharge.
+.
+Pain control:
+This patient is a terrible candidate for opiates, and refuses
+nsaids, we used low dose tylenol and would not give opiates in
+any situation if possible.  Despite sleeping easily, he
+continued to request fioricet/fioranol for his migraines when he
+awakened, but this medication was not in his medication discarge
+list.  He was given tylenol.
+.
+Rib Pain:
+No hct drop to raise c/f splenic rupture, no fractured ribs, no
+ptx
+.
+Multiple Psychiatric diagnoses:
+Patient was continued on his home regimen, he should continue
+with his home supply at home.
+.
+?Seizure d/o history:
+.
+[**First Name8 (NamePattern2) **] [**Doctor Last Name **] recent note calls into question his seizure
+history; however, the patient comes in with a positive
+barbiturate level.   Given his lack of seizure disorders and
+previous plans, we will discharge him without a prescription for
+phenobarb.
+
+.
+
+Dicharge planning:
+
+Please refer to the below note from Chief Resident [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+regarding his rules for discharge.
+.
+" After discussion with the patient and his consulting services,
+we will not provide prescriptions for any of his reported home
+medication including clonazepam, carbamazepine, amitriptyline,
+olanzapine or mirtazapine. At this time, the risk of significant
+toxicity including death, in the setting of his [**Last Name (NamePattern1) 17350**]
+substance abuse is greater the risk of any potential withdrawal
+symptoms.
+.
+After discussion with neurology we will provide the patient with
+a short duration of phenobarbital with planned Neurology Access
+Clinic follow up."
+
+
+Medications on Admission:
+Meds he should be on that are no longer prescribed by [**Hospital1 18**]:
+.
+thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+cholecalciferol (vitamin D3) 1,000 unit DAILY (Daily).
+folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+multivitamin Tablet Sig: One (1) Tablet PO once a day.
+ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours) as needed for Pain.
+amitriptyline 50 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+olanzapine 10 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+mirtazapine 30 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+
+
+Discharge Medications:
+Meds he should be on that are no longer prescribed by [**Hospital1 18**]:
+.
+thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+cholecalciferol (vitamin D3) 1,000 unit DAILY (Daily).
+folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+multivitamin Tablet Sig: One (1) Tablet PO once a day.
+ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours) as needed for Pain.
+amitriptyline 50 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+olanzapine 10 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+mirtazapine 30 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+ETOH withdrawl
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr [**Known patient lastname 27019**] you were admitted to the [**Hospital1 **] with alcohol withdrawl
+from drinking listerine.  As you know your previous actions at
+[**Hospital1 **] have resulted in our inability to provide you with any
+outpatient medications.  You must establish follow-up with
+health care for the homeless as soon as possible.  You also
+should follow up with neuro as soon as possible.
+.
+Please call [**Hospital 86**] Healthcare for the Homeless at ([**Telephone/Fax (1) 27029**]
+
+to schedule an appointment for PCP [**Name Initial (PRE) **].
+
+If you are feeling concerned about your mental health, you can
+contact the [**Name (NI) 86**] Psychiatry Urgent Care Service at
+1-[**Telephone/Fax (1) 19962**].
+
+Please call neurology at [**Telephone/Fax (1) 44**] to schedule an appointment
+
+to be seen as soon as possible in the Neurology Clinic.
+
+
+Followup Instructions:
+see above, remember you are no longer able to follow-up at [**Company 189**]
+
+
+
+Completed by:[**3315-11-23**]
+
+
+DOC CLASS

@@ -1,0 +1,324 @@
+Admission Date:  [**3022-5-26**]              Discharge Date:   [**3022-5-31**]
+
+Date of Birth:  [**2962-4-8**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+dyspnea on exertion
+
+
+Major Surgical or Invasive Procedure:
+[**3022-5-27**] Coronary Artery Bypass Grafting x4 with Left Internal
+Mammary Artery to Left Anterior Descending Artery, reverse
+Saphenous Vein Graft to Diagonal Artery, reverse Saphenous Vein
+Graft to Obtuse Marginal artery, reverse Saphenous Vein Graft to
+Posterior Diagonal Artery), Mitral Valve repair with 28
+[**Company 511**] CG future annuloplasty ring
+
+
+History of Present Illness:
+60 year old White male with recent dyspnea on exertion.  Stress
+test was abnormal during work up for revision of right total
+knee.  cardiac catheterization revealed coronary artery disease
+and he was referred for surgical evaluation
+
+
+Past Medical History:
+coronary artery disease
+hypertension
+myocardial infarction (remote by EKG)
+nephrolithiasis
+[**First Name9 (NamePattern2) **] [**Location (un) **] (42 yrs. ago)
+neurogenic bladder (self cath 4-5x/day)
+urinary tract infection with sepsis [**3021**]
+obesity
+bilateral rotator cuff tear
+spinal stenosis
+gout
+diverticulosis
+osteoarthritis
+Past Surgical History:
+bilateral total knee replacements (2x each)
+transurethral resection of prostate
+cholecystectomy
+left inguinal hernia repair x2
+tonsillectomy
+
+Social History:
+Lives with: alone, divorced
+Occupation: NSTAR mechanic
+Tobacco: none
+ETOH: occasional
+
+Family History:
+mom died of MI 68yo, dad living 87 (h/o MI)
+sister died 40yo [**Name (NI) 5141**], brother 59 living with DM
+
+Physical Exam:
+Pulse: 79 Resp: 17  O2 sat: 99%RA
+B/P  Right: 130/70   Left:
+Height: 5'9"    Weight: 225lb
+
+General:
+Skin: Dry [x] intact [x] no rash
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [] no varicosities, trace edema b/l [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] healed scars over b/l knees s/p TKR
+Neuro: Grossly intact x
+Pulses:
+Femoral      Right: cath  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) **]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right:    Left: no carotid bruits
+
+
+Pertinent Results:
+Pre-op
+[**3022-5-26**] 05:03PM   PT-11.5 PTT-24.8 INR(PT)-1.0
+[**3022-5-26**] 05:03PM   PLT COUNT-196
+[**3022-5-26**] 05:03PM   WBC-9.3 RBC-4.46* HGB-12.7* HCT-36.6* MCV-82
+MCH-28.5 MCHC-34.7 RDW-15.2
+[**3022-5-26**] 05:03PM   MAGNESIUM-1.9
+[**3022-5-26**] 05:03PM   GLUCOSE-85 UREA N-28* CREAT-1.2 SODIUM-142
+POTASSIUM-3.9 CHLORIDE-106 TOTAL CO2-26 ANION GAP-14
+[**3022-5-26**] 08:46PM URINE  RBC-[**4-19**]* WBC->50 BACTERIA-MANY
+YEAST-NONE EPI-0
+[**3022-5-26**] 08:46PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-150
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-MOD
+[**3022-5-26**] 08:46PM URINE  COLOR-Straw APPEAR-Hazy SP [**Last Name (un) 104**]-1.012
+Discharge
+[**3022-5-29**] 06:30AM BLOOD WBC-14.0* RBC-3.91* Hgb-11.0* Hct-34.1*
+MCV-87 MCH-28.1 MCHC-32.2 RDW-14.7 Plt Ct-102*
+[**3022-5-29**] 06:30AM BLOOD Plt Ct-102*
+[**3022-5-27**] 02:44PM BLOOD PT-13.1 PTT-29.4 INR(PT)-1.1
+[**3022-5-29**] 06:30AM BLOOD Glucose-120* UreaN-24* Creat-1.2 Na-140
+K-4.3 Cl-106 HCO3-26 AnGap-12
+[**3022-5-29**] 06:30AM BLOOD Mg-2.1
+
+CHEST (PORTABLE AP) [**3022-5-28**] 8:07 AM
+UNDERLYING MEDICAL CONDITION: 60 year old man with CABG/MVrep
+REASON FOR THIS EXAMINATION: ? after CT removal
+Final Report
+CHEST, AP: Examination is limited by underpenetration.
+Endotracheal tube,
+nasogastric tube, mediastinal drains, and chest tubes have been
+removed.
+Swan-Ganz catheter remains in standard position. There is no
+pneumothorax.
+Moderate layering left effusion persists. The cardiomediastinal
+silhouette is stably enlarged, post-CABG and mitral valve
+replacement. Lung volumes are low, with mild bibasilar
+atelectasis.
+IMPRESSION: Post-operative changes. Moderate left effusion.
+The study and the report were reviewed by the staff radiologist.
+
+DR. [**First Name (STitle) 816**] HO
+DR. [**First Name11 (Name Pattern1) 756**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 757**]
+
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.0 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *7.3 cm  <= 5.2 cm
+Left Ventricle - Inferolateral Thickness:  0.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.6 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.9 cm  <= 3.0 cm
+Aorta - Ascending:  *3.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  *2.7 cm  <= 2.5 cm
+Aortic Valve - LVOT diam:  1.9 cm
+Findings
+LEFT ATRIUM: Marked LA enlargement. Elongated LA. No spontaneous
+echo contrast or thrombus in the LA/LAA or the RA/RAA. Good (>20
+cm/s) LAA ejection velocity. All four pulmonary veins identified
+and enter the left atrium.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness. Moderately
+dilated LV cavity. Moderate regional LV systolic dysfunction.
+Inferobasal LV aneurysm. Moderately depressed LVEF.
+RIGHT VENTRICLE: Moderate global RV free wall hypokinesis.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Mildly dilated ascending aorta.
+Simple atheroma in ascending aorta. Simple atheroma in aortic
+arch. Mildly dilated descending aorta. Complex (>4mm) atheroma
+in the descending thoracic aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+Trace AR.
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. No MS. Moderate (2+) MR.
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+Physiologic TR.
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. Suboptimal image
+quality. Frequent atrial premature beats. Results were
+Conclusions
+PRE BYPASS The left atrium is markedly dilated. The left atrium
+is elongated. No spontaneous echo contrast or thrombus is seen
+in the body of the left atrium/left atrial appendage or the body
+of the right atrium/right atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is
+moderately dilated. There is moderate regional left ventricular
+systolic dysfunction with severe hypokinesis of the lateral,
+anterolateral and inferolateral walls. The rest of the walls are
+moderately depressed. There is a likely inferobasal left
+ventricular aneurysm. Overall left ventricular systolic function
+is moderately to severely depressed (LVEF= 30 %). The right
+ventricle displays moderate global free wall hypokinesis. The
+ascending aorta is mildly dilated. There are simple atheroma in
+the ascending aorta. There are simple atheroma in the aortic
+arch. The descending thoracic aorta is mildly dilated. There are
+complex (>4mm) atheroma in the descending thoracic aorta. The
+aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. Trace aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Moderate (2+)
+centrally directed mitral regurgitation is seen. It is likely
+due to a combination of bileaflet restriction and annular
+dilitation. There is a trivial/physiologic pericardial effusion.
+Dr. [**Last Name (STitle) 222**] was notified in person of the results in the
+operating room at the time of the study.
+POST BYPASS The patient is receiving epinephrine by infusion.
+The patient is being atrial paced. Right ventricular free wall
+systolic function is improved and is now normal. The left
+ventricle dispalys improved function as well. The lateral,
+anterolateral, and inferolateral walls are still mild to
+moderately hypokinetic. The ejection fraction is about 45%. A
+mitral annular ring is in situ. There is trace to mild mitral
+regurgitation. The peak gradient across the mitral valve is 11
+mmHg with a mean gradient of 7 mmHg at a cardiac output of 9
+liters/minute. The thoracic aorta appears intact. No other
+significant changes from the pre-bypass study.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name4 (NamePattern1) 408**] [**Last Name (NamePattern1) 409**], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**3022-5-27**] 14:47
+
+
+
+Brief Hospital Course:
+He was admitted to [**Hospital1 4**] for coronary artery bypass grafting and
+mitral valve repair versus replacement. He was found to have a
+Klebsiella urinary tract infection and was treated
+preoperatively with IV cefepime. On [**5-27**] he was brought to the
+operating room please see operative report for details. He
+tolerated the operation well and was transferred from the
+operating room to the cardiac surgery ICU in stable condition.
+He remained hemodynamically stable in the immediate
+post-operative period, woke nuerologically intact and was
+extubated. On POD1 he was transferred from the cardiac surgery
+ICU to the stepdown unit. All tubes, lines and drains were
+removed per cardiac surgery protocol. Once on the stepdown unit
+he worked with physical therapy and nursing to increase her
+activity and endurance. The remainder of his post operative
+course was uneventful. On POD four he was discharged home with
+services.
+
+
+Medications on Admission:
+amlodipine 10', asa 325', Metoprolol 25 mg [**Hospital1 **], simvastatin 80mg
+daily
+
+Discharge Medications:
+1. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1619**]-[**Location (un) **]
+
+Discharge Diagnosis:
+coronary artery disease s/p CABG and MV repair
+hypertension
+myocardial infarction
+nephrolithiasis
+[**First Name9 (NamePattern2) **] [**Location (un) **]
+neurogenic bladder (self cath 4-5x/day)
+urinary tract infection with sepsis [**3021**]
+obesity
+bilateral rotator cuff tear
+spinal stenosis
+gout
+diverticulosis
+osteoarthritis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+Sternal wound healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call the cardiac surgery office [**Telephone/Fax (1) 229**] for any
+questions or concerns. Answering service will page on-call staff
+during off hours
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) 1947**], MD Phone:[**Telephone/Fax (1) 294**]
+Date/Time:[**3022-7-4**] 1:00
+
+Please call to schedule appointments
+PCP: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4286**] [**Telephone/Fax (1) 4287**] in [**2-16**] weeks
+Cardiologist: [**First Name4 (NamePattern1) 304**] [**Last Name (NamePattern1) **] in [**2-16**] weeks
+Please call the cardiac surgery office [**Telephone/Fax (1) 229**] for any
+questions or concerns. Answering service will page on-call staff
+during off hours
+
+
+
+Completed by:[**3022-5-31**]
+
+
+DOC CLASS

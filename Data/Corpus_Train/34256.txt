@@ -1,0 +1,182 @@
+Admission Date:  [**3383-4-2**]              Discharge Date:   [**3383-4-7**]
+
+Date of Birth:  [**3307-11-8**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Amoxicillin / Shellfish Derived
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Exertional shortness of breath
+
+Major Surgical or Invasive Procedure:
+[**3383-4-2**] Aortic Valve Replacement(21mm [**Doctor Last Name 646**] Pericardial Valve)
+
+
+History of Present Illness:
+Mrs. [**Known patient lastname **] is a 75 year old female with known aortic stenosis
+for the last several years. Serial echocardiograms have shown
+progressive aortic stenosis. Over the last several months, she
+has admitted to worsening exertional shortness of breath. She
+has no history of syncope or CHF. In preperation for upcoming
+aortic valve replacement, she underwent cardiac cathterization
+which revealed single vessel coronary artery disease - 70%
+lesion in the mid circumflex. Her coronary arteries were
+otherwise normal. Her LVEF on ECHO is 60%. Preoperative carotid
+ultrasound found no significant disease.
+
+Past Medical History:
+Aortic Stenosis
+Coronary Artery Disease
+History of GI Bleed(AV Malformation)- s/p Cauterization [**1-3**]
+Hyperlipidemia
+Gastritis, Hiatal Hernia
+Urinary Incontinence
+Diverticular Disease
+Wrist Fracture Repair
+Eye Surgery as Child
+
+
+Social History:
+40 pack year history of tobacco, quit 11 years ago. Admits to
+only social ETOH. Married, and lives with her husband. [**Name (NI) **]
+works part time at deli counter.
+
+Family History:
+Denies premature coronary artery disease.
+
+Physical Exam:
+Vitals: 138/63, 60, 16, 98%RA
+General: WDWN obese female in no acute distress
+HEENT: Oropharynx benign, EOMI, full dentures
+Neck: Supple, no JVD
+Lungs: CTA bilaterally
+Heart: Regular rate and rhythm, normal s1s2, 4/6 SEM > carotids
+Abdomen: Soft, nontender with normoactive bowel sounds
+Ext: Warm, 1+ edema bilaterally
+Pulses: 2+ distally
+Neuro: Alert and oriented, CN 2- 12 grossly intact, no focal
+deficits noted
+
+Pertinent Results:
+[**3383-4-2**] Intraop TEE:
+PRE-BYPASS:
+The left atrium is elongated. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. The ascending aorta is mildly dilated. There are
+simple atheroma in the descending thoracic aorta. The aortic
+valve leaflets are severely thickened/deformed. There is severe
+aortic valve stenosis (area <0.8cm2). Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. The mitral valve leaflets are moderately thickened.
+Mild (1+) mitral regurgitation is seen. The leaflets ratio is
+close 1-1.5 and the c-[**Month (only) **] distance 1.6cm c/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+predisposition.
+
+Post_BYPASS:
+Normal Right ventricular sytolic function. Overall LVEF 50-55%.
+There is a bioprosthesis in the native aortic position, seated
+well and functioning well with a peak and a mean gradient of 20
+and 15 respectively.
+[**3383-4-6**] 09:14PM BLOOD WBC-9.1 RBC-2.68* Hgb-7.6* Hct-23.6*
+MCV-88 MCH-28.6 MCHC-32.4 RDW-14.9 Plt Ct-178
+[**3383-4-7**] 05:20AM BLOOD WBC-8.8 RBC-2.98* Hgb-8.1* Hct-26.2*
+MCV-88 MCH-27.3 MCHC-31.0 RDW-14.7 Plt Ct-197
+[**3383-4-6**] 09:14PM BLOOD Glucose-95 UreaN-19 Creat-0.7 Na-135
+K-4.5 Cl-99 HCO3-29 AnGap-12
+[**3383-4-7**] 05:20AM BLOOD Glucose-92 UreaN-20 Creat-0.7 Na-136
+K-5.3* Cl-101 HCO3-28 AnGap-12
+[**3383-4-7**] 05:20AM BLOOD Calcium-8.6 Phos-3.3 Mg-2.2
+
+Brief Hospital Course:
+Mrs. [**Known patient firstname **] was admitted and underwent aortic valve replacement
+by Dr. [**Last Name (STitle) **]. For surgical details, please see seperate
+dictated operative note. Following the operation, he was brought
+to the CVICU for invasive monitoring. Within 24 hours, she awoke
+neurologically intact and was extubated without incident. She
+maintained stable hemodynamics and transferred to the SDU on
+postoperative day two. On postoperative day three, she
+experienced bouts of atrial fibrillation. Amiodarone therapy was
+initiated with success back into a normal sinus rhythm.  For the
+remainder of her hospital stay, she remained in a normal sinus
+rhythm. Beta blockade was advanced as tolerated. She required a
+short course of antibiotics for a right arm cellulitis. Her
+hospital course was otherwise uneventul. She continued to make
+clinical improvements with diuresis and was medically cleared
+for discharge to rehab on postoperative day five.
+
+Medications on Admission:
+Simvastatin 40 qd, MV, Prilosec 20 qod, Vesicare 1 qd
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+4. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+6. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+7. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+9. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+10. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 6-8 hours as needed for pain.
+11. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 7
+days: Titrate accordingly, may need adjustment.
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7
+days: Please stop when Lasix discontinued.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Life Care Center of [**Location 2026**]
+
+Discharge Diagnosis:
+Aortic Stenosis - s/p AVR
+Postoperative Atrial Fibrillation
+Right Arm Cellulitis
+Coronary Artery Disease
+History of GI Bleed(AV Malformation)
+Hyperlipidemia
+Gastritis, Hiatal Hernia
+Urinary Incontinence
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+1)Please shower daily. No baths. Pat dry incisions, do not rub.
+2)Avoid creams and lotions to surgical incisions.
+3)Call cardiac surgeon if there is concern for wound infection.
+4)No lifting more than 10 lbs for at least 10 weeks from
+surgical date.
+5)No driving for at least one month.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in [**3-1**] weeks, call for appt
+Dr. [**Last Name (STitle) 169**] in [**12-29**] weeks, call for appt
+Dr. [**Last Name (STitle) 4412**] in [**12-29**] weeks, call for appt
+
+
+
+Completed by:[**3383-4-7**]
+
+
+DOC CLASS

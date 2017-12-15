@@ -1,0 +1,200 @@
+Chief Complaint:
+   24 Hour Events:
+   - Renal said ok to hold off on HD/CVVH for now, as has been well
+   dialyzed, will reassess today
+   - Spoke at length with family several times throughout the day
+   - Pulled femoral line, cultured tip
+   - On PSV 14/5 overnight, RSBI this am 125
+   - PIV placed in R arm
+   - UCx positive for Enterobacter cloacae, sensitivities pending
+   - Spiked fever to 101.2, pan-cultured. Started Tylenol for persistent
+   low-grade fevers
+   - Transfused 2 units pRBC for crit 24.1 and for volume, bumped
+   appropriately 24.1->29.9->31.7
+   - FT4 was wnl at 1.2
+   - Zosyn dose changed to q12 for HD dosing
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   mouth sores;
+   Sulfonamides
+   Unknown;
+   Erythromycin Base
+   Unknown;
+   Atorvastatin
+   Hepatic toxicit
+   Phenergan (Oral) (Promethazine Hcl)
+   confusion;
+   Colchicine
+   nausea
+   vomitin
+   Nickel
+   Unknown;
+   Iodine; Iodine Containing
+   Unknown; RASH T
+   Quinine
+   hypoglycemia;
+   Ciprofloxacin Hcl
+   Rash;
+   Neurontin (Oral) (Gabapentin)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Vancomycin - [**3378-3-10**] 09:18 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3378-3-13**] 05:39 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3378-3-12**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**3378-3-13**] 01:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3378-3-13**] 06:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 37.3
+C (99.1
+   HR: 95 (81 - 104) bpm
+   BP: 155/52(78) {88/32(48) - 169/60(86)} mmHg
+   RR: 19 (7 - 32) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 60 Inch
+             Total In:
+                                                                  2,474 mL
+                                                                    265 mL
+   PO:
+             TF:
+                                                                    340 mL
+                                                                    165 mL
+   IVF:
+                                                                  1,384 mL
+                                                                    100 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                  1,509 mL
+                                                                      0 mL
+   Urine:
+                                                                     40 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    965 mL
+                                                                    265 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 396 (251 - 494) mL
+   PS : 14 cmH2O
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 125
+   PIP: 23 cmH2O
+   SpO2: 100%
+   ABG: ///28/
+   Ve: 9.7 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   192 K/uL
+   11.2 g/dL
+   117 mg/dL
+   2.7 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   21 mg/dL
+   98 mEq/L
+   138 mEq/L
+   31.7 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**3378-3-10**]  07:11 PM
+                             [**3378-3-10**]  11:47 PM
+                             [**3378-3-11**]  12:03 AM
+                             [**3378-3-11**]  06:30 AM
+                             [**3378-3-11**]  12:03 PM
+                             [**3378-3-11**]  05:54 PM
+                             [**3378-3-12**]  12:00 AM
+                             [**3378-3-12**]  05:45 AM
+                             [**3378-3-12**]  05:07 PM
+                             [**3378-3-13**]  05:20 AM
+   WBC
+   11.1
+   9.8
+   9.7
+   10.0
+   Hct
+   23.0
+   23.4
+   25.2
+   25.1
+   24.1
+   29.9
+   31.7
+   Plt
+   227
+   211
+   192
+   Cr
+   1.5
+   1.4
+   1.2
+   1.2
+   1.2
+   2.0
+   2.7
+   TropT
+   3.84
+   TCO2
+   30
+   32
+   Glucose
+   137
+   161
+   151
+   137
+   170
+   124
+   98
+   112
+   117
+   Other labs: PT / PTT / INR:12.8/23.1/1.1, CK / CKMB /
+   Troponin-T:185/12/3.84, ALT / AST:27/45, Alk Phos / T Bili:96/0.4,
+   Amylase / Lipase:43/19, Differential-Neuts:91.1 %, Lymph:6.0 %,
+   Mono:2.7 %, Eos:0.2 %, Lactic Acid:1.6 mmol/L, Albumin:2.6 g/dL,
+   LDH:792 IU/L, Ca++:9.4 mg/dL, Mg++:2.6 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ CARDIAC ARREST
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3378-3-8**] 09:00 PM
+   20 Gauge - [**3378-3-12**] 01:28 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

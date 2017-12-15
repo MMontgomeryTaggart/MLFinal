@@ -1,0 +1,45 @@
+Admission Date:  [**2628-10-24**]     Discharge Date:  [**2628-10-24**]
+
+Date of Birth:   [**2556-7-23**]     Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**Known patient lastname **] has a history of
+small cell lung cancer.  She was admitted to the medical
+intensive care unit after being found with hypoxic
+respiratory failure at her nursing home.  At the time of
+presentation to [**Hospital1 58**] she was
+febrile with an absolute neutrophil count of 40.  She
+required large amounts of intravenous fluid and hemodynamic
+support from her time of presentation.  On arrival in the
+NICU she was on Neo-Synephrine and Levophed.  She was also on
+mechanical ventilation at that time.  She reached maximum
+doses on Neo-Synephrine and Levophed.  At that point
+Vasopressin was added.  Despite these measures, it was
+difficult to maintain her blood pressure.  Her oxygenation
+and ventilation continued to decline over several hours.
+Despite numerous interventions on the mode of ventilation and
+numerous boluses of intravenous fluid, the patient was unable
+to maintain a blood pressure sufficient to profuse her vital
+organs.  She passed away on the evening of [**2628-10-24**].
+
+FINAL DIAGNOSES:
+1.  Septic shock, secondary to MRSA pneumonia.
+2.  Small cell lung cancer.
+
+
+
+
+                          [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2494**], M.D.  [**MD Number(1) 2495**]
+
+Dictated By:[**Last Name (NamePattern1) 9135**]
+
+MEDQUIST36
+
+D:  [**2628-10-27**]  22:18
+T:  [**2628-10-28**]  19:54
+JOB#:  [**Job Number 9136**]
+
+ 
+ 
+DOC CLASS

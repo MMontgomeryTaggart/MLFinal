@@ -1,0 +1,229 @@
+Chief Complaint:
+   24 Hour Events:
+   - cortisol 40
+   - intermittent periods of apnea, started on AC 40%, 600, 12, 5 ABG
+   7.52/29/174 --> reduced TV to 500 ABG 7.48/31/151
+   - has been off pressors since the AM. MAPS >60
+   - intermittent SVT to 140s, comes down sponeteously vs with
+   stimulation.
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Zosyn (Intraven) (Piperacillin Sodium/Tazobactam)
+   Transaminitis
+   Last dose of Antibiotics:
+   Gancyclovir - [**3225-9-21**] 03:43 PM
+   Infusions:
+   Heparin Sodium - 850 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**3225-9-21**] 06:52 PM
+   Fentanyl - [**3225-9-22**] 12:15 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3225-9-22**] 07:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.2
+C (97.2
+   HR: 100 (77 - 126) bpm
+   BP: 94/52(67) {83/50(62) - 104/68(79)} mmHg
+   RR: 19 (13 - 34) insp/min
+   SpO2: 95%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 80.9 kg (admission): 92 kg
+   Height: 66 Inch
+    CVP: 19 (11 - 20)mmHg
+   Total In:
+                                                                  6,764 mL
+                                                                  1,954 mL
+   PO:
+   TF:
+                                                                    721 mL
+                                                                    227 mL
+   IVF:
+                                                                  5,893 mL
+                                                                  1,727 mL
+   Blood products:
+   Total out:
+                                                                  6,678 mL
+                                                                  2,669 mL
+   Urine:
+                                                                     80 mL
+                                                                     45 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     60 mL
+   Balance:
+                                                                     86 mL
+                                                                   -715 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 600) mL
+   Vt (Spontaneous): 0 (0 - 591) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 5
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 57
+   PIP: 11 cmH2O
+   Plateau: 12 cmH2O
+   SpO2: 95%
+   ABG: 7.49/29/179/21/0
+   Ve: 11.3 L/min
+   PaO2 / FiO2: 447
+   Physical Examination
+   Gen: NAD
+   HEENT: PERRL
+   Heart: s1s2 tachy
+   Lungs: coarse BS bilaterally
+   Abd: soft, nt/nd
+   Ext: worsening of digital ischemia, with dusky nail beds, further
+   darkening of the toes and finger tips, progression proximally of purple
+   discoloration, cool to touch
+   Neurologic: Awake, not following commands, tracking, nodding yes or no
+   Labs / Radiology
+   113 K/uL
+   8.1 g/dL
+   129 mg/dL
+   0.6 mg/dL
+   21 mEq/L
+   4.1 mEq/L
+   16 mg/dL
+   99 mEq/L
+   135 mEq/L
+   25.0 %
+   15.7 K/uL
+        [image002.jpg]
+                             [**3225-9-21**]  04:05 AM
+                             [**3225-9-21**]  04:22 AM
+                             [**3225-9-21**]  10:05 AM
+                             [**3225-9-21**]  10:15 AM
+                             [**3225-9-21**]  04:04 PM
+                             [**3225-9-21**]  04:13 PM
+                             [**3225-9-21**]  09:10 PM
+                             [**3225-9-21**]  09:20 PM
+                             [**3225-9-22**]  03:48 AM
+                             [**3225-9-22**]  03:54 AM
+   WBC
+   16.7
+   15.7
+   Hct
+   25.4
+   25.0
+   Plt
+   123
+   113
+   Cr
+   0.6
+   0.6
+   0.6
+   0.6
+   TCO2
+   23
+   24
+   24
+   24
+   23
+   Glucose
+   120
+   125
+   133
+   113
+   129
+   Other labs: PT / PTT / INR:15.6/54.0/1.4, CK / CKMB /
+   Troponin-T:603/123/1.50, ALT / AST:189/58, Alk Phos / T Bili:230/1.3,
+   Amylase / Lipase:189/45, Differential-Neuts:86.0 %, Band:2.0 %,
+   Lymph:7.0 %, Mono:2.0 %, Eos:0.0 %, D-dimer:6112 ng/mL, Fibrinogen:382
+   mg/dL, Lactic Acid:3.7 mmol/L, Albumin:2.8 g/dL, LDH:868 IU/L, Ca++:9.4
+   mg/dL, Mg++:1.8 mg/dL, PO4:1.8 mg/dL
+   Fluid analysis / Other labs: LFTs trending down
+   Microbiology: no new data
+   Assessment and Plan
+   Ms. [**Known patient lastname 464**] is a 44 yo female with h/o asthma, gastric bypass surgery,
+   admitted with NSTEMI, with complicated and long hospital course and now
+   with worsening multiorgan system failure with DIC and digital ischemia.
+   DIC/Anemia: patient in resolving DIC. Pt may have with underlying
+   coagulopathy as possible etiology for initial MI, CVA, microangiopathy
+   in kidney, LE ischemia. Hg electrophoresis to r/o sickle cell:
+   negative.
+   - Continue heparin gtt , goal PTT 50-60, but back on now, will continue
+   given limb ischemia
+   - Heme following, agree with probable DIC, do not disagree with heparin
+   tx as options limited.
+   - trend DIC labs daily now, cryo for fibrinogen <100, platelets for <50
+   if bleeding or <30 overall
+   - ADAMST13: 17 which is low, but can be falsely low in DIC and
+   hemolysis
+   Respiratory Failure: Patient having periods of apnea yesterday, was
+   switched to AC
+   - stable on AC for now 500/12/5/40%.
+   - will pressure support again today and check gas when having apnea to
+   see if apnea is compensating for metabolic alkalosis.
+   Altered MS: Continues to have poor mental status. Likely secondary to
+   strokes and toxic-metabolic.
+   - Fentanyl and ativan boluses for comfort, use sparingly
+   ID: patient with VAP, CMV viremia, on Cipro & gancyclovir. Sputum from
+   [**9-15**] growing pansensitive Actinobacter and Enterobacter
+   - ID recommendations appreciated
+   - Cipro (Day 1 [**9-16**], plan for 8 d course, stop [**9-23**])
+   - CMV viremia: Viral load elevated, unclear as pt immunocompetant.
+   - continue Ganciclovir (Day 1: [**9-16**]) 2 week course
+   - check q week viral loads (due [**9-25**])
+   Shock: Currently in distributive shock, intermittently on levophed.
+   Shock possibly septic etiology; lactate vascilating, afebrile since.
+   Possible pulm source as sputum with acinetobacter and enterobacter. CXR
+   with RLL infiltrate, improved.
+   - Off levophed  for now, will try to keep off as limb ischemia worsened
+   by pressors. Goal MAP >55.
+   - Per discussion at family meeting, will not escalate pressor beyond
+   dose at time of meeting (ie, no greater than 0.06 mg/kg/hr)
+   - IR-guided a-line placed
+   - normal cortisol level [**9-21**]: 40
+   Renal Failure: ARF, anuric, dialysis dependent.
+   -Patient on CVVH since [**9-14**], will take off fluid today 50cc/hour
+   - Renal following, appreciate input: want to attend family meeting talk
+   about CVVH is not helping overall picture.
+   - CVVH line repaired [**9-17**]
+   Hypoglycemia: Resolved. Unclear etiology. [**Month (only) 8**] have been secondary to FS
+   from ischemic finger. Will now check FS from ear or venous.
+   - Endocrine consult appreciated: will send plasma insulin, c-peptide,
+   proinsulin, sulfonylurea, and BHB if pt becomes hypoglycemic again
+   Hyponatremia: Na 135 now and stabilizing.
+   - will follow for now
+   Transaminitis: LFT
+s trending down. AP up, Tbili down.
+   - Continue to follow labs
+   Rhabdo: CK improving from peak of 16K. No movement of any extremity.
+   -trend CK.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3225-9-21**] 03:30 PM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Blood sugar well
+   controlled
+   Lines:
+   Multi Lumen - [**3225-9-7**] 07:09 PM
+   Dialysis Catheter - [**3225-9-9**] 06:08 PM
+   Arterial Line - [**3225-9-16**] 06:48 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: h2
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

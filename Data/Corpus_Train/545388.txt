@@ -1,0 +1,120 @@
+Chief Complaint:
+   24 Hour Events:
+ FEVER - 101.4
+F - [**2591-10-1**] 03:00 AM, cx
+   EGD 7pm: old blood in stomach, no active bleeding; octreotide gtt D/C'd
+   HCT 24, transfused 1 unit
+   Methamphetamines positive on u tox
+   Allergies:
+   Lasix (Oral) (Furosemide)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2591-10-1**] 01:57 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2591-10-1**] 06:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.6
+C (101.4
+   Tcurrent: 38.6
+C (101.4
+   HR: 103 (98 - 156) bpm
+   BP: 126/69(82) {125/67(80) - 169/128(131)} mmHg
+   RR: 16 (14 - 26) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 68 Inch
+             Total In:
+                                                                  1,248 mL
+                                                                    654 mL
+   PO:
+             50 mL
+   TF:
+   IVF:
+                                                                    973 mL
+                                                                    604 mL
+   Blood products:
+                                                                    275 mL
+   Total out:
+                                                                    450 mL
+                                                                    150 mL
+   Urine:
+                                                                    450 mL
+                                                                    150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    798 mL
+                                                                    504 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///26/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   48 K/uL
+   8.2 g/dL
+   114 mg/dL
+   0.6 mg/dL
+   26 mEq/L
+   3.2 mEq/L
+   6 mg/dL
+   102 mEq/L
+   137 mEq/L
+   24.9 %
+   4.4 K/uL
+        [image002.jpg]
+                            [**2591-9-30**]  06:00 PM
+                            [**2591-9-30**]  08:15 PM
+                            [**2591-10-1**]  04:42 AM
+   WBC
+   4.4
+   Hct
+   22.7
+   24.0
+   24.9
+   Plt
+   48
+   Cr
+   0.6
+   TropT
+   <0.01
+   Glucose
+   114
+   Other labs: PT / PTT / INR:16.1/27.0/1.4, CK / CKMB /
+   Troponin-T:55//<0.01, ALT / AST:33/76, Alk Phos / T Bili:231/3.1,
+   Amylase / Lipase:34/35, Albumin:3.4 g/dL, LDH:149 IU/L, Ca++:8.0 mg/dL,
+   Mg++:1.5 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2591-9-30**] 08:32 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

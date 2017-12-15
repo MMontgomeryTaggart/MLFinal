@@ -1,0 +1,140 @@
+Admission Date:  [**3306-12-9**]       Discharge Date:  [**3306-12-13**]
+
+Date of Birth:   [**3235-9-17**]       Sex:  M
+
+Service:  CT Surgery
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Name13 (STitle) 10269**] is a 71 year old
+male with a history of hypercholesterolemia, osteoarthritis
+and history of previously positive PPD, who presented with no
+known coronary artery disease history.  Over this past
+summer, he had progressively worsening exertional substernal
+chest pressure and pain, particularly noted when he was
+playing golf and walking up hills.
+
+The patient presented to his primary care physician with
+these complaints.  He was then evaluated by a cardiologist,
+that subsequently led to an exercise treadmill test with a
+positive Cestimibi scan.  This led to a cardiac
+catheterization as an outpatient, showing significant three
+vessel coronary artery disease, including the left anterior
+descending artery, posterior descending artery in a right
+dominant system, and an obtuse marginal branch.
+
+Due to the symptomatic chest pain/unstable angina, and the
+significant three vessel coronary artery disease, the patient
+was referred to the cardiothoracic surgery service with Dr.
+[**Last Name (STitle) 1882**] for operative management of his disease.  Preoperative
+electrocardiogram showed sinus rhythm with no ST segment
+changes or previous Q waves.  Preoperative chest x-ray was
+significant for no evidence of acute cardiopulmonary disease.
+Additionally, the patient had preadmission testing laboratory
+studies which were significant for a hematocrit of 43 as well
+as a preoperative creatinine of 1 and BUN of 26.
+
+HOSPITAL COURSE:  The patient was subsequently taken to the
+Operating Room on [**3306-12-9**], where he underwent three
+vessel coronary artery bypass grafting, including conduit of
+left internal mammary artery to left anterior descending
+artery, right endoscopically harvested right saphenous vein
+graft to the posterior descending artery and one to the
+obtuse marginal branch.
+
+The patient tolerated the procedure well.  His pericardium
+was left open.  He had a right radial arterial line and a
+left internal jugular Swan-Ganz catheter. He left the
+Operating Room with two ventricular and two atrial pacing
+wires as well as two mediastinal tubes and one left pleural
+tube.  He went off cardiopulmonary bypass with a mean
+arterial pressure of 70, central venous pressure of 10,
+pulmonary artery diastolic pressure of 14 with a mean of 18.
+He was atrially paced at 90.  He was on Neo-Synephrine for
+blood pressure support and propofol for sedation.
+
+On the night of surgery, the patient was rapidly extubated in
+the Cardiac Surgery Recovery Unit.  He was afebrile in his
+postoperative course.  Laboratory data were significant for a
+white blood cell count 15,000 on postoperative day number
+one, hematocrit of 30, platelet count 190,000, BUN 21 and
+creatinine 1.  Neurologically, he was intact.  He was started
+on Lasix, Lopressor and aspirin.  His chest tubes were left
+in place for some high outputs and, ultimately, he was
+transferred to the floor.
+
+By postoperative day number two, the patient was ambulating
+at level III with physical therapy.  His chest tubes were
+removed with a subsequent chest x-ray showing no significant
+effusion and stable cardiac silhouette; just some basilar
+atelectasis.  He was given aggressive pulmonary toilette with
+incentive spirometry, coughing to deep breathing, and
+mobilized with physical therapy.  He was given appropriate
+pain control with Percocet.  He had good urine output and his
+BUN and creatinine remained within normal limits.
+
+By postoperative day number four, the patient remained
+afebrile.  His wires had already been removed.  He was
+ambulating at level IV and was due to complete stairs with
+physical therapy.  He was afebrile, in sinus rhythm at a rate
+of 78 with a blood pressure of 122/54.  His sternum was
+stable with Steri-Strips in placed, open to air, no erythema,
+no exudate, no evidence of drainage.  He had decreased breath
+sounds at the bases.  His heart had a regular rate and rhythm
+without murmur, rub or gallop.  His Abdomen was soft,
+nontender, with bowel sounds.  Extremities were warm and well
+perfused; saphenous vein graft harvest site on the right
+medial thigh clean, dry and intact.
+
+Given the patient current presentation, the patient was
+deemed stable and appropriate for discharge to home.
+Discharge hematocrit was 25, BUN 24, creatinine 1, and white
+blood cell count 14,000.
+
+DISCHARGE MEDICATIONS:
+Lipitor 10 mg p.o.q.d.
+Ecotrin 325 mg p.o.q.d.
+Glucosamine/chondroitin q.d.
+Lasix 20 mg p.o.q.a.m. times seven days.
+K-Dur 20 mEq p.o.q.d. times seven days.
+Protonix 40 mg p.o.q.d.
+Lopressor 75 mg p.o.b.i.d.
+Percocet 5/325 one to two tablets p.o.q.4-6h.p.r.n.
+Colace 100 mg p.o.b.i.d.
+
+CONDITION AT DISCHARGE:  Stable, afebrile, no sternal
+drainage, in sinus rhythm.
+
+DISPOSITION:  To home with VNA services.
+
+FOLLOW-UP:  The patient was instructed to see Dr. [**Last Name (STitle) 1882**] in
+three weeks and to see his cardiologist in two weeks.  He
+will have home VNA services.  He lives at [**Location (un) 1912**] and will
+be unable to return to Wound Care Clinic, so he will receive
+his wound checks through the home VNA service.
+
+DISCHARGE INSTRUCTIONS:  The patient was instructed not to
+drive times 30 days.  He should abstain from any heavy
+lifting greater than ten pounds times 30 days.
+
+DISCHARGE DIAGNOSIS:
+Status post coronary artery bypass grafting times three, left
+internal mammary artery to left anterior descending artery,
+saphenous vein graft to posterior descending artery and
+obtuse marginal artery.
+History of hypercholesterolemia.
+History of osteoarthritis.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1887**], M.D.  [**MD Number(1) 1888**]
+
+Dictated By:[**Last Name (NamePattern4) 2936**]
+MEDQUIST36
+
+D:  [**3306-12-13**]  08:23
+T:  [**3306-12-13**]  08:39
+JOB#:  [**Job Number 6774**]
+
+
+
+DOC CLASS

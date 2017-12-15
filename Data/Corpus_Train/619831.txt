@@ -1,0 +1,246 @@
+CVICU
+   HPI:
+   HD18
+   [**7-24**] POD [**12-23**]
+   68M s/p CABG x4 LIMA-LAD, SVG-Diag-SVG-OM(Y graft) SVG-PLB [**7-12**]
+   [**7-20**] trach
+   EF 40% Cr 4.9 Wt 69.9K HgbA1c 5.6
+   Antibx: Vanco/Cipro-Staph aureus-sputum/+UA([**7-19**])
+   PMH: ESRD/HD(T-Th-Sat), CVA'[**59**] no deficits, s/p CEA, COPD, s/p MIx2,
+   Anxiety, PUD, s/p iatrogenic cardiac arrest [**3-/2760**], +Tob, Etoh
+   abuse(no EtOH x10yr), benzo abuse,
+   [**Last Name (un) **]: sertraline 25', spiriva, albuterol PRN, [**Last Name (un) 114**] 325', colace 100',
+   folate 1', simvastatin 80', lorazepam 1.5"', lopressor 12.5"', zantac
+   150", senna qd, seroquel 25/q6-prn
+   MEDS TRANSFER: Nicotine patch 21', [**Last Name (un) 114**] 81', Prednisone taper, Spiriva
+   Pravachol 80', Protonix 40", Lopressor 12.5", Ativan 1/q8-prn
+   [**7-14**]: CTs and wires d/c'd, MRI showed bilat watershed, embolic, and
+   hypoxic infarcts.
+   [**7-16**]: no change neurologically, tol. TF
+   6/28&29-no change
+   [**7-19**] Gen [**Doctor First Name 86**] consult for perc. trach&peg
+   [**7-20**] Trach, peg delayed
+   [**7-21**] more awake, DHT in stomach
+   [**7-22**]:Blinks/moves (R)LEtoes to command only.HD(-)2.1L.TC all day/nite.
+   Vanco HD dosed. feet mottled/doppler pulses.
+   [**7-23**]:No issues-neuro status unchanged.Repeat UA/C&S. S&S consulted for
+   PMV.sreening for [**Location **]
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Albuterol Inhaler 5. Artificial Tears Preserv. Free 6.
+   Aspirin
+   7. Atorvastatin 8. Calcium Gluconate 9. Chlorhexidine Gluconate 0.12%
+   Oral Rinse 10. Ciprofloxacin
+   11. Dextrose 50% 12. Docusate Sodium (Liquid) 13. FoLIC Acid 14.
+   Heparin 15. HydrALAzine 16. Insulin
+   17. Ipratropium Bromide MDI 18. Lansoprazole Oral Disintegrating Tab
+   19. Magnesium Sulfate 20. Metoclopramide
+   21. Metoprolol Tartrate 22. Milk of Magnesia 23. Sertraline 24. Sodium
+   Chloride 0.9% Flush 25. Vancomycin
+   24 Hour Events:
+[**7-24**]: No events overnight. Neuro status unchanged. Remains HD stable.
+    URINE CULTURE - At [**2760-7-23**] 05:20 PM
+   Post operative day:
+   HD18
+   [**7-24**] POD [**12-23**]
+   68M s/p CABG x4 LIMA-LAD, SVG-Diag-SVG-OM(Y graft) SVG-PLB [**7-12**]
+   [**7-20**] trach
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2760-7-23**] 06:05 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2760-7-24**] 12:31 AM
+   Other medications:
+   Flowsheet Data as of  [**2760-7-24**] 09:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**63**] a.m.
+   Tmax: 37.7
+C (99.9
+   T current: 36.9
+C (98.5
+   HR: 90 (81 - 98) bpm
+   BP: 111/50(65) {95/42(41) - 130/63(80)} mmHg
+   RR: 29 (16 - 29) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 67.2 kg (admission): 69.9 kg
+   Height: 69 Inch
+                  Total In:
+                                                                  1,398 mL
+                                                                    205 mL
+   PO:
+                  Tube feeding:
+                                                                  1,198 mL
+                                                                    205 mL
+   IV Fluid:
+                                                                    200 mL
+   Blood products:
+   Total out:
+                                                                    350 mL
+                                                                    150 mL
+   Urine:
+                                                                    350 mL
+                                                                    150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,048 mL
+                                                                     55 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SPO2: 100%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,
+   No(t) Moves all extremities, (RUE: No movement), (LUE: No movement),
+   Blinks eyes yes/no to VCs. Moves RLE toes to command. Does not move any
+   other extremity
+   Labs / Radiology
+   423 K/uL
+   9.4 g/dL
+   127 mg/dL
+   4.6 mg/dL
+   28 mEq/L
+   3.8 mEq/L
+   71 mg/dL
+   101 mEq/L
+   141 mEq/L
+   28.2 %
+   12.8 K/uL
+        [image002.jpg]
+                             [**2760-7-15**]  08:29 PM
+                             [**2760-7-16**]  02:48 AM
+                             [**2760-7-17**]  01:48 AM
+                             [**2760-7-18**]  03:26 AM
+                             [**2760-7-19**]  04:54 AM
+                             [**2760-7-20**]  05:08 AM
+                             [**2760-7-21**]  02:48 AM
+                             [**2760-7-22**]  02:20 AM
+                             [**2760-7-23**]  01:08 AM
+                             [**2760-7-24**]  02:13 AM
+   WBC
+   13.1
+   13.8
+   16.1
+   18.2
+   22.8
+   19.9
+   14.4
+   12.6
+   12.8
+   Hct
+   25.9
+   26.0
+   25.2
+   28.1
+   27.8
+   28.5
+   27.5
+   29.1
+   28.2
+   Plt
+   [**Telephone/Fax (3) 7377**]22
+   363
+   355
+   362
+   409
+   423
+   Creatinine
+   4.1
+   4.9
+   5.0
+   3.5
+   4.6
+   3.4
+   4.5
+   3.4
+   4.6
+   TCO2
+   31
+   Glucose
+   134
+   131
+   136
+   130
+   148
+   136
+   121
+   116
+   146
+   127
+   Other labs: PT / PTT / INR:12.7/36.5/1.1, CK / CK-MB / Troponin
+   T:530//, ALT / AST:9/42, Alk-Phos / T bili:56/0.6, Amylase /
+   Lipase:158/90, Differential-Neuts:84.0 %, Lymph:12.0 %, Mono:1.6 %,
+   Eos:2.0 %, Fibrinogen:303 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:3.0
+   g/dL, Ca:8.5 mg/dL, Mg:2.5 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   .H/O RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**]), FEVER (HYPERTHERMIA,
+   PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), CEREBROVASCULAR DISEASE, OTHER,
+   AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH), ALTERED MENTAL STATUS (NOT DELIRIUM), CORONARY
+   ARTERY BYPASS GRAFT (CABG), .H/O PSYCHIATRIC DISEASE, OTHER (INCLUDING
+   SCHIZOPHRENIA, PERSONALITY DISORDERS), .H/O RENAL FAILURE, ACUTE (ACUTE
+   RENAL FAILURE, ARF)
+   Assessment and Plan: HD18
+   [**7-24**] POD [**12-23**]
+   68M s/p CABG x4 LIMA-LAD, SVG-Diag-SVG-OM(Y graft) SVG-PLB [**7-12**]  HD
+   stable.
+   [**7-20**] trach
+   Neurologic: Neuro checks Q: 4 hr, [**Last Name (un) **] prn pain/ Cont. Sertraline and
+   folate
+   Cardiovascular: Aspirin, Beta-[**Last Name (un) 751**], Statins, HD stable. SR. Cont
+   B-[**Last Name (LF) **], [**First Name3 (LF) 114**], Statin
+   Pulmonary: Trach, Continuous TC. Cont IH. SXN prn. S&S eval for PMV
+   Gastrointestinal / Abdomen: Plan PEG early this week(?), WBC ct stable.
+   Nutrition: Tube feeding, Cont bowel regiment/prophylaxis.
+   Renal: Foley, HD, Condom cath in place, BUN/Cr= 71/4.6. Plan HD
+   tomorrow.
+   Hematology: Stable anemia. No issues.
+   Endocrine: RISS
+   Infectious Disease: Check cultures, [**7-19**] [**Last Name (un) **]:Citrobacter. Repeat UA/C&S
+   PND. Cont Cipro/Vanco.+ MRSA
+   Lines / Tubes / Drains: Foley, Trach
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: General surgery, CT surgery, Nephrology, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2760-7-20**] 09:00 PM
+   18 Gauge - [**2760-7-23**] 04:33 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 [**Year (4 digits) 751**]
+   VAP bundle: HOB elevation, Mouth care, Daily wake up
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**2760-7-24**] 11:48 ------
+
+
+
+DOC CLASS

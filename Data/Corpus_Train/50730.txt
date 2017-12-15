@@ -1,0 +1,197 @@
+Admission Date:  [**2751-6-4**]              Discharge Date:   [**2751-6-4**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamides) / Penicillins / Paxil / Iodine; Iodine
+Containing / Fluorescein
+
+Attending:[**First Name3 (LF) 8723**]
+Chief Complaint:
+LETHARGY
+
+Major Surgical or Invasive Procedure:
+Right groin lined placed in ED
+
+History of Present Illness:
+This is an 89 yo woman w/ multiple medical problems discharged
+yesterday from [**Hospital1 52**] ([**Date range (1) 15091**]) for lethargy found have UTI,
+CDIFF colitis, hypotension and AFIB now presents again with
+lethargy hours after discharge today.  BP in ED down to 65/52
+with BRBPR and hypoxic with decreased O2 sats. HCT 23.8 down
+from 29.7 the previous day. Started on levophed, IVFs, and PRBCs
+transfused. An upper NG lavage was negative. GI was consulted.
+In ED, right groin line placed and given Levo/flagyl/axithro as
+well.
+
+Past Medical History:
+UTI with E. Coli.
+Colitis, likely C-diff although not proven
+CHF
+Hypotension, resolved,
+atrial fibrillation
+? new CVA in left caudate/putamen
+ARF, resolved
+Hypernatremia, resolved
+Pulmonary hypertension.
+Hypertension.
+Iron deficiency anemia.
+Depression.
+Diverticulosis, status post GI bleed in [**2750-12-28**].
+Hypothyroidism.
+GERD.
+IBS.
+Colonic polyps.
+Urinary incontinence.
+Pleural effusions since [**2750-12-28**], exudative and
+parapneumonic.
+History of thrush
+
+PAST SURGICAL HISTORY:  Status post appendectomy.
+
+Status post TAH/BSO.
+
+Status post exploratory laparotomy for adhesions.
+
+Status post femoral neck fracture.
+
+
+Social History:
+She is widowed.  She has several daughters, one of which lives
+in [**Name (NI) 1118**] and the other which lives in [**State 4213**].  She currently
+lives at [**Hospital **] Rehab.  No tobacco, alcohol, or drugs.
+
+Family History:
+N/A
+
+Physical Exam:
+Temperature 99.2, heart rate 72, breathing 20, blood pressure
+83/65, oxygen saturation 100 percent on 100% NRB.
+
+GEN: lethargic elderly woman in NAS
+HEENT:  Anicteric sclerae.  Surgical pupils bilaterally.
+HEART:  Regular rate and rhythm.  There is a III/VI
+holosystolic murmur heard throughout the precordium.
+CHEST: She has crackles three-fourths of the way up posteriorly
+bilaterally with decreased BS at right base.
+ABDOMEN:  soft, nontender/nondistended, with normoactive
+bowel sounds.
+RECTAL: guiac postive- brownish/red stool
+EXTREMITIES:  LE trace edema b/l and cool. LUE with 2+ edema.
+NEURO:  minimally reactive to sternal rub
+
+Pertinent Results:
+Admit labs notable for HCT of 23.8 down from 29.7 the previous
+am.
+
+[**2751-6-3**] 06:00AM   WBC-13.3* RBC-3.24* HGB-8.8* HCT-29.7* MCV-92
+MCH-27.3 MCHC-29.8* RDW-14.6
+
+[**2751-6-3**] 06:00AM   PLT COUNT-248
+
+[**2751-6-4**] 01:50AM   GLUCOSE-133* UREA N-19 CREAT-0.7 SODIUM-148*
+POTASSIUM-3.3 CHLORIDE-115* TOTAL CO2-26 ANION GAP-10
+
+[**2751-6-4**] 02:10AM   LACTATE-1.7
+
+[**2751-6-4**] 04:10AM   TYPE-ART PO2-214* PCO2-96* PH-7.15* TOTAL
+CO2-35* BASE XS-1
+
+EKG: AFIB rate of 75, No new changes c/t last admit.
+
+CXR: Right pleural effusion
+
+ECHO [**6-1**]: severe pulm HTN, 3+ TR, 1+ AI and 1+ MR. [**Last Name (Titles) **] > 60%
+
+
+Brief Hospital Course:
+89 yo woman DNR/DNI w/ h/o diastolic dysfunction, severe pulm
+htn,  recent AFIB, GIB [**1-29**] polyps and diverticulosis who was
+recently here with hypotension in setting of c. diff colitis and
+UTI returns within hours of discharge with BRBPR/guiac positive
+stools, HCT drop of 6 points, hypotension and hypercarbic
+respiratory failure.  Patient is in shock from either sepsis or
+GI bleed, or both.
+
+Attempts were initially made to volume rescucitate the patient
+with IVFs and PRBCs.  GI was consulted and she was made NPO,
+began PPI [**Hospital1 9**], serial HCTs checks started, and IV flagyl given
+for h/o c. difficile. (Also started on levo/ceftaz for likely
+sepsis). Source was thought to be likely lower GI since NGL was
+negative and most concerned about possible diverticulosis or
+colitis (either C.Diff or ischemic).  Plan was to perform flex
+sig when patient off bipap and more stable.  She required
+pressors for hypotension and bipap for hypoxia/hpercarbia and
+remained minimally responsive to stimulation.  The pulmonary
+fellow discussed her case with her daughter and plan was to make
+her comfortable and to no longer to pursue aggressive measures.
+Patient expired at 3:20 pm and autopsy was declined. ME made
+aware of case since expired within 24 hours of admission and
+case was waived.
+
+
+Medications on Admission:
+1. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)
+
+Injection every eight (8) hours as needed for DVT prevention.
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+
+4. Levothyroxine Sodium 25 mcg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+5. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Miconazole Nitrate     Powder Sig: One (1) Appl Miscell.  [**Hospital1 9**]
+
+(2 times a day).
+7. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-29**]
+Drops Ophthalmic  PRN (as needed) as needed for dry eyes.
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO QD (once a day) as needed for
+constipation.
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day) as needed for constipation.
+11. Olanzapine 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+12. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 4 days: continue through [**2751-6-6**].
+13. Aspirin 81 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable
+
+PO QD (once a day).
+14. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 4 days: please continue through [**2751-6-6**].
+15. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: 0.5 Tablet,
+Rapid Dissolve PO TID (3 times a day) as needed for extreme
+aggitation.
+16. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Hypotension and lethargy- Hypovolemia from LGIB vs. sepsis
+Hypercarbic respiratory failure
+LGIB
+C. diff colitis
+
+
+Discharge Condition:
+Patient expired
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 8721**]
+
+
+
+
+DOC CLASS

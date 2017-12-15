@@ -1,0 +1,216 @@
+TITLE:
+   CVICU
+   HPI:
+   HD3   POD 1-CABG x 3
+   Chief complaint:
+   CAD
+   PMHx:
+   Past Medical History: Diverticulitis, spinal stenosis with  numbness
+   below knees B/L, MI [**38**] years ago, HTN, Right knee pain  [**2615**] Colonic
+   polyp
+s s/p excision, Peripheral neuropathy  Arthritis
+   Past Surgical History: Disc surgeries x 2
+   [**Last Name (un) **]: Aspirin 325mg QD, Atenolol 25mg QD, NTG 0.4 mg SL PRN
+   Current medications:
+   1. 2. 250 mL D5W 3. Acetaminophen 4. Albuterol 0.083% Neb Soln 5.
+   Aspirin EC 6. Aspirin 7. Calcium Gluconate
+   8. CefazoLIN 9. Chlorhexidine Gluconate 0.12% Oral Rinse 10. Dextrose
+   50% 11. Docusate Sodium 12. Docusate Sodium (Liquid) 13. Glycopyrrolate
+   14. Influenza Virus Vaccine 15. Insulin 16. Ketorolac 17. Magnesium
+   Sulfate 18. Meperidine 19. Metoclopramide 20. Milk of Magnesia 21.
+   Morphine Sulfate 22. Neostigmine 23. Nitroglycerin 24.
+   Oxycodone-Acetaminophen 25. Phenylephrine 26. Potassium Chloride 27.
+   Propofol 28. Ranitidine 29. Ranitidine 30. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+[**10-24**]; postextubation hypoxemia/Bradycardia-junctional episodes
+   overnight.
+   ARTERIAL LINE - START [**2617-10-23**] 12:00 PM
+ PA CATHETER - START [**2617-10-23**] 12:00 PM
+ INTUBATION - At [**2617-10-23**] 12:21 PM
+ INVASIVE VENTILATION - START [**2617-10-23**] 12:21 PM
+ CORDIS/INTRODUCER - START [**2617-10-23**] 12:30 PM
+ NASAL SWAB - At [**2617-10-23**] 01:04 PM
+ EKG - At [**2617-10-23**] 02:11 PM
+ INVASIVE VENTILATION - STOP [**2617-10-23**] 04:09 PM
+ EXTUBATION - At [**2617-10-23**] 04:13 PM
+ FEVER - 102.7
+C - [**2617-10-23**] 07:00 PM
+   Post operative day:
+   POD#1 CABG x 3
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2617-10-24**] 12:24 AM
+   Infusions:
+   Phenylephrine - 1.8 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2617-10-24**] 08:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**20**] a.m.
+   Tmax: 39.3
+C (102.7
+   T current: 37
+C (98.6
+   HR: 54 (54 - 106) bpm
+   BP: 104/47(65) {77/42(56) - 158/85(111)} mmHg
+   RR: 12 (11 - 27) insp/min
+   SPO2: 95%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 93.6 kg (admission): 85 kg
+   Height: 70 Inch
+   CVP: 13 (8 - 28) mmHg
+   PAP: (43 mmHg) / (16 mmHg)
+   CO/CI (Thermodilution): (4.37 L/min) / (2.2 L/min/m2)
+   SVR: 966 dynes*sec/cm5
+   SV: 80 mL
+   SVI: 39 mL/m2
+   Total In:
+                                                                  5,976 mL
+                                                                    478 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  5,976 mL
+                                                                    478 mL
+   Blood products:
+   Total out:
+                                                                  2,097 mL
+                                                                  2,660 mL
+   Urine:
+                                                                  1,535 mL
+                                                                  2,380 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,879 mL
+                                                                 -2,182 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 25 cmH2O
+   Plateau: 19 cmH2O
+   SPO2: 95%
+   ABG: 7.42/37/89.[**Numeric Identifier 287**]/25/0
+   Ve: 9.6 L/min
+   PaO2 / FiO2: 127
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: throughout), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   128 K/uL
+   10.2 g/dL
+   145 mg/dL
+   0.7 mg/dL
+   25 mEq/L
+   4.3 mEq/L
+   6 mg/dL
+   108 mEq/L
+   138 mEq/L
+   29.7 %
+   11.6 K/uL
+                             [**2617-10-23**]  12:18 PM
+                             [**2617-10-23**]  12:27 PM
+                             [**2617-10-23**]  03:26 PM
+                             [**2617-10-23**]  03:59 PM
+                             [**2617-10-23**]  04:46 PM
+                             [**2617-10-23**]  07:01 PM
+                             [**2617-10-23**]  07:10 PM
+                             [**2617-10-23**]  10:00 PM
+                             [**2617-10-24**]  04:00 AM
+                             [**2617-10-24**]  04:24 AM
+   WBC
+   6.5
+   11.6
+   Hct
+   32.3
+   30.2
+   29.7
+   Plt
+   125
+   128
+   Creatinine
+   0.6
+   0.7
+   TCO2
+   24
+   19
+   20
+   18
+   25
+   Glucose
+   113
+   102
+   131
+   124
+   133
+   145
+   Other labs: PT / PTT / INR:14.2/30.8/1.2, Lactic Acid:2.6 mmol/L
+   Assessment and Plan
+   .H/O MYOCARDIAL INFARCTION, CORONARY ARTERY BYPASS GRAFT (CABG),
+   CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE) ; postextubation
+   hypoxemia/Bradycardia-junctional episodes overnight.-requires pressors
+   for BP augmentation.
+   Assessment and Plan: stable-weaning off Neo. Requires aggressive
+   pulmonary hygiene.
+   Neurologic: Neurochecks Q: 4 hr, AOx3, pain well-controlled
+   Cardiovascular: Aspirin, High impedence on the pacing wire. Patient had
+   episodes of bradycardia and possible junction rhythm overnight.
+   Resolved. DC PAC; Post-op hypotension
+ wean Neo gtt for MAP > 60. Plan
+   to start B-Blocker once BP/HR can tolerate
+   Pulmonary: Improving oxygenation,  will continue CPT/Nebs/incentive
+   spirometry and mobilization of the patient-OOB, diuresis. Plan DC CTs
+   w/ criteria met.
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated , cont.bowel regimen/prophylaxis
+   Renal: Foley, adeq UOP, BUN/Cr=6/0.7
+   Hematology: no issue
+   Endocrine: RISS
+   Infectious Disease: Spiked T overnight. no cultures sent, periop ABX
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Pacing wires
+   Wounds: Dry dressings
+   Imaging: none
+   Fluids: KVO
+   Billing Diagnosis: (Respiratory insuff, post-op); Post-op Hypotension
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2617-10-23**] 12:00 PM
+   PA Catheter - [**2617-10-23**] 12:00 PM
+   16 Gauge - [**2617-10-23**] 12:00 PM
+   Cordis/Introducer - [**2617-10-23**] 12:30 PM
+   20 Gauge - [**2617-10-23**] 12:54 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU, remains in ICU for tenuous pulmonary status, weaning
+   off Neo. Probable tx F6 in AM.
+
+
+
+DOC CLASS

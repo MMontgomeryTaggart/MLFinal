@@ -1,0 +1,201 @@
+I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   24 Hour Events:
+ MULTI LUMEN - STOP [**2965-1-26**] 10:48 AM
+ PICC LINE - START [**2965-1-26**] 10:49 AM
+ INVASIVE VENTILATION - STOP [**2965-1-26**] 11:44 AM
+ ARTERIAL LINE - STOP [**2965-1-27**] 03:36 AM
+   Allergies:
+   Morphine
+   Unknown;
+   Betadine (Topical) (Povidone-Iodine)
+   Unknown;
+   Iodine
+   Unknown;
+   Demerol (Injection) (Meperidine Hcl)
+   swelling/sob;
+   Lisinopril
+   Angioedema;
+   Last dose of Antibiotics:
+   Cefipime - [**2965-1-26**] 02:09 AM
+   Vancomycin - [**2965-1-27**] 07:55 AM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2965-1-26**] 10:30 AM
+   Furosemide (Lasix) - [**2965-1-26**] 10:35 AM
+   Hydralazine - [**2965-1-26**] 10:26 PM
+   Heparin Sodium (Prophylaxis) - [**2965-1-27**] 03:00 AM
+   Other medications:
+   ipratropium brominde, compazine, zofran, clonidine patch, pantoprazole,
+   cefepime, vanco, s/c heparin
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2965-1-27**] 10:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.3
+C (97.4
+   HR: 88 (84 - 144) bpm
+   BP: 134/61(74) {110/49(66) - 155/86(94)} mmHg
+   RR: 19 (15 - 24) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 64 Inch
+             Total In:
+                                                                    809 mL
+                                                                    297 mL
+   PO:
+             TF:
+   IVF:
+                                                                    809 mL
+                                                                    297 mL
+   Blood products:
+   Total out:
+                                                                  3,805 mL
+                                                                    870 mL
+   Urine:
+                                                                  3,505 mL
+                                                                    870 mL
+   NG:
+                                                                    300 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,996 mL
+                                                                   -573 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   FiO2: 50% Face tent
+   SpO2: 94%
+   ABG: 7.36/54/92.[**Numeric Identifier 125**]/30/2
+   PaO2 / FiO2: 186
+   Physical Examination
+   General Appearance: No(t) Well nourished, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: No(t) Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   10.9 g/dL
+   172 K/uL
+   136 mg/dL
+   0.5 mg/dL
+   30 mEq/L
+   4.0 mEq/L
+   8 mg/dL
+   98 mEq/L
+   137 mEq/L
+   32.4 %
+   7.6 K/uL
+        [image002.jpg]
+                             [**2965-1-26**]  04:03 AM
+                             [**2965-1-26**]  06:42 AM
+                             [**2965-1-26**]  10:38 AM
+                             [**2965-1-26**]  01:54 PM
+                             [**2965-1-26**]  03:35 PM
+                             [**2965-1-26**]  03:37 PM
+                             [**2965-1-26**]  05:01 PM
+                             [**2965-1-26**]  10:09 PM
+                             [**2965-1-26**]  10:16 PM
+                             [**2965-1-27**]  03:39 AM
+   WBC
+   9.0
+   7.6
+   Hct
+   30.4
+   32.4
+   Plt
+   160
+   172
+   Cr
+   0.6
+   0.5
+   0.5
+   0.5
+   TCO2
+   29
+   30
+   29
+   31
+   31
+   32
+   Glucose
+   107
+   178
+   161
+   136
+   Other labs: PT / PTT / INR:12.2/22.5/1.0, CK / CKMB /
+   Troponin-T://<0.01, ALT / AST:19/22, Alk Phos / T Bili:74/0.6, Amylase
+   / Lipase:19/15, Differential-Neuts:86.0 %, Lymph:12.0 %, Mono:1.5 %,
+   Eos:0.4 %, Lactic Acid:1.5 mmol/L, LDH:166 IU/L, Ca++:9.1 mg/dL,
+   Mg++:2.4 mg/dL, PO4:3.0 mg/dL
+   Imaging: CXR: Left retrocardiac opacity stable.
+   Microbiology: negative today.
+   Assessment and Plan
+ NAUSEA / VOMITING: ileus vs early sigmoid volvulus better this am s/p
+   NG tube decompression. Will contine NG given ongoing nausea.. passing
+   some gas. will monitor for bowel movement.. once she passes a BM will
+   d/c NG tube.
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]): still with significant O2
+   requirement, ? atelectasis, vs  pneumonia in the left base, ?
+   granulation tissue with obstruction inteh left mianstem.. if she
+   doensot improve with medical managment of atelectasis will d/w IP
+   bronch for assessment of LLL collapse in am. Will get up into the
+   chair, hypercarbia is stable.  Wean O2 as tolerated.
+ TRACHEOBRONCHOMALACIA (TRACHEOMALACIA, BRONCHOMALACIA): IP following.
+NSVT: episode overnight, electrolytes within normal limits. Will
+   obtain EKG, check cardiac enzymes. Will hold off on echo given normal
+   EF [**9-5**]. Will resume home bblocker.
+   ICU Care
+   Nutrition:
+   Comments: due to ileus will hold off on feeding.
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2965-1-26**] 10:49 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU, given need for high FiO2.
+   ------ Protected Section ------
+   ICU Attending Coverage
+   I saw and examined the patient with the pulmonary fellow, the
+   assessment and plan was discussed in detail. I would underscore the
+   following.
+   Unable to tolerate her NI ventilation overnight (given OSA) in setting
+   of abdominal distention and nausea.  Much improved symptomatically
+   following NGT placement and decompression.  Abdomen soft on exam. CXR
+   with atelectasis/infiltrate.  [**Month (only) 47**] be able to improve atelectasis if she
+   is able to tolerate NI ventilation tonight.  Otherwise agree with
+   assessment and plan as detailed in Dr. [**First Name (STitle) 9996**]
+s note above.
+   Patient is critically ill given tenuous respiratory status
+   Time spent: 30 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 3032**] [**Last Name (NamePattern1) 3033**], MD
+   on:[**2965-1-27**] 13:21 ------
+
+
+
+DOC CLASS

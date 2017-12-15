@@ -1,0 +1,177 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   59 yo man with DM, strep PNA meningitis and mastoiditis.
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**2508-1-9**] 07:00 PM
+   Allergies:
+   Penicillins
+   Hives;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2508-1-10**] 04:01 AM
+   Vancomycin - [**2508-1-10**] 08:00 AM
+   Bactrim (SMX/TMP) - [**2508-1-10**] 08:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2508-1-9**] 10:00 PM
+   Haloperidol (Haldol) - [**2508-1-10**] 05:08 AM
+   Morphine Sulfate - [**2508-1-10**] 06:00 AM
+   Lorazepam (Ativan) - [**2508-1-10**] 10:05 AM
+   Other medications:
+   dexamathasone drops in ear
+   cipro drops in ear
+   dexamethasone
+   protonix
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Respiratory: No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain
+   Psychiatric / Sleep: Agitated, No(t) Delirious
+   Flowsheet Data as of  [**2508-1-10**] 12:06 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 75 (71 - 113) bpm
+   BP: 126/72(92) {107/60(82) - 167/153(156)} mmHg
+   RR: 18 (18 - 32) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+   CVP: 17 (8 - 349)mmHg
+   Total In:
+                                                                  5,946 mL
+                                                                  1,309 mL
+   PO:
+   TF:
+   IVF:
+                                                                  5,946 mL
+                                                                  1,309 mL
+   Blood products:
+   Total out:
+                                                                  2,218 mL
+                                                                  1,310 mL
+   Urine:
+                                                                  2,218 mL
+                                                                  1,310 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,728 mL
+                                                                     -1 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 520 (520 - 520) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 11 cmH2O
+   SpO2: 99%
+   ABG: 7.40/27/95.[**Numeric Identifier **]/15/-5
+   Ve: 12.6 L/min
+   PaO2 / FiO2: 238
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   11.4 g/dL
+   150 K/uL
+   239 mg/dL
+   1.7 mg/dL
+   15 mEq/L
+   4.2 mEq/L
+   30 mg/dL
+   110 mEq/L
+   138 mEq/L
+   34.2 %
+   13.6 K/uL
+        [image002.jpg]
+                            [**2508-1-9**]  12:27 AM
+                            [**2508-1-9**]  03:36 AM
+                            [**2508-1-9**]  02:18 PM
+                            [**2508-1-9**]  04:45 PM
+                             [**2508-1-10**]  02:29 AM
+   WBC
+   10.5
+   13.6
+   Hct
+   33.1
+   34.2
+   Plt
+   132
+   150
+   Cr
+   1.4
+   1.6
+   1.7
+   TCO2
+   19
+   17
+   Glucose
+   158
+   248
+   239
+   Other labs: PT / PTT / INR:13.2/26.4/1.1, Differential-Neuts:83.3 %,
+   Lymph:14.3 %, Mono:2.2 %, Eos:0.1 %, Lactic Acid:2.0 mmol/L,
+   Albumin:3.0 g/dL, Ca++:7.8 mg/dL, Mg++:2.0 mg/dL, PO4:2.3 mg/dL
+   Imaging: CT:  with opacification of right
+   mastoid air cells, and right inner ear
+   canal fluid.
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ .H/O HYPOTENSION (NOT SHOCK)
+ MENINGITIS, BACTERIAL
+ DIABETES MELLITUS (DM), TYPE I
+   Meningitis:  Continue vanco/CTX pending sensitivities.  Continue
+   steroids for 1 more day.  Follow up on OSH sensitivities
+   Acute renal failure:  creatinine stightly increased today.
+   respiratory failure/sepsis:  much improved
+   mastoiditis/middle ear infection:  improved
+   neurontin for peripheral neuropathy
+   ativan for anxiety/sleep
+   DM: increase glargine
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2508-1-8**] 02:50 PM
+   Multi Lumen - [**2508-1-8**] 07:05 PM
+   Arterial Line - [**2508-1-8**] 11:49 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+
+
+
+DOC CLASS

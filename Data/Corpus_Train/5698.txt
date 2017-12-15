@@ -1,0 +1,352 @@
+Admission Date:  [**2675-12-2**]              Discharge Date:   [**2675-12-8**]
+
+Date of Birth:  [**2612-8-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2692**]
+Chief Complaint:
+Difficulty breathing, increase in Angina.
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Pt is a 63M with PMH CAD s/p 3V CABG in [**2668**], most recent cath
+this month [**11-15**] with stent of LMCA to LCx and angioplasty of
+OM. Prior to that admission pt had initially presented to
+[**Hospital 872**] hospital with complaints of worsening dyspnea and
+angina over past 8 months. Had reported a week of dry cough and
+pharyngitis. During his recent stay pt remained afebrile with a
+white count WNL. He is now presenting with complaints of R sided
+intermitted chest pain, orthopnea and fatigue. First set of
+cardiac enzymes are negative. CXR appears unchanged from prior
+with with possible RML PNA. CTA chest significant for R pleural
+effusion and RML PNA vs atelectasis. WBC nl. EKG no significant
+change from prior.
+
+Past Medical History:
+Depression 20 years
+Erectile dysfunction
+Angina
+hyperlipidemia
+IDDM
+CAD (CABG 3vd), 6 stents; last Cath [**11-7**]
+Ulcerative colitis
+HTN
+
+Social History:
+Married. Patient is a optometrist who has been under a great
+deal of stress, related to his health inhibiting his ability to
+work. 5 year smoking history in 20s. No history of etoh abuse.
+No iv drugs
+
+Family History:
+mom with CAD, CABG in her 60's.
+
+Family history of premature coronary artery disease, DM, HTN,
+Hyperlipidemia
+
+
+Physical Exam:
+VS - Temp 97.0 BP 139/65 HR 78, RR 18, 100% 2L oxygen,
+Gen: middle aged male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral
+Neck: large, neck hard to examine, supple, no meningismus,
+Difficult to assess JVP.
+CV: PMI small and displaced laterally. RRR, Distant Heart
+Sounds. normal S1, S2. No murmurs, no rubs
+Chest: Dull to percussion and auscultation bilat up post [**2-4**]
+bilat. Abd: Soft, NTND. No HSM or tenderness. No abdominial
+bruits.
+Ext: 1+ edema bilaterally, up to ankle. Feet decreased
+temperature, minimal hair, no ulcers noted
+Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+
+Pertinent Results:
+[**2675-12-2**] 08:50AM BLOOD WBC-8.8 RBC-4.60 Hgb-12.2* Hct-37.9*
+MCV-82 MCH-26.6* MCHC-32.3 RDW-16.4* Plt Ct-216
+[**2675-12-2**] 05:50PM BLOOD PT-14.3* PTT-95.5* INR(PT)-1.3*
+[**2675-12-2**] 08:50AM BLOOD Glucose-237* UreaN-24* Creat-1.1 Na-138
+K-4.4 Cl-101 HCO3-29 AnGap-12
+[**2675-12-3**] 12:00PM BLOOD ALT-29 AST-37 CK(CPK)-211* AlkPhos-51
+TotBili-0.6
+[**2675-12-2**] 08:50AM BLOOD CK(CPK)-98
+[**2675-12-2**] 03:50PM BLOOD CK(CPK)-93
+[**2675-12-3**] 12:25AM BLOOD CK(CPK)-168
+[**2675-12-4**] 02:30AM BLOOD CK(CPK)-406*
+[**2675-12-4**] 07:08AM BLOOD ALT-32 AST-55* CK(CPK)-371* AlkPhos-62
+TotBili-0.9
+[**2675-12-4**] 07:08AM BLOOD CK-MB-12* MB Indx-3.2 cTropnT-0.65*
+[**2675-12-4**] 02:30AM BLOOD CK-MB-13* MB Indx-3.2 cTropnT-0.47*
+[**2675-12-3**] 12:00PM BLOOD CK-MB-6 cTropnT-0.16*
+[**2675-12-3**] 12:25AM BLOOD CK-MB-8 cTropnT-0.14*
+[**2675-12-2**] 03:50PM BLOOD cTropnT-0.03*
+[**2675-12-4**] 07:08AM BLOOD Albumin-3.3* Calcium-9.1 Phos-3.1 Mg-2.1
+[**2675-12-2**] 10:25AM BLOOD Lactate-1.3
+.
+TTE
+The left atrium is mildly dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. There is mild regional left ventricular systolic
+dysfunction with inferolateral akinesis/hypokinesis. Overall
+left ventricular systolic function is mildly depressed (LVEF= 55
+%). Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) are mildly thickened.
+There is no aortic valve stenosis. No aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen. The estimated pulmonary artery
+systolic pressure is normal. There is no pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**2675-11-15**],
+the regional wall motion abnormality was present previously
+although not reported. There is no aortic regurgitation detected
+in either study.
+.
+CTA CHEST
+1. Multifocal pneumonia with associated reactive lymph nodes.
+2. No pulmonary embolus or aortic dissection.
+3. Bilateral pleural effusions; cannot exclude infected pleural
+effusions as there is enhancement of the adjacent pleural
+surfaces.
+4. Degenerative change of thoracic spine and DISH.
+5. Calcification in gallbladder, which may be within the wall,
+should be further evaluated by non- urgent ultrasound.
+.
+
+
+Brief Hospital Course:
+63M with CAD s/o CABG with recent stent in LCx [**11-7**] who
+presents with shortness of breath and flash pulmonary edema in
+setting of diastolic heart failure.
+.
+Brief Hospital Course:
+.
+# Pulmonary
+Patient presented without fever or leukocytosis.  CTA was
+negative for PE, however it was positive for multifocal
+pneumonia and bilateral pleural effusions.  He was started on
+levofloxacin for presumed community acquired pneumonia.  He
+twice experienced acute SOB associated with severe HTN (SBP
+200s) and was found to have flash pulmonary edema in the setting
+of diastolic heart dysfunction.  His overlying pneumonia was
+thought to contribute to this decompensation as well.  He was
+transferred to the MICU for management.  He underwent diuresis
+and his BP was controlled.  His pulmonary status responded well
+to these interventions and he was transferred to the cardiology
+service.  Repeat chest imaging showed a stable right middle lobe
+nodule opacification.  Infectious disease and pulmonary were
+consulted to comment on CT chest findings in the setting of
+atypical presentation of infection (no leukocytosis, fever,
+productive cough).  ID recommended a battery of infectious
+disease studies including fungal and atypical infectious causes
+of pneumonia as well as immunodeficiency workup (HIV testing).
+A PPD was placed on [**2675-12-7**] on the right forearm.  Pulmonary
+considered the lesion to be a polymicrobial abscess and
+recommended a prolonged course of PO antibiotics with repeat
+imaging w/ CT and outpatient pulmonary follow up.  He was
+scheduled for repeat CT scan prior to his pulmonary appointment.
+ He was stable on room air for several days prior to discharge,
+albiet with a mild cough worse at night.
+.
+# CAD
+Patient with known severe CAD with recent stenting in [**Month (only) 354**]
+[**2675**] to LCx and POBA to OM2.  Initial evaluation of cardiac
+enzymes was negative, however after the episode of flash
+pulmonary edema and HTN his troponins and CK-MB increased.  This
+was considered a NSTEMI due to demand ischemia and he was
+started on heparin drip in addition to his home medications.
+After his enzymes trended down the heparin drip was
+discontinued.  He was also started on a nitroglycerin patch to
+help alleviate anginal sxs.  Upon discharge he was free of
+exertional CP and dyspnea.  He will follow up with his
+cardiologist several weeks after discharge.  A repeat stress
+test was recommended and ordered to be completed prior to his
+next appointment with cardiology.
+.
+# PUMP: Diastolic CHF / HTN
+Patient has known diastolic chronic CHF.  As mentioned, he
+likely experienced flash pulmonary edema in setting of
+tachycardia, hypertension, pneumonia and mild fluid overload.
+His lasix dose was doubled to [**Hospital1 **]; his K and creatinine remained
+stable.  Other home medications were continued.
+.
+# IDDM
+Home [**Hospital1 **] NPH was continued, however he experienced a few AM low
+AM sugars.  His PM NPH dose was decreased to 39 units with
+resolution.  However, given his liberalized diet @ home, he will
+continue on his regular 42 units [**Hospital1 **] at home.
+.
+# Ulcerative Colitis:
+Continued 5-ASA.
+.
+# Depression/Anxiety
+Continued Clonazepam and Escitalopram.  Clearly this is an
+ongoing issue for him and likely is playing a role in his
+ongoing debilitation.  It was recommended that he continue his
+weekly group therapy and consult a private therapist if needed.
+.
+#Disposition
+The patient's family was concerned about Mr. [**Known patient lastname **] returning
+home given the disrepair and clutter in the home, in addition to
+a stressful relationship between the wife and husband.  PT and
+OT were consulted as was social work.  The patient did not meet
+criteria for rehabilitation; it was recommended that the PCP
+continue to work with the patient and his family regarding this
+issue.  Documentation was provided to apply for disability as
+well.
+.
+He was started on nitroglycerin patch.  He will take antibiotics
+for 3-4 weeks until his pulmonary follow up.  He will also see
+his cardiologist and get a stress test in the interim.  On
+discharge the patient was ambulating on room air without
+assistance and free of shortness of breath and / or chest pain.
+
+Medications on Admission:
+Mesalamine 1200mg [**Hospital1 **]
+Escitalopram 10mg
+Amlodipine 5mg daily
+Clonazepam 0.75 QHS
+Ranolazine 500mg [**Hospital1 **]
+Atorvastatin 80mg daily
+NTG SL prn
+Lisinopril 30mg daily
+Ezetimibe 10mg daily
+Clopidogrel 75mg daily
+Metoprolol Succinate 100mg [**Hospital1 **]
+Aspirin 325mg daily
+Humalog 42 Units [**Hospital1 **]
+Furosemide 40mg daily
+
+Discharge Medications:
+1. Stress Test
+Exercise MIBI
+Please have this test approximately 1 week before your
+appointment with Dr. [**Last Name (STitle) **]
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Three
+(3) Tablet, Delayed Release (E.C.) PO BID (2 times a day).
+4. Escitalopram 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+5. Ranolazine 500 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO BID (2 times a day).
+6. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+Disp:*qs Tablet, Sublingual(s)* Refills:*0*
+11. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+12. Nitroglycerin 0.3 mg/hr Patch 24 hr Sig: One (1) patch
+Transdermal DAYS ([**Doctor First Name **],MO,TU,WE,TH,FR,SA): Apply in the morning
+and remove before bedtime.
+Disp:*30 patch* Refills:*1*
+13. Cortisone 1 % Cream Sig: One (1) Appl Topical QID (4 times a
+day) for 7 days.
+Disp:*qs * Refills:*0*
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+15. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+16. Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+17. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: One (1)
+Subcutaneous twice a day: Use as directed.
+18. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours) for 30 days.
+Disp:*120 Tablet(s)* Refills:*0*
+19. Clindamycin HCl 150 mg Capsule Sig: Two (2) Capsule PO Q6H
+(every 6 hours) for 30 days.
+Disp:*240 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Primary:
+-CAD
+-Pneumonia, atypical vs abscess
+Secondary:
+-Diastolic congestive heart failre, chronic
+
+
+Discharge Condition:
+Breathing improved; still w/ occasional cough, free of chest
+pain
+
+
+Discharge Instructions:
+You were admitted to the hospital with shortness of breath.  You
+were found to have uncontrolled blood pressure and excess fluid
+in your lungs.  During the hospitalization you were also found
+to have damage to your heart (heart attack - NSTEMI).  Your
+blood pressure was controlled and your medication regimen was
+improved.  You are now taking several new medications:
+nitroglycerin patch and two antibiotics - cefpodoxime and
+clindamycin.  The dose of your lasix was also increased to 40 mg
+TWICE a day.  Lastly, you were also found to have pneumonia, for
+which you were treated with an antibiotic.
+.
+A nodular opacification was also found on your chest x-ray.  You
+were scheduled to see a pulmonologist for follow up of this.
+BEFORE this appointment (several days prior) please get a chest
+CT scan at the [**Hospital3 **] Medical Center.  Call radiology ([**Telephone/Fax (1) 18722**] with any questions.
+.
+Also, have your PPD read  (right forearm) w/ your PCP [**Name Initial (PRE) 497**]
+([**2675-12-9**]).
+.
+You will also need to keep your appointment with Dr. [**Last Name (STitle) **].
+Prior to this appointment we recommend that you get a stress
+test to further evaluate your heart disease.  Lastly, Dr. [**Last Name (STitle) **]
+will should set you up with post-heart attack rehabilitation as
+an outpatient.
+.
+If you experience any of the following please return to the
+hospital or call your doctor: fever, chills, chest pain,
+shortness of breath, palpitations, blood sputum production,
+rash, swelling of the tongue or throat.
+
+Followup Instructions:
+Please keep the below appointments:
+Please have CT scan before going to see pulmonology:
+CT SCAN [**12-28**] : Call radiology ([**Telephone/Fax (1) 6632**] with any
+questions.
+.
+-Pulmonary
+Arrive 7:30AM please
+Provider: [**Name10 (NameIs) 1552**] BREATHING TESTS Phone:[**Telephone/Fax (1) 606**]
+Date/Time:[**2675-12-31**] 7:40
+Provider: [**First Name11 (Name Pattern1) 1550**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D. Phone:[**Telephone/Fax (1) 606**]
+Date/Time:[**2675-12-31**] 8:00
+Provider: [**Name10 (NameIs) 1551**],INTERPRET W/LAB NO CHECK-IN [**Name10 (NameIs) 1551**] INTEPRETATION
+BILLING
+Date/Time:[**2675-12-31**] 8:00
+.
+-CARDIOLOGY
+Dr. [**Last Name (STitle) **] [**2679-1-3**]:30am in [**Last Name (un) 5794**]
+
+
+
+
+
+
+DOC CLASS

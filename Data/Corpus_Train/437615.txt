@@ -1,0 +1,194 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   - IVF 2.7 liters since hypotension/tachycardia started
+   Allergies:
+   Iodine; Iodine Containing
+   Unknown;
+   Trileptal (Oral) (Oxcarbazepine)
+   Nausea/Vomiting
+   Dilantin (Oral) (Phenytoin Sodium Extended)
+   Rash;
+   Last dose of Antibiotics:
+   Cefipime - [**2677-11-27**] 08:26 PM
+   Vancomycin - [**2677-11-27**] 10:26 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2677-11-28**] 07:54 AM
+   Omeprazole (Prilosec) - [**2677-11-28**] 07:54 AM
+   Other medications:
+   Cefepime, Atorvastatin, Aspirin, Vanco per HD, SQ heparin, Midodrine,
+   Fludrocortisone, Synthroid, Omeprazole, Reglan, Sevelemer, Nephrocaps,
+   Albumin x 1
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2677-11-28**] 08:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 113 (107 - 124) bpm
+   BP: 96/63(71) {72/40(44) - 96/65(71)} mmHg
+   RR: 24 (21 - 34) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 63.8 kg (admission): 68.3 kg
+   Height: 65 Inch
+                  Total In:
+                                                                  2,450 mL
+                                                                     30 mL
+   PO:
+                  30 mL
+   TF:
+   IVF:
+                                                                  2,250 mL
+   Blood products:
+                                                                    200 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,450 mL
+                                                                     30 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic), LLSB
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended,
+   Hepatomegaly
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed, R sided hemiparalysis
+   Labs / Radiology
+   8.4 g/dL
+   383 K/uL
+   116 mg/dL
+   4.4 mg/dL
+   27 mEq/L
+   3.7 mEq/L
+   65 mg/dL
+   93 mEq/L
+   138 mEq/L
+   28.4 %
+   11.9 K/uL
+        [image002.jpg]
+                             [**2677-11-23**]  07:59 PM
+                             [**2677-11-23**]  10:55 PM
+                             [**2677-11-24**]  03:15 AM
+                             [**2677-11-24**]  03:14 PM
+                             [**2677-11-25**]  03:59 AM
+                            [**2677-11-28**]  03:05 AM
+   WBC
+   7.2
+   8.2
+   9.1
+   11.9
+   Hct
+   25.3
+   25.8
+   24.6
+   27.0
+   30.5
+   28.4
+   Plt
+   [**Telephone/Fax (3) 9731**]83
+   Cr
+   3.9
+   4.3
+   5.3
+   4.4
+   TropT
+   0.62
+   0.51
+   0.43
+   0.46
+   Glucose
+   125
+   140
+   108
+   116
+   Other labs: PT / PTT / INR:16.1/31.6/1.4, CK / CKMB /
+   Troponin-T:20/4/0.46, ALT / AST:20/15, Alk Phos / T Bili:114/3.5,
+   Lactic Acid:3.1 mmol/L, Albumin:3.5 g/dL, LDH:157 IU/L, Ca++:9.6 mg/dL,
+   Mg++:2.1 mg/dL, PO4:3.7 mg/dL
+   Fluid analysis / Other labs: Peritoneal fluid: WBC 2225 (down from 9000
+   on [**11-23**]), RBC 275, diff pending.
+   Imaging: No new imaging.
+   Microbiology: Blood/peritoneal fluid cultures pending.
+   ECG: EKG - new early septal Q waves
+   Assessment and Plan
+   63 y/o female with h/o PCKD s/p bilateral nephrectomy with liver cysts
+   resulting in ESLD on transplant list and ruptured [**Doctor Last Name **] aneurysm s/p
+   clipping with residual R sided hemiparesis admitted [**11-23**] from HD to
+   MICU [**Location (un) **] with hypotension and MRSA bacteremia/peritonitis.  Tx with
+   vanc/CTX.  Called out [**11-25**].  On floor [**11-27**] developed recurrent, fluid
+   refractory hypotension and was transferred to MICU green.  Of note,
+   earlier today, the patient got a TTE with new apical hypokinesis with
+   aneurysm formation and a worsening intraventricular gradient.
+    # Hypotension: Likely secondary to sepsis - possibly from partially
+   treated MRSA bacteremia or another microorganism.
+   - Continue vanc/cefepime, consider gent if clinically worsens
+   - IVF to maintain MAPs and bring down HR
+   - Pan culture: blood/paritoneal fluid
+   - Recheck lactate
+   - U/S fistula to r/o fluid collection (stopped working day PTA)
+   # TTE: Echo with new apical hypokinesis with aneurysm formation and a
+   worsening intraventricular gradient.  Concerning for recent MI that
+   went unrecognized.
+   - IVF for hypotension
+   - BB when BP allows
+   - Continue asa and lipitor
+   # ESLD: Now with evidence of MRSA SBP
+   - Continue midodrine, albumin
+   - On Transplant list
+   # Hypoxia: Likely from volume overload due to missing HD today.
+   - Stable on 1L. [**Month (only) 8**] need to increase with volume resuscitation.
+   # ESRD: Due for HD today, but held [**2-19**] hypotension.
+   - Renal following
+   ICU Care
+   Nutrition:
+   Comments: Full diet.
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2677-11-27**] 05:03 PM
+   18 Gauge - [**2677-11-27**] 07:20 PM
+   20 Gauge - [**2677-11-27**] 07:33 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 20 minutes
+
+
+
+DOC CLASS

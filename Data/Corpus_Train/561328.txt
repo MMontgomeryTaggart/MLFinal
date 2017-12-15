@@ -1,0 +1,189 @@
+TSICU
+   HPI:
+   HPI: 79 year-old man who was confused at breakfast, difficulty
+   getting up from a seated position at 11:30am, RIGHT facial droop and
+   now presents as a transfer from [**Hospital 222**] Hospital for management of a
+   left thalamic hemorrhage with intraventricular extension. Brainstem
+   reflexes are largely absent at this time (with the exception of perhaps
+   minimally reactive pupils and a gag reflex). Suggestive of a
+   hypertensive hemorrhage.  At end of [**Location (un) **] to [**Hospital1 52**] patient
+   reportedly "lost his airway" upon landing on the roof, and was
+   intubated. Patient takes aspirin and plavix at home, coags wnl.
+   .
+   ISSUES:
+   1.IPH
+   2.hypertension
+   Chief complaint:
+   head bleed
+   PMHx:
+   hypertension, dyslipidemia, TIAs s/p b/l carotid endarterectomy,
+   coronary artery disease s/p myocardial infarction and CABG, v-fib
+   arrest in [**2806**] s/p pacemaker placement, AAA,
+   Current medications:
+   1. 2. 1000 mL NS 3. Acetaminophen 4. Bisacodyl 5. Chlorhexidine
+   Gluconate 0.12% Oral Rinse 6. Famotidine 7. FoLIC Acid 8. Influenza
+   Virus Vaccine 9. Insulin 10. Lorazepam 11. NiCARdipine 12. Phenytoin
+   13. Pneumococcal Vac Polyvalent 14. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ INTUBATION - At [**2808-11-13**] 09:28 PM
+ INVASIVE VENTILATION - START [**2808-11-13**] 09:28 PM
+ ARTERIAL LINE - START [**2808-11-13**] 09:54 PM
+   Allergies:
+   Erythromycin Base
+   Unknown;
+   Methyldopa
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Nicardipine - 0.5 mcg/Kg/min
+   Propofol - 30 mcg/Kg/min
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2808-11-13**] 10:30 PM
+   Dilantin - [**2808-11-14**] 12:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2808-11-14**] 06:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**11**] a.m.
+   Tmax: 36.9
+C (98.5
+   T current: 36.9
+C (98.5
+   HR: 73 (60 - 82) bpm
+   BP: 158/68(98) {110/51(72) - 193/96(133)} mmHg
+   RR: 17 (11 - 20) insp/min
+   SPO2: 100%
+   Heart rhythm: V Paced
+             Total In:
+                                                                    179 mL
+                                                                    522 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    179 mL
+                                                                    522 mL
+   Blood products:
+   Total out:
+                                                                    600 mL
+                                                                  1,030 mL
+   Urine:
+   680 mL
+   NG:
+   350 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -421 mL
+                                                                   -508 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 19 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 50 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.39/50/248/31/4
+   Ve: 6.8 L/min
+   PaO2 / FiO2: 620
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), S1, S2, no murmur, occ PVCs; V-paced
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Temperature: Warm), + Peripheral pulses
+   Right Extremities: (Temperature: Warm), + Peripheral pulses
+   Neurologic: Moves all extremities, LEFT movement > Right , F/C
+   Labs / Radiology
+   135 K/uL
+   13.4 g/dL
+   161 mg/dL
+   1.1 mg/dL
+   31 mEq/L
+   3.8 mEq/L
+   18 mg/dL
+   101 mEq/L
+   139 mEq/L
+   37.8 %
+   11.0 K/uL
+        [image002.jpg]
+                            [**2808-11-14**]  01:33 AM
+                            [**2808-11-14**]  01:41 AM
+                            [**2808-11-14**]  03:27 AM
+                            [**2808-11-14**]  03:48 AM
+   WBC
+   11.0
+   Hct
+   37.8
+   Plt
+   135
+   Creatinine
+   1.1
+   Troponin T
+   <0.01
+   <0.01
+   TCO2
+   33
+   31
+   Glucose
+   161
+   Other labs: PT / PTT / INR:13.9/32.2/1.2, CK / CK-MB / Troponin
+   T:39//<0.01, Ca:8.8 mg/dL, Mg:1.8 mg/dL, PO4:2.7 mg/dL
+   Imaging: [**11-13**] CT head PRELIM: 3.5 x 2.6 cm intraparenchymal hemorrhage
+   centered in the left basal ganglia, with intraventricular extension and
+   mild ventriculomegaly.  Approximately 4 mm of rightward midline shift.
+   Microbiology: none
+   Assessment and Plan
+   INTRACEREBRAL HEMORRHAGE (ICH), HYPERTENSION, BENIGN
+   Assessment and Plan: 79M with thalamic bleed
+   Neurologic: Neuro checks Q: 1 hr, propofol gtt on vent; repeat CT head
+   in AM; on dilantin. SBP < 140 on nicardipine gtt to achieve goal. F/u
+   on repeat head CT today
+   Cardiovascular: hypertension, dyslipidemia, AAA, CABG, PPM; nicardipine
+   gtt goal SBP 140-160; ROMI neg x2. Pacemaker seems to be working well.
+   Please get medical record from PCP. [**Name10 (NameIs) **] metoprolol
+   Pulmonary: ETT + CMV; daily wake up
+ change to CPAP and potientially
+   extubate today
+   Gastrointestinal / Abdomen: no issues
+   Nutrition: NPO. If not extubating today, start TF
+   Renal: Foley, Cr 1.1
+   Hematology: hold anti-platelet; INR 1.2
+   Endocrine: RISS. Slightly hyperglycemic. Increase RISS and keep < 150
+   Infectious Disease: no evidence of infection
+   Lines / Tubes / Drains: ETT, foley, PIV
+   Wounds: no issues
+   Imaging: CT scan head today
+   Fluids: NS, 75/hr
+ KVO
+   Consults: Neurology
+   Billing Diagnosis: (Hemorrhage, NOS)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2808-11-13**] 09:53 PM
+   Arterial Line - [**2808-11-13**] 09:54 PM
+   22 Gauge - [**2808-11-13**] 09:54 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 31 min
+
+
+
+DOC CLASS

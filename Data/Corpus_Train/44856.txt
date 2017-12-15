@@ -1,0 +1,325 @@
+Admission Date:  [**2871-1-7**]              Discharge Date:   [**2871-1-13**]
+
+Date of Birth:  [**2818-5-31**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Exertional chest pain
+
+Major Surgical or Invasive Procedure:
+[**2871-1-7**] Coronary Artery Bypass Graft x4, Mitral Valve Repair
+(28mm CE annuloplasty Band)
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 24659**] is a 52 year-old male who recently complained of
+exertional chest pain.  Subsequent work-up for this complaint
+revealed a positive stress test and three vessel coronary artery
+disease. Referred for surgical evaluation.
+
+Past Medical History:
+Mr. [**Known patient lastname 24659**] has a past medical history of hypertension, NIDDM,
+hyperlipidemia, depression, and eczema.  His surgical history
+included a tonsillectomy.
+
+Social History:
+retired chef on disability
+lives with girlfriend
+quit drinking 23 years ago
+quit smoking 23 years ago
+
+Family History:
+brother with [**Name2 (NI) 4912**] at age 56
+
+Physical Exam:
+HR 98  RR 18   right 153/99  left  133/83  6'2"   235 #
+NAD
+neck supple with full ROM
+CTAB
+RRR no murmur
+soft NT, ND,  + mBS
+warm, well-perfused with 1+ LLE edema
+LLE varicosities, none on right
+2+ bil. fem/DP/PT/radials
+no carotid bruit present
+
+Pertinent Results:
+[**2871-1-12**] 12:50PM BLOOD WBC-7.3 RBC-2.87* Hgb-9.1* Hct-25.6*
+MCV-89 MCH-31.9 MCHC-35.7* RDW-14.0 Plt Ct-213
+[**2871-1-12**] 12:50PM BLOOD Plt Ct-213
+[**2871-1-9**] 02:47AM BLOOD PT-13.5* PTT-28.7 INR(PT)-1.2*
+[**2871-1-12**] 12:50PM BLOOD Glucose-81 UreaN-18 Creat-1.0 Na-136
+K-3.9 Cl-98 HCO3-29 AnGap-13
+[**2871-1-12**] 12:50PM BLOOD Mg-2.2
+
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname 24660**]       [**Hospital1 4**] [**Numeric Identifier 24661**]       TEE (Complete)
+Done [**2871-1-7**] at 2:05:42 PM      FINAL
+Referring Physician     [**Name9 (PRE) 406**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 407**]
+[**Location (un) 100**], [**Numeric Identifier 112**]  Status: Inpatient DOB: [**2818-5-31**]
+Age (years): 52 M  Hgt (in): 69
+BP (mm Hg): 100/60  Wgt (lb): 230
+HR (bpm): 84  BSA (m2): 2.19 m2
+Indication: Coronary artery disease. Left ventricular function.
+Mitral valve disease.
+ICD-9 Codes: 786.05, 424.0
+Test Information
+Date/Time: [**2871-1-7**] at 14:05    Interpret MD: [**Name6 (MD) 2235**]
+[**Name8 (MD) 2236**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 410**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2236**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2006AW01-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  1.0 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.0 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.0 cm  <= 5.6 cm
+Aorta - Sinus Level:  2.5 cm  <= 3.6 cm
+Aorta - Ascending:  3.0 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+
+Findings
+The patient at the initial exam did have mild MR. However, MR
+became dynamic at varying stages to even become a 3plus at one
+stage as shown in the images. This was consulted with Dr.[**First Name (STitle) **]
+and the same informed to Dr.[**Last Name (STitle) 222**].
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. No ASD by 2D or
+color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV
+cavity. No LV aneurysm. Severe regional LV systolic dysfunction.
+Severe global LV hypokinesis.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Normal
+descending aorta diameter. Focal calcifications in descending
+aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. No TEE related complications. The TEE probe was
+passed with assistance from the anesthesioology staff using a
+laryngoscope. The patient was under general anesthesia
+throughout the procedure. Suboptimal image quality - poor echo
+windows. The patient appears to be in sinus rhythm. Results were
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+The left atrium is dilated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. No left ventricular
+aneurysm is seen. There is severe global LV systolic dysfunction
+with focalities in the apex, septal and inferior walls.
+Right ventricular chamber size and free wall motion are normal.
+The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. The mitral regurgitant jet was eccentric,
+varying in time and quantity reflecting an ischemic basis. The
+annulus was 34-36mm and the left atrium and ventricle were
+dilated. There was blunting of pulmonary venous inflow when
+moderate to severe MR [**First Name (Titles) **] [**Last Name (Titles) 14023**].
+There is no pericardial effusion.
+
+Post-Bypass:
+Overall LVEF 35% on milrinone.
+Mild improvement of focal LV systolic function.
+Normal RV systolic function.
+A prosthesis is seen on the mitral annulus stable and well
+seated. There was no m itral regurgitation seen. Mean pressure
+gradient across the mitral valve was 4mm of Hg.
+Aortic contour is well preserved.
+Trivial TR/.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 2235**] [**Name8 (MD) 2236**], MD, Interpreting
+physician
+
+FINAL REPORT
+
+
+REASON FOR EXAMINATION: Follow up of patient after CABG.
+
+PA and lateral upright chest graft compared to [**2871-1-10**].
+
+
+Additional improvement of the bilateral atelectasis has been
+observed with
+still remaining left retrocardiac atelectasis. The left pleural
+effusion has
+been decreased. There are no new consolidations. There is no
+pneumothorax.
+The sternal wires are intact. There is no evidence of congestive
+heart
+failure.
+
+IMPRESSION: Improvement of bilateral plate-like atelectasis.
+Unchanged left
+lower lobe atelectasis. Remaining left tiny pleural effusion.
+THE STUDY AND THE REPORT WERE REVIEWED BY THE STAFF RADIOLOGIST.
+
+DR. [**First Name4 (NamePattern1) 292**] [**Last Name (NamePattern1) **]
+
+DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 22203**]
+
+
+Approved: MON [**2871-1-12**] 5:11 PM
+Procedure Date:[**2871-1-12**]
+
+
+
+
+?????? [**2867**] CareGroup IS. All rights reserved.
+
+
+
+
+Brief Hospital Course:
+Admitted on [**2871-1-7**] and underwent cabg x4/MV repair with Dr.
+[**Last Name (STitle) 222**]. Transferred to the CSRU in stable condition on
+levophed, propofol, and milrinone drips. Extubated the next
+morning and transferred to the floor on POD #2 to begin
+increasing his activity level. Beta blockade and ACE inhibitor
+started and gentle diuresis continued. Pacing wires and chest
+tubes removed without incident. Cleared for discharge to home on
+POD #6 with VNA services.
+
+Medications on Admission:
+metformin  100mg [**Hospital1 **]
+paroxetine 10 mg daily
+crestor 10 mg daily
+ibuprofen 600 mg prn
+glyburide 5 mg daily
+metoprolol 25 mg [**Hospital1 **]
+ASA 325 mg daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Paroxetine HCl 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+7. Glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+Disp:*120 Tablet(s)* Refills:*0*
+9. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+11. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+12. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR
+Sig: 2.5 Tablet Sustained Release 24HRs PO DAILY (Daily).
+Disp:*75 Tablet Sustained Release 24HR(s)* Refills:*0*
+13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 2 weeks: please take twice a day for 1 week and then
+decrease to once a day for one week .
+Disp:*21 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA/[**Location (un) 100**]
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p CABG
+Mitral Regurgitation s/p MV repair
+Hypertension
+Diabetes Mellitus
+Hyperlipidemia
+Depression
+Eczema
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+[**Month (only) 115**] shower, no baths or swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns
+
+Followup Instructions:
+Dr [**Last Name (STitle) 222**] in 4 weeks ([**Telephone/Fax (1) 294**]) please call for appointment
+
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 6577**] Date/Time:[**2872-1-28**] 9:20am
+Dr [**Last Name (STitle) 19137**] in 1 week ([**Telephone/Fax (1) 23207**]) please call for appointment
+Wound check appointment [**Hospital Ward Name 209**] 2 as instructed by nurse
+([**Telephone/Fax (1) 17296**])
+
+
+
+Completed by:[**2871-2-5**]
+
+
+DOC CLASS

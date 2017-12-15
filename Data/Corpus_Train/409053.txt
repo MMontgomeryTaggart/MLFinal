@@ -1,0 +1,193 @@
+Chief Complaint:
+   24 Hour Events:
+ BLOOD CULTURED - At [**3209-6-16**] 12:27 PM
+   from ij and picc
+ PICC LINE - STOP [**3209-6-16**] 07:05 PM
+   - [**6-15**] bcx grew out GNR. Bcx drawn. Started on [**Last Name (un) 411**] given h/o ESBL pna.
+   - Thoracics cancelled him for Trach as he was extubated and the trach
+   would not prevent aspiration.  They will only do it if we feel it's
+   necessary.
+   - He continued to do well respiratory-wise over the day so he may not
+   need trach.
+   - [**Last Name (un) **]-hoff tube placed by Dr. [**Last Name (STitle) 568**] and restarted lactulose and tube
+   feeds. On limb restraints x2 and mitts.
+   - D/c'd PICC as GNR grew from Bl cx.  Still has CVL in place.
+   - Family would still really like him to have trach and DHT so he can go
+   to rehab.
+   Allergies:
+   Haldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Meropenem - [**3209-6-17**] 04:09 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3209-6-16**] 11:19 PM
+   Pantoprazole (Protonix) - [**3209-6-16**] 11:20 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-6-17**] 05:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 37.4
+C (99.3
+   HR: 109 (68 - 109) bpm
+   BP: 124/58(64) {98/48(60) - 141/83(92)} mmHg
+   RR: 22 (19 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 101.7 kg (admission): 103.7 kg
+   Height: 69 Inch
+    CVP: 5 (0 - 8)mmHg
+   Total In:
+                                                                  1,613 mL
+                                                                    422 mL
+   PO:
+   TF:
+                                                                     28 mL
+                                                                    175 mL
+   IVF:
+                                                                  1,494 mL
+                                                                    156 mL
+   Blood products:
+   Total out:
+                                                                  1,678 mL
+                                                                    245 mL
+   Urine:
+                                                                  1,128 mL
+                                                                    245 mL
+   NG:
+   Stool:
+                                                                    550 mL
+   Drains:
+   Balance:
+                                                                    -65 mL
+                                                                    177 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 99%
+   ABG: ///30/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: L eye dilated
+   Head, Ears, Nose, Throat: Normocephalic, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear :
+   bilaterally)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: No(t) Follows simple commands, Responds to: Not assessed,
+   Oriented (to): 0, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   174 K/uL
+   8.2 g/dL
+   176 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   4.2 mEq/L
+   13 mg/dL
+   107 mEq/L
+   145 mEq/L
+   26.6 %
+   12.7 K/uL
+        [image002.jpg]
+                             [**3209-6-12**]  03:26 AM
+                             [**3209-6-12**]  06:00 AM
+                             [**3209-6-13**]  03:43 AM
+                             [**3209-6-13**]  05:01 PM
+                             [**3209-6-14**]  03:39 AM
+                             [**3209-6-14**]  04:08 PM
+                             [**3209-6-15**]  03:25 AM
+                             [**3209-6-15**]  04:18 PM
+                             [**3209-6-16**]  02:58 AM
+                             [**3209-6-17**]  04:34 AM
+   WBC
+   6.1
+   11.6
+   12.2
+   13.9
+   13.0
+   12.7
+   Hct
+   23.9
+   26.6
+   24.9
+   25.6
+   26.6
+   26.6
+   Plt
+   48
+   65
+   90
+   107
+   146
+   174
+   Cr
+   0.9
+   0.9
+   0.8
+   0.9
+   0.8
+   0.8
+   0.8
+   0.8
+   0.9
+   Glucose
+   257
+   228
+   137
+   [**Telephone/Fax (2) 9317**]85
+   81
+   176
+   Other labs: PT / PTT / INR:19.7/49.3/1.8, CK / CKMB /
+   Troponin-T:21/5/0.09, ALT / AST:[**12-9**], Alk Phos / T Bili:97/2.1,
+   Amylase / Lipase:43/33, Differential-Neuts:74.6 %, Band:4.0 %,
+   Lymph:17.9 %, Mono:4.4 %, Eos:2.9 %, Fibrinogen:219 mg/dL, Lactic
+   Acid:2.3 mmol/L, Albumin:3.0 g/dL, LDH:155 IU/L, Ca++:9.6 mg/dL,
+   Mg++:1.7 mg/dL, PO4:4.3 mg/dL
+   Assessment and Plan
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ LEUKOCYTOSIS
+ HYPERNATREMIA (HIGH SODIUM)
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ ASCITES
+ HYPERGLYCEMIA
+ ALTERATION IN NUTRITION
+ IMPAIRED SKIN INTEGRITY
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Ileus
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ CIRRHOSIS OF LIVER, ALCOHOLIC
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3209-6-16**] 11:00 PM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3209-6-9**] 08:00 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,349 @@
+Admission Date:  [**2987-9-14**]              Discharge Date:   [**2987-9-20**]
+
+Date of Birth:  [**2935-9-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Lipitor / Cefepime
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+The patient had been in rehab since last D/C unti he was seen by
+Dr. [**First Name (STitle) 1126**] [**9-12**]. CT showed complex fluid collection below the
+lower pole of the incision which corresponded to an area of
+wound
+breakdown. He was taken to the OR for I+D.
+
+
+Major Surgical or Invasive Procedure:
+[**2987-9-17**]: Sternal debridement, removal of hardware x3, and left
+pectoralis muscular flap based on the thoracoacromial vessels.
+[**2987-9-14**] wound exploration, removal of inf plate, vac placed
+
+
+History of Present Illness:
+51 y/o M s/p emergent CABGx4 w/ IABP on [**7-1**] with post op course
+complicated by Afib, LV thrombus, DVT, CVA with L sided weakness
+and repiratory failure requiring trach and PEG s/p sternal
+plating on [**8-20**] for infected sternum.
+The patient had been in rehab since last D/C, he was seen by Dr.
+[**First Name (STitle) 1126**] [**9-12**].
+Achest Ct done at that time revealed a fluid collection at the
+lower pole of incision and he was brought to the operating room
+for drainage and debridement.
+
+Past Medical History:
+Emergent Coronary bypass grafting [**7-1**] w/Intra Aortic ballon
+pump preoperatively
+Post-operative CVA
+LV thrombus
+lower extremity DVT
+Diabetes Mellitus
+fatty liver
+DM
+
+Social History:
+Occupation: computer tech analyst
+Tobacco: denies
+ETOH: social
+
+
+Family History:
+noncontributory
+
+Physical Exam:
+VS:  97.6  92/54  62  26  95% 50% trach mask,
+GEN: sleeping
+HEENT: trach in place
+CV: distant, RRR
+PULM: CTA bilat w/o wheezes/rhonchi/rales, anteriorly
+GI: normoactive BS, soft, non-tender, non-distended, G-tube in
+place
+MSK: no joint swelling or erythema
+EXT: warm and well perfused, no edema, 2+ DP pulses palpable
+bilaterally
+SKIN: no rashes, no decubiti
+NEURO: comfortable, according to wife alert and oriented
+
+
+Pertinent Results:
+[**2987-9-14**] 03:51PM   GLUCOSE-117* UREA N-14 CREAT-0.6 SODIUM-137
+POTASSIUM-4.0 CHLORIDE-100 TOTAL CO2-28 ANION GAP-13
+[**2987-9-14**] 03:51PM   CALCIUM-9.3 PHOSPHATE-3.9 MAGNESIUM-1.9
+[**2987-9-14**] 03:51PM   WBC-6.7 RBC-3.72* HGB-10.1* HCT-29.9* MCV-80*
+MCH-27.2 MCHC-33.8 RDW-15.9*
+[**2987-9-14**] 03:51PM   NEUTS-75.5* LYMPHS-15.8* MONOS-4.8 EOS-2.7
+BASOS-1.1
+[**2987-9-14**] 03:51PM   PLT COUNT-423
+[**2987-9-14**] 03:51PM   PT-22.3* PTT-37.8* INR(PT)-2.1*
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**2987-9-17**] 4:08
+PM
+ UNDERLYING MEDICAL CONDITION:  52 year old man s/p pec flap
+Final Report
+AP SEMI-UPRIGHT RADIOGRAPH OF THE CHEST: Interval removal of the
+sternal
+plating hardware is performed. The right costophrenic angle is
+excluded from the field of view. There is no pleural effusion.
+Within these limitations, there is no pneumothorax. Heart size
+is borderline enlarged. Hilar contours are unremarkable. There
+is no pulmonary edema.
+A left PICC is extending up to the cavoatrial junction or
+probably upper right atrium. There is a second looped wire
+projecting over the mediastinum, which could be external to the
+patient. Tracheostomy tube is in standard location.
+IMPRESSION: No evidence of pleural effusion within the
+limitations of a
+partially excluded right costophrenic angle.
+
+
+Radiology Report CT CHEST W/CONTRAST Study Date of [**2987-9-13**] 9:28
+AM
+UNDERLYING MEDICAL CONDITION: 52 year old man with h/o MRSA
+sternal osteomyelitis s/p prior CABG s/p debridement/plates
+placed in early [**Month (only) 439**], now with increased tenderness, erythema
+in inferior 3rd of sternum, elevated inflamm markers
+Final Report
+Since [**8-10**], sternal wires have been removed and transverse
+costosternal
+stabilization plates have been applied. At all levels, there is
+failure of
+fusion of the sternotomy and the extent of separation between
+the sternal
+fragments is either stable or in the lower sternum increased. At
+several
+levels the widening is due to both diastasis and bone
+resorption. For example at 10 cm inferior to the sternal notch,
+3:33, the transverse diameter of the right fragment is 14.4 mm
+now, previously 16.2 mm, and the left is 12.5 mm, previously
+16.6 mm while the width of separation is now 10.5 mm, previously
+5.6 mm. Similar findings are present continuously from that
+level to the xiphoid.
+Apparent thickening of the caliber of the pectoralis major
+muscle that may be due to difference in arm position, but there
+is subcutaneous emphysema of the midline, anterior chest wall at
+several levels.
+In the midline presternal soft tissues, 1.5 cm inferior to the
+sternal notch is a collection of small gas bubbles in the
+thickened muscle. Although the previous midline collection that
+ran anterior to the manubrium and upper sternal body has been
+drained, starting 12 cm inferior to the sternal notch, 2:36, and
+running for at least 6 cm inferiorly, and adjacent to the levels
+of maximum sternal resorption, is a new midline fluid collection
+with irregular margins, and maximum transverse diameters of 37 x
+23 mm, 2:38. The small volume of retrosternal fluid at these
+levels is inseparable from a small pericardial effusion at the
+junction of the lower sternal body with the xiphoid, 2:40-44.
+Although these intrathoracic fluid collections are unchanged
+since [**8-10**], since they are contiguous with the new,
+presumably purulent presternal collection, the transthoracic
+extension of infection cannot be excluded.
+Respiratory motion obscures some of the fine detail in the lung,
+but there is no pulmonary edema, consolidation, substantial
+atelectasis and or any nodule.  Tiny bilateral pleural effusions
+and small pericardial effusion are unchanged. Enlargement of the
+upper paratracheal lymph nodes has decreased, but the right
+lower paratracheal complex is 22 mm across in aggregate,
+previously 19 mm and left lower paratracheal and prevascular
+nodes have grown from 5 mm to 9 and 8 mm wide respectively.
+Moderate enlargement of the cardiac silhouette, particularly due
+to a dilated left ventricle, has increased.
+This study is not designed for assessment of the upper abdomen,
+but there is no indication of extension of infection to that
+region. A gastrostomy tube has a normal appearance.
+IMPRESSION:
+1. Development of new lower midline presternal collection (after
+drainage of the upper portion) and sternal separation,
+presumably infectious. Multifocal bone resorption of the sternal
+fragments has progressed, concerning for multilevel
+osteomyelitis. Edema of the lower anterior chest wall does not
+necessarily represent tissue infection. The only reason to
+presume that a small retrosternal collection and small
+pericardial effusion, at the levels of the new lower presternal
+abscess, are not infected, is that neither has enlarged or
+developed gas collections since late [**7-20**]. Moderate cardiomegaly, predominantly left ventricular,
+increased. No
+pulmonary edema or increase in tiny pleural effusions.
+3. Tracheostomy, percutaneous gastrostomy, standard appearance.
+
+ [**2987-9-14**] 2:01 pm SWAB     Site: STERNUM      STERNAL WOUND.
+   GRAM STAIN (Final [**2987-9-14**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+   WOUND CULTURE (Final [**2987-9-16**]):    NO GROWTH.
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+   FUNGAL CULTURE (Preliminary):
+      NO FUNGUS ISOLATED.
+
+[**2987-9-14**] 2:21 pm TISSUE     Site: STERNUM      STERNAL BONE.
+   GRAM STAIN (Final [**2987-9-14**]):
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+   TISSUE (Final [**2987-9-17**]):    NO GROWTH.
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 3466**] was admitted for sternal wound debridement and hardware
+removal. Following the procedure a wound vac was placed and the
+patient was tranferred to the CVICU for further monitoring. He
+remained in the ICU with the VAC dressing in place until he was
+brought back to the operating room for further debridement and
+pectoralis flap advancement. He tolerated this procedure well
+and returned to the ICU in stable condition. The following day
+he was transferred to the stepdown floor for continued care. He
+failed a swallow evaluation and thus [**Last Name (un) 3650**] tube feeds were
+continued. He continued to be followed by Plastic surgery and
+infectious diseases services. Coumadin was resumed with a
+heparin drip (1600 units per hour) as his INR had not reached a
+therapeutic range (2.0-3.0). He received 2.5mg on [**2987-9-19**] and 5mg
+on [**2987-9-20**]. He will require referral back to Dr. [**Last Name (STitle) 3649**] or Dr.
+[**Last Name (STitle) 306**] for coumadin follow-up upon discharge from rehab. The
+remainder of his hospital course was uneventful. On [**2987-9-20**] it
+was decided he was ready for return to rehabilitation at
+[**Hospital3 3651**] in [**Hospital1 1277**] NH. He will continue on
+vancomycin and Imipenum to total six weeks. He will require
+weekly labs every monday which will consist of a CBC, ESR, CRP,
+BUN, Creatinine, vancomycin trough and LFT's with results faxed
+to Infectious disease at ([**Telephone/Fax (1) 958**]. He will remain on tube
+feeds until his oral intake is adequate and will benefit from
+close follow-up with speech and swallow. Electrolytes should be
+checked while receiving tube feeds. He will also require
+aggressive physical and occupational therapy.
+
+Medications on Admission:
+MEDS at rehab (from rehab tx paperwork):
+Coumadin - Variable ([**5-25**]), Amiodarone 200 [**Last Name (LF) 931**], [**First Name3 (LF) 920**] 81 QD, Colace,
+Lansoprazole 30 [**Hospital1 **], Simvastatin 20 QD, Lisinopril 5 QD,
+Oxycodone PRN, Cholecalciferol 100 QD, Albuterol [**2-23**] QID,
+Tylenol
+PRN, Lasix 40 QD, Spironolactone 25 QD, Imipenem 500 q6hr, Vanc
+1 [**Hospital1 **],
+RISS, Reglan 10 TID, Insulin Glargine 15 [**Hospital1 **],
+
+Discharge Medications:
+1. Acetaminophen 650 mg/20.3 mL Solution [**Hospital1 718**]: Six [**Age over 90 1654**]y
+(650) mg PO Q6H (every 6 hours) as needed for pain, fever.
+2. Carvedilol 3.125 mg Tablet [**Age over 90 718**]: One (1) Tablet PO BID (2
+times a day).
+3. Simvastatin 20 mg Tablet [**Age over 90 718**]: One (1) Tablet PO once a day.
+4. Spironolactone 25 mg Tablet [**Age over 90 718**]: One (1) Tablet PO DAILY
+(Daily).
+5. Furosemide 40 mg Tablet [**Age over 90 718**]: One (1) Tablet PO DAILY (Daily).
+
+6. Cholecalciferol (Vitamin D3) 400 unit Tablet [**Age over 90 718**]: 2.5 Tablets
+PO DAILY (Daily).
+7. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 718**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+8. Docusate Sodium 50 mg/5 mL Liquid [**Last Name (STitle) 718**]: One Hundred (100) mg
+PO BID (2 times a day).
+9. Aspirin 81 mg Tablet, Chewable [**Last Name (STitle) 718**]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+10. Lisinopril 5 mg Tablet [**Last Name (STitle) 718**]: 0.5 Tablet PO DAILY (Daily):
+hold for SBP<100.
+11. Oxycodone 5 mg/5 mL Solution [**Last Name (STitle) 718**]: 5-10 cc PO Q4H (every 4
+hours) as needed for pain.
+12. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette [**Last Name (STitle) 718**]: [**1-20**]
+Drops Ophthalmic PRN (as needed) as needed for dry eyes.
+13. Warfarin 1 mg Tablet [**Month/Day (2) 718**]: as directed to maintain target INR
+2-2.5 Tablets PO once a day: Target INR 2-2.5. Start [**2987-9-21**] as
+he received 5mg [**2987-9-20**].
+14. Insulin Glargine 100 unit/mL Solution [**Month/Day/Year 718**]: Twenty (20) units
+Subcutaneous twice a day.
+15. Insulin Regular Human 100 unit/mL Solution [**Month/Day/Year 718**]: sliding
+scale  Injection QAC&HS.
+16. Heparin, Porcine (PF) 10 unit/mL Syringe [**Month/Day/Year 718**]: as directed ML
+Intravenous PRN (as needed) as needed for line flush: Heparin
+Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.  .
+17. Imipenem-Cilastatin 500 mg Recon Soln [**Month/Day/Year 718**]: Five Hundred
+(500) mg Intravenous Q6H (every 6 hours) for 6 weeks.
+18. Vancomycin in D5W 1 gram/200 mL Piggyback [**Month/Day/Year 718**]: One (1) gm
+Intravenous Q 8H (Every 8 Hours) for 6 weeks.
+19. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol [**Month/Day/Year 718**]: [**1-20**]
+Puffs Inhalation Q6H (every 6 hours) as needed for dyspnea.
+20. Heparin (Porcine) in D5W 25,000 unit/250 mL Parenteral
+Solution [**Month/Day (2) 718**]: 1600 (1600) units Intravenous ASDIR (AS DIRECTED):
+Goal PTT 60-80. Stop when INR has reached 2.0.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 280**]
+
+Discharge Diagnosis:
+[**2987-9-17**] sternal debride, washout, pectoralis flap, closure
+[**2987-9-14**] wound exploration, removal of inf plate, vac placed
+(Dr. [**First Name (STitle) 1126**]
+PMH:
+Emergent coronary bypass grafting [**7-1**] w/ IABP preoperatively
+Post-op Cerebral Vascular Accident, Left Ventricle thrombus,
+Lower Extremity Deep Vein Thrombosis, Diabetes Mellitus, fatty
+liver disease, s/p tracheostomy/Percutaneous Endoscopic
+Gastrostomy tube placement [**7-13**]
+
+
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+Incisional pain well controlled
+Incisions: Sternum-Clean dry and intact with JP drains.
+
+
+Discharge Instructions:
+1)Please shower/wash daily including washing incisions gently
+with mild soap, no baths or swimming until cleared by surgeon.
+Check incisions daily for redness or drainage
+2)Please NO lotions, cream, powder, or ointments to sternal
+incision.
+Weigh yourself daily.
+3)No lifting more than 10 pounds for 10 weeks from surgery date
+4)Will remain on heparin drip goal PTT 60-80 until INR is >=
+2.0.
+5)Coumadin for atrial fibrillation, DVT, LV thrombus. Goal INR
+is 2.0-3.0. Please arrange for coumadin follow-up upon discharge
+from rehab. Dr. [**Last Name (STitle) 3649**] ([**Telephone/Fax (1) 3652**] or Dr. [**First Name8 (NamePattern2) 841**] [**Last Name (NamePattern1) 306**].
+6)JP drains managed per plastic surgery and will be pulled in
+their clinic. Please apply bacitracin to JP sites daily.
+7)Weekly labs while on vancomycin and imipenum.
+(CBC/BUN/CREAT/LFT's/Vanco trough/ESR/CRP). All laboratory
+results should be faxed to Infectious disease R.Ns. at ([**Telephone/Fax (1) 3653**]
+8)Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+Dr. [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) 1126**] [**2987-9-27**] 1:45PM
+([**Telephone/Fax (1) 3522**]
+.
+Dr [**Last Name (STitle) **] in [**2987-10-23**] @1:15PM
+.
+Provider: [**First Name4 (NamePattern1) 1707**] [**Last Name (NamePattern1) 1708**], MD Phone:[**Telephone/Fax (1) 64**]
+Date/Time:[**2987-11-5**] 11:30
+.
+Provider: [**Name10 (NameIs) 3654**] CARE Infectious Disease Phone:[**Telephone/Fax (1) 64**]
+Date/Time:[**2987-10-1**] 11:00
+.
+Cardiologist Dr [**Last Name (STitle) 306**] after discharge from Rehabilitation
+appointment.
+.
+PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) 1766**] after discharge from Rehabilitation. Please
+call for appointment.
+.
+All laboratory results should be faxed to Infectious disease
+R.Ns. at ([**Telephone/Fax (1) 958**]
+
+
+
+Completed by:[**2987-9-20**]
+
+
+DOC CLASS

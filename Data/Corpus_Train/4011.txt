@@ -1,0 +1,182 @@
+Admission Date:  [**2848-8-2**]              Discharge Date:   [**2848-8-5**]
+
+Date of Birth:  [**2821-6-23**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Sulfonamides
+
+Attending:[**First Name3 (LF) 367**]
+Chief Complaint:
+MVC
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is a 27 year-old male who was the driver (restrained, air
+bag deployed) in a high-speed (50-60MPH) MVC versus tree. He
+reported falling asleep at the wheel; his initial toxicology
+screen was positive for alcohol (45) and amphetamines. On
+arrival in the ED he complained of abdominal pain and was
+lethargic. He was also noted to have a posterior head
+laceration.
+
+Past Medical History:
+None
+
+
+Social History:
+h/o heroin (reports quitting 2 months ago)
++EtOH
++amphetamines on urine tox
+
+
+Family History:
+Noncontributory
+
+Physical Exam:
+VS: T97.8 P80 BP102/68 R18 100% O2 saturation on room air
+Gen: awake, alert, no distress. Out of bed in chair, able to
+ambulate with crutches.
+HEENT: Staples in place on posterior head laceration with no
+signs of infection
+Chest: Clear to auscultation bilaterally, no wheezes, rhonchi or
+rales
+CV: Regular rate and rhythm
+Abd: NABS. Still some abdominal tenderness, decreased since
+admission. No rebound or guarding
+Ext: Still some swelling of right ankle; foot elevated on
+pillow. Good perfusion of all extremities.
+
+Pertinent Results:
+[**2848-8-2**] 07:20PM   HCT-30.0*
+[**2848-8-2**] 04:20PM   HCT-33.1*
+[**2848-8-2**] 11:56AM   GLUCOSE-110* UREA N-16 CREAT-0.8 SODIUM-141
+POTASSIUM-3.8 CHLORIDE-106 TOTAL CO2-24 ANION GAP-15
+[**2848-8-2**] 11:56AM   ALT(SGPT)-353* AST(SGOT)-410* ALK PHOS-78
+AMYLASE-55 TOT BILI-0.6
+[**2848-8-2**] 11:56AM   LIPASE-33
+[**2848-8-2**] 11:56AM   ALBUMIN-3.9 CALCIUM-8.6 PHOSPHATE-4.7*
+MAGNESIUM-1.6
+[**2848-8-2**] 11:56AM   WBC-6.5# HCT-30.8*#
+[**2848-8-2**] 11:56AM   PLT COUNT-256#
+[**2848-8-2**] 11:56AM   PT-12.1 PTT-22.0 INR(PT)-1.0
+[**2848-8-2**] 08:28AM   PT-12.2 PTT-24.4 INR(PT)-1.0
+[**2848-8-2**] 08:26AM   HGB-10.7* calcHCT-32
+[**2848-8-2**] 07:28AM   HGB-12.5* calcHCT-38
+[**2848-8-2**] 07:28AM   HGB-10.8* calcHCT-32
+[**2848-8-2**] 07:21AM   LACTATE-1.1
+[**2848-8-2**] 07:21AM   HGB-4.4* calcHCT-13
+[**2848-8-2**] 07:15AM   UREA N-9 CREAT-0.2*
+[**2848-8-2**] 07:15AM   ALT(SGPT)-88* AST(SGOT)-122* ALK PHOS-28*
+AMYLASE-20 TOT BILI-0.2
+[**2848-8-2**] 07:15AM   LIPASE-15
+[**2848-8-2**] 07:15AM   ALBUMIN-1.5*
+[**2848-8-2**] 07:15AM   ASA-NEG ETHANOL-45* ACETMNPHN-NEG
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2848-8-2**] 07:15AM URINE  HOURS-RANDOM
+[**2848-8-2**] 07:15AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-POS mthdone-NEG
+[**2848-8-2**] 07:15AM   WBC-1.2* RBC-1.28* HGB-3.9*# HCT-11.8* MCV-93
+MCH-30.5 MCHC-33.0 RDW-14.6
+[**2848-8-2**] 07:15AM   PT-24.5* PTT-86.7* INR(PT)-4.0
+[**2848-8-2**] 07:15AM   PLT SMR-LOW PLT COUNT-105*#
+[**2848-8-2**] 07:15AM   FIBRINOGE-<35 NOTIFIED HEART [**2848-8-2**] @8:35A*
+[**2848-8-2**] 07:15AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 154**]-1.021
+[**2848-8-2**] 07:15AM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2848-8-2**] 07:15AM URINE  RBC-0-2 WBC-0-2 BACTERIA-NONE YEAST-NONE
+EPI-0
+
+Brief Hospital Course:
+On arrival in the ED the patient had a GCS of 15 but was
+somewhat lethargic with a systolic blood pressure in the
+80s-100s. Pertinant findings on physical exam were a 3-4cm
+laceration on the posterior scalp, a small laceration of the
+right eyebrow, minimal abdominal tenderness on the right, and a
+swollen right lateral malleolus. The FAST exam was negative and
+there was no blood on the rectal exam. His toxicology screen was
+positive for alcohol and amphetamines.
+
+Of note in his radiographic studies was the abdominal CT, which
+showed a grade 3 liver laceration with fluid in the pelvis. His
+ankle x-rays were negative for fracture.
+
+He was admitted to the Trauma ICU for observation and serial
+hematocrits. His hematocrit remained steady while he was an
+inpatient and he remained hemodynamically stable. He was
+transferred to the floor, with no problems in advancement of his
+diet or activity level. He continued to have ankle pain and,
+after discussion with orthopedics, was discharged with the plan
+to follow-up with an ankle MRI and the orthopedic clinic as an
+outpatient. He was seen by physical therapy and discharged home
+in good condition.
+
+Medications on Admission:
+lorazepam
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*20 Capsule(s)* Refills:*0*
+3. air cast
+dispense one
+apply to right ankle
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Liver laceration
+Status-post motor vehicle collision
+Scalp laceration
+Right ankle pain (no fracture on x-ray)
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+You should call a physician or come to ER if you have worsening
+pains, fevers, chills, nausea, vomiting, shortness of breath,
+chest pain, blood in your stool, or if you have any questions or
+concerns.
+
+It is important you take pain medications as directed. You may
+continue to take your pre-admission medications. You should not
+drive or operate heavy machinery while on any narcotic pain
+medication such as percocet as it can be sedating. You may take
+colace to soften the stool as needed for constipation, which can
+be cause by narcotic pain medication.
+
+You should elevate your right foot as much as possible for
+comfort.
+
+You can wear the air cast and use crutches as needed.
+
+Never drive after drinking alcohol or after using cocaine,
+heroin, amphetamines, marijuana or other recreational drugs. If
+you are sleepy when driving pull over to rest before continuing.
+
+
+Followup Instructions:
+Call for an appointment in 1 week at the Trauma Surgery clinic
+([**Telephone/Fax (1) 6360**]). The staples in your head can be removed then.
+
+Call the orthopedic clinic ([**Telephone/Fax (1) 1213**]) to schedule an
+outpatient appointment and ankle MRI.
+
+
+
+
+
+
+DOC CLASS

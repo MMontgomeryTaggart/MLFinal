@@ -1,0 +1,128 @@
+Admission Date:  [**2669-7-25**]       Discharge Date:  [**2669-8-25**]
+
+Date of Birth:   [**2625-9-21**]       Sex:  F
+
+Service:
+
+CONTINUATION OF HOSPITAL COURSE:  1.  Infectious disease:  On
+[**8-8**] the patient was taken to the Operating Room for subtotal
+calcanectomy of her left foot.  Tissue cultures were taken at
+that time and found to be growing [**Female First Name (un) **] and MRSA sensitive
+to Vancomycin.  On [**2669-8-19**] the patient underwent debridement
+of her right foot with partial calcanectomy with wound
+debridement and culture.  There is no growth from this wound
+culture.  Her antibiotic regimen is currently Vancomycin 1
+gram intravenous dosed by levels in dialysis and levels less
+then 15, Levaquin 250 mg po every 48 hours, Fluconazole 200
+mg every 48 hours and Flagyl 500 mg po b.i.d.  The patient is
+to complete a six week course of antibiotics, course
+beginning on [**2669-8-16**] to be completed on [**2669-9-17**].  The
+patient's blood cultures have been negative to date.  Stool
+cultures have been negative for C-diff.  Right heel tissue
+culture from [**8-19**] shows no growth and left heel tissue culture
+showing [**Female First Name (un) **] and MRSA sensitive to Vancomycin.  The
+patient has remained afebrile on this antibiotic regimen and
+per Podiatry she is nonweight bearing on either foot until
+further follow up with podiatry and surgery.
+
+2.  Renal:  End stage renal disease on hemodialysis, access
+issues were reviewed and discussed with the renal team.  A
+tunneled Perm-A-Cath dialysis catheter was placed in the
+right groin on [**8-12**].  No further complications were noted.
+Catheter was used successfully in hemodialysis.  Vancomycin
+was dosed by levels for levels less then 15 and given through
+the dialysis catheter.  The plan is to continue ongoing
+evaluation of the left groin for kidney transplant.
+Electrolytes and CBC were monitored every other day in
+dialysis and currently stable.  The patient is to continue
+her calcium acetate with meals and Nephrocaps.
+
+3.  Gastrointestinal:  During the remainder of her hospital
+course the patient has been tolerating her po intake.  She
+has been given a diabetic, renal and low sodium diet,
+however, known to have episodes of dietary indiscretion.
+There is no further episodes of loose stools.  Stool culture
+is negative for C-diff.
+
+4.  Endocrine:  Type 1 diabetes complicated by neuropathy,
+retinopathy and nephropathy.  Blood sugars have been
+extremely difficult to control secondary to infection,
+surgery and dietary indiscretions.  The patient was followed
+by [**Last Name (un) 156**].  Blood sugars range from low 50s to high 400s.
+The patient has been maintained on a sliding scale of Humalog
+and p.m. Lantus with q.i.d. finger sticks.
+
+5.  Cardiovascular:  Hypertension, which was noted on
+admission is now improved with the administration of
+Midodrine and Fludrocortisone.  Volume status has been
+adjusted in dialysis.  The patient maintains stable blood
+pressures.
+
+6.  Psychiatric:  The patient has a history of personality
+disorder, patient with a very labile mood and has been
+extremely abusive to staff at times.  She demonstrates poor
+coping skills.
+
+7.  Pulmonary:  The patient does not have any respiratory
+complaints.  O2 sats have been stable on room air.
+
+8.  Fluids, electrolytes and nutrition:  Volume status and
+electrolytes have been monitored during hemodialysis.  The
+patient has not had any electrolyte abnormalities during the
+remainder of her hospital course.
+
+9.  Prophylaxis:  The patient is currently taking proton pump
+inhibitors out of bed.
+
+10.  Code status:  The patient is full code.
+
+DISCHARGE CONDITION:  Stable.  The patient is being
+discharged to an outside rehab facility.
+
+MEDICATIONS ON DISCHARGE:
+1.  Vancomycin 1 mg dosed in dialysis for levels less then
+15.
+2.  Levofloxacin 250 mg po q 48 hours to be given after
+hemodialysis.
+3.  Fluconazole 200 mg po q 48 hours to be given after
+hemodialysis.
+4.  Metronidazole 500 mg po b.i.d.
+5.  Humalog insulin sliding scale plus 14 units of Glargine
+at bedtime.
+6.  Calcium acetate ________ po t.i.d. with meals.
+7.  Midodrine 10 mg po b.i.d. to be held for systolic blood
+pressures greater then 130.
+8.  Gabapentin 600 mg po b.i.d.
+9.  Fludrocortisone acetate .1 mg po q.d.
+10.  Nephrocaps one capsule po q.d.
+11.  Synthroid 75 micrograms po q.d.
+12.  Simvastatin 20 mg po q.d.
+13.  Ambien 10 mg po q.h.s.
+14.  Hydromorphone .5 mg intravenous q 6 h prn.
+15.  Morphine sulfate 2 to 4 mg subq q 4 h prn.
+
+FOLLOW UP APPOINTMENTS:  The patient has a follow up
+appointment with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 297**] in Gyn/Onc offices at [**Hospital1 992**] on [**2669-8-26**] at 1:30 p.m. for
+colposcopy.  The patient also has an appointment with Dr.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in the transplant center on [**2669-9-7**] at 10:00 a.m.  The patient is to also follow up with
+podiatry in one to two weeks.  The patient should see her
+primary care physician [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in one to two
+weeks.
+
+
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 3333**]
+
+Dictated By:[**Last Name (NamePattern1) 11976**]
+MEDQUIST36
+
+D:  [**2669-8-25**]  01:11
+T:  [**2669-8-25**]  14:29
+JOB#:  [**Job Number 11977**]
+
+
+
+DOC CLASS

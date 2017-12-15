@@ -1,0 +1,196 @@
+CVICU
+   HPI:
+   [**9-11**] POD 6
+   78M s/p AVR(#21 StJude tissue)[**9-5**]
+   EF 55  CR 3.1  Wt 84.5K
+   PMH: HTN,^lipids,PVD,CRI(3.3),AF,CHF,Anemia,COPD,Hperparathyroid
+   PSH: L Fem-[**Doctor Last Name **] BPGw/PTFE, Bilat toe amps, Pleurectomy(refractory
+   effusions), Cataract
+   Chief complaint:
+   PMHx:
+   Current medications:
+    Acetaminophen , Albuterol MDI , Amiodarone ,  Aspirin,
+    Calcium Gluconate, Chlorhexidine Gluconate 0.12% Oral Rinse , Dextrose
+   50% , Dexmedetomidine,
+    Doxercalciferol , Docusate Sodium (Liquid) , Ferrous Sulfate ,
+   Fluticasone-Salmeterol (250/50),
+    Heparin , Insulin RISS,  Ipratropium Bromide MDI , Levofloxacin ,
+   Magnesium Sulfate , Metoprolol Tartrate
+    Miconazole Powder 2% , Nitroglycerin , Pantoprazole , Pantoprazole ,
+   Paroxetine , Phenylephrine,
+    Propofol , Qvar ,Simvastatin, Sodiium Chloride 0.9% Flush 33.
+   Terazosin
+   24 Hour Events:
+   CPAP/PS, MS improved.
+   Post operative day:
+   POD#6 - s/p AVR
+   Allergies:
+   Penicillins
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3076-9-8**] 09:30 AM
+   Levofloxacin - [**3076-9-10**] 10:05 PM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Dexmedetomidine (Precedex) - 0.2 mcg/Kg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3076-9-10**] 06:34 PM
+   Heparin Sodium (Prophylaxis) - [**3076-9-11**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3076-9-11**] 09:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**79**] a.m.
+   Tmax: 38.1
+C (100.6
+   T current: 37.6
+C (99.6
+   HR: 87 (83 - 102) bpm
+   BP: 116/58(76) {100/49(65) - 142/67(93)} mmHg
+   RR: 15 (12 - 27) insp/min
+   SPO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 86.9 kg (admission): 84.3 kg
+   Height: 67 Inch
+             Total In:
+                                                                  1,069 mL
+                                                                    242 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    989 mL
+                                                                    242 mL
+   Blood products:
+   Total out:
+                                                                  2,520 mL
+                                                                    315 mL
+   Urine:
+                                                                  2,345 mL
+                                                                    315 mL
+   NG:
+                                                                    175 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,451 mL
+                                                                    -73 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 700 (700 - 700) mL
+   Vt (Spontaneous): 587 (489 - 704) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 17
+   PEEP: 0 cmH2O
+   FiO2: 40%
+   RSBI: 37
+   PIP: 10 cmH2O
+   SPO2: 100%
+   ABG: 7.43/28/151/21/-3
+   Ve: 7.6 L/min
+   PaO2 / FiO2: 377
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+)
+   Right Extremities: (Edema: 1+)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities
+   Labs / Radiology
+   176 K/uL
+   9.3 g/dL
+   83 mg/dL
+   3.6 mg/dL
+   21 mEq/L
+   4.4 mEq/L
+   63 mg/dL
+   113 mEq/L
+   143 mEq/L
+   28.6 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**3076-9-9**]  09:49 AM
+                             [**3076-9-9**]  12:16 PM
+                             [**3076-9-9**]  05:33 PM
+                             [**3076-9-9**]  11:11 PM
+                             [**3076-9-10**]  03:16 AM
+                             [**3076-9-10**]  03:30 AM
+                             [**3076-9-10**]  09:13 AM
+                             [**3076-9-11**]  03:29 AM
+                             [**3076-9-11**]  03:40 AM
+                             [**3076-9-11**]  08:13 AM
+   WBC
+   8.5
+   11.8
+   Hct
+   26.9
+   27
+   28.6
+   Plt
+   126
+   176
+   Creatinine
+   3.6
+   3.6
+   TCO2
+   23
+   22
+   22
+   21
+   22
+   22
+   22
+   19
+   Glucose
+   84
+   78
+   78
+   101
+   83
+   Other labs: PT / PTT / INR:16.9/48.4/1.5, ALT / AST:11/48, Alk-Phos / T
+   bili:48/0.7, Amylase / Lipase:36/15, Fibrinogen:387 mg/dL, Lactic
+   Acid:0.9 mmol/L, Albumin:3.2 g/dL, LDH:304 IU/L, Ca:8.4 mg/dL, Mg:2.4
+   mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins
+   Pulmonary: Extubate today, Extubate today, resp Rx
+   Gastrointestinal / Abdomen:
+   Nutrition: NPO, Will advance after extubation.
+   Renal: Foley
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: gm + cocci in pairs and clusters in BAL
+   Will check vanco level today and redose if low.
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: Neuro surgery
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Trauma line - [**3076-9-5**] 01:30 PM
+   Arterial Line - [**3076-9-7**] 06:00 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Heparin drip, Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

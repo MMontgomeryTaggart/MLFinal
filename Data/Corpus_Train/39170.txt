@@ -1,0 +1,412 @@
+Admission Date:  [**2975-3-16**]              Discharge Date:   [**2975-3-29**]
+
+Date of Birth:  [**2906-7-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Atenolol / Atorvastatin / Carbamazepine / Chlorhexidine /
+Codeine / Fentanyl / Oxycodone / Propoxyphene / Demerol
+
+Attending:[**First Name3 (LF) 1596**]
+Chief Complaint:
+ICD firing
+
+Major Surgical or Invasive Procedure:
+Attempted VT tract ablation
+Percutaneous Coronary Intervention
+
+History of Present Illness:
+68M with h/o CAD (prior MIs, CABG, CHF), COPD on baseline O2,
+CRI, DM, IACD placed for afib/VT in [**4-10**], presents for VT storm
+with multiple ICD firings.
+.
+Pt was recently admitted to [**Doctor Last Name 659**] Hospital for ICD firing on
+[**3-11**], discharged [**3-13**] after restarting amiodarone. Pacer was
+interogated and showed afib.
+.
+After discharge pt was repeatedly shocked at home, on the way to
+the ED and in the ED for VT. He reports no SOB, palpitations,
+fevers/chills or CP but feels chest heaviness, heat wave, and
+clammy prior to firings. Pt reports many waves of heat, only
+some (about a dozen) resulting in shock. On arrival pt afebrile,
+A-paced at 70, with BP 120/60s. Pt was ruled out for MI with CEs
+neg x 2, Cr at baseline at 1.7. Dig level was checked after dose
+and was 1.9. Pt was bolused and started on amio gtt and most
+recent VT and shock was at 3am on [**2975-3-16**]. He also received IV
+ativan, and 5mg IV dilaudid.
+.
+ROS: Currently pt denies SOB, CP, palpitations, abd pain, back
+pain.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension
+2. CARDIAC HISTORY: CAD, MIx2
+-CABG: 3V [**2959**]
+-PERCUTANEOUS CORONARY INTERVENTIONS:  [**2969**]
+-PACING/ICD:  [**4-10**]
+3. OTHER PAST MEDICAL HISTORY:
+-COPD on home O2.
+-Afib
+-CRI
+-OSA
+-Diabetes with peripheral neuropathy
+-BPH
+-kyphoplasty L1-3, C5-6 fusion, chronic lower back pain
+-systolic CHF EF 25-30% in [**2973**]
+-diverticulosis
+-GERD
+-lacunar CVA [**2963**]
+
+Social History:
+works as security guard, daughter is nurse (previously CCU)
+-Tobacco history:  Has not smoked in last year.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+GENERAL: WDWN male in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa (dry). No
+xanthalesma.
+NECK: Supple with JVP of 8 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4. Well healed sternal scar.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.  Decreased BS at R base.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. Palpable DPs and PTs.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Pertinent Results:
+[**2975-3-17**] 04:55AM BLOOD WBC-7.6 RBC-4.37* Hgb-12.4* Hct-39.2*
+MCV-90 MCH-28.3 MCHC-31.6 RDW-14.5 Plt Ct-251
+[**2975-3-19**] 01:02AM BLOOD WBC-12.0* RBC-3.90* Hgb-11.2* Hct-35.1*
+MCV-90 MCH-28.7 MCHC-31.8 RDW-14.7 Plt Ct-183
+[**2975-3-24**] 04:16AM BLOOD WBC-8.1 RBC-3.61* Hgb-10.3* Hct-33.2*
+MCV-92 MCH-28.6 MCHC-31.1 RDW-15.0 Plt Ct-215
+[**2975-3-29**] 07:45AM BLOOD WBC-12.0* RBC-3.41* Hgb-10.3* Hct-31.6*
+MCV-93 MCH-30.1 MCHC-32.6 RDW-15.4 Plt Ct-298
+[**2975-3-21**] 04:37AM BLOOD Neuts-70 Bands-0 Lymphs-7* Monos-21*
+Eos-2 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2975-3-17**] 04:55AM BLOOD PT-13.1 PTT-27.1 INR(PT)-1.1
+[**2975-3-20**] 05:46PM BLOOD PT-14.7* PTT-71.9* INR(PT)-1.3*
+[**2975-3-29**] 07:45AM BLOOD PT-14.4* PTT-27.7 INR(PT)-1.2*
+[**2975-3-16**] 11:26PM BLOOD Glucose-173* UreaN-36* Creat-2.1* Na-138
+K-4.5 Cl-99 HCO3-31 AnGap-13
+[**2975-3-18**] 06:37AM BLOOD Glucose-94 UreaN-39* Creat-1.9* Na-136
+K-5.1 Cl-101 HCO3-26 AnGap-14
+[**2975-3-19**] 01:02AM BLOOD Glucose-108* UreaN-50* Creat-2.5* Na-134
+K-4.7 Cl-100 HCO3-21* AnGap-18
+[**2975-3-29**] 07:45AM BLOOD Glucose-83 UreaN-87* Creat-1.8* Na-137
+K-4.5 Cl-102 HCO3-28 AnGap-12
+[**2975-3-23**] 09:05PM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2975-3-24**] 04:16AM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2975-3-23**] 09:05PM BLOOD CK(CPK)-45*
+[**2975-3-20**] 10:55AM BLOOD D-Dimer-6615*
+[**2975-3-23**] 03:00AM BLOOD Vanco-10.0
+[**2975-3-19**] 01:42AM BLOOD Type-ART pO2-299* pCO2-46* pH-7.35
+calTCO2-26 Base XS-0
+[**2975-3-25**] 06:58PM BLOOD Type-ART pO2-86 pCO2-46* pH-7.34*
+calTCO2-26 Base XS--1
+[**2975-3-19**] 01:42AM BLOOD Glucose-116* Lactate-0.8
+[**2975-3-19**] 01:42AM BLOOD freeCa-1.13
+
+[**2975-3-17**] CCATH: FINAL DIAGNOSIS: 1. Three vessel coronary artery
+disease. 2. Patent LIMA-LAD. 3. Successful PCI of the LCX/OM
+with drug-eluting stent.
+
+[**2975-3-18**] CXR: Asymmetric CHF. An underlying infectious infiltrate
+in the right lower lung cannot be excluded.
+
+[**2975-3-22**] TTE: The left atrium is normal in size. The left
+ventricular cavity size is normal. There is moderate regional
+left ventricular systolic dysfunction with basal to mid
+inferolateral and inferior akinesis. Views are suboptimal so
+regional wall motion could not be fully assessed. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. An eccentric,
+posteriorly directed jet of at least moderate (2+) mitral
+regurgitation is seen. Mitral regurgitation is not fully
+visualized. The tricuspid valve leaflets are mildly thickened.
+There is no pericardial effusion.
+
+[**2975-3-23**] CT chest: 1. Moderate, mostly loculated, right pleural
+effusion and small, dependent freely layering left pleural
+effusion. 2. Dense opacity at right lung base adjacent to
+pleural effusion likely
+represents atelectasis and less likely focal infection. 3.
+Bilateral ground-glass opacities with septal thickening and
+bronchial wall
+thickening likely represent hydrostatic edema, but viral
+pneumonia may
+produce a similar pattern. 4. Mediastinal lymphadenopathy with
+the largest lymph node conglomerate located subcarinally.
+Although potentially related to hydrostatic edema or infection,
+given the large size of the subcarinal lymph nodes, there is
+concern for malignancy. Followup CT in 6 weeks after treatment
+of the patients acute conditoin is recommended. 5. Two nodular
+foci in the right upper lobe may represent focal areas of
+infection and less likely malignant lung nodules. These may also
+be reassessed at the follow up CT scan. 6. Small amoung of
+ascites is noted. Hypodense lesion in the upper pole of the left
+kidney likely represents a cyst.
+
+Brief Hospital Course:
+68M with MMP presents with VT storm and ICD firing, transferred
+from outside hospital for EP ablation.
+.
+# Ventricular Tachycardia:
+Patient presented from outside hospital with VT storm, initially
+thought to be of ischemic etiology due to scar tissue. TSH and
+digoxin level were within normal limits.  Patient had been
+loaded on amiodarone at outside hospital and was continued on
+amiodarone drip at 0.5mg/hr and beta blocker on presentation to
+[**Hospital1 4**]. On the night of admission, patient had frequent runs of
+NSVT, longest 15 beats, which started while he was sleeping.
+While awake, patient reported feeling a sensation of "warmth"
+during some of these runs of NSVT. He was started on low dose
+metoprolol (both patient and daughter do not recall reason for
+listed atenolol allergy) and amiodarone drip dose was increased
+to 1mg/hr, after which frequency of NSVT runs decreased quickly.
+During attempted EP ablation of VT tract the next morning,
+Electrophysiology team was able to map out patient's left
+ventricle and felt that VT was coming from right ventricle.
+Patient reported having chest pain during EP procedure, so the
+procedure was cut short, and patient was sent for Cardiac
+Catheterization with the presumption that his VT may have been
+of ischemic etiology. The patient had a PCI of the LCX/OM with
+drug-eluting stent, however, felt that this wasn't in the right
+location to be causing his VT. The patient had no further runs
+of VT and no further EP procedure was done. If he develops VT in
+the future he may need his right ventricle mapped to look for a
+focus of the VT. The patient will follow up with Dr. [**Last Name (STitle) **] as
+an outpatient.
+
+# Shortness of Breath:
+Patient experienced worsening shortness of breath during
+hospitalization, likely multifactorial.  He presented with two
+weeks of worsening productive cough and was treated for Right
+lower lobe pneumonia with broad spectrum antibiotics; only
+normal oropharyngeal flora grew from his sputum culture.
+Patient appears to have long history of hospitalizations for
+COPD and CHF exacerbations with prolonged courses of recovery.
+He was found to have a right sided pleural effusion on admission
+to [**Hospital1 4**]; he was noted to have had this effusion in the past
+which was previously drained and found to be transudative.
+Effusion appeared to be loculated on lateral decubitus films
+taken during this hospitalization.  Patient's O2 requirement
+increased post EP and Cath procedures.  He was thought to have
+aspirated during the EP procedure, so flagyl was added to his
+antibiotic regimen.  Pulmonary embolism was considered but felt
+to be of low suspicion.  Lower extremity ultrasound was negative
+for DVTs bilaterally. Ultimately, he was treated for COPD
+exacerbation with steroids, despite minimal wheezing on exam,
+after which his symptoms improved. He was discharged home with
+services on oxygen (which he had prior to this hospitalization).
+
+# COPD Exacerbation:
+Patient has prior smoking history, intermittently requires O2 at
+home, usually with CHF exacerbations.  He has had multiple known
+exacerbations for CHF and COPD in the past with prolonged
+recovery. His oxygen requirement was variable with up to 6L NC
+and a face tent. He was started on IV methylprednisolone and
+then prednisone taper. His oxygen requirement decreased to 4L
+NC. He will follow up with his PCP post discharge for further
+management. He was discharged with Advair.
+
+# Coronary Artery Disease:
+Patient was ruled out for MI at the outside hospital, and EKG
+was without evidence of acute ischemia. Patient was continued on
+home aspirin, statin, plavix, and beta blocker. Patient was sent
+to Cath lab immediately after having chest pain in the EP lab.
+Cardiac Catheterization showed three vessel coronary artery
+disease, 100% stenosis of mid LAD but patent LIMA-LAD graft, and
+significant disease in the Left Circumflex.  The left circumflex
+had 90% proximal stenosis before the origin of the AV branch and
+an 80% stenosis after the AV and before OM1, and was totally
+occluded distally.  A Drug-eluting stent was placed in the
+proximal-mid Circumflex. The
+SVG-PDA and SVG-OM were known occluded and were not looked at.
+A femoral bruit was noted post procedure, not known to be old,
+but femoral ultrasound showed no pseudoaneurysm or fistula.
+Patient did have a couple of episodes of chest pain in the day
+post catheterization with no EKG changes; he noted that the
+chest pain was similar to pain he experiences at home sometimes
+for which he does nothing.
+
+# Hypertension:
+Blood pressure was well controlled during hospitalization.  He
+was discharged on his home low dose of tamsulosin, metoprolol.
+He will follow up with his primary care physician for further
+management.
+
+# Hyperlipidemia:
+He was continued on Zetia/Simvastatin.
+
+# Afib: Well rate controlled, currently A paced. On no
+anticoagulation although CHADS score is 6. He was continued on
+aspirin and plavix.
+
+# CRI: At baseline 1.7. He was given mucomyst prior to cardiac
+catheterization.
+
+# Diabetes:
+Patient was continued on basal glargine plus an insulin sliding
+scale during this hospitalization.  His blood sugars were
+elevated while on steroids for COPD exacerbation.
+
+# BPH:
+He was continued on his home meds.
+
+
+Medications on Admission:
+Lisinopril 2.5mg PO daily
+Lasix 40mg PO QOD (last on [**2975-3-16**])
+KCl 10mEq QOD
+Lantus 30U qhs
+Novolog 10U TID
+Proscar 5mg PO daily
+Flomax 0.4mg PO daily
+Paroxetine 30mg PO daily
+Plavix 75mg Po daily
+Digoxin 0.125mg Po daily
+ASA 81mg PO daily
+Zetia 10mg PO daily
+Simvastatin 20mg PO daily
+Omeprazole 20mg PO daily
+Amiodarone 400mg PO daily
+Colace 100mg PO daily
+Senna 8.6mg Po at bedtime
+Ambien 5mg Po qhs prn
+
+Discharge Medications:
+1. Insulin Glargine 100 unit/mL Solution Sig: Twenty (20) units
+Subcutaneous at bedtime.
+2. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*11*
+5. Paroxetine HCl 30 mg Tablet Sig: One (1) Tablet PO once a
+day.
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+7. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+10. Amiodarone 200 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+Disp:*45 Tablet(s)* Refills:*2*
+11. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: [**2-5**] Tablet,
+Sublinguals Sublingual PRN (as needed) as needed for chest pain:
+Take 3 minutes apart, if you still have chest pain after 3
+tablets, call 911.
+12. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime)
+as needed for insomnia.
+13. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*1 Disk with Device(s)* Refills:*2*
+14. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+16. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+17. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: Five
+(5) ML PO every four (4) hours as needed for cough.
+18. Novolog 100 unit/mL Solution Sig: per sliding scale units
+Subcutaneous three times a day: before meals per sliding scale
+attached.
+19. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO once a day
+for 2 days: Take on [**3-30**] and [**3-31**].
+20. Prednisone 10 mg Tablet Sig: Two (2) Tablet PO once a day
+for 2 days: take on [**4-1**] and [**4-2**].
+21. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day
+for 2 days: Take on [**4-3**] and [**4-4**].
+Disp:*20 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA of Southeastern Mass.
+
+Discharge Diagnosis:
+Ventricular Tachycarida
+Coronary Artery Disease
+Acute on Chronic congestive heart failure, ACEi held due to
+increased creatinine.
+Chronic Obstructive Pulmonary Disease
+
+
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+
+Discharge Instructions:
+YOu had ventricular tachycardia while you were at home which
+required the addition of more amiodarone and metoprolol. We were
+not able to complete an ablation at this time because of chest
+pressure during the ablation. A cardiac catheterizaion showed
+blockages in your left circumflex artery that were opened with 2
+drug eluting stents. It is very important that you take your
+Plavix and aspirin every day for at least one year and possibly
+longer. Do not stop taking Plavix for any reason unless Dr.
+[**Last Name (STitle) **] tells you not to.
+Medication changes:
+1. Start Plavix to keep the stents open
+2. Increase aspirin to 325 mg daily
+3. Stop taking Omeprazole and digoxin
+4. Start taking Ranitidine instead of Omeprazole
+5. Stop taking Lisinopril and Lasix for now
+6. Stop taking Potassium supplements until you restart your
+lasix.
+7. Decrease your lantus to 20 unit for now, you have a humalog
+sliding scale that you can use. You may need to decrease the
+Lantus as your prednisone dose decreases.
+8. Start taking Prednisone for you COPD. You will take 30 mg for
+2 days, then 20 mg for 2 days, then 10 mg for 2 days, then d/c.
+9. Decrease your amiodarone to 300 mg daily
+10. Start taking Advair twice daily to help your breathing.
+.
+A CT scan of your chest showed that you had some enlarged lymph
+nodes in your chest.  You also had some nodules in your right
+upper lung lobe.  You should get another CT scan of your chest
+in 6 weeks time.
+.
+Weigh yourself every morning, call Dr. [**Last Name (STitle) 4168**] if your weight
+goes up more than 3 lbs in 1 day or 6 pounds in 3 days.
+.
+You cannot drive until after you see Dr. [**Last Name (STitle) **] on [**4-27**]
+and he tells you it is OK to do so.
+
+Followup Instructions:
+Primary Care and Pulmonology:
+[**Last Name (LF) **],[**First Name3 (LF) 6527**] W. Phone: [**Telephone/Fax (1) 6528**] Date/time: Friday [**4-7**] at 11:15 am.
+.
+Cardiology:
+[**Last Name (LF) 1234**],[**First Name3 (LF) **] I. Phone: [**Telephone/Fax (1) 1871**]  Date/time: [**4-27**]
+at 2:20pm.
+.
+
+
+
+
+
+
+DOC CLASS

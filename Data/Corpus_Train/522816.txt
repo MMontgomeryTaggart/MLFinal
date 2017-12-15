@@ -1,0 +1,123 @@
+Chief Complaint: hypotension, afib with RVR
+   HPI:
+   24 Hour Events:
+ FEVER - 102.4
+F - [**2942-5-22**] 05:30 PM
+   Refractory Afib
+ Rx with Amio, Lopressor, Diltiazem, Verapamil
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**2942-5-22**] 07:30 PM
+   Vancomycin - [**2942-5-23**] 09:14 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2942-5-23**] 09:14 AM
+   Infusions:
+   Other ICU medications:
+   Diltiazem - [**2942-5-22**] 07:40 PM
+   Verapamil - [**2942-5-23**] 01:50 AM
+   Metoprolol - [**2942-5-23**] 04:15 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2942-5-23**] 10:10 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.1
+C (102.4
+   Tcurrent: 37
+C (98.6
+   HR: 145 (92 - 156) bpm
+   BP: 107/65(76) {67/47(52) - 110/68(76)} mmHg
+   RR: 24 (0 - 24) insp/min
+   SpO2: 91%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 71 Inch
+             Total In:
+                                                                  1,233 mL
+                                                                    409 mL
+   PO:
+                                                                    480 mL
+             TF:
+   IVF:
+                                                                    753 mL
+                                                                    409 mL
+   Blood products:
+   Total out:
+                                                                    785 mL
+                                                                    620 mL
+   Urine:
+                                                                    785 mL
+                                                                    620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    448 mL
+                                                                   -211 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 91%
+   ABG: 7.43/47/71/28/5
+   Physical Examination
+   Labs / Radiology
+   8.4 g/dL
+   178 K/uL
+   170 mg/dL
+   2.3 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   37 mg/dL
+   97 mEq/L
+   134 mEq/L
+   24.3 %
+   13.1 K/uL
+        [image002.jpg]
+                             [**2942-5-22**]  08:45 PM
+                             [**2942-5-23**]  03:44 AM
+                             [**2942-5-23**]  04:11 AM
+   WBC
+   13.1
+   Hct
+   24.3
+   Plt
+   178
+   Cr
+   2.3
+   TropT
+   0.08
+   0.10
+   TCO2
+   32
+   Glucose
+   170
+   Other labs: PT / PTT / INR:14.6/35.0/1.3, CK / CKMB /
+   Troponin-T:34/2/0.10, ALT / AST:23/16, Alk Phos / T Bili:81/1.3,
+   Amylase / Lipase:37/24, Lactic Acid:0.8 mmol/L, Albumin:3.0 g/dL,
+   LDH:190 IU/L, Ca++:7.9 mg/dL, Mg++:2.0 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   63 yo male with afib/RVR s/p open CCY.
+   1. Afib: Pt with propensity for afib given recent history.  [**Month (only) 56**]
+   actually be in flutter given rate of 150.  Has been bolused with 150mg
+   of amiodarone x2 with much effect.  Will switch to dilt gtt- this has
+   worked for him in the past.  Will hold home Toprol XL.  Keep fluid
+   status even for now.  Cycle cardiac enzymes.
+   2. ARF: ddx pre renal versus ATN, got IVF in OR and is maintaining UOP,
+   2. Fever: No definite source of infection, but recently post-op with
+   question of bile in abdomen.  Empiric vanc/Zosyn/Flagyl for now.
+   3. DM2: Cont lantus + RISS.  Wound consult for chronic ulceration
+   ICU Care
+   Nutrition: MPO post op
+   Glycemic Control:
+   Lines: PIV- may need CVL if BP not stable
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : ICU
+   Total time spent: 40
+
+
+
+DOC CLASS

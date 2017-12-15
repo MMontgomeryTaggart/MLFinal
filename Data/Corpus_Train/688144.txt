@@ -1,0 +1,386 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**3264-2-27**] 12:02 PM
+ INVASIVE VENTILATION - START [**3264-2-27**] 12:04 PM
+ ARTERIAL LINE - START [**3264-2-27**] 05:08 PM
+ BRONCHOSCOPY - At [**3264-2-27**] 06:15 PM
+   - Temp to 100.9
+   - CTA: no evidence of PE, but did show LLL consolidation and abdominal
+   ascites
+   - Head CT: negative for bleed
+   - Patient had bronch; fluid evident for mucus plugs; cx sent and are
+   pending
+   - He was hypotensive after intubation, started on pressors.  Got 1L NS
+   bolus x2 overnight.
+   - A-line placed.
+   - Repeat CXR didn't look like pneumothorax
+   - RISBI 135, but patient agitated once sedation off
+   - TF have been held
+   - Pressors off since 5am
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3264-2-27**] 07:38 PM
+   Levofloxacin - [**3264-2-27**] 08:10 PM
+   Vancomycin - [**3264-2-27**] 09:14 PM
+   Acyclovir - [**3264-2-28**] 04:09 AM
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3264-2-27**] 11:50 PM
+   Fentanyl - [**3264-2-28**] 04:00 AM
+   Midazolam (Versed) - [**3264-2-28**] 04:17 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3264-2-28**] 06:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 38.3
+C (100.9
+   Tcurrent: 37.8
+C (100
+   HR: 105 (81 - 135) bpm
+   BP: 105/71(83) {85/40(64) - 134/81(102)} mmHg
+   RR: 24 (14 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  2,454 mL
+                                                                    180 mL
+   PO:
+             TF:
+                                                                     19 mL
+                                                                     50 mL
+   IVF:
+                                                                  2,336 mL
+                                                                    130 mL
+   Blood products:
+   Total out:
+                                                                  1,990 mL
+                                                                    740 mL
+   Urine:
+                                                                  1,990 mL
+                                                                    740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    464 mL
+                                                                   -560 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 350 (350 - 350) mL
+   Vt (Spontaneous): 294 (294 - 294) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 136
+   PIP: 22 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 25 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.38/64/544/30/10
+   Ve: 8.8 L/min
+   PaO2 / FiO2: 1,360
+   Physical Examination
+   Gen: Intubated, sedated
+   CV: RR no murmurs
+   Pulm: CTAB
+   Abdom: NT ND
+   Ext: no edema
+   Labs / Radiology
+   135 K/uL
+   9.9 g/dL
+   83 mg/dL
+   0.4 mg/dL
+   30 mEq/L
+   4.3 mEq/L
+   21 mg/dL
+   101 mEq/L
+   138 mEq/L
+   31.8 %
+   11.0 K/uL
+        [image002.jpg]
+   [1][image003.gif]   COMPLETE BLOOD COUNT
+                                     WBC
+                                     RBC
+                                     Hgb
+                                     Hct
+                                     MCV
+                                     MCH
+                                    MCHC
+                                     RDW
+                                   Plt Ct
+   [2][**3264-2-28**] 04:29AM
+                                   9.8[1]
+                                    3.32*
+                                    9.9*
+                                    31.8*
+                                     96
+                                    29.7
+                                    31.0
+                                    16.4*
+                                   130*[2]
+   Source: Line-aline
+   [3][**3264-2-27**] 01:08PM
+                                   11.0[2]
+                                    3.63*
+                                    10.7*
+                                    35.6*
+                                     98
+                                    29.5
+                                    30.1*
+                                    15.8*
+                                    135*
+   [4][**3264-2-28**] 04:29AM
+                                   75*[1]
+                                      5
+                                     14*
+                                      3
+                                      2
+                                      0
+                                      0
+                                     1*
+                                      0
+   Source: Line-aline
+   [5][**3264-2-27**] 01:08PM
+                                     79*
+                                     8*
+                                     5*
+                                      7
+                                      0
+                                      0
+                                      0
+                                      0
+                                     1*
+   [6][image003.gif]   RENAL & GLUCOSE
+                                   Glucose
+                                    UreaN
+                                    Creat
+                                     Na
+                                      K
+                                     Cl
+                                    HCO3
+                                    AnGap
+   [7][**3264-2-28**] 04:29AM
+                                    83[1]
+                                     21*
+                                    0.4*
+                                     138
+                                     4.3
+                                     101
+                                     30
+                                     11
+   [8][image003.gif]   ENZYMES & BILIRUBIN
+                                     ALT
+                                     AST
+                                   LD(LDH)
+                                   CK(CPK)
+                                   AlkPhos
+                                   Amylase
+                                   TotBili
+                                   DirBili
+                                   IndBili
+   [9][**3264-2-27**] 01:08PM
+                                     76*
+                                     72*
+                                    332*
+                                   31*[1]
+                                    297*
+   1.2
+   Source: Line-right PICC
+   [10][**3264-2-27**] 12:29AM
+                                     80*
+                                     78*
+                                    278*
+   287*
+   1.0
+   Source: Line-picc
+   [11][**3264-2-26**] 12:00AM
+                                     86*
+                                    109*
+                                    317*
+   338*
+   1.2
+                                    0.8*
+                                     0.4
+   BLOOD GASES
+                                    Type
+                                    Temp
+                                    Rates
+                                   Tidal V
+                                    PEEP
+                                    FiO2
+                                   O2 Flow
+                                     pO2
+                                    pCO2
+                                     pH
+                                   calTCO2
+                                   Base XS
+   Intubat
+   [12][**3264-2-27**] 10:57PM
+   37.6
+                                     24/
+                                     350
+                                      5
+                                     40
+   126*
+                                     49*
+                                    7.47*
+                                     37*
+                                     11
+                                ASSIST/CON[1]
+                                  INTUBATED
+   [13][**3264-2-27**] 01:40PM
+                                     ART
+   544*
+                                   64*[2]
+                                    7.38
+                                     39*
+                                     10
+   [14][**3264-2-27**] 11:37AM
+                                     ART
+                                    37.4
+   113*
+                                   160*[3]
+                                  7.07*[3]
+                                   49*[3]
+                                      9
+   NOT INTUBA[4]
+                             [**3264-2-27**]  01:08 PM
+                             [**3264-2-27**]  01:40 PM
+                             [**3264-2-28**]  04:29 AM
+   WBC
+   11.0
+   Hct
+   35.6
+   31.8
+   Plt
+   135
+   Cr
+   0.4
+   0.4
+   TropT
+   0.02
+   TCO2
+   39
+   Glucose
+   168
+   83
+   Other labs: PT / PTT / INR:12.9/37.0/1.1, CK / CKMB /
+   Troponin-T:31/4/0.02, ALT / AST:76/72, Alk Phos / T Bili:297/1.2,
+   Differential-Neuts:79.0 %, Band:8.0 %, Lymph:5.0 %, Mono:7.0 %, Eos:0.0
+   %, Lactic Acid:1.3 mmol/L, LDH:332 IU/L, Ca++:7.8 mg/dL, Mg++:1.6
+   mg/dL, PO4:1.4 mg/dL
+   Imaging: CT HEAD:
+   No intracranial hemorrhage or edema.
+   CTA:
+   1. No PE or acute aortic pathology.
+   2. Small L pleural effusion. LLL consolidation, concerning for
+   infectious process.
+   3. Small-to-moderate intra-abdominal ascites.
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+   38M with NHL s/p alloBMT complicated by multi-organ GVHD and BO with
+   severe baseline lung disease and CO2 retention, presenting with dyspnea
+   and cough, now transfered to [**Hospital Unit Name 42**] for hypercarbic respiratory failure.
+   .
+   # Hypercarbic respiratory failure.  Acute decompensation of chronic
+   hypercarbic resp failure, now s/p intubation. His acute decompensation
+   can be secondary to mucus plug, infection/sepsis, bronchospasm.  CTA
+   w/o evidence of PE and head CT w/o evidence of primary central process
+   to explain acute decompensation.  CXR w/o evidence of flash pulm
+   edema.  Bronchoscopy notable for plugs, sputum sent for cultures.
+   - Daily SBTs, RISBI
+   - VAP precautions
+   - Monitor ABGs goal pCO2 ~ 60s
+   - Continue HAP tx w/ cefepime, vanc, levofloxacin for now.
+   - F/u on sputum cx, PCP, [**Name10 (NameIs) 1119**]
+   [**Name Initial (NameIs) **] Pending sputum results, may benefit from higher dose steroids if GVHD
+   related.
+   - Send sputum culture, PCP [**Name Initial (PRE) **].
+   .
+   # Hypotension.  Normotensive prior to intubation but now with prolonged
+   low BPs
+ hypovolemia vs positive pressure effect vs. sedation meds vs.
+   sepsis (in the setting of fevers).  Patient required pressor support
+   (neo) overnight, now off.  Has also been hydrated w/ ivfs. CTA negative
+   for PE.
+   - TTE
+   - F/u culture data
+   - IVFs as needed, goal of MAP > 60
+   .
+   # Fever. Fever to 100.9 ([**2-27**]).  Has been on broad spec abx prior to
+   transfer.  Can also be secondary to mallignancy, though recent heme/onc
+   notes states disease remains in remission.
+   - Trend fever curve
+   - Cont abx
+   - F/u culture data
+   .
+   # Tremor.  Occurring on BMT floor prior to events.  Unlikely seizure as
+   patient alert and follows commands during tremor activity. CT head w/o
+   acute process.  Can be related to medication effects, ? tacro.
+   - Continue to monitor.
+   - Holding tacro.
+   .
+   # Non-Hodgkin's lymphoma s/p allo BMT: Most recent PET scan with no
+   evidence of recurrent disease and he remains in remission.
+   -Monitor counts and toxicities
+   .
+   # GVHD.
+   - Respiratory plan as above.
+   - Prednisone and MMF.
+   - PPx with bactrim DS and Acyclovir (acyclovir had been changed to
+   famvir in house due to ?elevation in bili, but cannot crush.
+   .
+   # Elevated LFTs.  At baseline from GVHD.
+   - Continue to monitor.
+   .
+   # Hypothyroidism.
+   - Cont levothyroxine
+   .
+   # Gastric varices.  Asymptomatic.
+   - Cont to hold BB given hypotension.
+   ICU Care
+   Nutrition: TF held
+   Glycemic Control:  ISS
+   Lines:
+   PICC Line - [**3264-2-27**] 12:02 PM
+   20 Gauge - [**3264-2-27**] 02:00 PM
+   Arterial Line - [**3264-2-27**] 05:08 PM
+   Prophylaxis:
+   DVT: HSQ
+   Stress ulcer: H2B
+   VAP:  Chlorhexidine, Elevate Bed
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+References
+   1. javascript:command('LHBC','expand')
+   2. JavaScript:parent.POPUP(self,%22_WEBTAG=_1%22);
+   3. JavaScript:parent.POPUP(self,%22_WEBTAG=_2%22);
+   4. JavaScript:parent.POPUP(self,%22_WEBTAG=_17%22);
+   5. JavaScript:parent.POPUP(self,%22_WEBTAG=_18%22);
+   6. javascript:command('LCBA','expand')
+   7. JavaScript:parent.POPUP(self,%22_WEBTAG=_65%22);
+   8. javascript:command('LCBD','expand')
+   9. JavaScript:parent.POPUP(self,%22_WEBTAG=_87%22);
+  10. JavaScript:parent.POPUP(self,%22_WEBTAG=_88%22);
+  11. JavaScript:parent.POPUP(self,%22_WEBTAG=_89%22);
+  12. JavaScript:parent.POPUP(self,%22_WEBTAG=_128%22);
+  13. JavaScript:parent.POPUP(self,%22_WEBTAG=_129%22);
+  14. JavaScript:parent.POPUP(self,%22_WEBTAG=_130%22);
+
+
+
+DOC CLASS

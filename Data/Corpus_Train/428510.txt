@@ -1,0 +1,232 @@
+Chief Complaint:
+   24 Hour Events:
+   -pressures still in 180's, not taking PO meds, started enalapril IV
+   (holding lisinopril)
+   -psych consulted, recommended MRI which pt unable to comply with
+   -neuro rec eeg, which we did not feel pt could comply with
+   -orders written for ativan and haldol prn overnight.
+   -ativan increased from Q6 prn to Q4 prn, after nurse reported increased
+   agitation, threatening to pull lines.
+   -hematuria this am
+   -HD yesterday, took off 800cc
+   -renal added sevelamer
+   -peripheral smear sent to r/o ttp
+   -psych says pt does not have capacitu to refuse mri
+   Allergies:
+   Codeine
+   Hives;
+   Last dose of Antibiotics:
+   Vancomycin - [**3079-7-28**] 07:50 PM
+   Acyclovir - [**3079-7-28**] 09:03 PM
+   Ceftriaxone - [**3079-7-29**] 06:18 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3079-7-28**] 11:57 PM
+   Lorazepam (Ativan) - [**3079-7-29**] 01:20 AM
+   Haloperidol (Haldol) - [**3079-7-29**] 01:27 AM
+   Dextrose 50% - [**3079-7-29**] 04:12 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3079-7-29**] 06:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.6
+   Tcurrent: 36.6
+C (97.9
+   HR: 85 (84 - 101) bpm
+   BP: 181/97(118) {153/80(99) - 206/123(145)} mmHg
+   RR: 14 (8 - 24) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 73.4 kg (admission): 72 kg
+             Total In:
+                                                                    574 mL
+                                                                    138 mL
+   PO:
+                                                                     30 mL
+             TF:
+   IVF:
+                                                                    544 mL
+                                                                    113 mL
+   Blood products:
+   Total out:
+                                                                  1,740 mL
+                                                                    425 mL
+   Urine:
+                                                                  1,740 mL
+                                                                    425 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,166 mL
+                                                                   -287 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: ///31/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   302 K/uL
+   8.4 g/dL
+   38 mg/dL
+   5.2 mg/dL
+   31 mEq/L
+   3.3 mEq/L
+   10 mg/dL
+   101 mEq/L
+   143 mEq/L
+   25.9 %
+   6.7 K/uL
+        [image002.jpg]
+                             [**3079-7-25**]  09:17 PM
+                             [**3079-7-26**]  01:41 AM
+                             [**3079-7-26**]  03:31 AM
+                             [**3079-7-26**]  03:32 AM
+                             [**3079-7-27**]  03:26 AM
+                             [**3079-7-28**]  01:45 AM
+                             [**3079-7-29**]  02:50 AM
+   WBC
+   10.5
+   11.1
+   10.5
+   10.1
+   6.7
+   Hct
+   24.8
+   22.7
+   21.2
+   23.8
+   25.9
+   Plt
+   327
+   318
+   288
+   285
+   302
+   Cr
+   9.4
+   5.4
+   7.8
+   9.7
+   5.2
+   TropT
+   0.36
+   TCO2
+   37
+   34
+   Glucose
+   535
+   134
+   276
+   95
+   38
+   Other labs: PT / PTT / INR:11.6/35.4/1.0, CK / CKMB /
+   Troponin-T:442/7/0.36, ALT / AST:14/31, Alk Phos / T Bili:73/0.3,
+   Differential-Neuts:76.3 %, Lymph:17.7 %, Mono:4.6 %, Eos:0.9 %, Lactic
+   Acid:1.0 mmol/L, Albumin:3.5 g/dL, LDH:513 IU/L, Ca++:8.1 mg/dL,
+   Mg++:1.7 mg/dL, PO4:3.8 mg/dL
+   Microbiology: cultures ngtd
+   Assessment and Plan
+ FEVER, UNKNOWN ORIGIN (FUO, HYPERTHERMIA, PYREXIA)
+ HYPOGLYCEMIA
+ AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG,
+   AIRWAY CLEARANCE, COUGH)
+ HYPERTENSION, BENIGN
+ HYPERGLYCEMIA
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   This is a 24 yo male with type I DM, ESLD on HD, resistant HTN who
+   presents with hyperglycemia and emesis and found to have significantly
+   elevated blood pressures.
+   .
+   # Fever/Mental Status Changes/? delirium: Pt is volitionally not
+   speaking right now. He does have a history of oppositional defiant
+   disorder. Was agitated and confused on admission. It is difficult to do
+   a neuro exam or get a sense of his mental status right now as he is not
+   cooperating. Head CT read neg for any acute IC process.  Still concern
+   for infection as febrile on admission, cultures negative and on broad
+   spectrum Abx. Pt does have history of TTP, but platelets not low. [**Month (only) 56**]
+   also have had some component of uremic encephalopathy.
+   - correct glucose and electrolyte abnormalities
+   - will check peripheral smear for schistocytes, but low suspicion for
+   TTP in light of normal platelet count.
+   - HD yesterday
+   - psych following
+   - will need to consider whether MRI is worth trying again as pt does
+   not have capacity to refuse per psych.
+   -LP shows no meningitis by cell counts. On vanc/ceftriaxone/acyclovir
+   empirically pending cultures. will d/c today. would continue acyclovir
+   until negative pcr
+   -could consider check tsh to r/o hyperthyroid though this is lower on
+   the ddx
+   # Hyperglycemia: Would be classified as HHS given no ketonemia, though
+   AG present. Possible etiologies include infection vs insulin
+   non-compliance. AG resolved after only 10 units of IM regular insulin
+   with serum glucose ranging <70 to 200
+s over past day.
+   - check FSBS q2 hours
+   - [**Last Name (un) 257**] following- on lantus 4 units daily and [**Last Name (un) 257**] sliding scale
+   and conservative sliding scale
+   - blood, csf, and urine cxs to rule out infection
+   .
+   # Hypoglycemia: low BS this am. got [**11-22**] amp D50. ? whether insulin
+   should be decreased. [**Last Name (un) 257**] following.
+   .
+   # Anion Gap Acidosis: Resolved. Possible etiologies include toxic
+   ingestion vs lactic acidosis or [**12-23**] chronic renal failure. Unlikely to
+   be ketoacidosis given negative serum ketoacids. However, AG resolved
+   after only 10 units of IM insulin. Tox screen positive only for
+   opiates. Lactate 1. Most likely [**12-23**] RF.
+    - cont to monitor lytes
+   .
+   # Hypertension: BP 200's/100's on admission. Has run similarly high on
+   previous admissions. Attempting to titrating meds to SBP's in 150's.
+   However, still elevated
+   -off labetalol drip. On metoprolol TID and amlodipine, unclear to me
+   whether he is consistently taking his PO meds
+   -added  IV enalapril yesterday, perhaps could switch to PO lisinopril
+   10 today, which is his home med if he is able to tolerate POs
+   .
+   # ESRD on HD: HD on [**7-27**], took off 800cc.
+   - renal dialysis fellow aware pt in house
+   - cont nephrocaps
+   -add sevelamer per renal
+   .
+   #Anemia: s/p 1 unit PRBC. Likely [**12-23**] chronic renal failure (baseline
+   about 25)
+   -hct at baseline
+   -epo after HD
+   .
+   #hematuria: most c/w foley trauma.
+   -follow up and send UA
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Tunneled (Hickman) Line - [**3079-7-25**] 08:13 PM
+   20 Gauge - [**3079-7-25**] 09:55 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

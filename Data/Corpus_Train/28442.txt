@@ -1,0 +1,277 @@
+Admission Date:  [**3311-10-5**]              Discharge Date:   [**3311-10-8**]
+
+Date of Birth:  [**3273-8-22**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1430**]
+Chief Complaint:
+Anterior non-ST elevation myocardial infarction
+
+Major Surgical or Invasive Procedure:
+Cardiac cath with PCI to the proximal LAD with DES.
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 13958**] is a 38 year old male with no significant medical
+history, no smoking history, no drug history and no family
+history has had intermittent [**5-13**] substernal chest pressure over
+the last two weeks brought on by exercise and relieved by rest.
+Yesterday evening at 6PM the patient experienced [**8-13**] left-sided
+substernal chest pressure radiating up his jaw and down his left
+arm with associated nausea that was not relieved by rest. He did
+not take any medication to relieve the pain. The pain remained
+constant throughout the night and he went to the [**Location (un) **] ER at
+10AM the next morning. He received an aspirin and SL NTG x 1
+from the ED that relieved his chest pain.  Cardiac enzymes were
+drawn but could not be read due to the level of lipids in his
+blood sample. EKG shows q's in V1-V2 and some ST elev in V2.
+Deep T waves in 1, AVL, hyperacute T's inferioly. Patient was
+given plavix 600, and started on ntg gtt at 14mcg/min, aggrastat
+bolus of 22cc/hr and gtt at 11/hr, heparin bolus of 6000U and
+gtt at 1300/hr. Patient was then transfered to [**Hospital1 **] for cardiac
+cath.
+.
+Cardiac cath showed a 99% lesion in the proximal LAD that
+underwent successful PCI with a DES.  Distal LAD had diffuse
+disease and there were 40% occlusions in D1 and D2.
+
+Past Medical History:
+MVA in [**3293**]: patient received a metal plate in the skull
+
+Social History:
+Mr. [**Known patient lastname 13958**] works as a construction worker and lives with his
+wife and four children in [**Name (NI) 13959**], MA. He denies tobacco use and
+illegal drug use and drinks 3 beers a week.
+
+Family History:
+1. Father: 59 with no history of MI but on lipitor for high
+lipids
+2. Mother: 59 with no history of MI
+3. 2 brothers: no medical history
+
+Physical Exam:
+T: 99.7  BP:132/87  HR: 93  RR: 19  SaO2: 97% on 2L nc
+General: Patient lying in bed in NAD. Patient cooperative and
+converstational speaking in full sentences with no shortness of
+breath.
+HEENT: PERRL, EOMI, MMM, no carotid bruit, no JVD
+CV: NRRR, n1 S1 and S2, S4 gallop heard at LLSB. No M/G/R
+Resp: Moving air well, CTAB
+Abd: soft, NT, ND, +BS, no organomegaly, no abdominal bruit
+Extremities: Right groin cath site is clean and dry with both
+femoral venous and arterial sheaths in place. No evidence of
+hematoma, no femoral bruits, no flank tenderness and good distal
+pulses.
+
+
+Pertinent Results:
+[**3311-10-5**] 02:45PM   TRIGLYCER-[**3288**]* HDL CHOL-81 CHOL/HDL-7.2
+LDL([**Last Name (un) 2977**])-52
+[**3311-10-5**] 02:45PM   ALBUMIN-4.2 CALCIUM-8.9 PHOSPHATE-4.0
+MAGNESIUM-2.1 CHOLEST-585*
+[**3311-10-5**] 02:45PM   CK-MB-69* MB INDX-10.6* cTropnT-5.87*
+[**3311-10-5**] 02:45PM   ALT(SGPT)-56* AST(SGOT)-153* LD(LDH)-496*
+CK(CPK)-653* ALK PHOS-66 TOT BILI-0.4
+[**3311-10-5**] 07:28PM   CK(CPK)-447*
+[**3311-10-5**] 07:28PM   CK-MB-47* MB INDX-10.5*
+
+[**3311-10-8**] 07:55AM BLOOD PT-13.7* PTT-101.6* INR(PT)-1.2*
+
+ECHO on [**3311-10-6**]:
+EF=35%
+LEFT ATRIUM: Normal LA size.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Prominent
+Eustachian valve
+(normal variant).
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size.
+Moderate regional LV systolic dysfunction. No resting LVOT
+gradient. No LV mass/thrombus.
+LV WALL MOTION: Regional LV wall motion abnormalities include:
+mid anterior - hypo; mid anteroseptal - hypo; anterior apex -
+akinetic; septal apex - hypo; apex - hypo;
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic root diameter. Mildly dilated ascending
+aorta.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Normal PA systolic pressure.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR.
+PERICARDIUM: There is an anterior space which most likely
+represents a fat pad, though a loculated anterior pericardial
+effusion cannot be excluded.
+GENERAL COMMENTS: Based on [**3302**] AHA endocarditis prophylaxis
+recommendations, the echo findings indicate a low risk
+(prophylaxis not recommended). Clinical decisions regarding the
+need for prophylaxis should be based on clinical and
+echocardiographic data.
+
+Conclusions:
+The left atrium is normal in size. Left ventricular wall
+thicknesses and
+cavity size are normal. There is moderate regional left
+ventricular systolic dysfunction with severe hypo/akinesis of
+the distal half of the anterior septum and anterior wall. The
+apex is near akinetic. No masses or thrombi are seen in the left
+ventricle. Right ventricular chamber size and free wall motion
+are normal. The ascending aorta is mildly dilated. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. The
+estimated pulmonary artery systolic pressure is normal. There is
+an anterior space which most likely represents a fat pad.
+
+IMPRESSION: Regional left ventricular systolic dysfunction c/w
+CAD (mid-LAD
+lesion).
+
+Electronically signed by [**First Name11 (Name Pattern1) 672**] [**Last Name (NamePattern4) 673**], MD on [**3311-10-6**]
+13:31.
+[**Location (un) **] PHYSICIAN:
+
+CATH REPORT ON [**3311-10-5**]:
+COMMENTS:
+1. Selective coronary angiography showed a right dominant system
+with
+patent LMCA and mild disease in the RCA and LCX. The LAD had a
+proximal
+thrombotic 99% lesion right before the trifurcation with two
+large
+diagonal vessels.
+2. Left ventriculography was deferred.
+3. Hemodynamic assesment showed mildy elevated left and right
+sided
+filling pressures.
+4. Successful PTCA and stenting was performed of the mid LAD
+with a
+3.0x18 mm Cypher Rx stent which was postdilated with a 3.5 mm
+balloon.
+Final angiography revealed 0% residual stenosis, no dissection,
+and TIMI
+3 flow.  (see PTCA comments)
+
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Normal ventricular function.
+3. Acute anterior myocardial infarction, managed by acute ptca.
+ PTCA of LAD vessel.
+4. Successful PTCA and stenting of the mid LAD with a drug
+eluting
+stent.
+
+
+Brief Hospital Course:
+Mr. Rabbit is a 38 year-old male with no past medical history
+who presents with a NSTEMI that underwent successful PCI to the
+proximal LAD with a DES.
+.
+#. Cardiovascular:
+Patient had a NSTEMI with PCI to LAD.  Patient did well
+post-cath with no complications.  His CPK peaked at 653 which
+was his initial [**Location (un) 615**].  His lipids were 585/T, [**3288**]/Tri,
+81/HDL, 52/LDL ([**Last Name (un) 2977**]).  He was given an 18 hour course of
+aggrostat post-cath and he was started on a daily aspirin,
+plavix, toprol xl 75mg qd, lisinopril 5mg qd, lipitor 80mg qd
+and gemfibrozil 600mg [**Hospital1 **].  His post-cath echo showed an
+ejection fraction of 35% with moderate regional left ventricular
+systolic dysfunction, severe hypo/akinesis of the distal half of
+the anterior septum and anterior wall and an akinetic apex.  He
+did not show any signs or symptoms of heart failure including
+extended neck veins, orthopnea or PND.  He was cleared by PT and
+was ambulating in the [**Doctor Last Name **] prior to arrival.  Due to his
+akinetic apex, he was started on coumadin 5mg qhs with a lovenox
+bridge for mural thrombus prophylaxis.  INR prior to d/c was 1.2
+and his PTT was 101.6.  He should be anticoagulated for 6 months
+or as directed by his new cardiologist.
+.
+#. Social work: Patient was seen by a social worker.  [**Name (NI) **] does
+not have insurance and cannot afford his health care.  He was
+set up under Free Care and will be followed up in the [**Hospital 1337**]
+Health Care Center starting [**10-19**].  His medications will
+be covered under free care.  The patient has an appointment on
+[**10-13**] here with Dr. [**Last Name (STitle) 13960**] to monitor his coumadin
+therapy until his first appointment at the community health
+center in [**Hospital1 1337**].  He also has an appointment with Dr [**Last Name (STitle) **] in
+the [**Last Name (STitle) **] clinic.
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+[**Last Name (STitle) 743**]:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*6*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+[**Last Name (STitle) 743**]:*30 Tablet(s)* Refills:*6*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+[**Last Name (STitle) 743**]:*30 Tablet(s)* Refills:*3*
+4. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+[**Last Name (STitle) 743**]:*30 Tablet(s)* Refills:*3*
+5. Warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO at bedtime.
+[**Last Name (STitle) 743**]:*90 Tablet(s)* Refills:*2*
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig:
+Three (3) Tablet Sustained Release 24HR PO DAILY (Daily).
+[**Last Name (STitle) 743**]:*90 Tablet Sustained Release 24HR(s)* Refills:*2*
+7. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+[**Last Name (STitle) 743**]:*60 Tablet(s)* Refills:*2*
+8. Enoxaparin 100 mg/mL Syringe Sig: One Hundred (100) mg
+Subcutaneous Q12H (every 12 hours): Take until directed to stop
+by your doctor.
+[**Last Name (Titles) 743**]:*2 week supply* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Non ST elevation myocardial infarction
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted to the hospital for a heart attack and
+underwent treatment that included stenting an artery in your
+heart. It is important to take all your medications as
+prescribed and to go to all your follow-up appointments. Over
+the next several weeks, you should not do any strenuous
+activities and limit any lifting to under 25 lbs. If you
+experience any further chest discomfort, shortness of breath,
+lightheadedness or anything else concerning to you, please
+return to the hospital or call your physician. [**Name10 (NameIs) **] addition, if
+you experience severe muscle pain or weakness, stop taking your
+Gemfibrozil and Lipitor and call your doctor.
+
+Followup Instructions:
+1. You have an appointment with [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD, PHD[**MD Number(3) 1599**]:[**Telephone/Fax (1) 305**] at Date/Time:[**3311-10-13**] 10:30 AM.
+
+2. You have an appointment with Dr. [**First Name (STitle) 11572**] at the [**Hospital1 1337**]
+Community Clinic on [**10-19**] at 11:30AM (please arrive 30
+minutes early).  Location: [**Street Address(2) **] in [**Hospital1 1337**], MA.
+Phone number: [**Telephone/Fax (1) 8596**].
+
+3. You have an appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in the [**Last Name (NamePattern1) **]
+Clinic on [**11-25**] at 8am. At that appointment you will
+also meet with the nutritionist. You may call their office at
+[**Telephone/Fax (1) 13961**] with any questions or to reschedule.
+[**First Name8 (NamePattern2) 3129**] [**Last Name (NamePattern1) 3128**], M.D. Phone:[**Telephone/Fax (1) 13961**] Date/Time:[**3311-11-25**] 8:00
+Provider: [**Name10 (NameIs) **] NUTRITIONIST Phone:[**Telephone/Fax (1) 5777**]
+Date/Time:[**3311-11-25**] 9:00
+
+
+
+Completed by:[**3311-10-18**]
+
+
+DOC CLASS

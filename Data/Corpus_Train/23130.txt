@@ -1,0 +1,400 @@
+Admission Date:  [**2561-12-15**]              Discharge Date:   [**2562-1-1**]
+
+Date of Birth:  [**2483-2-27**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 2836**]
+Chief Complaint:
+s/p fall
+
+Major Surgical or Invasive Procedure:
+intubation and mechanical ventilation
+left thoracostomy (from OSH)
+
+History of Present Illness:
+78yoM s/p mechanical fall on ice, slipped backwards, fell 3-4ft
+and hit head.  Went to [**Location (un) **], found to have left pneumothorax,
+right subdural and ?epidural, chest tube placed. Hemodynamically
+stable and pt transferred to [**Hospital1 68**] for further management.
+[**Hospital1 68**] ED COURSE:  CXR CT in place small left apical PTX, Head CT
+with small right frontal subdural hematoma and left parietal
+extraaxial hemorrhage vs meningioma, Cspine CT sclerotic focus
+C7body and C2spinous process with possible malignancy.
+Intubated for hypercarbia, acidosis, and decreased mental
+status.
+
+Past Medical History:
+chf, cerebral concussion, parkinsons, copd, cva, cad/chf/mi
+(last [**12-25**]), Vtach, AICD, prostate ca, cri, depression,
+pacer
+
+Social History:
+wife in nursing home
+daughter involved, lives alone
+
+Family History:
+nc
+
+Physical Exam:
+AVSS
+intubated, maew, tracks, alert to commands
+L surgical pupil, R RRL
+Chest with markedly decreased breath sounds, mild rhonchi at
+bases
+RRR, nl s1s2, no mrg
+soft nt mildly distended bswnl
+neuro fully sensation to touch upper/lower extremities, obeys
+commands, moves all 4 purposely, strenth [**3-25**] grip B, elbow flex
+B, hip flex B, plantars flex B, facial muscles symmetric
+
+
+Pertinent Results:
+[**2561-12-29**] Blood NGTD
+[**2561-12-30**] Catheter tip NGTD
+[**2561-12-25**] UCx NGTD
+[**2561-12-25**] Sputum Cx: yeast
+[**2561-12-24**] stool CDiff pos
+[**2561-12-23**] stool Cdiff neg
+[**2561-12-21**], BCX x 2 NGTD
+[**2561-12-21**] sputum Coag + staph; Klebsiella pna, pan-sensitive;
+[**2561-12-19**] UCx levo R enterococcus
+[**2561-12-15**] MRSA screen neg x 2
+[**2561-12-19**] BCX CoPS
+
+.
+CT head [**12-15**] 1am
+IMPRESSION: Stable study as compared to the prior scan from
+[**2561-12-15**], at 12:19 AM. Recommend repeat non-contrast
+scan in one week to differentiate between a meningioma versus an
+extra-axial hemorrhage within the left parietal region. These
+findings were discussed with the trauma resident caring for the
+patinet today at 11AM.
+
+CXR [**12-15**]
+Comparison is made to a prior radiograph from earlier the same
+day. An endotracheal tube has been placed with its distal tip
+below the thoracic inlet. A left-sided chest tube terminates at
+the left lung apex. A pacemaking device overlies the left chest
+with pacer leads in stable position overlying the region of the
+right atrium and right ventricle. Subcutaneous gas tracks along
+the left lateral chest wall. The lungs are clear with no
+parenchymal consolidation, pleural effusion, or pneumothorax.
+several left sided rib fractures are seen.
+IMPRESSION:
+Lines and tubes in satisfactory position. Subcutaneous gas is
+seen along the left chest wall with no pneumothorax identified.
+
+T/L SPINE [**12-15**]
+T-SPINE, 2 VIEWS: There is evidence of a chest tube. There is
+some motion artifact, but no definite fractures are visualized.
+Median sternotomy wires, clips, and pacer electrodes are
+present. These are technically limited.
+LUMBAR SPINE, 2 VIEWS: No visualized fractures. Residual
+contrast is seen within the bladder.
+Cannot exclude an interfissural location of the chest tube.
+
+CT Cspine [**12-15**] 10am
+IMPRESSION: This study was limited due to patient motion, but
+there is no evidence of displaced fracture or compression
+fracture. Sclerotic focus within the C7 vertebral body and the
+spinous process of C2 of unknown significance. This should be
+correlated with any prior imaging as well as history of
+malignancy. Know left apical pneumothorax is visualized.
+
+CT Head [**12-15**]
+IMPRESSION: Small areas of subdural and possibly right
+parenchymal hemorrhage. Lobular hyperdensity in the left
+parietal region which may be extra-axial blood or a meningioma.
+Further evaluation is recommended. These findings were discussed
+with the trauma surgery and neurosurgery residents.
+
+CXR [**12-16**]
+IMPRESSION:
+Extubated, satisfactory follow-up examination, no evidence of
+pneumothorax.
+
+CXR [**12-18**] wheezing
+IMPRESSION:
+1) Focal parenchymal opacities adjacent to acute rib fractures,
+most likely representing areas of focal pulmonary contusion. A
+small amount of pleural fluid or extrapleural hematoma is also
+likely in this region.
+2) No evidence of pneumonia.
+
+CT HEAD [**12-31**]:
+CT OF THE BRAIN WITHOUT INTRAVENOUS CONTRAST: There is no
+expansion of the reported subdural hematoma and no mass effect
+from the extra-axial space on the brain. The area of decreased
+attenuation in the left posterior temporo- occipital region also
+appears unchanged from the examination of one day prior,
+consistent with an area of infarct. The lateral ventricles are
+symmetric and nondilated, and unchanged in size and
+configuration from the previous examination. There is no
+interval change in mass effect or shift of normally midline
+structures. The basilar cisterns are patent. The visualized
+portions of the paranasal sinuses and mastoid air cells are
+normally pneumatized. No fractures are identified within the
+surrounding osseous structures.
+
+Although there is no change since prior exams, there is better
+visualization of the superior aspect of the head and a
+dural-based mass at the left vertex is seen, roughly 1.4x2.4cm
+in size, and likely a meningioma.
+
+IMPRESSION: Stable CT appearance of the brain from the
+examination of [**2561-12-30**]. Left posterior
+temporo-occipital infarct appears unchanged, as does a small
+right frontal subdural collection. No evidence of acute
+intracranial hemorrhage.
+
+.
+Carotid U/S: less than 40% stenosis b/l
+.
+ECHO:
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA
+and/or RV.
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size.
+Suboptimal
+technical quality, a focal LV wall motion abnormality cannot be
+fully
+excluded.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Aortic valve not well seen. No AR.
+
+MITRAL VALVE: Mitral valve not well seen. Mild to moderate
+([**11-22**]+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Mild PA
+systolic hypertension.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+
+
+Conclusions:
+Technically suboptimal study.
+The left atrium is normal in size. Left ventricular wall
+thicknesses and
+cavity size are normal. Due to suboptimal technical quality, a
+focal wall
+motion abnormality cannot be fully excluded. Right ventricular
+chamber size
+and free wall motion are normal. The aortic valve is not well
+seen. No aortic
+regurgitation is seen. The mitral valve is not well seen. Mild
+to moderate
+([**11-22**]+) mitral regurgitation is seen. There is mild pulmonary
+artery systolic
+hypertension. There is no pericardial effusion.
+
+If more definitive information regarding global and and regional
+biventricular
+systolic function is desired, a cardiac MRI ([**Telephone/Fax (1) 32280**]) or
+radionuclide
+study is suggested.
+.
+
+
+Brief Hospital Course:
+Shortly after arrival to ICU pt was extubated without
+complication.  Repeat Head CT demonstrated no change in the
+subdural hematoma of the right frontal area and no change in
+meningioma/CVA of left pariental area, neurosurgery signed off
+for followup as an outpatient 2wks after discharge. HD2, chest
+tube removed with no complication aand shortly after the patient
+was transferred to the floor, eating well, drinking well,
+ambulating to bathroom, but continued to have agitation
+requiring a 1:1 sitter.
+.
+Once on the floor pt c/o intermittent chest pain, EKG with
+slight variation of V3, enzymes sent, and cardiology consulted.
+Pt had a NSTEMI but as SDH was so acute, was not treated with
+anticoagulation or cath. He remained chest pain free without
+intervention throughout the hospital course.  Neurology consult
+for meningioma, parkinsons, and agitation- recs for zyprexa, no
+change in parkinson's meds, and outpt fup of meningioma.  During
+this time pt was brought back to the MICU.  Around this time pt
+developed increasing shortness of breath and diffuse inspiratory
+and expiratory wheezes with decreased air movement- CXR clear
+without edema, effusion, or infiltrate- and he was started on Q2
+nebs for likely COPD exacerbation.  Throughout all these events
+with NSTEMI, COPD Exacerbation, the patient remained
+hemodynamically stable with a lucid mental status and normal
+neurologic exam.  Pt was transferred to the medicine service
+with neurology, neurosurgery, trauma, and cardiology following.
+
+.
+In regards to the NSTEMI, cardiology recommends cardiac
+catheterization once patient stabilized, on outpatient basis, in
+6 months.
+.
+In regards to the SDH, by most recent CT [**2561-12-31**], this is
+improving and the neurosurgery team cleared him so start Lovenox
+treatment for his left axillary vein thrombus.
+.
+In regards to the CVA, echo was without clot and Carotid U/S
+showed only 40% stenosis.  He was not started on Plavix in the
+hospital at first because on the acuity of the SDH, and later
+because he was already on anticoagulation with Lovenox and ASA
+and was at considerable fall risk.
+.
+While on the medical floor, he was found to have a left axillary
+vein thrombus with right cephalic vein thrombus, after clearance
+from neurosurgery he started treatment on Lovenox.  The plan is
+to continue the Lovenox until either one month from start which
+was [**2561-12-31**] or until he leaves rehab if that occurs before one
+month.
+.
+In regards to his ICD, this was tested by EP and found to have
+suboptimal lead function but unchanged from the last outpatient
+check by Dr. [**Last Name (STitle) 418**] in 6/[**2560**].  It is recommended that the patient
+see Dr. [**Last Name (STitle) 418**] within one month to recheck device.
+.
+In regards to infectious disease, pt developed a staph aureus
+and klebsiella pneumonia while on the ventillator, associated
+with a staph aureus bacteremia.  This was treated with Levaquin,
+and he is currently on day 10 of a 14 day course scheduled to be
+complete on [**2562-1-5**].  He also developed a c.diff diarrhea, which
+is improving and is treated with metronidazole.  The plan is to
+continue this for two weeks after discontinution of the
+Levaquin.
+.
+Pt also had sundowning at night and was started on Zyprexa
+standing dose at night with good effect.
+.
+Finally, the patient had blood in the urine, with foley in,
+which will require outpt work-up.
+.
+At discharge all urine and blood cultures were without growth,
+CXR showed no sign of pneumonia or pulmonary edema, CT of head
+on Lovenox had resolving SDH.
+.
+Patient needs outpatient follow-up with Neurosurgery and
+Cardiology.
+
+Medications on Admission:
+tolvaptan 30'
+torsemide 20'
+toprol xl 25'
+folate 1'
+detrol 4'
+wellburtrin 150'
+vytorin 10/40'
+sinemet 10/100 x 2qam, x1qnoon, x1qhs
+protonix 40'
+aspirin 81'
+coumadin 1 qs
+xanax 0.5'''
+estazolam 1qhs
+foradil inh
+spiriva inh
+advair 500/50''
+
+
+Discharge Medications:
+1. Carbidopa-Levodopa 10-100 mg Tablet Sig: Two (2) Tablet PO
+DAILY (Daily).
+2. Carbidopa-Levodopa 10-100 mg Tablet Sig: One (1) Tablet PO
+BID (2 times a day).
+3. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+4. Tolterodine Tartrate 2 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q1-2H () as needed.
+7. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+8. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 4 days: last dose [**2562-1-5**].
+9. Lisinopril 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+10. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+[**11-22**] puff Inhalation DAILY (Daily).
+11. Enoxaparin Sodium 60 mg/0.6mL Syringe Sig: Sixty (60) mg
+Subcutaneous Q12H (every 12 hours) for 1 months: please use only
+while pt in rehab, upon discharge please discontinue - reason is
+that pt is a fall risk when independent.
+12. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+13. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily) for 1 weeks: from [**2562-1-1**] - [**2562-1-8**].
+14. Olanzapine 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+15. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO three
+times a day. Tablet(s)
+16. NPH Insulin
+15 units qam and 15 units qpm
+17. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+18. Prednisone 20 mg Tablet Sig: One (1) Tablet PO once a day
+for 1 weeks: from [**2562-1-9**] - [**2562-1-16**].
+19. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day
+for 1 weeks: from [**2562-1-17**] - [**2562-1-23**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1228**] - [**Location (un) 6466**]
+
+Discharge Diagnosis:
+Subdural hematoma
+Cerebrovascular accident
+Acute Myocardial Infarction
+Dibetes Mellitus
+Dementia
+COPD
+Parkinson's
+Infectious diarrhea
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Call your primary care doctor if you develop chest pain,
+shortness of breath, or other concerning symptoms.
+
+Followup Instructions:
+-Followup with the trauma service one week after discharge at
+the trauma clinic at [**Telephone/Fax (1) 34654**], call for an appointment.
+
+-Followup with neurosurgery 2weeks after discharge for
+evaluation of your subdural hematoma (head injury), call ([**Telephone/Fax (1) 33083**]
+.
+Follow up with Dr. [**Last Name (STitle) 4679**] within one week of leaving the
+rehabilitation facility.
+
+Follow up with Dr. [**Last Name (STitle) 418**], your cardiologist, within one month of
+leaving the rehabilitation facility - he will need to check your
+defibrillator and also will need to schedule you for further
+tests to see if you need a cardiac stent.
+
+
+
+
+Completed by:[**2562-1-1**]
+
+
+DOC CLASS

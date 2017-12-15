@@ -1,0 +1,191 @@
+Chief Complaint:
+   24 Hour Events:
+ EEG - At [**2653-3-16**] 03:30 PM
+ STOOL CULTURE - At [**2653-3-17**] 02:00 AM
+   CDIff sample
+   Restarted TFs (nutren pulm); consulted nutrition for TF recs
+   Neuro requests EEG
+   NP from Dr.[**Name (NI) 4503**] office (Rebacca Acome) will call back tomorrow to
+   answer: baseline MS, ?coumadin at home or h/o afib, home meds.
+   -had loose stools, sent Cdiff, started flexiseal
+   -found to be B12 def, started B12 shots
+   -titrated up labetolol
+   -continued with lasix drip
+   Repeat Echo: improved
+   The left atrium is mildly dilated. No atrial septal defect is seen by
+   2D or color Doppler. There is mild symmetric left ventricular
+   hypertrophy with normal cavity size. There is mild regional left
+   ventricular systolic dysfunction with basal to mid inferior akinesis.
+   No masses or thrombi are seen in the left ventricle. There is no
+   ventricular septal defect. Right ventricular chamber size and free wall
+   motion are normal. The diameters of aorta at the sinus, ascending and
+   arch levels are normal. The aortic valve leaflets (3) are mildly
+   thickened but aortic stenosis is not present. No aortic regurgitation
+   is seen. The mitral valve leaflets are mildly thickened. Mild (1+)
+   mitral regurgitation is seen. The tricuspid valve leaflets are mildly
+   thickened. The estimated pulmonary artery systolic pressure is normal.
+   There is a trivial/physiologic pericardial effusion.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**2653-3-14**] 12:00 PM
+   Vancomycin - [**2653-3-16**] 08:05 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2653-3-17**] 06:15 AM
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Furosemide (Lasix) - 20 mg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2653-3-16**] 08:05 AM
+   Furosemide (Lasix) - [**2653-3-16**] 10:00 AM
+   Heparin Sodium (Prophylaxis) - [**2653-3-17**] 12:45 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2653-3-17**] 06:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.3
+C (99.2
+   HR: 74 (60 - 81) bpm
+   BP: 191/78(113) {126/60(83) - 191/78(113)} mmHg
+   RR: 17 (15 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 79.6 kg (admission): 86.1 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,396 mL
+                                                                    747 mL
+   PO:
+             TF:
+                                                                    262 mL
+                                                                    198 mL
+   IVF:
+                                                                    764 mL
+                                                                    299 mL
+   Blood products:
+   Total out:
+                                                                  3,290 mL
+                                                                    920 mL
+   Urine:
+                                                                  3,290 mL
+                                                                    920 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,894 mL
+                                                                   -173 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 28 cmH2O
+   Plateau: 20 cmH2O
+   Compliance: 45.8 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.48/30/138/27/0
+   Ve: 10.5 L/min
+   PaO2 / FiO2: 345
+   Physical Examination
+   Gen: Intubated
+   HEENT: PERRL, ETT in place
+   CV: RRR no m/r/g
+   Resp: Crackles at bases
+   Abd: Soft. Obese. NT ND. NABS.
+   Ext: 1+ edema b/l. WWP. 2+ radial and DP pulses.
+   Neuro: Sedated, does not follow commands.
+   Labs / Radiology
+   351 K/uL
+   9.4 g/dL
+   191 mg/dL
+   2.3 mg/dL
+   27 mEq/L
+   3.4 mEq/L
+   43 mg/dL
+   107 mEq/L
+   146 mEq/L
+   27.5 %
+   7.5 K/uL
+        [image002.jpg]
+                             [**2653-3-15**]  04:42 PM
+                             [**2653-3-15**]  05:00 PM
+                             [**2653-3-15**]  07:00 PM
+                             [**2653-3-16**]  02:32 AM
+                             [**2653-3-16**]  04:00 AM
+                             [**2653-3-16**]  04:18 AM
+                             [**2653-3-16**]  03:21 PM
+                             [**2653-3-16**]  03:32 PM
+                             [**2653-3-17**]  04:00 AM
+                             [**2653-3-17**]  04:41 AM
+   WBC
+   8.0
+   7.5
+   Hct
+   23.9
+   25.2
+   27.5
+   Plt
+   318
+   351
+   Cr
+   2.2
+   2.2
+   2.3
+   2.3
+   TCO2
+   29
+   31
+   29
+   30
+   32
+   23
+   Glucose
+   178
+   124
+   119
+   191
+   Other labs: PT / PTT / INR:15.4/27.4/1.4, CK / CKMB /
+   Troponin-T:1063/25/5.28, ALT / AST:27/90, Alk Phos / T Bili:107/0.9,
+   Differential-Neuts:89.4 %, Lymph:7.6 %, Mono:2.4 %, Eos:0.4 %, Lactic
+   Acid:1.9 mmol/L, Albumin:2.9 g/dL, LDH:504 IU/L, Ca++:8.8 mg/dL,
+   Mg++:2.2 mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+ ANEMIA, OTHER
+ DELIRIUM / CONFUSION
+ HYPERTENSION, MALIGNANT (HYPERTENSIVE CRISIS, HYPERTENSIVE EMERGENCY)
+ DIABETES MELLITUS (DM), TYPE II
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**2653-3-16**] 09:58 PM 30.[**Telephone/Fax (5) 4630**] mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2653-3-12**] 08:32 AM
+   18 Gauge - [**2653-3-15**] 12:30 AM
+   20 Gauge - [**2653-3-16**] 10:25 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

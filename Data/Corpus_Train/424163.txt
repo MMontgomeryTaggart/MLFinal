@@ -1,0 +1,244 @@
+Chief Complaint:
+   24 Hour Events:
+   - Patient continued on lasix gtt, 20 mg/hr today and metolazone 5 mg PO
+   BID
+   - still putting out 150-200 cc/hr
+   - aggressive K+ repletion given good UOP
+   Allergies:
+   Penicillins
+   Unknown;
+   Heparin Agents
+   positive [**Last Name (un) 3979**]
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 20 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2984-8-19**] 08:27 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2984-8-20**] 04:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.3
+   Tcurrent: 36.3
+C (97.3
+   HR: 90 (90 - 90) bpm
+   BP: 94/70(75) {78/54(59) - 100/73(79)} mmHg
+   RR: 17 (13 - 28) insp/min
+   SpO2: 96%
+   Heart rhythm: AV Paced
+   Wgt (current): 113.5 kg (admission): 121 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,797 mL
+                                                                    217 mL
+   PO:
+                                                                  1,520 mL
+                                                                    180 mL
+   TF:
+   IVF:
+                                                                    277 mL
+                                                                     37 mL
+   Blood products:
+   Total out:
+                                                                  4,280 mL
+                                                                    640 mL
+   Urine:
+                                                                  4,280 mL
+                                                                    640 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,483 mL
+                                                                   -423 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///27/
+   Physical Examination
+   GENERAL: Resting comfortably. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL left pupil slighty larger than
+   right, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+   mucosa. No xanthalesma.
+   NECK: Supple, no LAD, +JVD below the angle of the mandible sitting at
+   45 degrees.  Rt IJ in place slightly tender no erythema
+   CARDIAC: RRR, distal heart sounds, [**1-30**] holosystolic murmur most notable
+   in the sternal borders. No thrills, lifts.
+   LUNGS: well healed midline sternal scar. Resp were unlabored, no
+   accessory muscle use. Distant breath sounds, crackles at lung bases, no
+   wheezes.
+   ABDOMEN: Obese, distended but improved since admission, nontender, No
+   HSM. Normoactive bowel sounds.
+   EXTREMITIES: venous stasis dermatitis bilaterally; cool, duskiness in
+   extremities improved
+   Labs / Radiology
+   125 K/uL
+   13.4 g/dL
+   104 mg/dL
+   2.3 mg/dL
+   27 mEq/L
+   4.7 mEq/L
+   60 mg/dL
+   103 mEq/L
+   139 mEq/L
+   42.9 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**2984-8-17**]  05:30 AM
+                             [**2984-8-17**]  11:20 AM
+                             [**2984-8-17**]  05:00 PM
+                             [**2984-8-18**]  04:19 AM
+                             [**2984-8-18**]  01:03 PM
+                             [**2984-8-18**]  09:05 PM
+                             [**2984-8-19**]  05:00 AM
+                             [**2984-8-19**]  09:18 AM
+                             [**2984-8-19**]  03:45 PM
+                             [**2984-8-19**]  08:37 PM
+   WBC
+   10.7
+   8.7
+   9.2
+   Hct
+   41.8
+   41.1
+   42.9
+   Plt
+   123
+   102
+   125
+   Cr
+   1.5
+   1.6
+   2.1
+   2.3
+   2.5
+   2.4
+   2.4
+   2.3
+   2.3
+   Glucose
+   55
+   110
+   141
+   118
+   132
+   153
+   74
+   117
+   104
+   Other labs: PT / PTT / INR:13.3/28.9/1.1, ALT / AST:96/99, Alk Phos / T
+   Bili:117/0.8, Lactic Acid:1.1 mmol/L, Albumin:4.2 g/dL, LDH:332 IU/L,
+   Ca++:9.2 mg/dL, Mg++:1.9 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   68 y/o M with infarct related cardiomyopathy EF < 20%, s/p CABG x2, s/p
+   BIV ICD in [**2977**] (LV lead capped [**1-26**] dysfunction) recently discharged on
+   [**8-2**] for CHF admitted with another acute on chronic CHF exacerbation.
+   .
+   # PUMP: Severe systolic heart failure in setting of severe CAD with
+   prior anterior infarct and chronic kidney disease, requiring renal
+   replacement therapy for volume removal.  He has history of acute on
+   chronic systolic heart failure [**1-26**] ischemic cardiomyopathy, EF 20%. He
+   is s/p mitral valve repair in [**2981**] with improvement in cardiac function
+   since. Now coming in 8 pounds above his dry weight from his last
+   admission.
+   -off of CVVH since wednesday, negative 423 mL, total 8 Liters off
+   length of stay, continue diuresis today as tolerated. Dr. [**First Name (STitle) **] goal of
+   diuresis of 10L.  Current weight 113.5 kg down from 121kg on admission
+   -lasix drip 20mg/hr IV drip
+   -metolazone 5mg daily
+   - EP increased HR to 90 because of early diastolic filling seen on ECHO
+   to help improve forward flow.
+   - continue metoprolol dose to 25mg PO BID
+   .
+   # CORONARIES: Extensive history of CAD s/p CABG x2, last cath in [**2981**]
+   with LIMA widely patent, SVG to OM with proximal 30% stenosis, SVG jump
+   graft to D1 and distal diag patent. No acute issues.
+   -continue asa 81, lipitor 20
+   -continue metoprolol 25 mg PO BID
+   -no ACEI given acute on chronic renal failure
+   .
+   # RHYTHM: Currently in NSR on admission, has BiV PPM/ICD, is RV paced.
+   Does have h/o VT with ICD firing provoked by K <4.8.
+   -EP increased paced rate to 90 to improve CO
+   -monitor on telemetry
+   -continue amiodarone 200 mg PO
+   .
+   # Acute on chronic renal failure
+this AM, CR 2.3 (1.5 on [**8-17**] this AM,
+   baseline Cr 2.4-2.9, likely [**1-26**] combination of chronic systolic heart
+   failure and poorly controlled DM, this AM).
+   -Off CVVH
+   - lasix drip 20mg/hr IV drip
+   -UOP since 2818 yesterday- 447mL
+   -lytes three times per day
+   -monitor urine output with strict I/Os
+   -monitor creatinine, uremia
+   -renally dose meds
+   -continue cinacalcet, vitamin D
+   -hold vasodilators, spironolactone, lisinopril.
+   # Thrombocytopenia- platelet count 143, yesterday was 125 (low was 65).
+   Could be [**1-26**] dialysis initiation.
+   -monitor CBC
+   .
+   # Hyperkalemia
+ resolved.  Potassium up to 6.1 on admission, now 4.3.
+   Goal K of [**4-27**].5 given past history of ICD firing with low -potassium
+   Repletion
+   # Type II DM - HbA1C 3/09=7.5, 8/09=9.2; followed by Dr. [**Last Name (STitle) 9746**] of the
+   [**Last Name (un) 257**] but not recently.
+   -continue outpatient regimen of 75/25 45 units qam, 50 units qpm with
+   NPH 45 units at bedtime and sugars will be monitored
+   closely with regimen adjusted PRN
+   -finger sticks qid
+   -renally dosed gabapentin for neuropathic pain
+   .
+   # Hypothyroidism - continue home dose levothyroxine
+   .
+   # OSA - patient has brought home CPAP
+   -Sleep recently adjusted settings and switched pt to full face mask
+   with improvement of breathing however pt did not like new mask.
+   .
+   # Anxiety - continue home dose ativan prn and ambien for sleep.
+   .
+   #Deconditioning
+   -PT consult
+   .
+   #FEN: Diuresis as above, K with goal of [**4-27**].5, low salt, cardiac diet.
+   .
+   ACCESS: PIV, Right IJ
+   .
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots given heparin allergy
+   -Pain management with Oxycodone-Acetaminophen prn
+   -Bowel regimen with colace/senna
+   -continue home PPI
+   .
+   CODE: Confirmed full
+   .
+   COMM: wife [**Telephone/Fax (1) 9906**]
+   .
+   DISPO: CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2984-8-12**] 01:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

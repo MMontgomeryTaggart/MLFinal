@@ -1,0 +1,182 @@
+CVICU
+   HPI:
+   HD5
+   [**11-18**] POD 4
+   41M s/p emergent Asc Ao replacement/resup Ao valve. [**11-14**]
+   EF 55% CR WT 114K
+   PMH: HTN, Abdm Surgery(some type of mass/not removed@[**Hospital1 595**]), ^chol,
+   ?[**First Name9 (NamePattern2) 4152**]
+   [**Last Name (un) **]: lasix, oxycodone, clonidine, aldactone, pravastatin, trazadone
+   family will bring in med list tomorrow([**Last Name (un) **])
+   Current medications:
+   Acetaminophen  Albuterol-Ipratropium  Aspirin EC
+    Calcium Gluconate. CloniDINE .  Docusate Sodium . Fexofenadine .
+   Fluticasone Propionate 110mcg
+   . Furosemide . Insulin . Labetalol . Magnesium Sulfate . Metoclopramide
+   Milk of Magnesia . Morphine Sulfate . Nitroglycerin .
+   Oxycodone-Acetaminophen
+   otassium Chloride Potassium Chloride  . Pravastatin. Quinapril
+   . Ranitidine . Sarna Lotion . Spironolactone. traZODONE
+   24 Hour Events:
+ ARTERIAL LINE - START [**2857-11-17**] 09:31 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 1.5 mcg/Kg/min
+   Labetalol - 4 mg/min
+   Other ICU medications:
+   Hydralazine - [**2857-11-17**] 05:45 PM
+   Morphine Sulfate - [**2857-11-18**] 08:00 AM
+   Ranitidine (Prophylaxis) - [**2857-11-18**] 08:12 AM
+   Furosemide (Lasix) - [**2857-11-18**] 08:21 AM
+   Other medications:
+   Flowsheet Data as of  [**2857-11-18**] 04:20 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**60**] a.m.
+   Tmax: 38.2
+C (100.8
+   T current: 37.6
+C (99.6
+   HR: 68 (67 - 86) bpm
+   BP: 141/69(87) {110/52(29) - 149/98(95)} mmHg
+   RR: 22 (10 - 27) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 74 Inch
+            Total In:
+                                                                  2,155 mL
+                                                                  2,225 mL
+   PO:
+                                                                  1,140 mL
+                                                                    240 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,015 mL
+                                                                  1,424 mL
+   Blood products:
+   561 mL
+   Total out:
+                                                                  2,235 mL
+                                                                  1,560 mL
+   Urine:
+                                                                  2,235 mL
+                                                                  1,560 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -80 mL
+                                                                    665 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 97%
+   ABG: 7.48/36/64/27/3
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent, Trace), (Temperature: Warm)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   212 K/uL
+   7.6 g/dL
+   101 mg/dL
+   1.0 mg/dL
+   27 mEq/L
+   4.1 mEq/L
+   19 mg/dL
+   105 mEq/L
+   139 mEq/L
+   21.4 %
+   10.8 K/uL
+        [image002.jpg]
+                            [**2857-11-15**]  05:57 PM
+                            [**2857-11-16**]  12:46 AM
+                            [**2857-11-16**]  04:52 AM
+                            [**2857-11-16**]  08:00 AM
+                            [**2857-11-17**]  04:48 AM
+                            [**2857-11-17**]  10:51 AM
+                            [**2857-11-17**]  05:51 PM
+                            [**2857-11-17**]  10:42 PM
+                            [**2857-11-18**]  07:33 AM
+                            [**2857-11-18**]  07:46 AM
+   WBC
+   15.8
+   14.3
+   10.8
+   Hct
+   24.7
+   22.5
+   22.5
+   20.4
+   21.4
+   Plt
+   129
+   160
+   212
+   Creatinine
+   1.0
+   0.9
+   0.8
+   1.0
+   TCO2
+   28
+   Glucose
+   108
+   112
+   115
+   122
+   92
+   101
+   Other labs: PT / PTT / INR:14.3/28.5/1.2, ALT / AST:31/35, Alk-Phos / T
+   bili:61/0.6, Amylase / Lipase:22/19, Fibrinogen:227 mg/dL, Lactic
+   Acid:2.1 mmol/L, Albumin:3.1 g/dL, LDH:250 IU/L, Ca:7.3 mg/dL, Mg:2.0
+   mg/dL, PO4:2.0 mg/dL
+   Assessment and Plan
+   HYPERTENSION, BENIGN, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), ADLS
+   (ACTIVITIES OF DAILY LIVING), INABILITY TO PERFORM, AEROBIC CAPACITY /
+   ENDURANCE, IMPAIRED, BALANCE, IMPAIRED, KNOWLEDGE, IMPAIRED,
+   RESPIRATION / GAS EXCHANGE, IMPAIRED, HYPOXEMIA, AORTIC DISSECTION,
+   .H/O AORTIC DISSECTION
+   Assessment and Plan: Still hypertentive w/ SBP [**Numeric Identifier 4254**] off Ntg. ACE-I
+   added, Aldactone consolidated(No advantage to [**Hospital1 7**] dosing at current
+   dosage). Clonidine left po until controlled- 0.2 mg/24hr will not be
+   adequate treatment given his level of HTN.  Allow meds to work and
+   avoid over treating w/possible resulltant hypotension.
+   Neurologic: Neuro checks Q: 4 hr
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley
+   Hematology: Hct 21 but not hypotensive/ underperfused.
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2857-11-16**] 04:30 PM
+   Arterial Line - [**2857-11-17**] 09:31 PM
+   Prophylaxis:
+   Stress ulcer: PPI
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

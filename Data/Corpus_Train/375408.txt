@@ -1,0 +1,215 @@
+Chief Complaint:
+   24 Hour Events:
+ SHEATH - START [**2612-3-3**] 02:00 PM
+ PA CATHETER - START [**2612-3-3**] 02:00 PM
+ IABP LINE - START [**2612-3-3**] 02:00 PM
+ INVASIVE VENTILATION - START [**2612-3-3**] 02:00 PM
+ SHEATH - STOP [**2612-3-3**] 02:45 PM
+ EKG - At [**2612-3-3**] 04:49 PM
+ ARTERIAL LINE - START [**2612-3-3**] 05:00 PM
+   Weaned off dopamine then MAPs 50s so put back on
+   D/C'd amio [**2-3**] bradycardia
+   On heparin gtt with therapeutic PTT
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Heparin Sodium - 1,100 units/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**2612-3-3**] 02:45 PM
+   Fentanyl - [**2612-3-3**] 02:50 PM
+   Pantoprazole (Protonix) - [**2612-3-3**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2612-3-4**] 06:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 37.4
+C (99.3
+   HR: 56 (49 - 81) bpm
+   BP: 121/28(69) {70/14(41) - 171/45(114)} mmHg
+   RR: 18 (0 - 24) insp/min
+   SpO2: 96%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 68 Inch
+    CVP: 9 (7 - 16)mmHg
+   PAP: (38 mmHg) / (18 mmHg)
+   PCWP: 22 (22 - 22) mmHg
+   CO/CI (Fick): (4.4 L/min) / (2.2 L/min/m2)
+   SvO2: 70%
+   Mixed Venous O2% Sat: 56 - 70
+   Total In:
+                                                                    802 mL
+                                                                    296 mL
+   PO:
+   TF:
+   IVF:
+                                                                    802 mL
+                                                                    236 mL
+   Blood products:
+   Total out:
+                                                                    627 mL
+                                                                    160 mL
+   Urine:
+                                                                    625 mL
+                                                                    140 mL
+   NG:
+                                                                      2 mL
+                                                                     20 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    175 mL
+                                                                    136 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 600) mL
+   Vt (Spontaneous): 267 (267 - 267) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 29
+   RSBI Deferred: No Spon Resp
+   PIP: 18 cmH2O
+   Plateau: 14 cmH2O
+   Compliance: 83.3 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.48/38/74/27/4
+   Ve: 8.4 L/min
+   PaO2 / FiO2: 185
+   Physical Examination
+   Gen: Intubated, sedated, responds to voice, following commands
+   HEENT: nc/at PERRL EOMI
+   CV: [**3-6**] harsh systolic murmur
+   Resp: CTA ant
+   Abd:Soft NTND. +BS
+   Ext: R groin IABP without hemaotma. Letf groin dsg c/d/i. Warm
+   DP/PT trace, dopplerable BL. Popliteal 1+ BL
+   Labs / Radiology
+   243 K/uL
+   11.3 g/dL
+   303 mg/dL
+   1.6 mg/dL
+   27 mEq/L
+   4.8 mEq/L
+   21 mg/dL
+   102 mEq/L
+   137 mEq/L
+   30.9 %
+   18.2 K/uL
+        [image002.jpg]
+                             [**2612-3-3**]  03:45 PM
+                             [**2612-3-3**]  04:02 PM
+                             [**2612-3-3**]  06:01 PM
+                             [**2612-3-3**]  08:31 PM
+                             [**2612-3-3**]  11:48 PM
+                             [**2612-3-4**]  05:47 AM
+                             [**2612-3-4**]  06:02 AM
+   WBC
+   17.4
+   17.1
+   18.2
+   Hct
+   33.5
+   36
+   31.8
+   30.9
+   Plt
+   286
+   254
+   243
+   Cr
+   1.6
+   1.6
+   TropT
+   0.46
+   2.23
+   TCO2
+   26
+   29
+   29
+   Glucose
+   363
+   303
+   Other labs: PT / PTT / INR:22.4/79.1/2.1, CK / CKMB /
+   Troponin-T:545/82/2.23, Differential-Neuts:91.3 %, Lymph:5.2 %,
+   Mono:2.9 %, Eos:0.5 %, Lactic Acid:1.6 mmol/L, Ca++:8.9 mg/dL, Mg++:2.5
+   mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   Patient is an 88 year old male with history of CAD s/p stent to LCx
+   (06), moderate to severe AS and diastolic dysfunction who was
+   transferred from [**Hospital3 504**] for cath.  Catheterization was
+   complicated by acute LAD occlusion during attempt to pass pressure wire
+   and resultant VF arrest.  Spontaneous circulation returned after
+   multiple shocks, epinephrine, lidocaine and amiodarone.
+   .
+   # CARDIAC ARREST/SHOCK: Pt is waking up, remains intubated. Remains
+   with assistance of IABP, though has good pressures to suggest that we
+   will be able to wean this today, along with the dopamine. Our plan will
+   be to go to 1:2 right now and if tolerated, will try a rapid wean q2h.
+   Will wean dopamine as tolerated. Remain on anticoagulation given IABP.
+   After IABP able to be removed, will seek extubation.
+   #. CAD: Known history of CAD s/p stent to LCx.  [**Month (only) 8**] need to
+   revascularize LCx / repeat cath
+   .  .
+   #. AORTIC STENOSIS AND CHRONIC DIASTOLIC CHF.
+   - Follow volume status with swan.  Defer diuresis for now.
+   .
+   #. Rhythm: Currently in sinus rhythm s/p VF arrest.
+   - Monitor on telemetry
+   - No further amio for now.
+   .
+   # Renal insufficiency: Creatinine rising post-arrest.
+   - Trend creatinine.
+   - Renally dose all meds.
+   .
+   # Hypertension: inactive issue
+   # Hyperlipidemia
+ inactive issue. Continue statin
+   .
+   #. Diabetes mellitus: - FS QID and sliding scale
+   .
+   #. FEN:  - OG tube in place - Follow lytes and replete PRN
+   .
+   #. Access:
+   - Right groin swan ganz
+   - Left groin with arterial sheath
+   - Will attempt Aline
+   .
+   #. PPx: Heparin gtt, PPI, bowel regimen
+   .
+   #. Code: Full
+   .
+   #. Dispo: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PA Catheter - [**2612-3-3**] 02:00 PM
+   IABP line - [**2612-3-3**] 02:00 PM
+   20 Gauge - [**2612-3-3**] 02:00 PM
+   Arterial Line - [**2612-3-3**] 05:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,156 @@
+Admission Date:  [**3291-5-24**]              Discharge Date:   [**3291-6-3**]
+
+Date of Birth:  [**3233-6-11**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 516**]
+Chief Complaint:
+increased SOB
+
+Major Surgical or Invasive Procedure:
+CABG x3
+
+History of Present Illness:
+57 yo male with increasewd SOB and + ETT on [**5-22**] . This revealed
+ischemic cardiomyopathy with EF 23%. R/O for MI at [**Hospital1 **] Med.
+Ctr and underwent cath which showed occluded LAD, 90% cx, 90%
+OM2, 60% RCA, 90% PDA. Referred to Dr. [**Last Name (STitle) **] , and transferred
+to [**Hospital1 22**] on dopamine and dobutamine for CABG.
+
+Past Medical History:
+COPD
+HTN
+elev. chol.
+CHF
+basal cell Ca
+hx of lower field cut left eye
+
+Social History:
+smokes 2 ppd X 45 years
+[**1-5**] highballs per night with ? beer
+occasionally lives with girlfriend
+
+Family History:
+positive for CAD
+
+Physical Exam:
+NAD
+NC/AT, PERRLA, EOMI,benign oropharynx
+neck supple with full ROM, no lymphadenopathy or thyromegaly,
+carotid 2+ without bruits
+lungs CTA bilat.
+RRR without M/R/G  S1S2 present
+abd soft, NT without masses or hepatosplenomegaly
+extrems no c/c/e, with bil. varicosities, pulses 1+ bilat.
+throughout
+neuro nonfocal
+
+
+Pertinent Results:
+[**3291-6-3**] 10:00AM BLOOD WBC-8.9 RBC-3.95* Hgb-11.7* Hct-34.6*
+MCV-88 MCH-29.6 MCHC-33.8 RDW-13.0 Plt Ct-299
+[**3291-6-3**] 10:00AM BLOOD Plt Ct-299
+[**3291-6-3**] 10:00AM BLOOD Glucose-189* UreaN-14 Creat-0.9 Na-140
+K-4.8 Cl-104 HCO3-25 AnGap-16
+[**3291-5-25**] 06:00AM BLOOD CK(CPK)-38
+[**3291-5-25**] 06:00AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3291-6-3**] 10:00AM BLOOD Calcium-9.0 Phos-4.5 Mg-2.3
+
+Brief Hospital Course:
+Underwent CABG x3 on [**5-28**] with Dr. [**Last Name (STitle) **] (LIMA to LAD, SVG to
+OM1, SVG to OM2). Transferred to CSRU in stable condition on
+milrinone , epinephrine, and propofol drips. Extubated later
+that evening, with epinephrine, milrinone, and neosynephrine
+drips on POD #1. Weaning began for all drips. Off milrinone and
+epinephrine on POD #2, and CTs removed. Remained on neo at 0.4
+on  POD #3 and was OOB in the CSRU. CVL removed and weaned off
+neo,with lasix diuresis,  then transferred to floor on [**6-1**]. Seen
+and evaluated by PT and case management.Pacer wires DCed [**6-1**] and
+lopressor beta blockade begun. Pt. alert and oriented, MAE, but
+had a 7 beat run of NSVT on [**6-3**]. Seen by Dr. [**Last Name (STitle) **] of EP
+service, with recs for follow-up echo and Holter monitor in
+approx. one month. Pt. remained in SR and was discharged to home
+with VNA on [**3291-6-3**].
+
+Medications on Admission:
+lipitor 10 mg qd
+lasix 40 mg [**Hospital1 **]
+vasotec 25 mg [**Hospital1 **]
+ASA 325 mg qd
+Ambien 5 mg qd
+bisoprolol 25 mg [**Hospital1 **]
+rocephin 1 gram qd
+zithromax 250 mg TID
+
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 1 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+2. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours).
+Disp:*120 Capsule, Sustained Release(s)* Refills:*2*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+6. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation [**Hospital1 **] (2 times a day).
+10. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation Q6H (every 6 hours).
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNAs of [**Location (un) 514**]
+
+Discharge Diagnosis:
+Coronary artery bypass grafting X3
+coronary artery disease
+chronic obstructive pulm disease
+hypertension
+elev. chol.
+congestive heart failure
+basal cell Ca
+lower field cut left eye
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:
+
+Followup Instructions:
+In [**2-2**] weeks with Dr. [**Last Name (STitle) **]
+[**Name (STitle) **] your cardiologist in [**12-3**] weeks, you can also see Dr.
+[**Last Name (STitle) 4256**] here at [**Hospital3 **] his number is: [**Telephone/Fax (1) 1165**]
+
+
+
+Completed by:[**3291-8-27**]
+
+
+DOC CLASS

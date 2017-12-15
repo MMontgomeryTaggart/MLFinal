@@ -1,0 +1,127 @@
+Chief Complaint:
+   24 Hour Events:
+ CALLED OUT
+   Surgery saw in AM, but did not leave note or recs. Over phone, reported
+   that she thought the fluctuant areas above the wound were communicating
+   with the wick.
+   ID recs: keep VANCO, d/c GENT, get TTE consider TEE, and start on
+   Fluconazole.
+   Fluconazole started
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3207-8-29**] 10:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3207-8-30**] 06:43 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 37.3
+C (99.1
+   HR: 76 (69 - 125) bpm
+   BP: 96/35(51) {87/30(46) - 149/57(81)} mmHg
+   RR: 18 (5 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 45.3 kg (admission): 44 kg
+                  Total In:
+                                                                  1,040 mL
+                                                                    100 mL
+   PO:
+                                                                  1,040 mL
+                                                                    100 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,040 mL
+                                                                    100 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///33/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   139 K/uL
+   9.8 g/dL
+   118 mg/dL
+   4.4 mg/dL
+   33 mEq/L
+   4.2 mEq/L
+   57 mg/dL
+   98 mEq/L
+   139 mEq/L
+   29.9 %
+   11.2 K/uL
+        [image002.jpg]
+                             [**3207-8-28**]  08:34 AM
+                             [**3207-8-29**]  03:37 AM
+                             [**3207-8-29**]  05:23 PM
+                             [**3207-8-30**]  02:49 AM
+   WBC
+   9.3
+   9.8
+   11.2
+   Hct
+   32.8
+   28.9
+   29.9
+   Plt
+   137
+   130
+   139
+   Cr
+   3.0
+   3.8
+   4.2
+   4.4
+   Glucose
+   128
+   154
+   247
+   118
+   Other labs: PT / PTT / INR:38.1/53.9/4.1, ALT / AST:44/55, Alk Phos / T
+   Bili:235/0.9, Differential-Neuts:89.0 %, Band:2.0 %, Lymph:6.0 %,
+   Mono:2.0 %, Eos:1.0 %, Albumin:3.0 g/dL, LDH:280 IU/L, Ca++:8.7 mg/dL,
+   Mg++:2.2 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3207-8-27**] 09:30 PM
+   Multi Lumen - [**3207-8-28**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

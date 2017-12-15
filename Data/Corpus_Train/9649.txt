@@ -1,0 +1,397 @@
+Admission Date:  [**2842-10-24**]              Discharge Date:   [**2842-11-21**]
+
+Date of Birth:  [**2794-7-7**]             Sex:   M
+
+Service: EMERGENCY
+
+Allergies:
+lisinopril / Nafcillin
+
+Attending:[**First Name3 (LF) 1022**]
+Chief Complaint:
+fever, diarrhea
+
+Major Surgical or Invasive Procedure:
+Endotracheal Intubation
+Arterial Line placement
+PICC line placement
+
+History of Present Illness:
+[**Known patient firstname **] is a 48M with a history of diastolic CHF, CAD, morbid
+obesity, OSA on CPAP, HTN/HL. He was brought in by EMS with
+fever, diarrhea and cough. Patient recently discharged from CCU
+admission for CHF exacerbation requiring BiPAP and 30lbs
+diuresis, which was complicated by MSSA bacteremia (negative
+TEE) on nafcillin infusion through PICC. Three days ago, he
+developed low grade feve which increased to Tm 102 today. He's
+had diarrhea x 3 days at 6-7 watery and nonbloody bowel
+movements daily.  There is no significant abdominal pain, and he
+denies any other sick contacts with similar symptoms.  No
+myalgias, arthralgias, chest pain, shortness of breath.  He
+abides by his 1500cc daily fluid restriction despite his
+diarrhea, and continued to take his diuretic and [**Last Name (un) **].  No NSAID
+usage.
+.
+With regards to his breathing, he feels he has worsened since
+last discharge, though cannot articulate why.  He has occasional
+cough productive of brown phlegm. No PND or orthopnea.  Does not
+weigh himself daily and unclear of any significant weight gain
+or loss.
+Diarrhea x 24 hours. 6-7 episodes today, non-bloody. Mild,
+crampy abdominal pain with the diarrhea. No vomiting. Breathing
+is at baseline per patient, but has productive cough.
+.
+In the ED inital vitals were, T 100.9, HR 78, BP 87/34, RR 24,
+100% on 12L NRB.  He had a mild leukocytosis to 11.7. Normal
+lactate to 1.3. He was treated broadly for antibiotics of
+possible bowel source with vancomycin/zosyn/levaquin.  [**Last Name (un) **] noted
+with creatinine to 2.8 from baseline 1.0. He was placed on a NRB
+for apparent increased work of breathing- sats remained nearly
+100%. Prior to transfer, VS  126/66, hr 83, rr 23, sat 99% on
+bipap
+.
+He was twice admitted to [**Hospital1 68**] for CHF exacerbations this past
+summer-initially in early [**Month (only) 314**] due to uncontrolled hypertension,
+and later in mid-[**Month (only) 328**] for the same.  Of note, he developed
+a superficial thrombophlebitis during his last hospitalization
+that led to MSSA bacteremia. TTE did not reveal endocarditis. He
+was discharged with a PICC on IV nafcillin 2gq4hr to be
+completed on [**2842-10-30**].
+.
+On arrival to the MICU, initial VS were T 102.6, BP126/91, P97,
+RR27, Sat99 on6LNC.  He complains of chills.  While breathing
+heavily, he feels he is near his baseline.
+.
+Review of systems:
+(+) Per HPI
+(-)  Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+Past Medical History:
+-Morbid Obesity (BMI>70)
+-HTN
+-HLD
+-OSA on nocturnal bipap
+-tobacco abuse
+-heart failure with preserved ejection fraction
+
+
+Social History:
+-Tobacco history: active smoker, 25 pack-year
+-ETOH: was heavy alcohol user, 1 pint hard alcohol/day, quit
+cold [**Country 1009**] Father's Day this year
+-Illicit drugs: None
+-Herbal Medications: None
+- Patient has no stable home, stays at friends' [**Name2 (NI) 1010**], currently
+
+separated from wife
+
+
+Family History:
+Multiple grandparents with DM and MI
+
+
+Physical Exam:
+On Admission:
+Vitals:T 102.6, BP126/91, P97, RR27, Sat99 on6LNC
+General: morbidly obese male, breathing heavily, but in no acute
+distress, alert
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, could not assess JVD due to habitus
+Lungs: diminished breath sounds bilaterally without crackles or
+rhonchi
+CV: distant heart sounds, but no MRG appreciated
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds
+present, no rebound tenderness or guarding, could not assess
+organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+CXR:
+FINDINGS: The study is markedly limited secondary to massive
+body habitus and AP portable technique. The study is nearly
+nondiagnostic as there is also respiratory motion. It is
+difficult to exclude a mild interstitial edema.  Additionally, a
+left lower lung consolidation cannot be excluded. The
+mediastinum demonstrates aortic tortuosity similar to prior. The
+cardiac silhouette is likely enlarged but stable. Effusions
+cannot be excluded.  There is no large pneumothorax.
+IMPRESSION: Nearly nondiagnostic study due to massive body
+habitus and AP
+portable technique.
+.
+Unilateral US:
+IMPRESSION: No DVT of the left upper extremity.
+.
+CXR:
+As compared to the prior radiographs there is interval
+development of left
+lower lobe consolidation that potentially might reflect
+infectious process.  In addition patient is in mild pulmonary
+edema.
+For precise characterization of the findings, correlation with
+cross-sectional imaging might be considered as well as
+re-evaluation of the patient after diuresis.
+Right PICC line is in place but its tip cannot be clearly seen.
+
+
+Brief Hospital Course:
+HOSPITAL COURSE:
+[**Known patient firstname **] [**Known patient lastname 1023**] is a morbidly obese 48yoM initially presented with
+N/V/D and acute renal failure and was admitted to the MICU for
+labored breathing whose hospital course was complicated by
+hypercarbic respiratory failure requiring intubation and massive
+fluid diuresis and was found to have aortic valve endocarditis
+with worsening aortic regurgitation.
+.
+# ACTIVE ISSUES:
+1) Respiratory Status: Patient was initially admitted with
+labored breathing requiring continuous use of BiPAP (settings
+IPAP 23, EPAP 18). Given renal failure (see below), diuretics
+were initially held. With resolution of diarrhea/fever and
+continuous use of BiPAP, patients dyspnea returned to baseline
+and patient was called out to the general medicine floors. While
+on the floor, patient's renal function continued to worsen and
+thus diuretics were continually held. Additionally pt received
+several fluid boluses given concern for hypovolemic status.
+Cardiology was consulted (given history of heart failure with
+preserved ejection fraction) who suggested diuresis despite
+renal failure as patient's wt was trending upward. Renal agreed
+with plan and pt was started IV diuresis. On [**11-9**], patient
+developed acute onset of dyspnea that resulted on hypercarbic
+respiratory failure requiring intubation. While in MICU, patient
+was aggressively diuresed under concern for flash pulmonary
+edema. PE was considered and was empirically started on heparin
+however after further evaluation, it was discontinued as patient
+improved with diuresis. Pt was on lasix drip initially then
+changed to bolus lasix and ultimately to PO torsemide. Pt was
+ultimately extubated and continued on diuresis. Pt uses BiPAP at
+night at with the following settings: IPAP 22 and EPAP 12. Pt's
+wt on discharge was 185kg.
+TRANSITION ISSUES:
+- Continue torsemide 80mg with goal to be euvolemic to negative
+to 500cc. Please titrate torsemide dose to achieve this goal.
+- Will need electrolytes to monitor K and Creatinine twice a
+week
+- Will need to remain on 2L fluid restriction
+- Needs agressive physical therapy in order to improve
+respiratory status
+.
+2) Aortic Valve Endocarditis with Worsening Aortic
+Regurgitation: Of note patient completed course of MSSA
+bacteremia with vancomycin on [**2842-10-30**]. Cardiology suggested a
+TEE to better evaluate cardiac function given respiratory
+decompenstion, which revealed a new aortic valve vegetation and
+worsening aortic regurgitation, which likely caused acute
+decompensation. ID was reconsulted who suggested placing patient
+on daptomycin. Serial blood cultures were negative although
+patient was intermittently febrile during stay. Cardiac surgery
+was consulted who recommended finishing 6 week course of
+antibiotics as well as cardiac catheterization prior to
+evaluation for surgery. PICC line was changed on [**11-15**]. Of note
+patient complained of muscle spasms with daptomycin infusion.
+After review with pharmacy, this does not appear to be known
+drug reaction. Pt willing to cope with spasms as long as
+infusion is during the day. Please infusion daptomycin during
+the day. Lastly given worsening aortic valve endocarditis,
+aggressive afterload reduction was implemented with goal
+Systolic BP < 160. Nodal agents were stopped and should be
+avoided.
+TRANSITION ISSUES:
+- Complete 6 (six) week course of daptomycin. Last day will be
+on [**2842-12-25**]
+- Will need weekly CK, CBC with diff, BUN, Creatinine to be
+faxed to [**Telephone/Fax (1) 1024**] attn: ID nurse [**First Name (Titles) **] [**Last Name (Titles) **] follow up
+- Has follow up with Dr. [**First Name (STitle) **] in heart failure clinic - who
+will arrange for follow up Echo
+- Has follow up with Dr. [**Last Name (STitle) **] with cardiac surgery
+- Monitor BP and titrate medication as tolerated to keep
+systolic BP < 160.
+- Needs agressive physical therapy for strength prior to AVR
+- Patient will need dental evaluation prior to cardiac surgery
+.
+3) Acute Renal Failure: Patient initially presented with acute
+renal failure. Renal was consulted who felt that presentation
+was consistent with acute interstitial nephritis [**2-26**] nafcillin.
+Antibiotic was changed to cefazolin however after having a rash,
+pt was started on vancomycin. Creatinine continued to raise
+despite removal of offending [**Doctor Last Name 176**] which was thought to be [**2-26**]
+ongoing diuresis. Renal agreed with diuresis given respiratory
+status and felt that creatinine would slowly improve with time.
+TRANSITION ISSUES:
+- Will need to monitor creatining for worsening kidney function
+twice a week
+- No need for renal follow up
+.
+4) Morbid Obesity/Severe physical deconditioning: Patient is
+morbidly obese with BMI > 40. Given prolonged hospitalization
+and poor physical strength prior to admission, patient needs
+agressive physical therapy in order to recover. His medical
+issues are now stable and can be adequately cared for by daily
+medical evaluation however patietn needs more attention in
+physical strengthing training.
+TRANSITION ISSUES:
+- Aggressive Physical Therapy
+.
+5) Obstructive Sleep Apnea: Patient severe obstructive sleep
+apnea likely [**2-26**] morbid obesity. Pt initially presented with
+respiratory complaints (see above) requiring continuous BiPAP.
+TRANSITION ISSUES:
+- Needs agressive physical therapy in order to lose wt
+.
+6) Cardiac Dysfunction with Preserved
+Function/Hypertension/CAD/Hyperlipidemia: Echo showed preserved
+EF. [**Last Name 1025**] Problem#2 for changes and updates. Patient will need
+cardiac catheterization prior to surgery.
+TRANSITION ISSUES:
+- [**Last Name 1025**] problem #2
+.
+7) FEVERS/NAUSEA/DIARRHEA: Initially presenting symptoms however
+resolved with definitive etiology. No further interventions were
+necessary.
+.
+8) Muscle Spasms: Patinet complained of muscle spasms while
+receiving daptomycin infusion. Seroquel and flexeril were both
+tried with limited response. Pt will to cope with spasms as long
+as daptomycin infusion is during day time hours.
+
+Medications on Admission:
+1. potassium chloride 10 mEq Capsule, Extended Release Sig: Four
+
+(4) Capsule, Extended Release PO once a day.
+Disp:*120 Capsule, Extended Release(s)* Refills:*2*
+2. losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.
+3. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+4. ipratropium bromide 0.02 % Solution Sig: One (1) vial
+Inhalation every six (6) hours.
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO once a day.
+6. torsemide 20 mg Tablet Sig: Three (3) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*2*
+7. nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: One (1) bag
+Intravenous Q4H (every 4 hours): Last day is [**2842-10-30**].
+Disp:*78 doses* Refills:*0*
+8. pravastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+9. nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) patch
+Transdermal once a day for 6 weeks.
+10. atenolol 100 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Medications:
+1. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for pain/fever.
+2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. sodium chloride 0.65 % Aerosol, Spray Sig: [**1-26**] Sprays Nasal
+QID (4 times a day) as needed for nasal congestion.
+4. petrolatum     Ointment Sig: One (1) Appl Topical TID (3
+times a day).
+5. isosorbide dinitrate 20 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+6. trazodone 100 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+7. hydralazine 50 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6
+hours).
+8. nifedipine 30 mg Tablet Extended Release Sig: One (1) Tablet
+Extended Release PO DAILY (Daily).
+9. cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) as needed for twtching sensation.
+10. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 Puffs Inhalation Q6H (every 6 hours) as needed for wheezing,
+dyspnea.
+11. torsemide 20 mg Tablet Sig: Four (4) Tablet PO DAILY
+(Daily).
+12. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+13. daptomycin 500 mg Recon Soln Sig: 1200 (1200) mg Intravenous
+Q24H (every 24 hours): Last dose on [**2842-12-25**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Highgate Manor
+
+Discharge Diagnosis:
+Primary:
+-acute renal insufficiency (suspected acute interstitial
+nephritis due to nafcillin)
+-viral gastroenteritis
+
+Secondary:
+morbid obesity
+obstructive sleep apnea
+congestive heart failure
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You came to the hospital because you were experiencing weakness,
+fevers, and diarrhea. When you came to the emergency room, you
+appeared to have significant difficulty breathing. You were sent
+to the medical ICU, where you were given antibiotics and fluids.
+Your kidneys were not functioning well, which was attributed to
+a negative reaction to your prior antibiotic, nafcillin, which
+you were receiving for your prior blood stream infection. You
+ultimately finished a course of antibiotics while on the general
+medicine floor.
+.
+While you were on the medicine floors, you developed signficant
+difficulty with your breathing requiring you to come back to the
+ICU. A breathing tube was placed to help your breath. You were
+started on a medication help remove fluid to help with your
+breathing. An ultrasound was completed of your heart which
+should that there was an infection on your heart valve that
+caused your valve to not work properly. This valve will likely
+need to be replaced in the future. You will have to remain on
+antibiotics until [**12-25**] in order to appropriately clear
+this infection. We had the cardiologist and cardiac surgeons
+evaluate for this valve replacement and they will continue to
+follow you as outpatient.
+.
+Because of the long hospital stay, you became deconditioned and
+you will need intense physical therapy in order to get better.
+.
+Please see the attached for your new set of medications.
+
+Followup Instructions:
+Please be sure to keep the following appointments:
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2842-11-26**] at 10:00 AM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], NP [**Telephone/Fax (1) 654**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: CARDIAC SURGERY
+When: MONDAY [**2842-12-15**] at 1:45 PM
+With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 425**]
+Building: LM [**Hospital Unit Name **] [**Location (un) 644**]
+Campus: WEST     Best Parking: [**Doctor First Name **]. GARAGE
+
+
+
+Completed by:[**2842-11-21**]
+
+
+DOC CLASS

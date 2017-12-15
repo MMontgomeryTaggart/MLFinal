@@ -1,0 +1,196 @@
+Chief Complaint:
+   24 Hour Events:
+   -BP in 70s overnight, bolus 500cc, d/c lisinopril
+   Allergies:
+   Penicillins
+   Hives;
+   Cephalosporins
+   Hives;
+   Erythromycin Base
+   Diarrhea;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3326-11-2**] 04:19 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3326-11-2**] 12:47 PM
+   Heparin Sodium (Prophylaxis) - [**3326-11-2**] 11:53 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3326-11-3**] 06:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.7
+C (98
+   HR: 94 (80 - 103) bpm
+   BP: 79/58(64) {79/49(58) - 125/90(95)} mmHg
+   RR: 16 (13 - 20) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,815 mL
+                                                                    867 mL
+   PO:
+                                                                     60 mL
+             TF:
+   IVF:
+                                                                  1,740 mL
+                                                                    567 mL
+   Blood products:
+   Total out:
+                                                                  1,920 mL
+                                                                    850 mL
+   Urine:
+                                                                  1,920 mL
+                                                                    850 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    895 mL
+                                                                     17 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: PCV+
+   Vt (Set): 700 (700 - 700) mL
+   RR (Set): 14
+   PEEP: 7 cmH2O
+   FiO2: 21%
+   RSBI Deferred: Vent Dependant
+   PIP: 28 cmH2O
+   SpO2: 95%
+   ABG: ///14/
+   Ve: 10.2 L/min
+   Physical Examination
+   HEENT: NCAT anicteric MMM
+   CV: RRR S1S2 distant heart sounds no m/r/g appreciated
+   PULM: rhonchi b/l [**3-16**] intubation, otherwise clear
+   ABD: soft nontender nondistended hypoactive bs throughout
+   EXT: WWP, contracted as baseline, no new rashes noted, no jaundice
+   Labs / Radiology
+   276 K/uL
+   14.8 g/dL
+   71 mg/dL
+   0.2 mg/dL
+   14 mEq/L
+   4.1 mEq/L
+   4 mg/dL
+   106 mEq/L
+   137 mEq/L
+   44.1 %
+   8.4 K/uL
+        [image002.jpg]
+                             [**3326-11-1**]  04:45 AM
+                             [**3326-11-2**]  04:04 AM
+                             [**3326-11-2**]  10:09 AM
+                             [**3326-11-2**]  07:44 PM
+                             [**3326-11-3**]  04:05 AM
+   WBC
+   8.2
+   15.0
+   8.4
+   Hct
+   44.1
+   46.8
+   44.1
+   Plt
+   [**Telephone/Fax (3) 1877**]
+   Cr
+   0.2
+   0.2
+   0.2
+   0.3
+   0.2
+   Glucose
+   78
+   49
+   67
+   128
+   71
+   Other labs: PT / PTT / INR:14.9/34.6/1.3, ALT / AST:1186/381, Alk Phos
+   / T Bili:268/6.2, Amylase / Lipase:45/50, Differential-Neuts:54.1 %,
+   Lymph:35.7 %, Mono:6.8 %, Eos:2.8 %, Lactic Acid:0.8 mmol/L,
+   Albumin:4.3 g/dL, LDH:231 IU/L, Ca++:9.9 mg/dL, Mg++:1.9 mg/dL, PO4:2.5
+   mg/dL
+   Assessment and Plan
+   39M with Duchenne's muscular dystrophy, chronic vent dependency,
+   presenting with acute onset of RUQ pain, nausea, acute jaundice with
+   findings of gallstones on RUQ US.
+   .
+   #. Choledocolithiasis s/p ERCP ([**11-1**]): Patient with improving bilirubin
+   and jaundice, LFTs are holding steady. Per surgery recs will trend out
+   amylase and lipase from yesterday and today to ensure resolution.
+   Albumin, platelets, coags normal so not suggestive of decreased liver
+   function/liver failure.  Liver serologies negative.
+   - f/u ERCP recs
+   - trend bili, LFT, amylase/lipase
+   - Advance diet as tolerated
+   # Low serum bicarb/anion gap: Patient with some ketones in UA, may be
+   secondary to ketosis. Patient is not a known diabetic, and is not
+   uremic. Will continue to follow chemistries. Clinically patient is
+   doing well and asymptomcatic.
+   -          Repeat Chem-7
+   -          Work up if abnormal
+   .
+   #. Chronic respiratory failure: s/p trach, vent dependent since '[**19**]. At
+   home baseline, he is vent dependent, suctioned twice a day and is using
+   a mechanical cough supplementation device. Patient without respiratory
+   complaints currently.
+   - continue home albuterol and atrovent standing nebs
+   - continue home vent settings
+   -PT therapy, cough assist
+   .
+   #. Duchenne's Muscular Dystrophy:
+   - continue on home vent settings, turn patient to prevent ulcers
+   .
+   #. h/o long QT interval, known RBBB: Patient had prior holter monitor
+   which revealed isolated PVC's and infrequent ventricular couplets.
+   This is consistant with DMD and known cardiomyopathies.
+   - check EKG with AM rounds
+   - monitor in telemetry
+   - avoid haldol or other medications which prolong QT
+   .
+   #. HTN- patient with hypotensive episodes overnight, will hold on
+   lisinopril and restart when hemodynamically stable
+   -hold lisinopril
+   -bolus as needed for hypotension
+   .
+   #. FEN
+ on clears, can advance as tolerated today; monitor and replete
+   lytes prn
+   .
+   #. Access
+ L PICC placed [**11-1**].
+   .
+   #. PPx -
+   -DVT ppx with SQ Heparin
+   -PPI
+   .
+   #. Code - Full code
+   .
+   #. Dispo
+  If enzymes continue to trend down may be able to d/c home
+   from ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3326-11-1**] 03:55 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

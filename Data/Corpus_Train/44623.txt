@@ -1,0 +1,146 @@
+Admission Date:  [**3381-4-26**]       Discharge Date:  [**3381-5-3**]
+
+Date of Birth:   [**3315-2-22**]       Sex:  F
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF PRESENT ILLNESS:  This 66-year-old white female
+has a history of known coronary artery disease and is status
+post a remote MI many years ago, with a history of chronic
+stable angina since that time.  She was recently admitted at
+the beginning of [**Month (only) 484**] with chest pain, and had slightly
+elevated troponins.  At that point, a cardiac catheterization
+was recommended, but the patient refused.  She went home from
+[**Hospital3 649**] Hospital and returned the following day with
+severe discomfort in the chest, and agreed to a cardiac cath.
+She was then transferred to [**Hospital1 **]-[**Hospital1 **] for cardiac cath, as
+Dr. [**Last Name (STitle) 2883**] is her doctor.
+
+PAST MEDICAL HISTORY:
+1. History of coronary artery disease, status post MI in the
+past.
+2. History of hyperlipidemia.
+3. History of insulin dependent diabetes.
+4. History of hypertension.
+5. History of severe right MCA stenosis, status post old
+small left cerebral infarct.
+6. History of Congestive heart failure
+7. History of TIAs.
+
+MEDICATIONS ON ADMISSION:
+1. Aspirin 325 mg po qd.
+2. Plavix 75 mg po qd.
+3. Lopressor 50 mg po qid.
+4. Zocor 20 mg po qd.
+5. Colace 100 mg po bid.
+6. Zestril 5 mg po qd.
+7. Potassium.
+8. Sublingual Nitro.
+9. Digoxin 0.125 mg po qd.
+10.Lasix 120 mg po qd.
+11.Humalog insulin sliding scale and Lente, dose unknown.
+
+ALLERGIES:  No known allergies.
+
+REVIEW OF SYSTEMS:  Significant for generalized fatigue.
+
+PHYSICAL EXAM:  She is a well-developed, well-nourished white
+female in no apparent distress.
+VITAL SIGNS:  Stable.  Afebrile.
+HEENT EXAM:  Normocephalic, atraumatic.  Extraocular
+movements intact.  Oropharynx benign.
+NECK:  Supple.  Full range of motion.  No lymphadenopathy or
+thyromegaly.  Carotids 1+ and equal bilaterally without
+bruits.
+LUNGS:  Clear to auscultation and percussion.
+CARDIOVASCULAR EXAM:  Regular rate and rhythm.  Normal S1,
+S2, with no rubs, murmurs or gallops.
+ABDOMEN:  Soft, nontender with positive bowel sounds.  No
+masses or hepatosplenomegaly.
+EXTREMITIES:  Without clubbing, cyanosis or edema.  Pulses
+were 1+ and equal bilaterally with the exception of the DPs
+which were trace bilaterally.
+NEURO EXAM:  Nonfocal.
+
+STUDIES:  She also had an echocardiogram on [**3381-4-17**] which
+revealed mild left ventricular enlargement with moderate to
+severe impairment of the left ventricular systolic function,
+and an estimated LVEF of 25-30%.  There was akinesis of the
+mid and apical portion of the septum.  There was mild
+thickening of the mitral valve leaflets and annulus, with
+moderate to severe MR, and mild tricuspid insufficiency.
+
+HOSPITAL COURSE:  So, she was transferred to the [**Hospital1 **] where she underwent an emergency cath which
+revealed that the left main had a small filling defect.  The
+LAD had ostial proximal subtotal stenosis with decreased
+flow, and they felt there was a clot in the left main
+coronary artery.  The left circumflex had diffuse moderate
+disease.  The RCA was proximally occluded with distal vessels
+filled by LCA collaterals, and aortography showed diffuse
+atheromatous disease of the aorta and significant disease in
+the left iliac.
+
+Dr. [**Last Name (STitle) 17385**] was consulted and took the patient for an
+emergency CABG x 2 with LIMA to the LAD and reversed
+saphenous vein graft to the OM, and a mitral valve
+annuloplasty with a #26 [**Doctor Last Name 670**] band.  The patient tolerated
+the procedure well and was transferred to the CSRU on
+milrinone and epinephrine.  She remained intubated overnight
+and was extubated the following day.  She remained
+hemodynamically stable, and her epi was weaned off on the
+first day.  Postop day #2, her milrinone was weaned and then
+DC'd on postop day #3.  On postop day #3, her chest tubes
+were DC'd.
+
+She continued to slowly progress, and on postop day #4 she
+was transferred to the floor in stable condition.  She had
+her wires DC'd on postop day #5 and was very slow with
+ambulation, and slow to progress.  She was followed as well
+by [**Last Name (un) 93**] and had her insulin changed to Lantus with still
+Humalog sliding scale.  She also had a white count of
+13-16,000, and had an echo on postop day #7 which showed no
+vegetations.  All of her cultures were negative, and she was
+discharged to rehab in stable condition.
+
+LABS ON DISCHARGE:  White count 14,700, hematocrit 30.7,
+platelets 376,000, sodium 138, potassium 4.3, chloride
+98-232, BUN 18, creatinine 0.9, blood sugar 143.
+
+DISCHARGE MEDICATIONS:
+1. Lasix 20 mg po bid for 7 days.
+2. KCL 10 mEq po qd for 7 days.
+3. Colace 100 mg po bid.
+4. Aspirin 325 qd.
+5. Plavix 75 mg po qd.
+6. Zocor 20 mg po qd.
+7. Dilaudid 2 mg q 4-6 h prn pain.
+8. Lopressor 50 mg po bid.
+9. Glargine 24 U subcu q hs.
+10.Humalog sliding scale.
+
+FOLLOW-UP:  She will be followed by Dr. [**Last Name (STitle) 3157**] in [**12-29**] weeks,
+Dr. [**First Name (STitle) 1762**] in [**3-1**] weeks, Dr. [**Last Name (STitle) 17385**] in 6 weeks, and Dr.
+[**Last Name (STitle) 2883**] in 1 month.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease.
+2. Mitral valve regurgitation.
+3. Insulin dependent diabetes.
+4. Hypertension.
+5. Hypercholesterolemia.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 17387**]
+
+Dictated By:[**Last Name (NamePattern1) 23885**]
+MEDQUIST36
+
+D:  [**3381-5-3**]  12:30
+T:  [**3381-5-3**]  12:30
+JOB#:  [**Job Number 23886**]
+
+
+
+DOC CLASS

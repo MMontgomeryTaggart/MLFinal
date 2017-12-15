@@ -1,0 +1,192 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**3-29**]: Patient with bedside bronchoscopy by IP - stent noted to be in
+   correct position.  Laryngoscopy performed by ENT who noted no
+   paradoxical movement of vocal cords, only minor edema of the posterior
+   arytenoids. Overnight, developed n/v x 1, improved with zofran.
+   ENT recs:
+   -Start PPI at double dose [**Hospital1 7**] to be given 1/2 hour prior to meals on an
+   empty stomach, if not already maximizing reflux management.
+   -Strict aspiration and reflux precautions until cleared by Speech and
+   Swallow.
+-If O2 is required, use humidified shovel mask.
+   -f/u with home ENT or in [**Hospital1 17**] ENT clinic in [**2-28**] weeks
+   [**3-30**]:
+   - Felt nauseated most of day and very little PO intake; nausea
+   increased with codeine (last dose overnight); now feels well since
+   stopping codeine
+   - S&S consult not done; diet changed to clears for now
+   - Pt complained of heartburn; given Maalox
+   - Pt with two loose stools; C diff sent
+   Allergies:
+   Morphine
+   Unknown;
+   Betadine (Topical) (Povidone-Iodine)
+   Unknown;
+   Iodine
+   Unknown;
+   Demerol (Injection) (Meperidine Hcl)
+   swelling/sob;
+   Lisinopril
+   Angioedema;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2965-3-29**] 08:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2965-3-31**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2965-3-31**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.7
+C (98
+   HR: 66 (63 - 93) bpm
+   BP: 114/98(102) {108/47(68) - 168/109(119)} mmHg
+   RR: 17 (14 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 117.5 kg (admission): 118.4 kg
+                  Total In:
+                                                                    560 mL
+                  PO:
+                                                                    560 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  1,330 mL
+                                                                    150 mL
+   Urine:
+                                                                  1,110 mL
+                                                                    150 mL
+   NG:
+                                                                    220 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -770 mL
+                                                                   -150 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula at 4 lpm
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   GEN: Patient comfortable, and in no respiratory distress
+   HEENT: NC in place; MMM.
+   Pulm: diffuse expiratory rhonchi bilaterally.  Expiratory wheezes
+   diffusely.
+   CVS: RRR with normal S1 + S2, no m/g/r.
+   Abd: Obese, soft/nt, non-distended
+   Ext: no c/c/e; DP 2+ bilaterally.
+   Neuro: A+O x 4
+   Labs / Radiology
+   170 K/uL
+   11.5 g/dL
+   130 mg/dL
+   0.6 mg/dL
+   30 mEq/L
+   3.8 mEq/L
+   12 mg/dL
+   101 mEq/L
+   138 mEq/L
+   33.4 %
+   4.2 K/uL
+        [image002.jpg]
+                             [**2965-3-28**]  05:05 AM
+                             [**2965-3-28**]  12:26 PM
+                             [**2965-3-29**]  03:30 AM
+                             [**2965-3-30**]  05:00 AM
+   WBC
+   4.4
+   4.2
+   4.2
+   Hct
+   33.2
+   32.3
+   33.4
+   Plt
+   165
+   154
+   170
+   Cr
+   0.7
+   0.7
+   0.6
+   TCO2
+   29
+   Glucose
+   175
+   112
+   130
+   Other labs: PT / PTT / INR:11.6/23.1/1.0, Lactic Acid:1.6 mmol/L,
+   Ca++:9.1 mg/dL, Mg++:2.3 mg/dL, PO4:3.6 mg/dL
+   Micro: [**3-27**] urine w/E Coli >100K
+   C. Diff pending
+   Imaging: [**3-30**] CXR Linear atelectasis in the left retrocardiac region is
+   unchanged since the  previous study one day prior. No newly developed
+   areas of consolidation, pneumothorax, or pleural effusion.
+   Cardiomediastinal silhouette is normal.
+   Assessment and Plan
+   55F TBM s/p Y-stent and hx of COPD p/w acute onset of barking cough,
+   treated for anaphylaxis / stridor at OSH and transferred to [**Hospital1 17**] for
+   further management.
+   # Dyspnea/Respiratory Distress: Unclear what the trigger of this event
+   is, could be URI, allergy (but no skin findings), pneumonia given
+   possible consolidation seen on cxr (although this may have been soft
+   tissue shadowing), migration of Y stent (unlikely given normal bronch),
+   vocal cord dysfunction (given deepening voice, but ruled out by ENT
+   laryngoscopy), diastolic CHF exacerbation (given evidence of LVH on old
+   ECHO, edema), bronchospasm [**1-29**] to mucomyst nebs.
+   - Albuterol Ipratropium nebs ATC
+   - Tessalon and guaifenesin for cough
+   - Consider benadryl and steroids if evidence of stridor
+   - Continue home fexofenadine
+   - Hold mucomyst nebs for now
+   - IP with bronch that did not show evidence of stent migration or
+   occlusion; f/u IP recs
+   - ENT eval with no evidence of PVCM, only minimal posterior cricoid
+   edema; double dose PPI [**Hospital1 **] per ent recs
+   - BIPAP at night and during day PRN for SOB (will try to control nausea
+   first to make BIPAP more tolerable)
+   - Await S&S study (likely Monday)
+   .
+   # UTI: Urine culture from ED growing > 100k E. Coli now with
+   sensitivities complete (sensitive to ciprofloxacin). Patient has been
+   afebrile and without flank pain so pyelonephritis is not suspected.
+   Repeat U/A on [**2965-3-29**] showed 19 WBCs consistent with UTI.
+   - continue patient on Ciprofloxacin 400mg PO BID with 3 day course
+   planned, day 1 = [**3-29**]
+   # N/V/loose stools. Resolved since stopped codeine (also had two loose
+   BMs after feeling constipated all day, so may have been partly due to
+   abdominal fullness); will continue to monitor.
+   - Continue zofran, compazine prn
+   - if patient spikes fever or if abdominal distension worsens, would
+   obtain CT abd/pelvis with IV contrast.
+   - C diff sent
+   # Htn: Continue home amlodipine, metoprolol and clonidine.
+   .
+   # GERD: GERD may be contributing to symptoms, will increase Prilosec to
+   40mg PO BID per ENT recs.
+   .
+   # LE Edema: Continue home lasix. (LOS balance -1.2 L)
+   .
+   # FEN: No IVF, replete electrolytes, advance diet as tolerated
+   # Prophylaxis: Subcutaneous heparin
+   # Access: peripheral X1
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU for morning, possible call out to floor pending
+   further improvement and no increased need for BIPAP
+
+
+
+DOC CLASS

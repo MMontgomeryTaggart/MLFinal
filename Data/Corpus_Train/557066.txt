@@ -1,0 +1,141 @@
+Chief Complaint:
+   24 Hour Events:
+   Started on Levo gtt for BP 45, thereafter did well
+ DIALYSIS CATHETER - START [**3388-1-9**] 05:00 PM
+   uncertain of insertion date
+ INVASIVE VENTILATION - START [**3388-1-9**] 05:15 PM
+ ARTERIAL LINE - START [**3388-1-9**] 08:35 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3388-1-9**] 09:36 PM
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Norepinephrine - 0.09 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3388-1-10**] 06:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 36.2
+C (97.2
+   HR: 84 (73 - 107) bpm
+   BP: 105/57(73) {95/54(68) - 128/79(98)} mmHg
+   RR: 11 (0 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  3,461 mL
+                                                                    433 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,461 mL
+                                                                    433 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,461 mL
+                                                                    433 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 295 (250 - 350) mL
+   PS : 10 cmH2O
+   RR (Set): 10
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   RSBI: 100
+   PIP: 26 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 99%
+   ABG: 7.36/48/121/25/1
+   Ve: 4.9 L/min
+   PaO2 / FiO2: 202
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   197 K/uL
+   11.8 g/dL
+   82 mg/dL
+   3.4 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   17 mg/dL
+   110 mEq/L
+   142 mEq/L
+   36.3 %
+   20.1 K/uL
+        [image002.jpg]
+                             [**3388-1-9**]  08:41 PM
+                             [**3388-1-9**]  09:06 PM
+                             [**3388-1-9**]  11:20 PM
+                             [**3388-1-10**]  01:08 AM
+                             [**3388-1-10**]  03:38 AM
+                             [**3388-1-10**]  04:12 AM
+   WBC
+   17.4
+   20.1
+   Hct
+   34.0
+   36.3
+   Plt
+   117
+   197
+   Cr
+   3.1
+   3.4
+   TCO2
+   27
+   24
+   26
+   28
+   Glucose
+   88
+   82
+   Other labs: PT / PTT / INR:20.7/48.2/2.0, ALT / AST:26/32, Alk Phos / T
+   Bili:190/3.4, Differential-Neuts:85.5 %, Lymph:8.9 %, Mono:5.3 %,
+   Eos:0.2 %, Lactic Acid:1.8 mmol/L, Ca++:8.2 mg/dL, Mg++:1.6 mg/dL,
+   PO4:3.5 mg/dL
+   Assessment and Plan
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3388-1-9**] 05:00 PM
+   22 Gauge - [**3388-1-9**] 05:00 PM
+   Arterial Line - [**3388-1-9**] 08:35 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

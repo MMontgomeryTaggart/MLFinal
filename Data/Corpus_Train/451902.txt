@@ -1,0 +1,184 @@
+CVICU
+   HPI:
+   HD5   POD 3-OP CABGx2
+   Ejection Fraction:55
+   Hemoglobin A1c:6.2
+   Pre-Op Weight:155 lbs   70.31 kgs
+   Baseline Creatinine:0.8
+   PMHx:
+   PMH:Dyslipidemia, Hypertension, Coronary artery disease,
+   Peripheral vascular disease, s/p left CEA
+   [**Last Name (un) **]: ASA 81 mg daily, Verapamil 80 mg three times a day, Activa,
+   Metamucil for cholesterol, fish oil 1200 mg daily
+   Current medications:
+   Acetaminophen 4. Amiodarone 5. Aspirin EC 6. Calcium Gluconate 7.
+   Clopidogrel 8. Dextrose 50% 9. Docusate Sodium 10. Furosemide 11.
+   Insulin 12. Ketorolac 13. Magnesium Sulfate 14. Metoprolol Tartrate 15.
+   Milk of Magnesia 16. Morphine Sulfate 17. Ondansetron 18.
+   Oxycodone-Acetaminophen 19. Pneumococcal Vac Polyvalent 20. Potassium
+   Chloride Ranitidine 24. TraMADOL (Ultram)
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2873-12-10**] 01:07 PM
+   Post operative day:
+   [**12-11**]-HD5   POD 3-OP CABGx2
+   Allergies:
+   No Known Drug Allergies
+   Flowsheet Data as of  [**2873-12-11**] 09:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**76**] a.m.
+   Tmax: 37.2
+C (99
+   T current: 37
+C (98.6
+   HR: 92 (72 - 92) bpm
+   BP: 141/80(94) {104/48(63) - 141/80(94)} mmHg
+   RR: 22 (17 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75.6 kg (admission): 76.8 kg
+   Height: 73 Inch
+             Total In:
+                                                                  1,280 mL
+                                                                    100 mL
+   PO:
+                                                                    120 mL
+             Tube feeding:
+                                                                    858 mL
+   IV Fluid:
+                                                                    302 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  2,275 mL
+                                                                  1,040 mL
+   Urine:
+                                                                  2,075 mL
+                                                                  1,040 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -995 mL
+                                                                   -940 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bilat bases), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   410 K/uL
+   11.5 g/dL
+   99 mg/dL
+   0.8 mg/dL
+   25 mEq/L
+   3.8 mEq/L
+   28 mg/dL
+   107 mEq/L
+   141 mEq/L
+   35.1 %
+   11.2 K/uL
+        [image002.jpg]
+                             [**2873-12-9**]  01:16 AM
+                             [**2873-12-9**]  12:31 PM
+                             [**2873-12-9**]  02:21 PM
+                             [**2873-12-9**]  03:36 PM
+                             [**2873-12-9**]  07:51 PM
+                             [**2873-12-10**]  01:44 AM
+                             [**2873-12-10**]  08:00 AM
+                             [**2873-12-10**]  12:00 PM
+                             [**2873-12-10**]  04:00 PM
+                             [**2873-12-11**]  01:59 AM
+   WBC
+   10.4
+   11.2
+   Hct
+   39
+   35.2
+   35.1
+   Plt
+   392
+   410
+   Creatinine
+   0.9
+   0.8
+   TCO2
+   34
+   32
+   31
+   29
+   27
+   Glucose
+   93
+   99
+   123
+   107
+   137
+   132
+   99
+   Other labs: PT / PTT / INR:12.1/29.0/1.0, CK / CK-MB / Troponin
+   T:71//<0.01, ALT / AST:21/31, Alk-Phos / T bili:147/0.5, Amylase /
+   Lipase:55/42, Differential-Neuts:84.2 %, Lymph:10.5 %, Mono:3.7 %,
+   Eos:1.4 %, Fibrinogen:498 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:3.0
+   g/dL, LDH:317 IU/L, Ca:7.8 mg/dL, Mg:2.4 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION, AND
+   COGNITION, IMPAIRED, BALANCE, IMPAIRED, MOTOR FUNCTION, IMPAIRED,
+   RESPIRATION / GAS EXCHANGE, IMPAIRED, TRANSFERS, IMPAIRED, KNOWLEDGE,
+   IMPAIRED, GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB), ALTERED MENTAL
+   STATUS (NOT DELIRIUM), VALVE REPLACEMENT, MITRAL MECHANICAL (MVR),
+   AORTIC DISSECTION, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), MITRAL
+   REGURGITATION (MITRAL INSUFFICIENCY)
+   Assessment and Plan: :68F s/p OP CABGx2 (LIMA to LAD, SVG to OM) [**12-8**]
+   Hemodynamically stable, ready for transfer to stepdown floor
+   Neurologic: Pain controlled, Pain control with Toradol and Ultram
+   Cardiovascular: Aspirin, Beta-blocker, Statins, plavix for off pump
+   CABG. Afib over weekend converted with Amiodarone
+   Pulmonary: IS, ambulate
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Advance diet as tolerated
+   Renal: Foley, lasix to make net negative 1-1.5L/day. Will continue to
+   monitor BUN/Cr
+   Hematology: stable post-op anemia
+   Endocrine: RISS
+   Infectious Disease: no active issues.
+   Afebrile, mildly elevated WBC-likely inflamatory reaction in post-op
+   period
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings, sternum stable
+   Consults: CT surgery, P.T.
+   ICU Care
+   Nutrition: Regular diet
+   Glycemic Control:  Regular insulin sliding scale
+   Lines: Multi Lumen - [**2873-12-6**] 10:15 AM
+   20 Gauge - [**2873-12-8**] 01:52 PM
+   Prophylaxis: DVT:  (ambulate)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   consent signed:
+   Code status: Full code
+   Disposition: Transfer to floor
+   ------ Protected Section------
+   Above note entered under wrong patient profile
+   ------ Protected Section Error Entered By:[**Name (NI) 351**] [**Name8 (MD) 1787**], NP
+   on:[**2873-12-11**] 13:41 ------
+
+
+
+DOC CLASS

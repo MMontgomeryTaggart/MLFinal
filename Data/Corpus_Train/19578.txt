@@ -1,0 +1,196 @@
+Admission Date:  [**2768-6-20**]              Discharge Date:   [**2768-7-4**]
+
+Date of Birth:  [**2696-12-24**]             Sex:   F
+
+Service: MED
+
+Allergies:
+Vancomycin / Penicillins / Gentamicin / Clindamycin / Cefotaxime
+
+Attending:[**First Name3 (LF) 978**]
+Chief Complaint:
+Fatigue
+
+Major Surgical or Invasive Procedure:
+Pt received transfusions of 13 units PRBC's over 6 days to keep
+HCT>30.
+
+GI performed a colonoscopy, an EGD, and a push enteroscopy.
+
+History of Present Illness:
+Pt is a 71 yo female who presented to the MICU [**2768-6-20**]
+complaining of dark black stools and weakness.  She was found to
+have a HCT of 26, down from a baseline of 35. She has a  h/o
+chronic GIB from a cecal AVM that was clipped in [**12-31**];
+subsequently, the clip was presumed to have fallen off and
+passed through the GI tract.  No cecal AVM was detected on
+colonoscopy this admission.  Pt also has a remote h/o PUD with
+bleeding ulcer many years ago.
+
+
+Past Medical History:
+CAD s/p CABG in the [**2733**].
+
+s/p cath in [**3-31**] with stent placement in the RCA.
+
+Mechanical MV requiring anticoagulation with an INR goal of 2.5.
+
+
+Atrial fibrillation.
+
+CVA
+
+Hypertension
+
+CHF with EF=45%.
+
+Diet controlled DM.
+
+h/o gastritis
+
+h/o PUD with bleeding ulcer
+
+h/o cecal AVM
+
+
+Social History:
+Lives with husband.
+Denies use of tobacco, ETOH, or illicit drugs.
+
+Family History:
+Non-contributory.
+
+Physical Exam:
+Gen: Pale appearing female in NAD.
+VS: 98   106/31   69   18   100% 2L NC
+HEENT: NC/AT. PERRL. EOMI. MMM.  OP clear.
+Neck: Supple. No JVD.
+CVS: Irreg irregular.  Harsh III/VI sys murmur at LSB.  Mech S1.
+No S3.
+Lungs: CTAB. No rales, wheezes, or crackles.
+Abd: Soft, diffuse TTP. No rebound or guarding.
+Ext: No clubbing, cyanosis or edema.
+Rectal: Guiac +, per ED.
+
+Pertinent Results:
+[**2768-6-20**] 07:35AM   GLUCOSE-106* UREA N-161* CREAT-2.2*#
+SODIUM-138 POTASSIUM-5.0 CHLORIDE-100 TOTAL CO2-24 ANION GAP-19
+[**2768-6-20**] 07:35AM   CK(CPK)-39
+[**2768-6-20**] 07:35AM   cTropnT-<0.01
+[**2768-6-20**] 07:35AM   DIGOXIN-2.2*
+[**2768-6-20**] 07:35AM   WBC-9.4 RBC-3.17* HGB-9.2* HCT-26.1*# MCV-82
+MCH-28.9 MCHC-35.1* RDW-17.2*
+[**2768-6-20**] 07:35AM   PT-20.2* PTT-28.2 INR(PT)-2.7
+
+Brief Hospital Course:
+1) GI bleed:
+Pt initially hypotensive in MICU. Her BP medications were held.
+She was given IVFs and blood product, and she received a total
+of 13 U blood in MICU.  Her INR was 2.7 on admission, and she
+was given Vitamin K.  She was maintained on Heparin while her
+INR was subtherapeutic. Once hemodynamically stable and HCT>30,
+the pt began bowel prep for colonoscopy with GoLytely.  She
+required 12L GoLytely to clear her black, tarry stool.  Once INR
+was <1.6, the patient underwent GI procedures, to include
+colonoscopy, EGD, and push enteroscopy.  These studies did not
+show evidence of a bleeding source.  GI recommends a capsule
+endoscopy as an outpatient. The pt remains on a PPI. By [**6-29**],
+pt's HCT remained stable and she was transferred to the medical
+floor.
+
+2) ARF:
+Pt's Cr on admission was 2.2, up from a baseline of 0.8. Digoxin
+level was also elevated at 2.2.  Pt's Cr returned to baseline
+after hydration/administration of blood prodcuts.
+
+3) CAD:
+As noted above, the pt underwent cardiac cath in [**3-31**] w/
+placement of RCA stent. Cardiology was consulted, and the pt was
+maintained on her ASA, statin, and Plavix.  During her MICU
+stay, the pt had episodes of  chest pain with concurrent with
+ST-T changes on ECG  but negative cardiac enzymes.  The angina
+resolved following additional blood transfusion.  The pt
+ultimately was placed back on her BB and ACEi.
+
+4) Arrhythmia:
+The pt had atrial fibrillation throughout her stay in the MICU
+and was rate controlled primarily with IV lopressor.
+
+5) CHF:
+The pt's CHF was managed with IV lasix as needed. ECHO ([**6-20**])
+disclosed an EF 45%. She was eventually placed back on her ACEi
+and BB.  The Digoxin was initially held due to pt's acute renal
+failure on presentation.  Level eventually normalized, and pt
+was placed back on her Digoxin.
+
+6) Anticoagulation:
+The pt was transferred to the medical floor on [**6-29**]. She was
+maintained on a Heparin drip until her INR was therapeutic.
+
+Medications on Admission:
+1. Aspirin 81 mg Tabletq qd
+2. Metoprolol Succinate 50 mg Tablet Sustained Release qd
+3. Lisinopril- dose not known
+4. Allopurinol 300 mg Tablet qd
+5. Digoxin 250 mcg Tablet qd
+6. Furosemide 80 mg Tablet One (1) Tablet PO QAM
+7. Clopidogrel Bisulfate 75 mg qd
+8. Atorvastatin Calcium 40 mg qd
+9. Isosorbide Mononitrate 30 mg Tablet qd
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO QD (once a day).
+2. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO QD (once a day).
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Allopurinol 300 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+5. Digoxin 125 mcg Tablet Sig: Two (2) Tablet PO QD (once a
+day).
+6. Furosemide 80 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+7. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+8. Atorvastatin Calcium 40 mg Tablet Sig: Two (2) Tablet PO QD
+(once a day).
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+10. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO once a day.
+11. Coumadin 5 mg Tablet Sig: One (1) Tablet PO qM, T, Th,  F,
+and Sun.
+12. Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO qW and Sat.
+
+
+Discharge Disposition:
+Home with Service
+
+Discharge Diagnosis:
+CAD
+CHF
+A fib
+GI bleed, unclear etiology
+DM
+s/p Mitral Valve replacement
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Please call your PCP if you have recurrent GI bleeding.
+
+Followup Instructions:
+Pt will f/u with her PCP [**Last Name (NamePattern4) **] [**7-5**] for re-check of INR.
+Pt will f/u with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] at [**Hospital1 68**] on Friday, [**7-12**] at
+3:30 PM.
+
+
+
+
+
+
+DOC CLASS

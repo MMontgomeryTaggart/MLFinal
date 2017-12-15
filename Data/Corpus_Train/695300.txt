@@ -1,0 +1,238 @@
+TITLE: Physician Resident Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   - bolused Lasix 60 mg IV once in a.m. and once in p.m.
+   - bronchoscopy done: mild mucus plugging, did not look purulent, labs
+   sent
+   - ID recs: 1. continue meropenem. 2. f/u respiratory virus screen.3.
+   trend CK. 4. consider bronch
+   - ID attending recs: ? splinter hemorrhage
+   - pulm recs: 1. will do BAL LLL. 2. consider CT abd/pelvis if ?
+   (illegible). 3. favor antipsychotics for delirium over opioids/benzos.
+   4. CHF contributes.
+   - decreasing sedation overnight
+   Allergies:
+   Penicillins
+   Hives; Rash;
+   Ambien (Oral) (Zolpidem Tartrate)
+   Lightheadedness
+   Last dose of Antibiotics:
+   Vancomycin - [**2545-3-18**] 09:22 AM
+   Cefipime - [**2545-3-18**] 12:00 PM
+   Metronidazole - [**2545-3-18**] 04:00 PM
+   Meropenem - [**2545-3-20**] 12:00 AM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2545-3-19**] 08:30 AM
+   Heparin Sodium (Prophylaxis) - [**2545-3-19**] 03:52 PM
+   Furosemide (Lasix) - [**2545-3-19**] 05:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2545-3-20**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**47**] AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 38.5
+C (101.3
+   HR: 50 (50 - 54) bpm
+   BP: 120/58(73) {104/49(64) - 138/67(84)} mmHg
+   RR: 13 (9 - 18) insp/min
+   SpO2: 98%
+   Heart rhythm: V Paced
+   Wgt (current): 102.2 kg (admission): 105 kg
+   Height: 72 Inch
+    CVP: 12 (9 - 22)mmHg
+   Total In:
+                                                                  2,723 mL
+                                                                    696 mL
+   PO:
+   TF:
+                                                                  1,068 mL
+                                                                    384 mL
+   IVF:
+                                                                  1,235 mL
+                                                                    212 mL
+   Blood products:
+   Total out:
+                                                                  2,198 mL
+                                                                    840 mL
+   Urine:
+                                                                  2,198 mL
+                                                                    840 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    525 mL
+                                                                   -144 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 641 (294 - 1,200) mL
+   PS : 8 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 4
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   PIP: 21 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 55.6 cmH2O/mL
+   SpO2: 98%
+   ABG: 7.42/55/172/31/9
+   Ve: 5.2 L/min
+   PaO2 / FiO2: 430
+   Physical Examination
+   GENERAL: Intubated, sedated, responds to commands to open eyes and move
+   extremities.
+   CARDIAC: RRR. No M/G/R.
+   LUNGS: Ventilated breath sounds bilaterally. No rales appreciated.
+   ABDOMEN: Soft, NTND.
+   EXTREMITIES: Feet cool and mottled. Hands warm.
+   Labs / Radiology
+   345 K/uL
+   10.2 g/dL
+   175 mg/dL
+   1.0 mg/dL
+   31 mEq/L
+   4.3 mEq/L
+   45 mg/dL
+   105 mEq/L
+   146 mEq/L
+   32.6 %
+   11.4 K/uL
+        [image002.jpg]
+                             [**2545-3-18**]  05:03 AM
+                             [**2545-3-18**]  06:50 AM
+                             [**2545-3-18**]  09:14 AM
+                             [**2545-3-18**]  01:02 PM
+                             [**2545-3-18**]  03:51 PM
+                             [**2545-3-19**]  04:50 AM
+                             [**2545-3-19**]  04:55 AM
+                             [**2545-3-19**]  05:46 PM
+                             [**2545-3-19**]  05:59 PM
+                             [**2545-3-20**]  01:07 AM
+   WBC
+   11.4
+   Hct
+   30.8
+   32.6
+   Plt
+   345
+   Cr
+   1.0
+   0.9
+   1.0
+   1.0
+   TropT
+   0.02
+   TCO2
+   27
+   27
+   29
+   30
+   36
+   37
+   Glucose
+   157
+   167
+   175
+   Other labs: PT / PTT / INR:18.4/30.6/1.7, CK / CKMB /
+   Troponin-T:1312/3/0.02, ALT / AST:237/329, Alk Phos / T Bili:93/0.8,
+   Differential-Neuts:86.5 %, Lymph:7.5 %, Mono:4.7 %, Eos:1.1 %, Lactic
+   Acid:1.4 mmol/L, Albumin:3.3 g/dL, LDH:474 IU/L, Ca++:8.0 mg/dL,
+   Mg++:2.3 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   71 y/o M with PMHx significant for systolic HF (EF 20-25%), MI in '[**31**],
+   paroxysmal AV block, atrial fibrillation, h/o v.tach and v.fib s/p ICD
+   implantation, who presented to the ED with a chief complaint of
+   dyspnea, initially thought to be due to CHF exacerbation with
+   infiltrate, fever, white count consistent with PNA.
+   .
+   # Hypoxemic respiratory failure:  Was intubated on [**3-13**] for hypoxemia.
+   Etiology likely pneumonia + heart failure. Respiratory status improving
+   clinically and radiographically. Main barrier to extubation is
+   sedation.  s/p bronchoscopy/BAL [**2545-3-20**].
+   - continue mechanical ventilation, with daily spontaneous breathing
+   trials, including this p.m.
+   - continue meropenem monotherapy
+   - f/u pending cultures (no positive micro data to date)
+   .
+   # Fever: Source unclear. Initially attributed to pneumonia, but patient
+   has continued to spike high fevers in spite of Tylenol, antibiotics,
+   and improvement in respiratory status. ID following.
+   - CT abd/pelvis and CT sinuses
+   - continue meropenem monotherapy
+   - f/u ID recs
+   - f/u pending microbiological studies
+   .
+   # Chronic systolic heart failure: Patient with EF 20-25%. Currently
+   euvolemic to hypovolemic.
+   - continue to monitor fluid status
+   - continue metoprolol [**Hospital1 7**]
+   - holding diuresis today
+   # Elevated CK: Likely caused by stain (possibly exacerbated by
+   concurrent azithromycin therapy).  CK trending down.
+   - continue to trend CK
+   - no further IV fluids at this point, as CK not at a significant enough
+   level to cause renal failure
+   - holding statin
+   .
+   # Hyperglycemia: No known history of diabetes. Contributing factors
+   include stress response to infection, h/o pancreatic resection,
+   infusion of meds in D5W.
+   - insulin sliding scale
+   - continue basal insulin that was added yesterday
+   .
+   # CORONARIES: Pt has a history of an anterior wall MI in [**2531**]. Of note,
+   the patient did report some chest pressure previously, but this has
+   since resolved.  MI ruled out with 3 sets of cardiac enzymes.
+   - continue aspirin, simvastatin, metoprolol
+   .
+   # Atrial fibrillation: Pt with a history of a.fib, for which he is on
+   coumadin. His INR is currently subtherapeutic. Telemetry currently
+   showing v-paced rhythm.
+   - metoprolol [**Hospital1 7**]
+   - continue Coumadin; trend INR
+   - heparin SQ for DVT ppx while subtherapeutic INR
+   .
+   # s/p ICD: high impedance. LV lead dysfunction
+   -pacer revison in future
+   -if develops VT, will need external therapy as ICD is not functioning
+   .
+   # Hypothyroidism:
+   - continue levothyroxine 50 mcg daily
+   .
+   # Anemia: Pt with a history of anemia, baseline Hct of approx. 33-35.
+   Hct gradually trending down. No evidence of bleeding.
+   - continue iron supplementation
+   - continue to trend hct
+   .
+   # S/p Whipple: On tube feeds.
+   - Holding pancreatic enzyme supplementation while on tube feeds.
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2545-3-20**] 06:11 AM 55 mL/hour
+   Glycemic Control:  Lantus + Humalog insulin sliding scale
+   Lines:
+   Arterial Line - [**2545-3-13**] 09:13 PM
+   Multi Lumen - [**2545-3-14**] 10:00 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin; Coumadin
+   Stress ulcer: PPI
+   VAP:  HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

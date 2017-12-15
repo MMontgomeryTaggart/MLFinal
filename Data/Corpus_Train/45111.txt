@@ -1,0 +1,427 @@
+Admission Date:  [**3295-8-15**]              Discharge Date:   [**3295-8-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+[**Doctor First Name 2238**]
+
+Attending:[**First Name3 (LF) 607**]
+Chief Complaint:
+Increased lower extremity edema and change in mental status
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is an 84 yo female with a history of dementia, htn,
+hypothyroidism, TIA ([**9-29**]) who is being transferred to the CCU
+for hypotension, hypoxia, and altered mental status.  She was
+initially admitted overnight on [**8-15**] to the general medicine
+service.  She presented from a long term care facility with
+increased confusion and new lower extremity edema.  Her
+daugheter expressed that her mother had decreased appetite and
+confusion over the last 10 days.  Doctors at [**Name5 (PTitle) **] nursing home
+started her on Remeron.  Per her nursing facility records she
+gained 10 lbs in 2 days.  Presumably for this reason she was
+referred for a cardiology evaluation (appt scheduled with Dr.
+[**First Name (STitle) 205**] [**8-22**].)  However, she became increasingly confused and
+unable to take [**Last Name (LF) **], [**First Name3 (LF) **] she was referred to [**Hospital1 4**] ED.
+.
+In the ED, VS: 96.4 73 123/91 18 97% on 4L. Patient agitated and
+given haldol 5mg IV x 1. She also received 1mg IV ativan prior
+to CT head which was negative. A CXR showed bilateral pleural
+effusions L>R and moderate pulmonary edema.  ECG was read as
+unchanged from prior tracing [**9-29**]. Troponin was .29, rising to
+0.36. BNP was >8000.  Cardiology was consulted and felt this
+troponin bump most likely attributed to heart failure rather
+than ACS. Patient admitted to medicine for further work-up of
+CHF.
+.
+Upon arrival to the floor, patient had a 4 L O2 requirement and
+appeared volume overloaded.  ABG 7.44/73/32 on 4L.  She was
+given 80 mg IV lasix, after which she made 700 cc urine within 1
+hour.  SBP fell from baseline 140s to a low of 67.  Her mental
+status continued to be arousable but drowsy.  She was given ~100
+cc NS and SBP rose into the 80s.  Notably,  her respiratory
+status apparently improved and O2 Sats rose to upper 90s on 4L.
+.
+There was suspicion for pulmonary embolism as a cause of her
+hypoxia.  CT for PE could not be done secondary to poor renal
+function.  Echocardiocardiogram was done to evaluate for signs
+of R heart strain, and indeed demonstrated severe RV dilatation
+and abnormal septal motion consistent with RV pressure/volume
+overload new compared to prior echo 10/[**3293**]. PA pressures could
+not be estimated.  Small pericardial effusion was also noted.
+Heparin gtt without initial bolus was started for empiric
+treatment of PE.
+.
+The patient's urine output trailed off to ~15cc/h, her SBP
+remained in the 80s, and her mental status continued to be
+suboptimal.  Thus, transfer to the CCU was initiated for workup
+of new RV dilatation, apparent R sided heart failure, further
+diuresis in the setting of borderline hypotension and preload
+dependence, and altered mental status.
+.
+On arrival to the CCU, patient was initially lethargic and could
+provide only limited information.  She denied any difficulty
+breathing or chest pain.  She further denied nausea or abdominal
+pain.  Her only complaint is feeling extremely cold.
+
+Past Medical History:
+(per nursing facility records and OMR):
+HTN
+TIA
+Dementia
+Hypothyroidism, hx [**Doctor Last Name 2217**] disease, s/p RAI Rx [**3225**]
+Anemia
+Urge Incontinence
+Osteopenia
+Vitamin B12 deficiency
+
+
+Social History:
+Patient currently resides at [**First Name4 (NamePattern1) 3735**] [**Last Name (NamePattern1) **] Nursing center in
+[**Location (un) 79**] after being hospitalized at [**Hospital1 4**] for burns she
+sustained on her legs 2/[**3293**].  At that time she was found to be
+living in sub-optimal conditions with her daughter in a run-down
+house which was poorly insulated therefore needing a lot of
+space heaters that led to pts burns. Pt was also appointed a
+healthcare proxy. [**Name (NI) **] current tobacco, alcohol, or IVDA. (Per
+OMR)
+
+Family History:
+Per daughter: Brother with [**Name2 (NI) 2719**] cancer in his 60s or 70s.
+Sister with breast cancer in her 70s. Another sister with
+thyroid cancer, ?kidney/pancreas mass. Per OMR: Her mother
+"dropped dead" in her 40s/50s in front of her (sudden death).
+Her sister "dropped dead" at age 23 in front of her (sudden
+death).  Her father died in his 50s of unknown cause, and had a
+history of arthritis.  She has 11 siblings who have died, none
+suddenly or from known cardiac causes.
+
+Physical Exam:
+Vitals - Temp 99.6 Rectally BP 146/53 HR 71 RR 23 Sat 99% 3L NC
+GENERAL: lethargic appearing African American female, arousable
+to sternal rub and drowsy during examination
+HEENT: Normocephalic, atraumatic. No scleral icterus. pupils
+constricted bilaterally. MMM. OP clear. Neck Supple, No LAD
+CARDIAC: Regular rhythm, normal rate. Normal S1, Split S2. No
+murmurs, rubs or gallops. No pericardial knock.  Appropriate
+decrease in JVP with respirations. No pulsus parodoxus. No
+hepatojugular reflex appreciated.
+LUNGS: Dependent crackles currently laying on the left side.
+Decreased breath sounds at the bases.
+ABDOMEN: Normal active BS. Soft, NT, ND. No HSM
+EXTREMITIES: 2+ LE edema R>L Dopplerable DP/PT bilaterally.
+SKIN: No rashes/lesions, ecchymoses. Scar on right shin well
+healed.
+NEURO: AOx 1 (person) she is under the impression that she's
+currently at "[**Location (un) **]." Moving all 4 extremities. Unable to
+perform rest of neurologic evaluation given pt would not comply.
+Grossly face is symmetric.
+
+Pertinent Results:
+LABS ON ADMISSION:
+[**3295-8-15**] 07:45PM BLOOD WBC-4.7 RBC-5.97*# Hgb-14.8 Hct-44.3#
+MCV-74* MCH-24.7*# MCHC-33.4 RDW-17.7* Plt Ct-144*
+[**3295-8-15**] 07:45PM BLOOD Neuts-71.8* Lymphs-20.8 Monos-6.8 Eos-0.4
+Baso-0.2
+[**3295-8-16**] 11:30AM BLOOD PT-15.7* PTT-40.1* INR(PT)-1.4*
+[**3295-8-15**] 07:45PM BLOOD Glucose-131* UreaN-21* Creat-1.3* Na-134
+K-4.6 Cl-104 HCO3-22 AnGap-13
+[**3295-8-15**] 07:45PM BLOOD Free T4-1.3
+[**3295-8-15**] 07:45PM BLOOD TSH-3.7
+[**3295-8-15**] 07:45PM BLOOD Calcium-8.8 Phos-3.7 Mg-2.1
+
+CARDIAC ENZYMES:
+[**3295-8-15**] 07:45PM BLOOD CK(CPK)-55; CK-MB-5 proBNP-8096*;
+cTropnT-0.29*
+[**3295-8-16**] 01:08AM BLOOD CK-MB-5; cTropnT-0.36*
+[**3295-8-16**] 11:30AM BLOOD CK(CPK)-135; CK-MB-5 cTropnT-0.43*
+[**3295-8-16**] 07:00PM BLOOD CK(CPK)-114; CK-MB-5 cTropnT-0.44*
+[**3295-8-17**] 01:25AM BLOOD CK(CPK)-97; CK-MB-NotDone cTropnT-0.46*
+[**3295-8-19**] 04:45AM BLOOD cTropnT-0.36*
+
+RELEVANT INTERVAL LABS
+[**3295-8-18**] 11:40PM BLOOD LMWH-0.4
+[**3295-8-16**] 11:30AM BLOOD Albumin-3.1* Calcium-8.3* Phos-3.5 Mg-2.0
+[**3295-8-16**] 11:30AM BLOOD D-Dimer-5451*
+
+LABS AT DISCHARGE:
+[**3295-8-23**] 07:30AM BLOOD WBC-4.4 RBC-5.37 Hgb-13.1 Hct-40.1
+MCV-75* MCH-24.4* MCHC-32.7 RDW-18.7* Plt Ct-134*
+[**3295-8-23**] 07:30AM BLOOD PT-31.7* PTT-68.9* INR(PT)-3.2*
+[**3295-8-23**] 07:30AM BLOOD Glucose-101 UreaN-20 Creat-1.1 Na-145
+K-4.0 Cl-110* HCO3-26 AnGap-13
+
+MICROBIOLOGY
+[**3295-8-15**] Urine Cx: No growth.
+[**3295-8-15**] Blood Cx: No growth.
+[**3295-8-16**] Blood Cx: No growth.
+
+STUDIES:
+ECG [**3295-8-15**]:
+Sinus rhythm. Consider left atrial abnormality. Indeterminate
+axis. There is an SI-Q3-T3 pattern. Modest right ventricular
+conduction delay pattern. Delayed R wave progression with late
+precordial QRS transition. Diffuse T wave abnormalities.
+Findings are non-specific but clinical correlation is suggested
+for possible right ventricular overload. Compared to the
+previous tracing of [**3294-10-17**] findings as outlined are now
+present.
+
+ECHO [**3295-8-16**]:
+The left atrium is normal in size. Left ventricular wall
+thickness, cavity size, and global systolic function are normal
+(LVEF>55%). Due to suboptimal technical quality, a focal wall
+motion abnormality cannot be fully excluded. The right
+ventricular cavity is markedly dilated. Right ventricular
+regional function cannot be assessed. There is abnormal systolic
+septal motion/position consistent with right ventricular
+pressure overload. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. Trace aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is mild mitral valve prolapse. Trivial mitral
+regurgitation is seen. The supporting structures of the
+tricuspid valve are thickened/fibrotic. There is at least
+borderline pulmonary artery systolic hypertension. There is a
+small pericardial effusion. The effusion appears
+circumferential.
+IMPRESSION: Suboptimal image quality. Severe right ventricular
+dilation. Abnormal septal motion consistent with right
+ventricular pressure/volume overload. Pulmonary pressures cannot
+be adequately assessed. Preserved global systolic function.
+Small circumferential pericardial effusion.
+Compared with the prior study (images reviewed) of [**3294-10-18**],
+severe right ventircular dilation is now present. The right
+ventricle appears to have been mild to moderately dilated on
+prior study, but views were limited.
+
+CXR [**3295-8-16**]:
+AP chest compared to [**8-16**], 3:46 a.m., heterogeneous
+bibasilar opacification has worsened. In the setting of
+progressive moderate-to-severe cardiomegaly and upper lobe
+vascular engorgement, this is most readily explained by
+dependent pulmonary edema, but pneumonia particularly aspiration
+could be contributing. Bilateral pleural effusion is at least
+small. Leftward deviation of the trachea at the thoracic inlet
+developed since [**3294-9-22**] could be due to progressive
+tortuosity of the innominate artery or interval development of a
+space-occupying lesion, most commonly a goiter but not
+necessarily benign. When feasible, clinical evaluation is
+recommended.
+
+CXR [**3295-8-17**]:
+Opacification at the lung bases is improving and moderate
+cardiomegaly may have improved as well all pointing toward
+decreasing cardiac decompensation and improving pulmonary edema.
+Small bilateral pleural effusions persist left greater than
+right. The greater extent of opacification at the left lung base
+makes pneumonia a possibility. Leftward displacement of the
+trachea at the thoracic inlet points to a space occupying lesion
+such as a goiter, but requires evaluation since this is a new
+finding since [**3294-9-22**]. Dr. [**Last Name (STitle) **] was paged.
+
+EKG [**3295-8-18**]:
+Sinus rhythm. Non-specific ST-T wave changes. Compared to the
+previous
+tracing of [**3295-8-17**] ventricular ectopy is resolved.
+
+CTA Chest [**3295-8-18**]: Dilatation of the right atrium, ventricle,
+and pulmonary artery with filling defect in the main pulmonary
+artery which extends into the left pulmonary arteries. There is
+also bowing of the interventricular septum suggesting right
+heart strain. This filling defect in the pulmonary artery could
+represent a saddle embolism, however, due to the increased
+density of contrast and early bolus timing, mixing artifact in
+the pulmonary artery should also be considered. The case was
+discussed with Dr. [**Last Name (STitle) **] and a decision to anticoagulate and
+repeat the study at a later date was planned due to elevated
+creatinine.
+Moderate-to-large bilateral pleural effusions.
+
+Brief Hospital Course:
+84 yo female with dementia (AAO x [**12-24**]), CAD s/p NSTEMI in [**1-30**],
+TIA in [**9-29**], hypothyroidism, stable meningioma p/w increased
+lethargy, weight gain, and LE edema, hypoxic to 94% 4L on
+presentation found to be in acute right sided diastolic failure
+secondary to pulmonary embolism.
+
+1. Acute diastolic right heart failure: On [**Name (NI) **], pt with severe
+RV dilatation new since [**9-29**], at least borderline PA systolic
+HTN, and nl LVEF. LENIs negative and subsequent CTA equivocal
+(saddle-embolic v. mixing artifact w/ suboptimal study) but
+submassive-massive subacute PE most likely etiology of RV
+failure; LV failure may have been due to RV impingement of LV
+filling. Pt was started on heparin for treatment of PE, and
+later transitioned to warfarin 5mg with lovenox bridging.
+Lovenox was discontinued on [**8-22**] given supratherapeutic INR of
+3.2, and warfarin held [**8-22**] and restarted at 2.5mg on [**3295-8-23**].
+Pt's INR to be monitored at longterm nursing facility with goal
+INR [**1-25**]. She will likely require at least a one-year course of
+anticoagulation given her degree of cardiac impairment, with the
+duration to be weighed against the risk of bleed. Her ASA was
+decreased to 81mg daily given starting of warfarin.
+
+2. Left heart failure: Pt fluid overloaded on presentation. [**Month/Day (3) **]
+showed nl EF although some degree of diastolic dysfunction was
+suspected. It was postulated that RV dilatation have been
+impinging on LV filling and forward flow due to the septal wall
+motion abnormality observed. Pt was transferred to CCU initially
+as she became hemodynamically unstable in the setting of
+diuresis, likely due to her preload dependence. In the CCU, she
+was first diuresed with a furosemide drip, then transitioned to
+IV boluses and with good effect. She was transferred back to the
+floor after ~2.5L diuresis with stable BP and O2 sats 90-94% RA.
+She appeared to have improving forward flow and on discharge,
+O2sat 93% on RA and furosemide requirement 20 mg PO daily, with
+possibility of weaning patient off furosemide in outpatient
+setting. Patient did have some desaturation to 80s% during
+night, possibly OSA, but CPAP would not be tolerated due to her
+dementia.
+.
+3. Acute renal failure: Baseline creatinine 0.9. On admission,
+it was 1.3, reaching a peak of 1.4 in the CCU. This was thought
+secondary to poor forward flow in the setting of CHF. This
+improved back to baseline with diuresis. She did receive
+Mucomyst for her CTA chest, and all of her medications were
+renally dosed.
+.
+4. Confusion/Lethargy: Patient with waxing and [**Doctor Last Name 974**] level of
+consciousness on admission as well as intermittent
+disorientation. This was likely secondary to medication effect
+from ativan and haldol received in the ED as well as due to
+acute illness including hypoxia and hypotension. CT head
+negative; urine culture negative, and blood cultures with no
+growth; TFTs nl; electrolytes nl; BUN elevated but not frankly
+uremic level. Her Remeron (started recently for anorexia) was
+held. Her mental status significantly improved within 48 hrs
+with pt becoming more animated and interactive although she was
+unable to state the season, DOB, and where she currently
+resides.  She did have several nights of agitation requiring
+soft restraints and IV Haldol, but 2 nights before discharge,
+patient slept through the night and did not require chemical or
+mechanical restraints. Patient was oriented x1 by discharge,
+which appears to be similar to baseline dementia.
+.
+5. Anorexia: Daughter and HCP reported declining ability to take
+PO. Possibly secondary to worsening dementia vs. subacute
+medical illness. Remeron was recently started for this, unclear
+if this had been helpful.  As mentioned above her Remeron was
+held since it was thought to possibly be contributing to her
+change in mental status.  A nutrition consult was requested, and
+they recommended low sodium diet of pureed solids, thin liquids,
+and Ensure supplements. Because the patient did not consistently
+finish PO meals, nutrition recommended 1584 Kcal/70g protein
+tube feeds at 55 ml/hr if it was consistent with the patient's
+goals of care. The patient's guardian [**Name (NI) 3436**] [**Name (NI) 25400**] stated that
+tube feeds were not desired at this time. A speech and swallow
+consult was sought since patient has dementia and is at risk for
+aspiration. We encourage supervised feedings once the patient
+returns to her nursing home.
+.
+6. Bradycardia: Pt had been on metoprolol per NH records
+although this had been discontinued per her most recent PCP note
+in [**10-30**] due to possible role in TIA. She also had been noted to
+have asymptomatic episodes of bradycardia to 30s in the past
+which were also observed on this admission. For these reasons,
+her metoprolol was once again discontinued on this admission.
+
+Medications on Admission:
+Senna 2 tabs qhs
+ASA 325 mg daily
+Vitamin B12 1000mcg daily
+Synthroid 125 mcg daily
+Simvastatin 40mg daily
+Colace 1 cap [**Hospital1 **]
+Mylanta 30ml [**Hospital1 **]
+Robitussin 10mg Q4: PRN cough
+Tylenol 650mg Q6hrs:PRN
+Milk of Mag PRN
+Fleet Enema PRN
+Remeron
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as
+needed for constipation.
+5. Cyanocobalamin 100 mcg Tablet Sig: Ten (10) Tablet PO DAILY
+(Daily).
+6. Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg
+PO BID (2 times a day) as needed for constipation.
+7. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+10. Milk of Magnesia 400 mg/5 mL Suspension Sig: [**5-6**] ml PO
+twice a day as needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 3735**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 79**]
+
+Discharge Diagnosis:
+Primary:
+- Massive pulmonary embolism
+- Acute diastolic heart failure
+- Non-thrombotic troponin elevation
+- Acute renal failure
+- Delirium
+
+Secondary diagnosis:
+- Hypothyroidism
+- Hypertension
+- Dementia
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted with increased lower extremity swelling,
+increased weakness, weight gain, and decreased oxygenation. You
+were found to have a clot in your lung that was responsible for
+fluid overload. You were initially admitted to the cardiac
+intensive care unit and was treated with medications to decrease
+fluid overload. You were also started on blood thinning
+medications.
+
+Please continue your home medications with the following
+additions and changes:
+- You need to take warfarin (Coumadin) blood thinning pills.
+- You need to take furosemide (Lasix) to prevent fluid buildup.
+- Please stop taking your metoprolol due to slow heart rate.
+- Please stop taking your Remeron due to leading to increased
+sleepiness.
+
+Please weigh yourself daily. Please call your primary care
+physician or return to the hospital if you experience any
+increased shortness of breath, palpitations, chest pain, lower
+extremity swelling, if you gain more than 3 lbs, or for any
+other concerning symptoms.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 19**]
+Date/Time:[**3295-8-30**] 10:30
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 21707**], M.D. Date/Time:[**3295-9-27**] 12:20
+
+
+
+Completed by:[**3295-8-24**]
+
+
+DOC CLASS

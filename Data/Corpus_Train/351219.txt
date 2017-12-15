@@ -1,0 +1,255 @@
+Chief Complaint: complex bleeding/clotting disorder --> pulm hemorrhage
+   --> resp failure --> inability to wean
+   24 Hour Events:
+   Started Vanc/[**Last Name (un) **]/Cipro for VAP in LLL
+   Trach delayed until today
+   Prednisone weaned to 10 mg
+   Hyponatremia remains significant issue
+   Allergies:
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Rash;
+   Penicillins
+   Rash;
+   Dicloxacillin
+   Rash;
+   Morphine
+   Unknown;
+   Compazine (Oral) (Prochlorperazine Maleate)
+   Unknown; dyston
+   Reglan (Oral) (Metoclopramide Hcl)
+   Unknown; parkin
+   Last dose of Antibiotics:
+   Vancomycin - [**3032-12-11**] 06:38 PM
+   Ciprofloxacin - [**3032-12-12**] 08:00 PM
+   Meropenem - [**3032-12-13**] 01:53 AM
+   Infusions:
+   Propofol - 50 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Ear, Nose, Throat: OG / NG tube
+   Nutritional Support: NPO, Tube feeds
+   Genitourinary: Foley
+   Flowsheet Data as of  [**3032-12-13**] 08:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.8
+C (98.3
+   HR: 76 (66 - 80) bpm
+   BP: 160/79(100) {109/54(67) - 162/81(102)} mmHg
+   RR: 25 (16 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 45.1 kg (admission): 50 kg
+             Total In:
+                                                                  1,368 mL
+                                                                    330 mL
+   PO:
+             TF:
+                                                                    176 mL
+   IVF:
+                                                                    832 mL
+                                                                    270 mL
+   Blood products:
+   Total out:
+                                                                     20 mL
+                                                                     23 mL
+   Urine:
+                                                                     20 mL
+                                                                     23 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,348 mL
+                                                                    307 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 337 (311 - 475) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 21
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 47
+   PIP: 10 cmH2O
+   SpO2: 100%
+   ABG: ///22/
+   Ve: 6.9 L/min
+   Physical Examination
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear :
+   ),  limited anterior exam
+   Abdominal: Soft, Bowel sounds present, Distended
+   Extremities: Right: Absent, Left: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm, No(t) Rash: in limited exam
+   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   157 K/uL
+   8.8 g/dL
+   76 mg/dL
+   4.1 mg/dL
+   22 mEq/L
+   3.9 mEq/L
+   49 mg/dL
+   89 mEq/L
+   126 mEq/L
+   24.2 %
+   3.1 K/uL
+        [image002.jpg]
+                            [**3032-12-9**]  05:03 PM
+                            [**3032-12-10**]  12:46 AM
+                            [**3032-12-10**]  03:03 AM
+                            [**3032-12-10**]  01:29 PM
+                            [**3032-12-11**]  02:22 AM
+                            [**3032-12-11**]  05:45 PM
+                            [**3032-12-11**]  09:57 PM
+                            [**3032-12-12**]  03:33 AM
+                            [**3032-12-12**]  03:27 PM
+                            [**3032-12-13**]  03:29 AM
+   WBC
+   7.1
+   4.7
+   3.2
+   3.1
+   Hct
+   32.5
+   31.0
+   28.4
+   28.2
+   26.6
+   24.2
+   Plt
+   134
+   132
+   135
+   157
+   Cr
+   4.3
+   4.3
+   4.9
+   5.7
+   2.5
+   2.7
+   3.1
+   3.7
+   4.1
+   Glucose
+   80
+   77
+   100
+   79
+   80
+   103
+   89
+   83
+   76
+   Other labs: PT / PTT / INR:13.2/32.7/1.1, CK / CKMB / Troponin-T:45//,
+   ALT / AST:34/35, Alk Phos / T Bili:107/0.6, Differential-Neuts:86.9 %,
+   Lymph:6.3 %, Mono:3.6 %, Eos:3.0 %, Fibrinogen:565 mg/dL, Lactic
+   Acid:0.6 mmol/L, Albumin:3.1 g/dL, LDH:587 IU/L, Ca++:8.4 mg/dL,
+   Mg++:1.9 mg/dL, PO4:5.2 mg/dL
+   Assessment and Plan
+   54 year old woman with respiratory failure, coagulopathy (TMA, PAI
+   def.), and renal failure.
+   RESPIRATORY FAILURE: failed extubation [**12-6**] most likely due to
+   weakness, likely steroid myopathy. RSBI . We have decreased steroid
+   dosing with the hopes of improving strength; we will titrate down
+   further; going to 10 mg daily starting in the AM.
+   * VENTILATOR-ACQUIRED PNEUMONIA: after 14+ days on vent, LLL
+   consolidation after fever. Presumed ventilator-acquired pneumonia. No
+   culture data yet.
+   - Treating with vancomycin and meropenem and cipro.
+   - Follow cultures closely to try to peel off antibiotics
+   - Follow CXRs; stable to slightly improved today
+   * PULMONARY HEMORRHAGE: No current evidence of new hemorrhage or [**Doctor Last Name **].
+   Heparin still off.
+   * MECHANICAL VENTILATION
+   Trach today. As prior we believe that risk of reintubation is
+   considerable, and we can not reliably say she would be able to wean
+   from the vent. NIFs -17 x2 suggesting poor inspiratory strength.
+   Deferred for infection x 2 days, but likely to be able to go to OR
+   today. Appreciate thoracics involvement in this patient
+s care.
+   ALTERED MENTAL STATUS: Mental status remains unclear. Myopathy likely
+   contributing to muscular weakness/dysfunction. Myopathy alone may not
+   be able to explain all of her apparent deficit, but MRI brain and spine
+   are essentially unrevealing with non-specific abnormalities that seem
+   unlikely to explain the global nature of her deficits.
+   - restarted ziprasidone
+   - tapering steroids as above
+   - minimize sedation, frequent wake-ups
+   - consider bolus pain treatment rather than ongoing sedation if patient
+   appears uncomfortable
+   - although metabolic changes do not seem to make major differences in
+   mental status, a more sustained trial of daily dialysis might resolve
+   hyponatremia over a more sustained period, would be helpful to know if
+   this improved mental status
+   ABDOMINAL ILEUS:  Stooling not recorded. Continuing nalaxone,
+   lactulose. No tube feeds this AM for OR.
+   - instill lactulose, naloxone in OG tube
+   - iv erythromycin as needed
+   -cont  bowel regimen
+   ACUTE ON CHRONIC RENAL FAILURE
+   Graft damage due to thrombotic microangiopathy; no donor antibodies.
+   Her transplanted kidney is likely not to recover function, but still
+   continuing immune suppression against rejection for now
+   - appreciate renal input
+   - continue steroids for renal and heme purposes; continuing renal dose
+   as above
+   - continue mycophenolate mofetil
+   - continue with HD on Sat/Tues/Thurs schedule
+   - VBG and lytes after rounds
+   THROMBOTIC DISORDER WITH HEMOLYTIC ANEMIA, PAI inhibition. No
+   significant bleeding today. Steadily declining Hct c/w ongoing slow
+   hemolytic process.
+   -          continue steroid tx at reduced dose (10 mg currently)
+   -          follow LDH and smears; appreciate heme/onc note that TMA may
+   continue apace even with relatively moderate LDH compared to prior
+   values; LDH continues to be stable or slightly declining
+   -          Hct, transfuse <25
+   HYPERTENSION. Hypertensive at baseline, especially when having active
+   thrombotic microangiopathy.  Also has h/o hypertensive crisis and
+   seizures in the context of extreme hypertension.  BP improved control
+   on captopril
+   - cont metoprolol and captopril
+   - continue hydral 10 mg IV prn
+   - nitro drip if uncontrolled with standing and bolus meds
+   - dialysis regularly appears to be best anti-hypertensive measure
+   - goal BP <160
+   HYPONATREMIA
+   Returns on non-HD days. Consider daily dialysis as above as trial to
+   improve mental status.
+   DEPRESSION/ANXIETY: Restarted ziprasidone.
+   ICU Care
+   Nutrition: holding tube feeds for OR
+   Glycemic Control:  ISS
+   Lines:
+   PICC Line - [**3032-12-4**] 02:59 PM
+   Dialysis Catheter - [**3032-12-5**] 03:24 PM
+   20 Gauge - [**3032-12-11**] 08:35 AM
+   Prophylaxis:
+   DVT: boots
+   Stress ulcer: PPI
+   VAP:  per VAP protocol
+   Comments:
+   Communication:  Comments: with family
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

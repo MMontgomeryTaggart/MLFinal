@@ -1,0 +1,185 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Allergies:
+   Amoxicillin
+   Rash;
+   Adhesive Bandage (Topical)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3274-10-12**] 08:00 AM
+   Metronidazole - [**3274-10-12**] 10:00 AM
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3274-10-12**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3274-10-12**] 04:20 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 36.6
+C (97.8
+   HR: 119 (93 - 126) bpm
+   BP: 151/76(89) {100/45(57) - 151/76(89)} mmHg
+   RR: 12 (11 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 69.9 kg (admission): 65 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,589 mL
+                                                                  1,761 mL
+   PO:
+             150 mL
+   TF:
+   IVF:
+                                                                  1,269 mL
+                                                                  1,181 mL
+   Blood products:
+   Total out:
+                                                                    470 mL
+                                                                    704 mL
+   Urine:
+                                                                    470 mL
+                                                                    704 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,119 mL
+                                                                  1,057 mL
+   Respiratory support
+   O2 Delivery Device: None
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 936 (936 - 1,239) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 13
+   PIP: 11 cmH2O
+   SpO2: 96%
+   ABG: ///15/
+   Ve: 14.6 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   8.7 g/dL
+   86 K/uL
+   110 mg/dL
+   1.1 mg/dL
+   15 mEq/L
+   4.0 mEq/L
+   22 mg/dL
+   105 mEq/L
+   132 mEq/L
+   25.9 %
+   14.7 K/uL
+        [image002.jpg]
+                            [**3274-10-7**]  07:44 PM
+                            [**3274-10-8**]  04:42 AM
+                            [**3274-10-8**]  09:07 AM
+                            [**3274-10-11**]  05:50 AM
+                            [**3274-10-11**]  07:19 AM
+                            [**3274-10-11**]  09:21 AM
+                            [**3274-10-11**]  09:38 AM
+                            [**3274-10-11**]  02:47 PM
+                            [**3274-10-11**]  06:39 PM
+                            [**3274-10-12**]  04:00 AM
+   WBC
+   10.6
+   9.8
+   18.6
+   14.7
+   Hct
+   27.9
+   30
+   28.1
+   27.3
+   25.9
+   Plt
+   123
+   92
+   86
+   86
+   Cr
+   0.8
+   0.8
+   0.9
+   1.0
+   1.0
+   1.1
+   TCO2
+   20
+   18
+   17
+   Glucose
+   143
+   105
+   107
+   113
+   129
+   103
+   110
+   Other labs: PT / PTT / INR:22.6/58.2/2.2, ALT / AST:82/138, Alk Phos /
+   T Bili:180/5.8, Amylase / Lipase:126/104, Differential-Neuts:86.4 %,
+   Lymph:6.3 %, Mono:6.8 %, Eos:0.5 %, Lactic Acid:3.3 mmol/L, Albumin:2.8
+   g/dL, LDH:315 IU/L, Ca++:8.3 mg/dL, Mg++:2.4 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   41 yo male with hx of HepC and EtOh cirrhosis with 4 admissions to ICU
+   this month for altered mental status possibly complicated by sleep
+   disordered breathing which have led to intuabtion each time, currently
+   he is back to baseline.
+   >Altered Mental status/Intubation: once again he has improved to what
+   appears to be near his baseline with lactulose therapy. There is no
+   concern for AIP or subclinical status at this point.  We are currently
+   weighing the merits of tracheostomy in this patient given the number of
+   intubations he has had in the past. It may be helpful with ventilation
+   in the evening.
+   - cont bolus sedation pending outcome of trach discussion
+   - PS ventilation as above.
+   >Liver failure: followed by liver service, on lactulose, rifax and
+   flagy for clearance
+   - cont above regimen
+   Hyponatremia:  slowly improving over the past 24 hrs, we will cont to
+   trend.  His Uosm and Fena were consistent with
+   Lactate: most likely [**12-23**] underlying liver  dysfunction, he has had a
+   similar oscillating in the past.
+   Elevated WBC/mild fever: appears to be consistent with stress event as
+   the WBC has improved markedly. If course begins to change we will need
+   to consider paracentesis although he is on prophylaxis. Notably last
+   tap was bland.
+   - check c. dif
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3274-10-11**] 08:10 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :
+   Total time spent:
+
+
+
+DOC CLASS

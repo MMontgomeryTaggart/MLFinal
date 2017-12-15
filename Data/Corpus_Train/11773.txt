@@ -1,0 +1,241 @@
+Admission Date:  [**3101-8-9**]              Discharge Date:   [**3101-8-18**]
+
+Date of Birth:  [**3058-11-11**]             Sex:   M
+
+Service: PLASTIC
+
+Allergies:
+Amphotericin B / Ambisome / Campath
+
+Attending:[**First Name3 (LF) 5738**]
+Chief Complaint:
+Right facial wound and cervicofacial sarcoma.
+
+
+Major Surgical or Invasive Procedure:
+1. Right anterolateral free flap to right face using the
+   right facial artery and common facial vein.
+2. Repair of orocutaneous fistula.
+3. Split thickness skin graft 14 x 20 cm at 0.014 inch.
+4. Closure of extensive cervicofacial defect which included
+    exposed zygoma, exposed maxillary bone, exposed lateral
+    portion of the frontal bone.
+
+
+History of Present Illness:
+The patient is a 42-year-old male
+who is a patient of Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] with a history of
+total body irradiation as well as graft versus host disease
+following bone marrow transplant several years ago.  The patient
+then had subsequently developed lesion of the right facial
+region
+as well as the left cheek area that was biopsied approximately 1
+week ago.  He was seen in the operating room at [**Location (un) 10596**]
+originally for assessment of the wound.  The lesion was fully
+excised and margins were sent off and a bolster dressing was
+placed.  He presents to the office for changes of the dressing
+and removal of the bolster and preoperative planning.
+
+Past Medical History:
+#. MUD allo BMT [**8-4**] for CML, c/b GVHD, chronic
+thrombocytopenia, anemia,
+Donor Info: donor #[**Numeric Identifier 10591**]
+Sex: female,
+Age: 37,
+# of pregnancies: 4,
+ABO donor: Apos,
+ABO recipient: Apos,
+CMV donor: (+),
+CMV recipient:(+)
+#. GVHD--symptoms have included severe skin findings,
+thrombocytopenia requiring transfusions, bronchiolitis
+obliterans and mouth sores. treatment options are limited, since
+the patient has also had HUS to calcineurin inhibitors such as
+cyclosporine, FK 506, no response to rapamycin, has had multiple
+trials of Rituxan as well as trial of endostatin all without
+signficant improvement.
+#. BOOP due to GVHD. He unfortunately has had multiple prior
+therapies including Rituxan, pentostatin, Campath, steroids, and
+CellCept. He has had a significant issue as in the past with
+cyclosporin and FK-506. The patient had a repeat chest CT in
+[**3099-10-3**] to reassess his lung disease. There were no
+significant changes in the few opacities that may represent
+underlying BOOP since his last scan several months ago.
+#. RSV pneumonitis
+#. HTN
+#. CRI
+#. portacath in place
+#. chronic right extremity edema
+#. episodic spasm of mouth muscles, unclear etiology.
+#. Obstructive airways disease, possibly due to GVDH.
+
+
+Social History:
+no EtOH, tobacco, drugs
+
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+AOx3
+Facial wound:
+The wound measures at least 17 cm in greatest dimension by
+another 15 cm which includes the entire right side of his face.
+His zygomatic arch is exposed and the anterior maxillary wall is
+exposed.  There are elements of parotid gland that are also
+exposed.  There is no salivary fistula intraorally that is
+noted.
+
+ He has cutaneous changes over
+his entire body from the graft versus host disease.
+
+Pertinent Results:
+[**3101-8-9**] 01:47PM BLOOD WBC-7.9 RBC-2.48* Hgb-8.7* Hct-25.9*
+MCV-104* MCH-35.2* MCHC-33.7 RDW-16.0* Plt Ct-378
+[**3101-8-14**] 03:12AM BLOOD WBC-7.9 RBC-2.33* Hgb-7.9* Hct-23.6*
+MCV-101* MCH-33.8* MCHC-33.4 RDW-17.2* Plt Ct-250
+[**3101-8-9**] 01:47PM BLOOD Plt Ct-378
+[**3101-8-9**] 09:40PM BLOOD PT-11.3 PTT-23.3 INR(PT)-1.0
+[**3101-8-13**] 01:46AM BLOOD PT-11.2 PTT-25.4 INR(PT)-0.9
+[**3101-8-14**] 03:12AM BLOOD Plt Ct-250
+[**3101-8-9**] 09:40PM BLOOD Glucose-114* UreaN-15 Creat-1.0 Na-139
+K-4.9 Cl-107 HCO3-27 AnGap-10
+[**3101-8-14**] 03:12AM BLOOD Glucose-94 UreaN-20 Creat-1.0 Na-141
+K-4.4 Cl-108 HCO3-24 AnGap-13
+[**3101-8-9**] 09:40PM BLOOD Calcium-9.0 Phos-3.0 Mg-2.1
+[**3101-8-14**] 03:12AM BLOOD Calcium-8.8 Phos-3.8 Mg-2.6
+[**3101-8-9**] 06:50PM BLOOD Type-ART Temp-36.6 Rates-/8  Tidal V-600
+FiO2-40 pO2-176* pCO2-43 pH-7.44 calTCO2-30 Base XS-5
+Intubat-INTUBATED Vent-CONTROLLED
+[**3101-8-10**] 03:30AM BLOOD Type-ART Tidal V-550 pO2-186* pCO2-45
+pH-7.40 calTCO2-29 Base XS-2 -ASSIST/CON Intubat-INTUBATED
+[**3101-8-12**] 06:05AM BLOOD Type-ART pO2-178* pCO2-40 pH-7.43
+calTCO2-27 Base XS-2
+[**3101-8-13**] 09:25AM BLOOD Type-ART pO2-86 pCO2-36 pH-7.50*
+calTCO2-29 Base XS-4
+[**3101-8-9**] 06:50PM BLOOD Glucose-81 Na-137 K-4.3
+[**3101-8-9**] 06:50PM BLOOD Hgb-10.1* calcHCT-30
+[**3101-8-9**] 06:50PM BLOOD freeCa-1.16
+[**3101-8-13**] 01:54AM BLOOD freeCa-1.18
+
+Brief Hospital Course:
+Pt. admitted and operation proceded with.  Flap applied to face
+from R ant. thigh, R ant. thigh covered with STSG from L ant.
+thigh.  Please see detailed Op Note for full details of this
+operation.  Pt. in PACU for frequent flap checks for first 24hr
+post-procedure.  Initial low UOP responded promptly to a 500cc
+bolus. Pt.'s intubation continued, and pt. remained sedated and
+ventilated due to tenuous nature of flap and prominent facial
+edema.  Pt. transferred to ICU for further care/ventilation/q2hr
+flap checks without incident.  Pt. remained hemodynamically
+stable with excellent dop tones in the flap throughout this
+period. An NG tube was placed and tube feeds were slowly
+advanced during this time, begining on [**8-11**].  L thigh donor site
+was open to air beginning on [**8-12**].  Nutrition was consulted and
+provided excellent assisstance with tube feeding recs.  Pt.
+extubated without incident on [**8-12**].  Tube feeds were slowly
+increased and eventually moved to bolus feeds.  Facial/flap
+edema slowly decreased and one drain was removed.  PT saw the
+patient and assissted with post-discharge care.  Pt. came out to
+floor on [**8-14**].  The Vac was taken off the R ant. thigh and the
+STSG was observed to have good take.  NGT was removed and the
+patient advanced to full liquids.  At some point the pt. had
+transient dysuria, a U/A was done and was clean, and his
+symptoms resolved.  When the patient was D/C'd his pain was well
+controlled, he was tolerating PO well, and was able to ambulate
+and void on his own.
+
+Medications on Admission:
+acyclovir
+Prednisone 5
+metoprolol
+Folic Acid
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for fever.
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-4**]
+Drops Ophthalmic PRN (as needed).
+4. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Bacitracin Zinc 500 unit/g Ointment Sig: One (1) Appl Topical
+[**Hospital1 **] (2 times a day).
+6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+7. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+8. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs
+PO Q4H (every 4 hours) as needed for pain.
+Disp:*250 ML(s)* Refills:*1*
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+Disp:*60 Capsule(s)* Refills:*2*
+10. Amoxicillin-Pot Clavulanate 875-125 mg Tablet Sig: One (1)
+Tablet PO twice a day for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+11. Acyclovir 200 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) for 10 days.
+Disp:*30 Capsule(s)* Refills:*0*
+12. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+13. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Cervicofacial sarcoma of the right
+face.
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please return to the hospital if you experience fevers greater
+then 101.4, chills, or other signs of infection. Also return to
+the hospital if you experience chest pain, shortness of breath,
+redness, swelling, or purulent discharge from the incision site.
+Return if you experience worsening pain or any other concerning
+symptoms.
+Certain pain medications may have side effects such as
+drowsiness. Do not operate heavy machinery while on these
+medications.
+Certain pain medications such as percocet or codeine can cause
+constipation. If needed you can take a stool softner such as
+Colace (one capsule) or gentle laxative (such as Milk of
+Magnesia) once per day.
+Restart taking all your regular medications once you arrive at
+home.
+-Please do not shower until your follow-up visit.
+.
+Please do not place any pressure on your face, especially the
+surgical site.  Please keep track of JP
+drain output for your follow-up visit.   Please continue to take
+antibiotics until your drains are out.  If you run out of
+antibiotics before your drains are removed, please call us
+immediately to get a refill.
+.
+Please resume previous medications as prior to your surgery.
+Please take pain medications and stool softener as prescribed.
+.
+Please follow-up as directed.
+
+
+Followup Instructions:
+F/u with Dr. [**First Name (STitle) **] as directed, please call monday for an
+appointment.
+
+
+
+
+ 
+ 
+DOC CLASS

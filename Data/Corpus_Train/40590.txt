@@ -1,0 +1,563 @@
+Admission Date:  [**2504-6-4**]              Discharge Date:   [**2504-6-24**]
+
+
+Service: SURGERY
+
+Allergies:
+Heparin Agents
+
+Attending:[**First Name3 (LF) 1130**]
+Chief Complaint:
+BRBPR/colon tumor
+
+Major Surgical or Invasive Procedure:
+[**2504-6-6**]
+Cardiac Catheterization
+
+[**2504-6-7**]
+Left hemicolectomy with primary anastomosis.
+
+
+History of Present Illness:
+88M with history of atrial fibrillation on coumadin, CHF,
+distant history of peptic ulcer disease, severe AS (found during
+admission) transferred from [**Hospital3 649**] for BRBPR found to
+have sigmoid tumor. Presented on [**2504-6-2**] with complaint of
+painless BRBPR x 3 days with generalized malaise, no N/V/D. In
+the ED there, BP 86/60, HR 76, INR 2.6. NG lavage with no bloody
+return. He was admitted to the ICU for further management.
+Hospital course consisted of GI bleed work up with positive
+tagged RBC scan localizing to sigmoid colon. Colonscopy this am
+showed circumferential, ulcerated, hemorrhagic mass measuring 6
+cm in length with extensive diverticulosis. No active bleeding
+was seen. He recieved 7 units PRBCs and 9 units FFP during his
+hospitalization, HCT nadir of 19.6 in am of [**6-4**] during [**Last Name (un) 1662**]
+prep. Recieved 1 unit PRBCs on transfer.
+.
+On arrival patient is cold and thirsty. Denies chest pain,
+shortness of breath, cough, palpitations, dizzyness or syncope,
+abdominal pain, nausea, vomiting, diarrhea, dysuria, headache.
+No recent weight loss. Appetite has been good.
+
+
+Past Medical History:
+Atrial Fibrillation on anticoagulation
+Arthritis
+Peptic ulcer Disease
+Hypertension
+CHF
+BPH
+AS
+
+Social History:
+Continues to work 7 days a week at a bowling alley, balancing
+books.
+- Tobacco:  none
+- Alcohol:  rare
+- Illicits:  none
+
+
+Family History:
+no history of colon or other cancer.
+
+
+Physical Exam:
+Adm PE:
+
+Vitals: T: 96.5 BP: 134/83 P: 99 R: 13 O2: 100%RA
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, mildly dry mucous membranes, oropharynx
+clear, no thrush,
+Neck: supple, JVP not elevated, no LAD
+Lungs: occasional crackle at base, otherwise clear to
+auscultation bilaterally, no wheezes, rales, ronchi
+CV: irregular rhythm, regular rate, normal S1 + S2, [**2-3**] harsh
+systolic murmur best heard at LUSB radiates to bilateral
+carotids and clavicle. no rubs, gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema.  hand joints with ulnar deviation of PIP joints and
+marked chronic swelling.
+
+
+Pertinent Results:
+Adm labs:
+
+[**2504-6-4**] 09:10PM BLOOD WBC-6.0 RBC-3.16* Hgb-9.7* Hct-27.7*
+MCV-88 MCH-30.6 MCHC-34.9 RDW-15.1 Plt Ct-123*
+[**2504-6-4**] 09:10PM BLOOD Neuts-72.6* Lymphs-20.2 Monos-5.4 Eos-1.3
+Baso-0.5
+[**2504-6-4**] 09:10PM BLOOD PT-16.1* PTT-28.8 INR(PT)-1.4*
+[**2504-6-4**] 09:10PM BLOOD Plt Ct-123*
+[**2504-6-4**] 09:10PM BLOOD Glucose-144* UreaN-20 Creat-0.8 Na-145
+K-4.1 Cl-105 HCO3-27 AnGap-17
+[**2504-6-4**] 09:10PM BLOOD ALT-17 AST-26 AlkPhos-51 TotBili-1.4
+[**2504-6-4**] 09:10PM BLOOD Albumin-3.5 Calcium-8.3* Phos-4.8* Mg-1.9
+[**2504-6-4**] 09:28PM BLOOD Type-[**Last Name (un) **] pH-7.34* Comment-GREEN TOP
+[**2504-6-4**] 09:28PM BLOOD Lactate-2.3*
+[**2504-6-4**] 09:28PM BLOOD freeCa-0.66*
+
+[**6-5**] EKG: atrial fibrillation 91.  NA/QRS 110.  e/o LVH by
+voltage criteria.  no ST or TW changes noted, poor baseline.  no
+q waves.
+
+[**6-5**] Echo: Biatrial enlargement. Normal left ventricular cavity
+size with moderate left ventricular hypertrophy and mildly
+depressed global left ventricular systolic function. Critical
+aortic stenosis with mild aortic regurgitation. Mild to moderate
+mitral regurgitation. At least moderate tricuspid regurgitation
+in the setting of moderate to severe pulmonary artery systolic
+hypertension.
+
+[**6-5**]: CT chest: IMPRESSION:
+
+1. Likely extravasation of IV contrast material into the sigmoid
+colon from a colonic diverticulum, accounting for the patient's
+bright red blood per rectum.
+
+2. Concentric wall thickening within the distal descending colon
+could relate to the stated history of a colonic mass.
+Alternatively, this wall thickening could be the result of
+normal peristalsis. Recommend correlation with the colonoscopy
+report.
+
+3. Slight wall thickening with intraluminal fluid involving the
+rectum and distal sigmoid colon is most consistent with
+proctocolitis.
+
+4. Bibasilar septal thickening could be secondary to mild
+pulmonary edema or mild fibrosis.
+
+5. Moderate bilateral pleural effusions.
+
+7. Small splenic hypodensities, too small to characterize.
+Similarly,
+multiple small bilateral renal lesions are too small to
+characterize, although these lesions are likely simple cysts.
+
+8. Marked atherosclerosis with moderate stenosis of the SMA
+origin.
+
+9. Enlarged right axillary lymph node, measuring 11 mm.
+
+[**2504-6-7**]
+Colon and Rectum: Resection Synopsis
+(Includes Transanal Disk Excision of Rectal Neoplasms)
+MACROSCOPIC
+
+Specimen Type:  Left hemicolectomy.
+
+Specimen Size: Greatest dimension:  46.5 cm.  Additional
+dimensions:  5.5 cm x 3.6 cm.
+
+Tumor Site:  Left (descending) colon.
+
+Tumor configuration:  Ulcerating.
+
+Tumor Size:Greatest dimension:  4.0 cm.
+
+Macroscopic Tumor Perforation:  Not identified.
+
+MICROSCOPIC
+
+Histologic Type:  Adenocarcinoma.
+
+Histologic Grade:  Low-grade (well or moderately
+differentiated).
+
+Extent of Invasion
+
+Primary Tumor:  pT3:  Tumor invades through the muscularis
+propria into the subserosa or the nonperitonealized pericolic or
+perirectal soft tissues.
+
+Regional Lymph Nodes:  pN0:  No regional lymph node metastasis.
+
+Lymph Nodes
+    Number examined:  25.
+    Number involved:  0.
+
+Distant metastasis:  pMX:  Cannot be assessed.
+
+Margins
+    Proximal margin:
+        Uninvolved by invasive carcinoma:  Distance of tumor
+from closest margin:  210 mm.
+    Distal margin:
+        Uninvolved by invasive carcinoma:  Distance of tumor
+from closest margin:  320 mm.
+    Circumferential (radial) margin:
+        Uninvolved by invasive carcinoma:  Distance of tumor
+from closest margin:  65 mm.
+
+Treatment Effect:
+        No prior treatment.
+
+Lymphatic Small Vessel Invasion:  Absent.
+
+Venous (large vessel) invasion:  Absent.
+
+Perineural invasion:  Absent.
+
+Tumor Deposits (discontinuous extramural extension):  Not
+identified.
+
+Additional Pathologic Findings:   Diverticular disease.
+
+Clinical: Left colon.
+Gross: The specimen is received fresh in two parts, each labeled
+with the patient's name, "[**Known patient lastname 11164**], [**Known patient firstname 297**]" and the medical
+record number.
+
+
+
+Part 1 is additionally labeled "left colon, 2 stitches = splenic
+flexure, one stitch = rectosigmoid, one long stitch = inferior
+mesenteric pedicle".  It consists of a segment of colon that
+measures 52 cm in length and up to 5.5 cm in diameter.  A
+portion of mesentery is attached to the colon that measures 46.5
+x 5.5 x 3.6 cm.  The surgeon has designated two stitches as the
+splenic flexure, one stitch as the rectosigmoid, and a long
+stitch designating the inferior mesenteric pedicle.  The
+mesentery is unremarkable.  The serosa of the bowel is smooth
+and unremarkable.  A palpable mass is present within the bowel.
+The serosa overlying the mass is inked black.  The specimen is
+opened along the antimesenteric surface to reveal a fungating
+ulcerated mass within the lumen that measures 4 x 3 cm.  This
+mass is located 21 cm from the splenic flexure surgical margin,
+32 cm from the rectosigmoid surgical margin, and 6.5 cm from the
+cut mesenteric margin.  Serial slices show that the tumor does
+appear to invade the muscularis propria and mesentery and is 1.5
+cm deep.  No perforation is present.  There is a tan mucosal
+polyp measuring 0.5 x 0.3 x 0.2 cm, located 19 cm from the
+rectosigmoid surgical margin.  Additionally, multiple
+diverticula are present throughout the colon.  Two diverticula
+with hypertrophical bowel wall adjacent to them are located 15
+cm from the splenic flexure margin.  The remainder of the mucosa
+is tan and unremarkable.  Within the mesentery, lymph nodes are
+identified.  The specimen is represented as follows:  A = the
+polyp which has been shaved from the mucosal surface, B-E =
+representative sections of tumor (full thickness), with B and D
+containing the deepest point of invasion, F = diverticula
+located 15 cm from the splenic flexure surgical margin, G = two
+additional representative diverticula, H = unremarkable bowel
+wall, I = possible lymph nodes at the inferior mesenteric
+pedicle, J = surgical margin at the splenic flexure, K =
+surgical margin at the rectosigmoid, L-T = lymph nodes.
+Part 2 is additionally labeled "inferior mesenteric artery
+node." It consists of a lymph node and attached peri lymph node
+fat measuring 1.5 x 0.5 x 0.3 cm. The lymph node is bisected and
+entirely submitted in cassette U, along with the perilymph node
+fat.
+
+[**2504-6-12**] CT abd/pelvis:
+IMPRESSION:
+1. Free air is seen in a reasonable amount five days after
+surgery.
+2. Free peritoneal fluid is observed. While the largest pocket
+is located in proximity to the anastomotic site; the absence of
+air in this fluid and the fact that the fluid is low in density
+make a leak less likely,
+although this cannot be entirely excluded.
+
+[**2504-6-17**] CT abd/pelvis
+IMPRESSION:
+1. No findings to suggest anastomotic leak. However, oral
+contrast has not yet progressed to the colon, limiting
+evaluation. If further evaluation is required, a delayed study
+of the pelvis only could be performed.
+2. Small amount of ascites, stable since the prior study.
+3. Stable size of bilateral moderate-sized pleural effusions.
+4. Diffuse anasarca.
+
+[**2504-6-18**] Bilat LE Ultrasound
+IMPRESSION: Non-occlusive thrombus in the right common femoral
+vein entering from the right greater saphenous vein. Flow is
+visualized throughout the left lower extremity.
+
+[**2504-6-19**] KUB
+IMPRESSION: In comparison to yesterday's abdominal x-ray, some
+passage of
+contrast. There are also dilated loops of bowel representative
+of an ileus.
+
+[**2504-6-23**] 06:20AM BLOOD WBC-11.1* RBC-3.36* Hgb-10.1* Hct-30.0*
+MCV-89 MCH-30.1 MCHC-33.6 RDW-16.7* Plt Ct-269
+[**2504-6-23**] 01:40PM BLOOD PT-16.7* INR(PT)-1.5*
+[**2504-6-23**] 06:20AM BLOOD Glucose-112* UreaN-14 Creat-0.8 Na-140
+K-4.0 Cl-105 HCO3-30 AnGap-9
+
+Brief Hospital Course:
+PCP: [**Name Initial (NameIs) 9928**]/Han office, ([**Telephone/Fax (1) 11165**]
+
+MICU course:
+
+88M transfer from OSH with history of atrial fibrillation
+admitted with lower GI bleed requiring multiple blood
+transfusions, found to have sigmoid mass concerning for
+adenocarcinoma and new diagnosis severe AS.
+.
+# Lower GI Bleed - Hemorrhagic mass seen at OSH on colonoscopy,
+not actively bleeding that appeared consistent with
+adenocarcinoma (biopsies pending....).  Received multiple
+transfusions at the OSH.  While in the MICU, me was transfused
+as needed to maintain a hematocrit goal of 25 (given concerns
+for heart stress related to his aortic stenosis).  Surgery and
+cardiology were consulted, and the patient was sent for
+valvuloplasty in order to prepare him for colon resection
+.
+# AS - presumed new diagnosis, critical.  His AS was felt to be
+too severe to make him a good candidate for surgery, so the
+decision was made for valvuloplasty followed by resection.  He
+was asymptomatic while in the MICU under careful observation.
+.
+# Atrial Fibrillation - currently in atrial fibrillation on EKG.
+ His Coumadin was held given concerns for GI bleeding, INR 1.4
+on admission.  His rate was well controlled throughout admission
+and he was monitored on telemetry.
+.
+# H/o CHF - patient exhibited no signs of volume overload while
+admitted to the MICU.  His ACE-i and metoprolol were held given
+GI bleed.
+
+# Hypocalcemia - ionized Ca 0.66 on admission, likely due to
+multiple transfusions at the outside hospital.  He received
+calcium gluconate 4g with subsequent improvement. His levels
+were closely monitored throughout admission, and were repleted
+as necessary.
+
+# Arthritis - Tylenol prn pain, remained stable throughout
+admission.
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+________________________________________________________________
+Mr. [**Known patient lastname 11166**] care was transferred to the Acute Care team on
+[**2504-6-6**] when he was taken urgently to the OR for left
+hemicolectomy with primary anastomosis; biopsies were obtained
+of the mass in his sigmoid. Postoperatively he was  returned to
+[**Location 6672**] intubated, paralyzed, and on neo drip which was able to be
+weaned off. He was extubated and noted with low UOP < 20 and was
+given a 500 cc bolus. He was also noted with tachycardia and was
+given extra metoprolol. Cardiology was consulted who recommended
+diuresis and continuing beta blockade. Once stabilized he was
+transferred to the regular floor.
+
+Once on the floor bowel function was very slow to return. Over
+the course of several days he was slowly advanced from sips to
+clears and then to a regular diet.
+
+On [**6-11**] he was noted with episode of unresponsiveness and
+hypotension; there was concern for anastomosis leak. A CT scan
+of his abdomen and pelvis was done and no leak was identified.
+
+He subsequently was noted with several more trigger events over
+the course of 3 days with hypotension, tachycardia and
+desaturation. He required intermittent IV fluid bolus' with
+normal saline for which he adequately responded. Following the
+3rd trigger event there was concern again for anastomosis leak
+and he underwent CT imaging of his abdomen which did not show
+any leaking; it did however show a possible stricture at the
+anastomosis. A KUB with contrast was ordered to determine if the
+contrast went all the way through this area results revealed
+some passage of contrast and dilated loops of bowel
+representative of an ileus.
+
+On [**6-15**] he was noted with a PLT drop down to 53 - his admission
+plts were 123. His subcutaneous Heparin was stopped and a HIT
+panel was sent which came back positive. Argatroban was started
+and adjusted per his PTT.
+
+Cardiology was re-consulted and his Lasix was recommended to be
+stopped while continuing his beta blockade. He was also given
+additional 250 ml NS fluid bolus following his Lasix being
+stopped. Cardioversion was also being recommended but at the
+time was being deferred as an outpatient. His Coumadin was also
+recommended to be started with parameters for adjusting and
+eventually stopping the Argatroban.
+The Argatroban drip was eventually stopped and he was given 5mg
+Coumadin; initial dose on [**6-19**] for several doses, his INR was
+1.5 on [**6-23**]. Goal INR [**1-3**].
+
+He was noted with hematuria on [**6-21**] requiring that a Foley be
+replaced for irrigation and monitoring purposes - this did
+resolve; his hematocrit remained stable with 30 being the last
+value on [**6-23**]. The Foley was removed and he was able to void.
+
+His hypotensive episodes did resolve and there were no more
+trigger events. He was however noted with significant scrotal
+edema and his LE edema had increased. Cardiology was
+re-consulted and recommended Lasix 40 mg every other day; they
+further noted that his albumin was likely contributing to his
+edema as well.
+
+Heme/Onc was consulted for follow up as an outpatient to discuss
+with patient if treatment options indicated. The necessary CT
+scans were already done prior as part of his workup and it was
+requested to send a CEA as baseline.
+
+Physical and Occupational therapy evaluations concluded that he
+would require acute rehab after his hospital stay. The screening
+process was initiated by case management.
+
+Medications on Admission:
+ Medications (home): patient unable to remember but include
+coumadin and metoprolol.
+.
+Medications (on transfer from OSH):
+Sodium Chloride
+Potassium Chloride PO prn
+Calcium Gluconate prn
+
+
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO DAILY (Daily).
+3. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+4. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+5. Lasix 40 mg Tablet Sig: One (1) Tablet PO every other day.
+6. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM: dose daily based on INR goal of [**1-3**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1574**] Rehabilitation Hospital - [**Location (un) 1532**]
+
+Discharge Diagnosis:
+1. Bleeding sigmoid adenocarcinoma
+2. Right common femoral DVT - non occlussive
+3. UTI
+4. Post op ileus
+5. Rapid atrial fibrillation
+6. Heparin induced thrombocytopenia
+7. Acute on chronic heart failure (left ventricular systolic
+function is mildly depressed LVEF= 45-50 %)
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admited to the hospital because of bleeding from your
+gastrointestinal tract requiring an operation. It was also noted
+during your operation that there was a mass concerning for
+cancer in your colon. The biopsy results did revela that it was
+a cancerous tumor which was discussed with you by Dr. [**Last Name (STitle) **]
+during your hospital stay. You will be followed as an outpatient
+with Hematology/Oncology after you are discharged from the
+hospital.
+
+It is also being recommended by Dr. [**Last Name (STitle) **] that you see a
+Cardiac Surgeon to discuss your aortic stenosis.
+
+You may resume your home medications as prescribed.
+
+You are being discharged on medications to treat the pain from
+your operation. These medications will make you drowsy and
+impair your ability to drive a motor vehicle or operate
+machinery safely. You MUST  refrain from such activities while
+taking these medications.
+
+
+
+
+
+Please call your doctor or return to the emergency room if you
+have any of the following:
+
+
+ * You experience new chest pain, pressure, squeezing or
+ tightness.
+
+* New or worsening cough or wheezing.
+
+* If you are vomiting and cannot keep in fluids or your
+ medications.
+
+* You are getting dehydrated due to continued vomiting,
+ diarrhea or other reasons. Signs of dehydration include dry
+ mouth, rapid heartbeat or feeling dizzy or faint when standing.
+
+* You see blood or dark/black material when you vomit or have a
+ bowel movement.
+
+
+* You have shaking chills, or a fever greater than 101.5 (F)
+ degrees or 38(C) degrees.
+
+* Any serious change in your symptoms, or any new symptoms that
+ concern you.
+
+* Please resume all regular home medications and take any new
+meds
+ as ordered.
+
+Activity:
+No heavy lifting of items [**9-13**] pounds for 6 weeks. You may
+resume moderate
+exercise at your discretion, no abdominal exercises.
+
+Wound Care:
+You may shower, no tub baths or swimming.
+
+If there is clear drainage from your incisions, cover with
+clean, dry gauze.
+Please call the doctor if you have increased pain, swelling,
+redness, or drainage from the incision sites.
+
+
+Followup Instructions:
+Follow up in [**1-1**] weeks in Acute Care Clinic. Upon discharge
+please call [**Telephone/Fax (1) 21**] for an appointment.
+
+Follow up in the Hematology/Oncology clinic with [**Last Name (NamePattern4) 11167**] [**Last Name (NamePattern4) **]
+[**Last Name (NamePattern1) **] & [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1949**] tel number ([**Telephone/Fax (1) 2911**]. Your
+appointment is being scheduled for [**7-7**] @ 9:30 a.m.
+location [**Hospital Ward Name 60**] [**Location (un) 139**] on [**Hospital Ward Name **].
+
+Follow up with Urology for the recent blood in your urine; call
+[**Telephone/Fax (1) 2206**] for an appointment to be seen in [**2-1**] weeks.
+
+Follow up with Dr. [**Last Name (STitle) **], Cardiac Surgery in [**1-3**] weeks for
+discussion surrounding possible surgery for your heart valve,
+please call ([**Telephone/Fax (1) 229**] for an appointment.
+
+Follow up with your primary care doctor in [**12-2**] weks for a
+general physical. You will need to call for an appointment.
+
+
+
+Completed by:[**2504-6-24**]
+
+
+DOC CLASS

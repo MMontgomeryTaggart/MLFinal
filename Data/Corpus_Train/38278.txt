@@ -1,0 +1,307 @@
+Admission Date:  [**2992-6-14**]              Discharge Date:   [**2992-6-18**]
+
+Date of Birth:  [**2930-4-23**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting times four (LIMA>LAD, svg>PDA,
+svg>RCA, svg>Diag)[**6-14**]
+Mediastinal re-exploration and repair of bleeding side branch of
+the left internal mammary artery. [**6-14**]
+
+
+History of Present Illness:
+This is a 62 year old male with a history of hypertension,
+hyperlipidemia, type 2 diabetes, and polio as a child (with
+residual left facial paralysis who presents with dyspnea,
+depressed ejection fraction, and an abnormal nuclear stress test
+after suffering a cerebral vascular acident in [**Month (only) 115**].
+
+In [**Month (only) 115**] he presented to [**Hospital3 1117**] with garbled incoherent
+speech along with trouble with word finding. He was found to a
+non hemorrhagic cerebral vascular accident. His symptoms
+resolved within twenty-four hours and he does not have any
+residual deficits. He was also found to have a CPK > 5000. His
+longstanding Simvastatin was discontinued.  He was also told he
+had had a myocardial infarction.
+
+Follow up testing revealed an abnormal nuclear stress revealing
+and ejection fraction of 39% and a partial, large, severe
+perfusion defect involving the entire inferior wall and the mid
+and basal walls. A subsequent cardiac catheterization revealed
+multi-vessel coronary artery disease and he therefore was
+referred for surgical evaluation.
+
+
+Past Medical History:
+Hypertension
+Type 2 Diabetes insulin dependent- x 20 years
+Hyperlipidemia
+CRI- creat 1.6
+Polio at age six with right sided facial paralysis
+Laser eye surgery (bilaterally)
+Tonsillectomy
+Chronic systolic heart failure
+
+
+Social History:
+Mr. [**Known patient lastname **] lives with his daughter. [**Name (NI) **] works full time as
+supplier of cleaning chemicals. He smoked 1 pack per day for
+seventeen years and quit at age 29.  He does not drink alcohol.
+
+
+Family History:
+His grandmother died of a myocardial infarction.
+
+Physical Exam:
+Pulse:67 Resp:  18 O2 sat: 97%
+B/P  Right: 161/87   Left:
+Height:  6'2"   Weight:210 #'s
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x] ** left eye surgery
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: Cath site  Left:+2
+DP           Right:+1   Left:+1
+PT           [**Name (NI) **]: +1  Left:+1
+Radial       Right:+2   Left:+2
+
+Carotid Bruit: None    Right: +2   Left:+2
+
+
+Pertinent Results:
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 4**] [**Numeric Identifier 2417**]       TEE (Complete)
+Done [**2992-6-14**] at 11:28:59 AM      FINAL
+Referring Physician     [**Name9 (PRE) 406**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] C.
+[**Hospital Unit Name 705**]
+[**Location (un) 100**], [**Numeric Identifier 112**]  Status: Inpatient DOB: [**2930-4-23**]
+Age (years): 62 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Cerebrovascular event/TIA. Coronary artery disease.
+Left ventricular function. Preoperative assessment.
+ICD-9 Codes: 424.1, 424.0
+Test Information
+Date/Time: [**2992-6-14**] at 11:28    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 753**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 410**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 753**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2011AW3-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Diastolic Dimension:  *6.3 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  30% to 35%  >= 55%
+Aorta - Annulus:  2.4 cm  <= 3.0 cm
+Aorta - Sinus Level:  *3.9 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  3.0 cm  <= 3.0 cm
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.3 cm  <= 2.5 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Moderately dilated LV cavity. Moderate regional
+LV systolic dysfunction. Moderately depressed LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildy dilated aortic root. No atheroma in ascending
+aorta. Normal descending aorta diameter. Simple atheroma in
+descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Trace
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PREBYPASS
+No atrial septal defect is seen by 2D or color Doppler. The left
+ventricular cavity is moderately dilated. There is moderate
+regional left ventricular systolic dysfunction with inferior,
+inferolateral and anterolateral hypokinesis.. Overall left
+ventricular systolic function is moderately depressed (LVEF=
+3--35 %). Right ventricular chamber size and free wall motion
+are normal. The aortic root is mildly dilated at the sinus
+level. There are simple atheroma in the descending thoracic
+aorta. The aortic valve leaflets (3) are mildly thickened. Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild (1+) mitral regurgitation is seen. An
+epi-aortic scan was performed which showed the ascending aorta
+free of atheromatous disease at the clamp and canullation site.
+
+POST BYPASS
+There is a small improvement in overall systolic function.
+LVEF~40%. There may be improvement of the inferior wall. RV
+systolic function remains normal. The study is otherwise
+unchanged from the prebypass period.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+
+
+
+Brief Hospital Course:
+On [**6-14**] Mr. [**Known patient lastname **] was admitted and underwent Coronary artery
+bypass grafting x4, with left internal mammary artery to left
+anterior descending coronary artery, reversed saphenous vein
+single graft from the aorta to the first diagonal coronary
+artery, reversed saphenous vein single graft from the aorta to
+the first obtuse marginal coronary artery, and reversed
+saphenous vein single graft from the aorta to the posterior
+descending coronary artery.  Please see the operative note for
+details.  He was brought to the surgical instensive care unit in
+critical but stable condition.  However, in the immediate
+post-operative period he developed acute respiratory
+insufficiency, hypotension, and excessive bleeding from his
+chest tubes.  He returned to the operating room and underwent a
+mediastinal exploration for bleeding.  He tolerated this
+procedure well.  He extubated by the following day and was
+weaned from pressors.  By post-operative day two he was
+transferred to the step-down floor.  His chest tubes and wires
+were removed per protocol.  He was seen by physical therapy.
+His insulin was titrated to maintain a glucose below 150.
+Despite his rising CK on zocor pre-operatively, lipitor was
+started to protect his grafts.  An e-mail was sent to Dr. [**Last Name (STitle) 2418**]
+that his CK be checked in the near future to assess his
+tolerance of this drug.  His blood pressure did not allow the
+addition of an ACE-inhibitor, but one should be added as his
+blood pressure allows in the future secondary to his decreased
+ejection fraction and chronic systolic heart failure.  By
+post-operative day four he was ready for discharge to home.
+Follow-up appointments were advised.
+
+
+Medications on Admission:
+carvedilol 3.125 [**Hospital1 **], lantus 30-35 units at bedtime. Novalog 4mg
+w/ meals, Lisinopril 40mg daily, Losartan 25mg daily, ASA 81mg
+daily.
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+4. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 10
+days.
+Disp:*10 Tablet(s)* Refills:*2*
+6. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+Two (2) Tablet, ER Particles/Crystals PO once a day for 10 days.
+Disp:*20 Tablet, ER Particles/Crystals(s)* Refills:*2*
+7. insulin glargine 100 unit/mL Solution Sig: Forty (40) units
+Subcutaneous at bedtime.
+Disp:*qs * Refills:*2*
+8. insulin lispro 100 unit/mL Solution Sig: Four (4) units
+Subcutaneous with meals.
+Disp:*qs * Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+All Care VNA of Greater [**Location (un) 1301**]
+
+Discharge Diagnosis:
+coronary artery disease
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+1+ LE Edema
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **] in [**12-18**] weeks ([**Telephone/Fax (1) 2419**]
+Cardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2418**] in 3 weeks
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) **] [**Last Name (STitle) 22**] [**3-20**] weeks ([**Telephone/Fax (1) 2420**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2992-6-18**]
+
+
+DOC CLASS

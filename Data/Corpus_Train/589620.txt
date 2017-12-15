@@ -1,0 +1,202 @@
+Chief Complaint:  Carotid Stenting
+   HPI:
+   In brief, this is a 76 y/oM with a history of atherosclerotic disease,
+   chronic kidney disease, who is electively admitted for stenting of his
+   right carotid artery. The remainder of his medical history is confirmed
+   and verified according to his admission note from the [**Hospital1 1859**] service, to
+   which he was admitted to last night for pre-cath hydration.
+   .
+   76 yr old male c/pmhx carotid stenosis, RAS s/p stent, CKD (cr 4.0),
+   dyslipidemia, htn, tongue ca, spinal stenosis presents to have
+   percutaneous revascularization with Dr [**First Name (STitle) 1204**] requiring pre-cath
+   hydration. Patient reports that that carotid stenosis was noted on
+   ultrasound and that he has been asymptomatic without sxs of CVA or TIA.
+   He denies CP, SOB, abd pain, cough, f/c, orthopnea, pnd, ankle edema,
+   change on bowel movements, weight loss, amarousis fugaux, weakness,
+   dysarthria, presyncope or syncope. He does note symptoms of
+   claudication after walking [**1-24**] block, which is relieved by rest.
+   .
+   On arrival to the CCU, the patient is resting comfortably with no
+   complaints of headache, vision changes, numbness/weakness of
+   extremities, SOB or CP.
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Roxicet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Rash;
+   Morphine
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Citalopram 40 mg po daily
+   Levothyroxine 0.125 mg daily
+   Bupropion 75 mg po BID
+   Simvistatin 20 mg po daily
+   Metoprolol Tartrate 25 mg po daily
+   Omeprazole 20 mg po bid
+   Plavix 75 mg po daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. Supraglottic squamous cell carcinoma, extending to the base of
+   the tongue, stage T2, N0, M0.
+   2. Malignant melanoma, status-post definitive excision in [**Month (only) **]
+   [**2821**], in the left posterior auricular area.
+   3. Left carotid endarterectomy, several years ago.
+   4. Hypertension
+   5. Hypercholesterolemia
+   6. Depression
+   7. History of L4-L5 surgery in [**2814**]
+   8. Left femoral angioplasty in [**2811**] and [**2830**].
+   9. Right femoral angioplasty in [**2818**] and [**2830**].
+   10. Left hip prosthetic replacement in [**2815**].
+   11. Face lift in [**2811**].
+   12. Laminectomy in [**2821-7-22**].
+   13. History of Tonsillectomy
+   14. Gastroesophageal reflux disease
+   15. Barrett's esophagus, noted on EGD during PEG placement in
+   [**2823-1-23**]. On gross appearance--no tissue biopsy taken.
+   16. Diffuse esophageal thickening and a 1 cm right paratracheal
+   lymph node noted on CT in 8/[**2822**]. There was noted to be some
+   difficulty with peristalsis as well on a barium swallow study of
+   [**8-/2822**], as well as a questionable stricture in the distal
+   esophagus.
+   17. Chronic renal insufficiency/RAS s/p angioplasty and stent [**2830**]
+   18. Hypothyroidism
+   .
+   Cardiac Risk Factors: - Diabetes, + Dyslipidemia, + Hypertension
+   .
+   Cardiac History: no cabg
+   .
+   Percutaneous coronary intervention: no pci
+   .
+   Pacemaker/ICD: no pacer
+   Significant for a brother and a sister with
+   myocardial infarction both in their 50s. He has two maternal aunts with
+   [**Name2 (NI) 112**] cancer. His sister had lung cancer. No h/o dm.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: The patient has a 135 pack year tobacco history. He quit in
+   [**2810**]. He also has a history positive for alcohol for 30 years and
+   reports quitting in [**2809**]. He worked as a custodian for the city of
+   [**Location (un) 21**] until [**2804**]. No IVDU. He lives alone and is widowed x2. Lives in
+   senior housing in [**Location (un) 739**].
+   Review of systems:
+   Flowsheet Data as of [**2831-3-19**] 01:10 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   T 97.7
+   HR 62
+   BP 171/85
+   RR 12
+   O2 97% RA
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   Physical Examination
+   Gen: Elderly male in NAD. Oriented x3.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Neck: Supple with no JVP
+   appreciated. Carotid bruit L
+   CV: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   Ext: No c/c/e. No femoral bruits.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   172
+   10.9
+   77
+   3.8
+   43
+   22
+   109
+   5.0
+   141
+   31.8
+   6.7
+        [image002.jpg]
+   Assessment and Plan
+   76 yr old male c/pmhx carotid stenosis, RAS s/p stent, CKD (cr 4.0),
+   dyslipidemia, htn, pharyngeal ca, spinal stenosis presents to have
+   percutaneous revascularization.
+   .
+   #. Carotid stenosis/PVD: Carotid U/s consistent with severe RCA disease
+   and moderate LCA disease. Patient contiues to be asx. s/p
+   Catheterization today with senting of R carotid.
+   - Continue asa, plavix and statin
+   - Neuro checks Q1 hr X 2 then q2 X 2
+   - Goal SBP >100 and <160 - IV nitro or neo PRN
+   .
+   #. CKD: Baseline Cr. per report around 4. Not on HD, but followed by
+   renal in [**Location (un) 739**]. Patient has known RAS. Received pre-cath hydration
+   - continue post-cath hydration and mucomyst
+   - Renally dose medication
+   - Follow lytes
+   - Renal consult following
+   .
+   # HTN: current BP goal as above
+   - Continue beta blocker and hydralazine prn
+   .
+   #. Anemia: Unknown baseline Hct. Likely [**2-24**] renal dysfunction.
+   - f/u PCP notes and will continue anemia w/u as appropriate
+   - trend hct
+   .
+   #. Psych: Continue SSRI and Wellbutrin
+   .
+   #. GERD: Continue ppi
+   .
+   # Hypothyroidism: Continue synthroid
+   .
+   #. FEN: Follow and replete electrolytes. Cardiac diet. No IVF at
+   present.
+   .
+   #. Access: PIV
+   .
+   #. PPx: PO diet.
+   .
+   #. Code: full code
+   .
+   #. Dispo: CCU for neurologic monitoring
+   .
+   .
+   ICU Care
+   Nutrition:
+   Comments: Cardiac
+   Glycemic Control:
+   Lines:
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

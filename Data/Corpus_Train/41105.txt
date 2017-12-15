@@ -1,0 +1,424 @@
+Admission Date:  [**3151-12-13**]              Discharge Date:   [**3151-12-31**]
+
+Date of Birth:  [**3086-1-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Heparin Agents / cefepime / vancomycin
+
+Attending:[**Last Name (NamePattern4) 1187**]
+Chief Complaint:
+Hyopxia
+
+Major Surgical or Invasive Procedure:
+Tracheostomy placement [**12-21**]
+
+
+History of Present Illness:
+65-year-old male with a history of AAA repair with multiple
+complications (operated in [**Month (only) 948**] by Dr. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]),
+including spinal ischemia with LE paralysis, bowel perforation
+with colostomy, and right pleural effusion and perihepatic fluid
+coming in with acute onset shortness of breath and hypoxia.
+Patient developed acute onset of shortness of breath this
+morning accompanied by pleuritic chest pain. No hemoptysis. No
+history of blood clots, and he is on fondaparinox for
+prophylaxis. He denies any fevers or chills.
+.
+The patient was admitted from [**10-31**] to [**11-6**] with a pleural
+effusion and perihepatic fluid collection. He had a perihepatic
+[**Month/Year (2) **] placed by IR, with cultures growing clostridium species,
+and the decision was to treat him with cipro, metronidazole and
+fluconazole until the [**Month/Year (2) **] was removed. He went to [**Hospital1 3481**]
+rehab to continue the antibiotics.
+.
+In the ED, initial vs were: 98.7 114 124/59 22 96%
+non-rebreather. UA suggested an infection, so he was given
+ciprofloxacin. A CTA chest showed no PE, but tracheal secretions
+causing plugging and possible infection, so the patient got
+ceftriaxone and metronidazole. Transplant surgery requested a CT
+abd/pelvis to see if his [**Hospital1 **] could be removed. He got [**4-6**]
+liters of fluid. He was requiring a lot of suctioning for oral
+secretions, so he was triaged to the MICU instead of the floor.
+Prior to transfer he had 18g and 22g PIVs, vitals were 76 128/48
+26 satting 98% on 50% O2 moistened air.
+.
+On the floor, patient tachypneic and uncomfortable.
+Intermittently hypoxic down to the low 80s, requiring increasing
+amounts of oxygen. He has no feeling below T8, so does not know
+if he has dysuria, but does note his foley was changed 3-4 days
+ago. His ostomy output is unchanged. Other ROS negative.
+
+Past Medical History:
+- AAA repair ([**2-/3151**]) c/b T8 paraplegia, bowel perforation with
+graft infection and bacteremia/fungemia (bacteriodes, strep
+pneumo and [**Female First Name (un) 609**]). On chronic suppressive medications with
+suppressive antibiotics with ciprofloxacin, Flagyl and
+fluconazole.
+- complete heart block, now status post pacemaker placement
+- Hypertension
+- Hyperlipidemia
+- COPD
+- Osteoarthritis
+- Increased PSA for which the patient underwent a biopsy prior
+to [**3151-2-3**], which was complicated by an E. coli bacteremia
+- s/p Trach for inability to clear secretions. Trach removed
+about 3 weeks ago.
+
+Social History:
+Has 50 pack-year smoking history who stopped smoking prior to
+his admission in [**Month (only) 948**]. He has a pet dog. He is married with a
+very supportive wife and children. He works as a wine
+distributor but is currently on disability and also retired a
+year ago. Currently living at [**Hospital1 1085**] Rehabilitation
+Center. No drugs or EtOH
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 98.7 114 124/59 22 96% non-rebreather
+General: Alert, oriented, anxious, moderate resp distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: course central breath sounds
+CV: distant, regular, no audible murmurs
+Abdomen: large, well-healed scars. G-tube in place, colostomy
+with greenish discharge. Perihepatic [**Hospital1 **] in place with small
+amt white fluid. Non-tender, non-distended, bowel sounds
+present.
+GU: foley in place
+Ext: atrophied LE that are warm, well perfused, 2+ pulses, no
+clubbing, cyanosis or edema
+Neuro: A&Ox3, CNII-XII intact, no movement or sensation in the
+LEs. Sensation and movement of UEs intact. Wound-vac in place
+over left hip and sacrum.
+
+Discharge:
+VS 96.8, P: 61, BP: 126/60, RR: 16, 96% on trach mask
+General: Alert, oriented, interactive
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD , trach in place
+Lungs: scattered rhonchi
+CV: distant, regular, no audible murmurs
+Abdomen: large, well-healed scars. G-tube in place. Non-tender,
+non-distended, bowel sounds present.
+GU: chronic foley in place
+Ext: atrophied LE that are warm, well perfused, 2+ pulses, no
+clubbing, cyanosis or edema. Lateral L hip wound with clean
+borders, wound vac currently off.
+Neuro: A&Ox3, CNIII-XII intact, no movement or sensation in the
+LEs. Sensation and movement of UEs intact.
+
+Pertinent Results:
+Admission labs:
+[**3151-12-13**] 03:45PM   GLUCOSE-115* UREA N-24* CREAT-0.4* SODIUM-137
+POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-28 ANION GAP-13
+[**3151-12-13**] 03:45PM   cTropnT-0.02*
+[**3151-12-13**] 03:45PM   WBC-17.5*# RBC-4.30* HGB-11.8* HCT-36.7*
+MCV-85 MCH-27.4 MCHC-32.2 RDW-16.7*
+[**3151-12-13**] 03:45PM   NEUTS-86.0* LYMPHS-4.9* MONOS-6.9 EOS-1.8
+BASOS-0.3
+[**3151-12-13**] 03:45PM   PLT COUNT-433
+[**3151-12-13**] 03:45PM   PT-13.2 PTT-33.8 INR(PT)-1.1
+[**3151-12-13**] 03:59PM   LACTATE-1.6
+[**3151-12-13**] 06:13PM URINE  COLOR-Yellow APPEAR-Clear SP
+[**Last Name (un) 104**]->1.050*
+[**3151-12-13**] 06:13PM URINE  BLOOD-MOD NITRITE-POS PROTEIN-30
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0
+LEUK-MOD
+[**3151-12-13**] 06:13PM URINE  RBC-17* WBC-20* BACTERIA-FEW YEAST-NONE
+EPI-0
+[**3151-12-13**] 06:13PM URINE  CA OXAL-RARE
+
+Imaging:
+[**3151-12-13**] AP Chest: FINDINGS: AP upright portable view of the
+chest were obtained. No definite evidence of pneumothorax is
+seen. There are right greater than left bibasilar opacities that
+may be due to atelectasis, although consolidation is not
+excluded. Blunting of the bilateral costophrenic angle suggests
+trace bilateral pleural effusions. The cardiac and mediastinal
+silhouettes are stable. A single-lead right-sided pacemaker is
+unchanged in position.
+
+CTA chest: IMPRESSION:
+1. Large amount of secretions throughout the trachea and main
+stem bronchi
+with impaction of bronchi of the lower lobes and right middle
+lobe. Increased atelectasis at both bases with small pleural
+effusions. Given the elevated white blood cell count, there may
+be a developing aspiration pneumonia, although the lower lobe
+opacification is felt primarily due to atelectasis and volume
+loss.
+2. No evidence of pulmonary embolism.
+
+CT Abd/Pelvis: IMPRESSION:
+1. Interval near complete resolution of subphrenic perihepatic
+collection
+with residual tiny foci of air noted within.
+2. Unchanged appearance to aortic graft without evidence of
+infection.
+3. Left greater than right bibasilar atelectasis. Cannot exclude
+
+superimposed aspiration.
+4. Status post left colectomy with colostomy.
+5. Large anterior abdominal wall defect as before.
+
+[**3151-12-28**] AP CXR: FINDINGS: In comparison with the study of
+[**12-26**], the monitoring and support devices remain in place. Areas
+of opacification are seen at both bases, similar to the previous
+study on the right and probably decreased on the left.
+Although this most likely represents atelectasis and effusion,
+the possibility of supervening pneumonia would have to be
+considered in the appropriate clinical setting.
+
+Micro:
+Multiple blood cultures all negative
+[**3151-12-16**] Urine culture: SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN-------- =>512 R
+TOBRAMYCIN------------     8 I
+TRIMETHOPRIM/SULFA----  =>16 R
+
+Bronchoalveolar lavage:
+GRAM STAIN (Final [**3151-12-21**]):
+      2+   (1-5 per 1000X FIELD):   POLYMORPHONUCLEAR
+LEUKOCYTES.
+      NO MICROORGANISMS SEEN.
+      This is a concentrated smear made by cytospin method,
+please refer to
+      hematology for a quantitative white blood cell count..
+
+   FLUID CULTURE (Final [**3151-12-24**]):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+         Isolated from broth media only, INDICATING VERY LOW
+NUMBERS OF
+         ORGANISMS.
+
+   ANAEROBIC CULTURE (Final [**3151-12-27**]):    NO ANAEROBES ISOLATED.
+
+
+   ACID FAST SMEAR (Final [**3151-12-24**]):
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR.
+
+   ACID FAST CULTURE (Preliminary):
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+
+
+Brief Hospital Course:
+65-year-old male with a history of AAA repair with multiple
+complications (operated in [**Month (only) 948**] by Dr. [**Last Name (STitle) **]), including
+spinal ischemia with LE paralysis, bowel perforation with
+colostomy, and right pleural effusion and perihepatic fluid
+coming in with acute onset shortness of breath and hypoxia.
+.
+#. Secretions and hypoxia: Prior to admission, patient had had
+increased secretions for the 3 days, exacerbating his chronic
+difficulty clearing secretions. His tracheostomy had been
+decannulated [**3151-11-23**]. The increase in secretions was likely the
+result of infection, either bacterial or viral. He was afebrile,
+but with an increased WBC count. Decision was made to cover
+broadly with meropenem and linezolid for 10 days. He was treated
+with maximal management of his secretions, including chest PT,
+oral suctioning, adequate hydration, cough-assist device. He was
+seen by speech and swallow, who felt that he did not have overt
+aspiration. Blood and sputum cultures were all negative. Despite
+treatment of a likely pneumonia, the patient continued to have
+difficulty clearing his secretions. [**12-21**] the decision was made
+to replace his tracheostomy tube, which was done by the
+interventional pulmonary service without complications.
+Afterwards, the patient continued to have hypoxia episodes
+requiring intermittent mechanical ventilation. He required
+frequent suctioning. Overall, his respiratory status slowly
+improved, and by the time of discharge, he was requiring
+suctioning every four hours, and was intermittently using the
+Acapella cough assist device.
+.
+#. UTI: Patient had a positive UA on admission, and his culture
+grew out enterobacter cloacae. His foley catheter was replaced.
+He was initially treated with linezolid given a history of VRE,
+but was covered with meropenem (along with his lung infection)
+for 10 days.
+.
+# Perihepatic fluid collection: [**Month/Year (2) **] had minimal drainage. On
+admission, CT abdomen and pelvis showed resolution of the
+perihepatic fluid collection, so the [**Month/Year (2) **] was pulled. The
+patient should follow-up with Dr. [**First Name (STitle) **], his surgeon, in one
+month.
+.
+# Chronic aortic graft infection: Patient was continued on
+fluconazole throughout the admission. His ciprofloxacin and
+metronidazole were held while on meropenem, and afterwards
+restarted. He has follow-up with Dr. [**Last Name (STitle) **] in [**Hospital **] clinic
+[**1-31**].
+.
+#. Nutrition: in the setting of intermittent respiratory
+distress, the patient was not getting adequate POs, so his tube
+feeds were increased to 85ccs/hr cycling from 6pm to 10am.
+However, after his respiratory status improved, he passed his
+speech and swallow test and again was taking a diet during the
+day. His tube feeds were put back to 70cc/hr from 10pm to 6am.
+.
+# Chronic pain: continued gabapentin.
+
+TRANSITIONAL ISSUES:
+-trach sutures should be removed on [**1-4**]
+-He has f/u outpt with surgery for perihepatic fluid
+collection-[**1-13**]
+
+Medications on Admission:
+- Tylenol 650mg Q6hrs
+- Ascorbic acid 500mg [**Hospital1 **]
+- Cipro 500mg Q12hrs (suppressive dose)
+- Vitamin D 50,000 units QTU
+- ferrous sulfate 300mg [**Hospital1 **]
+- fluconazole 200mg QHS
+- fondaparinux 2.5mg daily
+- gabapentin 200mg [**Hospital1 **]
+- hydroxyzine 25mg Q6hrs PRN
+- lisinopril 5mg daily
+- lorazepam 0.5mg Q4hrs
+- Mag Oxide 400mg daily
+- metronidazole 500mg TID
+- miconazole 2% powder TID
+- MVI 1 tablet daily
+- Zofran 4mg Q8hrs prn
+- Percocet 1-2 tabs Q6hrs PRN
+- Zinc 220mg daily
+- paroxetine 20mg daily
+
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**5-9**]
+hours as needed for fever or pain.
+2. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+3. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours).
+4. ferrous sulfate 300 mg (60 mg iron)/5 mL Liquid Sig: Five (5)
+mL PO twice a day.
+5. fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours).
+6. fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1) syringe
+Subcutaneous DAILY (Daily).
+7. gabapentin 100 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day).
+8. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO once a
+day.
+9. metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+10. ipratropium bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for wheezing.
+11. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as
+needed for wheezing.
+12. multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. chlorhexidine gluconate 0.12 % Mouthwash Sig: Fifteen (15)
+ML Mucous membrane [**Hospital1 **] (2 times a day).
+14. zinc sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+15. paroxetine HCl 10 mg/5 mL Suspension Sig: Twenty (20) mg PO
+DAILY (Daily).
+16. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for anxiety.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 1089**] - [**Location (un) 1258**]
+
+Discharge Diagnosis:
+Health-care associated pneumonia
+Inability to clear secretions requiring tracheostomy
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+It was a pleasure caring for you in the intensive care unit Mr.
+[**Known patient lastname 9973**]. You were admitted with increased secretions, likely from
+pneumonia. You were treated with 10 days of broad-spectrum
+antibiotics. Because you continued to have frequent episodes
+with low oxygen, your tracheostomy was replaced [**12-21**].
+Your respiratory secretions have slowly improved and we think
+you are ready to return to [**Hospital1 1085**] to work on getting
+stronger.
+
+While here you had your liver [**Hospital1 **] removed. You should follow
+up with Dr.[**Name (NI) 7634**] office within the next three or four
+weeks.
+
+Some changes were made to your medications. Your antibiotics are
+back at the doses for chronic suppression of your aortic graft
+infection. Your blood pressures have been normal, so we did not
+restart your lisinopril. You did not require hydroxyzine or
+Ativan while you were in the Hospital. You were started on
+chlorhexidine to help with care of your tracheostomy. You can
+get albuterol and ipratropium to help with your breathing.
+
+Followup Instructions:
+Department: INFECTIOUS DISEASE
+When: THURSDAY [**3152-1-31**] at 1:30 PM
+With: URGENT CARE ID [**Telephone/Fax (1) 64**]
+Building: LM [**Hospital Unit Name 65**] Basement
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: PULMONARY FUNCTION LAB
+When: THURSDAY [**3152-2-28**] at 1:10 PM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 1346**]
+Building: [**Hospital6 355**] [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: PFT
+When: THURSDAY [**3152-2-28**] at 1:30 PM
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] W.
+Location: [**Hospital3 **] INTERNAL MEDICINE ASSOCIATES
+Address: [**Street Address(2) 2923**], STE 300, [**Hospital1 **],[**Numeric Identifier 2924**]
+Phone: [**Telephone/Fax (1) 2921**]
+**Please discuss with the staff at the facility the need for a
+follow up appointment with your PCP when you are ready for
+discharge.**
+
+Department: PULMONARY FUNCTION LAB
+When: THURSDAY [**3152-2-28**] at 1:10 PM
+With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 1346**]
+Building: [**Hospital6 355**] [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: PFT
+When: THURSDAY [**3152-2-28**] at 1:30 PM
+
+Department: MEDICAL SPECIALTIES
+When: THURSDAY [**3152-2-28**] at 1:30 PM
+With: DR. [**Last Name (STitle) 9082**]/DR. [**Last Name (STitle) **] [**Telephone/Fax (1) 655**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+-f/u outpt with surgery for perihepatic fluid collection-[**1-13**]
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 1190**]
+
+
+
+
+DOC CLASS

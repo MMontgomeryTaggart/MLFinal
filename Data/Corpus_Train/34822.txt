@@ -1,0 +1,268 @@
+Admission Date:  [**3003-9-20**]              Discharge Date:   [**3003-10-12**]
+
+Date of Birth:  [**2921-9-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+shortness of breath, chest pain
+
+Major Surgical or Invasive Procedure:
+[**3003-9-21**] Cardiac Catheterization
+[**3003-10-4**] Coronary Artery Bypass Grafting Surgery x 6 (LIMA to
+LAD, SVG to D1 to D2, SVG to OM1 to OM2, SVG to PDA), Left
+Carotidid Endarterectomy
+
+History of Present Illness:
+81 yo M w/ history of DMII, hypertension, hypercholesterolemia,
+and CRI who presented with SOB. Pt reports being physically
+quite active his entire life, but noted increasing SOB and DOE
+over the past 5 years. Yesterday, he was taking out the trash
+and noted worsened DOE and non-radiating chest tightness while
+lifting the trash bin and walking down the street. Denies
+palpitations, nausea, vomiting, LOC. Never experienced this
+chest tightness before. Chest tightness resolved with rest. Pt
+took no medications to palliate his symptoms, but reports
+orthopnea that night (slept in his chair). Pt was concerned
+about these symptoms and presented to OSH ED the next AM. At
+[**First Name4 (NamePattern1) 294**] [**Last Name (NamePattern1) **], VS were 99.5 100 115/78 18 98% on 2 L NC. He was
+noted to be in new AF w/ RVR with HRs in 140's and CHF (BNP
+2200). He was also found to have an NSTEMI (Trop-T 0.55 => 0.15,
+EKG with minor ST depressions). He remained hemodynamically
+stable. He received Lasix 40 mg IV x1, potassium chloride 20 mEq
+x1, was started on nitro gtt, 15mg cardizem x1. He was also
+noted to have occasional episodes of bradycardia btw 20-30's. He
+was then transferred to the [**Hospital1 22**] ED for further care and
+admission to the cardiology service.
+
+Past Medical History:
+Diabetes Mellitus Type II
+Hypertension
+Hyperlipidemia
+Chronic Renal Insufficiency
+History of stroke 8 years ago
+Acute diastolic heart failure
+
+Social History:
+Social history is significant for the absence of current tobacco
+use. There is no history of alcohol abuse. There is no family
+history of premature coronary artery disease or sudden death --
+his father died of an MI at the age of 87. Lives in [**Location 1738**]
+with his sister. [**Name (NI) 980**] as a financial advisor.
+
+Family History:
+Father died of MI at age 87
+
+Physical Exam:
+On admission:
+VS - 100.3 87 159/69 20 93% on 2 L NC FS: 274
+Gen: WDWN middle aged male in NAD, sitting upright. Oriented x3.
+
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+Neck: Supple with JVP of 5 cm at 30 degree angle. No
+thyromegaly.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. No
+carotid bruits.
+Chest: +crackles at lower lung bases bilaterally, R slightly
+greater than left. no wheezing.
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+palpation. No abdominial bruits.
+Ext: 2+ lower extremity edema bilaterally up to ankles. DPs, PTs
+[**11-24**]+ BL.
+Skin: + well demarcated area of erythema with central ulceration
+over L tibial area.
+
+Pertinent Results:
+[**9-21**] Cath: 1. Coronary angiography of this right dominant
+system revealed severe 3 vessel coronary disease poorly suitable
+for PCI. The LMCA had mild disease. The LAD had a 70% stenosis
+after D2. D1 had a proximal stenosis up to 70% and D2 had a
+proximal 70% stenosis as well. The LCX had a small OM1 with a
+proximal 70% stenosis and another small OM2 with a proximal 80%
+stenosis. The RCA had diffuse mild disease with severe
+calcification. There was a focal mid lesion up to 90% stenotic
+with distal lesions with an 80% stenosis in the RPDA and RPL. 2.
+Limited resting hemodynamics revealed elevated systemic arterial
+pressure with an SBP of 175 mm Hg. The LVEDP was severely
+elevated at 30 mm Hg indicative of diastolic dysfunction. There
+was no evidence of aortic stenosis with pullback across the
+aortic valve. 3. Left ventriculography was deferred. [**9-23**]
+Carotid U/S: Significant left-sided plaque with 70-79% carotid
+stenosis. Of note, the technologist felt that there was mobile
+plaque in the common carotid bulb. This could not be visualized
+based on scanned images. On the right there is less than 40%
+carotid stenosis.
+[**9-23**] Chest CT: 1. Extensive atherosclerosis as described.
+Questionable focal dissection of upper abdominal/lower thoracic
+aorta. Further evaluation with contrast-enhanced CT or MRA is
+recommended or comparison to prior studies if available. 2. Left
+kidney cysts, one of them calcified. 3. Bilateral pleural
+effusions, improved right lower lobe consolidation. 4. Two focal
+ground-glass opacities in the right lower lobe, 4:125, and in
+the right upper lobe as described, may represent areas of
+infection, but followup in three months for documentation of
+complete resolution is highly recommended. 5. Degenerative
+changes of thoracic spine, extensive, with no evidence of
+metastasis.
+[**10-3**] Abd CT: 1. Stable left retroperitoneal hemorrhage, some
+interval contraction is seen. 2. Aneurysmal dilation of the
+infrarenal abdominal aortic.
+[**10-4**] Echo: PRE-BYPASS: No spontaneous echo contrast or thrombus
+is seen in the body of the left atrium/left atrial appendage or
+the body of the right atrium/right atrial appendage. No atrial
+septal defect is seen by 2D or color Doppler.Right ventricular
+chamber size and free wall motion are normal. The descending
+thoracic aorta is mildly dilated. There are complex (>4mm)
+atheroma in the descending thoracic aorta. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. An eccentric, posteriorly
+directed jet of Mild (1+) mitral regurgitation is seen. There is
+no pericardial effusion. Dr. [**First Name (STitle) **] was notified in person of
+the results on [**Known patient firstname **] [**Known patient lastname 4449**] at 12noon. Post_Bypass: Preserved
+biventricular systolic function. LVEF 55%. Otherwise, exam is
+unchanged from pre bypass.
+[**10-6**] Head CT: There is no evidence of hemorrhage, mass, mass
+effect, or large acute territorial infarction. Areas of low
+attenuation are visualized in the subcortical and
+periventricular white matter, likely consistent with chronic
+microvascular ischemic changes. Dense arteriosclerotic
+calcifications are demonstrated in the carotid siphons and in
+the vertebral arteries.
+
+Brief Hospital Course:
+81 yo M with multiple risk factors for CAD including HTN, HLD,
+DM, and PVD who presented to the hospital with shortness of
+breath and chest tightness, found to have new onset CHF and
+transient in AF w/ RVR. Was found to have ischemic congestive
+heart failure (Grade I Diastolic HF EF > 55%) and 3VD on cardiac
+cath. Patient was medically managed, including diureses, and
+awaited CABG. During pre-operative work-up, hospital course was
+complicated by acute on chronic renal failure and a spontaneous
+L-sided RP bleed. Underwent carotid U/S pre-op which revealed
+70-70% stenosis of left carotid. Both of those complications
+resolved and the patient was taken to the operating room on
+[**10-4**] for a coronary artery bypass graft x 6 and left carotid
+endarterectomy. Please see operative report for surgical
+details. Following surgery he was transferred to the CVICU for
+invasive monitoring in stable condition. Within 24 hours he was
+weaned from sedation, awoke neurologically intact and extubated.
+On post-op day two chest tubes were removed. Patient had some
+right-sided weakness along with altered mental status and
+underwent Head CT. CT revealed no evidence of CVA. Also on
+post-op day two he had episodes of atrial fibrillation and was
+started on Amiodarone and Coumadin. He remained on Neo for BP
+support for several days but on was eventually weaned and
+started on beta-blockers. Epicardial pacing wires were removed
+per protocol. His weakness and mental status improved and on
+post-op day six he was transferred to the telemetry floor for
+further care. During his post-op course he worked with physical
+therapy for strength and mobility.
+By post-operative day 8 he was ready for transfer to a rehab
+facility.
+
+Medications on Admission:
+Zantac 150 mg PO BID
+Felodipine SR 5 mg PO daily
+Atenolol 50 mg PO daily
+Glyburide 5 mg PO daily
+Valsartan PO daily (unknown dose)
+Procrit 10,000 U/mL 1 solution q2 weeks
+Gemfibrozil 600 PO BID
+Atorvastatin 40 mg PO daily
+
+Discharge Medications:
+1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. wound care
+pls place adaptic/non-adherent dressing to pressure ulcer at L
+calf until healed
+5. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs
+PO Q4H (every 4 hours) as needed.
+Disp:*40 ML(s)* Refills:*0*
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+9. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+10. Glipizide 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*0*
+11. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+12. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+13. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+14. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO ONCE (Once)
+for 1 doses: titrate for an INR goal of [**12-25**].5 for atrial
+fibrillation.
+Disp:*30 Tablet(s)* Refills:*0*
+15. Valsartan 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Bostonian - [**Location (un) 268**]
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 6
+Carotid Stenosis s/p Left Carotidid Endarterectomy
+Congestive Heart Failure
+Myocardial Infarction
+Retroperitoneal Bleed
+Acute on Chronic Renal Failure
+
+Secondary Diagnosis
+Atrial Fibrillation
+Hypertension
+Hypercholesterolemia
+Diabetes Mellitus
+Stroke 8 years ago
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please shower daily , no baths or swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 100.5
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for one month and off [**Doctor Last Name **] narcotics
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns: [**Telephone/Fax (1) 181**]
+
+Followup Instructions:
+Dr. [**First Name (STitle) **] in 4 weeks
+Dr. [**Last Name (STitle) 13765**] in [**11-24**] weeks
+Dr. [**Last Name (STitle) 29247**] [**Name (STitle) 29248**] in [**12-26**] weeks
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**3003-10-12**]
+
+
+DOC CLASS

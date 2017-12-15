@@ -1,0 +1,230 @@
+TITLE:
+   CVICU
+   HPI:
+   HD9   POD 1-s/p CABG x2 (LIMA>LAD, SVG>OM)
+   Ejection Fraction:35
+   Hemoglobin A1c:10.2
+   Pre-Op Weight:209.88 lbs   95.2 kgs
+   Baseline Creatinine:1.0
+   PMH: CAD, DM, asthma, hypothyroidism, HTN, Hyperlipidemia, depression,
+   vertigo, diabetic neuropathy, bilateral great toe ulcers, left lateral
+   malleolus ulcer, ?h/o TIA last year -on Plavix, h/o Osgood Schlatter,
+   h/o swallowing difficulty- s/p ?balloon to trachea (no stent), s/p
+   cartilage removed from left knee for Osgood Schlatter, left inguinal
+   hernia repair, pilonidal cyst x2, tonsillectomy
+   [**Last Name (un) 500**]: lantus 70', lasix 20', KCl 10', atenolol 50', plavix 75',
+   synthroid 150', simvastatin 80', meclizine 125 q8prn, naproxen prn,
+   gabapentin 100''', lamotrigine 25'
+   Assessment:49 year old male s/p CABG x2 (LIMA>LAD, SVG>OM) [**3-7**]
+   Plan:anesthesia had difficult time getting central and aline access
+   prior to OR - please keep in mind prior to removal
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Aspirin EC 5. Aspirin 6. Atorvastatin 7. Calcium
+   Gluconate
+   8. Chlorhexidine Gluconate 0.12% Oral Rinse 9. Clindamycin 10. Dextrose
+   50% 11. Docusate Sodium 12. Docusate Sodium (Liquid)
+   13. Fentanyl Citrate 14. Gabapentin 15. Glycopyrrolate 16. Insulin 17.
+   Ketorolac 18. Levothyroxine Sodium
+   19. Magnesium Sulfate 20. Metoclopramide 21. Milk of Magnesia 22.
+   Neostigmine 23. Nitroglycerin
+   24. Oxycodone-Acetaminophen 25. Phenylephrine 26. Potassium Chloride
+   27. Propofol 28. Ranitidine
+   29. Ranitidine 30. Sodium Chloride 0.9% Flush 31. Vancomycin
+   24 Hour Events:
+ [**2536-3-8**]: Extubated postoperatively. No events overnight.
+   OR RECEIVED - At [**2536-3-7**] 04:11 PM
+ INVASIVE VENTILATION - START [**2536-3-7**] 04:11 PM
+   from or
+ PA CATHETER - START [**2536-3-7**] 04:15 PM
+ ARTERIAL LINE - START [**2536-3-7**] 04:15 PM
+ ARTERIAL LINE - START [**2536-3-7**] 04:15 PM
+ CORDIS/INTRODUCER - START [**2536-3-7**] 04:15 PM
+ NASAL SWAB - At [**2536-3-7**] 04:30 PM
+ EKG - At [**2536-3-7**] 05:00 PM
+ EXTUBATION - At [**2536-3-7**] 07:57 PM
+ INVASIVE VENTILATION - STOP [**2536-3-7**] 07:57 PM
+   from or
+ PA CATHETER - STOP [**2536-3-8**] 06:00 AM
+   Post operative day:
+   POD#1 - cabg x 2 lima to lad, svg to om.
+   Allergies:
+   Penicillins
+   Unknown;
+   Motrin (Oral) (Ibuprofen)
+   Unknown;
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Unknown;
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2536-3-7**] 09:30 PM
+   Infusions:
+   Phenylephrine - 0.3 mcg/Kg/min
+   Other ICU medications:
+   Fentanyl - [**2536-3-7**] 10:30 PM
+   Other medications:
+   Flowsheet Data as of  [**2536-3-8**] 08:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**37**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.8
+C (100
+   HR: 89 (76 - 98) bpm
+   BP: 97/47(63) {91/45(60) - 122/69(85)} mmHg
+   RR: 0 (0 - 24) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 217 kg (admission): 95.2 kg
+   Height: 72 Inch
+   CVP: 9 (4 - 12) mmHg
+   PAP: (29 mmHg) / (13 mmHg)
+   CO/CI (Thermodilution): (6.82 L/min) / (3.7 L/min/m2)
+   SVR: 530 dynes*sec/cm5
+   SV: 91 mL
+   SVI: 42 mL/m2
+   Total In:
+                                                                  6,324 mL
+                                                                     39 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  5,824 mL
+                                                                     39 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  2,458 mL
+                                                                    410 mL
+   Urine:
+                                                                    753 mL
+                                                                    350 mL
+   NG:
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,866 mL
+                                                                   -371 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 21 cmH2O
+   Plateau: 16 cmH2O
+   Compliance: 54.5 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.38/45/174/25/1
+   Ve: 9.1 L/min
+   PaO2 / FiO2: 435
+   Physical Examination
+   Labs / Radiology
+   241 K/uL
+   9.2 g/dL
+   98 mg/dL
+   0.7 mg/dL
+   25 mEq/L
+   4.5 mEq/L
+   21 mg/dL
+   107 mEq/L
+   136 mEq/L
+   26.3 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**2536-3-7**]  01:42 PM
+                             [**2536-3-7**]  02:11 PM
+                             [**2536-3-7**]  03:05 PM
+                             [**2536-3-7**]  03:11 PM
+                             [**2536-3-7**]  03:42 PM
+                             [**2536-3-7**]  04:29 PM
+                             [**2536-3-7**]  04:49 PM
+                             [**2536-3-7**]  07:40 PM
+                             [**2536-3-7**]  09:38 PM
+                             [**2536-3-8**]  04:15 AM
+   WBC
+   11.3
+   13.7
+   10.0
+   Hct
+   27
+   30
+   27.4
+   29
+   30
+   30.4
+   27.3
+   26.3
+   Plt
+   249
+   314
+   241
+   Creatinine
+   0.7
+   0.7
+   TCO2
+   28
+   28
+   26
+   27
+   28
+   Glucose
+   107
+   133
+   167
+   143
+   125
+   106
+   112
+   98
+   Other labs: PT / PTT / INR:14.1/25.1/1.2, Differential-Neuts:81.1 %,
+   Lymph:15.2 %, Mono:2.3 %, Eos:0.9 %, Lactic Acid:0.9 mmol/L, Mg:2.0
+   mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: POD#1 - cabg x 2 lima to lad, svg to om.
+   [**2536-3-8**]: Extubated postoperatively. No events overnight.
+   Neurologic: Neuro checks Q: 4 hr, PCT/Torodol for pain. OOB,PT eval
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Wean off
+   Neo->postoperative hypotension. When BP tolerates->start B-Blocker/
+   Statin/ASA. HD stable. NSR. Now has ST elevation in II, III and AVF.
+   Will discuss with surgeon.
+   Pulmonary: IS, Encouarge DB&C,IS, gentle diuresis
+   Gastrointestinal / Abdomen: bowel regimen, prophylaxis
+   Nutrition: Regular diet, ADAT
+   Renal: Foley, Adequate UO, BUN/Cr= 21/0.7, stable. start gentle
+   diuresis
+   Hematology: Stable postoperative anemia. HCT= 26.3, PLTs=241
+   Endocrine: RISS, Lantus (R)
+   Infectious Disease: Periop ABX
+   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Fluids:  KVO
+   Consults: CT surgery, P.T.
+   Billing diagnosis: Post-op hypotension
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines:
+   Arterial Line - [**2536-3-7**] 04:15 PM
+   Cordis/Introducer - [**2536-3-7**] 04:15 PM
+   16 Gauge - [**2536-3-7**] 04:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status:  Full
+   Disposition: Transfer to floor
+   Time spent 32 minutes
+
+
+
+DOC CLASS

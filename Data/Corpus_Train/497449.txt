@@ -1,0 +1,294 @@
+Chief Complaint:  fever, cholecystitis
+   HPI:
+   Mr [**Known patient lastname 1840**] is a 74-year-old male who originally presented to an OSH with
+   on [**2776-7-11**] with cholecystitis and ascending cholangitis as well as an
+   NSTEMI; he was transferred urgently to [**Hospital1 17**] for an ERCP.  ERCP
+   demonstrated gross pus in the stomach and spilling from the papilla; a
+   biliary stent was placed. He was treated with Zosyn x 7 days.
+   (8/12/008-8/19/08). A cholecystostomy tube was placed percutaneously,
+   and elective cholecystectomy was deferred by general surgery until the
+   near future. His LFTs trended down throughout his stay.
+   .
+   The patient was discharged on [**2776-7-22**], and the tube fell out on
+   [**2776-7-23**] at [**Hospital3 1841**] facility.  Per the patient and his
+   family, he began feeling ill 1-2 weeks prior to presentation, with
+   malaise and intermittant RUQ pain. He was seen at [**Hospital3 1842**] [**Hospital1 **] 5
+   days ago; per his family and the surgical note, both an ultrasound and
+   CT scan were unrevealing for gallbladder disease. He was treated for
+   hypoglycemia and released.
+   .
+   On the day of admission he developed increasing abdominal pain and
+   erratic behavior per his wife. She did not note fevers at home.
+   Otherwise, he did not have chest pain, difficulty breathing, increased
+   lower extremity edema, vomiting, or diarrhea at home. He did have
+   nausea per his wife.
+   .
+   In the ED:  initial vitals were: T 99.3, HR 86, BP 126/73, RR 20, 95%
+   on RA. In the [**Last Name (LF) 68**], [**First Name3 (LF) **] U/S was concerning for acute cholecystitis;
+   perforated gallbladder or abscess could not be excluded.  Surgery was
+   consulted; it was felt the patient was not a surgical candidate,
+   recommended perc drainage and admission to MICU.  Code sepsis was
+   called; he was intubated for airway protection (with etomidate and
+   rocuronium), a central line was placed for access. He was given
+   vancomycin and Zosyn. He was placed on propofol. He is admitted to the
+   MICU for further management.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Pneumovax 23 (Injection) (Pneumococcal 23-[**Male First Name (un) **] P-Sac Vac)
+   Rash;
+   Allopurinol
+   Rash;
+   Hydralazine
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   (per recent d/c summary)
+   Metoprolol 25 mg TID
+   Zolpidem 5 mg HS
+   Aspirin 325 mg daily
+   Lipitor 10 mg daily
+   Prazosin 5 mg daily
+   Pantoprazole 40 mg daily
+   Tylenol-Codeine #3 300-30 mg Tq6H PRN
+   Bisacodyl PRN
+   Insulin Lispro sliding scale
+   Heparin SC
+   Docusate
+   Senna
+   Lisinopril 5 mg daily
+   Amlodipine 5 mg daily
+   Lasix 20 mg [**Hospital1 7**]
+   Past medical history:
+   Family history:
+   Social History:
+   cholecystitis with ascending cholangitis [**7-9**]
+   CAD s/p CABG [**2751**], redo CABG [**2761**]
+   s/p AAA repair
+   IDDM
+   CKD
+   gout
+   chronic systolic CHF
+   h/o GIB
+   unable to obtain
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Retired managment consultant. Has 5 children. Nonsmoker, quit
+   over 20 years ago. No alcohol use.
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever
+   Ear, Nose, Throat: No(t) Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Edema
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: Abdominal pain, Nausea, No(t) Emesis, No(t) Diarrhea
+   Genitourinary: No(t) Dysuria
+   Musculoskeletal: Joint pain, due to gout
+   Psychiatric / Sleep: Agitated, per wife
+   Flowsheet Data as of [**2776-8-21**] 12:03 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.7
+C (101.6
+   Tcurrent: 38.7
+C (101.6
+   HR: 88 (88 - 95) bpm
+   BP: 114/51(70) {114/51(70) - 114/51(70)} mmHg
+   RR: 17 (15 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+             Total In:
+             16 mL
+   PO:
+             TF:
+   IVF:
+   16 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     25 mL
+   Urine:
+   25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     -9 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 3
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 22 cmH2O
+   Plateau: 17 cmH2O
+   SpO2: 99%
+   ABG: 7.26/38/128//-9
+   Ve: 8.4 L/min
+   PaO2 / FiO2: 320
+   Physical Examination
+   VS: T 101.6 rectal, HR 95, BP 100/42, RR 20, 100% on vent
+   GEN: intubated, sedated. opens eyes to voice. does not follow commands.
+   HEENT: pupils small but reactive bilaterally, sclerae anicteric, tonuge
+   slightly dry, tongue midline
+   CV: RRR, 2/6 systolic murmur at LUSB
+   PULM: coarse breath sounds at right base, no wheeze
+   ABD: distended but soft, midline surgical scar extending from sternum
+   to pubis, + [**Doctor Last Name **] on exam, abd otherwise nontender
+   EXT: dp pulses 1+ bilaterally, no edema
+   Labs / Radiology
+   229 mg/dL
+   106 mEq/L
+   5.0 mEq/L
+   135 mEq/L
+        [image002.jpg]
+                                  [**2773-12-3**]
+                          2:33 A9/19/[**2775**]  09:58 PM
+                                  [**2773-12-7**]
+                         10:20 P9/19/[**2775**]  10:35 PM
+                                  [**2773-12-8**]
+                                   1:20 P
+                                  [**2773-12-9**]
+                                   11:50 P
+                                  [**2773-12-10**]
+                                   1:20 A
+                                  [**2773-12-11**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2774-1-3**]
+                                   1:20 P
+                                  [**2774-1-3**]
+                                   11:20 P
+                                  [**2774-1-3**]
+                                   4:20 P
+   TC02
+                                     18
+   Glucose
+                                     220
+                                     229
+   Other labs: Lactic Acid:1.7 mmol/L
+   Fluid analysis / Other labs: lactate 1.2 --> 7.1
+   Na 134, K 5.5, Cl 102, CO2 21, BUN 62, Cr 2.8, glucose 178
+   Ca: 8.8 Mg: 2.3 P: 4.6
+   ALT: 27 AP: 266 Tbili: 0.7 Alb: 2.6
+   AST: 27 LDH: 161
+   Lip: 40
+   WBC 15.7, Hgb 9.1, Hct 28.9, Plt 425
+     diff: N:85.1 L:10.1 M:4.1 E:0.6 Bas:0.1
+   PT: 16.4  PTT: 32.0  INR: 1.5
+   Imaging: CXR: FINDINGS: Portable AP supine chest radiograph is
+   obtained. Endotracheal tube is seen with its tip approximately 4.6 cm
+   above the carina. An NG tube is seen with its tip in the approximate
+   location of the mid esophagus. Advancement is recommended. Midline
+   sternotomy wires and mediastinal clips are again noted. Heart size is
+   enlarged. Mediastinal contour is widened, which may be related to
+   patient's rotation. The lungs appear essentially clear bilaterally,
+   though low lung volumes limit evaluation. Osseous structures appear
+   intact. Clips are noted in the right upper quadrant. IMPRESSION: ET
+   tube appropriately positioned. NG tube projects with its tip at the
+   level
+   of the mid esophagus. Advancement is recommended.
+   .
+   ABD US: (PRELIM READ) gallbladder distended with mobile sludge and few
+   stones, with +[**Doctor Last Name **], consistent with acute cholecystitis. no biliary
+   dilation, gallbladder wall thickening or pericholecystic fluid seen.
+   while the echogenic material is assumed to be in a distended and
+   irregular shaped gallbladder, perforated gallbladder or abscess cannot
+   be excluded since no normal wall is discerned. CT recommended to assess
+   for complications of cholecystitis.
+   Microbiology: blood cx pending
+   urine cx pending
+   ECG: sinus tach at 130, RBBB, upsloping st segment depressions leads
+   v2-5 (seen on prior)
+   Assessment and Plan
+   74M with recent admission for cholecystitis and ascending cholangitis
+   s/p perc tube placement now represents with acute cholecystitis and
+   septic shock.
+   .
+   # Septic shock:  Likely due to biliary source; last admission culture
+   only grew LACTOBACILLUS. Urine negative. CXR unrevealing. Ultrasound
+   cannot rule out gallbladder perforation and cholecystitis evident on
+   scan.
+   - a line placed on arrival to ICU
+   - further evaluate gallbladder with CT abdomen when more clinically
+   stable
+   - Broad spectrum abx: Zosyn/vanc
+   - may require percutaneous drainage
+   - IVF bolus until CVP = [**7-13**]
+   - then pressors as required to maintain MAP >65
+   - check central venous sat, consider PRBC transfusion as required
+   - appreciate surgery recs, will continue to follow
+   - follow cultures
+   - repeat lactate
+   .
+   # Respiratory: intubated for airway protection in the setting of septic
+   shock.  CXR w/o acute process in ED. At risk for ARDS given sepsis. ET
+   tube in position though 5 cm above carina.
+   - titrate invasive ventilation by ABGs
+   - daily wakeup
+   - VAP bundle
+   - repeat CXR in AM
+   - propofol for sedation for now
+   .
+   # Acute renal failure: Cr 2.8, but baseline difficult to discern as
+   large variation lately. Likely baseline low 2's with current elevation
+   [**1-3**] sepsis.
+   - continue to trend
+   - avoid nephrotoxins and renally dose meds as appropriate
+   .
+   # anemia: hct low 30s on recent admissions so near baseline
+   - iv ppi
+   - guaiac stools
+   - active t&s
+   .
+   # DM: Attempt sliding scale insulin though may require insulin gtt
+   difficult to control.
+   .
+   # Gout: no acute issues, complaining of foot pain prior to admission,
+   pain control prn
+   .
+   #CAD s/p CABG; CHF, HTN, BPH:
+   -holding asa, statin, ace-i, BB, amlodipine, lasix, prazosin in setting
+   of septic shock
+   .
+   #Access: Central line placed in ED, PIV, arterial line
+   .
+   # FEn: NPo for now, has OG tube, replete lytes prn
+   .
+   #PPx: sc heparin, ISS, bowel regimen
+   .
+   #Comm: with wife, [**Name (NI) 235**], [**Telephone/Fax (1) 1843**] who is hCP; son [**Name (NI) **]
+   [**Telephone/Fax (1) 1844**]
+   #Code: full confirmed with wife
+   ICU [**Name (NI) 75**]
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Presep Catheter - [**2776-8-20**] 11:09 PM
+   20 Gauge - [**2776-8-20**] 11:11 PM
+   Arterial Line - [**2776-8-20**] 11:29 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

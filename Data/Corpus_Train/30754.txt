@@ -1,0 +1,269 @@
+Admission Date:  [**3224-5-8**]              Discharge Date:   [**3224-5-14**]
+
+Date of Birth:  [**3171-5-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+angina
+
+Major Surgical or Invasive Procedure:
+- off pump coronary artery bypass surgery (LIMA->LAD) [**3224-5-10**]
+
+
+History of Present Illness:
+53 yo male with chest pressure for the past year, increasing in
+frequency. Presented to [**Location (un) **] and then transferred to [**Hospital1 22**]
+for cath. He ruled in for NSTEMI. Cath revealed 100% LAD, 40%
+prox. CX, RCA nl., EF 45%, no MR.
+
+Past Medical History:
+NIDDM
+HTN
+skin nodule excision
+
+Social History:
+part-time handyman, now unemployed
+quit smoking 20 years ago
+3 beers per week
+lives with significant other
+
+Family History:
+NC
+
+Physical Exam:
+HR 54  RR 16    right 142/74   left 128/66
+68"   185#
+skin/HEENT unremarkable
+neck supple, full ROM, no carotid bruits appreciated
+CTAB anteriorly
+RRR
+soft, NT, ND, +BS
+warm, well-perfused, no edema or varicosities
+neuro grossly intact
+2+ bil. fems/DP/ PT/ radials
+
+
+Pertinent Results:
+[**3224-5-12**] 07:03AM BLOOD WBC-11.6* RBC-4.17* Hgb-12.5* Hct-36.6*
+MCV-88 MCH-30.1 MCHC-34.3 RDW-13.0 Plt Ct-265
+[**3224-5-11**] 07:33AM BLOOD PT-14.1* PTT-30.1 INR(PT)-1.3*
+[**3224-5-12**] 07:03AM BLOOD Plt Ct-265
+[**3224-5-12**] 07:03AM BLOOD Glucose-121* UreaN-12 Creat-1.0 Na-139
+K-3.8 Cl-100 HCO3-31 AnGap-12
+
+Cardiology Report ECHO Study Date of [**3224-5-10**]
+
+
+*** Report not finalized ***
+PRELIMINARY REPORT
+
+PATIENT/TEST INFORMATION:
+Indication: Intra-op TEE for off Pump CABG
+Status: Inpatient
+Date/Time: [**3224-5-10**] at 09:33
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW02-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+MEASUREMENTS:
+Left Ventricle - Ejection Fraction: 55% (nl >=55%)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Normal LA size. Good (>20 cm/s) LAA ejection
+velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal
+interatrial septum. No
+ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV cavity size. Overall normal LVEF
+(>55%).
+
+LV WALL MOTION: Regional LV wall motion abnormalities include:
+anterior apex -
+hypo; septal apex - hypo; apex - hypo; remaining LV segments
+contract
+normally.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta
+diameter. Normal aortic arch diameter. Focal calcifications in
+aortic arch.
+Normal descending aorta diameter. Focal calcifications in
+descending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: No MS. Trivial MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+were personally
+
+Conclusions:
+1. The left atrium is normal in size. No atrial septal defect is
+seen by 2D or
+color Doppler.
+2. The left ventricular cavity size is normal. Overall left
+ventricular
+systolic function is normal (LVEF>55%). The remaining left
+ventricular
+segments contract normally.
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are focal calcifications in the aortic arch.
+5. The aortic valve leaflets (3) appear structurally normal with
+good leaflet
+excursion and no aortic regurgitation. 6. Trivial mitral
+regurgitation is
+seen.
+7. There is no pericardial effusion.
+
+Post OPCAB: Pt is receiving an infusion of pheylephrine.
+1. Biventricular function is preserved.
+2. Other findings are unchanged
+[**Location (un) **] PHYSICIAN:
+
+
+
+
+
+Brief Hospital Course:
+Admitted [**5-8**] on nitroglycerin and aggrastat drips,and underwent
+OPCABG x 1 with Dr. [**Last Name (STitle) **]. Transferred to the CSRU in stable
+condition on phenylephrine, propofol, and insulin drips.
+Extubated later that afternoon and transferred to the floor on
+POD #1 to begin increasing his activity level.Chest tubes and
+pacing wires removed without incident. Gentle diuresis continued
+and beta blockade titrated. Made good progress and cleared for
+discharge to home on POD #4. Pt is to make all follow-up appts.
+as per discharge instructions.
+
+Medications on Admission:
+metformin 500 mg [**Hospital1 **]
+ASA 81 mg daily
+lisinopril 10 mg daily
+HCTZ 25 mg daily
+Plavix (600 mg [**5-8**], 75 mg [**5-9**])
+aggrastat
+nitroglycerin
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 1 months.
+Disp:*60 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain: - do not drive while
+taking this medication.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+6. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+7. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 5 days.
+Disp:*10 Tablet(s)* Refills:*0*
+9. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two
+(2) Capsule, Sustained Release PO Q12H (every 12 hours) for 5
+days.
+Disp:*20 Capsule, Sustained Release(s)* Refills:*0*
+10. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+- Single-vessel coronary artery disease with total occlusion of
+his left anterior descending coronary artery --> s/p Off-pump
+coronary artery bypass grafting x2 with left internal mammary
+artery to the left anterior descending coronary artery.
+PMH
+Diabetes Mellitus
+Hypertension
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain. In the event that you have drainage
+from your sternal wound, please contact the [**Name2 (NI) 3620**] at ([**Telephone/Fax (1) 1774**].
+2) Report any fever greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) No lotions, creams or powders to incision until it has
+healed. Please shower and wash incisions daily. No bathing or
+swimming for 1 month. Use sunscreen on incision if exposed to
+sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month.
+7) Call with any questions or concerns [**Telephone/Fax (1) 181**].
+
+Followup Instructions:
+**it is very important that the following appintments are made /
+confirmed**
+- You will need to schedule a follow-up appointment with Dr.
+[**Last Name (STitle) **] in 4 weeks -> please call his office at ([**Telephone/Fax (1) 72**]
+to schedule this appointment
+- You will need to schedule an appointment with your primary
+care physician (Dr [**Last Name (STitle) 4195**] [**Telephone/Fax (1) 8606**]) in 2 weeks -> this is
+for post-hospitalization visit,
+- You need to schedule an appointment with your Cardiologist in
+the next 2-3 weeks
+
+
+
+Completed by:[**3224-5-14**]
+
+
+DOC CLASS

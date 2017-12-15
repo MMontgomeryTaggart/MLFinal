@@ -1,0 +1,153 @@
+Admission Date:  [**2643-8-29**]              Discharge Date:   [**2643-9-2**]
+
+Date of Birth:  [**2600-4-25**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 139**]
+Chief Complaint:
+Progressive dypnea on exertion
+
+Major Surgical or Invasive Procedure:
+[**2643-8-29**] - MV repair (26mm [**Doctor Last Name **] annuloplasty band)
+
+
+History of Present Illness:
+43 year old woman who has experienced progressive dyspnea on
+exertion. AN echocardiogram in [**2-1**] revealed moderate MR [**First Name (Titles) **] [**Last Name (Titles) **]
+with prolapse of the posterior mitral valve leaflet. A cardiac
+catheterization revealed no significant coronary artery disease.
+
+
+Past Medical History:
+Hypothyroid
+Nephrolithiasis
+
+
+Social History:
+From [**Country 3842**]. Lives alone and works in cleaning. Has a 10 year
+old son.
+
+Family History:
+Non-contributory
+
+Physical Exam:
+HEART: RRR, [**4-2**] holosystolic murmur
+LUNGS: Clear
+ABD: Benign
+PULSES: 2+ throughout
+SKIN: No lesions or rashes
+
+Pertinent Results:
+[**2643-9-2**] 04:45AM BLOOD Hct-25.9*
+[**2643-8-31**] 06:30AM BLOOD WBC-11.3* RBC-3.47* Hgb-9.0* Hct-26.0*
+MCV-75* MCH-25.8* MCHC-34.4 RDW-14.8 Plt Ct-129*
+[**2643-8-31**] 06:30AM BLOOD Plt Ct-129*
+[**2643-9-1**] 06:10AM BLOOD Glucose-107* UreaN-13 Creat-0.5 Na-136
+K-3.6 Cl-100 HCO3-27 AnGap-13
+[**2643-9-1**] 06:10AM BLOOD Mg-1.8
+
+[**2643-8-31**] CXR
+The patient is status post median sternotomy. The left chest
+tube and mediastinal drain remain in place. The patient has been
+extubated and Swan-Ganz catheter and nasogastric tube have been
+removed. There is no evidence of pneumothorax.
+
+The previously identified mild congestive heart failure has been
+markedly improving. There is continued cardiomegaly.
+
+[**2643-8-29**] EKG
+Sinus rhythm
+Normal ECG
+Since previous tracing of [**2643-8-2**], no significant change
+
+
+
+[**Last Name (NamePattern4) 1766**]ospital Course:
+Ms. [**Known patient lastname **] was admitted to the [**Hospital1 68**] on [**2643-8-29**] and taken directly
+to the operating room where she underwent a mitral valve repair
+utilizing a 26mm [**Doctor Last Name **] annuloplasty band. Postoperatively she
+was taken to the cardiac surgical intensive care unit for
+monitoring. On postoperative day one, she awoke neurologically
+intact and was extubated. The pulmonology service was consulted
+for pulmonary hypertension however as her hemodynamics were
+significantly improved postoperatively, no further intervention
+or treatment was recommended. Later on postoperative day one,
+Ms. [**Known patient lastname **] was transferred to the cardiac surgical step down unit
+for further recovery. She was gently diuresed towards her
+preoperative weight. The physical therapy service worked with
+her to increase her strength and mobility. Ms. [**Known patient lastname **] continued
+to make steady progress and was discharged home on postoperative
+day four. She will follow-up with Dr. [**Last Name (Prefixes) **], her
+cardiologist and her primary care physician as an outpatient.
+
+Medications on Admission:
+Aspirin
+Synthroid
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 7
+days.
+Disp:*14 Tablet(s)* Refills:*0*
+3. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 7 days.
+Disp:*14 Packet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Levothyroxine Sodium 25 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+7. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Dilaudid 2 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours.
+Disp:*50 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+vna of [**Location (un) **]
+
+Discharge Diagnosis:
+Mitral regurgitation.
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+You may not drive for 4 weeks.
+You may not lift more than 10 lbs for 3 months.
+You should shower, let water flow over wounds, pat dry with a
+towel.
+Do not use lotions, creams, or powders on wounds.
+Call our office for sternal drainage, temp.>101.5
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 41217**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) **] for 2-3 weeks.
+Make an appointment with Dr. [**Last Name (STitle) 141**] for 4 weeks.
+
+
+
+Completed by:[**2643-9-14**]
+
+
+DOC CLASS

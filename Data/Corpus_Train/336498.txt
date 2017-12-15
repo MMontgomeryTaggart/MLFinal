@@ -1,0 +1,211 @@
+Chief Complaint:  Respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   61 yof in USOH until 1 day PTA when developed abd pain radiating to
+   back, chest discomfort, wheezing and dyspnea
+ went to [**Hospital1 52**] ER.
+   Associated symptoms of diarrhea and nausea.
+   [**Hospital1 52**] ER evaluation demonstrated HR= 120, SaO2= 97% RA.  Concern raised
+   for mast cell degranulation episode --> received usual medication
+   combination (including epinephrine1:1000 subcutaneous; dilaudid,
+   benedryl, solumedrol, zofran, ativan, albuterol nebulizer.  Initial
+   improvement of symptoms followed by recurrence
+ Admitted to medical
+   [**Hospital1 **].
+   This AM, experienced worsening SOB.  Intubated for respiratory distress
+   (no laryngeal edema noted by Anesthesiologist at the time of
+   intubation).  Transferred to MICU service for further evaluation and
+   management.
+   Upon arrival to MICU, pt. intubated, sedated, but able to communicate
+   with head nods.  Notes abd pain and chest pain which she describes with
+   usual episodes attributed to MCDS
+ improving.  Denies dyspnea.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Compazine (Injection) (Prochlorperazine Edisylate)
+   PT REPORTS [**Name (NI) 5415**]
+   Droperidol
+   REPORTS ANXIETY
+   Gadolinium-Containing Agents
+   Anaphylaxis; Na
+   Demerol (Injection) (Meperidine Hcl)
+   anaphylactoid
+   Morphine
+   Unknown;
+   Haldol (Oral) (Haloperidol)
+   pt reports exc
+   Last dose of Antibiotics:
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3064-10-18**] 11:20 AM
+   Fentanyl - [**3064-10-18**] 11:20 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   MAST CELL  DEGRANULATION SYNDROME
+ multiple hospitalizations for
+   flares, intubations x 3 (last [**3064-8-29**]).
+   HTN
+   MI s/p epinephrine dose
+   SPINAL STENOSIS
+   GERD
+   Paradoxical Vocal Cord Dysfunction
+   OSTEOARTHRITIS
+   Mother died MI
+   Occupation:
+   Drugs: Denies
+   Tobacco: Denies
+   Alcohol: Denies
+   Other: Divorced, lives alone.
+   Review of systems:
+   Constitutional: No(t) Fatigue, Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: Chest pain, No(t) Palpitations, No(t) Edema,
+   Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, Dyspnea, Tachypnea, Wheeze
+   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis, No(t)
+   Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, Foley, No(t) Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, No(t) Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: No(t) Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**3064-10-18**] 01:33 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 130 (130 - 130) bpm
+   RR: 24 (24 - 24) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+             20 mL
+   PO:
+             TF:
+   IVF:
+   20 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     20 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 818 (256 - 818) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 12
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 18 cmH2O
+   SpO2: 93%
+   ABG: ////
+   Ve: 7.4 L/min
+   Physical Examination
+   General Appearance: No(t) Well nourished, No(t) No acute distress,
+   Overweight / Obese, No(t) Thin, Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition,
+   Endotracheal tube, No(t) NG tube, OG tube
+   Lymphatic: No(t) Cervical WNL, No(t) Supraclavicular WNL, No(t)
+   Cervical adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: Clear : , No(t) Crackles : , No(t) Bronchial: , No(t)
+   Wheezes : , No(t) Diminished: , No(t) Absent : , No(t) Rhonchorous: )
+   Extremities: No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Not assessed, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, No(t) Follows simple commands, Responds to:
+   Verbal stimuli, Oriented (to): , Movement: Purposeful, Sedated,
+   Paralyzed, Tone: Normal
+   Labs / Radiology
+   255
+   28.9
+   196
+   0.8
+   14
+   27
+   107
+   4.0
+   141
+   9.7
+        [image002.jpg]
+   Assessment and Plan
+   Respiratory failure, mast cell degranulation syndrome (MCDS).
+   RESPIRATORY FAILURE
+ intubated.  No significant laryngeal swelling
+   noted at time of intubation.  Lung exam clear.  Continue current
+   medications.  Work towards SBT and hopefully safe extubation soon.
+   MAST CELL DEGRANULATION SYNDROME
+mild flare currently.  Continue usual
+   meds.  Hope for rapid resolution.
+   VOCAL CORD DYSFUCTION
+   may contribute dyspnea.
+   CHEST PAIN SYNDROME
+ chronic.
+   HYPERTENSION --  attributed to distress and epinephrine.  Improved.
+   DIARRHEA
+ stable.
+   FLUIDS
+ euvolemic.  Monito I/O.  maintain balance.
+   RENAL FUNCTION
+ preserved.  Monitor BUN, creatitnine.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   Comments:
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments: Plans discussed with patient.
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 55 minutes
+   Patient is critically ill
+   ------ Protected Section ------
+   Good progress.  Tolerating SBT, good ABG.  Cuff leak present.  Lungs
+   clear.  Plan for extubation trial.  Pt. agrees and is ready.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 594**], MD
+   on:[**3064-10-18**] 17:10 ------
+
+
+
+DOC CLASS

@@ -1,0 +1,313 @@
+TITLE:
+   Chief Complaint:  Chest pain
+   HPI:
+   67 year old blind, deaf man with ESRD, htn, CAD s/p NSTEMI,
+   cardiomyopathy with EF 35%, initially admitted to [**Hospital3 **] hospital
+   with burning chest pain radiating to shoulders. Ruled out for MI.
+   Yesterday, patient returned to [**Location **] with burning chest pain radiating to
+   his shoulder. No EKG changes, but known LBBB. Initial negative troponin
+   negative, but afternoon trop elevated to 0.97. Overnight episodes of CP
+   responded to 2 SL NTG +/- morphine. Continued to have episodes of CP
+   responsive to NTG. Patient was transferred directly to [**Hospital1 5**] cath lab
+   on [**7-22**].
+   .
+   Coronary angiography on [**7-22**] revealed a right dominant system with
+   diffuse coronary artery disease.  The LMCA was without angiographically
+   apparent stenosis.  The LAD had 3 sequencial stents that were widely
+   patent. There was a 50% stenosis at the D1 level proximal to the
+   stents.  There was diffuse disease between the 2nd and 3rd stents with
+   approximately 60% stenosis, and there was a 90% focal lesion just
+   distal to the 3rd stent that was new since the prior catheterization in
+   [**3086-3-26**].  The D1 had 90% proximal disease that was not apparently
+   changed since prior. The LCX had a widely patent stent and no
+   significant disease.  The RCA had chronic subtotal occlusion in the
+   mid-portion, with collaterals from the LAD distally. He had a
+   successful PCI of the distal LAD with a DES which was post-dilated to
+   2.5mm. At this point the patient could not tolerate further
+   intervention due to marked agitation, so it was
+   elected not to intervene on the D1 lesion.
+   .
+   After this intervention the patient was transferred to [**Hospital Ward Name 372**] 3 and
+   continued to have chest pain on the floor. He continued to ask for
+   nitroglycerin for chest pain overnight. EKGs were consistently
+   unchanged. The pain was not relieved with a GI cocktail. Trop was 0.63,
+   CK=53 on AM of [**7-23**] and previously was trop=0.97 at OSH on [**7-22**]. Due to
+   his continued symptoms, he was taken to cath again on the afternoon of
+   [**7-23**] after his regularly scheduled HD session. The D1 lesion was
+   successfully angioplastied and a successful PCI of prox/mid LAD with
+   DES was performed, but the procedure was complicated by LMCA artery
+   dissection. On the last final angiography injection, the LMCA was
+   dissected, at which point the patient arrested. CPR was immmediately
+   initiated and atropine was given.  The Prowater wire was still in place
+   in the LAD and a 3.5x28mm Xience DES was able to be delivered to the
+   LMCA/prox LAD. This stent was post-dilated to 4.0 NC balloon with
+   sealing of the dissection and restoration of TIMI 3 flow into the LAD
+   and LCx.  The patient left the lab intubated and on 5mcg/kg/min of
+   dopamine to maintain a SBP of 100-110mmHg.  Reportedly, his home SBP
+   runs in the 90s-100s.
+   .
+   Upon transfer to the CCU the patient was sedated, intubated, and on
+   dopamine to maintain his pressures.  He had a peripheral line and
+   femoral sheath for access.  Initial blood gas was pH 7.53, pCO2 36, pO2
+   237, HCO3 31, BaseXS 7.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Dopamine - 8 mcg/Kg/min
+   Midazolam (Versed) - 3 mg/hour
+   Fentanyl - 50 mcg/hour
+   Other ICU medications:
+   Other medications:
+    Lopressor 100 PO BID
+   ASA 325 mg PO daily
+   Zocor 40 mg PO daily
+   Colace 100 mg PO daily
+   Esomeprazole 40 mg PO daily
+   Sevelamer 1600 mg PO with meals
+   MVI PO daily
+   Allopurinol 100 mg PO daily
+   Cholecalciferol 400 units PO daily
+   Amiodarone 200 mg PO daily
+   Isosorbide mononitrate 120 mg PO daily
+   Lorazepam 0.5 mg PO Q6 hrs PRN
+   Oxazepam 10 PO QHS PRN
+   Maalox 30 cc PO Q8 PRN
+   Morphine Sulfate 2 mg IV Q4 hrs PRN
+   Nitroglycerin 1 tab SL PRN
+   Past medical history:
+   Family history:
+   Social History:
+   1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+   2. CARDIAC HISTORY: Dilated Cardiomyopathy (EF 35%); NSTEMI [**4-3**], LAD
+   stent in [**3075**], cypher to OM3 with POBA to distal LCX in [**3-31**];
+   unsuccessful PTCA of RCA chronic total occlusion [**4-3**]; Paroxysmal
+   atrial fibrillation
+   3. OTHER PAST MEDICAL HISTORY:
+   ESRD w/ HD on MWF
+   Gout
+   Congenital deafness
+   Retinitis pigmentosa
+   Hypertension
+   Speech deficit
+   Peptic ulcer disease, dyspepsia
+   Gout
+   Osteoarthritis.
+   Mother died of MI after age 80. Father died at 20's of an
+   unspecified brain "problem". Other family history is not known
+   by patient.
+   He denies tobacco or alcohol use. He is currently unemployed on
+   disability and lives with girlfriend
+   Review of systems:
+   Flowsheet Data as of [**3086-7-24**] 01:03 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38
+C (100.4
+   Tcurrent: 37.7
+C (99.8
+   HR: 100 (88 - 116) bpm
+   BP: 102/55(66) {85/42(52) - 126/68(81)} mmHg
+   RR: 16 (16 - 20) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+           Total In:
+                                                                    491 mL
+                                                                    169 mL
+   PO:
+           TF:
+   IVF:
+                                                                    244 mL
+                                                                     40 mL
+   Blood products:
+                                                                    188 mL
+                                                                    129 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    491 mL
+                                                                    169 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 600) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 18 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 97%
+   ABG: 7.47/41/140/30/6
+   Ve: 10.6 L/min
+   PaO2 / FiO2: 350
+   Physical Examination
+   VS: T=99.7 BP=126/68 HR=103 RR=18 O2 sat=100% intubated
+   GENERAL: Caucasian male, sedated, intubated.
+   HEENT: NCAT. Sclera anicteric. PERRL.
+   NECK: Supple with no JVD
+   CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: CTAB, no crackles, wheezes, or rhonchi. Right chest wall with
+   temporary HD cath site clean, intact.
+   ABDOMEN: Soft, ND. No HSM. Abd aorta not enlarged by palpation. No
+   abdominial bruits. Has bowel sounds in all four quadrants.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No rashes
+   PULSES:
+   Right: Carotid 2+ DP 2+ PT 2+
+   Left: Carotid 2+ DP 2+ PT 2+
+   Labs / Radiology
+   153 K/uL
+   8.1 g/dL
+   140 mg/dL
+   4.6 mg/dL
+   27 mg/dL
+   30 mEq/L
+   100 mEq/L
+   4.0 mEq/L
+   139 mEq/L
+   24.8 %
+   7.7 K/uL
+        [image002.jpg]
+                                  [**3082-11-27**]
+                          2:33 A8/28/[**3085**]  07:30 PM
+                                  [**3082-12-1**]
+                         10:20 P8/28/[**3085**]  07:47 PM
+                                  [**3082-12-2**]
+                          1:20 P8/28/[**3085**]  11:08 PM
+                                  [**3082-12-3**]
+                                   11:50 P
+                                  [**3082-12-4**]
+                                   1:20 A
+                                  [**3082-12-5**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3082-12-28**]
+                                   1:20 P
+                                  [**3082-12-28**]
+                                   11:20 P
+                                  [**3082-12-28**]
+                                   4:20 P
+   WBC
+                                     7.7
+   Hct
+                                    24.8
+   Plt
+                                     153
+   Cr
+                                     4.6
+   TropT
+                                    0.50
+   TC02
+                                     31
+                                     31
+   Glucose
+                                     140
+   Other labs: CK / CKMB / Troponin-T:41//0.50, Lactic Acid:0.7 mmol/L,
+   Ca++:8.1 mg/dL, Mg++:2.4 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   67 y/o blind, deaf male w/ESRD, s/p cath on [**7-22**] with stenting of
+   distal LAD stenosis.  Patient had continued chest pain and was again
+   taken to cath which was complicated by LMCA dissection and cardiac
+   arrest.
+   .
+   # CORONARIES: Cath [**7-22**]: LAD w/ 3 sequential stents widely patient. 50%
+   lesion at D1 proximal to stents. 60% diffuse disease between 2nd and
+   3rd stents; 90% focal lesion just distal to 3rd stent (new since [**4-3**]).
+   D1 with proximal 90% disease (unchanged). New stent placed over distal
+   LAD lesion. Procedure stopped prematurely secondary to patient
+   agitation. Patient continued to have chest pain requiring nitroglycerin
+   for chest pain overnight, EKG's consistently unchanged. Unrelieved with
+   maalox, GI cocktail. Trop 0.63 morning of [**7-23**]. Was 0.97 at OSH.   The
+   patient underwent a second cath with successful angioplasty to the D1
+   and successful PCI of prox/mid LAD with DES.  This procedure was
+   complicated by LMCA dissection which caused cardiac arrest requiring
+   CPR, atropine, and intubation.  The LMCA dissection was corrected by
+   LMCA stenting.
+   -Continue Aspirin, plavix, lipitor
+   -Start low dose metoprolol when patient off of pressors
+   -Hold home Imdur
+   -Continue to trend enzymes post LMCA dissection and cardiac arrest to
+   evaluate extent of heart damage
+   -EKG, ECHO in AM
+   -Will add an ACE inhibitor when BP allows
+   .
+   # PUMP: Has known ischemic cardiomyopathy with EF 35% on [**4-3**] Echo. No
+   overt clinical signs of heart failure at this time. No peripheral
+   edema, crackles, or JVD.
+   -Will add an ACE inhibitor when BP allows
+   .
+   # RHYTHM: Paroxysmal atrial fibrillation. Sinus rhythm today.
+   -C/w amiodarone, start metoprolol when pressures stabilize off of
+   pressors
+   .
+   # Hypotension: Currently on dopamine given peripherally with goal to
+   maintain pressures above 90s-100s systolic
+   -C/w metoprolol, ACE inhibitor when BP stable
+   .
+   # Hypoxia: Patient intubated and sedated following code.  Continue
+   Versed/Fentanyl as needed for sedation on vent.  Patient can likely be
+   extubated tomorrow morning as vent settings are on assist control with
+   Tidal volume=500 cc, Respiratory rate: 18, PEEP: 5 cm/h2o, FIO2: 50%.
+   .
+   # Anemia: Hct dropped from 30.9 pre-procedure to 24.8 post-procedure
+   which is out of proportion to what would be an expected blood loss from
+   cath.  Concern for retroperitoneal bleed.
+   -Hct checks q8h
+   -Will transfuse 1 unit of pRBCs and monitor post transfusion Hct
+   -Premedicate with Tylenol 1 gram and Benadryl 25mg IV as patient has
+   low grade temperature of 99.7
+   .
+   # ESRD w/ HD on MWF: Underwent normal session of HD Friday morning
+   prior to cath.
+   -C/w Nephrocaps, renagel
+   -F/u renal recs
+   .
+   # Gout
+   -C/w allopurinol
+   .
+   # Congenital deafness: Can read lips effectively at baseline. Will
+   involve ASL interpreters as needed when patient extubated.
+   .
+   # Peptic ulcer disease, dyspepsia: Famotidine for now.
+   .
+   FEN: NPO for now, consider OG tube feeds if not extubated tomorrow
+   .
+   ACCESS: PIV, HD cath
+   .
+   PROPHYLAXIS:
+   -Famotidine 20mg IV
+   -DVT ppx with SC heparin
+   -Bowel regimen with docusate
+   .
+   CODE: Presumed full
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:
+   Lines:
+   Tunneled (Hickman) Line - [**3086-7-23**] 06:30 PM
+   20 Gauge - [**3086-7-23**] 08:00 PM
+   18 Gauge - [**3086-7-23**] 10:00 PM
+   Prophylaxis:
+   DVT: heparin SC
+   Stress ulcer: famotidine
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: CCU
+
+
+
+DOC CLASS

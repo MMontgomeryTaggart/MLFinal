@@ -1,0 +1,166 @@
+Admission Date:  [**3102-4-11**]              Discharge Date:   [**3102-4-21**]
+
+Date of Birth:  [**3035-3-7**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3490**]
+Chief Complaint:
+Chest pressure
+
+Major Surgical or Invasive Procedure:
+1. Coronary aretery bypass graft x3 (LIMA-LAD, SVG-OM1, SVG-PDA)
+
+
+History of Present Illness:
+67M PMH GERD, admitted for cath this AM, found to have 70% LM
+occlusion, currently admitted over the weekend for CABG on
+Monday. The patient reports having chest discomfort for the past
+2-4 months with exertion. It occurs after activity such as
+climbing about 50 stairs, with an associated pressure in his
+throat and upper arm pain bilaterally. He was originally
+scheduled for elective cath today, but was admitted to [**Hospital1 14804**] Thurs [**4-10**] after reporting that he has been having
+throat/arm pain since having his stress test last week. Enzymes
+were negative there.
+
+Cardiac cath on [**3102-4-11**] showed left main disease.  Pt was deemed
+good candidate for CABG.
+
+Past Medical History:
+DM
+     HTN
+     Hyperchol
+     CAD
+     GERD
+     Bronchitis
+     Lap cholecystectomy
+     Appendectomy
+     Skin graft
+*
+[**3102-4-2**] ETT: The pt exercised for 7'[**28**]" [**First Name8 (NamePattern2) **] [**Doctor First Name 298**] protocol to 86%
+of his APHR. Negative for chest pain. EKG: Diffuse 1mm ST
+segment depression. Nuclear imaging: small in size, moderate in
+severity, inferoapical ischemia. EF 66%
+
+
+Social History:
+Pt is a teacher and hairdresser. Lives with his wife. [**Name (NI) **] smoking
+history. No alcohol use.
+
+Family History:
+Mother had coronary history, [**7-7**] siblings have CAD, 4 have had
+CABG.
+
+Physical Exam:
+Vitals: T: 97.3
+        HR: 56
+        BP: 106/56
+        R: 20
+        Sat: 100%
+*
+PE: G: Obese male, NAD
+    HEENT: MMM, anicteric sclerae
+    Neck: Unable to assess JVP due to thick neck. No carotid
+bruit appreciated
+    Lungs: CTA BL BS, No W/R/C
+    CV: Distant S1S2, No M/R/G appreciated
+    Abd: Soft, NT, ND BS+
+    Ext: No E/C/C, DP pulses palpable
+    Nails: Lunulae present, no splinters
+
+Pertinent Results:
+Cath ([**3102-4-11**]): 70% Distal LM, 80% OM1, 80% prox RCA, 70% RPL,
+and 50% RPDA. EF 53%.
+
+
+Brief Hospital Course:
+A/P: 67M PMH DM, CAD, HTN, s/p cath with 70% LM disease.  CABG
+x3 (LIMA-LAD, SVG-OM1, SVG-PDA) [**3102-4-14**].  [**Name (NI) **], pt
+transferred to the CSRU where he was extubated on POD 0 and
+pressors were weaned to off.  On POD 1, he had his PA catheter
+and chest tubes removed and he was transferred to the floor.  On
+the floor, he did well with no complications.  [**Last Name (un) 124**] was
+consulted to manage his diabetes.  Pacing wires were taken out
+on POD 4.  Pt was below his pre-op weight on discharge.
+
+Medications on Admission:
+Avandia
+      Prilosec
+      Vytorin
+      Lisinopril 10mg daily
+      Glipizide
+      Metoprolol 25mg [**Hospital1 **]
+      ASA 81mg
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+4. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Glipizide 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+10. Rosiglitazone Maleate 4 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 364**] Homecare
+
+Discharge Diagnosis:
+1. Coronary artery disease (left main, 2-vessel)
+2. Diabetes mellitus, type 2
+3. Hypertension
+4. Hypercholesterolemia
+5. GERD
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+1. Resume medications as directed.
+2. F/U cardiologist in 2 weeks.
+3. Call office or go to ER if fever/chills, drainage from
+sternal incision, chest pain, shortness of breath.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].  [**Telephone/Fax (1) 425**]  Call to schedule
+appointment
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 811**] [**Name Initial (NameIs) **]  [**Telephone/Fax (1) 39612**]  Call to schedule
+appointment
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].  [**Telephone/Fax (1) 13505**]  Call to schedule
+appointment
+
+
+
+
+
+
+DOC CLASS

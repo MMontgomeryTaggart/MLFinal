@@ -1,0 +1,157 @@
+TSICU
+   HPI:
+   70M with stage IIIa T2N2 squamous cell carcinoma s/p left pneumonectomy
+   on [**2640-2-17**]. Patient was diagnosed with squamous cell carcinoma of the
+   lung in [**2639-9-25**]. He received neoadjuvant chemo (cisplatin and
+   etoposide) and radiation which was completed by [**2639-12-30**].
+   Chief complaint:
+   s/p left pneumonectomy
+   PMHx:
+    stage IIIa T2N2 squamous cell carcinoma, Afib on coumadin and
+   amiodarone, OA, hypercholesterolemia, HTN, gout, colon polyp on
+   colonoscopy
+   Current medications:
+   Hydromorphone 10 mcg/ml + Bupivacaine 0.1% 1 mg/ml epidural Infuse at
+   [**6-9**] ml/hr, Insulin SC (per Insulin Flowsheet)Sliding Scale,
+   Acetaminophen 650 mg PO Q6H, Lansoprazole Oral Disintegrating Tab 30 mg
+   PO DAILY, Allopurinol 300 mg NG DAILY, Metoprolol Tartrate 5 mg IV Q6H,
+   Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN, Milk of Magnesia 30 mL PO
+   Q6H:PRN, Amiodarone 400 mg NG DAILY, Ondansetron 8 mg IV Q8H:PRN
+   nausea, Docusate Sodium 100 mg NG [**Hospital1 7**], Prochlorperazine 10 mg IV
+   Q6H:PRN nausea, Fluticasone-Salmeterol Diskus (250/50) 1 INH IH [**Hospital1 7**],
+   Senna 1 TAB PO BID, Gabapentin 300 mg PO TID chest wall pain, Heparin
+   5000 UNIT SC TID, Vancomycin 1000 mg IV Q 12H Give 2 doses than d/c
+   24 Hour Events:
+ OR RECEIVED - At [**2640-2-17**] 11:00 AM
+   left pneumonectomy
+ ARTERIAL LINE - START [**2640-2-17**] 11:00 AM
+   [**2-17**] s/p left pneumonectomy, admitted to TSICU
+   .
+   Post operative day:
+   POD#1 - Left pneuomonectomy
+   Allergies:
+   Penicillins
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2640-2-17**] 11:38 PM
+   Metoprolol - [**2640-2-17**] 11:38 PM
+   Other medications:
+   Flowsheet Data as of  [**2640-2-18**] 07:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**42**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.9
+C (98.4
+   HR: 76 (70 - 95) bpm
+   BP: 94/54(67) {83/48(59) - 133/84(102)} mmHg
+   RR: 12 (12 - 32) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,523 mL
+                                                                    322 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  1,423 mL
+                                                                    322 mL
+   Blood products:
+   Total out:
+                                                                  1,545 mL
+                                                                    254 mL
+   Urine:
+                                                                    755 mL
+                                                                    254 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -22 mL
+                                                                     68 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: diminished at left, drain in place
+   Abdominal: Soft, Non-distended
+   Left Extremities: (Edema: Trace)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   215 K/uL
+   11.5 g/dL
+   159 mg/dL
+   1.1 mg/dL
+   26 mEq/L
+   4.5 mEq/L
+   19 mg/dL
+   106 mEq/L
+   139 mEq/L
+   32.4 %
+   11.9 K/uL
+        [image002.jpg]
+                             [**2640-2-17**]  12:25 PM
+                             [**2640-2-18**]  02:20 AM
+   WBC
+   17.5
+   11.9
+   Hct
+   32.5
+   32.4
+   Plt
+   259
+   215
+   Creatinine
+   0.9
+   1.1
+   Glucose
+   146
+   159
+   Other labs: PT / PTT / INR:13.1/20.7/1.1, Ca:8.5 mg/dL, Mg:2.1 mg/dL,
+   PO4:4.3 mg/dL
+   Assessment and Plan
+   PNEUMOECTOMY, ACUTE PAIN
+   Assessment and Plan: 70 yo M s/p L pneumonectomy
+   NEUROLOGIC: Alert and oriented x3, stable.
+   HOB 45 degrees
+   Neuro checks with vitals.
+   Pain: epidural catheter, gabapentin
+   CARDIOVASCULAR: metoprolol, amiodarone.  Hemodynamically stable.
+   PULMONARY: s/p left pneumonectomy.  Red rubber catheter in place.  Will
+   follow chest x-ray for possible d/c of catheter today.
+   GI / ABD: no acute issues
+   NUTRITION: NPO per surgical team. speech and swallow eval.
+   RENAL: creatinine 0.9, strict i/o, kvo right now
+   HEMATOLOGY:  white count trending down, hematocrit stable. will trend.
+   ENDOCRINE: RISS
+   ID: vanco x2 doses
+   LINES/TUBES/DRAINS: epidural catheter, left chest drain (clamped),
+   aline, piv
+   WOUNDS: left chest
+   IMAGING:cxr
+   FLUIDS: kvo
+   CONSULTS: thoracic surgery
+   BILLING DIAGNOSIS:
+   ICU CARE:
+   GLYCEMIC CONTROL: RISS
+   PROPHYLAXIS:
+   DVT -heparin sc, boots
+   STRESS ULCER -PPI
+   VAP BUNDLE -
+   COMMUNICATIONS: patient
+   ICU Consent: signed, in chart
+   CODE STATUS: FULL
+   DISPOSITION: likely to floor:
+
+
+
+DOC CLASS

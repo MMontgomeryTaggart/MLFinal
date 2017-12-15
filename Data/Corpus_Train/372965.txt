@@ -1,0 +1,207 @@
+CVICU
+   HPI:
+   [**2-12**] POD 2
+   79F s/p AVR(21mm [**Company **] Mosaic tissue) [**2-10**]
+   EF: 70% Wt.: 75kg  Cr.: 0.8 HgbA1c: 5.8
+   PMHx: HTN, ^chol., AS, OA, macular degeneration, vasculitis, DJD-needs
+   bilat knee replacement, s/p colostomy and reversal for SBO, s/p R eye
+   corneal transplant
+   [**Last Name (un) 500**]: Brimonadine [**Hospital1 **], Clonidine 0.1", Diltiazem 240', Cosopt [**Hospital1 **], Folic
+   Acid 1', HCTZ 12.5', Cellcept [**Pager number **]", Vit C 250', MVI 1', Vit E 1',
+   Prednisone 5', Prednisone NaPhos 1% 1 gtt OD daily
+   Current medications:
+   Acetaminophen, Albuterol 0.083% Neb Soln, Albuterol Inhaler,
+   Amiodarone, Aspirin EC, Docusate Sodium, Furosemide, HydrALAzine,
+   Insulin, Ipratropium Bromide Neb, Ipratropium Bromide MDI, Metoprolol
+   Tartrate,  Mycophenolate Mofetil, Phenylephrine, PredniSONE,
+   PrednisoLONE Acetate 1% Ophth. Susp, Ranitidine, Vancomycin
+   24 Hour Events:
+   Remains in ICU due to intubated on ventilator
+   reintubated due to increased work of breathing
+   Afib treated with amiodarone, hypotension with afib treated with neo
+ PA CATHETER - STOP [**3368-2-11**] 11:14 AM
+ EXTUBATION - At [**3368-2-11**] 02:51 PM
+ INVASIVE VENTILATION - STOP [**3368-2-11**] 02:52 PM
+ INTUBATION - At [**3368-2-11**] 05:40 PM
+ INVASIVE VENTILATION - START [**3368-2-11**] 05:45 PM
+   Post operative day:
+   [**2-12**] POD 2
+   79F s/p AVR(21mm [**Company **] Mosaic tissue) [**2-10**]
+   Allergies:
+   Penicillins
+   Rash;
+   Tramadol Hcl
+   Confusion/Delir
+   Hydrocodone
+   Unknown; Confus
+   Last dose of Antibiotics:
+   Vancomycin - [**3368-2-12**] 10:00 AM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Metoprolol - [**3368-2-11**] 03:54 PM
+   Ranitidine (Prophylaxis) - [**3368-2-11**] 08:30 PM
+   Furosemide (Lasix) - [**3368-2-12**] 08:30 AM
+   Other medications:
+   Flowsheet Data as of  [**3368-2-12**] 01:32 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**70**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 36.6
+C (97.8
+   HR: 58 (58 - 124) bpm
+   BP: 91/53(62) {91/53(62) - 137/81(91)} mmHg
+   RR: 12 (0 - 34) insp/min
+   SPO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 90.6 kg (admission): 75.4 kg
+   Height: 62 Inch
+             Total In:
+                                                                  2,794 mL
+                                                                    917 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  2,234 mL
+                                                                    917 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  2,820 mL
+                                                                  1,180 mL
+   Urine:
+                                                                  2,570 mL
+                                                                  1,180 mL
+   NG:
+                                                                    180 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    -26 mL
+                                                                   -263 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 348 (269 - 368) mL
+   PS : 10 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 86
+   PIP: 33 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 27.5 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.45/34/137/25/0
+   Ve: 6.9 L/min
+   PaO2 / FiO2: 343
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: right abnormal shape s/p transplant - left reactive to light
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: bilat )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Neurologic: moves right side to painful stimuli
+   Labs / Radiology
+   149 K/uL
+   10.1 g/dL
+   145 mg/dL
+   0.9 mg/dL
+   25 mEq/L
+   3.4 mEq/L
+   17 mg/dL
+   101 mEq/L
+   134 mEq/L
+   28.5 %
+   14.8 K/uL
+        [image002.jpg]
+                             [**3368-2-11**]  04:00 AM
+                             [**3368-2-11**]  05:16 AM
+                             [**3368-2-11**]  06:00 AM
+                             [**3368-2-11**]  07:00 AM
+                             [**3368-2-11**]  08:09 AM
+                             [**3368-2-11**]  04:14 PM
+                             [**3368-2-11**]  07:16 PM
+                             [**3368-2-12**]  03:51 AM
+                             [**3368-2-12**]  03:57 AM
+                             [**3368-2-12**]  08:38 AM
+   WBC
+   14.8
+   Hct
+   28.5
+   Plt
+   149
+   Creatinine
+   0.9
+   TCO2
+   25
+   29
+   25
+   27
+   24
+   Glucose
+   89
+   96
+   159
+   140
+   120
+   83
+   104
+   145
+   145
+   Other labs: PT / PTT / INR:15.8/32.8/1.4, Fibrinogen:141 mg/dL, Lactic
+   Acid:1.6 mmol/L, Ca:8.1 mg/dL, Mg:2.4 mg/dL, PO4:2.7 mg/dL
+   Microbiology: mrsa pending
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**]), ALTERED MENTAL STATUS (NOT
+   DELIRIUM), HYPERGLYCEMIA, VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 1 hr, holding all narcotics due to
+   sedation, tylenol prn, CT head and neurology consult due to left sided
+   weakness
+   Cardiovascular: Aspirin, Beta-blocker
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), wean ventilator as
+   tolerated
+   Gastrointestinal / Abdomen: no issues
+   Nutrition: NPO
+   Renal: Foley, Adequate UO, continue lasix for diuresis with goal
+   1000-1500 ml negative today
+   Hematology: stable anemia
+   Endocrine: Goal BG < 150
+   Infectious Disease: UA, vancomycin for periop antibiotics completed,
+   wbc 14 will check u/a culture
+   Lines / Tubes / Drains: Foley, OGT, ETT, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CT scan head today
+   Consults: P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3368-2-10**] 04:13 PM
+   Arterial Line - [**3368-2-10**] 04:14 PM
+   20 Gauge - [**3368-2-12**] 12:15 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

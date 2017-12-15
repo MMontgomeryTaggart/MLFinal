@@ -1,0 +1,36 @@
+Admission Date:  [**3273-3-23**]       Discharge Date:  [**3273-3-29**]
+
+
+Service:  Cardiothoracic Surgery
+
+ADDENDUM:
+
+The patient was not discharged as previously planned on [**3-28**] due to a low hematocrit of 22.6, which we have
+attributed to his hematuria which is resolving.  The patient
+has been followed by the urology service and the patient
+received 1 unit of packed cells yesterday evening the night
+of [**3-28**].  His hematocrit this morning was 24.9.  He is
+to receive one more unit of packed red blood cells today and
+after his transfusion is completed, he may be discharged to a
+rehabilitation facility.  The transfusions are at the request
+of the patient's primary care provider, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) 7856**] [**Last Name (NamePattern1) **].  The
+patient remains hemodynamically stable with no
+contraindication to discharge from the hospital.  He is to
+follow up with urology as previously discussed in one week
+due to his hematuria and inability to spontaneously void.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 271**] [**Last Name (NamePattern4) 1521**], M.D.  [**MD Number(1) 1522**]
+
+Dictated By:[**Name8 (MD) 952**]
+MEDQUIST36
+
+D:  [**3273-3-29**]  10:38
+T:  [**3273-3-29**]  11:06
+JOB#:  [**Job Number 7857**]
+
+
+
+DOC CLASS

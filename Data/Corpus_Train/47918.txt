@@ -1,0 +1,226 @@
+Admission Date:  [**2891-8-1**]     Discharge Date:  [**2891-8-4**]
+
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 3519**] is a 77-year-old man
+with a history of coronary artery bypass graft times two,
+aortic valve replacement, paroxysmal atrial fibrillation, and
+recurrent ventricular tachycardia, who was transferred to the
+[**Hospital6 817**] for an electrophysiology
+study and a possible ablation of ventricular tachycardia from
+an outside hospital after recurrent episodes of ventricular
+tachycardia setting off his ICD four times in the past three
+days.  The patient has a history of paroxysmal atrial
+fibrillation since the [**2859**] and has had episodes of
+ventricular tachycardia for the past few years.  He was
+recently admitted to [**Hospital6 817**] in
+[**Month (only) 51**] with fatigue and bradycardia with a heart rate in the
+40s and [**1-11**] AV block.  During that admission, he went into
+monomorphic ventricular tachycardia treated with intravenous
+lidocaine.  He then went back into ventricular tachycardia
+and had a five second pause and a dual chamber ICD pacemaker
+was placed.  At that time, he was able to end his episodes of
+ventricular tachycardia with overdrug pacing.  He was sent
+home on sotalol and mexiletine.  At a clinic visit two weeks
+later, his ICD was interrogated and he was found to have had
+multiple episodes of ventricular tachycardia.  He was sent to
+the Electrophysiology Laboratory for ventricular tachycardia
+ablation.  They found two foci and ablated one.  The second
+one was not ablated because it was to close to his
+replacement valve.  The ablation procedure was [**2891-7-25**].
+
+After discharge, he was fine until Saturday when he felt his
+heart beating rapidly and he felt lightheaded.  He presented
+to the [**Location (un) 1601**] Emergency Department but was sent home because
+there were no beds.  He felt his ICD shock him twice on
+[**Last Name (LF) 133**], [**7-30**], and twice again yesterday [**7-31**].  He
+presented to [**Hospital 1155**] Hospital at 5 p.m. [**7-31**] with a
+rapid heart rate and chest tightness and was found to be in
+ventricular tachycardia.  His ventricular tachycardia was
+occasionally able to be stopped by overdrug pacing, but was
+not consistently stopped.  He was started on a lidocaine drip
+and transferred to [**Hospital6 817**] for
+further electrophysiological evaluation.
+
+On admission, he denied chest pain, chest tightness,
+palpitations, shortness of breath, lightheadedness, headache,
+fever, chills, nausea and vomiting.  He also denied
+hematemesis, hematochezia but says he has dark stools because
+he takes iron at home.  He denied urinary difficulties,
+indigestion, weight loss.  Has a history of claudication in
+his legs but denies rest pain.  He also denies orthopnea.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Hypercholesterolemia.
+3.  Former smoker.
+4.  Paroxysmal atrial fibrillation.
+5.  Recurrent ventricular tachycardia.
+6.  Congestive heart failure.
+7.  Coronary artery bypass graft [**2885**].
+8.  Coronary artery bypass graft and aortic valve replacement
+in [**2879**].
+9.  Severe peripheral vascular disease.
+10. Right renal percutaneous transluminal coronary
+angioplasty eight months ago.
+11. He has a dual chamber ICD.
+12. Right carotic endarterectomy in [**2881**].
+13. Abdominal aortic aneurysm repair in [**2880**].
+14. Left below the knee amputation in [**2885**].
+15. Chronic renal insufficiency with a baseline creatinine
+between 1.6 and 2.3.
+16. Anemia.
+17. Cataracts.
+
+MEDICATIONS ON ADMISSION:  Sotalol 160 b.i.d., diltiazem 180
+q.d., Mexiletine 150 b.i.d., Coumadin 3 mg q.h.s., Zocor 40
+mg q.d., Imdur 90 mg q.d., niferex 150 mg b.i.d., Vasotec 5
+mg b.i.d., aspirin 81 mg q.d., Lovenox 80 mg b.i.d. and
+amiodarone 400 mg q.d.
+
+ALLERGIES:  Morphine causes mental status change, Procan
+causes ventricular tachycardia and shellfish.
+
+SOCIAL HISTORY:  Mr. [**Known patient lastname 3519**] is retired.  He is married.  He
+lives in [**State 400**].  He worked for the Fire Department.  He
+quit smoking tobacco 30 years ago.  He also quit using
+alcohol years ago.  He is visiting his son in [**Name (NI) 1601**],
+[**State 2663**].
+
+FAMILY HISTORY:  His brother died of an myocardial infarction
+at age 55.
+
+PHYSICAL EXAM ON ADMISSION:  Pulse 68.  Respiratory rate 17.
+Afebrile.  Blood pressure 106/40.  02 saturation 97% on two
+liters.  Generally, he was awake and alert, [**Location (un) 70**] the
+newspaper.  Head, eyes, ears, nose and throat:  Pupils equal,
+round and reactive to light.  Extraocular movements full.
+Oropharynx clear.  Moist mucous membranes.  Neck:  He has a
+scar on the right neck from CEA, no jugular venous
+distention, supple.  Lungs were clear to auscultation
+bilaterally.  Heart was regular rate and rhythm, S1, S2 with
+a loud mechanical valve murmur.  Abdomen was soft, nontender,
+nondistended, positive bowel sounds.  Extremities: He had a
+left below the knee amputation well-healed.  Right lower
+extremity warm, 2+ distal pulses, no edema.
+
+LABORATORIES ON ADMISSION:  White blood cell count 4.9,
+hematocrit 25.4, platelets 166,000.  Sodium 133, potassium
+4.1, chloride 99, bicarbonate 21, BUN 22, creatinine 1.5,
+glucose 92, magnesium 1.9, LDH 251, CK 33, PT 22.7, INR 3.5,
+PTT 150.  Other laboratory studies during the course of
+admission including iron studies with TIBC of 304, ferritin
+121, reticulocyte count of 4, haptoglobin of less than 20.
+Electrocardiogram on admission showed atrial sensing,
+ventricular pacing at 70 beats per minute.
+
+ASSESSMENT AND PLAN:  The patient is a 77-year-old with a
+history of coronary artery bypass graft times two, AVR,
+atrial fibrillation and recurrent ventricular tachycardia
+status post ICD pacer placement admitted now after a recent
+ventricular tachycardia ablation last week for further
+electrophysiology evaluation.
+
+1. Cardiovascular:  Rhythm.  Patient has recurrent
+ventricular tachycardia.  We discontinued lidocaine and
+started mexiletine at 130 mg t.i.d.  Electrophysiology
+evaluated his ICD and changed various settings which will
+hopefully make the patient less likely to be shocked and
+hopefully will be able to terminate his episodes of recurrent
+ventricular tachycardia without being defibrillated.
+Throughout admission, the patient had intermittent episodes
+of ventricular tachycardia which were terminated without
+being defibrillated.  The patient was started on mexiletine
+150 mg t.i.d.  His amiodarone was continued at 400 mg q.d.
+and it was decided that recurrent ventricular tachycardia
+ablation would be not undertaken at this time.
+
+2.  Pump:  The patient had an echocardiogram during the
+course of admission which showed the left atrium mildly
+dilated, left atrium also elongated, the right atrium
+moderately dilated.  There was moderate symmetric left
+ventricular function.  The left ventricular cavity is mildly
+dilated, overall left ventricular systolic function is
+severely depression.  Resting regional wall motion
+abnormalities include akinesis of the inferior septum and
+inferior walls at the base and mid ventricular levels.
+Lateral wall and apex demonstrated moderate hypokinesis.
+There is mild global right ventricular free wall hypokinesis.
+A bibasilar aortic valve prosthesis is present.  Trace aortic
+regurgitation is seen.  Moderate to severe 3+ mitral
+regurgitation.  The patient was continued on enalapril and
+Lopressor for his cardiomyopathy.
+
+3.  Valve disease:  The patient is status post aortic valve
+replacement.  His Coumadin was held during his admission for
+possible electrophysiology study.  He was started on a
+heparin drip.  The patient was then restarted on his Coumadin
+at 3 mg q.p.m. with an INR goal of 2.5 to 3.5 and discharged
+on Lovenox.  His PT and INR will be checked as an outpatient
+two days after discharge.
+
+4.  Coronary artery disease:  The patient has a history of
+coronary artery bypass graft times two.  He is on Zocor and
+aspirin.  He is also on Imdur for angina.  None of these
+medications were changed.
+
+5.  Pulmonary:  The patient was saturating well on two liters
+of nasal cannula, then saturating well on room air.  The
+patient has no home 02.  Because the patient was started on
+amiodarone some time in the last month without any prior
+pulmonary function tests, the patient was sent for pulmonary
+function tests during this admission.
+
+6.  Renal:  The patient is status post a right renal
+percutaneous transluminal coronary angioplasty.  His baseline
+creatinine is 1.6 to 2.3.  Creatinine remained stable around
+1.5 throughout the hospital course.
+
+7.  Gastrointestinal:  The patient had no issues.  He was
+started on Zantac.
+
+8.  Infectious Disease:  The patient remained afebrile
+throughout his hospital course with a stable white count.
+
+9.  Hematology:  The patient has a history of chronic anemia.
+He is on iron at home.  His anemia is most likely due to iron
+deficiency, possibly some slight hemolysis due his aortic
+valve replacement, as well as possibly renal disease.
+
+10. Fluid, electrolytes and nutrition:  The patient remained
+euvolemic.  His electrolytes were followed and repleted as
+needed.  Patient ate well during the hospital course.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE MEDICATIONS
+1.  Zocor 40 mg q.d.
+2.  Imdur 90 mg q.d.
+3.  Enalapril 5 mg b.i.d.
+4.  Aspirin 81 mg q.d.
+5.  Amiodarone 400 mg q.d.
+6.  Lopressor 75 mg b.i.d.
+7.  Mexiletine 150 mg t.i.d.
+8.  Coumadin 3 mg q.h.s.
+9.  Lovenox 80 mg subcutaneous b.i.d.
+
+
+
+
+
+                          [**Doctor First Name 310**] [**Name8 (MD) 2270**], M.D.  [**MD Number(1) **]
+
+Dictated By:[**Last Name (NamePattern1) 3520**]
+
+MEDQUIST36
+
+D:  [**2891-8-9**]  14:49
+T:  [**2891-8-9**]  14:49
+JOB#:  [**Job Number 3521**]
+
+
+
+DOC CLASS

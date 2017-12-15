@@ -1,0 +1,205 @@
+CVICU
+   HPI:
+   HD6
+   [**5-22**] POD 2
+   83M s/p AVR(23 mm tissue)CABGx2(LIMA-LAD,SVG-RI)[**5-20**]
+   EF:60% Wt:92kg Cr:1.1 HgA1c:5.8
+   PMH: Crit. AS,Bilat TKRx4,BPH,AS,s/p acoustic neuroma resect LT,B
+   cataract sx, B CTS sx,hyperlipidemia,HTN,s/p LT tibial rodding
+   [**Last Name (un) 500**]: Lasix/KCl prn, terazosin 5', metoprolol 25", Simvastatin 40', ASA
+   81'
+   Current medications:
+   Acetaminophen, Albuterol Inhaler, Aspirin EC, Docusate Sodium,
+   Furosemide, Insulin, Metoprolol Tartrate, simvastatin, Terazosin,
+   Vancomycin
+   24 Hour Events:
+   Remains in ICU for monitoring - neurological
+   Weaned and extubated without difficulty
+   Remains sleepy but arouses to voice, moves all extremities
+ EXTUBATION - At [**3287-5-21**] 12:15 PM
+ INVASIVE VENTILATION - STOP [**3287-5-21**] 12:15 PM
+ PA CATHETER - STOP [**3287-5-21**] 02:30 PM
+   Post operative day:
+   POD#2 - AVR, cabg x2
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3287-5-21**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3287-5-22**] 10:27 AM
+   Metoprolol - [**3287-5-22**] 10:28 AM
+   Other medications:
+   Flowsheet Data as of  [**3287-5-22**] 11:01 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**90**] a.m.
+   Tmax: 38
+C (100.4
+   T current: 37.3
+C (99.1
+   HR: 99 (86 - 101) bpm
+   BP: 102/47(64) {93/42(58) - 126/58(78)} mmHg
+   RR: 23 (20 - 29) insp/min
+   SPO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 96.7 kg (admission): 91 kg
+   Height: 70 Inch
+   CVP: 12 (10 - 14) mmHg
+   PAP: (33 mmHg) / (18 mmHg)
+   CO/CI (Thermodilution): (4.82 L/min) / (2.3 L/min/m2)
+   SVR: 946 dynes*sec/cm5
+   SV: 51 mL
+   SVI: 24 mL/m2
+   Total In:
+                                                                  2,133 mL
+                                                                    307 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,073 mL
+                                                                    307 mL
+   Blood products:
+   Total out:
+                                                                  3,225 mL
+                                                                    425 mL
+   Urine:
+                                                                  2,550 mL
+                                                                    375 mL
+   NG:
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,092 mL
+                                                                   -118 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 527 (527 - 527) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 31
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   SPO2: 94%
+   ABG: ///25/
+   Ve: 14 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: right pupil > left reactive to light
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), left EVH ace wrap
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   133 K/uL
+   9.5 g/dL
+   138 mg/dL
+   0.9 mg/dL
+   25 mEq/L
+    3.8 mEq/L
+   17 mg/dL
+   106 mEq/L
+   137 mEq/L
+   27.4 %
+   9.0 K/uL
+        [image002.jpg]
+                             [**3287-5-20**]  05:14 PM
+                             [**3287-5-20**]  05:31 PM
+                             [**3287-5-20**]  10:15 PM
+                             [**3287-5-20**]  10:22 PM
+                             [**3287-5-20**]  11:44 PM
+                             [**3287-5-21**]  03:05 AM
+                             [**3287-5-21**]  05:55 AM
+                             [**3287-5-21**]  08:33 AM
+                             [**3287-5-21**]  10:07 AM
+                             [**3287-5-22**]  04:00 AM
+   WBC
+   6.9
+   9.2
+   9.0
+   Hct
+   30.6
+   29.0
+   30.6
+   27.4
+   Plt
+   150
+   175
+   133
+   Creatinine
+   0.7
+   0.7
+   0.9
+   TCO2
+   26
+   26
+   24
+   23
+   23
+   24
+   Glucose
+   133
+   101
+   81
+   87
+   88
+   138
+   Other labs: PT / PTT / INR:15.1/31.6/1.3, Fibrinogen:189 mg/dL, Lactic
+   Acid:1.9 mmol/L, Mg:1.9 mg/dL, PO4:3.1 mg/dL
+   Microbiology: mrsa pending
+   Assessment and Plan
+   .H/O VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, tylenol prn -
+   effective will escalate as needed
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+ may need to restart
+   Neo gtt for MAP > 60
+   Pulmonary: IS, Discontinue chest tube(s), cough and deep breath, oob to
+   chair
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: NPO, Speech and Swallow eval
+   Renal: Continue lasix for diuresis with goal 1000-1500 ml negative for
+   24 hours
+   Hematology: decreasing platlet count recheck in am [**5-23**] - if still
+   decreasing consider HITT
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: afebrile, WBC normal, no evidence of infection,
+   completing periop vancomycin
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: P.T., Nutrition, speech and swallow
+   Billing Diagnosis: Post-op Hypotension; Respiratory insuffinciency
+   post-op
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3287-5-20**] 05:00 PM
+   Cordis/Introducer - [**3287-5-20**] 05:00 PM
+   18 Gauge - [**3287-5-20**] 05:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

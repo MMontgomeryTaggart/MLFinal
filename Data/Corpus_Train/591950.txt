@@ -1,0 +1,134 @@
+Chief Complaint: sepsis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI: 66 woman on HD transferred with high fevers
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**3478-5-24**] 08:00 PM
+   Started on heparin drip and got non contrast CT
+   Allergies:
+   Dyazide (Oral) (Triamterene/Hydrochlorothiazid)
+   Unknown;
+   Prozac (Oral) (Fluoxetine Hcl)
+   Unknown;
+   Nsaids
+   Unknown;
+   Inderal (Oral) (Propranolol Hcl)
+   Unknown;
+   Cefazolin
+   laryngeal ed
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,100 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fever
+   Flowsheet Data as of  [**3478-5-25**] 09:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 35.9
+C (96.6
+   HR: 58 (54 - 68) bpm
+   BP: 183/42(80) {122/40(62) - 183/74(84)} mmHg
+   RR: 19 (15 - 29) insp/min
+   SpO2: 88%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 64 Inch
+             Total In:
+                                                                     52 mL
+                                                                    247 mL
+   PO:
+             TF:
+   IVF:
+                                                                     52 mL
+                                                                    247 mL
+   Blood products:
+   Total out:
+                                                                     70 mL
+                                                                    390 mL
+   Urine:
+                                                                     70 mL
+                                                                     90 mL
+   NG:
+   300 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    -18 mL
+                                                                   -143 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 88%
+   ABG: ///24/
+   Physical Examination
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   11.0 g/dL
+   216 K/uL
+   125 mg/dL
+   4.5 mg/dL
+   24 mEq/L
+   5.3 mEq/L
+   17 mg/dL
+   99 mEq/L
+   139 mEq/L
+   35.1 %
+   15.0 K/uL
+        [image002.jpg]
+                             [**3478-5-25**]  02:30 AM
+   WBC
+   15.0
+   Hct
+   35.1
+   Plt
+   216
+   Cr
+   4.5
+   Glucose
+   125
+   Other labs: PT / PTT / INR:18.8/150.0/1.7, Ca++:8.8 mg/dL, Mg++:1.6
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+ .H/O ABDOMINAL PAIN (INCLUDING ABDOMINAL TENDERNESS)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ DIABETES MELLITUS (DM), TYPE II
+ DEPRESSION
+ PULMONARY EMBOLISM (PE), ACUTE
+ PULMONARY HYPERTENSION (PULM HTN, PHTN)
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3478-5-24**] 08:00 PM
+   18 Gauge - [**3478-5-24**] 09:54 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   Communication:  with daughter
+   [**Name (NI) 62**] status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

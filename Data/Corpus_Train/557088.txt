@@ -1,0 +1,149 @@
+TITLE:
+   History of Present Illness
+   -CT surgery saw him and confirmed first case for [**12-23**]
+   -received post-cath hydration with bicarb
+   -echo showed NL EF
+   -ARF, creatinine 1.5 up from 1.3 at OSH, urine lytes with FeBUN 50%
+   -enzymes negative
+   -CXR showed aortic baloon in aortic knob; pulled back 3 cm
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 36.9 C
+   Tmax F last 24 hours: 98.4 F
+   T current C: 36.8 C
+   T current F: 98.2 F
+   Previous day:
+   Intake: 602 mL
+   Output: 1,000 mL
+   Fluid balance: -398 mL
+   Today:
+   Intake: 930 mL
+   Output: 375 mL
+   Fluid balance: 555 mL
+   BP 112/49, HR 59, O2 97% on 4L NC
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Jugular veins: Not visible)
+   Respiratory: (Effort: WNL), (Auscultation: WNL)
+   Cardiac: (Rhythm: Regular), (Auscultation: S1: WNL, S3: Absent, S4:
+   Absent), (Murmur / Rub: Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Pulsatile mass: No), (Hepatosplenomegaly: No)
+   Extremities / Musculoskeletal: (Dorsalis pedis artery: Right: 1+, Left:
+   1+), (Posterior tibial artery: Right: 1+, Left: 1+), (Edema: Right: 0,
+   Left: 0)
+   Skin: ( WNL)
+   Labs
+   234
+   12.1
+   152
+   1.6
+   34
+   3.6
+   26
+   99
+   140
+   32.9
+   10.2
+        [image002.jpg]
+                            [**2546-12-22**]  08:06 PM
+                            [**2546-12-23**]  02:57 AM
+   WBC
+   8.6
+   10.2
+   Hgb
+   13.0
+   12.1
+   Hct (Serum)
+   35.7
+   32.9
+   Plt
+   258
+   234
+   INR
+   1.3
+   PTT
+   150.0
+   Na+
+   138
+   140
+   K + (Serum)
+   3.8
+   3.6
+   Cl
+   98
+   99
+   HCO3
+   32
+   34
+   BUN
+   24
+   26
+   Creatinine
+   1.5
+   1.6
+   Glucose
+   114
+   152
+   CK
+   93
+   85
+   Troponin T
+   0.01
+   0.01
+   ABG: /  /  / 34 /    Values as of [**2546-12-23**] 02:57 AM
+   Assessment and Plan
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ ANXIETY
+   Patient is a 68-year-old male patient with past medical history
+   significant for hypertension and hyperlipidemia transferred from OSH
+   with stable angina and found to have 3V CAD, scheduled for CABG
+   [**2546-12-23**].
+   .
+   #. Coronary artery disease: Pt with stable angina consisting of 2 weeks
+   of excertional chest pain relieved by rest and SL nitro. Cardiac
+   enzymes negative at outside hospital. Received aspirin, plavix, and
+   lipitor at outside hospital. Cath today showing 3V disease, 90%
+   proximal LAD disease and totally occluded RCA.  IABP in place, on IV
+   heparin. Currently bradycardic with HR 58, BP controlled. Scheduled for
+   CABG [**2546-12-23**].
+   - Post cath check
+   - continue aspirin 325
+   - continue lipitor 80
+   - continue metoprolol but at lower dose
+   - IV nitro for anginal chest pain
+   - IV heparin while on IABP
+   - CXR to check placement of IABP
+   - check platelets while on IABP
+   - contact CT [**Name2 (NI) **] if develops chest pain
+   - sodium bicarb in D5W for post cath hydration.
+   - trend enzymes
+   - CABG [**2546-12-23**]
+   .
+   #. Elevated wedge: LVEDP 40mmHg during cath. recieved lasix 20mg IV
+   during cath. will monitor oxygen ssat closely and duiurese as
+   necessary.
+   - lasix prn.
+   .
+   #. HTN: Controlled, will cont home regimen of metoprolol but at lower
+   dose.  Holding lisinopril and HCTZ given elevated creatinine.
+   - cont Metoprolol
+   - hold lisinopril and HCTZ
+   .
+   #. Hyperlipidemia. continue lipitor.  Holding lovaza while pre-op
+   .
+   #. FEN: Cardiac/ replete lytes prn
+   .
+   #. Access: PIV
+   .
+   #. PPx: heparin gtt, bowel regimen
+   .
+   #. Code: FULL
+   .
+   #. Dispo: CT [**Doctor First Name **] in am.
+
+
+
+DOC CLASS

@@ -1,0 +1,229 @@
+TITLE: MICU Attending Progress Note
+   Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   s/p bronchoscopy [**5-1**] with minimal secretions, friable mucosa
+   Allergies:
+   Heparin Agents
+   Thrombocytopenia
+   Last dose of Antibiotics:
+   Meropenem - [**2579-4-30**] 06:00 PM
+   Ciprofloxacin - [**2579-4-30**] 10:30 PM
+   Vancomycin - [**2579-5-1**] 08:58 AM
+   Piperacillin - [**2579-5-2**] 02:00 AM
+   Infusions:
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Phenylephrine - 1 mcg/Kg/min
+   Lepirudin - 0.05 mg/Kg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2579-5-1**] 10:02 AM
+   Midazolam (Versed) - [**2579-5-2**] 07:34 AM
+   Fentanyl - [**2579-5-2**] 07:34 AM
+   Other medications:
+   mvi
+   allopurinol
+   vit b12
+   riss
+   neo
+   fentanyl
+   midaz
+   chlorhexadine
+   vanc 1 g [**Hospital1 **]
+   protonix
+   zosyn 4.5 q8
+   lopressor 37.5
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-2**] 10:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 38.6
+C (101.4
+   Tcurrent: 37.7
+C (99.9
+   HR: 109 (58 - 124) bpm
+   BP: 79/50(61) {79/50(61) - 106/65(82)} mmHg
+   RR: 13 (9 - 27) insp/min
+   SpO2: 97%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+   CVP: 6 (6 - 11)mmHg
+   Total In:
+                                                                  1,719 mL
+                                                                    479 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,659 mL
+                                                                    479 mL
+   Blood products:
+   Total out:
+                                                                  1,405 mL
+                                                                    340 mL
+   Urine:
+                                                                  1,405 mL
+                                                                    340 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    314 mL
+                                                                    139 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 416 (394 - 519) mL
+   PS : 10 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 78
+   PIP: 16 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 26.3 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.49/47/115/32/11
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 329
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: Poor dentition, Endotracheal tube, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal, Distant), irregular
+   JVP approx 8
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: No(t) Wheezes : , Rhonchorous:
+   bilateral, L > R)
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Responds to: Tactile stimuli, Movement: Non -purposeful,
+   Sedated, Tone: Not assessed
+   Labs / Radiology
+   12.8 g/dL
+   96 K/uL
+   140 mg/dL
+   1.4 mg/dL
+   32 mEq/L
+   4.3 mEq/L
+   37 mg/dL
+   94 mEq/L
+   135 mEq/L
+   40.0 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**2579-4-27**]  04:24 AM
+                             [**2579-4-27**]  03:40 PM
+                             [**2579-4-30**]  06:19 PM
+                             [**2579-4-30**]  07:46 PM
+                             [**2579-5-1**]  02:07 AM
+                             [**2579-5-1**]  04:30 AM
+                             [**2579-5-1**]  06:39 AM
+                             [**2579-5-1**]  05:02 PM
+                             [**2579-5-2**]  04:40 AM
+                             [**2579-5-2**]  04:51 AM
+   WBC
+   11.0
+   11.5
+   10.3
+   10.6
+   Hct
+   40.9
+   41.6
+   36.8
+   40.0
+   Plt
+   148
+   127
+   126
+   96
+   Cr
+   1.5
+   1.4
+   1.5
+   1.4
+   1.2
+   1.4
+   TCO2
+   36
+   36
+   38
+   37
+   Glucose
+   121
+   145
+   142
+   145
+   140
+   140
+   Other labs: PT / PTT / INR:21.8/70.6/2.0, ALT / AST:687/660, Alk Phos /
+   T Bili:128/1.1, Differential-Neuts:83.5 %, Lymph:9.0 %, Mono:6.5 %,
+   Eos:0.7 %, Fibrinogen:353 mg/dL, Lactic Acid:2.1 mmol/L, Albumin:2.8
+   g/dL, LDH:335 IU/L, Ca++:7.7 mg/dL, Mg++:2.1 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   79 yo M AS, initial admission for PNA, now returns to ICU with
+   respiratory failure
+   1. Respiratory failure: likely aspiration/HAP pneumonia complicated by
+   volume status
+    - cont vanc/zosyn for HAP
+    - tolerating 0/5 will aim for extubation today
+    - currently intravascularly dry with increased creatinine,
+   hemoconcentrated, low CVP
+   - hold off on pre-extubation diuresis, and will give fluids this am
+   2. Fevers: ? aspiration pna, inflammation [**3-2**] bronch
+    - pan culture
+    - cont vanc/zosyn
+    - low likelihood related to CVL given that it was placed within 24
+   hours of fevers
+   3. Atrial tachycardia:
+    - cont lopressor to maintain HR < 100 given need for cardiac filling
+   4. HoTN:
+    - d/c neo and start levo as needed while on sedation given AS and pHTN
+    - monitor lactate, cvo2 sat
+   5. ?HIT:
+    - will continue lepirudin for now
+    - will touch base with hematology service regarding definitive
+   diagnosis
+   6. Aortic stenosis:
+     - f/u timing of surgery with CT [**Doctor First Name 86**]
+   7. Aspiration:
+    - cont NG tube feeds
+    - NPO
+   8. FEN: likely intravascularly dry with extravascular volume up
+   (evidence increase extravascular lung water on cxr today)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2579-4-30**] 06:00 PM
+   Multi Lumen - [**2579-5-1**] 12:00 AM
+   Arterial Line - [**2579-5-1**] 01:00 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Other, lepirudin)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 60 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

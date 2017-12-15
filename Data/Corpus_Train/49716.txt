@@ -1,0 +1,405 @@
+Admission Date:  [**3209-11-13**]              Discharge Date:   [**3209-11-29**]
+
+Date of Birth:  [**3155-1-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2233**]
+Chief Complaint:
+"He's not sleeping" x 2 weeks
+
+Major Surgical or Invasive Procedure:
+Epidural abscess debridement
+spinal stabilization
+
+
+History of Present Illness:
+54-year-old man w/ ESRD, DM2, HTN, recent E. coli sepsis, L4-L5
+epidural abscess presents w/ increased confusion and low back
+pain for 2 weeks.  The pt was discharged from [**Hospital1 52**] 3 weeks ago
+after diagnosis and treatment of L4-L5 epidural abscess, and has
+been on vancomycin and levaquin since that time.  His wife
+reports that he has shown increased confusion over the past 2
+weeks, partly manifested by talking agitatedly in his sleep
+whenever he is able to fall asleep.  He also has increasing low
+back pain over the past 2 weeks requiring higher doses of
+methadone and percocet, despite rx with antibiotics.  There is
+associated decrease in appetite over 2 weeks, such that he must
+be prompted to eat.  There is no fever, chills, night sweats,
+nausea, vomiting, cough, dyspnea, diarrhea, or constipation.  He
+has not had any recent trauma or falls.
+
+Of note, the pt has been receiving his vancomycin at
+hemodialysis, with pre-dosing levels of approximately [**7-14**].  He
+had a set of surveillance blood cultures drawn last week, which
+were negative.
+
+Past Medical History:
+ 1. ESRD: [**1-5**] anti-GBM disease, on HD since [**2-5**]
+ 2. DM2: dx [**3198**]
+ 3. HTN
+ 4. Chronic low back pain [**1-5**] herniated discs
+ 5. CHF
+ 6. Peripheral neuropathy
+ 7. Anemia
+ 8. h/o nephrolithiasis
+ 9. s/p cervical laminectomy
+ 10. h/o depression
+ 11. h/o MSSA bacteremia
+ 12. s/p L AV graft: [**6-7**]
+
+
+Social History:
+Lives w/ wife in [**Name (NI) 13**] area, has been unemployed [**1-5**]
+disability, smokes tobacco 1 ppd, no alcohol or recreational
+drug use.
+
+Family History:
+1. DM
+2. Renal failure
+
+Physical Exam:
+VS:  T 98.6F, BP 120/72, HR 76, RR 16, O2 Sat 98 RA
+
+Gen:  awake, alert, NAD
+HEENT:  [**Month/Day (2) 10702**], pupils pinpoint and equal, anicteric, OP clear w/
+MMM, neck supple, no JVD, no cervical tenderness
+CV:  reg s1/s2, no s3/s4/m/r
+Pulm:  symmetrical to percussion, crackles at bases bilaterally,
+no wheezes
+Abd:  +BS, soft, NT, ND
+Ext:  warm, 2+ DP pulses B, no edema
+Neuro:  CN 2-12 intact, muscle bulk and tone decreased in LE
+bilaterally, strength 4/5 throughout UE/LE, fine
+touch/proprioception intact throughout (including perineum),
+reflexes [**1-7**] at patella and biceps, strong rectal tone
+GU:  guaiac negative
+
+Pertinent Results:
+Labs on admission:
+[**3209-11-13**] 09:10AM   WBC-9.3 RBC-4.54* HGB-13.4* HCT-42.3 MCV-93
+MCH-29.6 MCHC-31.7
+[**3209-11-13**] 09:10AM   PLT COUNT-351
+[**3209-11-13**] 09:10AM   NEUTS-75.6* LYMPHS-12.6* MONOS-9.1 EOS-2.5
+BASOS-0.2
+[**3209-11-13**] 09:10AM   GLUCOSE-101 UREA N-25* CREAT-6.3* SODIUM-140
+POTASSIUM-4.9 CHLORIDE-95* TOTAL CO2-33* ANION GAP-17
+[**3209-11-13**] 09:10AM   CALCIUM-10.5* MAGNESIUM-2.1
+[**3209-11-13**] 09:10AM   ALT(SGPT)-9 AST(SGOT)-16 CK(CPK)-54 ALK
+PHOS-127* TOT BILI-0.4
+[**3209-11-13**] 09:10AM   CK-MB-NotDone cTropnT-0.69*
+[**3209-11-13**] 06:15PM   CK-MB-NotDone
+[**3209-11-13**] 06:15PM   cTropnT-0.67*
+[**3209-11-13**] 06:15PM   CK(CPK)-41
+
+CXR:
+  1) Left upper lobe oval density with central lucency,
+corresponding to known necrotic pneumonic abscess. Apparent
+interval decrease in size, now measuring 3.3 x 5.5 cm.
+  2) Possible subtle opacities in the left mid lobe and left
+base, consistent with atelectasis/infiltrate. Possible small
+left pleural effusion.
+
+Head CT:  No evidence of acute intracranial hemorrhage or major
+territorial infarction.
+
+Labs on discharge:
+[**3209-11-29**] 05:36AM BLOOD WBC-11.9* RBC-3.76* Hgb-10.5* Hct-33.6*
+MCV-89 MCH-28.0 MCHC-31.3 RDW-16.3* Plt Ct-431
+Glucose-94 UreaN-21* Creat-5.9*# Na-136 K-4.6 Cl-96 HCO3-32*
+Calcium-9.4 Phos-2.8 Mg-1.9
+Vanco-33.2
+__________________________
+Other labs:
+
+[**3209-11-24**] ESR-83*
+[**3209-11-14**] ESR-22*
+[**3209-11-26**] VitB12-914* Folate-7.7
+[**3209-11-24**] calTIBC-117 Ferritn-927* TRF-90*
+[**3209-11-26**] TSH-3.6
+[**3209-11-13**] PTH-116*
+[**3209-11-24**] CRP-18.05*
+[**3209-11-13**] CRP-7.28*
+________________________
+
+EKG [**3209-11-24**]-Long QTc interval
+Late precordial QT - is nonspecific
+Left ventricular hypertrophy by voltage
+Since previous tracing of [**3209-11-21**], no significant change
+_________________________
+Microbiology:
+[**3209-11-20**] 4:00 pm TISSUE      L4-5 DISC + END PLATE.
+
+**FINAL REPORT [**3209-11-26**]**
+
+GRAM STAIN (Final [**3209-11-20**]):
+ 1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+NO MICROORGANISMS SEEN.
+TISSUE (Final [**3209-11-23**]):    NO GROWTH.
+ANAEROBIC CULTURE (Final [**3209-11-26**]):    NO GROWTH.
+
+[**3209-11-21**] BCx x 2-NGTD
+[**3209-11-13**] BCx- NGTD
+
+
+Brief Hospital Course:
+1. Epidural abscess/osteomyelitis-
+On admission pt had a known L4-L5 epidural abscess diagnosed by
+MRI 1 month previously, which did not grow any organisms on
+culture but was presumably a consequence of recent E. coli
+sepsis.  He had already received 4 weeks IV antibiotics
+including vancomycin and Levaquin, with a set of blood cultures
+the prior week that were negative.  There was no evidence of
+spinal cord/nerve compression on exam.  MRI of L-spine on
+admission demonstrated extension of L4-L5 inflammation with L4
+collapse. He was continued on IV vancomycin during his
+admission; Levaquin was d/c as he had completed his full course
+of therapy.  We consulted Neurosurgeon Dr. [**Last Name (STitle) 1709**] to assess the
+need for surgical treatment, and the pt underwent L4-L5 spinal
+fusion with disc biopsy on [**3209-11-20**].  The surgery went well with
+no procedural complications; intraoperative wound culture was
+negative, which is consistent with suppression of infection by
+continuing antibiotics.
+
+After the surgery, the pt had decreased back and leg pain.
+Post-op pain was controlled initially with Dilaudid PCA, but was
+transitioned after a few days to oral methadone for long-acting
+analgesia, with good pain control.  The pt had no signs of
+active infection during his admission, except possibly his
+post-op hypotension as below.  At d/c, his chronic back pain is
+well controlled.  Strength is [**3-9**] throughout, but the pt
+requires intense PT to regain prior functional status.  He will
+require 5 weeks of continued IV vancomycin to treat his L4/L5
+osteomyelitis.  He will also require follow-up in [**Hospital **] clinic as
+scheduled, with repeat MRI 3-5 days prior to follow-up.
+
+Will need to continue vancomycin 750 mg q48s after hemodialysis
+for goal trough of 15-20 (day 14/42 on discharge). Today
+vancomycin 33.5. Last vancomycin dose was
+[**3209-11-26**] at HD as levels have been high.
+
+2. Confusion
+On admission, his wife reported that he had increased confusion
+over the prior 2 weeks, with increased parasomnia manifested by
+sleep talking.  This was thought to be [**1-5**] overuse of opioids,
+as the pt had been taking more opioid meds for back pain
+recently.  We stopped the long-acting opioids initially and used
+morphine for analgesia.  The pt had good pain control w/
+morphine, and mental status improved to baseline within 2 days
+of admission, most likely as a consequence of proper opioid
+dosing.  At discharge, pt is on oxycodone 5 mg q4-6 hrs prn with
+good pain control. We should continue to avoid long acting
+opioids as likely major contributor to confusion. At discharge,
+pt is mentating better, though sundowns with hallucinations and
+with agitation. There are no signs of osteomyelitis making
+infection an unlikely source as pt also continues to improve.
+Psychiatry has seen patient and changed his regimen. He is on
+Haldol standing as well as prn. Seroquel and Paxil were d/cd
+during this admission.
+
+3. DM2-
+Controlled with diet normally. He was treated w/ insulin during
+prior admission after the pt developed poor blood glucose
+control in the setting of epidural abscess.  However, pt had
+episodes of hypoglycemia on insulin at home, and so insulin had
+been discontinued before admission.  The pt was continued on [**Doctor First Name **]
+diet in the hospital, and glucose remained well controlled
+without medications, averaging 90-110.  He will need follow-up
+with his PCP for monitoring of this.
+
+4. HTN-
+BP was sub-optimally controlled on admission.  He was continued
+on outpt regimen of Norvasc, metoprolol, lisinopril,
+hydralazine; metoprolol was titrated up to 100mg TID, with good
+BP response.  After episode of post-op hypotension, BP meds were
+held until the pt was stabilized and sent to the Medicine floor.
+ At this point, BP climbed gradually, requiring the resumption
+of previous medications.  Metoprolol and lisinopril were added
+initially.  At the end of hospitalization stay, Norvasc was
+added as pt with consistent BPs in the 160s systolic. At d/c, BP
+is moderately controlled.  He will require follow-up with his
+PCP for titration of BP meds.
+
+5. Post-operative hypotension-
+After his surgery, the pt developed hypotension while in the
+PACU to 80s systolic, along with tachycardia and agitation.
+Central line was attempted, but complicated by a right carotid
+puncture and line placement; this line was d/c'd and pressure
+held with good hemostasis achieved. R subclavian line was then
+placed with good positioning. The pt was started on
+Neo-Synephrine gtt for hypotension with good response, and was
+transferred to the MICU.  He required Neo-Synephrine for BP
+support for 3 days; the drip was weaned to off on [**11-22**], and the
+pt was transferred back to the Medical floor. His hypotension
+was most likely [**1-5**] volume depletion, as he had been taking poor
+PO fluids and had been NPO before surgery, with large open
+surgical wound during procedure.  Another possible etiology
+included sepsis, though blood cultures were persistently
+negative and the pt was never febrile.  After his episode of
+hypotension, BP meds were held until BP increased and required
+resumption of meds, as above.
+
+6. CHF-
+No signs of decompensated heart failure during his admission.
+
+7. Low back pain-
+Mr. [**Known patient lastname 11674**] has chronic back pain [**1-5**] disc herniation, and pain
+was increased in weeks before admission likely from epidural
+abscess.  He had been requiring increased opioids for pain
+before admission, which may have been contributing to increased
+confusion.  On admission, long-acting methadone was discontinued
+and pain was treated w/ IV morphine prn, with good pain control.
+ Post-operatively, pain was managed with Dilaudid PCA, which was
+then transitioned to methadone and then to oxycodone prn.
+
+8. Anemia-
+History of anemia secondary to ESRD.  HCT was acceptable at 42
+on admission.  However, it trended down continuously during his
+stay to a nadir of 26, likely secondary to hemodilution as a
+result of continuous fluid therapy.  He was transfused 2 units
+of PRBCs during hemodialysis on [**3209-11-24**], with good HCT
+response.  He was also treated with Procrit during HD sessions.
+At d/c, there are no symptoms or clinical sequelae of anemia and
+Hct 33.6 on discharge. He will require continued Procrit therapy
+during hemodialysis.
+
+9. [**Name (NI) 11675**] Pt was seen by psychiatry team. Paxil and
+Seroquel were discontinued. Haldol prn and standing.
+
+10. Hypercalcemia:  Calcium was slightly elevated during his
+admission.  PTH was elevated, which in the setting of
+hypercalcemia indicates tertiary hyperparathyroidism [**1-5**] ESRD.
+Definitive treatment would require parathyroidectomy, which may
+be indicated when acute issues resolved.  He will require
+follow-up for monitoring of serum calcium.
+
+11. ESRD: he has renal failure [**1-5**] anti-GBM disease.  He is on
+hemodialysis on Tuesday/Thursday/Saturday.  He was followed by
+the Renal team during his admission, and received HD on his
+usual schedule during his stay, with no complications.  He will
+need to continue hemodialysis after d/c on Tuesdays, Thursdays,
+and Saturdays.  Sevelamer was decreased to 800 mg tid.
+
+12. F/E/N- [**Doctor First Name **]/Low sodium diet. Electrolytes were followed. Pt
+was refusing tube feedings a majority of the time but was
+accepting them at the end. He was also eating a poor amount but
+this increased when his wife brought in food from the outside.
+
+13. Prophylaxis- PPI, subcutaneous heparin.
+
+14. [**Name (NI) 11676**] Pt with left inside of eye irritation. Sight
+without problem and [**Name (NI) 10702**]. Curbsided opthalmology. Getting NS eye
+drops.
+
+Medications on Admission:
+Paxil
+Norvasc
+Metoprolol
+Seroquel
+Lisinopril
+Levaquin
+Oxycodone
+Methadone
+Protonix
+Hydralazine
+Renagel
+Vancomycin
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for fever and pain.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+5. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Hydralazine HCl 50 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours).
+7. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+8. Oxycodone HCl 5 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed for pain.
+9. Amlodipine Besylate 5 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+11. Haloperidol 1 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+12. Heparin Flush CVL  (100 units/ml) 1 ml IV DAILY:PRN
+10ml NS followed by 1ml of 100 units/ml heparin (100 units
+heparin) each lumen QD and PRN.  Inspect site every shift
+13. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**12-5**]
+Drops Ophthalmic  TID (3 times a day).
+14. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN
+Peripheral IV - Inspect site every shift
+15. Haloperidol 1-2 mg IV Q4H:PRN agitation
+16. Haloperidol 2 mg IV QHS
+17. Sliding Scale insulin
+PEr attached sheet
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 659**] & Rehab Center - [**Hospital1 141**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Epidural abscess
+Pain control
+Delirium
+
+Secondary diagnosis:
+End stage renal disease
+Depression
+Diabettes Mellitus 2
+Hypertension
+Congestive Heart Failure
+Anemia
+Hypercalcemia
+
+
+Discharge Condition:
+Mr. [**Known patient lastname 11674**] had his epidural abscess debrided and spinal
+stabilization. His pain is well controlled and he is mentating
+much better, though he does sundown and get agitated.
+
+Discharge Instructions:
+--Pt will need his vancomycin levels checked every day. If it is
+below 15, he should get a dose of vancomycin (750 mg) after
+dialysis.
+-Pt should continue his hemodialysis per usual
+Tuesday/Thursday/Saturday schedule.
+-Long acting narcotics should be avoided for pain control.
+Oxycodone should be used as it is short acting.
+-Hematocrit should be followed as well.
+
+-Pt should call doctor or go to the emergency room immediately
+if he has temperature >101.4, worsening delirium, chills, or any
+other health concern.
+
+Followup Instructions:
+[**Hospital 11677**] rehabilitation.
+1. [**Doctor First Name **] [**Doctor Last Name **], RNC Where: [**Hospital6 64**] [**Hospital **] Phone:[**Telephone/Fax (1) 151**] Date/Time:[**3209-12-2**] 9:00
+
+2.-MRI of lumbar spine 3-5 days before your appointment with Dr.
+[**Last Name (STitle) 11196**]
+Please call infectious disease at [**Telephone/Fax (1) 579**] to find out how
+to schedule it.
+
+3.Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11678**], MD Where: LM [**Hospital Unit Name 578**] DISEASE Phone:[**Telephone/Fax (1) 579**] Date/Time:[**3209-12-29**] 10:30
+
+
+
+
+
+
+DOC CLASS

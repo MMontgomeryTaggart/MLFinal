@@ -1,0 +1,253 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - lost rehab bed but will be going today
+   - bactrim x 2 weeks for Steno PNA
+   - need to e-mail her PCP?
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3032-1-5**] 02:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3032-1-6**] 08:30 AM
+   Gentamicin - [**3032-1-6**] 10:00 AM
+   Vancomycin - [**3032-1-6**] 12:00 PM
+   Bactrim (SMX/TMP) - [**3032-1-7**] 10:04 PM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3032-1-7**] 09:00 AM
+   Heparin Sodium (Prophylaxis) - [**3032-1-7**] 04:03 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3032-1-8**] 05:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.7
+C (98.1
+   HR: 62 (52 - 76) bpm
+   BP: 133/57(74) {88/29(43) - 140/72(92)} mmHg
+   RR: 22 (13 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 72 kg (admission): 49.5 kg
+   Height: 60 Inch
+                  Total In:
+                                                                  2,248 mL
+                                                                    240 mL
+   PO:
+                  TF:
+                                                                    888 mL
+                                                                    240 mL
+   IVF:
+                                                                  1,000 mL
+   Blood products:
+   Total out:
+                                                                  1,115 mL
+                                                                    220 mL
+   Urine:
+                                                                  1,115 mL
+                                                                    220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,133 mL
+                                                                     20 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 367 (301 - 385) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 21 cmH2O
+   SpO2: 100%
+   ABG: ////
+   Ve: 8.2 L/min
+   Physical Examination
+   General Appearance: Thin. Alert. Mouthing words.  Trach in place.
+   Eyes / Conjunctiva: PERRL.
+   Head, Ears, Nose, Throat: Normocephalic, constant chewing motion. No
+   dentition
+   Neck: rash around prior IJ site is resolving.
+   Cardiovascular: PMI Normal,nl S1 and S2, with no MRG.
+   Peripheral Vascular: warm extremities
+   Respiratory / Chest: clear to auscultation bilaterally
+   Abdominal: Soft, Non-tender, Non-distended, Bowel sounds present.  No
+   rebound or guarding. PEG tube site c/d/i
+   Ext: Muscle wasting, cool, but 2+ pulses.  No clubbing/cyanosis/edema
+   Neurologic: Responds to: voice, Movement: Non -purposeful, no longer
+   sedated
+    Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   330 K/uL
+   8.2 g/dL
+   137 mg/dL
+   1.1 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   13 mg/dL
+   103 mEq/L
+   138 mEq/L
+   24.7 %
+   7.1 K/uL
+        [image002.jpg]
+                            [**3032-1-3**]  06:06 AM
+                            [**3032-1-3**]  09:12 AM
+                            [**3032-1-4**]  03:13 AM
+                            [**3032-1-4**]  07:49 AM
+                            [**3032-1-4**]  04:46 PM
+                            [**3032-1-4**]  05:09 PM
+                            [**3032-1-5**]  03:16 AM
+                            [**3032-1-6**]  03:26 AM
+                            [**3032-1-7**]  04:10 AM
+                            [**3032-1-8**]  04:25 AM
+   WBC
+   7.1
+   7.0
+   7.5
+   7.8
+   6.5
+   7.1
+   Hct
+   25.9
+   25.7
+   26.3
+   25.6
+   25.3
+   27.5
+   24.7
+   Plt
+   353
+   360
+   346
+   354
+   290
+   330
+   Cr
+   1.0
+   1.1
+   1.0
+   1.0
+   1.1
+   TCO2
+   32
+   30
+   31
+   27
+   Glucose
+   94
+   81
+   85
+   99
+   137
+   Other labs: PT / PTT / INR:13.7/35.3/1.2, CK / CKMB /
+   Troponin-T:78/7/0.04, ALT / AST:31/47, Alk Phos / T Bili:44/1.6,
+   Differential-Neuts:85.9 %, Lymph:9.7 %, Mono:4.1 %, Eos:0.3 %,
+   Fibrinogen:397 mg/dL, Lactic Acid:1.5 mmol/L, Albumin:2.2 g/dL, LDH:256
+   IU/L, Ca++:8.2 mg/dL, Mg++:2.2 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   A/P: 89 yo with PMH of alzheimer's dementia, hypernatremia, UTI
+   presents with AMS, sepsis physiology, UTI, and impressive
+   hypernatremia, initially intubated, extubated and re-intubated X 2 for
+   worsening acidosis, hypercarbia, ? flash pulmonary edema. With
+   intermittent hypotension now resolved, and now s/p trach and PEG
+   placement.
+   #1 Hypotension: Resolved.  Dopamine drip weaned off.  ECHO relatively
+   unremarkable given patient
+s age and does not explain hypotension or
+   bradycardia.  Autonomic instability is possible.  AM cortisol normal.
+   A-line pulled.
+   #2 Respiratory failure: hypoxia and hypercarbia.  Low NIF and CO2
+   retention after latest extubation suggest neuromuscular weakness.
+   However, persistent A-a gradient on latest ABG suggests intrinsic [**Known patient lastname **]
+   disease.  Patient has pneumonia, possible obstructive disease given
+   respiratory acidosis with metabolic compensation at admission. No Hx of
+   COPD given but may be undiagnosed thus far.  Sputum growing
+   stenotrophomonas, sensitive to Bactrim.   Difficulty of weaning from
+   the vent likely a mix of decreased of all of these factors.  Trach &
+   peg placed yesterday.
+   - IV bactrim 5mg/kg (250mg Q8h) x 8 days (today is day [**3-25**]
+ last dose
+   on [**1-13**])
+   - d/c gent & zosyn for presumed VAP as stenotrophomonas sensitive to
+   bactrim
+   - Stop Vanco for MRSA in sputum started on evening of [**12-23**] (has had 15
+   days of vancomycin total).
+   - Continue to wean from vent as tolerated.
+   .
+   #3 Sepsis: Patient initially presented with sepsis - fever,
+   hypotension, hypoxia.  Urine grew out pan sensitive proteus mirabilis,
+   treated with cipro.  Sputum growing MRSA.  Vanco started pm [**12-23**].
+   Sputum grew GNRs, likely VAP.  Cipro and Unasyn d/c
+d, begun on
+   gentamicin and Zosyn for VAP.
+   - d/c vanco
+   - Gentamicin and Zosyn d/c as described above
+   .
+   #4 AMS: likely [**3-19**] toxic/metabolic, though other etiologies could
+   include stroke, and underlying dementia.  During the interval time
+   between extubation and re-intubation, her mental status appeared to the
+   family to be near baseline.  AMS may also be related to prolonged ICU
+   stay.
+   - Transition patient out of ICU
+   - Consider imaging if MS worsens.
+   .
+   # Bradycardia: not new
+ old records show ekg w/nsr at 65 w/1st degree
+   AV block 3 years ago.
+   - Initially EP commented that her rhythm could be a variation of normal
+   or tied to her underlying illness and recommended treating her sepsis
+   and re-evaluating once she has recovered or becomes unstable.
+   -EP re-evaluation
+ no indication for pacer at this time.
+   -Tx hypotension fluids, then with dopamine or atropine
+   # Paroxysmal afib
+   - Not an anticoagulation candidate as per admission records? To be
+   further evaluated at extended
+   # Alzheimer's: cont home meds
+   .
+   # PPx: H2 blocker, sc heparin, bowel regimen
+   .
+   # FEN: tolerating TF through PEG w/out residuals as per nurse.  Replete
+   lytes prn.
+   # Access: PICC line put in [**3033-1-3**].  RIJ removed.
+   # Code: full code.  Discussed with patient
+s son [**Name (NI) 6185**] who wants
+everything done
+ including reintubation if patient fails extubation.
+   .
+   # Dispo: Appropriate for [**Hospital 6486**] rehab. Accepted by [**Hospital1 5357**] at [**Last Name (LF) 1772**], [**First Name3 (LF) 167**] go today.
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**3032-1-8**] 01:36 AM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3032-1-4**] 01:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   Critical Care
+   Present for key portion of history and exam. Agree with plan as above.
+   Comfortable on ventilator. She will need massive diuresis and
+   substantial rehab if she is to be weaned from vent. Her preload
+   dependence has limited I&O goal but will try gentle diuresis.
+   Time spent: 30 min
+
+
+
+DOC CLASS

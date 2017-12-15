@@ -1,0 +1,337 @@
+Admission Date:  [**3150-8-1**]              Discharge Date:   [**3150-8-7**]
+
+Date of Birth:  [**3080-3-24**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 18203**]
+Chief Complaint:
+Chest discomfort
+
+Major Surgical or Invasive Procedure:
+[**3150-8-1**] Replacement of Ascending Aorta utilizing a 26 millimeter
+Gelweave Graft under Circulatory Arrest.
+
+
+History of Present Illness:
+This is a 70 year old female who presented to cardiologist with
+new onset chest discomfort. She underwent ETT/MIBI which was
+positive for ischemia. Subsequent cardiac catheterization
+revealed minimal coronary artery disease but notable for a
+dilated aortic root. Chest CT scan was then performed which
+showed an ascending aortic aneursym measuring 5.3 x 5.1
+centimeters. Based upon the above results, she was referred for
+cardiac surgical intervention. Prior to the operation,
+echocardiogram revealed [**2-7**]+ aortic insufficiency with only
+trivial mitral regurgitation. LVEF was estimated at 55% and
+ascending aorta measured 5.1 centimeters.
+
+Past Medical History:
+Ascending Aortic Aneursym
+Mild Aortic Insufficiency
+Hypertension
+Elevated Cholesterol
+Prior Cholecystectomy
+History of Colitis
+
+
+Social History:
+Live with her husband. [**Name (NI) **] son is her PCP. [**Name10 (NameIs) 21188**] for the
+absence of current tobacco use. Former smoker who stopped over
+25yrs ago. There is no history of alcohol abuse. No drug use.
+
+
+Family History:
+There is questionable family history of premature coronary
+artery disease in her brother. [**Name (NI) **] father had an MI in his later
+life. No h/o sudden cardiac death.
+
+Physical Exam:
+Vitals: BP 125/80, HR 88, RR 16
+General: elderly female in no acute distress, very pleasant
+HEENT: oropharynx benign,
+Neck: supple, no JVD, no carotid bruits
+Heart: regular rate, normal s1s2, no murmur or rub
+Lungs: clear bilaterally
+Abdomen: soft, nontender, normoactive bowel sounds
+Ext: warm, no edema, no varicosities
+Pulses: 1+ distally
+Neuro: alert and oriented, CN 2-12 grossly intact, nonfocal
+
+
+Pertinent Results:
+[**3150-8-6**] 07:00AM BLOOD WBC-5.9 RBC-3.00* Hgb-8.9* Hct-26.4*
+MCV-88 MCH-29.7 MCHC-33.7 RDW-13.5 Plt Ct-278
+[**3150-8-2**] 03:07AM BLOOD PT-12.7 PTT-29.7 INR(PT)-1.1
+[**3150-8-7**] 06:55AM BLOOD Glucose-110* UreaN-17 Creat-0.9 Na-135
+K-3.2* Cl-93* HCO3-34* AnGap-11
+RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**3150-8-6**] 11:09 AM
+
+CHEST (PA & LAT)
+
+Reason: assess interval change
+
+UNDERLYING MEDICAL CONDITION:
+70 year old woman with sob
+REASON FOR THIS EXAMINATION:
+assess interval change
+STUDY: PA and lateral chest.
+
+HISTORY: 70-year-old woman with shortness of breath and status
+post thoracic surgery.
+
+FINDINGS: The cardiac silhouette is again prominent compared to
+the immediate postoperative scan, however is unchanged compared
+to the scan from yesterday. Median sternotomy wires are seen.
+There is again seen bilateral small pleural effusions, right
+side equal to left. No focal consolidation or overt pulmonary
+edema is seen. Degenerative changes are seen of the thoracic
+spine.
+
+IMPRESSION:
+
+1. Cardiomegaly, which is stable since the [**3150-8-5**] study.
+
+2. Bilateral pleural effusions.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+Cardiology Report ECHO Study Date of [**3150-8-1**]
+
+
+*** Report not finalized ***
+PRELIMINARY REPORT
+
+PATIENT/TEST INFORMATION:
+Indication: Intra-op TEE for Ascending aorta replacement
+Height: (in) 62
+Weight (lb): 185
+BSA (m2): 1.85 m2
+BP (mm Hg): 123/74
+HR (bpm): 67
+Status: Inpatient
+Date/Time: [**3150-8-1**] at 10:16
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2007AW200-9:4
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+
+
+
+
+REFERRING DOCTOR: DR. [**First Name (STitle) **] [**Last Name (Prefixes) **]
+
+MEASUREMENTS:
+Left Ventricle - Septal Wall Thickness: 1.0 cm (nl 0.6 - 1.1 cm)
+
+Left Ventricle - Inferolateral Thickness: 1.0 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Diastolic Dimension: 4.4 cm (nl <= 5.6 cm)
+Left Ventricle - Ejection Fraction: 55% (nl >=55%)
+Aorta - Valve Level: *4.0 cm (nl <= 3.6 cm)
+Aorta - Ascending: *5.1 cm (nl <= 3.4 cm)
+Aorta - Arch: 3.0 cm (nl <= 3.0 cm)
+Aorta - Descending Thoracic: *2.7 cm (nl <= 2.5 cm)
+Aortic Valve - LVOT Diam: 1.7 cm
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: Normal LA size.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Moderately dilated RA. Dynamic
+interatrial
+septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thicknesses and cavity size.
+Overall normal
+LVEF (>55%).
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildly dilated aortic sinus. Markedly dilated ascending
+aorta. Focal
+calcifications in ascending aorta. Normal aortic arch diameter.
+Simple
+atheroma in aortic arch. Mildly dilated descending aorta.
+Complex (>4mm)
+atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve
+leaflets. No AS. Mild to moderate ([**2-7**]+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MS.
+Trivial MR.
+
+TRICUSPID VALVE: Mild to moderate [[**2-7**]+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+were personally
+post-bypass
+data The post-bypass study was performed while the patient was
+receiving
+vasoactive infusions (see Conclusions for listing of
+medications).
+
+Conclusions:
+PRE-BYPASS:
+1. The left atrium is normal in size. The right atrium is
+moderately dilated.
+No atrial septal defect is seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses and cavity size are normal.
+Overall left
+ventricular systolic function is normal (LVEF>55%). A prominent
+septal
+hypertrophy localized inferior to the LVOTis seen. No [**Male First Name (un) **]
+physiology noted.
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The aortic root is mildly dilated at the sinus level. The
+ascending aorta
+is markedly dilated There are simple atheroma in the aortic
+arch. The
+descending thoracic aorta is mildly dilated. There are complex
+(>4mm) atheroma
+in the descending thoracic aorta.
+5. There are three aortic valve leaflets. The aortic valve
+leaflets are mildly
+thickened. There is no aortic valve stenosis. Mild to moderate
+([**2-7**]+) aortic
+regurgitation is seen.
+6. The mitral valve leaflets are mildly thickened. Trivial
+mitral
+regurgitation is seen.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive
+infusions including phenylephrine and was A-paced.
+
+1. Biventricular function is preserved.
+2. An ascending aorta graft is seen.
+3. AI is slightly reduced.
+4. Other findings are unchanged.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 21189**] was admitted and underwent replacement of her
+ascending aorta by Dr. [**Last Name (STitle) 19576**]. For surgical details, please
+see seperate dictated operative note. Following the operation,
+she was brought to the CSRU for invasive monitoring. Within 24
+hours, she awoke neurologically intact and was extubated without
+incident. She maintained stable hemodynamics and weaned from
+inotropic support without difficulty. Her CSRU course was
+otherwise uneventful and she transferred to the SDU on
+postopertive day one. Low dose beta blockade was resumed and
+advanced as tolerated. She experienced some shortness of breath
+on POD#5 and was diuresed.  She was discharged to home in stable
+condition on POD#6.
+
+
+Medications on Admission:
+Coreg
+Plaquenil
+Calcium
+MVI
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+5. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours
+as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+7. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+8. Ferrous Gluconate 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day
+for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+10. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 7
+days.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 248**]
+
+Discharge Diagnosis:
+Ascending Aortic Aneursym - s/p Replacement
+Mild Aortic Insufficiency
+Hypertension
+Elevated Cholesterol
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Patient should shower daily, no baths. No creams, lotions or
+ointments to incisions. No driving for at least one month. No
+lifting more than 10 lbs for at least 10 weeks from the date of
+surgery. Monitor wounds for signs of infection. Please call
+cardiac surgeon if start to experience fevers, sternal drainage
+and/or wound erythema.
+
+
+Followup Instructions:
+Make appointments with the following physicians:
+Cardiac surgeon, Dr. [**Last Name (STitle) 19576**] in [**5-11**] weeks. [**Telephone/Fax (1) 294**]
+Local PCP, [**Last Name (NamePattern4) **]. [**Known patient lastname 21189**] in [**3-11**] weeks. [**Telephone/Fax (1) 3124**]
+Local cardiologist, Dr. [**Last Name (STitle) **] in [**3-11**] weeks.
+Wound check [**Hospital Ward Name **] 2 please schedule with RN
+Please follow up with PCP for LFT 1 month after discharge due to
+statin
+
+
+
+Completed by:[**3150-8-8**]
+
+
+DOC CLASS

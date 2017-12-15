@@ -1,0 +1,320 @@
+Admission Date:  [**3408-8-2**]              Discharge Date:   [**3408-8-8**]
+
+Date of Birth:  [**3332-10-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1081**]
+Chief Complaint:
+Severe Mitral Regurgitation, Moderate Tricuspid Regurgitation,
+Afib- admit for heparin pre-op for MVR/? TVR/? MAZE
+
+
+Major Surgical or Invasive Procedure:
+s/p Mitral valve repair(#32 [**Doctor Last Name 1326**] ring)Tricuspid valve
+repair(#32 annuloplasy band)[**8-3**]
+
+
+History of Present Illness:
+75 yo F with history of Mitral regurgitation and mitral valve
+prolapse who has noticed worsening dyspnea on exertion and leg
+edema over the pastmonth. A repeat
+echocardiogram by her cardiologist at the end of [**Month (only) 496**] revealed
+worsened mitral regurgitation with moderate tricuspid
+regurgitation and pulmonary hypertension. Her LVEF was reduced
+at 45%. Given the progression of her mitral regurgitation and
+onset of worsened symptoms, she has been referred for surgical
+management. Of note, she was treated for a UTI on [**3408-6-12**]
+w/Levoflox.
+
+
+Past Medical History:
+Atrial fibrillation x4 years
+CHF
+Ovarian cyst, s/p scraping
+Restless leg syndrome
+? Past thyroiditis
+
+Social History:
+ Occupation: Retired
+Last Dental Exam: [**3408-7-5**] - dental clearance obtained.
+Lives with: HUSBAND; HAS 4 GROWN CHILDREN
+Race: CAUCASIAN
+Tobacco:QUIT 5 YEARS AGO, 1PPD X 55 YRS
+ETOH: 1-2 DRINKS DAILY
+
+
+Family History:
+Mother died of CHF at 71. Father died of "heart condition" at
+age 89
+
+
+Physical Exam:
+Pulse:66      Resp: 20      O2 sat:97% RA
+B/P  Right:         Left:
+Height:5'5"     Weight:128 LBS
+
+General: NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [X] EOMI [x] sclera anicteric, bilat lens implants
+Neck:  Supple [x] Full ROM [X]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Mid systolic murmur best heard at
+leftmid sternal border and apex
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Trace->1+ Edema
+Varicosities: None [x]
+Neuro: Grossly intact. R handed. follows commands / moves 4 ext
+Pulses:
+Femoral      Right: 2+ Left: palp 2+
+DP           Right: 1+  Left: 1+
+PT           [**Name (NI) 422**]:dop +   Left: dop+ (weaker than R)
+Radial       Right: palp  Left: palp
+[**Doctor Last Name **]: palp both sides
+
+Carotid Bruit  - no bruit      Right: +2  Left: +2
+
+
+Pertinent Results:
+[**3408-8-2**] 12:50PM BLOOD WBC-7.4 RBC-4.10* Hgb-13.2 Hct-39.7
+MCV-97 MCH-32.1* MCHC-33.1 RDW-13.7 Plt Ct-397
+[**3408-8-5**] 06:10AM BLOOD WBC-17.0* RBC-2.69* Hgb-8.5* Hct-26.0*
+MCV-97 MCH-31.6 MCHC-32.6 RDW-13.7 Plt Ct-160
+[**3408-8-2**] 12:50PM BLOOD PT-13.6* INR(PT)-1.2*
+[**3408-8-5**] 06:10AM BLOOD PT-14.3* INR(PT)-1.2*
+[**3408-8-2**] 12:50PM BLOOD Glucose-108* UreaN-23* Creat-0.9 Na-134
+K-4.5 Cl-93* HCO3-30 AnGap-16
+[**3408-8-5**] 06:10AM BLOOD Glucose-130* UreaN-15 Creat-0.7 Na-132*
+K-5.4* Cl-97 HCO3-28 AnGap-12
+
+
+[**Hospital1 68**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname 35862**], [**Known patient firstname **]       [**Hospital1 68**] [**Numeric Identifier 35863**]       TEE
+(Complete) Done [**3408-8-3**] at 1:04:56 PM      FINAL
+Referring Physician     [**Name9 (PRE) 253**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 68**], Division of Cardiothorac
+[**Hospital Unit Name 1783**]
+[**Location (un) 211**], [**Numeric Identifier 1230**]  Status: Inpatient DOB: [**3332-10-23**]
+Age (years): 75 F  Hgt (in): 65
+BP (mm Hg): 109/63  Wgt (lb): 128
+HR (bpm): 74  BSA (m2): 1.64 m2
+Indication: Intra-op TEE for MV repair, TV repair
+ICD-9 Codes: 786.05, 440.0, 424.0, 424.2, 427.31, ,
+Test Information
+Date/Time: [**3408-8-3**] at 13:04    Interpret MD: [**Name6 (MD) 1784**]
+[**Name8 (MD) 1785**], MD, MD
+Test Type: TEE (Complete) Son[**Name (NI) 1786**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1787**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW000-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Long Axis Dimension:  *6.2 cm  <= 4.0 cm
+Left Atrium - Four Chamber Length:  *6.2 cm  <= 5.2 cm
+Left Ventricle - Ejection Fraction:  50%  >= 55%
+
+Findings
+LEFT ATRIUM: Marked LA enlargement. Elongated LA. No
+mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Dilated RA. Normal interatrial
+septum. No ASD by 2D or color Doppler. The IVC is dilated
+(>2.5cm)
+
+LEFT VENTRICLE: Suboptimal technical quality, a focal LV wall
+motion abnormality cannot be fully excluded. Low normal LVEF.
+
+RIGHT VENTRICLE: Moderately dilated RV cavity. Mild global RV
+free wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Normal aortic arch diameter. Complex (>4mm) atheroma in the
+aortic arch. Normal descending aorta diameter. Simple atheroma
+in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. No AS. No AR.
+
+MITRAL VALVE: Moderate/severe MVP. Mild mitral annular
+calcification. No MS. [**Name13 (STitle) 13068**] (4+) MR.
+
+TRICUSPID VALVE: No TS. Moderate to severe [3+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The rhythm appears
+to be atrial fibrillation. Results were personally reviewed with
+the MD caring for the patient. See Conclusions for post-bypass
+data The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+Conclusions
+PRE-BYPASS:
+1. The left atrium is markedly dilated. The left atrium is
+elongated. No mass/thrombus is seen in the left atrium or left
+atrial appendage.
+2. The right atrium is dilated. No atrial septal defect is seen
+by 2D or color Doppler.
+3. Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded. Overall left ventricular
+systolic function is low normal (LVEF 50%).
+4. The right ventricular cavity is moderately dilated with mild
+global free wall hypokinesis.
+5.There are complex (>4mm) atheroma in the aortic arch. There
+are simple atheroma in the descending thoracic aorta.
+6. There are three aortic valve leaflets. There is no aortic
+valve stenosis. No aortic regurgitation is seen.
+7. There is moderate/severe mitral valve prolapse of P1 scallop.
+Mild MVP of P2 and the anterior leaflet is also seen. Annulus is
+mildly dilated at 4 cm. Severe (4+) mitral regurgitation in an
+eccentric anterior direction is seen. 8. Moderate to severe [3+]
+tricuspid regurgitation is seen. Tricuspid annulus is dilated to
+4.2 cm.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including milrinone, vasopressin
+and phenylephrine.
+1. Left and right ventricular function is unchanged from pre CPB
+2. An annuloplasty ring is seen in the mitral position, stable,
+trace MR is seen. No [**Male First Name (un) **] or flow acceleration across LVOT seen.
+3. An annuloplasty ring is seen in the tricuspid position. Mild
+to moderate residual TR is seen.
+4. Aortic contours appear to be intact
+
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 1784**] [**Name8 (MD) 1785**], MD, MD,
+Interpreting physician [**Last Name (NamePattern4) **] [**3408-8-4**] 08:27
+
+
+?????? [**3401**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+[**8-3**] Mrs. [**Known patient lastname **] was taken to the oerating room and
+underwent Mitral Valve repair (#32MM Cg Future annuloplasty
+ring)/Tricuspid Valve repair (MC3 annuloplasty system)with
+Dr.[**Last Name (STitle) **]. Cross clamp time= 72 minutes. Cardiopulmonary Bypass
+time= 95 minutes. Please refer to Dr[**Last Name (STitle) **] operative report
+for further details. She tolerated the procedure well and was
+transferred to the CVICU in stable but critical condition
+requiring pressors and inotropes for optimal hemodynamics and
+cardiac output. She awoke neurologically intact and was
+extubated without difficulty on postoperative night. All drips
+were weaned to off. She remained hemodynamically stable and
+Beta-blocker, aspirin, statin and diuresis was initiated.All
+lines and drains were discontinued in a timely fashion. She
+continued to progress and was transferrd to the step down unit
+on POD#2 for further monitoring. Physical therapy was consulted
+for evaluation. Mrs.[**Known patient lastname **] continued to progress and was
+cleared for discharge to home with VNA by Dr.[**Last Name (STitle) **] on POD# 5.
+Her coumadin therapy was resumed for atrial fibrillation- on
+[**8-8**] her INR was 2.5 and she was given 5 mg coumadin. Her INR
+wil be checked tomorrow and faxed to Dr. [**Last Name (STitle) 35864**] office for
+couamdin dosing. She has persistant 2+ LE edema -her lasix dose
+was increased 40mg [**Hospital1 **] for 10days then she will resume her
+maintenance dose of 40mg daily. All follow up appointments were
+advised.
+
+Medications on Admission:
+Digoxin 125 mcg DAILY
+Furosemide 40 mg daily She has held this since Monday d/t
+frequency.
+Lisinopril 5 mg daily
+Metoprolol Tartrate 75 mg [**Hospital1 **]
+Tramadol 50 mg qHS PRN
+Warfarin 7.5 mg daily
+Aspirin 81 mg Tablet daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO TID
+(3 times a day).
+Disp:*270 Tablet(s)* Refills:*2*
+5. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day)
+as needed for constipation.
+6. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day: Take
+40mg twice daily for 10days then decrease to your home dose of
+40mg daily.
+Disp:*60 Tablet(s)* Refills:*2*
+7. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 10 days.
+Disp:*20 Packet(s)* Refills:*0*
+8. Coumadin 2.5 mg Tablet Sig: Two (2) Tablet PO once a day:
+take 5mg coumadin daily on [**8-8**] then as directed by Dr. [**Last Name (STitle) 1982**].
+Disp:*60 Tablet(s)* Refills:*2*
+9. Outpatient Lab Work
+INR check on [**3408-8-9**] and faxed to Dr. [**Last Name (STitle) 1982**] FAX [**Telephone/Fax (1) 27122**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 180**]
+
+Discharge Diagnosis:
+s/p Mitral valve repair(#32 [**Doctor Last Name 1326**] ring)Tricuspid valve
+repair(#32 annuloplasy band)[**8-3**]
+PMH:
+Atrial fibrillation
+Congestive heart failure
+restlest leg syndrome
+Ovarian cyst s/p removal
+Appendetomy
+Partial thyroidectomy
+bilat cataract surgery w/lens implants
+
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month, and while taking
+narcotics
+No lifting more than 10 pounds for 10 weeks
+Dr. [**Last Name (STitle) 1982**] will check your INR and dose your coumadin for Afib.
+Please call with any questions or concerns [**Telephone/Fax (1) 425**]
+
+
+Followup Instructions:
+Wound clinic on [**Hospital Ward Name **] 6 in 2 weeks
+Please call and schedule the following appointments:
+Dr. [**Last Name (STitle) 35865**] in [**12-25**] weeks
+Dr [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 425**]
+Dr [**Last Name (STitle) 1982**] in [**1-26**] weeks
+
+
+
+Completed by:[**3408-8-8**]
+
+
+DOC CLASS

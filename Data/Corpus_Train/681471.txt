@@ -1,0 +1,182 @@
+SICU
+   HPI:
+   HD7   POD 1-L brachial to radial bypass w/ NR basilic vein
+   Pre-Op Weight:128.53 lbs   58.3 kgs
+   Baseline Creatinine:HD
+   Antibiotic:vanco/cipro/flagyl
+   PMH: ESRD on dialysis, DM, hep C, ?MI w cardiac cath, PVD
+   PSH: L 4th and 5th toe amputation, L fem-[**Doctor Last Name 1020**] bypass, ? R sided
+   stenting procedure of the RLE, L middle finger amputation, R first toe
+   amputation, CCY, L rotator cuff surgery, [**3276-6-29**] R AKA, L BKA
+   [**3276-6-23**] Revision R BKA, [**3276-6-17**] B/L LE guillotine amputations
+   [**Last Name (un) **]: calcium acetate 667x2''', cozaar 25', nephrocaps 1 cap', lasix
+   40", senna, colace 100", nexium 40', simvastatin 40', asa 81', lantus
+   8u QHS, Humalog SSI
+   Current medications:
+   Albuterol 0.083% Neb Soln, Aspirin, Carvedilol, Ciprofloxacin,
+   DOPamine, Docusate Sodium, Gabapentin, Guaifenesin, HYDROmorphone,
+   Insulin, Lidocaine 5% Patch, MetRONIDAZOLE, Nephrocaps, Pantoprazole,
+   Senna, Simvastatin, Tamsulosin, Vancomycin
+   24 Hour Events:
+   Transferred from VICU due to bradycardia and hypotension
+ EKG - At [**3276-12-8**] 01:10 AM
+ ARTERIAL LINE - START [**3276-12-8**] 01:14 AM
+ TRANSTHORACIC ECHO - At [**3276-12-8**] 04:23 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3276-12-8**] 09:45 AM
+   Ciprofloxacin - [**3276-12-8**] 10:18 AM
+   Vancomycin - [**3276-12-8**] 12:45 PM
+   Infusions:
+   Dopamine - 1.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3276-12-8**] 04:14 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**78**] a.m.
+   Tmax: 36.8
+C (98.3
+   T current: 36.7
+C (98.1
+   HR: 92 (57 - 105) bpm
+   BP: 117/56(74) {67/32(41) - 117/60(75)} mmHg
+   RR: 15 (9 - 19) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+            Total In:
+            1,777 mL
+   PO:
+            Tube feeding:
+   IV Fluid:
+   995 mL
+   Blood products:
+   782 mL
+   Total out:
+                                                                      0 mL
+                                                                      5 mL
+   Urine:
+   5 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,772 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: PCV+Assist
+   Vt (Spontaneous): 649 (194 - 649) mL
+   PS : 10 cmH2O
+   RR (Set): 8
+   RR (Spontaneous): 4
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 16 cmH2O
+   SPO2: 96%
+   ABG: 7.22/64/91/26/-2
+   Ve: 4 L/min
+   PaO2 / FiO2: 228
+   Physical Examination
+   General Appearance: calm slow to respond
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: throughout )
+   Abdominal: Non-tender, Distended, ascites
+   Left Extremities: (Edema: Trace)
+   Right Extremities: (Edema: Trace)
+   Skin: (Incision: Clean / Dry / Intact), left arm
+   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities, bilateral amputee
+   Labs / Radiology
+   293 K/uL
+   8.1 g/dL
+   87 mg/dL
+   3.3 mg/dL
+   26 mEq/L
+   4.7 mEq/L
+   33 mg/dL
+   103 mEq/L
+   140 mEq/L
+   30.3 %
+   11.8 K/uL
+        [image002.jpg]
+                            [**3276-12-8**]  04:01 AM
+                            [**3276-12-8**]  05:53 AM
+                            [**3276-12-8**]  06:46 AM
+                            [**3276-12-8**]  06:49 AM
+                            [**3276-12-8**]  07:48 AM
+                            [**3276-12-8**]  07:54 AM
+                            [**3276-12-8**]  09:17 AM
+                            [**3276-12-8**]  10:29 AM
+                            [**3276-12-8**]  10:30 AM
+                            [**3276-12-8**]  11:48 AM
+   Hct
+   30.3
+   Plt
+   293
+   Creatinine
+   3.3
+   Troponin T
+   0.96
+   TCO2
+   28
+   28
+   27
+   28
+   29
+   29
+   28
+   Glucose
+   88
+   87
+   87
+   Other labs: PT / PTT / INR:14.9/31.2/1.3, CK / CK-MB / Troponin
+   T:107/16/0.96, ALT / AST:13/23, Alk-Phos / T bili:71/0.3, Lactic
+   Acid:0.8 mmol/L, Ca:8.7 mg/dL, Mg:1.9 mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan
+   HYPOTENSION (NOT SHOCK), RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 2 hr, denies pain
+   Cardiovascular: Aspirin, Statins, dopamine for hypotension and
+   bradycardia - wean off for map > 60 - no betablocker while on dopamine
+   Pulmonary: non invasive mask ventilation for respiratory acidosis,
+   consider intubation if not improved with mask ventilation
+   Gastrointestinal / Abdomen: paracentesis for ascites
+   Nutrition: NPO
+   Renal: Foley, CVVH
+   Hematology: transfused overnight, hct stable
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: vancomycin, cipro, flagyl - no positive cultures,
+   peritoneal fluid sent for culture
+   Lines / Tubes / Drains: Foley
+   Imaging: u/s for evaluation of ascites
+   Consults: Vascular surgery, Plastics
+   Billing Diagnosis: Arrhythmia, Post-op hypotension
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3276-12-8**] 01:14 AM
+   18 Gauge - [**3276-12-8**] 01:14 AM
+   20 Gauge - [**3276-12-8**] 03:50 AM
+   Tunneled (Hickman) Line - [**3276-12-8**] 08:00 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   [**Doctor First Name **] - [**Known patient firstname 78**] preference is to not be intubated unless absolutely
+   necessary - he had agreed to Noninvasive ventilation
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+
+
+
+DOC CLASS

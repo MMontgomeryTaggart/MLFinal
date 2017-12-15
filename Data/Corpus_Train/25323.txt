@@ -1,0 +1,148 @@
+Admission Date:  [**2800-5-16**]              Discharge Date:   [**2800-6-16**]
+
+Date of Birth:  [**2749-2-7**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 341**]
+Chief Complaint:
+51 year old male status post fall from roof 30Ft
+
+Major Surgical or Invasive Procedure:
+1. L nondisplaced rib fx
+2. L PTX s/p CT (since DC'd)
+3. R Radius fx s/p ORIF [**5-29**]
+4. L2 burst fx, s/p fusion [**5-18**]
+5. S1-3 fx, s/p pinning [**5-25**]
+6. L calcaneal fx s/p ORIF [**5-29**]
+7. IVC placed [**5-19**]
+
+History of Present Illness:
+51 year old male that falls from a 30 Fl roof with multiple
+fractures.
+
+
+Past Medical History:
+Diabetes Mellitus, Miocardial Infarction status post stent x3,
+seizure with hyperglycemia.
+
+Social History:
+Patient has a daughter and two sons.
+Lives alone.
+Cocaine use, stoped [**2796**].
+
+
+Family History:
+Non contributory.
+
+Physical Exam:
+On admission, the patient was intubated, chemically sedated.
+HEENT: Oropharynx clear.
+Neck: Cervical collar.
+Chest: Chest tube on the left side.
+Cor: Tachycardic.
+Abdomen: soft, right flank abrasion.
+Rectal Exam: slightly decreased tone, guaiac negative.
+Extremeties: right upper extremety was splinted. Abrasion over
+the left knee. Right ankle bruised and swollen.
+
+Pertinent Results:
+[**2800-5-16**] 09:00PM   HGB-11.0* calcHCT-33
+[**2800-5-16**] 07:45PM   PO2-489* PCO2-34* PH-7.40 TOTAL CO2-22 BASE
+XS--2
+[**2800-5-16**] 07:34PM   GLUCOSE-224* LACTATE-6.1* NA+-136 K+-4.2
+CL--106 TCO2-21
+[**2800-5-16**] 07:25PM   UREA N-17 CREAT-0.6
+[**2800-5-16**] 07:25PM   WBC-15.3* RBC-3.54* HGB-10.5* HCT-29.6*
+MCV-84 MCH-29.6 MCHC-35.5* RDW-13.2
+[**2800-5-16**] 07:25PM   PLT COUNT-135*
+[**2800-5-16**] 07:25PM   PT-14.4* PTT-28.4 INR(PT)-1.4
+[**2800-5-16**] 07:25PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 9**]-1.036*
+[**2800-5-16**] 07:25PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+
+
+Brief Hospital Course:
+Patient admited to Trauma Service with multiple fractures.
+
+PROCEDURE PERFORMED:
+1. Open reduction internal fixation right distal radius
+   fracture.
+2. Open reduction internal fixation right calcaneus fracture.
+3. Open reduction and internal fixation of right sacral fracture
+with sacroiliac screw fixation.
+4. Laminectomy of L2.
+5. Laminotomy of L1 and L3.
+6. Fusion of L1 to L3.
+7. Segmental instrumentation of L1 to L3.
+8. Right iliac crest autograft.
+
+
+Medications on Admission:
+Insulin
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed.
+3. Erythromycin 5 mg/g Ointment Sig: One (1)  Ophthalmic  QID (4
+times a day).
+4. Artificial Tear Ointment 0.1-0.1 % Ointment Sig: One (1) Appl
+Ophthalmic  PRN (as needed).
+5. Enoxaparin Sodium 30 mg/0.3 mL Syringe Sig: One (1)
+Subcutaneous [**Hospital1 **] (2 times a day): Continue for another two more
+weeks.
+6. Zolpidem Tartrate 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+7. Insulin Glargine 100 unit/mL Solution Sig: One (1)
+Subcutaneous at bedtime: 36 Units.
+8. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO twice
+a day.
+9. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+10. Oxycodone-Acetaminophen 2.5-325 mg Tablet Sig: One (1)
+Tablet PO every 4-6 hours as needed for for breakthrough pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 464**] - [**Location (un) 28**]
+
+Discharge Diagnosis:
+51 Male status post fall from roof 30ft. Injuries:
+1. L rib fx
+2. L PTX
+3. R Radius fx
+4. L2 fx
+5. S1-3 fx
+6. L calcaneal fx
+
+
+Discharge Condition:
+Oriented, Hemodynamically stable, no major complains
+
+Discharge Instructions:
+1. Transfer to Rehabilitation
+2. Follow up afer one month of discharge with Spine Service
+(Lumbar Fracture) Dr [**Last Name (STitle) 505**] (call to arrange an appointment to
+[**Telephone/Fax (1) 1322**])
+3. Follow up afer one month of discharge with Orthopedics Trauma
+Service (Pelvis, Calcaneal and wrist Fracture) Dr [**Last Name (STitle) **]
+(call to arrange an appointment to [**Telephone/Fax (1) 2193**])
+
+Followup Instructions:
+Orthopedic follow up.
+
+
+
+
+
+
+DOC CLASS

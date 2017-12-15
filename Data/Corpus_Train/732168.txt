@@ -1,0 +1,213 @@
+CVICU
+   HPI:
+   HD2   POD 1-CABGx3(LIMA-LAD,SVG-OM,SVG-PDA)
+   Ejection Fraction:40-45%
+   Hemoglobin A1c:5.8
+   Pre-Op Weight:200.62 lbs   91 kgs
+   Baseline Creatinine:0.9-1.1
+   PMH: NSTEMI- [**2852**], s/p stent of PDA, [**2857**]&[**2858**] Coronary PCI,
+   Hyperlipidemia, BPH, tonsillectomy
+   [**Last Name (un) **]: atenolol 25', diltiazem SR 120', crestor 20', flomax 0.4', Vit C
+   500', asa 325', zinc 50', cranberry
+   Tobacco: 1 [**11-29**] ppd x 30yrs
+   Current medications:
+   Acetaminophen, Amiodarone, Artificial Tear Ointment, Aspirin, Ascorbic
+   Acid, CefazoLIN, Docusate, HYDROmorphone, Insulin, Ketorolac,
+   Oxycodone-Acetaminophen, Ranitidine, Rosuvastatin Calcium, Tamsulosin
+   24 Hour Events:
+   received from OR
+   Weaned and extubated
+   Right chest tube placed for PTX
+ INTUBATION - At [**2865-3-17**] 12:40 PM
+ OR RECEIVED - At [**2865-3-17**] 12:40 PM
+ INVASIVE VENTILATION - START [**2865-3-17**] 12:40 PM
+ ARTERIAL LINE - START [**2865-3-17**] 12:47 PM
+ MULTI LUMEN - START [**2865-3-17**] 12:47 PM
+ EKG - At [**2865-3-17**] 03:01 PM
+ EXTUBATION - At [**2865-3-17**] 03:50 PM
+ INVASIVE VENTILATION - STOP [**2865-3-17**] 03:51 PM
+ CEST TUBE PLACED - At [**2865-3-17**] 05:03 PM
+ CHEST TUBE PLACED - At [**2865-3-17**] 05:40 PM
+   CT repositioned, found to be kinked on CXR
+   Post operative day:
+   POD#1 - s/p CABG x3
+   Allergies:
+   E-Mycin (Oral) (Erythromycin Base)
+   Unknown;
+   Amoxicillin
+   Unknown;
+   Last dose of Antibiotics:
+   Cefazolin - [**2865-3-18**] 04:00 AM
+   Infusions:
+   Phenylephrine - 2.8 mcg/Kg/min
+   Amiodarone - 1 mg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2865-3-17**] 03:59 PM
+   Ranitidine (Prophylaxis) - [**2865-3-17**] 10:21 PM
+   Metoprolol - [**2865-3-18**] 05:30 AM
+   Amiodarone - [**2865-3-18**] 06:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2865-3-18**] 07:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**66**] a.m.
+   Tmax: 37.6
+C (99.7
+   T current: 36.4
+C (97.5
+   HR: 83 (83 - 105) bpm
+   BP: 91/52(67) {91/52(66) - 139/86(104)} mmHg
+   RR: 19 (13 - 28) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 90.7 kg (admission): 90.2 kg
+   Height: 70 Inch
+   CVP: 8 (7 - 23) mmHg
+   Total In:
+                                                                  5,991 mL
+                                                                  1,440 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  4,941 mL
+                                                                  1,440 mL
+   Blood products:
+                                                                  1,050 mL
+   Total out:
+                                                                  2,425 mL
+                                                                    550 mL
+   Urine:
+                                                                  1,340 mL
+                                                                    390 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,566 mL
+                                                                    890 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 574 (0 - 574) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 39 cmH2O
+   Plateau: 26 cmH2O
+   Compliance: 29.1 cmH2O/mL
+   SPO2: 96%
+   ABG: 7.40/44/71/23/-2
+   Ve: 11.4 L/min
+   PaO2 / FiO2: 142
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), right leg - ace wrap
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   216 K/uL
+   12.7 g/dL
+   96
+   0.7 mg/dL
+   23 mEq/L
+   4.4 mEq/L
+   12 mg/dL
+   109 mEq/L
+   138 mEq/L
+   37.8 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**2865-3-17**]  02:08 PM
+                             [**2865-3-17**]  03:42 PM
+                             [**2865-3-17**]  05:14 PM
+                             [**2865-3-17**]  06:16 PM
+                             [**2865-3-17**]  06:23 PM
+                             [**2865-3-17**]  06:35 PM
+                             [**2865-3-17**]  10:07 PM
+                             [**2865-3-18**]  02:14 AM
+                             [**2865-3-18**]  02:18 AM
+                             [**2865-3-18**]  03:00 AM
+   WBC
+   9.4
+   Hct
+   44.0
+   43.9
+   41.3
+   37.8
+   Plt
+   216
+   Creatinine
+   0.8
+   0.7
+   TCO2
+   20
+   19
+   24
+   Glucose
+   119
+   96
+   129
+   118
+   113
+   96
+   Other labs: PT / PTT / INR:12.2/32.4/1.0, Fibrinogen:317 mg/dL, Lactic
+   Acid:3.2 mmol/L, Ca:8.6 mg/dL, Mg:2.0 mg/dL, PO4:2.6 mg/dL
+   Microbiology: mrsa pending
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), PAIN CONTROL (ACUTE PAIN, CHRONIC
+   PAIN)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, currently denies
+   pain
+   Cardiovascular: Aspirin, Statins, wean neo for sbp > 90 consider
+   betablockers when neo weaned off - on amiodarone for due to arrythmias
+   Pulmonary: IS, cough and deep breath, oob to chair
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Clear liquids, Advance diet as tolerated
+   Renal: Foley, cr 0.7, monitor urine output for goal [**Telephone/Fax (1) 254**] ml
+   negative for 24 hours
+   Hematology: stable hct
+   Endocrine: Lantus 10 units given to transition from drip to sliding
+   scale with goal BG < 150
+   Infectious Disease: Check cultures, wbc 9.4 no evidence of infection
+   mrsa screen pending
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, dc chest tube
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Insulin infusion,
+   Lantus (R) protocol
+   Lines:
+   16 Gauge - [**2865-3-17**] 12:45 PM
+   Arterial Line - [**2865-3-17**] 12:47 PM
+   Multi Lumen - [**2865-3-17**] 12:47 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

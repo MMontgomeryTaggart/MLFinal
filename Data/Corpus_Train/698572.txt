@@ -1,0 +1,63 @@
+CRITICAL CARE ATTENDING
+   67 year-old man with complex recent and past history now presents with
+   hematemesis, hemtaochezia, and lightheadedness.  In the ED, hypotense
+   to high 80s; Hct 22.  Received fluid and 2 units PRBCs, 2 units FFP,
+   and 1 unit platelets.  NGL with dark blood.  Received PPI.  Had dynamic
+   EKG changes with slight anterior ST depressions.  Abdominal CT done
+   (prelim negative for signs concerning for leak), vascular surgery and
+   GI consults.
+   Taken urgently for EGD with GETA due to instability.  Single-attempt
+   intubation.  EGD showed duodenal ulcer
+ clipped.
+   PMH especially notable for
+   CAD s/p PCI.  ?other arterial stenting
+   AAA and bilateral common iliac aneurysms planned for intervention and
+   s/p coiling
+   [**Last Name (un) 446**]
+s gangrene (SP catheter)
+   Diabetes
+   ?chronic kidney disease
+   Home meds reviewed (see resident note).  Planned to end levoflox [**12-30**].
+   FH, SH, ROS, Allergies as per resident note.  Patient is currently
+   drowsy, recovering from anesthesia.
+   Exam
+   99.8   97   114/62   15    97%
+   Comfortable, follows commands
+   Regular heart
+   Clear lungs (somewhat obscured by upper airway sounds
+   Soft abdomen
+   ~2 cm granulating perineal incision
+   SP tube
+   3 PIVs (2 x 18, 1 x 16g)
+   Labs, medications, and imaging all reviewed.
+   Assessment and Plan
+   67-year-old man with massive upper GI bleed, apparently due to bleeding
+   duodenal ulcers.  Although aorto-enteric fistula is on DDx, current
+   imaging, endoscopy, and vascular surgery assessment argues against
+   this.  We will plan
+   GI bleed
+   - PPI gtt
+   - maintain adequate IV access (presently adequate), units in blood
+   bank, etc.
+   - transfuse as needed with Hct goal of 28-30
+   - GI, surgery, and vascular surgery all aware
+   Myocardial ischemia
+   Dynamic ST changes consistent with ischemia, very likely represented
+   demand from anemia rather than unstable plaque.  Main therapy is
+   therefore control of GI bleed and transfusion.
+   Acidosis
+   Appears to have an entirely non-gap metabolic acidosis, likely related
+   to hyperchloremia from saline.  Respiratory compensation is somewhat
+   less than expected
+ repeat ABG later tonight.
+   Kidney disease (?chronicity)
+   Follow for now.  Received IV contrast.  Will keep Hct up, and give
+   bicarb for potential renal protection (though may be ineffective at
+   this point)
+   Other issues as per Dr. [**Last Name (STitle) 4803**]
+s note.
+   He is critically ill: 40 minutes
+
+
+
+DOC CLASS

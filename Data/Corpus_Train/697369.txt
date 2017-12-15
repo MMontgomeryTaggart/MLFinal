@@ -1,0 +1,143 @@
+Chief Complaint:
+   24 Hour Events:
+   - SBP has been in 90s, so torsemide was held
+   - d/c'ed Foley
+   - called out to floor
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3098-4-19**] 10:17 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3098-4-20**] 06:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**00**] AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 36.1
+C (97
+   HR: 96 (56 - 96) bpm
+   BP: 97/47(58) {78/30(45) - 115/60(68)} mmHg
+   RR: 24 (12 - 24) insp/min
+   SpO2: 89%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 49.2 kg (admission): 47.6 kg
+   Height: 61 Inch
+                  Total In:
+                                                                  1,000 mL
+                  PO:
+                                                                  1,000 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  1,645 mL
+                                                                     50 mL
+   Urine:
+                                                                  1,645 mL
+                                                                     50 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -645 mL
+                                                                    -50 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 89%
+   ABG: ////
+   Physical Examination
+   Labs / Radiology
+   164 K/uL
+   10.7 g/dL
+   86 mg/dL
+   0.9 mg/dL
+   38 mEq/L
+   3.7 mEq/L
+   31 mg/dL
+   98 mEq/L
+   145 mEq/L
+   32.9 %
+   4.7 K/uL
+        [image002.jpg]
+                             [**3098-4-15**]  09:15 PM
+                             [**3098-4-16**]  05:26 AM
+                             [**3098-4-16**]  03:47 PM
+                             [**3098-4-16**]  06:00 PM
+                             [**3098-4-17**]  04:47 AM
+                             [**3098-4-17**]  05:35 PM
+                             [**3098-4-18**]  05:55 AM
+                             [**3098-4-19**]  05:35 AM
+   WBC
+   8.0
+   11.5
+   5.4
+   4.7
+   4.7
+   Hct
+   32.5
+   38.1
+   34.0
+   32.1
+   32.9
+   Plt
+   160
+   206
+   164
+   146
+   164
+   Cr
+   1.2
+   1.2
+   1.2
+   1.1
+   1.1
+   1.0
+   1.0
+   0.9
+   TropT
+   0.10
+   0.06
+   Glucose
+   106
+   106
+   89
+   101
+   102
+   88
+   95
+   86
+   Other labs: PT / PTT / INR:12.0/30.1/1.0, CK / CKMB /
+   Troponin-T:67//0.06, Differential-Neuts:51.6 %, Lymph:35.7 %, Mono:7.9
+   %, Eos:4.3 %, Ca++:9.1 mg/dL, Mg++:2.4 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+ COUGH
+ IMPAIRED SKIN INTEGRITY
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ AORTIC STENOSIS
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3098-4-19**] 03:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

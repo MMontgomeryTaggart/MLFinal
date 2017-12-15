@@ -1,0 +1,378 @@
+Admission Date:  [**2938-5-16**]              Discharge Date:   [**2938-5-24**]
+
+
+Service: NEUROSURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3088**]
+Chief Complaint:
+Unwitnessed fall with left traumatic subarachnoid hematoma, left
+frontal intraparenchymal hemorrhage, and right subarachnoid
+hemorrhage.
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+89 y/o male found down, unresponsive, by neighbor with obvious
+head trauma, bleeding from his right ear, and no recollction of
+events.  Patient complains of dizziness throughout the day
+before his unwitnessed fall.  He reports episode chest pain two
+days prior to admission that responded to sublingual
+nitroglycerin.
+
+Patient was brought to ED at [**Hospital1 52**], where the neurosurgery
+service was consulted.  Initial imaging revealed small right
+subarachnoid hemorrhage with right temporal bone fracture.
+However, in the ED, patient developed hemataemesis, prompting
+repeat imaging.  Repeat imaging revealed new left frontal
+intraparenchymal hemorrhage with mass effect.  As such, the
+patient was admitted to the ICU for further management and
+monitoring.
+
+Upon admission, patient denies any chest pain, headache,
+weakness or paresthesia and complains of difficulty hearing from
+right ear with drainage from that ear.
+
+Past Medical History:
+Past Medical History:
+1. Coronary artery disease:  MI in [**2911**], STEMI in [**6-/2933**], most
+recent stress test WNL
+2. History of hypertension.
+3. Peptic ulcer disease.
+4. Abdominal aortic aneurysm; status post repair.
+5. Renal cell carcinoma; status post left nephrectomy.
+6. Hyperlipdemia
+7. Syncope in [**2928**] attributed to vasovagal reaction vs
+orthostatic hypotension
+
+Past Surgical History
+1) Poplitial aneurym excised/bypass [**7-23**]
+2) Left iliac aa [**12-22**]
+3) AAA repair w bilat iliac aa repair [**9-/2921**],
+4) Lt. thorocoabdominal Nephrectomy [**12/2924**],
+5) Angio [**12-22**] with embolization of left hypogastric artery
+6) Left inguinal hernia repari
+7) Vasectomy
+
+
+Social History:
+Retired, worked in chemical company mixing compounds. Lives
+alone.  Widowed 9 years ago, but has 5 children, 4 of whom live
+locally, and 16 grandchildren. Pt was a smoker, but quit in
+[**2911**]. Never drank much alcohol and currently drinks none. Was a
+singer/son[**Name (NI) 25153**] in his freetime.
+
+
+Family History:
+Father had prostate CA, mother had MI.  No strokes
+
+
+Physical Exam:
+Admission Physical [**Name (NI) 25158**]
+
+Temp: 97.6 HR: 67 BP: 137/77 Resp: 18 O(2)Sat: 100 Normal
+Constitutional: Nontoxic
+HEENT: Facial abrasions, Active bleeding from right ear
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender
+Extr/Back: No deformities
+Skin: Warm and dry
+Neuro: Speech fluent
+******
+Psych: Normal mood
+Heme/[**Last Name (un) **]/[**Last Name (un) **]: No petechiae
+
+Discharge Physical [**Last Name (un) 25158**]:
+Vitals: 98.0 146/81 96 20 96% RA
+General: AAOx1.5 (person, place when given choices), NAD,
+comfortable
+HEENT: PERRL, EOMI, MMM
+Extrem: WWP, no C/C/E, no cords/erythema in LLE
+Neuro:
+-AAOx1.5, responds intermittently to simple commands,
+dysarthric, cannot say DOW forward or backward
+-Cranial nerves:
+I: not tested
+II,III,VI: EOMI, VFF, +end gaze nystagmus in all directions
+VII: face symmetric
+VIII: hearing intact
+[**Doctor First Name 33**],X: palate elevates symmetrically, tongue midline
+[**Doctor First Name 33**]: full strength sternocleidomastoid
+XII: full tongue strength
+-Strength: [**2-20**] BUE, [**1-20**] RLE, [**12-22**] LLE (exam waxes and wanes with
+concentration)
+-Sensation: not tested
+
+Pertinent Results:
+[**Month/Day (1) **] ON ADMISSION ([**2938-5-16**]):
+WBC-13.2*# RBC-4.61 Hgb-13.9* Hct-41.7 MCV-91 MCH-30.2 MCHC-33.4
+RDW-13.1 Plt Ct-189
+Neuts-87.0* Lymphs-9.0* Monos-3.2 Eos-0.5 Baso-0.3
+PT-11.9 PTT-25.5 INR(PT)-1.1
+Glucose-115* UreaN-37* Creat-1.8* Na-140 K-5.3* Cl-106 HCO3-24
+AnGap-15
+proBNP-709
+cTropnT-<0.01
+Calcium-8.7 Phos-2.3* Mg-2.1
+BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG
+Tricycl-NEG
+Lactate-2.2*
+URINE:  BLOOD-NEG NITRITE-POS PROTEIN-TR GLUCOSE-NEG KETONE-10
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-TR
+
+[**Month/Day/Year **] ON DISCHARGE ([**2938-5-24**]):
+LMWH-1.17
+Glucose-178* UreaN-23* Creat-1.5* Na-138 K-4.3 Cl-106 HCO3-23
+AnGap-13
+
+MICROBIO:
+-Urine cx ([**5-16**]): NEGATIVE
+-Blood cx ([**5-16**]): NEGATIVE
+
+Imaging:
+
+[**2938-5-16**] 1608 CT Spine w/o contrast:
+Right perched facet and left jumped facet with splaying of the
+spinous process at C6-C7 appears chronic.  No definite acute
+fracture.  If
+concern for superimposed acute injury or cord injury, MRI is the
+study of
+choice if patient is able to tolerate the exam.
+
+[**2938-5-16**] 1607 CT Head w/o contrast:
+1.  Right temporoparietal and interhemispheric fissure
+subarachnoid blood.  Small blood product adjacent to left
+tentorium suggesteive of trace subdural hematoma.  3 mm right
+inferior frontal subdural hematoma.
+2.  Right temporal bone fracture with otic capsule sparing and
+small focus of pneumocephalus.
+3.  Small pneumocephalus in left temporal region.
+4.  Partial opacification of left mastoid air cells with
+adjacent chronic
+changes.  No fracture is seen.
+
+[**2938-5-16**] 1842 CT Head w/o contrast:
+1.  Right temporal bone fracture extending into the mastoid air
+cells to the external auditory canal.  No evidence of facial
+nerve involvement.  Small pneumocephalus in the right temporal
+lobe.
+2.  Unchanged right temporal lobe subarachnoid hemorrhage.
+3.  Small pneumocephalus in the left temporal lobe of unclear
+etiology. No
+left temporal bone fracture identified.
+
+[**2938-5-16**] 2142 CT Head w/o contrast:
+1.  Newly-apparent large left frontal parenchymal hemorrhagic
+contusion with surrounding edema and mild mass effect.
+2.  New tiny left parietal subarachnoid hemorrhage.
+3.  New tiny intraventricular blood in the right lateral
+ventricle occipital [**Doctor Last Name **].
+4.  The right frontal subdural hemorrhage, left tentorial
+subdural hemorrhage and right temporoparietal subarachnoid
+hemorrhage are stable.
+
+[**2938-5-17**] 0748 CT Head w/o contrast:
+1.  Interval increase in size of left frontal parenchymal
+hemorrhagic
+contusion, with 5 mm of rightward subfalcine herniation.
+2.  Extensive bihemispheric subarachnoid, small intraventricular
+hemorrhage, right middle cranial fossa subdural hematoma, all
+unchanged over the short-interval.
+3.  Grossly unchanged appearance of known right temporal bone
+fracture.
+
+[**2938-5-18**] 0930 CT Head w/o contrast:
+1.  Stable left frontal hematoma since most recent preceding
+exam, with
+persistent peripheral edema and rightward displacement of the
+left frontal
+rectus gyrus.
+2.  Similar extent of bilateral multi-compartmental hemorrhage
+including left parietal and bilateral temporal subarachnoid
+hemorrhage, intraventricular and supratentorial components.
+3.  Right temporal bone fracture, better delineated on dedicated
+temporal bone CT two days ago.
+
+[**2938-5-19**] Carotid Ultrasound:  Right ICA no stenosis.  Left ICA
+<40% stenosis.
+
+[**2938-5-19**] Echocardiogram:
+IMPRESSION: EF > 55% Suboptimal image quality. Mild aortic
+regurgitation. Normal biventricular cavity sizes with preserved
+global and regional biventricular systolic function. Mildly
+dilated aortic sinus.
+Compared with the prior study (images reviewed) of [**2933-7-13**],
+the severity of aortic regurgitation is minimally increased.
+
+[**2938-5-20**] EEG: Abnormal portable EEG due to the slow disorganized
+background throughout. This indicates a widespread
+encephalopathy. Medications, metabolic disturbances, and
+infection are most common causes. There were no areas of
+persistent focal slowing but encephalopathies may obscure focal
+findings. There were no epileptiform features or electrographic
+seizures.
+
+[**2938-5-23**] Bilateral Lower Extremity Venous Doppler:
+1.  Deep venous thrombosis of the left popliteal vein, which
+appears partially occlusive.
+2.  In comparison to [**2931-8-31**] exam, there is interval increase
+in size of a partially thrombosed right popliteal artery
+aneurysm, now measuring 7.5 cm.
+
+
+Brief Hospital Course:
+Patient was admitted to the neuro-ICU on [**2938-5-16**] after interval
+imaging in the ED revealed new left frontal intraparenchymal
+hemorrhage.  Patient was admitted with dysarthria, confusion,
+and decreased hearing in his right ear, and no localizing or
+lateralizing signs.  He was loaded with dilantin for seizure
+prophylaxis with concomitant gastric protection.  Urinalysis was
+suspicious for UTI and patient was started on a 3 day course of
+ciprofloxacin.
+
+Repeat imaging revealed interval increase in size of left
+frontal parenchymal hemorrhagic contusion.  The patient's
+neurologic [**Date Range **] improved.  His confusing cleared,
+dysarthria improved, and he continued to not exhibit
+lateralizing symptoms. His decreased hearing in the right ear
+persisted.  As patient was more stable, he was transferred to
+the neuro stepdown unit.
+
+On [**2938-5-18**], interval head CT revealed the left frontal
+intraparenchymal hemorrhage to be stable.  The neurological
+[**Date Range **] continued improved and the patient was A&O x2
+(hospital, self).  As hearing had not returned, and ENT consult
+was placed.  The ENT service placed an ear wick to manage the
+otorrhea that is to be in place x5 days and recommended ciprodex
+4gtt AD [**Hospital1 9**] x10 days.
+
+On [**2938-5-19**], the care team pursued work-up for syncopal episode,
+included carotid Doppler, EEG, and echocardiogram.  EEG showed
+disorganized background consistent with encephalopathy with no
+epileptiform features or electrographic seizures.  Carotid
+Doppler demonstrated no stenosis of the right ICA and < 40%
+stenosis of left ICA.  Echocardiogram showed EF > 55% with mild
+aortic regurgitation.  To ensure patient was safe to take in po,
+a speech and swallow evaluation was conducted.  The speech
+therapists recommended a thin liquid and regular solid diet.
+
+On [**2938-5-20**], patient was evaluated by PT/OT.  They recommended
+discharge to rehabilitation.  The earwick placed by ENT was
+removed.
+
+On [**2938-5-21**], the neurosurgery team transitioned the patient to
+oral ciprofloxacin and discontinued the patient's Foley.
+Bilateral lower extremity venous Doppler [**Date Range **] on [**2938-5-23**]
+revealed deep venous thrombosis of the left popliteal vein,
+which appears partially occlusive and interval increase in size
+of a  partially thrombosed right popliteal artery aneurysm.
+Patient was started on Lovenox 90 mg SC BID, decreased to 90mg
+daily given elevated Xa level, borderline creatinine clearance,
+and h/o recent head bleed. He is to continuous this therapy for
+6 months. He should have factor Xa level rechecked on [**2938-5-26**] in
+rehab to ensure that he is therapeutic on Lovenox.
+
+Mr. [**First Name (Titles) 25159**] [**Last Name (Titles) **] remained unchanged and he was discharged
+to rehabilitation on [**2938-5-24**].
+
+====================================
+TRANSITION OF CARE:
+-Please check Factor Xa level and BUN/Cr on [**2938-5-26**] to ensure
+therapeutic on Lovenox. If subtherapeutic, would increase to
+90mg SC BID.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from webOMR.
+1. Metoprolol Succinate XL 50 mg PO DAILY
+2. Simvastatin 40 mg PO QHS
+3. Nitroglycerin SL 0.3 mg SL PRN chest pain
+4. Aspirin 325 mg PO DAILY
+
+
+Discharge Medications:
+1. Metoprolol Succinate XL 50 mg PO DAILY
+2. Nitroglycerin SL 0.3 mg SL PRN chest pain
+3. Simvastatin 40 mg PO QHS
+4. Acetaminophen 325-650 mg PO Q6H:PRN pain/fever
+5. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation
+6. Ciprofloxacin 0.3% Ophth Soln 4 DROP RIGHT EAR [**Hospital1 9**] Duration:
+10 Days
+7. Dexamethasone Ophthalmic Soln 0.1% 4 DROP RIGHT EAR [**Hospital1 9**]
+Duration: 10 Days
+8. Docusate Sodium (Liquid) 100 mg PO BID
+9. Enoxaparin Sodium 90 mg SC Q24H Duration: 6 Months
+First day = [**2938-5-23**].
+10. TraMADOL (Ultram) 25 mg PO Q6H:PRN pain
+11. Senna 1 TAB PO BID:PRN Constipation
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 274**] - [**Location (un) 13**]
+
+Discharge Diagnosis:
+Right traumatic subarachnoid hemorrhage, Left traumatic
+subarachnoid hemorrhage, left interparenchymal hemorrhage, Right
+temporal bone fracture
+
+
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Aspirin, Advil, or
+Ibuprofen etc.
+??????	If you were on a medication such as Coumadin (Warfarin), or
+Plavix (clopidogrel), or Aspirin prior to your injury, do not
+resume taking them until cleared by your surgeon.
+??????	You have been prescribed Dilantin (Phenytoin) for anti-seizure
+medicine, take it as prescribed and follow up with laboratory
+blood drawing in one week.  This can be drawn at your PCP??????s
+office, but please have the results faxed to [**Telephone/Fax (1) 38**].
+??????       Keep your ear dry until follow up with ENT. When
+showering, place cotton ball in ear and smear over with vaseline
+.
+
+Followup Instructions:
+??????Please call ([**Telephone/Fax (1) 39**] to schedule an appointment with Dr.
+[**First Name (STitle) **], to be seen in 4 weeks.
+??????You will need a CT scan of the brain without contrast prior to
+your appointment. This can be scheduled when you call to make
+your office visit appointment.
+??????We recommend you see Dr [**First Name (STitle) 40**] in the Traumatic Brain Injury
+(TBI) clinic the phone number is [**Telephone/Fax (1) 41**]. If you have any
+problems booking this appointment please ask for [**First Name8 (NamePattern2) 42**] [**Last Name (NamePattern1) 43**].
+??????       Please call ([**Telephone/Fax (1) 7634**] to make a follow up
+appointment with Dr. [**First Name8 (NamePattern2) 1510**] [**Last Name (NamePattern1) 109**] in the Plastic Surgery
+department.
+??????       Please call ([**Telephone/Fax (1) 25160**] to schedule an appointment
+for an outpatient audiogram.
+??????       Please call ([**Telephone/Fax (1) 10621**] to schedule an appointment
+with ENT, Dr [**Last Name (STitle) 1856**].
+
+
+
+
+
+
+DOC CLASS

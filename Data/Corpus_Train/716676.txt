@@ -1,0 +1,269 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Troponin peak at 1.79 in AM, then trending down. Plan to continue
+   heparin gtt until [**2722-5-24**] AM then d/c.
+   - TTE: new WMA compared to prior, inferolateral wall akinesis of
+   unclear [**Last Name (LF) 11954**], [**First Name3 (LF) 281**] of 40%, mild MR. Consider cards consult.
+   - [**Last Name (un) 257**] recs: stop insulin gtt (stopped at 4PM), increase lantus from
+   25 to 30 (kept at 25 given hx of AM hypoglycemia), nutrition consult,
+   change FS to q6h
+   - Started on tube feeds per nutrition recs but Novasource (renal 28gm
+   Beneprotein @30ml/hr) not available overnight so started on Boost
+   glucose control.
+   - PICC line stayed in. Has GPC growing in 1 bottle, but wanted to keep
+   on heparin gtt. Await speciation, then consider d/c.
+   - D5W (free water) stopped after sodium dropped from 147 to 134
+   although recheck was 143
+   - Renal: continue with tacrolimus at current dose, given increased
+   pravastatin dose monitor CK during next week (possible interaction with
+   tacrolimus), continue IVF/volume resuscitation, continue D5W at 100
+   cc/hr to correct 2.5L free water deficit, can transition to free water
+   boluses as tolerated
+   Allergies:
+   Lasix (Oral) (Furosemide)
+   Rash;
+   Betalactams
+   Rash;
+   Haldol (Injection) (Haloperidol Lactate)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Metronidazole - [**2722-5-24**] 01:01 AM
+   Cefipime - [**2722-5-24**] 06:02 AM
+   Infusions:
+   Heparin Sodium - 650 units/hour
+   Other ICU medications:
+   Lorazepam (Ativan) - [**2722-5-24**] 04:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2722-5-24**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**24**] AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 37.2
+C (99
+   HR: 60 (55 - 85) bpm
+   BP: 115/46(59) {85/39(50) - 132/68(8,348)} mmHg
+   RR: 17 (9 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 58.3 kg (admission): 55 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,581 mL
+                                                                    386 mL
+   PO:
+             TF:
+                                                                     51 mL
+                                                                    192 mL
+   IVF:
+                                                                  2,529 mL
+                                                                    194 mL
+   Blood products:
+   Total out:
+                                                                  2,517 mL
+                                                                  1,090 mL
+   Urine:
+                                                                  2,517 mL
+                                                                  1,090 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     64 mL
+                                                                   -704 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 348 (300 - 485) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 51
+   PIP: 15 cmH2O
+   SpO2: 100%
+   ABG: ///27/
+   Ve: 7.1 L/min
+   Physical Examination
+   HEENT: MMM, peerl
+   CV: Regular rhythm, bradycardic rate, no m/r/g
+   Pulm: end-expiratory wheezes throughout mostly in left anterior lung
+   fields; otherwise no crackles appreciated
+   Ab: soft, NT, ND, bowel sounds present
+   Extremities: warm, no edema
+   Labs / Radiology
+   374 K/uL
+   8.6 g/dL
+   84 mg/dL
+   1.6 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   53 mg/dL
+   111 mEq/L
+   147 mEq/L
+   28.2 %
+   8.4 K/uL
+        [image002.jpg]
+                             [**2722-5-22**]  02:40 PM
+                             [**2722-5-22**]  11:01 PM
+                             [**2722-5-23**]  04:36 AM
+                             [**2722-5-23**]  01:59 PM
+                             [**2722-5-24**]  04:03 AM
+   WBC
+   11.3
+   8.4
+   Hct
+   27.2
+   28.2
+   Plt
+   318
+   374
+   Cr
+   2.7
+   2.4
+   2.2
+   1.8
+   1.6
+   TropT
+   1.47
+   1.70
+   1.79
+   1.36
+   1.35
+   Glucose
+   [**Telephone/Fax (2) 11955**]7
+   84
+   Other labs: PT / PTT / INR:13.0/48.7/1.1, CK / CKMB /
+   Troponin-T:122/5/1.35, ALT / AST:26/40, Alk Phos / T Bili:57/0.5,
+   Differential-Neuts:87.7 %, Lymph:7.9 %, Mono:4.2 %, Eos:0.1 %,
+   Albumin:3.4 g/dL, Ca++:8.6 mg/dL, Mg++:2.0 mg/dL, PO4:4.6 mg/dL
+   Vanco [**5-24**] at 6am
+ 6.6
+   Tacrolimus level pending
+   Micro: [**5-22**] legionella antigen negative;
+   [**5-22**] sputum cx
+ 1+ GPC in pairs/clusters; cx with sparse commensals;
+   fungal cx pending
+   [**5-22**] MRSA screen pending
+   [**5-22**] urine cx - >100K GNR (prelim)
+   [**5-22**] blood cx
+ pending
+   [**5-22**] blood cx
+ GPC in clusters, aerobic (prelim)
+   [**5-24**] cxr
+ pending
+   [**5-23**] CXR - Moderately severe pulmonary edema is slightly worse than on
+   the previous study. Left lower lobe atelectasis is new.
+   [**5-23**] TTE - Compared with the prior study (images reviewed) of
+   [**2721-11-18**], left ventricular sysotlic function is now more significantly
+   impaired. Focal apical septal hypokinesis was present previously.
+   Inferolateral /inferior akinesis is new (there may have mild inferior
+   hypokinesis previously).
+   Assessment and Plan
+   62 year old man with history of anoxic brain injury, type one diabetesI
+   and recurrent aspiration PNA s/p tracheostomy who presents after
+   witnessed aspiration event with pneumonia, DKA and NSTEMI.
+   #. Pneumonia:  Patient with a history of aspiration pneumonia has
+   witnessed aspiration event at rehab facility now with worsening
+   hypoxia, fever, elevated WBC, left sided infiltrate on imaging
+   consistent with pneumonia vs atelectasis.  Pt was treated for prior PNA
+   with Cefepime/Azithromycin which ended [**2722-5-15**].  Sputum growing gram
+   positive cocci.
+   - NPO with NGT
+   - abx with vanc/cefepime/flagyl to cover aspiration pending speciation
+   of sputum, blood cx; (day 1 = [**5-22**])
+   - f/u sputum culture speciation and sensitivity
+   - consider long term feeding with g-tube, will discuss with family and
+   address GOC
+   - hold on steroids for now but will continue home dose of prednisone
+   4mg PO qday
+   - hold on PPI given current pneumonia
+   - Bumex for pulmonary edema
+   - Give vanco dose given low trough; recheck trough prior to next dose
+   .
+   #. NSTEMI: Patient with new T wave inversions anteriorly and elevated
+   cardiac biomarkers.  Cardiac enzymes now trending down
+   - f/u cardiac biomarkers
+   - TTE with new abnormality but not consistent with changes on EKG
+   - Call for formal cardiology consult
+   - heparin gtt for 48 hours (to end this afternoon)
+   - add on lipid panel from admission labs
+   - change pravastatin to atorvastatin pending echo results
+   - continue aspirin 325mg daily
+   - echocardiogram
+   .
+   # GPC in
+ bottles
+   - follow up culture results
+   - continue current broad antibiotics
+   .
+   #.Diabetic Ketoacidosis: Patient with hyperglycemia, anion gap in the
+   twenties, and ketones in the urine on admission.  Precipitant likely
+   infection, ischemia.  Patient treated with insulin gtt with closure of
+   anion gap and return to normoglycemia.
+   - continue home dose glargine, increased to 30 [**First Name8 (NamePattern2) **] [**Last Name (un) **] recs
+   - continue home sliding scale
+   - f/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 257**] recs
+   .
+   #. Acute renal failure: Baseline creatinine 1-1.3, now with acute renal
+   failure to Cr 2.2.  FeNa 0.2. Likely pre-renal with dehydration due to
+   osmotic diuresis in the setting of DKA.  Improved since admission
+   following IVF.
+   - renally dose medication
+   - hold nephrotoxic medication (enalapril)
+   - renal transplant recs: monitor CK in setting of pravastatin and
+   tacrolimus interaction
+   - trend creatinine
+   - continue IVF
+   - [**Hospital1 **] electrolytes
+   .
+   5.Hypernatremia:  Likely due to decreased access to free water.  Free
+   water deficit calculated at 3L
+   - Renal recs: continue D5W at 100 cc/hr, transition to free water
+   boluses by tube feed as tolerated
+   - Q6 hr chemistry to monitor sodium correction
+   - Bumex as above
+   .
+   6. Immunosuppression: s/p cadaveric renal transplant [**2715**]
+   - check tacrolimus level (goal last admission [**4-15**])
+   - continue tacrolimus at current dose
+   - continue prednisone
+   - f/u transplant recs
+   - continue bactrim ppx
+   .
+   7. Recurrent UTI: s/p 7 days of Cipro, last day to be [**5-22**]
+   - broad spectrum abx as above
+   - f/u urine cultures
+   .
+   # FEN: Replete electrolytes, TFs
+   # Prophylaxis: Subcutaneous heparin (no PPI given pneumonia)
+   # Access: PICC line, PIV
+   # Communication: Wife and daughter
+   # Code:  Full per prior admission, not yet discussed again with family
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:
+   Boost Glucose Control (Full) - [**2722-5-23**] 06:53 PM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2722-5-22**] 02:23 PM
+   20 Gauge - [**2722-5-23**] 02:10 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

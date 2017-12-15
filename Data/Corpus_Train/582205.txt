@@ -1,0 +1,126 @@
+Chief Complaint:  SOB
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   81W discharged 2 days ago from pneumonia admission requiring ICU stay.
+   In rehab this morning, cough worsened, more dyspneic and sat 85% on RA.
+   In ER afebrile, 95% on non-rebreather.
+   7.18/73/69 - placed on bipap.
+   Given IVF for brief hypotension.
+   CXR with new LUL and given abx.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from housestaff
+   Allergies:
+   Belladonna Alkaloids
+   itching; swolle
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   crohn's
+   anemia
+   MDS
+   breast cancer - lumperct and xrt
+   CAD
+   bilateral dvt's, pe in [**2825**]
+   CRI
+   Occupation:
+   Drugs:
+   Tobacco: former
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**2830-2-28**] 12:46 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 69 (66 - 73) bpm
+   BP: 111/41(59) {111/41(59) - 111/41(59)} mmHg
+   RR: 26 (13 - 28) insp/min
+   SpO2: 98%
+             Total In:
+                                                                     15 mL
+                                                                      1 mL
+   PO:
+             TF:
+   IVF:
+                                                                     15 mL
+                                                                      1 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     15 mL
+                                                                      2 mL
+   Respiratory
+   O2 Delivery Device: Other
+   Ventilator mode: CPAP/PSV
+   PEEP: 7 cmH2O
+   FiO2: 50%
+   SpO2: 98%
+   ABG: ////
+   Ve: 4.2 L/min
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal, Widely split )
+   Respiratory / Chest: (Breath Sounds: Diminished: )
+   Abdominal: Soft
+   Extremities: anasarca, LLE ? cellulitis
+   Musculoskeletal: Muscle wasting
+   Skin:  Not assessed, erythema of shin
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed, sleepy, opens eyes
+   Labs / Radiology
+   104
+   34
+   2.3
+   16
+        [image002.jpg]
+   Other labs: Band:12
+   Imaging:  CXR - worsening LUL pna
+   ECG: NSR 93, new inferior TWI and Q's with more pronounced RSR in V1
+   and S in V6
+   Assessment and Plan
+ ACIDOSIS, RESPIRATORY, RESPIRATORY FAILURE, ACUTE - continue
+   supportive care with bipap
+ PNEUMONIA, BACTERIAL, hospital ACQUIRED - dramatic worsening over
+   past 48 hours, continue broad abx - vanco and meropenem, no obvious
+   history of aspiration
+ ? CELLULITIS - on abx as above
+   Crohn's - continue prednsione and cipro
+   CRI - stable
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   Comments:
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition: ICU
+   Total time spent: 37 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

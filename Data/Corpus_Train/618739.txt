@@ -1,0 +1,246 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events: Pt notes no chest pain, shortness of breath. Only notes
+   left gouty toe and left knee tendonitis. Pt very concerned by events
+   and would like to discuss goals of treatment.
+   -Two episodes of VT @220.  First, at 1330 ([**7-10**]) patient collapsed to
+   floor, ICD fired. Milrinone reduced to .375 mcg/kg/min. Second, at 0400
+   ([**7-11**]) patient felt palpitations/rapid heart beat and then passed out
+   device fired. Milrinone turned off. After both events patient returned
+   to vpaced rhythm. Electrolytes at the time stable from the morning.
+   - Patient actually had low bp's after milrinone decreased, increased
+   neosynephrine slightly
+   - Talked to pharm re: SC heparin dose in obese patients.  Stated that
+   they don't typically adjust dose based on body weight but they "have
+   seen 7500units TID used before" and if we want to switch to that, we
+   can.  Left it at 5000units TID.
+   Allergies:
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 30 mg/hour
+   Phenylephrine - 0.6 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3330-7-11**] 12:14 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3330-7-11**] 06:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.1
+C (97
+   HR: 82 (78 - 240) bpm
+   BP: 93/54(60) {83/41(51) - 122/90(89)} mmHg
+   RR: 19 (13 - 29) insp/min
+   SpO2: 95%
+   Heart rhythm: V Paced
+   Wgt (current): 148.6 kg (admission): 189.9 kg Lost total of 41.3 kg
+   (90.86 lbs)
+   Height: 72 Inch
+    CVP: 5 (5 - 7)mmHg
+   Total In:
+                                                                  2,639 mL
+                                                                    249 mL
+   PO:
+                                                                  1,280 mL
+   TF:
+   IVF:
+                                                                  1,359 mL
+                                                                    249 mL
+   Blood products:
+   Total out:
+                                                                  8,545 mL
+                                                                  1,340 mL
+   Urine:
+                                                                  8,545 mL
+                                                                  1,340 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -5,906 mL
+                                                                 -1,091 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   Physical Examination
+   GENERAL: AOx3 NAD. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. NO cyanosis of the oral
+   mucosa. No xanthalesma.
+   NECK: Supple.
+   CARDIAC: Regular rhythm with marked ectopy, normal S1, S2. No m/r/g.
+   Chest lift.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. No wheezes or rhonchi.
+   ABDOMEN: Impressive distention, obese, No tender. Unable to appreciate
+   any HSM given level of distention. Bowel Sounds present.
+   EXTREMITIES: 1+ lower extremity edema to level of knee equal
+   bilaterally, improved from previous. Left knee with mild tenderness on
+   palpation of the anterior patellar tendon. No warmth or effusion of
+   left knee. Left big toe with tenderness on palpation, erythematous warm
+   to touch.
+   SKIN: Stasis dermatitis in bilateral lower extremity. No other ulcers
+   or skin breakdown appreciated on exam. No jaundice.
+   PULSES: Lower extremity pulses difficult to palpate given edema,
+   however feet are warm, well perfused, with good capillary refill. 2+
+   pulses in bilateral upper extremity.
+   Labs / Radiology
+   331 K/uL
+   14.1 g/dL
+   121 mg/dL
+   1.9 mg/dL
+   37 mEq/L
+   3.7 mEq/L
+   54 mg/dL
+   78 mEq/L
+   127 mEq/L
+   42.4 %
+   8.0 K/uL
+        [image002.jpg]
+                             [**3330-7-7**]  05:58 AM
+                             [**3330-7-7**]  02:55 PM
+                             [**3330-7-8**]  04:52 AM
+                             [**3330-7-8**]  04:06 PM
+                             [**3330-7-9**]  03:49 AM
+                             [**3330-7-9**]  03:16 PM
+                             [**3330-7-10**]  04:42 AM
+                             [**3330-7-10**]  01:48 PM
+                             [**3330-7-10**]  10:11 PM
+                             [**3330-7-11**]  04:03 AM
+   WBC
+   6.9
+   8.4
+   6.9
+   8.0
+   Hct
+   42.0
+   43.2
+   41.5
+   42.4
+   Plt
+   [**Telephone/Fax (3) 8771**]31
+   Cr
+   1.6
+   1.7
+   1.6
+   1.7
+   1.7
+   1.7
+   1.7
+   1.8
+   1.9
+   1.9
+   TropT
+   0.04
+   Glucose
+   114
+   114
+   100
+   112
+   134
+   114
+   105
+   116
+   121
+   Other labs: PT / PTT / INR:13.6/23.5/1.2, CK / CKMB /
+   Troponin-T:47//0.04, ALT / AST:[**11-9**], Alk Phos / T Bili:169/1.5,
+   Differential-Neuts:74.8 %, Lymph:13.3 %, Mono:8.7 %, Eos:2.7 %,
+   Albumin:3.9 g/dL, LDH:206 IU/L, Ca++:10.5 mg/dL, Mg++:2.2 mg/dL,
+   PO4:3.7 mg/dL
+   ECHO ([**7-10**]): The left atrium is markedly dilated. Left ventricular wall
+   thicknesses are normal. The left ventricular cavity is severely dilated
+   with severer global hypokinesis. No masses or thrombi are seen in the
+   left ventricle. Tissue Doppler imaging suggests an increased left
+   ventricular filling pressure (PCWP>18mmHg). The right ventricular
+   cavity is moderately dilated with moderate global free wall
+   hypokinesis. The aortic valve leaflets (3) appear structurally normal
+   with good leaflet excursion and no aortic regurgitation. The mitral
+   valve leaflets are mildly thickened. An eccentric, jet of moderate (2+)
+   mitral regurgitation is seen. There is mild pulmonary artery systolic
+   hypertension. There is no pericardial effusion. Compared with the prior
+   study (images reviewed) of [**3330-2-21**], left ventricular cavity size is
+   minimally smaller and systolic function is minimally improved. Right
+   ventricular free wall hypokinesis appears more global, but of similar
+   magnitude.
+   Assessment and Plan
+   43yo male patient of Dr. [**First Name (STitle) **] with severe dilated non-ischemic
+   cardiomyopathy, systolic CHF, LVEF 15%, massively dilated LV, morbid
+   obesity with weight in excess of 415 lbs., s/p BiV/ICD with LBBB, OSA
+   who was directly admitted to CCU for decompensated systolic CHF
+   requiring IV milrinone and lasix for diuresis and now with 40 Liters
+   diuresed.
+   .
+   # PUMP/DECOMPENSATED SYSTOLIC HEART FAILURE: Length of stay 45 liters
+   diuresed.  Continues diuresis at approx. 6-7 L daily, goal will be to
+   maximize diuresis.
+   - Consider restarting Milrinone with Amio?????
+   - Milrinone off and Neosynephrine 0.6 mcg/kg/min infusion; will
+   tolerate MAP > 55.  Will try to wean him off neosynephrine as BP
+   tolerates.
+   - continue IV lasix gtt at 30 mg/hr
+   - continue Metolazone 5mg PO BID
+   - continue spironolactone 50 PO daily
+   - continue metoprolol 100mg PO TID
+   - hold lisinopril at this time
+   - [**Hospital1 7**] Chem 7s
+   - Replete Potassium 40 meq IV TID/PRN
+   - Acetazolamide 500mg Po Daily
+   .
+   # RHYTHM: with biV/ICD. Two episodes of fast VT (rate 220s) which
+   resulted in ICD firing x2. V paced rhythm returned. Continues with
+   freguent non- sustained episodes of VT.
+   - Hold Milrinone at this time.
+   - Check K TID, and give an extra 80 meq of K today on top of 40 TID;
+   goal of 5.
+   - monitor on telemetry
+   - Metoprolol 100mg PO TID
+   - Avoid amio at this time as patient has had clear trigger of Sustained
+   VT; low K and on milrinone
+   -Avoid digoxin as this may potentiate arrythmia
+   #Hyponatremia/Hypochloremia: intravasculary low volume which triggers
+   ADH; Developed slowly over the past week on lasix gtt. 127/78 today.
+   - Continue to monitor
+   - When lasix gtt stopped will follow to assure controlled return to
+   normal.
+   .
+   # Acute vs Chronic Renal Failure: Secondary to poor cardiac output.
+   Creatinine on admission 1.5 up to 1.9 today.
+   - continue to hold lisinopril at this time
+   - monitor Creatinine
+   .
+   # CORONARIES: no known CAD, no cath in past
+   - continue ASA
+   .
+   # Gout: Flare in left big toe.
+   - continue colchicine q 6 hours with tylenol
+   # Diarrhea: Started on loperamide yesterday for diarrhea related to
+   colchicine.
+   .
+   # OSA
+   - not on bipap at home
+   ICU Care
+   Nutrition: Regular, low sodium (allergies to shellfish, bee stings),
+   1500ml fluid restriction
+   Glycemic Control:  Good control on [**Hospital1 7**] Chem7
+   Lines: Multi Lumen (Right IJ) - [**3330-7-3**] 10:25 PM
+   Prophylaxis:
+   DVT: Heparin SQ refused this AM dosage; start pneumoboots; avoid
+   lovenox as renal function is low
+   Stress ulcer: Not high risk.
+   VAP:  Not on ventilator
+   Comments:
+   Communication:  Comments: W/ patient and family
+   Code status: Full code
+   Disposition: CCU for now
+
+
+
+DOC CLASS

@@ -1,0 +1,311 @@
+Admission Date:  [**3001-1-16**]              Discharge Date:   [**3001-1-26**]
+
+Date of Birth:  [**2926-2-17**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfasalazine / Sulfa (Sulfonamide Antibiotics) / Parnate
+
+Attending:[**First Name3 (LF) 3782**]
+Chief Complaint:
+dyspnea and hiatel hernia
+
+Major Surgical or Invasive Procedure:
+[**3001-1-16**] Laparoscopic hiatal hernia repair with fundoplication
+
+
+History of Present Illness:
+74 year old woman with interstitial lung disease and severe
+respiratory impairment. She underwent a bronchoscopy and review
+of her thoracic imaging by Dr. [**Last Name (STitle) 141**]. Based on the CT images,
+there was evidence of ongoing inflammation and therefore she was
+treated empirically for
+non-specific interstitial pneumonitis (NSIP) as there was no
+readily identifiable inciting [**Doctor Last Name 611**] for hypersensitivity
+pneumonitis. It was thought that the trigger for the NSIP is the
+aspiration and as such, she was evaluated for repair of her
+sizable hiatal hernia. She recently completed a Prednisone taper
+course prior to the surgery and presented this time for an
+elective laparoscopic hiatal hernia repair repair and nissen
+fundoplication.
+
+Past Medical History:
+-  COPD
+-  CHF
+-  Pulmonary fibrosis diagnosed CT [**2995**]
+-  Osteoporosis with compression fractures
+-  Hypercholesterolemia
+-  Hypertension
+-  GERD
+-  Anxiety/Depression
+-  Insomnia
+-  Post-surgical hypothyroidism
+-  Melanoma removed from back, left axillary lymph node
+dissection [**2976**].
+-  Right knee and hip replacement.
+
+
+Social History:
+Widowed.  Has one child.  Worked as a quality inspector for
+[**Company 17349**],
+retired [**2985**].  Denies ETOH.  Quit smoking in [**2988**] and was a
+45ppy
+smoker.  Does not have any pets.  No birds in house.  No recent
+travels.  No molds in house.  Currently lives in [**Hospital3 266**]
+facility.
+
+
+Family History:
+Mother deceased from complications related to RA.  Father
+deceased age 52 from MI.  Brother has CAD.  Sister deceased from
+traumatic fall.
+
+
+Physical Exam:
+VS: Temp 98.4, HR 92SR, BP 119/49, RR 18, pulse oximetry 94% on
+3LNC
+Physical Exam:
+Gen: pleasant in NAD
+Resp: slight rales t/o
+CV: RRR S1, S2, no MRG or JVD
+Abd: soft, NT, ND
+Ext: no pressure sores, trace BLE edema
+
+
+Pertinent Results:
+[**3001-1-17**] Barium swallow study:
+
+IMPRESSION: No evidence of leak. Contrast passes through the
+duodenum and
+into the small bowel.
+
+[**3001-1-23**] US BLE duplex: neg DVT
+
+[**3001-1-20**] CTA C/A/P:
+IMPRESSION:
+1. Known pulmonary fibrosis, roughly stable in appearance since
+recent
+examination from [**3000-11-14**]. New interval development of
+bilateral, left
+greater than right, superimposed parenchymal consolidation
+concerning for
+pneumonia.
+2. No evidence of pulmonary embolism to the subsegmental levels,
+though
+evaluation of the lower lobes is limited by respiratory motion.
+3. Dynamic abnormal concave bowing of trachea that is suggestive
+of
+tracheomalacia and dedicated imaging examination can be
+performed as
+indicated.
+4. Prominent mediastinal lymph nodes, with some enlarged since a
+recent exam from [**3000-11-14**], likely reactive in nature, though
+given history of known melanoma, metastasis cannot be entirely
+excluded, and attention could be paid on followup imaging as
+indicated.
+5. No abnormal fluid collections within the abdomen that would
+be concerning for abscess formation.
+6. Incompletely characterized 1.6 cm liver lesion in segment
+III, recommend correlation with prior imaging or if not
+available, ultrasound can be considered for further evaluation.
+
+[**3001-1-25**] 05:00AM BLOOD WBC-6.3 RBC-3.59* Hgb-10.1* Hct-31.7*
+MCV-88 MCH-28.1 MCHC-31.8 RDW-15.6* Plt Ct-307
+[**3001-1-24**] 02:37AM BLOOD Glucose-117* UreaN-9 Creat-0.8 Na-138
+K-3.5 Cl-102 HCO3-28 AnGap-12
+[**3001-1-22**] 03:07AM BLOOD ALT-28 AST-34 AlkPhos-105 TotBili-0.4
+[**3001-1-24**] 02:37AM BLOOD Calcium-7.9* Phos-2.5* Mg-2.0
+[**3001-1-24**] 02:47AM BLOOD Type-ART pO2-82* pCO2-43 pH-7.46*
+calTCO2-32* Base XS-5
+
+[**3001-1-19**] 9:07 am SPUTUM      Source: Expectorated.
+
+                            **FINAL REPORT [**3001-1-22**]**
+
+   GRAM STAIN (Final [**3001-1-19**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+
+   RESPIRATORY CULTURE (Final [**3001-1-22**]):
+      SPARSE GROWTH Commensal Respiratory Flora.
+      STAPH AUREUS COAG +.    MODERATE GROWTH.
+         Oxacillin RESISTANT Staphylococci MUST be reported as
+also
+         RESISTANT to other penicillins, cephalosporins,
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.
+         Please contact the Microbiology Laboratory ([**6-/3297**])
+immediately if
+         sensitivity to clindamycin is required on this
+patient's isolate.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------   <=1 S
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 35076**] was taken to the operating room by Dr. [**First Name (STitle) **] on [**3001-1-16**]
+for her paraesophageal hernia with laparoscopic Nissen. She
+recovered in usual fashion. A barium swallow study was done on
+[**3001-1-17**] which did not show any leak. She had some coughing on
+[**3001-1-17**], at which time she was resumed on home meds, and given
+aggressive pulmonary toilet. Pulmonology evaluated her and did
+not feel she warranted bronchoscopy at that time. The patient
+remained on her home oxygen. She was evaluated by PT/OT on
+[**3001-1-19**] who determined she would best benefit from pulmonary
+rehab. Her cough worsened and chest xray revealed CHF. She was
+diuresed well, however on [**3001-1-20**] developed 102 fever, was
+pancultured and started on vancomycin and zosyn. She required
+transfer to the ICU for sepsis on [**3001-1-21**]. She required low dose
+neosynephrine. She was found to have MRSA pneumonia which
+resolved on IV vancomycin. Her last vancomycin trough level was
+18 on [**3001-1-23**]. ID consulted and recommended PICC line with IV
+vancomycin to continue until [**3001-2-4**] with CBC, Chem panel and
+vanco trough [**3001-1-27**]. The patient was transfered to the floor on
+[**3001-1-25**]. She has been medically stable without fevers or
+hypotension on the floor and is stable for pulmonary rehab. It
+is noted we do not have a recent echo documenting LV function,
+and the patient did not come in with beta blockers or ace
+inhibitors. She should have close outpatient follow up with her
+primary care physician regarding initiation of these meds if
+tolerated.
+
+Medications on Admission:
+ATORVASTATIN [LIPITOR] -  (Prescribed by Other Provider; Pt
+reports taking.) - 40 mg Tablet - 1 (One) Tablet(s) by mouth
+once
+a day.
+CLONAZEPAM [KLONOPIN] -  (Prescribed by Other Provider; Pt
+reports taking.) - 1 mg Tablet - 1 (One) Tablet(s) by mouth
+three
+times a day.
+DULOXETINE [CYMBALTA] -  (Prescribed by Other Provider; Pt
+reports taking.) - 30 mg Capsule, Delayed Release(E.C.) - 3
+(Three) Capsule(s) by mouth Once a day.
+FUROSEMIDE [LASIX] -  (Prescribed by Other Provider; Pt reports
+taking.) - 40 mg Tablet - 1 (One) Tablet(s) by mouth Once a day.
+LEVOTHYROXINE -  (Prescribed by Other Provider; Pt reports
+taking.) - 75 mcg Tablet - 1 (One) Tablet(s) by mouth Once a
+day.
+OMEPRAZOLE -  (Prescribed by Other Provider; Pt reports taking.)
+- 40 mg Capsule, Delayed Release(E.C.) - 1 (One) Capsule(s) by
+mouth Once a day.
+ONDANSETRON HCL [ZOFRAN] -  (Prescribed by Other Provider; Pt
+reports taking.) - Dosage uncertain
+ZOLPIDEM [AMBIEN CR] -  (Prescribed by Other Provider; Pt
+reports
+taking.) - 12.5 mg Tablet, Multiphasic Release - 1 (One)
+Tablet(s) by mouth At bedtime.
+
+Medications - OTC
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] -  (Prescribed by Other
+Provider; Pt reports taking.,) - Dosage uncertain
+POTASSIUM -  (Prescribed by Other Provider; Pt reports taking.)
+-
+Dosage uncertain
+
+
+Discharge Medications:
+1. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+3. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+8. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+9. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: Three (3) mL Inhalation Q6H (every 6 hours) as
+needed for SOB, wheezing.
+10. Ipratropium Bromide 0.02 % Solution Sig: Three (3) mL
+Inhalation Q6H (every 6 hours) as needed for SOB, wheezing.
+11. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for pain .
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).
+13. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+14. Oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours)
+as needed for pain.
+15. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+16. Vancomycin 1,000 mg Recon Soln Sig: One (1) gram Intravenous
+once a day: end [**3001-2-4**].
+17. Heparin Flush (10 units/ml) 2 mL IV PRN line flush
+PICC, heparin dependent: Flush with 10mL Normal Saline followed
+by Heparin as above daily and PRN per lumen.
+18. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+Temporary Central Access-ICU: Flush with 10mL Normal Saline
+daily and PRN.
+19. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+20. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml
+Injection TID (3 times a day).
+21. Doxepin 25 mg Capsule Sig: Eight (8) Capsule PO HS (at
+bedtime).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1875**]
+
+Discharge Diagnosis:
+[**3001-1-16**]
+1. Laparoscopic repair of giant paraesophageal hernia.
+2. Laparoscopic Nissen fundoplication.
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - requires assistance or aid (walker
+or cane)
+
+
+Discharge Instructions:
+Call Dr.[**Name (NI) 3355**] office [**Telephone/Fax (1) 3784**] if you experience:
+-Fever > 101 or chills or shakes
+-Increased shortness of breath, cough, chest pains
+-Difficulty or painful swallowing.
+-Diarrhea or vomiting
+-redness, drainage or swelling near lap sites
+
+
+Followup Instructions:
+Follow up with [**Last Name (NamePattern4) 1680**]; call for directions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3786**], MD Phone:[**Telephone/Fax (1) 3498**]
+Date/Time:[**3001-2-11**] 2:00 [**Hospital1 22**] [**Hospital Ward Name **] [**Hospital1 **] 116 CDC
+Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], MD Phone:[**Telephone/Fax (1) 3498**]
+Date/Time:[**3001-2-11**] 1:00 [**Hospital1 22**] [**Hospital Ward Name **] [**Hospital1 **] 116 CDC
+
+
+
+Completed by:[**3001-1-26**]
+
+
+DOC CLASS

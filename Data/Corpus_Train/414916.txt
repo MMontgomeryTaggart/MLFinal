@@ -1,0 +1,163 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Patient collapsed to floor, telemetry showed polymorphic VTach, ICD
+   fired and patient lifted back to bed.  Electrolytes at the time stable
+   from the morning.
+   - Milrinone changed to 0.375mcg/kg/min (as needs to be dose adjusted
+   for new lower weight) - likely milrinone precipitated VT event? - will
+   watch for afterload increase after decreasing dose of milrinone and
+   will wean phenylephrine as needed
+   - Patient actually had low bp's after milrinone decreased, increased
+   neosynephrine slightly
+   - Talked to pharm re: SC heparin dose in obese patients.  Stated that
+   they don't typically adjust dose based on body weight but they "have
+   seen 7500units TID used before" and if we want to switch to that, we
+   can.  Left it at 5000units TID.
+   Allergies:
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 30 mg/hour
+   Phenylephrine - 0.6 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3330-7-11**] 12:14 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3330-7-11**] 06:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.1
+C (97
+   HR: 82 (78 - 240) bpm
+   BP: 93/54(60) {83/41(51) - 122/90(89)} mmHg
+   RR: 19 (13 - 29) insp/min
+   SpO2: 95%
+   Heart rhythm: V Paced
+   Wgt (current): 148.6 kg (admission): 189.9 kg
+   Height: 72 Inch
+    CVP: 5 (5 - 7)mmHg
+   Total In:
+                                                                  2,639 mL
+                                                                    249 mL
+   PO:
+                                                                  1,280 mL
+   TF:
+   IVF:
+                                                                  1,359 mL
+                                                                    249 mL
+   Blood products:
+   Total out:
+                                                                  8,545 mL
+                                                                  1,340 mL
+   Urine:
+                                                                  8,545 mL
+                                                                  1,340 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -5,906 mL
+                                                                 -1,091 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ///37/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   331 K/uL
+   14.1 g/dL
+   121 mg/dL
+   1.9 mg/dL
+   37 mEq/L
+   3.7 mEq/L
+   54 mg/dL
+   78 mEq/L
+   127 mEq/L
+   42.4 %
+   8.0 K/uL
+        [image002.jpg]
+                             [**3330-7-7**]  05:58 AM
+                             [**3330-7-7**]  02:55 PM
+                             [**3330-7-8**]  04:52 AM
+                             [**3330-7-8**]  04:06 PM
+                             [**3330-7-9**]  03:49 AM
+                             [**3330-7-9**]  03:16 PM
+                             [**3330-7-10**]  04:42 AM
+                             [**3330-7-10**]  01:48 PM
+                             [**3330-7-10**]  10:11 PM
+                             [**3330-7-11**]  04:03 AM
+   WBC
+   6.9
+   8.4
+   6.9
+   8.0
+   Hct
+   42.0
+   43.2
+   41.5
+   42.4
+   Plt
+   [**Telephone/Fax (3) 8771**]31
+   Cr
+   1.6
+   1.7
+   1.6
+   1.7
+   1.7
+   1.7
+   1.7
+   1.8
+   1.9
+   1.9
+   TropT
+   0.04
+   Glucose
+   114
+   114
+   100
+   112
+   134
+   114
+   105
+   116
+   121
+   Other labs: PT / PTT / INR:13.6/23.5/1.2, CK / CKMB /
+   Troponin-T:47//0.04, ALT / AST:[**11-9**], Alk Phos / T Bili:169/1.5,
+   Differential-Neuts:74.8 %, Lymph:13.3 %, Mono:8.7 %, Eos:2.7 %,
+   Albumin:3.9 g/dL, LDH:206 IU/L, Ca++:10.5 mg/dL, Mg++:2.2 mg/dL,
+   PO4:3.7 mg/dL
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ CARDIOMYOPATHY, HYPERTROPHIC
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3330-7-3**] 10:25 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

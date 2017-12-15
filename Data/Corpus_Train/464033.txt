@@ -1,0 +1,216 @@
+CVICU
+   HPI:
+   75 year old female s/p AVR (23mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 629**] tissue) [**1-10**]
+   PMHx:
+   HTN, Hyperlipidemia, DM, CAD s/p stenting of RCA and LAD, AS, RBBB,
+   Chronic RLE Edema, Histiocystosis in [**3190**], s/p chemo and radiation to
+   abdomen area, Stress Incontinence, Gout, s/p cholecystectomy, s/p
+   tonsillectomy
+   Current medications:
+   Levothyroxine Sodium 50 mcg PO/NG DAILY Start: In am Order date: [**1-10**]
+   @ 1050
+   Acetaminophen 650 mg PO/PR Q4H:PRN temperature >38.0 , Allopurinol 100
+   mg PO/NG DAILY, Albuterol 0.083% Neb Soln 1 NEB IH Q6H, Aspirin EC 81
+   mg PO DAILY, Nitroglycerin 0.2-2.0 mcg/kg/min IV DRIP, Bumetanide 0.25
+   mg/hr IV INFUSION, Potassium Chloride 20 mEq / 50 ml SW IV PRN K<4.4
+   and CR<2.0, Ciprofloxacin 200 mg IV Q24H UTI pending UC, Ranitidine 150
+   mg PO BID, Simvastatin 40 mg PO/NG HS, Docusate Sodium 100 mg PO BID,
+   Ipratropium Bromide Neb 1 NEB IH Q6H, TraMADOL (Ultram) 50 mg PO
+   Q4H:PRN pain
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**3223-1-11**] 09:30 AM
+ EKG - At [**3223-1-11**] 11:30 AM
+ NON-INVASIVE VENTILATION - START [**3223-1-11**] 11:30 AM
+ NON-INVASIVE VENTILATION - STOP [**3223-1-11**] 02:30 PM
+ ARTERIAL LINE - STOP [**3223-1-11**] 03:00 PM
+ ARTERIAL LINE - START [**3223-1-11**] 03:00 PM
+ NON-INVASIVE VENTILATION - START [**3223-1-11**] 07:00 PM
+   Post operative day:
+   POD#2 - AVR
+   Allergies:
+   Amoxicillin
+   Unknown;
+   Lisinopril
+   tongue swells;
+   Last dose of Antibiotics:
+   Cefazolin - [**3223-1-11**] 04:00 PM
+   Ciprofloxacin - [**3223-1-11**] 10:33 PM
+   Other ICU medications:
+   Morphine Sulfate - [**3223-1-11**] 12:15 PM
+   Flowsheet Data as of  [**3223-1-12**] 09:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**24**] a.m.
+   Tmax: 37.6
+C (99.7
+   T current: 37.4
+C (99.3
+   HR: 78 (60 - 87) bpm
+   BP: 85/55(68) {85/33(53) - 159/124(230)} mmHg
+   RR: 19 (15 - 27) insp/min
+   SPO2: 94%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 122.8 kg (admission): 112.7 kg
+   Height: 65 Inch
+   CVP: 21 (6 - 23) mmHg
+   PAP: (49 mmHg) / (24 mmHg)
+   CO/CI (Thermodilution): (5.25 L/min) / (2.6 L/min/m2)
+   SVR: 738 dynes*sec/cm5
+   SV: 71 mL
+   SVI: 33 mL/m2
+   Total In:
+                                                                  2,341 mL
+                                                                    495 mL
+   PO:
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,156 mL
+                                                                    360 mL
+   Blood products:
+                                                                  1,185 mL
+                                                                     15 mL
+   Total out:
+                                                                  1,637 mL
+                                                                  1,140 mL
+   Urine:
+                                                                    937 mL
+                                                                    880 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    704 mL
+                                                                   -645 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   Ventilator mode: Standby
+   Vt (Spontaneous): 760 (650 - 817) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 100%
+   PIP: 0 cmH2O
+   SPO2: 94%
+   ABG: 7.38/37/110/24/-2
+   Ve: 10.4 L/min
+   PaO2 / FiO2: 110
+   Physical Examination
+   General Appearance: Anxious
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   scattered throughout), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   144 K/uL
+   8.9 g/dL
+   131 mg/dL
+   1.6 mg/dL
+   24 mEq/L
+   4.7 mEq/L
+   33 mg/dL
+   109 mEq/L
+   140 mEq/L
+   27.3 %
+   10.9 K/uL
+        [image002.jpg]
+                             [**3223-1-11**]  02:16 PM
+                             [**3223-1-11**]  02:26 PM
+                             [**3223-1-11**]  04:10 PM
+                             [**3223-1-11**]  06:50 PM
+                             [**3223-1-11**]  08:30 PM
+                             [**3223-1-11**]  11:00 PM
+                             [**3223-1-12**]  12:23 AM
+                             [**3223-1-12**]  03:15 AM
+                             [**3223-1-12**]  03:30 AM
+                             [**3223-1-12**]  05:35 AM
+   WBC
+   10.9
+   Hct
+   29.2
+   27.3
+   Plt
+   144
+   Creatinine
+   1.6
+   1.6
+   TCO2
+   23
+   24
+   23
+   22
+   22
+   27
+   23
+   Glucose
+   125
+   130
+   130
+   112
+   139
+   157
+   146
+   131
+   Other labs: PT / PTT / INR:13.3/41.6/1.1, ALT / AST:16/52, Alk-Phos / T
+   bili:54/0.2, Lactic Acid:1.2 mmol/L, Albumin:3.2 g/dL, LDH:359 IU/L,
+   Ca:8.8 mg/dL, Mg:2.3 mg/dL, PO4:4.9 mg/dL
+   Imaging: CXR [**1-10**]: scattered atx
+   Microbiology: positive UA, UC pending
+   ECG: 1st degree AVB
+   Assessment and Plan
+   AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH), PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), VALVE
+   REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: 75 year old female s/p AVR (23mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 629**] tissue)
+   [**1-10**] complicated by hypoxia and acute renal insufficiency.  Plan to
+   wean nitro gtt as tolerated by increasing hydralazine, increase
+   diuresis and pulmonary hygeine, and move patient to the chair as
+   tolerated.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled on ultram
+   Cardiovascular: Aspirin, Statins, Hypertensive but in 1st degree AVB,
+   so betablockers held and hydralazine 25mg PO Q6 initiated.  Plan to
+   wean nitro gtt as tolerated.  Goal SBP <130 per Dr. [**Last Name (STitle) 618**]
+   Pulmonary: IS, Nebs, deep breathing and coughing, pulmonary hygeine
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: ADAT
+   Renal: Foley, Adequate UO, Urine output has increased on bumex drip.
+   For goal diuresis of [**12-16**].5L negative, bumex gtt has been increased to
+   0.5mg/hr.  Will recheck electrolytes this afternoon.
+   Hematology: post-operative anemia, stable
+   Endocrine: RISS, goal blood sugar <150
+   Infectious Disease: On ciprofloxacin for 3 days for positive UA, UC
+   pending
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] - [**3223-1-10**] 12:33 PM
+   PA Catheter - [**3223-1-10**] 12:33 PM
+   Arterial Line - [**3223-1-11**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

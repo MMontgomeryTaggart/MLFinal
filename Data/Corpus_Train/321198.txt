@@ -1,0 +1,192 @@
+Chief Complaint:
+   24 Hour Events:
+   -Spiked temperature to 101.2, pan-cultured
+   -Captopril titrated up to 50mg TID, hydralazine made PO and increased
+   to 25mg Q6H, still unable to come off nitro gtt.  Patient is notably
+   anxious while hypertensive.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2933-7-18**] 10:00 AM
+   Infusions:
+   Nitroglycerin - 3 mcg/Kg/min
+   Other ICU medications:
+   Hydralazine - [**2933-7-18**] 12:30 PM
+   Heparin Sodium (Prophylaxis) - [**2933-7-18**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2933-7-19**] 06:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.2
+   Tcurrent: 37.7
+C (99.8
+   HR: 74 (61 - 77) bpm
+   BP: 185/81(108) {114/62(79) - 185/100(116)} mmHg
+   RR: 19 (15 - 23) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 85 kg (admission): 74 kg
+   Height: 70 Inch
+             Total In:
+                                                                  3,122 mL
+                                                                    913 mL
+   PO:
+             TF:
+                                                                  1,506 mL
+                                                                    446 mL
+   IVF:
+                                                                  1,147 mL
+                                                                    227 mL
+   Blood products:
+   Total out:
+                                                                  1,670 mL
+                                                                    437 mL
+   Urine:
+                                                                  1,670 mL
+                                                                    437 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,452 mL
+                                                                    476 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///22/
+   Physical Examination
+   Gen: Opens eyes to voice, answers questions
+   HEENT: MMM
+   Heart: RRR, no m,r,g
+   Lungs: Diffuse rhonchi likely from upper airways
+   Abdomen: Soft, NT/ND, +BS
+   Extremities: No edema, feet in boots
+   Labs / Radiology
+   402 K/uL
+   8.3 g/dL
+   107 mg/dL
+   1.7 mg/dL
+   22 mEq/L
+   3.8 mEq/L
+   26 mg/dL
+   110 mEq/L
+   139 mEq/L
+   23.3 %
+   10.8 K/uL
+        [image002.jpg]
+                             [**2933-7-15**]  09:27 AM
+                             [**2933-7-15**]  01:14 PM
+                             [**2933-7-15**]  02:34 PM
+                             [**2933-7-16**]  03:06 AM
+                             [**2933-7-16**]  10:08 AM
+                             [**2933-7-16**]  10:54 AM
+                             [**2933-7-17**]  03:47 AM
+                             [**2933-7-17**]  05:30 AM
+                             [**2933-7-18**]  03:56 AM
+                             [**2933-7-19**]  03:27 AM
+   WBC
+   8.0
+   8.1
+   8.6
+   10.8
+   Hct
+   26.6
+   26.3
+   26.7
+   24.7
+   23.3
+   Plt
+   383
+   351
+   404
+   402
+   Cr
+   2.2
+   2.2
+   2.0
+   1.7
+   TropT
+   1.50
+   TCO2
+   19
+   19
+   20
+   19
+   24
+   Glucose
+   89
+   99
+   111
+   107
+   Other labs: PT / PTT / INR:13.7/29.7/1.2, CK / CKMB /
+   Troponin-T:397/4/1.50, ALT / AST:20/43, Alk Phos / T Bili:66/0.4,
+   Amylase / Lipase:42/47, Differential-Neuts:78.2 %, Lymph:13.1 %,
+   Mono:5.3 %, Eos:3.2 %, Lactic Acid:0.9 mmol/L, Albumin:2.9 g/dL,
+   LDH:254 IU/L, Ca++:8.0 mg/dL, Mg++:1.9 mg/dL, PO4:3.7 mg/dL
+   Imaging: None
+   Microbiology: Blood [**7-11**]: MSSA
+   Blood 8/3: MSSA and Strep viridans
+   Blood [**Date range (1) 1073**]: NGTD
+   Sputum [**Date range (1) 1074**]: MSSA
+   CSF and urine have been negative
+   Assessment and Plan
+   Mr. [**Known patient lastname 1029**] is a 54yo male with recent type B aortic dissection,
+   transferred to the MICU for further management of his acute medical
+   issues.
+    1)Aortic dissection: BP still remains elevated despite being nitro
+   drip and multiple oral medications.
+   -- d/c nitro gtt and transition to labetolol gtt
+   -- Ct Labetolol 800mg PO Q6H
+   -- Increase Captopri to 75mg TID
+   -- Continue Hydralazine 25mg Q6
+   -- Increase Clonidine to 0.2mg TID
+   -- Start Norvasc 5mg PO daily
+   -- Continue ASA 325mg PO daily
+   2) Fevers: Patient currently on Vancomycin for a-line infection. There
+   was some concern for an infected aortic aneurysm but ID does not feel
+   that this is the case.  He spiked a temperature yesterday evening and
+   he was pan-culture.
+   -- Continue Vancomycin 750mg IV Q24 for 7 day total
+   -- f/u culture data
+   -- Send sputum cx
+   3) Neuro: Likely [**1-10**] innumerable infarcts in both hemispheres involving
+   supratentorial/infratentorial and corpus collosum. Preliminary MRI
+   report suggestive of embolic source but TTE/TEE were unrevealing.  ID
+   does not feel that he has an infected aortic aneurysm and recent
+   infarct unlikely septic emboli.
+   -- f/u neuro reccs
+   -
+   4)Renal failure: Cr improving from 2.2 to 1.7.
+   -- f/u daily Cr
+   -- Renally dose medications
+   5) EKG changes/elevated troponins: Serial ECGs only given demand
+   ischemia from hypertensive urgency.
+   6) Anemia: Hct dropped to 23.3 this morning. No clear source. Question
+   whether he is bleeding at the site of the aneurysm.
+   -- Transfuse for Hct<21
+   ICU Care
+   Nutrition:
+   ProBalance (Full) - [**2933-7-19**] 02:58 AM 70 mL/hour
+   Glycemic Control:  Blood sugars well controlled
+   Lines:
+   Arterial Line - [**2933-7-14**] 12:27 PM
+   PICC Line - [**2933-7-17**] 01:00 PM
+   Prophylaxis:
+   DVT: Heparin SQ
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Remain in MICU
+
+
+
+DOC CLASS

@@ -1,0 +1,206 @@
+TITLE: CCU RESIDENT PROGRESS NOTE
+   Chief Complaint: Severe Cardiomyopathy, idiopathic, w/ severe overload
+   and ascites.
+   24 Hour Events:
+   - Aldactone increased to 50 mg Daily
+   - Hyponatremia/Hypochloremia persists Na 128/Cl 79
+   - negative 7.2L over the last 24 hours
+   - Gout improved L foot. Developed diarrhea secondary to the Colchicine.
+   Added on Imodium.
+   - One episode. Non sustained Vtach, 15 beats.
+   Allergies:
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Furosemide (Lasix) - 30 mg/hour
+   Milrinone - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3330-7-10**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.3
+C (97.3
+   HR: 84 (80 - 93) bpm
+   BP: 100/64(70) {90/39(50) - 124/79(85)} mmHg
+   RR: 19 (17 - 25) insp/min
+   SpO2: 94%
+   Heart rhythm: V Paced
+   Wgt (current): 153.6 kg (admission): 189.9 kg
+   Height: 72 Inch
+    CVP: 8 (8 - 8)mmHg
+   Total In:
+                                                                  2,316 mL
+                                                                    454 mL
+   PO:
+                                                                    840 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  1,476 mL
+                                                                    334 mL
+   Blood products:
+   Total out:
+                                                                  9,560 mL
+                                                                  2,700 mL
+   Urine:
+                                                                  9,560 mL
+                                                                  2,700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -7,244 mL
+                                                                 -2,245 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///38/
+   Physical Examination
+   GENERAL: AOx3 NAD. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. NO cyanosis of the oral
+   mucosa. No xanthalesma.
+   NECK: Supple, JVP difficult to assess given body habitus.
+   CARDIAC: Regular rhythm with, normal S1, S2. No m/r/g. Chest lift.
+   Possible S4
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. No wheezes or rhonchi.  Will sit
+   patient up on rounds and better assess lower lobes.
+   ABDOMEN: Impressive distention, obese, No tender. Unable to appreciate
+   any HSM given level of distention. Bowel Sounds present.
+   EXTREMITIES: 3+ lower extremity edema to level of knee equal
+   bilaterally,, somewhat improved from yesterday. Left knee with mild
+   tenderness on palpation of the patellar tendon. No warmth or effusion
+   of left knee.
+   SKIN: Stasis dermatitis in bilateral lower extremity. No other ulcers
+   or skin breakdown appreciated on exam. No jaundice.
+   PULSES: Lower extremity pulses difficult to palpate given edema,
+   however feet are warm, well perfused, with good capillary refill. 2+
+   pulses in bilateral upper extremity.
+   Labs / Radiology
+   317 K/uL
+   13.8 g/dL
+   114 mg/dL
+   1.7 mg/dL
+   38 mEq/L
+   4.0 mEq/L
+   49 mg/dL
+   77 mEq/L
+   129 mEq/L
+   41.5 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**3330-7-5**]  02:24 PM
+                             [**3330-7-6**]  04:00 AM
+                             [**3330-7-6**]  02:45 PM
+                             [**3330-7-7**]  05:58 AM
+                             [**3330-7-7**]  02:55 PM
+                             [**3330-7-8**]  04:52 AM
+                             [**3330-7-8**]  04:06 PM
+                             [**3330-7-9**]  03:49 AM
+                             [**3330-7-9**]  03:16 PM
+                             [**3330-7-10**]  04:42 AM
+   WBC
+   6.6
+   6.9
+   8.4
+   6.9
+   Hct
+   44.9
+   42.0
+   43.2
+   41.5
+   Plt
+   300
+   276
+   277
+   317
+   Cr
+   1.6
+   1.6
+   1.7
+   1.6
+   1.7
+   1.6
+   1.7
+   1.7
+   1.7
+   1.7
+   Glucose
+   100
+   108
+   108
+   114
+   114
+   100
+   112
+   134
+   114
+   Other labs: Ca++:10.3 mg/dL, Mg++:2.1 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   43yo male patient of Dr. [**First Name (STitle) **] with severe dilated nonischemic
+   cardiomyopathy, systolic CHF, LVEF 15%, massively dilated LV, morbid
+   obesity with weight in excess of 415 lbs., s/p BiV/ICD with LBBB, OSA
+   who was directly admitted to CCU for decompensated systolic CHF
+   requiring IV milrinone and lasix for diuresis.
+   .
+   # PUMP/DECOMPENSATED SYSTOLIC HEART FAILURE: EF 15% during last ECHO in
+   [**2-27**] thought to be nonischemic cardiac myopathy. Continues diuresis at
+   approx. 6-7 L daily, goal will be to maximize diuresis.
+   - Continue Milrinone 0.5mcg/kg/min infusion and neosynephrine 0.5
+   mcg/kg/min infusion; will tolerate MAP > 55.  Will try to wean him off
+   neosynephrine as BP tolerates.
+   - Continue IV lasix gtt at 30 mg/hr
+   - Continue Metolazone 5mg PO BID
+   - Increase spironolactone at 50 daily
+   - continue metoprolol at 100mg PO TID
+   - hold lisinopril at this time
+   - [**Hospital1 7**] Chem 7s.
+   - Replete Potassium- 40 meq IV TID.
+   .
+   # RHYTHM: with biV/ICD. Continues with freguent non- sustained episodes
+   of VT.
+   - monitor on telemetry
+   - Metoprolol 100mg PO TID
+   - Amio bolus and gtt in case of sustained VT
+   .
+   # Acute vs Chronic Renal Failure: Secondary to poor cardiac output. Crt
+   on admission 1.5 up to 1.7 today.
+   - Continue to hold lisinopril at this time
+   - Monitor Creatinine
+   .
+   # CORONARIES: no known CAD, no cath in past
+   - continue ASA
+   .
+   # Gout: Flare in left foot.
+   - continue colchicine q 6 hours with tylenol
+   .
+   # OSA
+   - not on bipap at home
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3330-7-3**] 10:25 PM
+   Prophylaxis:
+   DVT: Heparin SQ
+   Stress ulcer: Not high risk.
+   VAP:
+   Comments:
+   Communication:  Comments: w/ patient and family
+   Code status: Full code
+   Disposition: CCU for now
+
+
+
+DOC CLASS

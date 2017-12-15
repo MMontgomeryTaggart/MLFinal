@@ -1,0 +1,248 @@
+Chief Complaint: respiratory failure
+   24 Hour Events:
+   - Started amiodarone PO after IV load
+   - Discontinued levophed
+   - Developed atrial fibrillation with rapid ventricular rate converting
+   to normal sinus rhythm with IV/PO diltiazem
+   - CT abdomen yesterday to evaluate abdominal tenderness showed
+   cholelithiasis and bilateral nephrolithiasis but no evidence of bowel
+   perforation or extravasation of contrast
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**3093-11-13**] 08:00 AM
+   Vancomycin - [**3093-11-13**] 08:16 AM
+   Infusions:
+   Fentanyl - 75 mcg/hour
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**3093-11-12**] 10:42 AM
+   Haloperidol (Haldol) - [**3093-11-12**] 12:19 PM
+   Diltiazem - [**3093-11-12**] 04:07 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3093-11-13**] 08:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.2
+C (97.1
+   HR: 101 (52 - 150) bpm
+   BP: 135/69(91) {75/41(56) - 146/81(100)} mmHg
+   RR: 25 (0 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+    CVP: 7 (-5 - 19)mmHg
+   Total In:
+                                                                  5,260 mL
+                                                                  1,689 mL
+   PO:
+   TF:
+                                                                  1,145 mL
+                                                                    641 mL
+   IVF:
+                                                                  2,665 mL
+                                                                    688 mL
+   Blood products:
+   Total out:
+                                                                  4,240 mL
+                                                                  1,365 mL
+   Urine:
+                                                                  3,800 mL
+                                                                    875 mL
+   NG:
+   Stool:
+                                                                    350 mL
+                                                                    450 mL
+   Drains:
+   Balance:
+                                                                  1,020 mL
+                                                                    324 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 847 (847 - 847) mL
+   PS : 16 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 107
+   PIP: 15 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 45 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.47/53/108/35/12
+   Ve: 10.8 L/min
+   PaO2 / FiO2: 216
+   Physical Examination
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Clear : ), limited anterior exam
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Verbal stimuli, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   101 K/uL
+   9.2 g/dL
+   103 mg/dL
+   0.5 mg/dL
+   35 mEq/L
+   3.6 mEq/L
+   33 mg/dL
+   101 mEq/L
+   139 mEq/L
+   26.7 %
+   4.9 K/uL
+        [image002.jpg]
+                            [**3093-11-11**]  06:00 AM
+                            [**3093-11-11**]  02:40 PM
+                            [**3093-11-11**]  02:41 PM
+                            [**3093-11-12**]  12:00 AM
+                            [**3093-11-12**]  04:59 AM
+                            [**3093-11-12**]  05:15 AM
+                            [**3093-11-12**]  09:53 AM
+                            [**3093-11-12**]  11:24 PM
+                            [**3093-11-13**]  03:51 AM
+                            [**3093-11-13**]  04:56 AM
+   WBC
+   17.0
+   15.8
+   4.9
+   Hct
+   33.3
+   31.5
+   26.7
+   Plt
+   [**Telephone/Fax (3) 7018**]
+   Cr
+   159.0
+   0.9
+   0.7
+   0.5
+   TCO2
+   35
+   39
+   35
+   36
+   40
+   Glucose
+   140
+   105
+   106
+   103
+   Other labs: PT / PTT / INR:14.3/33.4/1.2, CK / CKMB /
+   Troponin-T:47//0.03, ALT / AST:16/18, Alk Phos / T Bili:90/0.2,
+   Differential-Neuts:87.9 %, Band:4.0 %, Lymph:7.7 %, Mono:3.0 %, Eos:1.3
+   %, Lactic Acid:1.6 mmol/L, Albumin:2.2 g/dL, LDH:149 IU/L, Ca++:8.4
+   mg/dL, Mg++:1.8 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   60 year-old male with history of diffuse large B-cell lymphoma (s/p six
+   cycles of MR-CHOP) who presented on [**3093-10-28**] with fevers and new right
+   upper lobe infiltrate - > transferred to the [**Hospital Unit Name 42**] for worsening oxygen
+   requirements and hypotension, then to MICU Green for VATS due to
+   worsening right lobe diffuse infiltrate.
+   # Hypoxic respiratory failure/right upper lobe infiltrate/pneumothorax:
+   Improving.  History of respiratory issues here has been:
+    * VATS [**11-3**] with pathology simply showing organizing
+   pneumonitis/pneumonia
+ chest tube remains in place.
+   * Steroids started [**11-6**], with right upper lobe infiltrate improving
+   generally since then.
+   * Meropenem started [**11-6**] to complete a 14 day course; was on numerous
+   other antibiotics before this
+   * Left lower lobe infiltrate/collapse likely due to mucus plugging
+   restarted vancomycin [**11-11**].
+   Antifungals have been discontinued due to negative fungal stain and no
+   fungal culture growth. No evidence of cardiac ischemia and pulmonary
+   embolus unlikely given patient has been on therapeutic lovenox.
+   - Pressure support as tolerated
+   - Continue chest tube to water seal, discuss with thoracics when they
+   might consider clamping
+   - Continue meropenem to complete 14 day course, stop [**11-15**]
+   - Discontinue vancomycin this afternoon if negative cultures x 48 hours
+   - Continue prednisone 60 mg daily for at least one month as concerned
+   for BOOP
+   - Lasix today for goal -1L; starting drip to try to meet target
+   - ID following; appreciate
+   - Oncology following; appreciate
+   - Fentanyl patch for chest tube pain and haldol for agitation;
+   discontinue fentanyl gtt
+   # Paroxysmal atrial fibrillation: Has had atrial fibrillation,
+   sometimes with hypotension.
+   - Trialed neosynephrine, but patient became too bradycardic -> loaded
+   amiodarone, patient to continue on levophed
+   - Continuing amiodorone PO
+   - Anticoagulated with lovenox
+   # Acute renal failure: Improved. Likely medication effect and improved
+   with discontinuation of ambisome.
+   - Renally dose medications
+   # Pancytopenia/Leukocytosis: Pancytopenia originally felt to be
+   medication effect given timing, recovered in setting of stopping
+   ambisome.  Now all three cell lines are down; sharp decrease in
+   platelets, WBC, Hct.
+   - recheck CBC today to verify; if counts are still down, search for
+   medication effects; unclear what would be culprit on my initial review
+   but further review warranted if problem persists
+   - Continue meropenem
+   - Discontinue vancomycin this PM if negative cultures x 48 hours
+   - Pan-cultured
+   - HIT antibodies negative
+   - Monitor hematocrit and transfuse < 25 or bleeding
+   - Monitor platelets and transfuse < 10 or bleeding
+   # Fevers: Afebrile x 72 hours, however, on steroids.  Has been broadly
+   covered for bacterial pathogens and VATS negative for fungus.  VATS,
+   blood, sputum, BAL, urine cultures all NGTD.  Other negative testing
+   includes rapid respiratory test for viral pathogens, toxoplasmosis,
+   cryptococcus, aspergillus, beta-glucan, coccidiodes, histoplasma,
+   strongyloides.
+   - Continue meropenem to complete 14 day course, stop [**11-15**]
+   - Discontinue vancomycin if negatiave cultures x 48 hours
+   - Check CT abdomen for question abdominal tenderness
+   - CIS > 100.5
+   # Hypotension: Improved despite diuresis.  Also likely component of
+   sedation and pneumothorax.
+   - Wean levophed and sedation as able
+   - Chest tube to water seal, following CXRs
+   # Hypernatremia: Resolved.
+   - Decrease free water boluses
+   # Diffuse large B cell lymphoma: Status post [**4-28**] cycles of MR-CHOP.
+   Completed HD-MTX one week prior to admission.
+   - Currently not neutropenic
+   - Monitor hematocrit and transfuse for < 25 or active bleeding
+   - Monitor platelets and transfuse for < 10 active bleeding
+   - Continue bactrim prophylaxis
+   # Hypogammaglobulinemia: IgG 311 [**11-5**].
+   - Status post IVIG [**11-5**]
+    # DVT: Diagnosed 11/[**3092**].
+   - Continue lovenox
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3093-11-12**] 09:46 PM 75 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3093-10-30**] 08:00 PM
+   Arterial Line - [**3093-11-4**] 08:24 AM
+   Multi Lumen - [**3093-11-7**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

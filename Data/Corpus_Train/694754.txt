@@ -1,0 +1,166 @@
+I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   24 Hour Events:
+   PICC line NGTD.
+   Allergies:
+   Heparin Flush (Intraven) (Heparin Sodium
+   Porcine/Pf)
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin - [**2708-12-21**] 12:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2708-12-23**] 09:00 AM
+   Vancomycin - [**2708-12-23**] 10:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2708-12-23**] 09:00 AM
+   Other medications:
+   amiodarone, atrovent nebs, amitryptlyline, neurontin, keppra, zosyn,
+   asa, vanco, insulin SS, protonix, lactulose. Vanco, and zosyn day 4/
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2708-12-23**] 11:19 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**10**] AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.8
+C (96.5
+   HR: 74 (63 - 81) bpm
+   BP: 107/52(66) {86/41(53) - 122/68(81)} mmHg
+   RR: 20 (15 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: 1st AV (First degree AV Block)
+   CVP: 5 (0 - 6)mmHg
+   Total In:
+                                                                  1,260 mL
+                                                                    780 mL
+   PO:
+                                                                    400 mL
+                                                                    360 mL
+   TF:
+   IVF:
+                                                                    860 mL
+                                                                    420 mL
+   Blood products:
+   Total out:
+                                                                  1,570 mL
+                                                                    935 mL
+   Urine:
+                                                                  1,570 mL
+                                                                    935 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -310 mL
+                                                                   -155 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), S3
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Bronchial: Right base)
+   Abdominal: Soft, Non-tender
+   Extremities: Right lower extremity edema: 2+, s/p Left BKA.
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   9.9 g/dL
+   258 K/uL
+   96 mg/dL
+   1.0 mg/dL
+   28 mEq/L
+   3.5 mEq/L
+   14 mg/dL
+   104 mEq/L
+   140 mEq/L
+   30.3 %
+   5.3 K/uL
+        [image002.jpg]
+                             [**2708-12-20**]  11:55 PM
+                             [**2708-12-21**]  06:44 AM
+                             [**2708-12-21**]  02:40 PM
+                             [**2708-12-21**]  04:56 PM
+                             [**2708-12-21**]  09:32 PM
+                             [**2708-12-21**]  11:13 PM
+                             [**2708-12-22**]  03:06 AM
+                             [**2708-12-22**]  10:42 AM
+                             [**2708-12-22**]  10:03 PM
+                             [**2708-12-23**]  05:54 AM
+   WBC
+   6.3
+   6.0
+   5.3
+   Hct
+   31.0
+   33.4
+   32.8
+   31.2
+   31.0
+   30.2
+   29.8
+   30.3
+   Plt
+   [**Telephone/Fax (3) 11294**]
+   Cr
+   1.0
+   1.0
+   1.2
+   1.0
+   TropT
+   0.04
+   TCO2
+   30
+   Glucose
+   124
+   104
+   96
+   Other labs: PT / PTT / INR:36.6/54.4/3.8, CK / CKMB /
+   Troponin-T:25//0.04, Differential-Neuts:75.0 %, Band:0.0 %, Lymph:12.0
+   %, Mono:10.0 %, Eos:2.0 %, D-dimer:210 ng/mL, Lactic Acid:1.2 mmol/L,
+   LDH:208 IU/L, Ca++:8.4 mg/dL, Mg++:2.0 mg/dL, PO4:2.3 mg/dL
+   Imaging: CXR: improvement in the RLL infiltrate.
+   Microbiology: culture negative today.
+   Sputum cx sparse respiratory flora.
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK): resolved.
+ HEART FAILURE (CHF), SYSTOLIC AND DIASTOLIC, ACUTE ON CHRONIC:
+   euvolemic, continue to keep even. will need to resume his home
+   torsemide before d/c, continue to monitor I/O.
+ .Pneumonia: treating with Vanco and zosyn for 8days.
+ AFib: elevated INR, now trending down, will resume coumadin at lower
+   dose.
+   Rest of plan per HO note.
+   ICU Care
+   Nutrition:
+   Comments: regular diet
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2708-12-20**] 01:33 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

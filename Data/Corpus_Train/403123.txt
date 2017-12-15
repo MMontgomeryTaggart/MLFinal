@@ -1,0 +1,200 @@
+Chief Complaint:
+   24 Hour Events:
+   -Gave albumin/Lasix and UOP improved this afternoon
+   -BG elevated all day--not sure that insulin was in the drip, so asked
+   pharmacy to replace then BG started to improve
+   -Decreased PEEP to 13 with stable PaO2 then down to 11.
+   -pm hypernatremia, increased free water flushes
+   -Inc gap to 13, repleted KCl, decided not to give second dose of
+   alb/lasix
+   -stopped steroids, vancomycin
+   -Increased lactulose to tid
+   Allergies:
+   Haldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Metronidazole - [**3209-5-24**] 08:00 AM
+   Erythromycin - [**3209-5-25**] 04:00 AM
+   Vancomycin - [**3209-5-25**] 09:00 PM
+   Meropenem - [**3209-5-26**] 08:00 PM
+   Infusions:
+   Insulin - Regular - 4 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3209-5-26**] 08:00 AM
+   Furosemide (Lasix) - [**3209-5-26**] 01:15 PM
+   Heparin Sodium (Prophylaxis) - [**3209-5-26**] 04:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-5-27**] 06:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 97 (82 - 102) bpm
+   BP: 132/68(94) {109/54(76) - 149/78(108)} mmHg
+   RR: 16 (13 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 110.1 kg (admission): 103.7 kg
+   Height: 69 Inch
+    CVP: 11 (10 - 19)mmHg
+   Total In:
+                                                                  2,418 mL
+                                                                    493 mL
+   PO:
+   TF:
+                                                                    728 mL
+                                                                    190 mL
+   IVF:
+                                                                    700 mL
+                                                                     83 mL
+   Blood products:
+                                                                    100 mL
+   Total out:
+                                                                  1,949 mL
+                                                                    480 mL
+   Urine:
+                                                                  1,949 mL
+                                                                    480 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    469 mL
+                                                                     13 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 671 (616 - 868) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 20
+   PEEP: 11 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 22 cmH2O
+   SpO2: 97%
+   ABG: 7.40/38/85.[**Numeric Identifier 120**]/20/0
+   Ve: 12.5 L/min
+   PaO2 / FiO2: 213
+   Physical Examination
+   GEN: The patient responds to verbal stimuli, tracks
+   HEENT: icterus, EOMI
+   CARD: RRR, no m/r/g
+   PULM: scattered ronchi
+   ABD: soft, obese, mod distension
+   EXT: WWP, anasarca- slightly improved
+   Labs / Radiology
+   78 K/uL
+   8.3 g/dL
+   115 mg/dL
+   1.5 mg/dL
+   20 mEq/L
+   4.0 mEq/L
+   90 mg/dL
+   117 mEq/L
+   148 mEq/L
+   25.7 %
+   23.2 K/uL
+        [image002.jpg]
+                             [**3209-5-25**]  06:03 PM
+                             [**3209-5-25**]  09:58 PM
+                             [**3209-5-26**]  05:08 AM
+                             [**3209-5-26**]  05:16 AM
+                             [**3209-5-26**]  12:07 PM
+                             [**3209-5-26**]  03:18 PM
+                             [**3209-5-26**]  03:43 PM
+                             [**3209-5-26**]  04:52 PM
+                             [**3209-5-27**]  12:12 AM
+                             [**3209-5-27**]  12:23 AM
+   WBC
+   16.9
+   23.2
+   Hct
+   25.8
+   25.7
+   Plt
+   84
+   78
+   Cr
+   1.7
+   1.6
+   1.5
+   TCO2
+   21
+   20
+   22
+   20
+   24
+   Glucose
+   [**Telephone/Fax (3) 9133**]05
+   115
+   Other labs: PT / PTT / INR:20.2/43.6/1.9, CK / CKMB /
+   Troponin-T:177/5/, ALT / AST:32/58, Alk Phos / T Bili:146/5.2,
+   Differential-Neuts:80.0 %, Band:4.0 %, Lymph:6.0 %, Mono:1.0 %, Eos:0.0
+   %, Fibrinogen:219 mg/dL, Lactic Acid:1.9 mmol/L, Albumin:3.6 g/dL,
+   LDH:217 IU/L, Ca++:9.6 mg/dL, Mg++:2.7 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   58 y/o M with history of ETOH cirrhosis c/b encephalopathy, ascites and
+   portal gastropathy with recent UGIB.  Found today to be apneic with
+   respiratory arrest and likely aspiration s/p intubation and transferred
+   to the MICU.
+   # Sepsis / Resp. failure:  Multifocal pneumonia most likely aspiration
+   pneumonia.
+   -continue meropenem for total 14 day course
+   -wbc elevated, send C diff, urinalysis + ucx, blood cx and culture all
+   lines, remove L IJ and culture tip, sputum culture
+   -on no pressors, attempt to wean vent settings- PEEP of 9 and repeat
+   ABG
+   -goal I/O negative 500cc, diurese w/ 20mg IV lasix and 25g albumin as
+   needed
+   -d/w liver potential for diagnostic para (may not need it since on
+   meropenem already)
+   # ARF:
+   -improving, likely pre-renal, now attempting to diurese
+   # hypernatremia: increase free water flushes and recheck p.m. lytes
+   # Anemia: hct stable, check daily
+   -transfuse for Hct <21 or active bleeding
+   -IV PPI
+   #. Ileus:  improved, stop reglan
+   -continue lactulose- increase to tid
+   # Mental status:
+   -continue lactulose, d/c steroids and treat pneumonia, MS improving,
+   tracks to voice
+   # EtoH Cirrhosis: Complicated by encephalopathy, ascites, varices with
+   recent UGIB.  LFTs improving. Encephalopathy management as above
+   - cont to trend LFTs
+   # Coagulopathy: INR elevated
+   - Trend coags
+   # Thrombocytopenia: stable
+   -on sc heparin tid
+   # Diabetes type II:
+   -BG elevated, doing well on insulin drip
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3209-5-26**] 10:39 PM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3209-5-17**] 07:48 PM
+   Multi Lumen - [**3209-5-18**] 03:35 PM
+   Arterial Line - [**3209-5-21**] 08:45 AM
+   Prophylaxis:
+   DVT: sc heparin
+   Stress ulcer:  PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

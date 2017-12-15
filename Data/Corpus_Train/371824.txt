@@ -1,0 +1,168 @@
+TITLE: SICU PROGRESS NOTE
+   SICU
+   HPI:
+   Pt is a 55 yo female w/ PMHx sig for AVR on coumadin, DM,HTN,
+   hypercholesterolemia who is transferred from NWH for evaluation of
+   SDH.  The patient has had n/l face/frontal sinus pain over the last two
+   weeks.  She had multiple ENT evaluations that were found to be
+   negative.  She had an outpatient CT  that showed a R frontal
+   parietotemporal SDH extending from the vertex to the frontal pole and
+   temporal tip with mild midline shift.  The maximal thickness is ~ 8
+   mm.  INR was 4.8 two weeks ago, 1.5 on [**2-21**].9 yesterday, and 2.8
+   today.  She was given 2 units of FFP at the OSH and sent to [**Hospital1 52**]
+   Chief complaint:
+   headache
+   PMHx:
+   AVR - St. Jude's valve in [**2777**], on
+   coumadin, hypercholesterolemia, aortic stenosis, depression, HTN,
+   obesity
+   .
+   PSH: AVR - St. Jude's valve in [**2777**], C-section, ccy
+   Current medications:
+   Acetaminophen 3. Docusate Sodium 4. GlipiZIDE XL 5. Influenza Virus
+   Vaccine 6. Insulin 7. Irbesartan 8. LeVETiracetam 9. Metoprolol
+   Tartrate 10. Morphine Sulfate 11. Omeprazole 12. Pravastatin 13.
+   Sertraline 14. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+   Neurologically stable
+   Allergies:
+   Lipitor (Oral) (Atorvastatin Calcium)
+   muscle pain ;
+   Flowsheet Data as of  [**2783-2-28**] 04:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**85**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.7
+C (98.1
+   HR: 66 (59 - 85) bpm
+   BP: 124/64(75) {117/42(65) - 156/111(114)} mmHg
+   RR: 17 (14 - 25) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  1,860 mL
+                  PO:
+                                                                  1,860 mL
+                  Tube feeding:
+   IV Fluid:
+   Blood products:
+   Total out:
+                                                                  3,800 mL
+                                                                      0 mL
+   Urine:
+                                                                  3,800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,940 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 97%
+   ABG: ////
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: No(t) Rash: , No(t) Jaundice
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   367 K/uL
+   10.9 g/dL
+   236
+   0.6 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   11 mg/dL
+   103 mEq/L
+   139 mEq/L
+   32.4 %
+   7.0 K/uL
+        [image002.jpg]
+                             [**2783-2-26**]  02:38 AM
+                             [**2783-2-27**]  02:01 AM
+                             [**2783-2-27**]  10:00 AM
+                             [**2783-2-27**]  04:00 PM
+                             [**2783-2-27**]  09:00 PM
+                             [**2783-2-28**]  01:44 AM
+   WBC
+   8.9
+   7.6
+   7.0
+   Hct
+   31.7
+   31.4
+   32.4
+   Plt
+   355
+   353
+   367
+   Creatinine
+   0.6
+   0.6
+   Glucose
+   [**Telephone/Fax (3) 8141**]97
+   236
+   Other labs: PT / PTT / INR:15.8/25.2/1.4, Ca:9.4 mg/dL, Mg:1.9 mg/dL,
+   PO4:3.5 mg/dL
+   Imaging: [**2-25**] CT Head:  rt subdural collection, mixed density, measures
+   up to 1cm in transverse dimension, 8mm leftward shift of midline
+   structures
+   rt cerebral sulci effaced, no uncal or transtentorial herniation
+   CT [**2-26**]: no change in R SDH or midline shift
+   CT [**2-27**]: no change in R SDH or midline shift
+   Assessment and Plan
+   [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS, SUBDURAL HEMORRHAGE
+   (SDH), PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: Pt is a 55 yo female w/ PMHx sig for AVR on
+   coumadin, DM, HTN,hypercholesterolemia with R SDH admitted to ICU to
+   reverse anticoagulation
+   Neurologic: q 4 hr neuro checks, Keppra 1000 mg [**Hospital1 **] x 7 days, cont
+   sertraline. morphine, acetaminophen prn for headache
+   Cardiovascular: HD stable, goal SBP < 140, cont Lopressor/Irbesartan,
+   cont Pravastatin.  Restart Coumadin today for mechanical valve.
+   Pulmonary: no issues
+   Gastrointestinal / Abdomen: regular diet
+   Nutrition: regular diet
+   Renal: adequate urine output, creat normal
+   Hematology: Total of 3 ffp given. INR now <1.5
+   Endocrine: glipizide, RISS, [**Last Name (un) 257**] to see today
+   Infectious Disease: no issues
+   Lines / Tubes / Drains: peripheral IV, Foley
+   Wounds: none
+   Imaging: none
+   Fluids: KVO
+   Consults: Neuro surgery
+   Billing Diagnosis: (Hemorrhage, NOS: Subdural)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Comments: Glipizide
+   Lines:
+   20 Gauge - [**2783-2-26**] 10:17 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: Not indicated
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 32 min
+
+
+
+DOC CLASS

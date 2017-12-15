@@ -1,0 +1,150 @@
+TITLE:
+   Chief Complaint: V-tach, code blue on floor
+   24 Hour Events:
+ CARDIAC CATH - At [**3052-10-19**] 12:30 PM
+   -2 DES to Left Circ @ cath (90% prox and mid vessel stenosis);
+   RCA known total occlusion w/collaterals; 130cc contrast; (Stented the
+   prox LCX into a large OM with two overlapping 3.5x12 and 3.0x28 Promus
+   DES.)
+   -on aspirin, plavix
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3052-10-20**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 58 (51 - 71) bpm
+   BP: 103/66(74) {94/54(64) - 122/107(111)} mmHg
+   RR: 22 (13 - 25) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95.2 kg (admission): 95.2 kg
+   Height: 69 Inch
+             Total In:
+                                                                  1,830 mL
+                                                                    350 mL
+   PO:
+                                                                    730 mL
+             TF:
+   IVF:
+                                                                  1,100 mL
+                                                                    350 mL
+   Blood products:
+   Total out:
+                                                                  1,350 mL
+                                                                    450 mL
+   Urine:
+                                                                  1,350 mL
+                                                                    450 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    480 mL
+                                                                   -100 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   237 K/uL
+   13.1 g/dL
+   3.9 mEq/L
+   39.6 %
+   8.5 K/uL
+                            [**3052-10-19**]  12:06 PM
+                            [**3052-10-19**]  08:18 PM
+                            [**3052-10-20**]  05:56 AM
+   WBC
+   8.5
+   Hct
+   39.6
+   Plt
+   235
+   237
+   TropT
+   <0.01
+   0.01
+   Other labs: CK / CKMB / Troponin-T:53//0.01
+   Assessment and Plan
+   68 year old man with history of CAD, syncope and ventricular
+   tachycardia transferred from the [**Hospital1 1859**] service for one minute of
+   polymorphic VT vs. torsades.
+   .
+   # RHYTHM:  Recent hx of torsades vs. polymorphic VT, during which time
+   the patient was unresponsive and CPR was administered for 1 minute, no
+   shocks were administered.  The patient was given IV mag on first
+   evaluation.  Troponins negative to date.  No o/n events.  Suspect
+   ischemic etiology of his arrhythmia at this time given his extensive
+   coronary disease.
+   -continue telemetry, amiodarone if needed for ventricular arrhythmia
+   - Monitor on telemetry overnight
+   - Will use Amiodarone only if becomes unstable given plan for EP study
+   - Continue metoprolol.
+   .
+   #. CORONARIES:  S/p stent placement to the mid and proximal circ.
+   -continue aspirin/plavix
+   - Continue medical management with aspirin, metoprolol, lisinopril and
+   atorvastatin.
+   .
+   #. PUMP:  Recent Echo did not show evidence of systolic function or
+   major valvular disorders.  Continue to monitor I/Os and daily weights.
+   - Prevention with metoprolol and lisinopril
+   - repeat echo today, eval systolic funx
+   .
+   #. Hypertension: Continue home metoprolol and lisinopril.
+   .
+   #. Hyplerlipidemia:  Continue atorvastatin.  Most recent lipids are
+   from [**6-/3052**] LDL was 84 and HDL 56.
+   .
+   # Constipation: pt without BM since Saturday.  Will start
+   senna/docusate today.
+   ICU Care
+   Nutrition: cardiac/heart healthy
+   Glycemic Control:  n/a
+   Lines:
+   20 Gauge - [**3052-10-19**] 05:30 AM
+   Prophylaxis:
+   DVT: subcu heparin
+   Stress ulcer: n/a
+   VAP:  n/a
+   Comments:
+   Communication:  Comments: with patient
+   Code status: Full code
+   Disposition: to floor today
+   ------ Protected Section ------
+   Addendum: physical exam inadvertently left out of above note, please
+   see below:
+   GEN: Alert, oriented, NAD.
+   CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: Faint crackles in R base otherwise CTAB.  No rhonchi or rales
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: No c/c/e. R cath site without evidence of active bleeding
+   or hematoma formation.  Dressing in place.  No bruits.  2+ DP pulses
+   bilaterally.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name8 (MD) 4323**], MD
+   on:[**3052-10-20**] 07:38 ------
+
+
+
+DOC CLASS

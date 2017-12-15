@@ -1,0 +1,185 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -o/n patient tearful
+   - tolerated IV boluses of Metoprolol 7.5 -> changed to PO this AM
+   - remained in A-Fib
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2808-11-4**] 02:10 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2808-11-4**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.7
+C (98.1
+   HR: 93 (84 - 112) bpm
+   BP: 133/82(95) {99/64(73) - 147/93(105)} mmHg
+   RR: 22 (8 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+                  Total In:
+                                                                  2,688 mL
+                                                                     60 mL
+   PO:
+                                                                    540 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                  2,148 mL
+   Blood products:
+   Total out:
+                                                                  3,020 mL
+                                                                    750 mL
+   Urine:
+                                                                  2,220 mL
+                                                                    750 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -333 mL
+                                                                   -690 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///24/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   289 K/uL
+   14.4 g/dL
+   117 mg/dL
+   0.8 mg/dL
+   24 mEq/L
+   4.0 mEq/L
+   9 mg/dL
+   107 mEq/L
+   140 mEq/L
+   42.8 %
+   11.8 K/uL
+        [image002.jpg]
+                            [**2808-11-3**]  01:27 PM
+                            [**2808-11-3**]  08:06 PM
+                            [**2808-11-3**]  09:08 PM
+                            [**2808-11-4**]  05:02 AM
+   WBC
+   16.0
+   13.3
+   11.8
+   Hct
+   41.8
+   38.4
+   42.0
+   42.8
+   Plt
+   265
+   310
+   279
+   289
+   Cr
+   1.0
+   0.8
+   TropT
+   0.09
+   1.21
+   1.28
+   Glucose
+   142
+   117
+   Other labs: PT / PTT / INR:12.5/27.3/1.1, CK / CKMB /
+   Troponin-T:918/115/1.28, ALT / AST:26/24, Alk Phos / T Bili:70/0.4,
+   Ca++:9.1 mg/dL, Mg++:2.2 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   ASSESSMENT AND PLAN 53 yo M with hypertension and h/o positive PPD
+   presents with acute onset of SSCP found to have STEMI significant for
+   RV infarct.
+   .
+   # CORONARIES: Patient presented with acute STEMI in RCA territory,
+   complicated by CHB in cath lab and Afib post cath. His risk includes
+   HTN. He received 2 overlapping BMS in cath lab and was started on
+   integrillin.
+   -[**Last Name (LF) 11393**], [**First Name3 (LF) 5**] 325mg, plavix 75 to start in am
+   -metoprolol for rate control especially given Afib
+ 25mg PO q6h,
+   uptitrate as tolerated
+   -atorvastatin 80mg daily
+   -f/u lipid panel, HA1C
+   -lisinopril 5mg daily to start in am
+   -trend CKs to peak
+   -EKG in am
+   .
+   # PUMP: Currently patient appear euvolemic, does have small Q in
+   inferior leads. Echo would be beneficial to see RV function.
+   - f/u TTE
+   - I/O net negative.
+   .
+   # RHYTHM: Patient had intermittent CHB in setting of infarct, currently
+   in Afib with RVR to 120s after revascularization. Will likely convert
+   on his own.
+   - monitor on tele
+   - Metoprolol PO q6h, holding off acei
+   - IV heparin today.
+   - patient has been in AFIB for 24hours will need
+   .
+   # Leukocytosis: Likely [**1-21**] infarct, no signs or symptoms of infection.
+   -CXR for baseline
+   -trend
+   .
+   # Elevated INR: Likely [**1-21**] to anticoagulation currently vs nutritional.
+   -trend coags
+   -consider PO VitK in am
+   .
+   # Hypertension: per patient report although does not know medication
+   and neither does his wife.
+   -monitor
+   -BB and ACEI as above
+   .
+   FEN: NPO for now
+   .
+   ACCESS: 2 PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots, patient refusing SC heparin
+   -Pain management with tylenol
+   -Bowel regimen with prn senna/colace
+   -stress ulcer ppx not indicated
+   .
+   CODE: full confirmed
+   .
+   COMM:  [**Last Name (LF) 11367**],[**First Name3 (LF) **] [**Doctor First Name **] [**Telephone/Fax (1) 11368**]
+   .
+   DISPO: [**Hospital1 1859**] today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2808-11-3**] 01:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

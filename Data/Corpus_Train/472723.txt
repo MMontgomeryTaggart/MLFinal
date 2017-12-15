@@ -1,0 +1,157 @@
+CVICU
+   HPI:
+   HD6
+   Pre-Op Weight:0 lbs   0 kgs
+   POD 2-L CEA
+   Antibiotics:none
+   Anticoagulant:ASA, SQH
+   Beta/blocker Statin:metoprolol/atorvastatin
+   Baseline Creatinine:0.8
+   PMH:
+   Multiple Upper GI bleeds, NSTEMI-->in the context of an upper GIB
+   Hypertension, Type 2 diabetes poorly compliant on medications
+   [**3213**] small SDH along the falx and small amount of SAH [**3213**] -->C5-C6
+   small disc protrusion (hemangioma seen in the dens during this MRI)
+   Prior CT head imaging has mentioned multiple lacunar strokes
+   in the right frontal lobe Asymptomatic rise of CK in the context of
+   simvastatin, the patient was requested to stop it, but appears to be
+   still on it.
+   PSH:Duodenal Ulcer s/p duodenotomy
+   Chief complaint:
+   PMHx:
+   Current medications:
+    2. 3. 4. Acetaminophen 5. Artificial Tears 6. Atorvastatin 7. Dextrose
+   50% 8. Glucagon
+   9. Heparin 10. HydrALAzine 11. HydrALAzine 12. Insulin 13. Lisinopril
+   14. MetFORMIN (Glucophage)
+   15. Metoprolol Tartrate 16. Morphine Sulfate 17. Nitroprusside Sodium
+   18. Pantoprazole 19. Phenylephrine
+   20. Sodium Chloride 0.9% Flush 21. Sodium Chloride 0.9% Flush 22.
+   TraMADOL (Ultram)
+   24 Hour Events:
+   Allergies:
+   Aspirin
+   GI bleeding;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Hydralazine - [**3217-1-29**] 11:30 AM
+   Other medications:
+   Flowsheet Data as of  [**3217-1-30**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**18**] a.m.
+   Tmax: 37.4
+C (99.4
+   T current: 37.2
+C (99
+   HR: 64 (57 - 110) bpm
+   BP: 115/54(73) {97/42(61) - 149/67(94)} mmHg
+   RR: 15 (13 - 20) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 61 kg (admission): 65 kg
+   Height: 63 Inch
+             Total In:
+                                                                    957 mL
+                                                                     69 mL
+   PO:
+                                                                    660 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    297 mL
+                                                                     69 mL
+   Blood products:
+   Total out:
+                                                                  1,980 mL
+                                                                  1,075 mL
+   Urine:
+                                                                  1,980 mL
+                                                                  1,075 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,023 mL
+                                                                 -1,006 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 96%
+   ABG: ///23/
+   Physical Examination
+   Labs / Radiology
+   218 K/uL
+   11.5 g/dL
+   108
+   0.7 mg/dL
+   23 mEq/L
+   3.4 mEq/L
+   10 mg/dL
+   106 mEq/L
+   138 mEq/L
+   34.1 %
+   11.7 K/uL
+        [image002.jpg]
+                             [**3217-1-29**]  02:24 AM
+                             [**3217-1-29**]  07:00 AM
+                             [**3217-1-30**]  12:44 AM
+                             [**3217-1-30**]  06:00 AM
+   WBC
+   9.8
+   11.7
+   Hct
+   34.9
+   34.1
+   Plt
+   191
+   218
+   Creatinine
+   0.6
+   0.7
+   Glucose
+   139
+   198
+   110
+   108
+   Other labs: PT / PTT / INR:19.8/70.0/1.8, Ca:8.7 mg/dL, Mg:1.7 mg/dL,
+   PO4:2.9 mg/dL
+   Assessment and Plan
+   CAROTID ARTERY STENOSIS (OCCLUSION), .H/O CVA (STROKE, CEREBRAL
+   INFARCTION), HEMORRHAGIC
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**3217-1-28**] 06:26 PM
+   Arterial Line - [**3217-1-28**] 06:28 PM
+   18 Gauge - [**3217-1-28**] 06:28 PM
+   20 Gauge - [**3217-1-29**] 05:20 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU, Transfer to floor
+
+
+
+DOC CLASS

@@ -1,0 +1,197 @@
+TITLE:
+   Chief Complaint: s/p Afib ablation
+   [**54**] Hour Events:
+   - Repeat HCT @3am after 2 units PRBC =29.3
+   - Coumadin held over night (INR 2.8), will recheck INR in morning
+   - Weaned off neo, restarted sotalol 120mg [**Hospital1 **]
+   -Post-cath check: groin sites ok, pelvic/abd pain from hematoma
+   decreasing, area tender to palpation is comparatively smaller.
+ OR RECEIVED - At [**3340-7-4**] 06:15 PM
+   recived from pacu
+ ARTERIAL LINE - START [**3340-7-4**] 06:30 PM
+   History obtained from Patient, Medical records
+   Allergies:
+   History obtained from Patient, Medical recordsCalcium Channel Blocking
+   Agents-Benzothiazepines
+   heart block;
+   Statins-Hmg-Coa Reductase Inhibitors
+   severe muscle a
+   Nexium (Oral) (Esomeprazole Mag Trihydrate)
+   Pt. believes th
+   Amiodarone
+   extreme tremors
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   + Abdominal/pelvic pain
+   Flowsheet Data as of  [**3340-7-5**] 07:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.8
+C (98.2
+   HR: 76 (76 - 88) bpm
+   BP: 112/47(67) {96/43(60) - 131/64(86)} mmHg
+   RR: 17 (11 - 21) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+                  Total In:
+                                                                  4,940 mL
+                                                                    540 mL
+   PO:
+                                                                    300 mL
+                                                                    540 mL
+   TF:
+   IVF:
+                                                                  4,516 mL
+   Blood products:
+                                                                    125 mL
+   Total out:
+                                                                  1,445 mL
+                                                                    220 mL
+   Urine:
+                                                                    330 mL
+                                                                    220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,495 mL
+                                                                    320 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 2L
+   SpO2: 98%
+   ABG: 7.37/37/72/22/
+   Physical Examination
+   VS: T=99.5  BP=131/64  HR=85 RR=12  O2 sat=99% on 2L NC
+   GENERAL: WDWN F in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of <10 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. II/VI systolic murmur throughout precordium, no
+   rubs/gallops. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft but tender to palpation over Left lower abdomen to
+   midline, 3-4cm below umbilicus. No HSM or tenderness. Abd aorta not
+   enlarged by palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits. Femoral sites oozing.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: DP 1+ PT 1+
+   Left: DP 1+ PT 1+
+   Labs / Radiology
+   178 K/uL
+   10.9 g/dL
+   145 mg/dL
+   0.8 mg/dL
+   22 mEq/L
+   4.3 mEq/L
+   15 mg/dL
+   107 mEq/L
+   136 mEq/L
+   31.9 %
+   14.9 K/uL
+        [image002.jpg]
+                             [**3340-7-4**]  09:01 PM
+                             [**3340-7-5**]  03:31 AM
+                                   [**3340-7-4**]
+                                   8:53 am
+   WBC
+   14.9
+   9.0
+   Hct
+   36.0
+   31.9
+   13.4
+   Plt
+   178
+   284
+   Cr
+   0.8
+   0.8
+   Glucose
+   145
+   112
+   Other labs: PT / PTT / INR:28.8/31.5/2.8, Ca++:7.6 mg/dL, Mg++:1.4
+   mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   79-year-old female with a longstanding history of paroxysmal atrial
+   fibrillation, HTN, and hyperlipidemia with increasing symptomatic afib
+   s/p PVI c/b large pelvic hematoma.
+   .
+   # RHYTHM: s/p PVI for atrial fibrillation. After procedure, patient
+   currently in sinus rhythm, with old LBBB. Pt continues to be
+   therapeutic on coumadin with INR 2.8 this morning
+   - restart sotalol at lower dose of 120 [**Hospital1 **] (home dose is 160mg PO BID)
+   - Recheck ECG in am, monitor on tele
+   - Recheck INR in afternoon, restart coumadin if INR decreased <2.3,
+   once bleed stabilized
+   # PELVIC HEMATOMA: Complication of PVI procedure. Measured at 12x 5 cm
+   on CT wet read, with no retroperitoneal bleeding. 2 units PRBC given
+   post-procedure, Hct bumped initially to 2 units from 29.4-> 36.0, but
+   3am labs show Hct 31.9. 3am Hct of 31.9 likely more indicative of Hct
+   after equilibration, indicating Hct did not increase appropriately. In
+   the setting of hemodilution with IVF during/after procedure and
+   therapeutic INR, she may have continued bleeding. Exam indicates no
+   expansion, of hematoma suggesting stablization.
+   - f/u Hct at 9am, then noon Hct
+   -Monitor physical exam for signs of bleeding or expansion of hematoma
+   - f/u final read of CT abdomen/pelvis
+   - Pain control with Tylenol #3
+   - Check afternoon Coags; if INR<2.3,  and bleed stabilized, may restart
+   coumadin
+   # PUMP: Pt has preserved EF>60%. Pt appears euvolemic, no evidence of
+   overload on exam. Exam c/w adequate peripheral perfusion.
+   -Monitor clinical exam for signs of overload
+   -strict I/Os, daily weights
+   .
+   # CORONARIES: Status of coronaries not documented; had cath in past,
+   but results unknown, no mention of CAD or PCI. Risk factors include HTN
+   and hyperlipidemia.
+   .
+   # TRANSIENT HYPOTENSION: During procedure became hypotensive, on
+   transfer was on 0.8 of neosynephrine, but weaned off pressors soon
+   after arrival.
+   - monitor hemodynamics
+   - if remains stable, w/ SBPs >120, restart metoprolol and valsartan as
+   tolerated
+   .
+   # GERD: not currently active.
+   - continue ranitidine 150mg PO BID.
+   .
+   #  Hyperlipidemia: stable; not currently treated with statins.
+   .
+   #FEN: Cardiac Heart healthy diet.
+   .
+   COMM: [**Name (NI) 693**] [**Name (NI) 448**] (husband): [**Telephone/Fax (1) 7534**]
+   DISPO: CCU for now
+   ICU Care
+   Nutrition: Cardaic Heart-healthy diet
+   Glycemic Control:  monitor Glucose
+   Lines:
+   Arterial Line - [**3340-7-4**] 06:30 PM
+   18 Gauge - [**3340-7-4**] 06:31 PM
+   20 Gauge - [**3340-7-4**] 06:32 PM
+   Prophylaxis:
+   DVT: Therapeutic on coumadin
+   Stress ulcer: ranitidine
+   VAP:
+   Comments:
+   Communication:  Comments: Husband [**Name (NI) 4316**] [**Telephone/Fax (1) 7534**]
+   [**Name2 (NI) 151**] status: FULL code, ICU consent signed
+   Disposition: CCU for now
+
+
+
+DOC CLASS

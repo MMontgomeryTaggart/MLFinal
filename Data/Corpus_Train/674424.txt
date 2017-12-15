@@ -1,0 +1,256 @@
+TITLE:
+   Chief Complaint:  chest pain
+   HPI:
+   Please see the CT surgery admission note and Cardiology consult H&P for
+   full details.
+   In brief, this is a 64yo M w/CAD s/p CABG X 3 who presented to an OSH
+   with chest pain that began after shoveling snow on [**2783-2-16**].  He
+   describes the pain as a sharp sensation below his right lower rib. He
+   took 2 NTG tablets without effect and presented to [**Location (un) 10683**] (NH)
+   Hospital where biomarkers were positive (peak Tn 2.4, CKMB 10.8, CK
+   147). He underwent cardiac catheterization which showed a patent vein
+   graft to the LAD with the remaining grafts and native vessels occluded
+   or severely diseased. Following the procedure he had persistent chest
+   pain despite high dose nitro gtt. He was felt not to be a candidate for
+   re-do bypass by the surgeon at the OSH. An intraaortic balloon pump was
+   placed and he was transferred to [**Hospital1 17**] under for evaluation by Dr.
+   [**Last Name (STitle) 1895**]. On arrival to the CCU, he continued to c/o CP but soon
+   thereafter became pain free on a heparin gtt, integrilin and a nitro
+   gtt.  He was evaluated by CT surgery and Dr. [**Last Name (STitle) 7030**] and was transferred
+   to the CCU service on [**2782-2-19**] to proceed with
+   .
+   Family reports he developed slurred speech 3 days ago the day prior to
+   the onset of his chest pain. Denied motor deficits or disorientation.
+   Of note, he had run out of his oxycodone for several days.  He has had
+   chronic anterior chest pain as a result of his repeated sternotomies
+   for which he takes oxycodone x 10 years.
+   .
+   On cardiac review of symptoms, cardiac and musculoskeletal chest pain
+   as above. No PND, orthopnea, DOE, [**Location (un) **].
+                               History obtained from Patient
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,450 units/hour
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**2783-2-19**] 05:29 AM
+   Morphine Sulfate - [**2783-2-19**] 07:20 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   DM
+   HTN
+   Hyperlipidemia
+   CAD
+   chest pain syndrome
+   Cardiac Risk Factors include diabetes, hyperlipidemia and hypertension.
+   NC
+   Occupation:
+   Drugs: denies
+   Tobacco: former smoker
+   Alcohol: denies
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Cardiovascular: Chest pain, No(t) Palpitations, No(t) Edema, No(t)
+   Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria
+   Flowsheet Data as of [**2783-2-19**] 04:32 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**85**] AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 36.9
+C (98.4
+   HR: 58 (58 - 72) bpm
+   BP: 140/52(85) {114/33(73) - 157/68(103)} mmHg
+   RR: 20 (12 - 34) insp/min
+   SpO2: 95%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 72.8 kg (admission): 73.4 kg
+   Height: 64 Inch
+             Total In:
+                                                                    277 mL
+                                                                    826 mL
+   PO:
+                                                                    150 mL
+                                                                    150 mL
+   TF:
+   IVF:
+                                                                    127 mL
+                                                                    676 mL
+   Blood products:
+   Total out:
+                                                                    775 mL
+                                                                    970 mL
+   Urine:
+                                                                    250 mL
+                                                                    970 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -498 mL
+                                                                   -144 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: 7.46/38/84.[**Numeric Identifier 981**]/24/2
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   170 K/uL
+   9.7 g/dL
+   193
+   1.0 mg/dL
+   12 mg/dL
+   24 mEq/L
+   107 mEq/L
+   3.7 mEq/L
+   139 mEq/L
+   27.4 %
+   6.8 K/uL
+        [image002.jpg]
+                                  [**2779-2-12**]
+                          2:33 A1/8/[**2783**]  10:08 PM
+                                  [**2779-2-16**]
+                          10:20 P1/9/[**2783**]  05:26 AM
+                                  [**2779-2-17**]
+                          1:20 P1/9/[**2783**]  07:34 AM
+                                  [**2779-2-18**]
+                          11:50 P1/9/[**2783**]  09:00 AM
+                                  [**2779-2-19**]
+                                   1:20 A
+                                  [**2779-2-20**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2779-3-15**]
+                                   1:20 P
+                                  [**2779-3-15**]
+                                   11:20 P
+                                  [**2779-3-15**]
+                                   4:20 P
+   WBC
+                                     6.1
+                                     6.8
+   Hct
+                                    27.8
+                                    27.4
+   Plt
+                                     151
+                                     170
+   Cr
+                                     0.9
+                                     1.0
+   TropT
+                                    0.21
+   TC02
+                                     28
+   Glucose
+                                     [**Telephone/Fax (3) 12372**]
+   Other labs: PT / PTT / INR:12.2/44.1/1.0, CK / CKMB /
+   Troponin-T:71/3/0.21, Ca++:7.8 mg/dL, Mg++:1.8 mg/dL, PO4:3.1 mg/dL
+   Imaging:
+   CARDIAC CATHETERIZATION [**2783-2-18**] at [**Location (un) 10683**] Hospital: patent SVG-LAD,
+   LMCA 80% distal stenosis, LAD occluded at midportion, LCx proximally
+   occluded, RCA occluded, SVG->OM/Diag not able to be engaged despite use
+   of JR4, [**Last Name (LF) 12360**], [**First Name3 (LF) **] or [**Doctor First Name **].
+   .
+   ECHO [**2783-2-19**]:
+   The left atrium is moderately dilated. Left ventricular wall
+   thicknesses are normal. The left ventricular cavity size is top
+   normal/borderline dilated with focal hypokinesis of the distal septum.
+   The remaining segments contract normally (LVEF = 55 %). The right
+   ventricular cavity is mildly dilated with depressed free wall
+   contractility. The diameters of aorta at the sinus, ascending and arch
+   levels are normal. The aortic valve leaflets (3) are mildly thickened
+   but aortic stenosis is not present. Trace aortic regurgitation is seen.
+   The mitral valve appears structurally normal with trivial mitral
+   regurgitation. There is mild pulmonary artery systolic hypertension.
+   There is no pericardial effusion.
+   .
+   IMPRESSION: Suboptimal image quality. Right ventricular cavity
+   enlargement with free wall hypokinesis. Focal left ventricular systolic
+   dysfunction c/w CAD. Mild pulmonary artery systolic hypertension.
+   ECG: ECG [**2783-2-18**]: SR 64 bpm. Q III, small avF. t wave flattening III,
+   avL, avF. Unchanged from EKG [**2783-2-17**] from OSH
+   Assessment and Plan
+   Mr. [**Known patient lastname 12373**] is a 64M with severe CAD s/p CABG x 3. He is not a surgical
+   candidate per CT surgery.
+   .
+   1. CORONARY ARTERY DISEASE: pt with CAD s/p CABG x 3.  Currently chest
+   pain free on nitro, heparin, IABP in place.
+   - pt with severe 3V disease with 1 graft patent
+   - per Dr. [**Last Name (STitle) 7030**], plan for intervention on monday
+   - continue nitro gtt, heparin gtt, IABP
+   - integrillin off (was on for 24 hours)
+   - Metoprolol 12.5mg PO BID as tolerated by BP and HR
+   - high dose statin, ASA
+   - Dr. [**Last Name (STitle) 7030**] to review cath films for potential catheter-based
+   intervention
+   .
+   2. PUMP: ECHO with distal septal hypokinesis, EF 55%. Appears euvolemic
+   on exam without evidence of failure.
+   - continue to assess fluid status
+   - holding ACE for now given catheterization
+   .
+   3. RHYTHM: sinus
+   .
+   4. DIABETES:
+   - check HBA1C
+   - hold glyburide, metformin while in house
+   - HISS
+   .
+   5. HYPERCHOLESTEROLEMIA:
+   - high dose statin
+   - continue gemfibrizol, zetia
+   - lipid panel in AM
+   .
+   6. FEN: cardiac/diabetic diet
+   .
+   7. PPx: IV heparin, colace
+   .
+   8. Code Status: FULL
+   .
+   9. Dispo: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   IABP line - [**2783-2-18**] 09:15 PM
+   18 Gauge - [**2783-2-18**] 09:15 PM
+   20 Gauge - [**2783-2-18**] 09:15 PM
+   Arterial Line - [**2783-2-19**] 02:56 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

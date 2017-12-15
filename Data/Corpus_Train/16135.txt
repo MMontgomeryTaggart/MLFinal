@@ -1,0 +1,47 @@
+Admission Date: [**2535-3-8**]        Discharge Date: [**2535-3-17**]
+
+Date of Birth:  [**2468-10-15**]        Sex:  F
+
+Service:
+
+
+PROCEDURE PERFORMED:  Abdominal wall split thickness skin
+grafting, donor site left thigh.
+
+OVERT DIAGNOSES:
+1. History of an aortic aneurysm rupture requiring multiple
+    abdominal explorations for mesenteric and pancreatic
+    ischemia.
+2. She has also undergone a takedown of a colostomy in the
+    past that developed a small dehiscence.
+3. Ventral hernia repaired with Marlex.
+4. She also has a cerebral aneurysm that has been coiled.
+5. Atrial fibrillation.
+6. Chronic kidney disease.
+7. Hypertensive disease.
+8. Coronary artery disease.
+
+HOSPITAL COURSE:  Ms. [**Known patient lastname **] was admitted to the hospital
+where she underwent split thickness skin grafting on the
+19th. A back dressing was placed on the wound. Her
+postoperative course was uneventful. On day 3, we took the
+vac dressing down. The skin graft had near 100% take, and we
+were able to at this point convert her management to
+bacitracin and adaptic.
+
+PLAN:  She was discharged home on [**2535-3-11**] to followup with
+Dr. [**First Name (STitle) **] in one week.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD
+
+Dictated By:[**Last Name (NamePattern4) 15208**]
+MEDQUIST36
+D:  [**2535-7-12**] 18:52:31
+T:  [**2535-7-12**] 21:07:03
+Job#:  [**Job Number 22621**]
+
+
+
+DOC CLASS

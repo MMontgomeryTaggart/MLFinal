@@ -1,0 +1,180 @@
+Chief Complaint:
+   24 Hour Events:
+ BRONCHOSCOPY - At [**3305-2-18**] 05:20 PM
+   [**3305-2-18**]
+   - gave 1 unit of blood (with lasix); then gave a 2nd unit
+   - started pantoprazole [**Hospital1 7**]
+   - consulted pulm, bronch didn't show anything (no current hemorrhage)
+   - CT chest showed pulmonary hemorrhage, added ANCA, [**Doctor First Name **], C3, C4,
+   anti-GBM
+   - repeat K was 3.3 -> repleted with 80 meq
+   - INR increasing, gave vitamin K
+   - 500 cc positive at MN, will need to reassess I/O
+   - CD of CT scan being mailed to [**Hospital1 **]
+   .
+   [**3305-2-18**]
+   K+ 3.6 repleted, check K+ at 10am.
+   HCT dropped from 29.5 to 24.5. Repeat HCT requested, hemolysis labs
+   checked.
+   HD stable with BP ~ 112.
+   Hemolysis labs sent with type and cross.
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Unknown;
+   Tetracycline
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin - [**3305-2-17**] 10:00 PM
+   Vancomycin - [**3305-2-18**] 09:15 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3305-2-19**] 12:51 AM
+   Infusions:
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3305-2-18**] 09:15 PM
+   Heparin Sodium (Prophylaxis) - [**3305-2-18**] 09:30 PM
+   Fentanyl - [**3305-2-19**] 04:40 AM
+   Midazolam (Versed) - [**3305-2-19**] 04:40 AM
+   Furosemide (Lasix) - [**3305-2-19**] 05:46 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3305-2-19**] 07:43 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**06**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.3
+C (97.3
+   HR: 96 (60 - 107) bpm
+   BP: 146/53(84) {97/39(57) - 178/76(110)} mmHg
+   RR: 19 (14 - 25) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74.8 kg (admission): 70 kg
+           Total In:
+                                                                  2,220 mL
+                                                                    323 mL
+   PO:
+           TF:
+   IVF:
+                                                                    963 mL
+                                                                    229 mL
+   Blood products:
+                                                                    477 mL
+                                                                     94 mL
+   Total out:
+                                                                  1,700 mL
+                                                                    143 mL
+   Urine:
+                                                                  1,700 mL
+                                                                    143 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    520 mL
+                                                                    180 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 61
+   PIP: 30 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 28.7 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.40/51/76.[**Numeric Identifier 119**]/31/4
+   Ve: 7.3 L/min
+   PaO2 / FiO2: 190
+   Physical Examination
+   Labs / Radiology
+   279 K/uL
+   10.0 g/dL
+   89 mg/dL
+   0.8 mg/dL
+   31 mEq/L
+   4.2 mEq/L
+   17 mg/dL
+   96 mEq/L
+   132 mEq/L
+   29.6 %
+   9.0 K/uL
+        [image002.jpg]
+                             [**3305-2-17**]  06:01 PM
+                             [**3305-2-17**]  07:43 PM
+                             [**3305-2-18**]  02:58 AM
+                             [**3305-2-18**]  03:11 AM
+                             [**3305-2-18**]  06:16 AM
+                             [**3305-2-18**]  06:07 PM
+                             [**3305-2-18**]  06:18 PM
+                             [**3305-2-18**]  10:08 PM
+                             [**3305-2-19**]  05:13 AM
+                             [**3305-2-19**]  05:25 AM
+   WBC
+   16.5
+   11.9
+   9.0
+   Hct
+   29.5
+   24.5
+   24.8
+   25.4
+   29.6
+   Plt
+   449
+   338
+   279
+   Cr
+   0.9
+   0.8
+   0.8
+   0.8
+   TropT
+   1.45
+   0.68
+   TCO2
+   26
+   32
+   32
+   32
+   33
+   Glucose
+   139
+   103
+   89
+   Other labs: PT / PTT / INR:17.1/28.1/1.5, CK / CKMB /
+   Troponin-T:92/27/0.68, ALT / AST:14/27, Alk Phos / T Bili:63/0.6,
+   Differential-Neuts:85.0 %, Band:1.0 %, Lymph:9.0 %, Mono:3.0 %, Eos:0.0
+   %, Lactic Acid:1.0 mmol/L, LDH:306 IU/L, Ca++:8.3 mg/dL, Mg++:2.5
+   mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ ANXIETY
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3305-2-17**] 06:25 PM
+   20 Gauge - [**3305-2-18**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+
+DOC CLASS

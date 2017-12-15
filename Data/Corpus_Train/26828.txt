@@ -1,0 +1,320 @@
+Admission Date:  [**3020-2-7**]              Discharge Date:   [**3020-2-14**]
+
+Date of Birth:  [**2962-2-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Erythromycin Base
+
+Attending:[**First Name3 (LF) 64**]
+Chief Complaint:
+Chest pain, DOE, fatigue
+
+Major Surgical or Invasive Procedure:
+[**2-7**] CABG x 3 LIMA->LAD, SVG->OM, SVG->PDA with re-exploration
+for bleeding
+
+
+History of Present Illness:
+57yo M with family h/o coronary artery disease c/o chest
+tightness over the last couple of years with exertion.  Had +ETT
+which was positive for ST depression after 6mins of exercise.
+Subsequent cardiac cath at MWMC showed LAD 85%, CX 80%, OM 1
+80%, OM 2 70%, RCA 75%, EF 55%. Referred to Dr. [**Last Name (STitle) 259**] for
+CABG.
+
+Past Medical History:
+Hypercholesteremia
+OA
+GERD
+HA
+rhinitis
+obesity
+slipped disc in L spine
+s/p ventral hernia repair [**2991**]
+s/p indirect inguinal hernia repair [**3012**]
+
+
+Social History:
+Denies Tobacco and Etoh, lives with wife in [**Name (NI) 1762**]
+
+Family History:
+Brother had MI at 55, Father died of MI in 40's, paternal uncles
+with MI in 40's
+
+Physical Exam:
+58yo M in bed NAD
+Neuro AA&Ox3, nonfocal
+Chest CTAB resp unlab median sternotomy stable, c/d/i no d/c,
+RRR no m/r/g
+chest tubes and epicardial wires removed.
+Abd S/NT/ND/BS+
+EXT warm with trace edema, LLE EVH c/d/i
+
+5'7"  230 #
+
+
+Pertinent Results:
+RADIOLOGY   Preliminary Report
+
+CHEST (PA & LAT)  [**3020-2-12**] 11:23 AM
+
+CHEST (PA & LAT)
+
+Reason: assess LLL atelectasis consolidation
+
+UNDERLYING MEDICAL CONDITION:
+58 year old man s/p CABG with h/o LLL consolidation
+REASON FOR THIS EXAMINATION:
+assess LLL atelectasis consolidation
+TWO-VIEW CHEST, [**3020-2-12**]
+
+COMPARISON: [**3020-2-9**].
+
+INDICATION: Left lower lobe opacity.
+
+The patient is status post median sternotomy and coronary artery
+bypass surgery. Cardiac and mediastinal contours are stable in
+the post-operative period. There is a resolving area of opacity
+in the left lower lobe with residual patchy and linear opacity
+remaining. Small pleural effusions are seen bilaterally on the
+lateral projection.
+
+IMPRESSION: Resolving left lower lobe opacity, most likely
+atelectasis.
+
+DR. [**First Name11 (Name Pattern1) 1704**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+
+Cardiology Report ECHO Study Date of [**3020-2-7**]
+PATIENT/TEST INFORMATION:
+Indication: Coronary artery disease.
+Height: (in) 67
+Weight (lb): 240
+BSA (m2): 2.19 m2
+BP (mm Hg): 110/60
+HR (bpm): 80
+Status: Inpatient
+Date/Time: [**3020-2-7**] at 14:34
+Test: TEE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Tape Number: 2006AW584-:
+Test Location: Anesthesia West OR cardiac
+Technical Quality: Adequate
+REFERRING DOCTOR: DR. [**First Name (STitle) **] [**Last Name (Prefixes) **]
+
+MEASUREMENTS:
+Left Ventricle - Septal Wall Thickness: *1.3 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Inferolateral Thickness: *1.2 cm (nl 0.6 - 1.1
+cm)
+Left Ventricle - Ejection Fraction: 55% to 60% (nl >=55%)
+Aorta - Valve Level: 2.5 cm (nl <= 3.6 cm)
+Aorta - Ascending: 3.4 cm (nl <= 3.4 cm)
+Aorta - Arch: 0.0 cm (nl <= 3.0 cm)
+Aortic Valve - Peak Velocity: 1.0 m/sec (nl <= 2.0 m/sec)
+
+INTERPRETATION:
+
+Findings:
+
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the
+LA/LAA or the
+RA/RAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size and
+systolic
+function (LVEF>55%).
+
+LV WALL MOTION: basal anterior - normal; mid anterior - normal;
+basal
+anteroseptal - normal; mid anteroseptal - normal; basal
+inferoseptal - normal;
+mid inferoseptal - normal; basal inferior - normal; mid inferior
+- normal;
+basal inferolateral - normal; mid inferolateral - normal; basal
+anterolateral
+- normal; mid anterolateral - normal; anterior apex - normal;
+septal apex -
+normal; inferior apex - normal; lateral apex - normal; apex -
+normal;
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic root diameter. Normal ascending aorta
+diameter. Normal
+aortic arch diameter. Focal calcifications in descending aorta.
+
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+
+
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with
+physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. The patient
+appears to be
+in sinus rhythm.
+
+Conclusions:
+PRE-BYPASS:
+No spontaneous echo contrast or thrombus is seen in the body of
+the left
+atrium/left atrial appendage or the body of the right
+atrium/right atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. There is
+mild symmetric left ventricular hypertrophy with normal cavity
+size and
+systolic function (LVEF>55%). Right ventricular chamber size and
+free wall
+motion are normal. The aortic valve leaflets (3) are mildly
+thickened but
+aortic stenosis is not present. The mitral valve appears
+structurally normal
+with trivial mitral regurgitation. There is no pericardial
+effusion.
+
+Post-Bypasss:
+Normal left ventricular systolic function. EF 55%. Ascending
+aorta looks
+similar to prebypass period.
+
+Electronically signed by [**Name6 (MD) **] [**Name8 (MD) 3829**], MD on [**3020-2-7**]
+14:42.
+[**Location (un) **] PHYSICIAN:
+
+
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 8658**] was admitted to the [**Hospital1 22**] on [**3020-2-7**] for further
+management of his chest pain and and shortness of breath. His
+catheterization at [**Hospital1 22**] revealed significant 3 vessel disease
+with a preserved LVEF.  Please see catheterization report for
+details.  Given the severity of his disease, the cardiac
+surgical service was consulted for surgical revascularization.
+He was worked-up in the usual preoperative manner.  On [**3020-2-7**]
+he successfully underwent CABGx3 (LIMA->LAD, SVG->OM, SVG->PDA).
+ He was taken back to the operating room for reexploration and
+clot evacuation after having 400cc of bloody drainage out of his
+chest tubes and a normal coagulation panel.  Hemostasis was
+acheived and he was reclosed.  Afterward he was transferred to
+the Cardiac surgery recovery unit in stable condition and
+awakened neurologically intake.  He was weaned from ventilator
+support and extubated.  On POD 2 his pressors were weaned.  His
+chest tubes were removed without complication.  He was gently
+diuresed to his preoperative weight, beta blockade and aspirin
+therapy were resumed, and physical therapy service was consulted
+to assist with his postoperative strength and mobility.
+Electrolytes were repleted as needed.  On POD 3 He was
+transfused  one unit of PRBC's for a HCT of 22.5.  He was then
+transferred to the Stepdown unit for further recovery.  On POD 4
+his epicardial pacing wires were removed without complication,
+he continued to improve his ability to ambulate.  On POD 5 Mr.
+[**Known patient lastname 8658**] had made steady progress in his ability to ambulate
+however his resting heart rate remained in the 90's for which is
+lopressor was increased.  His SBP dropped into the mid 90's with
+ambulation up stairs.  On POD6  He was had improved his exercise
+tolerance, and denied SOB or Chest pain.  His blood pressure was
+stable.  His sternotomy and leg incision were clean, dry, and
+intact without evidence of infection. Discharged delayed until
+pt. had a BM. He was discharged home on POD 7 with services in
+good condition, cardiac diet, sternal precautions, and
+instructed to follow up with his PCP/cardiologist in [**11-22**] weeks.
+He will follow up with Dr. [**Last Name (STitle) 259**] in four weeks.
+
+
+Medications on Admission:
+ASA 81 mg daily
+Lipitor 40 mg daily
+Lopressor 25 mg [**Hospital1 **]
+Excedrin prn HA
+Motrin prn HA
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+4. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+6. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO daily
+for 7 days.
+Disp:*7 Packet(s)* Refills:*0*
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO daily for 7
+days.
+Disp:*7 Tablet(s)* Refills:*0*
+10. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO TID
+Disp:*135 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 777**] Hospice and VNA
+
+Discharge Diagnosis:
+CAD
+lipids
+GERD
+obesity
+Lumbar disc injury
+hernia repair
+artritis
+headaches
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions creams or powders to incisions.
+
+No lifting more than 10 pounds for 10 weeks.
+ No driving for one month.
+
+[**Last Name (NamePattern4) 71**]p Instructions:
+Dr. [**Last Name (STitle) 3707**] in [**11-22**] weeks [**Telephone/Fax (1) 8419**]
+Dr. [**Last Name (Prefixes) **] 4 weeks [**Telephone/Fax (1) 181**]
+Dr. [**First Name (STitle) **] in  [**12-24**] weeks
+
+
+
+Completed by:[**3020-2-14**]
+
+
+DOC CLASS

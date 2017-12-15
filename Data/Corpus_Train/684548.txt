@@ -1,0 +1,243 @@
+Chief Complaint:
+   24 Hour Events:
+   - foley exchanged for condom cath
+   - INR 1.6 so restarted coumadin and also started lovenox
+   - wife [**Name (NI) **] came to see patient, concerned about mental status
+   Allergies:
+   Codeine
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Cefipime - [**3140-2-20**] 06:00 AM
+   Vancomycin - [**3140-2-20**] 08:00 AM
+   Nafcillin - [**3140-2-20**] 12:30 PM
+   Ampicillin/Sulbactam (Unasyn) - [**3140-2-22**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3140-2-22**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3140-2-22**] 07:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**42**] AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.6
+C (99.7
+   HR: 90 (82 - 99) bpm
+   BP: 166/96(112) {131/78(92) - 166/110(118)} mmHg
+   RR: 19 (12 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 96.2 kg (admission): 97.3 kg
+             Total In:
+                                                                  3,243 mL
+                                                                    815 mL
+   PO:
+             TF:
+                                                                  1,449 mL
+                                                                    437 mL
+   IVF:
+                                                                  1,434 mL
+                                                                    348 mL
+   Blood products:
+   Total out:
+                                                                  1,975 mL
+                                                                  1,475 mL
+   Urine:
+                                                                  1,755 mL
+                                                                  1,475 mL
+   NG:
+                                                                    220 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,268 mL
+                                                                   -660 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   172 K/uL
+   12.8 g/dL
+   146 mg/dL
+   1.2 mg/dL
+   24 mEq/L
+   3.6 mEq/L
+   17 mg/dL
+   111 mEq/L
+   143 mEq/L
+   37.9 %
+   11.0 K/uL
+        [image002.jpg]
+   EEG [**2-21**]:
+   This telemetry continued to show an encephalopathic
+   background and extremely frequent epileptiform sharp wave discharges in
+   the right anterior quadrant. Occasionally, they became more rhythmic,
+   but just for a few seconds at a time, not generally sufficient for a
+   diagnosis of ongoing nonconvulsive seizures. At the time of the
+   pushbutton activation, there were much more frequent discharges, and
+   they were somewhat rhythmic but still not as much so on the recordings
+   of three and four days earlier.
+   CT Head [**2-20**]:
+   1. No acute intracranial hemorrhage or large acute infarct.
+   2. Multiple areas of infarct/surgical/radiation change.
+   3. Right petrous apex meningioma.
+   CSF:
+   GRAM STAIN (Final [**3140-2-17**]):
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+      NO MICROORGANISMS SEEN.
+   FLUID CULTURE (Final [**3140-2-20**]):    NO GROWTH.
+      FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+   Blood Cx [**2-16**]:
+   Blood Culture, Routine (Final [**3140-2-22**]):
+      AEROCOCCUS SPECIES.    IDENTIFIED AS AEROCOCCUS URINAE.
+         ISOLATED FROM ONE SET ONLY.
+         Penicillin E-TEST REQUESTED BY DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 13203**] ON [**3140-2-20**].
+         Penicillin MIC=0.47MCG/ML.
+         THERE ARE NO CLSI GUIDELINES AND INTERPRETATIONS EXISTS FOR
+         PERFORMING SENSITIVITIES ON AEROCOCCUS SPECIES. SENSITIVITIES
+         PERFORMED USING PENICILLIN ETEST METHOD. .
+   Anaerobic Bottle Gram Stain (Final [**3140-2-17**]):
+      GRAM POSITIVE COCCI IN CLUSTERS.
+   Aerobic Bottle Gram Stain (Final [**3140-2-17**]):
+      GRAM POSITIVE COCCI.
+         IN PAIRS AND CLUSTERS.
+                             [**3140-2-17**]  04:03 AM
+                             [**3140-2-17**]  07:42 PM
+                             [**3140-2-18**]  04:46 AM
+                             [**3140-2-19**]  06:32 AM
+                             [**3140-2-19**]  05:25 PM
+                             [**3140-2-20**]  04:50 AM
+                             [**3140-2-20**]  05:05 PM
+                             [**3140-2-20**]  07:17 PM
+                             [**3140-2-21**]  12:17 AM
+                             [**3140-2-21**]  03:54 AM
+   WBC
+   14.1
+   9.9
+   8.3
+   9.5
+   9.4
+   11.0
+   Hct
+   40.1
+   36.0
+   32.7
+   31.8
+   34.0
+   37.9
+   Plt
+   227
+   154
+   126
+   129
+   140
+   172
+   Cr
+   1.4
+   1.2
+   1.4
+   1.2
+   1.2
+   1.2
+   TropT
+   <0.01
+   <0.01
+   TCO2
+   23
+   26
+   Glucose
+   159
+   130
+   107
+   104
+   116
+   130
+   166
+   146
+   Other labs: PT / PTT / INR:15.7/34.0/1.4, CK / CKMB /
+   Troponin-T:84/2/<0.01, ALT / AST:79/112, Alk Phos / T Bili:110/0.7,
+   Differential-Neuts:71.0 %, Band:11.0 %, Lymph:12.0 %, Mono:2.0 %,
+   Eos:0.0 %, Lactic Acid:1.3 mmol/L, Albumin:2.5 g/dL, LDH:261 IU/L,
+   Ca++:7.7 mg/dL, Mg++:2.2 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+ COAGULOPATHY
+ PULMONARY EMBOLISM (PE), ACUTE
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ANEMIA, OTHER
+ BACTEREMIA
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ THROMBOCYTOPENIA, ACUTE
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+ URINARY TRACT INFECTION (UTI)
+ TACHYCARDIA, OTHER
+   55 yo M with PMHx sig. for L cerebellar stroke, astrocytoma, meningioms
+   s/p XRT, seizure disorder, and recent PE on coumadin who presented
+   initially with low-grade fever, vomiting, tachycardia, found to have a
+   UTI and transferred to the [**Hospital Unit Name 1**] for fevers and seizure activity.
+   .
+   # Aerococcus UTI c/b septicemia: Improving as fevers have been trending
+   down. No evidence of IE by TTE and clinical exam. Repeat blood cx have
+   shown no new growth since [**2-16**].
+   - treating with unasyn for 2 wk course (started [**2-20**] -> end [**3-5**])
+   - F/u surveillance blood cx (no growth to date).
+   # Acute mental status changes:  EEG w/ abnormal activity though not c/w
+   ongoing seizures.  His AMS is felt to be secondary to prolonged
+   post-ictal state in the setting of infection.  His LP, MRI, and repeat
+   head CT have been unrevealing for acute processes.  At baseline pt w/
+   h/o astrocytoma and menigioma and CVA.
+   - Continue EEG
+   - Continue keppra 1g [**Hospital1 **]
+   - Appreciate neuro recs
+   - Ativan prn seizures
+   # Thrombocytopenia: Can be secondary to medications.  Have just
+   restarted lovenox.
+   - cont to monitor
+   - consider HIT abs and stopping lovenox if cont to trend down
+   # Seizure disorder:  As above.
+   - cont keppra
+   - cont EEG
+   .
+   # Recent PE:
+   - Coumadin 2.5mg daily
+   - Lovenox bridge
+   - Cont to monitor INR (goal [**2-7**])
+   ICU Care
+   Nutrition:
+   Peptamen 1.5 ([**1-8**]) - [**3140-2-21**] 11:15 PM 60 mL/hour
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3140-2-19**] 07:00 AM
+   18 Gauge - [**3140-2-19**] 05:22 PM
+   Prophylaxis:
+   DVT: coumadin, lovenox
+   Stress ulcer: H2blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   Physical Exam:
+   Pt alert, opens eyes spontaneously, protrudes tongue on command.
+   Rhonchorous BS. Tachy. Abdomen soft Nt/Nd.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 12902**], MD
+   on:[**3140-2-22**] 12:55 ------
+
+
+
+DOC CLASS

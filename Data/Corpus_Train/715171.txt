@@ -1,0 +1,274 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Episode of BRBPR in early afternoon, but appropriate Hct bump to
+   transfusion and no new abdominal pain. SBPs 120s-130s at that time.
+   - Back on levophed briefly in early morning.
+   - Pt complaining of bilateral ear itchiness, bothersome but not painful
+   feeling, possibly mild worsened hearing.
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Shellfish Derived
+   facial swelling
+   Last dose of Antibiotics:
+   Infusions:
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2862-4-21**] 06:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**64**] AM
+   Tmax: 35.7
+C (96.3
+   Tcurrent: 35.7
+C (96.3
+   HR: 78 (62 - 79) bpm
+   BP: 114/64(85) {76/40(54) - 129/76(99)} mmHg
+   RR: 14 (8 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 82.1 kg (admission): 87.6 kg
+    CVP: 27 (19 - 43)mmHg
+   Total In:
+                                                                  8,120 mL
+                                                                  2,140 mL
+   PO:
+                                                                    460 mL
+                                                                    100 mL
+   TF:
+   IVF:
+                                                                  7,310 mL
+                                                                  2,040 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                 12,647 mL
+                                                                  3,465 mL
+   Urine:
+                                                                    735 mL
+                                                                    165 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -4,527 mL
+                                                                 -1,325 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: 7.41/45/94.[**Numeric Identifier 120**]/27/2
+   Physical Examination
+   HEENT
+ lips mildly dry; no oropharyngeal lesions
+   CV
+ irregularly irregular rhythm with II/VI SEM at RLSB, normal rate
+   Pulm: CTAB anteriorly, decreased BS at bases but improved relative to
+   yesterday, minimal crackles at bases
+   Ab: soft, non-tender, non-distended, BS+
+   Extrem: 4+ pitting edema bilaterally in LE; left shin with fluctuant
+   hematoma unchanged from yesterday
+   Labs / Radiology
+   148 K/uL
+   9.0 g/dL
+   108 mg/dL
+   0.9 mg/dL
+   27 mEq/L
+   4.0 mEq/L
+   28 mg/dL
+   98 mEq/L
+   138 mEq/L
+   29.8 %
+   5.0 K/uL
+        [image002.jpg]
+                             [**2862-4-20**]  02:11 AM
+                             [**2862-4-20**]  02:22 AM
+                             [**2862-4-20**]  11:08 AM
+                             [**2862-4-20**]  02:30 PM
+                             [**2862-4-20**]  04:50 PM
+                             [**2862-4-20**]  05:19 PM
+                             [**2862-4-20**]  10:01 PM
+                             [**2862-4-20**]  10:20 PM
+                             [**2862-4-21**]  04:03 AM
+                             [**2862-4-21**]  04:19 AM
+   WBC
+   5.3
+   4.4
+   5.0
+   Hct
+   24.6
+   28.3
+   27.4
+   29.8
+   Plt
+   142
+   119
+   148
+   Cr
+   1.3
+   1.0
+   1.0
+   0.9
+   TCO2
+   31
+   26
+   29
+   29
+   30
+   Glucose
+   118
+   125
+   107
+   141
+   89
+   108
+   Other labs: PT / PTT / INR:13.3/28.8/1.1, CK / CKMB /
+   Troponin-T:30/3/0.02, ALT / AST:11/34, Alk Phos / T Bili:153/0.6,
+   Differential-Neuts:94.4 %, Lymph:3.0 %, Mono:2.2 %, Eos:0.3 %, Lactic
+   Acid:1.1 mmol/L, Albumin:3.5 g/dL, LDH:283 IU/L, Ca++:11.1 mg/dL,
+   Mg++:1.7 mg/dL, PO4:2.1 mg/dL
+   [**4-21**] UA with mod leuks, mod blood, tr protein, neg nitrites; sediment
+   with 17 R 19 W few bact 0 epi
+   [**4-21**] Urine culture pending
+   [**4-20**] C Diff negative
+   [**4-18**] urine culture
+ e coli > 100K, pansensitive except resistant to
+   bactrim (sensitive to ciprofloxacin)
+   Assessment and Plan
+   63 yo female with severe diastolic CHF, pulm HTN, afib, ulcerative
+   colitis, and recent lower GI bleed p/w acute dyspnea and hypoxia,
+   hypotensive on pressors who was transferred from [**Hospital1 **].
+   .
+   # Hypotension: Most likely cardiogenic in setting of worsening dCHF. Pt
+   does have known colitis with guaiac positive stools and planned for
+   outpatient scoping.  Pt with mild leukocytosis (resolved) but no
+   evidence of sepsis. CVL placed.
+   - Will use levophed for pressor support in setting of aggressive
+   diuresis as needed and attempt to wean as possible; goal MAP > 60
+   # Dyspnea/Hypoxia: Patient with severe diastolic heart failure, severe
+   TR admitted with dyspnea, hypoxia. She was 87.6kg on admission and up
+   to 91kg during admission, up from dry weight of 140-145 lbs (65 kg).
+   She describes an acute onset which raises concern for an inciting
+   event. Pt w/ leukocytosis at presentation (now resolved) but no fevers,
+   cough, or clear consolidation suggestive of pneumonia.  Pt in chronic
+   afib but rate controlled.  No CP to suggest ACS; EKG baseline and 2
+   sets CE neg. PE possible but no CP, tachycardia (on beta blocker), or
+   hemoptysis; she does have chronic LLE edema, now ?L>R (same leg as
+   hematoma). Thyroid dysfunction unlikely to provoke acute
+   decompensation.  Per daughter, sx may have been worsening over the past
+   week already; there may be a component of suboptimal dietary/med
+   compliance in this pt with baseline dCHF that has been very difficult
+   to manage.  Repeat TTE unchanged from prior. Episode of chest pain on
+   [**4-18**] resolved; EKG unchanged, troponin 0.01->0.02
+   - Ultrafiltration with careful monitoring of I/O and daily weight ([**4-20**]
+   - 85kg, [**4-21**]
+ 81kg), with fluid goal -3 to -4 L daily
+   - Electrolytes with CVVH
+   - Levophed as necessary while diuresing
+   - Will transition back to home spironolactone, torsemide, and
+   metolazone as able
+   - Nebulizers prn
+   - Dr. [**First Name (STitle) **] (cardiology) recs: ultrafiltration and/or chronic dialysis
+   for volume mgt
+   .
+   # Hematochezia/ulcerative colitis: Recent admission for anemia; thought
+   to have recurrent lower GI angioectasia bleeding.  Pt currently with
+   guaiac positive dark stools but stable Hct since last discharge.
+   Hematochezia most c/w LGIB again rather than UGIB. As patient has no no
+   abdominal cramping, this does not seem to be a UC flare. Pt with [**Doctor Last Name **]
+   antibody.
+   - Active T&S
+   - Trend Hct [**Hospital1 **] for now; transfuse for Hgb > 9 per renal recs (received
+   one unit on [**4-19**] and another on [**4-20**] with appropriate bump)
+   - Cont home po PPI [**Hospital1 **]
+   - Continue asacol 800mg tid
+   - Dr. [**Last Name (STitle) 6643**] (GI) notified: agreed with continuing asacol; can call
+   formal consult if needed.
+   - Pt with diarrhea since starting ciprofloxacin, likely related to
+   antibiotic rather than acute UC flare. Will follow; C. Diff is negative
+   X1.
+   .
+   # Acute renal failure: BUN 100, Cr 2.5 on admission (baseline 1.7)
+   Likely decreased renal perfusion in setting of decompensated heart
+   failure and hypotension. Improving on CVVH. FeNA = 5.8%, FeUN = 31%.
+   Repeat FeUN 23%.
+   - Dr. [**Last Name (STitle) 1901**] (Renal) notified and will follow while patient is in house
+   - Renal recs: ultrafiltration, transfuse to keep Hgb > 9.0
+   - Trend Cr
+   - Renally dose meds, avoid nephrotoxins
+   .
+   # Elevated LFTs: Mild AST and Alk phos elevation; nl ALT and Tbili. No
+   abd pain. Likely congestive hepatopathy. Resolving
+   - Diuresis as above
+   .
+   # Nausea: [**Month (only) 56**] be related to uremia.  No evidence of gastroenteritis
+   currently; abd benign.
+   - Zofran prn
+   .
+   # Afib: Stable with slow ventricular response; not anticoagulated
+   secondary to GI bleeding
+   - Can restart metoprolol when pressures stabilized and off CVVH
+   .
+   # H/o DM: Not on hypoglycemics.
+   - Insulin sliding scale
+   .
+   # Pain/difficulty sleeping. Pt reports diffuse pain in legs, arms,
+everywhere but my stomach
+. Possible component of anxiety.
+   - continue home gabapentin; bengay also ordered
+   - Continue pt
+s oxycodone prn
+   - SW following pt; appreciate SW support. SW felt pt
+s readmission in
+   setting of possible med non-compliance may be related to underlying
+   anxiety/feelings of sadness. Pt has not followed through on outpatient
+   follow-up mental health visits in past.  Pt not currently interested in
+   further psych/therapy eval; denies depression, expresses hope
+   .
+   # UTI: Ciprofloxacin [**2767-4-17**] for empiric treatment of UTI, empiric 3
+   day course given no Foley on admission but has Foley now. Repeat UA on
+   [**4-21**] still with bacteria; culture pending.
+   - Follow-up culture results.
+   .
+   # LLE fluctuant mass
+ most likely hematoma, as documented in previous
+   admission. Will watch for now.
+   .
+   # Ear pain. PCP [**Last Name (NamePattern4) 3804**]; if persists during this admission will
+   obtain otoscope and examine for wax.
+   .
+   ICU Care
+   Nutrition: Replete electrolytes, low Na/1L fluid-restricted diet,
+   ultrafiltration
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU pending clinical improvement
+   Glycemic Control:  SSI
+   Lines:
+   Multi Lumen - [**2862-4-17**] 05:29 PM
+   Arterial Line - [**2862-4-18**] 12:29 PM
+   Dialysis Catheter - [**2862-4-18**] 06:26 PM
+   Prophylaxis:
+   DVT:  Pneumoboots
+   Stress ulcer: home PPI
+   VAP:
+   Comments:
+   Communication:  Patient.
+   Code status: Full (discussed with patient). HCPs are daughter [**Name (NI) **]
+   [**Telephone/Fax (1) 11940**] and son [**Name (NI) 140**] (currently in Cancun)
+   Disposition: ICU pending clinical improvement
+
+
+
+DOC CLASS

@@ -1,0 +1,179 @@
+Chief Complaint: biliary sepsis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ SPUTUM CULTURE - At [**2776-8-30**] 11:00 AM
+ BLOOD CULTURED - At [**2776-8-31**] 04:35 AM
+   Allergies:
+   Pneumovax 23 (Injection) (Pneumococcal 23-[**Male First Name (un) **] P-Sac Vac)
+   Rash;
+   Allopurinol
+   Rash;
+   Hydralazine
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2776-8-31**] 08:46 AM
+   Meropenem - [**2776-8-31**] 12:49 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2776-8-31**] 12:05 AM
+   Furosemide (Lasix) - [**2776-8-31**] 08:30 AM
+   Heparin Sodium (Prophylaxis) - [**2776-8-31**] 08:46 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2776-8-31**] 05:30 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.1
+C (98.7
+   HR: 71 (70 - 82) bpm
+   BP: 134/55(74) {119/43(62) - 156/62(85)} mmHg
+   RR: 18 (9 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 97.5 kg (admission): 90.2 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,880 mL
+                                                                    753 mL
+   PO:
+             TF:
+                                                                    911 mL
+                                                                      3 mL
+   IVF:
+                                                                    829 mL
+                                                                    535 mL
+   Blood products:
+   Total out:
+                                                                  2,060 mL
+                                                                  1,505 mL
+   Urine:
+                                                                  2,060 mL
+                                                                  1,505 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -180 mL
+                                                                   -752 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: 7.37/48/91/26/1
+   Physical Examination
+   Gen: lying in bed, tachypneic but more alert
+   CV: RR
+   Chest: coarse BS bilat poor airmovement, no wheezes
+   Abd: obese soft NT + BS, drain in place
+   Ext: warm, + edema
+   Neuro: answers simple questions, no spont movement in lower ext, moving
+   right arm better than yesterday
+   Labs / Radiology
+   9.3 g/dL
+   345 K/uL
+   124 mg/dL
+   1.7 mg/dL
+   26 mEq/L
+   4.3 mEq/L
+   47 mg/dL
+   112 mEq/L
+   144 mEq/L
+   29.8 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**2776-8-27**]  04:41 AM
+                             [**2776-8-27**]  04:34 PM
+                             [**2776-8-28**]  04:30 AM
+                             [**2776-8-28**]  04:26 PM
+                             [**2776-8-29**]  06:00 AM
+                             [**2776-8-29**]  06:00 PM
+                             [**2776-8-30**]  02:27 AM
+                             [**2776-8-30**]  11:58 AM
+                             [**2776-8-30**]  08:41 PM
+                             [**2776-8-31**]  03:22 AM
+   WBC
+   6.2
+   4.8
+   7.9
+   10.0
+   Hct
+   26.4
+   40.6
+   28.3
+   29.8
+   Plt
+   [**Telephone/Fax (3) 2185**]45
+   Cr
+   1.7
+   1.8
+   1.9
+   1.8
+   1.7
+   TCO2
+   26
+   27
+   24
+   29
+   29
+   Glucose
+   104
+   119
+   143
+   101
+   124
+   Other labs: PT / PTT / INR:14.3/31.9/1.2, CK / CKMB /
+   Troponin-T:444/22/1.48, ALT / AST:89/33, Alk Phos / T Bili:221/0.5,
+   Amylase / Lipase:65/49, Differential-Neuts:81.2 %, Band:0.0 %,
+   Lymph:11.6 %, Mono:4.3 %, Eos:2.6 %, Fibrinogen:801 mg/dL, Lactic
+   Acid:1.0 mmol/L, Albumin:2.1 g/dL, LDH:410 IU/L, Ca++:7.9 mg/dL,
+   Mg++:1.9 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   1.       Biliary Sepsis: we have had multiple discussions with IR,
+   Surgery, and will involve ERCP in the best way to decompress this
+   gallbladder. At present he will go for tube change to larger bore
+   catheter by IR, Dr [**Last Name (STitle) 2195**] examined pt and confirmed that he is not an
+   operative candidate and met with the family to clarify this, ERCP has
+   been called and the question for them is the role of a nasobiliary
+   drain to further decompress his biliary system.
+   2.       Fevers: remaining DDx is PNA
+ sputum cx sent and following
+   serial CXR. Also line infection but blood cx have been negative to
+   date.  Added empiric Vanco. Follow up cx. TTE with bubble negative for
+   PFO
+   3.       CHF: add back bblocker and Lasix
+ goal 500 to 1000 cc
+   negative
+   Remainder of issues as per Housestaff.
+   Of note spent 45 minutes meeting with family, Dr [**Last Name (STitle) 2195**], and
+   arranging IR treatment in addition to care above for total crit. care
+   time of 60 minutes today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2776-8-25**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 60 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

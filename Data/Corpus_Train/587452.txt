@@ -1,0 +1,201 @@
+Chief Complaint:
+   24 Hour Events:
+   - Admitted overnight
+   Allergies:
+   Amantadine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2836-2-18**] 06:09 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 67 (58 - 68) bpm
+   BP: 119/79(89) {100/55(69) - 136/81(92)} mmHg
+   RR: 12 (10 - 21) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 67.2 kg (admission): 67.2 kg
+   Height: 63 Inch
+                  Total In:
+                                                                    240 mL
+                                                                    120 mL
+   PO:
+                                                                    240 mL
+                                                                    120 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    375 mL
+                                                                    780 mL
+   Urine:
+                                                                    375 mL
+                                                                    780 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -135 mL
+                                                                   -660 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///28/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   206 K/uL
+   10.1 g/dL
+   101 mg/dL
+   1.3 mg/dL
+   28 mEq/L
+   4.8 mEq/L
+   29 mg/dL
+   102 mEq/L
+   138 mEq/L
+   29.4 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**2836-2-17**]  06:02 PM
+                             [**2836-2-17**]  11:54 PM
+                             [**2836-2-18**]  04:41 AM
+   WBC
+   14.3
+   11.3
+   Hct
+   31.7
+   29.4
+   Plt
+   233
+   206
+   Cr
+   1.9
+   1.5
+   1.3
+   Glucose
+   98
+   90
+   101
+   Other labs: PT / PTT / INR:24.5/30.6/2.4, Ca++:8.5 mg/dL, Mg++:2.3
+   mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   Patient is a 58 year old male with history of atrial fibrillation on
+   coumadin, hyperlipidemia, hypertension, peripheral vascular disease,
+   s/p CVA who presented to [**Hospital3 830**] on [**2836-2-13**] with heart
+   failure exacerbation and atrial fibrillation with RVR, transferred due
+   to difficulty with diuresis [**1-21**] hypotension.
+   .
+   #. Pump: Reported volume overload at outside hospital, however on
+   arrival here CXR shows no evidence of volume overload and recent rise
+   in creatinine.  At [**Location (un) **] creatinine had been ranging from 1.0-1.3
+   with recent rise to 2.0 today.  He had been treated with 20mg IV lasix
+   as well as oral lasix.  Given rise in creatinine and normal CXR,
+   patient may be euvolemic at this time.  Going for CHF is O2
+   requirement.
+   - Hold further lasix overnight.  Trend creatinine.
+   .
+   # Acute renal failure likely related to overdiuresis given acute rise
+   after multiple days of increased lasix dose.
+   - Pre-renal lytes but Cr back to normal.
+   - restart lisinopril for now given elevated creatinine
+   .
+   #. Atrial fibrillation: Currently in sinus rhythm s/p cardioversion.
+   Had not been on coumadin [**1-21**] supratherapeutic INR.
+   - Monitor on telemetry
+   - Will restart on amiodarone load 400mg PO BID, ideally for short term
+   duration given his underlying lung disease.
+   - Follow INR.  Restart coumadin when INR in 3 range, decreasing dose
+   with amiodarone.
+   .
+   # Leukocytosis: Patient had positive UCx at outside hospital, but
+   unclear whether this was treated.  Not documented in chart.  Currently
+   afebrile.  WBC count at [**Location (un) **] trending up from 11 to 13.
+   - Repeat UA, Ucx
+   - Repeat CXR in the AM
+   - Trend WBC count.
+   .
+   # Mitral regurgitation: Severe based on recent echocardiogram.
+   - Consider surgical evaluation in the AM.
+   - Closely monitor volume status.
+   .
+   #. CAD: Reported history of CAD.  No history of MI and no prior cardiac
+   intervention.
+   - Continue ASA
+   - Smoking cessation; nicotine patch if needed
+   .
+   #.  COPD: [**Month (only) 11**] be contributing to current picture.
+   - Continue inhalers.
+   - consider steroids, will get additional records if possible.
+   .
+   # Peripheral vascular disease
+   - Continue ASA
+   .
+   # GERD
+   - Continue [**Hospital1 **] PPI
+   .
+   # Chronic pain syndrome
+   - Continue oxycodone
+   .
+   #. FEN
+   - Low salt, cardiac heart healthy diet
+   - Monitor lytes and replete PRN
+   .
+   #. Access: PIVs
+   .
+   #. PPx:
+   - PPI [**Hospital1 **], bowel regimen, supratherapeutic INR
+   .
+   #. Code:  Full
+   .
+   #. Dispo:  CCU for now.
+   - PT c/s in the AM.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2836-2-17**] 04:00 PM
+   20 Gauge - [**2836-2-17**] 06:33 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   nothing to add, agree with above
+   Physical Examination
+   nothing to add, agree with above
+   Medical Decision Making
+   nothing to add, agree with above
+   Total time spent on patient care: 50 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 3154**] [**Name (NI) 845**]  on:[**2836-2-18**]
+   18:03 ------
+
+
+
+DOC CLASS

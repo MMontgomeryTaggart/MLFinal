@@ -1,0 +1,308 @@
+Admission Date:  [**3304-1-26**]              Discharge Date:   [**3304-1-30**]
+
+Date of Birth:  [**3253-10-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Dilantin / Methotrexate / Ticlid / Bactrim Ds /
+Allopurinol / Tetracycline
+
+Attending:[**First Name3 (LF) 4108**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization [**3304-1-26**]
+Percutaneous coronary angioplasty with LCx stenting [**3304-1-26**]
+
+History of Present Illness:
+50 year-old woman with CAD s/p AMI and Lcx stenting (bare metal
+stent) in [**3297**] admitted earlier this week [**Date range (1) 13176**] for elective
+catheterization for accelerating symptoms, s/p restenting of LCx
+for instent restenosis and RCA stenting (stent X 2 to mid-RCA
+and stent X 1 to proximal RCA), also with HTN, DM type 2 and
+positive family history, now presenting with recurrent chest
+pain 2 days post PTCA.
+
+She reports that she developed upper chest pressure this AM
+while watching TV, similar to her usual anginal symptoms. She
+describes it as pressure, non-radiating, approximately [**5-9**] in
+intensity, associated with some SOB and diaphoresis. No N/V. She
+took NTG X 2 and ASA, without relief, and presented to the [**Hospital1 52**]
+ED. No pleuritic component, discomfort non-positional.
+
+In the ED, initial vitals were HR 88, BP 123/65, RR 20, Sat 97%
+on room air. EKG with non-specific changes, LBBB. First set of
+enzymes negative. CXR suspicious for pneumonia. She was given
+NTG X1, Lopressor 5 mg IV X3, started on Nitro gtt and Heparin
+gtt, as well as Integrillin given ongoing chest discomfort. A
+bedside echo was remarkable for lateral wall hypokinesis. Given
+ongoing chest discomfort, recent PTCA and lateral wall
+hypokinesis suspicious for stent thrombosis, Ms. [**Known patient lastname 13177**] was
+taken to the cath lab for further evaluation.
+
+In the cath lab, she was found to have complete occlusion of
+proximal Lcx stent treated with balloon angioplasty. There was
+then concern for possible dissection, and a stent was deployed.
+IVUS post stent negative for dissection. Final dilation of all
+stents was performed.
+
+On history, she reports low-grade fever on Thursday up to 101.
+No cough, chronic rhinorrea, no chills. Still reports residual
+chest discomfort post-procedure, much improved.
+
+Past Medical History:
+1. CAD, status post AMI in [**3297**], s/p LCx stenting in [**3297**] c/b
+instent restenosis --> restented with 2 Cypher stents on
+[**3304-1-23**]. Also s/p 2 cypher stents in mid RCA [**3304-1-23**] and
+stenting of proximal RCA. LAD diffusely diseased up to 40%, no
+intervention. EF 48% on ventriculography.
+2. Mixed connective tissue disease manifested by myositis, +
+[**Doctor First Name **], GERD, Raynaud's, sclerodactyly, malar rash, telangiectasia.
+3. Diabetes mellitus type 2
+4. Hypertension
+5. Gout
+6. Status post CVA without residual deficit
+7. GERD with Barrett's esophagus
+8. Peripheral neuropathy
+9. ? H/O GIB in [**9-2**]. C-scope unrevealing
+
+Social History:
+She is married and lives with her husband. [**Name (NI) **] history of tobacco
+or alcohol consumption.
+
+Family History:
+Notable for CAD including her mother who died at age 52 of an
+MI. Father had CABG in his 50s and later died of an MI. Two
+brothers with [**Name (NI) 7784**] in their 50's and one with a CVA.
+
+Physical Exam:
+Physical examination on admission to the CCU:
+VITALS: T 97.3, BP 120/68, HR 71 regular, RR 14, Sat 97-100% on
+room air
+GEN: In NAD. Appears comfortable, lying flat.
+HEENT: Poor dentition. MMM.
+NECK: JVP not visible with patient flat.
+RESP: Chest CTA bilaterally anteriorly. Few scattered basilar
+crackles, no bronchial breathing over left chest.
+CVS: Nl S1, S2. No S3, S4. No murmur or rub.
+GI: Obese abdomen. BS normoactive. Abdomen soft and non-tender.
+EXT: Left cath site without hematoma. No bruit. Arterial sheath
+in place. Strong pedal pulses. No pedal edema.
+NEURO: Alert and oriented. Moves all 4 extremities.
+
+
+Pertinent Results:
+Pertinent laboratory data on admission:
+CBC:
+WBC-7.8 RBC-3.07* HGB-9.5* HCT-28.0* MCV-91 MCH-30.8 MCHC-33.8
+RDW-13.5
+NEUTS-77.4* LYMPHS-15.2* MONOS-5.6 EOS-1.6 BASOS-0.2
+PLT COUNT-149*
+
+Coagulation profile:
+PT-12.3 PTT-28.2 INR(PT)-1.0
+
+Chemistry:
+GLUCOSE-227* UREA N-22* CREAT-1.0 SODIUM-139 POTASSIUM-3.5
+CHLORIDE-102 TOTAL CO2-26 ANION GAP-15
+PHOSPHATE-2.1*# MAGNESIUM-1.6
+
+Cardiac enzymes:
+CK(CPK)-89
+cTropnT-0.10*
+
+EKG: NSR, rate 88. LAD, LBBB. Anterior Qs. Non-specific ST-T
+changes.
+
+CXR [**3304-1-26**]: The cardiac silhouette is in the upper limits of
+normal size. There is a slight prominence of the right
+mediastinal contour, but this is stable when compared to the
+previous studies and most likely represent tortuosity of
+vessels. There is increased density in the left retrocardiac
+area, which is _____ in the left hemidiaphragm and may represent
+an early pneumonia. This is new when compared to the prior
+study.
+
+IMPRESSION: Probable left lower lobe pneumonia.
+
+CXR [**1-/4104**]: AP VIEW OF THE CHEST dated [**3304-1-28**], is
+compared to the prior AP chest x-ray dated [**3304-1-26**].
+Since the prior exam, there has been interval development of a
+small left pleural effusion. The lungs remain clear. The cardiac
+silhouette has not changed in size, in the upper limits of
+normal. There is stable medistinal widening consistent with
+patient's known mediastinal lipomatosis. The soft tissue and
+osseous structures are unremarkable.
+
+**************
+ECHO [**3304-1-26**]: There is mild symmetric left ventricular
+hypertrophy. The left ventricular cavity size is normal. Overall
+left ventricular systolic function is low normal (LVEF 50%); the
+lateral wall appears hypokinetic in the apical window. The
+mitral valve leaflets are mildly thickened. There is a small
+pericardial effusion. There are no echocardiographic signs of
+tamponade.
+
+Compared with the findings of the prior report (tape unavailable
+for review) of [**3303-10-1**], the lateral wall may now be
+hypokinetic.
+
+ECHO: [**3304-1-29**]: The left atrium is elongated. The right atrium is
+moderately dilated. Left ventricular wall thicknesses and cavity
+size are normal. There is mild regional left ventricular
+systolic dysfunction with focal hypokinesis of the basal lateral
+wall. Right ventricular chamber size and free wall motion are
+normal. The aortic valve leaflets (3) appear structurally normal
+with good leaflet excursion. Trace aortic regurgitation is seen.
+The mitral valve appears structurally normal with mild [1+]
+mitral regurgitation. The pulmonary artery systolic pressure
+could not be determined. There is a small circumferential
+pericardial effusion without evidence for hemodynamic
+compromise. Compared with the prior study (tape reviewed) of
+[**3304-1-26**], left ventricular function is similar. The pericardial
+effusion may be minimally larger.
+
+**************
+
+Cath [**3304-1-23**]:
+LMCA with mild plaquing. LAD diffusely diseased up to 40%. The
+LCX revealed proximal ISRS 80-90% extending into OM1 with distal
+edge 70% and subsequent 80% stenosis prior to distal major
+bifurcation. The AV groove vessel was diminutive. The RCA showed
+a proximal 70%, mild diffuse disease thereafter up to 80%. The
+PDA had a modest 40% lesion at the origin and 50% lesions mid
+vessel. A larger RPL1 had a origin 30% lesion.
+2. Left ventriculography EF 48% with posterobasal hypokinesis.
+3. s/p PTCA/stenting of the LCX/OM1 with overlapping Cypher DES.
+s/p PTCA/stenting of the mid RCA with overlapping Cypher [**Name Prefix (Prefixes) 746**]
+[**Last Name (Prefixes) 5545**] and of the proximal RCA.
+6. The LCX and the RCA interventions were complicated by the
+development
+of ischemic mitral regurgitation (see PTCA comments).
+
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 13177**] is a 50 year-old female with CAD s/p OM (for in
+stent restenosis) and RCA stents on [**3304-1-23**], also with DM type
+2, HTN, positive family history admitted with recurrent chest
+pain 2 days post PTCA, found to have stent thrombosis of OM
+stent, s/p balloon angioplasty and stent placement.
+
+For her CAD, Ms. [**Known patient lastname 13177**] was started on Plavix 150 mg PO QD,
+ASA, Toprol, Diovan and Nifedipine. She was weaned from NTG gtt.
+She was also continued on Lipitor. She has a sensitivity to the
+first line [**Doctor Last Name 539**] for in stent restenosis, ticlid, so instead,
+she was placed on high dose plavix.
+
+She was thought to have pneumonia since she has a low-grade
+fever at home, and her CXR suspicious for left lower lobe
+pneumonia. She continued to have low grade fevers in house, and
+was pancultured. These grew nothing out and it was thought that
+the fevers may have initially been secondary to the inflammation
+from the myocardial infarction or to a pericardial effusion
+although no rub was detected. Of note, she complained of
+pleuritic type chest pain. She was covered with Levofloxacin. A
+repeat PA and lateral were clear.
+
+Ms. [**Known patient lastname 13177**] was found to be anemic and transfused 1 units of
+PRBCs. She has chronic anemia. For her mixed connective tissue
+disorder, the patient's Prednisone was continued at out-patient
+dose. For her DM type 2: the Metformin was held. She was stared
+on a regular insulin sliding scale QID. Once she was cleared by
+PT, she was sent home. Her metformin was restarted at discharge.
+
+Medications on Admission:
+Prednisone 6 mg daily
+Probenacid 500 mg PO BID
+Cholchicine 0.6 mg QD
+Nifedipine 30 mg PO daily
+Diovan 320 mg PO daily
+Toprol XL 300 mg PO daily
+Omeprazole 20 mg PO BID
+Celexa 20 mg PO daily
+Metformin 500 mg PO daily
+Dilaudid 4 mg PO BID
+ASA 325 mg PO daily
+MVI 1 tablet PO daily
+Folic acid 1 mg PO daily
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Clopidogrel Bisulfate 75 mg Tablet Sig: Two (2) Tablet PO
+DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Prednisone 1 mg Tablet Sig: Six (6) Tablet PO DAILY (Daily).
+
+4. Probenecid 500 mg Tablet Sig: One (1) Tablet PO QPM (once a
+day (in the evening)).
+5. Probenecid 500 mg Tablet Sig: Two (2) Tablet PO QAM (once a
+day (in the morning)).
+6. Valsartan 160 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig:
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+10. Citalopram Hydrobromide 20 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+11. Atorvastatin Calcium 40 mg Tablet Sig: Two (2) Tablet PO
+DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+12. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+13. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR
+Sig: Two (2) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*2*
+14. Hydromorphone HCl 2 mg Tablet Sig: Two (2) Tablet PO BID (2
+times a day).
+15. Metformin HCl 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily). Tablet(s)
+16. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+17. Outpatient Physical Therapy
+Please evaluate for right lower extremity pain.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute MI with acute instent thrombosis of LCX stent
+Coronary artery disease
+hypertension
+diabetes
+depression
+anemia
+pneumonia
+gout
+peripheral neuropathy
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Take your atorvastatin, aspirin, plavix, nifedipine, valsartan,
+toprol and nitro as needed. You can also continue your
+glucophage. Take 3 more days of levofloxacin.
+
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] WEST OFFICE (SB) Where: LM [**Hospital Unit Name 2223**] GASTROENTEROLOGY Phone:[**Telephone/Fax (1) 1209**] Date/Time:[**3304-2-13**]
+12:30
+Provider: [**First Name11 (Name Pattern1) 1773**] [**Last Name (NamePattern4) 1774**], M.D. Where: [**Hospital6 64**]
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 1775**] Date/Time:[**3304-3-13**] 11:30
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1575**], MD Where: LM [**Hospital Unit Name 8420**] Phone:[**Telephone/Fax (1) 102**] Date/Time:[**3304-3-27**] 2:00
+Follow up with physical therapy for evaluation of leg pain.
+
+
+
+
+
+
+DOC CLASS

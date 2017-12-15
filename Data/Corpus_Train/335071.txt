@@ -1,0 +1,167 @@
+24 Hour Events:
+   Extubated yesterday and stable overnight.  Complained of new right
+   wrist/elbow pain with associated swelling today.  No lines on that
+   side.  She does have a history of gout.
+   Allergies:
+   Penicillins: Unknown;
+   Morphine: Unknown;
+   Last dose of Antibiotics:
+   Ceftazidime - [**2761-10-1**] 08:17 AM
+   Vancomycin - [**2761-10-1**] 09:17 AM
+   ICU medications:
+   Heparin Sodium SQ tid
+   Hydrocortisone 15mg q8h
+   Insulin
+   Nebs
+   Lipitor
+   Lasix 40mg
+   Plavix
+   ASA
+   Flowsheet Data as of  [**2761-10-1**] 10:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100
+   Tcurrent: 36.6
+C (97.8
+   HR: 116 (97 - 122) bpm
+   BP: 131/57(77) {91/43(56) - 156/77(95)} mmHg
+   RR: 21 (14 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 82.5 kg (admission): 80 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,271 mL
+                                                                    677 mL
+   PO:
+             TF:
+                                                                  1,017 mL
+   IVF:
+                                                                  1,004 mL
+                                                                    677 mL
+   Blood products:
+   Total out:
+                                                                  2,960 mL
+                                                                    440 mL
+   Urine:
+                                                                  2,960 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -689 mL
+                                                                    237 mL
+   Respiratory support
+   O2 Delivery Device: 4L Nasal cannula
+   SpO2: 96%
+   Physical Examination
+   Gen:  no acute distress
+   Chest: Clear
+   CV: IR/IR
+   Abd: s/nt/nd
+   Ext: R upper extremity with new [**12-21**]+ edema; tender elbow/ wrist and
+   mild erythema
+   Labs / Radiology
+   8.8 g/dL
+   259 K/uL
+   136 mg/dL
+   0.5 mg/dL
+   34 mEq/L
+   3.7 mEq/L
+   20 mg/dL
+   109 mEq/L
+   150 mEq/L
+   27.6 %
+   11.4 K/uL
+        [image002.jpg]
+                             [**2761-9-26**]  08:52 PM
+                             [**2761-9-27**]  12:40 PM
+                             [**2761-9-27**]  12:55 PM
+                             [**2761-9-28**]  08:15 AM
+                             [**2761-9-28**]  08:25 AM
+                            [**2761-9-29**]  05:10 AM
+                            [**2761-9-29**]  07:47 AM
+                            [**2761-9-30**]  03:47 AM
+                            [**2761-10-1**]  04:47 AM
+                            [**2761-10-1**]  05:51 AM
+   WBC
+   11.5
+   14.5
+   10.7
+   10.8
+   8.8
+   11.4
+   Hct
+   28.2
+   29.6
+   26.8
+   28.2
+   23.5
+   27.6
+   Plt
+   279
+   266
+   225
+   [**Telephone/Fax (3) 1333**]
+   Cr
+   1.0
+   0.8
+   0.8
+   0.7
+   0.7
+   0.4
+   0.5
+   TCO2
+   30
+   30
+   32
+   Glucose
+   129
+   179
+   181
+   243
+   213
+   111
+   136
+   Other labs: PT / PTT / INR:13.1/35.0/1.1, CK / CKMB /
+   Troponin-T:28/4/0.03, ALT / AST:24/17, Alk Phos / T Bili:80/0.4,
+   Amylase / Lipase:18/24, Differential-Neuts:71.5 %, Lymph:16.9 %,
+   Mono:9.7 %, Eos:1.8 %, Lactic Acid:1.0 mmol/L, LDH:246 IU/L, Ca++:8.3
+   mg/dL, Mg++:2.1 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   73F admitted w/ AMS related to hypoglycemia; now with PNA related to
+   aspiration around acute event.
+   1) ID: Pneumonia
+ extubated yesterday, leukocytosis and fever curve
+   improving.  Microbiology only with Staph aureus in sputum, otherwise no
+   other significant data.
+   - Would continue current antibiotics given her clinical improvement
+   with current regimen and a sputum culture with minimal Staph Aureus.
+   - Stable respiratory status, can transfer to floor
+   2) RUE swelling/pain:  ? gout arthtropathy, though minimal joint
+   effusion.  Also should have eval for DVT given edema.
+   - Check upper extremity non-invasive, plain films of elbow/wrist
+   - Send uric acid
+   - Treat with ibuprofen 800mg q8h (she is on a PPI and renal function is
+   normal)
+   3) Endocrine: titrate insulin coverage today
+   4) CV:  BB/ASA/Plavix/Statin
+   ICU Care
+   Nutrition: Trial of thickned diet and monitoring
+   Glycemic Control:  Insulin sliding scale, titrate today
+   Lines:
+   PICC Line - [**2761-9-28**] 02:00 PM
+   Prophylaxis:
+   DVT: Heparin
+   Stress ulcer: PPI
+   Code status: Full code
+   Disposition :  Transfer to floor today
+
+
+
+DOC CLASS

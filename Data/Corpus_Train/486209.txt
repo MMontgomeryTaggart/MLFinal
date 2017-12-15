@@ -1,0 +1,241 @@
+Chief Complaint:
+   24 Hour Events:
+   - BP dropped overnight at 2-3am so gave back 500cc NS IVF ( after gave
+   20 lasix early in night becuause he was 2.3L +)
+   - Pared back cipro, now on [**Last Name (un) **]/vanco. Flagyl added for ?necrotizing
+   pna.
+   - Still low grade temps 100.8F
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2579-5-9**] 10:01 AM
+   Vancomycin - [**2579-5-9**] 08:00 PM
+   Metronidazole - [**2579-5-10**] 12:01 AM
+   Meropenem - [**2579-5-10**] 04:00 AM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Norepinephrine - 0.16 mcg/Kg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**2579-5-9**] 09:06 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-10**] 06:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 36.7
+C (98
+   HR: 107 (87 - 118) bpm
+   BP: 83/51(63) {79/46(60) - 96/55(71)} mmHg
+   RR: 20 (17 - 28) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+    CVP: 12 (9 - 14)mmHg
+   CO/CI (Fick): (6.2 L/min) / (3.2 L/min/m2)
+   Mixed Venous O2% Sat: 68 - 68
+   Total In:
+                                                                  3,669 mL
+                                                                  1,412 mL
+   PO:
+   TF:
+                                                                  1,079 mL
+                                                                    306 mL
+   IVF:
+                                                                  2,529 mL
+                                                                    926 mL
+   Blood products:
+   Total out:
+                                                                  1,207 mL
+                                                                    300 mL
+   Urine:
+                                                                  1,207 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,462 mL
+                                                                  1,112 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 14
+   RR (Spontaneous): 12
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   PIP: 27 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 28.6 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.41/48/144/33/5
+   Ve: 10 L/min
+   PaO2 / FiO2: 360
+   Physical Examination
+   General: Intubated, appearing comfortable
+   HEENT: Anicteric
+   Neck: LIJ in place
+   Pulm: Few rales R>L, bronchial on L
+   CV: Regular S1 S2 II/VI systolic murmur
+   Extrem: Anasarca palpable pulses warm
+   Neuro: Opens eyes to voice, squeezes hands to commands
+   L aline in place
+   Labs / Radiology
+   87 K/uL
+   10.4 g/dL
+   159 mg/dL
+   1.0 mg/dL
+   33 mEq/L
+   4.5 mEq/L
+   38 mg/dL
+   98 mEq/L
+   134 mEq/L
+   31.2 %
+   12.7 K/uL
+        [image002.jpg]
+                             [**2579-5-8**]  04:45 AM
+                             [**2579-5-8**]  10:54 AM
+                             [**2579-5-8**]  01:46 PM
+                             [**2579-5-8**]  04:13 PM
+                             [**2579-5-8**]  05:15 PM
+                             [**2579-5-9**]  02:49 AM
+                             [**2579-5-9**]  03:11 AM
+                             [**2579-5-9**]  11:37 AM
+                             [**2579-5-9**]  07:54 PM
+                             [**2579-5-10**]  02:59 AM
+   WBC
+   15.1
+   14.0
+   12.7
+   Hct
+   34.0
+   30.6
+   31.2
+   Plt
+   88
+   80
+   87
+   Cr
+   1.3
+   1.3
+   1.1
+   1.0
+   TCO2
+   34
+   35
+   35
+   34
+   38
+   31
+   Glucose
+   112
+   200
+   166
+   159
+   Other labs: PT / PTT / INR:16.4/37.2/1.5, CK / CKMB /
+   Troponin-T:33/1/0.02, ALT / AST:93/115, Alk Phos / T Bili:150/2.7,
+   Amylase / Lipase:68/57, Differential-Neuts:71.8 %, Band:7.0 %,
+   Lymph:16.6 %, Mono:6.7 %, Eos:3.9 %, Fibrinogen:399 mg/dL, Lactic
+   Acid:1.7 mmol/L, Albumin:1.7 g/dL, LDH:395 IU/L, Ca++:7.2 mg/dL,
+   Mg++:2.0 mg/dL, PO4:1.7 mg/dL
+   Micro none new
+   CXR rotated, L sided infiltrate as before, ET tube in good position,
+   Possible more opacity on R base
+   Assessment and Plan
+   79 yo M with critical aortic stenosis awaiting AVR who was admitted
+   with pneumonia, hypoxia and respiratory distress. Being treated for
+   VAP/aspiration PNA with recent increase in leukocytosis of unknown
+   etiology, which is now trending downwards.
+   #Leukocytosis
+   WBC now trending down.  Have been targeting suspected L sided
+   pneumonia. Another source may be his sacral decub and potential osteo.
+   RUQ u/s equivocal for cholescystitis, but pt appears to be improving
+   with medical management. No new micro data
+ only yeast from sputum,
+   urine.
+   - continue meropenem d10,  vanc d12
+ would continue for 15d course.
+   Unclear that flagyl is adding much, doubt C diff, and meropenem has
+   good anaerobic coverage
+   - wound care eval of decub
+ will ask plastics to eval for ?debridement
+   - CIS, f/u micro and fungal markers
+   - hold on HIDA scan for now, though would consider if LFTs trending up,
+   leukocytosis, abdominal tenderness for example
+   .
+   # Hypotension: DDX septic vs cardiogenic in etiology.  Appears to be
+   perfusing better running CVP on higher range, which has allowed weaning
+   down on pressors. CVP 15 this AM
+   - Continue levophed, has been weaned down to 0.12
+   - Keep CVPs 12-14
+   - Volume goal net even today, follow CVP
+   - Follow urine output, MAPS goal >65
+   - repeat central venous O2 and lactate
+   # Respiratory failure:  Still intubated on A/C. Likely cause is HAP/
+   aspiration PNA. Patient has a left sided PNA and pleural effusion (
+   mostly right side).  Patient with derecruitment over weekend following
+   line placement, better with increased PEEP
+ have now been able to come
+   down on PEEP
+   - wean PEEP as tolerated, aim for 8 today
+   - holding on diuresis (see above)
+   - pneumonia treatment as above
+   .
+   # Critical AS/systolic CHF:
+   AVR had been on hold given infection and question of HIT
+   - talk to CT [**Doctor First Name 86**] today regarding whether they will do surgery,
+   criteria for this. Will want these recs prior to meeting
+   - per  heme, ok to use heparin if needed to in cards procedure as [**Male First Name (un) **]
+   feel true HIT
+   - f/up any cards surgery recs
+   - control tachycardia as per above to improve filling time
+   # transaminitis
+   Suspect shock liver, LFTs are perfusing. GB wall thickening on US
+   nonspecific.
+   - continue to trend
+   - liver recs appreciated
+   # thrombocytopenias:  Heme following and after [**Doctor First Name 998**] x2 positive but
+   serotonin lab f/up negative, felt that overall unlikely true HIT
+   was significantly lower on 2^nd PF4 assay
+   Recently stable
+   - need heme final note in chart regarding use of heparin in surgery
+   - cont to trend, recently ~stable
+   - likely ok to use in cardiac surgery
+   # atrial tachycardia:
+   Likely exacerbated by pressors, infection, and some degree of volume
+   depletion
+   - continue amio
+   - try to wean levophed as possible
+   # Coagulapathy: PT , PTT and INR all better now so DIC picture less
+   likely.  Likley from
+   Medications vs.  poor nutrition. INR mildly improved after vitamin K.
+   - hold on FFP for now.
+   - cont trend daily
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2579-5-9**] 06:05 AM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2579-5-6**] 02:47 AM
+   Multi Lumen - [**2579-5-8**] 12:58 PM
+   Prophylaxis:
+   DVT:  boots
+   Stress ulcer:  ppi
+   VAP:  daily wakeup
+   Communication:  family meeting 3pm
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

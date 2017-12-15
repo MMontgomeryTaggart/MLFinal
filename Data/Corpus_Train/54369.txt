@@ -1,0 +1,156 @@
+Admission Date: [**3354-7-12**]        Discharge Date: [**3354-7-18**]
+
+
+Service:  MED
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 84 year old
+gentleman with a history of coronary artery disease, status
+post coronary artery bypass graft, status post multiple
+percutaneous interventions, status post recent right coronary
+artery stent on [**3354-7-4**], who is admitted  with two near
+syncopal episodes.  The patient states that he was in his
+usual state of health until the morning of admission when he
+experienced an episode of near syncope in the bathroom while
+moving his bowels.  The patient denies loss of consciousness
+but states he felt dizzy and lightheaded.  The episode lasted
+a few minutes and then the patient experienced another
+episode similar to that several hours later while doing his
+dishes.  Finally, he called his son who brought him into the
+Emergency Department.  The patient denied any chest pain, but
+complained of shortness of breath.  He denied any
+lightheadedness at presentation, no orthopnea, no paroxysmal
+nocturnal dyspnea.  In the Emergency Department, the patient
+had a heart rate of 30s to 40s and was found to be in
+complete heart block.  The patient was given Atropine and
+admitted to the Coronary Care Unit for further management.
+
+PAST MEDICAL HISTORY:  Congestive heart failure, ejection
+fraction 32 percent per MIBI.
+
+Glaucoma.
+
+Cataract.
+
+Cerebrovascular accident.
+
+Status post coronary artery bypass graft in [**3337**].
+
+History of myocardial infarction times two in [**3349**], and [**3352**].
+
+History of nonsustained ventricular tachycardia.
+
+Status post times two saphenous vein graft to ramus graft in
+[**3352**].  Status post saphenous vein graft to obtuse marginal
+stent in [**3349**], with thrombectomy.
+
+MEDICATIONS ON ADMISSION:
+1. Aspirin 325 mg p.o. once daily.
+2. Plavix 75 mg p.o. once daily.
+3. Toprol XL 150 mg p.o. once daily.
+4. Lisinopril 20 mg p.o. once daily.
+5. Colace.
+6. Sublingual Nitroglycerin p.r.n.
+7. Vitamin B1 100 mg p.o. once daily.
+
+
+FAMILY HISTORY:  Brother with diabetes mellitus and sister
+with history of myocardial infarction at age unknown.
+
+SOCIAL HISTORY:  Retired gentleman.  He quit smoking in [**3345**].
+He lives with his wife.
+
+PHYSICAL EXAMINATION:  Vital signs on admission revealed
+blood pressure 127/40, heart rate 37, complete heart block,
+respiratory rate 21, oxygen saturation 98 percent on two
+liters.  In general, a well appearing male in no apparent
+distress.  Head, eyes, ears, nose and throat examination -
+The pupils are equal, round and reactive to light and
+accommodation.  Extraocular movements are intact.  The mucous
+membranes are moist.  Neck - jugular venous distension to
+eight centimeters.  Respiratory - few bibasilar crackles;
+otherwise clear to auscultation bilaterally .  Cardiovascular
+is bradycardic, normal S1 and S2, no murmurs, rubs or
+gallops.  The abdomen is benign with positive bowel sounds,
+nontender and nondistended.  Extremities - two plus
+peripheral pulses.  No cyanosis, clubbing or edema.
+
+LABORATORY DATA:  Electrocardiogram showed complete heart
+block with ventricular rate of 35 beats per minute, T wave
+inversions in III and aVF.  Chest x-ray showed mild
+congestive heart failure, right lower lobe opacity and left
+pleural effusion  No recent echocardiogram available.
+
+On admission, white blood cell count was 6.8, hematocrit
+41.2, platelet count 202,000.  Sodium 142, potassium 5.1,
+chloride 108, bicarbonate 29, blood urea nitrogen 22,
+creatinine 1.3, glucose 103.  Normal coagulation studies.  CK
+91, troponin less than 0.01.
+
+HOSPITAL COURSE:  Complete heart block - Presenting with near
+syncope, likely secondary to coronary artery disease induced
+native conduction system disease.  The patient had a
+temporary pacer wire placed in the Emergency Department by
+the Electrophysiology fellow and he tolerated the procedure
+well.  The patient was continued on Aspirin and Plavix given
+recent stent placement.  Lopressor was continued once the
+temporary wire was in place.  The patient was also continued
+on Lipitor.  On [**3354-7-16**], the patient underwent a
+biventricular ICD placement without complications. The
+patient was given preprocedure antibiotics and is to finish
+two day course of Vancomycin.  The patient was seen by the
+Device nurse the following day.  Chest x-ray the following
+morning showed normal lead placement, no evidence of
+congestive heart failure.  The device was functioning
+normally.  The patient was given an outpatient appointment at
+the Device Clinic on [**3354-7-23**], at 3:00 p.m.  The patient will
+also need to have scheduled ICD testing in one month, once
+again to be scheduled.
+
+Delta MS - The patient received several doses of Percocet and
+was found to be confused afterwards, was related to
+medications.  CT scan was checked and showed no evidence of
+bleed.  The transient changes were resolved once medications
+wore off.  Throughout the rest of the hospital stay, the
+patient was alert and oriented
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To rehabilitation.
+
+MEDICATIONS ON DISCHARGE:
+1. Aspirin 325 mg p.o. once daily.
+2. Plavix 75 mg p.o. once daily.
+3. Lisinopril 20 mg p.o. once daily.
+4. Lopressor 12.5 mg p.o. twice a day.
+5. Pantoprazole 40 mg p.o. once daily.
+6. Atorvastatin 20 mg p.o. once daily.
+7. Tylenol p.r.n.
+8. Vitamin B12 100 mcg p.o. once daily.
+9. Colace 100 mg p.o. twice a day.
+
+At rehabilitation, the patient can be transitioned from
+Lopressor twice a day to an equivalent dose of Toprol XL.
+
+FOLLOW UP:  The patient is to scheduled an appointment with
+his primary care physician within one to two weeks after
+hospitalization.  The patient has a follow-up appointment at
+the Device Clinic on [**3354-7-23**], at 3:00 p.m. at [**Hospital Ward Name **] Seven,
+telephone [**Telephone/Fax (1) 25731**].  The patient will also have a
+scheduled appointment for ICD testing.
+
+
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number(1) 9176**]
+
+Dictated By:[**Last Name (NamePattern1) 25732**]
+MEDQUIST36
+D:  [**3354-7-17**] 16:05:18
+T:  [**3354-7-17**] 17:52:43
+Job#:  [**Job Number 25733**]
+
+
+
+DOC CLASS

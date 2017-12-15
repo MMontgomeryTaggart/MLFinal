@@ -1,0 +1,219 @@
+CVICU
+   HPI:
+   HD17
+   [**6-22**] POD 12/8/5/3
+   86M s/p CABGx3 (LIMA to LAD, SVG to OM, SVG to Dx)/MVR(29tissue)[**6-10**],
+   PPM [**6-17**], R [**Doctor Last Name 1510**]-below [**Doctor Last Name 1510**] bypass [**6-19**]
+   EF 70 Cr 1.8 Wt 68.5K HgbA1c 6.3
+   PMH: ^lipids, AFib, TURP, Ing Hernia repair, Sleep Apnea-CPAP -home,
+   CRI(1.8), Ascites, Squamous Cell CA-excision groin, Lower Back
+   Arthritis, depression
+   [**Last Name (un) **]: ASA 325', Diltiazem SR 240', Furosemide 80", Metolazone 2.5 Q
+   M-W-F, Metoprolol 25', Warfarin 2alt4mg, Potassium 20'''
+   Current medications:
+   Acetaminophen, Argatroban, Aspirin, Calcium Gluconate, Chlorhexidine
+   Gluconate 0.12% Oral Rinse, Furosemide, Insulin, Ipratropium Bromide
+   MDI, Metoprolol Tartrate, Pantoprazole, Vancomycin
+   24 Hour Events:
+   Remains in ICU intubated
+   cultured for fevers
+ CHEST TUBE REMOVED - At [**3261-6-21**] 08:53 AM
+   right pleural chest tube removed by NP
+ PAN CULTURE - At [**3261-6-21**] 01:00 PM
+ FEVER - 101.2
+F - [**3261-6-22**] 04:00 AM
+   Post operative day:
+   POD#8 - Right [**Doctor Last Name 1510**] tibial thrombectomy and stenting
+   POD#3 - [**6-19**]
+   Right popliteal edarterectomy + vein patch angioplasty
+   Thrombectomys
+   Antegrade angiogram
+   AK [**Doctor Last Name 1510**]->BK [**Doctor Last Name 1510**] (RSVG)
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Vancomycin - [**3261-6-21**] 10:00 AM
+   Infusions:
+   Argatroban - 0.5 mcg/Kg/min
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3261-6-22**] 08:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**64**] a.m.
+   Tmax: 38.4
+C (101.2
+   T current: 37.9
+C (100.2
+   HR: 80 (80 - 81) bpm
+   BP: 142/49(71) {119/41(63) - 144/58(81)} mmHg
+   RR: 24 (0 - 35) insp/min
+   SPO2: 100%
+   Heart rhythm: V Paced
+   Wgt (current): 79.1 kg (admission): 61.3 kg
+   Height: 67 Inch
+             Total In:
+                                                                  2,105 mL
+                                                                    490 mL
+   PO:
+             Tube feeding:
+                                                                    910 mL
+                                                                    333 mL
+   IV Fluid:
+                                                                  1,015 mL
+                                                                    157 mL
+   Blood products:
+   Total out:
+                                                                  4,250 mL
+                                                                  1,230 mL
+   Urine:
+                                                                  3,325 mL
+                                                                    700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,145 mL
+                                                                   -740 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 394 (383 - 495) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 31
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 64
+   PIP: 11 cmH2O
+   SPO2: 100%
+   ABG: 7.51/37/119/28/6
+   Ve: 13.9 L/min
+   PaO2 / FiO2: 238
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable ) no drainage
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Cool), popiteal pulse
+   with Doppler
+   Skin: right leg incision with staples serosangous drainage, left leg
+   EVH CDI
+   Neurologic: (Responds to: Noxious stimuli) with grimacing no movement
+   of extremities
+   Labs / Radiology
+   158 K/uL
+   10.1 g/dL
+   139 mg/dL
+   2.2 mg/dL
+   28 mEq/L
+   3.8 mEq/L
+   101 mg/dL
+   109 mEq/L
+   149 mEq/L
+   30.5 %
+   14.7 K/uL
+        [image002.jpg]
+                             [**3261-6-20**]  02:50 AM
+                             [**3261-6-20**]  03:03 AM
+                             [**3261-6-20**]  12:48 PM
+                             [**3261-6-20**]  05:18 PM
+                             [**3261-6-21**]  03:26 AM
+                             [**3261-6-21**]  08:05 AM
+                             [**3261-6-21**]  12:53 PM
+                             [**3261-6-21**]  10:44 PM
+                             [**3261-6-22**]  03:50 AM
+                             [**3261-6-22**]  03:59 AM
+   WBC
+   15.6
+   16.1
+   14.7
+   Hct
+   28.3
+   29.8
+   30.5
+   Plt
+   64
+   100
+   158
+   Creatinine
+   2.3
+   2.6
+   2.4
+   2.2
+   Troponin T
+    4.42
+   TCO2
+   28
+   28
+   29
+   30
+   31
+   31
+   Glucose
+   117
+   152
+   117
+   128
+   139
+   Other labs: PT / PTT / INR:35.7/73.4/3.8, CK / CK-MB / Troponin
+   T:364/9/ 4.42, ALT / AST:72/132, Alk-Phos / T bili:45/7.6, Amylase /
+   Lipase:184/210, Differential-Neuts:83.4 %, Lymph:12.5 %, Mono:2.7 %,
+   Eos:1.0 %, Fibrinogen:242 mg/dL, Lactic Acid:1.6 mmol/L, Albumin:3.4
+   g/dL, LDH:384 IU/L, Ca:8.9 mg/dL, Mg:2.5 mg/dL, PO4:4.3 mg/dL
+   Microbiology: blood, urine pending
+   sputum preliminary no growth
+   Assessment and Plan
+   INEFFECTIVE COPING, [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   R 5th hand digit pain, ALTERATION IN NUTRITION, IMPAIRED SKIN
+   INTEGRITY, PERIPHERAL VASCULAR DISEASE (PVD) WITH CRITICAL LIMB
+   ISCHEMIA, VALVE REPLACEMENT, MITRAL BIOPROSTHETIC (MVR)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr
+   Cardiovascular: Aspirin, Full anticoagulation due to HITT with
+   argatroban, Beta-blocker, Statins, acute on chronic systolic heart
+   failure, change to carvedilol, holding on ACE inhibitor due to cr,
+   echocardiogram today to evaluate for effusion due to rub
+   Pulmonary: Cont ETT, Spontaneous breathing trial, (Ventilator mode:
+   CPAP + PS) remains intubated unable to protect airway due to somulence
+   Gastrointestinal / Abdomen: recheck LFT
+   Nutrition: Tube feeding, free water deficit 2.9 liters will add water
+   to tube feeds 250 ml q6h and D5w 25 ml/hr
+   Renal: Foley, Adequate UO, cr 2.2 down from 2.4, bun steady at 99-101
+   will recheck in afternoon - contraction alkalosis - stop lasix drip,
+   damox IV x2
+   Hematology: stable anemia
+   Endocrine: RISS, goal BG< 150
+   Infectious Disease: wbc 14 down from 16, febrile T max 38.4, blood,
+   urine cultures pending - sputum preliminary no microorganisms, change
+   all lines today
+   Lines / Tubes / Drains: Foley, Dobhoff, ETT, Chest tube - pleural ,
+   Pacing wires
+   Wounds: Dry dressings
+   Consults: P.T., Nutrition, EP dept
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3261-6-22**] 01:40 AM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3261-6-16**] 02:00 AM
+   Multi Lumen - [**3261-6-20**] 04:30 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Argatroban (TM))
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,167 @@
+TITLE:
+   History of Present Illness
+   24-hour events:
+   - no growth from pericardial fluid swab, cytology negative
+   - started tylenol and oxycodone for chest and leg pain
+   - LDL checked- at 136
+   - Sent HbA1C
+   - adjusted insulin scale to 40 AM lantus, and 5 units humalog with
+   meals in addition to SSI
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 37.1 C
+   Tmax F last 24 hours: 98.8 F
+   T current C: 36.7 C
+   T current F: 98 F
+   Previous day:
+   Intake: 1,070 mL
+   Output: 1,150 mL
+   Fluid balance: -80 mL
+   Today:
+   Output: 700 mL
+   Fluid balance: -700 mL
+   Tele: NSR 80s-90s
+   Vitals: BP 125-145/43-74, HR 80s-90s, RR 16, O2 Sat 98% on 2LO2 by NC
+   Pulsus ~5mmHg, 10, 12
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Right carotid artery: No bruit), (Left carotid artery: No
+   bruit), (Jugular veins: Not visible)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: WNL), (Auscultation: WNL)
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   WNL, S2: wnl, S3: Absent, S4: Absent), (Murmur / Rub: Present rub),
+   drain in place
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Hepatosplenomegaly: No)
+   Genitourinary: (WNL)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Edema: Right:
+   0, Left: 0)
+   Skin: ( WNL)
+   Labs
+   [**2773-1-31**]  09:10 PM
+                            [**2773-2-1**]  04:10 AM
+                            [**2773-2-1**]  11:40 AM
+                            [**2773-2-2**]  04:19 AM
+   WBC
+   11.7
+   10.2
+   11.1
+   Hgb
+   9.6
+   8.8
+   9.2
+   Hct (Serum)
+   28.3
+   26.3
+   27.2
+   Plt
+   395
+   440
+   420
+   INR
+   1.2
+   1.3
+   PTT
+   31.5
+   31.7
+   Na+
+   135
+   137
+   142
+   K + (Serum)
+   5.0
+   4.3
+   4.4
+   Cl
+   104
+   106
+   108
+   HCO3
+   18
+   20
+   24
+   BUN
+   72
+   68
+   65
+   Creatinine
+   4.6
+   4.2
+   3.7
+   Glucose
+   137
+   124
+   48
+   CK
+   61
+   52
+   Troponin T
+   0.15
+   0.13
+   Assessment and Plan
+   80M with CAD (LAD and OM1 stents in [**2767**]), chr syst CHF (EF 45%), HTN,
+   HL, DM2, CKD (baseline Cr 3.0), who was admitted to the CCU w cardiac
+   tamponade.
+   # Cardiac Tamponade:  Drain for [**12-2**] was 300 cc.  Since midnight there
+   is no drainage.  The patient does not have clinical signs of tamponade
+   though there is a loculated effusion behind left ventricle on echo.
+   Will repeat echo prior to removal of the drain.  Plan for drainage in
+   AM.  Pulsus is currently 8.
+   Will continue to follow  likely from uremia, though awaiting
+   cultures.   from pericardial effusion of unclear etiology, possible
+   etiologies include infectious, neoplasm, myocarditis, hypothyroidism
+   (but TSH normal on [**2773-1-22**]).  Will continue the drain until <100 cc/24
+   hours with echo prior to removal of the drain. History of systolic
+   heart failure with EF 45%.
+   - await fluid studies including cytology
+   - monitor pulsus
+   - IVF bolus if hypotensive
+   - pull drain if <100 cc/24 hours, likely tomorrow am
+   - holding diuretics and [**Last Name (LF) **], [**First Name3 (LF) 167**] restart only if SBP >165, otherwise
+   will hold until pericardial drain.
+   # CORONARIES: non coronary chest pain, though the cause seems likely
+   secondary to mechanical causes and pericarditis . Trop 0.05 with CK 53.
+   No evidence of active ischemia. Currently pain-free.
+   - continue ASA, statin
+   # RHYTHM: sinus
+   - telemetry
+   # Acute on chronic renal failure:  Likely pre-renal [**2-19**] decreased
+   cardiac output in the setting of acute tamponade. Cr 4.6 on admission,
+   from 3.0 at baseline, now improving with dranage of pericardial
+   effusion.
+   - renal following
+   - urine lytes
+   - gentle IVF
+   - renally dose meds
+   - monitor renal labs
+   - urine microalbulin check today
+   Chest pain, likely secondary to drain, pericarditis, will treat with
+   tylenol, oxycodone. If persists, the patient could get a one-time dose
+   of colchicine.
+   .
+   # HTN: BP currently stable
+   - hold amlodipine in the setting of recent tamponade
+   # Diabetes: Patient maintains the irratic glucose levels with most over
+   250 but with AM hypoglycemia.  This is likely secondary to lack of
+   adequate meal coverage.  Thus will give standing premeal humalog with a
+   decrease in the PM lantus to 40 U.  Will give 25 Units now to bridge to
+   a QAM schedule.    Additionally will increase mealtime insulin and try
+   to get a copy of the home scale.
+   LE pain:  likely secondary to diabetic neuropathy.  Will give tylenol
+   standing, will also give oxycodone prn.   Could consider starting
+   cymbalta.
+   # HL: - continue statin
+   .
+   FEN: reg cardiac diet
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with hep SC
+   CODE: FULL
+   DISPO: CCU for now
+
+
+
+DOC CLASS

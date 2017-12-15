@@ -1,0 +1,258 @@
+Chief Complaint:  hematemesis
+   HPI:
+   58 y/o M with history of alcoholic cirrhosis (grade I varices on
+   nadolol, recent GI bleed at [**Location (un) 100**], mutliple paracentesis, never had
+   SBP) who presented with hepatic encephalopathy, developed hematemesis
+   while on [**Doctor Last Name 2448**]-[**Doctor Last Name 3754**], and transferred to ICU for further management.
+   .
+   He initially presented with dyspnea for the past few days to weeks and
+   altered mental status. No ligthheadedness, cough, fever. Complains of
+   abdominal pain to palpation. Of note, the patient reports still
+   drinking. He says his last drink was [**3209-4-29**].
+   .
+   In the ER, intial vitals 97.3, BP 110/50, 70, 18, 96% RA. he was given
+   2L NS, Kayexalate 30g PO, Lactulose 30mg PO, Levofloxacin 750mg IVx1
+   and flagyl 500mg IV x1 to treat hepatic encephalopathy and prophylaxis
+   for SBP.
+   .
+   He was empirically treated with ceftriaxone. Patient underwent a
+   paracentesis on [**3209-5-4**] that revealed 134 WBC in ascitic fluid. In the
+   evening of [**3209-5-4**] he vomited up about 50 cc of bright red blood. SBP
+   was in the 130s then 110s, HR 70s. He briefly desated to 90% on NC and
+   was put on face mask. Transferred to MICU for further management.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Haldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Medications on Admission:
+   Albuterol as needed
+   Advair 250mcg/50mcg twice daily
+   Folic Acid 1mg daily
+   Lasix 80mg daily
+   Glimepiride 4mg daily
+   Lantus 36units every morning
+   Humalog sliding scale
+   Nadolol 30mg daily
+   Omeprazole 40mg daily
+   Spironolactone 100mg daily
+   Aspirin 81mg daily
+   Benadryl 25mg daily
+   Multivitamin
+   Thiamine
+   MEDS ON TRANSFER:
+   Albuterol 0.083% Neb Soln 1 NEB IH Q6H
+   Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN
+   CeftriaXONE 2 gm IV Q24H
+   Cyanocobalamin 100 mcg PO DAILY
+   Fluticasone-Salmeterol Diskus (250/50)  1 INH IH [**Hospital1 **]
+   FoLIC Acid 1 mg PO DAILY
+   Insulin SC Sliding Scale & Fixed Dose
+   Lactulose 60 mL PO Q4H
+   titrate to [**4-22**] BM
+   Multivitamins 1 TAB PO DAILY
+   Octreotide Acetate 50 mcg/hr IV DRIP INFUSION
+   Ondansetron 4 mg IV Q8H:PRN nausea
+   Pantoprazole 40 mg IV Q12H
+   Pentoxifylline 400 mg PO TID
+   Rifaximin 400 mg PO TID
+   Thiamine 100 mg PO DAILY
+   Past medical history:
+   Family history:
+   Social History:
+   1) COPD - not O2- or steroid-dependent
+   2) ETOH abuse - no h/o DT's, withdrawal symptoms, last drink 6
+   months ago per pt.
+   3) PVD s/p aortobifemoral bypass ~10 yrs ago
+   4) HTN
+   5) GERD
+   6) Pancreatic mass
+   7) Remote PUD
+   8) Anxiety d/o
+   9) Cirrhosis with PHTN s/p tap x1
+   10) GI bleed in [**11-24**]: went to [**Hospital 100**] Hospital
+   11) DM2
+   Mother - PVD; Father - CVA; two daughters healthy; no known h/o liver
+   disease or malignancy
+   Occupation: Retired
+   Drugs: No illicit substances
+   Tobacco: Smokes [**12-19**] ppd
+   Alcohol: Continues to drink 2 glasses/wine most days of the week
+   Other: Used to work at a car dealership
+   Review of systems:
+   Flowsheet Data as of [**3209-5-5**] 02:48 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 77 (77 - 77) bpm
+   BP: 122/60(74) {122/60(74) - 122/60(74)} mmHg
+   RR: 14 (14 - 14) insp/min
+   SpO2: 99%
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    400 mL
+   Urine:
+   400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -400 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///25/
+   Physical Examination
+   Gen: confused, jaundiced obese male
+   HEENT: OP with specks of blood, scleral icterus
+   NECK: Supple, No LAD, No JVD
+   CV: RR, NL rate. NL S1, S2. No murmurs, rubs or gallops
+   LUNGS: crackles at bases
+   ABD: distended, typanetic, shifting dullness, tense
+   RECTAL: guaiac positive with brown stools
+   EXT: 4+ edema
+   SKIN: No lesions
+   NEURO: confused, +flapping asterixis
+   Labs / Radiology
+   9.7 g/dL
+   149 mg/dL
+   1.9 mg/dL
+   40 mg/dL
+   25 mEq/L
+   106 mEq/L
+   4.2 mEq/L
+   143 mEq/L
+   30.7 %
+   9.1 K/uL
+        [image002.jpg]
+                                  [**3205-12-19**]
+                          2:33 A5/19/[**3208**]  01:25 AM
+                                  [**3205-12-23**]
+                                   10:20 P
+                                  [**3205-12-24**]
+                                   1:20 P
+                                  [**3205-12-25**]
+                                   11:50 P
+                                  [**3205-12-26**]
+                                   1:20 A
+                                  [**3205-12-27**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3206-1-19**]
+                                   1:20 P
+                                  [**3206-1-19**]
+                                   11:20 P
+                                  [**3206-1-19**]
+                                   4:20 P
+   WBC
+                                     9.1
+   Hct
+                                    30.7
+   Cr
+                                     1.9
+   Glucose
+                                     149
+   Other labs: PT / PTT / INR:21.2/49.0/2.0, ALT / AST:170/383, Alk Phos /
+   T Bili:188/12.3, LDH:430 IU/L, Ca++:10.2 mg/dL, Mg++:1.9 mg/dL, PO4:2.1
+   mg/dL
+   Assessment and Plan
+   Pt is a 58 y/o M with history of ETOH cirrhosis admitted with
+   encephalopathy and acute renal failure, now s/p hematemesis prompting
+   MICU transfer.
+   # GI bleed: with hematemesis, likely from esophageal bleed. Repeat Hct
+   was stable at 30. Vital signs stable.
+   - serial Hcts; transfuse blood products as needed
+   - PPI and octreotide infusion
+   - monitor closely for any sign of bleed
+   - keep type & screen active
+   .
+   # Cirrhosis/hepatic encephalopathy: still confused. S/p paracentesis
+   with unremarkable ascitic fluid.
+   - continue lactulose, rifaximin, pentoxifylline
+   - hold nadolol given ongoing GI bleed
+   - continue ceftriaxone for now for empiric SBP treatment; consider
+   d/c'ing once more clinically stable and cx unremarkable
+   .
+   # ARF: Creatinine 3.2 on admission from baseline of 1.2/1.0, trending
+   down to 1.6 with IVF and albumin. Unlikely hepatorenal syndrome.
+   - continue to trend renal labs
+   - hold diuretics
+   .
+   # Diabetes type II:
+   - continue home insulin
+   .
+   # COPD:
+   - continue nebs
+   .
+   # H/o HTN: currently normotensive, will hold antihypertensives given
+   ARF and GI bleed.
+   .
+   # GERD: PPI
+   .
+   # FEN: NPO for now
+   .
+   # Ppx: pneumoboots
+   .
+   # CODE: full
+   .
+   # Contact: HCP/girlfriend [**Name (NI) **] [**Telephone/Fax (1) 8956**], [**Name2 (NI) **]er [**Name (NI) 702**]
+   [**Telephone/Fax (1) 8957**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 58M ESLD / ethanol, varicies, encephalopathy
+   transferred from F10 to MICU for hematemesis / UGIB. Vomitted 50cc BRB
+   yesterday but HD stable and HCT 35 to 28, 29 on repeat. No blood
+   overnight.
+   Exam notable for Tm 97.0 BP 120/30 HR 77 RR 18 with sat 99 on RA.
+   Anisocoria. Encephalopathic. RRR s1s2. CTAB. Soft +BS. No edema. Labs
+   notable for WBC 9K, HCT 30, 5.9K+ , Cr 1.8 (down), INR 1.9.
+   Agree with plan to manage likely variceal bleeding with PPI IV,
+   octreotide, goal HCT >27, and EGD in ICU. For concern of SBP - tap
+   negative, will start cipro for prophylaxis and d/c CTX. ARF is
+   improving with IVF. Encephalopathy is stable per report, will continue
+   lactulose / rifax when tolerating POs. COPD without flare - continue
+   MDI rx and pulm hygeine per routine. Full. Remainder of plan as
+   outlined above.
+   Patient is critically ill
+   Total time: 35 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3209-5-5**] 04:50 PM ------
+
+
+
+DOC CLASS

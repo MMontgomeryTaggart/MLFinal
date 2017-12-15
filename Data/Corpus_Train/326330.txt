@@ -1,0 +1,202 @@
+Chief Complaint: SOB and AF/AFl in OMED service.
+   24 Hour Events:
+ THORACENTESIS - At [**2897-8-21**] 05:05 PM
+   -Patient off diltiazem drip yesterday with adequate HR.
+   -CT chest yesterday  with large pleural effusions right sided, with
+   right lower lobe collapse, left side loculated effusions - appears
+   unchanged from CT scan [**7-30**]
+   - Thoracentesis done, with pre-transfusion with platelets, sent fluid
+   for culture; No PTX on CXR.
+   - speech and swallow: soft solids and thin liquids, changed diet orde
+   - episode of desats to 85% at 8 pm on 15 L, got lasix 40 IV and neb
+   treatments with return to 96%, HR 63, BP 110/50
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**2897-8-21**] 06:00 PM
+   Caspofungin - [**2897-8-21**] 07:54 PM
+   Vancomycin - [**2897-8-21**] 09:00 PM
+   Cefipime - [**2897-8-22**] 12:00 AM
+   Acyclovir - [**2897-8-22**] 12:33 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2897-8-21**] 04:00 PM
+   Furosemide (Lasix) - [**2897-8-21**] 08:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2897-8-22**] 06:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 35.6
+C (96
+   HR: 69 (59 - 80) bpm
+   BP: 106/47(61) {87/40(51) - 138/109(114)} mmHg
+   RR: 26 (11 - 33) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+             Total In:
+                                                                  2,691 mL
+                                                                    319 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,973 mL
+                                                                    319 mL
+   Blood products:
+                                                                    718 mL
+   Total out:
+                                                                  3,445 mL
+                                                                    830 mL
+   Urine:
+                                                                  1,945 mL
+                                                                    830 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,500 mL
+   Balance:
+                                                                   -754 mL
+                                                                   -511 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 95%
+   ABG: 7.36/59/89.[**Numeric Identifier 120**]/33/5
+   PaO2 / FiO2: 178
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present), No JVD
+   seen.
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended, Obese
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   57 K/uL
+   9.3 g/dL
+   90 mg/dL
+   0.3 mg/dL
+   33 mEq/L
+   3.3 mEq/L
+   9 mg/dL
+   106 mEq/L
+   142 mEq/L
+   27.2 %
+   1.4 K/uL
+        [image002.jpg]
+                             [**2897-8-20**]  09:38 AM
+                             [**2897-8-21**]  04:39 AM
+                             [**2897-8-21**]  10:31 PM
+                             [**2897-8-22**]  05:00 AM
+   WBC
+   0.8
+   1.4
+   Hct
+   24.8
+   27.2
+   Plt
+   27
+   57
+   Cr
+   0.3
+   0.3
+   TCO2
+   30
+   35
+   Glucose
+   92
+   90
+   Other labs: PT / PTT / INR:16.5/26.9/1.5, Lactic Acid:0.7 mmol/L,
+   Albumin:2.2 g/dL, LDH:118 IU/L, Ca++:8.3 mg/dL, Mg++:1.7 mg/dL, PO4:2.6
+   mg/dL
+   Assessment and Plan
+   59 y/o F with h/o mental retardation, recent dx of Nodular sclerosing
+   Hodgkins Lymphoma s/p chemo on [**2897-8-2**] presented with tachycardia and
+   respiratory distress.
+   .
+   Respiratory distress
+ O2 requirements improved from yesterday with
+   diuresis. The possible etiologies for Ms. [**Known patient lastname 3015**] are mucus plug or
+   atelectases in the setting of a negative PE-CT scan; patient improved
+   rapidly for pneumonia and CXR is unchanged. Pateint may benefit from
+   right  pleural effusion therapeutic thoracoscentesis to expand right
+   lower lobe.
+   - Discuss with IP risk & benefits of thoracoscentesis; pt not a
+   candidate for chest tube since neutropenic. If pt. going for [**Female First Name (un) 1120**],
+   then will need PLTs transfusion (ready).
+   - cont nebs
+   - wean O2 as tolerated
+   - chest PT
+   .
+    # Paroxysmal A-fib: Patient on and off atrial fibrillation/flutter.
+   Sometimes rate controlled, sometimes with RVR. Patient with pericardial
+   effusion and multiple pulmonary processes, which may be precipitating
+   AF/Fl. Currently on amiodarone, diltiazem and metoprolol. Diltiazem
+   drip was stopped in AM. If patient has another episode we will consider
+   loading digoxin.
+   - on telemetry
+   - repeat EKG
+   - continue BBlocker, titrate as blood pressure will tolerate
+   - continue amiodarone at current dose
+   - consider digoxin if in fib and persistently tachycardia
+   .
+   # Hodgkins Lymphoma: Pt is s/p EACoPP protocol on [**2897-5-14**] with
+   cytoxan, doxorubacin on day 1 and etoposide on days [**12-6**]. Pt has also
+   had pericardial tamponade s/p pericardiocentesis on [**2897-4-17**] and
+   pericardial window on [**2896-5-17**]. Pt initiated ICE chemo reg on
+   [**2897-8-2**].  WBC trending down after chemotherapy. Ideally should be
+   transfused for hct>30 to maintain oxygenation.
+   - continue Acyclovir & Bactrim ppx
+   - crit today is 24, HCT goal 25, plt goal 20
+   - patient is now neutropenic with decreased platelets likely secondary
+   to chemo nadir, on filgrastrim
+   - continue vanc, cefepime and caspo for empiric neutropenic coverage
+   # H/o megacolon/Diarrhea: Pt is s/p volvulous & sigmoid resection with
+   large dilated loops of colon visible on portable films.  She has
+   required intermittent rectal tubes.  recent C. Diff toxin + [**2897-6-1**] &
+   [**2897-6-25**].  C. diff [**8-12**] negative.
+   - pt on definitive treatment for C. diff with IV flagyl and PO vanco
+   - will continue for as long as patient on additional antibiotics
+   .
+   # F/E/N: NPO for now, will assess by S&S today.
+   - NPO for now
+   - replete lytes per onc sliding scales
+   # PPX: PPI, no heparin for low platelets
+   # CODE: Intubate/DNR
+   # ACCESS: right arm PICC
+   # CONTACT: HCP - brother [**Name (NI) 3018**] [**Telephone/Fax (1) 3019**] (mobile) and [**Telephone/Fax (1) 3020**]
+   (home); brother also gave permission to speak with his wife [**Name (NI) 864**]
+   #Dispo: ICU for now for thocacosentesis and BP/HR monitoring.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2897-8-20**] 04:58 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+
+DOC CLASS

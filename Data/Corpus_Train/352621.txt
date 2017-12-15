@@ -1,0 +1,326 @@
+Chief Complaint:  respiratory distress
+   PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **]. [**Telephone/Fax (1) 1588**]
+   Pulmonologist: [**First Name8 (NamePattern2) 444**] [**Last Name (NamePattern1) 5092**], [**First Name4 (NamePattern1) 1962**] [**Last Name (NamePattern1) **]
+   Heme/Onc: [**First Name4 (NamePattern1) 1895**] [**Last Name (NamePattern1) 5319**]
+   Cardiologist: [**First Name8 (NamePattern2) 3116**] [**Last Name (NamePattern1) **]
+   HPI:
+   For complete details, please refer to initial medicine admission note
+   and MICU call out note [**2668-11-30**]. In brief, Ms. [**Known patient lastname 5051**] is a 73 yo
+   female with PMH significant for ILD on [**1-11**].5L home O2, diastolic CHF,
+   cor pulmonale, s/p liver transplant on immunosuppression,
+   post-transplant myeloproliferative disorder s/p CHOP and rituximab who
+   was initially admitted to hospital on [**11-23**] after a mechanical fall for
+   pain control. On [**11-24**] patient had an aspiration event and hypoxia. The
+   following day, she had evidence of aspiration on CXR and hypercarbic
+   respiratory failure.  At that time, goals of care were discussed with
+   her HCP, her husband, as well as her daughter and they felt they would
+   want intubation.  She was made DNR as it was felt that CPR would not be
+   indicated. She was transferred to the MICU.
+   .
+   In the MICU, she was intubated on [**11-25**] for worsening hypercarbia. That
+   evening she spiked a fever, went into AF vs MAT with HRs into the 160s,
+   and hypotension to the 80s. She did not tolerate beta blockers at that
+   time and was started on an amiodarone gtt.  She was also started on
+   empiric vancomycin and zosyn for possible aspiration pna.  She received
+   aggressive volume resuscitation and converted to NSR the following
+   morning.  Her amiodarone was discontinued given concern for worsening
+   lung and liver disease.  Her beta blocker was uptitrated. Antibiotics
+   were briefly discontinued on [**11-27**] and restarted on [**11-28**].  She was
+   eventually diuresed and was able to be extubated on [**11-29**]. She was
+   called out to the medical floor on [**11-30**].
+   .
+   While on the medical floor, she was continued on vancomycin and zosyn
+   for presumed aspiration pna. She had no microbiology data to help guide
+   therapy. She was continued on diuretics but has run I/O even per
+   documentation. While on floor, SBPOs 100s, HRs 80s, RR 20s, O2 90s on
+   3LNC.
+   .
+   On the evening of transfer, trigger called for increased work of
+   breathing. Upon floor evaluation, patient denied any subjective SOB. O2
+   requirement the same at 90s n 3LNC and no significant change in RR.
+   However, at ~ MN, patient went into irregular SVT (AF vs MAT) to 150s,
+   T100.3,  with SBPs into 90s, RR increased to 30s, and O2 sats low 90s
+   on 4-6L. She received lopressor 5 mg IV x 2 without significant change
+   in her HR and decrease in SBP to 80s. CXR repeated without significant
+   change compared to this am. ABG showed 7.35/73/54.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Codeine
+   Unknown;
+   Oxycodone/Acetaminophen (Oral) (Oxycodone Hcl/Acetaminophen
+   Unknown;
+   Morphine Sulfate
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.4 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Home medications:
+   IPRATROPIUM BROMIDE 0.2 mg/mL inh four times a day
+   LEVOTHYROXINE 75 mcg by mouth once a day
+   METOPROLOL TARTRATE 75 mg by mouth TID
+   OMEPRAZOLE 20 mg by mouth daily
+   TACROLIMUS 3mg by mouth twice a day
+   DOCUSATE SODIUM 100 mg by mouth once a day
+   INSULIN NPH HUMAN RECOMB [HUMULIN N] 44U units before breakfast, 12U at
+   4:30pm.
+   INSULIN REGULAR HUMAN [HUMULIN R] - sliding scale four times a day
+   Lasix 40 mg daily
+   Bactrim TIW
+   Tums prn
+   .
+   Medications on transfer:
+   Insulin Sliding Scale
+   NPH 44 units qam, 12 units qpm
+   Ipratropium Bromide Neb 1 NEB IH QID
+   Acetaminophen (Liquid) 1000 mg PO Q6H:PRN pain/fever
+   Levothyroxine Sodium 75 mcg PO DAILY
+   Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN
+   Lidocaine 5% Patch 1 PTCH TD 12HR ON/OFF
+   Metoprolol Tartrate 50 mg PO TID
+   Pantoprazole 40 mg PO Q24H
+   Calcium Carbonate 1250 mg PO TID
+   Piperacillin-Tazobactam Na 4.5 g IV Q8H
+   Docusate Sodium (Liquid) 100 mg PO BID
+   Furosemide 40 mg PO DAILY
+   Sulfameth/Trimethoprim DS 1 TAB PO QMOWEFR
+   Tacrolimus 3 mg PO Q12H
+   Vancomycin 1000 mg IV Q 24H
+   Heparin 5000 UNIT SC TID
+   Vitamin D 50,000 UNIT PO QTUES
+   Past medical history:
+   Family history:
+   Social History:
+   # Interstitial pulmonary fibrosis
+   - home oxygen dependent 2-2.5L NC (etiology unknown, no biopsy)
+   - recently titrated off prednisone as unresponsive
+   # cor pulmonale
+   # S/p Liver transplant [**4-9**] for cryptogenic cirrhosis
+   # Post-transplant lymphoproliferative disorder s/p CHOP and rituximab
+   # Type 2 DM (without peripheral neuropathy)
+   # HTN
+   # Hypothyroidism
+   # Diastolic dysfunction with LVEF of 65%
+   # Cholecystectomy.
+   # Appendectomy.
+   # h/o of atrial fibrillation
+   There is no family history of premature coronary artery disease or
+   sudden death. Afib in sister
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Married, previously lived at home but recently discharged to
+   rehab. Denies tobacco use.
+   Review of systems:
+   Constitutional: Fatigue, Fever
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema,
+   Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea, Tachypnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Flowsheet Data as of [**2668-12-5**] 02:56 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 150 (147 - 150) bpm
+   BP: 64/43(48) {64/43(48) - 83/50(58)} mmHg
+   RR: 38 (38 - 40) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 66 Inch
+             Total In:
+             501 mL
+   PO:
+             TF:
+   IVF:
+   501 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     80 mL
+   Urine:
+   80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    421 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   Physical Examination
+   General Appearance: Well nourished, moon facies, buffalo hump
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: cannot assess JVP d/t habitus
+   Cardiovascular: (S1: Normal), (S2: Normal), irreg irreg.
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   diffusely, greatest at bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): person, place, time, Movement: Purposeful,
+   Tone: Normal
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: see OMR for recent labs
+   Imaging: CXR [**12-4**]:
+   low lung volumes. No obvious pulmonary edema or infiltrate compared to
+   am.
+   Spirometry [**2668-10-29**]:
+   FEV1: 0.87(42%), FVC:0.97(33%), FEV1/FVC: 90(128%)
+   .
+   ECHO [**2668-9-29**]:
+   The left atrium is moderately dilated. Left ventricular wall thickness,
+   cavity size and regional/global systolic function are normal (LVEF
+   >55%). There is no ventricular septal defect. The right ventricular
+   free wall is hypertrophied. The right ventricular cavity is mildly
+   dilated with mild global free wall hypokinesis. The ascending aorta is
+   mildly dilated. The aortic valve leaflets (3) are mildly thickened but
+   aortic stenosis is not present. No aortic regurgitation is seen. The
+   mitral valve leaflets are mildly thickened. There is no mitral valve
+   prolapse. Trivial mitral regurgitation is seen. The left ventricular
+   inflow pattern suggests impaired relaxation. The tricuspid valve
+   leaflets are mildly thickened. There is moderate pulmonary artery
+   systolic hypertension. There is no pericardial effusion.
+   Compared with the prior study (images reviewed) of [**2668-8-15**], no change.
+   ECG: ECG [**12-4**]: MAT vs sinus tach w/ frequent PACs. Nl axis and
+   intervals. Early RW progression. Nondiagnostic QWs inferiorly. NSSTTW
+   changes. Compared to prior, no sig change.
+   Assessment and Plan
+   73 yo female with PMH significant for ILD on home O2, diastolic CHF,
+   cor pulmonale, s/p liver transplant on immunosuppression,
+   post-transplant myeloproliferative disorder s/p CHOP and rituximab
+   transferred to ICU for respiratory distress.
+   .
+   # respiratory distress: hypercarbic and hypoxic respiratory failure.
+   Patient tenuous at baseline. Acute decompensation seems to have
+   occurred in the setting of SVT w/ RVR. No dramatic changes on CXR.
+   Difficult to interpret pulmonary exam given baseline rales d/t IPF.
+   Must also consider worsening pulmonary infection although already on
+   broad spectrum antibiotics. Was intubated so could be set up for ASBL
+   bacteria and other resistent organisms.
+   - NIPPV
+   - serial ABGs. If worsening respiratory acidosis, will intubate
+   - cont vanco/zosyn day #[**5-17**]
+   - broaden antibiotic coverage with cipro
+   - treat SVT as below
+   - diuresis if BP will tolerate
+   - nebs
+   - No indication for steroids. Has not been responsive to steroids in
+   the past
+   .
+   # SVT: appears to be AF vs MAT on tele and ECG. Had similar episode on
+   last MICU admission which did not tolerate beta blockers and required
+   amio gtt. Again, associated with hypotension and may be contributing to
+   respiratory distress. unclear inciting event. ? fever. At risk given
+   underlying lung disease
+   - amio bolus and gtt
+   - d/c amio as able once converts
+   - can attempt bolus IV lopressor if BP will tolerate
+   - cont po beta blocker as BP will tolerate
+   .
+   # hypotension: likely due to RVR. In the setting of low grade fever,
+   must also consider sepsis. Currently on broad spectrum abx.
+   - cont vanco,zosyn as above with addition of cipro
+   - pan culture
+   - treat SVT as above
+   - IVF boluses prn
+   .
+   # fever: new low grade temp this am. Patient immunosuppressed at
+   baseline on tacrolimus. No leukocytosis this am. CXR unchanged. ?
+   noninfectious etiologies. No increased sputum productive, abdominal
+   pain, diarrhea.
+   - panculture: blood, urine, sputum
+   - broaden antibiotic coverage as above
+   - repeat CBC stat with diff
+   - check LFTs
+   .
+   # s/p fall: no evidence of fracture. Pain controlled currently.
+   - cont lidocaine patch, tylenol
+   - avoid narcotics given tenuous respiratory status
+   - PT
+   .
+   # DM: reasonable BG control recently.
+   - cont NPH per outpt doses. Half dose while NPO
+   - cont insulin sliding scale
+   .
+   # ILD: unclear etiology. Followed by Pulm. Refractory to steroids.
+   - continue supplemental O2
+   - no steroids for now
+   - alb/atrovent nebs
+   .
+   # PTLD: no known active issues currently.
+   - check LFTs as above
+   - continue Tacrolimus at regular dose for now
+   .
+   # Hypothyroidism: TSH normal this admission. Continue Levothyroxine
+   .
+   # Access: PICC, PIV
+   .
+   # FEN: NPO for now
+   - vit D
+   .
+   # Prophylaxis: Heparin SC 5000 tid, PPI
+   - Bactrim M/W/F
+   .
+   # Code status: Intubation okay. CPR not indicated.
+   .
+   # Contact: [**Name (NI) 3258**] [**Name (NI) 5051**] [**Telephone/Fax (1) 6955**]  , daughter [**Name (NI) 498**] [**Telephone/Fax (1) 7064**]
+   .
+   # Dispo: ICU
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2668-12-5**] 01:50 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Attending: history reviewed. Patient was seen and examined with Dr.
+   [**First Name (STitle) **]. Mrs [**Known patient lastname 5051**] is followed by Drs [**Last Name (STitle) 7067**] and [**Name5 (PTitle) **] in the pulmonary
+   clinic.  DM, HTN, hypothyroidism, ILD without diffuse
+   fibrosis/honeycombing, s/p liver transplant, s/p myeloprolif disorder
+   s/p CHOP and Rituximab now with acute respiratory failure,
+   pressor-dependent hypotension, and SVT.
+   Admitted [**11-23**] with resp failure, intubated in MICU [**2581-11-24**], treated
+   with Abx (no steroids), transferred to floor on [**11-30**]. Triggered today
+   for low grade fever 100.3,  tachycardia to 150s, hypoxia on pO2 53 on 6
+   liters O2. BP dropped following lopressor, transferred to MICU, put on
+   BiPAP and amiodarone 150 mg IV given.
+   Currently, MAP>60 on neo, HR 120 MAT vs. Afib, tolerating BiPAP 10/5,
+   100% O2. 7.35/67/385. Unclear what precipitated tachycardia today-
+   fever/infection vs volume changes unlikely vs. PE possible but on
+   prophylaxis. On Vanco/Zosyn, agree with broadening coverage with cipro.
+   Hypotension likely due to SVT and beta blocker, doubt sepsis. Follow up
+   cultures.
+   Other issues as per Dr. [**First Name (STitle) **]
+s note. Code status: okay for intubation,
+   no CPR. Husband is HCP.
+   [**Name (NI) 51**] is critically ill and will remain in ICU. 35 minutes critical
+   care time spent.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1103**] [**Last Name (NamePattern1) 1098**], MD
+   on:[**2668-12-5**] 03:45 ------
+
+
+
+DOC CLASS

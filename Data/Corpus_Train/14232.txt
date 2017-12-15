@@ -1,0 +1,291 @@
+Admission Date:  [**3480-3-8**]              Discharge Date:   [**3480-3-12**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Known patient firstname 1858**]
+Chief Complaint:
+Dyspnea on exertion
+
+
+Major Surgical or Invasive Procedure:
+[**3480-3-8**]
+Aortic valve replacement with a 27-mm [**Company 1232**] Mosaic Ultra
+aortic valve bioprosthesis
+
+
+History of Present Illness:
+88 year old male with known aortic stenosis complaining of
+increased dyspnea on exertion. He states he is requiring oxygen
+at night due to shortness of breath.Further cardiac workup
+revealed no coronary disease, severe Aortic Stenosis. Cardiac
+surgery was donsulted for surgical correction.
+
+Past Medical History:
+CHF
+CAD s/p MI [**3455**], 96, s/p PTCA without stenting
+afib
+AS
+TIA
+HTN
+HL
+h/o bradycardia on BB
+? Stage III CKD
+? Asbestosis
+
+Past Surgical History:
+s/p hemicolectomy [**3479-10-30**]
+s/p right knee replacement
+
+
+Social History:
+SHx - resides in [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1863**] Rest Home in [**Location (un) 5817**]
+[**Telephone/Fax (1) 17817**].
+He is widowed x1 yr. Has 3 grown children to assist with
+discharge needs. Daughter [**First Name4 (NamePattern1) 2547**] [**Last Name (NamePattern1) 17818**] [**Telephone/Fax (1) 17819**]
+
+
+Family History:
+Mother and father with "heart problems"
+
+Physical Exam:
+Pulse:82 Resp:13  O2 sat: 97/RA
+B/P  Right:154/80    Left:160/72
+Height:5'7"     Weight:182 lbs
+
+General:
+Skin: Dry [x] [**Telephone/Fax (1) 5877**] [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x];
+Heart: RRR [x]  Irregular []  Murmur: 4/6 systolic ejection
+murmur with radiation to both carotids
+Abdomen: Soft, obese [x] non-distended [x] non-tender [x]  bowel
+sounds +; well healed midline laparotomy scar
+Extremities: Warm [x], well-perfused [x]  no Edema
+Varicosities: None;
+Neuro: Grossly [**Telephone/Fax (1) 5877**]
+Pulses:
+Femoral      Right: 1+ access site is w/o hematoma; Left: 1+
+DP           Right: 1+  Left: 1+
+PT           [**Name (NI) 422**]: 1+   Left: 1+
+Radial       Right: 2+  Left: 2+
+Carotid Bruit        Right/left: transmitted heart murmur
+
+
+Pertinent Results:
+[**3480-3-11**] 05:35AM BLOOD WBC-11.8* RBC-3.08* Hgb-9.8* Hct-28.2*
+MCV-91 MCH-31.7 MCHC-34.7 RDW-14.7 Plt Ct-179
+[**3480-3-10**] 04:40AM BLOOD WBC-13.3* RBC-3.21* Hgb-10.2* Hct-29.6*
+MCV-92 MCH-31.9 MCHC-34.5 RDW-14.9 Plt Ct-179
+[**3480-3-11**] 05:35AM BLOOD Glucose-91 UreaN-18 Creat-1.1 Na-135
+K-3.2* Cl-100 HCO3-29 AnGap-9
+[**3480-3-10**] 04:40AM BLOOD Glucose-125* UreaN-18 Creat-1.2 Na-135
+K-3.9 Cl-102 HCO3-27 AnGap-10
+
+[**3480-3-8**]
+intraop TEE
+Pre-CPB:
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Overall left ventricular systolic function is normal (LVEF>55%).
+with borderline normal free wall function.
+There are simple atheroma in the descending thoracic [**Month/Day/Year 5876**]. An
+epi-aortic study revealed simple atheroma which did alter the
+cannulation site.
+The aortic valve leaflets are severely thickened/deformed.
+There is critical aortic valve stenosis (valve area <0.8cm2).
+Mild (1+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen.
+There is no pericardial effusion.
+Post-CPB:
+The patient is AV-Paced, on no inotropes.
+Good biventricular systolic fxn.
+There is a prosthetic aortic valve with no AI and no
+paravalvular leak.
+Trace- 1+ MR.
+[**First Name (Titles) **] [**Last Name (Titles) 5877**].
+[**3480-3-12**] 06:08AM BLOOD WBC-9.4 RBC-3.00* Hgb-9.6* Hct-27.8*
+MCV-93 MCH-32.1* MCHC-34.7 RDW-14.2 Plt Ct-237
+[**3480-3-12**] 06:08AM BLOOD WBC-9.4 RBC-3.00* Hgb-9.6* Hct-27.8*
+MCV-93 MCH-32.1* MCHC-34.7 RDW-14.2 Plt Ct-237
+
+Brief Hospital Course:
+The patient was admitted to the hospital and brought to the
+operating room on [**3480-3-8**] where he underwent aortic valve
+replacement with a 27-mm [**Company 1232**] Mosaic Ultra aortic valve
+bioprosthesis. Please see operative report for further details.
+Overall the patient tolerated the procedure well and
+post-operatively was transferred to the CVICU in stable
+condition for recovery and invasive monitoring. POD 1 found the
+patient extubated, alert and oriented and breathing comfortably.
+ The patient was neurologically [**Company 5877**] and hemodynamically
+stable on no inotropic or vasopressor support.  Beta
+blocker/Aspirin/diuresis was initiated and the patient was
+gently diuresed toward the preoperative weight. He continued to
+progress and was transferred to the telemetry floor for further
+recovery.  Chest tubes and pacing wires were discontinued
+without complication per protocol. During his hospital course he
+did have an episode of slow A flutter with a history of
+paroxysmal atrial fibrillation and was restarted on Coumadin at
+his home dose. He was in sinus rhythm at the time of discharge.
+Mr[**Known patient lastname **] was evaluated by the physical therapy service for
+assistance with strength and mobility.  By the time of discharge
+on POD #4 the patient was ambulating freely, hi incision was
+healing well and pain was controlled with oral analgesics.  He
+was discharged to [**Hospital6 4796**] and Rehab in [**Location (un) **], MA in
+good condition with appropriate follow up instructions advised.
+
+Medications on Admission:
+FUROSEMIDE -  (Prescribed by Other Provider) - 40 mg [**Location (un) 1082**] - 1
+[**Location (un) 1082**](s) by mouth DAILY (Daily)
+HYDRALAZINE -  (Prescribed by Other Provider) - 50 mg [**Location (un) 1082**] - 1
+[**Location (un) 1082**](s) by mouth four times a day Hold for SBP less than 100/
+heart rate less than 50
+METOPROLOL TARTRATE -  (Prescribed by Other Provider) - 25 mg
+[**Location (un) 1082**] - 0.5 (One half) [**Location (un) 1082**](s) by mouth twice a day
+NITROGLYCERIN -  (Prescribed by Other Provider) - 0.2 mg/hour
+Patch 24 hr - Apply 1 patch topically daily
+OXYBUTYNIN CHLORIDE -  (Prescribed by Other Provider) - 5 mg
+[**Location (un) 1082**] - 1 [**Location (un) 1082**](s) by mouth twice a day
+OXYCODONE -  (Prescribed by Other Provider) - 5 mg Capsule - 1
+to
+2 [**Location (un) 1082**] by mouth every 4 hours as needed for as needed for pain
+RANITIDINE HCL -  (Prescribed by Other Provider) - 150 mg [**Location (un) 1082**]
+- 1 [**Location (un) 1082**](s) by mouth twice a day
+TRAZODONE -  (Prescribed by Other Provider) - 50 mg [**Location (un) 1082**] - 0.5
+(One half) [**Location (un) 1082**](s) by mouth HS (at bedtime) as needed for
+insomnia
+VERAPAMIL -  (Prescribed by Other Provider) - 120 mg [**Location (un) 1082**]
+Sustained Release - 1 [**Location (un) 1082**](s) by mouth every twenty-four(24)
+hours
+WARFARIN -  (Prescribed by Other Provider) - 2 mg [**Location (un) 1082**] - 3
+[**Location (un) 1082**](s) by mouth once a day on Sat, & Sun
+Medications - OTC
+ACETAMINOPHEN -  (Prescribed by Other Provider) - 325 mg [**Location (un) 1082**]
+-
+2 [**Location (un) 1082**](s) by mouth three times a day
+ASPIRIN -  (Prescribed by Other Provider) - 81 mg [**Location (un) 1082**],
+Chewable - 1 [**Location (un) 1082**](s) by mouth DAILY (Daily)
+SENNOSIDES-DOCUSATE SODIUM [SENNA-S] -  (Prescribed by Other
+Provider) - 8.6 mg-50 mg [**Location (un) 1082**] - 1 [**Location (un) 1082**](s) by mouth twice a
+day as needed
+
+
+Discharge Medications:
+1. tramadol 50 mg [**Location (un) 1082**] Sig: One (1) [**Location (un) 1082**] PO Q4H (every 4
+hours) as needed for pain. [**Location (un) 1082**](s)
+2. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+3. aspirin 81 mg [**Location (un) 1082**], Delayed Release (E.C.) Sig: One (1)
+[**Location (un) 1082**], Delayed Release (E.C.) PO DAILY (Daily).
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. furosemide 20 mg [**Location (un) 1082**] Sig: One (1) [**Location (un) 1082**] PO Q12H (every 12
+hours).
+6. potassium chloride 20 mEq [**Location (un) 1082**], ER Particles/Crystals Sig:
+One (1) [**Location (un) 1082**], ER Particles/Crystals PO Q12H (every 12 hours).
+
+7. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+8. hydralazine 25 mg [**Location (un) 1082**] Sig: Two (2) [**Location (un) 1082**] PO Q6H (every 6
+hours).
+9. ranitidine HCl 150 mg [**Location (un) 1082**] Sig: One (1) [**Location (un) 1082**] PO DAILY
+(Daily).
+10. warfarin 1 mg [**Location (un) 1082**] Sig: [**Name8 (MD) **] MD [**First Name (Titles) 1082**] [**Last Name (Titles) 39**] Once Daily at 4
+PM: For Afib INR goal=>2.
+11. warfarin 2.5 mg [**Last Name (Titles) 1082**] Sig: One (1) [**Last Name (Titles) 1082**] PO once for 1
+doses.
+12. acetaminophen 325 mg [**Last Name (Titles) 1082**] Sig: Two (2) [**Last Name (Titles) 1082**] PO Q4H
+(every 4 hours) as needed for fever, pain.
+13. glyburide 2.5 mg [**Last Name (Titles) 1082**] Sig: One (1) [**Last Name (Titles) 1082**] PO BID (2 times
+a day).
+14. metoprolol tartrate 50 mg [**Last Name (Titles) 1082**] Sig: One (1) [**Last Name (Titles) 1082**] PO BID
+(2 times a day).
+15. amlodipine 5 mg [**Last Name (Titles) 1082**] Sig: Two (2) [**Last Name (Titles) 1082**] PO DAILY (Daily).
+
+16. insulin regular human 100 unit/mL Solution Sig: One (1)
+Injection ACHS: PER RISS.
+17. oxybutynin chloride 5 mg [**Last Name (Titles) 1082**] Sig: One (1) [**Last Name (Titles) 1082**] PO BID
+(2 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **]
+
+Discharge Diagnosis:
+Aortic Stenosis
+Secondary:
+Coronary artery disease s/p MIx3 [**3463**] PTCA
+Diastolic dysfunction LVEF 60%
+colon cancer
+Aortic stenosis
+Hypertension
+Hyperlipidemia
+Diabetes type 2
+Paroxysmal atrial fibrillation (tachy brady)
+Chronic renal insufficiency
+TIA x3 [**3465**]
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait with walker assistance
+Incisional pain managed with Percocet
+Incisions:
+Sternal - healing well, no erythema or drainage
+1+ Edema
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 425**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr [**Last Name (STitle) **], MD Phone:[**Telephone/Fax (1) 425**] Date/Time:[**3480-3-23**]
+1:45
+
+Cardiologist: Dr [**Last Name (STitle) 1775**] on [**3480-3-17**] AT 1:45PM
+
+Please call to schedule appointments with your
+Primary Care Dr. [**Last Name (STitle) 150**] in [**4-27**] weeks [**Telephone/Fax (1) 17820**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication PAF
+Goal INR 2.0-3.0
+First draw [**3480-3-13**]
+Rehab to dose Coumadin for INR goal [**2-26**] - long term follow up to
+be arranged upon discharge from rehab
+
+
+
+Completed by:[**3480-3-12**]
+
+
+DOC CLASS

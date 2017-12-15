@@ -1,0 +1,170 @@
+CVICU
+   HPI:
+   Chief complaint:
+   s/p AVR / CABGx3
+   PMHx:
+   AS, Afib, HTN, CRI, hyperparathyroidism, s/p TURP
+   Current medications:
+   24 Hour Events:
+ PA CATHETER - STOP [**3112-12-25**] 02:27 PM
+   pacing swan
+ CORDIS/INTRODUCER - STOP [**3112-12-25**] 10:39 PM
+ CORDIS/INTRODUCER - START [**3112-12-26**] 04:55 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3112-12-23**] 08:45 AM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**3112-12-25**] 08:45 AM
+   Ranitidine (Prophylaxis) - [**3112-12-25**] 10:00 AM
+   Furosemide (Lasix) - [**3112-12-26**] 07:34 AM
+   Other medications:
+   Flowsheet Data as of  [**3112-12-26**] 08:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**16**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 36.2
+C (97.2
+   HR: 114 (95 - 116) bpm
+   BP: 143/77(94) {91/52(62) - 150/91(104)} mmHg
+   RR: 19 (15 - 30) insp/min
+   SPO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 92.1 kg (admission): 80.4 kg
+   Height: 69 Inch
+                  Total In:
+                                                                    199 mL
+                  PO:
+                  Tube feeding:
+   IV Fluid:
+                                                                    199 mL
+   Blood products:
+   Total out:
+                                                                  1,610 mL
+                                                                    445 mL
+   Urine:
+                                                                  1,610 mL
+                                                                    445 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,411 mL
+                                                                   -445 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 92%
+   ABG: ///31/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   at bases)
+   Abdominal: Non-distended, Non-tender
+   Left Extremities: (Edema: 2+), (Temperature: Warm)
+   Right Extremities: (Edema: 2+), (Temperature: Warm)
+   Neurologic: (Awake / Alert / Oriented: x 3)
+   Labs / Radiology
+   177 K/uL
+   10.2 g/dL
+   102 mg/dL
+   1.7 mg/dL
+   31 mEq/L
+   4.1 mEq/L
+   39 mg/dL
+   103 mEq/L
+   140 mEq/L
+   30.3 %
+   9.7 K/uL
+        [image002.jpg]
+                            [**3112-12-23**]  01:34 PM
+                            [**3112-12-23**]  05:27 PM
+                            [**3112-12-23**]  10:07 PM
+                            [**3112-12-24**]  12:20 AM
+                            [**3112-12-24**]  04:02 AM
+                            [**3112-12-24**]  06:06 AM
+                            [**3112-12-24**]  04:13 PM
+                            [**3112-12-24**]  06:47 PM
+                            [**3112-12-25**]  01:57 AM
+                            [**3112-12-26**]  01:54 AM
+   WBC
+   12.1
+   11.4
+   10.2
+   9.7
+   Hct
+   31.4
+   31.5
+   31.1
+   31.5
+   30.3
+   Plt
+   145
+   142
+   167
+   177
+   Creatinine
+   1.6
+   1.6
+   1.6
+   1.6
+   1.7
+   TCO2
+   26
+   Glucose
+   92
+   118
+   101
+   191
+   127
+   102
+   Other labs: PT / PTT / INR:18.7/29.4/1.7, CK / CK-MB / Troponin
+   T:84//0.39, ALT / AST:29/30, Alk-Phos / T bili:73/0.6, Amylase /
+   Lipase:39/54, Differential-Neuts:80.7 %, Lymph:10.9 %, Mono:5.2 %,
+   Eos:2.4 %, Fibrinogen:207 mg/dL, Lactic Acid:1.0 mmol/L, Albumin:2.7
+   g/dL, LDH:482 IU/L, Ca:8.4 mg/dL, Mg:2.1 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   ATRIAL FIBRILLATION (AFIB), RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE,
+   ARF), BALANCE, IMPAIRED, TRANSFERS, IMPAIRED, KNOWLEDGE, IMPAIRED,
+   AIRWAY CLEARANCE, IMPAIRED, AIRWAY, INABILITY TO PROTECT (RISK FOR
+   ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH), CORONARY ARTERY
+   BYPASS GRAFT (CABG), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: Comadin 2.5 mg today
+   Transfer to floor
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**3112-12-26**] 04:55 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

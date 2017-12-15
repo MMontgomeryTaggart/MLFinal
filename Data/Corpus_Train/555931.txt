@@ -1,0 +1,191 @@
+Chief Complaint: Respiratory Failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   60 year old man with PMH DLBCL s/p MR-CHOP presented with hypoxemic
+   respiratory failure as detailed in previous notes.
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**3093-11-15**] 02:06 AM
+   Some hypotension in the setting of increased sedation yesterday.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3093-11-14**] 08:08 AM
+   Meropenem - [**3093-11-15**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3093-11-15**] 12:53 AM
+   Morphine Sulfate - [**3093-11-15**] 12:53 AM
+   Enoxaparin (Lovenox) - [**3093-11-15**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3093-11-15**] 09:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.7
+C (98.1
+   HR: 89 (43 - 117) bpm
+   BP: 145/70(97) {58/34(42) - 162/84(112)} mmHg
+   RR: 13 (11 - 28) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 77 kg (admission): 73.8 kg
+   Height: 70 Inch
+   CVP: 7 (1 - 11)mmHg
+   Total In:
+                                                                  2,549 mL
+                                                                    758 mL
+   PO:
+   TF:
+                                                                    974 mL
+                                                                     33 mL
+   IVF:
+                                                                  1,265 mL
+                                                                    546 mL
+   Blood products:
+   Total out:
+                                                                  3,470 mL
+                                                                  1,960 mL
+   Urine:
+                                                                  3,200 mL
+                                                                  1,960 mL
+   NG:
+   Stool:
+                                                                    200 mL
+   Drains:
+   Balance:
+                                                                   -921 mL
+                                                                 -1,202 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: PSV/SBT
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 764 (610 - 764) mL
+   PS : 5 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 10
+   PEEP: 0 cmH2O
+   FiO2: 40%
+   RSBI: 37
+   PIP: 6 cmH2O
+   Plateau: 11 cmH2O
+   SpO2: 97%
+   ABG: 7.42/47/90.[**Numeric Identifier 120**]/32/4
+   Ve: 8.2 L/min
+   PaO2 / FiO2: 225
+   Physical Examination
+   General Appearance: Extubated !
+   Cardiovascular: (S1: Normal), (S2: Normal, Distant)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous: )
+   Abdominal: Soft, Non-tender
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   9.9 g/dL
+   127 K/uL
+   95 mg/dL
+   0.6 mg/dL
+   32 mEq/L
+   3.3 mEq/L
+   24 mg/dL
+   104 mEq/L
+   141 mEq/L
+   28.7 %
+   11.7 K/uL
+        [image002.jpg]
+                            [**3093-11-12**]  11:24 PM
+                            [**3093-11-13**]  03:51 AM
+                            [**3093-11-13**]  04:56 AM
+                            [**3093-11-13**]  10:43 AM
+                            [**3093-11-13**]  05:41 PM
+                            [**3093-11-14**]  04:30 AM
+                            [**3093-11-14**]  04:34 AM
+                            [**3093-11-15**]  03:35 AM
+                            [**3093-11-15**]  03:50 AM
+                            [**3093-11-15**]  08:31 AM
+   WBC
+   4.9
+   6.2
+   8.4
+   11.7
+   Hct
+   26.7
+   28.3
+   30.2
+   28.7
+   Plt
+   101
+   114
+   130
+   127
+   Cr
+   0.5
+   0.5
+   0.5
+   0.6
+   TCO2
+   36
+   40
+   37
+   33
+   32
+   Glucose
+   103
+   186
+   84
+   95
+   Other labs: PT / PTT / INR:14.5/37.5/1.3, CK / CKMB /
+   Troponin-T:47//0.03, ALT / AST:89/121, Alk Phos / T Bili:112/0.4,
+   Differential-Neuts:87.9 %, Band:4.0 %, Lymph:7.7 %, Mono:3.0 %, Eos:1.3
+   %, Lactic Acid:1.6 mmol/L, Albumin:2.6 g/dL, LDH:149 IU/L, Ca++:8.8
+   mg/dL, Mg++:1.8 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   resident
+s note, and would emphasize and add the following points:
+   60 year old man PMH DLBCL p/w hypoxemic respiratory failure d/t
+   pneumonia vs COP, complicated ICU course notable for tension
+   pneumothorax, hypotension and recurrent afib with RVR. Completing
+   empiric course of antibiotics for right sided infiltrate and on 60mg of
+   prednisone likely for 2-4 weeks.
+   Hypotension overnight likely due to increased sedation. No episodes of
+   RVR. S/p amio load, now on po. Ongoing respiratory failure this AM but
+   tolerated PSV 5, Peep 0 with PO2 ~90. Extubated uneventfully on rounds.
+   Off meropenem. Continue vancomycin pending finalization of recent
+   sputum culutre. Continues on empric prednisone 60mg. Further plans as
+   per resident note.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3093-10-30**] 08:00 PM
+   Arterial Line - [**3093-11-4**] 08:24 AM
+   Multi Lumen - [**3093-11-7**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: LMWH Heparin)
+   Stress ulcer: PPI
+   VAP:
+   Comments: Extubated this am on rounds
+   Communication: Family meeting held  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 36 minutes, Patient is critically ill
+
+
+
+DOC CLASS

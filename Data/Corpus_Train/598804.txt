@@ -1,0 +1,152 @@
+Chief Complaint:
+   24 Hour Events:
+   - continued chest PT
+   - psych recs for anxiety clonazepam 0.5mg q AM and 1mg q PM, recs d/c
+   ativan and trazadone, recs for extreme agitation, may consider
+   haloperidol 1-2mg po/iv/im
+   - neuro recs unlikely autonomic instability since pt is bedrest at this
+   time
+   - decreased lyrica to 75mg tid
+   - sputum [**3-30**] with GNR, Bcx neg
+   - desat in AM when awake, appeared secondary to pt effort and anxiety
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3424-4-1**] 04:00 PM
+   Vancomycin - [**3424-4-1**] 10:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3424-4-2**] 07:10 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.2
+C (98.9
+   HR: 115 (70 - 117) bpm
+   BP: 125/75(97) {68/34(46) - 125/75(97)} mmHg
+   RR: 31 (10 - 34) insp/min
+   SpO2: 86%
+   Heart rhythm: ST (Sinus Tachycardia)
+                  Total In:
+                                                                  2,660 mL
+                  PO:
+                                                                    720 mL
+                  TF:
+   IVF:
+                                                                  1,940 mL
+   Blood products:
+   Total out:
+                                                                  2,180 mL
+                                                                  1,120 mL
+   Urine:
+                                                                  2,180 mL
+                                                                  1,120 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    480 mL
+                                                                 -1,120 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 86%
+   ABG: 7.42/64/56/38/13
+   Physical Examination
+   GEN: visibly tired, lying in bed with face mask
+   HEENT: EOMI, PERRL, oral mucosa slightly dry
+   NECK: Supple, no LAD, JVP elevation not evident
+   CARD: RR, nl S1, nl S2, no M/R/G
+   PULM: CTAB anteriorly
+   ABD: BS+, soft, NT, mildly distended, tympanic
+   EXT: bipedal 1+ edema with trace BLE edema
+   NEURO: Oriented to
+[**Hospital3 377**] hospital
+ and year; however does not
+   known month or day of week
+   PSYCH: blunted affect
+   Labs / Radiology
+   202 K/uL
+   8.5 g/dL
+   93 mg/dL
+   0.2 mg/dL
+   38 mEq/L
+   3.5 mEq/L
+   4 mg/dL
+   103 mEq/L
+   145 mEq/L
+   26.1 %
+   6.3 K/uL
+        [image002.jpg]
+                             [**3424-3-31**]  06:39 AM
+                             [**3424-3-31**]  08:39 AM
+                             [**3424-3-31**]  11:33 AM
+                             [**3424-3-31**]  01:04 PM
+                             [**3424-3-31**]  11:49 PM
+                             [**3424-4-1**]  04:15 AM
+                             [**3424-4-1**]  04:49 AM
+                             [**3424-4-1**]  06:28 AM
+                             [**3424-4-2**]  04:38 AM
+                             [**3424-4-2**]  04:52 AM
+   WBC
+   5.6
+   6.3
+   Hct
+   23.5
+   26.1
+   Plt
+   156
+   202
+   Cr
+   0.2
+   0.2
+   0.2
+   TCO2
+   37
+   36
+   35
+   40
+   43
+   40
+   43
+   Glucose
+   102
+   79
+   93
+   Other labs: PT / PTT / INR:14.0/31.2/1.2, Differential-Neuts:91.2 %,
+   Lymph:7.2 %, Mono:1.5 %, Eos:0.0 %, Lactic Acid:0.7 mmol/L, Ca++:8.5
+   mg/dL, Mg++:2.0 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+ HYPOTENSION (NOT SHOCK)
+ DELIRIUM / CONFUSION
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+ HYPOXEMIA
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ ANXIETY
+ INEFFECTIVE COPING
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3424-3-28**] 07:24 PM
+   Arterial Line - [**3424-3-31**] 12:15 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

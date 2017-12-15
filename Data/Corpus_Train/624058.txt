@@ -1,0 +1,123 @@
+Chief Complaint: DKA
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Gap closed
+   Drip off
+   Eating
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3418-5-20**] 12:18 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3418-5-20**] 10:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.3
+C (97.3
+   HR: 67 (67 - 98) bpm
+   BP: 141/74(90) {84/44(61) - 168/86(104)} mmHg
+   RR: 16 (14 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+             Total In:
+                                                                  3,314 mL
+                                                                  1,748 mL
+   PO:
+                                                                  1,000 mL
+                                                                    360 mL
+   TF:
+   IVF:
+                                                                  2,314 mL
+                                                                  1,388 mL
+   Blood products:
+   Total out:
+                                                                    400 mL
+                                                                    650 mL
+   Urine:
+                                                                    400 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,914 mL
+                                                                  1,098 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///17/
+   Physical Examination
+   Labs / Radiology
+   10.7 g/dL
+   230 K/uL
+   64 mg/dL
+   0.8 mg/dL
+   17 mEq/L
+   4.1 mEq/L
+   11 mg/dL
+   116 mEq/L
+   142 mEq/L
+   31.4 %
+   12.4 K/uL
+        [image002.jpg]
+                             [**3418-5-19**]  02:00 PM
+                             [**3418-5-19**]  05:33 PM
+                             [**3418-5-19**]  09:36 PM
+                             [**3418-5-20**]  02:23 AM
+                             [**3418-5-20**]  05:37 AM
+   WBC
+   12.4
+   Hct
+   31.4
+   Plt
+   230
+   Cr
+   1.4
+   0.9
+   0.9
+   0.9
+   0.8
+   TropT
+   0.02
+   Glucose
+   [**Telephone/Fax (3) 9261**]46
+   64
+   Other labs: PT / PTT / INR:12.6/30.7/1.1, CK / CKMB /
+   Troponin-T:98//0.02, Lactic Acid:1.3 mmol/L, Ca++:8.6 mg/dL, Mg++:1.9
+   mg/dL, PO4:1.5 mg/dL
+   Assessment and Plan
+ .H/O HYPERTENSION, BENIGN
+ DIABETIC KETOACIDOSIS (DKA)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3418-5-19**] 03:30 PM
+   18 Gauge - [**3418-5-19**] 03:42 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent:
+
+
+
+DOC CLASS

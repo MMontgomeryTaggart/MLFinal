@@ -1,0 +1,363 @@
+Chief Complaint:  Respiratory failure, hypotension, acute elevation of
+   cardiac biomarkers
+   HPI:
+   74 yo man with PMH significant for severe COPD on home O2, HTN
+   initially presented to [**Hospital1 **] [**Location (un) 76**] on [**2574-7-29**] with dyspnea/respiratory
+   distress. Patient called his neighbor, who called EMS. EMS found him in
+   tripod position, talking in [**3-1**] word sentences, RR 35-40. He reported
+   having dyspnea for 1-2 hours, but COPD flare for past few days. On
+   arrival vitals were T 96, HR 179, BP 149/85, RR 30-40, O2 sat 94% on
+   100% NRB. He had difficulty talking in sentences and was diaphoretic.
+   He reported running out of his medications at home. He was immediately
+   intubated and given nebs, solumedrol 125 mg, IVF, and Levaquin 750 mg.
+   He was transferred to the ICU. While there, he was given 5-6 L IVF to
+   support his BP. He was continued on COPD flare treatment. Patient
+   developed elevated cardiac biomarkers and hypotension on [**7-30**], and
+   transfer to [**Hospital1 1**] CCU was coordinated. Heparin gtt was started prior to
+   transfer. Femoral line was placed in ICU prior to transfer.
+   .
+   On route by [**Location (un) **] ground transport, patient had SBP 76. Received
+   500cc IVF and propofol was decreased from 30 to 10, however patient
+   woke up and profolol was increased again. He was started on Levophed 5
+   mcg/min, and SBP came up to 100. HR was in 90's. He also received
+   albuterol nebs for wheezing, and Fentanyl 250 mcg. He remained on 100%
+   O2, since sat dropped to 92% when O2 turned down to 70%.
+   .
+   Patient denies any chest pain, abd pain now. [**Month (only) 11**] have had chest pain at
+   home. Rest of ROS deferred b/c intubated.
+   Patient admitted from: Transfer from other hospital
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Norepinephrine - 0.1 mcg/Kg/min
+   Heparin Sodium - 450 units/hour
+   Midazolam (Versed) - 3 mg/hour
+   Fentanyl (Concentrate) - 150 mcg/hour
+   Home medications: Not confirmed
+   Advair
+   clonazepam
+   combivent
+   albuterol, ipratropium
+   mirtazapine
+   Transfer medications:
+   heparin gtt at 700 units/hr (started at 3:15pm w/ bolus of 2800 units)
+   ASA 81 mg x 2
+   famotidine 20 mg IV q12h
+   heparin SC TID
+   metoprolol 12.5 mg q6h
+   levofloxacin 500mg IV daily
+   lorazepam 2 mg IV prn
+   methylprednisolone 125 mg IV q8h
+   fentanyl boluses
+   insulin SS
+   NS at 100cc/hr
+   Combivent nebs q3h
+   propofol at 20/hr
+   Levophed at .09 mcg/hr
+   Past medical history:
+   Family history:
+   Social History:
+   1.       CARDIAC RISK FACTORS: Diabetes (?) Dyslipidemia (?),
+   Hypertension (+)
+   2.       COPD
+   3.       asthma
+   4.       gastritis
+   5.       HTN
+   No FH of sudden cardiac death
+   -Tobacco history: long smoking hx, quit 9 mo ago
+ per brother
+   Review of systems:
+   Unable to obtain
+   Flowsheet Data as of [**2574-7-30**] 11:31 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 93 (90 - 117) bpm
+   BP: 85/45(55) {72/41(53) - 111/70(74)} mmHg
+   RR: 12 (9 - 31) insp/min
+   SpO2: 99%
+   Wgt (current): 57.5 kg (admission): 57.5 kg
+   Height: 70 Inch
+             Total In:
+             206 mL
+   PO:
+             TF:
+   IVF:
+   206 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    250 mL
+   Urine:
+   250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -44 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 32 cmH2O
+   Plateau: 22 cmH2O
+   SpO2: 99%
+   ABG: 7.16/58/160/18/-8
+   Ve: 8.8 L/min
+   PaO2 / FiO2: 320
+   Physical Examination
+   VS: T=97.4 BP=108/62 HR=90 RR=14 O2 sat= 100%
+   Vent settings: CMV 50% FiO2,TV 400, RR 18, PEEP 5, PIP 15
+   GENERAL: thin, intubated, sedated
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP at 10
+   CARDIAC: Distant heart sounds, no murmurs
+   LUNGS: CTAB with poor/moderate air movement
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits. Right femoral line C/D/I
+   SKIN: Pink area beneath coccyx, no skin breakdown.
+   PULSES:
+   Right:DP 2+ PT 2+
+   Left: DP 2+ PT 2+
+   Labs / Radiology
+   193 K/uL
+   13.5 g/dL
+   141 mg/dL
+   1.1 mg/dL
+   19 mg/dL
+   18 mEq/L
+   112 mEq/L
+   5.2 mEq/L
+   142 mEq/L
+   41.3 %
+   22.9 K/uL
+        [image002.jpg]
+                                  [**2571-1-28**]
+                          2:33 A7/4/[**2574**]  05:00 PM
+                                  [**2571-2-1**]
+                          10:20 P7/4/[**2574**]  06:29 PM
+                                  [**2571-2-2**]
+                          1:20 P7/4/[**2574**]  09:12 PM
+                                  [**2571-2-3**]
+                                   11:50 P
+                                  [**2571-2-4**]
+                                   1:20 A
+                                  [**2571-2-5**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2571-2-28**]
+                                   1:20 P
+                                  [**2571-2-28**]
+                                   11:20 P
+                                  [**2571-2-28**]
+                                   4:20 P
+   WBC
+                                    22.9
+   Hct
+                                    41.3
+   Plt
+                                     193
+   Cr
+                                     1.1
+   TropT
+                                    0.51
+   TC02
+                                     23
+                                     22
+   Glucose
+                                     141
+   Other labs: PT / PTT / INR:15.4//1.3, CK / CKMB /
+   Troponin-T:626/33/0.51, ALT / AST:22/43, Alk Phos / T Bili:77/0.5,
+   Differential-Neuts:94.4 %, Lymph:2.9 %, Mono:2.1 %, Eos:0.4 %, Lactic
+   Acid:2.4 mmol/L, Albumin:3.5 g/dL, LDH:344 IU/L, Ca++:8.5 mg/dL,
+   Mg++:2.5 mg/dL, PO4:3.4 mg/dL
+   OSH labs:
+   140 | 104 | 15 / 225
+   4.7 | 27  | 1.2
+   Ca 8.1 mag 2.3 phos 6.1
+   .
+       13.5
+   9.3 >---< 204
+       40.9
+   [**7-29**] 6pm: Trop T 0.039, CK 80, CKMB 2.1
+   [**7-30**] 2am: Trop T 0.685, CK 306, CKMB 17.2
+   [**7-30**] 10am: Trop T 0.541, CK 433, CKMB 26
+   Lactate [**7-29**] 6pm 2.6
+   Lactate [**7-29**] 11pm: 2.3
+   BNP 2959
+   .
+   ABG pH 7.22/55/436/22 on 100%
+   UA: WNL
+   .
+   BCx x 2 [**7-29**] pending
+   UCx x 1 [**7-29**] pending
+   .
+   ADMISSION LABS ([**2574-7-30**]) 5:00 PM
+       13.5
+   22.9>--< 193
+       41.3
+   N:94.4 L:2.9 M:2.1 E:0.4 Bas:0.1
+   .
+   142 | 112 | 19 / 141   AGap=17
+   5.2 | 18  | 1.1
+   Ca: 8.5 Mg: 2.5 P: 3.4
+   .
+   6:30 PM pH 7.26 pCO2 48 pO2 252 HCO3 23 BaseXS -5
+   Lactate:2.4
+   .
+   CK: 626  MB: 33  Trop-T: 0.51
+   .
+   ALT: 22 AP: 77 Tbili: 0.5 Alb: 3.5
+   AST: 43 LDH: 344
+   .
+   PT: 15.4  PTT: >150  INR: 1.3
+   .
+   .
+   EKG ([**2574-7-29**]) sinus tachy at rate 140, w/ PAB's
+   [**2574-7-30**]: 1st degree AV block, rate 100, rightward axis, low voltages, Q
+   waves in II, III, aVF (unchanged from prior), new 0.5 mm STe in I, avF,
+   V4 and V5, and TwI in V4-V5, poor R wave progression.
+   .
+   CXR ([**2574-7-29**]): No cardiopulmonary abnormality. ET tube in place.
+   [**2574-7-30**]: hyperinflated lungs, no e/o pulmonary edema/congestion, no
+   cardiomegaly
+   Assessment and Plan
+   74 yo M w/ PMHx HTN, COPD presents with respiratory failure, now
+   transferred from [**Hospital1 **] [**Location (un) 76**] with respiratory failure s/p intubation,
+   NSTEMI, and hypotension requiring pressors.
+   .
+   # CORONARIES:  Patient has no known cardiac history, risk factors
+   include smoking and HTN. EKG shows 1st degree AV block, inferior Q
+   waves and <1mm STD present since admission to OSH, with new TwI in
+   lateral leads c/w ischemia/NSTEMI without meeting criteria for STEMI.
+   Patient denies chest pain. Echo shows hypokinesis in all areas except
+   for the base, and LVEF 30-35%, but not consistent with territory of EKG
+   changes. Biomarkers elevated, CK at 626, continuing to rise, troponin
+   peaked at 0.685 now trending down.
+   - cont to trend CE to peak, repeat at midnight, 6 am
+   - Plavix 600 mg load now and then 75 mg daily
+   - Continue heparin gtt
+   - ASA 325 mg, start simvastatin 80 mg
+   - hold beta-blocker, ACEi for hypotension
+   - repeat EKG
+   - cath lab if clinical deterioration
+   .
+   # PUMP:  Volume status appears euvolemic-hypovolemic, no crackles on
+   exam, CXR WNL. [**Month (only) 11**] need continued hydration to support
+   shock/vasodilation picture. No evidence of overload s/p 6L fluids.
+   - f/u echo read
+   - cont IVF boluses as needed, 500cc now and then as indicated by
+   exam/CXR to avoid overload
+   - daily CXR
+   .
+   # RHYTHM: 1st degree AV block, sinus.
+   - Cont to monitor on tele
+   .
+   # Respiratory failure/COPD: Patient has severe COPD on home O2 (history
+   unvalidated, per OSH notes), with hyperinflation on CXR and presenting
+   symptoms very c/w COPD flare (tripod position, wheezing) and reported
+   not taking meds at home. A-a gradient elevated at 124. No evidence of
+   PNA on CXR, afebrile but is currently still on levaquin.
+   - Remain intubated in setting of shock of unknown etiology, switch to
+   Fentanyl/Versed for sedation
+   - Follow ABGs
+   - Cont therapy for COPD flare (nebs, Solumedrol, abx)
+   - Consider discontinuing abx if no evidence of PNA
+   - daily CXRs
+   .
+   # Hypotension: Patient developed hypotension in setting of presumed
+   COPD flare and acutely elevated cardiac biomarkers. Patient maintained
+   borderline adequate SBP's with aggressive IVF hydration of [**6-1**] L (per
+   report, at OSH). Started on pressors during transport. However, patient
+   was also on propofol which could not be weaned and may have contributed
+   to hypotension.
+   -In terms of shock etiologies, patient has warm, well-perfused
+   extremities. No evidence of cardiogenic shock on exam or CXR.
+   Hypovolemia may be a component of picture since COPD flare and
+   decreased PO intake, but not likely the major etiology as patient was
+   aggressivley hydrated without improvement. No hx suggestive of
+   anaphylactic shock. Most likely is mixed picture including component of
+   cardiogenic shock with vasodilatory state, such as septic shock, since
+   patient is requiring high volumes of IVF and continues to be
+   hypotensive. No obvious cause of sepsis, UA WNL, CXR clear.
+   - wean Levophed as tolerated, with IVF boluses prn to maintain SBP>90
+   and MAP>60.
+   - A-line now to closely monitor hemodynamics
+   - WBC 22 with left shift, but on high dose steroids, trend
+   - f/u blood cx
+   - monitor exam for localizing signs of infxn
+   - consider central IJ line which would allow CVP monitoring, but has
+   clean femoral line in place for now (placed afternoon [**7-30**])
+   - trend lactate
+   - switch propofol to Versed/Fentanyl
+   - cont Levaquin day #2
+   - to cath lab if clinical picture deteriorates
+   .
+   # Acid-base disturbance: Patient initially presented with ABG c/w
+   respiratory acidosis. Now has mixed resp and metabolic acidosis,
+   non-AG. Respiratory component due to acute on chronic CO2 retention in
+   the setting of COPD. Non-gap metabolic acidosis most likely due to
+   receiving large amount of IVF over 24 hrs.
+   - serial ABGs
+   - follow lytes, gap, consider using bicarb for fluids if patient
+   remains with severe non gap metabolic acidosis
+   .
+   # Psych: Holding home Ativan and mirtazipine.
+   .
+   # Skin care: possible developing ulcer below coccyx, monitor for now
+   .
+   FEN: Replete lytes, monitor fingersticks, HISS while on steroids, NPO
+   for now
+   .
+   ACCESS: R femoral line in place at transfer
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin gtt
+   -VAP: VAP bundle
+   -Pain management with Fentanyl, Versed
+   -Bowel regimen with senna, colace
+   .
+   CODE: Presumed full
+   .
+   COMM: [**First Name8 (NamePattern2) 1705**] [**Known patient lastname 668**] [**Telephone/Fax (1) 6951**] (c)
+   mother [**Telephone/Fax (1) 6952**] (H)
+   Call w/ update tomorrow and get ICU consent.
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition: HISS while on steroids
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2574-7-30**] 04:34 PM
+   Femoral Multi Lumen - [**2574-7-30**] 04:36 PM
+   Prophylaxis:
+   DVT: heparin gtt
+   Stress ulcer: PPI
+   VAP:  VAP bundle
+   Comments:
+   Communication:  Comments: [**First Name8 (NamePattern2) 1705**] [**Known patient lastname 668**] [**Telephone/Fax (1) 6951**] (c)
+   mother [**Telephone/Fax (1) 6952**] (H)
+   Call w/ update tomorrow and get ICU consent.
+   Code status: Presumed full
+   Disposition: CCU for now
+
+
+
+DOC CLASS

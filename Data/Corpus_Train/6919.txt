@@ -1,0 +1,450 @@
+Admission Date:  [**2625-3-10**]              Discharge Date:   [**2625-3-24**]
+
+Date of Birth:  [**2543-3-11**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Doctor Last Name 1834**]
+Chief Complaint:
+Wheezing
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is an 81 yo man with history of GERD s/p fundoplication,
+HTN, Charcot-[**Doctor Last Name **]-Tooth disease who presents to the Emergency
+Department with worsening shortness of breath. Patient states
+that for the past 2-3 weeks he has had worsening shortness of
+breath. Patient describes this as wheezing which can last
+'through the night'. These episodes can occur when walking to
+the bathroom or at rest. He has never had wheezing before. He
+denies any recent, chest pain, palpitations, nausea, vomiting,
+radiating pain, peripheral edema, PND, orthopnea. He does sleep
+with 2+ pillows but he does this for his GERD. He also denies
+any recent abdominal pain, diarrhea, dysuria, urinary frequency.
+
+In the ED, initial vs were: T 98.1, HR 53, BP 165/93, RR 24.
+Patient was given ASA 325 mg, NS IVF at 100cc/hr. Patient had an
+acute episode of hypoxia requirng BIPAP. He was given Solumedrol
+125 mg IV, Levaquin 750 mg, Ceftriaxone 1 gm IV.  ECG done which
+showed ? q waves in V1,V2. Cardiac biomarkers were drawn and
+Troponin-T was elevated at 0.34 with normal CK of 62. Heparin
+gtt was started for concern of acute coronary syndrome. Patient
+sent for CTA, which was negative for pulmonary embolus, but
+showed ? bibasilar consolidations consistent with aspiration vs
+atelectasis. Patient then went into atrial fibrillation with
+rapid ventricular response and was given diltiazem 10 mg IV x 1
+then started on a diltiazem gtt. He ws also given Lopressor 5 mg
+IV without resolution of tachycardia. Lasix 10 mg IV also given
+in ED. Patient required BIPAP for 1 hour in ED and was then
+placed on face tent O2.
+
+Past Medical History:
+GERD s/p fundoplication [**2602**]
+Hypertension
+Charcot-[**Doctor Last Name **]-Tooth Disease (hereditary motor and sensory
+neuropathy (HMSN) or peroneal muscular atrophy)
+Pancreatitis
+Laminectomy
+
+Social History:
+Retired.  Denies tobacco, EtOH or illicit drug use
+
+Family History:
+Uncles with CAD
+
+Physical Exam:
+General: Alert, oriented elderly Caucasian man in mild distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: +crakles at both bases, no wheezing
+CV: irregular rate and rhythm, normal S1 + S2; no murmurs, rubs,
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+Pertinent Results:
+Admission Labs
+[**2625-3-10**] 03:00PM BLOOD WBC-3.9* RBC-3.40* Hgb-10.8* Hct-30.8*
+MCV-91 MCH-31.8 MCHC-35.1* RDW-17.3* Plt Ct-183
+[**2625-3-10**] 03:00PM BLOOD PT-14.3* PTT-28.4 INR(PT)-1.2*
+
+[**2625-3-10**] 03:00PM BLOOD Glucose-115* UreaN-33* Creat-0.8 Na-140
+K-4.4 Cl-100 HCO3-31 AnGap-13
+[**2625-3-10**] 03:00PM CK(CPK)-62               cTropnT-0.34*
+[**2625-3-10**] 10:50PM CK(CPK)-40               cTropnT-0.25*
+[**2625-3-11**] 02:28AM            CK-MB-4       cTropnT-0.23*
+[**2625-3-11**] 10:15AM CK(CPK)-55
+[**2625-3-12**] 02:08AM CK(CPK)-50 CK-MB-NotDone cTropnT-0.46*
+[**2625-3-12**] 10:03AM CK(CPK)-75 CK-MB-NotDone cTropnT-0.48*
+[**2625-3-12**] 06:31PM CK(CPK)-49 CK-MB-NotDone cTropnT-0.57*
+
+[**2625-3-11**] 06:07PM BLOOD proBNP-[**Numeric Identifier 25702**]*
+[**2625-3-11**] 02:28AM BLOOD Calcium-8.3* Phos-4.0 Mg-2.5 Cholest-118
+[**2625-3-11**] 02:28AM BLOOD Triglyc-63 HDL-36 CHOL/HD-3.3 LDLcalc-69
+[**2625-3-12**] 10:03AM BLOOD calTIBC-204* VitB12-1104* Folate-12.3
+Ferritn-478* TRF-157*
+[**2625-3-11**] 02:28AM BLOOD TSH-0.94
+[**2625-3-15**] 08:13AM BLOOD %HbA1c-5.5
+
+Discharge Labs
+[**2625-3-24**] 07:30AM BLOOD WBC-3.0* RBC-3.09* Hgb-9.3* Hct-27.0*
+MCV-87 MCH-30.0 MCHC-34.3 RDW-18.3* Plt Ct-163
+[**2625-3-24**] 07:30AM BLOOD PT-36.9* PTT-50.0* INR(PT)-3.9*
+[**2625-3-24**] 07:30AM BLOOD Glucose-104 UreaN-18 Creat-1.0 Na-140
+K-4.5 Cl-101 HCO3-32 AnGap-12
+
+[**2625-3-17**] 06:00AM BLOOD ALT-22 AST-28 LD(LDH)-256* AlkPhos-93
+TotBili-0.4
+[**2625-3-12**] 10:03AM BLOOD calTIBC-204* VitB12-1104* Folate-12.3
+Ferritn-478* TRF-157*
+
+[**2625-3-17**] 09:59AM URINE RBC->50 WBC-[**7-13**]* Bacteri-MOD Yeast-NONE
+Epi-0-2
+[**2625-3-11**] 03:54AM URINE RBC-201* WBC-31* Bacteri-FEW Yeast-NONE
+Epi-0
+
+Micro
+Blood cultures x 4, urine cx, sputum cx no growth
+
+EKG: Irregular rate and rhythm, T wave flattening I-III. T wave
+inversions V1-V5.  qwaves V1-V2.
+
+CXR [**2625-3-10**]
+Study is limited by lordotic positioning. Heart size is within
+normal limits given technique. The mediastinal silhouette is
+within normal limits. Pulmonary vascularity is normal. Lungs are
+clear. No effusion or pneumothorax detected however the extreme
+left costophrenic angle not included on this radiograph.
+Numerous surgical clips are present within the upper abdomen
+from nissen procedure.
+
+CTA Chest [**2625-3-10**]
+  No thoracic aortic dissection is identified. No filling
+defects within the pulmonary arteries to suggest acute pulmonary
+embolism. There are no pathologically enlarged axillary,
+mediastinal or hilar lymph nodes per CT size criteria. A small
+pericardial effusion is present. Moderate coronary artery
+calcifications.
+  Evaluation of the lungs demonstrates bibasilar consolidations,
+right greater than left with impacted endobronchial secretions
+and peribronchial thickening. A trace left pleural effusion is
+noted.
+  Evaluation of the upper abdomen is limited; however, evidence
+of a laparoscopic Nissen with multiple surgical clips noted.
+There is herniation of the proximal portion of the laparoscopic
+Nissen consistent with a small hernia.
+  No suspicious lytic or sclerotic lesions identified. At the
+T11/T12 vertebral bodies, there is severe intervertebral body
+disc space narrowing and vacuum phenomenon. Significant
+sclerosis of these vertebral bodies present with erosion at the
+endplates.
+
+CT Abdomen/Pelvis [**2625-3-20**]
+  There is a trace pericardial effusion vs. pericardial
+thickening that is unchanged from the recent CTA of the chest of
+[**3-10**]. There remains evidence of bibasilar aspiration, with
+patchy bibasilar opacities, flecks of barium in the medial right
+lower lobe, and bronchial wall thickening. Opacities have
+actually improved since [**3-10**]. The small herniation of the
+laparoscopic Nissen at the thorax is unchanged from [**3-10**]
+as well.
+  Images in the abdomen and pelvis are degraded by streak
+artifact due to high-density material in the colon, and due to
+multiple clips near the gastroesophageal junction. The
+non-contrast appearance of the liver, gallbladder, pancreas, and
+adrenal glands are unremarkable. The spleen is mildly enlarged,
+measuring about 14.1 cm in diameter.
+  Kidney and urologic evaluation is quite limited for technical
+reasons already described. There is no hydronephrosis. No
+calculi are seen in the kidneys.
+  No mass lesions are detected, though the evaluation is
+incomplete without IV contrast. The stomach is moderately
+distended. Small bowel loops are unremarkable. Barium is
+retained throughout the colon. No free air or free fluid in the
+abdomen is visualized. Air is seen in the left anterior
+abdominal wall subcutaneous tissues, possibly related to
+injection. Hyperdense material is seen in the musculature of the
+left paramedian anterior abdominal wall, possibly representing
+calcified suture. Inside the left anterior abdomen there is a
+tubular dense structure just anterior to the stomach oriented in
+a craniocaudal direction, which may represent a calcified
+vessel.
+CT OF THE PELVIS WITHOUT IV CONTRAST: Detail is markedly
+obscured due to streak artifact from bowel contrast. There is a
+Foley catheter within the bladder, and air within the bladder
+likely related to instrumentation. There are calcifications in
+the prostate, mild. The rectum is filled with stool and is
+otherwise unremarkable. No free fluid in the pelvis, and no
+pathologically enlarged pelvic or inguinal nodes.
+BONE WINDOWS: There are advanced degenerative changes of the
+lumbar spine. The patient is post-bilateral L4-5 and partial S1
+laminectomies. There is intervertebral disc space narrowing at
+all levels, multiple Schmorl's nodes, large anterior
+osteophytes, and degenerative endplate changes.
+
+Barium esophagram [**2625-3-14**]
+Evaluation of chest radiographs performed one day prior shows
+multiple surgical clips projecting over the epigastric and left
+upper abdominal regions. The patient was positioned upright at
+approximately 80 degrees, in the left posterior oblique
+position. During the initial swallow of thick barium, oral
+contrast was seen not only descending the esophagus, but also
+the trachea, predominantly into a right lower lobe bronchus,
+with a trace amount also seen within the left bronchus. Views of
+the esophagus show no gross abnormality. However, the study was
+very limited as no further contrast was administered.
+
+Video Swallow [**2625-3-15**]
+Oral bolus formation, AP tongue movement, and oral transit times
+were within functional limits. Bolus control was mildly reduced
+with intermittent premature spillover with thin and nectar thick
+liquids. No significant oral cavity residue remained after the
+swallow. During the pharyngeal phase, there was mild delay in
+swallow initiation with liquids. Once started, palatal
+elevation, laryngeal elevation, and epiglottic deflection were
+complete. Laryngeal valve closure was mildly reduced. Pharyngeal
+transit was timely with mild reduced bolus propulsion. Mild
+amount of residue remained within the valleculae and piriform
+sinuses after swallowing all consistencies. However, the patient
+cleared the residue with spontaneous repeat swallows. Esophageal
+sphincter opening was mildly reduced at the height of the
+swallow. The patient was seen to aspirate before, during and
+after the swallow once during administration of thin liquids
+using a straw due to premature spillover and swallow delay.
+Aspiration was silent and cued coughs were ineffective at
+clearing the aspirate.
+IMPRESSIONS: Mild-to-moderate oropharyngeal dysphagia, with
+aspiration seen before, during, and after the swallow due to
+premature spillover, swallow delay, and residue in the piriform
+sinuses. While aspiration with thick liquids was not reproduced
+today, the patient aspirated on thin liquids. Both episodes
+occurred during consecutive sips of liquid.
+  For further treatment techniques and dietary recommendations,
+please refer to speech and swallow pathology note on CareWeb.
+
+Echo [**2625-3-11**]
+The left atrium is mildly dilated. No left atrial mass/thrombus
+seen (best excluded by transesophageal echocardiography). Left
+ventricular wall thicknesses and cavity size are normal. There
+is moderate regional left ventricular systolic dysfunction with
+severe hypokinesis/akinesis of the distal 2/3rds of the anterior
+septum and anterior wall and distal inferior wall. There is an
+apical left ventricular aneurysm. The remaining segments
+contract normally (LVEF = 30-35 %). No masses or thrombi are
+seen in the left ventricle. Right ventricular chamber size and
+free wall motion are normal. The ascending aorta is mildly
+dilated. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. Trace aortic regurgitation is
+seen. The mitral valve appears structurally normal. Moderate
+(2+) mitral regurgitation is seen. The tricuspid valve leaflets
+are mildly thickened. There is mild-moderate pulmonary artery
+systolic hypertension. There is a trivial/physiologic
+pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size with apical
+aneurysm and extensive regional dysfunction c/w CAD (mid-LAD
+distribution). Moderate mitral regurgitation. Pulmonary artery
+systolic hypertension. Dilated ascending aorta.
+
+P-MIBI [**2625-3-16**]:
+Left ventricular cavity size is mildly enlarged, and does not
+enlarge further with stress. Rest and stress perfusion images
+reveal a moderate-severity fixed mid/distal anterior and
+anteroseptal wall defect and a severe fixed apical defect. Gated
+images reveal akinesis of the apex with mild global hypokinesis.
+The calculated left ventricular ejection fraction is 35%.
+
+PFTs [**2625-3-24**]
+FEV1 2.13, FVC 3.53, FEV/FVC 60% MMF 0.95
+TLC 4.83 FRC 2.84 RV 2.07
+Although the reduced TLC is consistent with a mild restrictive
+ventilatory defect, TLC may be underestimated due to a
+suboptimal SVC maneuver. There is a mild to moderate gas
+exchange defect. There are no prior studies available for
+comparison.
+
+Brief Hospital Course:
+81 yo man with history of GERD s/p fundoplication, Hypertension,
+Charcot [**Doctor Last Name **] Tooth disease with acute on chronic aspiration
+pneumonitis/pneumonia, now with acute on chronic systolic heart
+failure, elevated troponin consistent with NSTEMI.
+
+# Acute on chronic aspiration pneumonia/Respiratory Distress:
+Improved after initial MICU stay. Patient has signs of acute on
+chronic aspiration on CT chest, with concern for pneumonia given
+consolidation on CT scan. Aspiration is likely secondary to
+known GERD. He also has evidence of pulmonary edema on CXR with
+a BNP of >16,000 so CHF also a contributer. Tracheomalacia is
+being worked up as an outpatient. Patient had required
+intermittent BIPAP initially but he remained off BiPAP after
+24-48 hours. He was treated with 7 day course of Levofloxacin.
+Oxygen saturations remained mid 90s prior to discharge off
+supplemental oxygen. He had no further complaints of shortness
+of breath. He was initially diuresed with Lasix 20-40mg PO daily
+but this was discontinued since patient appeared euvolemic with
+borderline low BPs as discussed below. He had PFTs prior to
+discharge since was started on Amiodarone. He should maintain
+aspiration precautions with PO intake as instructed in dietary
+discharge instructions.
+
+# NSTEMI:  Patient had NSTEMI on admission with T wave
+flattening I-III, T wave inversions V1-V5. He was treated with
+aspirin as well as heparin gtt for NSTEMI and atrial
+fibrillation. NSTEMI likely secondary to demand ischemia in
+setting of tachycardia. Anticoagulation was then transitioned to
+Coumadin with lovenox bridge. He was also started on statin. He
+was initially on beta blocker but this was held seocndary to
+bradycardia with HR 50s as well as initial concern for
+bronchospasm. Given his comorbidities, he was not felt to be a
+good candidate for CABG (as multivessel CAD was likely given his
+LV systolic heart failure). A conservative risk stratification
+strategy was undertaken, and a pharmacological stress test
+showed moderate fixed mid/distal anterior and anteroseptal
+defect, and severe fixed apical defect. As no objective evidence
+of residual post-infarct ischemia was found, revascularization
+was not pursued, and his CAD was treated medically.
+
+# Atrial Fibrillation/Flutter: Patient with no prior history of
+atrial fibrillation. It was thought that initial episode was
+secondary to aspiration pneumonia, but he had recurrent episode
+in hospital and was transferred back to CCU where he was started
+on amiodarone. Per their report, he was not interested in an
+ablative procedure. He remained in sinus rhythm after being
+started on amio with no further episodes of SVT. He was
+initially maintained on metoprolol 12.5 mg [**Hospital1 **] but this was
+discontinued secondary to bradycardia. Regarding Coumadin
+dosing, he was started on Coumadin 2 mg daily. This was changed
+to 1 mg daily on [**2625-3-20**] since INR rapidly became therapeutic
+and can interact with amiodarone. On [**2625-3-24**], INR 3.9 so
+Coumadin held. He should have close daily monitoring of INR to
+determine when to restart Coumadin (at 0.5-1mg daily). Goal INR
+[**3-8**] for atrial fibrillation as well as LV aneurysm on echo. He
+will complete [**Hospital1 **] dosing of amiodarone x 7 days (4 more days)
+after [**3-24**] then should continue daily dosing.
+
+# Acute systolic heart failure: Patient with acute LV systolic
+heart failure (LVEF 30-35%) with no previous data in our system.
+We attempted to optimize a heart failure regimen with low dose
+lisinopril, beta blocker, and Lasix. However, he had poor PO
+intake in house with hypotension with SBP 90s which dropped to
+80s when we tried to reinitiate these meds. He was also
+bradycardic HR 50s-60s. Would recommend adding back captopril
+6.25 mg TID as BP tolerates. If he tolerates ACE-I, would then
+consider adding Imdur. Will also need daily assessment of volume
+status and oxygen saturations to determine if needs diuresis.
+
+# GERD: Continued on PPI. Dr. [**First Name (STitle) 672**] following. Dr. [**First Name (STitle) 672**] would
+like to perform endoscopy after cardiac issues have resolved.
+
+# Hematuria: Patient developed hematuria on admission with
+presumed Foley trauma in the setting of anticoagulation. Urine
+cytology was negative. CT urogram was performed but was
+nondiagnostic. He was continued on continuous bladder irrigation
+which was titrated to light pink urine then clamped on [**2625-3-23**].
+He had voiding trial on [**2625-3-24**] which he passed. He will follow
+up with urology.
+
+Code: Full
+
+Medications on Admission:
+Omeprazole 20 mg daily
+ASA 81 mg daily
+Motilium 10 mg daily
+Levothyroxine 75 mcg daily, recently stopped
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 5 days: After 5 days, please change to once daily
+dosing.
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+5. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO three times a
+day: Please hold for SBP<90.
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis:
+Primary Diagnoses
+Aspiration Pneumonia
+Atrial fibrillation/flutter
+Non ST elevation myocardial infarction
+Coronary artery disease
+Acute left ventricular systolic heart failure
+Braydcardia
+Hypotension
+Hematuria
+
+Secondary Diagnosis
+Gastroesophageal reflux with prior fundoplication
+Hypertension
+Charcot-[**Doctor Last Name **]-Tooth Disease
+
+Discharge Condition:
+Hemodynamically stable, afebrile, voiding without difficulty,
+hematuria resolved
+
+Discharge Instructions:
+You were admitted to the hospital with pneumonia and a fast and
+irregular heart rate. This caused increased demand on your heart
+and you had a small heart attack. Your pneumonia was treated
+with antibiotics. Your irregular rhythm was treated with a
+medication called amiodarone. We also started you on a blood
+thinning medication called coumadin to prevent strokes which can
+happen with irregular heart rhythyms. You will need to have
+blood levels monitored very closely while you are on coumadin.
+We tried treating you with medications for your heart disease
+but were limited by your slow heart rate and low blood pressure.
+While you were in the hospital, you also had blood in your
+urine, most likely from being on blood thinning medications. You
+had a foley catheter which was irrigating your bladder which was
+discontinued on [**2625-3-24**] and you voided without difficulty prior
+to discharge.
+
+We made the following changes to your home medications
+1. We icnreased your aspirin to 325 mg daily
+2. We increased your omeprazole to twice daily dosing
+3. We added captopril which should be slowly added to your
+medications regimen as your blood pressure tolerates. If your
+blood pressure tolerates, you should take 6.25 mg three times
+daily. If your systolic blood pressure is still >95, you should
+also add Imdur or a beta blocker as determined by your
+outpatient physician.
+4. We added Coumadin. You were initially on 2mg daily, then 1 mg
+daily. We held your coumadin on [**2625-3-24**] and you will need to
+have your INR checked to determine when to restart it. Goal INR
+[**3-8**].
+
+Followup Instructions:
+Please follow up with urology. You have an appointment with Dr.
+[**Last Name (STitle) **] [**Last Name (STitle) **] [**Name (STitle) 759**] [**4-4**] at 10:30am. Their clinic is located in
+[**Hospital Ward Name 23**] Bldg at [**Hospital1 18**] on the [**Location (un) 465**]. Call [**Telephone/Fax (1) 909**] if you
+have any questions regarding this appointment.
+
+Please follow up with Dr. [**First Name (STitle) 432**] regarding your heart failure.
+You have an appointment with him on [**4-18**] at 11am. Their
+office is located in the [**Hospital Ward Name 23**] Building ont he [**Location (un) 431**].
+
+[**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 392**] [**Name8 (MD) **], M.D. Phone:[**Telephone/Fax (1) 1026**] Date/Time:[**2625-3-22**]
+4:00
+
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **]  [**Telephone/Fax (1) 675**]  Call to schedule appointment
+
+                             [**Doctor First Name **] [**First Name8 (NamePattern2) **] [**Name6 (MD) **] [**Name8 (MD) **] MD, MSC 12-339
+
+
+
+
+DOC CLASS

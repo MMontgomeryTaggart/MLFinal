@@ -1,0 +1,201 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**10-16**] cefepime to ceftriaxone per sensitivities.  BS in 200s, got NPH
+   twice by accident.  Still on stress-dose steroids.
+   lasix 60 mg @ 2145 for -600 cc with goal 1L
+   S: constipated.   Occ aches and pains including some chest pain
+   previously.  Currently pain free.  Feels tired and
+too weak to go
+   home.
+   Tele: Occ PVCs
+   Allergies:
+   Amiodarone
+   diaphoresis;
+   Codeine
+   Nausea/Vomiting
+   Metoprolol
+   Hypotension;
+   Last dose of Antibiotics:
+   Cefipime - [**3222-10-15**] 08:35 PM
+   Infusions:
+   Heparin Sodium - 900 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3222-10-16**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3222-10-17**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 35.6
+C (96
+   HR: 65 (60 - 80) bpm
+   BP: 101/54(98) {90/42(56) - 113/78(98)} mmHg
+   RR: 15 (10 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,276 mL
+                                                                     58 mL
+   PO:
+                                                                  1,060 mL
+             TF:
+   IVF:
+                                                                    216 mL
+                                                                     58 mL
+   Blood products:
+   Total out:
+                                                                  1,780 mL
+                                                                    920 mL
+   Urine:
+                                                                  1,780 mL
+                                                                    920 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -504 mL
+                                                                   -862 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///30/
+   Physical Examination
+   GENERAL: WDWN elderly woman in NAD. Oriented x3.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa.
+   NECK: Supple with JVP to mandible
+   CARDIAC: RR, normal S1, S2. Systolic murmur [**1-12**] @ LLSB without
+   radiation
+   LUNGS: Crackles at bases going
+ way up on right, lower on left
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: Trace LE edema.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ DP/PT dopplerable
+   Left: Carotid 2+ DP/PT dopplerable
+   Labs / Radiology
+   162 K/uL
+   8.4 g/dL
+   143 mg/dL
+   1.7 mg/dL
+   30 mEq/L
+   3.6 mEq/L
+   59 mg/dL
+   101 mEq/L
+   139 mEq/L
+   25.3 %
+   8.2 K/uL
+        [image002.jpg]
+                             [**3222-10-15**]  07:51 PM
+                             [**3222-10-15**]  09:30 PM
+                             [**3222-10-16**]  04:00 AM
+                             [**3222-10-16**]  08:55 AM
+                             [**3222-10-16**]  09:36 AM
+                            [**3222-10-17**]  04:31 AM
+   WBC
+   10.9
+   11.0
+   10.7
+   8.2
+   Hct
+   22.5
+   24.8
+   25.9
+   25.3
+   Plt
+   150
+   167
+   154
+   162
+   Cr
+   2.3
+   2.3
+   2.1
+   1.7
+   Glucose
+   [**Telephone/Fax (3) 6340**]81
+   143
+   Other labs: PT / PTT / INR:13.7/66.2/1.2, ALT / AST:52/34, Alk Phos / T
+   Bili:110/0.3, Differential-Neuts:89.6 %, Lymph:7.1 %, Mono:3.3 %,
+   Eos:0.0 %, Albumin:2.9 g/dL, LDH:312 IU/L, Mg++:2.0 mg/dL
+   BCx: pan-sensitive GNR,  E. coli in urine.  NG from [**9-16**] culture
+   Assessment and Plan
+   86 yo F who presents with nausea, chest tightness found to GNR
+   bacteremia, UTI, and possible NSTEMI
+   .
+   #Gram Neg Rod Bacteremia: Likely source was bladder.  No evidence for
+   septic picture, likely from early treatment.
+   - Narrowed from cefepime to ceftriaxone.  Will likely need a 14 day
+   course from [**9-16**] but can probably go home on PO antibiotics (eg,
+   cipro).  Will continue ceftriaxone while in house.  LFTs improving.  No
+   evidence of billiary source.
+   - D/C stress-dose steroids given stability.  Resume home dose.
+   - f/u blood culture speciation
+   .
+   # CORONARIES: Pt likely suffered NSTEMI, her EKG on admission as
+   unchanged, however CK peaked 232, MB 20, MBI 6.7.  CK now trending down
+   202, MB 9, Trop 0.97. Pt is chest pain free.
+   -heparin gtt for 48 hour course complete.
+   -Continue asa, statin and plavix
+   -start beta-blocker as not at hypotensive risk.
+   .
+   # PUMP: Pt having acute on chronic systolic HF. Hx of systolic HF with
+   EF 20%. Acute on chronic episode may be [**1-8**] NSTEMI.
+   -consider IV lasix if o2 sat drops-bp low at this time: currently
+   stable
+   -ECHO to assess for any changes in systolic function
+   .
+   # RHYTHM: paced, not anticoagulated for AF
+   .
+   # Acute on Chronic Renal Failure: Urine lytes indicate that this is not
+   pre-renal given FeNa of 8%, however may be inaccurate given on lasix at
+   home. [**Month (only) 56**] be poor perfusion in setting of heart failure vs renal
+   ischemia
+   -will cont to follow
+   .
+   # Diabetes: poorly controlled likely secondary to UTI.
+   - cont standing doses of humulin and ISS
+   -If sugars continue to be poorly controlled, may need insulin gtt
+   .
+   # PMR: on steroids at home, will initiate stress dose steroids
+   .
+   # FEN: Cardiac, diabetic diet, no diuretics for now given low bp likely
+   [**1-8**] sepsis, monitor and replete lytes
+   .
+   # ACCESS: PIV's
+   .
+   # PROPHYLAXIS: heparin gtt
+   .
+   # CODE: DNR/I, confirmed with patient
+   .
+   # DISPO: CCU
+   .
+   #CONTACT: [**First Name4 (NamePattern1) 6095**] [**Known patient lastname 6326**] [**Telephone/Fax (1) 6327**] (daughter in [**Name (NI) 485**]), son in
+   [**Name2 (NI) 6328**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3222-10-15**] 07:00 PM
+   22 Gauge - [**3222-10-16**] 08:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,197 @@
+SICU
+   HPI:
+   Chief complaint:
+   Abdominal wall abscess
+   PMHx:
+   Current medications:
+   24 Hour Events:
+ BRONCHOSCOPY - At [**2856-3-24**] 10:30 AM
+ EKG - At [**2856-3-24**] 11:37 AM
+   Post operative day:
+   POD#1 - drainage of bladder abcess
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2856-3-24**] 08:00 PM
+   Metronidazole - [**2856-3-25**] 04:00 AM
+   Ciprofloxacin - [**2856-3-25**] 06:13 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Norepinephrine - 0.06 mcg/Kg/min
+   Vasopressin - 2.4 units/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**2856-3-24**] 10:53 AM
+   Famotidine (Pepcid) - [**2856-3-24**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**2856-3-25**] 12:39 AM
+   Fentanyl - [**2856-3-25**] 02:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2856-3-25**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**58**] a.m.
+   Tmax: 37.4
+C (99.4
+   T current: 35.9
+C (96.6
+   HR: 65 (63 - 110) bpm
+   BP: 121/48(75) {69/36(55) - 134/58(87)} mmHg
+   RR: 12 (12 - 21) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 71.1 kg (admission): 70 kg
+   Height: 63 Inch
+   CVP: 6 (4 - 16) mmHg
+   Total In:
+                                                                  6,743 mL
+                                                                  1,464 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,431 mL
+                                                                  1,172 mL
+   Blood products:
+   Total out:
+                                                                    752 mL
+                                                                    260 mL
+   Urine:
+                                                                    607 mL
+                                                                    220 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    145 mL
+                                                                     40 mL
+   Balance:
+                                                                  5,991 mL
+                                                                  1,204 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 420 (420 - 420) mL
+   Vt (Spontaneous): 403 (342 - 487) mL
+   PS : 5 cmH2O
+   RR (Set): 15
+   RR (Spontaneous): 12
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 35
+   PIP: 11 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 42 cmH2O/mL
+   SPO2: 98%
+   ABG: 7.38/37/114/20/-2
+   Ve: 5.5 L/min
+   PaO2 / FiO2: 285
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+)
+   Right Extremities: (Edema: 1+)
+   Neurologic: Follows simple commands, Moves all extremities, Sedated
+   Labs / Radiology
+   283 K/uL
+   7.4 g/dL
+   241 mg/dL
+   0.8 mg/dL
+   20 mEq/L
+   3.9 mEq/L
+   21 mg/dL
+   115 mEq/L
+   138 mEq/L
+   24.0 %
+   24.0 K/uL
+        [image002.jpg]
+                             [**2856-3-24**]  03:06 AM
+                             [**2856-3-24**]  03:25 AM
+                             [**2856-3-24**]  02:00 PM
+                             [**2856-3-24**]  02:11 PM
+                             [**2856-3-25**]  02:22 AM
+                             [**2856-3-25**]  03:05 AM
+   WBC
+   25.3
+   29.5
+   24.0
+   Hct
+   26.0
+   28.5
+   24.0
+   Plt
+   285
+   348
+   283
+   Creatinine
+   0.7
+   0.8
+   0.8
+   TCO2
+   21
+   21
+   23
+   Glucose
+   84
+   121
+   243
+   241
+   Other labs: PT / PTT / INR:15.1/31.0/1.3, Lactic Acid:1.7 mmol/L,
+   Albumin:1.1 g/dL, Ca:7.7 mg/dL, Mg:2.0 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   SEPSIS WITHOUT ORGAN DYSFUNCTION
+   Assessment and Plan: 80 yo F pmhx Hypertension, DM, Divertculitis, GI
+   bleed, dementia?, admitted intubated post op from I+D of abdominal wall
+   abscess [**2854-3-25**]
+   Neurologic:
+   -- sedated on fentanyl + versed
+   -- pain well controlled with morphine prn
+   Cardiovascular:
+   -- Pt on Norepi to keep MAPS >60, and vasopressin
+   -- Baseline HTN: hold home antihypertensives for now given picture of
+   evolving sepsis
+   Pulmonary:
+   -- Intubated post op, on cpap, making respiratory effort
+   --s/p Broncho no evidence of obstruction [**3-24**]. f/up CXR post bronch
+       Will do SBT   Consider extubation if passes.
+   Gastrointestinal / Abdomen:
+   -- s/p wash out intrabdominal abscess: empiric coverage w/ cipro +
+   flagyl add Vancomy for GPC coverage
+   -- H2B for GI prophylaxis
+   Nutrition:
+   --Alb 1.1 Started on TPN
+   Renal:
+   --Baseline creatinine 0.8 (0.8 current)
+   --UA positive f/up Cx -no growth to date
+   --FeNa 1.1
+   Hematology:
+   -- DVT prophylaxis: boots and heparin SC
+   -- HCT stable 23.8->26->24.0
+   Endocrine:
+   --RISS, goal keep BS<150
+   ID:
+   -- empiric coverage for abd abscess with cipro + flagyl Add vanco for
+   GPC
+   -- abscess, blood, and urine cx pending
+   --UA positive f/up Cx
+   T/L/D: PIV, Foley, Aline ([**3-24**]), RIJ TLC ( [**3-24**]), ETT
+   Wounds: abd
+   Imaging:
+   Fluids: LR @ 100
+   Consults: gen [**Doctor First Name 204**]
+   Billing Diagnosis:
+   DVT:  Boots, heparin SC
+   Stress ulcer: H2B
+   VAP bundle: +
+   Comments: needs consent
+   Communication:
+   Code status:FULL
+   Disposition:SICU
+   Time spent: 35
+
+
+
+DOC CLASS

@@ -1,0 +1,293 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - switched to ISS for glucose.
+   - ID: no need for MRI of leg.
+   - Endo: lantus 40 QHS, D/C NPH, ISS: Q6H, 120-160 2u, 2u for every 40.
+   - 1.5L fluids bolus
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3057-10-20**] 12:06 AM
+   Vancomycin - [**3057-10-20**] 12:00 PM
+   Fluconazole - [**3057-10-21**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3057-10-22**] 05:50 AM
+   Infusions:
+   Phenylephrine - 0.9 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3057-10-21**] 08:00 AM
+   Dextrose 50% - [**3057-10-21**] 12:09 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3057-10-22**] 07:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   [**Year (4 digits) 8936**] balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 38.2
+C (100.7
+   HR: 109 (84 - 110) bpm
+   BP: 101/30(47) {93/30(47) - 128/53(68)} mmHg
+   RR: 22 (15 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 83.1 kg (admission): 92 kg
+   Height: 62 Inch
+             Total In:
+                                                                  3,983 mL
+                                                                    773 mL
+   PO:
+             TF:
+                                                                    720 mL
+                                                                    227 mL
+   IVF:
+                                                                  2,998 mL
+                                                                    486 mL
+   Blood products:
+   Total out:
+                                                                    831 mL
+                                                                    100 mL
+   Urine:
+                                                                    171 mL
+                                                                    100 mL
+   NG:
+   Stool:
+                                                                    660 mL
+   Drains:
+   Balance:
+                                                                  3,152 mL
+                                                                    673 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 100%
+   ABG: ///18/
+   Physical Examination
+   GEN: on trach mask, responsive to verbal stimuli, minimally cooperative
+   to commands
+   HEENT: PERRL
+   CV: RRR, limited exam for mrg [**1-5**] breath sounds
+   RESP: CTA on anterior exam
+   ABD: tense, mildly distended, hypoactive BS
+   EXT: cool, weak, thready, palpable pulses bilaterally
+   Labs / Radiology
+   162 K/uL
+   7.8 g/dL
+   224 mg/dL
+   3.5 mg/dL
+   18 mEq/L
+   3.9 mEq/L
+   33 mg/dL
+   106 mEq/L
+   137 mEq/L
+   25.8 %
+   8.3 K/uL
+        [image002.jpg]
+                            [**3057-10-18**]  04:12 PM
+                            [**3057-10-18**]  09:52 PM
+                            [**3057-10-19**]  04:36 AM
+                            [**3057-10-19**]  04:43 AM
+                            [**3057-10-19**]  09:52 AM
+                            [**3057-10-19**]  10:05 AM
+                            [**3057-10-19**]  01:13 PM
+                            [**3057-10-20**]  04:43 AM
+                            [**3057-10-21**]  04:58 AM
+                            [**3057-10-22**]  05:17 AM
+   WBC
+   13.5
+   12.7
+   11.3
+   8.3
+   Hct
+   25.9
+   26.9
+   26.0
+   25.8
+   Plt
+   [**Telephone/Fax (3) 9221**]62
+   Cr
+   1.2
+   1.0
+   2.0
+   2.9
+   3.5
+   TCO2
+   22
+   22
+   21
+   20
+   20
+   Glucose
+   141
+   111
+   147
+   148
+   115
+   172
+   139
+   224
+   Other labs: PT / PTT / INR:14.8/30.0/1.3, CK / CKMB /
+   Troponin-T:366/27/7.99, ALT / AST:20/36, Alk Phos / T Bili:219/0.5,
+   Amylase / Lipase:/7, Differential-Neuts:82.2 %, Band:0.0 %, Lymph:12.9
+   %, Mono:3.2 %, Eos:1.4 %, D-dimer:2458 ng/mL, Fibrinogen:536 mg/dL,
+   Lactic Acid:2.4 mmol/L, Albumin:1.6 g/dL, LDH:400 IU/L, Ca++:7.1 mg/dL,
+   Mg++:1.8 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   57 yo F c HTN, DM, HLP p/w acute inferior STEMI, cardiogenic shock.
+   .
+   # Neuro: Some decrease in cooperativity today compared to prior.
+   - waking up overnight with less fentanyl
+   - continue fentanyl patch for pain
+   - restart lactulose as bowel movement frequency has decreased
+   - hold rifaximin
+   - failed Passy-Muir trial, will retry later in hospitalization
+   .
+   # ID:  WBC elevated with elevated fevers and likely wound infection.
+   Patient with multiple nidi, including triple lumen, CVVH line, sacral
+   skin break down, tracheal secretions, leg wound being open and foley
+   catheter.
+   - f/u fungal cultures, bcx, sputum cx, UCX,
+   - Glucan (-), Galactomanan- low intermediate, C. Diff (-)
+   - continue Vanc and adding Zosyn, d/c diflucan [**1-5**] interaction with
+   plavix and
+   - wbc falling, culture if spikes
+   - consider a-line for repeat ABG and HD(?).
+   - rec ID reconsult. - consider CT of abd later.
+   .
+   # Renal:  ARF likely started before presentation to [**Hospital1 1**]. Likely from
+   poor forward flow from initial cardiogenic failure. Now with muddy
+   brown casts on urine analysis. Hyperkalemia to 6.8 and anuria
+   immediately post cath. Complicated by rhabdomyolysis with CK to [**Numeric Identifier **].
+   CK now downtrending.  Trial off CVVH was not successful, patient
+   appears to be dialysis dependent.
+   - give 500 ml bolus to assess effect on blood pressure
+   - per Renal recs, stopped CVVH.  Pt will likely need HD at this point
+   in time.  No acute need for dialysis at this time.
+   - Hyperkalemia discussed with renal, who asked us not to give
+   kayexalate and will remove in HD
+   .
+   # respiratory distress:  MS [**First Name (Titles) 42**] [**Last Name (Titles) **] status have hindered the process
+   of weaning.  Tolerating increasing courses of pressure support, however
+   tired out and required A/C.  Continue sedation holidays, pressure
+   support and trach mask trials.
+   - She does well on trach mask throughout the day and routinely retains
+   CO2 towards the end of the evening
+   - monitor [**Last Name (Titles) **] status and RR, continue trach mask trials
+   - this AM on CPAP ABG revealed metabolic acidosis without respiratory
+   compensation
+   .
+   # Heme: Early anemia and thrombocytopenia are likely components due to
+   blood loss from open fasciotomy, contributory factors include dilution
+   from large volume IV repletion.  Heparin is now being maintained off.
+   S/p transfusion of 19.5u pRBC, 2u FFP, 2u platelets, 2units Cryo thus
+   far.  Plt count now below 100 however increasing.  HIT ab was negative
+   x1 2^nd is pending.  Her coagulopathy is likely [**1-5**] /hepatic
+   insufficiency given improvement of coags and plts/HCT with factor
+   repletion.
+   - Transfuse prn if Hct continues to drop with goal Hct > 25.
+   - Transfuse FFP if INR rise or bleeding continues, goal INR < 1.5
+   - appreciate and follow - heme-onc regarding the
+   anemia/thrombocytopenia.
+   - renal rec
+ on epo
+   .
+   # GI: ileus
+ Patient now having regular BMs off of lactulose.  NGT
+   found to be in prox duodenum on CT abd/pel s/p 2 pullbacks. TF held per
+   GI. Hepatic dysfunction contributing to this picture. Had
+   melenotic/frankly bloody bm [**10-7**], put on IV PPI.  Off lactulose had
+   roughly 230cc of stool yesterday.
+   - off IV PPI, now on PO 40mg [**Hospital1 **]
+   - INR nearly normal, no need for FFP, vitamin K
+   - BM regimen, hold lactulose
+   - restart lactulose
+   - on tube feeds, tolerating advanced diet
+   .
+   # compartment sx
+ Likely developed [**1-5**] IABP use.  IABP now removed,
+   patient s/p LLE fasciotomy.  Wound VAC placed.
+   - followed by Vsurg
+  wound VAC
+ input appreciated
+   - At this time, no set surgery date for LLE.
+   - serial pulses, CK (lowest)
+   .
+   # IDDM
+ insulin gtt, [**Last Name (un) **]-stim is negative for adrenal insufficiency.
+   - d/c
+d NPH [**Hospital1 **] and transitioned to lantus and ISS to uptitrate.
+   - consult regarding TSH
+   # Elevated LFTs: Markedly elevated. Likely shock liver and rhabdo.
+   -  Now WNL
+   .
+   # Acute inferior STEMI in distal LAD wrap-around territory: S/P BMS to
+   LMCA and LAD.   BB was held until more hemodynamically stable.
+   Initially in cardiogenic shock with poor cardiac output (CI 1.7-1.9),
+   now improved to CI 3.1 this AM on levophed gtt.  Elevated PA diastolic
+   / CVP.  Off IABP s/p development of compartment sx in LLE.  Reached
+   goal CVP >12 for [**Hospital1 **] resuscitated.  in NSR/sinus tach but had an
+   episode of sinus arrest in cath lab. Off temp pacer at this time.  last
+   TTE shows apical dyskinesis
+ patient had been on heparin gtt but
+   stopped [**1-5**] bleeding concerns.  Off pressors and tolerated -2L
+   yesterday.  s/p an episode of atrial fibrillation, converted back to
+   sinus without BB.   Since, she had additional episodes of afib that is
+   rate controlled and she converts back to sinus on her own.  While in
+   AFib, she drops her pressure.
+   - Continue ASA, plavix, no statin due to increased CPK levels.
+   - continue pressure support on neo (phenylephrine)
+   - likely etiology for continued pressor requirement at this time is
+   distributive shock
+   .
+   # Afib/Aflutter: Ms [**Known patient lastname 9092**] seems to go in and out of Atrial Fibrillation
+   on a nightly basis.  On [**10-16**] she was noted to be in flutter briefly at
+   a rate of 140.  She broke with carotid massage, and 5mg of IV
+   metoprolol.
+   - discontinue metoprolol as in the setting of shock her BP will not
+   tolerate
+   - continue amiodarone load for rhythm control
+   - holding AC at this time given bleeding issue
+   .
+   # HTN: Hold home hypertensive regimen until more HD stable.
+   .
+   # Hyperlipidemia
+ Holding statin in setting of rhabdomyolysis /
+   transaminitis pending CPK<1000.
+   .
+   # FEN: On tube feeds at goal.
+   # PROPHYLAXIS:
+   - DVT ppx if HCT stable
+ SQ heparin
+   - pain management IV fentanyl
+   - bowel regimen (senna + colace), lactulose
+   .
+   # CODE: full
+   .
+   # COMM: Family, Daughter ([**Doctor First Name 5484**]) is HCP. [**Telephone/Fax (1) 8693**] home,
+   [**Telephone/Fax (1) 8694**] cell. Spoke with patient
+s family yesterday morning.
+   .
+   # DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3057-10-21**] 03:27 PM 30 mL/hour
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3057-10-12**] 06:00 PM
+   PICC Line - [**3057-10-12**] 06:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,227 @@
+TITLE: Medical Student Progress Note: CCU
+   Chief Complaint: [**Age over 90 **] yo M with diabetes, hyperlipedemia, and
+   hypertension, severe AS P/W NSTEMI.  Now S/P RCA BMS w/ persistent
+   pulmonary edema and renal failure.
+   24 Hour Events:
+   [**3-15**]
+   -Cr remains stable at 2.6 with UOP 120-300hr since MN on new diuretic
+   regimen.  Hyperphosphatemic likely [**3-7**] renal failure.
+   [**3-14**]
+   - triggered for tachypnea 8am; ABG = 7.28/53/78; transferred from [**Wardname 2026**]
+   to CCU, starting lasix gtt.
+   - Furosemide at 5mg/hr started at 11:45am. UOP 240 over next 2 hrs.
+   40mg IV bolus at 1pm.  Patient feels subjectively better, Pulse Ox 90s
+   up to 97% on 4L.
+   - Cr increase from 1.7 to 2.5 from [**Wardname 4481**] of 1.2-1.4.  AM FENA is
+   0.8% assessed 9 hours after last furosemide dose.
+   - Cardiac surgery is concerned about MR, rising Cr, and general medical
+   stabilication.  Recommended Echo in AM to assess MR as well as UCx.
+   - Titrated furosemide drip up and added metolazone to increase UOP.
+   - Urine with blood at 11:30pm, Sent UA with for sedimentation
+   - Trazadone for sleep at MN.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix)
+   Other ICU medications:
+   1. Acetaminophen 2. Amiodarone 3. Aspirin 4. Atorvastatin 5. Bisacodyl
+   6. Clopidogrel 7. Docusate Sodium
+   8. Furosemide 9. Furosemide 10. Furosemide 11. Heparin 12. Insulin 13.
+   Ipratropium Bromide Neb
+   14. Lidocaine Jelly 2% (Urojet) 15. Metoprolol Tartrate 16. Metolazone
+   17. Senna 18. traZODONE
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2609-3-15**] 06:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**11**] AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 35.6
+C (96
+   HR: 86 (78 - 97) bpm
+   BP: 120/74(86) {98/54(66) - 134/85(92)} mmHg
+   RR: 25 (19 - 36) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 78.8 kg (admission): 77.2 kg
+   Height: 69 Inch
+             Total In:
+                                                                    745 mL
+                                                                    152 mL
+   PO:
+                                                                    640 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    105 mL
+                                                                     92 mL
+   Blood products:
+   Total out:
+                                                                  1,240 mL
+                                                                  1,450 mL
+   Urine:
+                                                                  1,240 mL
+                                                                  1,450 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -495 mL
+                                                                 -1,298 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   212 K/uL
+   9.8 g/dL
+   130 mg/dL
+   2.6 mg/dL
+   30 mEq/L
+   3.8 mEq/L
+   88 mg/dL
+   100 mEq/L
+   142 mEq/L
+   30.1 %
+   7.2 K/uL
+         [image002.jpg]
+                             [**2609-3-9**]  11:55 AM
+                             [**2609-3-9**]  03:22 PM
+                             [**2609-3-9**]  06:02 PM
+                             [**2609-3-9**]  07:21 PM
+                             [**2609-3-10**]  05:53 AM
+                             [**2609-3-10**]  04:23 PM
+                             [**2609-3-11**]  06:43 AM
+                             [**2609-3-14**]  07:00 AM
+                             [**2609-3-14**]  03:40 PM
+                             [**2609-3-15**]  04:00 AM
+   WBC
+   6.2
+   5.4
+   10.5
+   7.2
+   Hct
+   28.9
+   29.1
+   28.3
+   30.4
+   32.2
+   30.1
+   Plt
+   121
+   131
+   140
+    301
+   212
+   Cr
+   1.3
+   1.9
+   1.9
+   1.5
+   1.5
+   2.5
+   2.6
+   2.6
+   TCO2
+   30
+   Glucose
+   156
+   155
+   181
+   130
+   Other labs: PT / PTT / INR:12.6/25.1/1.1, CK / CKMB /
+   Troponin-T:154/4/9.34, Albumin:2.7 g/dL, Ca++:8.2 mg/dL, Mg++:2.3
+   mg/dL, PO4:6.0 mg/dL
+   Assessment and Plan
+   [**Age over 90 **] yo M with diabetes, hyperlipedemia, and hypertension without past
+   known CV disease presents with chest discomfort and ST depression
+   consistent with NSTEMI. Now s/p RCA BMS with cont fluid overload and
+   ischemic ECG changes.
+   .
+   # S/P NSTEMI: CK peak 1683 with Trop 9.6. ECHO [**3-10**] shows moderate
+   regional left ventricular systolic dysfunction with inferior and
+   inferolateral akinesis/hypokinesis. Cath with stenting of RCA with BMS
+   but has [**Last Name (un) 10686**] 70% mid LAD and old TO prox LCX. EKG cont to show
+   ischemic changes with inc rate and resp distress. Remains chest pain
+   free.  Cardiac [**Doctor First Name **] recommended repeat echo to eval MR, stabilization
+   of Cr, and UCx.
+   - cont  plavix, aspirin
+   - cont high dose atorvastatin
+   - Metoprolol 12.5mg [**Hospital1 **]
+   - Rate control with BB and amiodarone.
+   - consider starting ACEi once kidney function improves
+   - guaiac stools
+   .
+   # Acute Systolic CHF and severe AS: Acute pulmonary edema most likely
+   secondary to AS and heart failure. Adequate diuresis last night.
+   - Would start Lasix drip and metolazone.
+   - trend Cr, could be increasing because of [**Month (only) 199**] forward flow.
+   - wean oxygen as tolerated to keep SaO2 > 92%
+   - consider hydralazine to increase forward flow.
+   # Acute on chronic kidney disease: The patient has a [**Month (only) 4481**]
+   creatinine of 1.2-1.4. Worsened with attempts to diurese yesterday, now
+   2.6.
+   - trend creatinine
+   - metformin held
+   - attempt to increase forward flow with diuresis.
+   - UA and urine lytes if not improving
+   # AF: Now in SR after amio IV load. Load is now finished, PO
+   amiodarone.
+   - beta blocker with hold parameters
+   # Hyperkalemia: Cont to be somewhat high despite diuresis. Likely
+   secondary to [**Last Name (un) 2359**]. EKG without evidence of peaked T waves.
+   - trend lytes
+   - follow ECG.
+   # Diabetes: controlled on metformin at home, now on glargine and HISS.
+   Glargine inc yesterday for cont high Bs.
+   - ISS
+ adjust prn
+   - Hold home meds
+   - check FS freq if cont to be NPO today.
+   # Hypertension.  Patient is now normotensive likely due to mild
+   cardiogenic shock. Continue beta blocker
+   - Hold ACEi given compromised kidney function
+   - Hold Nifedipine
+   - Continue with low dose beta blocker if pressure tolerates
+   # Trauma to face, s/p fall onto right side.  Patient denies LOC,
+   altered sensorium, weakness, palpitations, preceding chest pain, and
+   postictal state.  Patient is neurologically intact on exam.  No broken
+   bones visible on CXray.
+   - Will monitor for continued signs and symptoms.
+   - See trauma note.
+   # Pernictious anemia. Treated with B12 by PCP.  [**Name10 (NameIs) **] Hct 36-39 and
+   has been stable here.
+   # FEN: Low Na, Diabetic diet, no further IVF
+   # Proph: Hep SC, no PPI needed. Bedrest until Resp status improves.
+   # Dispo: transferred back to CCU this am for closer monitoring.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2609-3-14**] 12:00 PM
+   20 Gauge - [**2609-3-14**] 04:01 PM
+   Prophylaxis:
+   DVT: Heparin SC
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: CCU
+
+
+
+DOC CLASS

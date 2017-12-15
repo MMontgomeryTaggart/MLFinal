@@ -1,0 +1,481 @@
+Admission Date:  [**3057-11-23**]              Discharge Date:   [**3057-12-3**]
+
+Date of Birth:  [**2993-2-24**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6294**]
+Chief Complaint:
+Transfer from OSH for post cardiac arrest evaluation.
+
+Major Surgical or Invasive Procedure:
+Inplantable cardioverter defibrillator (ICD) placement
+Intubation and extubation
+Central venous line
+PICC line placed and removed
+
+History of Present Illness:
+Ms. [**Known patient lastname **] is a 64 year-old woman with a history of idiopathic
+cardiomopathy who presents on transfer after cardiac arrest.
+
+Per OSH discharge summary, patient presented after found by her
+boyfriend at home with unresponsiveness after hearing a thump.
+911 was called immediately and when EMS arrived (~5 minutes
+after arrest) they patient was noted to be in vfib, apneic and
+pulseless.  CPR, ALCS (shock x4) and intubation were perfomed.
+At the OSH ED, patient was noted to be in sinus.  Based on EMS
+records, time between initial rhythm and 4th (successful) shock
+was ~9 minutes.
+
+OSH course:  Evaluated by cardiology.  Noted to have troponin
+peak of 0.30. A TTE was performed and showed an LVEF of 30%
+(unchanged from prior).  To work-up an elevated WBC (13.4), a
+chest CT was done and showed extensive multifocal pulmonary
+opacities involving most of the LLL aand portions of the upper
+lobes. She was treated with vancomycin, unasyn and azithromycin.
+
+
+Regarding her neurologic status, patient was noted to be
+unresponsive after admission (no purposeful movementswith
+sluggish pupils) with a head CT being grossly normal.
+
+The patient's hematocrit was noted to drop from 30.8 on
+admission to 25.5 so a unit of pRBC was transfused.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:
+(+) Diabetes
+(-) Dyslipidemia
+(+) Hypertension
+.
+2. CARDIAC HISTORY:
+-CABG:  None.
+-CARDIAC CATH without flow limiting lesions ([**7-29**]).
+-PACING/ICD:  None.
+-CHF:  Idiopathic dilated CM with EF of 30% (echo [**7-29**]).
+-History of LBBB
+
+3. OTHER PAST MEDICAL HISTORY:
+- Anemia, iron deficiency
+- Sarcoidosis
+- Glaucoma
+
+
+Social History:
+-Tobacco history: None currently
+-ETOH:  Occasional
+-Illicit drugs:  Unclear
+-Widower
+
+
+Family History:
+Father died of MI in 60s
+
+Physical Exam:
+VS: T=98.8 BP=145/75 HR=83 RR=16 O2 sat=100% on vent
+GENERAL: Intubated and on mild sedation. Responds to painful
+stimuli but does not have purposeful movements.
+HEENT: NCAT. Sclera anicteric. Pupils 4mm --> 2mm and brisk
+bilaterally.
+NECK: Supple.
+CARDIAC: Palpable RV lift and prominent LV PMI. Regular rate. No
+obvious murmur.  +S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored on the ventilatro. CTAB, no crackles, wheezes or
+rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.  Midline line
+rectangular patch with skin changes.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+Amission labs:
+[**3057-11-23**] 05:51PM   GLUCOSE-78 UREA N-18 CREAT-0.9 SODIUM-146*
+POTASSIUM-3.5 CHLORIDE-113* TOTAL CO2-25 ANION GAP-12
+[**3057-11-23**] 05:51PM   ALT(SGPT)-55* AST(SGOT)-44* LD(LDH)-263*
+CK(CPK)-400* ALK PHOS-58 TOT BILI-0.9
+[**3057-11-23**] 05:51PM   CK-MB-2 cTropnT-0.03*
+[**3057-11-23**] 05:51PM   ALBUMIN-3.6 CALCIUM-8.9 PHOSPHATE-3.6
+MAGNESIUM-2.2
+[**3057-11-23**] 05:51PM   WBC-13.0*# RBC-3.52* HGB-8.9*# HCT-26.8*#
+MCV-76*# MCH-25.2*# MCHC-33.1 RDW-22.5*
+[**3057-11-23**] 05:51PM   PT-13.2 PTT-33.7 INR(PT)-1.1
+[**3057-11-23**] 05:51PM   RET MAN-1.3
+
+OSH Labs:
+K: 3.2 --> 4.1 --> 3.3
+Mg: 1.6 --> 2.1
+Cr: 1.2 --> 1.0
+ALT: 79 --> 55
+
+WBC: 8.6 --> 14.5 (25% bands)
+HCT: 29.3 --> 25.5 (MCV 73)
+PLT: 366 --> 386
+INR: 1.1
+
+Trop: 0.01 --> 0.30 --> 0.11
+BNP: 358
+D-Dimer: 2467
+
+UA: 30-40 WBC
+
+Discharge labs:
+  COMPLETE BLOOD COUNT  WBC  RBC  Hgb   Hct   MCV MCH   MCHC
+RDW  Plt Ct
+[**3057-12-3**] 08:50AM    10.3 3.79* 9.3* 28.2*  74* 24.6* 33.0
+21.2* 430
+
+Chemistry
+  RENAL & GLUCOSE    Glucose UreaN Creat   Na    K    Cl  HCO3
+[**3057-12-3**] 08:50AM    255*    10   0.8    136  3.6  101   28
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos TotBili
+[**3057-11-25**] 05:49AM    39  32   256*   265*     69      1.0
+
+  CHEMISTRY            Calcium  Phos   Mg
+[**3057-12-3**] 08:50AM       8.7   3.4    1.8
+PITUITARY TSH
+[**3057-11-30**] 04:10AM    1.6
+
+ [**3057-11-24**] 5:21 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**3057-11-27**]**
+
+   GRAM STAIN (Final [**3057-11-24**]):
+      >25 PMNs and <10 epithelial cells/100X field.
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S).
+      1+    (<1 per 1000X FIELD):   BUDDING YEAST WITH
+PSEUDOHYPHAE.
+
+   RESPIRATORY CULTURE (Final [**3057-11-27**]):
+      OROPHARYNGEAL FLORA ABSENT.
+      ENTEROBACTER CLOACAE.    SPARSE GROWTH.
+         This organism may develop resistance to third
+generation
+         cephalosporins during prolonged therapy. Therefore,
+isolates that
+         are initially susceptible may become resistant within
+three to
+         four days after initiation of therapy.  For serious
+infections,
+         repeat culture and sensitivity testing may therefore be
+warranted
+         if third generation cephalosporins were used.
+      KLEBSIELLA OXYTOCA.    SPARSE GROWTH.
+      YEAST.    RARE GROWTH.
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROBACTER CLOACAE
+                             |          KLEBSIELLA OXYTOCA
+                             |          |
+AMPICILLIN/SULBACTAM--               16 I
+CEFAZOLIN-------------              <=4 S
+CEFEPIME--------------   <=1 S      <=1 S
+CEFTAZIDIME-----------   <=1 S      <=1 S
+CEFTRIAXONE-----------   <=1 S      <=1 S
+CEFUROXIME------------                4 S
+CIPROFLOXACIN---------<=0.25 S        2 I
+GENTAMICIN------------   <=1 S      <=1 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+PIPERACILLIN----------   <=4 S
+PIPERACILLIN/TAZO-----                8 S
+TOBRAMYCIN------------   <=1 S      <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S      <=1 S
+
+EMS tracings:  Ventricular fibrillation with NSR initiated after
+fourth shock.
+
+ECG ([**3057-11-23**]): NSR at 89. LBBB.
+
+2D-ECHOCARDIOGRAM ([**7-29**]): 1. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is
+moderate to severe global left ventricular hypokinesis. Overall
+left ventricular systolic function is moderately depressed with
+some preservation of basal inferior and basal lateral wall
+motion.
+2. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen.
+
+CARDIAC CATH ([**7-29**]):
+1. No angiographically apparent flow limiting coronary artery
+disease.
+2. Normal left and right sided filling pressures.
+3. Depressed LV function of 30% with global hypokinesis.
+
+TTE ([**11-24**]): The left atrium is elongated. Left ventricular wall
+thicknesses and cavity size are normal. There is moderate to
+severe global left ventricular hypokinesis (LVEF = 30 %) with
+somre preserved contraction of the basal inferolateral and
+anterolateral walls. Tissue Doppler imaging suggests an
+increased left ventricular filling pressure (PCWP>18mmHg).
+Transmitral Doppler and tissue velocity imaging are consistent
+with Grade II (moderate) LV diastolic dysfunction. Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. The mitral valve
+leaflets are structurally normal. There is no mitral valve
+prolapse. Mild to moderate ([**12-24**]+) mitral regurgitation is seen.
+There is mild pulmonary artery systolic hypertension. There is
+an anterior space which most likely represents a fat pad.
+IMPRESSION: Global left ventricular cardiomyopathy. Moderate
+diastolic dysfunction with elevated filling pressures. Mild to
+moderate mitral regurgitation. Mild pulmonary hypertension.
+Compared with the prior study (images reviewed) of [**3055-8-23**],
+the severity of mitral regurgitation has increased. Estimated
+pulmonary artery pressures are elevated (previously
+undetermined).
+
+EEG ([**11-26**]): Abnormal portable EEG due to the slow and
+disorganized
+background. This indicates a widespread encephalopathy.
+Medications,
+metabolic disturbances, and infection are among the most common
+causes.
+There were no prominent focal abnormalities, but
+encephalopathies may
+obscure focal findings. There were no epileptiform features. The
+
+background was not at all flat or markedly suppressed, findings
+that
+might be associated with continued Propofol use or with a severe
+anoxic
+encephalopathy. Those are still possible causes of the
+encephalopathy,
+but they are less likely, and the EEG is not strongly suggestive
+of
+them.
+
+MRI head ([**11-27**]): The FLAIR and T2 as well as diffusion images
+demonstrate increased signal in both thalami. There is no
+evidence of restricted diffusion seen without evidence of
+abnormalities on the ADC map. These findings could be indicative
+of subacute changes of hypoxia. Bilateral chronic lacunes
+identified. Changes of small vessel disease are seen in the pons
+and in the periventricular region. There is moderate
+ventriculomegaly without significant sulcal prominence. There
+are no chronic blood products seen.
+IMPRESSION: Signal changes bilaterally in the thalami without
+evidence of
+restricted diffusion are likely due to subacute changes from
+hypoxic event. Moderate ventriculomegaly is seen. No mass effect
+or signs of herniation seen. Mild mucosal thickening in the
+sinuses.
+
+Shoulder X-ray ([**11-29**]): Single view of the right shoulder shows
+no fracture, dislocation, or subluxation of the shoulder and the
+adjacent ribs are intact.
+
+
+Brief Hospital Course:
+64F with female with DM, htn, and history of idiopathic
+cardiomyopathy presenting on transfer after vfib arrest.
+
+# Ventricular fibrillation cardiac arrest:  The patient received
+4 shocks in the field and was in sinus rhythm at the OSH.  Here
+she remaiend in sinus rhythm without further arrhythmia.  Her
+carvedilol was increased to 25 mg po bid.  After her other
+medical issues improved (as below) she had a dual chamber ICD
+placed on [**11-2**].  She received 1 mg IV vanc and 1 gm cefazolin
+prior to placement and will need to complete three days of
+cefalexin for to prevent infection post placement.  She has a
+follow up appointment scheduled with the device clinic.
+
+# Neurologic function:  The patient suffered a cardiac arrest
+and was initally intubated on transfer.  She was extubated after
+9 days on the ventilator and one failed extubation attempt
+earlier in the hospital stay.  While on the ventilator and after
+extubation she initally has some agitation, but this decreased
+as her mental status cleared and she continued to gain
+neurologic function.  She has been working with PT, OT, and
+speech therapy.  She has been getting 1 mg po haldol at night to
+decrease nighttime agitation, and 0.5 mg po ativan for insomnia
+if she cannot sleep after the haldol.  As she improves, this can
+likely be stopped.  She will follow up with Dr. [**First Name (STitle) **] as an
+outpatient.
+
+# Chronic systolic and diastolic heart failure:  The patient has
+a history of idiopathic cardiomyopathy with an EF of 30%.  Per
+her PCP she has class II heart failure.  She underwent a TTE
+which showed an EF of 30% and  global left ventricular
+cardiomyopathy with moderate diastolic dysfunction with elevated
+filling pressures, mild to moderate mitral regurgitation, and
+mild pulmonary hypertension.  Her losartan was increased to 100
+mg daily.  Her carvediolol was increased to 25 mg po bid.  She
+was continued on her home dose of lasix at 20 mg daily as she
+did not appear to volume overloaded.
+
+# Hypertension: The patient's SBPs were found to be elvated so
+her carvedilol was increased to 25 mg po bid and her losartan
+was increased to 100 mg daily.  She was continued on lasix 20 mg
+daily.  Prior to discharge her SBP ranged from 130's to 150's.
+
+# Anemia:  The patient has known iron deficiency anemia; she had
+recieved one unit of pRBC at OSH.  Her Hct ranged from 24.3 to
+28.8 and she did not receive further tansfusion here as she was
+not having active ischemia.  Her Hct on discharge was 28.2.
+
+# Pneumonia/Pulmonary:  The patient had a leukocytosis on
+admission of 13.0.  She had blood cultures and urine cultures
+which were negative.  Her CXR showed a possible LLL infiltrate.
+A sputum culture from [**11-24**] showed enterobacter cloacae and
+klebsiella oxytoca which was sensitive to ceftriaxone.  While
+the culture and sensitivities were pending she was treated with
+zosyn (she had been started on this at the OSH on [**11-21**]) until
+[**11-28**] when she was switched to ceftriaxone to complete a 10 day
+course of antibiotic therapy for a pneumonia.
+
+The patient suffered a cardiac arrest and was initally intubated
+on transfer.  She was extubated after 9 days on the ventilator
+and one failed extubation attempt earlier in the hospital stay.
+It was thought that her inital failure to tolerate extubation
+was due to a combination of the pneumonia, her mental status,
+and her copious secretions.  She was given a scopolamine patch
+to decrease her secretions and as her pneumonia was treated and
+her mental status improved she was able to tolerate extubation.
+
+# Diabetes:  The patient is on januvia and metformin as an
+outpatient.  During her hospitalization these medications were
+held.  She had qid finger sticks for monitoring of her blood
+glucose and was covered with sliding scale insulin.  By the end
+of her stay she was eating more and her sugars were higher so
+she was restarted on her januvia and metformin at discharge.
+
+
+Medications on Admission:
+MEDICATIONS (home):
+1. Coreg 3.125 [**Hospital1 **]
+2. Cozaar 50mg daily
+3. Lasix 20mg daily
+4. Potassium 10mEq daily
+5. Januvia 50mg daily
+6. Metformin 500mg [**Hospital1 **]
+7. Ibuprofen 800mg PRN
+8. Cosopt 2% both eyes daily
+
+MEDICATIONS (on transfer):
+Lopressor 2.5mg IV q4H
+Insulin gtt
+Nitropaste
+Protonix 40mg IV daily
+Versed gtt
+Unasyn 1.5g Q6H
+Vancomycin 1G [**Hospital1 **]
+Azithromycin 500mg IV daily
+SC heparin
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) inj
+Injection TID (3 times a day).
+2. Metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+3. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Multivitamins     Tablet, Chewable Sig: One (1) Tablet PO
+DAILY (Daily).
+6. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia: Give at least one hour after
+haldol if needed.
+7. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q4H (every 4 hours) as needed for shortness of breath
+or wheezing.
+8. Cosopt 2-0.5 % Drops Sig: One (1) drop  Ophthalmic once a
+day: Place in both eyes.
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+10. Haloperidol 1 mg Tablet Sig: One (1) Tablet PO at bedtime.
+11. Haloperidol 0.5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for agitation.
+12. Benzocaine 20 % Paste Sig: One (1) Appl Mucous membrane QID
+(4 times a day) as needed for skin tear.
+13. Carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+14. Losartan 100 mg Tablet Sig: One (1) Tablet PO once a day.
+15. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) as needed for ICD implant for 10 doses.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 350**] Rehabilitation Hospital - [**Location (un) **]
+
+Discharge Diagnosis:
+Primary -
+Ventricular fibrillation resulting in cardiac arrest
+
+Secondary -
+Dialated idiopathic Chronic systolic heart failure
+Diabetes
+Hypertension
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were tranferred to this hospital after you had a cardiac
+arrythmia which caused you to pass out and have low oxygen
+delivery to your brain.  You were intubated on arrival
+
+Medication changes:
+1.  Your losartan was increased to 100 mg daily.
+2.  Your coreg was increased to 25 mg twice daily.
+3.  While in rehab you will be given subcutaneous heparin
+injections three times daily for deep vein thrombosis
+prophylaxis, but you will not need to take this upon discharge
+from rehab.
+4.  You will be given haldol 1 mg po every night to decrease
+agitation (however this can be stopped as you improve and your
+night time agitation abates).  You can also be given 0.5 to 1 mg
+po haldol as needed for agitation at other times.
+5.  You can be given 0.5 mg ativan po for insomnia as needed.
+6.  You can take 1-2 puffs of albuterol as needed for shortness
+of breath or wheezing.
+7.  You will need to take 10 more doses of cephalexin 500 mg
+every 6 hours for prevention of infection given your recent ICD
+placement.
+
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2 L per day
+
+Call your primary doctor or go to the emergency room if you
+experience fevers, chills, chest pain, shortness of breath,
+dizziness, or activity from your ICD.
+
+Followup Instructions:
+An appointment has been made for you to follow up with
+cardiology:
+Provider:  [**Name10 (NameIs) 127**] CLINIC Phone:[**Telephone/Fax (1) 58**] Date/Time:[**3057-12-11**]
+10:00
+
+An appointment has been made for you to follow up with Dr.
+[**First Name (STitle) **] from neurology:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 14788**], MD Phone:[**Telephone/Fax (1) 1613**]
+Date/Time:[**3058-1-4**] 3:30
+You will need a referral for this appointment; please see you
+primary care doctor prior to this for the referral.  His office
+his located on [**Location (un) 2904**] in [**Location (un) 268**] on the [**Location (un) **] room
+253.
+
+It is important that you keep these appointments.  Please call
+to reschedule if you cannot make them.
+
+
+
+Completed by:[**3057-12-3**]
+
+
+DOC CLASS

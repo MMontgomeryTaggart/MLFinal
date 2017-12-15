@@ -1,0 +1,281 @@
+Chief Complaint: Dyspnea
+   24 Hour Events:
+   [**3-28**]
+   - spoke to nephew, [**Name (NI) 8395**], who stopped by, gave him an update. also
+   spoke to [**Doctor Last Name **] who is cousin and an anesthesiologist, updated him.
+   - put out goal UOP by 4 pm (1.2 L negative) and hypotensive to 80s so
+   decreased lasix gtt down to 5 mg/hr
+   History obtained from Patient, Medical records
+   Allergies:
+   History obtained from Patient, Medical recordsPenicillins
+   Unknown;
+   Nsaids
+   Nausea/Vomiting
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching.;
+   Verapamil
+   Drowsiness/Fati
+   Neurontin (Oral) (Gabapentin)
+   ? peripheral ed
+   Ultram (Oral) (Tramadol Hcl)
+   Nausea/Vomiting
+   Mysoline (Oral) (Primidone)
+   falls;
+   [**Doctor First Name **] (Oral) (Fexofenadine Hcl)
+   Confusion/Delir
+   Codeine
+   Unknown;
+   Darvon (Oral) (Propoxyphene Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Dopamine - 3 mcg/Kg/min
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3002-3-29**] 07:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**03**] AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.3
+C (99.2
+   HR: 70 (58 - 74) bpm
+   BP: 85/26(42) {80/26(40) - 111/37(53)} mmHg
+   RR: 13 (10 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 66.2 kg (admission): 67.4 kg
+   Height: 62 Inch
+             Total In:
+                                                                  1,024 mL
+                                                                    155 mL
+   PO:
+                                                                    420 mL
+             TF:
+   IVF:
+                                                                    604 mL
+                                                                    155 mL
+   Blood products:
+   Total out:
+                                                                  2,950 mL
+                                                                    990 mL
+   Urine:
+                                                                  2,950 mL
+                                                                    990 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,926 mL
+                                                                   -835 mL
+   Respiratory support
+   SpO2: 98%
+   ABG: ///34/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   293 K/uL
+   8.8 g/dL
+   119 mg/dL
+   2.0 mg/dL
+   34 mEq/L
+   3.6 mEq/L
+   43 mg/dL
+   99 mEq/L
+   140 mEq/L
+   27.5 %
+   5.9 K/uL
+        [image002.jpg]
+                             [**3002-3-25**]  03:22 AM
+                             [**3002-3-25**]  03:47 PM
+                             [**3002-3-26**]  03:11 AM
+                             [**3002-3-26**]  03:00 PM
+                             [**3002-3-27**]  06:14 AM
+                             [**3002-3-27**]  02:15 PM
+                             [**3002-3-28**]  05:21 AM
+                             [**3002-3-28**]  03:09 PM
+   WBC
+   10.6
+   8.5
+   6.3
+   5.9
+   Hct
+   23.6
+   25.8
+   26.4
+   27.4
+   27.5
+   Plt
+   370
+   328
+   272
+   293
+   Cr
+   2.0
+   2.2
+   2.2
+   2.2
+   2.1
+   2.0
+   2.2
+   2.0
+   TropT
+   0.17
+   Glucose
+   157
+   116
+   101
+   128
+   113
+   129
+   106
+   119
+   Other labs: PT / PTT / INR:19.9/65.9/1.8, CK / CKMB /
+   Troponin-T:47//0.17, Albumin:3.3 g/dL, Ca++:8.7 mg/dL, Mg++:2.0 mg/dL,
+   PO4:4.5 mg/dL
+   Imaging: No new
+   Microbiology: No new
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ FUNGAL INFECTION, OTHER
+   Perianal skin
+ .H/O CONSTIPATION (OBSTIPATION, FOS)
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+   Assessment and Plan
+   This 81-year-old woman was experiencing symptoms of worsened forward
+   flow in the context of volume overload. Her heart failure is largely
+   secondary to mitral regurgitation, worsened since her MVR in the mid
+   [**2981**]. Diuresis is key
+ with euvolemia her MR will likely improve,
+   resulting in improved end-organ perfusion and likely enable her to go
+   home with better urine output with oral diuretics.
+   Heart Failure
+   Mitral regurgitation and left ventricular ejection fraction of
+   30%.Decompensated at present.  Previously no output to milrinone, lasix
+   and phenylephrine. Stopped milrenone and added dopamine to lasix and
+   phenylephrine and had good UOP to this (LOS 4L).  Pt is still volume
+   overloaded with peripheral edema, but JVP no longer elevated. BP has
+   been on the low side, limiting amount of diuresis possible.
+   - decrease rate of lasix gtt for gentler diuresis (goal 1-1.5 L
+   negative)
+   - Continue dopamine at 1-3 mcg/kg/min
+   - Continue to hold ACEI
+   - Continue beta-blocker and amiodarone given arhythmogenic dopamine
+   - strict I/O and daily weights
+   - Low sodium diet, fluid restrict
+   - goal is to get her to be able to get from bed to chair so she can go
+   to home with hospice
+   Tachy-Arrhythmia
+    Responded to metoprolol and on amiodarone, without SVT since
+   amiodarone started.
+   - Monitor on telemetry
+   - Continue PO amiodarone (400 mg [**Hospital1 **] x 2 weeks, 400 mg daily for [**12-19**]
+   weeks, then 200 mg daily). Likely a life-long medication.
+   - Maintain K > 4, Mg > 2
+   Coronary Artery Disease
+   Long history and likely active disease with decreased flow in the
+   setting of hypotension. Had chest pressure in setting of SVT, but
+   currently CP free.
+   - Continue ASA 81
+   Shock/Hypotension/Hypoperfusion
+     Poor forward flow.  Baseline BP also appears low (systolic pressures
+   in 80s at clinic). Diuresis also heavily contributing.
+   - Improve forward flow
+   - Pressors to support 90 - 100 mm Hg if necessary with lasix gtt
+   NSTEMI
+     Elevated troponins, CK-MB, anterior TWI on EKG felt to be in setting
+   of acute illness, tachycardia leading to demand ischemia. Resolving.
+   - continue ASA 81mg PO
+   - off atorvastatin while LFTs abnormal
+   - pain control as needed
+   Subacute Renal Failure
+     Creatinine still elevated above baseline 1.0. Possible prerenal
+   component in setting of dehydration/chronic CHF with intravascular
+   depletion.
+   - Monitor creatinine
+   - renally dose medications; avoid nephrotoxins
+   - Hold ACE-I
+   Hepatitis
+     Resolving. Elevated LFTs likely in setting of shock liver. Now
+   trending down.
+   Abdominal Pain
+     Likely ischemic based on history and physiological substrate.
+   Abdominal pain resolving; colitis likely ischemic. Holding off on abx
+   as do not suspect infectious etiology. R heart failure also likely
+   contributing.
+   - Maintain SBP > 90 mmHg
+   Guaiac positive stools in ED
+     PR trauma versus ischemic colitis.
+   - Follow Hct
+   - repeat stool guiuac
+   Obstructive lung disease/allergic rhinitis
+   - Restart albuterol now stably free of arhythmia
+   - Continue cromolyn spray, advair, ipratropium
+   Anxiety
+     Was ordered for two different PRN benzodiazepines - reduced to
+   lorazepam only (stopped clonazepam PRN). Continue fluoxetine.
+   Heel pain
+     Unclear etiology and now resolved. No diabetes. No skin breakdown on
+   exam.
+   FEN:
+   - No fluids, fluid restricted diet
+   - Replete electrolytes as needed
+   - Low sodium heart healthy diet, PPI.
+   Prophylaxis:
+   -DVT Coumadin
+   -Pain management with morphine PRN
+   -Bowel regimen with colace, senna, Miralax, lactulose (hold for loose
+   stool).
+   Access: 2 peripherals
+   Communication: Patient
+   CODE: DNR/DNI - BUT if in malignant rhythm, okay to shock if she can
+   get midazolam. No breathing tube or chest compressions (see OMR note
+   [**3-17**] by PCP [**Doctor Last Name **] for full discussion).
+     Ms [**Known patient lastname 14235**] has been very clear on multiple occasions that she feels
+   so uncomfortable in recent months she accepts mortality if this happens
+   naturally. She wishes to pass away at home rather than in a hospital or
+   nursing home and to be comfortable at that time. She has had aversion
+   to "hospice care" and even rehab in the past though states she wishes
+   to be comfortable and is tired of being so uncomfortable. She is aware
+   she has severe cardiopulmonary disease. Unfortunately she lives in pain
+   as she has been unable to tolerate multiple pain medications.
+   - is DNR/DNI (compressions/intubation/cardiopulmonary support not
+   appropriate)
+   - palliative care c/s
+   Health care proxy:
+   [**Name (NI) 446**] [**Last Name (NamePattern1) 14074**]
+   Relationship: Sister
+   Phone number: [**Telephone/Fax (1) 14075**]
+   Disposition: CCU for diuresis
+   ICU Care
+   Nutrition: Low sodium
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3002-3-24**] 05:45 PM
+   22 Gauge - [**3002-3-25**] 12:00 AM
+   PICC Line - [**3002-3-26**] 11:24 AM
+   Prophylaxis:
+   DVT: coumadin, hep gtt
+   Stress ulcer: omeprazole
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition: CCU
+
+
+
+DOC CLASS

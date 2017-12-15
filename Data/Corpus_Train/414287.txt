@@ -1,0 +1,198 @@
+CVICU
+   HPI:
+   HD6
+   [**7-23**] POD 263M s/p CABGx5(LIMA-LAD,SVG-RI,SVG-OM1-OM2,SVG-PDA)[**7-21**]
+   EF:60% Cr:1 Wt:82kg HbA1c::5.6
+   PMHX: Prostate Ca, h/o melanoma, abd aneurysm.
+   [**Last Name (un) **]: [**Doctor First Name **], flonase, prozac 2'(liquid), viagra, optivar gtt
+   Plavix [**3292-7-16**]-plavix washout.
+   AAA-will need to see Pompaselli for this post-op.
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Aspirin EC 6. Atorvastatin 7. Calcium Gluconate 10.
+   Dextrose 50% 11. Docusate Sodium 12. Docusate Sodium (Liquid) 13.
+   Fexofenadine 14. Fluticasone Propionate NASAL 15. Fluoxetine 16.
+   Furosemide 18. Insulin 19. Ketorolac 23. Metoprolol Tartrate 24.
+   Metoclopramide 25. Milk of Magnesia 26. Morphine Sulfate 27.
+   Nitroglycerin 28. Oxycodone-Acetaminophen 32. Ranitidine Flush 35.
+   Vancomycin
+   24 Hour Events:
+ PA CATHETER - START [**3292-7-21**] 12:45 PM
+ OR RECEIVED - At [**3292-7-21**] 12:45 PM
+ CORDIS/INTRODUCER - START [**3292-7-21**] 12:45 PM
+ INVASIVE VENTILATION - START [**3292-7-21**] 12:47 PM
+ ARTERIAL LINE - START [**3292-7-21**] 01:00 PM
+ NASAL SWAB - At [**3292-7-21**] 01:15 PM
+ EKG - At [**3292-7-21**] 02:32 PM
+ EXTUBATION - At [**3292-7-21**] 08:35 PM
+ INVASIVE VENTILATION - STOP [**3292-7-21**] 08:35 PM
+ FEVER - 101.1
+C - [**3292-7-21**] 08:00 PM
+   Post operative day:
+   POD#1 - CABG x's 5 LIMA->LAD, SVG->PDA, SVG->OM1->OM2, SVG->ramus.
+   CPBT 107", XCT 95", CHB coming off pump out A paced w/underlying rhythm
+   NSR rate 70's. 4 L crystaloids. EZ intubation.  Out on neo and
+   propofol.
+   Allergies:
+   Last dose of Antibiotics:
+   Vancomycin - [**3292-7-22**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Meperidine (Demerol) - [**3292-7-21**] 04:05 PM
+   Insulin - Regular - [**3292-7-21**] 10:15 PM
+   Morphine Sulfate - [**3292-7-22**] 02:28 AM
+   Furosemide (Lasix) - [**3292-7-22**] 12:39 PM
+   Other medications:
+   Flowsheet Data as of  [**3292-7-22**] 03:03 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**95**] a.m.
+   Tmax: 38.4
+C (101.1
+   T current: 37.6
+C (99.7
+   HR: 89 (63 - 97) bpm
+   BP: 129/75(86) {89/57(65) - 129/85(96)} mmHg
+   RR: 16 (10 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.7 kg (admission): 71 kg
+   Height: 68 Inch
+   CVP: 15 (6 - 17) mmHg
+   PAP: (25 mmHg) / (16 mmHg)
+   CO/CI (Thermodilution): (5.08 L/min) / (2.8 L/min/m2)
+   SVR: 882 dynes*sec/cm5
+   SV: 54 mL
+   SVI: 29 mL/m2
+   Total In:
+                                                                  9,833 mL
+                                                                    652 mL
+   PO:
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  9,333 mL
+                                                                    532 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  6,735 mL
+                                                                  1,800 mL
+   Urine:
+                                                                  4,975 mL
+                                                                  1,610 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,098 mL
+                                                                 -1,148 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 571 (369 - 571) mL
+   PS : 5 cmH2O
+   RR (Set): 8
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   SPO2: 96%
+   ABG: 7.36/46/92.[**Numeric Identifier 476**]/25/0
+   Ve: 8.6 L/min
+   PaO2 / FiO2: 232
+   Physical Examination
+   Labs / Radiology
+   214 K/uL
+   10.8 g/dL
+   87
+   0.8 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   10 mg/dL
+   108 mEq/L
+   138 mEq/L
+   30.8 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**3292-7-21**]  01:09 PM
+                             [**3292-7-21**]  01:20 PM
+                             [**3292-7-21**]  05:04 PM
+                             [**3292-7-21**]  06:46 PM
+                             [**3292-7-21**]  08:04 PM
+                             [**3292-7-22**]  01:00 AM
+                             [**3292-7-22**]  01:58 AM
+                             [**3292-7-22**]  02:18 AM
+                             [**3292-7-22**]  03:00 AM
+                             [**3292-7-22**]  04:00 AM
+   WBC
+   10.8
+   9.9
+   Hct
+   33.5
+   33.5
+   30.8
+   Plt
+   173
+   214
+   Creatinine
+   0.8
+   0.8
+   TCO2
+   28
+   25
+   27
+   Glucose
+   105
+   102
+   115
+   97
+   97
+   87
+   Other labs: PT / PTT / INR:13.5/35.9/1.2, Differential-Neuts:79.4 %,
+   Lymph:15.5 %, Mono:2.9 %, Eos:2.1 %, Fibrinogen:374 mg/dL, Lactic
+   Acid:3.0 mmol/L, Mg:2.0 mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   Neurologic: Percocet and toradol PRN.
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: OOB / IS and wean FiO2.
+   Gastrointestinal / Abdomen: standard bowel regimen; NGT for gastric
+   distension.
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO, Start lasix [**Hospital1 **]
+   Hematology: Mild anemia post-op
+   Endocrine: RISS
+   Infectious Disease: Check cultures, Vanco periop
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, D/C chest tubes today.
+   Wounds: Dry dressings
+   Imaging: CXR today, After CT removal.
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3292-7-21**] 12:45 PM
+   20 Gauge - [**3292-7-22**] 07:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 31 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

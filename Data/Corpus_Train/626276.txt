@@ -1,0 +1,221 @@
+CVICU
+   HPI:
+   [**7-13**] POD 1
+   68yoM s/p CABG x4 LIMA-LAD, SVG-Diag-SVG-OM(Y graft) SVG-PLB [**7-12**]
+   PMHx:
+   EF 40%  Cr 4.9  Wt 69.9K   HgbA1c 5.6
+   PMH: ESRD/HD(T-Th-Sat), CVA'[**59**] no deficits, s/p CEA, COPD, s/p MIx2,
+   Anxiety, PUD, s/p iatrogenic cardiac arrest [**3-/2760**], +Tob, Etoh
+   abuse(no EtOH x10yr),  benzo abuse,
+   [**Last Name (un) **]: sertraline 25',  spiriva, albuterol PRN, ASA 325', colace 100',
+   folate 1', simvastatin 80', lorazepam 1.5"', lopressor 12.5"',  zantac
+   150", senna qd, seroquel 25/q6-prn
+   Current medications:
+   Acetaminophen, Albuterol 0.083% Neb Soln, Albuterol Inhaler, Aspirin,
+   Atorvastatin, Docusate Sodium, FoLIC Acid, Insulin, Ipratropium Bromide
+   MDI, Metoclopramide, Pantoprazole, Sertraline, Vancomycin
+   24 Hour Events:
+   Received from OR
+   Required neo for blood pressure management
+   Propofol stopped around 2300 [**7-12**] no narcotics given
+   Nonresponsive
+ OR RECEIVED - At [**2760-7-12**] 06:37 PM
+ INVASIVE VENTILATION - START [**2760-7-12**] 06:38 PM
+ NASAL SWAB - At [**2760-7-12**] 06:54 PM
+ ARTERIAL LINE - START [**2760-7-12**] 08:07 PM
+ CCO PAC - START [**2760-7-12**] 08:08 PM
+ EKG - At [**2760-7-12**] 09:18 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.3 mcg/Kg/min
+   Insulin - Regular - 1 units/hour
+   Other ICU medications:
+   Insulin - Regular - [**2760-7-13**] 12:02 AM
+   Dextrose 50% - [**2760-7-13**] 12:02 AM
+   Flowsheet Data as of  [**2760-7-13**] 07:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**63**] a.m.
+   HR: 91 (72 - 91) bpm
+   BP: 107/53(72) {87/45(60) - 139/61(90)} mmHg
+   RR: 19 (9 - 20) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+   CVP: 9 (3 - 11) mmHg
+   PAP: (32 mmHg) / (15 mmHg)
+   CO/CI (Fick): (7.3 L/min) / (4 L/min/m2)
+   CO/CI (CCO): (5.7 L/min) / (3.3 L/min/m2)
+   SvO2: 75%
+   Mixed Venous O2% sat: 84 - 84
+   Total In:
+                                                                  2,897 mL
+                                                                    139 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,897 mL
+                                                                    114 mL
+   Blood products:
+   Total out:
+                                                                    643 mL
+                                                                    286 mL
+   Urine:
+                                                                    120 mL
+                                                                     96 mL
+   NG:
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,254 mL
+                                                                   -147 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 404 (404 - 550) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 57
+   PIP: 18 cmH2O
+   Plateau: 14 cmH2O
+   Compliance: 61.1 cmH2O/mL
+   SPO2: 98%
+   ABG: 7.35/40/140/23/-3
+   Ve: 9.6 L/min
+   PaO2 / FiO2: 350
+   Physical Examination
+   General Appearance: Intubated, nonresponsive, opens eyes spontaneously,
+   no cough/gag
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Temperature: Cool), (Pulse - Dorsalis pedis:
+   Doppler);
+   Right Extremities: (Temperature: Cool), (Pulse - Dorsalis pedis:
+   Doppler)
+   Skin: (Incision: Clean / Dry / Intact), Left EVH ace wrap
+   Neuro: Opens eyes spontaneously, does not blink to threat, no
+   cough/gag, no withdrawal to pain, moves feet when stimulated but not
+   clearly purposeful
+   Labs / Radiology
+   199 K/uL
+   10.2 g/dL
+   117 mg/dL
+   3.5 mg/dL
+   23 mEq/L
+   5.4 mEq/L
+   26 mg/dL
+   109 mEq/L
+   138 mEq/L
+   30.3 %
+   22.3 K/uL
+                             [**2760-7-12**]  05:06 PM
+                             [**2760-7-12**]  05:45 PM
+                             [**2760-7-12**]  06:44 PM
+                             [**2760-7-12**]  07:08 PM
+                             [**2760-7-12**]  11:18 PM
+                             [**2760-7-12**]  11:32 PM
+                             [**2760-7-13**]  12:59 AM
+                             [**2760-7-13**]  02:56 AM
+                             [**2760-7-13**]  03:00 AM
+                             [**2760-7-13**]  06:07 AM
+   WBC
+   16.4
+   24.0
+   22.3
+   Hct
+   29
+   26.9
+   30.0
+   29.2
+   30.3
+   Plt
+   169
+   192
+   199
+   Creatinine
+   3.1
+   3.5
+   TCO2
+   28
+   28
+   23
+   23
+   Glucose
+   151
+   119
+   74
+   129
+   158
+   112
+   136
+   117
+   Other labs: PT / PTT / INR:13.5/35.3/1.2, Differential-Neuts:84.0 %,
+   Lymph:12.0 %, Mono:1.6 %, Eos:2.0 %, Fibrinogen:303 mg/dL, Lactic
+   Acid:2.5 mmol/L
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), .H/O PSYCHIATRIC DISEASE, OTHER
+   (INCLUDING SCHIZOPHRENIA, PERSONALITY DISORDERS), .H/O RENAL FAILURE,
+   ACUTE (ACUTE RENAL FAILURE, ARF)
+   Assessment and Plan: 68yoM s/p CABG x4 LIMA-LAD, SVG-Diag-SVG-OM(Y
+   graft) SVG-PLB [**7-12**], now POD 1
+   Neurologic:Propofol off since 2300, never received pain meds
+   post-operatively in ICU), in setting of renal failure. Will obtain stat
+   head CT r/o ICH, Neuro checks Q: 1 hr. HD today. No sedation going
+   forward to allow for serial exams. Will recheck TOF to ensure no
+   ongoing paralytic effect. Obtain EEG to evaluate for non-convulsive
+   status. Neuro consult.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, NTG for elevated BP
+   with goal SBP < 130
+   Pulmonary: Cont ETT, Spontaneous breathing trial, (Ventilator mode:
+   CPAP + PS), When mental status improved, consider SBT and extubation.
+   Inhalers.
+   Gastrointestinal / Abdomen: NPO. Bowel regimen.
+   Nutrition: NPO
+   Renal: Foley, HD, Will need HD today.
+   Hematology: Stable anemia.
+   Endocrine: Insulin drip, goal BG < 150
+   Infectious Disease: Afebrile, with leukocytosis s/p surgery. Received
+   peri-operative Vancomycin. No evidence of infection
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: PT, renal, neurology
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:  Regular insulin sliding scale, Insulin infusion,
+   Lantus (R) protocol
+   Lines:
+   Arterial Line - [**2760-7-12**] 08:07 PM
+   CCO PAC - [**2760-7-12**] 08:08 PM
+   20 Gauge - [**2760-7-12**] 08:09 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 788**].  Concerned with new stroke as
+   patient is not waking appropriately in the setting of his extensive
+   aortic atherosclerosis.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**2760-7-13**] 16:18 ------
+
+
+
+DOC CLASS

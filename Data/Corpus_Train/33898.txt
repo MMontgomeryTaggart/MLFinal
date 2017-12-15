@@ -1,0 +1,229 @@
+Admission Date:  [**3022-8-17**]              Discharge Date:   [**3022-8-20**]
+
+Date of Birth:  [**2995-10-10**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 15311**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Placement of femoral central line
+
+History of Present Illness:
+26 year old female past medical history significant for type 1
+DM, bulimia who presented to [**Hospital1 22**] with a complaint of shortness
+of breath. The patient states that she starting feeling short of
+breath 3 days ago without cp or pleuritic cp. She also endorsed
+a non-productive cough while she has felt short of breath.
+
+She has been feeling unwell with over past week.  It started
+with nausea, then progressed to vague abdominal pain, increasing
+fatigue, overwhelming weakness, chills, and vomiting in ED.
+
+In ED patient was noted to be tachycardic to 122, afebrile, 100%
+RA, BG 300s. Urine was positive for ketones and patient had
+anion gap of 23 with bicarb <5. Patient was started on an
+insulin drip. A central line was placed in right groin under
+sterile conditions for fluid resuscitation. Patient received 3.5
+L of fluids.
+
+Review of systems: (+) palpitations, (+) heartburn, (+) fatigue,
+(+) abdominal pain.  Patent denies HA, vision changes, rashes,
+increased urinary urgency/frequency, dysuria, leg swelling, easy
+bruising, fevers, nightsweats, chest pain, pleuritic chest pain.
+
+
+
+Past Medical History:
+Type 1 DM, dx [**3019**]
+Bulimia
+h/o mononucleosis [**3-19**]
+
+
+Social History:
+Occupation: just graduated phD sociology
+Drugs: denies
+Tobacco: denies
+Alcohol: social
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Gen: Tired appearing, A&Ox3.
+CV: tachycardic, Regular rhythm.  No M/R/G
+P: CTAB.  No W/R/R
+Abd: Firm with mild diffuse tenderness and nodularity.
+Ext: WWP, 2+ pulses
+Neuro: 1+ patellar reflexes.
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**3022-8-16**] 09:20PM   GLUCOSE-374* UREA N-12 CREAT-0.9 SODIUM-136
+POTASSIUM-4.2 CHLORIDE-108 TOTAL CO2-LESS THAN 5
+[**3022-8-16**] 09:20PM   ALT(SGPT)-16 AST(SGOT)-27 ALK PHOS-124*
+AMYLASE-68 TOT BILI-0.3  LIPASE-41  ALBUMIN-4.3 CALCIUM-7.6*
+PHOSPHATE-2.6* MAGNESIUM-2.2
+.
+[**3022-8-16**] 09:20PM   WBC-13.3*# RBC-4.68 HGB-14.1 HCT-39.6 MCV-85
+MCH-30.1 MCHC-35.5* RDW-15.5, PLT COUNT-284
+NEUTS-81.4* LYMPHS-14.2* MONOS-4.1 EOS-0.1 BASOS-0.3
+.
+[**3022-8-16**] 09:20PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-TR
+GLUCOSE-1000 KETONE-150 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG  RBC-0-2 WBC-0-2 BACTERIA-FEW YEAST-NONE EPI-0
+.
+[**3022-8-17**] 04:54AM BLOOD %HbA1c-14.9*
+
+Brief Hospital Course:
+26 y/o with past medical history significant for type 1 diabetes
+mellitus presents to [**Hospital1 22**] with severe DKA, with bicarb level
+less than assay.  The patient was admitted to the ICU.
+
+# DKA:  A femoral line was placed in the ED where she was given
+IVF and an insulin drip.  In the MICU, the IVF and the gtt were
+continued, titrating the insulin gtt to BG <150, once BG <200,
+started D5 drip.  Upon arrival, pt felt short of breath (her
+presenting complaint), but this was most likely [**1-12**] profound
+metabolic acidosis.  As her acidemia corrected, her breathing
+normalized.  Her anion gap continued to close during her stay in
+the MICU.  On [**8-18**], started long acting glargine as well as
+sliding scale and was able to turn off drip. Once off the gtt,
+she was stable for the floor, however, she continued to require
+very active repletion of her lytes- K, mag, and phos.
+.
+No evidence of infection as a precipitating factor.  Although pt
+had a small leukocytosis, blood and urine cultures were
+unrevealing.  CXR was wnl.  The elev WBC may be secondary to a
+stress response.  Urine HCG was negative.  Urine HCG was
+negative.
+.
+# Bulemia - This episode of DKA was most likely related to the
+patient regularly skipping doses of her short acting insulin.
+The patient says she only consistently takes her long acting
+insulin; she almost never takes her short acting insulin. The
+patient's diabetes is complicated by bulemia.  The patient
+admits to skipping her insulin doses in order to loose weight.
+The patient's diabetes is very poorly controlled.  Her HbA1c is
+14.9 on this admission.  She has an endocrinologist and a
+therapist that she sees regularly for her "diabulemia."
+However, she is moving to [**State 1155**] this month.  We have
+arranged for follow up with an endocrinologist in the area 1
+week after discharge.  The patient has information on counseling
+services in the area, and used to see a therapist that she liked
+in the area.  She is commited to taking her insulin as directed
+in the short term.  She admitts that she often has difficulty
+staying commited to this over the long term, but that therapy
+has been very helpful and she has made progress.
+
+# Constipation/Gastroporesis: patient with evidence of
+significant constipation with enlarged stomach.  Unclear is this
+is an acute or chronic process, such as gastroparesis.  Started
+a bowel regimen and pt had a BM on day 2.  Also, had standing
+reglan.  Pt tolerated a regular diet.
+
+
+
+
+
+
+
+
+Medications on Admission:
+Levimir 25 units am
+Novalog [**2-13**] units prn
+
+
+Discharge Medications:
+1. Levemir Flexpen 100 unit/mL Insulin Pen Sig: Thirty (30)
+units SC Subcutaneous once a day.
+Disp:*30 pre-filled syringes* Refills:*1*
+2. Novolog Flexpen 100 unit/mL Insulin Pen Sig: 2-4 units
+Subcutaneous four times a day: as per sliding scale.
+Disp:*QS 1 month QS 1 month* Refills:*1*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Diabetic Ketoacidosis.
+Diabetes Mellitus Type I, poorly controlled.
+Bulemia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+You were admitting with shortness of breath, nausea, vomiting
+and fatigue and were found to have diabetic ketoacidosis.  You
+stated that you were not taking your short acting insulin
+regularly, but that you were taking you long acting insulin.
+You state that the major barrier to your medication compliance
+is your eating disorder.  You admit to skipping doses of the
+short acting insulin to loose weight.  You are aware of the need
+to continue therapy for your eating disorder and of the
+complications of not taking your insulin regularly.   You had no
+evidence of infection.  No other precipitating factors were
+indentified.  You were treated in the ICU where your blood
+sugars normalized and your acidosis resolved.  We recommend that
+you check your blood sugars and take your long and short acting
+insulin as directed.
+.
+We recommend that you take 30 units of levemir at breakfast and
+novolog 2-14 units 4 times a day as needed according to the
+attached insulin sliding scale. Please check and record your
+blood sugars 4 times a day.  This information will be important
+for your new endocrinologist.  Please check for ketones in your
+urine on a daily basis.  You can get ketone testing strips over
+the counter at any pharmacy.  If your ketones are moderate to
+high, you will need to go to the emergency room.
+.
+While you were here in the hospital your potassium was somewhat
+low.  We recommend that eat a diet high in potassium as was
+discussed with you.
+.
+You should contact your doctor or go to the emergency room if
+you have any of the following symptoms: difficulty breathing,
+increased thirst, increased frequency of urination, nausea,
+vomiting, abdominal pain, chest pain, racing heart, consistently
+high blood sugars >400, moderate to high ketones in your urine,
+fatigue, weakness or other concerning symptoms.
+
+Followup Instructions:
+We have made the following appointment for you to follow up with
+an endocrinologist in [**State 1155**]:
+
+Date: Tuesday, [**3022-8-27**]
+Time: 12:45 pm
+Provider: [**Last Name (NamePattern4) 21**]. [**Last Name (STitle) 27382**]
+[**Street Address(2) 27383**]
+[**Location 27384**], [**Numeric Identifier 27385**]
+Phone: [**Telephone/Fax (1) 27386**]
+Fax: [**Telephone/Fax (1) 27387**]
+
+You will need to contact your insurance company with with the
+following Tax ID number ([**Numeric Identifier 27388**]) to make sure they will cover
+the appointment.
+
+We recommend that you follow up with a therapist re: your
+bulemia as soon as possible.  You have been given information
+with resources in both [**State 1147**] and [**State 1155**] area.  You
+indicated you intention to enroll in the Food Addicts in
+Recovery Program and we recommend that you do so.
+
+
+
+Completed by:[**3022-8-27**]
+
+
+DOC CLASS

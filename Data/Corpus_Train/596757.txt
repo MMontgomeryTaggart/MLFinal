@@ -1,0 +1,213 @@
+Chief Complaint: ventricular tachycardia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   24 Hour Events:
+ EKG - At [**2595-4-30**] 10:00 AM
+ EKG - At [**2595-4-30**] 04:26 PM
+   Off Pressors, did have episode of hypoglycemia with 1 amp D 50.  + UA
+   but improved compared to prior.  + Nitrites.  Transplant and ID did not
+   recommend treating until culutures return.    Some morphine for chest
+   pain but resolved.  Restarted tube feeds but did not tolerate had
+   another episode of emisis.  Getting repeat CT scan.
+   Allergies:
+   Penicillins
+   Unknown;
+   Aspirin
+   Unknown;
+   Ibuprofen
+   Unknown;
+   Ciprofloxacin
+   Tosades ;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Dextrose 50% - [**2595-4-30**] 06:00 PM
+   Heparin Sodium (Prophylaxis) - [**2595-4-30**] 08:20 PM
+   Other medications:
+   hep Sq
+   colace
+   protonix
+   bactrim
+   pregabalin
+   sirolimus
+   RISS
+   Changes to medical and family history: No changes
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: Nausea resolved mild LLQ with diarrhea
+   Flowsheet Data as of  [**2595-5-1**] 08:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.7
+C (98.1
+   HR: 76 (63 - 94) bpm
+   BP: 107/65(75) {80/47(56) - 120/80(85)} mmHg
+   RR: 21 (13 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                  1,240 mL
+                                                                    698 mL
+   PO:
+                                                                     60 mL
+             TF:
+                                                                    647 mL
+                                                                    210 mL
+   IVF:
+                                                                    381 mL
+                                                                    488 mL
+   Blood products:
+   Total out:
+                                                                  2,845 mL
+                                                                    710 mL
+   Urine:
+                                                                  2,445 mL
+                                                                    710 mL
+   NG:
+                                                                    400 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,605 mL
+                                                                    -12 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ///22/
+   Physical Examination
+    General Appearance: Thin
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear :
+   ant)
+   Abdominal: Soft, mild tenderness LLQ, Bowel sounds present
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Cool
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   9.4 g/dL
+   105 K/uL
+   96 mg/dL
+   2.2 mg/dL
+   22 mEq/L
+   4.3 mEq/L
+   24 mg/dL
+   106 mEq/L
+   137 mEq/L
+   28.6 %
+   4.5 K/uL
+        [image002.jpg]
+                             [**2595-4-25**]  02:50 PM
+                             [**2595-4-26**]  03:42 AM
+                             [**2595-4-26**]  04:56 PM
+                             [**2595-4-27**]  03:30 AM
+                             [**2595-4-27**]  03:12 PM
+                             [**2595-4-28**]  04:00 AM
+                             [**2595-4-29**]  05:20 AM
+                             [**2595-4-30**]  03:10 AM
+                             [**2595-4-30**]  05:09 PM
+                             [**2595-5-1**]  03:27 AM
+   WBC
+   6.3
+   4.1
+   3.5
+   3.2
+   4.0
+   4.5
+   Hct
+   30.5
+   31.5
+   29.9
+   31.6
+   28.7
+   28.9
+   28.6
+   Plt
+   144
+   116
+   126
+   107
+   96
+   105
+   Cr
+   3.2
+   3.0
+   2.9
+   2.7
+   2.6
+   2.6
+   2.4
+   2.4
+   2.2
+   2.2
+   TropT
+   0.17
+   Glucose
+   [**Telephone/Fax (3) 8659**]74
+   139
+   164
+   110
+   110
+   106
+   96
+   Other labs: PT / PTT / INR:13.5/39.0/1.2, CK / CKMB /
+   Troponin-T:28//0.17, ALT / AST:[**6-28**], Alk Phos / T Bili:46/0.3,
+   Differential-Neuts:71.2 %, Band:0.0 %, Lymph:17.0 %, Mono:6.4 %,
+   Eos:5.0 %, Lactic Acid:1.8 mmol/L, Albumin:2.8 g/dL, LDH:199 IU/L,
+   Ca++:7.9 mg/dL, Mg++:1.9 mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+ Hypotension
+     -improved pressures today
+     - dopa off
+
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE):
+     - Improvement slowing
+     - seems to be mobilizing fluid, keep even
+     -Would avoid IV contrast
+
+ CARDIAC ARREST:
+     - VT due to long QTc.
+     -QT improved
+  Liver Transplant:
+     -Immune supp per Liver Tx service
+     - Off PO vanc for C.Diff prophylaxis for 3 days.
+  Abdominal pain diarrhea:
+   -CT scan PO contrast with antiemetics.
+   -Send C.Diff
+  Urology:
+   -Held Flomax
+   -Will need to ensure voiding when foley removed.
+
+ Pain:
+   - Switch standing MS Contin to prn oxycodone.
+   Remainder of plan per resident note
+   ICU Care
+   Nutrition:
+   Glycemic Control:  D
+c insulin SS.
+   Lines:
+   PICC Line - [**2595-4-24**] 08:35 PM
+   Prophylaxis:
+   DVT:    Hep SQ
+   Stress ulcer:  Protonix
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : Floor
+   Total time spent:
+
+
+
+DOC CLASS

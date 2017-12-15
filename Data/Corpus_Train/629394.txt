@@ -1,0 +1,248 @@
+Chief Complaint:
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3250-8-2**] 12:20 PM
+ SPUTUM CULTURE - At [**3250-8-2**] 04:10 PM
+ URINE CULTURE - At [**3250-8-2**] 04:10 PM
+ ARTERIAL LINE - START [**3250-8-2**] 05:02 PM
+ MULTI LUMEN - START [**3250-8-2**] 07:03 PM
+   -CIWA stopped
+   -started on vanc, ceftriaxone, and azithro
+   -foley placed
+   -intubated
+   -a-line placed
+   -went up to 10 of PEEP
+   -central line placed (L IJ)
+   -gave a 500 cc bolus of fluid [**2-28**] decreased pressures and decreased UOP
+   (10ml/hr) - pressures resolved and UOP up to 30 cc/hr
+   -Hct trending down - gave 1 unit of blood and ordered hemolysis labs -
+   also will recheck HCT with AM labs
+   -decreased Fi02 to 50%
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3250-8-2**] 02:07 PM
+   Azithromycin - [**3250-8-2**] 02:27 PM
+   Vancomycin - [**3250-8-2**] 09:00 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3250-8-3**] 12:01 AM
+   Midazolam (Versed) - [**3250-8-3**] 02:50 AM
+   Fentanyl - [**3250-8-3**] 02:50 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3250-8-3**] 05:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.5
+C (97.7
+   HR: 104 (82 - 121) bpm
+   BP: 112/63(75) {85/46(57) - 125/78(93)} mmHg
+   RR: 19 (10 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 72 Inch
+    CVP: 11 (7 - 15)mmHg
+   Total In:
+                                                                  2,647 mL
+                                                                    308 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,617 mL
+                                                                     28 mL
+   Blood products:
+                                                                    280 mL
+   Total out:
+                                                                    615 mL
+                                                                    160 mL
+   Urine:
+                                                                    615 mL
+                                                                    160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,032 mL
+                                                                    148 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   PIP: 33 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 61.1 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.33/47/182/23/-1
+   Ve: 10.2 L/min
+   PaO2 / FiO2: 455
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   82 K/uL
+   8.0 g/dL
+   95 mg/dL
+   1.7 mg/dL
+   23 mEq/L
+   4.2 mEq/L
+   47 mg/dL
+   95 mEq/L
+   125 mEq/L
+   23.7 %
+   5.7 K/uL
+        [image002.jpg]
+                             [**3250-8-2**]  03:44 AM
+                             [**3250-8-2**]  11:41 AM
+                             [**3250-8-2**]  03:19 PM
+                             [**3250-8-2**]  05:04 PM
+                             [**3250-8-2**]  06:22 PM
+                             [**3250-8-2**]  06:28 PM
+                             [**3250-8-2**]  09:56 PM
+                             [**3250-8-2**]  10:18 PM
+                             [**3250-8-3**]  04:16 AM
+                             [**3250-8-3**]  04:34 AM
+   WBC
+   12.0
+   7.0
+   6.7
+   5.9
+   5.7
+   Hct
+   28.3
+   23.3
+   23.4
+   21.4
+   23.7
+   Plt
+   95
+   70
+   84
+   78
+   82
+   Cr
+   1.7
+   1.7
+   1.7
+   TropT
+   0.05
+   TCO2
+   22
+   25
+   24
+   25
+   26
+   Glucose
+   164
+   194
+   95
+   Other labs: PT / PTT / INR:17.5/66.6/1.6, CK / CKMB /
+   Troponin-T:216/11/0.05, ALT / AST:15/21, Alk Phos / T Bili:79/0.4,
+   Lactic Acid:1.0 mmol/L, Albumin:2.5 g/dL, LDH:522 IU/L, Ca++:7.9 mg/dL,
+   Mg++:1.9 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   59 yo M with PMH of systolic CHF, hx of transudative pleural effusions,
+   admitted with bradycardia and acute on chronic CHF initially managed
+   with fluid resulting in worsening heart failure transferred to MICU for
+   hypoxia.
+   .
+   # Dyspnea / Hypoxia
+ likely CHF exacerbation and CAP
+   - will continue albuterol and ipratropium
+   - pt was intubated yesterday secondary to worsening respiratory status
+   (now on CMV with PEEP of 10 and FiO2 50%)
+   - UOP was low earlier in the day; picked up when he was given a bolus
+   of fluid for hypotension
+   - for his CAP, the patient is on ceftriaxone, azithromycin and vanco
+   (given hx of MRSA).
+   .
+   # Systolic CHF
+   - unclear etiology (per cards, possibly some component of alcohol
+   cardiomyopathy and possibly some tachy-myopathy)
+   - continue hydralazine and metoprolol; possibly start him on an [**Name (NI) **]
+   - pt
+s nitrate was held
+   .
+   # Alcohol Abuse
+ Reported h/o DTs with seizures. ETOH on admission 205
+   - MVI, thiamine, folate
+   - will re-check B12
+   - Stopped CIWA because pt was snowed
+   - F/u social work recs
+   - Seizure/aspiration precautions
+   # Recurrent left pleural effusion
+ was tapped in [**6-4**] and found to be
+   transudative in nature
+   - CXR today basically unchanged from yesterday
+   - Continue diuresis
+   .
+   # RHYTHM: Atrial fibrillation initially with decreased ventricular
+   response, now HR in 80-90 range.
+   - continue holding dilt, restarted metoprolol
+   - no coumadin per previously expressed pt preference, continue ASA 325
+   daily
+   .
+   # ARF: Attributed to hypovolemia on admission; more likely to poor
+   forward flow in setting of fluid overload; may have been exacerbated by
+   bradycardia. Improving. Continue to monitor.
+   .
+   # Anemia: Normocytic and similar to prior levels. No e/o acute blood
+   loss, patient refused rectal exam in ED.
+   - Trend, if worsens will T&C
+   - Guaiac stools
+   .
+   # Diabetes mellitus type II
+   - ISS with FS QACHS
+   - Hold Metformin
+   .
+   # Chronic Obstructive Pulmonary Disease - Complaining of dyspnea as
+   above, likely multifactorial.
+   - Continue Advair, and Albuterol prn. Ipratrop over Spiriva as inpt
+   .
+   # Hyponatremia / Hypochloremia: Beer potomania? Could also be from poor
+   forward flow in setting of acute on chronic CHF or liver dz;
+   hypovolemic hyponatremia.
+   .
+   # Thrombocytopenia: New thrombocytopenia. [**Month (only) 56**] represent overall poor
+   hepatic function.
+   - Trend, avoid medications that worsen
+   .
+   # Elevated INR: Concerning for worsened hepatic function; also with
+   likely some element of malnutrition.
+   - Trend coagulopathy
+   .
+   # Mediastinal lymphadenopathy/pulmonary nodules - Noted on prior
+   admission, recommended follow-up CT in 3 months.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3250-8-1**] 10:42 PM
+   Arterial Line - [**3250-8-2**] 05:02 PM
+   Multi Lumen - [**3250-8-2**] 07:03 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

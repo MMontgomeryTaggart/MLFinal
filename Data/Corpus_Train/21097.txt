@@ -1,0 +1,117 @@
+Admission Date:  [**2975-8-8**]              Discharge Date:   [**2975-8-11**]
+
+Date of Birth:  [**2919-10-10**]             Sex:   F
+
+Service: [**Doctor First Name **]
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 1320**]
+Chief Complaint:
+Morbid obesity
+
+Major Surgical or Invasive Procedure:
+1. Laparoscopic attempted Roux-en-Y gastric bypass.
+2. Open Roux-en-Y gastric bypass.
+3. Repair of incisional hernia, primary closure.
+
+
+History of Present Illness:
+The patient is a 55-year-old nurse who had been
+evaluated by [**Hospital1 **] Bariatric Program and
+deemed a good candidate for surgical weight loss.  She has a
+weight of 261 pounds and has demonstrated a good
+understanding of the risks, benefits, and alternatives of
+gastric bypass.  She has a hx/o multiple supervised diets.
+
+Past Medical History:
+Past medical history includes hypertension, osteoarthritis, and
+status post cholecystectomy and hysterectomy.
+
+
+Social History:
+She socially drinks and smokes 4-8 per week.
+
+Family History:
+A brother with a [**Name (NI) 3707**] gastric bypass 1-1/2
+years ago and in-law underwent a gastric bypass in North
+[**Doctor First Name 528**].
+
+
+Physical Exam:
+On physical exam, her weight is 261 pounds and a height of 4
+feet
+10 inches. She is awake and alert. Neck is supple. Breathing
+comfortably. Lungs are clear to auscultation. Heart is regular
+with no murmurs. Her abdomen is soft and nontender with no
+rebound. Extremities have full range of motion with some edema,
+but good strength. Skin with no rashes.
+
+
+Pertinent Results:
+[**2975-8-8**] 01:56PM   HCT-40.9
+
+Brief Hospital Course:
+In the OR, Ms [**Known patient lastname 34226**] planned lap GBP was converted to open.
+Post-op she remained intubated and was closely monitored in the
+PACU and T-SICU. Her O2 sats were 92%. She was weaned and
+extubated on POD1 with sats of 94% and transferred to the floor.
+She passed the methylene blue test without problem. [**Name (NI) **] NGT was
+dc'ed. Pain was well-controlled with PCA. On POD2, she was
+started on Stage 1 and later transitioned to Stage II. She was
+transitioned to po pain meds as well without any problems. She
+ambulated well three-times a day post-op. On POD3, she was
+transitioned to Stage III, which she tolerated well. She was
+later deemed stable and suitable for discharge the same day.
+
+Discharge Medications:
+1. Ranitidine HCl 15 mg/mL Syrup Sig: Ten (10) cc PO BID (2
+times a day) as needed for indigestion.
+Disp:*600 cc* Refills:*2*
+2. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: 5-10 MLs
+PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*250 ML(s)* Refills:*0*
+3. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution Sig: [**12-23**]
+teaspoons PO every 4-6 hours as needed for pain.
+Disp:*250 mL* Refills:*0*
+4. Flinstones multivitamins with Iron  Sig: One (1) chewable tab
+PO once a day.
+Disp:*120 chewables* Refills:*2*
+5. Actigall 300 mg Capsule Sig: One (1) Capsule PO twice a day
+for 6 months.
+Disp:*360 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Morbid obesity.
+2. Hypertension.
+3. Osteoarthritis.
+4. Incisional hernia/small.
+
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Please stay on stage 3 diet until follow-up.  Do not
+self-advance diet, drink from a  straw, or chew gum.  No heavy
+lifting (>10lbs) for 6 weeks.  You may shower (no tub bathing or
+swimming for 6 weeks) as long as no drainage from wound sites.
+If there is clear drainage, cover wound and stop showering.
+Please [**Name8 (MD) **] MD for temp >101.5, persistent nausea/vomiting or
+pain, or drainage from wound.  Please crush all pills.
+
+Followup Instructions:
+In 3 weeks at Bariatric clinic.  Please call [**Telephone/Fax (1) 1342**] for
+appointment.
+
+
+
+Completed by:[**2975-8-14**]
+
+
+DOC CLASS

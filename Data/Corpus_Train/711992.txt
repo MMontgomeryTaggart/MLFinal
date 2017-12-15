@@ -1,0 +1,321 @@
+Chief Complaint: CHIEF COMPLAINT:  Dyspnea
+   HISTORY OF PRESENTING ILLNESS:  63 y/o M w/ h/o CHF now transferred for
+   decompensated heart failure and inotropic assisted diuresis.  By report
+   from OSH patient had 15lb weight gain prior to admission with increased
+   dyspnea and non-productive cough.  Outpatient physicians attempted to
+   increase her diuretics but were unable to do successfully mitigate her
+   weight gain.  As such she presented to OSH on [**3094-3-13**].
+   24 Hour Events:
+   [**3015-4-17**]
+   - ERCP stated endoscopic resection not possible due to extent of
+   disease, further more there is a 10% risk of major complications that
+   would necessitate surgery (which she is not a candidate for)
+   - will likely go to LTAC [**4-18**]
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3094-4-18**] 07:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**96**] AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.1
+C (97
+   HR: 103 (80 - 103) bpm
+   BP: 94/64(71) {80/50(58) - 108/75(81)} mmHg
+   RR: 20 (16 - 27) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 68.1 kg (admission): 91.3 kg
+   Height: 58 Inch
+             Total In:
+                                                                  1,021 mL
+                                                                    131 mL
+   PO:
+                                                                    300 mL
+             TF:
+   IVF:
+                                                                    721 mL
+                                                                    131 mL
+   Blood products:
+   Total out:
+                                                                  1,980 mL
+                                                                    340 mL
+   Urine:
+                                                                  1,980 mL
+                                                                    340 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -959 mL
+                                                                   -209 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///32/
+   Physical Examination
+   Gen: Alert, oriented x 2 (new location [**Hospital3 **] and year, was off by
+   one month). Dysarthric.
+   CV: RRR. Normal s1, s2. No M/G/R appreciated, JVP
+ up neck at 30
+   degrees
+   Resp:  CTAB anteriorly; difficulty appreciating BS at the bases.
+   Abd: S/ND; BS present
+   Ext: Pitting edema in all 4 extremities.
+   Neuro: Mental status as above. Dysarthric.  Moving all extremities.
+   Labs / Radiology
+   275 K/uL
+   8.5 g/dL
+   174 mg/dL
+   0.9 mg/dL
+   32 mEq/L
+    3.9 mEq/L
+   19 mg/dL
+   104 mEq/L
+   144 mEq/L
+   29.0 %
+   5.8 K/uL
+         [image002.jpg]
+                             [**3094-4-14**]  01:15 AM
+                             [**3094-4-14**]  03:00 PM
+                             [**3094-4-15**]  04:35 AM
+                             [**3094-4-15**]  03:00 PM
+                             [**3094-4-16**]  02:21 AM
+                             [**3094-4-16**]  12:00 PM
+                             [**3094-4-16**]  07:11 PM
+                             [**3094-4-17**]  06:05 AM
+                             [**3094-4-17**]  04:44 PM
+                             [**3094-4-18**]  05:34 AM
+   WBC
+   6.0
+   8.9
+   7.8
+   7.2
+   5.8
+   Hct
+   27.8
+   26.9
+   28.9
+   26.7
+   27.8
+   27.3
+   29.0
+   Plt
+   259
+   332
+   306
+   317
+   275
+   Cr
+   0.9
+   1.0
+   0.9
+   0.9
+   0.9
+   0.9
+   0.9
+   0.9
+   Glucose
+   96
+   176
+   85
+   107
+   97
+   167
+   85
+   82
+   174
+   Other labs: PT / PTT / INR:14.0/27.4/1.2, CK / CKMB /
+   Troponin-T:29//0.03, ALT / AST:24/54, Alk Phos / T Bili:146/1.0,
+   Amylase / Lipase:70/36, Differential-Neuts:75.6 %, Band:0.0 %,
+   Lymph:12.5 %, Mono:7.4 %, Eos:4.1 %, Lactic Acid:1.4 mmol/L,
+   Albumin:2.2 g/dL, LDH:381 IU/L, Ca++:7.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.1
+   mg/dL
+   Fluid analysis / Other labs: None.
+   Imaging: No new.
+   Microbiology: [**3094-4-2**] 6:00 pm TISSUE      BONE FORM LEFT MAXILLA.
+                               **FINAL REPORT [**3094-4-16**]**
+      GRAM STAIN (Final [**3094-4-2**]):
+         1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+         NO MICROORGANISMS SEEN.
+      TISSUE (Final [**3094-4-6**]):
+         ENTEROCOCCUS SP..    SPARSE GROWTH.
+         [**Female First Name (un) **] ALBICANS.    SPARSE GROWTH.
+                                 SENSITIVITIES: MIC expressed in MCG/ML
+   _________________________________________________________
+                                ENTEROCOCCUS SP.
+                                |
+   AMPICILLIN------------  =>32 R
+   LINEZOLID-------------     2 S
+   PENICILLIN G----------  =>64 R
+   VANCOMYCIN------------  =>32 R
+      FUNGAL CULTURE (Final [**3094-4-16**]):
+         [**Female First Name (un) **] ALBICANS, PRESUMPTIVE IDENTIFICATION.
+            ID PERFORMED ON CORRESPONDING ROUTINE CULTURE.
+      ANAEROBIC CULTURE (Final [**3094-4-6**]):    NO ANAEROBES ISOLATED.
+   ------------------------------------------
+   [**3094-4-2**] 6:22 pm TISSUE      MANDIBULAR BONES.
+                               **FINAL REPORT [**3094-4-9**]**
+      GRAM STAIN (Final [**3094-4-2**]):
+         NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+         1+    (<1 per 1000X FIELD):   BUDDING YEAST.
+         REPORTED BY PHONE TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] ON [**3094-4-2**] @ 10:45 PM.
+      TISSUE (Final [**3094-4-6**]):
+         ENTEROCOCCUS SP..    SPARSE GROWTH.
+            IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE #
+   293-3114G
+            [**3094-4-2**].
+         [**Female First Name (un) **] ALBICANS.    SPARSE GROWTH.
+            IDENTIFICATION PERFORMED ON CULTURE # 293-3114G [**3094-4-2**].
+      ANAEROBIC CULTURE (Final [**3094-4-6**]):    NO ANAEROBES ISOLATED.
+   ECG:
+   EEG
+   ROUTINE SAMPLING: Showed a diffusely slow and disorganized background
+   consisting mostly of mixed theta frequencies. Occasionally, the patient
+   reached a low alpha frequency of around 8 Hz but was poorly sustained.
+   There were no areas of prominent focal slowing and there were no
+   epileptiform features noted.
+   SPIKE DETECTION PROGRAMS: There were no entries in these files.
+   SEIZURE DETECTION PROGRAMS: There were seven entries in these files.
+   These contained chewing artifact and movement artifact but no
+   epileptiform features were noted.
+   PUSHBUTTON ACTIVATIONS: There were no entries in these files.
+   SLEEP: The patient was frequently in and out of stage I and stage II
+   sleep and no additional findings were noted.
+   CARDIAC MONITOR: Showed a generally regular rhythm with occasional wide
+   complex ectopic beats.
+   IMPRESSION: This telemetry captured no pushbutton activations. Routine
+   sampling showed a diffusely slow and disorganized background consisting
+   mostly of mixed theta frequencies. Although the patient did
+   occasionally reach a frequency of 8 Hz, this was rather poorly
+   sustained. There were no areas of prominent focal slowing and there
+   were no epileptiform features noted. Overall, this background is
+   suggestive of a mild to moderate encephalopathy. Amongst the most
+   common causes of encephalopathy are medications, metabolic
+   derangements,
+   anoxia, and infection.
+   INTERPRETED BY: [**Last Name (LF) **],[**First Name3 (LF) 1333**] L.
+   Assessment and Plan
+   63 y/o F w/ decompensated Stage IV CHF admitted for inotropic-assisted
+   diuresis, with ICU course c/b hypercarbic respiratory failure requiring
+   intubation, superimposed sepsis, GI bleeding requiring transfusion,
+   persistent pressor requirement, and newly-diagnosed esophageal
+   adenocarcinoma.
+   .
+   # Fluid overload/Congestive heart failure: Fluid overload likely
+   multifactorial, related to hypoalbuminemia/poor nutrition in addition
+   to heart failure. Diuresing well.
+   - continue lasix gtt, as BP tolerates, with goal -1-1.5 L at least for
+   the day
+   - pt will be transferred to a LTAC that will allow lasix gtt so no need
+   to change to bolus
+   - follow [**Hospital1 7**] lytes
+   .
+# Esophageal Adenocarcinoma / GI Bleeding: Patient has had guaiac positive stool
+ since admission. Has been transfused a total of 9 units so far, last on [**4-6**]. E
+sophageal mass, biopsied [**3094-4-11**], showing adenoCA, T1. After family meeting, pt
+made DNR/DNI. Hem/onc consulted for options to treat and stated that given 50% s
+urvival benefit with treatment at five years and patient
+s poor prognosis from c
+ardiac standpoint, any procedure would pose higher risk than benefit.  ERCP was
+consulted for possibility of endoscopic ablation, but her adenocarcinoma is too
+extensive for endoscopic resection which could pose a 10% risk of complications
+that would require surgical repair, which is not an option in her.
+   - talk with family about lack of chemotherapeutic and endoscopic
+   options for adenocarcinoma and possible need for PEG tube in the future
+   for palliation
+   - follow Hct,  maintain active T+S
+   - holding anticoagulation for now except prophylactic heparin
+   - discussed case with Heme/Onc; they will speak with patient
+s family
+   about her diagnosis
+   - f/u Palliative care recs
+   .
+   # Altered mental status: Mental status continues to improve.
+   Non-contrast CT head [**3094-3-20**] showed possible normal pressure
+   hydrocephalus, although neurology did not feel that this was the case.
+   Consulted neurology on [**4-6**].  LP performed. CSF protein minimally
+   elevated but otherwise unremarkable. Culture and cytology negative. EEG
+   consistent with encephalopathy. No seizure activity. Most likely
+   etiology is toxic/metabolic in the setting of illness and prolonged
+   intubation.
+   - monitor mental status
+   - f/u any neuro recs
+   - minimize sedating meds
+   .
+   # Dysarthria: Likely related to prolonged intubation and recent dental
+   extractions.
+   .
+   # Malnutrition: Malnourished with some improvement with Alb from 1.9 to
+   2.2 with hypoalbuminemia contributing to 3^rd spacing. Has been
+   difficult to feed patient given mental status, has pulled out multiple
+   NGT, now MS improving. So far, trial of taking PO did not result in
+   sufficient intake. This will likely continue to worsen over time with
+   known esophageal adenocarcinoma.
+   -continue ensure
+   - need further goals of care discussions with family including PEG tube
+   placement at some point
+   -f/u palliative care  (appreciate input)
+   .
+   # RHYTHM: Sinus, occasional accelerated narrow complex rhythm w/o
+   p-waves (?junctional), and NSVT. Pt did have VT/?VF one week ago and
+   was shocked out of it by her ICD.
+   - Continue amiodarone 200 mg [**Hospital1 7**] for 2 weeks (starting [**3094-4-18**]), then
+   200 mg Q day
+   - continue telemetry
+   - Replete lytes
+   # Tachycardia: Sinus tach, low grade. Unclear etiology, consider
+   hypovolemia vs CHF.
+   -          Monitor
+   -          Restarted  BB
+   .
+   # S/p Dental Extraction: The patient presented with poor dentition. She
+   underwent extraction of 24 teeth on [**3094-4-2**]. Culture of surgical
+   specimen showing VRE and [**Female First Name (un) **].
+   - routine post-operative mouth care
+   - RTC Tylenol with morphine for breakthrough (morphine may be
+   contributing to pt
+s hypotension and AMS, so will try to avoid)
+   .
+   # MRSA Bacteremia; MRSA/Proteus in sputum: Pt treated with vanc as well
+   as cefepime/flagyl. ID recommended 15 day course of cefepime/flagyl,
+   which is complete. Recommended 21-day course of vanc for MRSA
+   bacteremia, which is also complete.
+   .
+   # CORONARIES:  CTO of proximal LAD.  CE's negative at OSH.
+   - continue aspirin 81mg daily
+   - continue zocor
+   - restart metoprolol 12.5 [**Hospital1 7**]
+   - consider restarting  ACEi (holding for now)
+   .
+   #  Hypothyroidism: TSH elevated; however free T4 WNL.
+   -          continue Synthroid
+   -          .
+   # Anemia: consider Q week Hct at LTAC
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3094-4-16**] 09:06 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

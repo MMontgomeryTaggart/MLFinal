@@ -1,0 +1,203 @@
+CVICU
+   HPI:
+   HD6
+   [**11-8**] POD 1
+   s/p CABG x4 (LIMA>LAD, SVG>PDA, SVG>OM1>OM2) [**11-7**]
+   EF 25 Wt 112 Cr 0.7
+   PMH NIDDM, HTN, Hyperlipidemia, s/p ORIF to her ankle, PNA, CAD, s/p
+   silent MI, osteopenia, vitiligo
+   [**Last Name (un) 500**] lasix 20', metformin 1000", lisinopril 10', caltrate 500", 200 IU
+   Vitamin D", asa 81', atorvastatin 20mg', MVI 1'
+   Current medications:
+   Acetaminophen, Amiodarone, Aspirin EC, Atorvastatin, Docusate Sodium,
+   hYDROmorphone, Ketorolac, Ranitidine,
+   24 Hour Events:
+ OR RECEIVED - At [**2924-11-7**] 12:05 PM
+ INVASIVE VENTILATION - START [**2924-11-7**] 12:05 PM
+INTUBATION - At [**2924-11-7**] 12:10 PM
+ ARTERIAL LINE - START [**2924-11-7**] 12:28 PM
+ CORDIS/INTRODUCER - START [**2924-11-7**] 12:28 PM
+ PA CATHETER - START [**2924-11-7**] 12:29 PM
+ EKG - At [**2924-11-7**] 12:51 PM
+    URINE CULTURE - At [**2924-11-7**] 03:41 PM
+ EXTUBATION - At [**2924-11-7**] 04:47 PM
+   Post operative day:
+   POD#1 - CABG x4
+   24 hour events: postop - awoke, extubated, remained on neo for b/p,
+   pain medications adjusted
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2924-11-7**] 08:14 PM
+   Infusions:
+   Insulin - Regular - 2 units/hour
+   Other ICU medications:
+   Carafate (Sucralfate) - [**2924-11-7**] 02:38 PM
+   Insulin - Regular - [**2924-11-7**] 07:12 PM
+   Other medications:
+   Flowsheet Data as of  [**2924-11-8**] 07:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**28**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 37.5
+C (99.5
+   HR: 80 (77 - 94) bpm
+   BP: 105/58(73) {74/46(56) - 134/73(94)} mmHg
+   RR: 20 (0 - 200) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 121 kg (admission): 110.5 kg
+   Height: 66 Inch
+   CVP: 13 (4 - 19) mmHg
+   PAP: (39 mmHg) / (19 mmHg)
+   CO/CI (Thermodilution): (6.09 L/min) / (2.8 L/min/m2)
+   SVR: -223 dynes*sec/cm5
+   SV: 78 mL
+   SVI: 36 mL/m2
+   Total In:
+                                                                  6,340 mL
+                                                                    462 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,340 mL
+                                                                    462 mL
+   Blood products:
+   Total out:
+                                                                  1,230 mL
+                                                                    895 mL
+   Urine:
+                                                                    820 mL
+                                                                    565 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+                                                                 CT 360 mL
+                                                                 CT 330 mL
+   Balance:
+                                                                  5,110 mL
+                                                                   -433 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (450 - 500) mL
+   Vt (Spontaneous): 560 (560 - 560) mL
+   PS : 8 cmH2O
+   RR (Set): 20
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 13 cmH2O
+   Plateau: 22 cmH2O
+   SPO2: 95%
+   ABG: 7.39/40/81.[**Numeric Identifier **]/24/0
+   Ve: 10.2 L/min
+   PaO2 / FiO2: 162
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: throughout)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   Obese, hypoactive
+   Left Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), left leg
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   290 K/uL
+   9.7 g/dL
+   103 mg/dL
+   0.6 mg/dL
+   24 mEq/L
+   4.2 mEq/L
+   13 mg/dL
+   105 mEq/L
+   137 mEq/L
+   26.4 %
+   14.7 K/uL
+        [image002.jpg]
+                             [**2924-11-7**]  11:13 AM
+                             [**2924-11-7**]  12:25 PM
+                             [**2924-11-7**]  12:37 PM
+                             [**2924-11-7**]  01:15 PM
+                             [**2924-11-7**]  04:35 PM
+                             [**2924-11-7**]  05:51 PM
+                             [**2924-11-7**]  06:09 PM
+                             [**2924-11-8**]  12:27 AM
+                             [**2924-11-8**]  12:38 AM
+                             [**2924-11-8**]  03:36 AM
+   WBC
+   16.9
+   18.8
+   14.7
+   Hct
+   19.1
+   26.4
+   29.0
+   27.0
+   26.4
+   Plt
+   [**Telephone/Fax (3) 1170**]
+   Creatinine
+   0.5
+   0.6
+   TCO2
+   26
+   27
+   24
+   25
+   25
+   Glucose
+   136
+   94
+   94
+   135
+   149
+   94
+   103
+   Other labs: PT / PTT / INR:15.3/34.2/1.3, Fibrinogen:215 mg/dL, Lactic
+   Acid:2.3 mmol/L, Mg:2.2 mg/dL
+   Imaging: [**11-7**] normal post op findings
+   Microbiology: [**11-7**] urine culture pending
+   Assessment and Plan
+   Neurologic: Neuro checks Q: 2 hr, Pain controlled, dilaudid prn
+   Cardiovascular: Aspirin, Statins, Discontinue PA monitor, wean neo for
+   MAP > 60, if weaned off neo - start BB this afternoon
+   Pulmonary: IS, cough and deep breath
+   Nutrition: Clear liquids, Advance diet as tolerated
+   Renal: Foley, Adequate UO
+   Endocrine: Insulin drip
+   Infectious Disease: Check cultures, vanoc - periop
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**2924-11-7**] 12:28 PM
+   Cordis/Introducer - [**2924-11-7**] 12:28 PM
+   PA Catheter - [**2924-11-7**] 12:29 PM
+   16 Gauge - [**2924-11-7**] 12:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,163 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ CORDIS/INTRODUCER - START [**3243-11-14**] 03:00 PM
+   Guiac negative.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 750 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3243-11-15**] 07:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 64 (61 - 72) bpm
+   BP: 149/60(83) {99/44(69) - 165/96(100)} mmHg
+   RR: 21 (14 - 25) insp/min
+   SpO2: 91%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 51.9 kg (admission): 51.9 kg
+             Total In:
+                                                                  2,093 mL
+                                                                     84 mL
+   PO:
+             TF:
+   IVF:
+                                                                     93 mL
+                                                                     84 mL
+   Blood products:
+   Total out:
+                                                                  1,075 mL
+                                                                    825 mL
+   Urine:
+                                                                  1,075 mL
+                                                                    825 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,018 mL
+                                                                   -741 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 91%
+   ABG: ///30/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   171 K/uL
+   11.0 g/dL
+   94 mg/dL
+   0.8 mg/dL
+   30 mEq/L
+   4.0 mEq/L
+   16 mg/dL
+   104 mEq/L
+   140 mEq/L
+   33.1 %
+   5.1 K/uL
+        [image002.jpg]
+                            [**3243-11-15**]  04:11 AM
+   WBC
+   5.1
+   Hct
+   33.1
+   Plt
+   171
+   Cr
+   0.8
+   TropT
+   <0.01
+   Glucose
+   94
+   Other labs: PT / PTT / INR:13.4/93.1/1.1, CK / CKMB /
+   Troponin-T:41//<0.01, Ca++:8.3 mg/dL, Mg++:1.8 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   ASSESSMENT AND PLAN: This is a [**Age over 90 **] year old female with a history of
+   hypertension, diastolic CHF who presents with new onset tachyarrhythmia
+   with long conversion pauses.
+   .
+   # Tachycardia: Unclear if this is a.fib/flutter with abberancy vs.
+   another SVT. Long conversion pauses concerning tachy-brady syndrome.
+   Currently hemodynamically stable. No signs of ischemic cause, likely
+   age related conduction degradation in setting of dCHF. However, stable
+   now in bigeminy.
+   - if becomes fast again and unstable, will float temporary pacer wire
+   to manage pauses/bradycardia
+   - pacer pads in place
+   - rate control with 25mg PO metoprolol TID
+   - will likely need permanent pacemaker
+   - heparin gtt for prophylaxis, will bridge to coumadin after pacemaker
+   .
+   # PUMP: History of very well controlled dCHF on no diuretics. No signs
+   of decompensation at this time.
+   - BB as above
+   - Will hold lisinopril given concern for relative hypotension if heart
+   rhythm destabilizes. If hypertensive, can restart.
+   .
+   # Coronaries: No signs of ischemia currently. CEZ neg. No ischemic
+   changes on EKG.
+   -Con't ASA 81, simvastatin, metoprolol
+   .
+   # HTN:
+   - Hold amlodipine and lisinopril until HR stable
+   - Increase metoprolol as above
+   .
+   # Depression: Continue lexapro
+   .
+   # Osteoarthritis: PRN tylenol, continue calcium carbonate, MVI
+   .
+   # Hyperlipidemia: Continue simvastatin
+   .
+   # Insomnia: Con't PRN alprazolam
+   .
+   FEN: Heart healthy diet
+   .
+   ACCESS: PIV's, R IJ cordis
+   .
+   PROPHYLAXIS:
+   -DVT ppx with Heparin gtt
+   -Pain management with tylenol
+   -Bowel regimen
+   .
+   CODE:  full
+   .
+   COMM: HCP [**Name (NI) 240**] [**Name (NI) 10627**] (daughter)[**Telephone/Fax (1) 10628**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**3243-11-14**] 03:00 PM
+   20 Gauge - [**3243-11-14**] 03:00 PM
+   18 Gauge - [**3243-11-14**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

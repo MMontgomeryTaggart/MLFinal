@@ -1,0 +1,168 @@
+CVICU
+   HPI:
+   HD30
+   [**11-24**] POD 3
+   48M s/p AVR(29mm [**Company 335**] Mosaic Porcine) [**11-21**]
+   EF: 10% Cr.:0.9 Wt.: 72.1 kg
+   PMHx: HTN, ^chol., severe AS, bicuspid AV, s/p IHR, in hosp- prolonged
+   intubation, severe confusion with sitter, transaminitis
+   [**Last Name (un) **]: Lasix 40', Kcl 20', Toprol XL 25'
+   Current medications:
+   Acetaminophen . Aspirin Carvedilol . Docusate Sodium . Furosemide .
+   Insulin . Milk of Magnesia Oxycodone-Acetaminophen Pantoprazole .
+   Potassium Chloride
+   24 Hour Events:
+ CORDIS/INTRODUCER - STOP [**3078-11-23**] 10:07 AM
+   Post operative day:
+   POd 3 AVR
+   Severe cardiomyopathy, on Carvedolol and ACE.  Stable for transfer to
+   stepdown.
+   Diuresing, begin Aldactone for cardiomyopathy.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3078-11-23**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3078-11-23**] 09:15 PM
+   Other medications:
+   Flowsheet Data as of  [**3078-11-24**] 10:17 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**81**] a.m.
+   Tmax: 37.4
+C (99.3
+   T current: 36.9
+C (98.4
+   HR: 68 (67 - 88) bpm
+   BP: 93/62(73) {93/52(67) - 127/90(103)} mmHg
+   RR: 13 (11 - 18) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74.2 kg (admission): 77 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,659 mL
+                                                                    170 mL
+   PO:
+                                                                  1,260 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    399 mL
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  3,490 mL
+                                                                    350 mL
+   Urine:
+                                                                  3,360 mL
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,831 mL
+                                                                   -180 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: 7.44///32/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: No(t) Trace, 2+), (Temperature: Warm), (Pulse
+   - Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Pulse - Dorsalis pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   187 K/uL
+   9.3 g/dL
+   92 mg/dL
+   0.6 mg/dL
+   32 mEq/L
+   4.0 mEq/L
+   15 mg/dL
+   98 mEq/L
+   134 mEq/L
+   26.7 %
+   12.6 K/uL
+        [image002.jpg]
+                            [**3078-11-22**]  03:00 AM
+                            [**3078-11-22**]  04:00 AM
+                            [**3078-11-22**]  05:00 AM
+                            [**3078-11-22**]  06:00 AM
+                            [**3078-11-22**]  12:14 PM
+                            [**3078-11-22**]  12:51 PM
+                            [**3078-11-22**]  09:24 PM
+                            [**3078-11-23**]  03:00 AM
+                            [**3078-11-23**]  03:11 AM
+                            [**3078-11-24**]  03:06 AM
+   WBC
+   12.1
+   12.6
+   Hct
+   29.4
+   27.2
+   26.7
+   Plt
+   133
+   187
+   Creatinine
+   0.7
+   0.6
+   TCO2
+   28
+   31
+   Glucose
+   142
+   108
+   87
+   81
+   111
+   103
+   125
+   92
+   Other labs: PT / PTT / INR:13.3/28.3/1.1, ALT / AST:37/60, Alk-Phos / T
+   bili:90/2.0, Amylase / Lipase:25/13, Differential-Neuts:78.2 %,
+   Lymph:18.9 %, Mono:1.8 %, Eos:0.7 %, Fibrinogen:229 mg/dL, Lactic
+   Acid:1.3 mmol/L, Ca:8.1 mg/dL, Mg:1.7 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   GAIT, IMPAIRED, KNOWLEDGE, IMPAIRED, TRANSFERS, IMPAIRED, .H/O ALCOHOL
+   WITHDRAWAL (INCLUDING DELIRIUM TREMENS, DTS, SEIZURES), VALVE
+   REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Assessment and Plan: Continue ACE/ Carvedolol/Aladactone
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley
+   Endocrine: RISS
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging: CXR tomorrow
+   Consults: P.T.
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3078-11-21**] 01:16 PM
+   20 Gauge - [**3078-11-23**] 06:41 AM
+   Prophylaxis:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

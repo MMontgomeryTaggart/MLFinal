@@ -1,0 +1,190 @@
+Chief Complaint: respiratory distress, septic shock
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   52 yo women with HCV cirrhosis with PNA.  Doing better with improved
+   oxygenation, still on levophed.
+   24 Hour Events:
+ BLOOD CULTURED - At [**2692-1-23**] 10:43 AM
+ EKG - At [**2692-1-24**] 03:00 AM
+   Allergies:
+   Nsaids
+   pud withperf;
+   Aspirin
+   PUD with perf;
+   Influenza Virus Vaccine
+   [**First Name9 (NamePattern2) 8122**] [**Location (un) **];
+   Last dose of Antibiotics:
+   Metronidazole - [**2692-1-24**] 04:00 AM
+   Piperacillin - [**2692-1-24**] 04:00 AM
+   Vancomycin - [**2692-1-24**] 08:15 AM
+   Infusions:
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2692-1-24**] 02:00 AM
+   Heparin Sodium (Prophylaxis) - [**2692-1-24**] 06:00 AM
+   Morphine Sulfate - [**2692-1-24**] 07:00 AM
+   Other medications:
+    azithro
+   vanco po
+   heparin
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2692-1-24**] 10:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.3
+C (95.5
+   HR: 94 (94 - 115) bpm
+   BP: 103/64(79) {87/55(68) - 111/72(87)} mmHg
+   RR: 32 (24 - 51) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   CVP: 12 (5 - 19)mmHg
+   Mixed Venous O2% Sat: 36 - 40
+   Total In:
+                                                                 13,262 mL
+                                                                  1,985 mL
+   PO:
+                                                                    600 mL
+                                                                    280 mL
+   TF:
+   IVF:
+                                                                  9,662 mL
+                                                                  1,675 mL
+   Blood products:
+   Total out:
+                                                                    872 mL
+                                                                    153 mL
+   Urine:
+                                                                    872 mL
+                                                                    153 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 12,390 mL
+                                                                  1,832 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: 7.40/26/65/15/-6
+   Physical Examination
+   General Appearance: mildly distressed
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal), S4
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bibasilar, Bronchial:
+   left base)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: 1+
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): place, Movement: Purposeful, Tone: Not assessed
+   Labs / Radiology
+   8.1 g/dL
+   537 K/uL
+   103 mg/dL
+   0.6 mg/dL
+   15 mEq/L
+   4.4 mEq/L
+   15 mg/dL
+   110 mEq/L
+   134 mEq/L
+   25.7 %
+   36.0 K/uL
+        [image002.jpg]
+                             [**2692-1-23**]  01:22 AM
+                             [**2692-1-23**]  06:15 AM
+                             [**2692-1-23**]  06:30 AM
+                             [**2692-1-23**]  12:24 PM
+                             [**2692-1-23**]  12:51 PM
+                             [**2692-1-23**]  07:42 PM
+                             [**2692-1-23**]  07:55 PM
+                             [**2692-1-24**]  03:13 AM
+                             [**2692-1-24**]  03:30 AM
+   WBC
+   60.5
+   67.4
+   66.9
+   53.9
+   36.0
+   Hct
+   29.1
+   28.8
+   26.9
+   26.1
+   25.7
+   Plt
+   560
+   582
+   530
+   523
+   537
+   Cr
+   0.6
+   0.6
+   0.5
+   0.5
+   0.6
+   TropT
+   <0.01
+   <0.01
+   TCO2
+   20
+   18
+   18
+   17
+   Glucose
+   75
+   98
+   107
+   114
+   103
+   Other labs: PT / PTT / INR:19.1/43.5/1.8, CK / CKMB /
+   Troponin-T:16/2/<0.01, ALT / AST:23/33, Alk Phos / T Bili:165/1.4,
+   Differential-Neuts:94.8 %, Band:2.0 %, Lymph:4.1 %, Mono:0.8 %, Eos:0.4
+   %, Lactic Acid:2.5 mmol/L, Albumin:1.9 g/dL, LDH:294 IU/L, Ca++:7.7
+   mg/dL, Mg++:2.2 mg/dL, PO4:3.3 mg/dL
+   Microbiology: C. diff: no stools yet.
+   Assessment and Plan
+   Pneumonia:  Continue current antibiotics - vanco/zosyn/azithro.
+   Septic shock:   Underlying severe pulmonary hypertension with sepsis.
+   Still on levophed, will continue without changes for now.
+   Anemia:  Can transfuse 1 unit to improve oxygen delivery.
+   Respiratory distress:  improved today.
+   ICU Care
+   Nutrition:
+   Comments: po nutrition
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2692-1-23**] 02:10 AM
+   Arterial Line - [**2692-1-23**] 05:55 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

@@ -1,0 +1,216 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Allergies:
+   Penicillins
+   Hives;
+   Clindamycin
+   Hives;
+   Celery
+   Hives;
+   Bee Sting Kit
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3089-2-26**] 10:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36
+C (96.8
+   HR: 85 (79 - 90) bpm
+   BP: 110/67(73) {82/56(62) - 145/89(97)} mmHg
+   RR: 19 (14 - 29) insp/min
+   SpO2: 88%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 61 Inch
+                  Total In:
+                                                                    100 mL
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    330 mL
+                                                                    300 mL
+   Urine:
+                                                                    330 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -230 mL
+                                                                   -300 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   SpO2: 88%
+   ABG: ///37/
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Diminished: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   11.5 g/dL
+   269 K/uL
+   148 mg/dL
+   1.5 mg/dL
+   37 mEq/L
+   4.6 mEq/L
+   36 mg/dL
+   94 mEq/L
+   143 mEq/L
+   40.3 %
+   6.2 K/uL
+        [image002.jpg]
+                             [**3089-2-26**]  04:32 AM
+   WBC
+   6.2
+   Hct
+   40.3
+   Plt
+   269
+   Cr
+   1.5
+   Glucose
+   148
+   Other labs: PT / PTT / INR:14.6/30.6/1.3, Differential-Neuts:86.0 %,
+   Band:3.0 %, Lymph:8.0 %, Mono:1.0 %, Eos:0.0 %, Lactic Acid:1.2 mmol/L,
+   Ca++:8.3 mg/dL, Mg++:2.2 mg/dL, PO4:4.1 mg/dL
+   Imaging: TTE - Pending, suboptimal;
+   CXR - No acute process.
+   Microbiology: Sputum culture contaminated.
+   Assessment and Plan
+   58 y/o F with morbid obesity s/p gastric bypass, pulm HTN (likely
+   Phen/Fen), severe OSA on home BiPap (18/15), OHS, restrictive lung dis
+   from obesity and airways dis from childhood asthma, came in with
+   hypoxia and URI sx/cough.
+   #. Hypoxia: O2 requirement ~10L compared to her home regimen of 2-4L.
+   VBG shows her baseline chronic respiratory acidosis with metabolic
+   compensation, with a pCO2 at about 85.  CXR is unchanged with no focal
+   abnormalities/new effusions.  Lung exam shows poor air  movement with
+   diffuse inspiratory and expiratory wheezes, and dry early inspiratory
+   crackles.  DDX includes acute asthma exacerbation vs pulmonary
+   interstitial edema.  No clear evidence of left sided HF on prior echo,
+   and XR difficult to interperet in the setting of diffuse airway
+   diseases.
+   -Will treat with bronchodilators: one hour of continuous albuterol
+   nebs, then q2-4H standing, spacing as tolerated.  Will also treat with
+   standing ipratropium q4H
+   -High dose steroids, will taper when O2 requirement is back to baseline
+   -Supplemental O2 prn to keep sats 89-92%, CPAP at night
+   -Will Obtain an echocardiogram to assess for new LV dysfunction, will
+   hold off on lasix given elevated creatinine until we have this study to
+   support its use.
+   .
+   #. Failure to thrive: Patients family reports she has been having
+   difficulty managing at home (she lives alone).  They also report
+   symptoms of somnolence and confusion, which is intermittent.  I suspect
+   she is transiently hypercapnic during these episodes, as her baseline
+   is quite high to begin with.  I am concerned that given her multiple
+   pulmonary issues, she is failing to thrive at home, and that her
+   underlying pulmonary issues are progressing.  She has had multiple
+   recent hospitalizations for hypoxia (three in the last year)
+   -Case management, PT, OT to evaluate possible [**Hospital3 **]?
+   -Will involve her pulmonologist Dr. [**Last Name (STitle) 587**] for optimization of her
+   current pulmonary issues, incluiding an assessment of her current CPAP
+   settings, chronic asthma management etc.
+   .
+   #. ARF: Creatinines have been elevated over the past month to 1.4-1.6,
+   family is reporting poor PO intake, specifically with hydration.  Also
+   some concern for poor forward flow state from ?LV dysfunction.
+   -Will send urine lytes/sediment
+   -Monitor UOP, bolus if not at goal of 0.5cc/kg/hr, otherwise will hold
+   off as patient may have a component of LV dysfunction.
+   -Echo to assess forward flow.
+   .
+   #. Chronic abdominal pain: Historically sounds consistent with muscle
+   strain/abdominal wall pain.  Had been worked up on a previous admission
+   and was thought to be secondary to muscle strain with a component of
+   constipation.  Patient notes improvement with laxatives, and
+   exacerbation only with coughing.
+   -Continue laxatives, cough suppressants, and lidocaine patch
+   .
+   #. OSA: continue CPAP [**Last Name (LF) **], [**First Name3 (LF) 167**] monitor its efficacy in house
+   .
+   #. Obesity Hypoventilation syndrome: CO2 retention at baseline
+   .
+   #. Obstructive lung dz:
+   -will treat for an acute exacerbation
+   -optimize her chronic management by increasing her inhaled steroid to 2
+   puffs [**Hospital1 **] vs. a long-acting B2 agonist
+   .
+   #. Pulmonary HTN: continue home [**Last Name (LF) 8056**], [**First Name3 (LF) 167**] order an echo to
+   assess for any changes in her underlying process.
+   .
+   #. HTN: BP stable
+   .
+   #. Heart failure: has a diagnosis of chronic right sided heart failure,
+   with some mention of diastolic dysfunction.  Echo from [**3086**] shows EF
+   65-70%, no LVH or mention of this.  Managed with torsemide.
+   -Will hold on torsemide for now, given ?dehydration
+   -repeat echo in AM
+   .
+   #. Iron deficiency anemia: stable
+   .
+   #. Osteoarthritis: stable
+   .
+   FEN:
+   .
+   PPX:
+   -DVT ppx with
+   -Bowel regimen
+   -Pain management with
+   .
+   ACCESS: PIV's
+   .
+   CODE STATUS: Presumed full
+   .
+   EMERGENCY CONTACT:
+   For life threatening emergencies: [**Name (NI) 245**] (sister) [**Telephone/Fax (1) 8057**]
+   Next call: mother [**Female First Name (un) 8058**] [**Telephone/Fax (1) 8059**]
+   .
+   DISPOSITION:
+   .
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3089-2-25**] 09:38 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 25 minutes
+
+
+
+DOC CLASS

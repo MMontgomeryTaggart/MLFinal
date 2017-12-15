@@ -1,0 +1,363 @@
+Admission Date:  [**3433-8-30**]              Discharge Date:   [**3433-9-11**]
+
+Date of Birth:  [**3359-1-31**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1725**]
+Chief Complaint:
+left hip fracture noted at [**Hospital1 **] s/p mechanical fall
+
+Major Surgical or Invasive Procedure:
+Left Hemiarthroplasty
+
+
+History of Present Illness:
+74 yo female with who presented to [**Hospital1 **] s/p fall, found to
+have left subcapital fracture by CT of hip, transferred to [**Hospital1 68**]
+for further management.
+
+She initally was in an MVA last year when it was noted that she
+had a AAA on CXR. She then had an elective Thoracoabdominal
+aortic aneurysm resection/repair with hospital course c/b
+post-op respiratory failure, recurrent Afib, multiple
+bronchs, L sided lung collapse, trach on [**3433-1-31**] after failed
+extubation of [**3433-1-28**].  Trach was removed at Rehab, however she
+was readmitted in [**2-16**] with slight hyperfunction of false vocal
+cords, bilateral vocal cord immobility with ~1mm glottic gap
+requiring trach placement on [**3433-3-12**].
+
+Pt was walking with her walker when she tripped on the carpet
+and fell onto her left L hip hitting her head at home.  Denies
+LOC, HA, neck pain, CP, SOB, weakness, LH. Assisted to bed, able
+to bear wt for 2 steps. Pain localized to medial thigh with
+movement of LLE. Was brought to [**Hospital1 **], initially XRay
+unrevealing, CT though showed fx of L hip. Ortho evaluated in
+ED, plan to perform ORIF during this admit after risk
+stratified; NWB on L, no traction indicated, anticoagulate.
+Given extensive comorbidities, she was admitted to Medicine for
+periop management.
+
+Past Medical History:
+1. Thoracic and abdominal aortic aneurysm, repair [**1-19**], c/b resp
+failure and trach.
+2. Bilateral vocal cord paralysis, s/p repeat trach [**3-19**].
+3. Clostridium difficile positivity.
+4. VRE positivity.
+5. Postoperative atrial fibrillation requiring cardioversion.
+6. Hypertension.
+7. Type 2 diabetes.
+8. Osteoarthritis.
+9. Lower back pain.
+10. Hypercholesterolemia.
+11. Left Breast Cancer - s/p lumpectomy
+12. Atrial fibrillation - this was first noted post op from the
+AAA repair. She was started on a BB and amio at that time then
+DCCV. She has not been on coumadin.
+.
+PAST SURGICAL HISTORY:
+-Thoracic/abdominal aortic aneurysm repair, [**3433-1-15**].
+
+Social History:
+Retired RN, she was living at home at the time of the hip
+fracture. Her husband and daughter involved in her care.  No
+tob, etoh, other drugs. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 211**] Globe reporter has been
+following her [**Last Name (un) 22303**] in [**Hospital1 68**] s/p her hip fracture
+
+Family History:
+DM, ? type - in mother
+
+Physical Exam:
+Vitals: T 98.4   HR 64   BP 130/61   RR 24   Sat 92% on mist O2
+Gen: elderly caucasian woman with trach mask in place, breathing
+comfortably, A+Ox3, NAD
+HEENT: NCAT, no bruising or ecchymosis, PERRL, EOMI, MMM, OP
+clear
+Neck: supple, trach in place, no LAD
+CV: RRR nl s1 s2 no m/g/r
+Lungs: CTA b/l
+Abd: soft, nt, nd, +bs
+Ext: L medial thigh pain with external rotation
+Neuro: no sensory deficit in affected limb
+
+EKG: sinus, nl rate, nl axis, nl intervals, LAE, Q III, aVF;
+flat T's throughout limb leads and V4-V6, TWI in V1-V3, no sig
+change since prior EKG [**3433-3-12**]
+
+
+Pertinent Results:
+Admission labs:
+
+GLUCOSE-132* UREA N-14 CREAT-0.9 SODIUM-139 POTASSIUM-3.6
+CHLORIDE-104 TOTAL CO2-22 ANION GAP-17
+
+WBC-9.9 RBC-4.31 HGB-12.1 HCT-36.6 MCV-85 MCH-28.0 MCHC-32.9
+RDW-16.5*
+NEUTS-84.0* LYMPHS-11.9* MONOS-3.5 EOS-0.2 BASOS-0.4
+ANISOCYT-1+ MICROCYT-1+
+PLT COUNT-179
+PT-14.7* PTT-25.5 INR(PT)-1.5
+
+CXR [**8-30**]:
+Cardiomegaly unchanged. The aorta is very tortuous and dilated
+as seen previously. There are postoperative changes in the left
+hemithorax with rib fractures/ressections, which is unchanged
+when compared to prior study. There is again noted a left
+retrocardiac opacity silhouetting the left hemidiaphragm, which
+is improved when compared to the prior study likely representing
+atelectasis or scarring. The right lung is grossly clear. The
+patient is status post tracheostomy. Tracheostomy tube appears
+to be in appropriate position. In the left upper quadrant, there
+are metallic wires and surgical clips. There is mild S-shaped
+scoliosis of the thoracolumbar spine with some mild dextroconvex
+thoracic component and levoconvex lumbar component. No evidence
+of pneumothorax. There is mild upper zone redistribution of the
+pulmonary vascularity, which could represent mild CHF. There are
+degenerative changes of the sternoclavicular joints bilaterally.
+
+HIP UNILAT MIN 2 VIEWS LEFT  [**8-30**]:
+Unusual small lucency involving the medial cortex of the left
+proximal femur without clear fracture line identified.
+
+Knee film [**9-1**]:
+The alignment appears normal. There are some mild degenerative
+changes. No fracture is identified.
+
+Echo [**9-2**]:
+Normal regional with low normal left ventricular systolic
+function. Dilated ascending aorta. Mild-moderate pulmonary
+artery systolic hypertension.  Compared with the prior study
+(tape reviewed) of [**3433-1-17**], the ascending aorta is minimally more
+dilated. Global left ventricular systolic function is similar.
+
+Micro: [**9-5**] sputum grew PSEUDOMONAS AERUGINOSA and ESCHERICHIA
+COLI, both pan-sensitive.
+VRE and MRSA screens were negative here. Has had a h/o of this
+in the past.
+
+Discharge labs:
+[**3433-9-10**] 05:32AM BLOOD WBC-9.3 RBC-3.82* Hgb-10.5* Hct-33.2*
+MCV-87 MCH-27.5 MCHC-31.7 RDW-15.4 Plt Ct-260
+[**3433-9-9**] 05:52AM BLOOD PT-14.6* PTT-26.3 INR(PT)-1.4
+[**3433-9-10**] 05:32AM BLOOD Glucose-84 UreaN-10 Creat-0.8 Na-137
+K-4.0 Cl-102 HCO3-27 AnGap-12
+[**3433-8-30**] 07:00PM BLOOD %HbA1c-5.7 [Hgb]-DONE [A1c]-DONE
+
+Brief Hospital Course:
+74 yo F s/p fall, found to have left subcapital hip fracture by
+CT, admitted to medical service for risk stratification prior to
+ORIF. She then had resp failure following ORIF requiring MICU
+stay for diuresis and suctioning. She was transferred to the
+floor and has been recovering well.
+
+#) Left Hip Fx. She was kept non weight bearing until Left
+hemiarthroplasty on [**9-3**].  She has multiple cardiac risk factors
+making her intermediate risk and could achieve at least 4 mets
+prior to recent surgery. She had a normal perfusion on a
+Persantine MIBI preop in [**1-19**] at [**Hospital 18**] Hosp. A pre-op echo was
+preformed on [**9-2**] revealing normal regional wall motion with low
+normal left ventricular systolic function and mild-moderate
+pulmonary artery systolic hypertension.  When compared with the
+prior study of [**3433-1-17**], the ascending aorta is minimally more
+dilated with similar global left ventricular systolic function.
+She received aggressive pulmonary toilet (chest PT, incentive
+spirometry, encourage coughing) prior to surgery to maximize her
+lung function.  Her pain was well controlled with acetaminophen
+1000mg q6h and oxycodone 5mg Q4H PRN prior to surgery. The
+cemented left unipolar hip hemiarthroplasty was done on [**9-3**]
+without complications. She was transfused 2 units of blood for
+post-op anemia. She received Lovenox SC BID for prophylaxis.
+She should remain on this until she has adequate activity. On
+discharge her wound was without evidence of infection and had
+some serous drainage.
+
+#) Post-op Hypoxemia - After the hip surgery, she was
+persistently and progressively hypoxemic and was requiring
+increasing suctioning. She was transferred to the MICU on [**9-4**].
+Her MICU course was significant for low grade temps and
+increased sputum production. She was started on empiric Zosyn
+and Vanco for hospital-acquired PNA. Her O2 sats gradually
+improved and she made less secretions. In rehab, she will
+continue to need suctioning and incentive spirometry as well as
+to continue Zosyn/Vanc for a total of 7 days, ending on [**9-14**].
+Her sputum culture grew pseudomonas (pansensitive), e.coli
+(pansensitive), and staph aureus (MRSA).
+.
+#) Pain management: She hallucinations with the IV Dilaudid
+given to her for her post-op pain. Therefore, her post op pain
+was controlled with Tylenol 1 gm q6 hrs and oxycodone 5 mg po
+prn. She also has chronic abdominal pain from her AAA surgery
+since [**Month (only) 1702**]. The pain service was consulted who recommended
+starting neurontin 600 mg qhs. This should be titrated as
+tolerated.  Neurontin is for chronic pain from thoracoabdominal
+aneurysm repair. At discharge, the Neurontin was controlling her
+pain somewhat.
+.
+#) CAD (no known CAD though multiple cardiac risk factors
+including age, DM, HTN). She had a normal stress test at [**Location (un) 18**]
+prior to aneurysm repair.
+She was continued on ASA 81mg qd, Simvastatin 10mg daily, and
+Metoprolol.
+.
+#) Mild dystolic disfunction.  She was on lasix QOD prior to
+admission. This was not restarted at present, but if she
+continues to require large amounts of TM O2, then consider
+restarting.
+.
+#) AFIB: h/o postoperative atrial fibrillation requiring
+cardioversion in [**1-19**]. She was in NSR and well rate controlled
+with Amiodarone 400 daily and Metoprolol. She will f/u with Dr.
+[**Last Name (STitle) 265**] as an outpatient about this. She will likely need
+coumadin once she is no longer on Lovenox.
+.
+#) Trach care: She takes Guaifenesin prn, Atrovent neb prn, and
+needs aggressive pulm toilet. Scheduled outpt pulm f/u. She also
+needs ENT f/u (?h/o laryngeal dysfunction)
+.
+#) Type 2 diabetes: She was on Avandia 4mg daily prior to the
+surgery. However, she has bot been requiring insulin here on a
+RISS. She also has not been eating much. She may need to start
+the Avandia again in the future as she eats more.
+
+#) GERD: She is on Protonix 40 daily.
+
+#) Insomnia: We continued her on outpatient dose of Ativan 0.5mg
+qhs:prn
+
+#) Depression: Celexa 40mg qd. Her mood was hopeful on
+discharge.
+
+Medications on Admission:
+-APAP prn
+-Protonix 40 daily
+-Avandia 4mg daily
+-Amiodarone 400 daily
+-Aspirin 81 daily
+-Simva 10 daily
+-Bisoprolol 5mg daily
+-Senna prn
+-Colace qd
+-Celexa 40mg qd
+-Citracal 2 tabs [**Hospital1 12**]
+-KCl 20 mEq qd
+-Gaifenesin prn
+-Vicodin prn
+-Lasix 20mg qod
+-Ativan 0.5mg qhs:prn
+-Atrovent neb prn
+
+Discharge Medications:
+1. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1)
+Intravenous  every twelve (12) hours for 7 days: Last dose is on
+[**9-14**].
+2. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: One (1) Recon
+Soln Intravenous  Q8H (every 8 hours) for 7 days: Last dose is
+[**9-14**].
+3. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+4. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed for insomnia.
+5. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q8H (every 8 hours).
+6. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed.
+7. Enoxaparin 40 mg/0.4mL Syringe Sig: One (1)  Subcutaneous
+DAILY (Daily): Continue this until that patient is ambulatory or
+at least one month. Check weekly Cr and adjust the dose if
+necessary.
+8. Simvastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3
+times a day): hold for sbp < 110, hr < 55  .
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+11. Prochlorperazine 10 mg Tablet Sig: One (1) Tablet PO Q6H
+(every 6 hours) as needed for nausea.
+12. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed.
+13. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours): Max 4gm per day.
+14. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain: Give before washing or PT.
+15. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): hold for sbp < 110  .
+16. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+17. Insulin Regular Human 100 unit/mL Solution Sig: ASDIR
+Injection ASDIR (AS DIRECTED).
+18. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+19. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+20. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+21. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+22. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units
+heparin) each lumen Daily and PRN.  Inspect site every shift.
+23. Lasix 20 mg Tablet Sig: One (1) Tablet PO every other day:
+Hold if NPO.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1096**] - [**Location (un) 211**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Left Hip Fracture
+Hypoxic respiratory failure
+pneumonia
+
+Secondary Diagnoses:
+S/P Thoracoabdominal aortic aneurysm repair
+Diabetes
+Hypertension
+Tracheostomy
+
+
+Discharge Condition:
+Good, O2 sat is 99% on 35% trach mask. All other vitals are
+normal.
+
+
+Discharge Instructions:
+Please call your primary care physician or return to the
+hospital if you experience chest pain, shortness of breath,
+worsening pain, or have any other concerns.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) 264**] (PCP), [**Telephone/Fax (1) 5908**] in [**3-20**]
+weeks.
+
+Please follow-up the ENT Clinic regarding your history of vocal
+cord paralysis. ([**Telephone/Fax (1) 7975**]
+
+Please follow-up in the [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2374**] Clinic. ([**Telephone/Fax (1) 22615**] in
+[**3-20**] weeks.
+
+You have the following appointments scheduled:
+
+1. Provider: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]/DR. [**Last Name (STitle) **] (pulmonary) Where: [**Hospital 301**] MEDICAL SPECIALTIES Phone:[**Telephone/Fax (1) 725**] Date/Time:[**3433-9-30**]
+3:45
+
+2. You have an appointment with Dr. [**Last Name (STitle) 265**] (cardiologist) on
+[**10-16**] at 11:00AM at the [**Location (un) 18**] office. Call [**Telephone/Fax (1) 3060**] if you
+are unable to make this.
+
+3. You have an appointment with Dr. [**Last Name (STitle) **] (orthopedics) on [**10-17**]
+at 2:20PM on the [**Location (un) **] of the [**Hospital Ward Name 44**] Center at [**Hospital1 3343**]. Call [**Telephone/Fax (1) 22616**] if you are unable to
+make this.
+
+
+
+
+
+
+DOC CLASS

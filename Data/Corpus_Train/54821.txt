@@ -1,0 +1,316 @@
+Admission Date:  [**2639-5-27**]              Discharge Date:   [**2639-5-30**]
+
+Date of Birth:  [**2614-12-7**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2216**]
+Chief Complaint:
+Fast breathing, nausea, vomiting, polyuria x 3 days
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+Ms. [**Known patient lastname 27008**] is a 24yoF with a PMH of recently diagnosed IDDM
+([**2639-5-24**]) who presented with 3 days of fatigue and SOB and found
+to be in DKA. She was at a primary care appointment (first visit
+with this PMD) on Friday [**5-24**], and was diagnosed with
+insulin-dependent diabetes. Her FSG at the visit was 421, per
+her report. She stopped her saxagliptin-metformin (Kombiglyze)
+which she had been taking since [**2638-11-18**], at that time.
+
+Over the weekend, she began feeling very fatigued, began
+urinating very frequently, and was very thirsty. She became so
+tired that she was sleeping every few hours. She said she was
+drinking the equivalent of about [**2-21**] 12-oz bottles of water. She
+also felt burning chest pain which she thought was heartburn,
+which she has not had before. She continued to eat until the day
+of presentation. She was taking FSGs throughout the weekend in
+the morning, before meals, and 2 hours after meals, and all
+times it was in the 400s and above.
+
+On the day of presentation, she vomited yellow, watery vomit
+twice.  Also, she began feeling SOB on the day of presentation.
+She also felt dizzy, which she attributed to not being able to
+see too well due to a "white aura" being over her eyes and
+because it was too bright for her to see in the sunlight. She
+denied feeling sick or having an infection of any kind, denying
+fevers/chills, headache, cough, congestion, sore throat, chest
+pain, dysuria, hematuria, abdominal pain, and diarrhea.
+
+She was diagnosed with diabetes which was thought to be
+non-insulin dependent in [**2638-2-16**]. She was 160 lb at the time.
+She was started on metformin, which made her feel sick. She was
+then transitioned to Januvia, several other medications, and has
+most recently been on Kombiglyze. She has lost 52 lbs
+unintentionally since [**2638-2-16**], in spite of her doctor's
+urging that she "eat more."
+
+Also denies hearing problems, swallowing problems, constipation,
+heat/cold intolerance, numbness, tingling, and weakness.
+
+In the ED, FSG 507 and vBG pH 7.00/ pCO2 22 / pO2 62 / base
+excess -25. She was found to be tachycardic to the 120s and
+breathing at 22 resp/min. EKG revealed sinus tachycardia but no
+peaked T waves. She was given 5U IV insulin, started on an
+insulin gtt at 5U/hr, and given 4L NS.
+
+Upon admission to the MICU, VS: T 98.5, HR 125, BP 117/91, RR
+23, O2sat 99% on RA. On exam she was having Kussmaul
+respirations and was tachycardic. She was continued on 5U/hr
+insulin, given a 1L NS bolus + 20 mEq, and started on D5 1/2NS +
+20 mEq K running at 200cc/hr.
+
+Past Medical History:
+Diabetes Mellitus (Dx [**2638-2-16**])
+
+Social History:
+She is an MBA student at [**Hospital1 3742**] [**Location (un) 13**]. She lives with Ms.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 248**] while living in [**Location (un) 13**]. Her parents live in [**Location (un) 27009**], NC. She has 2 brothers and 2 sisters. Rare social alcohol
+use. She denies tobacco and recreational drug use.
+
+Family History:
+Both parents have diabetes. She notes a paternal great
+grandmother had a stroke and a great grandfather had a leg
+amputation, presumably from diabetes. No other known cardiac or
+cancer history.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: T 98.5, HR 125, BP 117/91, RR 23, O2sat 99% on RA
+Gen: pleasant, fatigued
+Skin: no apparent rashes or lesions
+HEENT: sclera anicteric, conjunctivae clear, oropharynx clear,
+MMD
+Neck: no LAD
+CV: tachycardic, nl S1/S2, no murmurs, rubs, or gallops
+Pulm: rapid, deep breaths, CTAB, no wheezes, crackles, or
+rhonchi
+Abd: NT, ND, BS+
+Ext: WWP, no cyanosis, clubbing, or edema
+Neuro: alert and oriented x 3, CNII-XII grossly intact,
+strength/sensation grossly intact
+
+DISCHARGE PHYSICAL EXAM:
+GEN Alert, oriented, no acute distress
+HEENT NCAT MMM EOMI sclera anicteric, OP clear
+NECK supple, no JVD, no LAD
+PULM Good aeration, CTAB no wheezes, rales, ronchi
+CV RRR normal S1/S2, no mrg
+ABD soft NT ND normoactive bowel sounds, no r/g.  Minimal
+tenderness to deep palpation in suprapubic region.
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e
+NEURO CNs2-12 intact, motor function grossly normal
+SKIN no ulcers or lesions
+
+
+Pertinent Results:
+[**2639-5-29**] 04:02AM BLOOD WBC-6.6 RBC-3.79* Hgb-11.3* Hct-32.3*
+MCV-85 MCH-29.7 MCHC-34.9 RDW-14.0 Plt Ct-159
+[**2639-5-28**] 04:00AM BLOOD WBC-9.6 RBC-4.11* Hgb-12.1# Hct-35.3*#
+MCV-86 MCH-29.3 MCHC-34.1 RDW-13.8 Plt Ct-191
+[**2639-5-27**] 01:21PM BLOOD WBC-13.9* RBC-5.17 Hgb-15.3 Hct-46.4
+MCV-90 MCH-29.6 MCHC-33.0 RDW-13.6 Plt Ct-300
+[**2639-5-27**] 01:21PM BLOOD Neuts-84.2* Lymphs-13.0* Monos-2.0
+Eos-0.1 Baso-0.6
+[**2639-5-27**] 01:21PM BLOOD PT-10.0 PTT-25.7 INR(PT)-0.9
+[**2639-5-29**] 04:02AM BLOOD Glucose-289* UreaN-3* Creat-0.6 Na-137
+K-3.6 Cl-110* HCO3-16* AnGap-15
+[**2639-5-28**] 04:00AM BLOOD Glucose-149* UreaN-6 Creat-0.8 Na-137
+K-3.5 Cl-115* HCO3-13* AnGap-13
+[**2639-5-27**] 01:21PM BLOOD Glucose-507* UreaN-13 Creat-1.4* Na-139
+K-5.2* Cl-101 HCO3-<5*
+[**2639-5-29**] 04:02AM BLOOD Calcium-7.7* Phos-3.3# Mg-1.9
+[**2639-5-28**] 04:00AM BLOOD Albumin-3.7 Calcium-8.4 Phos-0.4* Mg-2.8*
+[**2639-5-27**] 01:21PM BLOOD Calcium-9.9 Phos-5.1* Mg-2.3
+[**2639-5-27**] 09:10PM BLOOD %HbA1c-15.2* eAG-390*
+[**2639-5-29**] 04:02AM BLOOD TSH-4.5*
+[**2639-5-27**] 01:24PM BLOOD Type-[**Last Name (un) **] pO2-62* pCO2-22* pH-7.00*
+calTCO2-6* Base XS--25 Comment-GREEN TOP
+[**2639-5-30**] 04:48AM BLOOD WBC-8.6 RBC-3.91* Hgb-11.6* Hct-32.8*
+MCV-84 MCH-29.6 MCHC-35.3* RDW-14.1 Plt Ct-181
+[**2639-5-30**] 04:48AM BLOOD Glucose-79 UreaN-3* Creat-0.5 Na-139
+K-3.5 Cl-107 HCO3-24 AnGap-12
+[**2639-5-30**] 11:05AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-1000 Ketone-TR Bilirub-NEG Urobiln-4* pH-6.0 Leuks-NEG
+[**2639-5-30**] 11:05AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) 7**]-1.010
+[**2639-5-27**] 02:30PM URINE UCG-NEGATIVE
+
+Brief Hospital Course:
+Ms. [**Known patient lastname 27008**] is a 24YOF w/ a PMH of diabetes mellitus who was
+found to have a metabolic anion gap acidosis from DKA.
+
+## DKA.  She was admitted w/ FSG 507, vBG pH 7.00/pCO2 22,
+bicarbonate <5, Anion Gap 33, and 150 ketones in the urine. Hgb
+A1C was found to be 15.2%. Her infectious work-up (CXR, U/A,
+BCx, UCx) was unremarkable. She had no signs of cardiac ischemia
+on EKG.  She was given 4L NS, 5U IV insulin, and started on an
+insulin gtt in the ED. She was admitted to the MICU, upon which
+she was tachycardic and having Kussmaul respirations secondary
+to her DKA. She was continued on her insulin gtt, given NS bolus
+and started on D5 1/2NS + 40 mEq as her FSGs fell to <200. Her
+anion gap closed by the morning after her admission, at which
+time she was eating as well. She required repletion of several
+electrolytes, including Potassium and Phosphate. She was
+transitioned from her insulin gtt to SubQ insulin in the evening
+after she showed that she could keep good PO and given that
+there was some debate about how much SubQ insulin to start her
+on since she required 100+ U insulin after about 16 hours of
+admission. [**Last Name (un) 156**] was consulted for this, and they determined
+that she should be started on 10 U Lantus QS and bridged w/
+Humalog.  We bridged her w/ 9 U Humalog, gave the 10 U Lantus
+several hours later, and she was able to be taken off of the
+insulin gtt. That night, her FSGs remained elevated in the high
+200s to 300s, but her anion gap did not re-open. She had her
+insulin regimen adjusted by [**Last Name (un) 156**] the next morning, increasing
+her Lantus to 13U and her Humalog to 5 U TID. She was able to be
+called-out of the MICU given that she was no longer on the
+insulin gtt and was hemodynamically stable. She was given
+insulin teaching prior to leaving the MICU. On the medicine
+floor, her FSG were 100-200's and her insulin regimen was
+further titrated per recommendations by [**Last Name (un) 156**].  She tolerated
+PO with no problems.  She felt much better, eager to go home,
+and was discharged on 15U Lantus qhs and 6U TID Humalog Kwikpen.
+ She was observed by nursing to be able to check finger stick
+glucose and administer insulin with no problems.
+
+[**Last Name (un) 156**] asked for several labs to be sent off, including
+c-peptide, islet cell antibody, insulin antibodies, and glutamic
+acid decarboxylase, all of which are still pending at this time.
+ She will follow-up with [**Last Name (un) 156**] center for diabetes management
+as well as PMD at [**Hospital1 **].
+
+## Acute Renal Failure: She was admitted w/ a Cr. 1.4, and
+protein in her urine dipstick. This was likely due to volume
+depletion from osmotic diuresis secondary to her DKA, as her Cr
+normalized back down to Cr 0.6 by the third day of admission
+after volume resuscitation.  Cr 0.5 on day of discharge.
+
+## Leukocytosis: Her WBC was 13.9 on admission. She was afebrile
+with no source of infection. This was likely a stress response
+due to her DKA, as her WBC normalized over the next few days
+without any intervention.   WBC 8.6 on discharge.
+
+## Rectal/vaginal spasms.  Patient reported some intermittent
+rectal/vaginal "pressure" or "spasms" started on [**5-29**].  No
+dysuria, VB, vaginal discharge, abd. pain, change in BM.  She
+does report having had similar spasms in the past but has not
+known what they were, thought maybe it was hemorrhoids, however,
+no pain/blood with BMs.  Rectal exam performed - no ext.
+hemorrhoids, normal tone, no gross blood.  Patient had some
+dysuria after foley dc'd on [**5-28**], so UA sent which was normal.
+Patient told to follow-up with issue with PMD if continues to be
+an issue.
+
+# Anemia.  Noted to have H/H 11.3/32.3 on [**5-29**] from 15.3/46.4 on
+admission.  Baseline unknown.  MCV 85, RDW 14.1, anemia possibly
+from aggressive fluid resuscitation. Iron studies sent and
+patient told to follow-up as outpatient. H/H 11.6/32.8 on
+discharge.
+
+## ?Hypothyroidism: TSH was found to be 4.5.  Patient will
+follow-up with PMD.
+
+-- Transitional Issues --
+
+# Patient given follow-up with [**Last Name (un) 156**] Center, PMD, nutrition and
+ophthalmology.
+
+
+Medications on Admission:
+1. Kombiglyze XR *NF* (saxagliptin-metformin) 2.5-1,000 mg Oral
+[**Hospital1 9**]
+
+
+Discharge Medications:
+1. Glargine 15 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+RX *One Touch Ultra Test   use as directed  Disp #*1 Box
+Refills:*1
+RX *Lantus 100 unit/mL use as directed 15 Units before BED; Disp
+#*1 Bottle Refills:*1
+RX *Blood Glucose Monitor System   use as directed  Disp #*1 Kit
+Refills:*0
+RX *Humalog KwikPen 100 unit/mL Up to 12 Units  per sliding
+scale four times a day Disp #*1 Unit Refills:*2
+RX *One Touch Delica Lancets   use as directed  Disp #*1 Box
+Refills:*1
+RX *BD Insulin Syringe Ult-Fine II 31 gauge X [**4-3**]" use as
+directed  Disp #*30 Syringe Refills:*1
+2. Ultra-Thin II (Short) Pen NDL *NF* (insulin needles
+(disposable)) 31 X [**4-3**]  Miscellaneous QID
+Use as directed
+RX *BD Insulin Pen Needle UF Short 31 gauge X [**4-3**]" Use as
+directed four times a day Disp #*120 Unit Refills:*1
+3. urine glucose-ketones test *NF* 1 strip Miscellaneous qday
+RX *urine glucose-ketones test   Use as directed qday Disp #*120
+Unit Refills:*1
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Diabetic ketoacidosis
+
+Secondary Diagnosis:
+Type I Diabetes Mellitus
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 27008**],
+
+You were admitted to [**Hospital1 52**] with very high blood sugar and found
+to be in diabetic ketoacidosis (DKA).  You were admitted to the
+Medical Intensive Care Unit and received fluids and insulin and
+your glucose and acidosis resolved.  You were transitioned to
+Lantus and Humalog for glucose control with good glucose control
+while at the hospital.
+
+Please continue taking all medications as prescribed by your
+outpatient providers.  The following medications were changed:
+- Started Lantus
+- Started Humalog for pre-meal glucose coverage
+- Stopped Metformin-Sitaglipitin
+
+Please attend all scheduled appointments as listed below.  If
+you cannot make an appointment, make sure to call and
+reschedule.
+
+Followup Instructions:
+Name: [**First Name4 (NamePattern1) 1753**] [**Last Name (NamePattern1) 27010**] NP
+When: Friday [**5-31**] at 9:45
+Location: [**Hospital1 **] ST HEALTH CENTER
+Address: [**Last Name (un) 27011**], [**Location (un) **],[**Numeric Identifier 9890**]
+Phone: [**Telephone/Fax (1) 12340**]
+*Please call your insurance and update them with your new PCP,
+[**Name10 (NameIs) **] tell them it will be Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] but your Primary
+Provider will be [**First Name4 (NamePattern1) 1753**] [**Last Name (NamePattern1) 27010**] Nurse [**Last Name (Titles) **].
+
+Name: [**Last Name (LF) 13960**], [**First Name3 (LF) 13959**] S. MD
+Specialty: Diabetes
+When: Monday [**6-3**] at 11am
+Location: [**Last Name (un) **] DIABETES CENTER
+Address: ONE [**Last Name (un) **] PLACE, [**Location (un) **],[**Numeric Identifier 21**]
+Phone: [**Telephone/Fax (1) 8482**]
+
+Please go to your ophthalmolgy appt as scheduled.
+
+
+
+
+
+
+DOC CLASS

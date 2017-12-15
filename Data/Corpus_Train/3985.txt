@@ -1,0 +1,147 @@
+Admission Date:  [**3288-9-20**]       Discharge Date:  [**3288-9-26**]
+
+Date of Birth:   [**3225-8-23**]       Sex:  M
+
+Service:  Cardiac Surgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 63 year old
+male with a history of coronary artery disease since [**3279**].
+He has had a series of positive stress tests.  The cardiac
+catheterization performed in [**3284-5-15**] then showed a totally
+occluded right coronary artery with a left ventricular
+ejection fraction of 70%.  The patient was continued to be
+managed medically and was followed with annual stress
+echocardiograms.  For the past few years, the patient reports
+that he has had exertional chest pain and shortness of breath
+with activity such as pushing the lawn mower or walking one
+block down the street.  He also reported occasional episodes
+of dizziness.  He denied any symptoms at rest.  His most
+recent stress echocardiogram showed mild ST changes, chest
+pain and inferior/posterior wall motion abnormalities.  He
+was consequently referred for another cardiac catheterization
+for a further evaluation.  The patient also denies any
+symptoms of claudication, orthopnea, edema, or paroxysmal
+nocturnal dyspnea.  Cardiac catheterization performed on
+[**3288-9-20**] revealed right coronary artery and left main
+coronary artery disease in addition to mild diastolic left
+ventricular dysfunction.  Calculated ejection fraction was
+62%.
+
+PAST MEDICAL HISTORY:  1.  Coronary artery disease; 2.
+Hypertension; 3.  Hyperlipidemia; 4.  History of shingles two
+months ago.
+
+PAST SURGICAL HISTORY:  Anal fissurectomy.
+
+ALLERGIES:  Possible allergy to contrast dye.
+
+MEDICATIONS ON ADMISSION:  Aspirin 81 mg p.o. q. day;
+Atenolol 100 mg p.o. q. day; Diltiazem 240 mg p.o. q. day;
+Isordil 60 mg p.o. q. day; Lipitor 80 mg p.o. q. day; Mavik 1
+mg p.o. q. day; Folic acid 1 mg p.o. q. day.
+
+LABORATORY DATA:  Laboratory studies on admission revealed
+hematocrit of 40.2, white blood cell count 6.3, platelets
+213, urine analysis negative.  Glucose 134, BUN 15,
+creatinine 0.7, sodium 137, potassium 4.2.  ALT 40, AST 28,
+alkaline phosphatase 109, amylase 41.
+
+HOSPITAL COURSE:  Given the results of the cardiac
+catheterization the patient was admitted to the Cardiac
+Surgery Service for a coronary artery bypass graft.  On
+[**3288-9-21**], the patient underwent coronary artery bypass
+grafting times five with a left internal mammary to the left
+anterior descending coronary artery; radial artery to the
+distal right coronary artery; reverse saphenous vein graft
+from the aorta to the left anterior descending diagonal
+coronary artery and reversed saphenous vein graft from the
+aorta in sequence from the first obtuse marginal coronary
+artery and sequence to the second obtuse marginal coronary
+artery.  The patient tolerated the procedure well.  There
+were no complications.  Please see the full operative report
+for details.  After the procedure the patient was transferred
+to the Intensive Care Unit in satisfactory condition.  The
+patient was extubated on the same day in the evening.  He
+remained in stable condition.  He continued to make good
+urine.  A good left radial and ulnar flow was confirmed by
+pulse oximetry waveform.  On postoperative day #2, his
+hematocrit was 29.7.  He was continued to be weaned off of
+supplemental oxygen.  On postoperative day #2 the patient got
+out of bed to chair.  Lopressor was started.  On
+postoperative day #2 he was noted to have heartrate in the
+120s to 130s range.  The rhythm was irregular.  The patient
+was treated with intravenous Lopressor.  Physical therapy was
+consulted who was following the patient throughout his
+hospitalization.  On postoperative day #2 the patient was
+transferred to the regular floor in stable condition.  On
+postoperative day #3 the patient was noted to have runs of
+irregular rhythm.  Electrophysiology Service was consulted.
+It was thought that the patient was having frequent
+intermittent postoperative atrial tachycardia.  His Beta
+blocker was increased accordingly to control his heartrate.
+The following night the patient had another run of irregular
+rate which again was thought to be atrial tachycardia.  There
+were no sustained arrhythmias noted.  The patient remained in
+sinus rhythm without any arrhythmias throughout the last 36
+hours of his hospitalization.  His basic wires were removed.
+The patient was ambulating and was cleared by physical
+therapy.  The patient was discharged to home on postoperative
+day #5 in stable condition.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  Home
+
+DISCHARGE DIAGNOSIS:
+1.  Coronary artery disease status post coronary artery
+bypass graft times five
+2.  Hypertension
+3.  Hypercholesterolemia
+
+PHYSICAL EXAMINATION:  Alert and oriented times three.  Head,
+eyes, ears, nose and throat examination was within normal
+limits.  Chest examination, incision clean, dry and intact.
+Chest was stable.  Abdomen soft, nontender, nondistended.
+Cardiac, regular rate and rhythm, no murmurs.  Extremities,
+donor lower extremity incision clean, dry and intact.  No
+evidence of edema.  Right arm, donor site clean, dry and
+intact.
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient is to follow up with his surgeon, Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 70**] in approximately six weeks.
+2.  The patient is to call the Holter laboratory at [**Hospital6 1739**] next week to schedule an
+appointment for a monitor pickup.
+3.  The patient is to follow up with Dr. [**Last Name (STitle) 17414**] in
+approximately two to three weeks with a result of Holter
+monitoring.
+4.  The patient is to follow up with Dr. [**Last Name (STitle) **], his primary
+care physician, [**Name10 (NameIs) **] approximately one to two weeks.
+
+DISCHARGE MEDICATIONS:
+1.  Lopressor 100 mg t.i.d.
+2.  Imdur 60 mg p.o. q. day times one month
+3.  Aspirin enteric coated, 325 mg p.o. q. day
+4.  Percocet one to two tablets p.o. q. 4-6 hours prn pain
+5.  Lipitor 80 mg p.o. q. day
+6.  Mavik 1 mg p.o. q. day
+7.  Iron 325 mg p.o. q. day
+8.  Folic acid 1 mg p.o. q. day
+9.  Lasix 20 mg p.o. b.i.d. times seven days
+10. Potassium chloride 20 mEq p.o. b.i.d. times seven days
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Last Name (NamePattern1) 1721**]
+MEDQUIST36
+
+D:  [**3288-9-26**]  15:16
+T:  [**3288-9-26**]  15:51
+JOB#:  [**Job Number 17415**]
+
+
+
+DOC CLASS

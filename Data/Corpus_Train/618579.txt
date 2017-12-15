@@ -1,0 +1,279 @@
+TITLE:
+   Chief Complaint:
+   [**7-8**]
+   -increased metoprolol to 75mg TID for persistent tachycardia
+   - febrile to 103: switched antibiotics from ceftriaxone to ceftazidime
+   for better coverage of GNR
+   -repeat blood cx x 2 (from IJ and arterial line), urine cx; sputum cx
+   unable to obtain
+   - there is a family meeting with heme/onc and endocrine next week: ICU
+   physicians should be involved in the discussion
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2699-7-8**] 03:45 AM
+   Vancomycin - [**2699-7-9**] 12:00 AM
+   Ceftazidime - [**2699-7-9**] 12:20 AM
+   Infusions:
+   Midazolam (Versed) - 4 mg/hour
+   Fentanyl (Concentrate) - 150 mcg/hour
+   Propofol - 50 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2699-7-8**] 10:04 PM
+   Propofol - [**2699-7-9**] 04:00 AM
+   Midazolam (Versed) - [**2699-7-9**] 05:00 AM
+   Fentanyl - [**2699-7-9**] 05:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2699-7-9**] 05:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.6
+C (103.2
+   Tcurrent: 38.7
+C (101.7
+   HR: 126 (114 - 137) bpm
+   BP: 141/78(97) {110/55(74) - 149/81(97)} mmHg
+   RR: 33 (25 - 33) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 79.1 kg (admission): 81.7 kg
+   Height: 69 Inch
+    CVP: 14 (6 - 17)mmHg
+   Total In:
+                                                                  4,810 mL
+                                                                  1,242 mL
+   PO:
+   TF:
+                                                                  1,632 mL
+                                                                    402 mL
+   IVF:
+                                                                  2,218 mL
+                                                                    539 mL
+   Blood products:
+   Total out:
+                                                                  1,280 mL
+                                                                    280 mL
+   Urine:
+                                                                  1,280 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,530 mL
+                                                                    962 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 650 (650 - 650) mL
+   Vt (Spontaneous): 289 (289 - 586) mL
+   PS : 15 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 101
+   PIP: 24 cmH2O
+   Plateau: 20 cmH2O
+   Compliance: 46.8 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.43/45/76.[**Numeric Identifier 428**]/26/4
+   Ve: 19.4 L/min
+   PaO2 / FiO2: 152
+   Physical Examination
+   GENERAL: sedated, intubated
+   HEENT: acromegalic features.  No conjunctival pallor. No scleral
+   icterus. PERRL  Neck Supple, No LAD, No thyromegaly.
+   CARDIAC: sinus tachycardia. Normal S1, S2. No murmurs, rubs or
+   [**Last Name (un) 2856**].
+   LUNGS: rhonchorous breath sounds b/l, tachypnea
+   ABDOMEN: distended, hypoactive BS. Soft, NT.  No HSM
+   EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial
+   pulses.
+   SKIN: No rashes/lesions, ecchymoses.
+   NEURO: sedated, intubated
+   Labs / Radiology
+   117 K/uL
+   9.3 g/dL
+   97 mg/dL
+   0.5 mg/dL
+   26 mEq/L
+   3.6 mEq/L
+   23 mg/dL
+   109 mEq/L
+   148 mEq/L
+   25.9 %
+   14.5 K/uL
+        [image002.jpg]
+                             [**2699-7-7**]  01:59 PM
+                             [**2699-7-7**]  03:01 PM
+                             [**2699-7-7**]  03:22 PM
+                             [**2699-7-7**]  10:09 PM
+                             [**2699-7-8**]  04:31 AM
+                             [**2699-7-8**]  04:53 AM
+                             [**2699-7-8**]  11:34 AM
+                             [**2699-7-8**]  02:36 PM
+                             [**2699-7-9**]  04:04 AM
+                             [**2699-7-9**]  04:31 AM
+   WBC
+   9.5
+   14.5
+   Hct
+   22.8
+   25.7
+   25.2
+   25.9
+   Plt
+   123
+   117
+   Cr
+   0.4
+   0.5
+   TCO2
+   30
+   31
+   30
+   32
+   30
+   31
+   Glucose
+   87
+   97
+   Other labs: PT / PTT / INR:12.9/25.9/1.1, CK / CKMB /
+   Troponin-T:138/3/0.02, ALT / AST:18/31, Alk Phos / T Bili:104/0.3,
+   Differential-Neuts:36.0 %, Band:13.0 %, Lymph:29.0 %, Mono:2.0 %,
+   Eos:2.0 %, Lactic Acid:2.7 mmol/L, Albumin:2.9 g/dL, LDH:2960 IU/L,
+   Ca++:9.8 mg/dL, Mg++:2.0 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ HYPOTENSION (NOT SHOCK)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ .H/O HYPOTENSION (NOT SHOCK)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ TACHYCARDIA, OTHER
+   Assessment and Plan
+   40M with resolving tumor lysis syndrome, being worked up for new
+   diagnoses of presumptive lymphoma and acromegaly, in ICU after
+   respiratory distress leading to intubation and one episode hypotensive
+   bradycardia, in the setting of pneumonia and respiratory/lactic
+   acidosis. Original presenting complaint was Bell
+s Palsy, urinary
+   retention, and lower extremity weakness.
+   Currently trying to obtain tissue for definitive lymphoma diagnosis
+   from BAL, peripheral blood, and paraspinal [**Hospital 6941**]: Intubated, one failed extubation on [**7-5**] secondary to
+   copious secretions. Currently on pressure support, requiring high
+   pressure but breathing spontaneously. Being treated for PNA; suspicion
+   for infiltrative lymphangitic malignant process based on chest CT.  CXR
+   show worsening bibasilar infiltrates
+   -Continue ventilation and sedation with propofol/fentanyl/midazolam
+   -Wean pressure as tolerated but likely not much change until breathing
+   trial tomorrow am
+   -Daily CXR
+   -Continue abx (4 more days) (vanco start [**7-3**], ceftazidime start [**7-8**]),
+   start cipro today
+   -consider Bronch today, send BAL cxs
+   -Continue ABG twice daily from art line or if changes in respiratory
+   status
+   -ETT 6.6cm from carina by CXR today, RT will check and advance if
+   necessary
+   Cardiovascular: Tachycardic to 110s/120s. TSH WNL, TTE showed normal EF
+   and no evidence of heart failure. Repeat EKGs have showed frequent
+   PVCs, no signs of myocardial ischemia.  Tachycardia is likely
+   physiologic as patient has high metabolic demand secondary to
+   infection, lymphoma, and high growth hormone
+   -Switch metoprolol to 75mg TID.
+   -f/u other cardiology recs if any.
+   -transfuse if Hct<21
+   -no IVF necessary now, bolus as needed
+   .
+   Heme-Onc: Labs at admission included significantly elevated LDH,
+   hypercalcemia, hyperkalemia, hyperphosphatemia, hyperuricemia c/w tumor
+   lysis syndrome. All trended down and now normal. Now s/p 2 doses
+   rasburicase. CT also shows evidence of malignancy
+ c/w lymphangitic
+   spread of diffuse malignant process, thickening in stomach, ureters.
+   Bone marrow biopsy inadequate secondary to necrosis although suspicious
+   for B cell lymphoma.
+   -f/u Heme/Onc recs
+   -continue to trend lysis labs (uric acid, LDH, K, phos, Ca) daily
+   -continue allopurinol
+   -daily differential
+   -repeat bone marrow bx this am
+   -peripheral smear pending
+   -f/u cytogenetics labs (Bcr-abl and FISH for 9,22 translocation)
+   Renal/FEN: Cre at baseline for several days. Patient has Foley so h/o
+   urinary retention has not been an issue. This will need to be monitored
+   when Foley is eventually removed. UOP adequate at 29-90cc/hr. Urine Na
+   of 23meq/L suggests absence of marked hypovolemia.
+   -monitor BUN and Cr
+   -no continuous IVF, bolus as needed.
+   -avoid IV contrast, nephrotoxic meds for now
+   -Electrolyte abnormalities all improving. Replete as needed
+   Endocrine: New diagnosis of acromegaly. Per endocrine, further work-up
+   is of no additional value during acute illness. Labs and confirmation
+   of dx as well as additional imaging can be obtained when patient is
+   stabilized.
+   -f/u endocrine recs
+   -f/u endocrine labs (IGFBP, Vit D)
+   -ophtho consult for visual fields when patient extubated/alert
+   Neuro: MRI T-spine at OSH showed epidural enhancement concerning for
+   possible masses; MRI head showed pituitary macroadenoma.
+   -neurosurgery has low suspicion for cord compression and repeat MRI of
+   spine not necessary.
+   -Repeat MRI of pituitary eventually needed although in light of recent
+   ARF, this is not a priority and can wait until patient stabilized.
+   -better neuro exam as we wean sedation, particularly focused on cranial
+   nerve
+s V and VII and lower extremity sensation/motor
+   ID: CXR on [**7-2**] showed LLL PNA, being treated with vanc (since [**7-3**])
+   and CTX (since [**7-4**]).
+   -Continue abx for hospital-acquired PNA. Day 6 vancomycin, Day 5 CTX.
+   Continue for 10-14 days.
+   -If patient does not recover, consider anaerobic coverage for possible
+   aspiration PNA.
+   -urine cx negative; sputum cx grew yeast; blood cx from [**7-3**] pending
+   -repeat blood cx today
+   -HIV test when patient alert and able to consent
+   -EBV IgM and PCR pending
+   GU:  Tender scrotal swelling noted on admission and scrotal US
+   suggested epididymitis/orchitis. No clear mass was identified and G&C
+   swab was negative. Exam today shows marked increase in testicular
+   swelling, especially on the left. Thought to be likely due to malignant
+   infiltration and generalized edema.
+   -f/u urinary retention and orchitis when patient stabilized
+   -if testicular appearance worsens, repeat testicular u/s
+   GI: Decreased bowel sounds and last bowel movement 3 days ago.
+   -continue colace, senna. Dulcolax added yesterday.
+   -try to wean fentanyl to help with gut motility
+   -guaiac stool
+   MSK: Patient has severe and diffuse arthralgias, most likely secondary
+   to hypertrophic arthropathy from acromegaly.
+   -avoiding NSAIDs
+   -tylenol when awake
+   -continue pain control with fentanyl
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2699-7-8**] 11:05 PM 70 mL/hour
+   Glycemic Control:  ISS
+   Lines:
+   Multi Lumen - [**2699-7-3**] 10:03 AM
+   Arterial Line - [**2699-7-3**] 02:00 PM
+   Prophylaxis:
+   DVT: SC heparin
+   Stress ulcer:  famotidine
+   VAP:
+   Comments:
+   Communication:  Comments: [**Location (un) 1047**] is health care proxy
+   [**Name (NI) 127**] status: Full code
+   Disposition:
+
+
+
+DOC CLASS

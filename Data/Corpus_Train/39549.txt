@@ -1,0 +1,234 @@
+Admission Date:  [**3048-2-11**]              Discharge Date:   [**3048-2-15**]
+
+Date of Birth:  [**3028-10-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 102**]
+Chief Complaint:
+difficulty swallowing
+
+Major Surgical or Invasive Procedure:
+Laryngoscope
+EGD
+
+
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 19 year old man with a history of depression. He
+presented with acute odynophagia and inability to swallow
+secretions since last night after attempt to vomit at 0500 [**2-11**]
+by drinking scalding hot water. Patient was intoxicated with
+EtOH and marijuana at the time. Patient did this to induce
+vomiting because of nausea. Reported worsening pain in his mouth
+and pain with swallowing. He got the idea from watching [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+[**Last Name (NamePattern1) **] film.
+.
+ED course, initial VS were:  12:35 6 99 103 121/66 16 99% RA.
+Seen by ENT who saw significant burns to oropharynx and larynx
+and epiglotis and arytenoids and pooling of secretion. ENT
+advised ICU admission for airway monitoring, and HOB elevation.
+Decadron x3 doses (10mg q8hrs), NPO overnight, pantoprazole.
+Labs notable for WBC 12.7 (N78.7), chem 7 wnl.
+.
+
+Past Medical History:
+depression
+s/p wrist surgery
+
+Social History:
+Student at [**University/College 1539**] [**Location (un) **], studying business. Lives
+with older sister. [**Name (NI) 3937**] live in [**Country 4085**]. Endorses occasional
+alcohol and marijuana use. He has used mushrooms and ecstasy in
+the past. No IV drug use.
+
+Family History:
+Grandmother with unspecified liver disease per patient.
+
+Physical Exam:
+Admission Physical Exam:
+Vitals:  afebrile  BP 102/70   68  97%/RA
+General: Alert, oriented, thin male in no acute distress
+pleasant and conversational, occasionally suctioning secretions
+w yankauer
+HEENT: Sclera anicteric, moist membranes, tonsils and posterior
+pharynx erythematous and friable, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, mild epigastric tenderness, non-distended, bowel
+sounds present, no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII grossly intact, 5/5 strength upper/lower
+extremities, grossly normal sensation
+
+
+Pertinent Results:
+Admission Labs
+[**3048-2-11**] 02:10PM BLOOD WBC-12.9* RBC-4.95 Hgb-15.3 Hct-42.5
+MCV-86 MCH-31.0 MCHC-36.1* RDW-11.8 Plt Ct-267
+[**3048-2-11**] 02:10PM BLOOD Glucose-88 UreaN-13 Creat-1.1 Na-139
+K-4.5 Cl-101 HCO3-22 AnGap-21*
+[**3048-2-12**] 02:25AM BLOOD Calcium-9.3 Phos-4.4 Mg-2.4*
+
+Discharge Labs
+[**3048-2-15**] 07:50AM BLOOD WBC-6.2 RBC-4.62 Hgb-13.8* Hct-40.3
+MCV-87 MCH-29.8 MCHC-34.2 RDW-11.8 Plt Ct-245
+[**3048-2-15**] 07:50AM BLOOD Glucose-96 UreaN-8 Creat-0.9 Na-140 K-4.4
+Cl-101 HCO3-35* AnGap-8
+[**3048-2-15**] 07:50AM BLOOD Calcium-9.3 Phos-4.2 Mg-2.3*
+Other Notable Labs
+[**3048-2-15**] 07:50AM BLOOD ALT-57* AST-93* AlkPhos-56 TotBili-0.4
+[**3048-2-14**] 12:50PM BLOOD ALT-45* AST-91* LD(LDH)-221 AlkPhos-54
+TotBili-0.4
+
+Hepatitis Panel pending at the time of discharge
+
+EGD [**Last Name (LF) 1490**], [**3048-2-14**]:
+Impression: Mild erythema in the whole Esophagus compatible with
+Mild esophagitis likely secondary to thermal injury
+Erosions in the stomach body likely secondary to thermal injury
+Normal mucosa in the duodenum
+Otherwise normal EGD to third part of the duodenum
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] is a 19 year old man with a history of depression who
+presented with acute dysphagia and odynophagia after ingesting
+scalding salt water and sustaining an oropharyngeal burn.
+.
+# Ingestion injury: ENT and GI was consulted in the ED and
+recommended ICU monitoring for airway protection. He was
+intially admitted to the MICU and received three doses of
+decadron. He had no evidence of airway compromise at the time of
+admission. He remained stable without evidence of airway edema
+overnight. He also reported decreased discomfort and tolerated a
+liquid diet. Therefore, he was transfered to the floor in stable
+condition the following evening. He was also treated with IV
+pantoprazole. An EGD was performed and showed thermal damage to
+the stomach and esophagus. GI believed that these lesions would
+resolve completely with avoidance of further injurious agents.
+He will follow up with GI on [**3048-2-23**] and with ENT on [**3048-2-25**] to
+reassess injury and monitor resolution.  GI will likely perform
+a repeat EGD to assess for resolution of his injury. He was
+discharged on Sucralfate 1 gm PO/NG QID and a PPI.
+.
+# Elevated Liver Function Tests: The patient was found to have
+elevated LFTS (ASTs (91 [**3048-2-14**], 92 [**3048-2-15**] and ALTs 45 [**3048-2-14**],
+57 [**3048-2-15**]). Viral hepatitis serologies were sent. These were
+pending at the time of discharge. We instructed the patient to
+follow the results of these tests with his primary care
+physician. [**Name10 (NameIs) **] has an appointment with Dr. [**Last Name (STitle) 7946**] [**Name (STitle) **] on
+[**3048-2-22**].
+.
+# Depression: Patient had a history of depression. He denied any
+thoughts of suicide or intents to harm himself. He should follow
+up with his PCP for further management.
+.
+# Substance abuse: Patient reported approximately [**2-19**] drinks on
+social occasions. We encouraged him to abstain from alcohol and
+other substances.
+
+
+
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+2. sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times
+a day).
+Disp:*120 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnosis
+Thermal Injury to Oropharynx, Esophagus, and Stomach
+
+Secondary Diagnosis
+oropharyngeal burn
+mildly elevated liver function tests
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Thank you for allowing us to take part in your care. You were
+admitted after you drank very hot liquid. You had two
+procedures. We looked at your esophagus and stomach and showed
+some damage caused by the hot liquid. You had another procedure
+looking at your throat that showed burns to the oropharynx,
+larynx and epiglottis.
+
+You are able to eat soft foods and drink cool liquids.
+
+We made the following changes to your medications:
+
+We STARTED omeprazole.
+We STARTED sucralfate (Carafate).
+
+The omeprazole and sucralfate will protect your stomach and
+esophagus from further damage. You should take omeprazole and
+sucralfate until told to stop by a physician.
+
+You had mildly elevated liver enzymes in your blood that are a
+sign of liver injury.  There are many potential causes of
+elevated liver enzymes and these causes should be followed up
+through your primary doctor. We did lab tests for viral
+hepatitis. The results are not yet back from the lab. You will
+need to see your primary care physician for the results of these
+tests.
+
+We would like you to avoid alcohol and other intoxicating
+substances to prevent further injury to your stomach and
+esophagus. We would also like you to stay away from hot foods
+and liquids as well as rough or hard foods that could further
+damage your throat.
+
+Followup Instructions:
+We scheduled the following appointments for you:
+
+Department: [**Hospital3 **]
+When: TUESDAY [**3048-2-22**] at 3:00 PM
+With: [**Name6 (MD) **] [**Name8 (MD) 3197**], MD [**Telephone/Fax (1) 19**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 474**] South Suite
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+**Dr [**Last Name (STitle) 7946**] [**Name (STitle) **] is your new physician at [**Name9 (PRE) **].  He works
+closely with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7123**], [**First Name3 (LF) **] both will be involved in your
+care.  Please call your insurance company and name Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 7123**] as your Primary Care Physician.  [**Name10 (NameIs) 461**] MUST BE DONE BEFORE
+YOUR APPOINTMENT.**
+
+Department: DIV. OF GASTROENTEROLOGY
+When: WEDNESDAY [**3048-2-23**] at 2:30 PM
+With: [**Name6 (MD) 5486**] [**Name8 (MD) 5487**], MD [**Telephone/Fax (1) 15**]
+Building: Ra [**Hospital Unit Name 641**] ([**Hospital Ward Name 642**]/[**Hospital Ward Name 643**] Complex) [**Location (un) **]
+Campus: EAST     Best Parking: Main Garage
+
+Department: OTOLARYNGOLOGY-AUDIOLOGY
+When: FRIDAY [**3048-2-25**] at 1:15 PM
+With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 2776**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) 68**]) [**Location (un) 474**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+
+
+
+DOC CLASS

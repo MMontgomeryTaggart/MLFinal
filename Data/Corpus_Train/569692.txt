@@ -1,0 +1,181 @@
+Chief Complaint:  BRBPR
+   I saw and examined the patient, and was physically present with the ICU
+   Fellow for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   81 y/o M with hematochezia x 12 hrs. Ho prior hx of GIB. SBP low 90s in
+   ED. NG lavage neg. Hct 29 (baseline 30). CXR: RML/RLL infiltrate
+   nchamnged from prior asp pneumonia. SBPs stable overnight. No
+   complaints.
+   Patient admitted from: [**Hospital1 1**] ER
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Home meds:
+   asa 325mg po qd
+   plavix 75 m qd
+   altace 2.5 mg qd
+   multivitamin
+   ariecept 10 mg po qd
+   zocor 40 mg po qd
+   lopressor 12.5 mg po qd
+   prilosec 20 mg po qd
+   bactrim
+   Past medical history:
+   Family history:
+   Social History:
+   PVD w/ bilateral gangrenous wounds of lower extremity; [**2744-2-3**] Left
+   fem-post tib in-situ Non-reversed saphenous veni graft
+   CHF - EF 50% on [**2744-2-3**]
+   Hypertension
+   Gout
+   BPH
+   S/P right lower extremity DVT in [**2718**]
+   PSH: s/p rt. sfa/paf ahtrectomy with Lt. EIA stent [**10-19**],angio
+   [**2744-1-24**] occluded left SFA single vessel runoff AT which occludes
+   at ankle, foot perfused by collaterals
+   [**2744-2-3**] Left fem-post tib in-situ Non-reversed saphenous veni graft
+   s/p TURP
+   S/p hernia repairs
+   s/p Appendectomy
+   S/P right lower extremity DVT in [**2718**]
+   Occupation: retired from westinghouse
+   Drugs: no
+   Tobacco: no
+   Alcohol: no
+   Other: married, one grown daughter ([**Name (NI) 923**]) who is HCP.
+   Review of systems:
+   Constitutional: Fatigue
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   tube feeds
+   Neurologic: weakness
+   Flowsheet Data as of [**2744-2-22**] 10:33 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 84 (72 - 89) bpm
+   BP: 105/42(57) {92/28(56) - 121/71(100)} mmHg
+   RR: 16 (13 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,312 mL
+                                                                  4,215 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,662 mL
+                                                                    345 mL
+   Blood products:
+   Total out:
+                                                                    690 mL
+                                                                  2,925 mL
+   Urine:
+                                                                    690 mL
+                                                                    725 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,622 mL
+                                                                  1,290 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///24/
+   Physical Examination
+   General: Alert, not oriented, no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: R base bronchial breath sounds, L clear
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly. Peg in place.
+   Ext: cool at the toes, bandages in place, 1+ pulses on left, dop on
+   right, evidence of ulcerations on toes., staples upto L groin, stg III
+   stable decub
+   Neuro: strength in tact in LE's, however, could barely sit up, seems
+   cachectic and weak. CN are nonfocal. patient is oriented to place, but
+   poor historian.
+   Labs / Radiology
+   686 K/uL
+   27.6 %
+   9.3 g/dL
+   91 mg/dL
+   0.6 mg/dL
+   19 mg/dL
+   24 mEq/L
+   104 mEq/L
+   4.6 mEq/L
+   136 mEq/L
+   13.2 K/uL
+        [image002.jpg]
+                             [**2744-2-21**]  05:46 PM
+                             [**2744-2-21**]  09:45 PM
+                             [**2744-2-22**]  04:15 AM
+   WBC
+                                    13.2
+   Hct
+                                    33.1
+                                    28.3
+                                    27.6
+   Plt
+                                     686
+   Cr
+                                     0.6
+   Glucose
+                                     91
+   Other labs: PT / PTT / INR:14.6/33.0/1.3, Albumin:2.2 g/dL, Ca++:7.7
+   mg/dL, Mg++:2.3 mg/dL, PO4:3.6 mg/dL
+   Fluid analysis / Other labs: [**2744-2-3**]: ECHO - EF 50%
+   Imaging: CXR: R base opacity, fuid n fissure, ? renal stones
+   Microbiology: Urine Cx - pending
+   Blood Cx x 2 pending
+   ECG: NSR @ 78, leftward axis. Frequent PVC's. Small Q's in I and L. No
+   STTWC. No significant change from prior.
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, LOWER (HEMATOCHEZIA, BRBPR, GI BLEED, GIB)
+ IMPAIRED SKIN INTEGRITY
+   81 yo M with history of recent admission for fem-[**Doctor Last Name 113**] readmitted for
+   BRBPR, medically stable, Hct stable.
+   LGIB - no prior hx, no scopes, on ASa and plavix for PVD and stent.
+   - ask vascular sx if ASA/plavix can be held for some duration, held for
+   now
+   - prepped for scope today
+   - cucle Hct
+   Hypotension: stable off HTN meds.
+   Recent Aspiration Pna on CXR: follow clinically
+   Thrombocytosis: heme c/s if stays off ASA/plavix, risk for worsening
+   PVD. ? reactive froom osteo
+   UTI: complete Bactrim course
+   Decub: wound consult
+   Rest per housestaff note
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   18 Gauge - [**2744-2-21**] 04:08 PM
+   Comments:
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments: updated
+   Code status: DNR (do not resuscitate)
+   Disposition: ICU
+   Total time spent:
+
+
+
+DOC CLASS

@@ -1,0 +1,202 @@
+CVICU
+   HPI:
+   HD25
+   [**5-1**] POD 19
+   76M s/p CABG x4 (Lima->LAD/SVG->Diag/OM/PDA )/LAA resection-[**4-11**]
+   EF:45-50% Cr:1.5 Wt:220lbs HgA1c: 6.6
+   PMH: MI 30y ago, remote tob, severe COPD, severe PVD, Afib HTN,
+   ^lipids, Obesity, Glaucoma, Cholelithiasis, right pericardial Cyst
+   (noted on CT [**3-16**]), skin CA x 2
+   [**Last Name (un) **]: Lasix 40' Xalatan Timoptic prilosec 20' Zocor 80' Plavix 75'
+   Cardizem CD 120' Aspirin 81' Lopressor 50'' Fluorouracil 5% cream
+   Combivent inhaler 2 puffs QID
+   Current medications:
+   Acetaminophen, Aspirin EC, Bisacodyl, Carvedilol, Furosemide, Insulin,
+   Ipratropium Bromide Neb, Latanoprost 0.005% Ophth. Soln, Lansoprazole
+   Oral Disintegrating Tab, Olanzapine, Simvastatin, Timolol Maleate 0.5%,
+   Warfarin,  Xopenex
+   24 Hour Events:
+   Remains in ICU for pulmonary and neurological management
+   Started auto cpap with naps and at night for sleep due to apnea
+   tolerating well
+   Started D5W for free water deficit and decreased lasix
+   Coumadin 7.5 mg [**4-30**]
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3133-5-1**] 05:35 AM
+   Other medications:
+   Flowsheet Data as of  [**3133-5-1**] 09:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**35**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.8
+C (98.3
+   HR: 115 (100 - 115) bpm
+   BP: 113/65(77) {82/49(61) - 119/75(86)} mmHg
+   RR: 29 (17 - 30) insp/min
+   SPO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 93.3 kg (admission): 98.6 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,806 mL
+                                                                    789 mL
+   PO:
+                                                                    640 mL
+                                                                    360 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,166 mL
+                                                                    429 mL
+   Blood products:
+   Total out:
+                                                                  2,297 mL
+                                                                    910 mL
+   Urine:
+                                                                  2,297 mL
+                                                                    910 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -491 mL
+                                                                   -121 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: 7.54/40/50/30/10
+   Physical Examination
+   General Appearance: No acute distress, disoriented but pleasant,
+   follows instructions
+   HEENT: left > right both reactive to light
+   Cardiovascular: (Rhythm: Irregular) afib
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: expiratory
+   wheezes throughout ), (Sternum: Stable no drainage)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   left leg EVH healing no erythema no drainage, bilateral heels with
+   stage 2
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities
+   Labs / Radiology
+   339 K/uL
+   10.5 g/dL
+   67 mg/dL
+   1.6 mg/dL
+   30 mEq/L
+   3.7 mEq/L
+   47 mg/dL
+   104 mEq/L
+   146 mEq/L
+   32.2 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**3133-4-26**]  02:04 PM
+                             [**3133-4-27**]  03:49 AM
+                             [**3133-4-27**]  04:27 AM
+                             [**3133-4-28**]  03:10 AM
+                             [**3133-4-28**]  06:00 AM
+                             [**3133-4-29**]  02:00 AM
+                             [**3133-4-30**]  03:01 AM
+                             [**3133-4-30**]  03:02 AM
+                             [**3133-4-30**]  11:38 AM
+                             [**3133-5-1**]  03:42 AM
+   WBC
+   14.7
+   10.3
+   9.3
+   9.3
+   9.4
+   Hct
+   29.4
+   30.9
+   32.2
+   31.6
+   32.2
+   Plt
+   [**Telephone/Fax (3) 6515**]16
+   339
+   Creatinine
+   1.8
+   1.7
+   1.7
+   1.8
+   1.6
+   TCO2
+   31
+   37
+   35
+   35
+   Glucose
+   70
+   64
+   55
+   102
+   75
+   67
+   Other labs: PT / PTT / INR:23.4/36.8/2.3, CK / CK-MB / Troponin
+   T:48/3/0.05, ALT / AST:26/32, Alk-Phos / T bili:75/2.2, Amylase /
+   Lipase:[**8-15**], Differential-Neuts:71.5 %, Lymph:15.6 %, Mono:7.0 %,
+   Eos:5.5 %, Fibrinogen:301 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:3.0
+   g/dL, LDH:273 IU/L, Ca:9.2 mg/dL, Mg:2.7 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   BALANCE, IMPAIRED, AROUSAL, ATTENTION, AND COGNITION, IMPAIRED,
+   KNOWLEDGE, IMPAIRED, MUSCLE PERFORMACE, IMPAIRED, RANGE OF MOTION,
+   IMPAIRED, TRANSFERS, IMPAIRED, ALTERATION IN NUTRITION, HYPOKALEMIA
+   (LOW POTASSIUM, HYPOPOTASSEMIA), IMPAIRED SKIN INTEGRITY, ACTIVITY
+   INTOLERANCE, RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**]), CORONARY ARTERY
+   BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q4 hr, denies pain
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins
+   coumadin 6mg tonight
+ atrial fibrillation
+   Pulmonary: IS, auto CPAP at night due to episodes of apnea, continue
+   with nebs and chest PT , will need sleep consult called [**5-2**]
+   Gastrointestinal / Abdomen: Continues with diarrhea will check Cdiff
+   and stopping colchine
+   Nutrition: Regular diet, Speech and Swallow eval, nectar thick,
+   swallowing continues to improve, continue 1:1 observation will start
+   calorie counts to evaluate nutritional intake
+   Renal: Foley, Adequate UO, decreased lasix due to free water deficit,
+   2.6 deficit today which is improved will recheck sodium in afternoon,
+   continue d5w , BUN and cr continue to improve
+   Hematology:  stable anemia
+   Endocrine: RISS, stopping Lantus due to low blood glucose will
+   reevaluate in evening
+   Infectious Disease:  no evidence of infection WBC 9,  Afebrile
+ had
+   been treated for staph in sputum with vancomycin, entercoccus in urine
+   resolved, in addition there was a superficial swab of sternal wound
+   drainage with staph however he is +MRSA based on nasal swab prior to
+   sternal swab, sternal wound edges always remained well aproximated
+   Lines / Tubes / Drains: Foley, flexiseal
+   Fluids:  d5w
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3133-4-28**] 03:00 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,31 @@
+TITLE:
+   Critical Care Attending ICU Note
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided. I agree with the
+   note above, including assessment and plan.
+   [**Age over 90 **] yo w/dementia/DM/DVT s/p IVC filter/intermittent colonic
+   obstruction-volvulus now admitted with hypotension. Had been home for 2
+   weeks following similar admission to current one, and again had
+   hypotension following BM. In ED got 4 L IVF w/BP rising from 70's to
+   90's. CXR w/?subtle new RML infiltrate. Son confirms DNR/DNI and got
+   CVL and broad spectrum abx. Reports new cough. Overnight required add'l
+   IVF bolus and pressors to maintain SBP.
+   On exam, alert and oriented to self - No cough this am. HR 88 BP 108/50
+   RR 12 SAt 97% 4L O/P dry. Decreased breath sounds bilaterally, irreg
+   rhythm w/o murmur. RLQ tenderness w/o rebound, [**1-30**] LE edema. Notable
+   labs Lact 3.7, WBC 22 w/left shift, creat 1.5.
+   Imp/Plan - [**Age over 90 **] yo man with /dementia/DM/DVT s/p IVC filter/intermittent
+   volvulus now admitted with hypotension and possible sepsis with
+   potential sources viral vs bacteria and sites possible lungs, GI tract
+   or urinary source. We will culture and cover broadly pending more
+   specifics over next 24-48 hr. If rules out for flu, will stop tamiflu.
+   Await Cdiff. Will fluid resuscitate and attempt to wean pressors and
+   mobilize as tolerated. Hold anti-hypertensives pending stabilization.
+   DNR/DNI.
+   [**First Name4 (NamePattern1) 18**] [**Last Name (NamePattern1) 869**], MD
+   Total time: 35 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

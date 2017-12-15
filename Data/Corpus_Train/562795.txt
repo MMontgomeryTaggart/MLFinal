@@ -1,0 +1,287 @@
+Chief Complaint:  DKA
+   HPI:
+   Ms. [**Known patient lastname 749**] is a 38 y/o woman with PMH notable for type I DM (since age
+   6), PVD s/p L BKA ([**2525**]) admitted from the VICU with diabetic
+   ketoacidosis. The patient originally presented to the vascular lab this
+   morning for planned angiogram of the right leg due to dry gangrene of
+   right 1st and 3rd toes. The patient was told not to take her insulin
+   the morning of her procedure and she was NPO. On arrival to the
+   procedure, the patient had a critically high fingerstick; labs taken at
+   830 am demonstrated a blood glucose of 994. Of note, she was recently
+   admitted [**Date range (1) 4370**] due to hyperglycemia and PVD/dry gangrene of
+   the right foot as above. At that time, she was discharged to home for
+   outpatient workup of her PVD. She contact[**Name (NI) **] her PCP, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 654**], for
+   expedited workup and angiogram was planned for today.
+   .
+   This morning, she underwent angiography of her right leg (sheath placed
+   in left leg and she received 110 cc of contrast. The site was closed
+   with perclose at the end of the procedure (1030 am). During the
+   procedure, she was given 16 U of regular insulin and started on an
+   insulin drip at 10 U an hour at 1055 am.
+   .
+   On the floor, the patient's vitals were T 96.3 HR 90 BP 114/70 RR 16
+   POx 100% on RA. ABG was 7.15 / 33 / 126. She was then transferred to
+   the ICU for further management of DKA. On arrival to the ICU, the
+   patient is complaining of "total body" pain, mainly in her arms and
+   legs. She also is complaining of pain in the left groin. She states
+   that her pain is due to "all the procedures she's had this morning."
+   She has usual phantom limb pain for which she takes one percocet daily.
+   She also takes gabapentin three time per day. She denies any recent
+   fevers, chills, nausea, vomiting, diarrhea, chest pain, or shortness of
+   breath. Her sugars have been running 200-300 and she has been taking
+   her insulin regularly with the exception of this am.  She at dinner
+   normally last night (tuna casserole).
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Elavil (Oral) (Amitriptyline Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Insulin - Regular - 15 units/hour
+   Other ICU medications:
+   Other medications:
+   on admission, confirmed with patient
+   1. Aspirin 81 mg once a day.
+   2. Omeprazole 20 mg PO BID
+   3. Clonidine 0.1 mg PO twice a day.
+   4. Metoprolol Succinate 200 mg PO once a day.
+   5. Gabapentin 300 mg PO three times a day.
+   6. Zolpidem 10 mg PO at bedtime.
+   7. Ergocalciferol Oral 800mg daily
+   8. Calcium acetate 667mg TID
+   9. Simvastatin 10mg daily
+   10. Lisinopril 2.5 mg daily
+   11. Insulin 75/25 15 units qAM, 20 units qPM
+   12. Insulin Lispro Sliding scale as directed.
+   13. Ativan 0.5mg [**Hospital1 7**] prn anxiety
+   14. Percocet 5/325mg [**12-11**] po prn pain
+   Past medical history:
+   Family history:
+   Social History:
+   DM Type 1 - poorly controlled with h/o neuropathy, DKA
+   S/p L BKA [**2634-6-24**]
+   h/o hepatitis B
+   H/o ARDS secondary to sepsis
+   PVD
+   Depression
+   Chronic anemia
+   Dyslipidemia => hypertriglyceridemia
+   CHF
+   non-ST elevation MI on [**2634-10-17**]
+   Retinal detachment OS
+   father with type 2 DM
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Lives in apartment with 16-year-old daughter. Denies EtOH use
+   currently although reports occasional use in past. [**12-11**] cigarettes a day
+   on and off for 10 years. Denies h/o illicit drug use besides marijuana
+   although admitted to cocaine use after being found to have urine
+   positive for cocaine on last admission.
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria
+   Musculoskeletal: No(t) Joint pain
+   Integumentary (skin): No(t) Rash
+   Endocrine: Hyperglycemia
+   Neurologic: No(t) Headache
+   Flowsheet Data as of [**2634-11-27**] 04:03 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.4
+C (95.8
+   Tcurrent: 35.4
+C (95.8
+   HR: 82 (82 - 87) bpm
+   BP: 155/81(111) {143/81(109) - 159/87(116)} mmHg
+   RR: 12 (10 - 13) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 61 Inch
+             Total In:
+             3,056 mL
+   PO:
+             TF:
+   IVF:
+   1,406 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  3,200 mL
+   Urine:
+   1,000 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -144 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: 7.29/37/101/10/-7
+   Physical Examination
+   T: 95.8 BP: 148/83 P:87 R: 10 O2: 100% on RA
+   General: young female in mild distress secondary to pain, tearful
+   HEENT: no scleral icterus, pupils small, eomi, tongue moist and midline
+   Neck: supple, no lymphadenopathy
+   Lungs: clear bilaterally without wheezing or rhonchi
+   CV: RRR, normal S1/S2, 2/6 systolic murmur at LUSB
+   Abdomen: soft, nontender, normoactive bowel sounds, no rebound/guarding
+   Ext: Left groin dressing C/D/I, no hematoma, s/p L BKA with dressing,
+   DP pulse 1+ in right foot, dry gangrene on 1st and 3rd toes of right
+   foot
+   Labs / Radiology
+   666
+   994-->724
+   1.5
+   44
+   10
+   90
+   4.5
+   125
+   30.8
+   12.6
+        [image002.jpg]
+                                  [**2631-12-12**]
+                         2:33 A12/18/[**2633**]  03:24 PM
+                                  [**2631-12-16**]
+                                   10:20 P
+                                  [**2631-12-17**]
+                                   1:20 P
+                                  [**2631-12-18**]
+                                   11:50 P
+                                  [**2631-12-19**]
+                                   1:20 A
+                                  [**2631-12-20**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2632-1-12**]
+                                   1:20 P
+                                  [**2632-1-12**]
+                                   11:20 P
+                                  [**2632-1-12**]
+                                   4:20 P
+   TC02
+                                     19
+   Other labs: PT / PTT / INR://1.0, Lactic Acid:1.5-->2.3 mmol/L,
+   Ca++:9.1, Mg++:2.2, PO4:4.5
+   Fluid analysis / Other labs: 7.15 / 33 / 126
+   serum acetone positive
+   serum osms 333
+   UA: [**2-12**] RBCs, 0-2 wbcs, few bact, few yeast, [**2-12**] epis
+   urine tox negative
+   Imaging: angiography:  pending
+   Microbiology: none
+   ECG: sinus rhythm at 90, normal axis, inverted t wave in v1, III, avf
+   (old), inverted p wave in v1 (old)
+   Assessment and Plan
+   Ms. [**Known patient lastname 749**] is a 38 y/o woman with DMI, PVD s/p left BKA and dry gangrene
+   of 1st and 3rd digits of the foot presenting in transfer from [**Hospital Ward Name 278**] 5
+   VICU with DKA after right leg angiogram.
+   .
+   # Diabetic ketoacidosis - Seems to be secondary to missing AM insulin,
+   D51/2NS given during procedure, and stress of the procedure. Serum
+   acetone is positive and positive ketones in urine. Fingersticks on
+   arrival this morning were greater than assay on the glucometer. AG now
+   25, repeat lytes pending.
+   - NS at 150 cc/hour (already received 1 L bolus on floor)
+   - fingersticks q1h
+   - insulin gtt
+   - d/c D51/2ns for now (replaced with NS)
+   - Electrolytes q4h with repletion of potassium, calcium, and magnesium
+   - [**Last Name (un) 292**] consult
+   - will d/c insulin gtt when gap closes & start SC insulin
+   - plan to start D5 once glucose < 200
+   - repeat ABG now, start bicarb fluids if pH < 7.00
+   .
+   # PVD w/ dry gangrene of 1st/3rd digits of right? foot - Vascular aware
+   of patient and would like to proceed with femoral-popliteal bypass,
+   hopefully during this admission.
+   - check venous doppler for mapping. Patient told primary floor team
+   that she would like to hold off on surgical intervention until after
+   [**Holiday 4371**].
+   - f/u final vascular recommendations, arrange surgical date/time for
+   hopefully this admission if patient agreeable
+   - continue ASA, statin
+   .
+   # Acute renal insufficiency: Creatinine up to 1.5 from baseline 0.9-1.
+   Will continue to trend.
+   - fluids as above
+   - hold ACEi
+   - consider mucomyst
+   .
+   # Hyponatremia: Likely pseudohyponatremia given blood sugar > 700.
+   Corrects to approximately 139 for glucose at the time. Continue to
+   trend.
+   .
+   # Pain: Complaining of "all over" body pain on arrival to MICU.
+   - morphine 2 mg IV X 1
+   - tylenol & oxycodone by mouth, monitor for sedation
+   - continue gabapentin, appropriately dosed for renal function currently
+   .
+   # Recent NSTEMI: Continue aspirin, statin, beta blocker. No concerning
+   EKG changes currently.
+   .
+   # hypertension: Continue home meds with exception of ACEi. Will change
+   toprol XL to [**Hospital1 **] lopressor for easier titration.
+   .
+   # FEN: IVF as above, replete electrolytes, sips for now and advance
+   diet as tolerated
+   .
+   # Prophylaxis: Subcutaneous heparin, ppi per home regimen, bowel meds
+   prn
+   .
+   # Access: peripheral X 1, attempt to place 2nd peripheral, Aline placed
+   by vascular team in VICU
+   .
+   # Code: full
+   .
+   # Communication: with patient and family. Father [**Name (NI) **] [**Name (NI) 749**]
+   [**Telephone/Fax (1) 4372**]
+   .
+   # Disposition: MICU for now
+   .
+   ICU Care
+   Nutrition:
+   Comments: sips-->advance as tolerated
+   Glycemic Control: Insulin infusion
+   Lines:
+   20 Gauge - [**2634-11-27**] 01:40 PM
+   22 Gauge - [**2634-11-27**] 03:30 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Critical Care
+   Present for key portions of history and exam. Agree with Dr. [**First Name (STitle) **]
+   assessment and plan as outlined above.  DKA precipitated apparently by
+   withholding insulin in preparation for angiogram.  Her BS has come down
+   nicely on insulin gtt and her gap has closed. She has no nausea and is
+   hungry so we are converting to sq insulin after feeding her.  Gtt now
+   off.  Well hydrated for dye load but no NaHCo3 or Mucomyst. Urine
+   output remains good and creat is relatively normal.
+   Time spent 40 min
+   Patient critically ill
+   ------ Protected Section Addendum Entered By:[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 51**] [**Last Name (NamePattern1) 35**], MD
+   on:[**2634-11-27**] 19:27 ------
+
+
+
+DOC CLASS

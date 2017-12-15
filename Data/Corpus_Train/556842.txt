@@ -1,0 +1,184 @@
+Events
+   - PEEP decreased to 8, then spontaneous breathing trial-->[**Last Name (LF) **], [**First Name3 (LF) **] now
+   back on PEEP 8
+   - tube feeds stopped at MN in anticipation of extubation tomorrow
+   - f/u CXR improving
+   - 5 pm Hct stable
+   - 5 PM Na increased to 152, getting free water boluses (just increased
+   prior to 5 pm lytes), 11 pm lytes
+   - PCP coverage [**Name (NI) 401**] regarding reason for [**Name (NI) **], no warfarin.  He
+   will get records and call back tomorrow
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 38.2 C
+   Tmax F last 24 hours: 100.7 F
+   T current C: 37 C
+   T current F: 98.6 F
+   Previous day:
+   Intake: 2,472 mL
+   Output: 1,245 mL
+   Fluid balance: 1,227 mL
+   Today:
+   Intake: 835 mL
+   Output: 305 mL
+   Fluid balance: 530 mL
+   BP 115/43, HR 74, RR 17, O2 97%, CVP 10
+   GENERAL: elderly woman intubated, responsive to commands
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pale,
+   NECK: Supple with JVP 9cm.
+   CARDIAC: Irreg rate, normal S1, S2. 2/6 SEM. No thrills, lifts. No S3
+   or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Bibasilar
+   crackles
+   ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs
+   448
+   8.0
+   178
+   0.8
+   22
+   3.9
+   36
+   121
+   154
+   24.0
+   12.7
+        [image002.jpg]
+                            [**3180-1-29**]  12:01 AM
+                            [**3180-1-29**]  04:51 AM
+                            [**3180-1-29**]  12:00 PM
+                            [**3180-1-29**]  02:28 PM
+                            [**3180-1-29**]  03:31 PM
+                            [**3180-1-29**]  05:06 PM
+                            [**3180-1-29**]  05:17 PM
+                            [**3180-1-29**]  06:00 PM
+                            [**3180-1-29**]  10:51 PM
+                            [**3180-1-30**]  04:14 AM
+   WBC
+   10.9
+   12.7
+   Hgb
+   8.3
+   8.0
+   Hct (Serum)
+   23.8
+   23.8
+   24.0
+   Plt
+   479
+   448
+   Na+
+   149
+   152
+   154
+   K + (Serum)
+   4.2
+   3.9
+   Cl
+   122
+   121
+   HCO3
+   22
+   22
+   BUN
+   36
+   36
+   Creatinine
+   1.0
+   0.8
+   Glucose
+   173
+   185
+   260
+   147
+   178
+   O2 sat (arterial)
+   90
+   91
+   98
+   ABG: 7.47 / 29 / 165 /  / 0   Values as of [**3180-1-29**] 05:17 PM
+   Assessment and Plan
+   61F w CAD (s/p CABG), who originally p/w 3 wks of chills/malaise, and
+   developed respiratory failure likely [**2-25**] PNA.
+   # Respiratory failure: initial concern for ARDS given acute-onset
+   hypoxemia, bilateral infiltrates on chest CT, low CVP. Likely [**2-25**]
+   PNA/sepsis, not likely to be [**2-25**] cardiogenic pulmonary edema (CVP is
+   low). Question of TRALI given blood transfusion on admission. PCP
+   negative, studies sent from mini-BAL, also autoimmune studies to r/o
+   vasculitis. CXR with ?new infiltrate.
+   - continue ventilatory support; SBT and possible extubation
+   - continue current antibiotics; if cx unremarkable, will narrow
+   coverage
+   - f/u miniBAL studies, cultures
+   - f/u CXR read
+   - f/u ID and pulmonary recommendations
+   # PUMP: On admission, acute systolic CHF exacerbation (LVEF 25-30%) in
+   the setting of a-fib and IVF/pRBC infusion. Now resolved with diuresis
+   given low CVP. Recent hypotension requiring pressors, but now more
+   stable BP off pressors.
+   - monitor urine output closely
+   - hold off diuresis for now
+   # RHYTHM: Patient had 24 hour episode of afib, now in NSR.  She had a
+   history of paroxysmal afib previously per patient, but PCP had chosen
+   not to anticoagulate for unclear reasons.  She has also been having
+   episodes of bigeminy. PCP
+[**Name Initial (PRE) **] office was [**Name Initial (PRE) 401**] regarding
+   anticoagulation.
+   - f/u PCP
+   [**Name Initial (PRE) **] continue telemetry
+   - continue metoprolol
+   - keep K > 4.0, Mg > 2.0; replete prn
+   # CORONARIES: h/o CAD s/p CABG
+   - continue clopidogrel, ASA, and statin
+   - continue metoprolol
+   - will hold ACEi in the setting of acute renal failure
+   # Acute renal failure: Cr on admission 1.5 with elevated BUN. In the
+   setting of 3 wk of fever and poor po intake, this is most likely
+   prerenal (FEBUN 26%).  Cr now back to normal, 0.8.
+   - monitor renal labs, urine output
+   - restart ACEI
+   # Anemia: Patient with a history of pernicious anemia on b12 injections
+   and additionally is on iron as an outpatient. On admission had Hct of
+   23 got 1 unit of pRBCs. Unlikely hemolysing or acutely bleeding given
+   elevated haptoglobin, normal bilirubin. Anemia labs with iron 11 (low),
+   TIBC 229 (low), B12 > assay, folate > assay, haptoglobin 360
+   (elevated), ferritin 1063 (high) transferrin 176 (elevated). Given
+   markedly elevated ferritin suggests anemia of chronic disease.  Hct
+   bumped appropriately after 1 unit of pRBCs.
+   - monitor CBC closely
+   - cont outpatient iron, outpatient weekly b12 shots
+   - guaiac stool (no BM yet)
+   .
+   # Hypernatremia: sodium elevated today, water deficit of 1.7L
+   - continue D5W
+   - monitor lytes
+   .
+   # Hypothyroidism:
+   - continue levothyroxine
+   .
+   # FEN/GI: intubated, replete lytes PRN, PPI
+   .
+   # ACCESS: Right IJ, Left radial a-line, PIV; consider removing IJ if
+   still improving tomorrow
+   .
+   # PROPHYLAXIS: iv heparin, ppi, colace, senna
+   .
+   # CODE: full
+   .
+   # DISPO: CCU care for now
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   Total time spent on patient care: 30 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 140**] [**Last Name (NamePattern1) **], MD
+   on:[**3180-1-30**] 09:34 ------
+
+
+
+DOC CLASS

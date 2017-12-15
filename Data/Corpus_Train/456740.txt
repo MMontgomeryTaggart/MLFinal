@@ -1,0 +1,153 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   63F with h/o COPD (FEV1 1.13) followed by Dr. [**Last Name (STitle) 1592**]; admitted with
+   dyspnea.  Symptoms began last week in setting of not having home O2
+   (3LNC) and had increasing dyspnea.  Cough at baseline with mildly
+   productive sputum of clear sputum.  Also has baseline orthopnea
+   associated with OSA.  She denies fevers, chills, URI symptoms.
+   Yesterday she came to ER because of increased dyspnea while showering.
+   In ED she was reportedly combative and refused bipap.  However, upon
+   arrival to the MICU she was on 2LNC, conversant, and not acutely ill
+   appearing.
+   After arrival she was stable, given solumedrol, bronchodilators.  She
+   was stable overnight without any other acute issues or complaints.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Azithromycin - [**3307-11-30**] 10:00 PM
+   Ceftriazone
+   ICU medications:
+   Omeprazole (Prilosec) - [**3307-12-1**] 08:08 AM, Prednisone 40mg daily,
+   Atrovent
+   Albuterol, Spiriva, Prilosec
+   Lopressor, Lisinopril, Hydroxychlorquine
+   Lasix, Folic Acid, Norvasc, Lipitor
+   Advair
+   Home medications:
+   Atorvastatin, Albuterol, Advair, Spiriva
+   Lasix, Vicodin, Plaquenil, Lisinopril
+   Metoprolol, Omeprazole, Ultram
+   Past medical history:
+   Family history:
+   Social History:
+   COPD
+   HTN
+   CHF (EF 25-30%)
+   Pulmonary nodules/LAD on chest CT
+   DM
+   Rheumatoid arthritis
+   H/o diverticulitis: s/p partial colectomy
+   Hyperlipidemia
+   Non-contributory
+   Occupation:
+   Drugs: denies
+   Tobacco: Smokes 1ppd; significant PMHx.
+   Alcohol: denies
+   Other: Son and daughter live with her.
+   Review of systems:
+   As per resident admission note.
+   Flowsheet Data as of [**3307-12-1**] 10:13 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.4
+C (97.5
+   HR: 101 (85 - 101) bpm
+   BP: 158/81(101) {132/65(81) - 158/106(113)} mmHg
+   RR: 25 (14 - 30) insp/min
+   SpO2: 90%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    538 mL
+                                                                    340 mL
+   PO:
+                                                                    500 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                     38 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                    300 mL
+                                                                    500 mL
+   Urine:
+                                                                    300 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    238 mL
+                                                                   -160 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 90%
+   ABG: ////
+   Physical Examination
+   Gen: Awake, alert, conversant, NAD
+   Chest: diffuse wheeze, prolonged exhalation phase
+   CV: RRR
+   Abd: s/nt/obese
+   Ext: [**12-17**]+ edema
+   Labs / Radiology
+   231
+   40.3
+   108
+   0.6
+   10
+   33
+   102
+   3.7
+   142
+   7.9
+        [image002.jpg]
+   Fluid analysis / Other labs: BNP 424
+   Cardiac markers negative
+   Imaging: CXR: no evidence for consolidation or significant pulmonary
+   edema.
+   Microbiology: Influenza: pending
+   Sputum cultures: pending
+   Assessment and Plan
+   63F with CHF, COPD; admitted with 1 week of increased dyspnea, wheeze.
+   Suspect COPD exacerbation in setting of increased wheeze; no evidence
+   of PNA.  Always a possibility that increased left atrial pressure
+   secondary to CHF can contribute, though no clear evidence of overt
+   pulmonary edema on exam or CXR.
+   1.       COPD:
+   - bronchodilators, inhaled corticosteroids, spiriva
+   - await flu swab, cultures
+   - Prednisone 40mg
+   - Will notify Dr. [**Last Name (STitle) 1592**] of her admission
+   - d/c ceftriaxone; continue azithromycin
+   2.       CHF:  Given lasix IV this morning (home dose) for perhaps mild
+   pulmonary edema
+   -   Home lasix now, but would aim for TBB negative 500ml today.
+   -   Home BP regimen
+   ICU Care
+   Nutrition:  Cardiac diet
+   Glycemic Control: Insulin sliding scale
+   Lines / Intubation:
+   20 Gauge - [**3307-11-30**] 08:21 PM
+   Comments:
+   Prophylaxis:
+   DVT: heparin SQ
+   Stress ulcer: PPI
+   VAP:  Not intubated
+   Communication:  Patient updated during rounds
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 35minutes
+
+
+
+DOC CLASS

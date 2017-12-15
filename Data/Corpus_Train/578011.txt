@@ -1,0 +1,200 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - START [**3429-3-27**] 08:00 AM
+   Code status discussion: DNR but ok to intubate.
+   Went to OR for IM nail placement. Now [**Name (NI) 2932**], PT, ortho will change dsg
+   POD#2. HCT stable post-op.
+   Thyroid Ab studies pending.
+   Has bed at rehab on Sunday.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3429-3-28**] 03:30 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3429-3-28**] 06:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 35.4
+C (95.8
+   HR: 74 (66 - 92) bpm
+   BP: 118/40(68) {108/31(56) - 157/70(103)} mmHg
+   RR: 16 (16 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+             Total In:
+                                                                  1,657 mL
+                                                                    230 mL
+   PO:
+                                                                    620 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    737 mL
+                                                                    110 mL
+   Blood products:
+                                                                    300 mL
+   Total out:
+                                                                  1,230 mL
+                                                                    200 mL
+   Urine:
+                                                                    830 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    427 mL
+                                                                     30 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///21/
+   Physical Examination
+   GENERAL: A+Ox3, NAD, appropriate, alert, talkative
+   HEENT: NCAT. Sclerae anicteric. Poor dentition.
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: RRR no murmurs, rubs, gallops
+   LUNGS: mild right>L bibasilar crackles, otherwise clear
+   ABDOMEN: Soft, NTND. NABS.
+   EXTREMITIES: No edema, 2+ DP pulses.  Left hip dsg C/D/I
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   233 K/uL
+   10.5 g/dL
+   157 mg/dL
+   0.5 mg/dL
+   21 mEq/L
+   3.8 mEq/L
+   28 mg/dL
+   111 mEq/L
+   145 mEq/L
+   30.1 %
+   10.4 K/uL
+        [image002.jpg]
+                             [**3429-3-26**]  03:28 AM
+                             [**3429-3-26**]  09:07 AM
+                             [**3429-3-26**]  06:02 PM
+                             [**3429-3-27**]  04:24 AM
+                             [**3429-3-27**]  10:47 AM
+                             [**3429-3-27**]  05:02 PM
+                             [**3429-3-27**]  09:42 PM
+                             [**3429-3-28**]  04:58 AM
+   WBC
+   8.3
+   7.3
+   12.6
+   10.2
+   9.7
+   10.4
+   Hct
+   26.9
+   27.8
+   27.5
+   29.2
+   31.0
+   31.2
+   30.8
+   30.1
+   Plt
+   163
+   209
+   200
+   [**Telephone/Fax (3) 6474**]
+   Cr
+   0.5
+   0.4
+   0.5
+   Glucose
+   99
+   107
+   157
+   Other labs: PT / PTT / INR:20.5/29.8/1.9, ALT / AST:16/28, Alk Phos / T
+   Bili:74/0.6, Albumin:3.1 g/dL, LDH:302 IU/L, Ca++:8.4 mg/dL, Mg++:2.4
+   mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   78yo F with no past medical history transferred from OSH after having
+   NSTEMI in setting of hip fracture from mechanical fall.
+   Left hip fracture: patient had ORIF of left hip yesterday. Currently
+   pain free.
+   - Will manage pain, cautious with narcotics
+   - sub q hep for dvt prophylaxis
+   - Monitor pulses, edema, hct to ensure no bleed into joint
+   - orthopedics recs
+   - [**Name (NI) 2932**], PT, dsg will be changed POD#2 (Sunday) by ortho
+   NSTEMI: elevated troponin, had cardiac catherization showing mild
+   nonobstructive disease. Possibly autolysed lesion, or had coronary
+   spasm peri-fall or may have had takotsubo with hip fracture. EF 45%
+   - Aspirin decreased from 325mg to 81mg since no stent
+   - discontinued plavix 75
+   - daily EKG
+   -continue metoprolol at increased dose of 25mg PO BID, uptitrate as
+   tolerated
+   - ECHO showing EF 40%, Mild left regional regional systolic dysfunction
+   with distal anterior, septal and apical hypokinesis c/w CAD. Mild
+   mitral regurgitation
+   Atrial Fibrillation/Pauses: appears that this is since [**3-26**]. RVR as
+   fast as 160s. on the floor she was given 5mg iv lopressor and had 5s
+   pause, appeared to be conversion pause. In CCU, about 30 minutes after
+   metoprolol patient had >6s pause, asymptomatic but has been in sinus
+   since.
+   -continue metoprolol for rate control, uptitrate as tolerated
+   -initially started on amiodarone for rhythm control but found to be
+   hyperthyroid so discontinued
+   -coumadin started for anticoagulation
+   -need [**Doctor Last Name 2219**] of heart upon discharge
+   -card follow up on d/c
+   Hyperthyroid- by labs prior to starting
+   -f/u thyroid antibodies
+   -endocrine follow up arranged as outpatient
+   Mental Status Changes: Patient was A+OX3 prior to getting dilaudid on
+   admissiont so suspect medication effect.
+   -avoid sedatvies
+   - head CT negative
+   - use narcotics with caution
+   Fever: to 102 on arrival to floor. patient had cough, but per niece it
+   is chronic [**2-2**] smoking. denies abd pain, urinary complaints. may be
+   related to hip, atelectasis. Now afebrile last 24 hours.
+   - f/u blood cultures
+   - f/u urine culture
+   - CXR: no infiltrate
+   Systolic CHF: acuity is unclear. [**Name2 (NI) **] of 20% is low for a first NSTEMI.
+   Repeat echo shows improvement of EF to 40-45% which may represent
+   Takutsubo
+s, stress related cardiomyopathy.
+   -monitor I/Os, daily weights
+   PPx: subqhep, coumadin,  bowel reg
+   FEN:  cardiac diet, replete lytes prn
+   ACCESS: PIV x 2
+   CODE: DNR/ok to intubate with the exception of during procedures
+   (surgery or cardiac catheterization)
+   CONTACT: [**Name (NI) 4896**] (husband)
+   DIspo CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3429-3-25**] 07:30 PM
+   Arterial Line - [**3429-3-27**] 08:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

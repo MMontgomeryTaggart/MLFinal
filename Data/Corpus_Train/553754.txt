@@ -1,0 +1,218 @@
+CVICU
+   HPI:
+   HD5
+   [**2-8**] POD 3
+   65M s/p Thrombectomy of R limb of aortobifem, pseudoaneurysm resection
+   with interposition graft/Reexploration for retroperitoneal bleeding
+   [**2-5**]
+   PSHx:aortobifem bypass, L AKA, MI [**10**] yrs ago , s/p CABG
+   PMHx: DVT, PE (2 yrs ago), hyperlipidemia, HTN
+   [**Last Name (un) 500**]: Coumadin 7', ASA 81', Lisinopril 10', HCTZ 12.5', Metoprolol 50',
+   Omeprazole 20', Lovastatin 20'
+   Plan: hep 1000 u/hr: goal PTT 60-80
+   Keep SBP>110 <150
+   R/O MI
+   check CKs, (compartment syndrome)
+   Chief complaint:
+   PMHx:
+   Current medications:
+    Albuterol-Ipratropium 7. Famotidine 8. Fentanyl Citrate 9. Furosemide
+   10. Heparin 12. Insulin 14. Levofloxacin 15. Magnesium Sulfate 17.
+   MetRONIDAZOLE (FLagyl) 18. Metoprolol  19. Midazolam 20. Phenylephrine
+   23. Propofol 27. Vancomycin
+   24 Hour Events:
+ URINE CULTURE - At [**2609-2-7**] 01:50 PM
+ FEVER - 102.1
+F - [**2609-2-7**] 04:00 PM
+   Post operative day:
+   POD#3 - re explore R groin, ligation of bleeding vessel
+   Allergies:
+   Last dose of Antibiotics:
+   Levofloxacin - [**2609-2-7**] 12:15 PM
+   Metronidazole - [**2609-2-8**] 02:18 AM
+   Vancomycin - [**2609-2-8**] 08:30 AM
+   Infusions:
+   Fentanyl - 90 mcg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2609-2-7**] 12:21 PM
+   Furosemide (Lasix) - [**2609-2-7**] 10:00 PM
+   Metoprolol - [**2609-2-8**] 02:17 AM
+   Heparin Sodium (Prophylaxis) - [**2609-2-8**] 02:18 AM
+   Midazolam (Versed) - [**2609-2-8**] 04:17 AM
+   Other medications:
+   Flowsheet Data as of  [**2609-2-8**] 09:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**12**] a.m.
+   Tmax: 38.9
+C (102.1
+   T current: 37.1
+C (98.7
+   HR: 114 (99 - 137) bpm
+   BP: 153/78(106) {86/51(66) - 153/80(106)} mmHg
+   RR: 12 (9 - 22) insp/min
+   SPO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 91.1 kg (admission): 73 kg
+   Height: 66 Inch
+   CVP: 20 (12 - 20) mmHg
+   Total In:
+                                                                  4,297 mL
+                                                                  1,781 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  3,947 mL
+                                                                  1,781 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  2,260 mL
+                                                                  1,725 mL
+   Urine:
+                                                                  2,085 mL
+                                                                  1,660 mL
+   NG:
+                                                                     50 mL
+                                                                     25 mL
+   Stool:
+   Drains:
+                                                                    125 mL
+                                                                     40 mL
+   Balance:
+                                                                  2,037 mL
+                                                                     56 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 705 (705 - 873) mL
+   PS : 15 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 10
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 26 cmH2O
+   Plateau: 27 cmH2O
+   SPO2: 99%
+   ABG: 7.35/43/95.[**Numeric Identifier **]/25/-1
+   Ve: 8.6 L/min
+   PaO2 / FiO2: 158
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : bilateral)
+   Abdominal: Soft, Distended, Tender: diffusely
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: Follows simple commands, Moves all extremities, Sedated
+   Labs / Radiology
+   67 K/uL
+   10.4 g/dL
+   101 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+   4.0 mEq/L
+   16 mg/dL
+   112 mEq/L
+   141 mEq/L
+   28.7 %
+   17.7 K/uL
+        [image002.jpg]
+                            [**2609-2-7**]  02:26 AM
+                            [**2609-2-7**]  04:54 AM
+                            [**2609-2-7**]  08:05 AM
+                            [**2609-2-7**]  08:15 AM
+                            [**2609-2-7**]  12:11 PM
+                            [**2609-2-7**]  03:29 PM
+                            [**2609-2-7**]  07:37 PM
+                            [**2609-2-7**]  07:52 PM
+                            [**2609-2-8**]  03:12 AM
+                            [**2609-2-8**]  03:34 AM
+   WBC
+   15.1
+   15.9
+   17.7
+   Hct
+   29.8
+   30.4
+   30.0
+   28.7
+   Plt
+   73
+   66
+   67
+   Creatinine
+   1.0
+   1.0
+   Troponin T
+   0.41
+   TCO2
+   25
+   22
+   25
+   25
+   23
+   25
+   Glucose
+   100
+   122
+   119
+   101
+   118
+   101
+   Other labs: PT / PTT / INR:15.1/38.7/1.3, CK / CK-MB / Troponin
+   T:3673/26/0.41, ALT / AST:235/330, Alk-Phos / T bili:100/1.5, Amylase /
+   Lipase:96/27, Lactic Acid:2.3 mmol/L, Albumin:1.9 g/dL, LDH:1298 IU/L,
+   Ca:7.7 mg/dL, Mg:1.9 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   TACHYCARDIA, OTHER, MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI),
+   RETROPERITONEAL BLEED (RP BLEED) , PROCEDURE-RELATED, ALTERATION IN
+   TISSUE PERFUSION, HYPOTENSION (NOT SHOCK)
+   Assessment and Plan: 65M s/p Thrombectomy of R limb of aortobifem,
+   pseudoaneurysm resection with interposition graft/Reexploration for
+   retroperitoneal bleeding [**2-5**],
+   Neurologic: Cont sedation with Fent for pain.
+   Cardiovascular: Beta-blocker, Lopressor. Remains off pressors.
+   Pulmonary: Cont ETT, Attempt to wean PEEP and PS
+   Gastrointestinal / Abdomen: Colonic ischemia --> cont to keep NPO and
+   follow lactate/LFT's.
+   Nutrition: NPO
+   Renal: Foley, Adequate UO, Cont to trend CPK's, but will decrease IVF
+   and start diuresis.
+   Hematology: Thrombocytopenia --> HIT negative --> cont to follow. Tx
+   for bleeding
+   Endocrine: RISS
+   Infectious Disease: Check cultures, Cont empiric GI antibx prophylaxis.
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: Decrease IVF and attempt to KVO later today.
+   Consults: Vascular surgery
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   complication
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2609-2-5**] 05:34 AM
+   Multi Lumen - [**2609-2-5**] 05:35 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 34 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

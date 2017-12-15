@@ -1,0 +1,150 @@
+Chief Complaint: HOTN
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   50 yo women with h/o quadriplegia from spinal injury in MVA in [**3418**].
+   Admitted [**10-26**] for UTI from sensitive enterococcus with HOTN to MICU.
+   Went to floor and last night developed new fever and HOTN.  Transferred
+   back to MICU.  In MICU received 1L bolus (after ?3L on floor), and BP
+   improved.  Recieved anitibiotics.
+   24 Hour Events:
+ MULTI LUMEN - START [**3423-11-1**] 10:50 PM
+ EKG - At [**3423-11-1**] 11:47 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3423-11-1**] 11:00 PM
+   Meropenem - [**3423-11-2**] 06:01 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   zantac,
+   omeprazole,
+   gabapentin
+   lyrica,
+   oxybutynin
+   nicotine patch
+   levoxyl
+   hep s/q
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3423-11-2**] 09:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.4
+C (97.5
+   HR: 68 (67 - 78) bpm
+   BP: 95/64(71) {81/51(59) - 95/64(71)} mmHg
+   RR: 14 (13 - 21) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+             Total In:
+                                                                  1,213 mL
+                                                                    471 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,213 mL
+                                                                    471 mL
+   Blood products:
+   Total out:
+                                                                    545 mL
+                                                                    780 mL
+   Urine:
+                                                                    545 mL
+                                                                    780 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    668 mL
+                                                                   -310 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bibasilar)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): times 3 , Movement: Not assessed, Tone: Not
+   assessed
+   Labs / Radiology
+   9.3 g/dL
+   170 K/uL
+   107 mg/dL
+   0.2 mg/dL
+   27 mEq/L
+   3.6 mEq/L
+   5 mg/dL
+   108 mEq/L
+   140 mEq/L
+   28.1 %
+   7.2 K/uL
+        [image002.jpg]
+                             [**3423-11-2**]  12:57 AM
+   WBC
+   7.2
+   Hct
+   28.1
+   Plt
+   170
+   Cr
+   0.2
+   TropT
+   <0.01
+   Glucose
+   107
+   Other labs: PT / PTT / INR:15.5/39.3/1.4, CK / CKMB /
+   Troponin-T:18//<0.01, Differential-Neuts:74.9 %, Lymph:16.2 %, Mono:7.2
+   %, Eos:1.2 %, Ca++:7.5 mg/dL, Mg++:2.0 mg/dL, PO4:2.5 mg/dL
+   Imaging: CXR:
+   Assessment and Plan
+ URINARY TRACT INFECTION (UTI)
+ ANEMIA, CHRONIC
+ ANXIETY
+ HYPOTENSION (NOT SHOCK):  Multifactorial possibly due to infection as
+   well as IV ativan as she was also confused and has poor memory of what
+   happened.  Continue vanco and
+   meropenem for now, and follow up cultures.
+   Hypervolemia:  currently autodiuresing, if net positive can give some
+   lasix
+   Quadriplegia:
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3423-11-1**] 10:50 PM
+   20 Gauge - [**3423-11-1**] 10:58 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Call out to floor
+   Total time spent: 35 minutes
+
+
+
+DOC CLASS

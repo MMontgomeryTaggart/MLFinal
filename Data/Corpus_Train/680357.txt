@@ -1,0 +1,326 @@
+Chief Complaint:
+   24 Hour Events:
+   - HSV positive from lip swab, started on PO Acyclovir, ID recommends
+   7-10d course
+   - ID recs: continue [**Last Name (un) **] for a 14d course (last day [**12-12**]), doxy for 14d
+   course (last day [**12-15**]).  ID signed off.
+   - versed was given for agitation and increased RR, effective but BP
+   dropped, and effect short-lived.  Tried low dose fentanyl, still very
+   anxious.
+   - on CPAP for 4hr, pt was tiring out, so changed back to AC
+   - lasix gtt at 2.5mg/hr, goal I/O -500cc.  pm lytes great. lasix gtt
+   continued.
+   - secretions are thick and yellow, sputum cx sent
+   - levophed down to 0.09 this AM
+   Allergies:
+   Hydrochlorothiazide
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3466-12-4**] 09:15 AM
+   Doxycycline - [**3466-12-4**] 04:00 PM
+   Meropenem - [**3466-12-7**] 04:04 AM
+   Infusions:
+   Furosemide (Lasix) - 2.5 mg/hour
+   Norepinephrine - 0.09 mcg/Kg/min
+   Heparin Sodium - 900 units/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3466-12-6**] 09:30 AM
+   Fentanyl - [**3466-12-6**] 11:45 AM
+   Midazolam (Versed) - [**3466-12-6**] 02:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Ear, Nose, Throat: OG / NG tube
+   Nutritional Support: Tube feeds
+   Genitourinary: Foley
+   Flowsheet Data as of  [**3466-12-7**] 07:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**68**] AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.8
+C (98.2
+   HR: 104 (95 - 111) bpm
+   BP: 118/56(76) {82/42(57) - 120/56(76)} mmHg
+   RR: 23 (23 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 89.9 kg (admission): 74.4 kg
+   Height: 65 Inch
+    CVP: 13 (10 - 13)mmHg
+   Total In:
+                                                                  1,938 mL
+                                                                    525 mL
+   PO:
+   TF:
+                                                                    592 mL
+                                                                    217 mL
+   IVF:
+                                                                    996 mL
+                                                                    248 mL
+   Blood products:
+   Total out:
+                                                                  2,835 mL
+                                                                    800 mL
+   Urine:
+                                                                  2,685 mL
+                                                                    600 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -897 mL
+                                                                   -275 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 456 (406 - 456) mL
+   PS : 12 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 110
+   PIP: 17 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 32.1 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.49/35/119/28/4
+   Ve: 10.1 L/min
+   PaO2 / FiO2: 298
+   Physical Examination
+   General Appearance: Overweight / Obese woman, lying on back, sleeping,
+   NAD
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, NG tube, intubated
+   Cardiovascular: (S1: Normal), (S2: Normal), Irregular rate & rhythm, no
+   murmurs
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: Bronchial breath sounds throughout anterior chest
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Extremities: Right lower extremity edema: 2+, Left lower extremity
+   edema: 2+, improved from yesterday, wrinkles evident in skin
+   bilaterally & in upper extremities, but anasarca still present notably
+   in the hands
+   Skin:  Not assessed, lip lesions still crusted, but stable
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Purposeful, Tone: Not assessed
+   Labs / Radiology
+   319 K/uL
+   9.8 g/dL
+   142 mg/dL
+   0.9 mg/dL
+   28 mEq/L
+   3.6 mEq/L
+   52 mg/dL
+   105 mEq/L
+   139 mEq/L
+   29.7 %
+   18.7 K/uL
+        [image002.jpg]
+                             [**3466-12-5**]  04:42 AM
+                             [**3466-12-5**]  03:25 PM
+                             [**3466-12-5**]  03:31 PM
+                             [**3466-12-6**]  05:34 AM
+                             [**3466-12-6**]  05:47 AM
+                             [**3466-12-6**]  09:34 AM
+                             [**3466-12-6**]  03:40 PM
+                             [**3466-12-6**]  03:41 PM
+                             [**3466-12-7**]  05:27 AM
+                             [**3466-12-7**]  05:40 AM
+   WBC
+   21.6
+   18.7
+   Hct
+   29.7
+   29.7
+   Plt
+   266
+   319
+   Cr
+   1.0
+   1.0
+   0.9
+   0.9
+   TCO2
+   25
+   25
+   26
+   26
+   27
+   27
+   Glucose
+   147
+   144
+   153
+   142
+   Other labs: PT / PTT / INR:13.3/104.6/1.1, ALT / AST:15/34, Alk Phos /
+   T Bili:141/0.5, Differential-Neuts:79.0 %, Band:2.0 %, Lymph:11.0 %,
+   Mono:5.0 %, Eos:2.0 %, Lactic Acid:1.2 mmol/L, Albumin:2.0 g/dL,
+   LDH:337 IU/L, Ca++:7.7 mg/dL, Mg++:2.0 mg/dL, PO4:4.3 mg/dL
+   Assessment and Plan
+   83 y.o woman with history of chronic systolic CHF with 2 week history
+   of generalized weakness and shortness of breath, recently admitted to
+   [**Hospital3 **] now transferred here to [**Hospital1 1**] for management of her
+   heart failure and new afib with RVR. She is improving with less pressor
+   requirements and improving leukocytosis, concerning for septic shock
+   despite no positive cultures and a CT demonstrating diffuse
+   lymphadenopathy with pulmonary nodules.
+   .
+   # Respiratory failure: Likely from sepsis-associated vasodilatation and
+   leaky capillaries, pulmonary edema in the setting of severe MR and
+   heart failure, and the fluid resuscitation she received earlier.
+   Patient intubated on[**11-28**] in context of respiratory distress.
+   Pneumonia is possibility given thick secretions, so sputum cx sent on
+   [**12-6**]. Preliminary results demonstrate 1+ GPC in pairs. PE remote
+   possibility. Patient was on CPAP (setting: [**11-3**]) yesterday ([**12-6**]), for 4
+   hours but was tiring out so put back on AC mode.  Barriers to
+   extubation include pulmonary edema, de-conditioning, secretions and
+   plugging, and anxiety. Versed & Fentanyl attempted for reducing
+   anxiety, but short-lived effect. RSBI 110 this morning.
+   - continue AC mode, try CPAP again today
+   - reassurance to patient to reduce anxiety, can continue with
+   anxiolytics/sedatives for symptoms
+   - Continue diuresis, currently on lasix gtt at 2.5mg /hr
+   - Continue current abx (meropenem, doxy) for broad coverage
+   - daily CXR
+   - f/u final sputum cx, AFB cx
+   .
+   # FUO, leukocytosis & diffuse lymphadenopathy: WBC trending down, 18.7
+   this AM. CT scan demonstrated diffuse lymphadenopathy & pulmonary
+   nodules.  Etiology may be infection (e.g. viral, pneumonia,
+   endocarditis).  HSV positive, but given clinical presentation, unlikely
+   to be generalized HSV infection.  Other infectious etiologies have been
+   negative, including negative urine, stool, sputum, blood cultures, flu
+   negative at OSH, and RF normal. ID felt presentation was unlikely to be
+   infectious, but as could not exclude, CMV/EBV/Toxo, anaplasma,
+   rickettsial serologies all sent & negative. PPD negative. Prelim AFB
+   negative. Given patient
+s functional status, HIV consent could not be
+   obtained. Respiratory viral panel is negative. Central venous access
+   resited to LIJ from RIJ on [**12-3**].  Cx from purulent material at RIJ and
+   RIJ tip negative. Sputum sent [**12-7**], prelim demonstrating 1+ for gram
+   positive cocci in pairs. ID signed off as of [**12-7**]. Could also be
+   possible neoplasm given CT scan & diff demonstrating immature
+   myelocytes, but not able to confirm with tissue at this time as General
+   Surgery declined LN biopsy.  A peripheral smear as read by Heme/Onc was
+   without clear etiology and the team did not feel this was likely to
+   represent lymphoma.  ESR and CRP significantly elevated.
+   - Meropenem 500mg TID, day [**8-13**]
+   - Doxycycline 100mg q12H, day [**6-12**]
+   - Acyclovir 400mg TID, day [**1-9**]
+   - f/u any daily G Surgery recs; they will biopsy if "recovers from
+   acute event"
+   - f/u all other pending cx
+   - continue to trend CBC
+   .
+   #. Shock: [**Month (only) 11**] be [**1-1**] presumed infection and cardiogenic (acute MR, afib
+   with RVR) insult.  High mixed venous saturations suggest predominantly
+   septic physiology.  Remains on low dose Levophed, weaned to 0.09
+   mcg/kg/min this AM. On [**12-3**] Renal team proposed a role for leaky
+   capillary syndrome, recommended pressors over IVF for pressure
+   management.  Tolerating diuresis well.
+   - Continue pressors, wean as tolerates
+   - Continue IV Meropenem/Doxycycline for now
+   - Continue Lasix gtt at 2.5mg/hr
+   - monitor CVP (goal > 10, cautious fluid bolus prn), Mixed venous sat
+   (goal > 70%), lactate and UOP
+   - f/u all cx
+   .
+   #. Fluid overload: Anasarca [**1-1**] fluid imbalance. Urine output strong
+   (100/hr) on lasix gtt 2.5mg /hr. Fluid accumulation owed to
+   hypoalbuminemia, chronic sCHF, and leaky capillaries from septic
+   physiology.
+   -  Goal diuresis is -750cc today
+   -  continue lasix drip at 2.5/hr, up or downtitrating with an eye on
+   pressures, electrolytes and renal function (all stable)
+   -  goal CVP is 13 this AM. Balance pressors and diuretics with CVP
+   goals
+   -  MAP goal is 65, ranging 62-76
+   .
+   # Neurologic status: Improving.  Following commands, wiggling toes and
+   opening eyes to command on [**12-6**]. This AM, sleepy.
+   - Continue to follow
+   - OT consult for mobility
+   .
+   # PUMP: History of chronic systolic heart failure, and pt
+s presenting
+   sx were consistent with failure (SOB, orthopnea, edema), but repeat TTE
+   showed normal EF (>60%). Patient also with known MR [**First Name (Titles) 42**] [**Last Name (Titles) 9984**] tear at
+   posterior leaflet of mitral valve, likely contributing to worsening MR
+   which causes overestimation of EF.
+   - Lasix gtt at 2.5/hr
+   .
+   # RHYTHM: Pt goes in and out of AF frequently.  Infection is possible
+   cause, but may also be worsened MR (although LA is not significantly
+   dilated).  TSH normal.
+   - Continue PO Amiodarone 200mg [**Hospital1 **]
+   - Holding nodal agents in the setting of hypotension, but can restart
+   when pressors are weaned & bp
+s tolerate
+   - Continue heparin gtt for now
+   .
+   # Elevated alk phos and GGT: pt w/o abdominal pain on admission. RUQ
+   U/S & CT without significant hepatobiliary abnormalities. Mildly
+   elevated but stable Alk Phos with GGT (implies infiltrative vs toxic
+   insult to biliary tree: drugs, infection, gastrointestinal endotoxins
+   vs arterial hepatopathy)
+   - Continue to trend
+   .
+   # CORONARIES: Patient has unknown anatomy as she has never had a prior
+   cardiac catherizations, but MI is unlikely given lack of any EKG
+   changes and negative troponins.
+   - continue ASA
+   .
+   # Acute Renal failure:  Resolved, but originally thought to be
+   pre-renal with overlying ATN.  Cr 1.2 on admission, 0.9 today.  BUN
+   mildly improved from [**12-6**].  Patient  remains on a low dose Lasix drip
+   for diuresis. Renal continues to follow.
+   -  Continue lasix gtt at 2.5/hr
+    - Trend Creatinine,  [**Hospital1 **]
+   -  Goal UOP >30cc/hr, patient well above
+   -  f/u any Renal recs
+   .
+   # Hyponatremia: Na 139 today. Pt with hypovolemic hyponatremia on
+   admission, now euvolemic with extensive third-spacing & anasarca. Net
+   negative ~1100cc over past 24 hours. Cr stable.
+   - Continue Lasix gtt at 2.5/hr
+   - Continue to trend
+   .
+   # Anemia: Normocytic, normochromic with normal RDW. Fe studies c/w ACD
+   s/p 2u pRBC
+s.  Retic 1.5, indicating poor bone marrow response.  B12
+   and folate normal.  Hct 29.7 today ([**12-7**]), stable.
+   - Trend HCT daily
+   .
+   # Glaucoma:
+   - continue home medications
+   .
+   # Hypothyroidism: TSH 3.3
+   - Continue home levothyroxine dose
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3466-12-6**] 11:10 PM 30 mL/hour
+   Glycemic Control:  none
+   Lines:
+   Arterial Line - [**3466-12-3**] 01:30 PM
+   Multi Lumen - [**3466-12-3**] 04:00 PM
+   Prophylaxis:
+   DVT: Heparin gtt
+   Stress ulcer: Famotidine
+   VAP:  No known infection, sputum pending, but Meropenem/Doxycycline for
+   other presumed infection
+   Comments:
+   Communication:  Comments:  Patient & daughter ([**Name (NI) 139**] [**Last Name (NamePattern1) 1895**])
+   Code status: Full code
+   Disposition: pending clinical improvement
+
+
+
+DOC CLASS

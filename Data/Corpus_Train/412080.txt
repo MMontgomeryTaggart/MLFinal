@@ -1,0 +1,218 @@
+Chief Complaint:
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**3118-7-4**] 02:30 PM
+ BLOOD CULTURED - At [**3118-7-4**] 08:30 PM
+   sureveillence; obtained from picc line.
+   - Tolerated trach mask well yesterday. However was put back on pressure
+   support at night.
+   - Daughter was called to discuss rehab, but she was unavailable.
+   - 5pm Hct stable
+   - increased midodrine to 10mg TID
+   - Patient responsive to verbal command today. Shook head no when asked
+   if he had any pain.
+   Allergies:
+   Benadryl (Injection) (Diphenhydramine Hcl)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Meropenem - [**3118-7-2**] 12:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3118-7-5**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 37.5
+C (99.5
+   HR: 94 (85 - 96) bpm
+   BP: 99/43(59) {82/36(51) - 102/50(66)} mmHg
+   RR: 22 (18 - 25) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 72.2 kg (admission): 96.9 kg
+   Height: 71 Inch
+                  Total In:
+                                                                    478 mL
+                                                                    175 mL
+   PO:
+                  TF:
+                                                                    207 mL
+                                                                    175 mL
+   IVF:
+                                                                    121 mL
+   Blood products:
+   Total out:
+                                                                  1,225 mL
+                                                                     30 mL
+   Urine:
+                                                                    225 mL
+                                                                     30 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -747 mL
+                                                                    145 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 438 (422 - 450) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 21
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 57
+   PIP: 11 cmH2O
+   SpO2: 95%
+   ABG: 7.45/38/146/25/3
+   Ve: 9.1 L/min
+   PaO2 / FiO2: 487
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Head, Ears, Nose, Throat: Normocephalic, Trach
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: bilaterally), stable exam
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: edema Absent, Left: edema Absent
+   Skin:  Warm
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   257 K/uL
+   7.6 g/dL
+   168 mg/dL
+   2.4 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   49 mg/dL
+   105 mEq/L
+   143 mEq/L
+   23.5 %
+   11.5 K/uL
+        [image002.jpg]
+                             [**3118-7-2**]  05:46 PM
+                             [**3118-7-2**]  11:38 PM
+                             [**3118-7-2**]  11:57 PM
+                             [**3118-7-3**]  05:47 AM
+                             [**3118-7-3**]  06:03 AM
+                             [**3118-7-4**]  03:20 AM
+                             [**3118-7-4**]  03:26 PM
+                             [**3118-7-4**]  04:22 PM
+                             [**3118-7-5**]  05:25 AM
+                             [**3118-7-5**]  05:33 AM
+   WBC
+   12.8
+   13.1
+   11.5
+   Hct
+   21.5
+   24.6
+   22.9
+   23.5
+   Plt
+   [**Telephone/Fax (3) 9489**]
+   Cr
+   2.2
+   1.9
+   2.4
+   2.4
+   TCO2
+   26
+   26
+   26
+   29
+   27
+   Glucose
+   135
+   167
+   95
+   168
+   Other labs: PT / PTT / INR:14.1/29.2/1.2, CK / CKMB /
+   Troponin-T:26//0.11, ALT / AST:28/52, Alk Phos / T Bili:395/0.7,
+   Amylase / Lipase:122/79, Differential-Neuts:83.9 %, Lymph:7.6 %,
+   Mono:7.3 %, Eos:0.9 %, Lactic Acid:0.8 mmol/L, Albumin:2.6 g/dL,
+   LDH:177 IU/L, Ca++:8.7 mg/dL, Mg++:2.2 mg/dL, PO4:4.3 mg/dL
+   Imaging: [**3118-7-4**] CXR final read: no change
+   Microbiology: Blood cultures from [**6-29**], [**6-30**], and [**7-4**] show no growth
+   to date
+   Sputum culture: GRAM NEGATIVE ROD(S).
+   Assessment and Plan
+ ANEMIA, OTHER
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ CONSTIPATION (OBSTIPATION, FOS)
+ IMPAIRED SKIN INTEGRITY
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ SHOCK, CARDIOGENIC
+   85 yo M with h/o CHF (EF 20%), acute on chronic (stage IV) renal
+   failure, recent GIB (h/o AVMs), in MICU with shock and respiratory
+   failure.
+    # Respiratory failure
+ S/P peg and trach
+   - Pt now on HD to remove fluid. Will get HD tomorrow
+   - Able to tolerate trach mask well. Continue trach mask with
+   intermittent rest with pressure support
+   # Shock
+ likely cardiogenic.  Seems resolving. Goal MAP > 50
+   - Increased midodrine to 10 because MAP low 50s. Will monitor response
+   # Leukocytosis  and fever
+   - CXR not suggestive of VAP.
+   - Completed meropenem
+   - will monitor results of blood and sputum cultures.
+   - LFTs, amylase, lipase not suggestive of etiology. Elevated levels
+   could be [**1-21**] propofol use earlier in hospital course.
+   - Urine culture pending
+   # Anemia
+   - GI tract is likely source of pts Hct drop (along with CKD)
+ will
+   continue PPI [**Hospital1 **]
+   - HCT stable. Will monitor
+    # Transudative effusions
+ stable
+   - Pt is on HD
+   - Continue to monitor effusions on serial CXR
+   # Renal failure
+ likely secondary to decreased renal perfusion
+   - on HD. Will get HD tomorrow
+   - Will start setting up outpatient HD plans
+   # DM2
+   - continue with insulin sliding scale and accuchecks
+   - Basal insulin held yesterday because just restarting tube feeds.
+   - Only got about 10 units Sliding scale and glucose adequately
+   controlled.
+   - Would continue SSI for now with no long acting insulin
+    # Altered Mental Status
+ pt off sedation and mental status improving
+   # FEN: caution with IVF, replete electrolytes prn, on TF
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3118-7-4**] 03:44 PM 35 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3118-6-20**] 09:50 PM
+ D/C
+   PICC Line - [**3118-7-3**] 10:30 AM
+   Dialysis Catheter - [**3118-7-3**] 11:45 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: Lansoprazole
+   VAP: Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition: screening for dialysis
+
+
+
+DOC CLASS

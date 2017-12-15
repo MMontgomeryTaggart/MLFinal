@@ -1,0 +1,174 @@
+History of Present Illness
+   Date: [**2975-3-21**]
+   Subsequent care
+   Events / History of present illness: doing well.  Tele: short runs of
+   NSVT.  Tele strips with artifact from Chest PT from [**2975-3-20**].
+   Medications
+   Unchanged
+   Physical Exam
+   General appearance: NAD, tired
+   BP: 94 / 37 mmHg
+   HR: 70 bpm
+   Tmax C last 24 hours: 37.6 C
+   Tmax F last 24 hours: 99.6 F
+   T current C: 36.2 C
+   T current F: 97.2 F
+   Previous day:
+   Intake: 1,057 mL
+   Output: 1,270 mL
+   Fluid balance: -213 mL
+   Today:
+   Weight: 80.8 kg
+   Intake: 168 mL
+   Output: 0 mL
+   Fluid balance: 168 mL
+   Cardiovascular: (Auscultation: RRR)
+   Respiratory: (Auscultation: Decrease RLL breath sounds, o/w clear)
+   Abdomen: (Palpation: soft), (Auscultation: + BS)
+   Extremities:
+   Right: (Edema: none)
+   Left: (Edema: none)
+   Labs
+   181
+   10.5
+   90
+   2.4
+   23
+   5.1
+   68
+   100
+   136
+   31.7
+   11.1
+        [image002.jpg]
+                            [**2975-3-16**]  11:26 PM
+                            [**2975-3-17**]  04:55 AM
+                            [**2975-3-17**]  07:00 AM
+                            [**2975-3-18**]  06:37 AM
+                            [**2975-3-19**]  01:02 AM
+                            [**2975-3-19**]  01:42 AM
+                            [**2975-3-20**]  03:35 AM
+                            [**2975-3-20**]  10:55 AM
+                            [**2975-3-20**]  05:46 PM
+                            [**2975-3-21**]  04:37 AM
+   WBC
+   7.6
+   10.6
+   12.0
+   10.4
+   11.1
+   Hgb
+   12.4
+   11.8
+   11.2
+   10.9
+   10.5
+   Hct (Serum)
+   39.2
+   35.6
+   35.1
+   33.5
+   31.7
+   Hct (Whole blood)
+   37
+   Plt
+   [**Telephone/Fax (3) 10763**]74
+   181
+   INR
+   1.1
+   1.1
+   1.2
+   1.3
+   1.3
+   PTT
+   27.1
+   29.6
+   31.0
+   71.9
+   103.3
+   Na+
+   138
+   137
+   136
+   134
+   135
+   136
+   K + (Serum)
+   4.5
+   5.3
+   5.1
+   4.7
+   5.1
+   5.1
+   Cl
+   99
+   99
+   101
+   100
+   99
+   100
+   HCO3
+   31
+   31
+   26
+   21
+   24
+   23
+   BUN
+   36
+   35
+   39
+   50
+   56
+   68
+   Creatinine
+   2.1
+   2.0
+   1.9
+   2.5
+   2.3
+   2.4
+   Glucose
+   173
+   181
+   169
+   94
+   108
+   116
+   87
+   90
+   CK
+   59
+   ABG: /  /  / 23 /    Values as of [**2975-3-21**] 04:37 AM
+   Assessment and Plan
+ PNEUMONIA, OTHER
+ Continue abx of Vanc and Cefepime.  BCX pending.
+   Sputum with oral flora.
+ VENTRICULAR TACHYCARDIA, NON-SUSTAINED (NSVT) - Stable on Amio 300mg
+   daily and Metoprolol 12.5 TID.  Continue current dose of medications.
+   LV Apical Clot - On heparin gtt. Will restart coumadin once we know
+   he's stable and free from VT and will not need epicardial ablation.
+   PCI of LCX - Continue ASA, plavix.
+   Renal insufficiency
+ slight above baseline but stable.
+   ------ Protected Section ------
+   Error on the LV Apical clot. He does NOT have LV apical clot.  Heparin
+   for possible PE with hypoxia.  But since there is another explanation
+   for his hypoxis with PNA, can stop the heparin and continue to monitor.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 6465**], MD
+   on:[**2975-3-21**] 12:37 PM ------
+   Attending
+s note:14.00hrs
+   Reviewed overnight course.
+   Examined Pt.agree with dr.[**Last Name (STitle) **] [**Last Name (STitle) 42**] [**Name (STitle) 6465**]
+s notes.
+   Problem at the moment is Aspiration Pneumonia.
+   Continue aggressive Pulm Rx.
+   Maybe vtransferred to Floor if stable.
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4774**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 4774**]
+   on:[**2975-3-21**] 14:43 ------
+
+
+
+DOC CLASS

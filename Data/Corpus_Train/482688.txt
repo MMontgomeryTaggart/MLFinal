@@ -1,0 +1,247 @@
+TITLE: Physician Resident Progress Note
+   Chief Complaint:
+   24 Hour Events:
+   -extubated 4PM
+   -left PICC placed by IR
+   -left IJ pulled, tip sent for culture
+   -TEE: Severe (4+ MR). No vegetations seen on the right atrial leads
+   (four identified) or on mitral, aortic, tricuspid or pulmonic valves.
+   Severely depressed left ventricular function with septal, inferoseptal
+   and inferior wall hypokinesis. Moderate tricuspid regurgitation. At
+   least mild pulmonary hypertension. Complex atheroma in descending
+   aorta.
+   Echo in 09 - 2+ MR - possibility endocarditis.
+   -Ucx negative, blood cx pending.
+   -GPC in clusters. f/u cx data - no s/s yet. Possible contaminant.
+   -started vanc
+   -Got lasix 60 IV x 1 with UOP ***, likely need to repeat 9pm (got lasix
+   late )goal negative 1L
+   -3pm crit/lytes
+   -heparin discontinued
+   Allergies:
+   Penicillins
+   Hives; Rash;
+   Ambien (Oral) (Zolpidem Tartrate)
+   Lightheadedness
+   Last dose of Antibiotics:
+   Meropenem - [**2545-3-23**] 08:00 AM
+   Vancomycin - [**2545-3-23**] 11:30 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2545-3-23**] 03:05 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2545-3-24**] 06:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**47**] AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.4
+C (97.6
+   HR: 52 (50 - 59) bpm
+   BP: 105/45(62) {101/42(56) - 127/60(76)} mmHg
+   RR: 16 (7 - 18) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+   Wgt (current): 104 kg (admission): 105 kg
+   Height: 72 Inch
+    CVP: 10 (9 - 10)mmHg
+   Total In:
+                                                                  2,770 mL
+                                                                     67 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,380 mL
+                                                                     67 mL
+   Blood products:
+   Total out:
+                                                                  3,972 mL
+                                                                    580 mL
+   Urine:
+                                                                  3,970 mL
+                                                                    580 mL
+   NG:
+                                                                      2 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,202 mL
+                                                                   -513 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 500) mL
+   Vt (Spontaneous): 630 (630 - 630) mL
+   RR (Set): 0
+   RR (Spontaneous): 9
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   PIP: 19 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 99%
+   ABG: 7.50/52/67/34/14
+   Ve: 8.7 L/min
+   PaO2 / FiO2: 168
+   Physical Examination
+   GENERAL: Sedated, oriented x 1, does not respond to commands..
+   CARDIAC: RRR. No M/G/R.
+   LUNGS: Ventilated breath sounds bilaterally. No rales appreciated.
+   ABDOMEN: Soft, NTND.
+   EXTREMITIES: No significant pitting edema noted.
+   NEURO: Mental status as above. PERRL
+   Labs / Radiology
+   468 K/uL
+   10.4 g/dL
+   122 mg/dL
+   0.7 mg/dL
+   34 mEq/L
+   3.8 mEq/L
+   30 mg/dL
+   104 mEq/L
+   143 mEq/L
+   31.8 %
+   9.3 K/uL
+        [image002.jpg]
+                             [**2545-3-22**]  04:26 AM
+                             [**2545-3-22**]  04:32 AM
+                             [**2545-3-22**]  05:30 PM
+                             [**2545-3-22**]  05:42 PM
+                             [**2545-3-23**]  02:51 AM
+                             [**2545-3-23**]  11:40 AM
+                             [**2545-3-23**]  03:25 PM
+                             [**2545-3-23**]  04:56 PM
+                             [**2545-3-23**]  05:03 PM
+                             [**2545-3-24**]  03:59 AM
+   WBC
+   10.4
+   9.2
+   9.3
+   Hct
+   30.7
+   30.4
+   31.8
+   Plt
+   [**Telephone/Fax (3) 13915**]
+   Cr
+   1.3
+   1.2
+   0.9
+   0.7
+   0.7
+   TCO2
+   37
+   37
+   37
+   39
+   42
+   Glucose
+   130
+   164
+   130
+   198
+   151
+   137
+   122
+   Other labs: PT / PTT / INR:19.5/29.4/1.8, CK / CKMB /
+   Troponin-T:337/1/0.10, ALT / AST:224/204, Alk Phos / T Bili:92/0.7,
+   Differential-Neuts:85.5 %, Lymph:7.8 %, Mono:4.4 %, Eos:2.0 %, Lactic
+   Acid:1.2 mmol/L, Albumin:3.3 g/dL, LDH:360 IU/L, Ca++:8.1 mg/dL,
+   Mg++:2.6 mg/dL, PO4:1.7 mg/dL
+   Assessment and Plan
+   71 y/o M with PMHx significant for systolic HF (EF 20-25%), MI in '[**31**],
+   paroxysmal AV block, atrial fibrillation, h/o v.tach and v.fib s/p ICD
+   implantation, who presented to the ED with a chief complaint of
+   dyspnea, initially thought to be due to CHF exacerbation with
+   infiltrate, fever, white count consistent with PNA.
+   .
+   # Fever: Now afebrile x 48 hours. Previously, patient was spiking high
+   fevers in spite of Tylenol, antibiotics, and improvement in respiratory
+   status. CT abd/pelvis and CT sinuses were neg. Pt has been afebrile
+   over 24 hours at this point. However, he did have a positive blood cx
+   (GPC
+s) this am. This could represent true infection versus
+   contaminant.
+   - continue meropenem; adding vanc in the setting of positive blood cx
+   - f/u ID recs
+   - f/u pending microbiological studies
+   - TEE to look for ? lead endocarditis
+   - will need to pull CVL in setting of positive blood cx; d/w team
+   whether we should place another CVL versus try to obtain peripheral
+   access until patient is able to get a PICC
+   - if above is negative and pt continues to spike fevers, will need to
+   consider other causes, such as CNS infx or drug fever
+   .
+   # Hypoxemic respiratory failure:  Was intubated on [**3-13**] for hypoxemia.
+   Etiology likely pneumonia + heart failure. Respiratory status improving
+   clinically and radiographically. Mental status greatly improved this
+   morning; RSBI in the 30
+   - attempt extubation after TEE
+   - f/u pending cultures
+   - f/u bronch data
+   .
+   # Chronic systolic heart failure: Patient with EF 20-25%. Has been
+   diuresing well to lasix boluses.
+   - continue to monitor fluid status
+   - continue metoprolol [**Hospital1 7**]
+   - lasix boluses for goal I/O negative 1 L; will give 60 mg IV lasix now
+   .
+   # Elevated CK: Likely caused by stain (possibly exacerbated by
+   concurrent azithromycin therapy).  CK trending down.
+   - continue to trend CK
+   - no further IV fluids at this point, as CK not at a significant enough
+   level to cause renal failure
+   - holding statin
+   .
+   # CORONARIES: Pt has a history of an anterior wall MI in [**2531**]. Of note,
+   the patient did report some chest pressure previously, but this has
+   since resolved.  MI ruled out with 3 sets of cardiac enzymes.
+   - continue aspirin, simvastatin, metoprolol
+   .
+   # Atrial fibrillation: Pt with a history of a.fib, for which he is on
+   coumadin. His INR is currently near therapeutic. Telemetry currently
+   showing v-paced rhythm.
+   - metoprolol [**Hospital1 7**]
+   - increase Coumadin; trend INR
+   - starting heparin gtt bridge while subtherapeutic INR
+   .
+   # s/p ICD: high impedance. LV lead dysfunction. Of note, ICD did not
+   shock patient during code blue yesterday.
+   -pacer revision in future
+   -TEE to look for lead endocarditis, as above
+   -if develops VT, will need external therapy as ICD is not functioning
+   .
+   # Hypothyroidism:
+   - continue levothyroxine 50 mcg daily
+   .
+   # Anemia: Pt with a history of anemia, baseline Hct of approx. 33-35.
+   Hct gradually trending down. No evidence of bleeding.
+   - continue iron supplementation
+   - continue to trend hct
+   .
+   # S/p Whipple: On tube feeds.
+   - Holding pancreatic enzyme supplementation while on tube feeds.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin Sliding Scale
+   Lines:
+   Arterial Line - [**2545-3-13**] 09:13 PM
+   Multi Lumen - [**2545-3-14**] 10:00 AM
+   20 Gauge - [**2545-3-20**] 01:32 PM
+   Prophylaxis:
+   DVT: subtherapeutic INR
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

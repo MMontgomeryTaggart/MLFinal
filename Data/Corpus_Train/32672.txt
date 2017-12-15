@@ -1,0 +1,336 @@
+Admission Date:  [**2665-11-14**]              Discharge Date:   [**2665-11-29**]
+
+Date of Birth:  [**2596-10-1**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+CABGx3(LIMA->LAD, SVG->OM, RCA)/MV repair(26mm Physio ring)/ASD
+closure, IABP removal [**11-17**]
+
+
+History of Present Illness:
+69yo woman with new onset angina associated with vomiting
+started [**10-11**]. After visit to PCP [**Last Name (NamePattern4) **] [**11-13**] she was referred to
+ED for evaluation. In ER ruled in for MI. Had cardiac
+catheterization at OSH which revealed 3 VD an IABP was placed. A
+subsequent echo revealed 3+MR. She was then transferred to [**Hospital1 22**]
+for cardiac surgery
+
+Past Medical History:
+PVD
+Lupus
+DVT s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] filter
+HTN
+Sjogren's
+Chronic sinusitis
+Osteoporosis
+^chol
+Hypothyroid
+s/p Tubal Ligation
+s/p Csection x3
+s/p Tonsillectomy
+
+
+Social History:
+Retirerd school teacher. Lives with spouse.
+Denies tobacco
+Occaisioanl ETOH [**5-7**] drinks/year
+
+Family History:
+noncontributory
+
+Physical Exam:
+Admission:
+Neuro A&Ox3, nonfocal exam
+HEENT: unremarkable, EOMI,PERRL
+Neck-supple, full ROM, no lymphadenopathy
+CV RRR 1/6SEM
+Pulm: CTA-bilat
+Abdm: soft NT/ND +BS
+Ext: warm palpable pulses. IABP rt groin
+
+Pertinent Results:
+[**2665-11-26**] 06:45AM BLOOD WBC-8.9 RBC-4.17* Hgb-13.0 Hct-37.9
+MCV-91 MCH-31.3 MCHC-34.4 RDW-16.1* Plt Ct-410
+[**2665-11-28**] 09:20AM BLOOD PT-16.2* INR(PT)-1.4*
+[**2665-11-27**] 06:15AM BLOOD PT-27.4* PTT-33.0 INR(PT)-2.7*
+[**2665-11-28**] 06:30AM BLOOD Glucose-83 UreaN-9 Creat-0.7 Na-134 K-3.9
+Cl-92* HCO3-28 AnGap-18
+
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2665-11-26**] 06:45AM    8.9 4.17* 13.0 37.9 91 31.3 34.4 16.1*
+410
+
+RADIOLOGY  Final Report
+ABDOMEN U.S. (COMPLETE STUDY)  [**2665-11-24**] 3:31 PM
+ABDOMEN U.S. (COMPLETE STUDY)
+Reason: evaluation for RUQ with elevated lipase and amylase
+UNDERLYING MEDICAL CONDITION:
+69 year old woman with s/p cabg
+REASON FOR THIS EXAMINATION:
+evaluation for RUQ with elevated lipase and amylase
+INDICATION: Status post CABG with elevated lipase and amylase.
+COMPARISONS: None.
+ABDOMINAL ULTRASOUND: The gallbladder is unremarkable without
+evidence of stones. The liver shows no focal or textural
+abnormalities. There is no intra- or extra-hepatic biliary
+dilatation. The portal vein is patent with appropriate
+hepatopetal flow. The right kidney measures 12.0 cm. The left
+kidney measures 11.9 cm. There are no stones or hydronephrosis.
+Evaluation of the pancreas is limited as only the head was
+visualized. The spleen is unremarkable.
+IMPRESSION:
+1. No cholelithiasis.
+2. Unremarkable but limited examination of the abdomen as the
+pancreatic body and tail were not evaluated.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 10960**] [**Doctor Last Name 10961**]
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 24429**]       TEE (Congenital)
+Done [**2665-11-17**] at 2:45:23 PM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+[**Hospital Unit Name 3828**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2596-10-1**]
+Age (years): 69 F  Hgt (in): 63
+BP (mm Hg): 120/40  Wgt (lb): 150
+HR (bpm): 70  BSA (m2): 1.71 m2
+Indication: Intraoperative TEE for CABG/MVR
+ICD-9 Codes: 745.5, 410.91, 786.05, 440.0, 424.0, 424.2
+Test Information
+Date/Time: [**2665-11-17**] at 14:45    Interpret MD: [**Name6 (MD) **]
+[**Name8 (MD) 3829**], MD
+Test Type: TEE (Congenital)
+3D imaging. Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8563**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW4-: Machine: 4
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  1.1 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  3.7 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Annulus:  1.8 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.6 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.3 cm  <= 3.0 cm
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aortic Valve - Peak Velocity:  1.0 m/sec  <= 2.0 m/sec
+Findings
+Multiplanar reconstructions were generated and confirmed on an
+independent workstation.
+LEFT ATRIUM: Dilated LA. No spontaneous echo contrast or
+thrombus in the LA/LAA or the RA/RAA. Good (>20 cm/s) LAA
+ejection velocity.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. PFO is present.
+Left-to-right shunt across the interatrial septum at rest.
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Mildly depressed LVEF.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level. Focal
+calcifications in aortic root. Normal ascending aorta diameter.
+Normal aortic arch diameter. Simple atheroma in aortic arch.
+Normal descending aorta diameter. Simple atheroma in descending
+aorta.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild
+mitral annular calcification. Eccentric MR jet. Severe (4+) MR.
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Physiologic TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+PERICARDIUM: Small pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+1. The left atrium is dilated.
+2. A left-to-right shunt across the interatrial septum is seen
+at rest. A small secundum type ASD IS SEEN
+3. There is mild symmetric left ventricular hypertrophy. The
+left ventricular cavity size is normal. Overall left ventricular
+systolic function is mildly depressed (LVEF= 40 %).
+4. Right ventricular chamber size and free wall motion are
+normal.
+5. There are simple atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta. Echogenicity
+noted in the descending aortic distal to the arch, consistent
+with a intra-aortic balloon pump.
+6. The aortic valve leaflets (3) are mildly thickened. No aortic
+regurgitation is seen.
+7. The mitral valve leaflets are mildly thickened. An eccentric,
+posteriorly directed jet of Severe (4+) mitral regurgitation is
+seen with noted restricted posterior leaflet motion. Anterior
+leaflet length in 2.0cm and the Posterior leaflet length in
+1.0cm with a C-[**Month (only) **] distance of 2.4 cm.
+8. The tricuspid valve leaflets are mildly thickened.
+9. There is a small pericardial effusion.
+10. There is a large right sided pleural effusion.
+
+POST-BYPASS:
+1. Patient is on an epinephrine infusion along with small doses
+of phenylephrine.
+2. Normal RV systolic function.
+3. Overall LVEF is 40%. There is some mild improvement of
+lateral wall functions.
+4. There is a mitral annulus ring seen and it is stable and
+functioning well with no residual MR [**First Name (Titles) **] [**Last Name (Titles) **].
+5. Thoracic Aortic contour is intact.
+6. Intact interatrial septum.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) **] [**Name8 (MD) 3829**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2665-11-17**] 19:01
+
+CHEST (PA & LAT)  [**2665-11-26**] 2:20 PM
+
+CHEST (PA & LAT)
+
+Reason: evaluate effusion
+
+UNDERLYING MEDICAL CONDITION:
+69 year old woman s/p CABG MV repair
+REASON FOR THIS EXAMINATION:
+evaluate effusion
+STUDY: AP chest, [**2665-11-26**].
+
+HISTORY: 69-year-old woman with CABG and mitral valve repair.
+
+FINDINGS: Sternotomy wires and aortic valve prosthesis are again
+seen. The cardiac silhouette and mediastinum are within normal
+limits. There is a left retrocardiac opacity and left-sided
+pleural effusion. There is some atelectasis at the right lung
+base. There is again seen a calcified lesion within the right
+proximal humerus that likely represents _____ bone infarct or
+calcified enchondroma as described on the prior study.
+Comparison with more remote films would be helpful. Otherwise,
+dedicated shoulder radiographs would be helpful.
+
+
+Brief Hospital Course:
+Admitted to [**Hospital1 22**] on [**11-14**] from [**Doctor First Name 3093**] Hospital for coronary
+bypass surgery, IABP placed at OSH. She was seen by ID and
+Treated initially for klebsiella UTI then brought to OR on
+[**11-17**], please see OR note for details. In summary the patient
+had CABGx3(LIMA-LAD,SVG-OM,SVG-RCA)MVRepair(#26 Physio ring)ASD
+closure. Her bypass time was 161 minutes with a crossclamp time
+of 126 min. She tolerated the operation well and was transferred
+to the cardiac ICU in stable condition. The patient was kept
+sedated and intubated on the day of surgery and on POD1 her IABP
+was removed and she was extubated. The patient remained in the
+ICU for several days to wean from her iv medications, her course
+was also complicated by intermittant Atrial fibrillation for
+which she was started on Amiodarone both IV and PO. On POD8 she
+was transferred to the step down floor for further care. She was
+started on erythromycin eye ointment for supposed
+conjunctivitis. On the floor her po medications were further
+adjusted, her activity level was advanced with PT and on POD#12
+it was decided she was stable and ready for discharge to rehab.
+
+Medications on Admission:
+HCTZ/Diovan
+Fosamax 70 Qwk
+ASA 81 QD
+MVI
+Calcium
+Imuran 50 QD
+Medrol 2 QD
+Norvasc 10 QD
+Synthroid 100 QD
+Lopressor 25 [**Hospital1 **]
+Coumadin 5 QW-Sun 2.5 other 5 days
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours):
+while on Lasix.
+5. Azathioprine 50 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Hydroxychloroquine 200 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+8. Methylprednisolone 2 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+9. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 10 days: then re-evaluate need for diuresis.
+10. Erythromycin 5 mg/g Ointment Sig: One (1) u Ophthalmic TID
+(3 times a day) for 4 days.
+11. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+13. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed for pain.
+15. Warfarin 2 mg Tablet Sig: One (1) Tablet PO once a day for 2
+days: 2mg on [**11-28**] & [**11-29**], then check INR for continued dosing
+for PE/IVC filter, target INR 2.0-3.0.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location 20742**] at [**Location (un) 800**] NH
+
+Discharge Diagnosis:
+s/p MVRepair(#26 ring)CABGx3(LIMA-LAD,SVG-OM,SVG-RCA)ASD closure
+[**11-17**]
+PMH: CAD, ^chol, HTN, Sjogren's, Lupus, Osteoporosis,
+Hypothyroid, s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] filter, tonsillectomy, tubal
+ligation
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Keep wounds clean and dry. OK to shower, no bathing or swimming.
+Take all medications as prescribed.
+Call for any fever, redness or drainage of wounds
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in 2 weeks
+Dr. [**Last Name (STitle) 22154**] in  4 weeks
+Dr. [**Last Name (STitle) 24430**] in 6 weeks
+
+
+
+Completed by:[**2665-11-29**]
+
+
+DOC CLASS

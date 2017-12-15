@@ -1,0 +1,191 @@
+CVICU
+   HPI:
+   s/p sternal debridement, VAC placement [**1-28**]
+   PMHx:
+   mild dementia,asthma,OA,hypothyroidism, mod AS,polymyalgia,
+   anemia,afib,Right renal cyst,GERD,vaginal enterocele,PVD,open CCY
+   ([**3047**]),s/p CABGx3/AVR([**First Name8 (NamePattern2) **] [**Male First Name (un) **] tissue) [**3067-12-24**],s/p Left superficial
+   femoral artery to anterior tibial
+   Current medications:
+   Ipratropium Bromide Neb 1 NEB IH Q6H,  Levothyroxine Sodium 75 mcg PO
+   DAILY, Metoprolol Tartrate 25 mg PO/NG [**Hospital1 7**], Acetaminophen 650 mg PO/PR
+   Q4H:PRN, Metoclopramide 5 mg IV Q6H:PRN nausea/vomiting, Albuterol
+   0.083% Neb Soln 1 NEB IH Q6H, Aspirin EC 81 mg PO DAILY, Milk of
+   Magnesia 30 mL PO DAILY:PRN constipation, Atorvastatin 20 mg PO/NG HS
+   ,  Miconazole Nitrate Vag Cream 2% 1 Appl VG HS, Multivitamins 1 TAB
+   PO/NG DAILY, Citalopram Hydrobromide 40 mg PO/NG DAILY, Omeprazole 20
+   mg PO DAILY, Ondansetron 4 mg IV Q8H:PRN nausea, Docusate Sodium 100 mg
+   PO BID, Phenylephrine 0.2-2.0 mcg/kg/min IV DRIP TITRATE TO to keep MAP
+   > 60, Ferrous Sulfate 325 mg PO/NG DAILY, Fluticasone-Salmeterol Diskus
+   (100/50) 1 INH IH [**Hospital1 7**], PredniSONE 1 mg PO/NG DAILY, FoLIC Acid 1 mg PO
+   DAILY, PrimiDONE 50 mg PO HS, Furosemide 40 mg IV BID, Quetiapine
+   Fumarate 12.5 mg PO QHS, Heparin 5000 UNIT SC TID, TraMADOL (Ultram) 50
+   mg PO Q4H:PRN pain, HydrALAzine 10 mg IV Q6H:PRN SBP>140, Vancomycin
+   750 mg IV Q48H
+   Post operative day:
+   POD#6 - Sternal debridement.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3068-2-1**] 09:27 AM
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3068-2-2**] 09:38 PM
+   Hydralazine - [**3068-2-3**] 02:14 AM
+   Furosemide (Lasix) - [**3068-2-3**] 05:20 AM
+   Flowsheet Data as of  [**3068-2-3**] 09:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**69**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.5
+C (97.7
+   HR: 87 (78 - 90) bpm
+   BP: 160/59(85) {98/38(56) - 166/68(94)} mmHg
+   RR: 17 (11 - 22) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 73.5 kg (admission): 72.3 kg
+   Height: 59 Inch
+             Total In:
+                                                                    680 mL
+                                                                     45 mL
+   PO:
+                                                                    510 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    170 mL
+                                                                     45 mL
+   Blood products:
+   Total out:
+                                                                  2,250 mL
+                                                                  1,265 mL
+   Urine:
+                                                                  2,250 mL
+                                                                  1,265 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,570 mL
+                                                                 -1,220 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 97%
+   ABG: ///35/
+   Physical Examination
+   General Appearance: No acute distress, sleepy but arousable
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   scattered , Diminished: bases), (Sternum: Stable ), sternum open to VAC
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   409 K/uL
+   11.4 g/dL
+   92 mg/dL
+   1.3 mg/dL
+   35 mEq/L
+   4.0 mEq/L
+   23 mg/dL
+   102 mEq/L
+   142 mEq/L
+   34.6 %
+   9.1 K/uL
+        [image002.jpg]
+                             [**3068-1-29**]  02:44 PM
+                             [**3068-1-29**]  04:08 PM
+                             [**3068-1-29**]  05:08 PM
+                             [**3068-1-29**]  06:00 PM
+                             [**3068-1-30**]  02:08 AM
+                             [**3068-1-30**]  02:16 AM
+                             [**3068-1-31**]  04:32 AM
+                             [**3068-2-1**]  01:40 AM
+                             [**3068-2-2**]  03:21 AM
+                             [**3068-2-3**]  02:02 AM
+   WBC
+   8.9
+   10.7
+   10.4
+   10.5
+   9.1
+   Hct
+   34.1
+   35.7
+   32.9
+   34.2
+   34.6
+   Plt
+   [**Telephone/Fax (3) 13324**]59
+   409
+   Creatinine
+   1.2
+   1.2
+   1.2
+   1.2
+   1.3
+   TCO2
+   23
+   23
+   24
+   27
+   Glucose
+   89
+   100
+   73
+   57
+   66
+   92
+   Other labs: PT / PTT / INR:12.7/28.9/1.1, ALT / AST:15/13, Alk-Phos / T
+   bili:99/0.2, Amylase / Lipase:72/20, Lactic Acid:0.8 mmol/L,
+   Albumin:2.1 g/dL, LDH:175 IU/L, Ca:8.8 mg/dL, Mg:2.6 mg/dL, PO4:4.2
+   mg/dL
+   Imaging: CXR with small bilateral effusion and atx
+   Microbiology: coag positive staph in bone and deep tissue
+   ECG: SR
+   Assessment and Plan
+   ACIDOSIS, MIXED, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), ALTERATION IN
+   TISSUE PERFUSION, WOUND INFECTION
+   Assessment and Plan: s/p sternal debridement, VAC placement [**1-28**] stable
+   awaiting  rehab final decision from plastics regarding plan for flaps
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled on ultram.  Sleepy
+   but arousable and appropriate.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Hemodynamically stable,
+   SBP goal <120
+   Pulmonary: IS, ambulation, OOB to chair
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Regular diet, Calorie counts/ensure puddings, appetite has
+   improved.
+   Renal: Foley, Adequate UO, Diurese for goal of 1 Liter negative daily.
+   Hematology: Serial Hct, stable post-operative anemia
+   Endocrine: RISS, Blood glucose goal <150
+   Infectious Disease: On Vancomycin with goal of 15-20 per ID for coag
+   positive staph
+   Lines / Tubes / Drains: Foley
+   Wounds: Wound vacuum
+   Consults: Plastics, ID dept
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3068-2-1**] 06:24 PM
+   Prophylaxis:
+   DVT: Boots, SQ heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

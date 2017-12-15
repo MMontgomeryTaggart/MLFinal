@@ -1,0 +1,254 @@
+Chief Complaint: heart failure
+   24 Hour Events:
+   [**4-16**]
+   - Is/Os check put out 1-1.5 L from lasix dose so no extra pm diuretics
+   Allergies:
+   Penicillins
+   Unknown;
+   Tegretol (Oral) (Carbamazepine)
+   Unknown;
+   Spironolactone
+   Hyperkalemia;
+   Last dose of Antibiotics:
+   Vancomycin - [**2821-4-16**] 09:01 AM
+   Cefipime - [**2821-4-16**] 11:08 PM
+   Infusions:
+   Heparin Sodium - 850 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2821-4-17**] 07:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**23**] AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.7
+C (99.8
+   HR: 55 (55 - 72) bpm
+   BP: 105/47(63) {102/30(51) - 126/59(73)} mmHg
+   RR: 21 (18 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+   Wgt (current): 77 kg (admission): 79.2 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,015 mL
+                                                                     60 mL
+   PO:
+                                                                    520 mL
+             TF:
+   IVF:
+                                                                    495 mL
+                                                                     60 mL
+   Blood products:
+   Total out:
+                                                                  2,290 mL
+                                                                    210 mL
+   Urine:
+                                                                  2,290 mL
+                                                                    210 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,275 mL
+                                                                   -150 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   162 K/uL
+   9.9 g/dL
+   136 mg/dL
+   0.8 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   47 mg/dL
+   106 mEq/L
+   141 mEq/L
+   31.9 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**2821-4-11**]  03:07 PM
+                             [**2821-4-11**]  06:00 PM
+                             [**2821-4-12**]  11:10 AM
+                             [**2821-4-12**]  08:36 PM
+                             [**2821-4-13**]  03:04 PM
+                             [**2821-4-14**]  06:30 AM
+                             [**2821-4-15**]  04:21 AM
+                             [**2821-4-15**]  05:10 PM
+                             [**2821-4-16**]  03:51 AM
+   WBC
+   6.9
+   7.7
+   5.7
+   5.8
+   6.0
+   8.1
+   Hct
+   35.8
+   38.1
+   36.9
+   35.4
+   34.4
+   31.9
+   Plt
+   194
+   219
+   150
+   176
+   165
+   162
+   Cr
+   1.8
+   1.8
+   1.7
+   1.7
+   1.8
+   1.6
+   1.6
+   0.8
+   TCO2
+   27
+   Glucose
+   105
+   176
+   153
+   145
+   116
+   128
+   136
+   Other labs: PT / PTT / INR:20.3/73.7/1.9, ALT / AST:15/42, Alk Phos / T
+   Bili:131/1.4, Amylase / Lipase:[**8-19**], Differential-Neuts:77.8 %, Band:9.0
+   %, Lymph:11.7 %, Mono:7.9 %, Eos:2.5 %, Lactic Acid:1.4 mmol/L,
+   Albumin:3.2 g/dL, LDH:270 IU/L, Ca++:8.6 mg/dL, Mg++:2.3 mg/dL, PO4:2.7
+   mg/dL
+   Assessment and Plan
+ ALTERATION IN NUTRITION
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ HEART FAILURE (CHF), DIASTOLIC, CHRONIC
+ IMPAIRED SKIN INTEGRITY
+   Assessment and Plan
+   71 yo M h/o dCHF (EF>55%), AS s/p AVR, AF, pulmonary HTN, CAD s/p CABG,
+   3rd-degree heart block s/p ppm, transferred from [**Hospital 11433**] Hospital for
+   consideration of vasodilator therapy for pulmonary hypertension in the
+   setting of severe diastolic biventricular heart failure.
+   .
+   # Acute on chronic diastolic heart failure: The patient presented with
+   symptoms of predominantly right-sided heart failure with peripheral
+   edema, hepatic congestion, poor appetite, and elevated JVP. Weight was
+   significantly elevated from dry weight of 151 lbs. Of note, there has
+   been a recent worsening in tricuspid regurgitation that may be
+   contributing to the patient's symptoms. Per Dr. [**First Name11 (Name Pattern1) **]
+[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 985**], patient
+   may need a degree of peripheral edema in order to have enough preload
+   to maintain cardiac output.  So far the patient has had moderate urine
+   output with PO torsemide.  He is intermittently unable to take PO
+   medications
+   - continue diuresis with daily doses of lasix given unable to take PO
+   intermittently, recommend another 80mg IV ONCE
+   - monitor Is/Os for goal 1-1.5 negative
+   - defer right and left heart cath with trial of vasodilator for Monday
+   pending improvement in mental status
+   - continue metoprolol
+   - will need to eventually restart ACE I again, but holding while
+   undergoing diuresis
+   .
+   # Altered mental status: Etiology unclear at this point.  Treating for
+   infection, although ICU delirium, worsening CHF, uremia, or
+   accumulation of medications in setting of decreased renal function
+   could be contributing.  Hypercarbia ruled out with ABG. Consider
+   cerebral hypoperfusion. EEG recommended by neurology to r/o seizures
+   and was negative.  Patient had 8%  bands on Differential which was
+   concerning for infection so is being treated fro HAP.  Mental status
+   slightly improved overnight.
+   - avoid sedating medications
+   - f/u UA, UCx
+   - f/u blood cultures
+   -Continue empiric tx for HAP (Day 1 = [**4-13**]) with vanc, cefipime, will
+   add fluoroquinolone if clinically worsens
+   - contact neurology about CHF encephalopathy and possibility of
+   therapeutic LP to drain CSF
+   .
+   # Infection: Patient was recently treated for presumed PNA at OSH with
+   cefepime and linezolid .  Was not initially placed on antibiotics here
+   given no white count or fever.  However, differential showed bandemia
+   which is concerning for infection and patient has trended on the
+   hypothermic side.  Most likely source at this time is pneumonia given
+   cough, although this could also be explained by CHF exacerbation.  Pt
+   unable to produce sputum.
+   - f/u blood culture
+   - f/u urine culture
+   - try to obtain sputum if possible
+   - continue vanc, cefipime for now  (Day 1 = [**4-13**])
+   - trend WBCs, fever curve, monitor clinically
+   - add expectorant to help produce sputum
+   - tessalon pearls
+   .
+   # Chronic kidney disease: Improved. The patient is actually at his
+   recent baseline creatinine (1.6-1.9). Urine sediment bland. Likely
+   etiology is poor forward flow.
+   - optimize hemodynamics
+   - avoid nephrotoxins
+   - renally dose meds
+   .
+   # COPD: The patient sounds rhonchorous and wheezy on exam.
+   - standing albuterol and ipratropium nebs
+   - inhaled fluticasone
+   .
+   # Mediastinal adenopathy: Unclear etiology, could relate to infection
+   vs. inflammatory or neoplastic process.  Would be helpful to have
+   radiology review images in comparison to priors, as patient has
+   multiple prior CTs.
+   .
+   # s/p mechanical aortic valve: Well-seated on recent echo.
+   - hold coumadin for now in anticipation of possible procedure
+   - continue heparin gtt
+   .
+   # AFib with single-chamber PPM placed for 3rd degree AV block:
+   -          hold coumadin for now in anticipation of possible procedure.
+   -           on hep gtt
+   .
+   # h/o CAD s/p CABG: Not on aspirin, presumably because of concern for
+   bleeding while on coumadin. No evidence of ischemia. Cardiac enzymes
+   negative at Wincester
+   - continue simvastatin
+   .
+   # DM:  controlled by diet
+   - insulin sliding scale
+   .
+   # BPH:  continue flomax
+ ALTERATION IN NUTRITION
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ HEART FAILURE (CHF), DIASTOLIC, CHRONIC
+ IMPAIRED SKIN INTEGRITY
+   ICU Care
+   Nutrition: ensure shakes
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2821-4-14**] 04:16 PM
+   Prophylaxis:
+   DVT: heparing gtt
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: CCU for now
+
+
+
+DOC CLASS

@@ -1,0 +1,94 @@
+Chief Complaint:
+   24 Hour Events:
+   No events overnight. Pt remained in NSR with occasional PACs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Tachycardia
+   Flowsheet Data as of  [**3339-9-26**] 06:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.9
+C (98.4
+   HR: 97 (92 - 105) bpm
+   BP: 93/55(65) {93/49(32) - 122/70(78)} mmHg
+   RR: 28 (20 - 34) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+             Total In:
+                                                                  1,940 mL
+                                                                     10 mL
+   PO:
+                                                                    300 mL
+             TF:
+   IVF:
+                                                                    490 mL
+                                                                     10 mL
+   Blood products:
+   Total out:
+                                                                    510 mL
+                                                                    200 mL
+   Urine:
+                                                                    130 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,430 mL
+                                                                   -190 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   General Appearance: Thin
+   Cardiovascular: (Murmur: Systolic), [**4-10**] Mid-peaking ejection murmur
+   Heard at RUSB, [**5-11**] Holosystolic  SEM heard at left 5th intercostal
+   space with radiation to axilla
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   28.0 %
+        [image002.jpg]
+                             [**3339-9-25**]  09:18 PM
+   Hct
+   28.0
+   Assessment and Plan
+ AORTIC STENOSIS
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3339-9-25**] 05:37 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

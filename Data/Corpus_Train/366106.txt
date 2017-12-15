@@ -1,0 +1,324 @@
+Chief Complaint:  hypotension/resp distress
+   HPI:
+   Mr. [**Known patient lastname 6451**] is an 89 y.o. M with systolic CHF (EF 45% in [**10-14**]), s/p
+   MCA CVA, afib, HTN, and DM II, recently admitted to [**Hospital1 52**] from
+   [**Date range (1) 7885**] and [**Date range (1) 7886**] for HAP and UTI [**Hospital **] transferred from [**Hospital **]
+   hosp for hypotension.
+   .
+   History is unclear as obtained from scant OSH records and patient
+   unable to give history. He appears to have been at NH when found to
+   sats 81% RA, foley draining dark amber urine. He was noted to have
+   severe peripheral edema and given levoquin X 1 and lasix 40 mg IV X 1
+   at OSH. He became hypotensive to 80's at OSH, placed an EJ and started
+   peripheral neo.
+   .
+   In the ED, initial vs were: T 100, P 81, BP 107/58, R 18, 100% NRB O2
+   sat. Patient was given Vanc/Zosyn, tylenol, and 1L NS in ED. Bladder
+   was changed in ED with UCx very positive and sent to ICU.
+   .
+   On the floor, he has no complaints. History is obtained mostly from son
+   as patient only answers with single words.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient
+   Patient unable to provide history: lethargic
+   Allergies:
+   Norvasc (Oral) (Amlodipine Besylate)
+   Unknown;
+   Cipro I.V. (Intraven.) (Ciprofloxacin Lactate)
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3207-1-17**] 02:03 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3207-1-17**] 02:03 AM
+   Infusions:
+   Phenylephrine - 1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   HOME MEDS (from last d/c)
+   1. Fentanyl 12 mcg/hr Patch 72 hr [**Year (4 digits) **]: One (1) Patch 72 hr
+   Transdermal Q72H (every 72 hours).
+   2. Allopurinol 100 mg Tablet [**Year (4 digits) **]: One (1) Tablet PO DAILY
+   (Daily).
+   3. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+   Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+   4. Metoprolol Tartrate 25 mg Tablet [**Last Name (STitle) **]: 0.5 Tablet PO BID (2
+   times a day).
+   5. Multivitamin,Tx-Minerals     Tablet [**Last Name (STitle) **]: One (1) Tablet PO
+   DAILY (Daily).
+   6. Paroxetine HCl 10 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY
+   (Daily).
+   7. Lisinopril 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+   8. Chlorhexidine Gluconate 0.12 % Mouthwash [**Last Name (STitle) **]: One (1) ML
+   Mucous membrane QID (4 times a day).
+   9. Furosemide 20 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+   10. Zinc Sulfate 220 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO DAILY
+   (Daily) for 4 days.
+   11. Vitamin A 10,000 unit Capsule [**Last Name (STitle) **]: Two (2) Capsule PO DAILY
+   (Daily) for 4 doses.
+   12. Ascorbic Acid 500 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a
+   day for 4 days.
+   13. Coumadin 1 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO once a day:
+   Target INR [**1-9**].   INR on [**1-4**] was 3.9, so hold dose on [**1-4**] and
+   recheck.
+   14. Insulin Lispro 100 unit/mL Solution [**Month/Year (2) **]: qACHS per sliding
+   scale Subcutaneous ASDIR (AS DIRECTED).
+   15. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette [**Month/Year (2) **]: [**12-8**]
+   Drops Ophthalmic [**Hospital1 **] (2 times a day).
+   16. Oxybutynin Chloride 5 mg Tablet [**Hospital1 **]: One (1) Tablet PO TID
+   (3 times a day).
+   17. Metronidazole 500 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q8H
+   (every 8 hours) for 2 weeks.
+   18. Acetaminophen 325 mg Tablet [**Hospital1 **]: 1-2 Tablets PO Q6H (every 6
+   hours) as needed for pain.
+   Past medical history:
+   Family history:
+   Social History:
+   L MCA stroke with right-sided hemiparesis, aphasia [**1-/3197**]
+   Systolic CHF with EF 45-50% in [**10/3206**]
+   Mild pulmonary artery hypertension
+   Atrial fibrillation with slow ventricular response
+   Heart block s/p [**Company 2322**] Sensia single-chamber pacemaker [**4-13**]
+   Benign Hypertension
+   Hyperlipidemia
+   Type 2 Diabetes
+   RLE cellulitis
+   RLE DVT (on coumadin)
+   s/p IVC filter [**11/3205**]
+   Sleep apnea (intolerant of CPAP)
+   Bladder diverticulum w/ ? fungal infection, currently inoperable
+   per most recent urology note followed by [**First Name8 (NamePattern2) 140**] [**Last Name (NamePattern1) **]
+   Recurrent UTIs
+   NC
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: He does not drink or smoke. Widower with 3 children. Former
+   pro-baseball scout for numerous pro-teams. Was one of the first scouts
+   to recruit a minority player (to Philly), and was then
+   black-listed for this reason for 5 years. He coached for many
+   many years at [**Location (un) 7887**] college, where he boasted a 100%
+   graduation rate. Lives in a nursing home, and is visited daily
+   by his sons, who performs many of the tasks of daily care. He
+   does not drink, smoke, nor use recereational drugs. Widower with
+   3 children.
+   Review of systems:
+   Constitutional: Fatigue, Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: No(t) Chest pain
+   Respiratory: No(t) Cough, Dyspnea, Tachypnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: Foley
+   Psychiatric / Sleep: Agitated
+   Flowsheet Data as of [**3207-1-17**] 03:32 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.7
+C (99.8
+   HR: 72 (72 - 77) bpm
+   BP: 106/49(61) {95/45(60) - 107/53(64)} mmHg
+   RR: 17 (12 - 18) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             434 mL
+   PO:
+             TF:
+   IVF:
+   434 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    450 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -16 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   General Appearance: anasarca
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 4+, Left: 4+
+   Skin:  Warm, Rash: skin breakdown in buttock, healing ulcers on toes
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   [**Telephone/Fax (2) 7888**]9
+   116
+   4.4
+   150
+   31.9
+   18.4
+        [image002.jpg]
+   Other labs: PT / PTT / INR://3.2, CK / CKMB / Troponin-T:24//0.24, ALT
+   / AST:13/28, Differential-Neuts:85, Band:0, Lymph:12.7, Lactic
+   Acid:1.3, Albumin:1.7, Ca++:7.7, Mg++:2.2, PO4:3.8
+   Imaging: CXR: my read, rotated film obscures left lower lung field. R
+   is clear, left ? LLL infiltrate
+   [**3205**] ECHO The left atrial volume is markedly increased (>32ml/m2). The
+   right atrium is moderately dilated. Left ventricular wall thicknesses
+   and cavity size are normal. Overall left ventricular systolic function
+   is mildly depressed (LVEF= 45%). Right ventricular chamber size and
+   free wall motion are normal. The aortic valve leaflets (3) are mildly
+   thickened. Trace aortic regurgitation is seen. The mitral valve
+   leaflets are mildly thickened. There is no mitral valve prolapse.
+   Trivial mitral regurgitation is seen. The tricuspid valve leaflets are
+   mildly thickened. There is moderate pulmonary artery systolic
+   hypertension. There is an anterior space which most likely represents a
+   fat pad.
+   IMPRESSION: Mildly depressed LV systolic dysfunction. Thickened aortic
+   valve leaflets without stenosis. Moderate pulmonary artery systolic
+   hypertension.
+   Microbiology: Blood Cx: pending
+   UCx: pending
+   ECG: afib, 77 bpm, no ST or TW chages, Q III/AVF (Old)
+   Assessment and Plan
+   This is a 89 y.o. M with systolic CHF (EF 45% in [**10-14**]), s/p MCA CVA,
+   afib, HTN, and DM II, who presents from rehab with hypotension and
+   respiratory distress.
+   .
+   # Hypotension: I suspect hypovolemia vs septic shock. He has had very
+   poor intake since returning to NH per family. However, presence of
+   leukocytosis, low grade fever, and hypotension is concerning for
+   sepsis. Most likely source would be pulm or urine. He has very psoitive
+   U/A. Of note, he has grown numerous unusual organisms from urine in
+   recent past
+   - gentle IVF as has known CHF
+   - continue neo and goal to wean
+   - goal MAP>65, CVP 10-12, UOP >30 cc/hr
+   - continue Vanc/Zosyn and tailor to cx
+   - f/u blood, urine cx
+   .
+   # CHF: EF in [**3205**] 45%. On exam, lungs sound mostly clear, although he
+   is total body volume overloaded
+   - gentle IVF, but will be careful of CHF
+   - consider repeat echo
+   - hold on lasix tonight while on pressors, but would have low threshold
+   to retart tomorrow
+   .
+   # UTI: Frequent UTI with unusual organsisms. He has large bladder
+   divertic and chronic foley
+   - treatment as above
+   - foley changed in ED
+   - followed by Dr. [**Last Name (STitle) **] in urology
+   .
+   # Leukocytosis: Infection w/u as above. Of note, during last admission,
+   he was started empirically on Metronidazole on [**1-3**]; however, C. diff
+   negative on [**1-4**]
+   - would stop Flagyl as c. diff toxin a and B negative on [**1-4**]
+   - f/u blood, urine, stool cx
+   .
+   # Elevated Troponin: Suspect some trop leak from heart failure in
+   addition to acute renal failure and decreased clearance. EKG paced, pt
+   asymptomatic.
+   - telemetry until ROMI with CE x 3
+   - repeat EKG in AM
+   .
+   # ARF: Baseline 1.2, now 1.5 which is mostly likely prerenal azotemia
+   - gentle IVFs overnight
+   - check urine lytes to calc FEUrea
+   .
+   # Hypernatremia: I suspect hypernatremia is from excess free water loss
+   from fever, insensible losses.
+   - send urine lytes
+   - gentle free water replacement (he has a 3.7L deficit)
+   - D5W at 75 cc/hr
+   .
+   # Alkalosis: seen on ABG 7.47/39/211, suspect contraction alkalosis
+   from insensible losses
+   .
+   # Venous clots: He has non-occlusive thrombus within the left cephalic
+   vein felt to be [**1-8**] PICC line and stable. He also has hx R DVT s/p IVC
+   filter
+   - anticoagulated with coumadin
+   .
+   # Atrial fibrillation:
+   - hold metoprolol tonight while on pressors
+   - hold coumadin as supratherapeutic and on antibiotics
+   - would restart coumadin when INR less than 2.5
+   .
+   # Hypertension:
+   - hold on home BB and ACEi tonight but restart once off pressors and
+   stable as he will benefit from afterload reduction
+   .
+   # Type 2 Diabetes:
+   - continue HISS
+   .
+   # Anemia: Hct at baseline (28-30); likely ACD; however macrocytosis and
+   last B12/folate over 1 year ago
+   - check iron, B12/folate
+   - transfuse Hct<21
+   .
+   # L heel stage II pressure ulcer:  Wound care consulted at recent
+   admission
+   - Pressure relief per pressure ulcer guidelines
+   - Support surface -Atmos Air
+   - Turn and reposition every 1-2 hours and prn
+   - Heels off bed surface at all times
+   - Multipodis Splints to B/L LE's
+   - Moisturize B/L LE's  with [**Last Name (un) **] Cream
+   - Leave Heels open to air.
+   - Place ABD or under scrotom and on sides to prevent friction and
+   elevate scrotum.
+   .
+   # Sacral/Buttock Rash: He has healing unstageable ulcers and a large
+   area of macular erythema over entire buttock and lower back
+   - continue to monitor
+   - would care consult
+   .
+   # FEN: Low albumin 1.7 due to chronic malnutrition.
+   - Low sodium dysphagia diet with ensure pudding
+   - Boost puddings 6 per day
+   - Elevate scrotum and lower extremities to decrease anasarca
+   - Aspiration precautions
+   .
+   # PPX:
+   - Supratherapuetic INR effective as DVT prophylaxis
+   - No bowel regimen in the setting of diarrhea
+   - Strict aspiration precautions
+   - Mouthcare q6 hours
+   - PPI
+   .
+   # ACCESS
+   - fem line
+   .
+   # CODE: FULL (confirmed with patient's family)
+   # CONTACT: [**Name (NI) **] [**Name (NI) **], [**Telephone/Fax (1) 7889**]
+   ICU Care
+   Nutrition:
+   Comments: nutrition consult
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   Multi Lumen - [**3207-1-17**] 01:48 AM
+   22 Gauge - [**3207-1-17**] 01:50 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

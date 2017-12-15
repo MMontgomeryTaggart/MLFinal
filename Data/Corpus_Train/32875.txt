@@ -1,0 +1,207 @@
+Admission Date:  [**3314-4-8**]              Discharge Date:   [**3314-4-10**]
+
+Date of Birth:  [**3280-11-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 387**]
+Chief Complaint:
+Nausea/vomiting
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+33M PMH ESRD on HD, HTN p/w epigastric abdominal pain,
+nonradiating, nausea/vomiting starting one day prior to
+admission.  The patient has been unable to tolerate PO,
+including his home medications.  He complains of loose stools
+for one day, now resolved.  The patient's mother and sister have
+had similar symptoms.  The patient also complains of orthopnea,
+DOE, and nonproductive cough, consistent with his prior episodes
+of fluid overload due to missing dialysis.  The patient missed
+HD Friday due to a friend's funeral.
+.
+In the ED, initial VS: T: 97.1 BP: 186/48 HR: 78 RR: 20 O2:
+100%RA.  EKG with new TWI V5-V6, although consistent with
+reciprocal changes from patient's known LVH, and no evidence of
+peaked T waves.  The patient's blood pressure increased to up to
+256/162.  The patient received Ondansetron 4 mg, Insulin 10
+units with dextrose, Calcium gluconate 1 amp IV, Kayexalate 30
+gm, NIFEdipine CR 60 mg, Labetolol 10 mg IV x 2.  The patient's
+blood pressure remained elevated and the patient was started on
+Labetolol gtt.  Chest x-ray showed mild congestion.  The patient
+was thought to be lethargic and CT head performed and negative.
+.
+On arrival to the floor, the patient denies abdominal pain,
+nausea.
+.
+ROS: Negative for fevers, chills, chest pain, headache,
+weakness, numbness.  Otherwise negative in detail.
+
+
+Past Medical History:
+1. ESRD on HD thought due to hypertensive nephropathy, started
+on dialysis in [**1-/3313**]; going to [**Location (un) 4708**] Dialysis Unit at [**Location (un) 24974**], and follows with Dr. [**First Name4 (NamePattern1) 24351**] [**Last Name (NamePattern1) 24975**]; saw Dr.
+[**Last Name (STitle) **] here in [**3313-12-7**].
+2. Hypertension, diagnosed in [**3307**] when he had a medical exam
+during incarceration.
+3. Status post appendectomy.
+4. Recent admission for right flank pain 1/[**3313**].
+5. Medication noncompliance.
+
+
+Social History:
+He used to work as a plasterer, but is now on disability.
+tobacco - 1PPD x 14 years, recently decreased to
+two cigarettes a day.  + alcohol use, + cocaine - last use
+[**3313-12-5**],
+denies any intravenous drugs.
+
+
+Family History:
+Father - dead at age 36 from unknown cancer
+Mother - alive, 56, + HTN
+maternal grandmother - on hemodialysis for end-stage renal
+disease.
+- The patient has a younger sister and an older brother,
+both alive and well.
+- son - 7, alive and well
+
+Physical Exam:
+T: 97 BP: 165/114 (equal bilaterally) P: 82 RR: 20 SaO2: 100% 4L
+NC
+General: NAD
+HEENT: Sclera anicteric, PERRL, OP clear without lesions
+NECK: Supple, JVD 5 cm, RIJ tunnelled catheter without erythema
+CV: RRR, no MRG
+Pulm: CTAB
+Abd: NABS, soft, NTND, no HSM, no masses
+Ext: No CCE
+Skin: Warm, no rashes
+Neuro: AAOx3, CN II-XII intact, MAEW
+
+
+Pertinent Results:
+EKG: NSR at 77, axis 0, NI with QTc 433.  LVH per voltage
+criteria.  TWI III and aVF (old), JPE V2-V4 (old), TWI V5-V6
+(old) but c/w reciprocal changes from LVH.
+
+.
+CHEST (PA & LAT) Study Date of [**3314-4-8**]
+IMPRESSION:
+Cardiomegaly, mild congestion.
+.
+CT HEAD W/O CONTRAST Study Date of [**3314-4-8**]
+(my read) No ICH or mass effect.
+
+
+Brief Hospital Course:
+33M PMH ESRD on HD presenting with hypertensive urgency,
+nausea/vomiting after missing dialysis.
+.
+# Hypertensive urgency: Hypertension in the setting of inability
+to tolerate his medications due to nausea and the patient
+missing his last session of dialysis.  Initially started on
+labetalol gtt in the MICU.  Without evidence of end organ
+ischemia, with negative CT head, no ECG changes, cardiac enzymes
+negative.  He was continued on his outpt regimen (BB, ACEI), CCB
+was titrated up prior to discharge.
+.
+# Hyperkalemia: Resolved with Kayexalate. Rreceived Insulin 10
+units with dextrose, Calcium gluconate, Kayexalate 30 gm in ED.
+He underwent HD per his outpt regimen.
+.
+# ESRD on HD: Thought to be secondary to due to hypertensive
+nephropathy.  Resumed on outpt schedule of MWF HD.
+.
+# Nausea/Vomiting: Resolved. Recent sick contacts suggesting
+viral gastroenteritis. Also likely component of uremia. LFT and
+lipase unremarkable (laboratories slighly hemolyzed).  Ruled out
+for MI with enzymes.  Symptoms improved on discharge.
+
+
+Medications on Admission:
+Calcium Acetate 667 mg TID
+Lisinopril 40 mg [**Hospital1 **]
+Metoprolol Succinate 100 mg DAILY
+Nifedipine 60 mg SR [**Hospital1 **]
+Sevelamer HCl 1600 mg TID
+Terazosin 1 mg QHS
+
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+2. Terazosin 1 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+3. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+4. Sevelamer HCl 800 mg Tablet Sig: Three (3) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet(s)* Refills:*2*
+5. Nifedipine 90 mg Tablet Sustained Release Sig: Two (2) Tablet
+Sustained Release PO once a day.
+Disp:*60 Tablet Sustained Release(s)* Refills:*2*
+6. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary
+Hypertensive urgency
+End stage renal disease on hemodialysis
+Hyperkalemia
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted with high blood pressures.  You were treated
+initially with intravenous blood pressure medications.  You were
+then started on oral blood pressure medications that you
+normally take at home.  You also had hemodialysis on Monday.
+
+Please note that your nifedipine was increased.  Also note that
+your sevelamer was increased as well.  Please take all of your
+other medications as directed.  In addition, we have made
+several appointments for you.  It is important that you attend
+these appointments.  Please see below.  It is also extremely
+important that you take all of your blood pressure medications.
+
+
+If you have any of the following symptoms, please return to the
+emergency room or see your PCP:
+[**Name10 (NameIs) **] pain, shortness of breath, palpitations, or any other
+serious concerns.
+
+Followup Instructions:
+We have set you up with a primary care doctor in our clinic
+because you did not have one.  We have also set up an
+appointment for you to be evaluated by Dr. [**First Name (STitle) 174**] for
+evaluation for hemodialysis access placement:
+Dr. [**First Name (STitle) 174**]:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD Phone:[**Telephone/Fax (1) 406**]
+Date/Time:[**3314-5-10**] 3:40
+.
+Your new primary care doctor appointment:
+[**3314-5-16**]  02:00p   [**Last Name (LF) **],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 24976**]
+  [**Hospital6 402**], [**Location (un) **]
+  [**Hospital 888**] MEDICAL UNIT
+.
+Please attend your dialysis tomorrow as previously scheduled.
+
+
+
+Completed by:[**3314-5-14**]
+
+
+DOC CLASS

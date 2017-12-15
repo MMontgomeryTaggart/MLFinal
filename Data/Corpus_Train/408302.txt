@@ -1,0 +1,210 @@
+TITLE: Intensivist Daily Note
+   SICU
+   HPI:
+   [**6-21**] POD#1
+   57F s/p CABG x3(LIMA-LAD, SVG-OM, SVG-PDA)[**6-20**]
+   Chief complaint:
+   chest pain
+   PMHx:
+   HTN, Hyperlipidemia, Familial Mediterranean fever with mild IgA
+   nephropathy, Chronic L arm pain s/p multiple surgeries after humerus
+   fx, Bil cataracts, PNA [**1-/3216**], TAH/BSO [**3208**], L 5th metatarsal surgery,
+   Appendectomy, CAD Risk Factors
+   Current medications:
+   Acetaminophen, Aspirin EC 5, Clopidogrel,  Docusate Sodium,
+   Furosemide,  Insulin,  Ketorolac,  Magnesium Sulfate,  Metoclopramide,
+   Metoprolol Tartrate,  Milk of Magnesia,  Morphine Sulfate,
+   Nitroglycerin, Oxycodone-Acetaminophen,  Phenylephrine, Potassium
+   Chloride, Ranitidine, Vancomycin
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3217-6-20**] 04:00 PM
+ CORDIS/INTRODUCER - START [**3217-6-20**] 04:18 PM
+ ARTERIAL LINE - START [**3217-6-20**] 04:30 PM
+ OR RECEIVED - At [**3217-6-20**] 04:30 PM
+ NASAL SWAB - At [**3217-6-20**] 04:38 PM
+   MRSA Screen sent
+ PA CATHETER - START [**3217-6-20**] 04:45 PM
+ EKG - At [**3217-6-20**] 05:05 PM
+ INVASIVE VENTILATION - STOP [**3217-6-21**] 06:04 AM
+ PA CATHETER - STOP [**3217-6-21**] 06:12 AM
+   Post operative day:
+   POD#1 - CABG X3( LIMA->LAD, SVG->OM,SVG->PDA)
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3217-6-21**] 07:40 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3217-6-21**] 06:30 AM
+   Morphine Sulfate - [**3217-6-21**] 08:44 AM
+   Other medications:
+   Flowsheet Data as of  [**3217-6-21**] 10:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**19**] a.m.
+   Tmax: 37.9
+C (100.2
+   T current: 37.7
+C (99.9
+   HR: 90 (74 - 97) bpm
+   BP: 106/55(68) {106/55(68) - 113/66(76)} mmHg
+   RR: 22 (10 - 28) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+   CVP: 5 (4 - 18) mmHg
+   PAP: (27 mmHg) / (11 mmHg)
+   CO/CI (Thermodilution): (4.41 L/min) / (2.8 L/min/m2)
+   SVR: 1,281 dynes*sec/cm5
+   SV: 51 mL
+   SVI: 30 mL/m2
+   Total In:
+                                                                  4,214 mL
+                                                                    507 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  3,964 mL
+                                                                    507 mL
+   Blood products:
+                                                                    250 mL
+   Total out:
+                                                                  1,900 mL
+                                                                  1,810 mL
+   Urine:
+                                                                    915 mL
+                                                                  1,500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,314 mL
+                                                                 -1,303 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 300) mL
+   Vt (Spontaneous): 536 (0 - 1,784) mL
+   PS : 15 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 91
+   PIP: 21 cmH2O
+   Plateau: 16 cmH2O
+   SPO2: 96%
+   ABG: 7.38/42/104/21/-4
+   Ve: 8 L/min
+   PaO2 / FiO2: 260
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: t/o, tubular breath sounds), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, diminished bowel sounds
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: dressings C/D/I
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   179 K/uL
+   10.7 g/dL
+   105
+   0.7 mg/dL
+   21 mEq/L
+   4.4 mEq/L
+   12 mg/dL
+   108 mEq/L
+   136 mEq/L
+   32.0 %
+   14.5 K/uL
+        [image002.jpg]
+                             [**3217-6-20**]  11:49 PM
+                             [**3217-6-21**]  12:00 AM
+                             [**3217-6-21**]  01:00 AM
+                             [**3217-6-21**]  02:00 AM
+                             [**3217-6-21**]  02:41 AM
+                             [**3217-6-21**]  02:52 AM
+                             [**3217-6-21**]  03:00 AM
+                             [**3217-6-21**]  04:00 AM
+                             [**3217-6-21**]  05:07 AM
+                             [**3217-6-21**]  06:00 AM
+   WBC
+   14.5
+   Hct
+   32.0
+   Plt
+   179
+   Creatinine
+   0.7
+   TCO2
+   21
+   22
+   23
+   Glucose
+   137
+   130
+   123
+   123
+   119
+   119
+   130
+   93
+   105
+   Other labs: PT / PTT / INR:13.9/34.0/1.2, Fibrinogen:279 mg/dL, Lactic
+   Acid:1.7 mmol/L, Ca:9.1 mg/dL, Mg:2.2 mg/dL, PO4:3.9 mg/dL
+   Microbiology: [**3217-6-20**]  MRSA SCREEN MRSA SCREEN-PENDING INPATIENT
+   ECG: Sinus Rhythm
+   Assessment and Plan
+   HYPERGLYCEMIA, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), ACIDOSIS,
+   METABOLIC, CORONARY ARTERY BYPASS GRAFT (CABG), KNOWLEDGE DEFICIT,
+   CHEST PAIN
+   Assessment and Plan: Overnight patient was weaned from nitroglycerin
+   and extubated.
+   Plan for IS/ambulation.  Uptitrate beta blockade as tolerated.  Remove
+   chest tubes when output is less than 150ml/8 hours, maintain chest
+   tubes for now.  Continue to diurese.  Remove foley tonight.  Bowel
+   regimen.  Advance diet as tolerated.  Restart home non-cardiac
+   medications. Transfer to step down floor.
+   Neurologic: Pain controlled, percocet/morphine
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue PA monitor
+   Pulmonary: IS, ambulate/deep breathe
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated to cardiac/diabetic diet, has not
+   had POs yet
+   Renal: Foley, Adequate UO, diuresis today, goal net negative 1-1.5L
+   Hematology: stable hct
+   Endocrine: RISS
+   Infectious Disease: no issues currently
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Maintain chest tubes secondary to output.  Remove foley
+   tonight.
+   Wounds: Dry dressings, Dry dressing to MSI and left EVH site C/D/I
+   Consults: CT surgery, P.T.
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3217-6-20**] 04:18 PM
+   16 Gauge - [**3217-6-20**] 04:47 PM
+   Prophylaxis:
+   DVT:  (On ASA and plavix)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments: ambulate today
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Billing diagnosis : Post-op hypertension
+   Time spent : 32 minutes
+
+
+
+DOC CLASS

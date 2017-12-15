@@ -1,0 +1,194 @@
+Chief Complaint:
+   24 Hour Events:
+   Overnight Events:
+   -gave lasix 20 mg PO, with good urine response
+   -ordered sarna for itchy back
+   -d/c'ed Foley
+   -started Lovenox bridge
+   Allergies:
+   Penicillins
+   Unknown;
+   Phenobarbital
+   Rash;
+   Sulfa (Sulfonamides)
+   Unknown;
+   Latex
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3413-2-17**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**14**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.1
+C (97
+   HR: 112 (89 - 116) bpm
+   BP: 92/66(78) {92/56(67) - 116/86(89)} mmHg
+   RR: 19 (13 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 68.6 kg (admission): 70.8 kg
+                  Total In:
+                                                                  1,380 mL
+                  PO:
+                                                                  1,380 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  2,235 mL
+                                                                    250 mL
+   Urine:
+                                                                  2,235 mL
+                                                                    250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -855 mL
+                                                                   -250 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ///29/
+   Physical Examination
+   GENERAL: NAD.
+   CARDIAC: irregularly irregular, 3/6 systolic murmur loudest at the RUSB
+   LUNGS: lungs bibasilar crackles
+   ABDOMEN: Soft, NTND. Bowel sounds present.
+   EXTREMITIES:[**12-5**]+ pitting edema in the bilateral lower extremities.
+   Warm, pulses palpable.
+   Labs / Radiology
+   268 K/uL
+   11.9 g/dL
+   136 mg/dL
+   0.9 mg/dL
+   29 mEq/L
+   4.4 mEq/L
+   28 mg/dL
+   99 mEq/L
+   137 mEq/L
+   36.6 %
+   7.9 K/uL
+        [image002.jpg]
+                             [**3413-2-13**]  03:49 AM
+                             [**3413-2-13**]  10:50 PM
+                             [**3413-2-14**]  04:47 AM
+                             [**3413-2-15**]  02:49 AM
+                             [**3413-2-16**]  01:43 AM
+                             [**3413-2-17**]  04:25 AM
+   WBC
+   5.5
+   5.4
+   6.6
+   7.5
+   7.9
+   Hct
+   30.9
+   31.2
+   32.4
+   34.5
+   36.6
+   Plt
+   293
+   224
+   277
+   256
+   268
+   Cr
+   1.1
+   1.1
+   1.0
+   0.9
+   0.9
+   TropT
+   <0.01
+   <0.01
+   Glucose
+   146
+   146
+   110
+   129
+   136
+   Other labs: PT / PTT / INR:18.9/30.9/1.7, CK / CKMB /
+   Troponin-T:32//<0.01, Ca++:9.0 mg/dL, Mg++:1.9 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   72 year-old female with PMHx of DM, aortic stenosis, dCHF, and new
+   diagnosis of atrial fibrillation who was admitted from cardiology
+   clinic for CHF exacerbation and transferred to the CCU for atrial
+   fibrillation with RVR.
+   .
+   # Atrial Fibrillation - Pt arrived on the floor and developed RVR with
+   inability to sustain a normal blood pressure. The floor team was
+   limited in their use of metoprolol because of the patient's
+   hypotension. She underwent cardioversion on the floor and then was
+   transferred to the CCU for further monitoring. In the CCU, she had
+   add
+l episodes of Afib/RVR, treated by cardioversion once, digoxin
+   once, and multiple fluid boluses. Last episode RVR [**2-14**] which resolved
+   with fluid boluses. TSH 0.39. MI ruled out with 3 sets of enzymes. HR
+   well controlled ranging 80s to 120s, improved from 130s previously. Pt
+   complains only of occaissional short lived palpitations
+   -continue amio loading
+   -increasing Coumadin dose, as pt still subtherapeutic
+   -starting lovenox bridge while patient is subtherapeutic
+   -possible cardioversion this week, will need TEE first
+   .
+   # Acute on Chronic Heart Failure
+ EF 50%.  Likely related to pt's
+   atrial fibrillation.  Pt given PO lasix yesterday with good urine
+   response. Still appears to be fluid overloaded on exam.
+   - po lasix daily
+   - treat Afib as above
+   .
+   # Moderate AS (area 1.0-1.2cm2) Trace AR: Last Echo [**8-12**]
+EF 50%
+   - Can tolerate gentle diuresis.
+   .
+   # Acute Renal Failure - Pt had a bump in her creatinine in the setting
+   of starting lasix. Likely pre-renal. Creatinine improved at 0.9 but
+   still above baseline of 0.7.
+   - starting 20 mg PO Lasix daily, as above
+   - restarting metformin, as below
+   - continue holding lisinoptil
+   .
+   # Diabetes - On metformin at home. Was on ISS here.
+   - restarting metformin today
+   - insulin sliding scale
+   .
+   # Hypothyroidism - Not entirely clear on home dose. TSH 0.39.
+   - need to clarify home dose and likely decrease dose
+   - holding thyroid hormone for now given amniodorone loading
+   .
+   # Dyslipidemia - continue simvastatin
+   .
+   # Hypertension
+ Normotensive this morning; borderline hypotensive
+   overnight.
+   - holding lisinopril, as above
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3413-2-15**] 04:55 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Transfer to floor
+
+
+
+DOC CLASS

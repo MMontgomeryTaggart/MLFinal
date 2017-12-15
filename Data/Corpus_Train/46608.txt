@@ -1,0 +1,413 @@
+Admission Date:  [**2862-7-27**]              Discharge Date:   [**2862-8-3**]
+
+Date of Birth:  [**2797-5-28**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Morphine / Codeine / Bactrim
+
+Attending:[**First Name3 (LF) 3121**]
+Chief Complaint:
+Nausea/vomiting
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+Ms. [**Known patient firstname 2049**] [**Known patient lastname 29506**] is a 65 yo woman with history of chronic
+diastolic CHF, pulmonary hypertension, mixed obstructive and
+restrictive pulmonary disease, obstructive sleep apnea (uses
+CPAP), Type II diabetes, and chronic kidney disease who presents
+with 2 days of nausea, hypokalemia, and hypercalcemia.
+
+She has had chronic shortness of breath felt to be related to
+volume overload from chronic diastolic CHF.  Her metolazone was
+increased to 2x/week about 2 weeks ago.  Since then she reports
+decreasing weight (has lost about 7 lbs).  One week ago, she
+began to develop more fatigue and felt that her legs began to
+buckle more frequently.  Also endorses worsening leg cramping.
+She has also felt nausea for the last several days and vomited
+once two days ago.  She was seen by her PCP yesterday who
+checked electrolytes.  She was called by her PCP this morning
+due to hypokalemia and hypercalcemia and told to come into the
+ED.
+
+In the ED, initial vitals were T 98.2, BP 181/75, HR 59, RR 18,
+O2sat 97% RA.  Lab results were significant for stable troponin
+(0.09), K of 2.7, and calcium of 12.5.  In the ED she endorsed
+shortness of breath and CXR showed evidence of pulmonary edema.
+She received KCl 60 meq po and 40 meq IV, verapamil SR 240 mg po
+and Carvedilol 12.5 mg po prior to transfer to the medicine
+floor.
+
+Currently she reports feeling tired with slight nausea.  She
+reports her breathing feels pretty good.  She feels she can walk
+150 feet without getting short of breath, but states her
+functional status has declined significantly after a rehab stay
+in [**4-19**] after an ankle fracture.
+
+Review of sytems:
+(+) Per HPI.  Also endorses having chills for 9 months,
+intermittent fleeting chest achiness that feels "empty" in
+character, also with constipation
+(-) Denies fever, headache, sinus tenderness, rhinorrhea or
+congestion. Denied diarrhea or abdominal pain. No recent change
+in bowel or bladder habits. No blood in stool.  No dysuria.
+Denied arthralgias or myalgias.
+
+Past Medical History:
+#. DM Type 2 - Insulin dependent
+- c/b retinopathy, neuropathy, and nephropathy
+- followed by Dr. [**Last Name (STitle) 7189**] at [**Last Name (un) 93**] and her A1c as high as 14 and
+has come down to to 9.1
+#. CKD Stage IV: Baseline Cr 2.1-3.2
+#. Charcot deformity of the right ankle
+#. Hypertension
+#. Mixed restrictive & obstructive pulm disease (2L oxygen at
+night)
+#. Pulmonary Hypertension (TR grad 32 mmHg [**2861-7-25**] TTE)
+#. Chronic diastolic CHF
+#. Hyperlipidemia
+#. Hypothyroidism
+#. Polymyalgia rheumatica
+#. Fibromyalgia
+#. s/p TAH for fibroids
+#. Depression
+#. GERD
+#. OSA on CPAP (7 with 2L oxygen) - Per recent slepe study, many
+episodes of oxygen desaturation at 70% oxygen saturation.
+#. Cataracts s/p surgery [**2862-7-11**]
+
+Social History:
+The patient currently lives in [**Location **], MA by herself.  Has a
+home health aide 12 hours daily who drives, cooks, cleans, helps
+patient bathe and get dressed. She is divorced with 2 children.
+Closest relative is brother who lives in [**Location (un) 4178**].  She is
+a former secretary. She quit tobacco 12 years ago, with 40+
+pack-year history. Denies etoh and illicit drug use, states she
+used to drink alcohol and also quit 12 years ago.  Per review of
+OMR, has a prior history of abusing vicodin and oxycodone.
+
+Family History:
+Father with heart problems in his 50s, died from GBM in 60s.
+Mother died of "ascending aneurysm."  Multiple family members
+with [**Name (NI) 1022**].
+
+Physical Exam:
+VS: 142/88  75  18  98%2L
+GENERAL: Obese female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. Pupils equal with slight
+stranding of cornea in right eye at site of recent cataract
+surgery.  EOMI. Conjunctiva were pink, no pallor or cyanosis of
+the oral mucosa. MM appear moist
+NECK: Supple with JVP difficult to interpret.
+CARDIAC: RR with distant heart sounds.  Normal S1, S2. No m/r/g.
+No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use.
+ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+EXTREMITIES: Trace peripheral edema in BLE.
+
+Pertinent Results:
+Admission Labs:
+[**2862-7-27**] 10:30AM   WBC-11.4* RBC-3.37* HGB-9.7* HCT-29.9* MCV-89
+MCH-28.9 MCHC-32.5 RDW-16.8*
+[**2862-7-27**] 10:30AM   NEUTS-71.2* LYMPHS-17.5* MONOS-8.8 EOS-2.1
+BASOS-0.5
+[**2862-7-27**] 10:30AM   PLT COUNT-318
+[**2862-7-27**] 10:30AM   ALBUMIN-3.8 CALCIUM-12.5* PHOSPHATE-5.5*
+MAGNESIUM-2.6
+[**2862-7-27**] 10:30AM   GLUCOSE-209* UREA N-72* CREAT-4.4* SODIUM-137
+POTASSIUM-2.7* CHLORIDE-87* TOTAL CO2-40* ANION GAP-13
+[**2862-7-27**] 06:30PM   TSH-10*
+[**2862-7-27**] 06:30PM   PTH-17
+
+Studies:
+
+[**2862-7-27**] ECG: Normal sinus rhythm, rate 60. Intraventricular
+conduction delay of left bundle-branch block type. Leftward
+axis. Q-T interval prolongation. Generalized non-specific
+repolarization abnormalities. Compared to the previous tracing
+of [**2862-4-2**] Q-T interval prolongation is new and there are
+mid-precordial U waves consistent with hypokalemia.
+
+[**2862-7-27**] CXR: Cardiomegaly, mild congestion, trace left pleural
+effusion. Nodular opacities in the right mid lung, possibly
+representing healing rib fractures, though true pulmonary
+nodules cannot be excluded. *****A CT of the chest is
+recommended to further evaluate. Findings and recommendations
+were communicated with housestaff.*****
+
+[**2862-8-1**] Renal Ultrasound: 1. Right simple renal cysts. 2.
+Normal-appearing left kidney. 3. No evidence of obstructive
+renal disease.
+
+Brief Hospital Course:
+Ms. [**Known patient firstname 2049**] [**Known patient lastname 29506**] is a 65 yo woman with history of chronic
+diastolic CHF, pulmonary HTN, mixed obstructive and restrictive
+pulmonary disease, OSA on CPAP, T2DM, and CKD who presented with
+nausea, hypokalemia, and hypercalcemia with hospital course
+complicated by CCU transfer for bradycardia and hypotension.
+
+#. Hypokalemia: On admission she was hypokalemic to 2.7.  This
+was felt to be related to an increase in her metolazone dosing
+prior to admission.  Metolazone was held and her potassium was
+supplemented and returned to [**Location 95**] range.  She will be
+discharged on potassium supplements 20 meq po daily at the
+recommendation of the renal team. Patient should have her
+electrolytes monitored within one week of discharge.
+
+#. Hypercalcemia: She had hypercalcemia on admission felt to be
+related to intravascular volume depletion and increase in recent
+metolazone dosing.  She had a normal PTH level. Her calcium
+supplements were held, as was her metolazone and she was gently
+rehydrate and her calcium levels improved.
+
+#.  Acute on Chronic Diastolic CHF: Due to her electrolyte
+abnormalities, she was gently rehydrated with 2 liters of normal
+saline over 2 days.  She gradually became short of breath with
+this fluid and her oxygenation worsened.  Her Lasix was
+restarted in intravenous form and her oxygenation improved.  She
+was initially given her home carvedilol and verapamil but then
+developed bradycardia so these were held.  She was changed to a
+lower dose of verapamil and labetalol.  Her home lasix was
+restarted.
+
+#. Syncope and bradycardia: She developed bradycardia to the
+40's on [**2862-7-30**] and had an episode of syncope without trauma.
+She was found to be in complete heart block with junctional
+escape rhythm felt to be due to accumulation of nodal blocking
+agents in setting of worsening renal failure.  She became
+hypotensive during this episode and she was transferred to the
+CCU.  She was placed on a dopamine drip transiently for
+hypotension.  Her verapamil dose was decreased and her
+carvedilol was switched to labetalol.  Her heart rate
+subsequently remained in normal range.
+
+#. CKD Stage IV: Creatinine elevated on admission to 4.4 from
+recent baseline of 4.0.   Her creatinine has trended up slowly
+over last 3 years.  Initially her creatinine slightly improved
+with gentle rehydration but then worsened again with diuresis
+with IV Lasix due to SOB and hypoxia.  It improved again to her
+recent baseline.  She had a negative renal ultrasound.  There
+was some discussion with the patient that she may been dialysis
+in the near future and renal team was consulted.  Patient will
+need outpatient workup including hep screen and PPD.  She
+underwent venous mapping of her upper extremities during this
+admission.  If patient chooses to continue her predialysis
+workup at [**Hospital1 4**], recommend scheduling an appointment with
+transplant surgeon Dr. [**First Name8 (NamePattern2) 589**] [**Last Name (NamePattern1) 1086**] ([**Telephone/Fax (1) 4246**].
+
+#  OSA: Continued on home BiPap at 18/16 with vented mask
+
+#. Charcot foot: Continued AFO brace when OOB
+
+#. T2DM: She has uncontrolled DM.  She is on a complicated
+insulin regimen with 22 units NPH in the morning, 38 units
+lantus at night plus humalog ISS.  She was continued on this
+regimen.  Blood sugars were well controlled.
+
+#. Hypertension: She was hypertensive in the ED but improved to
+normotensive on her home carvedilol, hydralazine, and verapamil.
+ She then became bradycardic and hypotensive and it was felt
+that these agents may be accumulating due to renal failure.  Her
+blood pressures became labile and she was transferred to the
+CCU.  Her hydralazine and carvedilol were stopped and replaced
+with labetalol and prazosin.  Her verapamil dose was also
+decreased.  She was discharged home on labetolol 100 mg po bid,
+prazosin 1 mg po bid, and verapamil 40 mg po tid. On this
+regimen her systolic blood pressure ranged from 120-170.
+Recommend her blood pressures continue to be monitored in the
+outpatient setting so antihypertensives can be adjusted
+accordingly.
+
+#. Anemia: Remained at her recent baseline initially but then
+fell from 29 to 22.  She was given 1 unit PRBCs without
+complication and her hematocrit subsequently remained stable.
+She received a single dose of ferrous gluconate 125 mg IV and
+was started on daily ferrous sulfate and vitamin C supplements.
+On day of discharge patient's hematocrit was 27.
+
+#. Hypothyroidism: Continued on levothyroxine 75mcg po daily
+initially and then this dose was increased to 88 mcg po daily
+due to high TSH and low T3.
+
+#. Polymyalgia rheumatica: Continued on 7mg prednisone daily
+
+#. Depression: Continued duloxetine.
+
+#. Cataracts s/p surgery [**2862-7-11**]: Continued her home eye drops
+
+#. Code status:: Full code, confirmed
+
+#. Contact: Brother [**Name (NI) **] [**Name (NI) **] [**Telephone/Fax (1) 29507**]
+
+Medications on Admission:
+Carvedilol 12.5mg po bid
+Duloxetine 90mg po daily
+Furosemide 80mg po qam, 40mg po qpm
+Hydralazine 75mg po tid
+Lantus 38 units qhs
+NPH 22 units with breakfast
+Humalog ISS 6-24 units with meals per sliding scale
+Levothyroxine 75mcg po daily
+Metolazone 2.5mg po twice per week
+Prednisone 7mg po daily
+Crestor 20mg po daily
+Omeprazole 40mg po daily
+Verapamil SR 240mg po bid
+Caltrate 600 1 tab po daily
+Tramadol ER (Ryzolt) 200mg po daily
+Docusate
+MVI 1 tab po daily
+Senna
+Vitamin D3 1000units po daily
+
+Discharge Medications:
+1. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Three
+(3) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. Furosemide 40 mg Tablet Sig: Two (2) Tablet PO every morning:
+And 1 tab (40mg) every evening.
+3. Lantus 100 unit/mL Solution Sig: Twenty Eight (28) units
+Subcutaneous every evening.
+4. NPH Insulin Human Recomb 100 unit/mL Cartridge Sig: Twenty
+Two (22) units Subcutaneous every morning.
+5. Humalog 100 unit/mL Solution Sig: Insulin sliding scale
+Subcutaneous three times a day.
+6. Prednisone 1 mg Tablet Sig: Seven (7) Tablet PO DAILY
+(Daily).
+7. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+9. Ryzolt 200 mg Tab, Multiphasic Release 24 hr Sig: One (1)
+Tab, Multiphasic Release 24 hr PO once a day.
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+11. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+13. Labetalol 100 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+14. Verapamil 40 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours).
+Disp:*90 Tablet(s)* Refills:*2*
+15. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+16. Prazosin 1 mg Capsule Sig: One (1) Capsule PO BID (2 times a
+day).
+Disp:*60 Capsule(s)* Refills:*2*
+17. Moxifloxacin 0.5 % Drops Sig: [**2-11**]  Ophthalmic qhs ().
+18. Bacitracin 500 unit/g Ointment Sig: One (1)  Ophthalmic qhs
+().
+19. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop
+Ophthalmic HS (at bedtime).
+20. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+21. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+22. Outpatient Lab Work
+Please draw chem 10 and CBC on [**2862-8-7**].  Please forward
+results to Dr. [**First Name8 (NamePattern2) 8726**] [**Last Name (NamePattern1) 18615**] fax [**Numeric Identifier 29508**]
+23. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Americare at Home Inc
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Hypokalemia
+Hypercalcemia
+Bradycardia with complete heart block
+Anemia
+
+Secondary Diagnosis:
+Type 2 Diabetes Mellitus
+Chronic kidney disease, stage IV
+Hypertension
+Chronic Diastolic CHF
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+Oxygen saturation at rest is 96% on room air.
+
+Discharge Instructions:
+You were admitted to the hospital with low potassium levels and
+high calcium levels in your blood.  You were given IV fluids and
+potassium supplementation and your electrolyte levels improved.
+It was felt that these levels were due to your recent increase
+in your dose of metolazone.
+
+You also had an episode of slow heart rate and some of your
+medications were changed to prevent this in the future.
+
+Your blood counts were low during your admission. You were given
+1 unit of blood and started on iron supplementation.
+.
+Changes to your medications:
+STOPPED calcium carbonate and vitamin D
+STOPPED metolazone
+STOPPED carvedilol
+STOPPED hydralazine
+STARTED labetalol 100mg by mouth twice daily
+STARTED prazosin 1mg by mouth twice daily
+STARTED Potassium chloride 20 mEq (1 pill per day)
+STARTED Ferrous Sulfate 325 mg by mouth daily
+STARTED Ascorbic acid 500 mg by mouth daily
+DECREASED verapamil to 40mg by mouth three times daily
+INCREASED levothyroxine to 88mcg by mouth daily
+
+Followup Instructions:
+It is very important that you have your labs drawn on [**Numeric Identifier 1490**],
+[**2862-8-7**].  The results should be forwarded to your primary
+care provider, [**Last Name (NamePattern4) **]. [**First Name (STitle) 5893**].
+
+You have the following appointments scheduled in follow-up:
+
+Name: [**Last Name (LF) 7189**], [**First Name3 (LF) 7190**] S. MD
+When: [**First Name3 (LF) **], [**8-21**], 1:30PM
+Location: [**Last Name (un) **] DIABETES CENTER
+Address: ONE [**Last Name (un) **] PLACE, [**Location (un) **],[**Numeric Identifier 112**]
+Phone: [**Telephone/Fax (1) 1980**]
+
+** You were also found to have opacities on your chest x-rays
+that could be nodules in your lung.  It was recommended that you
+get an outpatient CT scan for evaluation.  Please have your
+primary care provider order this study **
+
+Department: PODIATRY
+When: [**Telephone/Fax (1) **] [**2862-8-7**] at 11:00 AM
+With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 7170**], DPM [**Telephone/Fax (1) 1416**]
+Building: Ba [**Hospital Unit Name 7589**] ([**Hospital Ward Name 209**] Complex) [**Location (un) **]
+Campus: WEST     Best Parking: [**Street Address(1) 353**] Garage
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] S.
+When: [**Last Name (LF) **], [**7-31**], 11AM
+Address: 1 [**Location (un) **] PL,STE 623, [**Location (un) **],[**Numeric Identifier 15291**]
+Phone: [**Telephone/Fax (1) 18616**]
+*Please call office if you cannot make appointment to
+reschedule.
+
+
+                             [**First Name11 (Name Pattern1) 1042**] [**Last Name (NamePattern4) 3125**] MD, [**MD Number(3) 3126**]
+
+
+
+
+DOC CLASS

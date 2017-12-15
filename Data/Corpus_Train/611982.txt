@@ -1,0 +1,144 @@
+Chief Complaint:
+   24 Hour Events:
+   --given 3 U PRBC since arrival awith one unit of cryoprecipitate
+   --VSS,  but Hct not bumping appropriately
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3102-5-7**] 10:49 AM
+   Erythromycin - [**3102-5-7**] 11:50 AM
+   Metronidazole - [**3102-5-7**] 01:21 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3102-5-7**] 09:15 PM
+   Infusions:
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3102-5-8**] 05:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3102-5-8**] 07:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 37.8
+C (100
+   HR: 102 (84 - 114) bpm
+   BP: 143/72(91) {108/52(68) - 165/89(120)} mmHg
+   RR: 23 (16 - 27) insp/min
+   SpO2: 92%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 72 Inch
+           Total In:
+                                                                  5,108 mL
+                                                                  1,362 mL
+   PO:
+           TF:
+   IVF:
+                                                                  2,613 mL
+                                                                    564 mL
+   Blood products:
+                                                                  2,494 mL
+                                                                    798 mL
+   Total out:
+                                                                  1,895 mL
+                                                                    500 mL
+   Urine:
+                                                                  1,445 mL
+                                                                    500 mL
+   NG:
+                                                                    450 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,213 mL
+                                                                    862 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: ///27/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   60 K/uL
+   8.6 g/dL
+   159 mg/dL
+   1.0 mg/dL
+   27 mEq/L
+   4.5 mEq/L
+   57 mg/dL
+   110 mEq/L
+   145 mEq/L
+   24.1 %
+   18.2 K/uL
+        [image002.jpg]
+                             [**3102-5-6**]  07:50 PM
+                             [**3102-5-7**]  03:00 AM
+                             [**3102-5-7**]  09:39 AM
+                             [**3102-5-7**]  07:28 PM
+                             [**3102-5-7**]  11:00 PM
+                             [**3102-5-8**]  05:15 AM
+   WBC
+   24.0
+   22.7
+   20.2
+   19.1
+   18.2
+   Hct
+   28.0
+   24.4
+   24.5
+   22.1
+   23.0
+   24.1
+   Plt
+   110
+   107
+   65
+   63
+   60
+   Cr
+   0.8
+   0.9
+   1.0
+   1.0
+   Glucose
+   141
+   148
+   159
+   Other labs: PT / PTT / INR:16.8/36.1/1.5, ALT / AST:31/85, Alk Phos / T
+   Bili:197/1.9, Amylase / Lipase:/15, Differential-Neuts:57.0 %,
+   Band:14.0 %, Lymph:8.0 %, Mono:2.0 %, Eos:2.0 %, Fibrinogen:108 mg/dL,
+   Lactic Acid:1.7 mmol/L, LDH:[**3081**] IU/L, Ca++:8.2 mg/dL, Mg++:2.9 mg/dL,
+   PO4:4.9 mg/dL
+   Assessment and Plan
+ LEUKOCYTOSIS
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3102-5-6**] 06:47 PM
+   18 Gauge - [**3102-5-6**] 10:10 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

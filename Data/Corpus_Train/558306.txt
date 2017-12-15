@@ -1,0 +1,235 @@
+Chief Complaint:
+   24 Hour Events:
+   No overnight events. No further bleeding.
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientPenicillins
+   Unknown; itchin
+   Sulfa (Sulfonamides)
+   chills;
+   Last dose of Antibiotics:
+   Meropenem - [**2566-11-27**] 06:00 AM
+   Vancomycin - [**2566-11-27**] 07:59 AM
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Ear, Nose, Throat: Dry mouth
+   Flowsheet Data as of  [**2566-11-27**] 09:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 35.9
+C (96.6
+   HR: 93 (93 - 106) bpm
+   BP: 109/79(85) {67/48(51) - 113/79(85)} mmHg
+   RR: 20 (15 - 24) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  4,301 mL
+                                                                    845 mL
+   PO:
+                                                                     60 mL
+                                                                    180 mL
+   TF:
+   IVF:
+                                                                  2,630 mL
+                                                                    665 mL
+   Blood products:
+                                                                  1,611 mL
+   Total out:
+                                                                    605 mL
+                                                                    510 mL
+   Urine:
+                                                                    605 mL
+                                                                    510 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,696 mL
+                                                                    335 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 94%
+   ABG: ///17/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   134 K/uL
+   11.4 g/dL
+   111 mg/dL
+   0.7 mg/dL
+   17 mEq/L
+   3.9 mEq/L
+   40 mg/dL
+   104 mEq/L
+   130 mEq/L
+   30.8 %
+   16.2 K/uL
+        [image002.jpg]
+                            [**2566-11-26**]  12:02 AM
+                            [**2566-11-26**]  03:35 AM
+                            [**2566-11-26**]  08:30 AM
+                            [**2566-11-26**]  01:39 PM
+                            [**2566-11-26**]  04:39 PM
+                            [**2566-11-26**]  04:41 PM
+                            [**2566-11-26**]  09:37 PM
+                            [**2566-11-27**]  04:01 AM
+   WBC
+   22.7
+   17.6
+   16.2
+   Hct
+   30.2
+   27.4
+   26.3
+   30.1
+   31.6
+   30.8
+   30.8
+   Plt
+   196
+   154
+   134
+   Cr
+   1.1
+   1.1
+   0.9
+   0.7
+   TropT
+   <0.01
+   <0.01
+   Glucose
+   138
+   131
+   132
+   111
+   Other labs: PT / PTT / INR:22.7/46.2/2.2, CK / CKMB /
+   Troponin-T:33/2/<0.01, ALT / AST:33/42, Alk Phos / T Bili:101/10.3,
+   Differential-Neuts:92.5 %, Band:0.0 %, Lymph:3.2 %, Mono:3.9 %, Eos:0.4
+   %, Lactic Acid:1.8 mmol/L, Albumin:3.8 g/dL, LDH:166 IU/L, Ca++:8.4
+   mg/dL, Mg++:2.2 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   71 y/o man with PSC complicated by cirrhosis with known esophageal
+   varices presenting with melanic stools and hct drop from esophageal
+   variceal bleed s/p banding on [**11-17**] who now is transferred back to the
+   ICU in setting of hematemesis.
+   # GI bleeding: EGD performed on initial transfer to [**Hospital1 52**] on [**11-17**]
+   which showed esophageal varices with cherry red spots (stigmata of
+   recent bleeding) over varices. Two varices were banded during that
+   initial EGD.  Repeat EGD in the setting of hemoptysis [**11-25**] AM, varices
+   w/stigmata of bleeding banded.
+   - Received 2 units PRBCs
+   - s/p 2 units FFP for INR 2.3 and 2 units prbcs
+   - HCT stable overnight w/o new bleeding episodes
+   - Octreotide bolus with 100mcg now then octreotide gtt
+   - Protonix gtt
+   - Sucralfate 1 gm PO QID for 14 days
+   - Has been off Nadolol, diuretics in setting of BPs high 80s-90s
+   - 4 20g pivs
+   - Already being treated for SBP so no need for proph
+   # Hypotension:  Resolved-systolic 80s-90s at baseline.
+   # Peritonitis: Diagnosed [**2566-11-19**], patient was on Cipro ppx as
+   outpatient and recently increased dose due to recent bleed. Placed on
+   Aztreonam [**2557**] mg IV Q8H 5 days (Day 1 [**2566-11-19**] - [**2566-11-24**]).  WBC count
+   kept rising despite aztreonam/fluconazole, leading to repeat tap [**11-24**]-
+   SBP w GNR. Started on Vanc/[**Last Name (un) **] (aztreonam d/c'd) [**11-25**].  Given appears
+   polymicrobial ? truly SBP vs. secondary seeding.  Has diffuse abdominal
+   discomfort, but not focal pain nor rebound/guarding to suggest acute
+   abdominal process.  Cholangiogram without biliary obstruction/leak
+   (perc tube pulled [**11-24**]).  Does have left inguinal hernia, but without
+   evidence of strangulation/incarceration.   Given concern for possible
+   secondary seeding from underlying intraabdominal process will obtain
+   RUQ U/S to assess for e/o obstructive/ascending cholangitis (t.bili up
+   slightly from yesterday, AP stable).  Will also check CT abd/pelvis
+   (without IV contrast, with oral contrast given UOP has dropped off and
+   want to see where renal function will settle out).
+   - Cont Vanc/[**Last Name (un) **]/fluconazole (fluc started [**11-19**], vanco/[**Last Name (un) 411**] started
+   [**11-25**])
+   - Monitor LFTs to assess for rising t.bili and concern for possible
+   cholangitis given h/o recurrent episodes requiring perc drain placement
+   - Repeat tap after 5d to confirm SBP eradication
+   - Received day 3 albumin (1g/kg)
+   - Plan for bactrim for ppx following tx.
+   - Monitor abdominal exam
+   - Pursue abdominal imaging/[**Doctor First Name 438**] consult if abdominal exam at all
+   concerning
+   # Metabolic acidosis:  Non anion gap.  Lactate was elevated on
+   transfer, but normalized this am and, again, non AG met acidosis.  He
+   is on standing lactulose and suspect this is in the setting of ongoing
+   diarrhea.  Patient did not have h/o encephalopathy prior to last
+   discharge (discharged [**11-14**]) at which time he had some mental status
+   changes.  Although during that admission, asterixis was never noted,
+   there was concern for hepatic encephalopathy so he was started on
+   lactulose with perhaps some improvement in MS per d/c summary.  In
+   review of his labs, it appears that thereafter his bicarb fell which
+   further suggests this is in the setting of diarrhea.  He is again
+   without asterixis and is currently alert and oriented x3 so ?
+   previously lethargic in setting of infection, meds.
+   - continue to monitor chem7/bicarb
+   - hold lactulose if continues to fall with close monitoring of mental
+   status
+   # Leukocytosis: Persistently elevated to nearly 20K range.  Only clear
+   source at this point is peritoneal fluid and as above, ? SBP vs.
+   secondary seeding although no clear acute intraabdominal process at
+   this time. CXR [**11-21**] showed low lung volume and probable small pleural
+   effusions, not repeated since and he is without pulmonary symptoms to
+   suggest as source.  Did hear soft systolic murmur on exam which is
+   noted in old OMR notes so not new and TTE without e/o veg.  Blood and
+   urine cultures have shown no growth.  He does have diarrhea, but is on
+   lactulose; c. diff negative x1 on [**11-23**].
+   - Treating peritonitis as above
+   - Awaiting blood, urine cultures, c. diff
+   - continue antibiotic coverage as above
+   # PSC with cirrhosis: On liver transplant list.   Complicated by
+   ascites, portal gastropathy, and SBP. No clear history of
+   encephalopathy as discussed above.
+   - PTC drain removed [**11-24**]
+   - Continue to trend LFTs
+   - ursodiol [**Hospital1 **]
+   - lactulose 30 mg daily
+   - restart spironolactone/lasix, monitoring lytes closely
+   # Strictures: Pull back cholangiography on [**11-24**] demonstrated no
+   obstruction. PTC drain removed by IR [**2566-11-24**].
+   - Follow LFTs
+   # Esophagitis: Biopsy from EGD [**2566-11-11**] biopsy grew [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 1612**].
+   Unclear etiology. Fluconazole 200 mg qd for 14 days (Day 1 [**2566-11-19**]).
+   If symptoms reoccur treat with Vori.
+   - Negative fungal cultures
+   # Hyponatremia: Improved slightly after receiving NS.
+   - f/u urine lytes
+   # Ulcerative colitis: Continue outpatient Mesalamine.
+   # CAD s/p CABG: Continue Statin. Holding ASA and BB in setting of
+   bleed.
+   -Continue outpatient dose statin.
+   ICU Care
+   Nutrition: PO diet as tolerated
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2566-11-26**] 12:00 AM
+   Prophylaxis:
+   DVT: heparin SC
+   Stress ulcer:  PPI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: c/o to floor
+
+
+
+DOC CLASS

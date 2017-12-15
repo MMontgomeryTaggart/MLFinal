@@ -1,0 +1,279 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - restarted lasix gtt w metolazone
+   - DCed zosyn, started meropenem and cipro for double coverage of
+   pseudomonas
+   - pan-cultured yesterday, not febrile since yesterday morning
+   - sent off beta-glucan and galactomannan
+   - not having fevers this evening so far
+   - [**3206**] patient is squeezing both hands and moving both arms, laughing w
+   family members (After family meeting), responding to yes or no
+   questions, very interactive; family did not want Trach/PEG, but may be
+   worthwhile getting Pulm to do a Bronch to wash out old blood [**Doctor First Name 585**]
+   - flipped into Afib 19:30 rates 90s- low 100s while being stimulated by
+   family w no drop in BP ; spontaneously flipped back and forth over
+   course of night then remained in sinus rhythm, rates still 90s-low 100s
+   - weaned off vasopressin overnight
+   - sinus tach and SBP100-110 w/o pressors - appears in pain; can mouth
+   words, trying to communicate but hard to understand; given small
+   boluses of fentanyl to make more comfortable ; blood pressures down to
+   70s systolic when sleeping
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3316-3-11**] 08:44 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3316-3-11**] 05:44 PM
+   Meropenem - [**3316-3-12**] 11:30 AM
+   Infusions:
+   Furosemide (Lasix) - 15 mg/hour
+   Heparin Sodium - 650 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3316-3-12**] 11:10 AM
+   Famotidine (Pepcid) - [**3316-3-12**] 09:00 PM
+   Fentanyl - [**3316-3-13**] 05:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3316-3-13**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**18**] AM
+   Tmax: 38.1
+C (100.5
+   Tcurrent: 36.9
+C (98.4
+   HR: 96 (83 - 106) bpm
+   BP: 81/37(51) {77/37(51) - 150/70(100)} mmHg
+   RR: 23 (20 - 36) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 58.1 kg (admission): 45 kg
+   Height: 60 Inch
+    CVP: 14 (11 - 21)mmHg
+   Total In:
+                                                                  2,533 mL
+                                                                    839 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,212 mL
+                                                                    336 mL
+   Blood products:
+   Total out:
+                                                                  2,195 mL
+                                                                  1,480 mL
+   Urine:
+                                                                  1,995 mL
+                                                                  1,480 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    338 mL
+                                                                   -641 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 280 (280 - 280) mL
+   RR (Set): 16
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 33 cmH2O
+   Plateau: 26 cmH2O
+   Compliance: 17.5 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.44/43/77.[**Numeric Identifier 244**]/30/4
+   Ve: 8 L/min
+   PaO2 / FiO2: 195
+   Physical Examination
+   General Appearance: Well nourished, alert, responsive, appears to
+   understand and respond appropriately
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), systolic ejection murmur
+   Respiratory / Chest: soft rhonchi bilaterally
+   Abdominal: Soft, moderately distended, bowel sounds present.
+   Extremities: Bilateral pedal edema, trace in ankles, warm and well
+   perfused
+   Neurologic: Responds to voice appropriately, moving hands and toes,
+   nodding head, mouthing words.
+   Labs / Radiology
+   312 K/uL
+   8.1 g/dL
+   254 mg/dL
+   2.0 mg/dL
+   30 mEq/L
+   3.7 mEq/L
+   72 mg/dL
+   92 mEq/L
+   132 mEq/L
+   25.7 %
+   17.2 K/uL
+        [image002.jpg]
+                             [**3316-3-11**]  03:25 PM
+                             [**3316-3-11**]  05:19 PM
+                             [**3316-3-12**]  03:12 AM
+                             [**3316-3-12**]  11:20 AM
+                             [**3316-3-12**]  11:37 AM
+                             [**3316-3-12**]  04:45 PM
+                             [**3316-3-12**]  05:02 PM
+                             [**3316-3-13**]  02:00 AM
+                             [**3316-3-13**]  02:03 AM
+                             [**3316-3-13**]  06:39 AM
+   WBC
+   19.7
+   21.1
+   17.2
+   Hct
+   27.4
+   26.5
+   26.1
+   25.7
+   Plt
+   [**Telephone/Fax (3) 11286**]12
+   Cr
+   1.8
+   2.1
+   2.0
+   2.0
+   2.0
+   TCO2
+   25
+   28
+   29
+   29
+   30
+   Glucose
+   259
+   239
+   254
+   Other labs: PT / PTT / INR:14.2/57.8/1.2, CK / CKMB /
+   Troponin-T:392/362/19.34, ALT / AST:97/106, Alk Phos / T Bili:166/1.4,
+   Amylase / Lipase:26/281, Differential-Neuts:88.0 %, Band:1.0 %,
+   Lymph:3.0 %, Mono:5.0 %, Eos:1.0 %, Fibrinogen:782 mg/dL, Lactic
+   Acid:1.6 mmol/L, Albumin:2.5 g/dL, LDH:692 IU/L, Ca++:8.6 mg/dL,
+   Mg++:2.4 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   76F with phmx HTN transferred from OSH after syncope episode and chest
+   pain, cardiac cath showed 95% LM disease and 99% LAD stenosis. POBA LAD
+   and LCx with VT s/p shock twice in cath lab, intubated for respiratory
+   distress, dopamine for hemodynamic support. Hypothermia protocal was
+   initiated. On [**3-3**] became bradycardic, atropine was given, PEA to VT
+   arrest. Had CPR for 2 minutes given 1mg atropine, 1mg epinephrine, 100
+   of lidocaine. Received a tandemheart in cath lab, however retracted to
+   partially in the RA causing a shunt. ECMO was initiated. [**3-4**] hematocrit
+   and plt drop requiring transfusion. Removal of ECMO and tandem heart.
+   Requiring multiple pressors - vasopressin and phenylephrine.
+   #. Hypoxemic respiratory failure:
+   Likely secondary to pulmonary edema secondary to acute congestive heart
+   failure, although hemorrhage, aspiration pneumonia, ARDS also on
+   differential.   Has been off sedation all night.   Failed 3 pressure
+   support trials in past week and had difficulty this morning.  O2
+   requirement decreased this AM.  Respiratory failure may be partially
+   secondary to pneumonia.  Has known Klebsiella pneumonia.  Family
+   decided against Tracheostomy yesterday.  Today is Day#13 of
+   intubation.  Urine output high with lasix gtt but overall even I/Os for
+   24hrs because of TPN volume.  Tapping effusions high risk while on PEEP
+   10.
+   - maintain tidal volume in ARDS net goals
+   - will attempt pressure support trial to see if patient is able to
+   maintain ventilation on her own again today
+   - wean as tolerated
+   - f/u sputum cultures
+   - continue diuresis w DCed TPN
+   - family meeting again re: change in pt
+s mental status and whether
+   Tracheostomy might now be appropriate
+   # Distributive shock:
+   Sepsis physiology with now improving, weaned off pressors last night.
+   consider that it may be secondary to pancreatitis or acalculus
+   cholecystitis.  Patient has grown out klebsiella x3 in sputum,
+   pan-sensitive, but this may not have been cause of septic shock.
+   Abscess unlikely because of negative CT on [**3-5**]. Leukocytosis persists.
+   C diff negative.  Central line replaced on [**3316-3-8**].  Pan-cultured again
+   yesterday.  ID consulted.  Abx switched back to meropenum/cipro/vanc.
+   Re-scan shows no evidence of an abscess, however there is potential
+   early pseudocyst formation in the pancreas.  Consider eval for
+   empyema.  Pressors weaned off last night.
+   -          f/u sputum culture w new sensitivities
+   -    trend WBC and fever curve
+   - cont meropenem/ cipro / vanc
+   - f/u beta-glucan, galactomannan ; consider starting micafungin if not
+   improving but hold off for now
+   .
+   # Pancreatitis:
+   Patient grimaced in pain when abdomen pressed.  Lipase increasing.
+   Getting fentanyl boluses for comfort.  Triglyceride level normal.
+   Abdominal ultrasound shows no evidence of duct dilation or
+   cholecyctitis.  Pancreatic enzymes remain even.
+   -          continue fentanyl boluses as needed and NPO (no tube feeds)
+   except meds
+   -          consult GI
+   -          Hold statin
+   #Acute Kidney injury:
+   Patient
+s creatinine elevated to 2, stable from yesterday, elevated
+   from 1.0 on admission.  This is concerning as along with her
+   pancreatitis, she may now be in MODS.   Made good urine w lasix gtt
+   overnight.  Pressors have been weaned off overnight. CVVH may not be
+   necessary b/c diuresing well w lasix drip.
+   -          continue lasix gtt and increase metolazone dose to [**Hospital1 **]
+   -          Renally dose medications, check vancomycin trough
+   -          DC TPN to help w diuresis
+   .
+   #. Cardiogenic shock , s/p STEMI:
+   The patient was in cardiogenic shock after PEA arrest. S/p removal of
+   ECMO and tendemheart. Now relatively resolved after stunned myocardium
+   had chance to recover s/p STEMI.
+   - no longer requiring pressors
+   - continue heparin gtt for potential LV thrombus.
+   - PCI vs CABG when stable ; might need MVR if got CABG if recovers well
+   - Continue metoprolol as BPs can tolerate
+   #. Anemia:
+   CT torso without evidence of intraabdominal bleed. Tandem heart has
+   been removed.  unclear etiology, but will transfuse as needed.  Hct
+   stable for now
+   -          Cont to monitor
+   #. Neurologic status:
+   Patient is now very responsive and participatory, moves toes and arms
+   well, turns head and tries to speak.  CT head shows no evidence of
+   stroke.
+   - will continue to follow her clinical exam.
+   # Nutrition:  NPO for pancreatitis
+   -          Holding TPN and tube feeds
+   # Atrial fibrillation: - has not been in afib recently
+   - DCed amio given potential for pancreatic toxicity.
+   #Epistaxis, oropharynx bleeding
+   - ENT will follow if needed
+   # Hyperglycemia
+   No h/o DM, presented hyperglycemic.  [**Month (only) 8**] have been on hydrocortisone w
+   study protocol.  Study drug now stopped.  Remains hyperglycemic however
+   over past several days.
+   -          ISS
+   -          Consider long acting insulin.
+    # Goals of care
+ patient now DNR (already intubated)
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3316-3-12**] 05:48 PM 41.[**Telephone/Fax (5) 1199**] mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3316-3-2**] 05:05 PM
+   Multi Lumen - [**3316-3-8**] 02:02 PM
+   20 Gauge - [**3316-3-10**] 11:30 AM
+   Prophylaxis:
+   DVT:  heparin gtt
+   Stress ulcer:  famotidine
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+
+DOC CLASS

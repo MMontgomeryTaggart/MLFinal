@@ -1,0 +1,184 @@
+Admission Date:  [**3307-9-6**]       Discharge Date:  [**3307-9-10**]
+
+Date of Birth:   [**3242-4-20**]       Sex:  F
+
+Service:  CARDIAC SURGERY
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old
+female who had an off-pump coronary artery bypass graft in
+[**3307-1-28**].  The patient did well initially.  However, she
+soon developed recurrent infections of her sternal wound.
+She was last admitted in [**3307-4-30**] for sternal wound
+drainage and infection.  At that time, she was started on
+intravenous antibiotics.  She underwent sternal wound
+debridement and the placement of a VAC sponge.  The patient
+was then discharged to home.  She had her VAC sponges changed
+periodically for the following few weeks.  After that, the
+VAC sponge was removed, and wet-to-dry dressings were applied
+to her sternal wound.  The wound appeared to be healing
+slowly.  However, prior to the current admission, the patient
+developed increased amount of greenish drainage from the
+wound.  The patient was readmitted for the further management
+of her recurrent sternal wound infection.
+
+PAST MEDICAL HISTORY:
+1.  Hypercholesterolemia
+2.  Hypertension
+3.  Insulin-dependent diabetes mellitus
+4.  Methicillin resistant staphylococcus aureus
+5.  Gastroesophageal reflux disease
+6.  Congestive heart failure
+7.  Ovarian cancer
+8.  Postoperative atrial fibrillation following coronary
+artery bypass graft
+
+PAST SURGICAL HISTORY:
+1.  Coronary artery bypass graft x 3, off-pump
+2.  Status post cholecystectomy
+3.  Status post appendectomy
+4.  Status post right leg plate, open reduction and internal
+fixation
+5.  Status post bilateral cataract extraction
+
+ALLERGIES:
+1.  Percocet
+2.  Vioxx
+3.  Shrimp
+
+MEDICATIONS:
+1.  Protonix 40 mg by mouth once daily
+2.  Plavix 75 mg by mouth once daily
+3.  Lasix 40 mg by mouth twice a day
+4.  Lescol 40 mg once daily
+5.  Lopressor 75 mg by mouth twice a day
+6.  Insulin NPH 40 units in the morning, 14 units in the
+evening, sliding scale
+
+PHYSICAL EXAMINATION:  Blood pressure 175/58, heart rate 60,
+afebrile.  General:  Elderly female, in no apparent distress.
+Head, eyes, ears, nose and throat examination:  Within normal
+limits.  Neck examination:  No bruits, no jugular venous
+distention detected.  Chest:  Clear to auscultation
+bilaterally.  Chest wound partially open, with yellowish
+drainage.  Heart examination:  Regular rate and rhythm.
+Abdominal examination:  Bowel sounds present, soft,
+nontender, nondistended.  Extremities:  Warm and well
+perfused.  Neurologically:  Grossly intact.
+
+LABORATORY DATA:  Hematocrit 31.2, white blood cell count
+6.5, platelets 340.  INR 1.1.  Glucose 142, BUN 32,
+creatinine 1.2, sodium 145, potassium 4.6.
+
+HOSPITAL COURSE:  The patient was admitted to Cardiac Surgery
+for further management of her sternal wound infection.  On
+[**3307-9-6**], the patient underwent sternal wound debridement and
+placement of a VAC sponge.  The procedure was without any
+complications.
+
+Postoperatively, in the recovery room, the patient complained
+of shortness of breath.  She was 97% on 3 liters.  The chest
+x-ray obtained at the time showed leftward deviation of
+sternal wires, but no sign of effusion or consolidation.  The
+original plan was to move the patient to the regular floor
+from the recovery room.  However, when the patient was being
+moved to the floor, she desaturated to 50s, had poor
+respiratory effort and poor air movement.  Her rhythm
+exhibited some premature ventricular contractions initially,
+but then stabilized.  The patient was transported to the
+Intensive Care Unit.
+
+In the Intensive Care Unit, her vital signs stabilized.  She
+was in sinus rhythm, with a heart rate in the 60s to 70s, and
+stable blood pressure.  Her oxygen saturation improved
+significantly.  The patient was then transferred to the
+regular floor in stable condition.
+
+On postoperative day two, the patient went into atrial
+fibrillation.  Of note is that the patient had a similar
+event last time postoperatively when she underwent her
+coronary artery bypass graft a few months ago.  The patient
+was treated with amiodarone load in addition to a standing
+dose, and her Lopressor was increased.  Her heart rate was
+originally in the 120s to 130s.  We were able to bring her
+heart rate under 100.  However, she still remained in atrial
+fibrillation/atrial flutter.
+
+Cardiology was consulted for possible external cardioversion.
+The patient was started on intravenous heparin.  On [**3307-9-9**],
+the patient was cardioverted by Cardiology into sinus rhythm.
+Cardioversion was successful, and the patient remained in
+sinus rhythm until her discharge.  The patient was continued
+on intravenous heparin.  Her amiodarone was decreased to 400
+mg twice a day, which she will continue to receive for two
+weeks, after which her dose will be decreased to 400 mg once
+daily for approximately three months, after which she will
+continue on a standing dose of 200 mg of amiodarone once
+daily.  In addition, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 852**] of Hearts monitor was placed for
+two weeks, to monitor the patient's rhythm, and the [**Location (un) 655**]
+will be sent to her cardiologist daily.  The VAC sponge was
+changed prior to discharge.
+
+The patient was discharged to home in stable condition on
+[**3307-9-10**].
+
+CONDITION AT DISCHARGE:  Good.
+
+DISCHARGE DISPOSITION:  Home, with VNA services.
+
+DISCHARGE DIAGNOSIS:
+1.  Recurrent sternal wound infection status post debridement
+and VAC placement
+2.  Atrial fibrillation status post external cardioversion
+3.  Hypertension
+4.  Insulin-dependent diabetes mellitus
+5.  Gastroesophageal reflux disease
+6.  Congestive heart failure
+7.  Hypercholesterolemia
+
+DISCHARGE MEDICATIONS:
+1.  Protonix 40 mg by mouth once daily
+2.  Lasix 40 mg by mouth twice a day
+3.  Lescol 40 mg by mouth once daily
+4.  Lopressor 100 mg by mouth twice a day
+5.  Lisinopril 5 mg by mouth once daily
+6.  Aspirin 325 mg by mouth once daily
+7.  Amiodarone 400 mg by mouth twice a day for two weeks,
+then 400 mg by mouth once daily for three months, then 200 mg
+by mouth once daily
+8.  Dilaudid 2 mg by mouth every four to six hours as needed
+for pain
+9.  Colace 100 mg by mouth twice a day as needed for
+constipation
+10. Insulin NPH 40 units in the morning, 14 units in the
+evening, plus regular insulin sliding scale
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient is to follow up with her surgeon, Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 1882**], in approximately four weeks.
+2.  The patient is to follow up with her cardiologist, Dr.
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1775**], in approximately three to four weeks.
+3.  The patient is to follow up with her primary care
+physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 6456**], in approximately one week.
+4.  The patient is to wear the [**Doctor Last Name 852**] of Hearts monitor for the
+next two weeks, with daily reports sent to the cardiologist
+for [**Location (un) 655**].
+5.  The patient is to have VNA services and her VAC dressings
+are to be changed as per instructions.
+6.  The patient is to follow up with her diabetes specialist.
+She was seen by the diabetes specialist while an inpatient.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1887**], M.D.  [**MD Number(1) 1888**]
+
+Dictated By:[**Last Name (NamePattern1) 17301**]
+MEDQUIST36
+
+D:  [**3307-9-9**]  23:15
+T:  [**3307-9-10**]  00:00
+JOB#:  [**Job Number 17302**]
+
+
+
+DOC CLASS

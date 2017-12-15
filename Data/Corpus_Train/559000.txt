@@ -1,0 +1,203 @@
+CVICU
+   HPI:
+   HD11
+   [**12-17**] POD 2
+   72yoM s/p removal infected pacemaker hardware via L thoracotomy ([**12-15**])
+   EF 50% 2+MR/TR CR 1.0 WT 86.1K
+   PMH: Myocarditis s/p pacemaker, CHF, CAD, s/p prior stenting (LAD and
+   OM), HTN, ^lipids, atrial flutter/fib on coumadin, hepatitis C
+   mass on left chest wall - negative needle biospy, B renal cysts
+   erectile dysfunction, Bipolar disorder
+   MEDICATIONS: Furosemide 40', Digoxin 250', MVI, Vit C 500', Folate 1',
+   Metoprolol 25", Vitamin E 400', ASA 81', Lithium Carbonate 300",
+   Colace 100"/prn, FeSO4 325', Senna 8.6"/prn, Bisacodyl 10"/prn,
+   Coumadin 2.5 alt 5
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen, Aspirin EC, Ascorbic Acid, Docusate Sodium, Ferrous
+   Sulfate,FoLIC Acid, Furosemide, Heparin, Insulin, Lithium Carbonate SR
+   (Lithobid),  Metoclopramide, Metoprolol Tartrate,  Multivitamins,
+   Ranitidine, Simvastatin, TraMADOL, Vancomycin, Vitamin D,  Vitamin E
+   24 Hour Events:
+ DRAIN REMOVED - At [**2724-12-16**] 12:34 PM
+   medial JP drain removed
+ ARTERIAL LINE - STOP [**2724-12-16**] 05:14 PM
+   Post operative day:
+   [**12-17**] POD 2
+   72yoM s/p removal infected pacemaker hardware via L thoracotomy ([**12-15**])
+   24 hour events: remained in ICU for hypotension treated with Neo gtt
+   pacemaker interrogated
+   Allergies:
+   Ace Inhibitors
+   Cough;
+   Angiotensin Recp Antg Calcium Chanl Blkr
+   Cough;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   LFT abnormaliti
+   Zetia (Oral) (Ezetimibe)
+   Hepatic toxicit
+   Last dose of Antibiotics:
+   Vancomycin - [**2724-12-16**] 09:00 AM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2724-12-17**] 09:00 AM
+   Heparin Sodium (Prophylaxis) - [**2724-12-17**] 09:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2724-12-17**] 11:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**28**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 35.8
+C (96.4
+   HR: 60 (60 - 66) bpm
+   BP: 125/62(76) {110/48(64) - 147/77(91)} mmHg
+   RR: 21 (18 - 29) insp/min
+   SPO2: 99%
+   Heart rhythm: V Paced
+   Wgt (current): 148.6 kg (admission): 86.1 kg
+   Height: 69 Inch
+             Total In:
+                                                                    490 mL
+                                                                    430 mL
+   PO:
+             200 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    440 mL
+                                                                    110 mL
+   Blood products:
+   Total out:
+                                                                  1,688 mL
+                                                                    705 mL
+   Urine:
+                                                                  1,603 mL
+                                                                    615 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     15 mL
+   Balance:
+                                                                 -1,198 mL
+                                                                   -275 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 99%
+   ABG: 7.40/33/91/22/-2
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), 100% Vpaced
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), w-d drsg [**Name5 (PTitle) 326**]
+   [**Name5 (PTitle) 1788**]: (Awake / Alert / Oriented: x 2), Moves all extremities
+   Labs / Radiology
+   119 K/uL
+   9.6 g/dL
+   103 mg/dL
+   1.6 mg/dL
+   22 mEq/L
+   4.4 mEq/L
+   30 mg/dL
+   107 mEq/L
+   136 mEq/L
+   28.6 %
+   15.2 K/uL
+        [image002.jpg]
+                             [**2724-12-15**]  04:30 PM
+                             [**2724-12-15**]  04:36 PM
+                             [**2724-12-15**]  07:04 PM
+                             [**2724-12-15**]  10:19 PM
+                             [**2724-12-16**]  04:00 AM
+                             [**2724-12-16**]  04:37 PM
+                             [**2724-12-17**]  04:40 AM
+   WBC
+   6.5
+   13.6
+   15.2
+   Hct
+   25.2
+   26.1
+   29.1
+   28.6
+   Plt
+   83
+   103
+   119
+   Creatinine
+   1.0
+   1.5
+   1.6
+   TCO2
+   24
+   23
+   21
+   Glucose
+   82
+   84
+   103
+   Other labs: PT / PTT / INR:19.3/37.2/1.8, Ca:9.6 mg/dL, Mg:1.9 mg/dL,
+   PO4:3.9 mg/dL
+   Microbiology: blood 11/23, [**12-9**] no growth
+   left chest swab - staph (vancomycin)
+   [**12-10**] urine no growth
+   [**12-15**] MRSA positive
+   [**12-16**] urine pending
+   12/2 blood pending
+   [**12-15**] lead - pending
+   Assessment and Plan
+   [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS, AIRWAY CLEARANCE,
+   IMPAIRED, AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION,
+   AND COGNITION, IMPAIRED, BALANCE, IMPAIRED, COUGH, IMPAIRED, GAIT,
+   IMPAIRED, EDUCATIONAL ACTIVITIES, INABILITY TO PARTICIPATE IN,
+   KNOWLEDGE, IMPAIRED, TRANSFERS, IMPAIRED, VENTILATION, IMPAIRED, FEVER
+   (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), PAIN CONTROL
+   (ACUTE PAIN, CHRONIC PAIN), CARDIAC DEVICE INFECTION (PACEMAKER,
+   DEFIBRILLATOR)
+   Assessment and Plan:
+   [**Last Name 1788**]: Neuro checks Q: 4 hr, Pain controlled, ultram prn and
+   tylenol ATC effective, narcotics discontinued [**12-16**] due to confusion
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS, Discontinue chest tube(s), cough and deep breath
+   Gastrointestinal / Abdomen: dobhoff placed for nutrition
+   Nutrition: Tube feeding, Regular diet, poor oral intake, tube feeds to
+   supplement oral intake, ATC today until running at goal then change to
+   cyclic at night
+   Renal: Foley, Adequate UO, lasix daily
+   Hematology: stable anemia
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: Check cultures, vanocmycin continues - level > 20
+   hold dose today, follow up cultures on wire
+   Lines / Tubes / Drains: Foley, Dobhoff, Chest tube - pleural
+   Wounds: Dry dressings, Wet / Dry dressings, W-D to left chest wounds
+   that were present prior to OR
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: P.T., Nutrition, EP
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2724-12-15**] 04:42 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments: INR 1.8 discontinuing SQ heparin and will monitor INR
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

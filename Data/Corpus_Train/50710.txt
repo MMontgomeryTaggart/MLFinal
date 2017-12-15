@@ -1,0 +1,250 @@
+Admission Date:  [**2953-5-25**]              Discharge Date:   [**2953-5-28**]
+
+Date of Birth:  [**2882-2-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Tegretol / Insulin,Beef / Insulin,Pork / Zaroxolyn
+
+Attending:[**First Name3 (LF) 10537**]
+Chief Complaint:
+hypoxia, fever/cough
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+HPI:
+71 y/o female with PMH significant for for severe diastolic
+dysfunction, atrial fib, severe PVD with chronic LE ulcers, and
+CAD admitted through the ED with hypoxia. Pt had a recent
+admission to the MICU [**Date range (1) 15009**]/5 for septic shock (presumed [**2-28**]
+LE ulcers). She was in her normal state of health until this
+morning when she appeared very lethargic when trying to get out
+of bed. Her oxygen saturation was found to be 60% on room air at
+[**Hospital1 **] Senior Life. Pt was sent to the [**Hospital1 52**] ED where her sat
+was 85 to 100% on a NRB with a ABG of 7.30/63/161. She was
+started on CPAP of 10 which she tolerated well for approximately
+20 minutes. However, she then became hypotensive to 78/40 so
+CPAP was discontinued and she was put back on a nonrebreather.
+After a 500 cc bolus, pt's SBP increased to around 90. Her Sats
+came up to 94-100% on 4L NC. Pt states she has had productive
+cough x 5 days. Otherwise ROS neg for f/c, HA, stiff neck, abd
+pain, d/c/n/v.
+.
+In ED, received vanco, levofloxacin, flagyl, solumedrol 50mg,
+tylenol
+.
+
+
+Past Medical History:
+1. CHF diastolic dysfunction (EF 65% 1/05 MIBI normal)
+   DRY WEIGHT 194 lbs
+2. DM 2 on insulin
+3. Atrial Fibrillation
+4. Anemia
+5. CAD s/p PTCA x 3 (RCA '[**39**], LCx '[**40**], RCA '[**43**])
+6. Pulmonary HTN
+7. Hypercholesterolemia
+8. COPD/[**Year (2 digits) 15004**] on home O2 (sometimes on home O2)
+9. Thyroid CA s/p resection/now hypothryoid
+10. Myoclonic tremors
+11. H/O PE
+12. OSA on CPAP (started last admission)
+13. Depression/Anxiety
+14. h/o MRSA/VRE. ICU admit x 2 for MRSA aortic valve
+endocarditis and pseudomonal sepsis (secondary to wound
+infection), status post intubation x 2.
+15. S/p laproscopic cholecystectomy
+[**64**]. s/p right throcoscopy and decortication. Right lung bx.
+17. s/p right hip ORIF
+18. s/p right ankle ORIF
+
+
+Social History:
+SH:
+Pt lives at [**Hospital1 **] Senior Life. She is divorced and has three
+children. She quit smoking in [**2934**] but has a history of 1 PPD
+for 15 years. No ETOH or drugs.
+
+Family History:
+FH:
+[**Name (NI) 1701**] father died at age 47 from a MI. Her mother died of colon
+CA. Pt has a brother with DM.
+
+Physical Exam:
+PE:
+103.8 --->101.7 w/o meds 88 107/52 18 98% 2L NC
+Genl- well appearing, conversant, NAD
+HEENT- anicteric, sclera/op clear, dry mm
+Neck- jvd difficult to appreciate, supple
+Cardiac- irregular no m
+Lungs: crackles halfway up on R and [**1-29**] way up on L
+Abdomen- +bs, soft, nt
+Extremities- chronic LE ulcers b/l, chronic venous stasis
+changes
+Neuro- alert and oriented, moving all extremities
+
+Pertinent Results:
+[**2953-5-25**] 11:45AM   LACTATE-1.6
+[**2953-5-25**] 11:18AM   K+-4.8
+[**2953-5-25**] 11:15AM URINE  HOURS-RANDOM
+[**2953-5-25**] 11:15AM URINE  GR HOLD-HOLD
+[**2953-5-25**] 11:15AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0
+LEUK-NEG
+[**2953-5-25**] 11:15AM URINE  RBC-0-2 WBC-[**3-31**] BACTERIA-FEW YEAST-NONE
+EPI-0-2
+[**2953-5-25**] 09:16AM   TYPE-ART RATES-/30 O2-100 PO2-161* PCO2-53*
+PH-7.30* TOTAL CO2-27 BASE XS-0 AADO2-506 REQ O2-84
+INTUBATED-NOT INTUBA COMMENTS-NON-REBREA
+[**2953-5-25**] 09:16AM   HGB-11.4* calcHCT-34
+[**2953-5-25**] 09:05AM   CK(CPK)-122
+[**2953-5-25**] 09:05AM   CALCIUM-8.7 PHOSPHATE-4.8* MAGNESIUM-1.9
+[**2953-5-25**] 09:05AM   CK-MB-2
+[**2953-5-25**] 09:05AM   WBC-22.0*# RBC-4.44 HGB-12.0 HCT-38.3 MCV-86
+MCH-27.1 MCHC-31.4 RDW-30.5*
+[**2953-5-25**] 09:05AM   NEUTS-86* BANDS-6* LYMPHS-3* MONOS-2 EOS-3
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2953-5-25**] 09:05AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**2953-5-25**] 09:05AM   PLT COUNT-331#
+[**2953-5-25**] 09:05AM   PT-13.4 PTT-31.9 INR(PT)-1.1
+
+ECG- Narrow complex tachycardia at 134 beats per minute. No
+clear ST-T wave changes.
+.
+CXR (WET READ)- Cardiomegaly. Question of mild edema.
+
+Brief Hospital Course:
+71f w/ extensive PMHx, including recent admit [**Date range (1) 15009**]/5 for
+septic shock (presumed [**2-28**] LE ulcers) who presents from Rehab
+with hypoxia, fever, leukocytosis and transient hypotension.
+
+1. Hypoxia:
+
+This was most likley secondary to bronchitis/mucous plugging.
+Her hypoxia resolved with bringing up a mucous plug, and her
+oxygen saturation remained appropriate with minimal supplemental
+oxygen.  She was weaned from 2L nc to room air.
+Her chest film on admission revealed stable chronic interstitial
+lung disease, with no evidence of acute PNA or CHF. h/o [**Month/Day (2) 15004**],
+ILD. transient hypoxia over hours. Pt's sat already up to 99% on
+2L NC.
+.
+2. Fever/leukocytosis: possible sources include LE ulcers, and
+pulmonary. UA neg. She recently completed 2week course of
+vanco/ceftaz/flagyl for her ulcers.  Over course of hospital
+stay, trimmed abx down to just levo/vancomycin for presumed
+bronchitis since she has a hx of MRSA.  She got a PICC line
+placed on [**5-28**] and will complete a 10 day course of Vanc/Levo for
+prsumed bronchitis vs bacterial pneumonia.
+She was seen by [**Month/Day (2) **] while in house, and continued her
+routine dressing changes and wound care. There was no evidence
+of wound infection at this time.
+.
+3. Hypotension - Overall, this was transient, and likely
+secondary to decreased preload in the context of positive
+pressure ventilation.  Thereafter, she remained normotensive,
+and required no further hemodynamic support.  There was no
+evidence of sepsis, and her [**Last Name (un) **] stim test showed no evidence of
+adrenal insufficiency.
+.
+5. DM - She was continued on glargine and RISS
+.
+6. Pain - She was continued on fentanyl patch, prn oxcodone, and
+gabapentin.
+.
+7. Asymmetric leg swelling: She has a hx of severe PVD and
+chronic venous stasis.  LENI was negative for DVT.  Asymmetric
+leg edema is likely from her chronic venous change.
+.
+8. Access - She got a PICC line placed in the right arm on [**5-28**].
+.
+9. PPx - PPI, hep SC
+.
+10. Code status - FULL CODE
+
+
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+2. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation
+every 4-6 hours as needed for shortness of breath or wheezing.
+3. Atrovent 18 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation
+every four (4) hours.
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Fentanyl 50 mcg/hr Patch 72HR Sig: One (1) Patch 72HR
+Transdermal Q72H (every 72 hours).
+6. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO BID (2
+times a day).
+7. Gabapentin 300 mg Capsule Sig: Three (3) Capsule PO HS (at
+bedtime).
+8. Lansoprazole 15 mg Capsule, Delayed Release(E.C.) Sig: One
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+9. Levothyroxine Sodium 200 mcg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+10. Methylphenidate HCl 10 mg Tablet Sig: One (1) Tablet PO QAM
+(once a day (in the morning)).
+11. Methylphenidate HCl 5 mg Tablet Sig: One (1) Tablet PO
+NOONTIME ().
+12. Multivitamin     Capsule Sig: One (1) Cap PO DAILY (Daily).
+
+13. Simvastatin 40 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+14. Topiramate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+15. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime) as needed.
+16. Oxycodone HCl 5 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+17. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Two
+(2) Puff Inhalation [**Hospital1 9**] (2 times a day).
+18. Insulin Glargine 100 unit/mL Solution Sig: Fifteen (15)
+units Subcutaneous at bedtime.
+19. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+20. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+21. Vancomycin HCl 1000 mg IV Q12H
+22. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours): day#1 was [**5-26**] for first full day of abx;
+continue for 10d course.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 47**] for the Aged - [**Location (un) 1409**]
+
+Discharge Diagnosis:
+1. Hypoxia - resolved
+2. fever, bronchitis/pneumonia
+3. hypotension - resolved
+4. atrial fibrillation
+5. h/o CAD
+6. DM 2
+7. hypothyroidism
+8. COPD/[**Location (un) 15004**], pulmonary htn
+9. anxiety/depression
+10. h/o MRSA and VRE
+11. chronic lower extremity [**Location (un) **] disease/ulcerations
+
+
+Discharge Condition:
+good
+
+Discharge Instructions:
+Weights at NH to monitor fluid status
+2 gm sodium diet
+Continue antibiotics and regular medications.
+Follow up with [**Hospital1 **] SeniorLife primary physician
+
+
+Completed by:[**2953-5-28**]
+
+
+DOC CLASS

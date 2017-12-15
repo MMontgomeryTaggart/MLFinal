@@ -1,0 +1,176 @@
+Admission Date:  [**2654-1-25**]              Discharge Date:   [**2654-1-30**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2441**]
+Chief Complaint:
+Shortness of breath x 1 month
+
+Major Surgical or Invasive Procedure:
+Cypher stent to left main coronary artery, Taxus stent to
+proximal LAD with 2 overlapping bare metal stents to mid and
+proximal LAD on [**2654-1-25**]
+
+History of Present Illness:
+The patient is an 84 year old ex-smoker (2 ppd x 40 years) with
+a history of CAD s/p CABG (SVG->RCA, LAD) in [**2640**], CHF EF 20%,
+hypertension post AAA repair, and CRI who presented to [**Hospital 315**]
+Hospital on [**2654-1-23**] with the chief complaint of shortness of
+breath and dyspnea on exertion x 1 month. The patient complained
+of no chest pain, nausea, vomiting, or diaphoresis. Nor did he
+complain of any jaw pain, left arm, epigastric or back pain. He
+had noted increased lower extremity edema x 5 weeks and a 10
+pound weight gain in the past 1 month but denied any orthopnea.
+He noted decreased exercise tolerance with difficulty climbing
+one flight of stairs in his house which is different than his
+baseline where he has no difficulty with one flight.
+
+At home, he states he had been compliant with his home
+medications. He was taking lasix x 3 days alternating with HCTZ
+for 4 days. He states he has adhered to a low salt diet at home.
+
+At [**Location (un) 315**], he was found to have a BNP of 3280, CK-MB 18 and a
+troponin of 9.18 with pulmonary edema on CXR and TWVI in I, II,
+III and V3-V6. His SBP was 119/61 with a pulse of 73. He had an
+echo which showed an EF of 20% with mild MR [**First Name (Titles) **] [**Last Name (Titles) **] with moderate
+PAH. His apex and mid-distal septal wall and mid-distal inferior
+walls were akinetic and the anterior wall was akinetic. Trace AR
+with mild dilatation of the ascending aorta. PAP 45 mm Hg with
+dilated, hypocontractile RV. He also underwent a VQ scan with
+low probability for PE and a negative LENI of the RLE.
+
+The patient was transferred for cath on [**2654-1-25**] on heparin gtt,
+atenolol 50 mg QD, aspirin 81 mg, KCL 20 meq [**Hospital1 **] and lasix 40 mg
+IV BID.
+
+His cath was significant for:
+[**2654-1-25**]:
+LMCA 80% ostial
+LAD 80% ostial, 95% proximal, 70% mid occlusion
+LCX one major OM patent
+RCA 100% ostial
+SVG single proximal aortic anastomosis [**12-28**] aortic calcification
+with bifurcating graft to RCA occluded and limb to LAD with two
+serial "ugly" thrombotic lesions
+LIMA - not utilized during surgery [**12-28**] small vessel
+
+LVEDP 44 mm Hg
+PA 52/22
+CO 4.59
+CI 2.20
+RA 10
+RVEDP 15
+
+In the cath lab, the patient received Integrillin, 40 mg IV
+lasix, plavix, and 1/2NS.
+
+
+Past Medical History:
+CAD s/p CABG [**2640**] at NEDH (SVG->distal RCA, LAD)
+HTN
+AAA repair
+HL
+CRI (baseline creatinine unknown; 1.5 at [**Location (un) 315**])
+Bilateral total hip replacement (left twice, right once)
+s/p cholecystectomy
+
+Social History:
+Quit smoking 28 years ago, smoked 2 ppd x 44 years. Denies EtOH.
+Multiple tattoos. He is married and lives with his wife. [**Name (NI) **] has
+4 children.
+
+Family History:
+Noncontributory.
+
+Physical Exam:
+Tc=98.2 P=59 BP=112/74 RR=25  99%O2 on RA
+
+Gen- NAD, AOX3, mildly obese male
+HEENT - 10 cm JVD, PERLA, EOMI, MMM
+Heart - Grade soft II/VI holosystolic murmur best heard at apex,
+regular rate and rhythm
+Lungs - CTAB anteriorly
+Abdomen - Soft, NT, ND + BS, no hepatosplenomegaly/bruits
+Ext - Right groin no hematoma, +1 femoral pulse with no bruit,
++1 d. pedis, +1 pitting edema to knees bilaterally
+
+
+Pertinent Results:
+[**2654-1-25**] 08:38PM   GLUCOSE-183* UREA N-45* CREAT-1.6* SODIUM-136
+POTASSIUM-3.8 CHLORIDE-89* TOTAL CO2-39* ANION GAP-12
+[**2654-1-25**] 08:38PM   CK(CPK)-115
+[**2654-1-25**] 08:38PM   CK-MB-5 cTropnT-3.06*
+[**2654-1-25**] 08:38PM   CALCIUM-7.7* PHOSPHATE-4.6* MAGNESIUM-1.7
+[**2654-1-25**] 08:38PM   WBC-11.1* RBC-4.00* HGB-12.1* HCT-35.6*
+MCV-89 MCH-30.1 MCHC-33.9 RDW-14.7
+[**2654-1-25**] 08:38PM   PLT COUNT-192
+[**2654-1-25**] 08:38PM   PT-14.0* PTT-30.9 INR(PT)-1.2
+[**2654-1-25**] 04:16PM   CK(CPK)-102
+[**2654-1-25**] 04:16PM   CK-MB-5 cTropnT-2.95*
+[**2654-1-25**] 03:44PM   TYPE-ART O2 FLOW-2 PO2-62* PCO2-60* PH-7.45
+TOTAL CO2-43* BASE XS-14 INTUBATED-NOT INTUBA COMMENTS-NASAL
+[**Last Name (un) 1299**]
+[**2654-1-25**] 03:44PM   GLUCOSE-133* K+-3.5
+[**2654-1-25**] 03:44PM   O2 SAT-92
+
+Brief Hospital Course:
+The patient is an 84 year old male with a history of CAD s/p
+CABG (SVG->RCA, LAD), CHF EF 20%, HTN s/p AAA repair,
+significant tobacco history and HL, and chronic renal
+insufficiency (baseline Cr unknown) who presented on [**2654-1-23**]
+with NSTEMI with peak troponin of 9.18 now s/p cath with DES to
+LAD and LMCA
+
+The patient was continued on aspirin, plavix 75 mg x 9 months
+post PCI, Integrillin 18 hours post cath, and simvastatin 40 mg.
+His Atenolol 50 mg QD was changed to Lopressor 50 mg TID with
+good effect. The patient's BP remained well-controlled on
+Lopressor 50 mg TID. An ACE would be beneficial for cardiac
+remodeling, however, given his rising creatinine, an ACE was not
+initiated at this time.
+
+Patient has history of CHF with EF of 20%.The patient appeared
+overloaded on presentation. He is not on an ACE. We gave him
+another 40 mg IV lasix x 1 on transfer to the CCU, he received
+40 mg IV lasix in the cath lab and was transferred from [**Location (un) 315**]
+on Lasix 40 mg IV BID. He takes lasix 40 mg QD x 3 days (per
+patient) and HCTZ 50 mg x 4 days (per patient) at home for the
+past 2 weeks. He diuresed well to Lasix 80 mg IV and then
+stablized on lasix 40 mg QD.
+
+His baseline creatinine is unknown, it was  1.6 (1.5 at OSH)on
+presentation. It rose to 2.2 with aggressive diuresis.
+
+He was doing well post cardiac catheterization until the early
+morning of [**2654-1-30**]. He suddenly went into ventricular
+fibrillation. Code was called and was fully ran. He was
+defibrillated 10 times with no restoration of regular pulse.
+Patient was intubated. He also recieved epinephrine, atropine,
+magnesium and calcium when central access was established.
+Echocardiogram was performed at the bedside and no pericardial
+effusion was found. The code was ran for about 30 minutes.
+Family member and the attending were called. Family member
+denied post mortem.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Non-ST elevation myocardial infarction
+Congestive heart failure
+Chronic renal insufficiency
+
+
+Discharge Condition:
+passed away
+
+
+Completed by:[**2654-1-30**]
+
+
+DOC CLASS

@@ -1,0 +1,202 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**6-12**]:
+   - s/p pleurocentesis by IP at 9am. 1500ccs drained.  RE: Pleurex
+   Catheter, they would not place one at this time as they do not usually
+   put in a permanent catheter in cases of heart failure but more as a
+   last resort option
+   - pressures low (SBP 75-85) most of the day, though patient
+   asymptomatic and ambulating w/o difficulty. Received 500cc bolus
+   overnight.
+   - s/p fat pad biopsy by dermatology, s/p aspirate by gen [**Doctor First Name **], Sent for
+   rush pathology.
+   - spoke several times with amyloid clinic at [**Hospital1 470**] ([**Telephone/Fax (1) 6910**]). He has
+   to be screened before appt can be made, then clinic happens
+   monday-wednesday.  Clinic coordinator has CCU & patient phone numbers
+   and should be calling in the next 1-2 days.
+   - Patient's Cr increased from baseline, did not urinate from 4am to
+   4pm, then put out 400 cc. Monitoring UOP.
+   - Seen by heme-onc, rec: UPEP, beta2-microglob, troponin, skeletal
+   survery, abd u/s, Factor X level.  They are awaiting a decision of
+   goals of care and whether to treat here or at [**Hospital1 470**].
+   - Seen by social work for coping/new diagnosis
+   - Plan for family meeting tomorrow to pool data, discuss prognosis and
+   make plan.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3495-6-13**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37
+C (98.6
+   HR: 93 (86 - 114) bpm
+   BP: 79/49(55) {68/39(49) - 98/74(78)} mmHg
+   RR: 19 (14 - 27) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,990 mL
+                                                                    500 mL
+   PO:
+                                                                    300 mL
+             TF:
+   IVF:
+                                                                  1,690 mL
+                                                                    500 mL
+   Blood products:
+   Total out:
+                                                                  2,050 mL
+                                                                    300 mL
+   Urine:
+                                                                    750 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,300 mL
+   Balance:
+                                                                    -60 mL
+                                                                    200 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 92%
+   ABG: ///25/
+   Physical Examination
+   GENERAL: Elderly man, pleasant, anxious, in NAD. Oriented x3. Mood,
+   affect appropriate.
+   HEENT: PERRL, EOMI.  Conjunctiva were pink, no pallor or cyanosis of
+   the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 8 cm.  Submandibular LAD on left
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR
+   with multiple PVCs.  Normal S1, S2. No m/r/g. No thrills, lifts.  No S3
+   or S4.
+   LUNGS: Dullness to percussion on right to mid-lung field and at left
+   base.  Decreased BS on right to mid-lung.  No w/c/r
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Scar in RUQ from previous
+   nephrectomy.  No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: DP 1+ PT 1+
+   Left: DP 1+ PT 1+
+   Labs / Radiology
+   334 K/uL
+   10.9 g/dL
+   107 mg/dL
+   1.9 mg/dL
+   25 mEq/L
+   4.4 mEq/L
+   37 mg/dL
+   103 mEq/L
+   137 mEq/L
+   32.3 %
+   8.9 K/uL
+        [image002.jpg]
+                             [**3495-6-11**]  03:10 PM
+                             [**3495-6-12**]  04:39 AM
+                             [**3495-6-12**]  01:12 PM
+                             [**3495-6-13**]  04:11 AM
+   WBC
+   6.3
+   7.0
+   8.9
+   Hct
+   33.1
+   30.6
+   32.3
+   Plt
+   [**Telephone/Fax (3) 6911**]
+   Cr
+   1.9
+   2.2
+   2.1
+   1.9
+   TropT
+   0.39
+   Glucose
+   107
+   105
+   107
+   Other labs: PT / PTT / INR:13.4/30.4/1.1, CK / CKMB /
+   Troponin-T://0.39, Differential-Neuts:71.6 %, Lymph:20.9 %, Mono:4.8 %,
+   Eos:2.3 %, Ca++:8.7 mg/dL, Mg++:2.1 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+   The patient is a 66 yo man with h/o amyloidosis who presents with
+   hypotension in the setting of Lisinopril.
+   .
+   #. Amyloidosis:  The patient was recently diagnosed with amyloidosis on
+   findings from TTE and Cardiac MRI.  Yesterday a fat pad biopsy and fat
+   pad aspirate were done in search of a definitive tissue diagnosis.  The
+   patient has yet to define clear goals of care and is awaiting
+   acceptance into the BU Amyloid clinic.
+    - Family meeting today to discuss diagnosis, prognosis and plan.
+   Should involve primary team, heme/onc, social work, possibly palliative
+   care.  Need to establish plan of care before discharge.
+    - f/u fat pad biopsy, aspirate and UPEP
+    - appreciate heme-onc recs.
+    - If fat pad biopsy inconclusive, may require bone marrow biopsy.
+   .
+   #. Hypotension:  The patient's BP on admission was 74/51, and he was
+   experiencing dizziness, nausea, and HA.  Initial symptomatic
+   hypotension most likely due to Lisinopril.  Per the patient, his SBP
+   normally runs in the 80s-90s, yesterday was able to ambulate with SBP
+   in the high 70s and 80s.
+    - Continue to hold Lisinopril and Lasix
+    - Continue 500 cc NS fluid boluses as needed to maintain MAP > 60
+    - If patient remains asymptomatic, no intervention necessary.
+   .
+   #. Pleural Effusions:  Thoracentesis done yesterday with symptomatic
+   improvement per patient.  All effusions have been transudates, meaning
+   cause is restrictive cardiomyopathy and will most likely recur.
+   However, permanent cath would be last resort per IP.
+    - Monitor dyspnea and morning CXR.
+   .
+   #. Acute Renal Failure:  The patient's Cr on presentation is 1.9, which
+   is increased from his baseline of 1.2 in [**4-20**], increased to 2.2 and now
+   appears to be trending down.  Ddx is pre-renal due to hypotension vs
+   amyloid renal disease.
+    - FE Urea of 16 suggestive of pre-renal.
+    - Continue to bolus with 500 cc NS as needed.
+    - Continue to monitor Cr and UOP
+   .
+   #. FEN: Regular, Cardiac diet
+   .
+   #. ACCESS: PIV's
+   .
+   #. PROPHYLAXIS:
+    - DVT ppx with Heparin SQ TID
+    - Pain management with Tylenol prn
+    - Bowel regimen with Colace and Senna
+   .
+   #. CODE: Full (confirmed)
+   .
+   #. DISPO: Home to go to [**Hospital1 470**] or staying here for rx
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3495-6-11**] 02:40 PM
+   Prophylaxis:
+   DVT: SC heparin
+   Stress ulcer: None needed
+   VAP: none
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Home to go to [**Hospital1 470**] or staying here for rx.
+
+
+
+DOC CLASS

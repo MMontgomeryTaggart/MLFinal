@@ -1,0 +1,140 @@
+Chief Complaint:
+   24 Hour Events:
+   - switched to NC 6L and saturating in the 90s
+   - blood draws have been an issue, ? temporary access for blood draws
+   Allergies:
+   Aspirin
+   irritates stoma
+   Niacin
+   Rash;
+   Rash;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2920-11-21**] 04:00 PM
+   Clindamycin - [**2920-11-23**] 12:47 AM
+   Infusions:
+   Heparin Sodium - 1,150 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2920-11-23**] 05:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 37.9
+C (100.3
+   HR: 80 (55 - 83) bpm
+   BP: 133/55(73) {78/41(58) - 170/105(112)} mmHg
+   RR: 27 (17 - 39) insp/min
+   SpO2: 93%
+   Heart rhythm: 2nd AV M2 (Second degree AV Block - Mobitz 2)
+             Total In:
+                                                                  1,559 mL
+                                                                    112 mL
+   PO:
+                                                                  1,200 mL
+             TF:
+   IVF:
+                                                                    359 mL
+                                                                    112 mL
+   Blood products:
+   Total out:
+                                                                    950 mL
+                                                                     20 mL
+   Urine:
+                                                                    950 mL
+                                                                     20 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    609 mL
+                                                                     92 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: 7.45/33/231/23/0
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   173 K/uL
+   10.2 g/dL
+   231 mg/dL
+   1.0 mg/dL
+   23 mEq/L
+   4.2 mEq/L
+   15 mg/dL
+   105 mEq/L
+   138 mEq/L
+   29.3 %
+   13.9 K/uL
+        [image002.jpg]
+                            [**2920-11-21**]  12:08 AM
+                            [**2920-11-21**]  05:05 AM
+                            [**2920-11-22**]  05:00 AM
+                            [**2920-11-22**]  11:15 PM
+                            [**2920-11-22**]  11:21 PM
+   WBC
+   9.6
+   11.4
+   13.9
+   Hct
+   28.2
+   29.2
+   29.3
+   Plt
+   177
+   179
+   173
+   Cr
+   0.9
+   1.1
+   1.0
+   TropT
+   <0.01
+   <0.01
+   <0.01
+   TCO2
+   24
+   Glucose
+   126
+   238
+   231
+   Other labs: PT / PTT / INR:15.6/48.2/1.4, CK / CKMB /
+   Troponin-T:83//<0.01, Lactic Acid:3.1 mmol/L, Albumin:3.4 g/dL,
+   Ca++:8.8 mg/dL, Mg++:1.6 mg/dL, PO4:2.4 mg/dL
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ HYPOTENSION (NOT SHOCK)
+ HEART BLOCK, COMPLETE (CHB)
+ DEEP VENOUS THROMBOSIS (DVT), LOWER EXTREMITY
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2920-11-22**] 08:49 PM
+   20 Gauge - [**2920-11-22**] 08:49 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

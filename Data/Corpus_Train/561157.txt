@@ -1,0 +1,237 @@
+TSICU
+   HPI:
+   HPI: 44y male with HIV s/p dental extraction 10d prior to admission (in
+   [**State 3470**]) c/b abscess which subsequently spread throughout neck.
+   Treated with oral abx after extraction, then IV antibiotics at hospital
+   in [**State 1176**]. He was brought to [**Hospital1 17**] ED by his father (from [**Name (NI) 1176**]).
+   Underwent operative debridement with ENT [**3309-12-29**].  Transferred to
+   CVICU & noted to have assymetric pupils. Due to concern for embolism in
+   setting of extensive infection and debridement around vessels in neck,
+   neurology was consulted and stat CT/CTA of head and neck was ordered.
+   HIV first diagnosed [**3302**], no hx of HAAART.  30lb weight loss over past
+   6 weeks.  Diarrhea x4 weeks.
+   .
+   ISSUES:
+   1. necrotizing fasciitis
+   2. HIV
+   Chief complaint:
+   neck infection
+   PMHx:
+   HIV, recent dental extraction
+   Current medications:
+   1. 2. 3. 1000 mL NS 4. Bisacodyl 5. Calcium Gluconate 6. Chlorhexidine
+   Gluconate 0.12% Oral Rinse
+   7. Docusate Sodium (Liquid) 8. Fentanyl Citrate 9. Fentanyl Citrate 10.
+   Gentamicin 11. Heparin 12. Heparin Flush (10 units/ml)
+   13. 14. Insulin 15. Magnesium Sulfate 16. Midazolam 17. Neutra-Phos 18.
+   Norepinephrine 19. Pantoprazole
+   20. Piperacillin-Tazobactam Na 21. Potassium Phosphate 22. Potassium
+   Chloride 23. Propofol 24. Senna
+   25. Sodium Chloride 0.9% Flush 26. Vancomycin
+   24 Hour Events:
+ OR SENT - At [**3310-1-3**] 07:35 PM
+ OR RECEIVED - At [**3310-1-3**] 11:30 PM
+   Went to OR, had pectoralis muscle flap to L neck, split thickness skin
+   graft to neck from the thighs. Plastics will manage dressings, pt
+   should not move neck to protect the integrity of the flap/grafts.
+   Transfused 2 u pRBCs prior to OR, followed by lasix.
+   Post operative day:
+   POD#1 - skin grafts and bic flap
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3310-1-3**] 11:26 AM
+   Gentamicin - [**3310-1-3**] 12:31 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3310-1-3**] 06:02 PM
+   Infusions:
+   Midazolam (Versed) - 8 mg/hour
+   Fentanyl - 200 mcg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3310-1-3**] 08:00 AM
+   Furosemide (Lasix) - [**3310-1-3**] 12:33 PM
+   Dextrose 50% - [**3310-1-3**] 04:40 PM
+   Fentanyl - [**3310-1-3**] 05:38 PM
+   Heparin Sodium (Prophylaxis) - [**3310-1-4**] 12:10 AM
+   Other medications:
+   Flowsheet Data as of  [**3310-1-4**] 04:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**13**] a.m.
+   Tmax: 36.3
+C (97.3
+   T current: 35.8
+C (96.4
+   HR: 69 (53 - 74) bpm
+   BP: 124/75(91) {104/53(72) - 132/96(111)} mmHg
+   RR: 7 (7 - 12) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 53.2 kg (admission): 59 kg
+   Height: 70 Inch
+   CVP: 9 (3 - 298) mmHg
+   Total In:
+                                                                  5,620 mL
+                                                                    157 mL
+   PO:
+   Tube feeding:
+                                                                    557 mL
+   IV Fluid:
+                                                                  4,288 mL
+                                                                    157 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                  6,180 mL
+                                                                    100 mL
+   Urine:
+                                                                  6,015 mL
+                                                                     75 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     20 mL
+                                                                     25 mL
+   Balance:
+                                                                   -560 mL
+                                                                     57 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 8
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 16 cmH2O
+   Plateau: 11 cmH2O
+   Compliance: 83.3 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.43/52/141/33/9
+   Ve: 6 L/min
+   PaO2 / FiO2: 353
+   Physical Examination
+   General Appearance: No acute distress, thin/cachectic
+   HEENT: EOMI; neck dressings in place
+   Cardiovascular: (Rhythm: Regular), nl S1/2, no murmur
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact); dressings c/d/i
+   Neurologic: Sedated
+   Labs / Radiology
+   215 K/uL
+   11.9 g/dL
+   71 mg/dL
+   0.4 mg/dL
+   33 mEq/L
+   3.9 mEq/L
+   23 mg/dL
+   97 mEq/L
+   134 mEq/L
+   33.6 %
+   9.4 K/uL
+        [image002.jpg]
+                            [**3310-1-3**]  02:40 AM
+                            [**3310-1-3**]  01:46 PM
+                            [**3310-1-3**]  01:56 PM
+                            [**3310-1-3**]  04:00 PM
+                            [**3310-1-3**]  05:00 PM
+                            [**3310-1-3**]  08:00 PM
+                            [**3310-1-3**]  08:54 PM
+                            [**3310-1-3**]  09:50 PM
+                            [**3310-1-4**]  02:31 AM
+                            [**3310-1-4**]  02:46 AM
+   WBC
+   9.4
+   Hct
+   33.8
+   35
+   35
+   34
+   33.6
+   Plt
+   215
+   Creatinine
+   0.4
+   TCO2
+   33
+   38
+   38
+   38
+   36
+   36
+   Glucose
+   111
+   68
+   70
+   112
+   56
+   89
+   96
+   71
+   Other labs: PT / PTT / INR:14.9/35.7/1.3, ALT / AST:21/22, Alk-Phos / T
+   bili:44/0.3, Differential-Neuts:72.2 %, Lymph:20.9 %, Mono:6.0 %,
+   Eos:0.8 %, Fibrinogen:251 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:1.6
+   g/dL, LDH:114 IU/L, Ca:7.9 mg/dL, Mg:2.0 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+   ALTERATION IN NUTRITION, IMPAIRED SKIN INTEGRITY, PAIN CONTROL (ACUTE
+   PAIN, CHRONIC PAIN), [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS,
+   SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION), SHOCK, SEPTIC, NECROTIZING
+   FASCITIS, BRADYCARDIA, HYPOTHERMIA, HIV (HUMAN IMMUNODEFICIENCY VIRUS,
+   ACQUIRED IMMUNODEFICIENCY SYNDROME, AIDS)
+   Assessment and Plan: 44y male with HIV s/p dental extraction 10d prior
+   to admission (in [**State 3470**]) c/b abscess which subsequently spread
+   throughout neck, developing necrotizing fasciitis
+   Neurologic: Neuro checks Q: 4 hr, midazolam, fentanyl  gtt for
+   sedation. Given pt still awake on high dose midaz/fent gtt will start
+   Propofol to keep pt sedated to allow grafts to take; pain well
+   controlled, though.
+   Cardiovascular: no active issues, normotensive; was hypothermic, now
+   rewarmed s/p OR
+   Pulmonary: Cont ETT; CMV for now. Will keep intubated until Monday as
+   pt should not move for now.
+   Gastrointestinal / Abdomen: stable. replete lytes as appropriate;
+   restart TF
+   Nutrition: Re-start tube feeding
+   Renal: Foley, Adequate UO. +peripheral edema/volume overload: lasix
+   pre/post blood transfusion . pt w/ recent alkolosis Would hold of on
+   diuresis today.
+   Hematology: 2u prbcs pre-op, follow hct. Stable anemia
+   Endocrine: RISS with adequate glucose control
+   Infectious Disease:  ID following and recs to maintain Vanc/Zosyn/Gent
+   until culture data is back (per ID osh cx w/ MSSA - will consider d/c
+   vanco post-op). gent level [**1-3**] 1.3: cont dosing per ID
+   Lines / Tubes / Drains: Foley, ETT, PICC, dobhoff, surgical drain (JP)
+   Wounds: Dry dressings, managed by plastics
+   Imaging:
+   Fluids: KVO
+   Consults: Plastics, ID dept, ENT
+   Billing Diagnosis: Other: Necrotizing Fasciitis, Respiratory failure,
+   sepsis
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3309-12-29**] 11:15 PM
+   Arterial Line - [**3309-12-30**] 01:00 AM
+   18 Gauge - [**3310-1-2**] 01:27 PM
+   14 Gauge - [**3310-1-3**] 10:54 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 20 min
+
+
+
+DOC CLASS

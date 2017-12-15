@@ -1,0 +1,177 @@
+Admission Date:  [**2641-2-6**]       Discharge Date:  [**2641-2-10**]
+
+Date of Birth:   [**2591-11-21**]       Sex:  F
+
+Service:  [**Company **] Medicine
+
+HISTORY OF PRESENT ILLNESS:  (Per admitting ICU house staff):
+[**First Name8 (NamePattern2) **] [**Known patient lastname **] is a 49-year-old woman with a past medical history
+significant for diabetes mellitus type 1 with triopathy, as
+well as history of DKA, end stage renal disease, CAD, and
+CABG, who presented with loose bowel movements and abdominal
+discomfort from her nursing home.  The patient was dialyzed
+on the Friday before presentation and reported that
+approximately 8 lbs had been dialyzed off of her.  The
+history from the patient was limited by her sleepiness
+(although she was arousable); the patient was responsive to
+questions when prompted repeatedly.  According to records,
+the patient had eaten a tuna [**Location (un) **] during her above noted
+dialysis session and had felt "bad" afterwards, with
+increased abdominal discomfort, loose stools.  The patient
+denied history of blood or mucus in her stools.  She also
+denied history of fevers, chills, cough, shortness of breath,
+chest pain.
+
+PAST MEDICAL HISTORY:  1) Diabetes mellitus type 1:
+Complicated by neuropathy, retinopathy, blindness; end stage
+renal disease.  2) End stage renal disease, status post
+failed renal transplant ([**2625**]); on hemodialysis three times a
+week; left AV fistula placed in [**2639-3-25**].  3) Coronary artery
+disease: Status post CABG ([**2631**]); status post MI in [**9-24**],
+status post cardiac catheterization in [**11-24**], which revealed
+three vessel disease, with patent LIMA to LAD.  4) Systolic
+dysfunction:  Echocardiogram in [**9-24**] revealed left
+ventricular ejection fraction of 20-30% with 3+ MR, 1+ TR,
+mild pulmonary hypertension, and global hypokinesis.  5) Left
+bundle branch block.  6) Squamous cell carcinoma.  7)
+Hepatitis C:  Diagnosed in [**2-22**].  8) MRSA bacteremia
+(attributed to fistula in [**9-24**]).  9) VRE in urine.  10)
+Acute on chronic cholecystitis diagnosed [**10-24**]; no
+cholecystectomy was performed.  11) Peripheral vascular
+disease, status post left femoral tibial bypass.  12)
+Hypercholesterolemia.
+
+ALLERGIES:  Demerol, ? IV Ciprofloxacin, ? Ambien (as of this
+current admission).
+
+MEDICATIONS:  Outpatient medications: Vicodin, Compazine,
+Neurontin, Insulin, Nepro, Prevacid, Celexa, Nephrocaps.
+
+SOCIAL HISTORY:  The patient is a disabled nurse.  She lives
+in a skilled nursing facility.  She denied any history of
+tobacco or alcohol use.
+
+HOSPITAL COURSE:  [**First Name8 (NamePattern2) **] [**Known patient lastname **] was admitted to the ICU from her
+skilled nursing facility on [**2641-2-6**] with diabetic
+ketoacidosis; also she subsequently ruled in for a non Q wave
+MI.
+
+To summarize, the patient presented with an approximate 24
+hour history of gastroenteritis which included diarrhea; the
+patient was somewhat somnolent though arousable on arrival.
+Her anion gap on presentation was 27 and subsequently closed
+to 25 and then 20 shortly after arrival.  The patient's
+troponin was 9.4 on arrival and rose to a peak of 13.8 before
+trending downward.  The patient's CKs were negative, although
+MB index was 12.7.  The patient's glucose was 699 on arrival.
+
+The patient was treated with IV fluid and an insulin drip,
+and subsequently her anion gap closed within approximately 24
+hours; thereafter, the patient's outpatient insulin regimen
+was resumed and her fingerstick blood sugars remained for the
+most part stable (although on occasion, the patient did
+refuse to take her insulin).  The patient was able to advance
+her diet without difficulty.
+
+Regarding the patient's non Q wave MI, the cardiology service
+was consulted.  Cardiology staff felt that the patient would
+benefit most from medical management; thus the patient was
+maintained on Aspirin and Lopressor.  For a brief period, the
+patient was on a Heparin drip which was subsequently
+discontinued once her enzymes were convincingly trending
+downward, and she remained without chest pain.  (It should be
+noted that the patient remained chest pain free during her
+hospitalization).
+
+The patient's ICU course was, for the most part, uneventful.
+She did exhibit some mild hypotension; and chest x-ray on
+[**2641-2-7**] at 2 p.m. revealed some new CHF as well as some small
+bilateral pleural effusions.  The patient was eventually felt
+to be somewhat fluid overloaded, and thus she had
+approximately 5 kg of fluid removed at dialysis on [**2641-2-10**],
+with much improvement and feeling bloated.
+
+Also of note, the patient was given Ambien on one evening, to
+help her sleep; the next morning the patient was somewhat
+confused on awakening and this was attributed to her having
+taken Ambien.
+
+On [**2641-2-8**] the patient was transferred from the ICU to the
+medicine floor.  Thereafter the patient's course remained
+fairly stable.  Her insulin regimen was maintained, although,
+as noted above, the patient did on occasion refuse to take
+her insulin.  It should also be noted that the patient had
+refused telemetry as well on transfer to the medicine floor.
+Ultimately, the patient did well with hemodialysis, and her
+fingersticks improved on the morning of discharge.
+
+Of note, the patient's potassium was somewhat elevated on
+[**2641-2-10**] (6.3 and then 5.6); patient's potassium will be
+checked at 1 p.m. on [**2-10**] prior to discharging her to skilled
+nursing facility.
+
+Also of note, on transfer to the medicine floor a urinalysis
+revealed that the patient did have significant number of
+white cells in her urine; thus patient was prescribed renal
+dose of Levofloxacin.
+
+CONDITION ON DISCHARGE:  Vital signs stable, afebrile, free
+of chest pain and shortness of breath, anxious to be
+discharged to her skilled nursing facility.
+
+DISCHARGE DIAGNOSIS:
+1.  Diabetic ketoacidosis.
+2.  Non Q wave myocardial infarction.
+3.  Diabetes mellitus type 1.
+4.  End stage renal disease on hemodialysis three times a
+week.
+5.  Coronary artery disease.
+6.  Hepatitis C.
+7.  Ejection fraction of 20-30%.
+8.  Left bundle branch block.
+9.  Urinary tract infection.
+
+DISCHARGE MEDICATIONS:  Levofloxacin 250 mg po q o day (next
+dose to be given on [**2641-2-12**]), times four more doses, Heparin
+5,000 units subcu [**Hospital1 **], Protonix 40 mg po q day, enteric
+coated Aspirin 325 mg po q day, Lopressor 25 mg po bid,
+Reglan 5 mg po before meals and q h.s., Pravachol 10 mg po q
+day, Percocet 1-2 tabs (5/325 mg strength) po q 6 hours prn,
+Benadryl 25 mg po q h.s. prn for insomnia, NPH insulin 10
+units subcu q a.m. and 4 units subcu q p.m., Regular insulin
+4 units subcu q a.m. and 2 units subcu q p.m.   Regular
+insulin sliding scale for qid fingersticks, as follows:  for
+fingerstick of 201-250 give 2 units regular insulin subcu,
+for fingerstick 251-300 given 4 units regular insulin subcu,
+for 301-350 given 6 units regular insulin subcu, for 351-400
+give 8 units regular insulin subcu, for greater than 400 give
+fingerstick less than 60, give [**Location (un) 596**] juice and/or one amp of
+D50, and notify M.D.
+
+DISCHARGE DIET:  The patient should be maintained on a renal
+diet, a well as [**First Name8 (NamePattern2) **] [**Doctor First Name **] and low sodium diet, also, it is
+important that the patient remain fluid restricted to one
+liter of fluid per day.
+
+FOLLOW-UP:  The patient is to continue follow-up at dialysis
+three times per week.  Also, the patient is to follow-up with
+her cardiologist, Dr. [**First Name8 (NamePattern2) 225**] [**Last Name (NamePattern1) 3666**], on [**2641-2-17**] at 9:20 a.m.
+Dr. [**Last Name (STitle) 3666**] may decide to adjust the patient's cardiac regimen
+further.  Also, ultimately, the patient may benefit from
+cardiac rehabilitation.
+
+
+
+
+                            DR.[**First Name (STitle) **],[**First Name3 (LF) **] 11-692
+
+Dictated By:[**Last Name (NamePattern1) 19894**]
+MEDQUIST36
+
+D:  [**2641-2-10**]  13:36
+T:  [**2641-2-10**]  13:45
+JOB#:  [**Job Number 22759**]
+
+
+
+DOC CLASS

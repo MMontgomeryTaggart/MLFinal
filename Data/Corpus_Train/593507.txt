@@ -1,0 +1,205 @@
+CVICU
+   HPI:
+   [**4-14**] POD 3
+   76M s/p CABG x4 (Lima->LAD/SVG->Diag/OM/PDA )/LAA resection-[**4-11**]
+   EF:45-50% Cr:1.5 Wt:220 lbs H: 5'8'' HgA1c: 6.6
+   PMH: MI 30y ago, remote tob, severe COPD, severe PVD, Afib HTN,
+   ^lipids, Obesity, Glaucoma, Cholelithiasis, right pericardial Cyst
+   (noted on CT [**3-16**]), skin CA x 2
+   Chief complaint:
+   PMHx:
+   Current medications:
+    Acetaminophen , Albuterol-Ipratropium , Albumin 5% (25g / 500mL) ,
+   Amiodarone , Aspirin , Calcium Gluconate , Calcium Chloride , Calcium
+   Chloride , Chlorhexidine Gluconate 0.12% Oral Rinse , Dextrose 50% ,
+   Docusate Sodium (Liquid) , Fentanyl Citrate , Furosemide,  Heparin ,
+   Insulin , Latanoprost 0.005% Ophth. Soln. , Magnesium Sulfate ,
+   Metoclopramide ,Milk of Magnesia , Midazolam , Milrinone , Pantoprazole
+   , Phenylephrine ,Pneumococcal Vac Polyvalent , Potassium Chloride ,
+   Simvastatin ,Sodium Chloride 0.9% Flush , Timolol Maleate 0.5% ,
+   Vasopressin
+   24 Hour Events:
+ CHEST TUBE REMOVED - At [**3133-4-13**] 08:30 AM
+ URINE CULTURE - At [**3133-4-13**] 01:04 PM
+   UA and culture sent
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3133-4-13**] 08:02 AM
+   Infusions:
+   Midazolam (Versed) - 1.5 mg/hour
+   Vasopressin - 2.4 units/hour
+   Amiodarone - 0.5 mg/min
+   Phenylephrine - 1 mcg/Kg/min
+   Milrinone - 0.25 mcg/Kg/min
+   Insulin - Regular - 4 units/hour
+   Fentanyl - 100 mcg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3133-4-13**] 09:54 PM
+   Heparin Sodium (Prophylaxis) - [**3133-4-14**] 03:59 AM
+   Furosemide (Lasix) - [**3133-4-14**] 03:59 AM
+   Other medications:
+   Flowsheet Data as of  [**3133-4-14**] 12:56 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**35**] a.m.
+   HR: 84 (82 - 103) bpm
+   BP: 118/60(75) {54/28(37) - 142/69(90)} mmHg
+   RR: 22 (18 - 22) insp/min
+   SPO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 113 kg (admission): 98.6 kg
+   Height: 68 Inch
+   CVP: 33 (18 - 33) mmHg
+   PAP: (64 mmHg) / (37 mmHg)
+   CO/CI (Fick): (5.2 L/min) / (2.5 L/min/m2)
+   CO/CI (CCO): (4.1 L/min) / (2 L/min/m2)
+   SvO2: 58%
+   Mixed Venous O2% sat: 56 - 56
+   Total In:
+                                                                  3,877 mL
+                                                                    917 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,411 mL
+                                                                    917 mL
+   Blood products:
+                                                                  1,346 mL
+   Total out:
+                                                                  1,457 mL
+                                                                  1,149 mL
+   Urine:
+                                                                    887 mL
+                                                                    899 mL
+   NG:
+                                                                    500 mL
+                                                                    250 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,420 mL
+                                                                   -232 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 22 cmH2O
+   FiO2: 70%
+   PIP: 44 cmH2O
+   Plateau: 38 cmH2O
+   SPO2: 97%
+   ABG: 7.42/32/95.[**Numeric Identifier 244**]/23/-2
+   Ve: 12.2 L/min
+   PaO2 / FiO2: 137
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: CTA bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Sedated
+   Labs / Radiology
+   90 K/uL
+   10.5 g/dL
+   87 mg/dL
+   1.5 mg/dL
+   23 mEq/L
+   4.2 mEq/L
+   25 mg/dL
+   100 mEq/L
+   131 mEq/L
+   30.0 %
+   11.4 K/uL
+        [image002.jpg]
+                             [**3133-4-13**]  11:15 AM
+                             [**3133-4-13**]  11:23 AM
+                             [**3133-4-13**]  06:40 PM
+                             [**3133-4-13**]  06:47 PM
+                             [**3133-4-13**]  08:51 PM
+                             [**3133-4-13**]  09:05 PM
+                             [**3133-4-14**]  02:34 AM
+                             [**3133-4-14**]  02:41 AM
+                             [**3133-4-14**]  04:55 AM
+                             [**3133-4-14**]  09:43 AM
+   WBC
+   15.4
+   10.8
+   11.4
+   Hct
+   30.4
+   27.3
+   29.7
+   30.0
+   Plt
+   117
+   84
+   90
+   Creatinine
+   1.4
+   1.5
+   TCO2
+   24
+   25
+   24
+   25
+   26
+   21
+   Glucose
+   75
+   87
+   Other labs: PT / PTT / INR:17.8/41.4/1.6, CK / CK-MB / Troponin
+   T:48/3/0.05, ALT / AST:22/41, Alk-Phos / T bili:51/2.2, Amylase /
+   Lipase:15/34, Differential-Neuts:71.5 %, Lymph:15.6 %, Mono:7.0 %,
+   Eos:5.5 %, Fibrinogen:301 mg/dL, Lactic Acid:1.0 mmol/L, Albumin:3.1
+   g/dL, LDH:269 IU/L, Ca:8.5 mg/dL, Mg:2.4 mg/dL, PO4:3.1 mg/dL
+   Microbiology: neg
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**]), CORONARY ARTERY BYPASS GRAFT
+   (CABG), CENTRAL SLEEP APNEA (CSA), .H/O MYOCARDIAL INFARCTION
+   Assessment and Plan: Pt. is slowly improving  as we are weaning Neo and
+   vasopressin.  TF started, will begin diuresis with a lasix drip.  Cont.
+   supportive care.
+   Neurologic:
+   Cardiovascular: Aspirin, Statins
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), Esophogeal balloon placed.
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding, TF started.
+   Renal: Foley, Lasix gtt started.
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: neg
+   Lines / Tubes / Drains: Foley, OGT, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3133-4-11**] 02:10 PM
+   CCO PAC - [**3133-4-11**] 02:10 PM
+   Trauma line - [**3133-4-11**] 02:10 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,177 @@
+Chief Complaint: Pnemonia, afib, hypoxemia, anemia, hypotension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Patient remains febrile. Was in afib throughout the day yesterday;
+   converted to sinus with diltiazem last night.
+   O2 sats acceptable on supplemental O2 at 5-6L/min.
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**3093-11-1**] 02:57 PM
+ BLOOD CULTURED - At [**3093-11-1**] 04:57 PM
+ FEVER - 102.1
+F - [**3093-11-1**] 05:00 PM
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3093-11-2**] 12:16 AM
+   Vancomycin - [**3093-11-2**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Diltiazem - [**3093-11-1**] 02:35 PM
+   Enoxaparin (Lovenox) - [**3093-11-1**] 08:06 PM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3093-11-2**] 11:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.9
+C (102.1
+   Tcurrent: 37
+C (98.6
+   HR: 96 (83 - 135) bpm
+   BP: 103/51(64) {70/27(38) - 114/58(69)} mmHg
+   RR: 19 (17 - 26) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                  1,846 mL
+                                                                    601 mL
+   PO:
+                                                                    120 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  1,726 mL
+                                                                    361 mL
+   Blood products:
+   Total out:
+                                                                  1,645 mL
+                                                                    575 mL
+   Urine:
+                                                                  1,645 mL
+                                                                    575 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    201 mL
+                                                                     26 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: Well nourished, No(t) No acute distress, No(t)
+   Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Endotracheal tube, No(t)
+   NG tube, No(t) OG tube
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: No(t) Systolic,
+   No(t) Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: Clear : Left lung, Crackles : Right base, No(t)
+   Bronchial: , No(t) Wheezes : , No(t) Diminished: , No(t) Absent : ,
+   No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , No(t) Obese
+   Extremities: Right: 2+ edema, Left: 2+, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): Person, place, time, Movement: Purposeful,
+   No(t) Sedated, No(t) Paralyzed, Tone: Normal
+   Labs / Radiology
+   8.9 g/dL
+   149 K/uL
+   90 mg/dL
+   0.6 mg/dL
+   24 mEq/L
+   3.4 mEq/L
+   16 mg/dL
+   104 mEq/L
+   134 mEq/L
+   25.6 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**3093-10-30**]  08:24 PM
+                             [**3093-10-31**]  03:25 AM
+                             [**3093-10-31**]  11:35 AM
+                             [**3093-10-31**]  11:34 PM
+                            [**3093-11-1**]  03:15 AM
+                            [**3093-11-2**]  05:31 AM
+   WBC
+   8.1
+   6.3
+   7.1
+   10.0
+   Hct
+   25.6
+   24.2
+   22.9
+   25.2
+   25.6
+   25.6
+   Plt
+   99
+   85
+   123
+   149
+   Cr
+   0.7
+   0.6
+   0.6
+   Glucose
+   123
+   108
+   90
+   Other labs: PT / PTT / INR:16.1/69.5/1.4, Ca++:7.9 mg/dL, Mg++:1.7
+   mg/dL, PO4:1.7 mg/dL
+   Imaging: CXR: progressive infiltrate throughout right lung.
+   Microbiology: BAL: negative for PCP. [**Name10 (NameIs) 6872**] remain negative.
+   Assessment and Plan
+ ATRIAL FIBRILLATION (AFIB)
+ HYPOTENSION (NOT SHOCK)
+ PNEUMONIA, OTHER
+   ANEMIA
+   AFIB
+   Patient continues to be febrile, with gradually worsening infiltrate in
+   right lung. BAL still not showing any specific pathogen. Consider RSV
+   swab; if negative, assess for VATS. Continues on antibiotics. Will
+   ambulate to chair. Patient is getting weaker and not eating welll on
+   low bacteria diet. Will normalize diet.
+   Hct stable. No evidence of bleeding. Not at transfusion threshold.
+   AFib converted to NSR. Maintain on oral diltiazem.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3093-10-30**] 08:00 PM
+   20 Gauge - [**3093-11-1**] 10:00 PM
+   Prophylaxis:
+   DVT: LMW Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments: Not applicable.
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

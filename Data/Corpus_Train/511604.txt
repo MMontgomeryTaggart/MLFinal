@@ -1,0 +1,136 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3308-9-12**] 11:00 PM
+ BLOOD CULTURED - At [**3308-9-13**] 06:26 AM
+ URINE CULTURE positive for blood and protein- At [**3308-9-13**] 06:26 AM
+   O/N comatose with hyperreflexia, poor pupilary responses, and positive
+   babinsky reflex
+   Improved blood sugars but no major clinical improvement
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3308-9-13**] 12:01 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3308-9-13**] 07:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 68 (54 - 68) bpm
+   BP: 118/60(74) {103/55(69) - 130/73(87)} mmHg
+   RR: 14 (14 - 15) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75 kg (admission): 75 kg
+             Total In:
+                                                                     24 mL
+                                                                     51 mL
+   PO:
+             TF:
+   IVF:
+                                                                     24 mL
+                                                                     51 mL
+   Blood products:
+   Total out:
+                                                                    540 mL
+                                                                    280 mL
+   Urine:
+                                                                     40 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -516 mL
+                                                                   -229 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 500 (455 - 500) mL
+   RR (Set): 14
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 16 cmH2O
+   Plateau: 13 cmH2O
+   SpO2: 100%
+   ABG: 7.35/45/236/25/0
+   Ve: 6 L/min
+   PaO2 / FiO2: 590
+   Physical Examination
+   GEN Intubated and unresponsive
+   HEENT: Dolls eyes. MMM, sluggish pupilary responses
+   CV: RRR S1S2 NL, no S3S4 MRG or JVD
+   PULM: CTAB
+   ABD: BS+ NTND no masses or HSM
+   NEURO: Unresponsive. Hyperreflexia. Positive Babinsky. Poor pupilary
+   responses. No frontal release signs ([**Doctor Last Name 4221**], Tremner, [**Last Name (un) 4222**]-mental)
+   Labs / Radiology
+   188 K/uL
+   7.8 g/dL
+   261 mg/dL
+   5.5 mg/dL
+   25 mEq/L
+   5.0 mEq/L
+   84 mg/dL
+   104 mEq/L
+   140 mEq/L
+   23.1 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**3308-9-12**]  11:57 PM
+                             [**3308-9-13**]  12:11 AM
+                             [**3308-9-13**]  05:28 AM
+   WBC
+   7.3
+   6.9
+   Hct
+   27.2
+   23.1
+   Plt
+   208
+   188
+   Cr
+   5.2
+   5.5
+   TropT
+   0.06
+   0.07
+   TCO2
+   26
+   Glucose
+   187
+   261
+   Other labs: PT / PTT / INR:12.7/28.0/1.1, CK / CKMB /
+   Troponin-T:278/5/0.07, ALT / AST:34/26, Alk Phos / T Bili:79/0.3,
+   Amylase / Lipase:105/31, Differential-Neuts:78.9 %, Lymph:14.6 %,
+   Mono:4.7 %, Eos:1.3 %, Lactic Acid:0.9 mmol/L, Albumin:3.8 g/dL,
+   LDH:292 IU/L, Ca++:8.7 mg/dL, Mg++:2.3 mg/dL, PO4:5.3 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3308-9-12**] 11:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

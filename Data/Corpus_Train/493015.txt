@@ -1,0 +1,197 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ Dopamine turned off yesterday evening, maintained adequate MAPs.
+   Allergies:
+   Bactrim (Oral) (Sulfamethoxazole/Trimethoprim)
+   Congestive Hear
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3196-2-12**] 12:25 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3196-2-11**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3196-2-12**] 06:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**97**] AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 37.2
+C (99
+   HR: 80 (72 - 112) bpm
+   BP: 130/51(73) {93/40(57) - 167/72(100)} mmHg
+   RR: 20 (13 - 21) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,618 mL
+                                                                  1,552 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,618 mL
+                                                                  1,552 mL
+   Blood products:
+   Total out:
+                                                                    860 mL
+                                                                    315 mL
+   Urine:
+                                                                    775 mL
+                                                                    315 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,758 mL
+                                                                  1,237 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///17/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   254 K/uL
+   9.6 g/dL
+   92 mg/dL
+   4.0 mg/dL
+   17 mEq/L
+   3.9 mEq/L
+   52 mg/dL
+   101 mEq/L
+   129 mEq/L
+   28.2 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**3196-2-11**]  03:30 AM
+                             [**3196-2-11**]  05:42 PM
+                             [**3196-2-12**]  03:36 AM
+   WBC
+   13.6
+   10.2
+   Hct
+   34.1
+   28.2
+   Plt
+   273
+   254
+   Cr
+   3.5
+   3.7
+   4.0
+   Glucose
+   169
+   119
+   92
+   Other labs: PT / PTT / INR:11.3/26.9/0.9, CK / CKMB / Troponin-T:81//,
+   Ca++:6.8 mg/dL, Mg++:2.2 mg/dL, PO4:5.4 mg/dL
+   Micro Data: [**3196-2-9**] Blood cultures 4/4 bottles:
+                                STAPH AUREUS COAG +
+                                |
+   CLINDAMYCIN-----------<=0.25 S
+   ERYTHROMYCIN----------<=0.25 S
+   GENTAMICIN------------ <=0.5 S
+   LEVOFLOXACIN----------  0.25 S
+   OXACILLIN-------------   0.5 S
+   TRIMETHOPRIM/SULFA---- <=0.5 S
+   [**3196-2-10**]
+pending blood cx; [**3196-2-11**] pending blood cx, 3/710 pending urine
+   cx
+   Studies:
+   Renal Ultrasound ([**2-11**]): prelim--no evidence of hydronephrosis
+   Assessment and Plan
+   Assessment and Plan: 49 year old F with hx of CAD, DM, HTN presented
+   with left lower extremity pain and erythma secondary to acute charcot
+   foot with overlying cellulitis admitted to MICU with hypotension and
+   oliguria, found to have 4/4 bottles positive for GPCs later speciated
+   as MSSA.
+   # Hypotension and oliguria--secondary to MSSA bacteremia with SIRS-like
+   picture. Patient remained on dopamine yesterday which was d/ce'ed last
+   night with appropriate BP range (MAP >65). UOP overnight 45-60cc/hour
+   and adequate. Received 4L NS boluses since yesterday AM
+   - Continue aggressive volume resuscitation, monitor MAP closely, goal
+   UOP 50cc/hr.
+   - Treat bacteremia as below
+   - Consider ECHO tomorrow if hypotension does not respond to fluids for
+   work-up of cardiogenic shock
+   # Bacteremia: MSSA + 4/4 bottles. Most likely source is skin infection.
+   No murmur on exam to suggest endocarditis.
+   - On zosyn (vanc held yesterday in setting of elevated vanc level and
+   renal failure). [**Month (only) 56**] transition to nafcillin today.
+   - Check vancomycin level this AM
+   - Order ECHO to eval for vegatations
+   - Order Picc line
+   - Continue to check daily surveillance cultures, follow
+   # Ischemic ATN--Creatinine 3.7 <-- 3.6. CK 81, Renal ultrasound
+   preliminary read negative for hydronephrosis
+   - Contine [**Hospital1 **] lytes
+   - Renally dose medications (vancomycin)
+   - F/u final read of renal ultrasound
+   - Continue aggressive volume support as above
+   - Holding home [**Last Name (un) 223**], lasix
+   - Appreciate renal recs.
+   # Left leg acute charcot foot: Differential acute charcot foot versus
+   osteomyelitis. Vascular and podiatry following. Podiatry unconcerned
+   with osteomyelitis at this time and feel acute charcot foot.
+   - Leg elevation and non-weight bearing.
+   - Dry stale dressing with ACE wraps and betadine paint to blister, per
+   podiatry recs
+   - Antibiotic management as above
+   - Follow daily blood cultures
+   - Continued glycemic  control
+   - Follow-up any new podiatry/vascular recs
+   - Pain control tylenol and oxycodone
+   - [**Month (only) 56**] require PT when more stable.
+   # Right upper weakness: Developed abruptly overnight on [**2-10**] and awoke
+   her from sleep. MRI negative for acute stroke or septic emoboli. No
+   other focal neurological deficits. Neuro believes upper
+   brachial plexus/nerve root lesion (C5-C8) with clinical improvement.
+   - Check thiamine level today
+   - When stable, will get PT/OT consult
+   - Defer any further imaging unless clinical condition worsens
+   - Appreciate continued neuro recs.
+   #Hyponatremia: Most likely hypovolemic hyponatremia
+   - NS volume resuscitation as above
+   - [**Hospital1 **] lytes to ensure not correcting Na too rapidly
+   #DM: Finger stick range yesterday 169, 197, 136; adequately controlled.
+   -Continue insulin sliding scale
+   -Increase sliding scale or consider insulin drip if poorly controlled
+   #Hypertension: BPs have been low in setting of SIRS-like picture.
+   -holding [**Last Name (un) 223**], Lasix, metoprolol
+   #CAD: No complaints of chest pain or SOB, no concerning EKG changes on
+   admission EKG.
+   -Continue ASA, plavix and statin
+   -Continue to monitor on telemetry
+   # Dyslipidemia: Atorvastatin 80 mg PO/NG HS
+   # CHF: Last ECHO EF >55% on [**3194-4-7**]. No clinical signs of acute CHF on
+   exam or by history.
+   - Hold Imdur, Lasix in setting of hypotension.
+   - Monitor respiratory status closely with aggressive fluid
+   resuscitation
+   - TTE tomorrow
+   # Anemia: Currently at baseline 31. Hemoconcentration on admission.
+   - Trend
+   - Active T&S
+   # FEN: IVF, replete electrolytes, diabetic diet
+   - F/u ionized Ca (Calcium low at 7.1 yesterday PM)
+   # Prophylaxis: Subcutaneous heparin
+   # Access: peripherals x 2, radial arterial line, order PICC line for
+   long term IV ABx
+   # Code: Full Code
+   # Communication: Patient and family
+   # Dispo: to floor if maintained stable UOP and blood pressures.
+
+
+
+DOC CLASS

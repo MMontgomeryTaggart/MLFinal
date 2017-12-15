@@ -1,0 +1,382 @@
+Chief Complaint:  UGIB
+   HPI:
+   This is a 70 year-old male with a history ofIDDM, PVD s/p L BKA, h/o of
+   TIA, CAD s/p stent in [**2553**], s/p PPM for asystole, HTN, HLD, neurogenic
+   bladder with self catherization, peripheral neuropathy initially
+   presented to [**Hospital1 17**] with urospesis and c/b stroke and coffee ground
+   emesis.
+   .
+   Please see admission note for full details. Briefly, the patient
+   resides at a nursing for the last year after right hip fracture.  He
+   was scheduled catheterization for neurogenic bladder at baseline.  He
+   reportly had r eye pain w/ discharge, + coffee ground emesis and fevers
+   to 102, a foley placed that returned "puss" and was given CTX 1g x2 and
+   transferred to the [**Hospital1 17**] ED.  In the ED he was guaiac negative,
+   delirious (AAOx2) and combative. A CT a/p was negative for an acute
+   process.  Hct was 37.8 and 11.0. On the floor the patient continued to
+   have nausea and vomiting. Then at 5:35pm the patient's wife noticed
+   that he had new onset of L-sided neglect and L facial weakness. A code
+   stroke was called and CT-head did not show any acute process.  He was
+   evaluated by neurology and neuro exam improved.  They were concerned of
+   an embolic event given his frequent episodes of TIA.  They recommended
+   starting plavix and remaining on the medicine service.
+   .
+   The patient triggered twice in 1 hour for coffee ground emesis, fevers
+   to 101.4 and SBP >200 and nursing concern.  CE negative x3. Antibiotics
+   were changed from po cipro back to IV CTX, IV PPI was started and
+   transferred to the ICU for closer management.
+   .
+   On arrive the patient was AAOx3. He had complaints of nausea. He denied
+   NSAID use, h/o GI bleed or varices.  An NG-tube was placed lavaged with
+   1L that was initially coffee ground that cleared after 800cc. Patient's
+   Hct was 32.2 (32.8 at 6pm, but 37.8 on admission).
+   Home Medications (per d/c summary [**8-/2565**])
+   1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+   PO DAILY (Daily).
+   2. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+   3. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+   Tablet PO DAILY (Daily).
+   4. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1) PO
+   DAILY (Daily).
+   5. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+   (Daily).
+   6. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO DAILY
+   (Daily).
+   7. Multivitamin Tablet Sig: One (1) Tablet PO DAILY (Daily).
+   8. Fludrocortisone 0.1 mg Tablet Sig: Two (2) Tablet PO BID (2
+   times a day).
+   9. Amylase-Lipase-Protease 60,000-12,000- 38,000 unit Capsule,
+   Delayed Release(E.C.) Sig: Two (2) Cap PO TID W/MEALS (3 TIMES A
+   DAY WITH MEALS).
+   10. Simvastatin 10 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+   11. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO Q SUNDAY
+   ().
+   12. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO MON THRU
+   SAT ().
+   13. Calcium Carbonate 500 mg (1,250 mg) Tablet Sig: One (1)
+   Tablet PO BID (2 times a day): Per P&T Committee, please d/c
+   Oscal. Change to its components, calcium carbonate 1250mg +
+   vitamin D 200IU. .
+   14. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic PRN
+   (as needed) as needed for dry eyes.
+   15. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: 0.5 Tablet
+   PO BID (2 times a day): Per P&T Committee, please d/c Oscal.
+   Change to its components, calcium carbonate 1250mg + vitamin D
+   200IU. .
+   16. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+   (2 times a day).
+   17. Fondaparinux 2.5 mg/0.5 mL Syringe Sig: One (1)
+   Subcutaneous DAILY (Daily).
+   18. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H
+   (every 8 hours): RIGHT EYE Q8H .
+   19. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+   Q6H (every 6 hours) as needed for pain.
+   20. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+   Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+   constipation.
+   21. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+   ML PO PRN (as needed) as needed for constipation.
+   22. Trazodone 50 mg Tablet Sig: 0.75 Tablet PO HS (at bedtime)
+   as needed for insominia.
+   23. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+   hours) as needed for pain: Max 4gm acetaminophen per day.
+   24. Regular Insulin Sliding Scale
+   Breakfast Lunch Dinner Bedtime
+   Regular
+   Glucose Insulin Dose
+   0-50 mg/dL 4 oz. Juice
+   51-150 mg/dL 0 Units
+   151-200 mg/dL 2 Units 2 Units 2 Units 2 Units
+   201-250 mg/dL 4 Units 4 Units 4 Units 4 Units
+   251-300 mg/dL 6 Units 6 Units 6 Units 6 Units
+   301-350 mg/dL 8 Units 8 Units 8 Units 8 Units
+   351-400 mg/dL 10 Units 10 Units 10 Units 10 Units
+   > 400 mg/dL Notify M.D. Notify M.D. Notify M.D. Notify M.D.
+   25. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: 17
+   units Subcutaneous once a day.
+   26. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every four (4)
+   hours: prn.
+   Allergies:
+   Iodine; Iodine Containing
+   Nausea/Vomiting
+   Bactrim (Intraven.) (Sulfamethoxazole/Trimethoprim)
+   Abdominal pain;
+   Beta-Adrenergic Blocking Agents
+   Hypotension; Li
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   .
+   Transfer Medications:
+   Insulin Sliding Scale
+   Levothyroxine Sodium 200 mcg PO/NG DAILY
+   Levothyroxine Sodium 100 mcg PO/NG QSUN
+   Acetaminophen 325-650 mg PO/PR Q6H:PRN fever, headache
+   Metoclopramide 10 mg IV Q6H:PRN nausea
+   Bisacodyl 10 mg PO/PR DAILY:PRN constipation
+   Multivitamins 1 TAB PO/NG DAILY
+   Brimonidine Tartrate 0.15% Ophth. 1 DROP RIGHT EYE Q8H
+   Ondansetron 4 mg IV Q8H:PRN nausea
+   CeftriaXONE 1 gm IV Q24H
+   Pantoprazole 40 mg IV Q12H
+   Creon 12 2 CAP PO TID W/MEALS
+   Simvastatin 5 mg PO/NG QHS
+   Docusate Sodium 100 mg PO BID
+   Vitamin D 400 UNIT PO/NG DAILY
+   HydrALAzine 5 mg IV Q6H to maintain SBP between 140-170
+   Past medical history:
+   Family history:
+   Social History:
+   -Diabetes, last A1c 6.8
+   -PVD s/p bypass and amputations w/ L-bka [**8-/2565**]
+   -CAD s/p  proximal and mid-RCA stent in [**2553**] (prior PMH states pt had
+   CABG, but unclear if patient actually had surgery)
+   -s/p pacemaker placement for asystole x 18seconds ([**2553**])
+   -hypertension
+   -presumed TIA with nonfluent aphasia 5 yrs ago
+   -Episode of slurred speech with facial droop several months ago
+   -hyperlipidemia
+   -hypothyroidism
+   -HIT
+   -neurogenic bladder, self catheterizes
+   -peripheral neuropathy
+   -gastroparesis
+   -diabetic retinopathy
+   -syncope
+   -colonic polyps and mild diverticulosis
+   Father had MI. No strokes
+   Occupation: retired CPA
+   Drugs: denied
+   Tobacco: quit 10 years ago
+   Alcohol: 1 drink/day
+   Other:
+   Review of systems:
+   The patient denies any chills, weight change, abdominal pain, diarrhea,
+   constipation, melena, hematochezia, chest pain, shortness of breath,
+   orthopnea, PND, lower extremity edema, cough, rash or skin changes.
+   Flowsheet Data as of [**2565-11-16**] 02:57 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 39
+C (102.2
+   HR: 82 (77 - 82) bpm
+   BP: 143/55(77) {143/55(77) - 160/70(91)} mmHg
+   RR: 24 (14 - 27) insp/min
+   SpO2: 96%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Height: 68 Inch
+             Total In:
+             264 mL
+   PO:
+             TF:
+   IVF:
+   264 mL
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                     60 mL
+   Urine:
+                                                                    150 mL
+                                                                     60 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -150 mL
+                                                                    204 mL
+   Respiratory
+   SpO2: 96%
+   ABG: ///32/
+   Physical Examination
+   Vitals: T:102.2 BP:160/70 HR:78 RR:15 O2Sat: 100% 2L
+   GEN: chronically ill appearing, no acute distress, mildly confused and
+   slightly combative
+   HEENT: pupils 3mm on left, reactive to light. r cornea is clouded and
+   2mm and minimally reactive. pt would not cooperate with EOM.
+   anicteric, no epistaxis or rhinorrhea, dry MM
+   NECK: No JVD, lymphadenopathy, trachea midline
+   COR: RRR, no M/G/R, normal S1 S2
+   PULM: Lungs CTAB, no W/R/R
+   ABD: Soft, NT, ND, +BS, no HSM, no masses
+   EXT: No C/C/E, No edema or calf pain, L-Bka - wound clean/dry/intact
+   NEURO: alert, oriented to person, place, but thought it was [**2555**]. Pt
+   with right ptosis, otherwise CN intake and non-focal. Moves all 4
+   extremities. Strength 5/5 in upper and lower extremities, but limited
+   cooperation.
+   SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+   Labs / Radiology
+   154 K/uL
+   10.8 g/dL
+   135 mg/dL
+   1.2 mg/dL
+   30 mg/dL
+   32 mEq/L
+   95 mEq/L
+   3.0 mEq/L
+   137 mEq/L
+   32.2 %
+   11.2 K/uL
+        [image002.jpg]
+                                  [**2561-12-14**]
+                          2:33 A12/4/[**2564**]  11:59 PM
+                                  [**2561-12-18**]
+                                   10:20 P
+                                  [**2561-12-19**]
+                                   1:20 P
+                                  [**2561-12-20**]
+                                   11:50 P
+                                  [**2561-12-21**]
+                                   1:20 A
+                                  [**2561-12-22**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2562-1-14**]
+                                   1:20 P
+                                  [**2562-1-14**]
+                                   11:20 P
+                                  [**2562-1-14**]
+                                   4:20 P
+   WBC
+                                    11.2
+   Hct
+                                    32.2
+   Plt
+                                     154
+   Cr
+                                     1.2
+   Glucose
+                                     135
+   Other labs: ALT / AST:[**8-3**], Alk Phos / T Bili:71/0.3, Albumin:3.7 g/dL,
+   LDH:253 IU/L, Ca++:8.2 mg/dL, Mg++:1.8 mg/dL, PO4:2.2 mg/dL
+   ECG:  v-paced at a rate of 62, with ST elevation in v3, twi in v4-v6,
+   and unchanged from [**2565-11-14**], but changed compared to [**2565-8-28**].
+   .
+   Imaging:
+   CT-head: no intracranial hemorrhage or edema. MRI is more sensitive for
+   the detection of acute infarct.
+   .
+   CXR: no acute process
+   .
+   CT A/P: No acute intra-abdominal/pelvic process. Large fecal load in
+   the rectal vault.
+   .
+   EGD [**12/2563**]
+   Findings: Esophagus: Normal esophagus.
+   Stomach: Contents: Semi solid was found in the stomach body.
+   Duodenum: Normal duodenum.
+   .
+   Impression: Food in the stomach body
+   (biopsy)
+   Otherwise normal EGD to third part of the duodenum
+   .
+   Colonoscopy [**6-/2565**]
+   Impression: Polyp in the sigmoid colon (polypectomy)
+   Diverticulosis of the sigmoid colon
+   Otherwise normal colonoscopy to cecum
+   Assessment and Plan
+   This is a 70 year-old male with a history ofIDDM, PVD s/p L BKA, h/o of
+   TIA, CAD s/p stent in [**2553**], s/p PPM for asystole, HTN, HLD, neurogenic
+   bladder with self catherization, peripheral neuropathy initially
+   presented to [**Hospital1 17**] with urospesis and c/b stroke and coffee ground
+   emesis.
+   .
+   Plan:
+   #. UGIB: Pt with multiple episodes of coffee ground emesis. Pt has had
+   nausea and episodes of vomiting intermittently prior to and during
+   admission. No h/o NSAID or prior UGIB. Pt with prior EGD [**12/2563**] that
+   was negative. Pt with coffee ground with lavage that cleared after
+   800cc. Likely [**Doctor First Name 230**]-[**Last Name (un) **] tear in the setting of multiple episodes of
+   vomiting.  Also on the differential include PUD and less likely
+   malignancy, varices or AVM.  Hct has trended down from 37 to 32, but
+   stable over the last 6 hrs.
+   - IV PPI
+   - 2 large bore IV
+   - T&X 2 Units
+   - q8 Hct checks
+   - monitor hemodynamcis
+   - NPO
+   - GI consult in AM for EGD
+   - zofran prn
+   - guaiac stools
+   - Fe studies
+   .
+   #. Stroke: Pt with acute onset of left sided neglect, left facial
+   weakness that is resolving. Evaluated by neurology and lesion likely
+   localizes to the right parietal lobe. CT-head negative. Unable to
+   obtain MRI given PPM.
+   - repeat CT head  in AM
+   - holding Plavix for now given UGIB
+   - fasting lipid profile and HgbA1C
+   - TTE to r/o any new embolic source
+   - telemetry
+   - allow BP to autoregulate SBP <180
+   - Gentle hydration with isotonic fluids
+   - Keep HOB < 30 degrees to maximize cerebral perfusion
+   - neuro checks q2
+   - f/u neuro recs
+   .
+   #. Pyleo: Pt with + UA and h/o UTI. Pt with recurrent fever and mild
+   leukocytosis. Pt previously grown acinetobaceter and pseudomonas that
+   was pansensitive. No evidence of pneumonia or intraabdominal infection
+   currently.
+   - cont IV Ceftriaxone
+   - f/u Urine culture and sensi
+   - obtain blood culture
+   - trend fever curve and leukocytosis
+   - tylenol prn
+   .
+   #. CAD: Pt with compliants of nausea/vomiting. Likely [**1-14**] to pyelo, but
+   could be anginal equivalent. Although CE neg x3. Pt with unchanged ECG
+   from admission, but ST changes when compared to prior, although
+   difficult given v-pacing.
+   - ECG in AM
+   - recheck CE in AM
+   - holding ASA and plavix given GI bleed
+   - increase simvastatin to 80mg
+   .
+   #. Diabetes/Hyperglycemia:
+   - QACHS FS and ISS
+   - 17U NPH per home regimen, but will decrease by [**12-14**] when NPO
+   - check a1c
+   .
+   #. BKA: wound clean and will continue routine care
+   .
+   #. HL: will add on fasting lipids and will increase simvastatin to
+   80mg.
+   .
+   FEN: IVF, NPO
+   .
+   # Access: 2 PIV
+   .
+   # PPx: no heparin given HIT and GI bleed. pneumoboots
+   .
+   # Code: FULL code (discussed with wife)
+   .
+   # Dispo: ICU for now pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2565-11-15**] 11:39 PM
+   18 Gauge - [**2565-11-15**] 11:50 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

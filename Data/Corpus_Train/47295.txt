@@ -1,0 +1,326 @@
+Admission Date:  [**3140-2-5**]              Discharge Date:   [**3140-2-22**]
+
+Date of Birth:  [**3085-7-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+lightheadedness, chest discomfort
+
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting (CABGx3)[**2-7**]
+
+History of Present Illness:
+54 yoM w/ a h/o CAD s/p stent->LAD in [**3130**], htn, hyperlipidemia,
+and strong family history of CAD who p/w 48 hours of
+lightheadedness and chest discomfort.  Given these symptoms, his
+wife brought him to [**Name (NI) 1392**] [**Name (NI) **].  At [**Name (NI) 1392**], ECG showed TW
+inversions in ant leads and bradycardia in the 40s.  Cardiac
+enzyme were elevated w/ trop 0.29, CK 725, MB 71. Transfer was
+arranged to [**Hospital1 4**] for potential cath.
+
+
+Past Medical History:
+Dyslipidemia, Hypertension, Percutaneous coronary intervention,
+in [**3130**] w/ stent to LAD at [**Hospital6 **].
+
+Social History:
+Denies any tobacco, EtOH or illicit drug use.  Works as a nurse
+for an insurance company for the last year.
+
+Family History:
+His father and brother both died of MIs at age 48.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+VS: T 97.3, BP 100/57, HR 60, RR 25, O2 95% on 2LNC
+Gen: middle aged male in NAD. Oriented x3.
+HEENT: Sclera anicteric. PERRL, EOMI.  no pallor or cyanosis of
+the oral mucosa.
+Neck: Supple no JVd
+CV:  RR, normal S1, S2. No S4, no S3.
+Chest:CTA
+Abd: +BS, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. No femoral bruits.
+Pulses:  Right: Carotid 2+ without bruit; Femoral 2+ without
+bruit; 2+ DP
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Discharge
+VST 99  HR 84  BP 124/70  RR 20  02sat 94%RA
+Gen NAD
+Neuro A&Ox3, nonfocal exam
+CV RRR no M/R/G
+Pulm CTA-bilat
+Abdm soft, NT/+BS
+Ext warm palpable pulses. Trace edema-bilat
+
+Pertinent Results:
+ADMISSION LABS:
+[**3140-2-5**] 08:35PM BLOOD WBC-10.2 RBC-4.44* Hgb-14.6 Hct-41.5
+MCV-93 MCH-32.8* MCHC-35.1* RDW-13.0 Plt Ct-227
+[**3140-2-5**] 08:35PM BLOOD Neuts-76.2* Lymphs-17.1* Monos-5.6
+Eos-0.7 Baso-0.4
+[**3140-2-5**] 08:35PM BLOOD PT-14.3* PTT-137.7* INR(PT)-1.2*
+[**3140-2-5**] 08:35PM BLOOD Plt Ct-227
+[**3140-2-5**] 08:35PM BLOOD Glucose-109* UreaN-15 Creat-1.0 Na-143
+K-5.0 Cl-110* HCO3-22 AnGap-16
+[**3140-2-5**] 08:35PM BLOOD CK(CPK)-1145*
+[**3140-2-5**] 08:35PM BLOOD CK-MB-147* MB Indx-12.8*
+[**3140-2-5**] 08:35PM BLOOD cTropnT-0.84*
+[**3140-2-6**] 03:54AM BLOOD Calcium-7.2* Phos-3.9 Mg-1.7 Cholest-92
+[**3140-2-6**] 03:54AM BLOOD Triglyc-48 HDL-31 CHOL/HD-3.0 LDLcalc-51
+[**3140-2-6**] 09:35AM BLOOD Type-ART pO2-80* pCO2-30* pH-7.46*
+calTCO2-22 Base XS-0 Intubat-NOT INTUBA Comment-NASAL [**Last Name (un) **]
+
+CXR: No acute cardiopulmonary process
+
+[**3140-2-6**] TTE:
+The left ventricular cavity is mildly dilated. LV systolic
+function appears depressed with inferior, inferolateral and
+apical hypokinesis/?akinesis (however views suboptimal;
+estimated ejection fraction ?35-40). Right ventricular chamber
+size is normal. with normal free wall contractility. The aortic
+valve leaflets are mildly thickened. The aortic valve is not
+well seen. There is no aortic valve stenosis. No aortic
+regurgitation is seen. No mitral regurgitation is seen. There is
+no pericardial effusion.
+
+[**3140-2-6**] Cardiac Catheterization:
+1.  Coronary angiography of this right dominant system revealed
+3 vessel
+coronary artery disease.  The LMCA had a 60% distal ulcerated
+lesion.
+The LAD had a widely patent previously placed stent.  The origin
+of the
+LCx had an 80% stenosis.  The proximal RCA was 90% stenosed,
+with a 100%
+distal RCA occlusion and left to right collaterals.
+2.  Resting hemodynamics revealed elevated right and left sided
+filling
+pressures, with RVEDP and LVEDP of 20 and 27 mm Hg,
+respectively.  Mean
+PCWP was elevated at 19 mm Hg.  Systemic arterial pressures were
+low
+with aortic systolic pressure of 92 mm Hg and mean arterial
+pressure of
+64 mm Hg.  Cardiac index was 3.07 l/min/m2.
+3.  Left ventriculography revealed no mitral regurgitation and a
+large
+area of anteroapical and inferoapical dyskinesis.  Estimated
+left ventricular ejection fraction was 35%.
+4.  40 cc IABP was placed in the setting of extensive myocardial
+infarction, hypotension, and impending CABG.
+
+RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**3140-2-18**] 1:30 PM
+CHEST (PORTABLE AP)
+Reason: ?pneumonia
+UNDERLYING MEDICAL CONDITION:
+54 year old man with altered mental status, wbc 14.4 (?
+infiltrate)
+REASON FOR THIS EXAMINATION:
+?pneumonia
+SINGLE AP PORTABLE VIEW OF THE CHEST
+REASON FOR EXAM: Elevated white blood count and altered mental
+status.
+Comparison is made with prior study [**3140-2-13**].
+Mild cardiomegaly is accentuated by low lung volumes, unchanged
+from prior study. The patient has been extubated. There is no
+pneumothorax. The right lung is clear. There is a small left
+pleural effusion. Ill-defined opacity in the left base is
+persistent, could be atelectasis or pneumonia. Patient is post
+median sternotomy and CABG.
+DR. [**First Name (STitle) 512**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 513**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2815**]
+
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+MC [**Last Name (LF) **], [**Known patient firstname **]       [**Hospital1 4**] [**Numeric Identifier 31263**]       TEE
+(Complete) Done [**3140-2-7**] at 12:08:58 PM      FINAL
+Referring Physician     [**Name9 (PRE) 406**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 407**]
+[**Location (un) 100**], [**Numeric Identifier 112**]  Status: Inpatient DOB: [**3085-7-20**]
+Age (years): 54 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Intraoperative TEE for CABG with IABP
+ICD-9 Codes: 410.92, 440.0, 424.0, 424.2
+Test Information
+Date/Time: [**3140-2-7**] at 12:08    Interpret MD: [**First Name4 (NamePattern1) 408**] [**Last Name (NamePattern1) 409**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 410**]: [**Name Initial (MD) **] [**Name8 (MD) 409**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008AW4-: Machine: B-[**Numeric Identifier 31264**]
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Diastolic Dimension:  5.0 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Sinotubular Ridge:  3.0 cm  <= 3.0 cm
+Aorta - Ascending:  3.2 cm  <= 3.4 cm
+Aortic Valve - LVOT diam:  2.4 cm
+Findings
+LEFT ATRIUM: No spontaneous echo contrast or thrombus in the
+LA/LAA or the RA/RAA. All four pulmonary veins identified and
+enter the left atrium.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV cavity size. Mild-moderate
+regional LV systolic dysfunction. Moderately depressed LVEF.
+RIGHT VENTRICLE: Focal apical hypokinesis of RV free wall.
+AORTA: Focal calcifications in aortic root. Normal ascending
+aorta diameter. Focal calcifications in ascending aorta. Simple
+atheroma in aortic arch. Simple atheroma in descending aorta.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Normal mitral valve leaflets. Mild (1+) MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+Physiologic (normal) PR.
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. Suboptimal image
+quality. The patient appears to be in sinus rhythm. Results were
+Conclusions
+PRE CPB No spontaneous echo contrast or thrombus is seen in the
+body of the left atrium/left atrial appendage or the body of the
+right atrium/right atrial appendage. No atrial septal defect is
+seen by 2D or color Doppler. The left ventricular cavity size is
+normal. There is mild to moderate regional left ventricular
+systolic dysfunction with apical severe hypokinesis/akinesis. No
+apical thrombus is seen. Overall left ventricular systolic
+function is mildly to moderately depressed (LVEF= 40 %). The
+right ventricle displays normal mid and basal function with mild
+to moderate focal hypokinesis of the apical free wall. There are
+simple atheroma in the aortic arch. There are simple atheroma in
+the descending thoracic aorta. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis. No aortic regurgitation is seen. The mitral
+valve leaflets are structurally normal. Mild (1+) mitral
+regurgitation is seen. There is a trivial/physiologic
+pericardial effusion. An intra-aortic balloon pump is seen in
+the descending aorta with its tip 2 cm below the distal aortic
+arch.
+POST-CPB The focal wall abnormalities noted in the pre-bypass
+study are unchanged. The mitral regurgitation may be slightly
+improved. No other significant changes.
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name4 (NamePattern1) 408**] [**Last Name (NamePattern1) 409**], MD, Interpreting physician
+[**Last Name (NamePattern4) **] [**3140-2-7**] 15:29
+
+
+[**3140-2-20**] 06:30AM BLOOD WBC-14.8* RBC-3.45* Hgb-10.5* Hct-30.3*
+MCV-88 MCH-30.4 MCHC-34.6 RDW-14.4 Plt Ct-846*
+[**3140-2-20**] 06:30AM BLOOD Plt Ct-846*
+[**3140-2-18**] 03:10AM BLOOD PT-15.8* PTT-22.9 INR(PT)-1.4*
+[**3140-2-20**] 06:30AM BLOOD Glucose-102 UreaN-22* Creat-0.8 Na-137
+K-4.0 Cl-103 HCO3-22 AnGap-16
+
+Brief Hospital Course:
+Admitted as transfer from [**Hospital6 1919**] with acute MI on
+[**2-5**]. Brought to cath lab on [**2-6**]  found to have left main and
+2VD/EF 35%. Intra Aortic Ballon Pump placed at that time. CT
+surgery consulted and patient brought to operating room on [**2-7**]
+for coronary artery bypass grafts. Patient tolerated the surgery
+well and [**Hospital 24964**] transferred to the cardiac surgery ICU in stable
+condition. He remained intubated and hemodynamically stable on
+the day of surgery. On POD1 the IABP was weaned and removed,
+after which his sedation was stopped. An attempt to wean from
+ventilator was unsuccessful. On POD2 he was again weaned and
+extubated however required reintubation because of agitation.
+Neurology and psychiatry were consulted. The patient had ahead
+CT that was negative as well as an MRI and Lumbar puncture that
+were also negative. Over the next several days his neuro status
+cleared and he was successfully extubated. He did remain
+delerious for several additional days but was ultimately
+transferred to the stepdown floor on POD 12. The patient also
+experienced a Gout flare during this time, rheumatology was
+consulted and he was started on Colchicine and Indocin. Over the
+next several days he continued to make slow progress in his ADL
+and ambulation and on POD 15 it was decided he was stable and
+ready for discharge to [**Hospital 1532**] Rehab. He will followup with Dr
+[**Last Name (STitle) 222**] in 4 weeks
+
+Medications on Admission:
+atenolol 50 mg daily
+lisinopril 20 mg daily
+lipitor 10 mg daily
+aspirin 325 mg daily
+niacin 500 mg daily
+
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Niacin 500 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+8. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Indomethacin 25 mg Capsule Sig: Two (2) Capsule PO TID (3
+times a day) as needed.
+10. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+11. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1574**] Rehabilitation Hospital - [**Location (un) 1532**]
+
+Discharge Diagnosis:
+s/p CABGx3(LIMA-LAD, SVG-OM, SVG-RCA)[**2-7**]. Post-op delerium
+PMH: CAD s/p MI-stent LAD w/IABP, HTN, ^chol, Piloneal cyst
+removal,Tonsillectomy
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Keep wounds clean and dry. OK to shower, no bathing or swimming.
+Take all medications as prescribed.
+Call for any fever, redness or drainage from wounds
+
+Followup Instructions:
+wound check in 2 weeks
+Dr [**Last Name (STitle) **] in 4 weeks
+Dr [**First Name (STitle) **] in [**3-5**] weeks
+
+
+
+Completed by:[**3140-2-22**]
+
+
+DOC CLASS

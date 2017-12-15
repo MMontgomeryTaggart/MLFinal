@@ -1,0 +1,359 @@
+Admission Date:  [**3224-10-1**]              Discharge Date:   [**3224-10-8**]
+
+Date of Birth:  [**3144-6-26**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement(tissue)/Mitral valve
+replacement(tissue)/Coronary artery bypass grafting times 1
+(Left Internal Mammary Artery to Left anterior Descending) [**10-2**]
+
+
+History of Present Illness:
+[**Known patient firstname 7752**] [**Known patient lastname 17293**] is an 80 year old female with known aortic
+valve stenosis and mitral valve stenosis presented for cardiac
+catheterization and admission for surgery.
+
+Past Medical History:
+Past Medical History:  Rheumatic heart disease as a child with
+above-mentioned severe aortic stenosis and 4+ mitral
+regurgitation, no evidence of any coronary disease to my
+knowledge.  She also has hypertension.  She apparently has had
+syncope twice in the past, and of course, has severe heart
+murmurs.  She has GERD, but no ulcer history and chronic anemia.
+
+History of colon cancer resection [**3211**] and osteoarthritis.
+
+Surgical History:  [**3211**] partial colectomy for cancer, no
+subsequent problems, [**3218**] left distal radius ORIF.
+
+
+Social History:
+Russian physician, [**Name10 (NameIs) 4125**] to USA in [**3209**].
+Lives locally with son and husband.  G1, P1 nonsmoker, denies
+alcohol use, rarely able to exercise.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+Admission Physical Exam
+General: no acute distress
+Skin: Dry [x] intact [x] numerous seborrheic keratoses
+HEENT: NCAT [x] PERRLA [] EOMI [x] cataracts bilaterally
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x] anteriorly
+Heart: RRR [x]  Irregular []  Murmur 3/6 Systolic murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] no palpable masses
+Extremities: Warm [x], well-perfused [x]  Edema none
+bilaterally,
+small spider veins bilaterally
+Neuro: alert and oriented x3 nonfocal
+Pulses:
+Femoral      Right: cath site   Left:  +2
+DP           Right:  +1  Left:  +1
+PT           [**Name (NI) 165**]:  +1  Left:  +1
+Radial       Right:  +2  Left:  +2
+
+Carotid Bruit   murmur vs bruit
+
+
+Pertinent Results:
+[**3224-10-2**] 02:59PM BLOOD PT-14.7* PTT-40.9* INR(PT)-1.3*
+[**3224-10-3**] 02:01AM BLOOD Glucose-109* UreaN-15 Creat-0.8 Na-138
+K-4.4 Cl-109* HCO3-23 AnGap-10
+[**3224-10-8**] 05:05AM BLOOD WBC-7.7 RBC-3.30* Hgb-10.2* Hct-29.6*
+MCV-90 MCH-31.0 MCHC-34.6 RDW-15.1 Plt Ct-161
+[**3224-10-1**] 01:00PM BLOOD WBC-4.6 RBC-3.43* Hgb-10.9* Hct-31.6*
+MCV-92 MCH-31.9 MCHC-34.6 RDW-15.3 Plt Ct-203
+[**3224-10-8**] 05:05AM BLOOD PT-13.7* INR(PT)-1.2*
+[**3224-10-1**] 01:00PM BLOOD PT-12.9 PTT-23.5 INR(PT)-1.1
+[**3224-10-8**] 05:05AM BLOOD UreaN-36* Creat-1.3* Na-138 K-4.5 Cl-101
+[**3224-10-1**] 01:00PM BLOOD Glucose-135* UreaN-30* Creat-1.2* Na-142
+K-3.9 Cl-106 HCO3-27 AnGap-13
+
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 18**] [**Numeric Identifier 17294**]       TEE
+(Complete) Done [**3224-10-2**] at 10:42:00 AM      FINAL
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 18**], Division of Cardiothorac
+[**Hospital Unit Name 4021**]
+[**Location (un) 86**], [**Numeric Identifier 711**]  Status: Inpatient DOB: [**3144-6-26**]
+Age (years): 80 F  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. Hypertension. Mitral valve
+disease. Pulmonary hypertension. Shortness of breath. FOR CABG,
+AVR, MVR.
+ICD-9 Codes: 402.90, 786.05, 395.2, 394.0, 394.1
+Test Information
+Date/Time: [**3224-10-2**] at 10:42    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3268**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 918**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3268**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2010AW1-: Machine: ie33
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  1.1 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  5.6 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  3.9 cm
+Left Ventricle - Fractional Shortening:  0.30  >= 0.29
+Left Ventricle - Ejection Fraction:  55%  >= 55%
+Aorta - Annulus:  2.0 cm  <= 3.0 cm
+Aorta - Sinus Level:  3.4 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  2.7 cm  <= 3.0 cm
+Aorta - Ascending:  3.3 cm  <= 3.4 cm
+Aorta - Arch:  2.4 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  *4.1 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  *67 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  38 mm Hg
+Aortic Valve - LVOT diam:  1.9 cm
+Aortic Valve - Valve Area:  *0.6 cm2  >= 3.0 cm2
+Aortic Valve - Pressure Half Time:  114 ms
+Mitral Valve - Pressure Half Time:  117 ms
+Mitral Valve - MVA (P [**1-20**] T):  1.9 cm2
+
+Findings
+LEFT ATRIUM: No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Good (>20 cm/s)
+LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size.
+Normal regional LV systolic function. Overall normal LVEF
+(>55%). [Intrinsic LV systolic function likely depressed given
+the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Mildly dilated RV cavity. Mild global RV free
+wall hypokinesis.
+
+AORTA: Normal ascending aorta diameter. Normal aortic arch
+diameter. Complex (>4mm) atheroma in the aortic arch. Normal
+descending aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Severely
+thickened/deformed aortic valve leaflets. Critical AS (area
+<0.8cm2). Moderate (2+) AR.
+
+MITRAL VALVE: Mild valvular MS (MVA 1.5-2.0cm2). Due to
+co-existing AR, the pressure half-time estimate of mitral valve
+area may be an OVERestimation of true area. Moderate (2+) MR.
+
+TRICUSPID VALVE: Mild [1+] TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. Results were personally reviewed with the MD
+caring for the patient.
+Conclusions
+Pre CPB:
+No mass/thrombus is seen in the left atrium or left atrial
+appendage.
+No atrial septal defect is seen by 2D or color Doppler.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal. Overall left ventricular systolic
+function is normal (LVEF>55%). [Intrinsic left ventricular
+systolic function is likely more depressed given the severity of
+valvular regurgitation.]
+Right ventricular chamber is dilated with mild hypokinesis.
+There are complex (>4mm) atheroma in the aortic arch. There are
+simple atheroma in the descending thoracic aorta.
+There are three aortic valve leaflets. The aortic valve leaflets
+are severely thickened/deformed. There is critical aortic valve
+stenosis (valve area <0.8cm2). Moderate (2+) aortic
+regurgitation is seen.
+There is mild valvular mitral stenosis (area 1.5-2.0cm2). Due to
+co-existing aortic regurgitation, the pressure half-time
+estimate of mitral valve area may be an OVERestimation of true
+mitral valve area. Moderate (2+) mitral regurgitation is seen.
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+
+Post CPB:
+The cardiac output is 2.8L/min.
+There is a well seated bioprosthetic valve in the mitral
+position with trace MR and a mean gradient of 5mmHg.
+There is a well seated bioprosthetic valve in the aortic
+position with a peak gradient of 8mmHg and mean gradient of
+4mmHg. The [**Location (un) 108**] was measured to be 2.0 cm2 by continuity VTI.
+There is trace aortic insufficiency.
+The baseline mild tricuspid regurgitation is unchanged.
+The aortic contours are intact.
+There is preserved biventricular function, although regional
+wall motion abnormalities are difficult to exclude while pacing.
+
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3268**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**3224-10-4**] 12:48
+
+
+?????? [**3217**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+The patient was brought to the operating room on [**3224-10-2**] where
+he underwent Coronary Artery Bypass Grafting x 1 (LIMA-LAD),
+Aortic Valve Replacement (21mm [**Doctor Last Name **] tissue), and Mitral Valve
+Replacement (29mm St. [**Male First Name (un) 911**] tissue).  Overall the patient
+tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring.  Vancomycin was used for surgical
+antibiotic prophylaxis, as her inpatient stay was greater than
+24hours preop.
+On POD# 1  she was extubated without difficulty, alert and
+oriented and breathing comfortably.  The patient was
+neurologically intact and hemodynamically stable, weaned from
+inotropic and vasopressor support.  Beta blocker was initiated
+and the patient was gently diuresed toward the preoperative
+weight. She transferred to the telemetry floor for further
+recovery.
+Postoperatively Mrs. [**Known patient lastname 17293**] did develop 3rd degree AV block on
+the evening of POD 1 and returned to the CVICU.  Nodal agents
+were discontinued, and rhythm progressed to junctional vs.
+a-fib. She remained stable and returned to the telemetry floor.
+Chest tubes were discontinued without complication.  The patient
+was evaluated by the physical therapy service for assistance
+with strength and mobility.
+By the time of discharge on POD #6 she was ambulating freely,
+the wound was healing and pain was controlled with oral
+analgesics.  The patient was discharged to [**Hospital6 454**]
+for the Aged in good condition with appropriate follow up
+instructions.
+
+Medications on Admission:
+Albuterol 90mcg inhaler - 2 puffs(s) by mouth every four hours
+prn, Lasix 20mg daily,  Lopressor 25mg daily, Isosorbide
+dinitrate 2.5mg SL pr for chest pain, Naproxen 375mg [**Hospital1 **], Diovan
+160mg daily, Acetaminophen 500mg - 2 Tablet(s) by mouth twice a
+day, Multivitamin daily, Calcium 500 + D - 500 mg-200 unit twice
+a day
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours):
+*please adjust appropriately with decrease in Lasix dosing.
+Disp:*60 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+3. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as
+needed for wheezes.
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+8. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+9. Tramadol 50 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours)
+as needed for pain.
+10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain.
+11. Ipratropium-Albuterol 18-103 mcg/Actuation Aerosol Sig: [**1-20**]
+Puffs Inhalation Q6H (every 6 hours) as needed for wheezes.
+12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day): *when back to preop weight:65.4KG->please decrease to
+20mg once daily(preop dose).
+13. Warfarin 1 mg Tablet Sig: MD to dose daily Tablet PO DAILY
+(Daily): INR goal>2.0 for Atrial Fibrillation.
+14. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+15. Warfarin 5 mg Tablet Sig: One (1) Tablet PO once for 1
+doses.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 454**] for the Aged - MACU
+
+Discharge Diagnosis:
+aortic stenosis, mitral regurgitation, coronary artery disease
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 168**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **] [**3224-10-31**] 1:00PM
+Cardiologist: Dr [**Last Name (STitle) **] on [**3224-11-18**] at 1:20pm
+
+Please call to schedule appointments with your
+Primary Care Dr. [**First Name (STitle) **] in [**4-22**] weeks [**Telephone/Fax (1) 247**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 168**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication postoperative Atrial
+Fibrillation
+Goal INR >2.0
+First draw [**3224-10-9**]
+Results to phone fax
+
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D. Phone:[**Telephone/Fax (1) 247**] Date/Time:[**3224-11-19**] 10:00
+
+
+
+Completed by:[**3224-10-8**]
+
+
+DOC CLASS

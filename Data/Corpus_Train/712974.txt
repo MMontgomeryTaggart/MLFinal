@@ -1,0 +1,283 @@
+TITLE:
+   Chief Complaint:  Melena
+   HPI:
+   84-year old woman  with afib on coumadin, ischemic cardiomyopathy with
+   EF 30-40%, presents to [**Hospital1 52**] ED after three episodes of melena starting
+   on the afternoon of admission. The pt reports that she was running
+   errands downtown this morning, and when she got home she saw black
+   stool on the toilet paper. Pt reports that she has had long-standing
+   problems with heartburn, and is unable to eat anything sour or spicey.
+   Her heartburn has been worse over the past few weeks, and she said that
+   two nights prior to admission she developed "terrible" heartburn where
+   she felt the acid coming up her throat and "took everything" to try to
+   relieve her pain, including maalox. She denies any recent additional
+   NSAID use besides her daily baby aspirin. She denies vomiting, bright
+   red blood per rectum, or retching. She does endorse GERD symptoms and
+   abdominal pain in the left upper quadrant. She denies any prior
+   episodes of black stools, and she notes that she does not take iron
+   supplements.
+   .
+   Of note, the pt was recently admitted to [**Hospital1 52**] from [**Date range (1) 11851**] for
+   evaluation of chest pain and dizziness. She three sets of negative
+   cardiac enzymes and her chest pain was attributed to GERD. Her PPI was
+   increased to [**Hospital1 **] and ranitidine was started. She notes that she was not
+   able to take ranitidine because she felt unwell while taking it. Also
+   of note, during the pt's recent admission (and on [**2875**] outpatient visit
+   to Dr. [**Last Name (STitle) 11852**] in GI) the pt refused EGD.
+   .
+   In the ED, initial vs were: 98.7 66 138/64 16 99% RA. The pt was noted
+   to have guaiac positive dark stool on rectal exam. She was given
+   Pantoprazole 40 mg IV. GI was notified and requested that pt go to ICU
+   for possible urgent EGD overnight and close monitoring of hct.
+   .
+   On the floor, the pt appears comfortable and is very talkative. She
+   denies abdominal pain or GERD symptoms currently.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Lidocaine
+   Unknown;
+   Codeine
+   Nausea/Vomiting
+   Iodine; Iodine Containing
+   Unknown;
+   Tylenol (Oral) (D-Methorphan/P-Ephed/Acetaminp)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2876-4-11**] 10:59 PM
+   Other medications:
+   1. Nitroglycerin 0.3 mg PRN
+   2. Amiodarone 100 mg PO QHS
+   3. Atorvastatin 40 mg PO DAILY
+   4. Furosemide 80 mg PO DAILY
+   5. Isosorbide Dinitrate 20 mg PO BID
+   6. Lisinopril 5 mg DAILY
+   7. Metoprolol Succinate 25 mg PO BID
+   8. Warfarin 1 mg Daily
+   9. Aspirin 81 mg
+   10. Maalox  Oral
+   11. Sucralfate 1 gram PO TID
+   12. Potassium Chloride 10 mEq PO DAILY
+   13. Lansoprazole 30 mg Tablet, PO BID
+   14. Ranitidine HCl 15 mg/mL Syrup Sig: Ten (10) mL PO BID
+   15. SUCRALFATE 1g tid
+   Past medical history:
+   Family history:
+   Social History:
+   CAD- s/p emergent CABG in [**2860**] after failed PCI, last cath
+   [**2871**] with 3-vessel native CAD, known occluded SVG-PDA, patent
+   SVG-D1-OM2, s/p PCI to RCA
+   Ischemic cardiomyopathy with EF of 30-40% from inferolateral
+   myocardial infarction.
+   paroxysmal atrial fibrillation
+   mitral regurgitation
+   moderate pulmonary hypertension
+   HTN
+   Hypercholesterolemia
+   IBS
+   DJD
+   PVD
+   hiatal hernia
+   hemorrhoids
+   GERD
+   Noncontributory. No heart disease.
+   Occupation: Retired
+   Drugs: None
+   Tobacco: None
+   Alcohol: None
+   Other: She lives alone and has elder services. She states she performs
+   ADLs independently. She reports she has no family or friends. [**Name (NI) **]
+   brother recently died, and she denies any other living relatives
+   besides [**Name2 (NI) 2045**] that she is not close with. She formerly worked in
+   bookkeeping, and denies tobacco use. She does endorse a history of
+   alcohol use, but reports that she quit drinking at the age of 35.
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: Chest pain
+   Gastrointestinal: Abdominal pain, Melena, GERD symptoms
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2876-4-11**] 11:29 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**78**] AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 64 (64 - 76) bpm
+   BP: 150/61(81) {150/61(81) - 154/77(95)} mmHg
+   RR: 20 (12 - 20) insp/min
+   SpO2: 100%
+             Total In:
+             948 mL
+   PO:
+             TF:
+   IVF:
+   148 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    375 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    573 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 100%
+   Physical Examination
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, II/VI systolic murmur at
+   apex
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   GU: no foley
+   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Neuro: A+Ox3, CN II-XII intact
+   Motor: Strength 5/5 upper and lower extremities
+   Gait assessment deferred
+   Labs / Radiology
+   139
+                               [image002.gif]
+                                     105
+                               [image002.gif]
+                                     19
+   [image004.gif]
+   119
+                                                                   AGap=16
+   [image005.gif]
+   5.9
+                               [image002.gif]
+                                     24
+                               [image002.gif]
+                                     1.2
+   [image007.gif]
+   Comments:
+   K: Hemolysis Falsely Elevates K
+   Glucose: If Fasting, 70-100 Normal, >125 Provisional Diabetes
+   estGFR: [1]43/52 (click for details)
+   CK: 103
+   MB: 1
+   Trop-T: <0.01
+   Comments:
+   CK(CPK): Hemolysis Falsely Increases This Result
+   CK(CPK): New Reference Interval As Of [**2876-1-13**]
+   CK(CPK): Upper Limit (97.5th %Ile) Varies With Ancestry And Gender
+   (Male/Female)
+   CK(CPK): Whites 322/201 Blacks 801/414 Asians 641/313
+   cTropnT: Ctropnt > 0.10 Ng/Ml Suggests Acute Mi
+   PT: 18.1
+   PTT: 19.8
+   INR: 1.6
+   Imaging: ECHO [**5-/2874**]
+   Mild spontaneous echo contrast is seen in the body of the left atrium
+   and left atrial appendage. The left atrial appendage emptying velocity
+   is depressed (<0.2m/s). No thrombus is seen in the left atrial
+   appendage. No spontaneous echo contrast or thrombus is seen in the body
+   of the right atrium or in the right atrial appendage No atrial septal
+   defect is seen by 2D or color Doppler. LV systolic function appears
+   depressed. There are complex (>4mm) atheroma in the descending thoracic
+   aorta. The aortic valve leaflets (3) are mildly thickened. There is no
+   aortic valve stenosis. No aortic regurgitation is seen. The mitral
+   valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation
+   is seen. There is no pericardial effusion.
+   IMPRESSION: Mild spontaneous left atrial echo contrast, but no
+   intracardiac thrombus seen. Moderate mitral regurgitation. Advanced
+   aortic atherosclerosis.
+   .
+   CATH [**2874**]
+   COMMENTS:
+   1.  Selective coronary angiography of this right dominant system
+   revealed two vessel native coronary artery disease.  The LMCA had no
+   angiographically apparent flow-limiting stenoses.  The LAD had a 90%
+   ostial lesion with distal filling via SVG-D1 with no significant
+   disease.  The LCX had a 70% occlusion at the proximal portion of OM2
+   with distal filling via SVG with no significant disease. The RCA had
+   a widely patent proximal stent and 50% mid/distal vessel disease.
+   2.  Graft angiography revealed a patent sequential SVG to D1 and OM2.
+   The SVG to PDA was known occluded and not injected.
+   3.  Limited resting hemodynamics revealed moderate systemic arterial
+   hypertension of 149/70 mm Hg.
+   FINAL DIAGNOSIS:
+   1. Two vessel coronary artery disease.
+   2. Normal SVG to D1 and OM2.
+   CXR clear, no acute pulm process
+   ECG: EKG: Sinus bradycardia, right axis, ST segments unchanged from
+   prior EKG
+   Assessment and Plan
+   84 year old woman with history of GERD, presents with melena.
+   .
+   # Melena: Differential includes PUD (including Dieulafoy's lesion),
+   gastritis, esophagitis, or given history of dysphagia, esophageal mass.
+   Ischemic colitis also possible given h/o CAD, but this would be
+   unlikely to produce melanotic stools.  Varices and [**First Name4 (NamePattern1) 1809**] [**Last Name (NamePattern1) 108**] tear
+   unlikely given no history of liver disease or vomiting. Pt has refused
+   EGD on past admission.
+   - Active T+S
+   - Pantoprazole gtt
+   - F/u GI recs
+   - NPO for possible EGD
+   - Serial hct's (q6h)
+   - Hold aspirin, coumadin
+   - Two large-bore PIV's in place
+   .
+   # Chest pain: Per report pt complained of CP in ED, but on admission
+   she reports LUQ pain that with reflux symptoms. Pt has known CAD, with
+   most recent cath in [**2874**] showing 2-vessel coronary artery disease. On
+   the pt's most recent admission CP was attributed to GERD, and EKG was
+   unremarkable. Pt did take daily aspirin today, but did not take
+   coumadin.
+   - Hold aspirin for now given above bleeding
+   - Complete rule-out MI, serial EKGs
+   - PPI as above.
+   - Continue statin, Lisinopril, Metoprolol
+   - Hold Isosorbide given concern for bleeding
+   .
+   # Paroxysmal atrial fibrillation: Pt is anticoagulated on coumadin, and
+   is also on amiodarone for maintenance of sinus rhythm.
+   - Continue amiodarone
+   - Hold coumadin
+   - Hold on reversing with Vit K, if pt has additional melena, consider
+   Vit K
+   - D/w GI what INR threshold they will tolerate for EGD
+   .
+   # Ischemic cardiomyopathy: EF from echo in [**2874**] was 30-40%. Pt
+   currently appears euvolemic, with no lower extremity edema.
+   - Hold lasix given concern for GIB
+   - Monitor I/O's
+   .
+   # FEN: No IVF, replete electrolytes, NPO overnight
+   # Prophylaxis: Pneumoboots
+   # Access: peripherals
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition: NPO for tonight
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   18 Gauge - [**2876-4-11**] 09:30 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+References
+   1. [**Doctor Last Name 3675**]/
+
+
+
+DOC CLASS

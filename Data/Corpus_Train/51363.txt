@@ -1,0 +1,178 @@
+Admission Date:  [**3151-6-7**]              Discharge Date:   [**3151-6-10**]
+
+Date of Birth:  [**3095-4-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4242**]
+Chief Complaint:
+weakness and lethargy
+
+Major Surgical or Invasive Procedure:
+EGD
+
+History of Present Illness:
+56 yo M w/ cirrhosis, htn, hyperchol, p/w hemetemesis x2, black
+stools, lethargy. He reports sharp intermittent abd pain since
+last weeks accompanied by dark stools. On [**Name (NI) 133**] pt. was feeling
+unwell and had projectile hematemesis x 2. He continued to have
+black stools w/ ?red blood. His partner convinced him to seek
+medical attention giving his lethargy and GI bleeding.
+In the ED his initial VS were: 97.2, 81/43 (down to 71/36), 117,
+16, 100%RA. His initial hct 15.2. He was given 4u of pRBCs and 1
+unit of FFP. He also received protonix, octreotide and zosyn.
+His tachycardia improved and his sbp stablized to the 90's.
+Also, CXR was significant for right sided pneumomediastinum. Pt.
+was seen by thoracics and general surgery in the ED. Surgery
+recommended zosyn and fluconazole for prophylactic coverage.
+Liver fellow contact[**Name (NI) **] and recommended protonix gtt and
+octreotide gtt. They will assess pt. re: EGD, but feel this is
+high risk given pneumo mediastinum.
+
+ROS: denies fevers chills, reports SOB x1 day, no chest pain,
+weight loss of 20lbs over the past 1 year (intentional), other
+
+
+Past Medical History:
+alcoholic cirrhosis
+Hypertension
+hypercholesterolemia
+
+
+Social History:
+retired. previously heavy etoh use ([**12-24**] vodka drinks/night), now
+continues to drink wine 1x/week. Tobacco- quit 8 years ago,
+prev. smoked [**11-22**] ppd for many years. no illicit drug use.
+per omr He is a retired Director of Human Resources
+
+
+Family History:
+per omr. Mother and father both had heart disease.
+His mother had three strokes and died of uterine cancer. His
+father died of a heart attack in his 40s. He also had
+diabetes. He has eight siblings who are all healthy.
+
+
+Physical Exam:
+VS: BP 104/59 HR 92 02sat 100% RR 16
+Gen: NAD
+heent: MMM, non-icteric sclera.
+cvs: distant heart sounds, tachy, no murmurs
+chest: scattered bilateral rales
+abd: Nt/ND, soft, hypoactive BS, no detectable ascites.
+ext: no edema, 1+ pulses
+neuro: AA0x3
+
+
+Brief Hospital Course:
+Assessment and plan: 56 yo M w/ cirrhosis p/w hematemesis and
+BRBPR, initial HCT of 15, now s/p 4u of pRBCs and 1u FFP.
+.
+# GI bleed: Patient initially had dark stools and BRBPR.  He
+also had hematemesis (2 episodes on [**Month/Day (2) 133**] but non since).  He
+was severely anemic on presentation with a HCT of 15 which
+increased to 25 with 4 units pRBCs.  He was given FFP as well
+for a concern of coagulopathy.  The patient has a history of
+alcoholic cirrhosis as well, with know grade 1 esophageal
+varices in the past.  He was started on octreatide gtt and
+protonix gtt.  He was given a total of 5 units of pRBCs in the
+ICU, with a stable HCT at the time of discharge from the MICU.
+The patient underwent EGD which showed no active bleeding
+source, but there was evidence of an ulcer which was thought to
+be likely the source of his GIB.  His h.pylori was checked and
+was pending on day of d/c.  An abdominal US was performed which
+showed Similar heterogeneous echogenic appearance of the liver,
+with somewhat increased ascites. No focal mass identified on
+somewhat limited evaluation. He had an episode of melena on [**6-8**]
+but this resolved and his Hct only decreased to 25 then
+rebounded to 27 and then to 30 on morning of d/c, this was
+repeated and it was 27.6, thought that the 30 represented lab
+error as pt. had normal stool in between the two draws. Diet was
+advanced per liver to full w/ salt restriction on day of d/c and
+pt. tolerated it well.
+
+
+# pneumomediastinum: initially, the patient was thought to have
+a pneumomediastinum.  Thoracic surgery was consulted, and he was
+started on empiric fluc/zosyn.  A CT neck was performed, which
+did not show any evidence of pneumomediastinum, and the
+antibiotics were stopped.  He was only continued on
+ciprofloxacin since he is a cirrhotic patient with UGIB.
+
+# cirrhosis: D/c'd on aldactone.
+.
+# htn: resumed moexipril on D/C
+.
+# hyperlipidemia: REsumed statin on d/c
+.
+# code status: presumed full
+.
+
+
+Medications on Admission:
+Univasc
+Lipitor
+Aldactone
+[**Doctor First Name 232**]
+Flonase
+
+
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 4 days: Total 5 days, last dose 7/22.
+Disp:*4 Tablet(s)* Refills:*0*
+3. Univasc 15 mg Tablet Sig: One (1) Tablet PO once a day.
+4. Lipitor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Aldactone 25 mg Tablet Sig: One (1) Tablet PO once a day.
+6. [**Doctor First Name 232**]  Oral
+7. Flonase  Nasal
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Bleeding Duodenal Ulcer
+2. Cirrhosis
+
+Secondary Diagnoses:
+1. Hypertension
+2. Hyperlipidemia
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You have been admitted to the hospital because of a GI bleed.
+While you were here you were transfused with blood products.
+
+Please take your medications as described in the discharge
+paperwork. You will be discharged on an antibiotic called Cipro,
+which you must take for the next 5 days to prevent an infection
+after the endoscopy.
+
+Please return to the ED for any dark stools, bloody vomitus,
+chest pain, shortness of breath or any other medical concerns.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] within one week of discharge.
+([**Telephone/Fax (1) 2412**]
+
+LIVER FOLLOW UP: The liver center will call you for a follow up
+appointment in 6 weeks for a follow up EGD.
+
+
+
+Completed by:[**3151-6-10**]
+
+
+DOC CLASS

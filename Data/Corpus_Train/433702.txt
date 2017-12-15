@@ -1,0 +1,243 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ CARDIOVERSION/DEFIBRILLATION - At [**2624-10-17**] 02:00 PM
+   [**10-17**]:  cardioverted to NSR successfully (one shock 200j).   started on
+   IV heparin gtt.  Lopressor increased to 25mg.  lasix gtt was
+   restarted.  Diarrhea.
+   -pharmacy concerned for significant drug-drug interactions with amio
+   and dig; monitor daily dig level; adjust dosing; and think about
+   perhaps just treating with one of the 2 medications
+   -d/c-ed dig b/c in sinus, and on amio (per cards fellow)
+   -at midnight, concern for not meeting diuresis goal, so lasix drip rate
+   increased again, and given another lasix IV bolus
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Furosemide (Lasix) - 18 mg/hour
+   Other ICU medications:
+   Heparin Sodium - [**2624-10-17**] 10:30 AM
+   Furosemide (Lasix) - [**2624-10-18**] 12:17 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2624-10-18**] 06:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.3
+C (97.3
+   HR: 71 (68 - 116) bpm
+   BP: 94/54(64) {91/38(56) - 138/115(120)} mmHg
+   RR: 16 (12 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 68.7 kg (admission): 71 kg
+   Height: 62 Inch
+             Total In:
+                                                                    909 mL
+                                                                    243 mL
+   PO:
+                                                                    620 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    289 mL
+                                                                    183 mL
+   Blood products:
+   Total out:
+                                                                  1,640 mL
+                                                                  1,080 mL
+   Urine:
+                                                                  1,640 mL
+                                                                  1,080 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -731 mL
+                                                                   -837 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///31/
+   Physical Examination
+   GENERAL: Oriented to name only. No acute distress.
+   HEENT:
+   CARDIAC: RRR, GII systolic murmur left upper sternal border and apex.
+   LUNGS: Diffuse rales to mid lung fields b/l.
+   ABDOMEN: Soft, NT/ND.
+   EXTREMITIES: +1 pitting edema in dependent areas.
+   Labs / Radiology
+   214 K/uL
+   11.8 g/dL
+   114 mg/dL
+   1.1 mg/dL
+   31 mEq/L
+   3.6 mEq/L
+   33 mg/dL
+   102 mEq/L
+   146 mEq/L
+   37.0 %
+   12.0 K/uL
+        [image002.jpg]
+                             [**2624-10-12**]  11:20 AM
+                             [**2624-10-12**]  05:26 PM
+                             [**2624-10-12**]  10:17 PM
+                             [**2624-10-13**]  12:20 PM
+                             [**2624-10-14**]  03:49 AM
+                             [**2624-10-15**]  09:50 AM
+                            [**2624-10-16**]  05:05 AM
+                            [**2624-10-17**]  05:40 AM
+                            [**2624-10-18**]  04:08 AM
+   WBC
+   11.5
+   14.2
+   15.3
+   14.1
+   11.7
+   10.3
+   12.0
+   Hct
+   40.5
+   39.5
+   36.4
+   33.8
+   34.1
+   35.4
+   37.0
+   Plt
+   178
+   177
+   165
+   150
+   168
+   197
+   214
+   Cr
+   1.2
+   1.4
+   1.0
+   1.0
+   1.2
+   0.9
+   1.1
+   TropT
+   0.10
+   0.95
+   2.13
+   3.66
+   Glucose
+   [**Telephone/Fax (3) 9112**]13
+   108
+   113
+   114
+   Other labs: PT / PTT / INR:15.0/86.1/1.3, CK / CKMB /
+   Troponin-T:2391/253/3.66, Differential-Neuts:86.7 %, Lymph:10.2 %,
+   Mono:2.3 %, Eos:0.6 %, Ca++:7.5 mg/dL, Mg++:2.1 mg/dL, PO4:2.0 mg/dL
+   Assessment and Plan
+ 87 year old female with dementia transferred from outside hospital
+   with STEMI, being medically managed after reversal of DNR/DNI status,
+   now back to DNR/DNI status.
+   .
+   # PUMP: Patient with lower extremity edema and pulmonary rales on exam.
+   Cardiomegaly on chest x-ray. Lasix listed as outpatient medication.
+   Fluid overload in setting of congestive heart failure. TTE showed EF
+   40-45% with prominent symmetric left ventricular hypertrophy with
+   regional systolic dysfunction c/w CAD (mid-LAD distribution). Severe
+   pulmonary artery systolic hypertension. Mild-moderate mitral
+   regurgitation. Possible aortic valve stenosis.  Lasix drip at 10ml/hr
+   was d/c
+ed last night when BP decreased to 70
+s while sleeping.
+   Remains fluid overloaded
+   - Continue Metoprolol at lower dose of 12.5mg tid, ASA
+   - Initiate Digoxin with loading dose and then maintenance dose to slow
+   HR and increase CO and BP
+   - Re-initiate Lasix drip, goal of -1.5-2L/day.
+   - Patient will need to be started on ACE-I in the future, following
+   diuresis
+   .
+   # RHYTHM: In a fib since [**10-15**] AM, previously sinus and intermittently
+   V-pacing.  HR 80
+s-110
+s overnight with BP 70
+s-80
+s while sleeping.
+   Did not respond to Metoprolol IV overnight, but did yesterday morning.
+   Will decrease Metoprolol to 12.5mg tid to decrease BP effect and
+   initiate Digoxin to decrease HR without significant BP effect.  Goal HR
+   80-90
+   - Initiate Digoxin to slow HR with minimal BP effect
+   - Decrease Metoprolol to 12.5mg mg tid
+   - On ASA, Plavix, but holding on Coumadin as patient high fall risk and
+   risks outweight benefits of Coumadin
+   - Daily EKGs
+   .
+   # CORONARIES: OSH EKG demonstrates ST elevations in anterior leads.
+   Elevation V1 > 2.5 mm suggests occlusion LAD distal to septal branch
+   resulting in anterior MI. EKG on admission to CCU showed decreasing ST
+   elevations in V1-V3 and q waves in V4-V5, this morning with worsening
+   ST elevations. Patient hemodynamically stable and chest pain free
+   currently but was tachycardic in 90
+s-100
+s overnight and this morning,
+   with chest pain and significant nausea overnight, which responded to
+   Nitro drip and Morphine.  Nitro drip now d/c
+ed, pt chest pain free
+   overnight.  Metoprolol up-titrated recently for HR control.  Due to
+   medical co-morbidities, improving EKG with q waves, hemodynamic
+   stability underwent medical management of STEMI.  Now CEs trending down
+   but still with ST elevations on EKG.
+   - RV lift present on previous days exams, but will obtain focused TTE
+   to r/o VSD as complication of STEMI
+   - Continue Metoprolol at lower dose of 12.5mg tid
+   - Continue Plavix, Atorvastatin, ASA
+   - Hold outpatient Simvastatin 40 mg qd
+   - Patient will need to be started on ACE-I, but hold now until after
+   diuresis
+   .
+   # Renal failure: Acute renal failure, likely [**2-9**] hypoperfusion from
+   STEMI, now resolved to Cr 1.0.
+   - Reinitiate ACE once diuresis complete
+   .
+   # Dementia/Depression: Continue outpatient Aricept 10 mg qhs,
+   Mitrazapine 15 mg qhs, Seroquel 25 mg [**Hospital1 **].  Patient extremely needing
+   Haldol previously, but calm since without need for Haldol.
+   .
+   # Leukocytosis: Resolving, most likely related to ACS/STEMI. No obvious
+   infiltrate on CXR, no symptoms of cough, fever.  Levaquin d/c
+ed as no
+   evidence of infection.
+   # Dyslipidemia: Setting of ACS, Atorvastatin 80mg high dose.
+   .
+   # Hypertension: Metoprolol as above.  Nitro drip previously d/c
+   Currently stable/low in setting of a fib.
+   .
+   # Overactive bladder: DC detrol.
+   .
+   # Osteoporosis: Re-initiated home fosamax and vitamin D.
+   ICU Care
+   Nutrition:  Heart healthy, low sodium diet
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2624-10-15**] 07:00 AM
+   Prophylaxis:
+   DVT: Change from SC Heparin to Pneumoboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR/DNI (confirmed)
+   Disposition:
+
+
+
+DOC CLASS

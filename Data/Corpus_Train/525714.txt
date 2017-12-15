@@ -1,0 +1,263 @@
+Chief Complaint: thrombotic microangiopathy
+   HPI:  44y.o. woman who presented with NSTEMI, then developed a
+   thrombotic microangiopathy and multiorgan failure
+   24 Hour Events:
+   HD yesterday.
+   Dobutamine weaned down.
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Zosyn (Intraven) (Piperacillin Sodium/Tazobactam)
+   Transaminitis
+   Last dose of Antibiotics:
+   Metronidazole - [**3225-10-8**] 04:50 PM
+   Infusions:
+   Dobutamine - 1.5 mcg/Kg/min
+   Heparin Sodium - 350 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**3225-10-9**] 06:32 AM
+   Other medications:
+   Amiodarone
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fever
+   Cardiovascular: Edema
+   Nutritional Support: Tube feeds
+   Genitourinary: Dialysis
+   Heme / Lymph: Anemia
+   Flowsheet Data as of  [**3225-10-9**] 11:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.1
+C (98.7
+   HR: 103 (92 - 103) bpm
+   BP: 94/63(73) {80/47(58) - 98/65(76)} mmHg
+   RR: 20 (12 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: WAP (Wandering atrial pacemaker)
+   Wgt (current): 97 kg (admission): 92 kg
+   Height: 66 Inch
+   CVP: 15 (6 - 25)mmHg
+   Mixed Venous O2% Sat: 45 - 45
+   Total In:
+                                                                  1,533 mL
+                                                                    745 mL
+   PO:
+   TF:
+                                                                    721 mL
+                                                                    339 mL
+   IVF:
+                                                                    602 mL
+                                                                    236 mL
+   Blood products:
+   Total out:
+                                                                  4,010 mL
+                                                                     12 mL
+   Urine:
+                                                                     10 mL
+                                                                     12 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,477 mL
+                                                                    733 mL
+   Respiratory support
+   O2 Delivery Device: T-piece
+   SpO2: 100%
+   ABG: 7.50/32/107/23/2
+   PaO2 / FiO2: 214
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: NG tube, trach
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic, No(t)
+   Diastolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   7.7 g/dL
+   144 K/uL
+   115 mg/dL
+   1.1 mg/dL
+   23 mEq/L
+   2.9 mEq/L
+   40 mg/dL
+   101 mEq/L
+   137 mEq/L
+   22.8 %
+   12.3 K/uL
+        [image002.jpg]
+                            [**3225-10-5**]  03:55 AM
+                            [**3225-10-5**]  05:19 PM
+                            [**3225-10-6**]  04:11 AM
+                            [**3225-10-7**]  05:36 AM
+                            [**3225-10-8**]  12:43 AM
+                            [**3225-10-8**]  03:32 AM
+                            [**3225-10-8**]  07:08 AM
+                            [**3225-10-9**]  04:45 AM
+                            [**3225-10-9**]  05:03 AM
+                            [**3225-10-9**]  10:29 AM
+   WBC
+   13.4
+   16.3
+   14.4
+   13.9
+   12.2
+   12.3
+   Hct
+   22.4
+   22.2
+   24.5
+   24.4
+   22.5
+   22.8
+   Plt
+   51
+   78
+   84
+   126
+   146
+   144
+   Cr
+   1.5
+   1.7
+   1.8
+   1.2
+   1.6
+   1.1
+   TCO2
+   22
+   22
+   23
+   26
+   Glucose
+   105
+   112
+   118
+   109
+   117
+   115
+   Other labs: PT / PTT / INR:17.0/36.8/1.5, ALT / AST:91/26, Alk Phos / T
+   Bili:166/1.2, Amylase / Lipase:189/45, Differential-Neuts:83.0 %,
+   Band:0.0 %, Lymph:10.0 %, Mono:6.0 %, Eos:1.0 %, D-dimer:6402 ng/mL,
+   Fibrinogen:273 mg/dL, Lactic Acid:1.6 mmol/L, Albumin:2.9 g/dL, LDH:596
+   IU/L, Ca++:7.6 mg/dL, Mg++:1.6 mg/dL, PO4:2.9 mg/dL
+   Microbiology: No new data
+   Assessment and Plan
+   1) Cardiogenic shock:
+   Weaning dobutamine with success--continue to wean off.
+   Ultrafiltration to remove volume.
+   Unable to add any afterload reducers due to hypotension.
+   2) Respiratory Failure:
+   Resolved, tolerated T-piece for about one week.
+   Still with significant secretions making use of PMV challenging.
+   Completed course of Ceftaz for acinetobacter VAP.
+   3) MAT:
+   Continue amiodarone for now.
+   4) TMA:
+   No evidence of ongoing thrombosis.
+   Continue heparin gtt for now--eventual transition to coumadin once out
+   of the ICU.
+   5) CAD:
+   --Continue ASA.  No Plavix given concern for TTP secondary to plavix.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3225-10-8**] 10:45 PM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3225-9-7**] 07:09 PM
+   Arterial Line - [**3225-9-16**] 06:48 PM
+   Dialysis Catheter - [**3225-10-7**] 06:19 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   ------ Protected Section ------
+   Critical Care Staff Addendum
+   I saw and examined Ms. [**Known patient lastname 464**] with Dr. [**Last Name (STitle) **] and the ICU team; their
+   note today reflects my input.  In addition, I would add/emphasize:
+   Ms. [**Known patient lastname 464**] is a 44 yo female with h/o asthma, gastric bypass surgery,
+   admitted with NSTEMI, with complicated and long hospital course and now
+   with multiorgan system failure with DIC, digital ischemia, C diff
+   infection and cardiogenic shock.
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.1
+C (98.7
+   HR: 103 (92 - 103) bpm
+   BP: 94/63(73) {80/47(58) - 98/65(76)} mmHg
+   RR: 20 (12 - 25) insp/min
+   SpO2: 100%
+   Trached F supine in bed in NAD.  Somnolent.
+   Lungs
+ course bs ant
+   CV RRR
+   Abd soft ntnd bs+
+   WBC 12.3  creat 1.1
+   Cardiogenic shock
+   - progress weaning dobutamine
+ cont wean as tol
+   - cont UF to remove fluid as tol
+   - able to Attempting to wean dobutamine and titrate captopril up as
+   tolerated.
+   - Afterload reduction - has not been tolerating captopril- hypotension
+   after dosing.
+   Thrombocytopenia
+   - gradually resolving
+   - felt secondary to plt suppressing meds given improvement w/ d/c
+   - HIT-.
+   -  Heme following
+ appreciate input.
+   ARF
+ HD dependent
+ cont remove fluid as able.
+   CAD
+ NSTEMI [**8-19**]
+ BMS->RCA.
+   - On ASA, plavix on hold sec above.
+   Tachycardia/MAT
+ rate controlled.
+   - cont amio
+   Resp failure
+   - On T-piece for ~1wk
+   - Significant secretions so PMV use challenging.
+   - Completed course of Ceftaz for acinetobacter VAP
+   Thrombotic Microangiopathy
+   - unclear etiology.
+   - Digit ischemia
+ demarcation clear.
+   - Need vascular surgery imput re:  optimal magangement.
+   - cont heparin drip
+   Altered MS
+ continued improvement over last several days.
+   Other issues per ICU team note today.
+   Critical Care Time: 45 min
+   .
+   ------ Protected Section Addendum Entered By:[**Name (NI) 169**] [**Last Name (NamePattern1) 891**], MD
+   on:[**3225-10-9**] 19:42 ------
+
+
+
+DOC CLASS

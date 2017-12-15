@@ -1,0 +1,258 @@
+Chief Complaint: CHIEF COMPLAINT:  CRITICAL AS
+   24 Hour Events:
+   Notes from on call intern:
+   [**3073-4-6**]
+   Neuro recs:
+    -phenytoin 300 mg IV bolus now
+    -phenytoin 125 mg PO TID
+    -check EEG in a.m.
+    -phenytoin and free phenytoin tonight
+    -do not wean phenobarb tonight (give one more dose tonight)
+   -ordered metolazone + bumetanide. Patient did not diurese.
+   -gave 1-time dose of phenobarbital in p.m. per neuro recs (had d/c'ed
+   on rounds, but neuro felt this was too abrupt). Per neuro, patient will
+   not need further doses of phenobarb.
+   -1 a.m., noted to be hypoxemic 7.30/42/64 on FiO2 50%. Ventillation
+   mode changed to AC and FiO2 increased to 100% with gas subsequently
+   7.35/35/249. CXR unchanged.
+   -weaned FiO2
+   However,  per Neurology this a.m.:
+   -          Do not stop Phenobarbital precipitously
+ may result in
+   seizure.
+   -          Per Neurology, unlikely AEDs causing mental status changes,
+   therefore need to proceed with LP to ensure no
+   carcinomatosis/paraneoplastic syndrome.
+   Allergies:
+   Penicillins
+   Rash;
+   Erythromycin Base
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   Unknown; sores
+   Ampicillin
+   Unknown;
+   Lactose
+   Unknown; Abdomi
+   Latex
+   Rash;
+   Adaptic (Topical) (Non-Adherent Bandage)
+   Rash;
+   Amiodarone
+   Hepatic toxicit
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,350 units/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3073-4-6**] 08:02 PM
+   Dilantin - [**3073-4-7**] 03:42 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3073-4-7**] 07:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**75**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 95 (91 - 108) bpm
+   BP: 96/50(67) {90/50(64) - 138/70(96)} mmHg
+   RR: 5 (0 - 27) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 103.5 kg (admission): 80.1 kg
+   Height: 66 Inch
+    CVP: 18 (18 - 25)mmHg
+   Total In:
+                                                                  1,622 mL
+                                                                    478 mL
+   PO:
+   TF:
+                                                                    840 mL
+                                                                    265 mL
+   IVF:
+                                                                    591 mL
+                                                                    182 mL
+   Blood products:
+   Total out:
+                                                                    315 mL
+                                                                     85 mL
+   Urine:
+                                                                    315 mL
+                                                                     85 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,307 mL
+                                                                    393 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 362 (320 - 374) mL
+   PS : 15 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 118
+   RSBI Deferred: FiO2 > 60%, Hemodynamic Instability
+   PIP: 25 cmH2O
+   SpO2: 95%
+   ABG: 7.32/38/102/18/-5
+   Ve: 7.9 L/min
+   PaO2 / FiO2: 204
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   422 K/uL
+   7.6 g/dL
+   137 mg/dL
+   3.7 mg/dL
+   18 mEq/L
+   4.8 mEq/L
+   123 mg/dL
+   103 mEq/L
+   137 mEq/L
+   24.7 %
+   7.0 K/uL
+        [image002.jpg]
+                             [**3073-4-6**]  03:53 AM
+                             [**3073-4-6**]  04:00 AM
+                             [**3073-4-6**]  04:12 AM
+                             [**3073-4-6**]  02:26 PM
+                             [**3073-4-6**]  11:27 PM
+                             [**3073-4-6**]  11:51 PM
+                             [**3073-4-7**]  01:04 AM
+                             [**3073-4-7**]  02:02 AM
+                             [**3073-4-7**]  04:44 AM
+                             [**3073-4-7**]  05:08 AM
+   WBC
+   7.4
+   7.0
+   Hct
+   26.6
+   24.7
+   Plt
+   462
+   422
+   Cr
+   3.8
+   3.7
+   TCO2
+   21
+   23
+   21
+   21
+   20
+   20
+   Glucose
+   126
+   126
+   120
+   137
+   Other labs: PT / PTT / INR:15.0/65.8/1.3, CK / CKMB /
+   Troponin-T:9/2/0.03, ALT / AST:[**6-6**], Alk Phos / T Bili:60/0.2, Amylase
+   / Lipase:/47, Differential-Neuts:75.9 %, Lymph:13.5 %, Mono:4.8 %,
+   Eos:5.7 %, Fibrinogen:499 mg/dL, Lactic Acid:1.7 mmol/L, Albumin:2.7
+   g/dL, LDH:202 IU/L, Ca++:8.0 mg/dL, Mg++:2.2 mg/dL, PO4:5.1 mg/dL
+   Fluid analysis / Other labs: .
+   Imaging: CXR from this a.m.
+   Microbiology: Yeast in urine and sputum.
+   ECG: .
+   Assessment and Plan
+   86 y/o female with hx CAD s/p CABG, Afib, with severe AS s/p
+   valvuloplasty, diastolic CHF, colon adenocarcinoma, chronic c.diff,
+   admitted with new onset tonic clonic seizures, who subsequently flashed
+   on the floor in the setting of holding lasix. Course complicated by
+   subclinical seizures and deteriorating mental status, aspiration
+   pneumonia, now w/respiratory acidosis and failure resulting in
+   intubation ([**3-23**]), ARF, hypotension requiring phenylephrine.
+   Transferred to CCU at request of family and consulting cardiologist.
+   .
+   # Aortic Stenosis: Pt with known severe aortic stenosis s/p
+   valvuloplasty in [**12-18**]. She was initially on the CCU service early in
+   her hospitalization in the setting of flash pulmonary edema when her
+   lasix were held. Now, she is intubated in the ICU. Continues to be
+   severely fluid overloaded and oliguric, positive ~30L Los. She does not
+   respond well to lasix/diuril/bumex but is also not a candidate for HD.
+   -will try PO bumex and metolazone to try to get some diuresis
+   -[**Hospital1 **] lytes
+   -monitor volume status, UOP.
+   -holding off on valvuloplasty at this point
+   .
+   # Atrial Fibrillation: Pt has good control of HR on beta blockade and
+   digoxin. Coumadin was being held before for trach/PEG. Now, holding
+   coumading in case pt undergoes valvuloplasty. Now on heparin gtt while
+   INR subtherapeutic.
+   - continue heparin gtt
+   - continue metoprolol tartrate 25 mg TID
+   - continue digoxin 0.0625 mg daily
+   - trend coags
+   .
+   # Acute Renal Failure: Creatinine 3.8 today. Per previous notes, renal
+   believes that this is ATN
+   - will attempt diuresis with bumex/metolazone, as above
+   - appreciate renal recs.
+   - continue to monitor fluid status otherwise
+   .
+   # Altered Mental Status: Per prior notes, pt has had seizures, loaded
+   with dilantin and ativan PRN prior to admission with poor mental
+   status. Despite loading dose continued to have sub clinical seziures on
+   EEG. Medication regimen changed, currently on phenytoin boluses and
+   phenobarbitol taper. Neuro not sure what is causing continued depressed
+   mental status, states she is not having active seizures on EEG. MRI did
+   not show any acute changes.
+   - continue phenytoin; need to readdress dosing with neuro
+   - stopping phenobarbital
+   - appreciate neuro input
+   .
+   # Coronary Artery Disease: Pt is s/p CABG [**75**]/[**3066**].
+   - continue metoprolol as above
+   - continue aspirin 81 mg daily, atorvastatin 40 mg daily
+   .
+   # Respiratory Failure: Now, s/p trach.
+   - trach in place
+   - continue albuterol/atrovent PRN
+   .
+   # Pressor Requirement: Pt weaned off of pressors.
+   .
+   # Hypothyroidism:
+   - continue Synthroid 75 mcg daily
+   .
+   # Fevers: Afebrile for several days now. Per notes, pt completed
+   vanc/cefepime 7 day course for pneumonia as well as 3 days course of
+   abx for positive UA.
+   - f/u cx data
+   - follow fever curve
+   - f/u stool for c.diff
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3073-4-7**] 03:27 AM 35 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3073-3-20**] 04:39 PM
+   Multi Lumen - [**3073-3-25**] 01:49 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

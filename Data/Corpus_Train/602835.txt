@@ -1,0 +1,198 @@
+Chief Complaint:
+   24 Hour Events:
+   -TEE:The left atrium is mildly dilated. No spontaneous echo contrast or
+   thrombus is seen in the body of the left atrium/left atrial appendage
+   or the body of the right atrium/right atrial appendage. No atrial
+   septal defect is seen by 2D or color Doppler. Overall left ventricular
+   systolic function is normal (LVEF>55%). Right ventricular chamber size
+   and free wall motion are normal. There are simple atheroma in the
+   aortic arch. The thrss aortic valve leaflets are mildly thickened. No
+   aortic regurgitation is seen. The mitral valve leaflets are mildly
+   thickened. Mild (1+) mitral regurgitation is seen. There is no
+   pericardial effusion. IMPRESSION: No intracardiac thrombus identified.
+   Mild MR. [**First Name (Titles) 5197**] [**Last Name (Titles) 5198**] in the aortic arch.
+   - no other events
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3006-5-2**] 12:28 AM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**3006-5-1**] 10:05 AM
+   Midazolam (Versed) - [**3006-5-1**] 10:15 AM
+   Coumadin (Warfarin) - [**3006-5-1**] 04:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3006-5-2**] 06:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.1
+C (97
+   HR: 43 (43 - 72) bpm
+   BP: 108/51(64) {91/41(53) - 151/84(94)} mmHg
+   RR: 13 (11 - 24) insp/min
+   SpO2: 98%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 75 Inch
+             Total In:
+                                                                  2,069 mL
+                                                                    333 mL
+   PO:
+                                                                  1,170 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    899 mL
+                                                                    213 mL
+   Blood products:
+   Total out:
+                                                                  5,825 mL
+                                                                      0 mL
+   Urine:
+                                                                  5,825 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,756 mL
+                                                                    333 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   SpO2: 98%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Obese
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   K/uL
+   g/dL
+   mg/dL
+   mg/dL
+    mEq/L
+   mEq/L
+   mg/dL
+   mEq/L
+   mEq/L
+   %
+   K/uL
+        [image002.jpg]
+                             [**3006-4-26**]  05:35 PM
+                             [**3006-4-27**]  05:52 AM
+                             [**3006-4-28**]  05:43 AM
+                             [**3006-4-29**]  05:39 AM
+                             [**3006-4-30**]  04:40 AM
+                             [**3006-5-1**]  05:17 AM
+   WBC
+   15.4
+   13.7
+   13.0
+   13.2
+   14.5
+   16.5
+   Hct
+   34.8
+   32.6
+   32.3
+   32.2
+   32.6
+   34.2
+   Plt
+   222
+   223
+   230
+   290
+   324
+   342
+   Cr
+   1.6
+   1.5
+   1.5
+   1.3
+   1.4
+   1.5
+   Glucose
+   95
+   133
+   114
+   92
+   99
+   93
+   Other labs: PT / PTT / INR:14.9/67.2/1.3, Ca++:8.4 mg/dL, Mg++:2.2
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   52 yo male with history of morbid obesity, WPW, HTN, hyperlipidemia
+   presents with A fib with RVR.
+   .
+   # Tachycardia:  Resolved,  admitted with A fib with RVR.  The patient
+   has been in sinus rhythm in the 40-50s, initially with very clear signs
+   of WPW, posterior right septal bypass tract, but now narrow complex.
+   - Ctes to be in sinus with slight bradycardia on 80mg TID propranolol
+   so will decrease propanolol dose to 60 TID today
+   - continue coumadin, however since no evidence of thrombus on TEE done
+   yesterday, will not require bridge for discharge
+   - Will require EP study for ablation of WPW bypass tract as an
+   outpatient
+   - Will require coumadin monitoring as outpatient which will be set up
+   for him before he leaves
+   # [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]: Confirmed presence by Dr. [**Last Name (STitle) 5081**] after reviewing TEE
+   from [**Hospital1 95**], however no evidence of thrombus on TEE done yesterday
+   - Continue Heparin drip until discharge, however does not require
+   bridge
+   - Increased coumadin to 10mg
+   .
+   # Febrile Illness: Presentation and CXR consistent with CAP.
+   - Continue doxy/ctx (first dose [**3006-4-26**]), day 6 of 10, will discharge on
+   cefpodoxime and doxycycline
+   - Urine cultures negative, however foley pulled, some hematuria
+   - F/U  Blood and sputum cultures, negative to date
+   - D/Ced Foley
+   .
+   # Hashimoto's Thyroiditis: overtreatment with levoxyl. Following TFTs
+   - restarted levothyroxine at lower dose
+   - care with propanolol as it prevents conversion of T4 to T3.
+   # Contact:  [**Name (NI) 285**] [**Last Name (NamePattern1) 250**], sister, HCP, [**Telephone/Fax (1) 5076**], [**Name2 (NI) **] [**Last Name (NamePattern1) 5077**],
+   fiance [**Telephone/Fax (1) 5078**]
+   ICU Care
+   Nutrition: Heart healthy diet
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3006-4-26**] 05:02 PM->pull prior to d/c
+   Prophylaxis:
+   DVT:  Heparin drip
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  Likely discharge today
+   ------ Protected Section ------
+   I  noted opvernight course reviewed data,and examined Pt.
+   Agree with Dr.[**Last Name (STitle) 5030**]
+s assessment and notes.Agree with plan of
+   management.
+   Can be discharged today.
+   I will follow in [**4-28**] weeeks.
+   Spent 45 mins over case.
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4774**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) 4774**]
+   on:[**3006-5-2**] 10:29 ------
+
+
+
+DOC CLASS

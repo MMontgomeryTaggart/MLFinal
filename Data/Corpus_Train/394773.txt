@@ -1,0 +1,208 @@
+TITLE: SUB-INTERN PROGRESS NOTE
+   Chief Complaint:
+   24 Hour Events:
+   Patient was tachycardic to 150s overnight, given diltiazem 5 mg IV x2,
+   HR down to 120s and with stable blood pressure. Otherwise sating well.
+   Urinating a lot, HR increases with urination.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,900 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**3170-5-14**] 02:00 AM
+   Diltiazem - [**3170-5-14**] 05:06 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3170-5-14**] 07:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 35.3
+C (95.6
+   HR: 142 (94 - 148) bpm
+   BP: 109/71(78) {104/53(73) - 148/94(98)} mmHg
+   RR: 23 (16 - 25) insp/min
+   SpO2: 92%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 72 Inch
+             Total In:
+                                                                    214 mL
+                                                                    136 mL
+   PO:
+                                                                    120 mL
+             TF:
+   IVF:
+                                                                     94 mL
+                                                                    136 mL
+   Blood products:
+   Total out:
+                                                                    650 mL
+                                                                    700 mL
+   Urine:
+                                                                    650 mL
+                                                                    700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -436 mL
+                                                                   -564 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   Physical Examination
+   GENERAL: well-appearing gentleman sitting at the bedside.
+   NEURO: pearl, eomi
+   CV: distance heart sounds irregular rhythm, tachycardic around 100, no
+   murmurs, JVP 8
+   PULM: moderate expiratory wheezes bilaterally throughout lung fields
+   ABD: bowel sounds present, non-tender, non-distended, voluntary
+   guarding
+   Labs / Radiology
+   247 K/uL
+   12.3 g/dL
+   162 mg/dL
+   0.7 mg/dL
+   37 mEq/L
+   5.2 mEq/L
+   26 mg/dL
+   95 mEq/L
+   135 mEq/L
+   38.5 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**3170-5-13**]  05:33 PM
+   WBC
+   9.4
+   Hct
+   38.5
+   Plt
+   247
+   Cr
+   0.7
+   Glucose
+   162
+   Other labs: PT / PTT / INR:15.9/45.1/1.4, ALT / AST:20/13, Alk Phos / T
+   Bili:57/0.6, Differential-Neuts:84.7 %, Lymph:10.9 %, Mono:4.2 %,
+   Eos:0.0 %, Albumin:3.6 g/dL, Ca++:8.9 mg/dL, Mg++:2.1 mg/dL, PO4:3.1
+   mg/dL
+   Assessment and Plan
+   This is a 56 year old man with a history of morbid obesity, DM, HTN,
+   who was transferred from [**Hospital3 **] for further management of
+   atrial flutter and possible ablation/cardioversion.
+   # ATRIAL FLUTTER: The patient has atrial flutter that has been
+   difficult to rate control despite multiple agents for the past two days
+   at [**Hospital3 **]. At the [**Hospital1 1**] his rate is still tachycardic in the
+   110s-120s on diltiazen boluses. Since his tachyarrhythmia has been
+   difficult to control on medical therapy, he will need electrical
+   cardioversion to reverse his typical atrial flutter. In addition, he
+   should have ablation to prevent recurrence of flutter. However, given
+   the possibility that his flutter has been going on for the past 2 weeks
+   and his CHADS2 score is [**1-30**] (4% risk of stroke), the risk of
+   thromboembolism with cardioversion is high. Today he will have a TEE to
+   assess for clot in the left atrium, and if there is no clot Dr.
+   [**Last Name (STitle) 5961**] will do the cardioversion and ablation. After the procedure he
+   will need to continue warfarin (goal INR 2.0-3.0) for at least 4 weeks.
+   -          Diltiazem boluses until the procedure for rate control if HR
+   is 130-150s, goal HR 80-120
+   -          warfarin 5 mg po qd for goal INR 2.0-3.0
+   -          heparin sliding scale to bridge to INR goal
+   -          TEE to assess for clot
+   -          Electrical cardioversion if no clot present with Dr.
+   [**Last Name (STitle) 5961**]
+   -          Ablation to prevent recurrent flutter
+   # CONGESTIVE HEART FAILURE:  Given the history of increasing dyspnea on
+   exertion for two weeks and the finding of atrial fibrillation with RVR
+   in 170s on admission to [**Hospital3 **], the etiology of his CHF is
+   most likely tachycardia-induced cardiomyopathy. His extremely high
+   heart rate decreases diastolic filling time, thus decreasing preload
+   and stroke volume, which decreases his cardiac output and forward flow.
+   To add insult to injury, atrial fibrillation/flutter prevents the
+   normal atrial kick from adding to cardiac output. Thus, tachycardiac is
+   the most likely culprit. His report of sweats/chills during the two
+   weeks prior to admission could have induced his tachyarrhythmia, but
+   viral-induced cardiomyopathy on top of atrial flutter should remain on
+   the differential given the vagueness of his symptoms. It is also
+   possible that he has chronic CHF secondary to COPD and OSA given his
+   history of smoking and body habitus, which may have caused his
+   tachyarrhythmia, which then exacerbated his CHF. For further evaluation
+   we would need PFTs, sleep studies, and a measurement of his heart
+   pressures, but these could be performed as an outpatient. Other
+   etiologies, such as ischemia-related and toxic cardiomyopathy, are less
+   likely given no history of CAD, ACS, alcohol abuse, and cocaine abuse.
+   Either way, he will need an echo as an outpatient in 6 months to assess
+   if his cardiac function has recovered. At this time, he is largely
+   improved after his lasix and diuresis at [**Hospital3 **], and he has
+   diuresed about 400cc since admission here. He is still mildly fluid
+   overloaded as evidenced by pitting edema in his calves. I/O goals for
+   today after the procedure should be -1L , and we may consider lasix
+   after he gets back to the floor.
+   -          Electrical cardioversion and ablation should improve his
+   cardiac output, resolving CHF
+   -          I/O goal net -1L
+   -          diltiazem for rate control, goal HR 80-100
+   # WHEEZING: Given the patient
+s extensive history of smoking, he is at
+   risk for COPD. At the outside hospital he was started on multiple
+   medications (duoneb, spiriva, solu-medrol and advair) to treat
+   presumable COPD. However, since he is not symptomatic from wheezing and
+   he satting low 90s on room air, specific treatment is better suited in
+   the outpatient environment.
+   .
+   # CORONARIES: The patient has no evidence of CAD on EKG, but because
+   his [**Location (un) 147**] risk score is 20% for MI in the next 10 years, he should
+   be on a baby aspirin.
+   .
+   # DMII: Patient has history of diabetes. Sugars are high on admission.
+   -          Insulin sliding scale
+   .
+   # Hyperlipidemia: Patient has history of dyslipidemia.
+   -          Continue home regimen.
+   .
+   # HTN: The patient has a history of hypertension. However, given that
+   lisinopril would tweak his hemodynamics, we will hold his home blood
+   pressure medications.
+   ..
+   # FEN: NPO for TEE, cardiac diet afterwards
+   # ACCESS: PIV's x2 18s
+   # PROPHYLAXIS:
+   -          DVT ppx: covered with heparin which we are using for his
+   Coumadin bridge
+   -          Bowel regimen with senna/colace
+   # CODE: full
+   # DISPO: CCU for now, will likely be candidate for [**Hospital Ward Name 403**] 3 after the
+   procedure
+   # CONTACT: wife: [**Telephone/Fax (1) 5937**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3170-5-14**] 12:31 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   [**Doctor First Name **] Drzymalski, MS-IV
+   PGY 1 Addendum:
+   Patient seen and examined with medical student and I agree with his
+   physical exam and assessment/plan as noted below:
+   Patient with a-flutter, plan for ablation this morning. Will d/c dilt
+   gtt post-ablation as rate allows. On heparin gtt as bridge to coumadin
+   for at least one month of treatment.  TEE this morning without evidence
+   of clot. Will restart on ACE-I today and add on BB as bp
+s tolerate.
+
+
+
+DOC CLASS

@@ -1,0 +1,378 @@
+Chief Complaint:  Reason for admission:  vascular surgery evaluation
+   for right heel ulcer
+   .
+   Reason for transfer to MICU:  Ongoing hypotension, hypothermia,
+   anasarca, and inability to tolerate HD for fluid removal
+   HPI:
+   Ms. [**Known patient lastname 5137**] was admitted on [**3211-12-29**] for vascular surgery evaluation of
+   right heel ulcer.  She was started on vanco/cipro/flagyl on admission
+   to cover an infection.  On hospital day 2 ([**3211-12-30**]), she underwent
+   right peroneal angioplasty on [**3211-12-30**] and was put on an argatroban
+   drip for 24 hours following hte procedure.  On [**12-31**], she was noted to
+   be hypotensive to 72/37 and hypothermic to 94.6.  Cardiac enzymes were
+   check and were noted to be positive.  She was transfused 2 units PRBCs
+   on [**12-31**]. Plastic surgery was consulted for evaluation of sacral decub,
+   but declined to debride wound due to aspirin/plavix/argatroban use.
+   She underwent HD on [**3212-1-1**], but they were unable to remove fluid due
+   to low blood pressures.  When renal evaluted her on that day, there was
+   concern that her mental status was not at baseline and her words were
+   not well enunciated.  They recommended sending blood cultures and
+   broadening antibiotics but this was not done.  Cardiology was consulted
+   on [**1-1**] for bradycardia, hypotension, and elevated cardiac enzymes,
+   who had no specific recommendations other than to d/c beta-blockers.
+   An echo was performed on [**1-2**] which showed new regional wall motion
+   abnormalities. Given hypotension, anasarca, and inability to tolerate
+   HD due to low BPs, patient was transfered to MICU for CVVH.
+   .
+   Upon arrival to the MICU, patient reports right hand pain.  She denies
+   any other complaints.  No abdominal pain, nausea, vomiting, diarrhea,
+   fevers, chills, SOB, chest pain.
+   Allergies:
+   Penicillins
+   Rash;  Swelling
+   Codeine
+   Wheezing; Short
+   Heparin Agents
+   Thrombocytopeni
+   Levofloxacin
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Norepinephrine - 0.05 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Home Meds:
+   1.  Acetaminophen
+   2.  albuterol MDI
+   3.  ASA
+   4.  colace
+   5.  advair diskus (250/50)
+   6.  synthroid
+   7.  metoprolol XL
+   8.  neutra-phos
+   9.  pantoprazole
+   10. simvastatin
+   .
+   Medications on Transfer:
+   Carbamide Peroxide ear drops
+   Vancomycin D1 = [**3212-1-2**]
+   Insulin SS
+   Toprol 12.5 XL
+   Silver sulfadiazine
+   Hydromorphone prn
+   Aspirin 81 mg daily
+   Plavix 75 mg daily
+   Flagyl 500 q 8, D1 = [**12-29**]
+   Cipro 500 mg daily, d1 = [**12-29**]
+   Colace
+   Fluticasone/Salmeterol [**Hospital1 **]
+   Simvastatin 40 mg daily
+   Pantoprazole 40 mg daily
+   Levothyroxine 175 daily
+   Albuterol prn
+   Past medical history:
+   Family history:
+   Social History:
+   Type 2 DM
+   ESRD on HD Tue/Thurs/Sat
+   CAD s/p MI in [**3193**] and [**3203**], s/p CABG x 2
+   Diagstolic CHV (EF 60-65%0
+   PAF (not anticoagulated due to GI bleeds)
+   HTN
+   Hypothyroidism
+   Anemia of chronic disease
+   Thrombocytopenia
+   HIT in [**3206**]
+   H/o MRSA endocarditis
+   Chronic GI bleeds due to AVMs
+   PUD, Barrett's
+   Asthma
+   PSH:
+   CABG x 2
+   Cholecystectomy
+   TAH/BSO
+   L BKA [**3211-12-13**]
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Patient primarily speaks spanish but understand english well.
+   She is wheelchair bound and lives in a [**Hospital1 159**].  She is widowed.  She
+   denies tobacco, alcohol, or drug use.
+   Review of systems:
+   Flowsheet Data as of [**3212-1-4**] 02:44 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 36.2
+C (97.2
+   HR: 66 (66 - 72) bpm
+   BP: 114/49(64) {72/28(38) - 114/49(64)} mmHg
+   RR: 22 (19 - 22) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             1,118 mL
+   PO:
+             TF:
+   IVF:
+   23 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,118 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 92%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: Well nourished, obese, anasarcic
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : anteriorly)
+   Abdominal: Soft, Non-tender, Bowel sounds present, obese
+   Extremities: Right: 3+, Left: 3+, Right heel ulcer, Left BKA
+   Skin:  Not assessed, Sacral decub, right heel ulcer, RUE
+   erythema/warmth
+   Neurologic: Responds to: Not assessed, Oriented (to): x 2, Movement:
+   Not assessed, Tone: Not assessed
+   Labs / Radiology
+   117 K/uL
+   8.8 g/dL
+   95 mg/dL
+   3.6 mg/dL
+   29 mg/dL
+   25 mEq/L
+   97 mEq/L
+   4.2 mEq/L
+   129 mEq/L
+   25.9 %
+   17.1 K/uL
+        [image002.jpg]
+                                  [**3209-2-9**]
+                         2:33 A11/26/[**3211**]  12:33 AM
+                                  [**3209-2-13**]
+                                   10:20 P
+                                  [**3209-2-14**]
+                                   1:20 P
+                                  [**3209-2-15**]
+                                   11:50 P
+                                  [**3209-2-16**]
+                                   1:20 A
+                                  [**3209-2-17**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3209-3-12**]
+                                   1:20 P
+                                  [**3209-3-12**]
+                                   11:20 P
+                                  [**3209-3-12**]
+                                   4:20 P
+   WBC
+                                    17.1
+   Hct
+                                    25.9
+   Plt
+                                     117
+   Cr
+                                     3.6
+   Glucose
+                                     95
+   Other labs: PT / PTT / INR:21.1/38.5/2.0, CK / CKMB / Troponin-T:17//,
+   ALT / AST:[**12-1**], Alk Phos / T Bili:174/0.7, Differential-Neuts:89.3 %,
+   Lymph:4.3 %, Mono:6.0 %, Eos:0.3 %, Lactic Acid:2.9 mmol/L, Albumin:1.6
+   g/dL, LDH:198 IU/L, Ca++:6.8 mg/dL, Mg++:1.5 mg/dL, PO4:2.1 mg/dL
+   Fluid analysis / Other labs: Labs:
+   130 | 97 | 25 /
+   -------------- 89
+   4.1 | 25 | 3.3 
+   .
+   Ca 6.6
+   Mg 1.6
+   Phos 2.0
+   .
+   ..  8.5 /
+   15.8 ---- 110
+   .. / 24.8 
+   .
+   PT 21.0
+   PTT 42.7
+   INR 2.0
+   Imaging: Micro: None
+   .
+   RUE LENI.  [**3212-1-3**].  No DVT.
+   .
+   Echo: [**3212-1-2**].
+   IMPRESSION: Normal left ventricular cavity size with regional systolic
+   function most c/w CAD. Mildly dilated RV with mild global hypokinesis.
+   Mild pulmonary arterial systolic hypertension. Mild mitral
+   regurgitation.
+   .
+   Compared with the prior study (images reviewed) of [**3211-6-6**], the
+   regional left ventricular dysfunction is new and c/w interim ischemia.
+   The severity of mitral regurgitation is slightly increased.
+   .
+   CXR. [**3212-1-3**].
+   Since yesterday, sternotomy for CABG is again seen. Interstitial edema
+   is new. Moderate bilateral pleural effusion with associated bibasilar
+   atelectasis are unchanged. Cardiomegaly is stable. There is no other
+   overall change.
+   .
+   Assessment and Plan
+   Ms. [**Known patient lastname 5137**] is a 78 year old female with type 2 DM, ESRD on HD, PVD s/p
+   BKA, CAD s/p MI, admitted to vascular surgery for right peroeneal
+   angiopalsty on [**12-30**] now with ongoing hypotension, hypotheremia, and
+   need for more aggressive volume removal with CVVH.
+   .
+   1.  Hypotension.  Patient noted to be hypotensive throughout five day
+   hospital stay, routinely having blood pressures in the 70s and 80s.
+   She has been noted to be mentating, but there has been concern that her
+   mental status is not her baseline per renal (will need to confirm with
+   family).  Patient has warm extremities and multiple possible infectious
+   sources (RLE heel ulcer, sacral decub, RUE cellulitis) making septic
+   shock a strong possibility.  In addition, patient has a history of
+   endocarditis with no evidence of vegetations on TTE, but TEE not
+   performed.  Less likely etiology of hypotension is cardiogenic shock
+   given the finding of new regional wall motion abnormalities consistent
+   with ischemia on echo and elevated cardiac enzymes (Trop 0.2 --> 0.2
+   --> 0.15 with flat CK).  Patient appears hypervolemia.  Given rising
+   WBC, ongoing hypotension, and history of multiple resistant organisms
+   in past (VRE, MRSA, cipro-resistant pseudomonas, will cover broadly
+   with dapto/[**Last Name (un) 411**]/flagyl.
+   - d/c vanco/cipro and start dapto/[**Last Name (un) 411**]
+   - continue flagyl until C. diff is negative given abx exposures
+   - Daily EKGs
+   - check cortisol
+   - levophed to maintain MAPS> 56
+   - f/u blood culture and stool culture; CXR
+   .
+   ESRD on dialysis.  Likely secondary to diabetes and HTN.  Patient has
+   been getting dialysis 3xweek, but unable to remove volume due to low
+   blood pressures.  Now grossly fluid overloaded (?> 30 kg up from dry
+   weight) though not requiring supplemental oxygen.  HD line placed
+   today.
+   - CVVH with goal of 200-300 cc/hour
+   - levophed to maintain MAPs> 65 so CVVH can be tolerated
+   - no priming of pump due to h/o HIT
+   - renal following
+   - CXR to evaluate for interstitial edema/fluid overload
+   .
+   Sacral decubitus ulcer.  Patient was evaluated by plastics for possible
+   debridement, however, they are unwilling to debride the wound in
+   setting of plavix use.  They recommend improvement of nutritional
+   status, frequent turning, and kinaire bed.
+   - nutrition
+   - vitamin C and zinc
+   - logroll q2hr
+   - continue kinair bed
+   -sacral ulcer: place duoderm over ulcer that is surrounding the
+   eschar, then dry 4X4 guaze and ABD pad over entire ulcer
+   -Bilater ischial ulcers: place duoderm and allevyn over ulcers
+   -we will continue to follow with you
+   .
+   Heel ulcer.  Patient is s/p right peroneal angioplasty for righ limb
+   ischemia who now has right heel necrosis.  Has been evaluated by
+   podiatry.
+   - multipodis boots
+   - podiatry following
+   .
+   CAD s/p MI.  Patient noted to have new regional wall motion
+   abnormalities consistent with ischemia.  Has had two CABGs in past.
+   Troponin mildly elevated in setting of renal failure with flat CK not
+   suggestive of an acute event.
+   - aspirin, plavix, statin
+   - hold BB due to hypotension
+   .
+   Hyponatremia.  Patient appear hypervolemic.  Hyponatremia has worsened
+   during hospital stay though patient is on D51/2NS upon arrival to MICu.
+   - free water restrict
+   - fluid removal with CVVH
+   - d/c D51/2NS
+   - follow Na
+   - check urine lytes, osms
+   .
+   Leukocytosis.  WBC has been elevated since admission on [**12-29**], though
+   is rising of the past few days.  Patient has had no documented fevers,
+   though as been hypothermic several times during hospital stay,
+   concerning for infectious etiology.  Numerous possible infectious
+   sources include her sacral decub, right heel ulcer.
+   - follow WBC
+   - continue broad spectrum abx
+   - follow fever curve
+   - follow up blood cultures, stool culture, CXR
+   .
+   Anemia.  Baseline Hct between 25 and 32.  Currently 24.8.  Has ESRD,
+   history of ACD, and history of chronic GI bleeds due to AVMs and PUD.
+   Iron studies on [**12-30**] consistent with anemia of chronic disease.
+   - consider initiation of epo, will discuss with renal
+   - guaiac stools
+   - follow Hct
+   .
+   Thrombocytopenia.  Thombocytopenia < 100 since [**3205**].  Has history of
+   HIT in the past.  Unclear etiology of chronic thrombocytopenia, but
+   currently stable.
+   - follow plts
+   - no heparin due to HIT
+   .
+   Type 2 DM.  Patient has diabetes.  S/p BKA.
+   - insulin SS
+   - follow fingersticks
+   .
+   RUE edema.  RUE negative on [**3212-1-3**].  Concerning for cellulitis,
+   particularly in setting of rising WBC and hypotension.
+   - continue dapto/[**Last Name (un) 411**]
+   - f/u blood cultures
+   - follow fever, wbc curve
+   .
+   Elevated INR.  Elevated INR, though not on anticoagulation.   Likely
+   secondary to malnutrition and antibiotic use.
+   - vitamin K
+   - follow coags
+   .
+   Hypothyroidism.
+   - continue levothyroxine
+   .
+   Asthma.
+   - continue albuterol, atrovent, advair
+   .
+   Nutrition.  Patient with albumin of 1.6.  Likely with poor PO intake.
+   Will need nutrition consult.  Needs improved nutrition for wound
+   healing.
+   Ppx: home PPI, pneumoboots (no HSQ due to h/o HIT)
+   Nutition: diabetic diet
+   ICU care
+   Will need to address code status with family/HCP due to patient
+   mental status.
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**3212-1-4**] 12:00 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP: HOB elevation
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

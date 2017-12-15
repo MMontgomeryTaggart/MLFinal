@@ -1,0 +1,279 @@
+Chief Complaint: multisystem organ failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   44 y/o F admitted with NSTEMI, course complicated by fevers,
+   persistently altered mental status, renal failure, shock.
+   24 Hour Events:
+ FEVER - 101.6
+F - [**3225-9-17**] 09:00 AM
+   Off levophed yesterday but back on now.
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Zosyn (Intraven) (Piperacillin Sodium/Tazobactam)
+   Transaminitis
+   Last dose of Antibiotics:
+   Vancomycin - [**3225-9-16**] 08:00 PM
+   Gancyclovir - [**3225-9-17**] 02:09 PM
+   Ciprofloxacin - [**3225-9-17**] 06:00 PM
+   Meropenem - [**3225-9-18**] 02:15 AM
+   Infusions:
+   Heparin Sodium - 650 units/hour
+   Norepinephrine - 0.04 mcg/Kg/min
+   Other ICU medications:
+   Fentanyl - [**3225-9-18**] 02:00 AM
+   Heparin Sodium - [**3225-9-18**] 06:14 AM
+   Other medications:
+   lansoprazole, insulin sliding scale, peridex, plavix, thiamine, folate,
+   mvt, atrovent, aspirin, albuterol, ganciclovir, cipro, [**Last Name (un) **], vanc
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3225-9-18**] 11:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.3
+C (97.3
+   HR: 90 (82 - 92) bpm
+   BP: 91/50(63) {87/46(60) - 118/70(86)} mmHg
+   RR: 19 (14 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80.9 kg (admission): 92 kg
+   Height: 66 Inch
+   CVP: 12 (12 - 26)mmHg
+   Total In:
+                                                                  2,913 mL
+                                                                  1,200 mL
+   PO:
+   TF:
+                                                                    720 mL
+                                                                    332 mL
+   IVF:
+                                                                  1,765 mL
+                                                                    868 mL
+   Blood products:
+                                                                    278 mL
+   Total out:
+                                                                  1,487 mL
+                                                                    751 mL
+   Urine:
+                                                                     85 mL
+                                                                     23 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,426 mL
+                                                                    450 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 796 (107 - 893) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35
+   PIP: 16 cmH2O
+   SpO2: 100%
+   ABG: 7.43/28/108
+   Ve: 15.5 L/min
+   PaO2 / FiO2: 270
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: trach c/d/i
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Absent), (Left radial pulse:
+   Diminished), (Right DP pulse: Absent), (Left DP pulse: Absent), L
+   radial dopplerable, the rest unobtainable
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: 2+, Left: 2+, necrosis of both hands & feet,
+   appears slightly worse today
+   Skin:  Warm
+   Neurologic: Responds to: Noxious stimuli, Movement: No spontaneous
+   movement, Tone: Not assessed
+   Labs / Radiology
+   7.2 g/dL
+   96 K/uL
+   108 mg/dL
+   1.0 mg/dL
+   18 mEq/L
+   5.0 mEq/L
+   32 mg/dL
+   100 mEq/L
+   136 mEq/L
+   22.4 %
+   18.7 K/uL
+        [image002.jpg]
+                             [**3225-9-17**]  09:16 AM
+                             [**3225-9-17**]  03:12 PM
+                             [**3225-9-17**]  03:28 PM
+                             [**3225-9-17**]  09:36 PM
+                             [**3225-9-17**]  10:02 PM
+                             [**3225-9-18**]  01:23 AM
+                             [**3225-9-18**]  04:17 AM
+                             [**3225-9-18**]  04:38 AM
+                             [**3225-9-18**]  09:43 AM
+                             [**3225-9-18**]  09:59 AM
+   WBC
+   18.0
+   18.7
+   Hct
+   23.5
+   23.0
+   22.3
+   22.4
+   Plt
+   86
+   96
+   Cr
+   1.4
+   1.0
+   1.0
+   TCO2
+   25
+   22
+   22
+   18
+   19
+   Glucose
+   128
+   126
+   127
+   108
+   Other labs: PT / PTT / INR:16.5/47.6/1.5, CK / CKMB /
+   Troponin-T:2685/123/1.50, ALT / AST:350/130, Alk Phos / T Bili:127/1.7,
+   Amylase / Lipase:189/38, Differential-Neuts:86.0 %, Band:2.0 %,
+   Lymph:10.0 %, Mono:2.0 %, Eos:0.0 %, D-dimer:6112 ng/mL, Fibrinogen:247
+   mg/dL, Lactic Acid:5.2 mmol/L, Albumin:2.8 g/dL, LDH:1440 IU/L,
+   Ca++:8.1 mg/dL, Mg++:2.2 mg/dL, PO4:3.0 mg/dL
+   Fluid analysis / Other labs: FDP 10-40
+   ALT/AST trending down
+   Alk phos, bilirubin stable
+   Imaging: CXR: improved left hemidiaphragm, improved RLL infiltrate
+   Microbiology: Sputum with acinetobacter (pan [**Last Name (un) 43**])
+   Assessment and Plan
+   44 y/o F admitted with NSTEMI, course complicated by fevers,
+   persistently altered mental status, renal failure, shock.
+   1. Anemia/Thrombocytopenia/Coagulopathy:  Likely due to DIC although
+   unclear what the underlying process is.  Treating for DIC and
+   thrombotic events with heparin gtt.
+   - continue to check serial DIC labs; appear improved (fibrinogen up,
+   FDP down)
+   - continue heparin gtt
+   - transfuse today as trending down
+   2. CMV viremia:  Unclear what to make of this, but reports in the
+   literature that it can cause rhabdo, thrombotic events, so treating
+   with ganciclovir.
+   3. Respiratory failure: On PSV.  When on trach collar her coughing
+   tends to shut off her CVVH circuit.
+   4. Shock/VAP: Continues to require levophed.  Likely sepsis from VAP.
+   - off stress dose steroids
+   - on broad antibiotics for VAP (vanc/[**Last Name (un) **]/cipro), growing acinetobacter
+   and another GNR not yet speciated
+   5. Elevated CK:  Now trending down.  Likely due to DIC and/or CMV.
+   6. ARF:  On CVVH due to hypotension.
+   7. Decreased level of consciousness:  Slightly worse today; hasn't
+   received any fentanyl since 2 AM.
+   8.  NSTEMI- on asa/plavix.
+   9. Hypoglycemia:  Resolved.
+   10.  Elevated LFTs:  Also improving, likely due to CMV.
+   11. Ischemic extremities:  Likely due to DIC causing hypercoaguable
+   state and to levophed.  Continue heparin gtt.  Wean levo if tolerated.
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3225-9-17**] 11:36 AM 30 mL/hour
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   Multi Lumen - [**3225-9-7**] 07:09 PM
+   Dialysis Catheter - [**3225-9-9**] 06:08 PM
+   Arterial Line - [**3225-9-16**] 06:48 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: ICU consent signed Comments: Family meeting this
+   afternoon.
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill
+   ------ Protected Section ------
+   MICU attending addendum
+   saw and examined the patient and was physically present with the
+   ICU team for key portions of the service provided.  I agree with the
+   above note including the assessment and plan.
+   Exam notable for Tm 101.6  Tc 98.2  BP 91/50   HR 85    RR  13-30
+   100% (PS 5/5 50%)
+        Remains awake, not interactive or following commands,  BS coarse,
+   RR, NT abd with + BS, LE more ischemic appearing, demarcated at mid
+   foot, necrotic toes,  dusky digits on both hands, more mottled.
+   Labs reviewed--> wbc 18.0   hct 22   plt  86   na 132
+   7.48/24/178    ck 2685   (16K)    lactate 4.6     lfts elevated
+   Micro data reviewed   -->  GNR in sputum--pan [**Doctor Last Name **] acinetobacter, 1
+   other gnr
+   CXR reviewed -->more penetrated, inmprovement in R mid zone infiltrate
+   vs atelectsis, clearer L diaphragm
+   A/P: 44 yo F initially presenting in resp distress with NSTEMI with
+   complicated and prolonged ICU course including respiratory failure,
+   ARF, CNS infarcts and persistent decreased level of consciousness, MODS
+   Ongoing problems include:
+     * Persistent leukocytosis
+     * Fevers
+     * cmv
+     * gnr pna (acinetobacter)
+     * sepsis/Hypotension on pressor (weaning)
+     * Rhabo (ck's improving) ? from cmv
+     * Transaminitis (? Microthrombi of liver vasculature vs CMV
+       infection)
+     * Persistent decreased level of consciousness
+     * Resp failure, trach
+     * ARF, uremia, vol o/l
+     * Anemia
+     * polyangiopathy on renal and skin bx
+     * CNS infarcts
+     * Thrombocytopenia
+     * DIC
+     * Digit ischemia, worsening peripheral perfusion
+     * s/p NSTEMI, stents
+     * intermittent afib, tachy
+     * hyponatremia
+   Remains with a very decreased level of consciousness.  No clear
+   unifying dx.  Prognosis grim, critically ill in MODS with progressive
+   decline, poor peripheral perfusion with dusky extremities and nectroic
+   areas developing on b/l toes.
+   Agree with plan to continue empiric broad spectrum antibx for VAP and
+   gancylcovir for CMV.  Hct remains low without appropriate bump
+   post-transfusion--has had minimal vaginal bleeding and et sx but no
+   obvious active bleeding source-->transfuse, minimize blood draws,
+   monitor. Digit ischemia/poor perfusion of all extremeties continues to
+   worsen--will continue heparin for thrombotic/hypecoagulable state.
+   Wean off pressors as tolerated for MAPS > 60 as pressors
+   further compromising distal pefusion.
+   Continued slow decline without significant change in level of
+   consciousness despite aggressive support.
+   Family mtg today to address gaols of care.  Transitioning toward
+   patient comfort would be most appropriate given grim prognosis and
+   MODS.  Both ethics service and palliative care to be present.  Moving
+   towards futility of ongoing aggressive treatment given
+   continued decline. Prognosis grim.
+   Remainder as per fellow and resident note
+   Pt is critically ill, time spent 45 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 138**] [**Last Name (NamePattern1) 139**], MD
+   on:[**3225-9-18**] 14:37 ------
+
+
+
+DOC CLASS

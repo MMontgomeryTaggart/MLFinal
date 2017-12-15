@@ -1,0 +1,259 @@
+Chief Complaint:  Dizzy
+   HPI:
+   60M with PMH of CAD s/p 3 vessel CABG, IDDM and anemia who presents
+   with one day of dizziness.  The patient states that he woke up at 4am
+   to go to the bathroom this morning and felt dizzy.  He returned to bed
+   and was persistenly dizzy with all subsequent attempts to get out of
+   bed.  Patient notes that he had a dark bowel movement this morning.
+   He also vomited once this orning.  This afternoon, he came to
+   dermatology clinic for scheduled biopsy of an umbilic nodule.  On
+   [**2691-4-7**], the patient had had a CT scan of his abdomen that revealed a
+   4.5cm pancreatic mass with mesenteric and umbilical nodules concerning
+   for metastases.  Following the derm appointment, the patient came to
+   the ED for further evaluation.
+   .
+   In the ED, initial vs were: T 97.6 P 106 BP 94/61 R 18 O2 100% RA
+   Patient did not take his insulin this am and had a blood glucose of 707
+   in the ED for which he received 10 units of insulin.  Repeat FSBS was
+   489.  The patient was also noted to have a positive troponin of .27 and
+   an index of 9.1.  Cardiology was contact[**Name (NI) **] and it was thought to be due
+   to demand in the setting of a hematocrit of 20.  Cardiology recommended
+   giving the patient and aspiring, which was done.  In addition, the
+   patient received 2L NS.  CXR showed no acute cardiopulmonary process.
+   EKG showed T wave inversions in inferior leads, ST elevation in [**Last Name (LF) **], [**First Name3 (LF) **]
+   depression in V5 and V6.
+   .
+   On arrival to the ICU, vitals 98.5 102 101/55 12 95% on 2L.  Pt had no
+   complaints.  ROS as below.  Pt received additional 10 units of insulin
+   for persistently elevated blood glucose.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Pancreatic Tumor with Abdominal Lymphadenopathy
+   Anemia
+   Insulin-Dependent Diabetes Mellitus
+   Chronic Renal Insufficiency
+   Bilateral Hernia Repair age 5
+   Congestive Heart Failure
+   Coronary artery disease s/p 3-vessel CABG
+   Hypertension
+   Hyperlipidemia
+   Atrial Septal Defect Repair
+   [**Doctor Last Name 164**] [**Location (un) **] Exposure in [**Country 2298**]
+   Diabetic Retinopathy
+   His father died at the age of 84 from liver
+   cancer, had HTN. Mother is in her 80s and alive, had breast ca.  He has
+   one brother who has asthma, his children are healthy.
+   Occupation: IT for [**Hospital1 471**]
+   Drugs: No
+   Tobacco: None
+   Alcohol: Social 1-2 drinks, 2x week
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever, Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO
+   Respiratory: Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: Abdominal pain, No(t) Nausea, Emesis, No(t) Diarrhea,
+   Constipation
+   Genitourinary: No(t) Dysuria, No(t) Foley
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: Hyperglycemia
+   Heme / Lymph: Lymphadenopathy, Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Flowsheet Data as of [**2691-4-13**] 10:14 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.9
+C (98.5
+   HR: 92 (92 - 102) bpm
+   BP: 102/51(62) {101/51(62) - 102/55(65)} mmHg
+   RR: 22 (12 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+           Total In:
+           1,736 mL
+   PO:
+           TF:
+   IVF:
+   6 mL
+   Blood products:
+   130 mL
+   Total out:
+                                                                      0 mL
+                                                                    550 mL
+   Urine:
+   550 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,186 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL, Pupils dilated, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: abdominal LAD
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   No(t) Crackles : , No(t) Bronchial: , No(t) Wheezes : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, shptty, but palpable
+   abdominal LAD
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm, No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: CT Abd - [**2691-4-7**] - 1. 4.5-cm spiculated mass centered in the
+   distal pancreas, highly concerning for malignancy. Mesenteric nodule
+   and umbilical nodules are compatible with metastatic foci.
+   2. Splenomegaly.
+   3. Cholelithiasis, no evidence of acute cholecystitis.
+   4. Limited assessment of solid organs due to lack of IV contrast.
+   .
+   CXR - [**2691-4-13**] -  No acute cardiopulmonary process.
+   .
+   ECG: Regular rate and rhythm, Q waves in II with questionable ST
+   segment elevations.  New T wave inversion in II, ST segment depression
+   in V5 and V6.
+   Assessment and Plan
+ HYPERGLYCEMIA
+ ANEMIA, CHRONIC
+   60M with PMH of IDDM, CAD s/p 3 [**Last Name (un) 8443**] Cabg and new pancreatic mass
+   and abdominal lymphadenopathy concerning for metastatic presenting with
+   symptomatic anemia.
+   .
+   Anemia - Anemia [**2-16**] malignancy v GI bleed.  HCT 25 last week, guaiac
+   positive stools in ED.  History of coffee ground emesis on capsule
+   study.  Gastritis and duodenitis on EGD [**10-22**].
+   - IV PPI gtt
+   - NPO for now
+   - transfuse 3 units pRBCs, goal HCT >30
+   - HCT q6h
+   - consider GI consult for evaluation of GI bleeding and pancreatic mass
+ likely EGD in am
+   .
+   Pancreatic Mass - concerning for malignancy.  s/p biopy of umbilical
+   nodule
+   - f/u path
+   - discuss with GI
+   .
+   Elevated Troponin - Discussed with cards, likely demand ischemia in
+   setting of anemia v acute MI.  would be difficult to heparinize in
+   setting of GI bleed.  conservative management for now while
+   transfusing.  got ASA in ED.
+   - transfuse for HCT >30 given evidence of ischemia on EKG
+   - cycle enzymes
+   - repeat EKG
+   - continue asa and statin
+   - BBlocker I fpressures will allow
+   .
+   Congestive Heart Failure
+ EF 35%
+   - juidicious use of lasix given volume patient receiving
+   - BBlocker is pressures allow
+   .
+   Chronic Renal Insufficiency
+ Cr below baseline
+   - renally dose meds
+   .
+   Coagulopathy
+ INR 1.5 ad trending up since last checked
+   - Vitamin K
+   .
+   Hyperglycemia/IDDM - Pt did not take insulin this am.
+   - Regular insulin sliging scale
+   .
+   Hypertension - Hold BBlocker for now
+   .
+   Hyperlipidemia - Continue statin and niacin
+   .
+   # FEN: NPO for now, replete electrolytes, regular diabetic diet
+   .
+   # Prophylaxis: Pneumoboots, PPI, Bowel Regiman
+   .
+   # Access: peripherals
+   .
+   # Code: Full Code
+   .
+   # Communication: Patient
+   .
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2691-4-13**] 08:16 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Chart reviewed, patient examined, case discussed in detail with Dr.
+   [**Initials (NamePattern4) **]
+[**Last Name (NamePattern4) **].   I agree with her note above.  In addition, I would
+   add/emphasize:
+   60M w/ PMHx sig for known CAD (s/p CABG and recent + stress test),
+   recently dx presumed metastatic pancreatic cancer, s/p bx of umbilical
+   node.  Referred post bx to ED, found to have hct 20, EKG changes ST
+   elev inf leads, ST depressions V5, V6, I, avL with Trop bump 0.27 to
+   1.17.
+   Demand ischemia
+   Cardiology consulted, recommend aspirin, beta blocker if tolerated.
+   Transfusing pRBC to goal hct 30 given demand ischemia.  Ischemia likely
+   demand mediated and not related to plaque rupture.  Best treatment
+   improve oxygen carrying capacity through pRBC.
+   CHF
+   Follow fluid status closely given h/o CHF
+ latest EF 35%.   If sats
+   dropping with pRBC, lasix between units.
+   Hyponatremia
+   Likely pseudohyponatremia due to elevated glucose.  No intervention at
+   this time
+   Hyperglycemia
+   FSG 700s, spilling glucose in urine, no ketones, gap already closed.
+   Glucose falling already down to 300s.   sliding scale is fine though if
+   jumps back up, insulin drip.  Let [**Last Name (un) 257**] doc know pt is in house.
+   Presumed metastatic pancreatic cancer
+   s/p umbilical node bx. Mult nodules throughout mesentery.
+   Remainder of plan per Dr. [**Initials (NamePattern4) **]
+[**Last Name (NamePattern4) **]
+s note above.
+   Patient is critical ill.  Time spent on care: 40 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 372**] [**Last Name (NamePattern1) 489**], MD
+   on:[**2691-4-14**] 01:56 ------
+
+
+
+DOC CLASS

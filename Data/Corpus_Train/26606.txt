@@ -1,0 +1,170 @@
+Admission Date:  [**2711-11-22**]              Discharge Date:   [**2711-11-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Aleve
+
+Attending:[**First Name3 (LF) 1539**]
+Chief Complaint:
+cc:[**CC Contact Info 7876**]
+Major Surgical or Invasive Procedure:
+cardiac catheterization s/p 2 DES
+
+History of Present Illness:
+HPI: Patient is an 83 year-old woman with HTN, Hyperlipidemia
+who was getting pain with exertion in her left chest for the
+past year, worse for the past 2-3 months. Also increasing DOE
+after exterion, stress. Stress test done 2 months ago showed
+fixed inferior posterior perfusion defect with EF 64% and
+upsloping ST depressions -- Patient developed exhaustion and
+substernal chest discomfort after walking only a short distance
+on the treadmill ([**2711-9-13**]). Patient delayed cath until now. On
+ROS, denied abdominal pain, urinary complaints. Reports
+occasional DOE, occasional PND.
+.
+Cath on [**2711-11-22**] showed Right Dominant System with 2 vessel
+disease: diffusely diseased RCA with 90% mid-RCA stenosis, 70%
+proximal Cx stenosis, and 50% mid-Cx stenosis --> DES to RCA,
+DES to LCX. Given history of possible aspirin allergy (patient
+broke out in hives several years ago after taking Alleve and was
+told by an alergist that she should avoid ASA), patient was
+admitted to CCU for desensitization while under Integrillin and
+Plavix therapy.
+
+
+Past Medical History:
+1. HTN
+2. Hyperlipidemia
+3. CCY
+4. Kidney stones in [**2685**]
+5. Benign R lumpectomy [**2685**]
+6. Bilateral arthroscopic knee surgeries
+7. Inactive TB?
+
+Social History:
+Married for 58 years. Retired broker. Son and daughter in law
+live in area. Lives with husband at home.
+
+Family History:
+CAD: Sister had bypass at age 89. Mother had MI at age 63.
+Brother had Mi at age 52. Another brother with CVA in 50s.
+
+Physical Exam:
+VS: T 96.6; BP 128/44; HR 49; RR 16; 99% RA
+GEN: Pleasant, NAD, comfortable
+HEENT: MMM. JVP 8 cm.
+CV: S1S2 RRR. loud s2 ? click. No MRG
+LUNGS: CTA B/L
+ABD: soft, NT/ND. +BS. No femoral bruits.
+EXT: 2+ DPs, full. Trace ankle edema.
+NEU: AO x 3.
+
+Pertinent Results:
+Cardiac catheterization [**2711-11-22**]:
+1. Selective coronary angiography in this right dominant patient
+
+revealed two vessel coronary artery disease.  The LMCA was
+normal.  The
+LAD had diffuse minor disease.  The LCx had a proximal ulcerated
+70%
+lesion and a proximal OM1 lesion of 50%.  The RCA had a tight
+mid 90%
+lesion.
+2.  Limited resting hemodynamics revealed a blood pressure of
+186/74
+with mean of 102 which was treated with nitro drip.
+3. Successful placement of 2.5 x 28 mm Cypher drug-eluting stent
+in
+mid-RCA postdilated with a 2.75 mm balloon. Final angiography
+demonstrated no residual stenosis, no angiographically apparent
+dissection, and normal flow (See PTCA Comments).
+4. Successful placement of 3.0 x 8 mm Cypher drug-eluting stent
+in
+proximal LCx. Final angiography demonstrated no residual
+stenosis, no
+angiographically apparent dissection, and normal flow (See PTCA
+Comments).
+5. Aspirin desensitization in the intensive care unit today.
+6. Successful placement of 6 French Angioseal device in right
+femoral
+arteriotomy without complications.
+
+FINAL DIAGNOSIS:
+1. Two vessel CAD
+2. Moderate severe systemic hypertension.
+3. Successful placement of drug-eluting stent in mid-RCA.
+4. Successful placement of drug-eluting stent in proximal LCx.
+5. Successful placement of Angioseal in right femoral
+arteriotomy.
+6. Aspirin desensitization today in intensive care unit.
+
+
+Brief Hospital Course:
+Patient is an 83 year-old female with HTN, Hypercholesterolemia,
+and recent +Myoview ([**8-21**]) who was admitted for cardiac
+catheterization. Patient was taken to the catheterization
+laboratory where 2 vessel CAD was seen. Patient received 2 drug
+eluting stents to RCA and LCx, respectively (see Pertinent
+Results section for full details); she tolerated procedure well.
+Given history of Aspirin allergy, patient was subsequently
+admitted to the CCU for staged desensitization. Patient was
+successfully desensitized and outpatient medications were
+restored. Patient to continue ASA indefinitely and Plavix for
+minimum 6 months. Patient was discharged home the following day
+on her routine medications to follow-up with her PCP and
+cardiologist.
+
+Medications on Admission:
+Isosorbide 30mg PO qd
+Toprol 50mg PO qd
+Plavix 75mg PO qd
+Lipitor 10mg PO qd
+Diovan 160mg PO qd
+Tylenol PRN headaches
+
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+4. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+6. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+CAD s/p DES to RCA and LCx
+
+Discharge Condition:
+hemodynamically and clinically stable
+
+Discharge Instructions:
+1. Please take all medications as prescribed
+2. If you develop chest pain, shortness of breath, or any other
+concerning signs/symptoms, please contact your PCP or report to
+the Emergency Room immediately.
+3. Please make all follow-up appointments
+
+Followup Instructions:
+Please make an appointment to see your PCP [**Last Name (NamePattern4) 21**]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3779**] in
+[**6-25**] days.   The number is [**Telephone/Fax (1) 6562**].
+Please make an appointment to see your cardiologist Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) 7877**] in 1 month. The number is [**Telephone/Fax (1) 7878**]
+
+
+
+Completed by:[**2711-11-23**]
+
+
+DOC CLASS

@@ -1,0 +1,269 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**2986-8-10**]
+   - Lasix 80 mg IV bolus in afternoon when +300, still +100 at 11pm
+   - No episodes of VTach throughout the day
+   - CBC w/ diff ordered for AM in setting of increasing WBC (14.7-->16.9)
+   - Na continues to drop (131--> 129), etiology unclear
+   - [**Name2 (NI) 126**] try pt on just Amio PO tomorrow
+   Allergies:
+   Morphine
+   Nausea/Vomiting
+   Mirtazapine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 1 mg/min
+   Other ICU medications:
+   Furosemide (Lasix) - [**2986-8-10**] 09:15 PM
+   Heparin Sodium (Prophylaxis) - [**2986-8-11**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2986-8-11**] 07:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 36.2
+C (97.1
+   HR: 70 (70 - 72) bpm
+   BP: 95/42(55) {86/24(43) - 148/129(134)} mmHg
+   RR: 21 (19 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: AV Paced
+   Wgt (current): 83.4 kg (admission): 87 kg
+             Total In:
+                                                                  1,761 mL
+                                                                    547 mL
+   PO:
+                                                                  1,160 mL
+                                                                    360 mL
+   TF:
+   IVF:
+                                                                    601 mL
+                                                                    187 mL
+   Blood products:
+   Total out:
+                                                                  1,620 mL
+                                                                    910 mL
+   Urine:
+                                                                  1,620 mL
+                                                                    910 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    141 mL
+                                                                   -363 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///22/
+   Physical Examination
+   GENERAL: Elderly man, blind, pleasant and anxious, in NAD.
+   HEENT: Decreased visual acuity bilaterally. Sclera anicteric. PERRL, No
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Bronchial breath sounds in right
+   middle lobe.  No crackles appreciated.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.  RUQ scar
+   EXTREMITIES: s/p Left leg BKA.  Trace edema in RLE.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: DP 2+ PT 2+
+   Left: BKA
+   Labs / Radiology
+   227 K/uL
+   13.2 g/dL
+   115 mg/dL
+   1.3 mg/dL
+   22 mEq/L
+   3.7 mEq/L
+   40 mg/dL
+   93 mEq/L
+   129 mEq/L
+   39.9 %
+   16.8 K/uL
+        [image002.jpg]
+                             [**2986-8-7**]  10:18 PM
+                             [**2986-8-8**]  01:57 AM
+                             [**2986-8-8**]  11:46 AM
+                             [**2986-8-8**]  04:29 PM
+                             [**2986-8-9**]  04:04 AM
+                             [**2986-8-10**]  05:40 AM
+                             [**2986-8-10**]  08:00 PM
+                             [**2986-8-11**]  04:04 AM
+   WBC
+   8.6
+   8.8
+   14.7
+   16.9
+   16.8
+   Hct
+   40.3
+   37.7
+   41.9
+   42.4
+   39.9
+   Plt
+   255
+   252
+   263
+   255
+   227
+   Cr
+   1.0
+   1.0
+   1.1
+   1.2
+   1.4
+   1.3
+   1.3
+   TropT
+   0.03
+   0.03
+   0.02
+   Glucose
+   151
+   136
+   160
+   140
+   134
+   122
+   115
+   Other labs: PT / PTT / INR:14.3/28.7/1.2, CK / CKMB /
+   Troponin-T:54//0.02, ALT / AST:15/18, Alk Phos / T Bili:85/4.0,
+   Differential-Neuts:88.5 %, Lymph:6.1 %, Mono:5.2 %, Eos:0.1 %, LDH:222
+   IU/L, Ca++:8.7 mg/dL, Mg++:2.3 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   The patient is a 86 yo man with h/o CAD s/p MI and CABG in [**2975**], s/p
+   AICD, AFib, who presents from [**Hospital 316**] Rehab with ICD firing for VTach.
+   .
+   # VTach:  The patient had one episode sustained VT yesterday afternoon
+   w/o ICD firing (HR150s)
+ he remained conscious and mentating
+   throughout the episode, although with some chest discomfort. Device
+   interrogation showed no shocking in setting of interpreting VT as
+   nonsustained. It appears that the patient was not taking Amiodarone at
+   [**Hospital 316**] Rehab. Device interogation showed 25 firings in last month.  He
+   was given a Lidocaine bolus in the ED and was started on Lidocaine and
+   Amiodarone gtts in the CCU.  Lidocaine gtt was d/c
+d [**8-8**] PM and pt
+   transitioned to amio PO [**8-9**]. In setting of repeat episode, Amio gtt was
+   restarted in addition to PO.
+   - no further VT in 24 hrs
+   - D/C amio gtt and cont on po amio 400 mg TID
+    - Pt does reiterate DNR/DNI code status but wants ICD to stay on
+   (through Russian interpreter)
+    - F/U Amiodarone level (sendout)
+    - TSH, free T4 WNL, monitor since pt had issues w/ hypothyroidism in
+   past
+    - Cont home Digoxin 0.125 qod
+    - Replete K > 4.0 and Mg > 2.0
+   - confirm that pt would want external defibrillation if  ICD fails to
+   shock for VT
+   .
+   #. Systolic CHF:  The patient  appears euvolemic on exam.
+   - goal today even negative.
+   - 120 mg Lasix PO this afternoon, reassess in AM
+   - no fluid restriction to imitate his home conditions. Follow daily
+   weights and give Lasix prn
+   .
+   # HYPONATREMIA: Na has been trending down since began giving higher
+   doses of Lasix, BUN and Cr has been trending up, now stable today.
+   Likely due to primary polydipsia and low solute intake.
+   - give juice, Ensure/fortified juices in place of ice water
+   .
+   #. CAD:  The patient has a history of CAD s/p MI and CABG in [**2975**].  He
+   has had chest pain in the CCU in setting of ICD firing.  First troponin
+   was slightly elevated at 0.02 but trended down starting [**8-8**] 10am.  No
+   acute ST-T wave changes were appreciated on ECG.
+   - Continue to monitor on telemetry.
+    - Continue home doses of ASA, Imdur, Zocor, Nitroglycerine.
+    - Cont on home Atenolol 12.5 mg [**Hospital1 7**]
+   -  Start Captopril 6.25 TID as tolerated
+   .
+   # LEUKOCYTOSIS: Pt WBC cont to increase, stable today from yesterday.
+   Afebrile, CXR from [**8-8**] no e/o pneumonia.
+   - UA equivocal. UCx sent
+ will f/u
+   - monitor fever curve and WBC
+   .
+   #SLEEP APNEA: Pt has had episodic desat
+s to 80
+s during sleep.
+   Observed to have breathing patterns consistent w/ sleep apnea. Pt
+   complied with NC o/n w/o desats episodes. Will continue with NC when pt
+   is sleeping
+   .
+   # Mental Status/Behavior: Pt has no mental status changes, remained
+   lucid and oriented per interpreter. Asks continually for ice but
+   cooperative yesterday and did not try to get out of bed o/n
+   -          involve interpreter on phone as often as possible
+   .
+   #. Blindness:  The patient has a history of blindness, of unknown
+   etiology.  He currently takes Alphagen, Trusopt, and Xalatam eye gtts.
+    - Continue home regimen of eye gtts
+   .
+   #. Anxiety:  Continue Ativan 1.5 mg qhs and Lorazepam 0.5 mg q4h prn
+   for anxiety.
+   .
+   # Depression:  Continue home dose of Lexapro.
+   .
+   ICU Care
+   Nutrition: Aggressively replete K, Mg. Diabetict diet
+   Glycemic Control:
+   Lines: Peripheral IVs
+   20 Gauge - [**2986-8-9**] 09:12 AM
+   Prophylaxis:
+   DVT: SQ heparin
+   Pain: Tylenol PRN
+   Bowel: Colace, Senna PRN
+   Stress ulcer:
+   VAP:  Daily weights
+   Comments:
+   Communication:  Comments: With patient through interpreter
+   Code status: DNR/DNI
+ confirmed with nursing home which faxed form
+   signed by daughter/patient in [**2984**]; pt did reiterate on [**2986-8-9**] that he
+   wants his ICD to stay on
+   Disposition: CCU for now (call out tomorrow)
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   per housestaff
+   nothing to add
+   Physical Examination
+   per housestaff
+   nothing to add
+   Medical Decision Making
+   per housestaff
+   nothing to add
+   Above discussed extensively with patient.
+   Total time spent on patient care: 60 minutes.
+   Additional comments:
+   communicated with dr [**Known patient lastname 8548**] with a translator
+   he does not want to be intubated but is willing to be defibrillated
+   both through his icd as well as externally if necessary
+   continue iv amiodarone and transition today to all po amiodarone
+   1200 mg for one week then 400 mg thereafter
+   ------ Protected Section Addendum Entered By:[**Name (NI) 442**] [**Name (NI) 5068**]
+   on:[**2986-8-11**] 12:50 ------
+
+
+
+DOC CLASS

@@ -1,0 +1,87 @@
+Admission Date: [**2527-10-20**]        Discharge Date: [**2527-10-29**]
+
+Date of Birth:  [**2461-12-8**]        Sex:  M
+
+Service: Neurosurgery
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 65-year-old
+gentleman who presents with severe headache; initial signs
+and symptoms of frontal headache and neck pain began
+spontaneously on [**2527-10-16**].  He was seen in the ER at that
+time and diagnosed with muscle pain; advised to take Advil
+and discharged.  He had some improvement and then the night
+before admission, he awoke at 3:30 a.m. with similar pain
+again.  It has persisted.  Denies visual changes, nausea, or
+vomiting.
+
+PAST MEDICAL HISTORY:  Negative.
+
+PAST SURGICAL HISTORY:  Negative.
+
+MEDICATIONS:  Advil p.r.n.
+
+PHYSICAL EXAMINATION:  He was afebrile.  His blood pressure
+was 160/80, heart rate 75, respiratory rate 16, saturation 98
+percent on room air.  The patient is alert, oriented and
+cooperative, able to provide all details of history.  Pupils
+were 3 mm down to 2 mm and briskly reactive; EOMs full with
+no nystagmus.  Face symmetric, tongue midline, frontalis
+intact.  Strength is [**6-11**] in all muscle groups.  Sensation is
+intact to light touch.  Proprioception is intact.  Reflexes
+are 2 plus throughout.  Toes are downgoing.  The patient has
+positive neck pain with chin to chest movement and nontender
+to palpation.
+
+LABORATORY DATA:  The patient had a lumbar puncture that
+showed [**Numeric Identifier **] red cells in tube number 1 and [**Numeric Identifier **] in tube
+number 2.  Head CT was normal with no signs of hemorrhage.
+
+REASON FOR ADMISSION:  The patient was admitted for angiogram
+to rule out subarachnoid hemorrhage.
+
+HOSPITAL COURSE:  The patient was taken to angiogram on
+[**2527-10-20**], where he had a diagnostic angiogram, which showed
+no evidence of aneurysm or evidence of vertebral dissection.
+Postoperatively, the patient remained neurologically intact.
+His angiogram site was without hematoma.  He has had positive
+pedal pulses.  He had an MRI of the head and neck.  He was
+admitted to the ICU for close neurologic monitoring and he
+was transferred out of the ICU on [**2527-10-23**].  Neurologically,
+he was intact with intermittent headaches; was being treated
+with IV Dilaudid.  No focal deficits, oriented times 3.  The
+patient was transferred to the regular floor on [**2527-10-24**] in
+stable condition.  His A-line was discontinued.  He continued
+to see Physical Therapy and Occupational Therapy.  He
+remained neurologically stable with stable blood pressures.
+Repeat angiogram on [**2527-10-27**], which again showed no evidence
+of aneurysm.  The patient remained stable post angiogram with
+positive pedal pulses and negative groin hematoma.  He was
+discharged to home on [**2527-10-29**], with a followup with Dr.
+[**Last Name (STitle) 134**] in 3 weeks.  He was neurologically intact at the time
+of discharge.
+
+DISCHARGE MEDICATIONS:  His medications at the time of
+discharge includes:
+1. Decadron to wean off over 3 to 4 days.
+2. Labetalol 200 mg p.o. t.i.d.
+3. Percocet 1 to 2 tablets p.o. q.4 hours p.r.n.
+4. Famotidine 20 mg p.o. b.i.d.
+
+
+CONDITION ON DISCHARGE:  The patient's condition was stable
+at the time of discharge.
+
+
+
+                        [**Name6 (MD) 133**] [**Last Name (NamePattern4) **], [**MD Number(1) 6066**]
+
+Dictated By:[**Last Name (NamePattern1) 7715**]
+MEDQUIST36
+D:  [**2528-1-8**] 12:21:07
+T:  [**2528-1-9**] 10:36:56
+Job#:  [**Job Number 35818**]
+
+
+
+DOC CLASS

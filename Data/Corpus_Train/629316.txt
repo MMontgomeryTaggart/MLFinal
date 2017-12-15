@@ -1,0 +1,374 @@
+Chief Complaint:  respiratory distress
+   HPI:
+   40 yo homeless [**Male First Name (un) 1945**] admitted for workup of acromegaly, found to have
+   laboratory abnormalities consistent with tumor lysis syndrome, now
+   being transferred from the floor for increasing respiratory distress.
+   .
+   On review of the chart, he was admitted on [**2699-7-1**] as OSH transfer for
+   multiple concerns including bell's palsy, urinary retention, pituitary
+   macroadenoma, acromegaly, persistent sinus tachycardia, scrotal pain
+   and swelling, bilateral LE weakness, and thecal/ epidural enhancement
+   in thoracic region and tumor lysis syndrome concerning for underlying
+   malignancy.
+   .
+   Prior to transfer, he had been received 150cc NS/hr for rising tumor
+   lysis labs and becoming progressively more dyspnic with increasing
+   oxygen requirement. Cardiology had been consulted for persistent sinus
+   tachycardia non-responsive to IV fluids and he was started on po
+   metoprolol 50mg TID.  He was being treated w/ acyclovir and prednisone
+   for question of viral-induced Bell's Palsy. Endocrine and neurosurgery
+   were following and work up ongoing for pituitary macroadenoma and
+   acromegaly. MR of T spine was performed to evaluate LE weakness,
+   without evidence of cord compression. Heme/onc on the day prior to
+   transfer attempted bone marrow biopsy but could not obtain due to
+   respiratory distress induced with prone positioning.
+   .
+   At the time of transfer, patient was receiving 150cc NS/hr, received
+   20mg IV lasix x3 in 8 hours. UOP had been good but oxygen requirement
+   had increased to 5L.
+   .
+   On arrival to the MICU, non-invasive ventilation was attempted but
+   unsuccessful [**2-6**] facial structure. He received nitro gtt, morphine 2mg
+   Iv, metoprolol 10 mg Iv, and 40mg IV lasix without improvement in his
+   respiratory status and was intubated.
+   Patient admitted from: [**Hospital1 1**] [**Hospital1 189**]
+   History obtained from Medical records
+   Patient unable to provide history: Sedated, respiratory distress
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 1.5 mcg/Kg/min
+   Fentanyl (Concentrate) - 150 mcg/hour
+   Midazolam (Versed) - 4 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2699-7-3**] 04:00 AM
+   Metoprolol - [**2699-7-3**] 04:00 AM
+   Morphine Sulfate - [**2699-7-3**] 04:15 AM
+   Other medications:
+   at home
+   lasix 40mg daily for 3 days
+   ativan prn
+   .
+   On transfer:
+   Acetaminophen 325-650 mg PO Q6H:PRN
+   Allopurinol 300 mg PO DAILY
+   Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN
+   Artificial Tears 1-2 DROP BOTH EYES PRN
+   Azithromycin 500 mg IV Q24H
+   CeftriaXONE 1 gm IV Q24H
+   Ciprofloxacin HCl 500 mg PO Q12H Day number 1 - [**2699-7-1**]
+   Docusate Sodium 100 mg PO BID
+   Famotidine 20 mg PO BID
+   Fluticasone Propionate NASAL 2 SPRY NU DAILY
+   Heparin 5000 UNIT SC TID
+   Insulin SC
+   Metoprolol Tartrate 50 mg PO TID
+   Ondansetron 4 mg IV Q8H:PRN nausea
+   PredniSONE 60 mg PO DAILY
+   Senna 1 TAB PO BID:PRN constipation
+   Xopenex Neb *NF* 1 amp Other Q4H prn
+   Past medical history:
+   Family history:
+   Social History:
+   - not documented, questionable f/u
+   - r.tibial plateau fx.
+   unknown
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Pt unemployed, living in automobile. Denies ETOH, +smoking (2.5
+   packs X 25 years), denies IVDA/other illicit drug use. Brother
+   incarcerated. 19yr old son in [**Name (NI) 6821**].
+   Review of systems:
+   40 lb weight loss, night sweats, foot enlargement, joint pains.
+   Flowsheet Data as of [**2699-7-3**] 05:59 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   HR: 136 (121 - 145) bpm
+   BP: 132/52(71) {99/40(57) - 174/109(125)} mmHg
+   RR: 29 (18 - 36) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 69 Inch
+             Total In:
+             49 mL
+   PO:
+             TF:
+   IVF:
+   49 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    425 mL
+   Urine:
+   225 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -376 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 1,427 (1,427 - 1,427) mL
+   PS : 15 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   PIP: 21 cmH2O
+   Plateau: 18 cmH2O
+   Compliance: 38.5 cmH2O/mL
+   SpO2: 94%
+   ABG: ///20/
+   Ve: 15.2 L/min
+   Physical Examination
+   General: Alert, oriented, in respiratory distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear, frontal bossing,
+   maxillary protrusion
+   Neck: supple, JVP elevated, no LAD
+   Lungs: gurgle apparent from door, diffuse b/l rales, using accessory
+   muscles
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Neuro: exam limited [**2-6**] acute respiratory distress, + right facial
+   droop
+   Labs / Radiology
+   289 K/uL
+   11.2 g/dL
+   89 mg/dL
+   0.7 mg/dL
+   35 mg/dL
+   20 mEq/L
+   103 mEq/L
+   3.9 mEq/L
+   146 mEq/L
+   33.4 %
+   11.6 K/uL
+        [image002.jpg]
+                                  [**2696-1-6**]
+                          2:33 A6/29/[**2699**]  04:00 AM
+                                  [**2696-1-10**]
+                                   10:20 P
+                                  [**2696-1-11**]
+                                   1:20 P
+                                  [**2696-1-12**]
+                                   11:50 P
+                                  [**2696-1-13**]
+                                   1:20 A
+                                  [**2696-1-14**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2696-2-6**]
+                                   1:20 P
+                                  [**2696-2-6**]
+                                   11:20 P
+                                  [**2696-2-6**]
+                                   4:20 P
+   WBC
+                                    11.6
+   Hct
+                                    33.4
+   Plt
+                                     289
+   Cr
+                                     0.7
+   TropT
+                                    <0.01
+   Glucose
+                                     89
+   Other labs: PT / PTT / INR:13.5/25.6/1.2, CK / CKMB /
+   Troponin-T:80/3/<0.01, ALT / AST:20/52, Alk Phos / T Bili:146/0.7,
+   LDH:6846 IU/L, Ca++:11.0 mg/dL, Mg++:2.1 mg/dL, PO4:6.2 mg/dL
+   Imaging: [**2699-7-2**] CTA IMPRESSION:
+   1. Left lower lobe consolidation consistent with pneumonia.
+   2. Limited assessment for pulmonary emboli but no vascular filling
+   defects identified.
+   3. Marked irregular thickening of central airways, which may accompany
+   an infectious process, but given its very prominent appearance and
+   irregularity, an infiltrative neoplastic process could be considered
+   such as Kaposi's sarcoma or lymphoma, particularly if there is a
+   history of HIV. Sarcoid is felt less likely.
+   4. Splenomegaly and paraspinal masses which suggest extramedullary
+   hematopoiesis or lymphoma.
+   5. Perfusion heterogeneity in each kidney with marked urothelial
+   thickening, consistent with ureteritis and pyelonephritis. However, in
+   addition, the marked degree of urothelial thickening could suggest an
+   additional
+   infiltrative process.
+   6. Marked anasarca and anorexia.
+   7. Thickened appearance of the stomach of unclear significance, given
+   the lack of distension.
+   .
+   [**2699-7-2**] MR T spine:
+   Thin epidural enhancement in the mid thoracic region anteriorly likely
+   represents enhancement of the epidural veins; similar thin enhancement
+   is noted on the surgface of the cord more so in the lower portion.
+   These are not assessed on the axial post contrast images, as these are
+   markdly limited by motion. Compariosn with prior study would be
+   helpful.
+   Scattered areas of enhancement in the vertebral bodies again need
+   comparison with OSH to confirm.
+   .
+   [**2699-7-1**] Scrotal US:IMPRESSION:
+   1. Left epididymo-orchitis and right orchitis.
+   2. Bilateral minimally complex hydroceles.
+   .
+   [**2699-7-2**] CXR - There is streaky opacities within the perihilar regions
+   which have increased since the prior study. There is no overt pulmonary
+   edema or pleural effusions. The cardiac silhouette and mediastinum is
+   grossly within normal limits.
+   Microbiology: [**2618-7-1**] blood cx - pending
+   urine cx - pending
+   Swab CG/chlamydia - pending
+   ECG: Sinus tach w/ frequent PVCs at 135, w/ lateral ST wave
+   depression/inversions stable from prior
+   Assessment and Plan
+   This is a 40 yo M w/ likely new diagnosis of acromegaly, persistent
+   tachycardia and tumor lysis who developed respiratory distress in the
+   setting of IVF administration.
+   .
+   # Respiratory Distress - Exam and history consistent with pulmonary
+   edema. Concern for tachycardia induce cardiomyopathy causing inability
+   to tolerate fluid challenge. Also evolving LLL PNA in CTA from [**2699-7-2**].
+   Had been on ceftriaxone/azithro on floor. No evidence of
+   - intubated, sedate w/ fentyl/versed
+   - hold further IVF
+   - bolus lasix, consider gtt
+   - continue nitro gtt to get SBP<130
+   - ECHO in am
+   - broaden ABX coverage to ceftriaxone/cipro/vanco
+   - obtain sputum cx
+   .
+   # Tachycardia, sinus - persistent despite significant volume
+   resuscitation. TSH nl. Infection vs. high outpt heart failure from
+   acromegaly vs. pain. Cardiology consulted on [**2699-7-2**] recommending
+   initiation of BB.
+   - continue metoprolol 50mg [**Hospital1 **], uptitrate as tolerated
+   - echo in am
+   - r/o MI tropsX3 in setting of acute decompenstation
+   - monitor with tele
+   - treat underlying infectious process as above
+   - appreciate cardiology recs
+   - pain control w/ fentyl gtt
+   .
+   # ? tumor lysis syndrome: suggested by significantly elevated LDH,
+   hypercalcemia, hyperkalemia, hyperphosphatemia. Imaging concerning
+   underlying malignant process in spine - lymphoma, testicular cancer,
+   and granulomatous disease are possibilities
+   - follow [**Hospital1 **] tumor lysis labs
+   - resume hydration as soon as cardiac status/respiratory status
+   stabilize
+   - appreciate onc recs
+   .
+   # B/L LE weakness - w/diffuse nerve root enhancement of lumbar spine
+   and epidural signal changes at T9, T12, L2. Consider infiltrative
+   process. Thoracic Epidural Enhancement on MRA, MRI prelim without
+   evidence of cord compression - Neuro [**Doctor First Name **] following
+   - f/u final MR of T spine
+   - appreciate neurosurg recs
+   .
+   # pituitary macroadenoma invading the cavernous sinus (left):w/
+   acromegaly on exam
+   - f/u neurosurgery recs
+   - f/u endocrine recs,
+   - f/u total Test, SHBG, LH, FSH, Prolactin, AM cortisol, ACTH, TSH,
+   free T4, IGF-1, [**Hospital1 **] to determine if adenoma is functional
+   .
+   # urinary retention - ? related to spinal process causing LE weakness,
+   although imaging negative for cord compression
+   - work up as above for LE weakness, foley in place
+   .
+   # tender scrotal swelling. Epididymitis and orchitis on scrotal US.
+   - cover with cipro 500mg [**Hospital1 **] for 10-14 days from day #1 [**7-1**]
+   - f/u CG/chlamydia
+   .
+   # bell's palsy and right sided facial numbness:  no clear relation to
+   pituitary macroadenoma. ? CN outlet compresion vs. viral etiology
+   - resume acyclovir, continue steroids
+   .
+   # joint pain - related to acromegaly bony change vs. infiltrative bone
+   process
+   - pain control w/ fentnyl
+   .
+   # FEN: resume IVF once cardiac/respiratory status stabilizes, replete
+   electrolytes, npo overnight
+   .
+   # Prophylaxis: Subcutaneous heparin
+   .
+   # Access: peripherals x2
+   .
+   # Code: full
+   .
+   # Communication: Patient
+   .
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2699-7-3**] 04:31 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care
+   Need for restraints reviewed
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 40M homeless, acromegaly / macroadenoma p/w
+   respiratory failure. W/u notable to date notable for elvated LDH /
+   tumor lysis syndrome, thecal enhancement on MRI, sinus tachycardia,
+   Bell's palsy, orchitis. This AM, developed worsening respiratory
+   distress despite lasix, failed NPPV, intubated.
+   Exam notable for Tm 101.5 BP 130/40 HR 130 RR 25 with sat 94 on VAC
+   600x25/18 5 1.0. Prominent brow. Coarse BS B. RRR s1s2. Soft, scaphoid.
+   Labs notable for WBC 11K, HCT 34, K+ 3.9, Cr 0.7, lactate 5.4, BNP
+   1600, LDH 6800. CT c pronounced bronchovascular thickening but no focal
+   ASD.
+   Agree with plan to manage respiratory failure with ongoing VAC support,
+   may need to increase PEEP and RR for ongoing respiratory distress.
+   Cause unclear, suspect some component may be infectious or related to
+   tachycardia induced cardiogenic edema, but the CT is most concerning
+   for infiltrating malignancy. Will continue vanco / CTX / cipro, and
+   will hydrate for now while following up echo. Will need BMBx to r/o
+   marrow infiltration given tumor lysis labs, onc following. Tachycardia
+   may be due to high output heart failure from acromegaly, cards,
+   neurosurg and endocrine following. Await IGF-1 and TSH levels. Would
+   also consider fat pad bx for possible amyloidosis, though it wouldn't
+   explain everything. Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 238**], MD
+   on:[**2699-7-3**] 07:14 ------
+   Bell
+s Palsy
+ D/c prednisone, acyclovir in setting of other ongoing
+   medical issues.
+   Encourage onc to obtain bone marrow to evaluate for underlying cause of
+   tumor lysis.
+   Hypercarbic respiratory failure
+ decrease rr/ Vt as likely autopeep
+   causing hypercarbia, maximally sedate to decrease work of breathing.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 389**] [**Last Name (NamePattern1) 390**], MD
+   on:[**2699-7-3**] 10:23 ------
+
+
+
+DOC CLASS

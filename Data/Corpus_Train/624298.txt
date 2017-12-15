@@ -1,0 +1,240 @@
+CVICU
+   HPI:
+   [**7-21**] POD 1
+   [**7-20**] CABGx  (LIMA-LAD,SVG-  ,SVG-  )
+   62 M pre-op CABG
+   PMHx:
+   Cr:1.1  Wt:118kg   HgA1c:   EF;60%
+   PMHx: allergic rhinitis,ED,hemorrhoids,HOH,chronic back pain,HTN,
+   [**First Name9 (NamePattern2) 8176**]
+   [**Last Name (un) **]:none(noncompliant w/antihtn meds)
+   Current medications:
+   1. 2. 250 mL D5W 3. 500 mL NS 4. Acetaminophen 5. Aspirin EC 6. Aspirin
+   7. Calcium Gluconate 8. Chlorhexidine Gluconate 0.12% Oral Rinse 9.
+   Dextrose 50% 10. Dexmedetomidine 11. Docusate Sodium 12. Docusate
+   Sodium (Liquid) 13. Glycopyrrolate 14. Heparin (IABP) 15. Insulin 16.
+   Magnesium Sulfate
+   17. Meperidine 18. Metoclopramide 19. Milk of Magnesia 20. Morphine
+   Sulfate 21. Neostigmine 22. Nitroglycerin 23. Oxycodone-Acetaminophen
+   24. Pantoprazole 25. Pantoprazole 26. Phenylephrine 27. Potassium
+   Chloride
+   28. Propofol 29. Sodium Chloride 0.9% Flush 30. Vancomycin
+   24 Hour Events:
+ ARTERIAL LINE - START [**3074-7-20**] 10:16 AM
+   Placed by anesthesia at bedside with flush cap for OR
+ OR SENT - At [**3074-7-20**] 01:17 PM
+ OR RECEIVED - At [**3074-7-20**] 07:10 PM
+   cabg x5
+ MULTI LUMEN - STOP [**3074-7-20**] 08:32 PM
+ PA CATHETER - START [**3074-7-20**] 08:44 PM
+ CORDIS/INTRODUCER - START [**3074-7-20**] 08:44 PM
+ EKG - At [**3074-7-20**] 09:25 PM
+ BRONCHOSCOPY - At [**3074-7-20**] 10:33 PM
+   - Had RUL collapse on return from OR, bronched, with re-expansion
+   - Sputum cx sent
+   - Remains intubated in ICU, on IABP
+   - Started on Precidex
+   Allergies:
+   Hydrochlorothiazide
+   photosensitivit
+   Last dose of Antibiotics:
+   Vancomycin - [**3074-7-20**] 10:07 PM
+   Infusions:
+   Propofol - 20 mcg/Kg/min
+   Dexmedetomidine (Precedex) - 0.5 mcg/Kg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3074-7-20**] 11:14 PM
+   Propofol - [**3074-7-21**] 01:30 AM
+   Flowsheet Data as of  [**3074-7-21**] 08:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**77**] a.m.
+   Tmax: 37.7
+C (99.9
+   T current: 37.1
+C (98.8
+   HR: 80 (66 - 80) bpm
+   BP: 94/52(67) {91/41(63) - 171/71(103)} mmHg
+   RR: 15 (10 - 20) insp/min
+   SPO2: 97%
+   Heart rhythm: A Paced
+   Wgt (current): 125.5 kg (admission): 118.5 kg
+   Height: 71 Inch
+   CVP: 15 (7 - 24) mmHg
+   PAP: (30 mmHg) / (20 mmHg)
+   CO/CI (Thermodilution): (5.21 L/min) / (2.1 L/min/m2)
+   CO/CI (Fick): (6.4 L/min) / (2.7 L/min/m2)
+   SVR: 862 dynes*sec/cm5
+   Mixed Venous O2% sat: 69 - 69
+   SV: 62 mL
+   SVI: 26 mL/m2
+   Total In:
+                                                                  5,668 mL
+                                                                  2,018 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  5,168 mL
+                                                                  2,018 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  2,647 mL
+                                                                    575 mL
+   Urine:
+                                                                  2,012 mL
+                                                                    465 mL
+   NG:
+                                                                    300 mL
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,021 mL
+                                                                  1,443 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 25 cmH2O
+   Plateau: 22 cmH2O
+   Compliance: 50 cmH2O/mL
+   SPO2: 97%
+   ABG: 7.40/40/101/23/0
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 253
+   Physical Examination
+   General Appearance: Intubated
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Sedated
+   Labs / Radiology
+   171 K/uL
+   11.3 g/dL
+   118 mg/dL
+   1.1 mg/dL
+   23 mEq/L
+   4.6 mEq/L
+   13 mg/dL
+   114 mEq/L
+   143 mEq/L
+   32.8 %
+   11.5 K/uL
+        [image002.jpg]
+                             [**3074-7-20**]  05:23 PM
+                             [**3074-7-20**]  06:23 PM
+                             [**3074-7-20**]  08:19 PM
+                             [**3074-7-20**]  08:26 PM
+                             [**3074-7-20**]  11:14 PM
+                             [**3074-7-21**]  01:59 AM
+                             [**3074-7-21**]  02:05 AM
+                             [**3074-7-21**]  04:18 AM
+                             [**3074-7-21**]  04:25 AM
+                             [**3074-7-21**]  06:09 AM
+   WBC
+   17.2
+   11.5
+   Hct
+   31
+   34
+   34.4
+   33.1
+   32.8
+   Plt
+   147
+   171
+   Creatinine
+   1.2
+   1.1
+   TCO2
+   26
+   27
+   20
+   25
+   25
+   26
+   Glucose
+   154
+   117
+   114
+   117
+   118
+   Other labs: PT / PTT / INR:12.7/27.5/1.1, CK / CK-MB / Troponin
+   T:181/4/1.06, ALT / AST:38/63, Alk-Phos / T bili:66/0.6, Amylase /
+   Lipase:34/, Lactic Acid:1.1 mmol/L, Albumin:3.0 g/dL, LDH:627 IU/L,
+   Ca:7.9 mg/dL, Mg:2.4 mg/dL, PO4:2.7 mg/dL
+   Imaging:
+   [**7-21**] CXR: No infiltrate, RUL expanded, SWAN in place
+   Microbiology:
+   [**7-20**] sputum: GRAM STAIN (Final [**3074-7-21**]): >25 PMNs and <10 epithelial
+   cells/100X field.  3+  (5-10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+   IN PAIRS AND CLUSTERS. 2+   (1-5 per 1000X FIELD):   GRAM NEGATIVE
+   ROD(S).
+   RESPIRATORY CULTURE (Preliminary):
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), ANXIETY, MYOCARDIAL INFARCTION,
+   ACUTE (AMI, STEMI, NSTEMI)
+   Assessment and Plan:
+   62 M admitted with ACS, pain during cath, IABP placed, now POD 1 CABG x
+   5.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Pt was agitated over
+   weekend before surgery, intubated for safety concerns. Use precidex for
+   sedation. Evaluate mental status once sedation lightened.
+   Cardiovascular: Aspirin, start statin, start BB. Goal BP<130.
+   Pulmonary: Cont ETT, Keep intubated/sedated until IABP is removed given
+   pt was agitated over weekend and stood up with IABP in place. By
+   report, pt was a difficult intubation; when ready for extubation, will
+   have difficult airway cart at the bedside.
+   Gastrointestinal / Abdomen: NPO. Bowel regimen.
+   Nutrition: NPO
+   Renal: Foley, Adequate UO
+   Hematology: Stable anemia.
+   Endocrine: RISS, Adequate glycemic control, gola BS < 150.
+   Infectious Disease: Sputum with GPCs and GNRs: Vanco/Cipro. F/u cx
+   data. WBC 11.5 this AM.
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Post-op hypertension
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   IABP line - [**3074-7-17**] 07:00 PM
+   20 Gauge - [**3074-7-19**] 08:10 AM
+   18 Gauge - [**3074-7-19**] 01:30 PM
+   Arterial Line - [**3074-7-20**] 10:16 AM
+   PA Catheter - [**3074-7-20**] 08:44 PM
+   Cordis/Introducer - [**3074-7-20**] 08:44 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+
+
+
+DOC CLASS

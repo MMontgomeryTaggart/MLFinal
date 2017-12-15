@@ -1,0 +1,307 @@
+Chief Complaint:  Transfer for hypercarbic resp failure
+   HPI:
+   89 year old female with PMH dCHF, Afib, CAD, DM2 who was admitted to
+   [**Hospital Unit Name 4201**] on [**5-30**] for fatigue, cough, SOB and transferred to CCU for
+   tachynpnea and hypoxia.  She was treated for presumed PNA with levaquin
+   and diuresed with torsemide (maintained even) given clinical exam and
+   elevated BNP (6900).  She developed acute renal failure w Cr bump to
+   1.7.  Last night was lethargic and sitting upright.  Triggered at 9am
+   today for tachynpea and hypoxia.  O2 sat 87% 4L w RR 32-36.  ABG
+   7.3/90/61 w HCO3 46.
+   .
+   On my eval, she denied any localizing sx - no HA, neck pain, CP, SOB,
+   abd pain.  She has had loose stool.  She is fatigued.
+   Patient admitted from: floor
+   History obtained from Patient, Family / Friend
+   Allergies:
+   Cardizem (Oral) (Diltiazem Hcl)
+   Anaphylaxis;
+   Lisinopril (Oral)
+   Cough;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2833-6-1**] 10:23 AM
+   Other medications:
+   MEDICATIONS AT HOME:
+   Atorvastatin 10mg po daily
+   Digoxin 125mcg po daily
+   Donepezil 10mg po qhs
+   Metoprolol 62.5mg po daily
+   Omeprazole 20mg po daily
+   Spironolactone 25mg po daily
+   Torsemide 20mg twice a week. 30mg the other days
+   Coumadin 1-1.5mg po daily
+   Calcium 500mg po daily
+   Ferrous gluconate 240mg po daily
+   Senna
+   .
+   MEDICATIONS ON TRANSFER:
+   Ipratropium Q6h
+   Tylenol prn
+   Vitamin C
+   Levaquin 750 q48 (d3)
+   Metop 50 TID
+   Atorva 10
+   Calcium
+   Omeprazole 20 daily
+   Digoxin 0.0625 daily (0.125 on Mon/Thurs)
+   Donepezil 10 qhs
+   Colace
+   Torsemide 60 daily
+   FeSO4
+   .
+   Past medical history:
+   Family history:
+   Social History:
+   1. Atrial fibrillation rate controlled and anticoagulated on coumadin.
+   2. Coronary artery disease.  MIBI [**2828**] w lateral wall defect.  no known
+   cath
+   3. Congestive heart failure -diastolic.  Echo [**2831**] w increased LV
+   filling pressures.  Mod MS (area 1.0-1.5cm2). Moderate (2+) mitral
+   regurgitation and moderate to severe TR.  Sig PR
+   4. Severe pulmonary artery systolic hypertension seen on echo.
+   5. Hypertension.
+   6. Dementia.
+   7. Hyperlipidemia.
+   nc
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: -Tobacco history: Patient quit smoking 30 years ago. Smoked
+   prior.
+   -ETOH: None
+   -Illicit drugs: None
+   -Lives in [**Hospital3 **].  Son and daughter involved
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema
+   Respiratory: Cough, Dyspnea, Tachypnea
+   Flowsheet Data as of [**2833-6-1**] 12:29 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 37.5
+C (99.5
+   HR: 78 (78 - 86) bpm
+   BP: 126/70(85) {126/70(85) - 139/77(94)} mmHg
+   RR: 33 (32 - 34) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    160 mL
+   Urine:
+   160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -160 mL
+   Respiratory
+   O2 Delivery Device: CPAP mask
+   Ventilator mode: CPAP/PPS
+   Vt (Spontaneous): 250 (250 - 250) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 30
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 10 cmH2O
+   SpO2: 96%
+   ABG: 7.27/96.[**Numeric Identifier 228**]/104/36/13
+   Ve: 4.5 L/min
+   PaO2 / FiO2: 208
+   Physical Examination
+   General Appearance: Thin, frail
+   Cardiovascular: Irreg irreg.  Prominent S1.  Parasternal heave.  II/VI
+   LLSB systolic murmur.  No diastolic murmur.  JVP at jaw
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: Resp labored.  Rales throughout with course
+   crackles bilat bases.  Exp wheeze faint.
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender:
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed, AAO to person, place, [**2833-3-20**] but fatigues easily.
+   Motor [**5-24**] bilat distal upper/lower.  [**Last Name (un) **] to light touch
+   Labs / Radiology
+   172 mg/dL
+   1.8 mg/dL
+   68 mg/dL
+   36 mEq/L
+   97 mEq/L
+   5.8 mEq/L
+   144 mEq/L
+        [image002.jpg]
+                                  [**2830-1-21**]
+                          2:33 A5/13/[**2833**]  11:12 AM
+                                  [**2830-1-25**]
+                         10:20 P5/13/[**2833**]  11:41 AM
+                                  [**2830-1-26**]
+                                   1:20 P
+                                  [**2830-1-27**]
+                                   11:50 P
+                                  [**2830-1-28**]
+                                   1:20 A
+                                  [**2830-1-29**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2830-2-21**]
+                                   1:20 P
+                                  [**2830-2-21**]
+                                   11:20 P
+                                  [**2830-2-21**]
+                                   4:20 P
+   Cr
+                                     1.8
+   TC02
+                                     47
+   Glucose
+                                     172
+   Other labs: PT / PTT / INR:42.1/43.0/4.6, Ca++:11.1 mg/dL, Mg++:2.9
+   mg/dL, PO4:5.7 mg/dL
+   Imaging: 146  95  64
+   -------------< 140
+   5.4  40  1.7
+   Ca: 11.4 Mg: 2.9 P: 5.6
+   Alb: 4.5
+   .
+   WBC: 5.9
+   HCT: 44.2
+   PLT: 202
+   PT: 51.4  PTT: 47.0  INR: 5.9
+   .
+   CXR: admit: cardiomegaly w signs of CHF.  No PNA
+   CXR: now: improved congestion.  No obvious PNA (My read)
+   .
+   EKG admit: afib w vent rate 100. NA NI. Q III, aVF
+   EKG current: afib w vent rate 86, NA, NI, Qs III and aVF, TWF V4-V6 and
+   inferiorly.  No peaked T waves or abnl intervals
+   .
+   2D-ECHOCARDIOGRAM:
+   [**2831-11-20**] - mod symmetric LVH w normal EF.  Increased LV filling.
+   No AS but thickened leaflets.  Mod MS (area 1.0-1.5cm2). Moderate (2+)
+   mitral regurgitation is seen. Moderate to severe [3+] tricuspid
+   regurgitation is seen. There is severe pulmonary artery systolic
+   hypertension. Significant pulmonic regurgitation is seen. There is no
+   pericardial effusion.
+   .
+   ETT: Stress test [**2828**]
+   No anginal type symptoms or ischemic EKG changes. MIBI: 1) Mild,
+   reversible perfusion defect of the lateral wall. 2) Right
+   ventricular prominence. 3) Increased lung uptake of thallium,
+   suggestive of CHF. 4) No left ventricular wall motion abnormalities.
+   .
+   CARDIAC CATH: None
+   Assessment and Plan
+   ASSESSMENT AND PLAN
+   89 yo F with a history of atrial fibrillation, diastolic CHF, CAD, who
+   is transferred to CCU for tachynpnea, hypercarbia, hypoxia, and
+   somnulence.
+   .
+   # Hypercarbic resp failure: She has baseline hypercarbia and her
+   compensation is almost appropriate (3.5 rise HCO3 for every 10 rise in
+   pCO2).  Acute on chronic exacerbation multifactorial but I think likely
+   component of worsening diastolic dysfunction with known MS and MR.  She
+   does not have clear PNA on CXR and she did not appear to have ACS on
+   presentation.  Other etiologies include [**2-21**] worsening pulmonary
+   hypertension, COPD (doubtful given lack of hx), PE (unlikely given
+   elevated INR), pericardial effusion (unlikely given lack of hemodyamic
+   compromise), or medication effect (no known sedatives given).  Rx as
+   below.  If no improvement after diuresis or rate control, will start
+   CPAP.
+   .
+   # dCHF: Will try to improve filling with diuresis and rate control.
+   Would like to afterload reduce her but will hold off given worsening
+   renal dysfunction. Her underlying MS [**First Name (Titles) 167**] [**Last Name (Titles) **] hemodynamics with
+   tachycardia.
+   - rate control with metop 50 TID plus 5 IV now.  Goal HR 60-70.
+   Uptitrate as able
+   - diurese with lasix if able.
+   - reeval w echo today
+   - continue torsemide 60
+   - hold spironolactone given hyperkalemia
+   .
+   # valvular disease: hx of mod MS and mod/severe MR [**First Name (Titles) **] [**Last Name (Titles) **].  Will obtain
+   echo today.  Rx dCHF as above.
+   .
+   # Atrial fibrillation: rate control with BB and uptitrate as able.
+   Continue digoxin for now but check level given worsening renal
+   function.
+   - INR was elevated on admit.  now s/p vit K.  Will hold coumadin and
+   monitor for bleeding.
+   .
+   # Coronary vasc: Trop flat on admit and no EKG changes suggestive of
+   new ischemia.
+   .
+   # ? PNA: not clear on CXR or history.  Will finish course of levaquin.
+   Will add vanco for extra coverage only if fevers or change in sputum.
+   .
+   # ? COPD: No known hx but she does appear to have a chronic hypercarbia
+   and hx of tobb.  Will try nebs.
+   .
+   # Acute renal failure: up to 1.7 from baseline 1.2.  FeNA was 2.5
+   yesterday (but with diuretics) suggesting prerenal vs ATN.  Although
+   she appears intravascularly dry, will dry diuresis now to improve
+   ventilation.
+   - monitor potassium and other lytes.  EKG without peaked T waves.
+   - renally dose
+   - patient's family said that she would NOT want dialysis even for short
+   period.
+   .
+   # HTN: BP currently 130s/60s. uptitrate metop as able.
+   .
+   # HL: Continue Atorvastatin
+   .
+   # Dementia: Continue donepezil
+   .
+   # DM: HISS
+   .
+   # Hypercalcemia: might be [**2-21**] intravascularly dry.  If diuresis does
+   not improve her resp status, consider gentle hydration.
+   .
+   FEN:NPO for now.
+   ACCESS: PIV's  x2.  Will consider central access once INR down.
+   PROPHYLAXIS:
+   -DVT ppx with supratherapeutic INR
+   -Pain management with tylenol PRN pain
+   -Bowel regimen
+   .
+   CODE: FULL -confirmed with health care proxy. HCP [**Name (NI) 140**] [**Name (NI) **]. Cell [**Telephone/Fax (1) 8910**]. Work [**Telephone/Fax (1) 8911**]. Home [**Telephone/Fax (1) 8912**]. She would not want
+   dialysis.   ICU consent signed.  Grandson is [**Name (NI) **] [**Name (NI) **] (medical graduate)
+   [**Telephone/Fax (1) 8913**] wants to be notified w any sig changes.
+   .
+   DISPO: CCU
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2833-6-1**] 10:20 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code.  Wants intubation if reversible.  Does not want
+   dialysis
+   Disposition:
+
+
+
+DOC CLASS

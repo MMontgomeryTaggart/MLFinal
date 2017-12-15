@@ -1,0 +1,224 @@
+Chief Complaint:  melena
+   HPI:
+   Patient is a 73 y/o M hx aortic stenosis, afib on coumadin, h/o GI
+   bleeding who is admitted to the MICU with  4 days black stools, [**1-25**]
+   stools per day.  He endorses weakness/light-headedness, he also
+   endorsed some mild abdominal pain a few days ago.  this has resolved.
+   He does not have nausea/vomiting, fevers, chills, LE edema.  Denies
+   EtOH or ibuprofen.  His PCP checked his HCT which was found to be 6
+   points lower than baseline (26 down from 33) & INR 3.0, so he was
+   referred to the ED.  Of note, in [**10/2839**] he had a similar episode of GI
+   bleding and had upper and lower endoscopy at SHH.  the patient believes
+   that no source of bleeding was found.
+   .
+   In the ED his presenting vitals were: BP was 102/50, HR 73, AF 98.4,
+   99% on Ra.  stool guiac +, NG lavage negative.  He was given 2L IVF,
+   5mg IV vitamin K, and 40mg IV protonix & was consented for 2U blood, 2U
+   FFP.
+   .
+   In the ICU he feels fatigued.  He denies CP, dyspnea, LH currently.  He
+   has had 3 episodes of melena today, none since being at [**Hospital1 5**].
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   home meds
+   ALBUTEROL SULFATE (not taking)
+   FLUTICASONE-SALMETEROL 500 mcg-50 mcg (not taking) inhaled twice a day
+   FUROSEMIDE -  40mg po daily
+   LISINOPRIL - 2.5 mg po daily
+   LORAZEPAM -  1 mg prn
+   METOPROLOL TARTRATE 25mg po daily
+   NITROGLYCERIN -  prn (not needed)
+   SIMVASTATIN 40mg po daily
+   WARFARIN -  1.5mg po daily
+   Medications - OTC
+   ASPIRIN - 81 mg Tablet daily (not taking for past 5 days)
+   FERROUS SULFATE -  (not taking)
+   Past medical history:
+   Family history:
+   Social History:
+   # afib on coumadin
+   # Rheumatic heart disease with moderate aortic stenosis, aortic
+   regurgitation, mitral regurgitation and right atrial pressure.
+   - last echo in OMR [**11/2838**]
+   # s/p aortic valve replacement and mitral valve replacement with tissue
+   valves on [**2840-1-17**] for moderate aortic stenosis with a valve
+   area of [**11-24**].2 cm, 2+ aortic regurgitation
+   # CAD s/p MI in 12/[**2839**].  Had cath but no angioplasty or stents.  No
+   angina.
+   # Emphysema: asbestos exposure
+   # CKD baseline Cr 1.3-1.5
+   # h/o congestive hepatopathy
+   # OSA
+   # Peripheral vascular disease status post carotid endarterectomy
+   # Recent left body stroke
+   # Cough
+   # s/p GI bleed with melena; ?etiology
+   # prostate CA s/p radiation
+   # Carotid stenosis s/p L CEA in [**12/2838**]
+   The patient has 9 children by his first wife who is deceased. He has
+   been married to his current wife for 4 years. He is a retired
+   firefighter for 30 years and for the early years of fighting fires, he
+   often did not wear a mask. He smoked a quarter of a pack a day for 20
+   years, but quit 27-years-ago. He was, in fact, exposed to asbestos in
+   his job as a firefighter. He does not drink.
+   Occupation: retired fireman
+   Drugs: none
+   Tobacco: none
+   Alcohol: none
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever, No(t) Weight loss
+   Ear, Nose, Throat: No(t) Epistaxis
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis, Diarrhea,
+   No(t) Constipation
+   Genitourinary: No(t) Dysuria
+   Integumentary (skin): No(t) Jaundice
+   Heme / Lymph: Anemia, Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache
+   Psychiatric / Sleep: No(t) Agitated
+   Flowsheet Data as of [**2840-5-7**] 11:32 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.9
+C (98.4
+   HR: 86 (85 - 88) bpm
+   BP: 123/59(75) {123/59(75) - 123/59(75)} mmHg
+   RR: 14 (13 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  152 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   152 mL
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    152 mL
+   Respiratory
+   SpO2: 100%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Thin
+   Eyes / Conjunctiva: PERRL, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   No(t) Crackles : , No(t) Bronchial: , No(t) Wheezes : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender:
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Verbal stimuli, Oriented (to): 3,
+   Movement: Purposeful, Tone: Not assessed
+   Labs / Radiology
+   200 K/uL
+   6.6 g/dL
+   19.8 %
+   7.7 K/uL
+        [image002.jpg]
+                                  [**2836-11-24**]
+                          2:33 A6/15/[**2839**]  10:57 PM
+                                  [**2836-11-28**]
+                                   10:20 P
+                                  [**2836-11-29**]
+                                   1:20 P
+                                  [**2836-11-30**]
+                                   11:50 P
+                                  [**2836-12-1**]
+                                   1:20 A
+                                  [**2836-12-2**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2836-12-25**]
+                                   1:20 P
+                                  [**2836-12-25**]
+                                   11:20 P
+                                  [**2836-12-25**]
+                                   4:20 P
+   WBC
+                                     7.7
+   Hct
+                                    19.8
+   Plt
+                                     200
+   Assessment and Plan
+   Mr. [**Known patient lastname 6957**] is a 73 yo man with CAD, PVD, valvular heart dz s/p
+   bioprosthetic AVR and MRV, on coumadin for atrial fibrillation who
+   presents with melena and symptomatic anemia.
+   .
+   # GI bleeding: most likley upper source given melena.  Many etiologies
+   are possible, including angioectasias (bleeding is painless), or peptic
+   ulcer disease, or variceal bleed (given h/o congestive hepatopathy).
+   Patient quite anemic with hct of 20.
+   - reverse anticoagulation with 5mg po vitamin K + FFP
+   - transfuse 4U pRBCs
+   - type & cross 4 U
+   - q 4 hour hct
+   - IV PPI [**Hospital1 **]
+   - GI to scope from above in AM.  Will need C-scope as well.
+   - hold ASA
+   .
+   # CAD: No stents.  No recent angina.
+   - hold ASA
+   - hold BB in setting of hypotension & bleeding.
+   .
+   # Atrial fibrillation: rate controlled. hold anticoagulation.
+   telemetry
+   .
+   # h/o CHF with Valvular heart disease: s/p bioprosthetic AVR & MRV.
+   appears euvolemic.
+   - hold lisinopril & BB given hypotension
+   .
+   # h/o stroke/carotid disease: stable
+   .
+   # emphesema: continue nebulizers
+   .
+   # OSA: should be evaluated for CPAP as an outpatient
+   .
+   # FEN/GI: NPO for scope.  PPI [**Hospital1 **]. hold lasix.
+   .
+   # PPX: pneumoboots, IV PPI
+   .
+   # Access: 2 18-guage PIV's.
+   .
+   # Code: full
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:
+   Lines: 2 18-guage PIV
+   Prophylaxis:
+   DVT: anticoagulated; pneumoboots
+   Stress ulcer: IV PPI [**Hospital1 **]
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: full
+   Disposition:  ICU
+
+
+
+DOC CLASS

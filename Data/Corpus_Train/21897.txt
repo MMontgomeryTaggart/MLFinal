@@ -1,0 +1,298 @@
+Admission Date:  [**2677-4-30**]              Discharge Date:   [**2677-5-5**]
+
+Date of Birth:  [**2615-10-27**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1081**]
+Chief Complaint:
+dyspnea on exertion
+
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (#29 [**Company 1232**] porcine) [**4-30**]
+
+
+History of Present Illness:
+ This 61 year old psychiatrist has a history of
+hypertension,hyperlipidemia and CAD, s/p LAD Cypher stenting in
+[**2671**].  In addition, he has moderate to severe aortic
+insufficiency that has been followed by echocardiogram through
+the years. The patient reports that over the past year he has
+noticed a decline in his activity tolerance because of  fatigue
+and dyspnea on exertion. He recently saw Dr. [**Last Name (STitle) 1775**] in
+consultation where his echocardiogram revealed a minimal change
+in his aortic insufficiency. He is now being referred for
+cardiac
+catheterization to further evaluate his symptoms.
+
+
+Past Medical History:
+ CAD s/p CYPHER stenting LAD -[**2671**], AI, HTN, dyslipidemia, HF,
+ETOH none in 2 yrs, RI, compressed lumbar vertebrae, s/p
+appendectomy, s/p tonsillectomy, s/p post repair of
+deviated septum, gastroesophageal reflux disease, anxiety.
+
+
+Social History:
+Psychiatrist
+DIVORCED, Lives with 2 children, ages 14 and 18
+denies tobacco
+ETOH past abuse, stopped x2 years
+
+Family History:
+no premature CAD
+
+Physical Exam:
+Pulse:58 Resp:12  O2 sat:97%RA
+B/P  Right: 123/63
+Ht:  6 feet 2  inches
+Wt: 292 lbs
+General: NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  MurmurII/VI Diastolic murmur
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 1+  Left:1+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 422**]: 2+  Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit        Right:-    Left:-
+
+
+Pertinent Results:
+[**2677-4-30**] 07:45AM   HGB-12.3* calcHCT-37
+[**2677-4-30**] 07:45AM   GLUCOSE-110* LACTATE-1.5 NA+-140 K+-4.2
+CL--107
+[**2677-4-30**] 11:17AM   GLUCOSE-156* LACTATE-2.0 NA+-138 K+-4.9
+CL--110
+[**2677-4-30**] 12:26PM   PT-13.9* PTT-40.0* INR(PT)-1.2*
+[**2677-4-30**] 12:26PM   PLT COUNT-136*
+[**2677-4-30**] 12:26PM   WBC-10.5# RBC-3.59* HGB-11.0* HCT-31.8*
+MCV-89 MCH-30.7 MCHC-34.5 RDW-13.5
+[**2677-4-30**] 12:26PM   UREA N-14 CREAT-1.1 CHLORIDE-111* TOTAL
+CO2-24
+[**2677-5-3**] 05:32AM BLOOD WBC-8.5 RBC-2.68* Hgb-8.4* Hct-23.7*
+MCV-88 MCH-31.3 MCHC-35.4* RDW-13.7 Plt Ct-105*
+[**2677-5-3**] 05:32AM BLOOD Plt Ct-105*
+[**2677-5-3**] 05:32AM BLOOD PT-12.6 PTT-34.9 INR(PT)-1.1
+[**2677-5-3**] 05:32AM BLOOD Glucose-119* UreaN-23* Creat-1.4* Na-134
+K-3.9 Cl-97 HCO3-27 AnGap-14
+==================================
+ [**Hospital1 68**] ECHOCARDIOGRAPHY REPORT
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 68**] [**Numeric Identifier 35866**]       TEE (Complete)
+Done [**2677-4-30**] at 10:55:36 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) 253**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 68**], Division of Cardiothorac
+[**Hospital Unit Name 1783**]
+[**Location (un) 211**], [**Numeric Identifier 1230**]  Status: Inpatient DOB: [**2615-10-27**]
+Age (years): 61 M  Hgt (in): 72
+BP (mm Hg): 130/60  Wgt (lb): 295
+HR (bpm): 63  BSA (m2): 2.52 m2
+Indication: aortic reguritation, s/p lad stent
+ICD-9 Codes: 746.9, 424.1, 746.4
+Test Information
+Date/Time: [**2677-4-30**] at 10:55    Interpret MD: [**Name6 (MD) 11518**] [**Name8 (MD) 2089**], MD
+Test Type: TEE (Complete) Son[**Name (NI) 1786**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 35867**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2009AW04-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.9 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.9 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.3 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  2.4 cm
+Left Ventricle - Fractional Shortening:  0.44  >= 0.29
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+Left Ventricle - Stroke Volume:  172 ml/beat
+Left Ventricle - Cardiac Output:  10.86 L/min
+Left Ventricle - Cardiac Index:  4.31  >= 2.0 L/min/M2
+Aorta - Sinus Level:  *4.2 cm  <= 3.6 cm
+Aorta - Ascending:  *3.6 cm  <= 3.4 cm
+Aorta - Arch:  *3.5 cm  <= 3.0 cm
+Aorta - Descending Thoracic:  *2.8 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.9 m/sec  <= 2.0 m/sec
+Aortic Valve - Peak Gradient:  15 mm Hg  < 20 mm Hg
+Aortic Valve - Mean Gradient:  7 mm Hg
+Aortic Valve - LVOT pk vel:  1.12 m/sec
+Aortic Valve - LVOT VTI:  28
+Aortic Valve - LVOT diam:  2.8 cm
+Aortic Valve - Valve Area:  3.9 cm2  >= 3.0 cm2
+Aortic Valve - Pressure Half Time:  36 ms
+Mitral Valve - Pressure Half Time:  92 ms
+Mitral Valve - MVA (P [**11-24**] T):  2.4 cm2
+Mitral Valve - E Wave:  0.7 m/sec
+Mitral Valve - A Wave:  0.8 m/sec
+Mitral Valve - E/A ratio:  0.88
+Mitral Valve - E Wave deceleration time:  *317 ms  140-250 ms
+Findings
+61 yr old male w/ pmhx CAD and AI w/ progressive regurg and
+exercise intolerance. Pre-CPB: EF was noted to be normal to low
+normal at 50-55%, no significant RWMA, moderate to severe AI was
+also seen. No evidence of ASD was recognized.
+LEFT ATRIUM: Normal LA and RA cavity sizes.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness and cavity
+size. Normal LV wall thickness. Normal LV cavity size.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Mildly dilated aortic sinus.
+AORTIC VALVE: Bicuspid aortic valve. No masses or vegetations on
+aortic valve. No AS. Moderate to severe (3+) AR.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+PERICARDIUM: No pericardial effusion.
+post. CPB: patient weaned off with 0.6 mcg/kg/min phenylephrine,
+EF and RWM unchanged. 29 mm [**Company 1232**] bioprosthetic well seated
+valve noted. No significant residual AI or AS was seen. Finding
+communicated to attending cardiac surgeon.
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses and cavity size are normal. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. Right ventricular chamber size and free
+wall motion are normal. The aortic root is mildly dilated at the
+sinus level. The aortic valve is bicuspid. No masses or
+vegetations are seen on the aortic valve. There is no aortic
+valve stenosis. Moderate to severe (3+) aortic regurgitation is
+seen. The mitral valve appears structurally normal with trivial
+mitral regurgitation. There is no pericardial effusion.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Interpretation assigned to [**Name6 (MD) 11518**] [**Name8 (MD) 2089**], MD, Interpreting
+physician
+
+
+
+Brief Hospital Course:
+Mr [**Known patient lastname 17333**] is a 61 yo man with known AS/CAD. He was a direct
+admission to the operating room for a scheduled aortic valve
+replacement. Please see OR report for details, in summary he had
+an aortic valve replacement with a #29 [**Company 1232**] Mosaic porcine
+valve, his bypass time was 86 minutes with a crossclamp of 64
+minutes. He tolerated the operation well and was transferred
+from the operating room to the cardiac surgery ICU in stable
+condition. In the immediate post operative period he remained
+hemodynamically stable, within several hours he woke
+neurologically intact and was extubated. He remained
+hemodynamically stable but stayed in the ICU on POD1 to monitor
+his pulmonary status. On the morning of POD2 he was transferred
+from the ICU to the step down floor for continued care and
+recovery. All tubes, lines and drains were removed per cardiac
+surgery protocol. The remainder of his hospitalization was
+uneventful. His medications were titrated to effect, his
+activity was advanced with the assistance of physical therapy
+and nursing and on POD five he was discharged home with visiting
+nurses. He is to have followup with Dr [**Last Name (STitle) **] and Dr [**Last Name (STitle) 1775**].
+
+Medications on Admission:
+Atenolol 50mg two tablets  daily every morning
+Diovan 320mg daily every morning
+HCTZ 25mg daily
+Norvasc 7.5mg qd
+Aspirin 325mg daily
+Zetia 10mg daily
+Crestor 20mg daily
+Prilosec 20mg daily
+Seroquel 100mg daily every evening
+
+
+Discharge Medications:
+1. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Prilosec OTC 20 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Quetiapine 100 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+5. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Atenolol 100 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+Disp:*30 Capsule(s)* Refills:*0*
+10. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 10
+days.
+Disp:*10 Tablet(s)* Refills:*0*
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 10
+days.
+Disp:*10 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) **] Nursing Services
+
+Discharge Diagnosis:
+s/p Aortic valve replacement (#29 [**Company 1232**] porcine) [**4-30**]
+PMH: Hypertension
+Hyperlipidemia
+CAD, s/p Cypher stenting of the LAD in [**2671**]
+Aortic insufficiency
+Ventricular ectopy
+Prior ETOH, abstinent for 2 years
+Mild CHF
+compressed lumbar vertebrae
+s/p appendectomy
+s/p Submucus resection/rhinoplasty for deviated septum
+s/p tonsillectomy
+GERD
+Anxiety
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Keep wounds clean and dry. OK to shower, no bathing or swimming.
+Take all medications as prescribed.
+Call for any fever, redness or drainage from wounds.
+No powder, creams or ointment on wounds.
+No lifting greater than 10 pounds for 10 weeks
+
+Followup Instructions:
+Wound clinic in 2 weeks
+Dr [**Last Name (STitle) **] (cardiac surgery) in 4 weeks ([**Telephone/Fax (1) 425**])
+Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1775**] (cardiologist) in [**12-26**] weeks.
+Please see your PCP [**Last Name (NamePattern4) **] [**11-24**] weeks.
+
+
+
+Completed by:[**2677-5-5**]
+
+
+DOC CLASS

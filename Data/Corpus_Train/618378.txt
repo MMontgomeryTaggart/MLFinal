@@ -1,0 +1,174 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**2716-6-26**]:
+   - CE at  pm
+    CE at 4am
+   - Had one episode of very mild substernal CP/chest pressure @ 22:00.
+   EKG unchanged.
+   - Postcath check at 3 AM, [**2716-6-27**]: No palpable hematoma, bruits in Rt.
+   fem site - c/d/i. +DP/PT pulses b/l, VSS
+ CARDIAC CATH - At [**2716-6-26**] 06:45 PM
+ EKG - At [**2716-6-26**] 11:30 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2716-6-27**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2716-6-27**] 06:10 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.3
+C (97.4
+   HR: 79 (55 - 93) bpm
+   BP: 113/68(79) {92/55(66) - 132/79(90)} mmHg
+   RR: 14 (13 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+             Total In:
+                                                                  1,840 mL
+                                                                    365 mL
+   PO:
+                                                                    480 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  1,360 mL
+                                                                    125 mL
+   Blood products:
+   Total out:
+                                                                  1,200 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    640 mL
+                                                                    365 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///28/
+   Physical Examination
+   GENERAL: Middle aged man, pleasant, in NAD.  Oriented x3. Mood, affect
+   appropriate.
+   HEENT: PERRL, EOMI, Sclera anicteric. Conjunctiva were pink, no pallor
+   or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.  Right femoral incision site
+   c/d/i.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: DP 2+ PT 2+
+   Left: DP 2+ PT 2+
+   Labs / Radiology
+   255 K/uL
+   14.9 g/dL
+   97 mg/dL
+   0.9 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   11 mg/dL
+   104 mEq/L
+   139 mEq/L
+   42.2 %
+   10.8 K/uL
+        [image002.jpg]
+   [**2716-6-27**]   4am  CK / CKMB / Troponin-T:346/40/0.29
+   [**2716-6-26**]    7pm CK / CKMB / Troponin-T:55/nd/<0.01
+                             [**2716-6-26**]  07:21 PM
+                             [**2716-6-27**]  04:11 AM
+   WBC
+   9.7
+   10.8
+   Hct
+   42.0
+   42.2
+   Plt
+   246
+   255
+   Cr
+   0.7
+   0.9
+   TropT
+   <0.01
+   0.29
+   Glucose
+   125
+   97
+   Other labs: PT / PTT / INR:12.4/24.3/1.0, CK / CKMB /
+   Troponin-T:346/40/0.29, Differential-Neuts:72.2 %, Lymph:20.4 %,
+   Mono:4.8 %, Eos:2.2 %, Ca++:8.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   The patient is a 41 yo man with h/o GERD and recently diagnosed stable
+   angina who presents s/p elective cardiac catheterization with concern
+   for RV microperforation.
+   .
+   # RV Microperforation:  The patient presented for elective cardiac
+   catheterization today at [**Hospital1 17**].  During the procedure, the wire was
+   attempted to be advanced through an apical thrombus and possibly
+   resulted in RV microperforation.  The patient has remained
+   hemodynamically stable and he is being monitored closely in the CCU.
+    - Repeat TTE at 7:30 PM negative for pericardial effusion; will repeat
+   TTE this AM
+    - Continue to monitor pulsus q1h overnight
+   .
+   # CAD:  The patient has a three week history of stable angina, for
+   which he underwent cardiac catheterization today.  The patient had a
+   99% stenosis of his LAD, now s/p DES.  He is currently chest pain free,
+   and the heparin and integrilin gtts were d/c'd in the setting of
+   possible RV perforation post-cath.
+    - Restart integrilin and heparin gtts in setting cardiac enzymes and
+   no symptoms for RV perf
+    - Continue Metoprolol 12.5 mg TID and up titrate as tolerated
+   - ContinueAtorvastatin 80 mg daily given low HDL and high LDL
+    - Continue ASA and Plavix daily
+   - Start an ACE-I
+   .
+   # RHYTHM:  The patient is currently in NSR.
+    - Continue to monitor on telemetry.
+   .
+   # GERD: Currently stable.  Continue on Pantoprazole, though switch
+   patient back to Nexium at discharge.
+   .
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ .H/O HYPERTENSION, BENIGN
+   ICU Care
+   Nutrition: replete K > 4.0, Mg >2.0. Cardiac diet
+   Glycemic Control:
+   Lines:  Peripheral IVs
+   22 Gauge - [**2716-6-26**] 07:04 PM
+   Prophylaxis:
+   DVT: SQ heparin
+   Stress ulcer:
+   Bowels: Senna and Colace prn
+   Pain: Tylenol, Percocet PRN
+   VAP:
+   Comments:
+   Communication:  Comments: With patient and family
+   Code status: Full code
+   Disposition: CCU
+
+
+
+DOC CLASS

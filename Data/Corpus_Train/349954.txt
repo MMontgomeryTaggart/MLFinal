@@ -1,0 +1,188 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Pt transferred here for respiratory distress and hypoxia as per
+   admission note.  Overnight, was taken off bipap and put on 100% face
+   tent.  Nitro drip weaned off.
+   Weaned to 6L nc but was in the high 80% and put back on face tent.
+   This morning, denies chest pain, SOB, respiratory distress.  Feeling
+   well without complaints.  Wants to eat regular food.
+   Allergies:
+   Captopril
+   Cough;
+   Erythromycin Base
+   Unknown;
+   Ampicillin
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3157-11-13**] 05:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37
+C (98.6
+   HR: 70 (68 - 81) bpm
+   BP: 110/56(66) {86/49(60) - 128/65(77)} mmHg
+   RR: 18 (17 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+                  Total In:
+                                                                  1,021 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                      1 mL
+   Blood products:
+   Total out:
+                                                                  1,280 mL
+                                                                    110 mL
+   Urine:
+                                                                    280 mL
+                                                                    110 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -259 mL
+                                                                   -110 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula, Face tent
+   SpO2: 93%
+   ABG: ///38/
+   Physical Examination
+   GENERAL: WDWN female in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma. Dry mucous
+   membranes, breathing comfortably
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. 2/6 systolic murmur best heard at Upper sternal border
+   without radiation. No thrills, lifts. No S3 or S4.
+   LUNGS: dry crackles at bases posteriorly
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominal bruits.
+   EXTREMITIES: trace LE pre-tibial edema
+   SKIN: Lower extremity stasis dermatitis
+   Labs / Radiology
+   505 K/uL
+   77 mg/dL
+   2.2 mg/dL
+   37mEq/L
+   5.0 mEq/L
+   50 mg/dL
+   95mEq/L
+   142 mEq/L
+   32.5 %
+   12.9 K/uL
+        [image002.jpg]
+                             [**3157-11-12**]  09:35 PM
+   WBC
+   15.3
+   Hct
+   33.5
+   Plt
+   537
+   Cr
+   2.2
+   Glucose
+   90
+   Other labs: PT / PTT / INR:38.8/29.9/4.2, Differential-Neuts:90.4 %,
+   Lymph:6.4 %, Mono:3.0 %, Eos:0.2 %, Lactic Acid:1.9 mmol/L, Ca++:9.2
+   mg/dL, Mg++:1.9 mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan: 84 yo woman with h/o CHF, HTN, and polymyositis
+   who presents from [**Hospital 838**] Rehab with lower extremity edema and hypoxia,
+   transfered to CCU with acutely worsened hypoxia.
+   .
+   #. Hypoxia: Likely secondary to aspiration pneumonia vs. pneumonitis.
+   Pt has history of aspiration and chest CT consistent with pneumonitis
+   and not CHF.
+   - continue on supportive O2 and wean as tolerated
+   - will hold further diuresis for now
+   - regular albuterol/atrovent nebs.
+   - continue Vanc/Levo for now
+   - follow up blood and sputum cultures
+   - will hold off speech and swall eval given that previous evaluation
+   was done recently, unlikely to be different.
+   .
+   # Coronaries:  The patient has no history of coronary artery disease,
+   and last PMIBI without any defects.  No complaints if chest pain and no
+   iscemic changes on EKG.
+   .
+   # Diastolic Congestive Heart:  Patient with mild diastolic dysfunction
+   on last TTE. Presenting with elevated BNP, hypoxia, and lower extremity
+   edema.  Patient over 6L since admission, with continued hypoxia.
+   Likely some element of heart failure with new AF, with possible
+   insufficient lasix dose or poor dietary compliance.
+   - will repeat TTE in am
+   - hold diuresis for now as feel patient is euvolemic to dry
+   - continue beta-blocker
+   - hold [**Last Name (un) **] in setting of ARF.
+   - low sodium diet
+   - will discontinue Amlodipine and start Verapamil to decrease ionotropy
+   and improve diastolic filling
+   .
+   #. Atrial Fibrillation: The patient's ECG on admission demonstrates
+   atrial fibrillation, which is a new diagnosis.  She has been in and out
+   of AF since admission, and is currently in sinus.  Likely contributing
+   to element of acute diastolic heart failure.
+   - continue metoprolol, and uptitrate as tolerated
+   - already anticoagulated for PEs, and is supratherapeutic at 4.2, so
+   will hold.
+   .
+   #. Hypertension: The patient has a h/o hypertension and had BP 189/86
+   on admission. She additionally had elevated blood pressures in setting
+   of hypoxia, which was controlled with nitro gtt.  She is currently
+   normotensive off nitro.
+   - cont metoprolol and change amlodipine to Verapamil as per above.
+   - hold [**Last Name (un) **] with ARF.
+   .
+   # Acute Renal Failure:  Patient with Cr of 1.2 on admission, currently
+   1.9 after aggressive diuresis.  Appears euvolemic to try on exam.
+   - f/u urine lytes for Fe Urea
+   - hold on further diuresis
+   - hold [**Last Name (un) **]
+   .
+   #. Polymyositis: The patient has a h/o polymyositis, for which she
+   takes 60 mg prednisone every other day.  Steroids were increased during
+   this admission to 60mg PO qday.
+   - Prednisone taper with 40mg PO qday starting tomorrow
+   - Bactrim SS daily for prophylaxis
+   .
+   # Hypercholesterolemia:
+   - cont simvastatin 10mg daily
+   .  .
+   #. FEN:
+         Thin liquids and pureed solids
+      A. PO intake reclined in chair/bed ~45-60 degrees as able.
+      B. Effortful swallow with small bites of food x 2.
+      C. [**1-6**] follow-up sips of thin liquid to clear pharyngeal
+         residue.
+      D. Alternate bites and sips.
+      E. Cough after follow-up swallows to clear any penetration.
+      F. NO Talking until follow-up swallows/sips have been used
+         after each bite.
+   .
+   #. Access: PIV
+   .
+   #. PPx:
+   - DVT: systemic anticoagulation
+   - Bowel: Senna and Colace
+   .
+   #. Code: Full per patient and HCP
+   .
+   #. Dispo: CCU for now
+
+
+
+DOC CLASS

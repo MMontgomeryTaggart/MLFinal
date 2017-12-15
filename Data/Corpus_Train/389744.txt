@@ -1,0 +1,205 @@
+Chief Complaint:
+   24 Hour Events:
+   -d/c'd heparin gtt given therapeutic INR
+   -DC cardioversion -> SR
+   -lasix 40 mg IV x 2
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown; Hives;
+   Cardizem (Oral) (Diltiazem Hcl)
+   Unknown; Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3221-6-10**] 04:25 PM
+   Other medications: metoprolol tartrate 25mg [**Hospital1 **], miralax, calcium
+   carbonate 1000mg [**Hospital1 **], MVI, omeprazole 20mg daily, amlodipine 10mg PO
+   daily, coumadin 5mg daily, lactulose 60mL PO q4h, captopril 12.5mg PO
+   TID, rifaximin 400mg PO TID, senna 2tabs PO BID
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:  Reports mild nausea yesterday relieved by zofran,
+   vomiting x1. Denies chest pain, SOB
+   Flowsheet Data as of  [**3221-6-11**] 07:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.2
+C (99
+   HR: 52 (47 - 80) bpm
+   BP: 98/57(67) {95/50(62) - 129/97(110)} mmHg
+   RR: 17 (14 - 26) insp/min
+   SpO2: 91%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 75 Inch
+    CVP: 3 (-4 - 10)mmHg
+   PAP: (60 mmHg) / (25 mmHg)
+   PA (mean): 37
+   CO/CI (Fick): (4.9 L/min) / (2.3 L/min/m2)
+   Mixed Venous O2% Sat: 63 - 63
+   Total In:
+                                                                  1,185 mL
+                                                                     70 mL
+   PO:
+                                                                    780 mL
+   TF:
+   IVF:
+                                                                    405 mL
+                                                                     70 mL
+   Blood products:
+   Total out:
+                                                                  1,835 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,835 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -650 mL
+                                                                     70 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 91%
+   ABG: ///30/
+   Physical Examination
+   GEN: well-appearing NAD
+   HEENT: anicteric
+   NECK: R swan cath c/d/i
+   CV: RRR nl S1 S2 no m/r/g
+   PULM: no rales/rhonchi/wheezes
+   ABD: soft NTND normoactive BS
+   EXT: warm, dry +PP no edema
+   Labs / Radiology
+   116 K/uL
+   14.4 g/dL
+   94 mg/dL
+   1.5 mg/dL
+   30 mEq/L
+   4.1 mEq/L
+   21 mg/dL
+   102 mEq/L
+   139 mEq/L
+   43.4 %
+   10.5 K/uL
+        [image002.jpg]
+                             [**3221-6-8**]  11:49 AM
+                             [**3221-6-8**]  02:38 PM
+                             [**3221-6-8**]  11:11 PM
+                             [**3221-6-9**]  04:23 AM
+                             [**3221-6-9**]  04:53 AM
+                             [**3221-6-9**]  02:10 PM
+                             [**3221-6-10**]  03:59 AM
+                             [**3221-6-10**]  04:28 AM
+                             [**3221-6-10**]  03:17 PM
+                             [**3221-6-11**]  05:23 AM
+   WBC
+   8.1
+   11.6
+   10.5
+   Hct
+   45
+   44
+   44.8
+   47
+   43.7
+   40
+   43.4
+   Plt
+   162
+   156
+   116
+   Cr
+   1.6
+   1.5
+   1.6
+   1.6
+   1.7
+   1.5
+   Glucose
+   107
+   119
+   128
+   97
+   111
+   94
+   Other labs: PT / PTT / INR:24.0/39.0/2.3, ALT / AST:43/39, Alk Phos / T
+   Bili:69/1.1, Amylase / Lipase:/39, Differential-Neuts:61.8 %,
+   Lymph:23.9 %, Mono:12.1 %, Eos:1.7 %, Albumin:3.0 g/dL, Ca++:8.8 mg/dL,
+   Mg++:2.0 mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   53 M h/o cryptogenic cirrhosis awaiting transplant, portal HTN, pulm
+   HTN, chronic diastolic dysfunction, CRI, PE and Afib on coumadin
+   admitted for elective RHC demonstrating acute on chronic LV diastolic
+   CHF and pulmonary hypertension.
+   .
+   #Acute on chronic diastolic CHF: hemodynamics improving, -4.5L LOS. In
+   order to meet transplant requirements, mean PA pressures need to be
+   less than 35
+   -cont diuresis to goal  -2 L today
+   -lasix 80mg IV this am then prn
+   -eval wedge this afternoon
+   -[**Hospital1 **] lytes
+   -incr. captopril prn as tolerated for improved afterload reduction
+   -consider d/c Swan when hemodynamics improved
+   .
+   #Pulm HTN
+ pulm pressures improving but not yet consistently at
+   preoperative target of mPAP 35 mmHg, consistent with element of
+   irreversible pulm HTN, also suggested by absence of response to inhaled
+   NO at cath [**3221-4-5**]
+   -cont amlodipine although not likely to produce substantial response
+   given lack of vasodilator response
+   -treat left-sided CHF, as above
+   .
+   #DVT/PE: INR 2.3 this am
+   -cont coumadin (goal INR [**3-16**])
+   .
+   #Afib
+ s/p successful cardioversion yesterday and remains in NSR
+   -cont lopressor for rate-control
+   -continue coumadin to maintain INR 2.0-3.0
+   .
+   #CRI
+ Cr stable
+   -cont monitor while diuresing
+   .
+   #Cirrhosis
+ stable; awaiting transplant
+   -continue rifaxamin, lactulose
+   .
+   #HTN: well-controlled
+   -continue BB, CCB
+   .
+   #FEN: low Na diet; replete lytes prn
+   .
+   #Access:  PIV; Swan
+   .
+   #PPx:  PPI, bowel regimen, systemic AC
+   .
+   #Emergency contact: sister [**Name (NI) **] [**Telephone/Fax (1) 5518**]
+   .
+   #. Code: FULL
+   .
+   #. Dispo: CCU for hemodynamic monitoring while swan in place
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PA Catheter - [**3221-6-7**] 10:30 AM
+   Prophylaxis:
+   DVT: therapeutic on coumadin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

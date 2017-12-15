@@ -1,0 +1,173 @@
+Chief Complaint:  unresponsive
+   HPI:
+   Mr [**Known patient lastname **] is a 53 yo m with DM I, insulin autoimmune syndrome, systolic
+   CHF, and CRI who was found unresponsive at home with fs 29. He was
+   given 1 amp d50 in the field with 100 mg thiamine without improvement.
+   .
+   ED COURSE:Upon arrival to the ED, he was unresponsive with FS 69. his
+   vitals were 96.9, 65, 209/117, 11, 100%. He then developed  seizure
+   activity (shaking, looked like rigors per ED). Given a second amp of
+   d50 and ativan 2 mg iv. The sz activity resolved, and the patient's
+   metnal status gradually improved such that he was sleeping but
+   arousable, oriented x3.  Non contrast head CT was unremarkable. CXR was
+   WNL.  Serum Tox negative.
+   .
+   FLOOR COURSE: The patient was found to be unresponsive to sternal rub
+   on arrival to the floor, with vital signs of: 96.5, 197/93, 66, 18,
+   100%on3L. The patient then developed rhythmic jerking of his b/l upper
+   extremities.  FS at the time was 116.  He was given Ativan 1 mg IV with
+   improvement--pt became arousable, and A+Ox3.  At that time, the
+   patient's cardiac enzymes returned with a CK of 296 MB 6 Trop 0.37.  An
+   EKG revealed new TWI in V5-6.  The SIRS resident contact[**Name (NI) **] the
+   Cardiology fellow, who felt this was likely due to demand ischemia
+   preciptiated by seizure and hypertension.  The patient was then
+   transferred to the MICU for closer monitoring.
+   .
+   On arrival to the MICU the patient is somnulent but easily arousable.
+   He denies CP/SOB/ABD pain; ROS negative other than needing to use a
+   urinal.
+   .
+   Of note, the patient was admitted to [**Hospital1 52**] several times in the past
+   with the same symptoms, most recently from [**Date range (1) 4977**]; he was also
+   admitted to [**Hospital1 138**] with same [**9-28**].
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Tapazole (Oral) (Methimazole)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   1. Calcitriol 0.25 mcg PO once a day.
+   2. Clonidine 0.3 mg/ One (1) Patch Weekly QFRI
+   3. Toprol XL 150 mg PO once a day.
+   4. Allopurinol 100 mg PO Every other day.
+   5. Diltiazem HCl 180 mg PO twice a day.
+   6. Furosemide 40 mg PO BID
+   7. Doxazosin 4 mg PO HS
+   8. Levothyroxine 75 mcg PO DAILY
+   9. Minoxidil 5 mg PO DAILY
+   10. Ferrous Sulfate 325 mg
+   11. Insulin Glargine 3 units [**Hospital1 **]
+   12. Humalog Sliding scale
+   200-250 1 unit
+   [**Unit Number **]-300 2 units
+   300-350 3 units
+   350-400 4 units
+   13. Glucagon Emergency 1 mg Kit Sig: One (1) Injection kit: Use
+   as needed for hypoglycemia.
+   14. Rosuvastatin 20 mg PO DAILY
+   15. Calcium Carbonate 500 mg PO TID W/MEALS
+   17. Nephrocaps 1 PO DAILY
+   18. Amlodipine 10mg PO once a day
+   Past medical history:
+   Family history:
+   Social History:
+   1 DM1 X 37 yrs- frequent hypoglycemic episodes; high level of
+   anti-insulin Ab, last HgbA1C 7.3 [**8-7**]
+   - followed by Dr.[**Name (NI) 3570**] of [**Last Name (un) 257**]
+   - complicated by nephropathy, retinopathy (s/p right eye laser
+   surgery, repeated [**10-6**])
+   -insulin autoimmune syndrome
+   2 ESRD [**3-3**] DM1
+   3 Hypertension
+   4 Anemia, likely [**3-3**] CRI
+   5 Hyperuricemia
+   6 Graves' disease
+   7 Hyperlipidemia
+   8 Diastolic congestive heart failure: [**12-5**] TTE >60%, mod LVH, 1+ MR,
+   mild pulm  artery systolic HTN, very small circumferential pericardial
+   effusion.
+   M: DM2; MA: DM2; Nephew: DM I
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Lives with parents. Works in construction. No alcohol, drugs, or
+   tobacco. He has never been married and has two adult children. His
+   mother is a nurse and helps him managing his medications.
+   Review of systems:
+   Endocrine: History of thyroid disease
+   Neurologic: Seizure
+   Flowsheet Data as of [**3308-10-4**] 08:40 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96.1
+   Tcurrent: 35.6
+C (96.1
+   HR: 67 (0 - 69) bpm
+   BP: 168/85(106) {168/85(106) - 182/95(116)} mmHg
+   RR: 18 (11 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,050 mL
+   Urine:
+   1,050 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,050 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Distended
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): person, place, situation, Movement: Purposeful,
+   Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: CK: 296  MB: 6  Trop-T: 0.37  Fibrinogen
+   409, Hct 25.9
+   Imaging:
+   Imaging:
+   CXR (prelim): Heart size is top normal. The lungs are clear without
+   effusion, consolidation, or pneumothorax. The osseous structures and
+   soft tissues are grossly unremarkable.
+   IMPRESSION: No radiographic evidence of pneumonia.
+   .
+   CT Head: No acute intracranial process
+   ECG: NSR at 61, L ant hemiblock, TWI in I, aVL, V5,V6. These TWI are
+   present on EKG of [**3308-7-8**] but not on EKG of [**3308-9-12**]; the T wave changes
+   are more pronounced on today's EKG.
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control: Comments: Home insulin regimen, q1H FS
+   Lines:
+   20 Gauge - [**3308-10-4**] 07:08 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

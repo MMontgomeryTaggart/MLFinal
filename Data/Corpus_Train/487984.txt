@@ -1,0 +1,224 @@
+Chief Complaint:
+   24 Hour Events:
+   [**3022-3-16**]:
+   - Dental recs: Take out partial dentures permanently until mouth heals,
+   or use only with meals if needed. Continue Orabase paste for mouth
+   pain. Consider Peridex (sp?) mouth rinse if lesions develop
+   (antimicrobial).
+   - Called out to floor, got a bed, but rejected by floor team based on
+   perceived nursing concern over SBPs in 60s-70s (patient was low to this
+   range post-HD). So back in unit.
+   - Tachycardic to 110s-120s post-HD, came down with 250 cc bolus of IVF
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3022-3-16**] 04:00 AM
+   Metronidazole - [**3022-3-16**] 09:41 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3022-3-17**] 07:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**23**] AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.4
+C (97.6
+   HR: 95 (84 - 123) bpm
+   BP: 72/45(51) {53/17(33) - 196/151(155)} mmHg
+   RR: 17 (12 - 23) insp/min
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,205 mL
+                                                                    231 mL
+   PO:
+                                                                    520 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    685 mL
+                                                                    111 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,205 mL
+                                                                    231 mL
+   Respiratory support
+   O2 Delivery Device: None
+   ABG: ///34/
+   Physical Examination
+   Gen: Comfortable
+   HEENT: NC/AT, sclerae anicteric, MMM
+   PULM: CTAB no rales/rhonchi/wheezes
+   CVS: RRR with normal S1 and S2. No m/g/r
+   Abd: Soft/NT/ND
+   Ext: No c/c/e, continued shoulder pain
+   Labs / Radiology
+   47 K/uL
+   13.8 g/dL
+   90 mg/dL
+   3.6 mg/dL
+   34 mEq/L
+   3.9 mEq/L
+   9 mg/dL
+   103 mEq/L
+   145 mEq/L
+   45.6 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**3022-3-14**]  01:38 AM
+                             [**3022-3-14**]  05:33 PM
+                             [**3022-3-15**]  01:33 AM
+                             [**3022-3-15**]  05:07 PM
+                             [**3022-3-16**]  03:50 AM
+                             [**3022-3-17**]  04:02 AM
+   WBC
+   9.0
+   7.5
+   11.0
+   10.2
+   Hct
+   37.7
+   46.2
+   46.2
+   45.6
+   Plt
+   54
+   64
+   51
+   47
+   Cr
+   5.2
+   2.7
+   3.6
+   3.5
+   4.5
+   3.6
+   TropT
+   0.24
+   0.21
+   0.23
+   Glucose
+   152
+   105
+   112
+   88
+   101
+   90
+   Other labs: PT / PTT / INR:22.3/40.7/2.1, CK / CKMB /
+   Troponin-T:40/3/0.23, ALT / AST:14/23, Alk Phos / T Bili:180/1.3,
+   Differential-Neuts:70.0 %, Lymph:24.6 %, Mono:4.8 %, Eos:0.4 %, Lactic
+   Acid:3.8 mmol/L, LDH:355 IU/L, Ca++:7.7 mg/dL, Mg++:1.6 mg/dL, PO4:2.1
+   mg/dL
+   Assessment and Plan
+   74-year-old gentleman with a pmhx. of ESRD on HD (last dialysis [**3-14**]),
+   cryptogenic cirrhosis and ascites requiring paracentesis, and PEs who
+   is admitted from the ED with chief complaint of weakness and
+   confusion.
+   .
+   # HYPOTENSION: Pt is mentating well and does not produce urine. Per
+   outpatient records, baseline BP is in 70's systolic. Pt is afebrile but
+   does have a leukocytosis.  Elevated lactate which raise concern for
+   sepsis but has normalized. Patient more hypotensive after HD and unable
+   to be called out, but continues to mentate well.  Responeded to 250 cc
+   bolus..  Diarrhea losses probably larger than estimated and patient has
+   chronic volume losses.  Per Dr. [**Last Name (STitle) 3427**] of nephrology, SBPs in 70s are
+   consistent with patient
+s baseline and not cause for special concern or
+   pressors. Cortisol at 3:00 AM = 22.
+   - Fluid boluses based upon clinical exam and maintenance fluids to
+   match losses.
+   - Bolus NS for BPs<70; renal team will monitor fluid status/BP
+   carefully with HD sessions
+   - F/U BCx - NGTD
+   - Off Abx
+   .
+   # WEAKNESS/CONFUSION: Patient was brought into the ED by his partner
+   who related a history of weakness and confusion for the past 3 days.
+   Patient states that he has had a lack of appetite for the past few
+   days. Possibilites for weakness and confusion in this patient include
+   metabolic derangements (likely from liver failure and hepatic
+   encephalopathy or renal failure, though less likely as dialysis was
+   yesterday), infection (high white count, increased lactate) from
+   peritoneal, blood, pulmonary or biliary source. Albumin is
+   significantly lower at 2.4 than it was in [**Last Name (LF) 23**], [**First Name3 (LF) **] malnutrition may
+   be contributing to weakness. Unifying diagnoses could include systemic
+   amyloidosis (concern expressed by renal team) vs. HIV (partner is
+   [**Name2 (NI) 14131**] positive, but patient has historically refused testing).
+   Patient has had frequent electrolyte abnormalities, which may
+   contribute.
+   -F/U blood cultures  (NGTD)
+   -Ammonia level low (25), and no asterixis on exam so hepatic
+   encephalopthay seem unlikely.
+   - Electrolytes [**Hospital1 7**] with repletion PRN
+   - Appreciate renal recs
+   - F/U Nutrition recs
+   - Fat pad bx to evaluate for amyloidosis on hold for now
+   .
+   # DIARRHEA: Patient reports voluminous diarrhea, and has a history of
+   having diarrhea with up to 5 liters daily. Previously the patient's
+   diarrhea was thought to be the result of ileal resection. This has been
+   a chronic issue but perhaps worse recently, and likely contributes to
+   weakness, hypotension and electrolyte abnormalities. C. diff negative x
+   2. Still having multiple BM per day.
+   - Attempt to quantify volume of diarrhea
+   - F/U stool studies (pending)
+   - Consider GI consult
+   - If stool studies negative, consider octreotide or tincture of opium
+   or restart loperamide
+   # ELEVATED TROPONIN: Patient's troponins have been 0.21-0.25 (flat)
+   which may be new baseline in setting of ESRD. Flat CKs suggest no
+   acute/evolving process. Difficult to interpret baseline EKG, but no
+   overt ST changes concerning for evolving infarct.
+   # Clavicle fracture: Sling for comfort per ortho recs. Activity as
+   tolerated. Pain control appropriate at this time
+   .
+   # Thrombocytopenia: Pt's plt count today is 47 from 51 which is lower
+   than it has been in the past (usually plts are around 90-100). Pt may
+   have a component of splenic sequestration, given known history of
+   portal hypertension sequelae (varices, ascites) and splenomegaly on US.
+   - Trend plt count (down slightly today)
+   .
+   # Mouth Pain
+ patient with upper gum pain which for him occurs with
+   some regularity probably likely due to denture malalignment.
+   - Keep dentures out when possible per dental recs
+   - Orabase PRN for mouth pain
+   - Consider Peridex rinse if lesions develop (antimicrobial) per dental
+   recs
+   #ESRD. Plan for HD Tuesday.
+   # FEN: prn IVF, replete electrolytes aggressively,  Renal Diet
+   # Prophylaxis: Pneumoboots
+   # Access: peripherals
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: Likely stay in ICU for now given low BPs
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3022-3-16**] 12:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,180 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2699-7-13**] 03:28 PM
+   -will need intrathecal ctx twice a week, cvvhd?
+   -Rad Onc consult in am for possible radiation to base of skull for CN
+   palsy (onc request)
+   -on bicarb drip + lasix per onc to excrete tumor lysis byproducts,
+   decreased lasix due to hypernatremia
+   -trasfused 1 unit in am, 2 units overnight
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2699-7-12**] 04:00 PM
+   Bactrim (SMX/TMP) - [**2699-7-12**] 04:00 PM
+   Meropenem - [**2699-7-13**] 12:00 PM
+   Acyclovir - [**2699-7-13**] 08:00 PM
+   Doxycycline - [**2699-7-13**] 09:00 PM
+   Fluconazole - [**2699-7-13**] 10:00 PM
+   Metronidazole - [**2699-7-13**] 11:54 PM
+   Ciprofloxacin - [**2699-7-13**] 11:55 PM
+   Cefipime - [**2699-7-14**] 04:00 AM
+   Infusions:
+   Midazolam (Versed) - 1.5 mg/hour
+   Furosemide (Lasix) - 2 mg/hour
+   Fentanyl (Concentrate) - 100 mcg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2699-7-13**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2699-7-14**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38
+C (100.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 100 (86 - 117) bpm
+   BP: 112/56(73) {100/49(64) - 127/65(84)} mmHg
+   RR: 10 (8 - 21) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 90.8 kg (admission): 81.7 kg
+   Height: 69 Inch
+    CVP: 5 (5 - 15)mmHg
+   Total In:
+                                                                  6,549 mL
+                                                                  2,254 mL
+   PO:
+   TF:
+                                                                  1,592 mL
+                                                                    496 mL
+   IVF:
+                                                                  3,347 mL
+                                                                  1,408 mL
+   Blood products:
+                                                                    900 mL
+                                                                    350 mL
+   Total out:
+                                                                  5,080 mL
+                                                                  1,800 mL
+   Urine:
+                                                                  5,080 mL
+                                                                  1,800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,469 mL
+                                                                    454 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 834 (571 - 2,352) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 13
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 21 cmH2O
+   SpO2: 94%
+   ABG: 7.33/56/108/28/1
+   Ve: 9.4 L/min
+   PaO2 / FiO2: 216
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   34 K/uL
+   8.3 g/dL
+   275 mg/dL
+   0.6 mg/dL
+   28 mEq/L
+   4.4 mEq/L
+   73 mg/dL
+   111 mEq/L
+   148 mEq/L
+   24.6 %
+   0.3 K/uL
+        [image002.jpg]
+                             [**2699-7-13**]  05:10 AM
+                             [**2699-7-13**]  11:09 AM
+                             [**2699-7-13**]  12:05 PM
+                             [**2699-7-13**]  12:26 PM
+                             [**2699-7-13**]  05:32 PM
+                             [**2699-7-13**]  07:44 PM
+                             [**2699-7-14**]  12:59 AM
+                             [**2699-7-14**]  02:45 AM
+                             [**2699-7-14**]  05:54 AM
+                             [**2699-7-14**]  06:25 AM
+   WBC
+   0.4
+   0.3
+   0.3
+   Hct
+   22.4
+   21.1
+   20.5
+   23.5
+   24.6
+   Plt
+   50
+   40
+   34
+   Cr
+   0.7
+   0.7
+   0.7
+   0.6
+   TCO2
+   27
+   26
+   28
+   31
+   Glucose
+   [**Telephone/Fax (3) 7053**]75
+   Other labs: PT / PTT / INR:13.2/23.4/1.1, CK / CKMB /
+   Troponin-T:138/3/0.02, ALT / AST:15/21, Alk Phos / T Bili:79/0.4,
+   Amylase / Lipase:39/132, Differential-Neuts:5.0 %, Band:0.0 %,
+   Lymph:85.0 %, Mono:5.0 %, Eos:0.0 %, D-dimer:6637 ng/mL, Fibrinogen:361
+   mg/dL, Lactic Acid:2.3 mmol/L, Albumin:2.8 g/dL, LDH:1865 IU/L,
+   Ca++:7.0 mg/dL, Mg++:2.9 mg/dL, PO4:6.8 mg/dL
+   Assessment and Plan
+ IMPAIRED SKIN INTEGRITY
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ HYPOTENSION (NOT SHOCK)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ .H/O HYPOTENSION (NOT SHOCK)
+ LYMPHOMA (CANCER, MALIGNANT NEOPLASM, LYMPHOID)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ TACHYCARDIA, OTHER
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2699-7-13**] 06:33 PM 70 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2699-7-3**] 10:03 AM
+   Arterial Line - [**2699-7-3**] 02:00 PM
+   18 Gauge - [**2699-7-11**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

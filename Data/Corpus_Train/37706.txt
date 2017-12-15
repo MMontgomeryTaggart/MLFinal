@@ -1,0 +1,239 @@
+Admission Date:  [**3166-9-30**]              Discharge Date:   [**3166-10-10**]
+
+Date of Birth:  [**3082-11-14**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Amlodipine
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Dyspnea on exertion, loss of consciousness
+
+Major Surgical or Invasive Procedure:
+[**3166-10-5**] Aortic Valve Replacement (21mm St. [**Male First Name (un) 262**] Epic Supra),
+Coronary Artery Bypass Graft x 3 (Left internal mammary artery
+to left anterior descending, saphenous vein graft to pbtuse
+marginal, saphenous vein graft to posterior descending artery)
+
+History of Present Illness:
+This 83 year old man pre-op aortic valve replacement for
+stenosis and coronary bypass for double vessel disease was
+admitted after a syncopal episode at home.  At an outside
+hospital he was found to have heme positive stools and a
+hematocrit of 28. Most recent echo showed significant aortic
+stenosis with peak and mean gradients of 59 and 37 and estimated
+valve area of 0.7cm sq. Subsequentlyly he  underwent cardiac
+cath which revealed multiple vessel disease.
+
+Past Medical History:
+Aortic stenosis
+Coronary Artery disease
+Hypertension
+Dyslipidemia
+Congestive heart failure
+Polymyalgia rheumatica/Question of Rheumatoid Arthritis
+s/p Right inguinal hernia repair
+s/p lens implants for cataracts
+
+Social History:
+-Patient is a retired automobile mechanic. He is independent for
+all ADLS. Lives with his wife (who has alzheimer's) and his son.
+-Tobacco history: Denies.
+-ETOH: Socially, but has had no alcohol recently.
+-Illicit drugs: Denies.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission:
+Pulse: 96 O2 sat: 98
+B/P  Right: 127/76   Left: 135/74
+Height: [**4-13**]"   Weight: 160lbs
+
+General: well-developed, well-nourished male in no acute
+distress
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [X] EOMI [X]
+Neck:  Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X]  Irregular []  Murmur [**2-11**] high-pitched systolic
+murmur
+Abdomen: Soft [X] non-distended [X] non-tender [X]  bowel sounds
++ [X]
+Extremities: Warm [X], well-perfused [X]  Edema: none
+Varicosities: Bilateral superficial Left>right
+Neuro: Grossly intact, Alert and oriented x 3
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) 647**]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit        Right/Left: transmitted cardiac murmur
+
+Pertinent Results:
+[**3166-9-30**] ECG: Sinus rhythm. Left ventricular hypertrophy.
+Lateral T wave changes probably due to left ventricular
+hypertrophy. No previous tracing available for comparison.
+.
+[**3166-10-1**] CT Chest Without Contrast: 1. Calcified aortic valve.
+Mildly calcified aortic arch. 2. Densely calcified coronary
+arteries. 3. Cholelithiasis. 4. Mildly calcified takeoffs of the
+left common carotid and left subclavian arteries.
+.
+[**3166-10-3**] Carotid U/S: Right ICA stenosis <40%. Left ICA stenosis
+<40%.
+.
+[**3166-10-5**] Echo: PRE-BYPASS: The left atrium is dilated. No
+spontaneous echo contrast or thrombus is seen in the body of the
+left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. No atrial septal defect is seen
+by 2D or color Doppler. There is moderate symmetric left
+ventricular hypertrophy. The left ventricular cavity size is
+normal. There is mild regional left ventricular systolic
+dysfunction with focalities in the circumflex distribution.
+Overall left ventricular systolic function is mildly depressed
+(LVEF= 45 %). Doppler parameters are most consistent with Grade
+I (mild) left ventricular diastolic dysfunction. Right
+ventricular chamber size and free wall motion are normal. There
+are simple atheroma in the aortic arch. The aortic valve
+leaflets are severely thickened/deformed. There is critical
+aortic valve stenosis (valve area <0.8cm2). Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Mild (1+) mitral
+regurgitation is seen. There is a small pericardial effusion.
+Post_Bypass: Patient is on epinephrine 0.02mcg/kg/min, Normal RV
+systolic function. Overall LVEF 45%. The bioprosthetic valve in
+the native aortic position is stable and functioning well with
+residual mean gradient of 15mm of Hg. The thoracic aorta is
+intact. Mild MR.
+.
+[**3166-9-30**] 09:21PM BLOOD WBC-12.4* RBC-3.34* Hgb-9.1* Hct-27.6*
+MCV-83 MCH-27.3 MCHC-33.1 RDW-14.9 Plt Ct-238
+[**3166-10-5**] 03:31PM BLOOD WBC-31.6* RBC-3.74*# Hgb-10.2*#
+Hct-30.5*# MCV-81* MCH-27.1 MCHC-33.3 RDW-15.5 Plt Ct-161
+[**3166-10-10**] 06:25AM BLOOD WBC-14.2* RBC-3.13* Hgb-8.6* Hct-26.0*
+MCV-83 MCH-27.4 MCHC-32.9 RDW-16.9* Plt Ct-161
+[**3166-9-30**] 09:21PM BLOOD PT-12.7 PTT-23.7 INR(PT)-1.1
+[**3166-10-5**] 03:31PM BLOOD PT-15.1* PTT-40.1* INR(PT)-1.3*
+[**3166-9-30**] 09:21PM BLOOD Glucose-101 UreaN-16 Creat-1.0 Na-136
+K-4.3 Cl-100 HCO3-27 AnGap-13
+[**3166-10-5**] 06:40AM BLOOD Glucose-118* UreaN-16 Creat-1.1 Na-134
+K-3.6 Cl-101 HCO3-23 AnGap-14
+[**3166-10-10**] 06:25AM BLOOD Glucose-90 UreaN-26* Creat-1.2 Na-138
+K-3.6 Cl-102 HCO3-28 AnGap-12
+[**3166-10-1**] 01:15PM BLOOD ALT-21 AST-22 LD(LDH)-188 AlkPhos-32*
+TotBili-0.4
+[**3166-10-10**] 06:25AM BLOOD Calcium-8.0* Phos-2.1* Mg-2.3
+
+Brief Hospital Course:
+As mentioned in the HPI, Mr. [**Known patient lastname **] was transferred from outside
+following a syncopal episode at home. Cardiology service
+medically managed patient upon admission and he was
+appropriately worked-up for cardiac surgery. This included
+carotid U/S, chest CT, Echo, GI consult, Dental consult along
+with usual pre-op lab work. This was achieved over several days
+and on [**10-5**] he was brought to the operating room where he
+underwent an aortic valve replacement and coronary artery bypass
+graft x 3. Please see operative report for surgical details.
+Following surgery he was transferred to the CVICU for invasive
+monitoring in stable condition.
+
+On post-operative day one he was weaned from sedation, awoke
+neurologically intact and extubated. On post-op day two his
+chest tubes were removed and he was transferred to the telemetry
+floor for further care. On post-op day three his epicardial
+pacing wires were removed.
+Diuresis towards his preoperative weight and pysical therapy
+worked with him for mobility.  He continued to make progress
+while working with physical therapy for strength and mobility.
+On post-op day five he was discharged to home with VNA services
+with the appropriate medications and follow-up appointments.
+
+Discharge restrictions, activity and medications were discussed
+prior to leaving the hospital.
+
+Medications on Admission:
+lisinopril 40mg PO daily, lasix 20mg PO daily, aspirin 81mg PO
+daily, simvastatin 20mg PO daily, calcium D 600-200mg PO daily,
+prednisone 15mg PO daily, hydroxychloroquine 200mg PO BID
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*1*
+3. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*1*
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+5. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+Disp:*90 Tablet(s)* Refills:*1*
+6. Prednisone 5 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*1*
+7. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+8. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*1*
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*1*
+10. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic Valve Replacement
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 3
+Past medical history:
+Congestive heart failure
+Hypertension
+Hypercholesterolemia
+Polymalgia rheumatica/?rheumatoid arthritis
+s/p right inguinal hernia repair
+s/p lens implants for cataracts
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+shower daily, no baths or swimming
+no lotions, creams or powders to incisions
+no driving for 4 weeks and off all narcotics
+no lifting more than 10 pounds for 10 weeks
+report any redness of, or drainage from incisions
+report any fever greater than 100.5
+report any weight gain greater than 2 pounds a day or 5 pounds a
+week
+take all medications as directed
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in 4 weeks ([**Telephone/Fax (1) 181**])
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 34345**] in [**1-11**] weeks
+Dr. [**First Name8 (NamePattern2) 90**] [**Last Name (NamePattern1) 2511**] in [**12-10**] weeks ([**Telephone/Fax (1) 13868**])
+[**Hospital Ward Name **] 6 wound clinic in 2 weeks
+please call for appointments
+
+
+
+Completed by:[**3166-10-10**]
+
+
+DOC CLASS

@@ -1,0 +1,313 @@
+Admission Date:  [**3284-11-17**]              Discharge Date:   [**3284-11-22**]
+
+Date of Birth:  [**3221-1-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Vicodin
+
+Attending:[**First Name3 (LF) 6681**]
+Chief Complaint:
+penile pain, lower extremity weakness
+
+Major Surgical or Invasive Procedure:
+Placement of central line in RIJ vein
+
+History of Present Illness:
+This is a 63 y.o. male with PMH significant for ischemic CM (EF
+45%), OSA on CPAP, DM who presents with chief complaint of
+bilateral leg weakness, cough, DOE, and low urine output after
+surgery. He is currently POD#3 s/p penile pump implant
+([**Date range (1) 6685**]/05 ) during which time the glans was persistently
+dusky in color. On POD #2 his foley cath was removed, but he
+failed to have significant urine output. Post void residual was
+250 cc of urine, and he was discharged with a foley in place.
+His wife notes that he had less that 200 cc of urine during the
+day he was at home. Today he noticed that his legs were weak and
+he had pain in his penis, so he decided to go the ED instead of
+his scheduled follow up visit.
+.
+In the ED he was found to be hypotensive to 81/41 with
+temperature of 99.3. He received 500 mg of levoquin IV and a
+code sepsis was called. A central line was inserted and he
+received 3 liters of normal saline without apprecible urine
+output. Levophedrine was started for persistently low pressures.
+He was transferred to the MICU for further evaluation.
+
+
+Past Medical History:
+1) Cardiomyopathy, mixed LV systolic and diastolic dysfunction.
+
+EF 45%. Most recent ECHO [**6-12**].
+2) CAD. Selective coronary arteriography in [**3282-6-9**]
+revealed RA 5, RV 31/8, PA 33/14 with a mean of 23, pulmonary
+capillary wedge pressure 6, LVEDP 9, cardiac output 5.8, CVR
+235. Also revealed angiographically normal vessels with mild
+coronary artery  disease of the left circumflex artery. Left
+ventriculography revealed an LVEF of 63%, mitral valve was
+normal. Non-ST-segment elevation myocardial infarction in [**Month (only) 626**]
+of [**3282**].
+3) Diabetes mellitus x 12 years, with neuropahty, nephropathy.
+4) Hypertension
+5) Anemia of chronic disease.
+6) BPH.
+7) Glaucoma; on carbonic and hydrase inhibitor
+8) Chronic restrictive ventilatory disease related to a bile
+duct leak with development of pulmonary fibrosis requiring
+decortication
+9) Depression
+10) CRI with baseline creatinine of 1.7
+Sleep apnea on BiPAP, currently [**10-17**]
+11) Anemia of chronic disease.
+12) BPH.
+13) Erectile dyscunction s/p Penile implant 12/05 per HPI
+..
+Past surgical history is significant for:
+1) History of roux-en-y reconstruction after laparoscopic
+cholecystectomy in [**3282-4-9**].
+2) [**3282**] status post decordication for fibrothorax complicated
+respiratory failure requiring tracheostomy.
+3) History of appendectomy.
+4) History of left knee and hip replacement complicated by
+chronic pain.
+
+
+Social History:
+married, retired, worked at Polaroid. He has 3 children. He
+denies any history of tobacco, alcohol or drug use.
+
+
+Family History:
+CVA - brother
+Breast [**Name (NI) 5007**] - mother
+
+Physical Exam:
+Tm 99.2 Tc 99.2 BP (cuff) 84/51 P57 R20 99% 5LNC CVP 18 SVO2
+65-73%
+Gen: NAD, sitting comfortably in bed, alert and oritented x 3
+HEENT: R pupil teardrop shaped, both reactive to light. OP
+clear. MM dry. JVP 14 cm
+Resp: right side with coarse breath sounds, left side bronchial
+but clear
+CV: RRR nl s1s2 physiologically split S2 no murmurs
+Abd: obese, soft, nontender, ND +BS
+Ext: trace edema, cool to touch, no cyanosis
+Penis: shaft pink, tender to touch, with no purulent discharge.
+Testicles ecchymotic with CDI bandaged from surgery. Foley in
+place.
+Neuro: CN 2-12 intact. Strength 4/5 hip flexors bilaterally.
+Sensation intact bilaterally.
+Skin: no rash.
+
+
+Pertinent Results:
+[**3284-11-17**] 10:55AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-5.0 LEUK-MOD
+[**3284-11-17**] 10:55AM URINE  RBC-21-50* WBC-[**5-19**]* BACTERIA-MANY
+YEAST-NONE EPI-[**2-12**]
+[**3284-11-17**] 10:55AM   WBC-12.7*# RBC-3.71* HGB-11.4* HCT-33.0*
+MCV-89 MCH-30.7 MCHC-34.4 RDW-14.2
+[**3284-11-17**] 10:55AM   proBNP-[**Numeric Identifier 6686**]*
+[**3284-11-17**] 10:55AM   GLUCOSE-166* UREA N-72* CREAT-4.5*#
+SODIUM-134 POTASSIUM-6.6* CHLORIDE-103 TOTAL CO2-21* ANION
+GAP-17
+[**3284-11-17**] 10:59AM   LACTATE-2.3*
+[**3284-11-17**] 02:00PM   CRP-110.8*
+.
+Renal US [**3284-11-18**]: No hydronephrosis.  Somewhat suboptimal
+examination.
+.
+CXR [**3284-11-17**]: Stable left pleural thickening. Mild upper
+tracheal narrowing stable compared to the prior exam.
+.
+LLE US [**3284-11-18**]: No DVT in the left lower extremity, no change
+compared to the prior study.
+
+
+Brief Hospital Course:
+In the ED the pt was given 3000ml of fluids. He was continued on
+Levoquine 500mg iv initially. Levophed was started to maintain
+adequate blood pressure. He was transferred to the ICU where he
+received a total of 2750cc of fluid in form of boluses. He was
+found to be in acute on chronic renal failure with a creatinine
+of 4.6. A central line and arterial line was placed. Levophed
+was continued. Levaquine was stopped and the pt was started on
+Vancomycin and Ceftriaxone. Urology was consulted. The acute
+event was not thought to be in relation to the operative
+procedure three days prior. The swelling and pain the pt
+experienced in his penis and scrotum was consistent with normal
+postoperative changes.
+The pt was found to have elevated troponins (0.29). He never
+complained of chest pain. EKGs showed T wave changes but no ST
+segment changes. Echo showed no evidence of RV dysfunction c/w
+PE, no change in mild TR; overall function similar to old EF
+showing EF 45%. Recent stress test without evidence of ischemia.
+The etiology was thought to be demand ischemia in the setting of
+hypotension. The BNP was elevated to [**Numeric Identifier 3622**] although there were
+no signs of Lsided heartfailure on CXR and overt signs of R
+sided failure on exam. The LE edema was at baseline for the pt.
+Bilateral LE US was negative for DVT. Losartan was hold during
+the hsopital course adn was substituted by hydralazine and imdur
+to achieve afterload reduction. Losartan should be restarted
+once acute renal failure is resolved. toprol was switched to
+metoprolol for better ability to titrate. The pt was given
+metoprolol 12.5mg [**Hospital1 12**].
+The pt was found to be adrenally deficient and was started on
+Hyrdocortisone and Fludrocortisone. The pt responded well to IVF
+and Levophed was discontinued. The pt remained normotensive and
+was restarted on metoprolol for blood pressure and heart rate
+control. He was transferred to the floor for further management.
+
+Vancomycin was stopped after three days per ID recommendations.
+Ceftriaxone was continued until the day prior to discharge when
+it was changed to oral Cefpodixime which should be continued for
+seven days suspecting a complicated urinary tract infection as
+the urine analysis was suggesting. Urine and Blood cultures
+remained negative. Fludrocortisone and Hydrocortisone were
+discontinued. The pt remained normotensive and afebrile. The
+central line was removed. Outpatient furosemide dose was
+restarted at 60mg QD on day 4 of admission. A set of urine lytes
+was checked and was most consistent with prerenal azotemia. The
+pt creatinine continued to trend down to 2.1 on the day of
+discharge. A voiding trial was done on the day of discharge. The
+pt was not able to void most likely due to obstruction. The pt
+was send home with a catheter in place to follow up with
+urology.
+The pt's diabetes mellitus was controlled with Lantus and SSC as
+[**First Name8 (NamePattern2) **] [**Last Name (un) 124**] Diabetes center sliding scale. The pt's hematocrit
+was reduced from baseline which was attributed to dilution. The
+pt has a chronic anemia chronic disease. BIPAP at night was
+continued on outpatient settings ([**10-17**]). Lexapro was continued
+for depression.
+
+
+Medications on Admission:
+Ecotrin 325 PO QD
+Vit D [**Numeric Identifier 6687**] Q monday
+Levofloxacin 500 mg POQD
+Docusate Sodium 100 mg PO BID
+Tamsulosin 0.8 mg PO QHS
+Furosemide 60 mg PO QD
+Ranitidine HCl 150 mg POBID
+Escitalopram 5 QAM, 10 mg QHS
+Losartan 50 mg POQD
+Beclomethasone 1 spray PO BID
+Toprol XL 100 POQD
+Percocet 7.5-325 mg PRN
+humalog SS: range 3-12 units in the morning for sugar 51-401,
+3-12 units at lunch for 51-401, 6-14 units in the evening for
+blood sugars from 51-351, 1-4 units in the evening for blood
+sugars from 251-401.
+lantus 8 QHS
+
+
+Discharge Medications:
+1. Escitalopram 10 mg Tablet Sig: 0.5 Tablet PO QAM (once a day
+(in the morning)).
+Disp:*20 Tablet(s)* Refills:*2*
+2. Escitalopram 10 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+Disp:*20 Tablet(s)* Refills:*2*
+3. Aspirin, Buffered 325 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Ergocalciferol (Vitamin D2) 50,000 unit Capsule Sig: One (1)
+Capsule PO Q MONDAY ().
+Disp:*30 Capsule(s)* Refills:*2*
+8. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1)
+Capsule, Sust. Release 24HR PO HS (at bedtime).
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+9. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+10. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+11. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**3-15**]
+hours: please do not take together with
+oxcycodone/acetaminophen.
+Please do not exceed 4g/d.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Cepacol 2 mg Lozenge Sig: One (1) Lozenge Mucous membrane
+PRN (as needed): for sore throat.
+Disp:*20 Lozenge(s)* Refills:*0*
+13. Furosemide 20 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+14. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours) for 7 days.
+Disp:*28 Tablet(s)* Refills:*0*
+15. Insulin Glargine 100 unit/mL Solution Sig: One (1) 8U
+Subcutaneous at bedtime.
+Disp:*qs 8U* Refills:*2*
+16. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1)
+Subcutaneous four times a day: per sliding scale.
+Disp:*qs * Refills:*2*
+17. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+Disp:*90 Tablet(s)* Refills:*2*
+18. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 364**] Homecare
+
+Discharge Diagnosis:
+Hypotension
+Possible sepsis, culture negative
+Possible cardiogenic shock
+
+
+Discharge Condition:
+Good, hypotension resolved, ambulatory
+
+
+Discharge Instructions:
+Please come back to the hospital or see your primary care
+physician if you develop any shortness of breath, chest pain,
+lightheadedness, weakness, fevers, chills or any other concerns.
+.
+Please take the antibiotics for seven more days twice daily.
+Please continue to take your other medications as prior to
+admissions except for the Losartan (Cozaar) and the Toprol.
+Please do not take the Losartan (Cozaar) until Dr. [**Last Name (STitle) **]
+instructs you to do so. Please take hydralazine 25mg three times
+daily and Imdur 60mg once daily until you are restarted on
+Losartan. Please take metoprolol 12.5mg twice daily instead of
+the toprol. Please take Pantoprazole instead of ranitidine.
+.
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] in the next week. Please call
+for an appointment: [**Telephone/Fax (1) 6688**].
+.
+Please follow up with Dr. [**Last Name (STitle) **] Date/Time:[**3284-11-23**] 2:15
+([**Telephone/Fax (1) 349**]).
+.
+Please follow up with Dr. [**Last Name (STitle) 6689**],[**First Name3 (LF) 903**] A. MEN'S HEALTH
+Date/Time:[**3284-11-27**] 1:30 as instructed by Dr. [**Last Name (STitle) **].
+
+
+
+
+ 
+ 
+DOC CLASS

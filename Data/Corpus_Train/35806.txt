@@ -1,0 +1,289 @@
+Admission Date:  [**3468-11-18**]              Discharge Date:   [**3468-11-22**]
+
+Date of Birth:  [**3406-6-29**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+left main coronary artery dissection
+
+Major Surgical or Invasive Procedure:
+coronary artery bypass grafting x4(LIMA-LAD, SVG-Ramus-OM,
+SVG-PDA)[**11-18**]
+
+
+History of Present Illness:
+The patient is a 62 year old white male who had been
+experiencing dyspnea on exertion which had developed into
+shortness of breath at rest.  He presented to an outside
+hospital where a stress test was abnormal with ST segment
+depression.  The patient was brought to the cardiac cath lab for
+coronary angiography.  He was found to have a left main coronary
+artery dissection, and was brought emergently to [**Hospital1 22**] for
+surgical intervention.
+
+Past Medical History:
+coronary artery disease
+hypertension
+diabetes
+hyperlipidemia
+benign prostatic hyperplasia
+
+Social History:
+lives with wife
+owns [**Location (un) 1363**] shop
+quit smoking 33 years ago
+rare alcohol
+
+Family History:
+non-contributory
+
+Physical Exam:
+VS: 99, 98.6, 112/70, 76SR, 18, 95%RA
+Gen: NAD, WG, WN white male
+HEENT: unremarkable
+CV: RRR, no murmur or rub
+Chest: lungs CTAB
+Abd: +BS, soft, non-tender, non-distended
+Ext: warm, well-perfused, trace edema
+Incisions: sternal- c/d/i without erythema or drainage, EVH-
+c/d/i
+
+Pertinent Results:
+[**3468-11-21**] 06:10AM BLOOD WBC-10.8 RBC-3.35* Hgb-10.0* Hct-27.9*
+MCV-83 MCH-29.7 MCHC-35.8* RDW-13.6 Plt Ct-155
+[**3468-11-21**] 06:10AM BLOOD Glucose-134* UreaN-15 Creat-0.8 Na-135
+K-4.3 Cl-97 HCO3-30 AnGap-12
+[**3468-11-21**] 06:10AM BLOOD Calcium-8.6 Mg-1.9
+
+
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 31480**]       TEE (Complete)
+Done [**3468-11-18**] at 5:05:46 PM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4615**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**3406-6-29**]
+Age (years): 62 M  Hgt (in): 69
+BP (mm Hg): 134/67  Wgt (lb): 175
+HR (bpm): 75  BSA (m2): 1.95 m2
+Indication: Intraoperative TEE for CABG procedure. Chest pain.
+Hypertension. Left ventricular function. Mitral valve disease.
+Preoperative assessment.
+ICD-9 Codes: 402.90, 786.51, 440.0, 424.0
+Test Information
+Date/Time: [**3468-11-18**] at 17:05    Interpret MD: [**Name6 (MD) 8386**] [**Name8 (MD) **],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], MD
+Doppler: Limited Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008AW2-: Machine: aw2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+Aorta - Ascending:  *3.5 cm  <= 3.4 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. No ASD by 2D or color
+Doppler.
+
+LEFT VENTRICLE: Severe regional LV systolic dysfunction.
+Severely depressed LVEF.
+
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+descending aorta diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild (1+)
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+Prebypass
+
+1. No atrial septal defect is seen by 2D or color Doppler.
+
+2. There is severe regional left ventricular systolic
+dysfunction with hypokinesia of the apex, apical and mid
+portions of the anterior wall, anterior septum, septum and
+inferior septum. Overall left ventricular systolic function is
+severely depressed (LVEF= 30 %).
+
+3. Right ventricular function is mildly depressed..
+
+4. There are simple atheroma in the descending thoracic aorta.
+
+5. The aortic valve leaflets (3) are mildly thickened but aortic
+stenosis is not present. No aortic regurgitation is seen.
+
+6. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+
+7. There is a trivial/physiologic pericardial effusion.
+
+8. Dr. [**Last Name (STitle) **] was notified in person of the results on
+[**3468-11-18**] at 1645pm.
+
+9. Unable to obtain transgastric views.
+
+Post Bypass
+
+1. Patient is being AV paced and receiving an infusion of
+phenylephrine, epinephrine and milrinone.
+
+2. LV systolic function is slightly improved. LVEF =40%
+
+3. Aorta intact post decannulation.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 8386**] [**Name8 (MD) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**3468-11-18**] 19:00
+
+
+?????? [**3462**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 24662**] was brought emergently to the operating room on
+[**11-18**] where he underwent CABG x 4.  Please see operative note
+for details.  Overall the patient tolerated the procedure well
+and post-operatively was transferred to the CVICU in stable
+condition for observation and recovery.  By POD 1 the patient
+was extubated, alert and oriented and breathing comfortably.  He
+was neurologically intact and hemodynamically stable on no
+inotropic or vasopressor support.  He was transferred to the
+step down unit.  Chest tubes and pacing wires were discontinued
+without complication.  He was diuresed toward his preoperative
+weight.  The patient made excellent progress with physical
+therapy, showing good strength and balance before discharge.  He
+was discharged home on POD 4 with appropriate follow up
+instructions.
+
+Medications on Admission:
+zestril 10'
+simvastatin 20'
+glipizide 5am, 10pm
+glucophage 1000''
+clonazepam .5 hs prn
+asa 81'
+metoprolol 25'
+flomax 0.4'
+
+Discharge Medications:
+1. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+3. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+Disp:*120 Tablet(s)* Refills:*0*
+4. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO Qpm.
+Disp:*30 Capsule, Sust. Release 24 hr(s)* Refills:*0*
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+Disp:*60 Capsule(s)* Refills:*0*
+8. Glipizide 5 mg Tablet Sig: One (1) Tablet PO twice a day: 5mg
+Qam, 10mg Qpm.
+Disp:*90 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a
+day for 1 months.
+Disp:*60 Tablet(s)* Refills:*0*
+11. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+12. Furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day
+for 1 weeks.
+Disp:*7 Tablet(s)* Refills:*0*
+13. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 1
+weeks.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 335**] VNA
+
+Discharge Diagnosis:
+s/p coronary artery bypass grafting x4(LIMA-LAD, SVG-Ramus-OM,
+SVG-PDA)[**11-18**]
+PMH: hypertension, diabetes, hyperlipidemia, benign prostatic
+hyperplasia
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Please shower daily including washing incisions, no baths or
+swimming
+Monitor wounds for infection - redness, drainage, or increased
+pain
+Report any fever greater than 101
+Report any weight gain of greater than 2 pounds in 24 hours or 5
+pounds in a week
+No creams, lotions, powders, or ointments to incisions
+No driving for approximately one month, and while taking
+narcotics
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+Followup Instructions:
+Dr [**Last Name (STitle) **] for Dr [**Last Name (STitle) 9162**] at [**Hospital1 6823**] in 3 weeks
+[**Telephone/Fax (1) 334**]
+Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in 3 weeks
+Patient to call for all appointments
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**3468-11-22**]
+
+
+DOC CLASS

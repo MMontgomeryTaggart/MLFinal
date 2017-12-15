@@ -1,0 +1,356 @@
+Admission Date:  [**2969-9-29**]              Discharge Date:   [**2969-10-3**]
+
+Date of Birth:  [**2889-1-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Cipro
+
+Attending:[**Known patient firstname 133**]
+Chief Complaint:
+Fever, malaise, fall
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+80yoM with a history of DM, PVD, s/p mechanical AVR (19 years
+ago) for AI is transferred from [**Hospital6 3057**] after
+initially presenting with a fever and s/p a fall.  The patient
+was apparently in his USOH until two days prior to admission
+when per his wife had chills.  He then got up to go to bed and
+fell, unwitnessed, no LOC.  He got up and went to the kitchen
+and his wife noticed he had an abrasion on his head, she said he
+never lost consciousness and it seemed that he had tripped on
+the stairs.  He was walking normally and had normal speech.  He
+then went to sleep.  The next a.m. he awoke and continued to
+have chills, he then went to the bathroom.  While on the toilet
+he asked his wife for his jacket as he felt very cold.  When she
+arrived with his jacket he had shaking chills and was conscious
+and conversive.  Then he all of a sudden started staring
+straight ahead and was no longer conversing and seemed to have
+lost consciousness.  His wife called 911 and she returned to
+find him still on the toilet but leaning on the wall.  He had no
+abnormal movements while unconscious and no abnormal eye
+movements.  Per wife his speech now seems the same as his speech
+when he is not wearing his dentures.
+.
+No measured temps at home, he has been more somnolent and having
+body aches over the past 2 weeks.  No cough or rhinorrhea.  No
+urinary symptoms.  No chest pain or shortness of breath per his
+wife. [**Name (NI) **] [**Name2 (NI) **] contacts but does have 8 grandchildren.  No recent
+dental work.
+.
+At [**Hospital3 **] his initial BP was 200/110, he was noted to
+have a superficial abrasion on his R scalp and a negative Head
+CT.  He was given IV labetalol and his BP then was 180/90.  He
+was noted to be febrile to 102 F and blood cultures were drawn,
+an LP was performed which was negative, and he was given 2g IV
+ceftriaxone.  In addition he was noted to have "seizure like"
+activities in the ER and was given IV ativan.
+
+On review of systems, he denies any headache, blurred vision, he
+states he has had difficulty speaking for the last 2 days.
+Denies any weakness or numbness.  No shortness of breath or
+orthopnea, no Chest pain or discomfort.  No abdominal pain.  No
+diarrhea or constipation, last BM today and was normal.  No
+blood in stool or melena.
+
+Past Medical History:
+1. Coronary artery disease s/p CABG (1 Vessel in [**2949**] with AVR)
+2. Hypertension
+3. Dyslipidemia
+4. Diabetes mellitus on PO meds only
+5. Peripheral [**Year (4 digits) 1092**] disease
+6. Cerebrovascular accident in [**2959**] manifest by slurred speech
+and L hand paresthesia.
+7. Transient ischemic attack with therapeutic INR so INR range
+increased to 3-4 range
+8. bladder cancer in [**2958**], s/p resection
+9. CRI
+
+PAST SURGICAL HISTORY:
+1. [**First Name8 (NamePattern2) **] [**Male First Name (un) 911**] aortic valve replacement [**2949**].
+2. One vessel coronary artery bypass graft.
+3. Status post bladder resection for bladder carcinoma in '[**58**]
+4. Status post femoral popliteal bypass in [**2960-11-29**]
+5. [**2965-10-17**]-Left lower extremity angiography, angioplasty of
+anterior tibial artery, angioplasty and stenting of
+superficial femoral artery.
+
+
+Social History:
+-Tobacco history: denies
+-ETOH: denies
+-Illicit drugs:
+lives with wife, independent in ADLs, functional at baseline
+
+Family History:
+Mother with DM
+Father with DM and renal failure
+
+Physical Exam:
+VS: T 98.7  BP 154/84  HR 71  RR 18  O2 sat 95% on RA
+GENERAL: NAD, AOX2, date is [**10-29**] but knows it is
+Halloween and year [**2966**].
+HEENT: JVP 8. OP clear, MM dry, sclera anicteric, PERRL, EOMI,
+conjunctiva are pink without lesions, no carotid bruits
+CARDIAC: RRR, [**1-4**] diastolic murmur at LUSB, no thrill, no
+radiation
+PULM: Dullness at R base, otherwise CTAB
+ABD: SOFT, NT, ND, no masses or organomegaly, BS+
+EXT: doppler DP and PT bilaterally, warm,  no c/c/e
+NEURO: as above AOx2, able to follow commands and answer
+questions appropriately.  PERRL, EOMI, CN2-12 intact.  Slightly
+dysarthric speech but no assymetry of mouth and upper jaw is
+adentate.  [**4-3**] stregnth in UE bicep, tricep, deltoid, grip,
+wrist flex / extend.  [**4-3**] stregnth in LE quad, hams, abduct,
+adduct, dorsiflex, plantar flex.  Normal sensation to light
+touch throughout.  Diminished reflexes in UE brachioradialis and
+biceps but bilat symmetric and 1+ bilat patellar reflexes bilat
+symmetric.  Toes downgoing.
+
+Pertinent Results:
+[**2969-10-3**] 07:25AM BLOOD WBC-7.7 RBC-3.71* Hgb-11.6* Hct-34.7*
+MCV-94 MCH-31.3 MCHC-33.5 RDW-13.9 Plt Ct-197
+[**2969-9-29**] 12:09PM BLOOD Neuts-79.0* Lymphs-15.0* Monos-5.4
+Eos-0.4 Baso-0.4
+[**2969-10-2**] 06:55AM BLOOD PT-33.8* PTT-35.0 INR(PT)-3.5*
+[**2969-9-29**] 12:09PM BLOOD Fibrino-579*#
+[**2969-9-29**] 12:09PM BLOOD ESR-44*
+[**2969-10-3**] 07:25AM BLOOD Glucose-114* UreaN-47* Creat-2.2* Na-141
+K-4.3 Cl-110* HCO3-25 AnGap-10
+[**2969-9-29**] 12:09PM BLOOD ALT-16 AST-35 LD(LDH)-298* CK(CPK)-1263*
+AlkPhos-142* TotBili-0.5
+[**2969-9-29**] 12:09PM BLOOD CK-MB-7 cTropnT-0.07*
+[**2969-10-2**] 06:55AM BLOOD Mg-1.9
+[**2969-9-29**] 12:09PM BLOOD CRP-4.3
+
+[**10-1**] MR [**Name13 (STitle) **]:
+1. No acute infarction.
+2. Patent major intracranial arteries, without flow limiting
+stenosis,
+occlusion or aneurysm more than 3 mm, within the resolution of
+MR angiogram. Some stenosis of the left distal vertebral,
+cavernous segments, and the middle cerebral artery on the right
+are noted, as described above.
+
+[**9-30**] CXR:
+In comparison with the study of [**9-29**], there are continued low
+lung
+volumes in this patient with intact sternal sutures. The
+nasogastric tube has been removed.
+Some increasing opacification is seen at the left base in the
+retrocardiac
+region. Although this could merely represent atelectasis, in
+view of the
+patient's fever of the possibility of supervening pneumonia
+cannot be
+excluded.
+
+ECHO [**9-29**]:
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. Overall left ventricular systolic
+function is normal (LVEF>55%). There are complex (>4mm) atheroma
+in the descending thoracic aorta. A bileaflet aortic valve
+prosthesis is present and appears well-seated. The aortic valve
+prosthesis leaflets appear to move normally. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. There is a
+trivial/physiologic pericardial effusion. No vegetation or
+abscess seen.
+
+LABS/STUDIES
+OSH labs [**9-28**]: Na 143, K 4.1, Cl 113, Bicarb 25, BUN 37, Cr
+2.2, Glucose 122, Ca 8.5
+Dilantin 7.1
+WBC 9.3 (normal diff), HCT 35, plt 160
+INR 3.2
+.
+u/a negative
+alk phos 128, alb 3.4
+ck 334, ast 26, alt 18, t prot 6.8, t bili 1.0
+ck mb 7, MBI 2.1
+.
+CSF: `WBC 3, RBC 44, no bacteria
+CSF protein 85 (high), Glucose 61
+.
+CT HEAD W/O CONTRAST [**2969-9-28**]: no acute bleed.  Microvascular
+changes c/w chronic infarcts, moderate ventriculomegaly.
+.
+EKG: NSR rate of 80.  Normal axis and QRDS / QT intervals.  PR
+prolonged at 240ms.  no ST / T wave changes, normal RWP, isolate
+Q wave in III.  No changes from prior in [**2966**].
+
+
+Brief Hospital Course:
+FEVER: Patient presenting with vague febrile illness and
+fatigue.  Pulmonary infection seemed most likely, given some
+evidence of progression of pulmonary infiltrates on CXR.
+Presentation would also be consistent with viral infection,
+although flu test negative.  Originally transferred for TEE but
+this was negative for valvular pathology.  Blood cultures
+negative.  Story not very concerning for seizure.  Since
+admission was afebrile with no leukocytosis.  LP was negative.
+ESR and CRP elevated suggesting some subacute organic illness.
+UA suggested dehydration but no UTI.  He was started on empiric
+Vancomycin for endocarditis on [**9-29**]. which was stopped.  He was
+treated with a three day course of azithromycin of CAP.  He
+improved with IV fluids.
+.
+ALTERED MENTAL STATUS:  He was on dilantin at OSH for question
+of possible seizure.  However, the story was more consistent
+with rigors.  He had a normal head CT at the OSH and a non-focal
+neuro exam.  He has a history of CVA and TIAs while on coumadin
+but none since his INR goal has been increased to [**1-31**], making
+TIA / CVA very unlikely especially given a non-focal neuro exam.
+ An MRI/MRA showed mild stenosis in distal vessels.
+He also had several episodes of night-time delerium, at times
+requiring haldol and ativan for sedation.
+He was seen by geriatrics who felt he was at significantly
+elevated risk for the development of delirium given advanced
+age, multiple medical comorbidities, acute hospitalization w/
+multiple transfers, and question of underlying cognitive
+impairment. While pt does not meet CAM criteria by evaluation
+this evening, there is clear evidence of delirium by history and
+given typical fluctuating course.  His delerium improved after
+leaving ICU and he will follow up with geriatrics.
+.
+CORONARY ARTERY DISEASE:  CAD s/p single vessel CABG in
+conjunction w/ AVR in [**2949**], per wife no chest pain and CABG was
+reportedly LIMA to LAD.  He had no ischemic changes on EKG and
+was continued on crestor.
+.
+HISTORY OF ATRIAL FIBRILLATION: He was in sinus rhythm but has
+had AF at OSH, in addition has had CVA in past and TIA while on
+coumadin, so INR range is [**1-31**] for him.  He was continued on
+coumadin and metoprolol.
+.
+ACUTE RENAL FAILURE: On admission, he had a creatinine slightly
+above baseline.  He had a FeNa of 0.7 % suggesting good kidney
+function with avid sodium retention.  He also appeared dry on
+exam in the setting of possible infection.  He was rehydrated
+with IV NS@150cc.
+.
+DIABETES: His oral hypoglycemic (actos) was held.  He was
+started on NPH 14u sc bid with humalog sliding scale and
+switched to 14 U SC QAM and 12 U SC QPM.  He was discharged on
+his home regimen including actos and insulin.
+.
+FEN: Heart healthy, diabetic diet.  IVF as above
+ACCESS: PIV's
+PROPHYLAXIS: INR supratherapeutic, PPI, pneumoboots
+CODE:  FULL
+
+Medications on Admission:
+Insulin 75/25 60 units daily (? in OMR is 25 units [**Hospital1 **])
+Coumadin 2mg M,F, 4mg daily on other days
+Neurontin 300mg po bid
+Crestor 20mg daily
+Prilosec 20mg daily
+Lopressor 50mg daily
+Actos 15mg daily
+Allopurinol 100mg daily
+Avodart 0.5mg daily
+Flomax 0.4mg daily
+
+Discharge Medications:
+1. Warfarin 2 mg Tablet Sig: One (1) Tablet PO 2X/WEEK (MO,FR)
+as needed for ON MONDAY AND FRIDAY.
+2. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO 5X/WEEK
+([**Doctor First Name **],TU,WE,TH,SA).
+3. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Avodart 0.5 mg Capsule Sig: One (1) Capsule PO once a day.
+6. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+7. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+8. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO twice a
+day.
+9. Actos 15 mg Tablet Sig: One (1) Tablet PO once a day.
+10. home equipment
+Commode for use at the bedside please.
+11. Insulin
+Please continue your home insulin regimen
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+home health vna
+
+Discharge Diagnosis:
+Delerium
+Community acquired pneumonia
+Viral syndrome with fevers
+Syncope
+Acute Renal Failure
+Diabetes
+
+
+Discharge Condition:
+BUN 47
+creat 2.2
+Hct 34.7
+K 4.3
+
+
+Discharge Instructions:
+You had a likely viral illness with a fever. All of your culture
+results were negative and you did not have any signs of
+infection in your heart. You became acutely confused and
+received some medicine to calm you down.  A follow-up
+appointment with Dr. [**First Name (STitle) 1008**] in the gerontololgy department here at
+[**Hospital1 18**] was made on [**10-23**]. A MRI was done that preliminarily does
+not show any sign of an acute problem. There is a question of a
+pneumonia on your chest Xray, you have 1 more day of antibiotics
+(azithromycin) to take when you go home.
+.
+New medicines:
+1. Your Metoprolol was replaced by a long acting type,
+Metoprolol Succinate
+2. We have held your Furosemide.
+3. Continue to take the insulin dose you were on at home.
+.
+Please stop smoking. Information was given to you on admission
+regarding smoking cessation. A nicotine patch of 14 mg per day
+was used during your hospital stay and should be used after
+discharge instead of smoking.
+
+Followup Instructions:
+[**Month/Year (2) **] Surgery:
+Provider: [**Name10 (NameIs) **] ROOM 3 ([**Doctor First Name **]) [**Doctor First Name **] LMOB (NHB)
+Phone:[**Telephone/Fax (1) 1223**] Date/Time:[**2969-10-30**] 10:00
+Provider: [**First Name11 (Name Pattern1) 1097**] [**Last Name (NamePattern4) 2564**], MD Phone:[**Telephone/Fax (1) 1223**]
+Date/Time:[**2969-10-30**] 11:00
+
+Cardiology:
+Provider: [**Known patient firstname 121**] [**Last Name (NamePattern1) **], MF Phone: [**Telephone/Fax (1) 18202**] Date/Time:
+[**2969-11-17**]  03:00pm
+Provider: [**Name10 (NameIs) **] Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2969-11-17**]
+2:00
+
+Primary Care:
+Provider: [**Name10 (NameIs) **], [**Name11 (NameIs) **] MD Phone: [**Telephone/Fax (1) 3062**] Date/Time:
+
+Gerontology:
+Provider: [**Name10 (NameIs) **] [**Name11 (NameIs) 1008**], MD  Phone: [**Telephone/Fax (1) 712**] Date/Time: [**10-23**] at 1:30. [**Last Name (NamePattern1) 434**], [**Location (un) 18203**] in the
+garage right next door.
+
+Please make a Neurology appointment with Dr.[**Name (NI) 5188**] office.
+Their number is [**Telephone/Fax (1) 1675**].
+
+
+
+Completed by:[**2969-10-6**]
+
+
+DOC CLASS

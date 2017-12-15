@@ -1,0 +1,252 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**6-17**]:
+   - Desat event, improved with deep suction; portable CXR shows some
+   worsening of RUL infiltrate and a stable, small R pneumothorax which
+   has apparently been stable from prior CXRs
+   - Levo added to meropenem for worsening HAP
+   - Dobhoff shifted from stomach to eso --> re-placed and confirmed by
+   KUB
+   - Continue diuresing w/ goal of -1.5L, given lasix 20mg IV
+   - Will switch pt to longacting ACE-I eventually
+   Allergies:
+   Penicillins
+   Unknown;
+   Methyldopa
+   Unknown;
+   Clindamycin
+   Unknown;
+   Sulfamethoxazole
+   Unknown;
+   Trimethoprim
+   Unknown;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   Anaphylaxis;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Meropenem - [**3192-6-18**] 03:59 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3192-6-18**] 04:01 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3192-6-18**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 70 (70 - 82) bpm
+   BP: 118/60(74) {87/40(51) - 184/122(134)} mmHg
+   RR: 24 (20 - 32) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 56.2 kg (admission): 48.2 kg
+   Height: 60 Inch
+             Total In:
+                                                                  1,744 mL
+                                                                    377 mL
+   PO:
+             TF:
+                                                                    924 mL
+                                                                    213 mL
+   IVF:
+                                                                    640 mL
+                                                                    164 mL
+   Blood products:
+   Total out:
+                                                                  1,850 mL
+                                                                    160 mL
+   Urine:
+                                                                  1,850 mL
+                                                                    160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -106 mL
+                                                                    217 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   GENERAL: Cushingoid appearing elderly female. Chronically ill
+   appearing, sleepy but able to answer questions
+   CARDIAC: S1&S2,  Normal rhythm, II/VI SEM LSB
+   LUNGS: Barrel chested, coarse inspiratory wheezes bilaterally,
+   expiratory rhonchi bilaterally
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: no C/C/E, incision in right groin c/d/i, L fem no
+   hematoma, bruit. R leg dressing staples intact, healing. R A-line
+   removed, dressing C/D/I. Erythema over right ant. calf.
+   PULSES:
+   Right: 1+ DP doppler PT doppler
+   Left: 1+ DP doppler PT Doppler
+   [**Name (NI) 347**] / Radiology
+   285 K/uL
+   8.9 g/dL
+   105 mg/dL
+   0.8 mg/dL
+   33 mEq/L
+   3.4 mEq/L
+   26 mg/dL
+   104 mEq/L
+   144 mEq/L
+   26.5 %
+   11.0 K/uL
+        [image002.jpg]
+                             [**3192-6-13**]  07:32 AM
+                             [**3192-6-13**]  10:43 AM
+                             [**3192-6-13**]  05:54 PM
+                             [**3192-6-14**]  01:31 AM
+                             [**3192-6-14**]  10:31 AM
+                             [**3192-6-14**]  11:38 AM
+                             [**3192-6-15**]  02:39 AM
+                             [**3192-6-16**]  05:02 AM
+                             [**3192-6-16**]  06:23 PM
+                             [**3192-6-17**]  05:10 AM
+   WBC
+   8.9
+   8.2
+   9.5
+   11.0
+   Hct
+   29.2
+   29.4
+   27.1
+   28.8
+   26.5
+   Plt
+   177
+   208
+   236
+   285
+   Cr
+   1.0
+   0.8
+   0.7
+   0.8
+   TCO2
+   29
+   31
+   34
+   31
+   31
+   Glucose
+   104
+   109
+   73
+   87
+   84
+   84
+   105
+   Other [**Year (4 digits) **]: PT / PTT / INR:12.9/33.2/1.1, CK / CKMB /
+   Troponin-T:128/24/2.82, ALT / AST:138/62, Alk Phos / T Bili:97/0.9,
+   Amylase / Lipase:/19, Differential-Neuts:90.5 %, Lymph:6.4 %, Mono:1.5
+   %, Eos:1.2 %, Lactic Acid:1.2 mmol/L, Albumin:2.1 g/dL, LDH:509 IU/L,
+   Ca++:8.3 mg/dL, Mg++:2.0 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   78 yo F with COPD presents with anterior MI and failed PCI on a tight
+   proximal lesion currently on medical management, s/p pacemaker
+   placement complicated by RV perforation and right leg ischemia.
+   # HAP : WBC rising again.  Sputum growing pseudomonas pansensitive.
+   Currently on meropenem. Vanc dc
+d [**6-15**].  Also, culture growing
+   stenotrophomonas, sensitive to levofloxacin and bactrim. Per ID, steno
+   may be a colonizer, not necessary to treat; but will start Levo due to
+   continued respiratory distress, worsened CXR on [**6-16**].
+   - cont abx meropenem day #[**8-7**] (pseudomonas not tested for quinolone
+   sensitivity)
+   - cont levo day #[**3-3**]
+   - maintain MAPs>60
+   - blood cx and urine cx negative (final)
+   - daily CXR (PA/Lat when stable)
+   - monitor fever curve (afebrile currently) and trend WBC
+   .
+   # RESPIRATORY FAILURE: Cont NC support as pt was on O2 at home
+   - change to 60mg prednisone and begin to taper
+   - cont albuterol/ipratropium Q4
+   - daily CXR
+   - monitor resp status
+   - diuresis today with goal neg 1-1.5L, cont standing 20mg Lasix, with
+   additional prn
+   .
+   # RV PERFORATION: Pt with tamponade after perforation of RV during
+   pacer placement. Repeat ECHO showed trivial effusion and no e/o
+   tamponade. Drain was removed [**6-9**]. Hct trended down to 27 from 29
+   today.
+   -daily Hct, fluctuating slightly, consider repeat ECHO if hemodynamic
+   changes.
+   - Active T&S
+   - cont to monitor hemodynamics closely
+   .
+   # RIGHT LEG ISCHEMIA: Distal pulses were lost after placement of right
+   femoral a-line. s/p left SFA thrombectomy, femoral endarterectomy,
+   right fasciotomy. +dopplerable pulses post-procedure. CK wnl
+   - appreciate vascular recs
+   - cont to check dopplers
+   - monitor wound site, keep groin dry w/ desitin
+   # RHYTHM: H/O paroxysmal Afib but presents with slow afib and AV
+   dissociation.  Pt underwent pacemaker placement that was complicated by
+   RV perforation. CXR neg for PTX. Pt previously with a-fib with RVR, now
+   A-paced. Treated with amio
+   - appreciate EP recs
+   - cont IV amiodarone given unable to take po, now 400 mg IV [**1-27**] rate
+   bursts 90-100
+ 120s
+   - cont IV BB given pt unable to take po
+   - no warfarin; on asa/plavix
+   - cont to monitor on tele
+   # CORONARIES: Pt transferred for NSTEMI and is s/p ccath that  focal
+   LAD lesions that could not be intevened . Pt was being medically
+   managed and stable.  BP meds were held secondary to hypotension.
+   - cont ASA and plavix given stable Hct when taking po (can change ASA
+   to pr)
+   - cont BB, ACE-inh
+   .
+   # PUMP: EF 45-50%,  +500 cc o/n.
+   - daily CXR
+   .
+   # COPD: Pt on methylpred for flare. Pulm was consulted prior to RV
+   perforation. Recommended non-con CT for eval for right hilum. Question
+   as to whether pt truly as COPD or other process given recent worsening
+   over the last year.
+   - cont methylpred
+   - cont albuterol/ipratropium
+   - non-con CT when stable
+   .
+   # HTN: Pressures have been labile but currently stable.
+   -cont metoprolol for now as above
+   -lisinopril 2.5mg daily (held yesterday for SBP<100)
+   .
+   ACCESS: R IJ placed by IR [**6-10**],  radial a-line D/Ced
+   FEN: Cleared by S&S, replete lytes prn
+   CONTACT: [**First Name8 (NamePattern2) **] [**Known patient lastname **] [**Telephone/Fax (1) 6892**]
+   CODE: FULL (family in favor of re-intubation)
+   DISPO: CCU for now pending respiratory improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3192-6-10**] 01:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

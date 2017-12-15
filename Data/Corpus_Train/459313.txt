@@ -1,0 +1,237 @@
+TITLE:
+   24 Hour Events:
+ ARTERIAL LINE - START [**2662-1-23**] 11:07 AM
+ ICP BOLT INSERTED - At [**2662-1-23**] 07:43 PM
+ ARTERIAL LINE - STOP [**2662-1-24**] 06:32 AM
+   [**1-24**] CVl well placed, int edema, bilateral infiltrates
+   HPI: 67M s/p whipple in [**2622**] for pancreatic ca p/w acute abd pain and
+   dyspnea. Eval at [**Location (un) **], treated for CHF and PNA. Abd US and MRCP at
+   OSH showing mildly dil intra-hep ducts. Was febrile and hypotensive req
+   dopa gtt. Transferred to [**Hospital1 52**] for eval. Elevated LFT, fever, abd pain,
+   hypotension concerning for cholangitis. CT showing ? sludge, mass,
+   stricture to intrahepatic ducts. On levo and neo for pressor support.
+   Intubated for airway protection setting need for excessive IVF
+   requirements. Pt takes coumadin at home, arriving with INR 2.9. Will
+   need PTC once INR therapeutic and abx.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2662-1-23**] 02:50 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2662-1-23**] 07:50 AM
+   Meropenem - [**2662-1-25**] 12:02 AM
+   Infusions:
+   Vasopressin - 1.2 units/hour
+   Midazolam (Versed) - 2 mg/hour
+   Norepinephrine - 0.1 mcg/Kg/min
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Fentanyl (Concentrate) - 75 mcg/hour
+   KCl (CRRT) - 1 mEq./hour
+   Other ICU medications:
+   Lorazepam (Ativan) - [**2662-1-24**] 06:30 AM
+   Midazolam (Versed) - [**2662-1-24**] 02:19 PM
+   Fentanyl - [**2662-1-24**] 02:19 PM
+   Pantoprazole (Protonix) - [**2662-1-25**] 12:02 AM
+   Other medications:
+   Flowsheet Data as of  [**2662-1-25**] 02:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 35.6
+C (96
+   HR: 90 (90 - 151) bpm
+   BP: 91/54(62) {91/54(62) - 91/54(62)} mmHg
+   RR: 22 (10 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 104.5 kg (admission): 85 kg
+   Height: 66 Inch
+   CVP: 33 (24 - 40)mmHg
+   CO/CI (Thermodilution): (5.68 L/min) / (2.9 L/min/m2)
+   SVR: 592 dynes*sec/cm5
+   ICP: 18 (11 - 21) mmHg
+   Bladder pressure: 22 (16 - 23) mmHg
+   SV: 60 mL
+   SVI: 31 mL/m2
+   Total In:
+                                                                  1,887 mL
+                                                                    659 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,327 mL
+                                                                    609 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                    865 mL
+                                                                    369 mL
+   Urine:
+                                                                    198 mL
+   NG:
+                                                                     75 mL
+   Stool:
+   Drains:
+                                                                    220 mL
+   Balance:
+                                                                  1,022 mL
+                                                                    290 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 20 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 35 cmH2O
+   Plateau: 34 cmH2O
+   SpO2: 100%
+   ABG: 7.24/40/117/16/-9
+   Ve: 9.3 L/min
+   PaO2 / FiO2: 195
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese
+   Eyes / Conjunctiva: 2>1 pupils sluggish bilaterally
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: irregularly irreg
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Clear : , Crackles : bilaterally)
+   Abdominal: Distended, tense abdomen, decreased bowel sounds throughout
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Warm
+   Neurologic: No(t) Attentive, No(t) Follows simple commands, Responds
+   to: Not assessed, Movement: Not assessed, Sedated, Tone: Not assessed
+   Labs / Radiology
+   87 K/uL
+   10.2 g/dL
+   166 mg/dL
+   4.3 mg/dL
+   16 mEq/L
+   4.9 mEq/L
+   56 mg/dL
+   109 mEq/L
+   144 mEq/L
+   30.8 %
+   36.0 K/uL
+        [image002.jpg]
+                            [**2662-1-24**]  03:24 AM
+                            [**2662-1-24**]  05:11 AM
+                            [**2662-1-24**]  09:51 AM
+                            [**2662-1-24**]  09:58 AM
+                            [**2662-1-24**]  11:08 AM
+                            [**2662-1-24**]  03:26 PM
+                            [**2662-1-24**]  07:32 PM
+                            [**2662-1-24**]  07:50 PM
+                            [**2662-1-25**]  01:16 AM
+                            [**2662-1-25**]  01:27 AM
+   WBC
+   20.0
+   38.5
+   36.0
+   Hct
+   31.7
+   31.7
+   30.8
+   Plt
+   85
+   104
+   87
+   Cr
+   3.7
+   4.3
+   TCO2
+   23
+   23
+   22
+   20
+   20
+   20
+   18
+   Glucose
+   69
+   85
+   78
+   101
+   166
+   Other labs: PT / PTT / INR:24.3/37.2/2.3, CK / CKMB /
+   Troponin-T:387/12/0.33, ALT / AST:265/277, Alk Phos / T Bili:110/4.4,
+   Amylase / Lipase:42/14, Fibrinogen:488 mg/dL, Lactic Acid:4.8 mmol/L,
+   Ca++:8.9 mg/dL, Mg++:1.9 mg/dL, PO4:5.1 mg/dL
+   Imaging: [**1-24**] CVl well placed, int edema, bilateral infiltrates
+   Microbiology: [**1-22**] BCX from outside hospital: GNR seen on Gram stain
+   of anaerobic bottle; CX pending. No growth in aerobic bottle ([**Hospital1 **]
+   health lab, acct V58969197, [**Telephone/Fax (1) 11067**])
+   [**1-23**] BCX after getting zosyn and vanc but before [**Last Name (un) 411**].
+   [**1-23**] UCX NG
+   [**1-23**] Peritoneal cx P
+   [**1-24**] C diff neg
+   Assessment and Plan
+   ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name **]),
+   SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+   67M p/w cholangitis and septic shock, s/p PTC drain placement [**1-23**]
+   Neurologic: On Midaz and fentanyl gtts while intubated
+   S/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5043**] bolt  for anisocoria, R pupil 5mm /L pupil reactive
+   2mm-->1mm. Head CT was deferred til stablize.  HOB 30 degrees so
+   hypertonic saline started. (HOlding for Na > 150 and/or Serum osm >
+   320.
+   Cardiovascular: h/o Chronic Afib rate 130s started on dilt drip.  Per
+   cards trop leak demand related.  Complete echo, per cards allow
+   tachycardia bc of sepsis, CAD s/p CABG. [**Month (only) **] pressor needs. currently on
+   levophed and vasopressin. Lactic acid uptrending. Pt is on thiamine
+   100mg iv qd.
+   Pulmonary: Difficult intubation in ED. Intubated for airway protection
+   and for acid/base disturbance. Now with likely ARDS, peep 20 with PIPs
+   in the 30-40s.
+   Gastrointestinal /Abdomen: h/o Pancreatic ca s/p whipple now w/
+   cholangitis likely from intra-hepatic obstruction (stricture vs mass)
+   Pt is s/p PTC.  On abx coverage.  Npo. Consider nutritional
+   supplmentation. Abdominal xray given significant distension.  Bladder
+   pressure 16-24.
+   Renal: Acute/chronic renal failure (Cr 3.3; GFR 19) with oliguria.
+   Lactic acidosis likely from shock vs. acute hepatic dysfunction.
+   Colloids (albumin and plasmalyte) preferred over LR/NS.
+   Hematology: HCT stable low 30s. Thrombocytopenia F/u HITT.
+   Endocrine: Ins gtt off since FSG running low in 70s, on hydrocortisone
+   and started on fludracortisone.
+   ID: Cholangitis. On vanco,zosyn. Will renal dose abx. FU vanco troug.
+   Vanc, meropenem. GS from anaerobic bcx from OSH positive for GNR, f/u
+   results from OSH. and also from cxs sent [**1-23**].
+   Lines / Tubes / Drains: NGT, aline, RIJ HD catheter, Left quad, foley,
+   PIV, ETT
+   Wounds: percutaneous drain
+   Imaging: CXR from [**1-23**] late PM --> bilateral basilar opacity.
+   Fluids: KVO, albumin 25gm in 500mL
+   Consults: neurology,IR, neurosurgery, renal, cards
+   ICU Care
+   Nutrition:
+   NPO
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2662-1-23**] 06:35 AM
+   Arterial Line - [**2662-1-23**] 11:07 AM
+   18 Gauge - [**2662-1-23**] 10:00 PM
+   16 Gauge - [**2662-1-23**] 11:08 PM
+   Multi Lumen - [**2662-1-24**] 12:34 PM
+   Dialysis Catheter - [**2662-1-24**] 02:47 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:  +
+   Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35
+   PT is critically ill
+
+
+
+DOC CLASS

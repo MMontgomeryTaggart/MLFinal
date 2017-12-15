@@ -1,0 +1,212 @@
+Chief Complaint: - Respiratory culture from [**1-12**] showed a rare yeast.
+   - Morning labs HCO3=34
+   - ABG showed CO2=76 so placed back on vent.
+   - Transfused 1 unit PRBC.
+   - No thoracentesis today because patient was off vent.
+   - Awaiting rehab bed.
+   - Written for morphine PRN. Fentanyl DC'ed.
+   - Appointment made for visit back to ICU.
+   Allergies:
+   Amphotericin B
+   Unknown;
+   Ambisome (Intraven.) (Amphotericin B Liposome)
+   Unknown;
+   Campath (Intraven.) (Alemtuzumab)
+   Fever/Chills; R
+   Heparin Agents
+   Unknown;
+   Last dose of Antibiotics:
+   Cefazolin - [**3104-1-12**] 08:15 PM
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3104-1-14**] 10:28 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3104-1-15**] 07:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**05**] AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37.7
+C (99.9
+   HR: 106 (88 - 115) bpm
+   BP: 111/61(81) {91/41(51) - 130/77(87)} mmHg
+   RR: 20 (16 - 41) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 61.6 kg (admission): 61.6 kg
+   Height: 71 Inch
+                  Total In:
+                                                                  1,522 mL
+                                                                    140 mL
+   PO:
+                  TF:
+                                                                    917 mL
+   IVF:
+                                                                     20 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                    266 mL
+                                                                     40 mL
+   Urine:
+                                                                     26 mL
+                                                                     40 mL
+   NG:
+                                                                    240 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,256 mL
+                                                                    100 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 0 (0 - 241) mL
+   PS : 10 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   RSBI: 400
+   PIP: 37 cmH2O
+   SpO2: 100%
+   ABG: 7.31/76.[**Numeric Identifier 120**]/92.[**Numeric Identifier 1139**]/34/7
+   Ve: 6.9 L/min
+   PaO2 / FiO2: 155
+   Physical Examination
+   Coarse BS, alert/oriented, trach and PEG in place c/d/I no evidence of
+   trach bleed
+   Labs / Radiology
+   208 K/uL
+   7.8 g/dL
+   126 mg/dL
+   3.0 mg/dL
+   34 mEq/L
+   4.5 mEq/L
+   18 mg/dL
+   102 mEq/L
+   141 mEq/L
+   25.0 %
+   12.4 K/uL
+        [image002.jpg]
+                             [**3104-1-8**]  09:21 PM
+                             [**3104-1-9**]  08:56 AM
+                             [**3104-1-10**]  03:48 AM
+                             [**3104-1-11**]  04:14 AM
+                             [**3104-1-12**]  04:23 AM
+                             [**3104-1-12**]  07:15 PM
+                             [**3104-1-13**]  04:20 AM
+                             [**3104-1-13**]  06:20 AM
+                             [**3104-1-14**]  02:44 PM
+                             [**3104-1-14**]  02:49 PM
+   WBC
+   12.1
+   12.7
+   12.0
+   10.9
+   10.5
+   11.0
+   12.4
+   Hct
+   24.0
+   24.8
+   26.3
+   24.9
+   23.4
+   24.0
+   22.9
+   25.0
+   Plt
+   195
+   192
+   183
+   172
+   179
+   176
+   208
+   Cr
+   1.7
+   2.6
+   3.4
+   2.3
+   3.2
+   3.0
+   TCO2
+   40
+   Glucose
+   108
+   104
+   79
+   76
+   64
+   126
+   Other labs: PT / PTT / INR:12.6/23.5/1.1, CK / CKMB /
+   Troponin-T:14/2/0.05, ALT / AST:[**7-20**], Alk Phos / T Bili:325/0.4,
+   Amylase / Lipase:/24, Differential-Neuts:81.9 %, Band:0.0 %, Lymph:10.5
+   %, Mono:6.0 %, Eos:1.4 %, D-dimer:2192 ng/mL, Lactic Acid:0.8 mmol/L,
+   Albumin:2.3 g/dL, LDH:165 IU/L, Ca++:8.2 mg/dL, Mg++:2.0 mg/dL, PO4:3.3
+   mg/dL
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ RESPIRATORY FAILURE, CHRONIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ATRIAL FLUTTER (AFLUTTER)
+   with RVR
+ ANEMIA, OTHER
+ ALKALOSIS, METABOLIC
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ ALTERATION IN NUTRITION
+ .H/O CANCER (MALIGNANT NEOPLASM), OTHER
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   45 y.o. Male with h.o. CML s/p allogenic transplant, chronic GVH,
+   bronchiolitis obliterans chronic respiratory failure now with trach.
+ RESPIRATORY FAILURE, CHRONIC: s/p aspiration episode after drinking
+   water, now requiring vent. CXR sig for interval worsening of R side
+   infilt/atelectasis. Trach bleed has resolved w/ neg CTA neck
+   -- Strict NPO, no fluids
+   -- If spikes, can start abx, otherwise will hold off for now.
+ ANXIETY:
+   -- Cont fentanyl patch, olanzapine
+   -- Cont morphine prn
+ OLIGURIC RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF):
+   -- Continue dialysis while at rehab
+ ATRIAL FLUTTER (AFLUTTER): with RVR. Currently in NSR..
+   -- Continue PO dilt and metoprolol
+ ANEMIA: Stable s/p transfusion.
+ NUTRITION: s/p PEG
+   -- Continue tube feeds via PEG tube
+   -- Elevate HOB to 30 degrees
+   -- Aspiration precautions
+   -- Strict NPO
+ .H/O CANCER (MALIGNANT NEOPLASM), OTHER: Complicated by chronic GVHD
+   and bronchiolitis obliterans.
+   -- Cont home dose prednisone
+   -- Cont azithromycin
+   -- Hold bactrim and acyclovir IV and restart as outpatient per BMT team
+ [**Last Name 113**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Heparin Allergy, Pneumonitis
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Midline - [**3103-12-9**] 11:01 PM
+   Dialysis Catheter - [**3104-1-11**] 07:00 PM
+   Prophylaxis:
+   DVT: pneumoboots
+   Stress ulcer: ppi
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Rehab
+
+
+
+DOC CLASS

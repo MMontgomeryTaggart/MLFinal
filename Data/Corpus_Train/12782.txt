@@ -1,0 +1,127 @@
+Admission Date:  [**3121-6-22**]       Discharge Date:  [**3121-6-29**]
+
+Date of Birth:   [**3074-3-25**]       Sex:  M
+
+Service:  Cardiothoracic Surgery
+
+ADMITTING DIAGNOSES:
+1. Coronary artery disease - status post percutaneous
+transluminal coronary angioplasty and status post myocardial
+infarction.
+2. Unstable angina.
+3. Hypertension.
+4. Hypercholesterolemia.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease - status post coronary artery
+bypass grafting, status post percutaneous transluminal
+coronary angioplasty, status post myocardial infarction.
+2. Diabetes mellitus type 2.
+3. Hypertension.
+4. Hypercholesterolemia.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 13729**] is a 47-year-old man
+with a history of coronary artery disease status post
+myocardial infarction and status post percutaneous
+transluminal coronary angioplasty in [**3112**] and [**3113**] who
+presented with about a [**1-10**] week history of chest discomfort
+and pain which occurred sometimes with activity and sometimes
+at rest.  He underwent ETT on [**3121-6-15**] that was positive and
+he subsequently underwent cardiac catheterization that showed
+100% occlusion of the right coronary artery and 90% of the
+left main.  It was determined that coronary artery bypass
+grafting would be the best treatment for Mr. [**Known patient lastname 13729**] and the
+patient was scheduled to undergo coronary artery bypass
+grafting on [**3121-5-25**].
+
+PHYSICAL EXAMINATION:  Preoperative evaluation of this
+gentleman revealed him to be 5'[**28**]" tall and 250 pounds, pulse
+was 60 and sinus rhythm, blood pressure 148/80, respiratory
+rate 16, saturating 98% on room air.  He was in no acute
+distress.  HEENT:  Unremarkable.  Neck:  No jugular venous
+distension.  Carotid pulses were [**1-11**] and there was no bruit.
+Lungs:  Clear to auscultation bilaterally.  Heart:  Regular
+in rate and rhythm without any murmur appreciated.  Abdomen:
+Soft and nontender with no hepatosplenomegaly or pulsatile
+masses noted.  Extremities:  Warm and well perfused with
+pulses [**1-11**] in the upper and lower extremities.  Neurologic:
+He was grossly intact.
+
+LABORATORY DATA:  Preoperative hematocrit was 39.0.  His
+preoperative coagulation times were PT 13.5, PTT 57.0 and INR
+1.2.  His preoperative potassium was 4.3 with a BUN and
+creatinine of 12 and 0.7 respectively.  His preoperative
+chest x-ray showed no evidence of acute cardiopulmonary
+abnormality.  His EKG had shown evidence of his prior
+myocardial infarction and ischemic symptoms were present.
+
+HOSPITAL COURSE:  As mentioned previously he was admitted on
+[**3121-6-22**] and underwent his preoperative evaluation, through
+which echocardiogram revealed an ejection fraction of 55%.
+He also underwent placement of an intra-aortic balloon pump
+preoperatively on [**3121-6-24**].  Later that day he underwent a
+coronary artery bypass grafting x 2 with left internal
+mammary artery to left anterior descending coronary artery
+and saphenous vein graft to obtuse marginal, during which
+cardiopulmonary bypass time was 75 minutes and cross-clamp
+time was 45 minutes.  There was no note of intraoperative
+complications.  The patient left the operating room on a
+nitroglycerin and a propofol drip.  He was subsequently
+extubated without difficulty.  He had his intra-aortic
+balloon pump removed on postoperative day one while in the
+cardiac surgery recovery unit.  He was also started on beta
+blockade and aggressive diuresis.  Postoperatively it was
+noted that he had fasting blood sugars of 200 to 300,
+therefore [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 124**] diabetes consultation was obtained.  His
+hemoglobin A1c was notably 11.3.  As per their
+recommendations, the patient was started on b.i.d. dosing of
+insulin and oral glucose control medications.  Nutrition was
+also consulted to see the patient and he will follow up with
+these services as an outpatient.  The patient was discharged
+to the floor.  He was transferred to the floor from the
+cardiac surgery recovery unit on postoperative day three,
+where he continued his beta blockade and diuresis with Lasix.
+His blood sugars were subsequently better controlled on the
+floor, ranging in the 120s to 140s, and given that the
+patient was able to ambulate without difficulty and complete
+level 5 in terms of physical therapy, he was discharged to
+home in good condition.
+
+[**Last Name (STitle) 11647**] follow up with Dr. [**Last Name (Prefixes) **] in four weeks.  He
+has multiple appointments for diabetes education and vision
+care as an outpatient.
+
+At the time of discharge his laboratory studies were as
+follows:  His hematocrit was 26.8.  His BUN and creatinine
+were 23 and 0.8 respectively with a potassium of 4.2.
+
+DISCHARGE MEDICATIONS:
+1. Lopressor 50 p.o. b.i.d.
+2. Colace 100 p.o. b.i.d. p.r.n.
+3. Aspirin 325 mg p.o. q.d.
+4. Imdur 60 mg p.o. q.d.
+5. Percocet 5-325, 1-2 tablets p.o. q. 4 hours p.r.n.
+6. Simvastatin 40 mg p.o. q.d.
+7. Captopril 25 mg p.o. t.i.d.
+8. Pioglitazone 15 mg p.o. q.d.
+9. Insulin NPH 18 units in the morning, 8 units before
+bedtime.
+10. Lasix was discontinued as the patient had returned to his
+preoperative weight at the time of discharge.
+
+
+
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern4) 13730**]
+MEDQUIST36
+
+D:  [**3121-6-29**]  10:50
+T:  [**3121-6-29**]  11:07
+JOB#:  [**Job Number 13731**]
+
+
+
+DOC CLASS

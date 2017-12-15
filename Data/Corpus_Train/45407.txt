@@ -1,0 +1,244 @@
+Admission Date:  [**2666-9-23**]              Discharge Date:   [**2666-9-29**]
+
+Date of Birth:  [**2595-9-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1200**]
+Chief Complaint:
+found down
+
+Major Surgical or Invasive Procedure:
+s/p fasciotomy followed by closure of right arm for compartment
+syndrome
+
+
+History of Present Illness:
+69M with hx of seizure disorder and med noncompliance who was
+admitted to [**Hospital1 4**] on [**9-23**] after being found down in his home. Pt
+states he felt dizzy which is typical for how he feel before a
+seizure and he has no memory after that. Per patient he was
+found about 12 hours later on his basement floor by his sister.
+At the time he was unable to move his RUE and had multiple
+abrasions and therefore was sent to the ED.
+.
+In the ED his vitals were T 99.7, HR 95, BP 136/91, 93 % on RA,
+98 % on 2 L, CK was found to be [**Numeric Identifier 23846**], lactate 3.9, cr 2.2, CT
+head and CXR negative and plain films of right arm with no
+fracture. He received 3 NS, I L D5W with 3 amps of HCO3, ASA 325
+mg, gabitril 4 mg x1, lamictal 300 mg x1, paxil, zonegran 300 mg
+x1 (his home meds). He was evaluated by orthopedic surgery and
+was found to have a compartment syndrome (loss of radial pulse)
+and was taken to the OR for compartment release.
+.
+In the MICU, he was given ~4L of bicarb in D5W to keep UOP>200
+cc per hour. He was then transitioned to normal saline. His
+creatinine and CPK trended down with fluid resuscitation.
+.
+On arrival to the floor, pt reported mild pain and tingling in
+his right arm. Otherwise, feeling well, good appetite, no
+headache.
+
+
+Past Medical History:
+1. Epilepsy - since childhood. Difficult to control. Poorly
+compliant with medications.
+2. Mental retardation.
+3. Obstructive-sleep apnea.
+4. Spinal degenerative joint disease.
+5. Depression.
+6. Anxiety.
+7. h/o gallstones/choledocholithiasis
+8. Questionable history of nephrolithiasis.
+
+
+Social History:
+Lives at home alone. An elderly neighbor used to help with his
+medications, but now no longer lives there. Per OMR notes, there
+has been concern recently about his ability to manage his
+medications. His older sister (age 84) also helps out, but has
+raised the question of a group home for him. No history of
+alcohol, tobacco, or IV drug use. Right now, per patient he has
+a cleaning lady and his brother has labeled his medications to
+help him remember which medications to take.
+
+Family History:
+Father deceased in his 40s secondary to cancer, unknown which
+type. Mother deceased at age 62 secondary to CHF and CAD,
+brother deceased at age 66 secondary to unknown cancer, and
+another brother with high cholesterol.
+
+Physical Exam:
+temp 97.3, BP 110/48, HR 69, R 18, O2 95%RA
+I/O: 24 hrs 10.2/3.4, today 3.2/3.3, LOS +6.7L
+Gen: Elderly male with dressing on right arm, NAD, pleasant
+HEENT: MM dry, EOMI, PERRL, lacerations on right temple
+Neck: no cervical LAD, no bruits
+Lungs: clear, bandage on right chest
+CV: RRR, 1/6 systolic murmur at RUSB
+Abd: + BS, soft, NT/ND
+Ext: no edema in lower ext bilaterally, 2+ DP; right arm with 1+
+radial pulse, decreased sensation when compared to the left,
+strength 3/5 on right, [**6-15**] on left
+Neuro: AO x 2 (place, person); moves all extremities, sensation
+intact in lower ext
+
+
+Pertinent Results:
+[**2666-9-23**] 08:47PM   LACTATE-3.9*
+[**2666-9-23**] 08:38PM   GLUCOSE-117* UREA N-40* CREAT-2.2* SODIUM-145
+POTASSIUM-5.0 CHLORIDE-106 TOTAL CO2-15* ANION GAP-29*
+[**2666-9-23**] 08:38PM   CALCIUM-10.3* PHOSPHATE-5.0* MAGNESIUM-2.6
+[**2666-9-23**] 08:38PM   CK(CPK)-[**Numeric Identifier 23846**]*
+[**2666-9-23**] 08:38PM   CK-MB-289* MB INDX-1.0
+.
+[**2666-9-23**] 08:38PM   WBC-20.9*# RBC-6.41*# HGB-17.4# HCT-52.9*
+MCV-83 MCH-27.1 MCHC-32.9 RDW-14.0
+[**2666-9-23**] 08:38PM   NEUTS-82* BANDS-8* LYMPHS-4* MONOS-6 EOS-0
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2666-9-23**] 08:38PM   PLT COUNT-422
+.
+[**2666-9-23**] 08:40PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 104**]-1.019
+[**2666-9-23**] 08:40PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-500
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5
+LEUK-NEG
+[**2666-9-23**] 08:40PM URINE  RBC-[**12-31**]* WBC-0-2 BACTERIA-FEW
+YEAST-RARE EPI-0-2 TRANS EPI-0-2 RENAL EPI-[**4-15**]
+.
+Right arm x-ray: No fracture or dislocation of the right
+shoulder, right elbow, or right hand.
+.
+CXR:  Linear opacities of the right middle lobe are more likely
+atelectasis. In the appropriate clinical context, pneumonia is a
+possibility.
+.
+Head CT: No intracranial hemorrhage or other acute intracranial
+pathology. No significant change from [**2665-1-11**].
+
+
+Brief Hospital Course:
+A/P: 69M with hx of mental retardation, seizure disorder,
+medical noncompliance who was down for a prolonged time after a
+seizure which led to rhabdo, acute renal failure and compartment
+syndrome s/p release surgery
+.
+1. Rhabdomyolysis: Likely in setting of fall and being down for
+several hours. s/p several liters of fluid in MICU with
+resolution of CK (down from peak of 25,000) and creatinine.
+.
+2. Compartment syndrome: Developed in setting of being down on
+arm for several hours. Ortho took patient to OR on admission for
+fasciotomy of right arm given lose of radial pulse.  He was then
+taken back to the OR five days later for closure.  On discharge,
+pt had decreased sensation of his right hand along with 2/5 hand
+grip strength.  Ortho evaluated the patient and stated that he
+was OK for discharge.  he will follow-up with ortho in 2 weeks
+for suture removal.  He should been non-weight bearing to the
+right arm with dressing changes daily.
+.
+3. ARF: Likely due to rhabdo. Creatinine peaked at 2.4 and
+improved to 1.4-1.5 with fluids.  His baseline appears to be
+1.2-1.5.
+.
+4. fall/seizure disorder: Pt has a hx of seizure disorder.  Due
+to his history of mental retardation, the patient's neighbor had
+been helping him take his medications on time on the weekend and
+on the weekdays, the patient was supervised at his workplace.
+However, the neighbor recently moved away, thus the patient no
+longer had the supervision.  He has seizure episodes in the past
+for similar reasons.  Arrhythmia was ruled out with monitoring
+on telemetry and cardiac enzymes were negative x 2.  His
+outpatient neurologist was contact[**Name (NI) **] and she recommended
+continuing his outpatient regimen.  He was maintained on
+lamictal, zonisamide and topamax.  Per the neurologist, the
+zonisamide capsules were to be opened and the contents sprinkled
+into one teaspoonful of soft solid, since the patient was unable
+to swallow the pill.
+.
+# Anemia: The patient's hematocrit dropped from 52.9 --> 42.5
+--> 35.8.  This was attributed to hemodilution since the patient
+received a large amount of IV hydration.  He had no signs of
+acute blood loss and he remained hemodynamically stable.
+.
+# Leukocytosis: The white blood cell count was elevated on
+initial presentation and was attributed to stress reaction.  No
+other source of infection was found and the white count
+elevation resolved afterward.
+.
+# Anxiety/depression: Patient was maintained on his outpatient
+regimen of paroxetine.
+.
+# Comm: Sister [**Name (NI) 2764**] [**Name (NI) **] [**Telephone/Fax (1) 26257**]
+.
+
+Medications on Admission:
+GABITRIL 4MG--One by mouth twice a day
+LAMICTAL 100MG--3 tabs by mouth twice a day
+PAXIL 40MG--One pill every day
+ZONEGRAN 100MG--3 tabs by mouth twice a day
+
+
+Discharge Medications:
+1. Lamotrigine 100 mg Tablet Sig: Three (3) Tablet PO BID (2
+times a day).
+2. Paroxetine HCl 20 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+3. Tiagabine 4 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+4. Zonisamide 100 mg Capsule Sig: Three (3) Capsule PO BID (2
+times a day): Please open capsule and sprinkle into ONE SPOONFUL
+of soft solid.
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1079**] for the Aged - [**Location (un) 1266**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Rhabdomyolysis
+2. Compartment syndrome of right arm s/p fasciotomy
+3. Seizure disorder
+4. Acute Renal failure, now resolved
+
+Secondary Diagnosis:
+1. Mental retardation
+2. Anxiety/Depression
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+You had compartment syndrome of your right arm after you had a
+seizure.  Orthopedics had to repair the arm and you will need to
+follow up with ortho in [**3-16**] weeks.
+
+It is very important to take all of your seizure medications
+(exactly as instructed) every day and go to all follow-up
+appointments.
+
+Please call your PCP of go to the ER if you lose the radial
+pulse in your right arm, lose sensation in the right hand or
+have loss of strength.
+
+Followup Instructions:
+You will follow up with orthopedic surgery (Dr. [**Last Name (STitle) 1334**] on
+[**2666-10-16**] at 10:50am.  [**Hospital Ward Name 60**] building, [**Location (un) **]
+
+Provider: [**First Name8 (NamePattern2) 2067**] [**Last Name (NamePattern1) **] RN Phone:[**Telephone/Fax (1) 5961**]
+Date/Time:[**2666-11-7**] 9:00
+
+
+
+Completed by:[**2666-10-3**]
+
+
+DOC CLASS

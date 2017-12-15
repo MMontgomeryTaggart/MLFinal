@@ -1,0 +1,467 @@
+Admission Date:  [**2720-7-27**]       Discharge Date:  [**2720-9-4**]
+
+Date of Birth:   [**2694-1-15**]       Sex:  F
+
+Service:  MED-ICU
+
+HISTORY OF PRESENT ILLNESS:   The patient is a 26 year old
+woman with a past medical history significant for
+long-standing poorly controlled diabetes mellitus, a three
+year history of a poorly defined neuropathy and chronic
+diarrhea, also of uncertain etiology.  The patient had been
+worked up extensively for these problems without definitive
+diagnosis but had been treated with multiple anti-motility
+agents and pancreatic enzymes for her diarrhea with little
+relief.
+
+For several weeks prior to admission, the patient had
+complained of increasing weakness of her lower extremities
+and increasing fatigue.  In addition, approximately one week
+prior to admission, the patient fractured her left toe and
+experienced erythema and edema of her distal left foot.  On
+[**7-27**], the patient was admitted to [**Hospital1 470**] for work-up of progressive weakness and
+diarrhea, and control of labile blood sugars.  On admission,
+the patient was started on Oxacillin for presumed cellulitis
+of her left foot.
+
+On the Medical Floor after admission, the patient's course
+was notable for labile blood sugars for which the [**Last Name (un) 124**]
+Service was consulted as well as diarrhea which was treated
+with Octreotide, Imodium and Paregoric.  She also was treated
+with Diflucan and Ciprofloxacin for funguria and bacteruria.
+On these regimens, the patient was stable on the Medical
+Floor but with little apparent improvement in her symptoms.
+However, on the night of [**8-1**], the patient became
+febrile to 101.3 F., and complained of increased bloating.
+During the morning of [**8-2**], the patient complained of
+abrupt onset of shortness of breath accompanied by poorly
+characterized chest pain and blood sugars of 29.  The patient
+was given an ampule of D50  which increased her blood sugar
+to 248, but her shortness of breath worsened and the patient
+was found to have oxygen saturations in the 50s on room air,
+which increased only to the mid-70s on 100% non-rebreather.
+
+The patient was then intubated but failed to increase her
+oxygen saturation and her systolic blood pressure dropped to
+the 80s.  The patient was found to have an endotracheal tube
+in the right main stem bronchus, in other words, out of the
+left lung.  The endotracheal tube was pulled back to 2.5
+centimeters above the carina but the patient's PaO2 remained
+at 79 in 100% non-rebreather.  A subsequent chest x-ray
+showed bilateral diffuse infiltrates consistent with adult
+respiratory distress syndrome.  Her blood pressure continued
+to drop to systolic blood pressures of 60s and she was
+started on Neo-Synephrine and the CSRU following by boluses
+of two liters intravenous fluids with little increase in her
+blood pressure.
+
+Differential diagnoses for acute respiratory failure were at
+this point was aspiration pneumonitis with adult respiratory
+distress syndrome versus pulmonary embolism.
+
+Electrocardiogram, lower extremity ultrasound and
+transthoracic echocardiogram were done all without signs of
+pulmonary embolus, however, given the abrupt onset and
+inability to complete a CT angiogram due to the patient's
+unstable status, empiric heparin was started according to the
+pulmonary embolism protocol.  In addition, given the
+patient's fever the night prior to this incident,
+hypertension and antibiotics were changed to Zosyn,
+Ciprofloxacin, Vancomycin, Flagyl and Fluconazole for broad
+anti-microbial coverage for sepsis.
+
+Based on an abdominal radiograph that showed a massively
+distended dilated stomach filled with fluids, and given the
+patient's history of gastroparesis, it was felt that the
+gastric distention and chest x-ray were consistent with an
+aspiration process.  The patient was admitted to the Medical
+Intensive Care Unit with a course described below.
+
+PAST MEDICAL HISTORY:
+1.  Type 1 diabetes mellitus, poorly controlled.
+2.  Chronic inflammatory demyelinating polyneuropathy (CIDP),
+poorly and not fully defined.
+3.  Autonomic insufficiency with orthostatic hypotension.
+4.  Atonic bladder with history of recurrent urinary tract
+infections.
+5.  Iron deficiency anemia and anemia of chronic disease.
+6.  Migraines.
+7.  History of major depressive disorder and general anxiety
+disorder.
+
+ALLERGIES:   No known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1.  Insulin NPH 15 mg q. a.m./q. p.m.; Regular 10 mg q.
+a.m./q. p.m.
+2.  Glargine 50 mg q. h.s.
+3.  Creon 10, 33.2-10-38, six capsules three times a day with
+meals.
+4.  Sandostatin 50 mg twice a day.
+5.  Paregoric two tablets twice a day.
+6.  Klonopin 0.5 mg twice a day.
+7.  Oxycontin 20 mg twice a day.
+8.  Naprosyn 500 mg twice a day.
+9.  Ativan 0.5 mg q. h.s.
+10. Imodium p.r.n. diarrhea.
+11. Kaopectate p.r.n. diarrhea.
+12. Fioricet [**PT ID Number 6021**], one to two q. four to six hours
+p.r.n. migraines.
+
+SOCIAL HISTORY:   The patient lives alone in [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3203**].
+Appears to have good social support.  Used to work as a
+phlebotomist but currently on disability.  Has an eleven pack
+year history of smoking with occasional marijuana that helps
+with her diarrhea.  She drinks alcohol socially.
+
+FAMILY HISTORY:   Significant for a father with coronary
+artery disease with rheumatoid arthritis and a mother with
+coronary artery disease and diabetes mellitus.
+
+PHYSICAL EXAMINATION:   On admission to the Medical Intensive
+Care Unit, temperature 93.8 F., orally, heart rate of 113
+with a blood pressure of 128/74.  Respiratory:  The patient
+was on a ventilator on SIMV plus pressure support setting
+breathing at a respiratory rate of 14 with an oxygen
+saturation of 88% on 100% FIO2 with control pressures of 45.
+On general examination, she was a woman intubated and
+paralyzed with an OG tube in place.  HEENT examination:  Her
+right pupil was found to be oval and sluggishly reactive.
+Her left pupil round and more reactive (of note, she has had
+a dart injury to her right eye as a child which leaves her
+eye and pupil less reactive).  Her neck was supple with no
+jugular venous distention.  Trachea was midline.  Her heart
+examination was tachycardic with normal S1 and S2.  No
+murmurs, rubs or gallops were heard.  Her lungs had decreased
+breath sounds bilaterally, left worse than right to the
+mid-lung fields.  She had diffuse rhonchi throughout.  Her
+abdomen was distended and tense and tympanitic with no
+masses.  Extremities had one plus pitting edema with erythema
+in the left foot 2 to 3 centimeters above the ankle.  No
+crepitus or warmth.  Her skin was cool and dry with no
+cyanosis.  On neurologic examination, she was sedated.
+
+ADMISSION LABORATORY:  Her admission labs included a CBC of
+white blood cell count of 12.5, hematocrit of 30.8, platelets
+of 353.  Sodium of 137, potassium 4.4, chloride 101,
+bicarbonate 28, BUN 19, creatinine 0.8 and glucose of 289
+with a calcium of 7.5, phosphate of 6.3 and magnesium of 1.5.
+ Her AST was 37, ALT 37, alkaline phosphatase of 134,
+bilirubin of 0.1, amylase 58, lipase 26.
+
+Her lactate was 2.9.  A serum toxicology screen was negative.
+Blood cultures and fungal cultures were sent.  A urine
+culture showed greater than 100,000 yeast.  A urinalysis
+showed 11 to 20 white blood cells, few bacteria and many
+yeast.
+
+Initial chest x-ray showed a endotracheal tube in the right
+main stem bronchus and later after repositioning of the
+endotracheal tube diffuse bilateral patchy air space disease
+and marked gastric distention.
+
+SUMMARY OF INTENSIVE CARE UNIT COURSE BY ISSUES:
+1.  PULMONARY:  As stated above, the patient was intubated on
+[**8-2**] secondary to hypoxia.  The etiology of the
+patient's symptoms were considered to be aspiration versus
+pulmonary embolus.  She was started on broad-spectrum
+anti-microbials.  On [**8-3**], the patient suffered a left
+pneumothorax in the setting of attempted central line
+placement with hypoxemia and hypotension.  A left chest tube
+was placed at this time which improved her oxygen
+saturations.
+
+The patient required multiple adjustments to her ventilator
+settings from assist control to pressure control over the
+next few weeks largely due to repeated episodes of hypoxemia
+of unclear etiology.  A CT angiogram on [**8-6**] showed no
+evidence of pulmonary embolus.  The patient continued to have
+patchy adult respiratory distress syndrome disease greater on
+the right than on the left side.  Overall, the patient
+continued to have a stuttering course in her recovery from
+adult respiratory distress syndrome particularly sensitive to
+both agitation and sedation, leading to decreased oxygen
+saturation, tachycardia and tachypnea.
+
+She required occasionally Lasix as well to maintain her
+oxygen saturations as during the initial few weeks; she had a
+tendency to develop pulmonary edema secondary to intravenous
+fluids.  Her left pneumothorax continued to improve and the
+chest tube was removed on [**2720-8-18**].  The remaining
+small pneumothorax resolved over the next few days.
+
+Given that it was felt that the patient would be a slow wean
+off the endotracheal tube the patient had a tracheostomy
+placed on [**2720-8-19**].  She had a chest CT scan on
+[**2720-8-20**], which showed a right pleural effusion as
+well as diffuse air space disease in both lungs,
+predominantly in a parabroncho-vascular distribution.  A
+thoracocentesis on [**8-21**] showed pleural fluid with 250
+white blood cells, 29% polys, a pH of 7.48, negative Gram
+stains.  Pleural fluid LDH was 176.  This was suggestive of
+an exudative process concerning for a parapneumonic effusion.
+
+Given a finding of Gram positive cocci in sputum and a
+concern for parapneumonic effusion, the patient was started
+on Vancomycin empirically, however, the cultures remained
+negative and the Vancomycin was discontinued on [**8-24**].
+Following the thoracocentesis, the patient was begun to be
+weaned off her sedation and continued to improve her
+respiratory status and by [**9-2**], requiring only
+pressure support.  On [**9-4**], she was stable on a
+pressure support of [**4-18**] and considered for a trial of trache
+mask in anticipation of further pulmonary rehabilitation at
+an outside hospital.
+
+2.  INFECTIOUS DISEASE:  Given the patient's initial fever
+and white blood cell count of 12.9, she was started on broad
+spectrum anti-microbials with Zosyn, Gentamycin, Flagyl,
+Vancomycin and Fluconazole.  She continued to have yeast in
+her urine and she was started on amphotericin bladder washes.
+Over the next six weeks, the patient continued to have
+intermittent fevers and white blood cell count as high as
+25,000.  On [**8-12**], she had a blood culture from an A-line
+that was positive for coagulase negative Staphylococcus.  The
+A-line was changed.
+
+A blood culture on [**8-4**] was positive for [**First Name5 (NamePattern1) **]
+[**Last Name (NamePattern1) 3243**].  Given this blood culture and the fact that she
+also had yeast in her sputum and her urine, she was started
+on amphotericin-B as well as continued on Gentamycin and
+Zosyn for Gram negative rods in her sputum.  The
+amphotericin-B dose was 0.5 mg per kg intravenously q. day.
+On [**8-13**], the patient was switched to AmBisome 3 mg per
+kg for a total of 270 mg q. day, given that her creatinine
+had begun to increase from 0.7 to 1.1 over the prior few
+days.
+
+As noted before, the patient was continued on AmBisome until
+[**8-29**], for a total of a 23 day course of amphotericin
+and AmBisome.  At this point, given a concern for drug
+related fevers and given that repeat fungal cultures had
+remained negative, the AmBisome was stopped at this point.
+
+The patient also had a positive urine culture on [**8-21**]
+for Klebsiella pneumonia which was resistant to all
+penicillin and cephalosporins.  The patient was placed on
+contact precautions; the Foley was changed and repeat
+cultures remained negative.  Given the patient's diarrhea and
+continued increased white blood cell counts, the patient had
+repeated tests for Clostridium difficile toxins which were
+negative.  A C. difficile cytoculture is still pending.
+
+Work-up for any other source of infection remained negative.
+Of note, on [**8-14**], the patient's alkaline phosphatase was
+noted to 1,199, which was increased from 73 on [**8-4**].
+Gastrointestinal was consulted and there was a concern for an
+infiltrative liver process, particularly Candidiasis versus
+biliary disease.  Total parenteral nutrition was also
+considered as a potential etiology.
+
+The patient had a liver and gallbladder ultrasound on [**8-14**], which showed no intrahepatic biliary ductal dilatation
+but a thickened gallbladder wall measuring 5 to 6 millimeters
+and a small rim of pericholecystic fluid.  No gallstones were
+identified and the liver parenchyma was homogenous.
+
+Acalculous cholecystitis was considered as a diagnosis but a
+lack of gallbladder distention as well as acute dilatation of
+the common duct made this less probable.  The patient's
+alkaline phosphatase remained stable over that weekend and a
+repeat ultrasound on [**8-18**] showed resolution of these
+findings; however, the patient's alkaline phosphatase
+remained elevated and given the concern for an interstitial
+liver process, the patient had an abdominal CT scan which
+showed no evidence of liver disease or other intra-abdominal
+abscesses.
+
+At the same time, the patient also had a chest CT scan which
+has been described above in the Pulmonary Section and a sinus
+CT scan which was negative for sinus disease.
+
+The alkaline phosphatase began to slowly improve, but given
+the patient's continued fevers and persistent concern, a HIDA
+scan was obtained on [**8-25**] which was negative.  By
+[**9-4**], the alkaline phosphatase had dropped back to
+257, had been decreasing every day.
+
+On [**8-26**], the patient underwent an Indium-[**12-26**] white
+blood cell scan to assess for any other foci of infection.
+This scan was completely negative.  The patient's white blood
+cell count continued to improve and she was afebrile on
+[**8-30**] and 17, however, at that point her white blood
+cell count started to rise again and she developed a new
+fever to 102.0 F.  She was started on Vancomycin and Cefepime
+empirically for pneumonia and/or line infection.
+
+Blood cultures were drawn from her left subclavian line and
+her right arterial line.  Three out of the four bottles of
+the right arterial line returned Gram positive cocci.  The
+Cefepime was discontinued.  The patient received a new right
+subclavian line and will be discharged on a seven day course
+of Vancomycin in light of the positive A-line cultures.
+
+The patient also will be discharged on p.o. Flagyl 500 mg
+three times a day given her diarrhea, for a seven day course
+past the last day of Vancomycin.
+
+3.  CARDIOVASCULAR:  Following intubation, the patient was
+hypotensive, requiring a Neo-Synephrine drip.  She had an
+echocardiogram on [**8-3**] and again on [**8-23**], to
+evaluate for cardiac dysfunction and valvular diseases.  The
+echocardiogram demonstrated normal heart function and an
+ejection fraction of 65%.  No vegetations were seen.  The
+etiology of her hypertension was felt to be a combination of
+sepsis, chronic autonomic dysfunction and sedation.  Once the
+patient was weaned off of her sedation and was improving
+clinically, her blood pressures remained stable, only
+requiring occasionally fluid boluses in the setting of
+Oxycodone or Haldol when given p.r.n.
+
+She did not require Neo-Synephrine to maintain her blood
+pressure after [**2720-8-23**].
+
+4.  GASTROINTESTINAL:  The patient has a long history of work
+up for three year chronic diarrhea.  She has been followed by
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6544**] and the work-up is detailed in the [**Hospital 6545**]
+medical record.  The GI Service was initially consulted given
+the evidence of potential mass in the patient's stomach on
+KUB and the additional abdominal CT scan.  The patient had
+been taking large amounts of Imodium prior to the admission,
+apparently as much as 36 tablets a day.  The GI Service was
+interested in performing an esophagogastroduodenoscopy but
+given the patient's initial inability to wean off the
+Neo-Synephrine, this had to be deferred.
+
+The CT scan of the abdomen on [**8-20**], showed no
+evidence of collections within the stomach.  Given this, an
+esophagogastroduodenoscopy and any further work-up for the
+diarrhea was deferred until the patient has completed her
+rehabilitation.
+
+In regards to her diarrhea, the patient initially had absent
+bowel sounds and no sounds and no bowel movements but
+following administration of Reglan and Lactulose, developed
+green foul smelling diarrhea felt to be consistent with
+Clostridium difficile.  She was treated with Flagyl p.o. 500
+mg p.o. three times a day and her stool output decreased and
+she began to have watery brown stools.
+
+At the date of discharge, she still had about 200 to 400 cc.
+of watery brown stool.  On [**9-3**], the patient was also
+restarted on her Creon in addition to her tube fees.
+
+For further work-up of her underlying gastrointestinal
+illness, she will have to follow-up with the Gastrointestinal
+Service as an outpatient once her acute medical issues have
+resolved.  As noted above, the Gastrointestinal Service had
+also been consulted regarding the increase in alkaline
+phosphatase and the possibility of liver involvement of her
+Candidiasis.  Given that she was being treated with AmBisome,
+at that time no further work-up was recommended by the
+Gastrointestinal Service.
+
+5.  RENAL:  The patient's baseline creatinine is 0.6 to 0.7.
+In the initial stages of her adult respiratory distress
+syndrome she had a tendency to go into pulmonary edema in the
+setting of receiving large amounts of fluid from total
+parenteral nutrition as well as her amphotericin-B requiring
+lasix.  In the setting of amphotericin-B, Lasix and CT scans
+with contrast, her creatinine increased to 1.1, which
+prompted the change to AmBisome.  Following this switch, the
+creatinine decreased back to the patient's baseline of 0.6 to
+0.7, where it has been stable since.
+
+6.  HEMATOLOGY:  The patient's hematocrit largely remained
+stable in the mid-20s range throughout the admission.  She
+did, however, require two transfusions of single units of
+packed red blood cells in the setting of repeated blood draws
+for blood cultures and laboratory studies.  Given this
+chronic anemia, her iron studies were repeated on [**8-23**], and showed an iron of 10, ferritin of 731 and a TIBC of
+80, consistent with anemia of chronic disease.
+
+During the admission, there was also noted that whenever a
+line was attempted to be placed, the needle or catheter had a
+tendency to clot.  Given this finding and persistent fevers,
+a hypercoagulability work-up was initiated.  The patient was
+negative for lupus anticoagulant, cardiolipin antibodies, IgG
+and IgM, Factor V lidin.  The anti-thrombin 3 was normal at
+85; homocysteine was normal at 10.3.  The patient's protein C
+was low at 62 (normal larger than 67).  Factor protein S was
+41% (normal 51 to 133%).  A prothrombin mutation is pending.
+
+Protein C can be lowered in adult respiratory distress
+syndrome and Protein S can be lowered in chronic diseases.
+The Hematology Service was curb-sided and did not feel that
+therapy was warranted at this point.  The patient had normal
+D-Dimer and high fibrinogen and showed no signs of active
+clot formation.
+
+7.  PSYCHIATRY:  The patient, as an outpatient, was on
+Klonopin for anxiety and depression.  The Psychiatric Service
+had been consulted during the initial admission and had
+recommended the initiation of Remeron.  Following the
+intubation, the patient was sedated and on an Ativan drip as
+well as a Fentanyl drip for her chronic pain.  Both of these
+drips were weaned as the patient's respiratory status
+improved and she was put on a Fentanyl patch, initially 75
+micrograms per hour and later 50 micrograms per hour for pain
+control.
+
+The Psychiatric Service was consulted regarding the
+initiation of new anti-depressant therapy.  Their
+recommendations were to place the patient on 0.5 mg
+intravenous Haldol twice a day as well as p.r.n. Haldol;
+Remeron 7.5 mg q. h.s. was started on [**9-1**].  The plan
+will be to discontinue the patient's Haldol as she becomes
+more awake and she will need outpatient psychiatric follow-up
+for further adjustment of her medications.
+
+8.   NEUROLOGY:  The Neurology Service had been consulted
+during the beginning stages of the admission regarding the
+patient's progressive weakness.  The consideration was that
+the patient had mitochondrial neuro-gastrointestinal and
+cephalomyopathy, however, mitochondrial mutation analysis
+revealed that this was not the case.  The Neurology Service
+did not have any further recommendations at this point.
+
+Given the question of the patient's chronic inflammatory
+demyelinization disease for which the etiology has not been
+identified, the patient might benefit from a future neurology
+work-up once the stages of rehabilitation are completed.
+
+9.  NUTRITION:  Following intubation, the patient was started
+on total parenteral nutrition and as she became more stable,
+a nasogastric tube was placed, however, given the patient's
+history of gastroparesis the tube feeds through the
+nasogastric tube did not succeed.  The patient had a
+post-pyloric NJ-tube placed on [**8-23**], and cuticular
+tube feeds were started at this point.  However, on [**8-29**], the patient pulled out the NJ-tube.  She was placed back
+on total parenteral nutrition and a PEG-J tube was placed on
+[**9-1**] and she was started on tube feeds with Peptamen
+supplemented by Creon three times a day.  She has been
+tolerating these tube feeds well.
+
+Once she has been weaned off the vent, the issue of p.o.
+intake can be revisited.
+
+Of note, a PEG-J tube cannot be used for bolus feeds, but
+only for continuous tube feeds.
+
+Please see Discharge Addendum to be discharged separately for
+[**Hospital **] hospital course following [**9-4**], including
+Condition on Discharge, Discharge Service, Discharge
+Medications and Discharge Diagnoses.
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 2314**]
+
+Dictated By:[**Last Name (NamePattern1) 3075**]
+MEDQUIST36
+
+D:  [**2720-9-4**]  16:18
+T:  [**2720-9-4**]  17:40
+JOB#:  [**Job Number 6546**]
+
+
+
+DOC CLASS

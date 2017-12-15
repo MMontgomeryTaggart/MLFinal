@@ -1,0 +1,204 @@
+CVICU
+   HPI:
+   HD5   POD 4-asc. aorta/hemiarch/resuspension of AV
+   Ejection Fraction:55%
+   Pre-Op Weight:176.37 lbs   80 kgs
+   Baseline Creatinine:1.1
+   64 y/o male with COPD presented with 10/10 epigastric pain with
+   subsequent RLE pain followed by RLE numbness. CT at OSH showed
+   dissection of ascending aorta that extended to iliacs with no flow to
+   RLE. Transported to [**Hospital1 17**] OR. Underwent repair of ascending aortic
+   dissection with #28 Gelweave graft with valve sparing procedure. DHCA
+   time 31 minutes. Pulse in right femoral/DP/PT now present. Vascular
+   also following
+   Events:
+   [**2709-5-16**] Allowing to wake up
+   Assessment:64M s/p emergency Ascending aorta/hemiarch replacement(28mm
+   gelweave)/resuspension of aortic valve for aortic dissection
+   Plan:[**5-17**]- reint. for agitation,low sats.
+   Current medications:
+   Acetaminophen . Albuterol Inhaler . Calcium Gluconate . Chlorhexidine
+   Gluconate 0.12% Oral Rinse Dexmedetomidine 11. Dextrose 50% Docusate
+   Sodium (Liquid) . Fentanyl Citrate . Furosemide Heparin Flush (10
+   units/ml) . Heparin HydrALAzine . Insulin . Ipratropium Bromide Neb
+   Magnesium Sulfate Metoprolol Tartrate . Metoclopramide . Milk of
+   Magnesia . Morphine Sulfate Nicotine Patch . Nitroglycerin
+   Oxycodone-Acetaminophen . Pantoprazole Potassium Chloride Propofol
+   24 Hour Events:
+   Post operative day:
+   POD#3 - Ascending Aorta+Hemiarch Replacement (28mm gelweave graft),
+   Resuspension of aortic valve
+   Allergies:
+   Aspirin
+   Hives;
+   Last dose of Antibiotics:
+   Cefazolin - [**2709-5-17**] 06:00 AM
+   Infusions:
+   Dexmedetomidine (Precedex) - 0.5 mcg/Kg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2709-5-19**] 04:00 AM
+   Metoprolol - [**2709-5-19**] 04:50 AM
+   Furosemide (Lasix) - [**2709-5-19**] 07:51 AM
+   Pantoprazole (Protonix) - [**2709-5-19**] 07:52 AM
+   Fentanyl - [**2709-5-19**] 08:26 AM
+   Hydralazine - [**2709-5-19**] 08:40 AM
+   Other medications:
+   Flowsheet Data as of  [**2709-5-19**] 09:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**11**] a.m.
+   Tmax: 38.1
+C (100.5
+   T current: 37.7
+C (99.9
+   HR: 91 (73 - 103) bpm
+   BP: 125/54(80) {93/42(57) - 152/66(95)} mmHg
+   RR: 18 (9 - 28) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88.7 kg (admission): 80 kg
+   Height: 69 Inch
+             Total In:
+                                                                  1,394 mL
+                                                                    433 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  1,294 mL
+                                                                    433 mL
+   Blood products:
+   Total out:
+                                                                  3,275 mL
+                                                                  1,690 mL
+   Urine:
+                                                                  3,275 mL
+                                                                  1,440 mL
+   NG:
+   250 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,881 mL
+                                                                 -1,257 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 813 (648 - 813) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 14
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 32
+   PIP: 11 cmH2O
+   SPO2: 95%
+   ABG: 7.47/34/94.[**Numeric Identifier 119**]/26/1
+   Ve: 10.5 L/min
+   PaO2 / FiO2: 188
+   Physical Examination
+   General Appearance: No(t) No acute distress, sedated. Not following
+   commands yet,Propofol off just recently
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t) CTA
+   bilateral : , Diminished: s/ decr. bases rt>lt), (Sternum: Stable ),
+   thick,yellow secretions w/black flecks last night, much less and clear
+   today
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Pulse - Dorsalis pedis: Present),
+   (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present, No(t) Diminished), (Pulse - Posterior tibial:
+   Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: No(t) x 3, No(t) x 2, No(t) x
+   1), No(t) Follows simple commands, (Responds to: Noxious stimuli),
+   Sedated
+   Labs / Radiology
+   186 K/uL
+   10.8 g/dL
+   93 mg/dL
+   0.8 mg/dL
+   26 mEq/L
+   3.8 mEq/L
+   16 mg/dL
+   104 mEq/L
+   138 mEq/L
+   31.8 %
+   13.7 K/uL
+        [image002.jpg]
+                             [**2709-5-18**]  03:22 AM
+                             [**2709-5-18**]  03:32 AM
+                             [**2709-5-18**]  06:00 AM
+                             [**2709-5-18**]  08:00 AM
+                             [**2709-5-18**]  11:59 AM
+                             [**2709-5-18**]  05:34 PM
+                             [**2709-5-18**]  10:05 PM
+                             [**2709-5-19**]  03:34 AM
+                             [**2709-5-19**]  03:49 AM
+                             [**2709-5-19**]  08:16 AM
+   WBC
+   12.8
+   13.7
+   Hct
+   31.8
+   30.4
+   31.8
+   Plt
+   126
+   186
+   Creatinine
+   0.8
+   0.8
+   TCO2
+   27
+   26
+   26
+   28
+   26
+   25
+   Glucose
+   99
+   96
+   99
+   96
+   103
+   93
+   Other labs: PT / PTT / INR:14.2/52.3/1.2, Fibrinogen:103 mg/dL, Lactic
+   Acid:1.0 mmol/L, Albumin:2.7 g/dL, Ca:7.8 mg/dL, Mg:1.9 mg/dL, PO4:2.5
+   mg/dL
+   Imaging: cxr pending
+   Microbiology: sput sent, await gram stain
+   Assessment and Plan
+   ALTERED MENTAL STATUS (NOT DELIRIUM), AORTIC DISSECTION
+   Assessment and Plan: CV  stable, adjusting antihypertensives increased.
+   Stopping sedation to assess and attempt extubation again.
+   Neurologic: Neuro checks Q: 1 hr, Restraints
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen: DHT today if not extubated
+   Renal: Foley, Adequate UO, continue diuresis
+   Endocrine: RISS
+   Lines / Tubes / Drains: Foley, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: Vascular surgery, P.T., Nutrition
+   ICU Care
+   Glycemic Control:  Lantus (R) protocol
+   Lines:
+   Arterial Line - [**2709-5-17**] 11:22 AM
+   PICC Line - [**2709-5-17**] 02:06 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 1895**], MD
+   on:[**2709-5-19**] 05:44 PM ------
+
+
+
+DOC CLASS

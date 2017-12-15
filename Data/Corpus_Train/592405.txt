@@ -1,0 +1,165 @@
+CVICU
+   HPI:
+   CT scan revealed pulmonary embolism, DVT lower extremity
+   readmit left pleural effusion
+   66M s/p CABGx3(LIMA-LAD,SVG-OM,SVG-PLB) [**5-14**]
+   EF:60% Wt:104kg Cr:1.1 HgA1c:6.2
+   PMH:HTN,GERD,peripheral neuropathy, CAD, chronic diastolic HF
+   [**Last Name (un) **]: HCTZ 25', lopressor 75''', lipitor 10', Naproxen 500mg''prn,
+   omeprazole 20mg', MVI, colace 100''
+   P: IV lasix, ^lop to 100''', follow CXR, blood/urine cx (WBC 16K)
+   Current medications:
+   Albuterol 0.083% Neb Soln, Argatroban, Aspirin, Atorvastatin,
+   Bisacodyl, Docusate Sodium, Insulin, Metoprolol Tartrate,
+   Multivitamins, Naproxen, Omeprazole, Senna, Sodium Chloride Nasal
+   24 Hour Events:
+   Remains in ICU for respiratory monitoring, no episodes of respiratory
+   distress
+   Changed to argatroban for antcoagulation due to decreased platelet
+   count, HITT sent
+ EKG - At [**2796-5-29**] 12:00 PM
+ ULTRASOUND - At [**2796-5-29**] 01:30 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2796-5-29**] 12:07 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2796-5-29**] 04:06 AM
+   Infusions:
+   Argatroban - 6 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2796-5-30**] 11:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**99**] a.m.
+   Tmax: 37.2
+C (98.9
+   T current: 36.7
+C (98
+   HR: 86 (75 - 95) bpm
+   BP: 116/72(83) {102/42(56) - 133/72(83)} mmHg
+   RR: 27 (11 - 27) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,950 mL
+                                                                    985 mL
+   PO:
+                                                                    260 mL
+                                                                    480 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,690 mL
+                                                                    505 mL
+   Blood products:
+   Total out:
+                                                                  2,045 mL
+                                                                    290 mL
+   Urine:
+                                                                  2,045 mL
+                                                                    290 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -95 mL
+                                                                    695 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   220 K/uL
+   11.4 g/dL
+   115 mg/dL
+   1.1 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   27 mg/dL
+   103 mEq/L
+   140 mEq/L
+   34.5 %
+   12.2 K/uL
+        [image002.jpg]
+                             [**2796-5-28**]  10:45 PM
+                             [**2796-5-29**]  05:54 AM
+                             [**2796-5-29**]  08:01 PM
+                             [**2796-5-30**]  02:08 AM
+                             [**2796-5-30**]  05:20 AM
+   WBC
+   20.9
+   14.2
+   12.2
+   Hct
+   35.1
+   32.2
+   32.7
+   34.5
+   Plt
+   282
+   188
+   220
+   Creatinine
+   1.3
+   1.3
+   1.2
+   1.1
+   Glucose
+   161
+   137
+   120
+   115
+   Other labs: PT / PTT / INR:30.5/67.5/3.1, ALT / AST:15/17, Alk-Phos / T
+   bili:93/0.7, Amylase / Lipase:39/41, Albumin:3.6 g/dL, LDH:320 IU/L,
+   Ca:8.7 mg/dL, Mg:2.7 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   CONSTIPATION (OBSTIPATION, FOS), HYPOKALEMIA (LOW POTASSIUM,
+   HYPOPOTASSEMIA), PULMONARY EMBOLISM (PE), ACUTE
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins
+   Pulmonary: IS, cough and deep breathing, oob to chair, ambulation
+   Gastrointestinal / Abdomen: bowel regimen, placed on senna
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, goal fluid balance even
+   Hematology: stable anemia, platelet count improved 220 from 188
+   continue argatroban awaiting HITT results, goal PTT 70-90 due to
+   pulmonary embolism aggressively titrating to goal
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: wbc 12 down from 14, antibiotics discontinued [**5-29**]
+   no evidence of infection
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2796-5-28**] 09:45 PM
+   18 Gauge - [**2796-5-28**] 11:46 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Argatroban (TM))
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

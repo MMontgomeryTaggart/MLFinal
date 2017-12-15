@@ -1,0 +1,292 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - AM Vanco ordered,
+   - started on diuril, I/O about even as of 18:00
+   - Neuro: Triphasic waves noted on EEG suggests metabolic
+   encephalopathy.  Head CT to eval for anoxic brain injury.
+   - CT head: No evidence of hemorrhage, edema, large masses, mass effect,
+   or large vascular territory infarction. Coiling of NGT in NP.
+   - EP: wean lidocaine
+   - temp line placed, CVVH started.
+   - changed tube feeds per Nutrition recs to Vivonex + reglan
+   - successfully weaning levophed.
+   - reduced FiO2 to 40, weaning RR
+   - lidocaine off
+   - had several episodes of Vtach at 4:15, paced out.  One episode, ICD
+   tried pacing 4X, without improvement.  SBP 50, cardioverted at 300.
+   Lidocaine started back at 2.  ( probably should not be weaned until off
+   pressores)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3186-12-14**] 08:00 AM
+   Vancomycin - [**3186-12-15**] 11:15 AM
+   Ciprofloxacin - [**3186-12-15**] 12:00 PM
+   Cefipime - [**3186-12-15**] 02:00 PM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Heparin Sodium - 1,050 units/hour
+   Calcium Gluconate (CRRT) - 1.2 grams/hour
+   Norepinephrine - 0.11 mcg/Kg/min
+   Lidocaine - 2 mg/min
+   Other ICU medications:
+   Other medications:
+   Metoclopramide 10mg
+   Calcium acetate
+   Chlorothiazide 500 mg
+   Vanco 1000mg
+   Cipro 400 mg
+   Cefepime 1 g
+   ASA 325 mg
+   Hydrocortisone
+   Famotidine 20mg
+   Docusate
+   Senna
+   bisacodyl
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3186-12-16**] 06:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.7
+C (98.1
+   HR: 70 (62 - 130) bpm
+   BP: 91/58(70) {91/58(70) - 134/99(108)} mmHg
+   RR: 16 (10 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: AV Paced
+   Wgt (current): 76.4 kg (admission): 76 kg
+   Height: 64 Inch
+    CVP: 17 (17 - 23)mmHg
+   Total In:
+                                                                  2,379 mL
+                                                                  1,103 mL
+   PO:
+   TF:
+                                                                     65 mL
+                                                                     52 mL
+   IVF:
+                                                                  2,254 mL
+                                                                  1,001 mL
+   Blood products:
+   Total out:
+                                                                  3,855 mL
+                                                                  2,137 mL
+   Urine:
+                                                                  3,180 mL
+                                                                    650 mL
+   NG:
+                                                                    200 mL
+                                                                     60 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,476 mL
+                                                                 -1,034 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 22 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 55 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.47/32/134/21/1
+   Ve: 10.7 L/min
+   PaO2 / FiO2: 335
+   Physical Examination
+   GENERAL: intubated and sedated, does not respond to verbal or tactile
+   stimulus
+   HEENT: Sclera anicteric. minimally reactive to light. ETT in place
+   NECK: Supple with JVP to angle neck
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. transmitted
+   vent sounds. CTA anteriorly, no crackles, wheezes or rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominal bruits.
+   EXTREMITIES: No c/c/ +2 edema. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   NEURO: patient sedated with no purposeful movement
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ DP dopplerable
+   Left: Carotid 2+ Femoral 2+ DP dopplerable
+   Labs / Radiology
+   221 K/uL
+   9.1 g/dL
+   91 mg/dL
+   2.8 mg/dL
+   21 mEq/L
+   3.5 mEq/L
+   62 mg/dL
+   101 mEq/L
+   135 mEq/L
+   26.4 %
+   10.6 K/uL
+        [image002.jpg]
+                            [**3186-12-14**]  10:54 PM
+                            [**3186-12-14**]  11:06 PM
+                            [**3186-12-15**]  05:20 AM
+                            [**3186-12-15**]  05:34 AM
+                            [**3186-12-15**]  05:05 PM
+                            [**3186-12-15**]  05:25 PM
+                            [**3186-12-15**]  11:30 PM
+                            [**3186-12-15**]  11:40 PM
+                            [**3186-12-16**]  04:45 AM
+                            [**3186-12-16**]  05:01 AM
+   WBC
+   10.3
+   10.6
+   10.6
+   Hct
+   28.9
+   27.6
+   26.4
+   Plt
+   230
+   246
+   221
+   Cr
+   4.1
+   4.2
+   4.0
+   2.8
+   TCO2
+   19
+   18
+   19
+   22
+   24
+   Glucose
+   106
+   116
+   97
+   87
+   91
+   Other labs: PT / PTT / INR:19.6/150.0/1.8, CK / CKMB /
+   Troponin-T:374/11/, ALT / AST:69/53, Alk Phos / T Bili:199/2.2,
+   Differential-Neuts:77.0 %, Band:14.0 %, Lymph:3.0 %, Mono:3.0 %,
+   Eos:0.0 %, Fibrinogen:523 mg/dL, Lactic Acid:1.3 mmol/L, Albumin:3.4
+   g/dL, LDH:214 IU/L, Ca++:8.8 mg/dL, Mg++:1.9 mg/dL, PO4:3.5 mg/dL
+   Sputum culture: [**3186-12-14**]
+GRAM STAIN (Final [**3186-12-14**]): HEAVY GROWTH Commensal Respiratory Flora; GRAM NEGA
+TIVE ROD(S). HEAVY GROWTH.
+Urine culture: [**3186-12-14**] GRAM NEGATIVE ROD(S). >100,000 ORGANISMS/ML
+Imaging:
+CT head w/o contrast: no evidence of intracranial hemorrhage/edema/mass effect/l
+arge vascular territory infarct; mucosal thickening in bilateral maxillary sinus
+; interval increase in opacification right middle ear and mastoid air cell.  Coi
+led NGT in nasopharynx
+CXR:  unchanged bibasilar pleural effusion and bibasilar consolidation consisten
+t with atelectasis although an infectious process can not be excluded.  Progress
+ive changes since admission
+   Assessment and Plan
+   71 yo M with PMH significant for CHF (EF: 20-25%), CAD s/p CABG, CKD,
+   a-fib on coumadin, s/p ICD, presents after VF arrest.
+   .
+   #. VF Arrest: s/p artic sun protocol with no sx of seizure by EEG.
+   Still with persistent episodes of VT storm despite Amiodarone and
+   lidocaine gtts.  [**12-14**] had episode of sustained VT at 120 requiring
+   manual defibrillation with 350J x 1.  Increased lidocaine gtt back to
+   2mg/min and Amiodarone 0.5mg/min
+   - continue EEG monitoring
+   - continue antiarrhythmics until weaned off pressors
+   - f/u neuro recs
+   - cont heparin gtt for hx of atrial fibnllation
+   - f/u EP recs, may need intervention once condition stabilize
+   .
+   #. Acute on Chronic Renal Failure: Pt with Cr 5.3. No baseline for
+   comparison, but per family patient has severe kidney disease. Pt
+   potassium wnl. Poor UOP despite aggressive lasix gtt. Cr trending down
+   to 2.8 with aggressive diuresis and CVVH. PTH 303.
+   - f/u renal recs
+   - cont CVVH
+   - cont lasix gtt and metalazone
+   .
+   # CORONARIES: Pt with CABG and recent cath 3 months prior that showed
+   occluded grafts, but no intervention per wife. ECG shows LBBB, no old
+   to compare. CE elevated with Trop 0.16 and CK 521, MB: 13. Given
+   patient's comorbidities including severe CHF, CKD and poor functional
+   status and recent cath the patient would likely benefit from medical
+   management at this time.
+   - ASA 325mg and lipitor 20mg (hold high dose given LFT abnormality)
+   - monitor tele
+   - holding BB and ACEI given hypotension
+   .
+   # PUMP: Pt with severe CHF, EF<20%. Patient appears to be overloaded on
+   exam. Pt with lower ext edema evidence of pulm edema on CXR. UOP
+   improved yesterday on Dobutamine and Lasix gtt. Dobutamine was d/c
+   [**2-3**] to VT.
+   - holding BB and ACEI given hypotension
+   - continue Lasix gtt , start metalozone
+   - cont CVVH for volume overload
+   .
+   #. Resp Distress: Pt was intubated for airway protection in the setting
+   of VF arrest. Evidence of mild
+moderate pulmonary edema and PNA on
+   CXR.
+   - wean sedation and vent as tolerated
+   - cont Lasix gtt , CVVH for volume removal
+   - cont vanc/ cefepime/ clpro for VAP
+   - repeat CXR this AM
+   .
+   # Hypotension: Likely cardiogenic shock in the setting of VF arrest and
+   cardiomyopathy with low EF. Pt with leukocytosis and febrile overnight.
+   No clear source of infection, but patient pan-cultured. Previous CXR
+   with no infiltrate. Pt on Levophed for pressure support.
+   - wean Levophed, maintain MAPS >60
+   - trend fever curve and leukocytosis
+   - f/u cultures
+   - cont broad spectrum Abx
+ Vanc/cefepime/ cipro
+   ..
+   #. Transaminitis: Likely due to poor forward flow.
+   - cont to trend
+   .
+   #. Gout: holding meds for now
+   .
+   FEN: NPO pending IR line placement
+   .
+   ACCESS: PIV's, a-line, and CVL
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin SQ pending re-initiation of heparin gtt
+   -Bowel regimen
+   .
+   CODE: FULL for now
+   .
+   COMM: Wife [**Name2 (NI) **] [**Telephone/Fax (1) 11876**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Vivonex (Full) - [**3186-12-16**] 01:31 AM 10 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3186-12-12**] 03:06 AM
+   Multi Lumen - [**3186-12-12**] 04:00 AM
+   18 Gauge - [**3186-12-13**] 08:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

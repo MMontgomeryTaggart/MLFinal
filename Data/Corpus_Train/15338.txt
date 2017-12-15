@@ -1,0 +1,162 @@
+Admission Date:  [**2835-10-3**]       Discharge Date:  [**2835-10-14**]
+
+
+Service:  CARDIAC [**Doctor First Name **]
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 79 year old
+male who has been in relatively good health with past medical
+history only significant for hypertension and asthma.  He did
+well until about three days prior to admission when he
+complained of chest pressure which he first attributed to
+heartburn.  The chest pressure/pain resolved without any
+treatment at that time.  However, the same chest pain
+recurred one and two days prior to admission.  At that time
+patient went to see his primary care physician who sent him
+to an outside hospital to rule out for myocardial infarction.
+Patient actually ruled in for myocardial infarction with
+creatine kinase levels up to 338 and troponin level up to
+3.26.  At that time patient underwent cardiac
+catheterization.  Cardiac catheterization showed three vessel
+disease with 90% stenosis of LAD, 80% stenosis of circumflex
+and 70% stenosis of RCA.  At that time estimated left
+ventricular ejection fraction was 18%.  Patient was turned
+down for surgery at the outside hospital and was consequently
+transferred to [**Hospital1 58**] for
+possible coronary artery bypass graft.  On admission patient
+was pain free, having taken nitroglycerin.  He was also
+maintained on IV heparin.  His last episode of angina was
+approximately 48 hours prior to admission to this hospital.
+There was also reported nonsustained ventricular tachycardia
+during which patient remained asymptomatic by report.
+
+PAST MEDICAL HISTORY:  Hypertension.  Asthma.
+
+PAST SURGICAL HISTORY:  Tonsillectomy.
+
+SOCIAL HISTORY:  History of tobacco use.  History of alcohol
+use.
+
+FAMILY HISTORY:  History of brother with myocardial
+infarction.
+
+MEDICATIONS:  Home medications included Norvasc, theophylline
+p.r.n.  Medications at the outside hospital included aspirin
+325 mg p.o. q.day, Protonix 40 mg p.o. q.day, Lopressor 50 mg
+p.o. t.i.d., lisinopril 10 mg p.o. q.day, Colace 100 mg p.o.
+b.i.d., Lipitor 10 mg p.o. q.day, Lasix 20 mg p.o. q.day.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Afebrile, heart rate 64, blood
+pressure 140/60, respiratory rate 20.  General exam: elderly
+gentleman in no apparent distress.  HEENT exam was within
+normal limits.  Neck exam showed no JVD, no bruits, supple.
+Respiratory exam was clear to auscultation bilaterally.
+Cardiac exam showed irregular rate, but normal S1, S2.
+Abdominal exam was soft, nondistended, nontender, no
+hepatosplenomegaly.  Extremities showed no edema, positive
+for varicosities.  Pulses were present in the upper
+extremities.  Patient had dorsalis pedis pulses that were
+palpable, but posterior tibial pulses were not palpable.
+Neurologically there was nothing grossly abnormal and patient
+was oriented times three.
+
+LABORATORY DATA:  On admission white blood cell count 6.6,
+platelets 219.  Sodium 136, potassium 4.3, BUN 9, creatinine
+0.8, glucose 88.  PTT 48.9.  EKG showed sinus rhythm at a
+rate of 71.  ST depressions as well as T wave inversions in
+V5 and V6.  Chest x-ray done at the outside hospital showed
+no infiltrates or effusions.  It did show atelectasis at the
+left lung base and a prominent thoracic aorta.
+
+HOSPITAL COURSE:  The patient was admitted to cardiac
+surgery.  Given the findings on cardiac catheterization, it
+was thought that coronary artery bypass would be the best
+option for the patient.  The risks and benefits of the
+operation were discussed with patient who agreed to the
+procedure.  On [**2835-10-5**] patient underwent placement of an
+intra-aortic balloon pump preoperatively for coronary artery
+bypass graft.  On the same day patient underwent coronary
+artery bypass graft times three (LIMA to LAD, SVG to OM, SVG
+to PDA).  At the same time patient underwent mitral valve
+ring annuloplasty with a 28 [**Doctor Last Name 1326**].  Patient tolerated the
+procedure well.  There were no complications.  Please see the
+full operative note for details.  Patient was transferred to
+the intensive care unit in good condition.  Perioperative
+ejection fraction was estimated to be approximately 30%.
+
+In the intensive care unit patient's gas was pH of 7.44, PCO2
+39, PO2 159.  He remained intubated.  Patient was making good
+urine.  The intra-aortic balloon pump was removed on
+postoperative day one.  The intra-aortic balloon pump was
+removed by the cardiology Fellow.  On postoperative day one
+patient was extubated which was successful.  Patient was
+oxygenating well on face mask.  Patient was transfused with
+one unit of packed red blood cells on postoperative day two
+for hematocrit of 26.5.  Patient was started on a beta
+blocker.  In addition, amiodarone was started given some
+ectopy (PVCs, PACs) seen on the monitor.  Overall patient
+remained in regular rhythm.
+
+Physical therapy was consulted and they followed patient
+during his hospitalization.  On postoperative day three while
+still in the intensive care unit, patient was noted to have
+slightly lower arterial oxygen levels.  Chest x-ray performed
+at that time showed right lower lobe consolidation.  Patient
+was also producing some thick sputum.  Patient also had a run
+of atrial fibrillation.  He was treated with Lopressor and
+amiodarone bolus.  He converted to normal sinus rhythm.  His
+Foley catheter was removed on postoperative day four.  His
+central line was removed on postoperative day four.  Patient
+was consequently transferred to the regular floor in stable
+condition.
+
+He continued to do well.  He remained in sinus rhythm.
+Hematocrit was stable.  He was oxygenating well on
+supplemental oxygen.  His diuretic regimen was increased
+secondary to mild lower extremity edema.  He was maintained
+on Lopressor and captopril.  Patient was originally with a
+sitter given frequent episodes of confusion.  However, toward
+the end of his hospitalization, the sitter was no longer
+required.  He was alert and oriented times three.  He was
+ambulating with assistance.  His pacing wires were removed.
+Patient was discharged to the rehabilitation facility in
+stable condition.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISPOSITION:  To rehabilitation facility.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease and mitral regurgitation, status
+post coronary artery bypass graft times three and mitral
+valve ring annuloplasty.
+2.  Hypertension.
+3.  Asthma.
+
+DI[**Last Name (STitle) **]E INSTRUCTIONS:  The patient is to see his surgeon,
+Dr. [**Last Name (Prefixes) **] in approximately four weeks.  Patient is to
+see a cardiologist in approximately three to four weeks.
+Patient is to see his primary care physician in approximately
+one to two weeks.
+
+DISCHARGE MEDICATIONS:  The list of discharge medications
+will be dictated separately.
+
+
+
+
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern1) 1718**]
+MEDQUIST36
+
+D:  [**2835-10-12**]  21:36
+T:  [**2835-10-12**]  22:03
+JOB#:  [**Job Number 20676**]
+
+
+
+DOC CLASS

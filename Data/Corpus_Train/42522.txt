@@ -1,0 +1,343 @@
+Admission Date:  [**2511-7-14**]              Discharge Date:   [**2511-7-21**]
+
+Date of Birth:  [**2472-3-12**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Wellbutrin / High Dose Steroids
+
+Attending:[**First Name3 (LF) 4777**]
+Chief Complaint:
+Cough
+
+Major Surgical or Invasive Procedure:
+IP rigid bronch w/ stent removal [**2419-7-14**]
+
+History of Present Illness:
+39 yo F h/o asthma, tracheobronchomalacia s/p y stent [**2511-7-9**]
+and anxiety here with tachypnea. Was recently hospitalized which
+required intubation on [**8-12**]/12 for worsening
+tracheobronchomalacia. This was followed up by IP placing a y
+stent [**7-9**]. Pt initially felt well for first 2 days. Following
+this developed progressively worsening shortness of breath x 2
+days, couple episodes of scant hemoptysis. Noticed inhalers
+helped yesterday but no relief today. No wheezing. Has dry
+coughing fits while lying supine and improves when sits up.
+Talking makes SOB/cough worse. Does not endorse chest pain but
+has chest discomfort from coughing. Denies nightsweats, weight
+loss or fever/chills. No nausea/vomiting, abdominal pain.
+
+ED: Initial Vitals/Trigger: 98.6 85 130/96 16 99%
+IP saw in ED.  blow by humidified air mask, on 2L sat 98-99%.
+Tachypneic to 30s initially but went down to 18-20.
+most recent vitals 98.7, rr 16, bp 109/53, 100% RA on humidifier
+
+Received ativan which alleviated tachypnea
+
+On arrival to the MICU, pt was saturating well in high 90s on
+RA. Boyfriend at bedside.
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denies cough, shortness of breath, or wheezing.
+Denies chest pain, chest pressure, palpitations, or weakness.
+Denies nausea, vomiting, diarrhea, constipation, abdominal pain,
+or changes in bowel habits. Denies dysuria, frequency, or
+urgency. Denies arthralgias or myalgias. Denies rashes or skin
+changes.
+
+
+
+Past Medical History:
+1. Asthma, multiple prior intubations
+2. Tracheobronchomalacia, diagnosed on CT trachea [**2511-6-24**]
+3. Possible inflammatory lung process such as hypersensitivity
+pneumonitis. (Had open lung biopsy in [**10/2510**] which was reviewed
+
+by [**Hospital1 4**] pathologists and showed undefined inflammatory process
+superimposed on normal lung,and poorly formed granulomas that
+seemed to be consistent with a hypersensitivity pneumonitis).
+Most recent CT trachea showed no evidence of hypersensitity
+pneumonitis.
+4. History of positive PPD (the patient reports that it was
+borderline degree of induration for many years and has not
+received INH. She states the reason for no INH was a clear CXR
+5. PCOS
+6. Postpartum depression requiring psychiatric hospitalization
+7. Multiple miscarriages requiring D and C
+8. Status post multiple colposcopies and cervical LEEP procedure
+
+9. Meningitis in [**2510-12-28**]
+10. Status post tonsillectomy
+
+
+Social History:
+The patient is divorced and lives in a home with her 3 children.
+Works as a business analyst. Occasional etoh. Prior 1-1/2 pack
+per day smoking for 15 years, quit in [**2498**]. High likelihood of
+asbestos exposure according to the patient as she was a
+volunteer firefighter in the past. History of positive PPD. Has
+a dog, cat, a lizard and a hamster at home.
+
+
+Family History:
+Father alcoholic. [**Name2 (NI) **] family history of lung disease or DVTs
+
+Physical Exam:
+Admission exam:
+Vitals: T: 98.3F  BP: 116/80 P: 101 R:22 O2: 96%RA
+General: Alert, oriented, no acute distress, sitting upright,
+speaking in full sentences,
+HEENT: MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, no masses
+CV: tachycardic, regular rhythm, no murmurs, rubs, gallops
+Lungs: some accessory muscle use, Clear to auscultation
+bilaterally, no wheezes, rales, ronchi
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no organomegaly
+GU: no foley
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact, 5/5 strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait deferred
+
+Discharge exam:
+
+Pertinent Results:
+[**2511-7-14**] 05:21PM   TYPE-[**Last Name (un) **] PO2-53* PCO2-28* PH-7.49* TOTAL
+CO2-22 BASE XS-0 COMMENTS-GREEN TOP
+[**2511-7-14**] 02:25PM   GLUCOSE-95 UREA N-7 CREAT-0.8 SODIUM-141
+POTASSIUM-4.4 CHLORIDE-104 TOTAL CO2-24 ANION GAP-17
+[**2511-7-14**] 02:25PM   estGFR-Using this
+[**2511-7-14**] 02:25PM   WBC-9.0 RBC-4.83 HGB-13.9 HCT-42.1 MCV-87
+MCH-28.7 MCHC-33.0 RDW-14.4
+[**2511-7-14**] 02:25PM   NEUTS-65.3 LYMPHS-28.4 MONOS-3.9 EOS-1.6
+BASOS-0.8
+[**2511-7-14**] 02:25PM   PLT COUNT-372
+[**2511-7-14**] 02:25PM   PT-10.1 PTT-25.3 INR(PT)-0.9
+
+CXR: FINDINGS:  The lungs appear clear.  The cardiomediastinal
+silhouette and hilar contours are unremarkable. No pleural
+effusion or pneumothorax.
+
+IP Rigid Bronch
+Procedure: The procedure, indications, preparation and potential
+complications were explained to the patient, who indicated her
+understanding and signed the corresponding consent forms. A
+standard time out was performed as per protocol. The procedure
+was performed for diagnostic purposes at the operating room. A
+physical exam was performed. The bronchoscope was introduced
+through an endotracheal tube and advanced under direct
+visualization until the tracheobronchial tree was reached.The
+procedure was not difficult. The quality of the preparation was
+good. The patient tolerated the procedure well. There were no
+complications.
+
+other findings: Following general anesthesia a yellow Dumon
+rigid tracheoscope was inserted with slight difficulty. The
+airway was examined with flexible bronchoscopy, there was
+minimal secretion in the stent, the distal airways were patent.
+Using rigid forceps the Dumon Y stent was removed. The airway
+was again examined, there was no granulation tissue, except a
+small rim at the distal end of the LMS limb of the Y stent.
+
+Impression: Severe Trachchiobronchomalacia
+Removal of Dumon Y stent with rigid forceps through a Rigid
+tracheoscope.
+
+Recommendations: Admit to ICU
+Will follow as inpatient
+
+Additional notes: Patient medication list was reconciled.
+Attending was present for the entire procedure. FINAL DIAGNOSES
+are listed in the impression section above. Estimated blood loss
+= zero. No specimens were taken for pathology.
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 16804**] is a 39 woman who presents with shortness of breath x
+2d, periodic hemoptysis with coughing since [**2511-7-14**]. Hx
+signficant for severe asthma, severe tracheobronchomalacia with
+air trapping treated with y stent on [**2511-7-9**]. She had her Y
+stent removed on [**2511-7-15**].
+
+#Tracheobroncheomalacia: pt has a h/o tracheomalacia s/p y stent
+placement with IP on [**2511-7-9**] for worsening TCM which required
+hospitalization from [**Date range (1) 16808**] where pt required intubation. Due
+to recent placement of stent, this is most likely the cause of
+tachypnea and hemoptysis. Does have a h/o asthma requiring
+multiple intubations, but this does not seem likely to be an
+asthmatic exacerbation. Per pt, on MTX for sarcoidosis and this
+was held during hospitalization. Bronchoscopy was done on [**7-15**]
+with interventional pulmonology. Pt was tachypneic and
+distressed after bronch, and anxiety and coughing paroxysms
+could only be controlled with precedex drip initially. During
+this time, pt was still accepting lidocaine, albuterol and
+ipratropium nebs with morphine and benzodiazepines to control
+anxiety with coughing episodes. Anxiety and coughing paroxysms
+would worsen to the point where pt received multiple PRN doses
+of Ativan, morphine, Haldol and heliox. Of note, pt would not
+desaturate during coughing episodes. Throughout hospitalization,
+pt continued her home inhaled corticosteroids and oral asthma
+medications. Interventional pulmonology followed patient while
+in house and could not suggest other stents. Only BiPAP was
+recommended which patient refused on multiple occasions. CT
+surgery also assessed pt and found her to not be a good surgical
+candidate for tracheoplasty. Towards the end of her MICU course,
+the pt was transitioned off of the precedex drip to a low-dose
+of clonidine and Zyprexa [**Hospital1 **] (although the Zyprexa was not
+continued on discharge). Upon discharge, pt still had
+intermittent coughing paroxysms (which was her
+pre-hospitalization baseline) and still refused to use BiPAP. It
+was recommended that she pursue pulmonary rehab and she was
+amenable to consider this on an out-patient basis. Her
+pulmonologist, Dr [**Last Name (STitle) 652**], was contact[**Name (NI) **] with regard to
+potentially facilitating this.
+
+#Anxiety/depression: The pt was not on benzodiazepines
+pre-admission but had multiple episodes of extreme anxiety. Pt
+was emotionally labile in ICU and put on precedex drip to
+control anxiety associated with coughing paroxysms. The pt was
+continued on home SSRI throughout hospitalization and the dose
+was increased towards the end of her course. Standing Klonopin
+and PRN Ativan were also added to her regimen and anxiety was
+refractory to this. She also received Zyprexa during her
+hospitalization, but was not discharged on this medication as
+adequate clinical control was achieved with clonidine and
+symptomatic (anti-tussive) medications.
+
+Of note, the Precedex did not control her coughing, but blunted
+her supratentorial / affective / emotional response to her
+coughing episodes. She also responded to re-direction and
+distraction during episodes as a means of terminating a paroxysm
+of cough. She will likely benefit from the psychological coping
+skills taught during pulmonary rehabilitation is this is able to
+be established in the out-patient setting.
+
+Transitional Issues:
+Dr. [**Last Name (STitle) 183**] (IP) f/u
+Dr. [**Last Name (STitle) 652**] (pulm) f/u
+Could consider ENT referral per Dr.[**Name (NI) 653**] recommendation
+Psych referral outpt
+highly recommend BiPAP to increase quality of life with severe
+TBM
+highly recommend pulmonary rehabilitation
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from PatientwebOMR.
+1. Benzonatate 100 mg PO TID:PRN cough
+2. Guaifenesin [**5-7**] mL PO Q6H:PRN cough
+3. budesonide-formoterol *NF* 160-4.5 mcg/actuation Inhalation
+Daily
+4. methotrexate sodium *NF* 15 mg Oral weekly
+5. ciclesonide *NF* 80 mcg/actuation Inhalation [**Hospital1 **]
+6. Sodium Chloride 3% Inhalation Soln 4 mL NEB [**Hospital1 **]
+Supplied by Respiratory
+7. Ipratropium Bromide MDI 1 PUFF IH QID sob/wheeze
+8. traZODONE 75 mg PO HS
+9. Terbutaline Sulfate 5 mg PO TID
+10. Albuterol Inhaler [**12-29**] PUFF IH Q4H:PRN sob/wheeze
+11. Montelukast Sodium 10 mg PO DAILY
+
+
+Discharge Medications:
+1. Albuterol Inhaler [**12-29**] PUFF IH Q4H:PRN sob/wheeze
+2. Benzonatate 100 mg PO TID:PRN cough
+3. Guaifenesin [**5-7**] mL PO Q6H:PRN cough
+4. Montelukast Sodium 10 mg PO DAILY
+5. Terbutaline Sulfate 5 mg PO TID
+6. traZODONE 75 mg PO HS
+7. budesonide-formoterol *NF* 160-4.5 mcg/actuation Inhalation
+Daily
+8. ciclesonide *NF* 80 mcg/actuation Inhalation [**Hospital1 **]
+9. Ipratropium Bromide MDI 1 PUFF IH QID sob/wheeze
+10. Sodium Chloride 3% Inhalation Soln 4 mL NEB [**Hospital1 **]
+Supplied by Respiratory
+11. Citalopram 20 mg PO DAILY
+RX *citalopram 20 mg 1 tablet(s) by mouth qday Disp #*30 Tablet
+Refills:*0
+12. Lidocaine 1% 2.5 mL IH PRN wheezing/sob, cough
+[**Month (only) 115**] give up every 2 hours for cough.
+RX *lidocaine HCl 10 mg/mL (1 %) 2.5 mL q3 hrs Disp #*4 Vial
+Refills:*0
+13. Codeine Sulfate 15-30 mg PO Q4H:PRN cough
+RX *codeine sulfate 30 mg/5 mL 5 mL by mouth q 6 hrs Disp #*1
+Bottle Refills:*0
+14. Lorazepam 1-2 mg PO Q4H:PRN anxiety
+RX *lorazepam 1 mg [**12-29**] pill by mouth q4hr Disp #*24 Tablet
+Refills:*0
+15. CloniDINE 0.1 mg PO TID
+Hold for SBP<100
+RX *clonidine 0.1 mg 1 tablet(s) by mouth three times a day Disp
+#*90 Tablet Refills:*0
+16. nebulizer & compressor *NF*    Miscellaneous prn
+RX *nebulizer & compressor   Use for nebulizing medications
+Disp #*1 Box Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Severe Tracheobroncheomalacia
+Asthma
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 16804**],
+
+You were admitted to the [**Hospital1 509**]
+for removal of your Y-stent. After removal of your stent with
+interventional pulmonology, we strived to control your
+persistent coughing and shortness of breath with numerous
+interventions including light sedation. After meeting with
+interventional pulmonology and cardiothoracic surgery, it was
+decided that surgery is not a viable option, and would not
+provide any relief of your symptoms.  Therefore supportive care
+with BiPAP is best for your condition.
+
+We made the following additions to your medications to help with
+symptom control:
+
+Codeine Sulfate 15-30 mg orally every four hours as needed for
+cough
+Citalopram 20 mg oral daily for associated agitation with cough
+CloniDINE 0.1 mg oral three times a day for agitation with cough
+- do not take this if you are feeling dizzy or lightheaded.
+Lidocaine 1% 2.5 mL inhaled every 3 hours as needed for
+wheezing, shortness of breath, or cough--DO NOT EXCEED THIS
+DOSING AS IT CAN CAUSE FATAL CARDIAC RHYTHMS IF TAKEN IN EXCESS
+Lorazepam 1-2 mg oral every 4 hours as needed for agitation
+associated with cough. ***Do not take this before or while
+driving.  Do not consume alcholic beverages.
+
+We have DISCONTINUED your methotrexate as it appears to be
+unneeded and can have very unfavorable side effects.
+
+Please take all your other medications as previously prescribed.
+
+Followup Instructions:
+You should schedule the following appointments:
+
+Interventional pulmonology- Dr. [**Last Name (STitle) 183**]
+Pulmonology- Dr. [**Last Name (STitle) 652**]
+
+Please call  ([**Telephone/Fax (1) 1173**] to schedule your follow up
+appointments.
+
+
+
+
+
+
+DOC CLASS

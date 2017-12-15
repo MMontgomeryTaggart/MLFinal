@@ -1,0 +1,177 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Restarted home medications
+   No overnight events
+   Allergies:
+   Lisinopril
+   Cough;
+   Last dose of Antibiotics:
+   Cefazolin - [**2670-4-5**] 05:45 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2670-4-6**] 07:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**71**] AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 37.2
+C (99
+   HR: 67 (60 - 83) bpm
+   BP: 137/70(86) {115/49(65) - 154/70(86)} mmHg
+   RR: 20 (14 - 41) insp/min
+   SpO2: 96%
+   Heart rhythm: V Paced
+                  Total In:
+                                                                  3,092 mL
+                  PO:
+                                                                  1,200 mL
+                  TF:
+   IVF:
+                                                                  1,892 mL
+   Blood products:
+   Total out:
+                                                                    350 mL
+                                                                      0 mL
+   Urine:
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,742 mL
+                                                                      0 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///30/
+   Physical Examination
+   GENERAL: Woman appearing younger than stated age, looks uncomfortable
+   with eyes closed. Mood, affect appropriate.
+   HEENT: Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.
+   No xanthalesma.
+   NECK: Supple with JVP just above subclavian
+   CARDIAC: RR, normal S1, S2. No m/r/g.  No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, + bs, abdomen diffusely tender to deep palpation, no
+   guarding or rebound
+   EXTREMITIES: no edema
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right:  2+ Femoral 2+ DP 2+ PT 2+
+   Left:  2+ Femoral 2+ DP 2+ PT 2+
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   239 K/uL
+   9.2 g/dL
+   94 mg/dL
+   0.8 mg/dL
+   30 mEq/L
+   4.4 mEq/L
+   19 mg/dL
+   107 mEq/L
+   140 mEq/L
+   26.9 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**2670-4-4**]  09:31 PM
+                             [**2670-4-4**]  10:58 PM
+                             [**2670-4-5**]  01:32 AM
+                             [**2670-4-6**]  04:35 AM
+   WBC
+   12.2
+   10.2
+   7.8
+   Hct
+   31.1
+   28.6
+   26.9
+   Plt
+   292
+   257
+   239
+   Cr
+   2.3
+   0.9
+   0.8
+   0.8
+   Glucose
+   [**Telephone/Fax (2) 14224**]
+   Other labs: PT / PTT / INR:/33.5/, Differential-Neuts:72.1 %,
+   Lymph:19.6 %, Mono:6.4 %, Eos:1.4 %, Ca++:8.6 mg/dL, Mg++:2.2 mg/dL,
+   PO4:1.8 mg/dL
+   Assessment and Plan
+ PERICARDIAL EFFUSION (WITHOUT TAMPONADE)
+   Ms. [**Known patient lastname 14209**] is a 76 YOF with hypertension, hyperlipidemia, CAD s/p DES,
+   systolic CHF (Ef 25-30%) who presented for elective primary prevention
+   ICD and was found to have pericardial effusion post op.
+   .
+   # Pericardial effusion: [**Month (only) 47**] have been caused by local trauma during
+   procedure.  Concern is for ICD perforation.  Patient has been
+   hemodynamically stable
+   -- f/u repeat Echo in am
+   -- f/u repeat CXR in am
+   -- follow pulsus
+   -- if no evidence of worsening effusion, consider restarting metoprolol
+   and diovan and call out to floor
+   .
+   # Coronary artery disease: Status post DES to ramus. No symptoms of
+   angina with exertion.  No chest pain currently.
+   -- continue aspirin 325 mg, plavix 75 mg, simvastatin 40 mg
+   .
+   # systolic CHF:  Thought to be non-ischemic.  Pt is NYHA [**Name (NI) **] and is
+   currently euvolemic.  Pt denies swelling or orthopnea.  Last echo
+   showed EF 25-30%.  Now S/P ICD for primary prevention of Vfib arrest.
+   -- held diovan and metoprolol as above, but will plan to restart when
+   pt demonstrates she is stable.
+   .
+   # RHYTHM:  Patient has baseline LBBB.  [**Company 1958**] PM ICD shows a sensed,
+   biV paced at rate of 60 bpm
+   -- replete lytes PRN K > 4, Mg > 2
+   -- continue cafazolin/cephalexin for one week
+   .
+   #  Hyperlipidemia:
+   -- continue simvastatin
+   .
+   #  Hypertension: Pt is currently normotensive.
+   -- holding metoprolol and diovan as above but will plan to restart as
+   soon as safe
+   .
+   #  GERD:
+   --continue zantac
+   .
+   .
+   FEN:  cardiac healthy
+   .
+   ACCESS: PIV's
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2670-4-4**] 07:17 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

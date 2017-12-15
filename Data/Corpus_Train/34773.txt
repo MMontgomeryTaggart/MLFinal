@@ -1,0 +1,303 @@
+Admission Date:  [**3393-8-11**]              Discharge Date:   [**3393-8-17**]
+
+Date of Birth:  [**3339-4-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Motrin / Ibuprofen / Shellfish Derived
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**3393-8-11**] Placement of IABP
+[**3393-8-13**] Urgent CABG x 4 on IABP(LIMA to LAD, SVG to DIAG, SVG to
+OM, SVG to PDA)
+
+History of Present Illness:
+Mr. [**Known patient lastname 29150**] is a 54 year old male with history of coronary
+artery disease since [**3388**]. Approximately one week prior to
+admission, he was experiencing intermittent chest pain. He
+eventually presented to [**Hospital3 **] ED. EKG showed ST elevations
+in v2-v4. He ruled in for acute MI with elevated troponins. He
+was urgently taken to the cath lab which revealed critical three
+vessel coronary artery disease. He was started on intravenous
+therapy and transferred to the [**Hospital1 22**] for urgent surgical
+revascularization.
+
+Past Medical History:
+Coronary Artery Disease - s/p PCI/stenting to LAD in [**3388**]
+Hypertension
+Dyslipidemia
+
+Social History:
+Active smoker. Occasional ETOH. Currently lives with his wife.
+
+Family History:
+Denies premature coronary disease.
+
+Physical Exam:
+Admission
+Vitals: 132/80, 85, 16
+Slightly obese male in no acute distress
+Oropharyx benign
+Neck supple, no JVD
+Lungs clear to auscultation bilaterally
+Heart regular rate and rhythm, normal s1s2, no murmur or rub
+Abdomen benign
+Extermities warm without edema
+Neurologically intact, no focal deficits noted
+Distal pulses 2+, no carotid or femoral bruits noted
+
+Discharge
+VS T98 HR88SR  BP 130/84  RR 16  O2sat 100-RA
+Gen NAD
+Neuro A&O, nonfocal exam
+CV RRR, no murmur. Sternum stable incision CDI
+Pulm dimminished bases bilat
+Abdm soft, NT/+BS
+Ext warm, 1+ edema bilat. Left SVG sites w/steris CDI
+
+Pertinent Results:
+[**3393-8-11**] 05:05PM BLOOD WBC-13.2* RBC-4.45* Hgb-13.2* Hct-38.1*
+MCV-86 MCH-29.7 MCHC-34.7 RDW-12.3 Plt Ct-217
+[**3393-8-11**] 05:05PM BLOOD PT-13.2 PTT-37.1* INR(PT)-1.1
+[**3393-8-11**] 05:05PM BLOOD Glucose-124* UreaN-9 Creat-0.9 Na-133
+K-3.7 Cl-97 HCO3-28 AnGap-12
+[**3393-8-11**] 05:05PM BLOOD ALT-38 AST-76* CK(CPK)-668* AlkPhos-65
+Amylase-30 TotBili-1.5
+[**3393-8-11**] 05:05PM BLOOD CK-MB-59* MB Indx-8.8* cTropnT-0.48*
+[**3393-8-13**] 07:19AM BLOOD %HbA1c-5.3
+[**3393-8-15**] 04:15PM BLOOD WBC-10.4 RBC-3.62* Hgb-10.7* Hct-31.7*
+MCV-88 MCH-29.5 MCHC-33.7 RDW-12.0 Plt Ct-153
+[**3393-8-15**] 04:15PM BLOOD Plt Ct-153
+[**3393-8-14**] 06:17AM BLOOD PT-13.6* PTT-28.2 INR(PT)-1.2*
+[**3393-8-15**] 04:15PM BLOOD Glucose-112* UreaN-13 Creat-0.9 Na-137
+K-3.7 Cl-97 HCO3-28 AnGap-16
+
+[**3393-8-11**] EKG:
+Sinus rhythm. ST segment elevation in the anteroseptal leads
+suggestive
+of myocardial infarction.
+
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+79 154 88 358/391 40 2 52
+
+
+
+ [**Known patient lastname **],[**Known patient firstname **] P [**PT ID Number 29151**] M  54  [**3339-4-20**]
+
+Radiology Report CHEST (PORTABLE AP) Study Date of [**3393-8-14**] 1:09
+PM
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] R. CSURG CSRU [**3393-8-14**] SCHED
+CHEST (PORTABLE AP)   Clip # [**Clip Number (Radiology) 29152**]
+Reason: ?ptx after CT removal
+
+
+
+UNDERLYING MEDICAL CONDITION:
+   54 year old man with
+REASON FOR THIS EXAMINATION:
+   ?ptx after CT removal
+
+
+
+Final Report
+CHEST RADIOGRAPH
+
+INDICATION: Followup.
+
+COMPARISON: [**3393-8-13**].
+
+As compared to the previous examination, the mediastinal and
+pleural drains
+have been removed. The patient has also been extubated. The
+pre-existing
+small left-sided pleural effusion and the associated
+retrocardiac atelectasis
+have slightly increased in extent. Otherwise the chest
+radiographic
+appearance is unchanged. The Swan-Ganz catheter is in unchanged
+position.
+
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4618**]
+Approved: WED [**3393-8-14**] 4:37 PM
+
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 29153**]       TEE (Complete)
+Done [**3393-8-13**] at 8:45:34 AM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4615**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**3339-4-20**]
+Age (years): 54 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Chest pain. Coronary artery disease. Left
+ventricular function. Preoperative assessment.
+ICD-9 Codes: 440.0
+Test Information
+Date/Time: [**3393-8-13**] at 08:45    Interpret MD: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9027**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 652**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 9027**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW5-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Septal Wall Thickness:  *1.2 cm  0.6 - 1.1 cm
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.0 cm  <= 5.6 cm
+Left Ventricle - Systolic Dimension:  4.6 cm
+Left Ventricle - Fractional Shortening:  *-0.15  >= 0.29
+Left Ventricle - Ejection Fraction:  >= 55%  >= 55%
+Aorta - Annulus:  2.2 cm  <= 3.0 cm
+Aorta - Sinus Level:  *3.7 cm  <= 3.6 cm
+Aorta - Sinotubular Ridge:  3.0 cm  <= 3.0 cm
+Aorta - Ascending:  *3.7 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.1 cm  <= 2.5 cm
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+Normal regional LV systolic function. Overall normal LVEF
+(>55%).
+
+RIGHT VENTRICLE: Moderately dilated RV cavity. Mild global RV
+free wall hypokinesis.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). Trace
+AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial
+MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS
+No atrial septal defect is seen by 2D or color Doppler. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). The right ventricular cavity is moderately dilated
+with mild global free wall hypokinesis. The aortic valve
+leaflets (3) are mildly thickened. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen.
+
+POST BYPASS
+There is preserved left ventricular systolic function. The RV is
+still moderately enlarged but now with normal systolic function.
+The study is otherwise unchanged from prebypass.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9027**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**3393-8-13**] 10:58
+
+
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 29150**] was admitted to the cardiac surgical service. Given
+his critical coronary artery disease, he was brought to the
+cardiac cath lab where an IABP was successfully placed without
+complication. Surgery was delayed for several days given recent
+Plavix dose, and he continued to remain pain free on intravenous
+therapy. On [**8-13**], Dr. [**Last Name (STitle) **] performed four vessel
+coronary artery bypass grafting. For surgical details, please
+see seperate dictated operative note. Following the operation,
+he was brought to the CVICU for invasive monitoring. Within 24
+hours, he awoke neurologically intact and was extubated without
+incident. On postoperative day one, the IABP was weaned and
+removed without complication. He maintained stable hemodynamics
+and transferred to the SDU on postoperative day two. The
+remainder of his postoperative course was uneventful, on POD4 he
+was discharged home with visiting nurses.
+
+Medications on Admission:
+Transfer meds: IV Heparin, Plavix, IV Nitro, Aspirin, Atenolol,
+Lescol
+
+Discharge Medications:
+1. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*14 Tablet(s)* Refills:*0*
+2. Lescol 40 mg Capsule Sig: One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every six (6) hours as needed for pain.
+Disp:*15 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Potassium Chloride 10 mEq Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO once a day for 7 days.
+Disp:*7 Tablet Sustained Release(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Home Health [**Last Name (LF) **], [**First Name3 (LF) 481**]
+
+Discharge Diagnosis:
+Coronary Artery Disease s/p CABG
+Preoperative Acute ST Elevation MI
+Hyperlipidemia
+HTN
+History of LAD stent [**3388**]
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Shower daily, no baths or swimming
+No creams, lotions, powders to incisions
+No driving
+No lifting more than 10 pounds for 10 weeks
+Take all medications as prescribed
+report any weight gain of greater than 3 pounds a week
+
+Followup Instructions:
+Dr.[**Last Name (STitle) **] ([**Telephone/Fax (1) 181**]) in 4 weeks
+Dr.[**First Name4 (NamePattern1) 4442**] [**Last Name (NamePattern1) 746**] in [**1-27**] weeks
+Dr.[**First Name8 (NamePattern2) 4166**] [**Name (STitle) 7091**] in [**1-27**] weeks
+
+
+
+Completed by:[**3393-8-20**]
+
+
+DOC CLASS

@@ -1,0 +1,348 @@
+Admission Date:  [**3402-8-20**]              Discharge Date:   [**3402-8-25**]
+
+Date of Birth:  [**3323-11-27**]             Sex:   F
+
+Service: [**Hospital Unit Name 336**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5436**]
+Chief Complaint:
+found down in her apartment s/p fall; mental status change
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with stents placed
+
+
+History of Present Illness:
+78 y/o w/pmh sig for tobacco, COPD and dyslipidemia, presents
+after being found face down at home s/p fall of unclear
+etiology, was brought to OSH and on ECG had ST elevations
+concerning for ACS.  Also noted to have CK 20k, right shoulder
+injury from fall, dysarthia, mental status change.  Brought to
+[**Hospital1 68**] for cath.
+
+Past Medical History:
+tobacco
+COPD
+dyslipidemia
+multiple falls (4 in last year), with broken vertebra 1y PTA
+
+Social History:
+Significant tobacco use, unquantified
+No etoh
+No drugs
+
+Family History:
+Noncontributory
+
+Physical Exam:
+Gen: thin elderly woman, lying on stretcher, appearing
+frightened and fatigued
+Skin: pale, cool and dry, no rash
+HEENT: MMM
+CV: RRR nl s1 quiet s2 no mgr, +JVD
+Lungs: decreased breath sounds and crackles at bases b/l; poor
+inspiratory effort; poor air movement
+Abd: thin, soft NT/ND +BS
+Ext: LE edema, no c/c/e
+Neuro: disoriented, slurred speech, uncooperative
+
+Pertinent Results:
+[**3402-8-19**] 10:15PM BLOOD WBC-18.9* RBC-5.12 Hgb-15.8 Hct-46.1
+MCV-90 MCH-30.9 MCHC-34.3 RDW-12.0 Plt Ct-305
+[**3402-8-20**] 05:18AM BLOOD WBC-18.0* RBC-4.32 Hgb-13.5 Hct-39.3
+MCV-91 MCH-31.2 MCHC-34.4 RDW-12.1 Plt Ct-266
+[**3402-8-24**] 05:35AM BLOOD WBC-13.6* RBC-4.15* Hgb-13.0 Hct-37.9
+MCV-91 MCH-31.5 MCHC-34.4 RDW-12.6 Plt Ct-218
+[**3402-8-25**] 10:35AM BLOOD Hct-39.1
+[**3402-8-20**] 05:18AM BLOOD Neuts-94* Bands-1 Lymphs-4* Monos-1*
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**3402-8-23**] 06:40AM BLOOD Neuts-76.6* Lymphs-17.8* Monos-5.0
+Eos-0.4 Baso-0.3
+[**3402-8-19**] 10:15PM BLOOD PT-13.2 PTT-26.9 INR(PT)-1.1
+[**3402-8-19**] 10:15PM BLOOD Plt Ct-305
+[**3402-8-24**] 05:35AM BLOOD Plt Ct-218
+[**3402-8-24**] 09:48PM BLOOD PTT-50.7*
+[**3402-8-25**] 06:15AM BLOOD PTT-90.9*
+[**3402-8-19**] 10:15PM BLOOD Gran Ct-[**Numeric Identifier 25266**]
+[**3402-8-19**] 10:15PM BLOOD Glucose-112* UreaN-17 Creat-0.6 Na-140
+K-4.0 Cl-102 HCO3-24 AnGap-18
+[**3402-8-20**] 05:18AM BLOOD Glucose-197* UreaN-22* Creat-0.6 Na-141
+K-3.3 Cl-101 HCO3-25 AnGap-18
+[**3402-8-23**] 06:40AM BLOOD Glucose-114* UreaN-29* Creat-0.5 Na-147*
+K-3.7 Cl-107 HCO3-26 AnGap-18
+[**3402-8-24**] 05:35AM BLOOD Glucose-123* UreaN-22* Creat-0.5 Na-140
+K-3.8 Cl-104 HCO3-23 AnGap-17
+[**3402-8-25**] 10:35AM BLOOD UreaN-16 Creat-0.5 K-3.5
+[**3402-8-19**] 10:15PM BLOOD CK(CPK)-[**Numeric Identifier 25267**]*
+[**3402-8-20**] 05:18AM BLOOD ALT-49* AST-216* LD(LDH)-668*
+CK(CPK)-9183* AlkPhos-101 TotBili-0.6
+[**3402-8-20**] 06:31PM BLOOD CK(CPK)-5624*
+[**3402-8-21**] 07:45AM BLOOD CK(CPK)-4186*
+[**3402-8-22**] 09:30AM BLOOD CK(CPK)-4249*
+[**3402-8-19**] 10:15PM BLOOD CK-MB-150* MB Indx-1.2
+[**3402-8-19**] 10:15PM BLOOD cTropnT-1.38*
+[**3402-8-20**] 05:18AM BLOOD CK-MB-117* MB Indx-1.3 cTropnT-1.62*
+[**3402-8-20**] 06:31PM BLOOD CK-MB-48* MB Indx-0.9 cTropnT-1.47*
+[**3402-8-21**] 07:45AM BLOOD CK-MB-35* MB Indx-0.8 cTropnT-1.02*
+[**3402-8-22**] 09:30AM BLOOD CK-MB-18* MB Indx-0.4
+[**3402-8-20**] 05:18AM BLOOD Albumin-3.6 Calcium-7.9* Phos-4.6* Mg-1.7
+UricAcd-5.2 Cholest-224*
+[**3402-8-20**] 06:31PM BLOOD Calcium-9.0 Phos-2.3*# Mg-1.7
+[**3402-8-23**] 06:40AM BLOOD Calcium-9.4 Phos-2.5* Mg-2.1
+[**3402-8-24**] 05:35AM BLOOD Calcium-8.6 Phos-2.8 Mg-1.8
+[**3402-8-22**] 09:30AM BLOOD %HbA1c-5.9*
+[**3402-8-20**] 05:18AM BLOOD Triglyc-88 HDL-80 CHOL/HD-2.8 LDLcalc-126
+[**3402-8-20**] 05:18AM BLOOD TSH-2.3
+[**3402-8-19**] 10:02PM BLOOD Type-ART pO2-55* pCO2-50* pH-7.29*
+calHCO3-25 Base XS--2 Intubat-NOT INTUBA
+[**3402-8-19**] 10:02PM BLOOD Lactate-1.4
+
+Brief Hospital Course:
+Pt was found to have EKG with ST elevations in V3-V6 and II,
+III, aVF to a lesser degree, concerning for anterior STEMI; CK
+was 20,000, but neg CK-MB, index, trop. Pt received cath w/2
+stents placed in LAD, hemodynamics were notable for elevated
+wedge pressure indicating L heart failure so she was a/t CCU for
+closer management.
+
+Cath results:
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Acute anterior myocardial infarction, managed by acute ptca.
+3. Successful stenting of the LAD.
+COMMENTS:
+1. Coronary angiography of this left-dominant circulation
+revealed
+single vessel CAD. The LMCA was free of angiograpic disease. The
+LAD had
+an ostial 80% lesion, followed by a 70% stenosis. The LCX had no
+flow-limiting stenoses. The RCA was non-dominant and free of
+disease.
+2. Resting hemodynamics showed severely elevated right and left
+heart
+pressures and a reduced cardiac index.
+3. Successful stenting of the proximal LAD with two 2.5 mm
+Cypher
+drug-eluting stents. Final angiography showed no residual
+stenosis, no
+apparent dissection and normal flow (see PTCA comments).
+HEMODYNAMICS:RA 18 RV 51/17 PA 51/27 PCW 30 PA sat 65% CO 2.44
+CI 1.69
+
+The patient was noted to be confused on arrival to the CCU and
+it was not clear if this was new or not, though after discussion
+with family it seems to be a worsening of a baseline confusion
+that the patient has exhibited for the past 6 months or so.
+
+1. Cardio
+
+A. Coronaries--received stents as above to LAD; was started on
+ASA, Plavix, Lipitor 80mg po qd though with difficulty as pt was
+initially refusing to take all medications; she never missed a
+dose of Plavix however.
+
+B. Pump--fluid overloaded initially in CHF, diuresed with lasix
+while in the CCU, echo performed that revealed EF 20-25%; pt was
+started on metoprolol tid and captopril tid, but eventually
+switched over to atenolol 100 mg PO QD, lisinopril 5.0 po qd
+with adequate control of her BP and HR
+
+C. Rhythm--NSR with occassional ST from agitation during the
+overnight hours; not a candidate for ICD given DNR/DNI status
+and narrow QRS; was initially not started on heparin or coumadin
+because of history of falls, but then her PCP was emailed (Dr.
+[**Last Name (STitle) 8163**] and he said that he would like her started on
+anticoagulation, which she was prior to d/c with coumadin and
+briding heparin drip (no initial bolus); she will need careful
+monitoring given her mental status and history of falls
+(including the one that got her into the hospital on this admit)
+
+2. Pulm: pt presented with CHF/pulmonary edema, which responded
+well to lasix diuresis; the pt did not require more than a nasal
+canulla to keep her oxygenation adequate.  She was noted to have
+evidence of COPD on her CXR so atrovent and ipratropium nebs
+were prescribed with good effect. ?RUL infiltrate on CXR at OSH,
+pt was started on Flagyl/Levaquin for coverage of asp pna.
+
+3. ID: pt was noted to have elevated WBC count though she
+remained afebrile; she came from the OSH with possible
+aspiration pneumonia from a CXR read at the OSH that we did not
+have access to at [**Hospital1 68**]. We started a 7d course of Levquin 250mg
+po qd and Flagyl 500mg po tid for presumed asp pna; a CXR on
+[**8-24**] showed clear pulm parenchyma. WBC trended down with the
+antibiotics.
+
+5. GI: the patient was noted to have difficulty eatting solid
+foods when she arrived to the floor after being in the unit, so
+a Speech and Swallow consult was sought that recommended thin
+liquids and pureed foods. The patient had poor PO intake, denied
+hunger or thirst, but was encouraged to eat.
+
+6. GU: foley cath was removed once patient was transferred to
+the floor; UA showed trace blood but otherwise negative
+
+7. Heme: stable
+
+8. Endo: SSI qid
+
+9. Neuro: patient was unreliable historian; in speaking with her
+son and daughters, it seems that she has had some mental status
+decline over the last 6 months or so with worsening in the weeks
+prior to her admission; the patient initially would not
+cooperate enought to perform a detailed Neuro exam; she was sent
+for a head CT which revealed a right lacunar infarct that was
+old, no new CVA evidence; Geriatrics consultants felt that this
+was likely a delirium on top of a baseline dementia,
+recommending outpatient NeuroPsych testing once her delirium
+resolves. The patient had waxing and [**Doctor Last Name 492**] mental status over
+the course of her admission, with zyprexa seeming to decreased
+her overnight agitation but still with occassional paranoid
+psychosis.  Prior to d/c however the pt was improved and
+speaking reasonably about how she knew she could not live alone
+anymore but that she didn't want to live in a group home either.
+She should have Neuropsych testing as an outpatient to further
+define her deficits.
+
+10. Psych: pt with MDD; we d/c'd amytriptylline on her arrival
+given the adverse side effect profile of this med; she was
+started on Haldol initially, then Zyprexa qhs for her paranoid
+agitation but [**Female First Name (un) **] consult advised against continuing this med
+in an unmonitored setting given the risks associated with it.
+She will likely need another antidepressant,
+non-anticholinergic, to be determined by her PCP or Psychiatrist
+to treat her disorder on an outpatient basis.
+
+11. PPx: bowel regimen
+
+12. Communication: HCP is pt's son [**Name (NI) **]; his phone numbers:
+[**Telephone/Fax (2) 25268**]h, [**Telephone/Fax (2) 25269**]c, [**Telephone/Fax (2) 25270**]w; he is bringing in a
+copy of the HCP form that he has filled out with his mother
+previously; spoke with son on [**8-25**] re: probability of d/c soon
+to rehab; he is concerned re:long term plan; will discuss with
+him more in future.
+
+13. Code: code was reversed from DNR/DNI on arrival so pt could
+have cath, then changed back after cath to DNR/DNI; per son [**Name (NI) **]
+who is HCP, pt is now DNR/DNI; other sons and daughters in
+agreement
+
+14. Dispo: for short term rehab on discharge, though both PT and
+OT as well as the medical team feel that this patient should not
+be allowed to return home to live by herself; she has proven
+that she is a fall risk and should not be put at risk for
+another unwitnessed fall such as the one that led to this
+hospitalization; when thinking clearly she seems to recognize
+the need for her to live in a setting where she has more
+support, though she repetitively states that she does not want
+to live in a group home.
+
+Medications on Admission:
+amytriptyline
+
+Discharge Medications:
+1. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day). Tablet(s)
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO QD (once a day) as needed.
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+5. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+6. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO once
+a day.
+7. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 3 days: possible aspiration pneumonia; please take
+9/16,9/17,[**8-28**].
+8. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 3 days: possible aspiration pneumonia; please
+take 9/16,9/17,[**8-28**].
+9. Olanzapine 2.5 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime): for sundowning and nighttime paranoid psychosis;
+please discontinue if no longer in monitored setting (post rehab
+or later).
+10. Aspirin 325 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+13. Atenolol 100 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+14. Warfarin Sodium 5 mg Tablet Sig: One (1) Tablet PO QD (once
+a day): goal INR 2-2.5; careful titration needed given history
+of falls; check INR daily for first week.
+15. Docusate Sodium 150 mg/15 mL Liquid Sig: [**4-24**] ml PO BID (2
+times a day) as needed for constipation.
+16. Heparin Sod (Porcine) in D5W 100 unit/mL Parenteral Solution
+Sig: Six Hundred (600) units Intravenous  per hour: please
+maintain PTT between 60-100 until INR goal of 2.0-2.5 is met;
+monitor careful with daily PTT checks given pt's fall risk.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 **]& rehabilitation center
+
+Discharge Diagnosis:
+1. Old anterior myocardial infarct
+2. Congestive Heart Failure
+2. Acute fall
+3. Rhabdomyolysis
+4. Delirium
+5. Possible dementia
+6. Old right lacunar stroke
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Please take all your medications as prescribed, especially the
+Plavix which is the most important medicine for your heart.  If
+you stop taking the Plavix you will very likely have another
+heart attack and need to go back to the hospital, and you may
+not survive another heart attack.
+
+Please cooperate to the best of your ability with the
+rehabilitation specialists at the short term rehab facility.
+They will help you get back into shape so that you can get back
+on your feet again.
+
+
+Followup Instructions:
+Please go to the short term rehab facility on discharge to get
+stronger and back on your feet.
+
+You will need to see your Primary Care doctor, Dr. [**Last Name (STitle) 8163**],
+([**Telephone/Fax (1) 25271**]) on [**9-8**] at 1:30pm, to be evaulated after
+your hospitalization at [**Hospital1 58**].
+You will need Pulmonary Function Testing and Neuropsychiatric
+Testing that Dr. [**Last Name (STitle) 8163**] can set up for you.
+
+You will also need to see a Cardiologist, and either you, your
+children or one of your care providers should call ([**Telephone/Fax (1) 10193**]
+to set up an appointment at [**Hospital1 6349**].  The appointment should be made as a follow up to your
+recent cardiac catheterization performed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 387**],
+though it can be with another cardiologist.  You should try to
+make an appointment for within the next month if possible.
+
+Lastly, you have been set up with an appointment with the
+Geriatrics Clinic, Dr. [**Last Name (STitle) 25272**], for Monday [**3402-10-4**] at 2pm at
+[**Hospital1 58**]. The office is located in
+the [**Hospital Unit Name **], [**Hospital Unit Name 9714**]. The phone
+number for the office is ([**Telephone/Fax (1) 2222**]).
+
+
+
+
+
+
+DOC CLASS

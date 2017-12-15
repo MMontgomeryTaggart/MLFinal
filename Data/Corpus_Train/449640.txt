@@ -1,0 +1,233 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ FEVER - 102.2
+F - [**2565-11-15**] 11:54 PM
+   Allergies:
+   Iodine; Iodine Containing
+   Nausea/Vomiting
+   Bactrim (Intraven.) (Sulfamethoxazole/Trimethoprim)
+   Abdominal pain;
+   Beta-Adrenergic Blocking Agents
+   Hypotension; Li
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2565-11-16**] 07:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 76 (76 - 92) bpm
+   BP: 135/55(75) {135/55(75) - 165/75(97)} mmHg
+   RR: 11 (11 - 39) insp/min
+   SpO2: 93%
+   Heart rhythm: V Paced
+   Height: 68 Inch
+             Total In:
+             700 mL
+   PO:
+             TF:
+   IVF:
+   700 mL
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                    300 mL
+   Urine:
+                                                                    150 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -150 mL
+                                                                    400 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: ///30/
+   Physical Examination
+   GEN: chronically ill appearing, no acute distress, mildly confused and
+   slightly combative
+   HEENT: pupils 3mm on left, reactive to light. r cornea is clouded and
+   2mm and minimally reactive. pt would not cooperate with EOM.
+   anicteric, no epistaxis or rhinorrhea, dry MM
+   NECK: No JVD, lymphadenopathy, trachea midline
+   COR: RRR, no M/G/R, normal S1 S2
+   PULM: Lungs CTAB, no W/R/R
+   ABD: Soft, NT, ND, +BS, no HSM, no masses
+   EXT: No C/C/E, No edema or calf pain, L-Bka - wound clean/dry/intact
+   NEURO: alert, oriented to person, place, but thought it was [**2555**]. Pt
+   with right ptosis, otherwise CN intake and non-focal. Moves all 4
+   extremities. Strength 5/5 in upper and lower extremities, but limited
+   cooperation.
+   SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses.
+   Labs / Radiology
+   153 K/uL
+   11.0 g/dL
+   184 mg/dL
+   1.0 mg/dL
+   30 mEq/L
+   3.6 mEq/L
+   26 mg/dL
+   97 mEq/L
+   136 mEq/L
+   34.3 %
+   11.5 K/uL
+        [image002.jpg]
+                             [**2565-11-15**]  11:59 PM
+                             [**2565-11-16**]  05:32 AM
+   WBC
+   11.2
+   11.5
+   Hct
+   32.2
+   34.3
+   Plt
+   154
+   153
+   Cr
+   1.2
+   1.0
+   TropT
+   <0.01
+   Glucose
+   135
+   184
+   Other labs: CK / CKMB / Troponin-T:79//<0.01, ALT / AST:[**8-3**], Alk Phos
+   / T Bili:71/0.3, Differential-Neuts:82.7 %, Lymph:12.8 %, Mono:3.9 %,
+   Eos:0.5 %, Albumin:3.7 g/dL, LDH:253 IU/L, Ca++:7.8 mg/dL, Mg++:1.7
+   mg/dL, PO4:2.9 mg/dL
+   Imaging: [**11-16**] CXR pending
+   [**11-15**] CXR final read pending - increased opacity at left upper lobe near
+   hilum
+   [**11-15**] CT head final read pending
+   [**11-15**] CT abdomen/pelvis final read pending
+   Microbiology: [**11-14**], [**11-16**] - bcx pending
+   [**11-15**] ucx pending
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB)
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+   This is a 70 year-old male with a history ofIDDM, PVD s/p L BKA, h/o of
+   TIA, CAD s/p stent in [**2553**], s/p PPM for asystole, HTN, HLD, neurogenic
+   bladder with self catherization, peripheral neuropathy initially
+   presented to [**Hospital1 17**] with urospesis and c/b stroke and coffee ground
+   emesis.
+   .
+   Plan:
+   #. UGIB: Pt with multiple episodes of coffee ground emesis. Pt has had
+   nausea and episodes of vomiting intermittently prior to and during
+   admission. No h/o NSAID or prior UGIB. Pt with prior EGD [**12/2563**] that
+   was negative. Pt with coffee ground with lavage that cleared after
+   800cc. Likely [**Doctor First Name 230**]-[**Last Name (un) **] tear in the setting of multiple episodes of
+   vomiting.  Also on the differential include PUD and less likely
+   malignancy, varices or AVM.  Hct has trended down from 37 to 32, but
+   stable over the last 6 hrs.
+   - IV PPI
+   - 2 large bore IV
+   - T&X 2 Units
+   - q8 Hct checks
+   - monitor hemodynamcis
+   - NPO
+   - GI consult in AM for EGD
+   - zofran prn
+   - guaiac stools
+   - Fe studies
+   .
+   #. Stroke: Pt with acute onset of left sided neglect, left facial
+   weakness that is resolving. Evaluated by neurology and lesion likely
+   localizes to the right parietal lobe. CT-head negative. Unable to
+   obtain MRI given PPM.
+   - repeat CT head  in AM
+   - holding Plavix for now given UGIB
+   - fasting lipid profile and HgbA1C
+   - TTE to r/o any new embolic source
+   - telemetry
+   - allow BP to autoregulate SBP <180
+   - Gentle hydration with isotonic fluids
+   - Keep HOB < 30 degrees to maximize cerebral perfusion
+   - neuro checks q2
+   - f/u neuro recs
+   .
+   #. Pyleo: Pt with + UA and h/o UTI. Pt with recurrent fever and mild
+   leukocytosis. Pt previously grown acinetobaceter and pseudomonas that
+   was pansensitive. No evidence of pneumonia or intraabdominal infection
+   currently.
+   - cont IV Ceftriaxone
+   - f/u Urine culture and sensi
+   - obtain blood culture
+   - trend fever curve and leukocytosis
+   - tylenol prn
+   .
+   #. CAD: Pt with compliants of nausea/vomiting. Likely [**1-14**] to pyelo, but
+   could be anginal equivalent. Although CE neg x3. Pt with unchanged ECG
+   from admission, but ST changes when compared to prior, although
+   difficult given v-pacing.
+   - ECG in AM
+   - recheck CE in AM
+   - holding ASA and plavix given GI bleed
+   - increase simvastatin to 80mg
+   .
+   #. Diabetes/Hyperglycemia:
+   - QACHS FS and ISS
+   - 17U NPH per home regimen, but will decrease by [**12-14**] when NPO
+   - check a1c
+   .
+   #. BKA: wound clean and will continue routine care
+   .
+   #. HL: will add on fasting lipids and will increase simvastatin to
+   80mg.
+   .
+   FEN: IVF, NPO
+   .
+   # Access: 2 PIV
+   .
+   # PPx: no heparin given HIT and GI bleed. pneumoboots
+   .
+   # Code: FULL code (discussed with wife)
+   .
+   # Dispo: ICU for now pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2565-11-15**] 11:39 PM
+   18 Gauge - [**2565-11-15**] 11:50 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2565-11-15**] 11:39 PM
+   18 Gauge - [**2565-11-15**] 11:50 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

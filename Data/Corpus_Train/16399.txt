@@ -1,0 +1,141 @@
+Admission Date: [**3312-5-25**]        Discharge Date: [**3312-6-20**]
+
+Date of Birth:  [**3234-2-1**]        Sex:  M
+
+Service:
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 78-year-old
+gentleman who was transferred to [**Hospital1 470**] from [**Hospital3 7202**] with diagnosis
+of enlarged left subdural hematoma in the temporal parietal
+lobe.  The patient had fallen earlier when he tripped over a
+garden hose banging the back of his head.  He did have
+positive loss of consciousness and does not recall the event.
+He does have a history of hypertension, increased
+cholesterol, and mitral regurgitation.  There were no
+neurological changes recorded at the outside hospital.
+
+MEDICATIONS:
+1. Lipitor 10 mg p.o. q.d.
+2. Atenolol.
+3. Aspirin 81 mg q.d.
+4. Rhinocort.
+5. Advair.
+6. Albuterol.
+
+
+PAST MEDICAL HISTORY:  Remarkable for asthma.
+
+Hypertension.
+
+Increased cholesterol.
+
+Mitral regurgitation.
+
+ALLERGIES:  PENICILLIN CAUSES SWELLING.
+
+SOCIAL HISTORY:  He is a nonsmoker, drinks wine occasionally.
+
+PAST SURGICAL HISTORY:  Remarkable for hernia repair.
+
+Tonsillectomy.
+
+Nasal polyp removal.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature was 96.4
+degrees, blood pressure was 183/70, heart rate was 71,
+respiratory rate was 20, and O2 saturation was 95 percent.
+The patient was awake, alert, and oriented x3.  He was
+examined in his bed in the SICU.  His speech was fluent.
+Pupils were [**3-5**] bilaterally and brisk.  Extraocular movements
+were full.  There was no nystagmus.  Face was symmetrical.
+Tongue was midline.  Sternocleidomastoid was full
+bilaterally.  Motor exam showed full strength in the upper
+and lower extremities bilaterally.  Sensory exam was within
+normal limits to light touch in the upper and lower
+extremities.  He had no drift or rebound.  Five-finger
+movements were done well.  Deep tendon reflexes were 1 plus
+bilaterally at brachioradialis, biceps, and triceps; 2 plus
+at the knees, 1 plus at the ankles, and plantars were flexor.
+There was no clonus.
+
+CAT scan from the outside hospital did show a large left
+temporal parietal acute subdural hematoma at approximately
+1.8 cm with some slight midline shift.
+
+LABORATORY DATA:  Labs at the time of admission, white count
+was 10.4, hematocrit was 51.9, and platelets were 144.
+Sodium was 143, potassium 3.7, chloride 106, bicarbonate 25,
+BUN 22, creatinine 1.1, glucose 92.  CKs were 191, MB was 5.
+
+HOSPITAL COURSE:  He was admitted to the SICU for close
+neurological observation.  Plan was to keep his blood
+pressure less than 130 and to check his coagulation labs.  He
+was loaded with Dilantin and then followed with a 100 mg p.o.
+t.i.d.  He did receive platelets and was scheduled to have a
+repeat head CT the next morning.  Initially, while he was
+managed in the Intensive Care Unit, he continued to be
+neurologically stable and oriented.  He was also followed
+periodically with CAT scans.  He still, at times, becomes
+somewhat agitated and a little difficult to prompt in order
+to answer questions.  The CAT scans that were studied
+continued to show the subdural hematoma to be stable.  He did
+receive prophylactic subcutaneous heparin and GI prophylaxis.
+He did have some elevated blood pressures, which were managed
+with Nipride and Lopressor.  He was able to be weaned off the
+Nipride for blood pressure management and was then able to be
+transferred to the floor.  He continued to be somnolent, but
+was arousable.  He was evaluated at the bedside for
+swallowing and was not found to be in aspiration risk as long
+as he was prompted to remain attentive.  The patient was also
+found to have some swelling in his right first toe as well as
+right knee swelling and was seen by Rheumatology.  He was
+started on colchicine and the fluid was aspirated and sent
+for cultures.  The cultures never grew out bacteria.  He
+continued to be monitored on colchicine and his symptoms did
+improve.  On [**3312-6-3**], it was noted that the patient did have
+some weakness in his right upper extremity.  Repeat CAT scans
+remained stable.  In the morning, on [**3312-6-7**], he did have
+some increased lethargy and right-sided weakness.  He was
+started on mannitol and got a stat repeat head CT and it was
+felt that he would be prepped to go to the OR for evacuation
+of the subdural hematoma.  His INR was elevated and he
+received FFP in order to reverse that, and did develop
+respiratory failure with a chest x-ray showing white out of
+the left lung field.  This did require intubation.  He was
+also followed by cardiac enzymes, which did prove to be
+elevated and he initially ruled in for myocardial infarction.  He
+was
+transferred for this to the Cardiac Unit.  On [**3312-6-10**], the
+patient had a bedside placement of a subdural drain.  Dark
+fluid did begin to drain, and it was sutured in place, and he
+tolerated this procedure well.  This continued to be
+monitored for drainage.  The patient did have some increased
+movement with his right side.  He was started on chest
+physical therapy and was able to be extubated.  The subdural
+drain was slowly moved back 2 or 3 cm over
+several days and this was followed with CT scans.  His mental
+status did continue to improve.  The drain was removed on
+[**3312-6-15**].  He was able to be transferred to the floor on
+[**3312-6-16**].  His diet was increased.  He was seen by Physical
+Therapy and Occupational Therapy and he did continue to
+slowly improve.  His diet was advanced.  His incision
+continued to be clean and dry, and his staples were removed
+on [**3312-6-20**].  He is being screened by several rehabs and will
+be transferred once that is available.
+He should FU with Dr [**Last Name (STitle) 23290**] in 1 month with repeat Head
+CT.
+
+
+
+                        [**Name6 (MD) **] [**Name8 (MD) **], MD [**MD Number(2) 18867**]
+
+Dictated By:[**Last Name (NamePattern1) 23291**]
+MEDQUIST36
+D:  [**3312-6-20**] 11:51:41
+T:  [**3312-6-20**] 14:21:04
+Job#:  [**Job Number 23292**]
+
+
+
+DOC CLASS

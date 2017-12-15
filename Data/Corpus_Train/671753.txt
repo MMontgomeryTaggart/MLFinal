@@ -1,0 +1,171 @@
+CVICU
+   HPI:
+   HD16   POD 13-MVr(#32mm CG ring)/Asc.Ao.Replacemnt(#28 gelweave)
+   Ejection Fraction:60%
+   Hemoglobin A1c:5.7
+   Pre-Op Weight:169.31 lbs   76.8 kgs
+   Baseline Creatinine:0.9
+   Foley:Day16
+   PMH: none
+   PSH: appy, R cholesteatoma
+   [**Last Name (un) **]: lipitor
+   Current medications:
+   Acetaminophen, Albuterol 0.083% Neb Soln, Aspirin, Atorvastatin,
+   CloniDINE, Heparin, HydrALAzine, Lansoprazole Oral Disintegrating Tab,
+   Lisinopril, Metoprolol Tartrate, Potassium Chloride, Quetiapine
+   Fumarate
+   24 Hour Events:
+   Remains in ICU for neurological and blood pressure monitoring
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2873-12-17**] 09:25 AM
+   Heparin Sodium - [**2873-12-17**] 09:25 AM
+   Other medications:
+   Flowsheet Data as of  [**2873-12-17**] 12:18 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**76**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.9
+C (98.4
+   HR: 102 (81 - 102) bpm
+   BP: 123/74(86) {96/42(38) - 141/76(92)} mmHg
+   RR: 18 (11 - 21) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75.8 kg (admission): 76.8 kg
+   Height: 73 Inch
+                  Total In:
+                                                                    660 mL
+                                                                    240 mL
+   PO:
+                                                                    660 mL
+                                                                    240 mL
+   Tube feeding:
+   IV Fluid:
+   Blood products:
+   Total out:
+                                                                  1,190 mL
+                                                                      0 mL
+   Urine:
+                                                                  1,190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -530 mL
+                                                                    240 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 95%
+   ABG: ///24/
+   Physical Examination
+   Labs / Radiology
+   505 K/uL
+   10.9 g/dL
+   107 mg/dL
+   0.8 mg/dL
+   24 mEq/L
+   4.5 mEq/L
+   18 mg/dL
+   108 mEq/L
+   141 mEq/L
+   32.3 %
+   12.5 K/uL
+        [image002.jpg]
+                             [**2873-12-11**]  01:59 AM
+                             [**2873-12-11**]  09:47 AM
+                             [**2873-12-12**]  03:21 AM
+                             [**2873-12-12**]  01:31 PM
+                             [**2873-12-13**]  02:54 AM
+                             [**2873-12-13**]  04:45 AM
+                             [**2873-12-13**]  12:33 PM
+                            [**2873-12-14**]  06:00 AM
+                            [**2873-12-15**]  05:20 AM
+                            [**2873-12-17**]  05:30 AM
+   WBC
+   11.2
+   12.6
+   13.1
+   13.1
+   13.9
+   12.7
+   12.5
+   Hct
+   35.1
+   38.4
+   35.6
+   35.6
+   36.0
+   33.6
+   32.3
+   Plt
+   [**Telephone/Fax (2) 10266**]
+   505
+   Creatinine
+   0.8
+   0.8
+   0.7
+   0.8
+   0.7
+   0.7
+   0.8
+   Glucose
+   99
+   175
+   102
+   107
+   111
+   110
+   107
+   Other labs: PT / PTT / INR:13.3/27.2/1.1, CK / CK-MB / Troponin
+   T:71//<0.01, ALT / AST:21/31, Alk-Phos / T bili:147/0.5, Amylase /
+   Lipase:55/42, Differential-Neuts:84.2 %, Lymph:10.5 %, Mono:3.7 %,
+   Eos:1.4 %, Fibrinogen:498 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:3.0
+   g/dL, LDH:317 IU/L, Ca:8.7 mg/dL, Mg:2.1 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AROUSAL, ATTENTION, AND
+   COGNITION, IMPAIRED, BALANCE, IMPAIRED, MOTOR FUNCTION, IMPAIRED,
+   RESPIRATION / GAS EXCHANGE, IMPAIRED, TRANSFERS, IMPAIRED, KNOWLEDGE,
+   IMPAIRED, GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB), ALTERED MENTAL
+   STATUS (NOT DELIRIUM), VALVE REPLACEMENT, MITRAL MECHANICAL (MVR),
+   AORTIC DISSECTION, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), MITRAL
+   REGURGITATION (MITRAL INSUFFICIENCY)
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2873-12-16**] 06:30 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

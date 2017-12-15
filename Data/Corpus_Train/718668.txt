@@ -1,0 +1,219 @@
+CVICU
+   HPI:
+   HD2   POD 1-AVR (25mm Ultra tissue)
+   Ejection Fraction:60
+   Hemoglobin A1c:5.3
+   Pre-Op Weight:153.88 lbs   69.8 kgs
+   Baseline Creatinine:0.9
+   PMH: Prostate CA s/p brachytherapy 2 yrs ago, HTN, Hypertrophic
+   Cardiomyopathy, s/p tonsillectomy
+   [**Last Name (un) **]: Atenolol 50', Simvastatin 10', Terazosin 5', Aspirin 81
+   Events:
+   [**3388-3-19**] received from OR, weaned and extubated
+   Assessment:66 year old male s/p AVR (25mm Ultra tissue) [**3-19**]
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 4. Aspirin EC 5. Calcium Gluconate 6. CefazoLIN 7.
+   Dextrose 50%
+   8. Docusate Sodium 9. Furosemide 10. Insulin 11. Ketorolac 12.
+   Magnesium Sulfate 13. Metoclopramide
+   14. Metoprolol Tartrate 15. Milk of Magnesia 16. Morphine Sulfate 17.
+   Oxycodone-Acetaminophen 18. Pneumococcal Vac Polyvalent
+   19. Potassium Chloride 20. Ranitidine 21. Simvastatin 22. Sodium
+   Chloride 0.9% Flush 23. Terazosin
+   24 Hour Events:
+ Extubated postoperatively. No events overnight
+   OR RECEIVED - At [**3388-3-19**] 01:12 PM
+ ARTERIAL LINE - START [**3388-3-19**] 01:12 PM
+ MULTI LUMEN - START [**3388-3-19**] 01:12 PM
+ INVASIVE VENTILATION - START [**3388-3-19**] 01:13 PM
+ NASAL SWAB - At [**3388-3-19**] 01:30 PM
+ EKG - At [**3388-3-19**] 02:29 PM
+ EXTUBATION - At [**3388-3-19**] 04:10 PM
+ INVASIVE VENTILATION - STOP [**3388-3-19**] 04:10 PM
+   Post operative day:
+   POD#1 s/p AVR (25mm Ultra tissue) [**3-19**]
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3388-3-19**] 11:18 PM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3388-3-19**] 08:19 PM
+   Morphine Sulfate - [**3388-3-20**] 04:43 AM
+   Other medications:
+   Flowsheet Data as of  [**3388-3-20**] 07:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**89**] a.m.
+   Tmax: 38.1
+C (100.6
+   T current: 38.1
+C (100.5
+   HR: 90 (58 - 90) bpm
+   BP: 117/55(72) {93/49(63) - 122/77(94)} mmHg
+   RR: 16 (7 - 19) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74 kg (admission): 69.8 kg
+   Height: 70 Inch
+   CVP: 7 (6 - 14) mmHg
+   Total In:
+                                                                  8,190 mL
+                                                                  1,434 mL
+   PO:
+                                                                    370 mL
+                                                                    320 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  6,920 mL
+                                                                  1,114 mL
+   Blood products:
+                                                                    900 mL
+   Total out:
+                                                                  1,520 mL
+                                                                    575 mL
+   Urine:
+                                                                    980 mL
+                                                                    335 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,670 mL
+                                                                    859 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 6,000 (6,000 - 6,000) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 18 cmH2O
+   Plateau: 12 cmH2O
+   SPO2: 100%
+   ABG: 7.36/40/158/23/-2
+   Ve: 550 L/min
+   PaO2 / FiO2: 395
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   (L)base), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   179 K/uL
+   10.1 g/dL
+   111 mg/dL
+   0.8 mg/dL
+   23 mEq/L
+   4.3 mEq/L
+   17 mg/dL
+   111 mEq/L
+   140 mEq/L
+   29.8 %
+   9.7 K/uL
+        [image002.jpg]
+                             [**3388-3-19**]  11:43 AM
+                             [**3388-3-19**]  12:20 PM
+                             [**3388-3-19**]  12:22 PM
+                             [**3388-3-19**]  01:29 PM
+                             [**3388-3-19**]  01:39 PM
+                             [**3388-3-19**]  03:01 PM
+                             [**3388-3-19**]  03:56 PM
+                             [**3388-3-19**]  06:09 PM
+                             [**3388-3-19**]  08:01 PM
+                             [**3388-3-20**]  02:04 AM
+   WBC
+   6.6
+   8.1
+   9.7
+   Hct
+   27
+   26.5
+   29
+   30.5
+   31.5
+   29.8
+   Plt
+   154
+   174
+   179
+   Creatinine
+   0.7
+   0.8
+   TCO2
+   28
+   29
+   25
+   25
+   24
+   Glucose
+   145
+   149
+   130
+   89
+   93
+   96
+   111
+   Other labs: PT / PTT / INR:13.4/33.6/1.1, Differential-Neuts:86.3 %,
+   Lymph:9.6 %, Mono:2.9 %, Eos:1.0 %, Lactic Acid:0.8 mmol/L, Ca:8.0
+   mg/dL, Mg:1.7 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), PAIN CONTROL (ACUTE
+   PAIN, CHRONIC PAIN)
+   Assessment and Plan: POD#1 s/p AVR (25mm Ultra tissue) [**3-19**]  No events
+   overnight
+   Neurologic: Neuro checks Q: 4 hr, PCT/Torodol prn pain. OOB, PT eval
+   Cardiovascular: Aspirin, Beta-blocker, Statins, HD stable. Start
+   B-Blocker/Statin/ASA today. NSR.
+   Pulmonary: IS, Encouarge DB&C,IS,OOB
+   Gastrointestinal / Abdomen: bowel regimen, prophylaxis
+   Nutrition: Regular diet, ADAT
+   Renal: Foley, Adequate UO, Stable BUN/Cr= 17/0.8, start gentle diuresis
+   Hematology: Stable HCT=29.8, PLTs=179
+   Endocrine: RISS, Lantus (R)
+   Infectious Disease: No issues. Periop ABX
+   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today, Plan for post pull CTs
+   Fluids:
+   Consults: CT surgery, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines:
+   Arterial Line - [**3388-3-19**] 01:12 PM
+   Multi Lumen - [**3388-3-19**] 01:12 PM
+   16 Gauge - [**3388-3-19**] 01:12 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   ------ Protected Section ------
+   Doing well on post op day # 1.  Extubated and neurologically intact.
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].  Transfer to floor.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**3388-3-20**] 09:58 ------
+
+
+
+DOC CLASS

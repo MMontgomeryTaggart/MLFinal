@@ -1,0 +1,304 @@
+Admission Date:  [**2901-3-8**]              Discharge Date:   [**2901-3-20**]
+
+Date of Birth:  [**2843-10-23**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Erythromycin Base
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+Dyspnea on exertion;increasing fatigue
+
+Major Surgical or Invasive Procedure:
+[**2901-3-11**]
+1. Mitral valve replacement with a 27-mm On-X mechanical
+    mitral valve prosthesis, serial number [**Serial Number 5526**].
+2. Full left and right-sided Maze procedure using [**Company 511**]
+    Gemini X bipolar system as well as the monopolar pen.
+
+
+History of Present Illness:
+57 year old female with past medical history of hyperlipidemia,
+atrial fibrillation/flutter s/p multiple failed interventions
+and drug therapies, nonischemic cardiomyopathy, and known mitral
+valve stenosis/regurgitation who
+ia admitted today pre-op for Maze and possible mitral valve
+repair or replacement.
+
+
+Past Medical History:
+Rheumatic fever
+Hyperlipidemia
+Nonischemic cardiomyopathy
+Atrial flutter s/p failed ablations and failed several
+antiarrhythmic agents including Flecainide, amio, and Multaq
+DCCV ( reverted to A Fib in 10 min.)
+Pericardial effusion after ablations s/p pericardiocentesis
+Mitral Stenosis/Mitral Regurgitation
+Hypothyroidism
+Depression
+Past Surgical History:
+Tonsillectomy
+Lap. chole
+Total abdominal hysterectomy
+
+
+Social History:
+Lives with: Husband
+Occupation: -
+[**Name2 (NI) 568**]: none
+ETOH: Prior alcoholic, sober since [**10-11**]
+
+
+Family History:
+Father with MI in 40's, died of CHF at 79
+
+
+Physical Exam:
+Pulse:74 Resp:16  O2 sat: 98% RA
+B/P  Right: 108/69   Left: 103/52
+Height:  5'1"  Weight:124 #
+
+General: WDWN female in NAD
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [X]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [] Irregular [x] Murmur-slight systolic and diastolic
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema-none
+Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) **]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit     Right:  none  Left:none
+
+
+Pertinent Results:
+[**2901-3-16**] 02:55AM BLOOD WBC-13.2* RBC-2.82* Hgb-8.6* Hct-25.2*
+MCV-89 MCH-30.4 MCHC-34.0 RDW-13.8 Plt Ct-200#
+[**2901-3-15**] 04:37AM BLOOD WBC-14.4* RBC-2.91* Hgb-8.9* Hct-26.0*
+MCV-89 MCH-30.6 MCHC-34.3 RDW-13.7 Plt Ct-133*#
+[**2901-3-16**] 07:42AM BLOOD PT-65.4* PTT-82.0* INR(PT)-7.5*
+[**2901-3-16**] 02:55AM BLOOD PT-54.7* PTT-64.2* INR(PT)-6.1*
+[**2901-3-15**] 04:37AM BLOOD PT-21.8* PTT-28.7 INR(PT)-2.0*
+[**2901-3-16**] 02:55AM BLOOD Glucose-96 UreaN-16 Creat-0.8 Na-141
+K-3.9 Cl-103 HCO3-30 AnGap-12
+
+intra-op echo
+Pre-bypass:
+The left atrium is markedly dilated. Mild spontaneous echo
+contrast is seen in the body of the left atrium. Mild
+spontaneous echo contrast is present in the left atrial
+appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). No thrombus is seen in the left atrial
+appendage. No atrial septal defect is seen by 2D or color
+Doppler. Overall left ventricular systolic function is low
+normal (LVEF 50-55%). Right ventricular chamber size and free
+wall motion are normal. The ascending, transverse and descending
+thoracic aorta are normal in diameter and free of
+atherosclerotic plaque. The aortic valve leaflets (3) appear
+structurally normal with good leaflet excursion and no aortic
+regurgitation. The mitral valve shows characteristic rheumatic
+deformity. There is severe valvular mitral stenosis (area =
+1.0cm2). Mild (1+) mitral regurgitation is seen. There is a very
+small pericardial effusion.
+
+Post-bypass:
+The patient is receiving no inotropic support post-CPB. There is
+a well-seated mechanical bileaflet prosthesis in the mitral
+position with good leaflet excursion. There is no paravalvular
+regurgitation. There are small transvalvular regurgitation jets
+consistent with "washing jets." The mean transvalvular pressure
+gradient is 4 mm Hg with a cardiac output of 2.5 L/min.
+Biventricular systolic function is preserved and all other
+findings are consistent with pre-bypass findings. The aorta is
+intact post-decannulation. All findings were communicated to the
+surgeon intraoperatively.
+
+[**2901-3-20**] 05:28AM BLOOD WBC-13.0* RBC-2.75* Hgb-8.3* Hct-24.6*
+MCV-90 MCH-30.1 MCHC-33.6 RDW-13.9 Plt Ct-405
+[**2901-3-20**] 05:28AM BLOOD Glucose-93 UreaN-15 Creat-0.8 Na-139
+K-4.3 Cl-103 HCO3-26 AnGap-14
+[**2901-3-19**] 04:41AM BLOOD WBC-10.0 RBC-2.57* Hgb-7.8* Hct-23.1*
+MCV-90 MCH-30.5 MCHC-33.8 RDW-13.9 Plt Ct-336
+[**2901-3-19**] 04:41AM BLOOD Glucose-93 UreaN-18 Creat-0.9 Na-139
+K-4.2 Cl-100 HCO3-29 AnGap-14
+[**2901-3-20**] 05:28AM BLOOD PT-30.0* PTT-29.3 INR(PT)-3.0*
+[**2901-3-19**] 04:41AM BLOOD PT-32.5* INR(PT)-3.3*
+[**2901-3-18**] 02:44AM BLOOD PT-26.9* PTT-36.2* INR(PT)-2.6*
+[**2901-3-17**] 06:14PM BLOOD PT-23.4* PTT-30.2 INR(PT)-2.2*
+[**2901-3-17**] 07:56AM BLOOD PT-23.8* PTT-26.7 INR(PT)-2.3*
+[**2901-3-16**] 04:05PM BLOOD PT-35.6* PTT-30.1 INR(PT)-3.7*
+[**2901-3-16**] 07:42AM BLOOD PT-65.4* PTT-82.0* INR(PT)-7.5*
+[**2901-3-16**] 02:55AM BLOOD PT-54.7* PTT-64.2* INR(PT)-6.1*
+[**2901-3-15**] 04:37AM BLOOD PT-21.8* PTT-28.7 INR(PT)-2.0*
+[**2901-3-14**] 03:52AM BLOOD PT-15.9* PTT-26.6 INR(PT)-1.4*
+[**2901-3-13**] 01:30AM BLOOD PT-12.9 PTT-23.8 INR(PT)-1.1
+[**2901-3-12**] 03:58AM BLOOD PT-13.7* PTT-25.6 INR(PT)-1.2*
+[**2901-3-11**] 06:20PM BLOOD PT-15.2* PTT-41.2* INR(PT)-1.3*
+
+Brief Hospital Course:
+The patient was admitted on [**2901-3-8**] for IV heparin, pre-op
+testing and a CT scan of the chest.  Underwent surgery with Dr.
+[**Last Name (STitle) **] on [**2901-3-11**]. Transferred to the CVICU in stable condition
+on titrated phenylephrine and propofol drips. Extubated in the
+early AM of POD #1. Transferred to the postop floor on POD #3 to
+begin increasing her activity level. Chest tubes and pacing
+wires removed per protocol. Gently diuresed toward her preop
+weight.
+
+The EP service was consulted for rhythm issues postoperatively.
+She was found to be in an atrial tachycardia with variable block
+- rate 90's-150's.  Beta blockers were titrated up for better
+rate control.  After extensive discussions with Dr [**Last Name (STitle) **] and
+Dr [**Last Name (STitle) 763**] and it was determined she would be continuing the
+Multaq and cutting her digoxin dose in half and having a
+cardioversion in the next month as outpatient in [**Location (un) 5527**] with
+primary cardiologist, Dr. [**Last Name (STitle) 5528**].  Due to scheduling issues, it
+was determined she would contact Dr. [**Last Name (STitle) 5528**] to be set up with a
+Holter monitor as an outpatient, as well.
+
+Due to a white blood cell count in the 13-15 range, a urine
+culture with >100,000 organisms/milliliter of Staphylococcus
+(coagulate negative) and a newly placed mechanical valve, it was
+determined that she would receive IV Vancomycin until urinary
+tract infection could  be ruled out.  Follow up urine culture
+was mixed bacterial flora and Vancomycin was stopped after a 3
+day course.  She subsequently underwent a straight catherization
+for a noncontaiminated urine culture and urinalysis.  Culture
+was pending at the time of this summary but urinalysis revealed
+moderate bacteria.  Bactrim was started and to continue until
+final urine culture is known.
+
+Ms [**Known patient lastname 5529**] did have a supratherapuetic INR which was treated
+with Vitamin K.  Her INR was therapeutic at the time of
+discharge (3.0) and she was instructed to resume her home dose
+of 2.5 mg of Coumadin with a INR goal of 2.5-3.5 for a
+mechanical valve and atrial fibrillation.
+
+She was cleared for discharge to home with VNA on POD #9. At the
+time of discharge, she was tolerating a full oral diet (appetite
+marginal) her incisions were healing well and she was ambulating
+without difficulty.  She was started on iron before discharge
+for a hematocrit in the 25 range (stable.) First blood draw for
+INR on Monday [**3-21**] with results to be called to Dr. [**Last Name (STitle) 5530**] as
+per discharge instructions. Target INR 2.5-3.5 for mechanical
+valve.
+
+Medications on Admission:
+Levoxyl 137mcg po daily
+Coumadin 2.5mg daily- last dose [**2901-3-5**]
+Simvastatin 80mg po daily
+Metoprolol 50mg po BID
+Multaq 400mg po BID
+Digoxin 0.25mg po daily (recently increased)
+Vit E supplements
+
+
+Discharge Medications:
+1. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+Disp:*60 Capsule(s)* Refills:*0*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*1*
+4. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+5. Levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*1*
+6. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*1*
+7. Dronedarone 400 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*1*
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/temp.
+9. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day) as needed for constipation.
+Disp:*60 Tablet(s)* Refills:*0*
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO twice a
+day.
+Disp:*90 Tablet(s)* Refills:*0*
+12. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily) for 2 months: Take at separate time from
+Synthroid.
+Disp:*60 Tablet(s)* Refills:*0*
+13. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day:
+Take as directed for INR goal 2.5-3.5 for mechanical valve.
+Disp:*60 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1619**] VNA, [**Hospital1 1620**]
+
+Discharge Diagnosis:
+mitral regurgitation
+atrial fibrillation
+PMH:
+hyperlipidemia
+atrial fibrillation/atrial flutter
+non-ischemic cardiomyopathy
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with percocet prn
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+
+Followup Instructions:
+Please call to schedule appointments
+Primary Care Dr. [**Last Name (STitle) **],[**First Name3 (LF) **] [**Telephone/Fax (1) 5531**] in [**12-4**] weeks
+Cardiologist Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5532**] in [**12-4**] weeks
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 294**]
+Date/Time:[**2901-4-12**] 2:15
+*** FIRST BLOOD DRAW  Monday [**3-21**] for INR and CBC; target INR
+2.5-3.5 for mechanical mitral valve; results to be called to Dr. [**Name (NI) 5533**] office at [**Telephone/Fax (1) 5531**]
+**PLEASE CHECK INR/CBC ON [**3-23**] (WED) AND CALL RESULTS TO DR. [**Last Name (STitle) **] OFFICE**
+
+**NEEDS FOLLOW UP ON URINE CX SENT [**3-20**]**
+
+Patient instructed to call Dr. [**Last Name (STitle) 5528**] at Pioneer Valley
+Cardiology to set up Holter Monitor as outpatient (has been
+followed by Dr [**Last Name (STitle) 5528**] in past with previous Holter monitors set
+up)
+
+
+
+Completed by:[**2901-3-20**]
+
+
+DOC CLASS

@@ -1,0 +1,261 @@
+Chief Complaint: Hypercarbic resp failure, GIB
+   24 Hour Events:
+ PICC LINE - START [**2840-1-18**] 09:20 AM
+ MULTI LUMEN - STOP [**2840-1-18**] 11:28 AM
+   Events:
+   - vent changed from AC to PS (15 cm H20)
+   - had atrial flutter in PM, hemodynamically stable
+   Lines:
+   - PICC placed, pulled back 4 cm, 2nd CXR confirmed correct placement.
+   - pulled femoral line
+   - PM lytes (Na still hypernatremic at 146, Cre improved to 1.4)
+   - guiac stools
+   Labs:
+   - TTE showed elevated E/E', PCWP>18, ?diastolic dysfunction
+   Meds:
+   - started steroid taper (prednisone 60 daily)
+   - abx duration: Vanc/[**Last Name (un) **] x8 days (end date [**1-22**])
+   - HTN start carvedilol 3.125 [**Hospital1 **] => BPs better with SBPs in 130s
+   - diuresis, lasix IV goal -500 L, +0.6 L, but held lasix b/c mostly
+   free water boluses, and patient is hypernatremic and volume contracted.
+   Consults:
+   - cards consult in AM if still tachy/volume status not improving
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2840-1-17**] 09:00 AM
+   Meropenem - [**2840-1-19**] 12:00 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl - 30 mcg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2840-1-18**] 10:05 AM
+   Lansoprazole (Prevacid) - [**2840-1-18**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2840-1-19**] 07:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.6
+C (97.8
+   HR: 79 (77 - 106) bpm
+   BP: 149/62(92) {102/53(77) - 170/116(268)} mmHg
+   RR: 19 (13 - 69) insp/min
+   SpO2: 98%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Height: 60 Inch
+             Total In:
+                                                                  2,609 mL
+                                                                  1,034 mL
+   PO:
+             TF:
+                                                                    789 mL
+                                                                    305 mL
+   IVF:
+                                                                    481 mL
+                                                                    229 mL
+   Blood products:
+   Total out:
+                                                                  1,545 mL
+                                                                    480 mL
+   Urine:
+                                                                  1,545 mL
+                                                                    360 mL
+   NG:
+   Stool:
+   120 mL
+   Drains:
+   Balance:
+                                                                  1,064 mL
+                                                                    554 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 263 (263 - 451) mL
+   PS : 15 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 30 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 40 cmH2O/mL
+   SpO2: 98%
+   ABG: 7.38/60/77.[**Numeric Identifier 88**]/32/7
+   Ve: 4.7 L/min
+   PaO2 / FiO2: 195
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: pupils constricted
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic), irreg
+   irreg
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   No(t) Crackles : , No(t) Wheezes : , No(t) Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis
+   Skin:  Warm, Rash: new plaque-like rash on feet bilaterally, Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   106 K/uL
+   8.4 g/dL
+   199 mg/dL
+   1.3 mg/dL
+   32 mEq/L
+   4.4 mEq/L
+   71 mg/dL
+   107 mEq/L
+   144 mEq/L
+   24.6 %
+   8.8 K/uL
+        [image002.jpg]
+                            [**2840-1-17**]  07:25 AM
+                            [**2840-1-17**]  11:16 AM
+                            [**2840-1-17**]  01:05 PM
+                            [**2840-1-17**]  02:46 PM
+                            [**2840-1-17**]  08:28 PM
+                            [**2840-1-18**]  04:25 AM
+                            [**2840-1-18**]  04:32 AM
+                            [**2840-1-18**]  04:27 PM
+                            [**2840-1-18**]  05:16 PM
+                            [**2840-1-19**]  05:38 AM
+   WBC
+   7.7
+   8.8
+   Hct
+   25.6
+   26.7
+   24.6
+   Plt
+   113
+   106
+   Cr
+   1.4
+   1.5
+   1.4
+   1.3
+   TropT
+   0.20
+   0.17
+   0.20
+   TCO2
+   36
+   37
+   36
+   35
+   37
+   Glucose
+   126
+   163
+   183
+   199
+   Other labs: PT / PTT / INR:13.0/29.9/1.1, CK / CKMB /
+   Troponin-T:36/2/0.20, ALT / AST:[**8-24**], Alk Phos / T Bili:43/0.3,
+   Differential-Neuts:90.5 %, Band:0.0 %, Lymph:4.7 %, Mono:4.5 %, Eos:0.2
+   %, Lactic Acid:0.9 mmol/L, Albumin:3.5 g/dL, LDH:284 IU/L, Ca++:8.5
+   mg/dL, Mg++:2.0 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ ATRIAL FIBRILLATION (AFIB)
+ IMPAIRED SKIN INTEGRITY
+   Impression: 82 year old female with a history of coronary artery
+   disease s/p CABG, aortic valve replacement, atrial fibrillation and
+   COPD on home oxygen who presented to OSH on [**2840-1-9**] with hypotension,
+   bradycardia and hypercarbic respiratory failure transferred here [**1-14**]
+   for management of gastrointestinal bleeding.
+   Hypercarbic Respiratory Failure:  At OSH was extubated [**2840-1-10**], but
+   re-intubated [**1-15**] at [**Hospital1 52**] for hypercarbic respiratory failure. Then
+   extubated [**1-16**], put on intermittent bipap o/n and reintubated [**2-26**] AMS
+   and hypercarbic resp failure [**1-17**]. ABG this am 7.38/57/82. CE flat and
+   EKG stable yesterday. TTE with no focal wall motion abnormalities
+   -Change steroids to Pred 60 daily today
+   - Vanco/[**Last Name (un) **] day 4 (of 8) for empiric coverate of nosomial pna
+   - sputum cx
+   - continue advair, ipratropium, home xopenex
+   - completed 5 day course of azithromycin
+   -? If HTN and incr HR lead to failure of extubation last time
+   Acute Renal Failure: Baseline creatinine 1.0.  Currently 1.5  down from
+   1.7 yesterday. (was 2.6 on presentation to [**Location (un) **] on [**2840-1-9**]).
+   Thought to be [**2-26**] ATN. Currently making good urine ouput.
+   - will continue to monitor. Will be very cautious with diuresis
+   - renally dose medications
+   Gastrointestinal Bleeding:  Patient had been having dark guaiac
+   positive stools since admission to [**Location (un) **].  No EGD at OSH. Her
+   hematocrit on admission was 19.4 and per reports she received 2 units
+   of packed red blood cells. [**1-15**] received 2 U PRBC.-  has not received
+   any since then. Her hematocrit dropped slightly o/n from 28.7 to 25.6
+   without any bloody BM
+s. Currently HD stable.
+   - active type and screen
+   - PICC access currently
+   - transfusion goal > 25
+   - PO PPI daily
+   - f/u GI recs
+   Thrombocytopenia:  Unclear etiology.  Thought at outside hospital to be
+   secondary to Zosyn.  Platelet count increasing from nadir of 56. Now
+   113.  PF4 antibodies negative this admission.
+   - holding heparin products
+   - monitor platelet count
+   - transfuse for platelets < 50 while actively bleeding
+   Atrial Fibrillation:  In rapid ventricular response on admission, which
+   improved with IV metoprolol.  Off digoxin and tikosyn since admission
+   to outside hospital.
+   -holding   diltiazem for now
+   - currently not anticoagulated secondary to gastrointestinal bleeding
+   - holding tykosin and digoxin
+   Coronary Artery Disease: s/p CABG (LIMA to LAD and SVG to RCA). EKG
+   without ischemic changes and CE flat yesterday.
+   - continue simvastatin
+   - switched metoprolol to coreg today after bradycardia and hypotension
+   yesterday.
+   Aortic Valve Replacement (bioprosthetic): Not anticoagulated.
+   Performed in [**2833**]. TTE here with EF 50%, severe pulm regurg and mild
+   pulm HTN
+   Hypertension:
+   - started Coreg today
+   Hyperlipidemia:
+   - simvastatin
+   Diastolic Congestive Heart Failure:  Volume overload on CXR with left
+   sided effusion s/p thoracentesis with transudate on admission. Now R
+   sided effusion and LLL c/w atelectasis
+   - goal I/O
+ 500 today
+   - control blood pressures as tolerated
+   Back Wound:  Patient with stage II ulcer on back from burn injury at
+   [**Location (un) **].
+   - Silvadene 1% cream to coccyx [**Hospital1 **]
+   - wound care consulted
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2840-1-19**] 02:43 AM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2840-1-15**] 02:00 PM
+   PICC Line - [**2840-1-18**] 09:20 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

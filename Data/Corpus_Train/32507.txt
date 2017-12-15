@@ -1,0 +1,206 @@
+Admission Date:  [**2499-2-25**]              Discharge Date:   [**2499-3-1**]
+
+Date of Birth:  [**2443-12-11**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Exertional angina
+
+Major Surgical or Invasive Procedure:
+[**2499-2-25**] Coronary bypass grafting x4:  Left internal mammary
+artery to left anterior descending coronary; reverse saphenous
+vein single graft from aorta to first diagonal coronary artery;
+reverse saphenous vein single graft from aorta to the ramus
+intermedius coronary artery; reverse saphenous vein single graft
+from aorta to posterior descending coronary artery
+
+History of Present Illness:
+This is a 54 yo Spanish-speaking male diagnosed with 3VD in
+[**2498-3-17**] after abnormal stress test led to cardiac
+catheterization. Since that time, he has been managed medically.
+But despite medical therapy, he has continued to experience
+exertional chest pain and dyspnea. He denies chest pain at rest.
+He denies orthopnea, PND, pedal edema, syncope, presyncope, and
+palpitations. He was referred by Dr. [**Last Name (STitle) 2552**] for surgical
+revascularization.
+
+Past Medical History:
+Coronary artery disease
+Hypertension
+Dyslipidemia
+History of positive PPD 5-6 years ago - s/p ABX for one year
+Colon polyps
+s/p cholecystectomy
+s/p polypectomy
+
+Social History:
+Race: Guatamalan, has lived in US for last 25 years
+Lives with: Uncle
+Occupation: [**Name2 (NI) 24055**]
+Tobacco: remote, Quit 25 yrs ago
+ETOH: Social, no history of abuse
+
+Family History:
+Denies premature coronary artery disease
+
+Physical Exam:
+HR:51 Resp:18 O2%:100/RA
+BP LEft:236/94 Right:238/83
+Height:145cm  Weight:130 lbs
+
+General: WDWN male in no acute distress
+Skin: Warm[x] Dry [x] intact [x]
+HEENT: NCAT[x] PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x] no JVD
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur - none
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds
++
+[x]
+Extremities: Warm [x], well-perfused [x]
+Edema: None
+Varicosities: None
+Neuro: Grossly intact
+
+Pulses:
+Femoral      Right: dressing in place  Left: 2
+DP           Right: 1  Left: 1
+PT           [**Name (NI) 647**]: 1  Left: 1
+Radial       Right: 2  Left: 2
+
+Carotid Bruit        Right: none   Left: none
+
+Pertinent Results:
+[**2499-2-25**] Echo: PRE-CPB: The left atrium is mildly dilated. No
+thrombus is seen in the left atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. Left ventricular wall
+thicknesses and cavity size are normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. No thoracic aortic
+dissection is seen. Mild intimal thickening is seen in
+descending aorta. Mild focal calcifications is seen in the
+aortic root. The aortic valve leaflets (3) appear structurally
+normal with good leaflet excursion and no aortic stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+structurally normal. There is no mitral valve prolapse. Mild
+(1+) central mitral regurgitation is seen.  POST-CPB: LV
+systolic function remains normal. There is no new wall motion
+abnormality. MR remains mild. There is no evidence of
+dissection.
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was a same day admit after undergoing pre-operative
+work-up prior to admission. On [**2-25**] he was brought directly to
+the operating room where he underwent a coronary artery bypass
+graft x 4. Please see operative report for surgical details.
+Following surgery he was transferred to the CVICU for invasive
+monitoring in stable condition. Later that day he was weaned
+from sedation, awoke neurologically intact and extubated.
+Beta-blockers and diuretics were started and he was gently
+diuresed towards his pre-op weight. Amiodarone was given due to
+atrial ectopy with good effect. On post-op day two he was
+transferred to the step-down unit for further care. Chest tubes
+and epicardial pacing wires were removed pre protocol. During
+his post-op course he worked with physical therapy for strength
+and mobility. He continued to make good progress and on post-op
+day four he was discharged home with the appropriate medications
+and follow-up appointments.
+
+Medications on Admission:
+Imdur 30 daily
+Metoprolol 50 daily
+Aspirin 81 daily
+Simvastatin 20 daily
+Nitro prn
+
+Discharge Medications:
+1. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 7 days.
+Disp:*7 Tablet, ER Particles/Crystals(s)* Refills:*0*
+7. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day for
+7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+8. amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day): Please take 400mg twice daily for 5 days. Then 200mg
+twice daily for 7 days. Then 200mg daily until stopped by Dr.
+[**Last Name (STitle) **].
+Disp:*60 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Coronary artery disease s/p coronary artery bypass graft x 4
+
+Past medical history:
+Hypertension
+Dyslipidemia
+History of positive PPD 5-6 years ago - s/p ABX for one year
+Colon polyps
+s/p cholecystectomy
+s/p polypectomy
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with narcotics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+Edema: trace
+
+Discharge Instructions:
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+Please come to [**Hospital Ward Name **] 6 on Wednesday, [**3-11**] at 10AM for wound check
+
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) **] [**3-24**] at 2:30PM
+Cardiologist: Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2552**] [**3-19**] at 4PM
+
+Please call to schedule appointments with your
+Primary Care in [**4-21**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+
+Completed by:[**2499-3-2**]
+
+
+DOC CLASS

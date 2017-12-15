@@ -1,0 +1,370 @@
+Admission Date:  [**2600-9-8**]              Discharge Date:   [**2600-9-17**]
+
+Date of Birth:  [**2556-10-21**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+sternal incision pain, purulent drainage
+
+Major Surgical or Invasive Procedure:
+sternal debridement([**9-9**])
+closure with bilat pectoral flaps and sternal plates. ([**9-11**])
+
+
+History of Present Illness:
+This 43 year old woman is s/p mitral valve replacement and PFO
+closure on [**2600-8-11**].  She presented to an outside hospital with
+eight hours of sternal incision pain and purulent drainage.
+Blood cultures demonstrated 3/4 bottles positive for Methicillin
+Sensitive Staph Aureus.  Symptoms worsen with deep inspiration.
+The patient was febrile and found to have WBC 19,000.m  She was
+transferred to [**Hospital1 22**] for evaluation.
+
+Past Medical History:
+Mitral regurgitation
+Psoriasis
+Psoriatic arthritis
+Endometriosis
+Obesity
+
+
+Social History:
+Lives with spouse
+ETOH rare
+Tobacco 20 year pack history - currently smoking
+Not currently working
+
+
+Family History:
+Mother deceased at 62 from cardiomyopathy
+
+Physical Exam:
+Gen: NAD
+Neuro: alert and oriented, non-focal
+Pulm: lungs CTAB
+Cardiac: RRR, frequent PVCs
+Sternal Incision: no erythema. Wound clean. 2 JPs remain in
+place.
+Abd: soft, non-tender, non-distended.
+Ext: warm, 1+edema
+
+
+Pertinent Results:
+[**2600-9-16**] 05:23AM BLOOD WBC-8.4 RBC-3.22* Hgb-9.6* Hct-29.6*
+MCV-92 MCH-30.0 MCHC-32.5 RDW-16.6* Plt Ct-280
+[**2600-9-16**] 05:23AM BLOOD Glucose-114* UreaN-18 Creat-0.8 Na-138
+K-3.9 Cl-106 HCO3-24 AnGap-12
+[**2600-9-14**] 04:47AM BLOOD ALT-10 AST-18 LD(LDH)-216 AlkPhos-83
+Amylase-36 TotBili-0.2
+[**2600-9-14**] 04:47AM BLOOD Lipase-79*
+
+
+   [**Known patient lastname **],[**Known patient firstname **] M [**PT ID Number 28953**] F 43 [**2556-10-21**]
+
+Date: [**2600-9-17**]
+Signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD on [**2600-9-17**]  Affiliation: [**Hospital1 22**]
+NEEDS COSIGN
+
+Initial Intake
+
+Infectious Disease Clinic Outpatient Antimicrobial Management
+Program
+Surgeon: [**Last Name (LF) **],[**Name8 (MD) **] MD
+
+Infectious Disease Fellow: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4154**], MD
+Infectious Disease Preceptor: [**First Name8 (NamePattern2) 12**] [**Last Name (NamePattern1) 700**], MD
+
+Infusion Company: [**Location (un) 514**] Home Therapies
+Phone: 1.[**Telephone/Fax (1) 28956**]
+Fax: [**Telephone/Fax (1) 28957**]
+
+VNA: Home Health and Hospice of [**Location (un) 9188**], NH
+Phone: [**Telephone/Fax (1) 28958**]
+
+Type of Intravenous Access
+Where placed: RUE [**9-14**]
+PICC ( X )  Length  ( 52cm )
+
+Discharge diagnosis: MSSA sternal wound infection
+
+Brief Summary of Patient History:
+  Ms [**Known patient lastname 2945**] is a 43-year old woman with a history of
+uncomplicated
+MVR (bioprosthetic) and closure of PFO in [**2600-8-11**] presenting to
+[**Doctor First Name 3093**] Hospital on [**9-5**] and transferred to [**Hospital1 22**] on [**9-8**] with
+sternal wound pain and drainage.
+  She presented to [**Doctor First Name 3093**] Hospital on [**9-5**] with a progressive,
+2-day history chest wall pain associated with nausea, shortness
+of breath, and worsened with movement.  In the ER at [**Doctor First Name 3093**], she
+had a temperature of 100.4, BP 80s/40s, WBC 19K (87% PMN).  A
+TTE
+demonstrated LVEF 35%, small posterior pericardial effusion,
+well-seated MV prosthesis.  Blood cultures demonstrated ([**2-4**])
+demonstrated MSSA, a CT of chest w/ and without contrast
+demonstrated a "tiny" fluid collection at the midline incision
+site.  Wound cultures demonstrated WBC w/o organisms, although
+at
+time of transfer culture was pending. Empiric antibiotics with
+vancomycin and ceftazidime ([**9-5**]) were continued.  During the
+admission, she remained afebrile, hemodynamically stable, and
+was
+transferred for further evaluation.  She was taken to OR [**9-9**]
+for
+debridement and returned [**9-11**] for sternal plating.  Blood
+cultures at [**Hospital1 22**] [**Date range (1) 28959**] remain negative at time of
+discharge.  Although a swab culture from the wound on [**9-8**] was
+negative, all 4 intra-operative swab and tissue cultures from
+[**9-9**] demonstrated MSSA; no swab was taken on [**9-11**] (some necrotic
+tissue was debrided).  A TEE was negative for endocarditis.
+  For the remainder of the admission, she remained afebrile and
+generally improved.  Two anterior chest drains remained intact
+and in place at the time of discharge (to be removed approx 1
+week post-discharge).  She had [**12-5**] loose stools daily for
+several
+days toward the end of the admission, briefly started
+empirically
+on metronidazole, but was C. diff toxin negative x1.
+  She was continued on Nafcillin starting [**9-9**], and should be
+continued for 6 weeks minimum starting [**9-11**].  In clinic
+follow-up, duration of antibiotics will be determined, including
+possible long-term suppression with ciprofloxacin and rifampin,
+as well as a further discussion with surgery re: plate removal
+if
+indicated.
+
+PAST MEDICAL HISTORY:
+++ Cardiomyopathy with mitral regurgitation
+++ Mitral valve replacement, bioprosthetic, [**2600-8-11**]
+++ patent foramen ovale closure, [**2600-8-11**]
+++ Hypertension
+++ Hypercholesterolemia
+++ Psoriatic arthritis
+++ Endometriosis
+ - R Salpingo-oophorectomy
+++ Obesity
+++ Depression
+++ Panic disorder
+++ Narcolepsy
+
+[**Doctor First Name 3093**] Hosp (micro [**Telephone/Fax (1) 28960**]):
+ Wound culture ([**9-7**]): light presumptive Staph
+ Blood culture ([**9-6**]) x2: NGTD
+ Blood culture ([**9-5**]): 2/2 bottles MSSA (pan-[**Last Name (un) **])
+ Urine culture ([**9-5**]): NEG
+ Nares culture, MRSA screen ([**9-5**]): NEG
+
+[**Hospital1 22**]:
+Sternal wound swab [**9-8**]: negative (stain w/o PMN/orgs)
+Intra-op ([**9-9**])
+ Sternal wound swab x2: MSSA
+ Sternal wound tissue x2: MSSA
+BCx [**9-8**] x2, [**9-11**], [**9-12**] x2: NEG/NGTD
+UCx [**9-8**], [**9-12**] NGTD
+Cath tip Cx [**9-8**] NGTD
+Cdiff toxin [**9-9**], [**9-14**], [**9-16**]: NEG
+
+TEE [**9-9**]
+LVEF 35-40%
+no veg
+MV well-seated
+
+LABORATORY REVIEW
+DATE   WBC ESR CRP  Cr  ALT/AST/tbili
+*[**9-5**]  19           1.8
+*[**9-6**]      121
+*[**9-7**]  12      37.4 1.2
+[**9-8**]   8.4 125 >300 1.0  14/17/0.5
+[**9-9**]   7.8          1.1  11/15/0.3
+[**9-10**]   6.2          0.8
+[**9-11**]   9.5          0.8
+[**9-12**]  11.4         0.9
+[**9-14**]                    10/18/0.2
+[**9-15**]  6.9          0.9
+
+Patient Allergies: NKDA
+
+Prescribed Antibiotic Information:
+Nafcillin 2g IV q4hr x6 weeks minimum, starting [**2600-9-11**]
+
+laboratory monitoring required
+CBC/diff, Chem 12, ESR/CRP qweek
+
+All laboratory results should be faxed to Infectious disease
+R.Ns. at ([**Telephone/Fax (1) 3835**]
+All questions regarding outpatient antibiotics should be
+directed
+to the infectious disease R.Ns. at ([**Telephone/Fax (1) 13378**]
+
+FOLLOW-UP:
+[**2600-10-10**]  10:00a   ID,[**Location (un) **] [**Location (un) **]
+  LM [**Hospital Ward Name **] BLDG ([**Doctor First Name 277**]), BASEMENT
+  ID WEST (SB)
+
+
+
+Brief Hospital Course:
+The patient was admitted for further management of her sternal
+wound infection.  On [**2600-9-9**] she was brought to the operating
+room where she underwent sternal debridement and wound VAC
+placement with the assistance of the plastic surgery team.  The
+patient returned to the operating room on [**9-11**] for chest closure
+with pectoralis muscle flaps and plating.  Please see operative
+notes for details.  Overall the patient tolerated the procedures
+well and post-operatively was transferred to the CVICU for
+observation and recovery.  By POD 1 (from chest closure) she was
+hemodynamically stable, extubated, alert and oriented and
+breathing comfortably.
+
+ID was consulted for assistance in antibiotic administration.
+Nafcillin therapy was initiated per ID recommendations.
+
+The patient was transferred to the step down unit on [**2600-9-13**].
+She developed diarrhea and was started on Flagyl empirically.
+Two c-diff toxins were negative.  Imodium therapy was initiated.
+A third c-diff toxin was sent. Her stool frequency decreased to
+twice a day and began to firm. Only 2 doses of Imodium were
+taken and Flagyl was stopped.
+
+The patient remained in sinus rhythm,however, she continued to
+have frequent PVCs with non-sustained ventricular tachycardia.
+Electrolytes were repleted and beta-blocker titrated
+accordingly. Her ectopy improved dramatically with these
+treatments.
+
+Two JPs remain in place and she is afebrile.  ID and Plastic
+Surgery continued to follow her and she was ready for discharge
+on [**9-17**]. Arrangements were made for home infusion therapy for
+Nafcillin and lab draws and follow-up with both infectious
+disease and plastic surgery.
+
+Medications, instructions and restrictions were discussed with
+the patient before discharge.
+.
+
+
+Medications on Admission:
+aspirin 81 mg daily
+klonopin 1mg [**Hospital1 **]
+folic acid 1mg daily
+lasix 10mg tid
+lopressor 25mg q8h
+remeron 15mg daily
+ativan 0.5mg q6h prn anxiety
+duoneb inh q4h prn
+lovenox 40mg sq
+zofran 4mg q6h prn
+protonix 40mg daily
+vancomycin 1gIVdaily
+ceftazidime 2g q12h
+dilaudid 0.5-1mg IV q1h prn
+morphine 2mg IV prn
+
+Discharge Medications:
+1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day) for 4 weeks.
+Disp:*56 Tablet(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed.
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Cortisone 1 % Cream Sig: One (1) Appl Topical QID (4 times a
+day).
+Disp:*1 15gm* Refills:*0*
+9. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO DAILY (Daily).
+Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+12. Loperamide 2 mg Capsule Sig: One (1) Capsule PO every four
+(4) hours as needed for loose stool for 2 weeks: after loose
+stool. No more than 6 a day.
+Disp:*30 Capsule(s)* Refills:*0*
+13. Ibuprofen 200 mg Tablet Sig: Four (4) Tablet PO three times
+a day for 3 weeks: take with food.
+Disp:*252 Tablet(s)* Refills:*0*
+14. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime)
+as needed.
+Disp:*60 Tablet(s)* Refills:*2*
+15. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day) as needed.
+Disp:*90 Tablet(s)* Refills:*2*
+16. Nafcillin in D2.4W 2 gram/100 mL Piggyback Sig: Two (2)
+grams Intravenous Q4H (every 4 hours) for 6 weeks: as direscted.
+Disp:*504 grams* Refills:*0*
+17. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: One (1) ML
+Intravenous PRN (as needed) as needed for line flush for 6
+weeks.
+Disp:*QS ML(s)* Refills:*2*
+18. Heparin Flush (10 units/ml) 1 mL IV PRN line flush
+Temporary Central Access-Floor:    Flush with 10 mL Normal
+Saline followed by Heparin as above daily and PRN.
+19. saline flush  Sig: 1-2 mg Intravenous every 4-6 hours for 6
+weeks.
+Disp:*50 * Refills:*2*
+20. Compazine 10 mg Tablet Sig: One (1) Tablet PO every [**3-9**]
+hours as needed for nausea for 2 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+homehealth vna of [**Location (un) **]
+
+Discharge Diagnosis:
+sternal wound infection
+s/p sternal debridement
+s/p closure with bilat pectoral flaps and sternal plates
+s/p MVR(tissue) & closure of PFOPsoriasis
+arthritis
+endometriosis
+obesity
+
+
+Discharge Condition:
+good
+
+
+Discharge Instructions:
+Take all medications as prescribed.
+Call for any fever greater than 100.5
+report any redness or drainage from wounds
+no lifting more than 10 pounds for 10 weeks
+no driving until cleared by plastic surgery
+
+Followup Instructions:
+)
+
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 302**]
+Date/Time:[**2600-10-10**] 10:00
+Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 919**](plastic surgery) next week
+Dr [**Last Name (STitle) **] in 4 weeks from original surgery ([**Telephone/Fax (1) 181**])
+
+
+
+Completed by:[**2600-9-17**]
+
+
+DOC CLASS

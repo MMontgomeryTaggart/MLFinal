@@ -1,0 +1,200 @@
+CVICU
+   HPI:
+   HD10   POD 7-CABGx4(LIMA-LAD,SVG-DG,SVG-OM,SVG-PDA)
+   Ejection Fraction:20%
+   Hemoglobin A1c:6.2
+   Pre-Op Weight:264.99 lbs   120.2 kgs
+   Baseline Creatinine:0.9
+   TLD:RT IABP-out:Day10   RT SG-out:Day8   left subclav tlc:Day4
+   Foley:Day10
+   Past Medical History:HTN, Gout, h/o back spasms, exposure to mold
+   [**2581**]-> developed confusion
+   Past Surgical History: s/p pilondydal cyst removal, s/p tonsillectomy
+   [**Last Name (un) **]: Lopressor 50", "Muscle Relaxer" PRN
+   Micro/Imaging:
+   [**2592-8-30**] sp GNR
+   [**2592-8-24**] CT pelvis No retroperitoneal hematoma.
+   Events:
+   [**2592-8-28**] ^wbc, new stick tlc/pan cx
+   Assessment:AMI with post infarction angina. IABP placed, PCI to OM-
+   [**8-22**].
+   Plan:[**8-24**]- keep sedated/rest tonight. Awaken, wean pressors,IABP in AM
+   if stable.Vasopressin added, epi/levo down. Awoke-MAE.Amio off- no
+   ectopy
+   [**8-25**]-Epi weaning,keeping down today.
+   [**8-26**]-EPIoff,IABP out,Levo~off. Milrinone to 0.5, wean vasopressin after
+   levo off. Keep intubated today. RAF-amiod resumed->SR.
+   [**8-29**]-presumed VAP-Cef/Cipro/V started
+   Current medications:
+   Acetaminophen . Albuterol 0.083% Neb Soln . Amiodarone . Aspirin EC .
+   Atorvastatin . Calcium Gluconate . Carvedilol . Ciprofloxacin .
+   Colchicine. Dextrose 50% . Docusate Sodium . Furosemide . Heparin .
+   HydrALAzine . Insulin . Lisinopril . Magnesium Sulfate . Metoclopramide
+   . Milk of Magnesia . Pantoprazole . Pneumococcal Vac Polyvalent
+   Potassium Chloride Vancomycin
+   24 Hour Events:
+   Post operative day:
+   POD#7 - CABG x4
+   Allergies:
+   Shellfish Derived
+   Unknown;
+   Last dose of Antibiotics:
+   Cefipime - [**2592-8-30**] 11:00 PM
+   Vancomycin - [**2592-8-31**] 04:00 AM
+   Ciprofloxacin - [**2592-8-31**] 06:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2592-8-30**] 11:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2592-8-31**] 06:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**94**] a.m.
+   Tmax: 37.2
+C (99
+   T current: 36.8
+C (98.2
+   HR: 74 (66 - 84) bpm
+   BP: 119/67(78) {91/35(49) - 128/84(94)} mmHg
+   RR: 24 (19 - 32) insp/min
+   SPO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 125.8 kg (admission): 120 kg
+   Height: 69 Inch
+             Total In:
+                                                                  2,164 mL
+                                                                    517 mL
+   PO:
+                                                                    380 mL
+             Tube feeding:
+                                                                    694 mL
+   IV Fluid:
+                                                                  1,020 mL
+                                                                    517 mL
+   Blood products:
+   Total out:
+                                                                  2,815 mL
+                                                                  1,520 mL
+   Urine:
+                                                                  2,815 mL
+                                                                  1,520 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -651 mL
+                                                                 -1,003 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 95%
+   ABG: ///31/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: LT base), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, drank
+   water w/o incident
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), Erythema LLE from harvest, not
+   tender or warm.  Is bruised.
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   177 K/uL
+   10.3 g/dL
+   127 mg/dL
+   0.7 mg/dL
+   31 mEq/L
+   4.1 mEq/L
+   32 mg/dL
+   104 mEq/L
+   141 mEq/L
+   30.6 %
+   13.1 K/uL
+        [image002.jpg]
+                             [**2592-8-28**]  04:00 AM
+                             [**2592-8-28**]  05:11 AM
+                             [**2592-8-28**]  06:45 AM
+                             [**2592-8-28**]  12:10 PM
+                             [**2592-8-29**]  02:36 AM
+                             [**2592-8-29**]  11:25 PM
+                             [**2592-8-30**]  04:19 AM
+                             [**2592-8-30**]  04:32 AM
+                             [**2592-8-30**]  02:38 PM
+                             [**2592-8-31**]  03:17 AM
+   WBC
+   17.1
+   11.6
+   11.6
+   13.1
+   Hct
+   30.6
+   28.0
+   28.0
+   30.6
+   Plt
+   120
+   154
+    154
+   177
+   Creatinine
+   0.7
+   0.7
+   0.7
+   TCO2
+   22
+   24
+   29
+   Glucose
+   87
+   91
+   136
+   121
+   177
+   127
+   Other labs: PT / PTT / INR:15.2/25.5/1.3, CK / CK-MB / Troponin
+   T:533/31/3.48, ALT / AST:43/37, Alk-Phos / T bili:58/1.8, Amylase /
+   Lipase:35/27, Differential-Neuts:95.2 %, Lymph:3.0 %, Mono:1.1 %,
+   Eos:0.6 %, Fibrinogen:119 mg/dL, Lactic Acid:1.9 mmol/L, Albumin:3.4
+   g/dL, LDH:735 IU/L, Ca:8.3 mg/dL, Mg:2.4 mg/dL, PO4:3.0 mg/dL
+   Imaging: pending this am
+   Microbiology: e. coli/coag + SA in sputum-cont. cipro/vanco
+   Assessment and Plan
+   PNEUMONIA, OTHER, HYPERGLYCEMIA, CORONARY ARTERY BYPASS GRAFT (CABG),
+   IMPAIRED SKIN INTEGRITY
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, remove foley
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: e. coli/SA in sputum
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: P.T., O.T.
+   ICU Care
+   Nutrition:tol reg. diet now.
+   Glycemic Control:  Regular insulin sliding scale
+   Multi Lumen - [**2592-8-28**] 12:02 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU, Transfer to floor
+
+
+
+DOC CLASS

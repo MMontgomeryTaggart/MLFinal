@@ -1,0 +1,225 @@
+SICU
+   HPI:
+   74-year-old woman with profound dyspnea and a giant paraesophageal
+   hernia.  Approximately [**12-28**] of her stomach was above the diaphragm.  Her
+   primary complaint was that of dyspnea, although she had some occasional
+   regurgitation of food. She underwent repair of the hiatal hernia.  She
+   was recovering on the floor when she had a fever to 103.4 F, had
+   worsening confusion, and was transferred to the SICU.
+   Chief complaint:
+   dyspnea
+   PMHx:
+   PMH:
+   COPD
+   CHF
+   Pulmonary fibrosis
+   Osteoporosis w/compression fxs
+   Hypercholesterolemia
+   Hypertension
+   GERD
+   Anxiety/Depression
+   Insomnia
+   Post-surgical hypothyroidism
+   Melanoma removed from back
+   left axillary lymph node dissection [**2976**].
+   Current medications:
+   Acetaminophen
+   Albuterol 0.083% Neb Soln
+   Calcium Gluconate
+   Duloxetine
+   Fluticasone-Salmeterol Diskus (250/50)
+   Furosemide
+   Glucagon
+   Heparin
+   Insulin
+   Ipratropium Bromide Neb
+   Levothyroxine Sodium
+   Magnesium Sulfate
+   Midazolam
+   Omeprazole
+   OxycoDONE (Immediate Release)
+   Phenylephrine
+   Piperacillin-Tazobactam
+   Vancomycin
+   Zolpidem Tartrate
+   24 Hour Events:
+ MULTI LUMEN - START [**3001-1-21**] 04:21 AM
+ ARTERIAL LINE - START [**3001-1-21**] 06:50 AM
+ FEVER - 103.1
+F - [**3001-1-20**] 06:09 PM
+   Allergies:
+   Sulfasalazine
+   Anaphylaxis;
+   Sulfa (Sulfonamide Antibiotics)
+   Anaphylaxis;
+   Parnate (Oral) (Tranylcypromine Sulfate)
+   per pt can not
+   Last dose of Antibiotics:
+   Vancomycin - [**3001-1-21**] 09:41 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3001-1-21**] 07:54 PM
+   Infusions:
+   Other ICU medications:
+   Midazolam (Versed) - [**3001-1-21**] 04:10 AM
+   Heparin Sodium (Prophylaxis) - [**3001-1-21**] 10:37 PM
+   Other medications:
+   Flowsheet Data as of  [**3001-1-22**] 02:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**02**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 36.9
+C (98.5
+   HR: 95 (76 - 100) bpm
+   BP: 152/56(92) {95/30(55) - 152/56(92)} mmHg
+   RR: 29 (12 - 32) insp/min
+   SPO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   CVP: 8 (3 - 8) mmHg
+   Total In:
+                                                                  2,511 mL
+                                                                     28 mL
+   PO:
+                                                                    960 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,551 mL
+                                                                     28 mL
+   Blood products:
+   Total out:
+                                                                  1,830 mL
+                                                                    530 mL
+   Urine:
+                                                                  1,830 mL
+                                                                    530 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    681 mL
+                                                                   -502 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SPO2: 93%
+   ABG: 7.45/38/74//2
+   PaO2 / FiO2: 148
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Wheezes : , Rhonchorous : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace), (Temperature: Warm)
+   Right Extremities: (Edema: Trace), (Temperature: Warm)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli, Tactile stimuli), Moves all extremities
+   Labs / Radiology
+   190 K/uL
+   10.2 g/dL
+   119 mg/dL
+   1.2 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   14 mg/dL
+   103 mEq/L
+   138 mEq/L
+   31.2 %
+   8.7 K/uL
+        [image002.jpg]
+                             [**3001-1-21**]  01:18 AM
+                             [**3001-1-21**]  01:30 AM
+                             [**3001-1-21**]  09:56 AM
+                             [**3001-1-21**]  12:00 PM
+                             [**3001-1-21**]  05:54 PM
+   WBC
+   8.7
+   Hct
+   31.2
+   Plt
+   190
+   Creatinine
+   1.2
+   Troponin T
+   <0.01
+   <0.01
+   TCO2
+   30
+   27
+   Glucose
+   108
+   119
+   Other labs: CK / CK-MB / Troponin T:38//<0.01, Differential-Neuts:73.7
+   %, Lymph:22.1 %, Mono:3.4 %, Eos:0.3 %, Lactic Acid:0.9 mmol/L, Ca:7.6
+   mg/dL, Mg:1.7 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP), SHOCK, ANAPHYLACTIC
+   (ANAPHYLAXIS), HYPOTENSION (NOT SHOCK)
+   Assessment and Plan: ASSESSMENT: 74F with COPD, pulmonary fibrosis s/p
+   hiatal hernia repair with fundoplication transferred to SICU with
+   fevers to 103, increased O2 requirement. PNA on CTA chest. GPC in
+   sputum.
+   Neurologic:
+   --Alert, oriented
+   --cont. Duloxetine, holding anxiolytics
+   Cardiovascular:
+   --Neo weaned off, now hypertensive, monitor
+   --CVP 7-8, IVF heplock
+   --Cardiac enzymes neg x3
+   Pulmonary:
+   --Baseline 3L NC
+   --Albuterol, atrovent nebs, Advair
+   --f/u sputum Cx; GPC's in pairs on gram stain
+   Gastrointestinal / Abdomen:
+   --s/p hiatal hernia repair with fundoplication
+   Nutrition:
+   --Regular with pureed solids
+   Renal:
+   --good UOP
+   --Lasix 40 mg PO Daily
+   Hematology:
+   --Hct 30.7
+   Endocrine:
+   -- levothyroxine
+   --RISS
+   ID:
+   --Vanco/Zosyn for pneumonia, f/u cultures, Vanc held pm, check level,
+   fever overnight, Bcx, Ucx, repeat sputum sent
+   Lines / Tubes / Drains:
+   --PIVx2, Foley, RIJ, Aline
+   Wounds:
+   Imaging:
+   Fluids:
+   --heplock
+   Consults:
+   --Thoracic surgery
+   Billing Diagnosis:
+   Prophylaxis:
+   DVT: SQH, boots
+   Stress ulcer: PPI
+   VAP bundle: +
+   Comments:
+   Communication:Comments:
+   Code status:FULL
+   Disposition:SICU
+   Time spent: 35
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3001-1-20**] 07:27 PM
+   Multi Lumen - [**3001-1-21**] 04:21 AM
+   Arterial Line - [**3001-1-21**] 06:50 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent:
+
+
+
+DOC CLASS

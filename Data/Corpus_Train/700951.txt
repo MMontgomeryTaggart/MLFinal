@@ -1,0 +1,206 @@
+Chief Complaint: s/p asystolic arrest perioperatively
+   HPI: See H&P for details.
+   24 Hour Events:
+ Extubated yesterday
+ Off of pressors
+Family meeting yesterday, patient still wants
+everything done
+Overnight CPAP
+ autoset
+14 beats of NSVT
+Stopped CVVH
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3276-12-26**] 08:07 PM
+   Meropenem - [**3276-12-28**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis)
+   Fentanyl
+   Other medications:
+   Simvastatin, nephrocaps, lidoderm, plavix, ASA, lactulose, pepcid,
+   rifaxamin, midodrine
+   Changes to medical and family history: None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3276-12-28**] 07:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**78**] AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.7
+C (98.1
+   HR: 102 (93 - 105) bpm
+   BP: 119/62(83) {100/48(65) - 136/69(90)} mmHg
+   RR: 24 (11 - 26) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 76.1 kg (admission): 75 kg
+   Height: 69 Inch
+   Bladder pressure: 9 (9 - 9) mmHg
+   Total In:
+                                                                  5,618 mL
+                                                                    230 mL
+   PO:
+   TF:
+   IVF:
+                                                                  5,518 mL
+                                                                    230 mL
+   Blood products:
+                                                                    100 mL
+   Total out:
+                                                                  5,915 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -297 mL
+                                                                    230 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 0) mL
+   Vt (Spontaneous): 340 (340 - 340) mL
+   PS : 10 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   PIP: 16 cmH2O
+   SpO2: 98%
+   ABG: 7.40/51/110/30/5
+   Ve: 6.4 L/min
+   PaO2 / FiO2: 110
+   Physical Examination
+   General Appearance: Well nourished chronically ill-appearing M in NAD
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, MMM
+   Cardiovascular: Distant heart sounds, RRR, S1, S2
+   Peripheral Vascular: s/p R AKA, L BKA, multiple necrotic fingers on L,
+   ulcerated R PIP
+   Respiratory / Chest: Symmetric, decreased BS bibasilarlly
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Skin:  Warm
+   Neurologic: A&O x3
+   Labs / Radiology
+   7.4 g/dL
+   279 K/uL
+   97 mg/dL
+   1.0 mg/dL
+   30 mEq/L
+   3.5 mEq/L
+   4 mg/dL
+   99 mEq/L
+   138 mEq/L
+   24.7 %
+   4.9 K/uL
+        [image002.jpg]
+                             [**3276-12-26**]  04:19 PM
+                             [**3276-12-26**]  10:41 PM
+                             [**3276-12-26**]  10:49 PM
+                             [**3276-12-27**]  03:45 AM
+                             [**3276-12-27**]  04:18 AM
+                             [**3276-12-27**]  10:09 AM
+                             [**3276-12-27**]  02:52 PM
+                             [**3276-12-27**]  04:29 PM
+                             [**3276-12-28**]  03:10 AM
+                             [**3276-12-28**]  03:20 AM
+   WBC
+   6.0
+   4.9
+   Hct
+   23.6
+   24.7
+   Plt
+   194
+   279
+   Cr
+   0.7
+   0.7
+   1.0
+   TCO2
+   32
+   33
+   33
+   32
+   31
+   32
+   33
+   Glucose
+   107
+   105
+   97
+   Other labs: PT / PTT / INR:13.6/49.3/1.2, CK / CKMB /
+   Troponin-T:60//1.56, ALT / AST:[**8-1**], Alk Phos / T Bili:57/0.4, Amylase
+   / Lipase:17/, Differential-Neuts:62.8 %, Band:0.0 %, Lymph:20.6 %,
+   Mono:6.9 %, Eos:9.4 %, Lactic Acid:0.8 mmol/L, Albumin:3.2 g/dL,
+   LDH:149 IU/L, Ca++:8.8 mg/dL, Mg++:1.3 mg/dL, PO4:1.8 mg/dL
+   Assessment and Plan
+ Infections
+ ESBL Klebs UTI and SBP.  Had been on empiric vanco,
+   meropenem for ESBL Klebs.  Meropenem continued due to continued low
+   blood pressures and Klebs in urine.
+   - Continue meropenem for now pending urine senses
+   - BPs stable off pressors
+ RESPIRATORY FAILURE
+ Likely due to extrinsic obstruction, volume
+   overload, now improved and extubated.  Did not tolerate BiPAP
+   overnight, but did OK with CPAP, will work with respiratory therapy to
+   tolerate BiPAP, discussed with patient the benefits.
+   - BiPAP trial today, goal overnight BiPAP
+   - Minimize sedating medications, monitor mental status
+   - Currently stable
+CAD/Peripheral Vascular Disease
+ s/p recent vascular procedure for
+   ischemic L fingers
+   - continue ASA, Plavix, statin
+ DIABETES MELLITUS, TYPE I
+ Insulin as needed
+ RENAL FAILURE, CHRONIC
+ Off CVVH, plan for HD tomorrow
+   - HD tomorrow, follow lytes
+ HEPATITIS, CHRONIC VIRAL/CIRRHOSIS
+ Has had issues with ascites
+   causing extrinsic respiratory distress and decreasing venous return, so
+   low threshold for paracentesis.
+   - Trending qShift bladder pressures
+   - Follow abdominal exam, paracentesis if worsening ascites
+   - Continue midodrine, rifaximine, lactulose
+Anemia
+ Likely secondary to CRI and blood draws, has PVD so will give
+   1U PRBCs
+   - Transfuse 1 U
+   - D/w renal re Epo
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ Fentanyl boluses PRN
+   ICU Care
+   Nutrition: Renal diet
+   Glycemic Control:  Stable
+   Lines:
+   Dialysis Catheter - [**3276-12-18**] 07:45 PM
+   PICC Line - [**3276-12-23**] 10:44 AM
+ assess if functioning
+   Arterial Line - [**3276-12-24**] 02:27 PM
+ no other means of following BP as
+   now place for cuff
+   Multi Lumen - [**3276-12-24**] 02:27 PM
+ try to d/c if PICC working
+   Prophylaxis:
+   DVT: Hep sc
+   Stress ulcer: Pepcid
+   VAP: N/A
+   Comments:
+   Communication:  Comments:
+   Code status: Full, repeat code status discussion
+   Disposition : MICU for now
+   Total time spent: 30 min
+
+
+
+DOC CLASS

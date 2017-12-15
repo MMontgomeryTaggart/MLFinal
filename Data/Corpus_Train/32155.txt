@@ -1,0 +1,336 @@
+Admission Date:  [**3452-12-16**]              Discharge Date:   [**3452-12-27**]
+
+Date of Birth:  [**3379-2-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+mitral valve regurgitation
+
+Major Surgical or Invasive Procedure:
+[**3452-12-17**] Mitral valve repair (28mm St. [**Male First Name (un) 262**] annuloplasty ring)
+[**3452-12-24**] Right Hip Hemi-arthroplasty
+
+
+History of Present Illness:
+This 73 year old  female has severe mitral regurgitation,
+moderate TR and single vessel coronary artery disease who was
+admitted now for elective surgery. She has been followed
+preoperativley and underwent diuresis and some pulmonary
+rehabilitation.  Since a previous visit in [**3452-5-30**], she has
+gained approximately [**11-13**] pounds with increased appetite and
+nutritional supplements. When first seen by our service she
+weighed only 83 pounds. Overall she remains mildly fatigued and
+continues to experience exertional dyspnea. It is difficult to
+get her to admit to much in the way of symptoms however her son
+is helpful in helping her to acknowledge the significance of her
+symptoms. Overall, her symptoms have remained stable and have
+not significantly worsened with her current medical therapy. She
+is high risk due to her heavy smoking history and poor lung
+function.
+
+Past Medical History:
+Severe Mitral Regurgitation
+Pulmonary Nodule
+coronary artery disease s/p Stent
+peripheral vascular disease s/p Stent
+Mild Pulmonary Hypertension Anxiety
+S/P total abdominal hysterectomy
+Cataracts
+Hypothyroidism
+chronic atrial fibrillation
+Dyslipidemia
+
+Social History:
+Last Dental Exam: 1 year. Edentulous.
+Lives with: son
+Occupation: homemaker (college educated)
+Tobacco: Smoked up until [**12-9**]. 50pack yr. hx
+ETOH: socially
+
+Family History:
+father had coronary artery disease, passed away at the age of
+73.
+Mom had renal failure, and had peripheral vascular disease,
+passed away at the age of 84.  No family history of dementia or
+diabetes.
+
+Physical Exam:
+Pulse: 78  Resp: 18  O2 sat: 99% RA
+B/P  Right: 131/83   Left: 141/88
+
+General: No acute distress, thin
+Skin: Dry [x] intact [x] small red non raised rash right forearm
+(states occurs when she is stressed)
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x] anteriorly
+Heart: RRR []  Irregular [x]  Murmur [**4-4**], loudest at apex
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x] Edema- none
+Varicosities: None [] spider veins bilaterally
+well-healed skip incisions of bilateral GSV stripping
+Neuro: Alert and oriented x3 non focal
+Pulses:
+Femoral      Right:  Sheaths  Left: +1
+DP           Right:  D  Left: D
+PT           [**Name (NI) 647**]:  D  Left: D
+Radial       Right:  +1 Left: +1
+
+Carotid Bruit     Right: - bruit    Left: + bruit
+
+Pertinent Results:
+Echo [**3452-12-17**]: PRE-BYPASS: The left atrium is dilated. No
+spontaneous echo contrast or thrombus is seen in the body of the
+left atrium/left atrial appendage or the body of the right
+atrium/right atrial appendage. A patent foramen ovale with
+bidirectional flow is present. Overall left ventricular systolic
+function is mildly depressed (LVEF= 45 %). [Intrinsic left
+ventricular systolic function is likely more depressed given the
+severity of valvular regurgitation.] with mild global free wall
+hypokinesis. The aortic valve leaflets (3) are mildly thickened.
+The study is inadequate to exclude significant aortic valve
+stenosis. Mild (1+) aortic regurgitation is seen. There is
+partial posterior mitral leaflet flail (P2 closer to P1). Severe
+(4+) mitral regurgitation is seen. No tricuspid prolapse or
+flail segments. Moderate [2+] tricuspid regurgitation is seen.
+There is a small pericardial effusion. Dr. [**Last Name (STitle) **] was notified
+in person of the results before surgical incision.
+Post_Bypass: Normal RV systolic function. Patient is on
+epinephrine infusion. LVEF 50%. Intact thoracic aorta. Mitral
+valve post repair is intact, stable, no mitral regurgitation and
+no mitral stenosis. TR looks mild and at worst possibly 2+.
+[**3452-12-27**] 09:20AM BLOOD WBC-11.8* RBC-3.14* Hgb-9.5* Hct-29.3*
+MCV-93 MCH-30.2 MCHC-32.4 RDW-15.3 Plt Ct-399
+[**3452-12-16**] 04:05PM BLOOD WBC-6.0 RBC-3.72* Hgb-12.1 Hct-35.9*
+MCV-97 MCH-32.6* MCHC-33.8 RDW-13.9 Plt Ct-208#
+[**3452-12-27**] 09:20AM BLOOD PT-26.7* INR(PT)-2.6*
+[**3452-12-26**] 05:50AM BLOOD PT-21.2* INR(PT)-2.0*
+[**3452-12-25**] 05:06AM BLOOD PT-14.7* PTT-26.3 INR(PT)-1.3*
+[**3452-12-24**] 12:43PM BLOOD PT-13.3 PTT-25.8 INR(PT)-1.1
+[**3452-12-24**] 03:55AM BLOOD PT-13.5* INR(PT)-1.1
+[**3452-12-23**] 08:20AM BLOOD PT-35.2* PTT-39.9* INR(PT)-3.5*
+[**3452-12-22**] 06:59AM BLOOD PT-40.3* PTT-39.7* INR(PT)-4.1*
+[**3452-12-21**] 01:15PM BLOOD PT-36.8* INR(PT)-3.7*
+[**3452-12-21**] 06:13AM BLOOD PT-33.0* INR(PT)-3.3*
+[**3452-12-20**] 05:40AM BLOOD PT-20.8* INR(PT)-1.9*
+[**3452-12-19**] 03:11AM BLOOD PT-13.6* PTT-36.3* INR(PT)-1.2*
+[**3452-12-27**] 09:20AM BLOOD Glucose-107* UreaN-22* Creat-0.9 Na-133
+K-3.9 Cl-94* HCO3-32 AnGap-11
+[**3452-12-16**] 04:05PM BLOOD Glucose-84 UreaN-33* Creat-1.1 Na-140
+K-4.2 Cl-103 HCO3-26 AnGap-15
+[**3452-12-16**] 04:05PM BLOOD ALT-10 AST-18 LD(LDH)-205 CK(CPK)-22*
+AlkPhos-66 Amylase-92 TotBili-0.5
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 15333**] was admitted to the [**Hospital1 22**] on [**3452-12-16**] for surgical
+management of her mitral valve disease. She was admitted one day
+prior to surgery for Heparin administration (chronic AF) and
+underwent usual pre-operative work-up. She was taken to the
+Operating Room where she underwent mitral valve repair. Please
+see operative note for details. Post-operatively she was taken
+to the intensive care unit for monitoring for invasive
+monitoring in stable condition. Over the next 24 hours, she was
+weaned from sedation and pressors, awoke neurologically intact
+and was extubated.
+
+Beta-blockers and diuretics were started and she was gently
+diuresed towards her pre-op weight. On post-op day two she was
+transferred to the step-down floor for further recovery.
+Coumadin was restarted for chronic atrial fibrillation.  The
+patient reported pain with ambulation while working with
+Physical Therapy.  She then admitted that she sustained a fall
+pre-operatively, which was not reported and hence not worked up.
+ Hip X-ray revealed femoral neck fracture.  Orthopedic surgery
+was consulted.  The INR was reversed with FFP and she was taken
+to the Operating Room with Dr. [**Last Name (STitle) 3111**] for right hip
+hemiarthroplasty on [**3452-12-24**].  Overall she tolerated this
+procedure well and returned to [**Location 17174**] for post-op recovery.  She
+did have low urine output which responded to Lasix.  Her
+creatinine remained within normal limits.  Urinalysis was
+positive, and she was started empirically on Cipro, pending
+culture. The culture was, however, negative and antibiotics were
+discontinued. Coumadin was resumed for chronic atrial
+fibrillation.  She was transferred to the telemetry floor for
+further recovery.
+
+The patient was evaluated by the Physical Therapy service for
+assistance with strength and mobility.  She is to be weight
+bearing as tolerated and on anterior hip precautions per
+orthopedics.  She will follow up in the Orthopedic Clinic for
+staple removal 2 weeks post-op.
+
+ By the time of discharge on POD [**12-27**] the patient was
+ambulating freely, the wound was healing and pain was controlled
+with oral analgesics.  The patient was discharged to [**Hospital1 14160**] in good condition with appropriate follow up instructions.
+Her Coumadin will be managed at this time by the rehab center,
+with an INR goal of [**3-3**].5.
+
+Medications on Admission:
+ALBUTEROL SULFATE - 90 mcg HFA Aerosol Inhaler - 2 puffs inhaled
+every 6 hours as needed for shortness of breath or cough
+CLONAZEPAM - 0.5 mg Tablet - 0.5 (One half) Tablet(s) by mouth
+in am and 1 tab at night
+DIGOXIN -  (Prescribed by Other Provider) - 125 mcg Tablet - one
+Tablet(s) by mouth once a day
+LEVOTHYROXINE -  (Dose adjustment - no new Rx; per [**Hospital1 **] home
+health report) - 100 mcg Tablet - 1 Tablet(s) by mouth once a
+day - No Substitution
+METOPROLOL SUCCINATE - 100 mg Tablet Extended Release 24 hr - 1
+Tablet(s) by mouth daily
+MIRTAZAPINE - 7.5 mg Tablet - 2 Tablet(s) by mouth at bedtime
+POLYETHYLENE GLYCOL 3350 [MIRALAX] -  (Prescribed by Other
+Provider) - 17 gram/dose Powder - 17 gm(s) by mouth once a day
+prn
+SERTRALINE [ZOLOFT] - 25 mg Tablet - 1 Tablet(s) by mouth daily
+per Rehab discharge summary
+SIMVASTATIN - 10 mg Tablet - 1 Tablet(s) by mouth daily
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule,
+w/Inhalation Device - Capsule to be placed into device, then
+crushed and inhaled once a day. Pharmacist to give further
+instructions.
+WARFARIN -  (Prescribed by Other Provider) - 2 mg Tablet - one
+Tablet(s) by mouth 2 days a week (Tues and Thurs), 3mg 5 days a
+week, last dose
+ACETAMINOPHEN -  (Prescribed by Other Provider) - 325 mg Tablet
+- 2 Tablet(s) by mouth daily prn
+ASPIRIN -  (Prescribed by Other Provider) - 81 mg Tablet,
+Delayed Release (E.C.) - 1 Tablet(s) by mouth once a day
+
+Discharge Medications:
+1. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+5. levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. sertraline 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. rosuvastatin 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+8. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+9. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. furosemide 20 mg Tablet Sig: [**2-1**] Tablet PO once a day.
+11. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+13. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H
+(every 4 hours) as needed for pain/temp.
+14. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+15. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q4H (every 4 hours) as needed for wheezing.
+16. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q4H (every 4 hours) as
+needed for wheezing.
+17. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+18. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day.
+19. warfarin 1 mg Tablet Sig: as directed Tablet PO once a day:
+INR 2-2.5.
+20. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO
+three times a day.
+21. Outpatient Lab Work
+INR check on [**3452-12-28**] and then daily until INR stable.
+22. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week:
+begin in 2 weeks from Right ORIF- start on [**3453-1-10**] .
+23. Vitamin D-3 400 unit Tablet Sig: Two (2) Tablet PO once a
+day.
+24. Calcium 500 500 mg calcium (1,250 mg) Tablet Sig: One (1)
+Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 967**] - [**Location (un) 2730**]
+
+Discharge Diagnosis:
+severe regurgitation (mitral valve prolapse)
+s/p mitral valve repair
+Right femoral neck fracture
+s/p right hip hemiarthroplasty
+coronary artery disease with old apical infarction
+Atrial Fibrillation
+Dyslipidemia
+Pulmonary Hypertension
+Vertebral Fractures
+Goiter (s/p RAI ablation [**71**] years ago)
+Hypothyroidism
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating
+INcisional pain managed with Percocet
+Incisions:
+Sternal - healing well, no erythema or drainage
+Right hip- healing well, no erythema or drainage. Staples in
+place
+Edema - trace
+
+
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with
+mild soap, no baths or swimming until cleared by surgeon. Look
+at your incisions daily for redness or drainage.
+2) Please NO lotions, cream, powder, or ointments to incisions.
+3) Each morning you should weigh yourself and then in the
+evening take your temperature, these should be written down on
+the chart provided.
+4) No driving for approximately one month and while taking
+narcotics. Driving will be discussed at follow up appointment
+with surgeon when you will likely be cleared to drive.
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+
+*Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon:Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 181**]) on [**3453-1-19**] at 2:00PM in the
+[**Hospital **] Medical Office Building, [**Last Name (NamePattern1) **]. [**Hospital Unit Name **]
+Cardiologist:Dr. [**Last Name (STitle) **] on [**3453-1-17**] at 9:00AM
+
+Please call to schedule appointments with:
+Orthopaedic Trauma, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in 2 wks. Please call
+[**Telephone/Fax (1) 1193**] to schedule an appointment
+Primary Care Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 279**]) in [**5-4**] weeks
+
+Provider: [**Name10 (NameIs) 1815**] FUNCTION LAB Phone:[**Telephone/Fax (1) 2422**]
+Date/Time:[**3453-2-7**] 1:10
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 181**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication Chronic Atrial
+Fibrillation
+Goal INR 2.0-2.5
+First draw [**3452-12-28**], then Monday, Wednesday, Friday until
+stabilized.  MD to dose daily. Sensitive to coumadin.
+
+
+
+Completed by:[**3452-12-27**]
+
+
+DOC CLASS

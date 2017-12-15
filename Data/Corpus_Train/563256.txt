@@ -1,0 +1,138 @@
+Chief Complaint: UGIB, hypotension
+   24 Hour Events:
+ EKG - At [**2566-11-26**] 02:00 AM
+   - s/p EGD overnight which showed blood in stomach, varices banded; no
+   active bleeding
+   - Received 2 units prbcs, 2 units FFP
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientPenicillins
+   Unknown; itchin
+   Sulfa (Sulfonamides)
+   chills;
+   Last dose of Antibiotics:
+   Meropenem - [**2566-11-26**] 01:00 AM
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2566-11-26**] 07:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 101 (89 - 109) bpm
+   BP: 105/55(65) {83/45(55) - 126/64(79)} mmHg
+   RR: 21 (13 - 24) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+           Total In:
+                                                                    177 mL
+                                                                  1,972 mL
+   PO:
+           TF:
+   IVF:
+   968 mL
+   Blood products:
+                                                                    177 mL
+                                                                  1,004 mL
+   Total out:
+                                                                      0 mL
+                                                                    115 mL
+   Urine:
+   115 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    177 mL
+                                                                  1,857 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 96%
+   ABG: ///17/
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL, + Scleral icterus
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Cardiovascular: (Murmur: Systolic), Regular,systolic murmur Heard best
+   at LUSB.
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear :
+   anteriorly, Crackles : lateral lung fields)
+   Abdominal: Soft, Bowel sounds present, Distended, Tender: Milldly TTP
+   diffusely
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Not assessed, Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): person, place, date, Movement: Purposeful,
+   Tone: Normal, No asterixis
+   Labs / Radiology
+   154 K/uL
+   10.0 g/dL
+   131 mg/dL
+   1.1 mg/dL
+   17 mEq/L
+   3.3 mEq/L
+   43 mg/dL
+   100 mEq/L
+   128 mEq/L
+   27.4 %
+   17.6 K/uL
+        [image002.jpg]
+                            [**2566-11-26**]  12:02 AM
+                            [**2566-11-26**]  03:35 AM
+   WBC
+   22.7
+   17.6
+   Hct
+   30.2
+   27.4
+   Plt
+   196
+   154
+   Cr
+   1.1
+   1.1
+   TropT
+   <0.01
+   <0.01
+   Glucose
+   138
+   131
+   Other labs: PT / PTT / INR:24.5/56.3/2.4, CK / CKMB /
+   Troponin-T:33/2/<0.01, ALT / AST:32/39, Alk Phos / T Bili:93/7.4,
+   Differential-Neuts:92.5 %, Band:0.0 %, Lymph:3.2 %, Mono:3.9 %, Eos:0.4
+   %, Lactic Acid:1.8 mmol/L, Albumin:3.8 g/dL, Ca++:7.9 mg/dL, Mg++:2.2
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ PERITONITIS, SPONTANEOUS BACTERIAL (SBP)
+ HYPOTENSION (NOT SHOCK)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2566-11-26**] 12:00 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

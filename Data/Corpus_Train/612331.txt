@@ -1,0 +1,290 @@
+TITLE: SUB-INTERN PROGRESS NOTE
+   24 Hour Events:
+   - Ultrasound-guided paracentesis (1.4L removed); peritoneal fluid
+   consistent with SBP; ceftriaxone 1g IV daily x5 days, albumin 1.5g/kg
+   - SAAG = serum albumin - peritoneal fluid albumin = 3.4-1.1 = 2.3,
+   consistent with transudate; total protein ascites 1.7 vs. serum 6.5
+   - TTE with AS, valve area 0.9cm2; mild LVH with presernved EF;
+   PCWP>18mmHg; 2+ MR; mild pulmonary artery systolic hypertension; no
+   pericardial effusion
+   - UA with blood, mod leuk est, 35 WBC; Foley removed
+   - RUQ duplex u/s:  Normal Doppler patency and flow of the hepatic
+   veins, portal vein
+   - Fe urea nitrogen 27.5%, urine sodium 20; prerenal, does not exclude
+   hepatorenal
+   - Right shoulder pain x1 week; written for Tylenol, 2g maximum
+   Allergies:
+   Amoxicillin
+   Unknown;
+   Sulfa (Sulfonamides)
+   Unknown;
+   Iodine; Iodine Containing
+   Rash;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3167-5-5**] 08:12 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3167-5-6**] 07:17 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 37.2
+C (98.9
+   HR: 51 (44 - 65) bpm
+   BP: 113/46(63) {92/21(45) - 125/81(89)} mmHg
+   RR: 21 (16 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 61 Inch
+                  Total In:
+                                                                  1,389 mL
+                                                                    165 mL
+   PO:
+                                                                    240 mL
+                  TF:
+   IVF:
+                                                                     94 mL
+   Blood products:
+                                                                    235 mL
+                                                                    165 mL
+   Total out:
+                                                                  2,062 mL
+                                                                      0 mL
+   Urine:
+                                                                    347 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,400 mL
+   Balance:
+                                                                   -673 mL
+                                                                    165 mL
+   Respiratory support
+   O2 Delivery Device: ROOM AIR
+   SpO2: 96%
+   Physical Examination
+   GENERAL:  Resting comfortably with head of bed elevated 30 degrees.
+   Oriented x3.
+   SKIN:  Not jaundiced. Mild erythema at nasal bridge, cheeks. No palmar
+   erythema. No spider angiomata. No caput.
+   HEENT:  NCAT. Sclera anicteric. EOMI. Conjunctiva pale.
+   NECK:  Supple. No appreciable JVD (exam limited [**1-16**] body habitus)
+   CARDIAC:  RRR, normal S1, quiet S2; III/VI holosystolic murmur loudest
+   at LUSB
+   LUNGS:  Diffuse expiratory wheezes; no crackles, rhonchi appreciated
+   ABDOMEN:  Obese; visible hernia below right breast, periumbilical;
+   soft, nontender. Dull to percussion, unable to appreciate fluid wave.
+   EXTREMITIES:  No lower extremity edema. Radial, DP pulses 2+.
+   Neuro:  No asterixis; CNII-XII intact; EOMI; upper and lower extremity
+   strength 5/5 and equal bilaterally.
+   Labs / Radiology
+   114 K/uL
+   8.8 g/dL
+   133 mg/dL
+   3.5 mg/dL
+   16 mEq/L
+   4.7 mEq/L
+   70 mg/dL
+   107 mEq/L
+   135 mEq/L
+   25.9 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**3167-5-5**]  02:05 PM
+                             [**3167-5-6**]  03:26 AM
+   WBC
+   19.0
+   9.4
+   Hct
+   32.6
+   25.9
+   Plt
+   172
+   114
+   Cr
+   3.3
+   3.5
+   Glucose
+   160
+   133
+   Other labs: PT / PTT / INR:18.7/33.3/1.7, ALT / AST:[**11-25**], Alk Phos / T
+   Bili:54/0.7, Differential-Neuts:91.2 %, Lymph:6.5 %, Mono:2.2 %,
+   Eos:0.1 %, Albumin:3.7 g/dL, LDH:141 IU/L, Ca++:8.2 mg/dL, Mg++:2.1
+   mg/dL, PO4:5.0 mg/dL
+   Assessment and Plan
+   77F with CAD s/p triple CABG, cirrhosis, DMII, HTN, CRI transferred
+   from OSH with new finding of severe AS, bradycardia, hypotension,
+   leukocytosis, and ARF on CRI, in the setting of increasing shortness of
+   breath and abdominal girth.
+   # ASCITES. The patient
+s increasing abdominal girth is due to
+   increasing peritoneal ascites. Her shortness of breath was probably
+   related to the ascites in two ways: (a) via a restrictive process where
+   it is harder for her to inhale due to the pressure against her lungs
+   and chest wall; and (b) via SBP, which increases her white count,
+   causing anion-gap metabolic acidosis due to increased CO2 production,
+   causing tachypnea to blow off excess CO2, causing discomfort of
+   breathing.
+   Yesterday
+s ultrasound-guided paracentesis showed ~5L of ascites.
+   Approximately 1.4L of peritoneal fluid was removed and showed WBC of
+   >2900 with 92% poly
+s (absolute ~2600 polys) and ascitic fluid total
+   protein (AFTP) 1.7. The high number of polys (>250) with low AFTP
+   (<2.5) suggests SBP. It is the measurement of the ascetic fluid total
+   protein concentration that assists in differentiating SBP from
+   secondary bacterial peritonitis, because lowest protein concentration
+   correlates with the highest risk of developing SBP. It is thought that
+   the low protein concentration correlates with low concentrations of
+   opsonins, which decreases the efficacy of innate immunity in the
+   peritoneum and thus predisposes to infection (see [**Last Name (un) 7589**],
+   Gastrooenterology [**3143**]; and [**Last Name (un) 7589**], Hepatology [**3145**]). We know that most
+   cases of SBP are due to gut bacteria (E. coli, Klebsiella) and that
+   sometimes even streptococcus and infrequently staphylococcus can be the
+   culprit, so treatment with somewhat broad-spectrum antibiotics is
+   warranted at least initially. Therefore, our patient was started on
+   ceftriaxone 1g IV daily x5 days (day 1=[**3167-5-5**]). Furthermore, patients
+   with cirrhosis and SBP frequently have impaired renal function, which
+   often results in increased morbidity and mortality. By administering IV
+   albumin (which expands plasma volume and increases blood flow to the
+   kidneys), one reduces morality rates at three months from 41% to 22%
+   (see Sort et [**Doctor Last Name **], NEJM [**3156**]). Therefore, our patient was also given
+   albumin 1.5g/kg yesterday, and will receive an additional 1.0g/kg on
+   day 3 ([**3167-5-7**]). In terms of long-term prophylaxis, the patient will
+   require a weekly dose of 750 mg ciprofloxacin for the rest of her life
+   because it decreases incidence of SBP from 22% to 3.6%, without
+   development of acquired resistance to ciprofloxacin (see Rolachon et
+   [**Doctor Last Name **], Hepatology [**3152**]).
+   The etiology of her ascites is portal hypertension as evidenced by her
+   high gradient SAAG (serum albumin - peritoneal fluid albumin = 3.4-1.1
+   = 2.3, where high gradient is >1.1, which has 97% accuracy for
+   predicting portal hypertension [see [**Last Name (un) 7589**] et [**Doctor Last Name **]. in Annals of Internal
+   Medicine [**3149**]]). In general, top of the differential diagnosis for
+   portal hypertension includes cirrhosis, CHF, and alcoholic hepatitis.
+   In our patient, cirrhosis is the most likely etiology because the vast
+   majority of patients with SBP have portal hypertension secondary to
+   cirrhosis. Furthermore, CHF is an unlikely cause given her low AFTP
+   (CHF is associated with high AFTP), and
+   , especially since she does not have have a history of alcohol abuse.
+   it is most likely that cirrhosis is the cause in our patient.
+   In terms of diagnosis of ascites, high vs. low gradient SAAG is not the
+   same as transudative/exudative ascites, which refers specifically to
+   ascetic fluid total protein concentration, not just the albumin.
+   77F with CAD s/p triple CABG, cirrhosis, DMII, HTN, CRI transferred
+   from OSH with new finding of severe AS and recent episodes of
+   bradycardia, hypotension. History also significant for leukocytosis,
+   acute on chronic renal failure.
+   .
+   #. CORONARIES:  CAD s/p CABG. Anatomy as listed above. No chest pain
+   currently or prior to OSH admission, although this is not necessarily
+   reassuring in this female, diabetic patient. By report, cardiac
+   biomarkers were negative at outside hospital.
+   - Continue aspirin 325mg PO daily
+   - Hold beta-blocker given recent bradycardia, hypotension
+   - Continue simvastatin 20mg PO daily
+   .
+   #. PUMP:  Per signout, patient was thought to be fluid overloaded at
+   OSH, BNP 741 with anasarca, net fluid balance +300ml yesterday, +500ml
+   today prior to transfer. TTE there showed preserved EF 65-70% but new
+   finding of severe AS with valve area of 0.7. Patient with hypotension
+   requiring initation of dopamine gtt.
+   - TTE to evaluate for diastolic dysfunction, severity of AS
+   - Hold beta-blocker given recent bradycardia, hypotension. Hold
+   hypotension given recent hypotension; unclear if patient needs to be on
+   ACE inhibitor as she is not known to have heart failure.
+   - Will restart furosemide as renal function improves
+   .
+   #. Aortic stenosis:  Reported as severe at OSH with valve area 0.7,
+   peak gradient 100mgHg. Interestingly, patient has had TTE in past
+   (records unavailable at this time) without mention of aortic stenosis.
+   Aortic stenosis likely contributes to this patient's dyspnea.
+   - TTE to evaluate valve function
+   - If severe, consider intervention. Valvuloplasty would be a temporary
+   solution. AVR is more permanent, but given cirrhosis, risk of surgery
+   may be high.
+   .
+   # RHYTHM:  Bradycardic to mid-30s at OSH. EKG with junctional rhythm.
+   Could this have been in context of decreased clearance of beta-blocker?
+   Currently in NSR with rate in 60s. No evidence of AV block. No ischemic
+   changes seen in RCA territory to suggest sinus node dysfunction.
+   - EP consulted for evaluation for pacemaker placement
+   - Hold beta-blocker, calcium-channel blocker
+   - Atropine at bedside
+   - Monitor on telemetry
+   .
+   #. Hypotension:  Noted with onset of bradycardia. Transferred on
+   dopamine at 5mcg/kg/min. Patient with hypertension at baseline. Appears
+   to be cardiogenic in origin given bradycardia; it is unclear whether
+   attempt was made to wean patient off of dopamine once bradycardia
+   resolved. Given leukocytosis, sepsis is also on differential.
+   - Continue to wean dopamine
+   - Hold antihypertensives
+   - Will cater antibiotics (if needed) based on infectious work-up below
+   .
+   # h/o liver cirrhosis:  Underlying etiology unknown. Followed by Dr.
+   [**First Name (STitle) 2537**] at [**Hospital1 17**]. Previously attributed to steatohepatitis. Complicated by
+   portal hypertension, ascites. MELD 24, CHILDS B.
+   - Abdominal ultrasound with doppler
+   - Ultrasound-guided paracentesis (diagnostic)
+   - Liver recs (Dr. [**First Name (STitle) 2537**]
+   - Low salt diet, fluid restriction
+   .
+   #. Leukocytosis:  No clear source of infection. Differential diagnosis
+   includes aspiration pneumonia, SBP, UTI. Was given levofloxacin IV at
+   OSH given suspicion for aspiration pneumonia.
+   - CXR
+   - UA
+   - Urine culture, blood cultures
+   - Diagnostic paracentesis
+   .
+   #. Acute on chronic renal failure:  Baseline 1.7. Creatinine now 3.3.
+   Differential includes ATN secondary to respond hypotensive episode
+   (although patient was with renal failure prior to episode yesterday),
+   prerenal etiology given poor cardiac output secondary to aortic
+   stenosis. [**Month (only) 47**] also be secondary to medications - recently started on
+   HCTZ.
+   - Urine lytes, UA
+   - Close monitoring of urine output
+   - Hold diuretics
+   .
+   #. Diabetes melliitus, type II:
+   - Continue Humalog sliding scale per home regimen
+   ICU Care
+   FEN:  Diabetic, heart healthy, low-salt diet; fluid restriction 1.5L;
+   replete lytes as needed
+   ACCESS:  PIV x2
+   PROPHYLAXIS:  Heparin SC TID; pneumoboots; home PPI; bowel regimen
+   CONTACT:  [**Name (NI) 1104**] ([**Name2 (NI) 2643**], HCP), ([**Telephone/Fax (1) 7577**]
+   CODE:  FULL CODE. Discussions regarding code status are ongoing.
+   DISPO: CCU for now
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ DIABETES MELLITUS (DM), TYPE II
+ AORTIC STENOSIS
+ ASCITES
+ KNOWLEDGE DEFICIT
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3167-5-5**] 09:41 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

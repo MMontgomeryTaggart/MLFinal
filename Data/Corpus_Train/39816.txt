@@ -1,0 +1,352 @@
+Admission Date:  [**2565-3-25**]              Discharge Date:   [**2565-4-19**]
+
+Date of Birth:  [**2486-1-30**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+morphine
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Shortness of breath
+
+Major Surgical or Invasive Procedure:
+Left heart catheterization, Coronary Catheterization [**2565-3-28**]
+Aortic valve replacement (19 St.[**Male First Name (un) 357**] Tissue) [**2565-4-15**]
+
+
+History of Present Illness:
+This 79 year old male who is known to cardiac surgery with
+critical aortic stenosis, having refused surgical intervention
+in the past, s/p valuloplasy x2 [**2563-10-5**]/[**2564-12-4**],
+who was transferred from an OSH for acute chest pain with
+troponin bump to 4.4. He initially presented to OSH with 1 week
+progressive shortness of breath, orthopnea, paroxysmal nocturnal
+dyspnea which are distinct from prior shortness of breath
+episodes which were attributed to COPD exacerbations and always
+accomopanied by cough and wheezing.
+
+ He was transfered to [**Hospital1 4**] for further mangangment of aortic
+stenosis. He now agrres to valve replacement being referred to
+cardiac surgery for re-evaluation for an aortic valve
+replacement.
+
+
+Past Medical History:
+Aortic stenosis
+s/pvalvuloplasty [**10/2563**], [**12/2564**]
+Coronary artery disease: Myocardial infarction [**2549**],
+h/o Congestive heart failureprior estimates in the 50's),
+possible diastolic component
+Paroxsymal atrial fibrillation
+s/p ablation for flutter
+Arthritis
+h/o Pulmonary embolism
+Hypertension
+Hyperlipidemia
+s/p cervical fusion
+s/p partial colectomy for ischemic colitis - Status-post
+hypospadias repair
+s/p fasciotomy of left lower leg for compartment
+syndrome after a [**2549**]
+s/p Tonsillectomy
+chronic obstructive pulmonary disease
+
+Social History:
+Lives with wife,  quit smoking  a few months ago, 60 pack year
+hx prior. No ETOH. No drugs.
+
+
+Family History:
+Family History: father deceased 72 from myocardial infarction,
+brother had heart surgery and died of heart disease in the
+hospital post-operatively
+
+Physical Exam:
+VS: temp98.2, BP152/67, HR68, RR20, O2sat 98%RA
+GENERAL: WDWN in NAD. Oriented x2 and easily redirectable to
+date. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, prominent arcus senilis,
+EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa. No xanthalesma.
+NECK: Supple with JVP of 5cm.
+CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits. left leg with large
+linear bandage covering wound on lateral aspect of leg
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: radial 2+ DP 2+ PT 2+
+Left: radial2+ DP 1+ PT 1+
+
+Pertinent Results:
+ADMISSION
+[**2565-3-25**] 08:00PM BLOOD WBC-12.1*# RBC-3.77* Hgb-11.6* Hct-34.7*
+MCV-92 MCH-30.8 MCHC-33.5 RDW-14.2 Plt Ct-286#
+[**2565-3-25**] 08:00PM BLOOD PT-21.3* PTT-143.1* INR(PT)-2.0*
+[**2565-3-25**] 08:00PM BLOOD Glucose-357* UreaN-35* Creat-1.2 Na-136
+K-4.3 Cl-95* HCO3-27 AnGap-18
+[**2565-3-26**] 10:40AM BLOOD CK(CPK)-238
+[**2565-3-25**] 08:00PM BLOOD Calcium-9.6 Phos-5.2* Mg-2.3
+.
+PERTINENT
+[**2565-3-25**] 08:00PM BLOOD CK-MB-22* cTropnT-1.16*
+[**2565-3-26**] 10:40AM BLOOD CK-MB-10 MB Indx-4.2 cTropnT-0.86*
+[**2565-3-28**] 06:20AM BLOOD proBNP-1376*
+[**2565-3-28**] 12:45PM BLOOD %HbA1c-7.4* eAG-166*
+[**2565-3-28**] 12:52PM BLOOD Type-ART pO2-90 pCO2-36 pH-7.49*
+calTCO2-28 Base XS-4 Intubat-NOT INTUBA
+[**2565-3-28**] 12:45PM BLOOD VitB12-732
+[**2565-3-28**] 12:45PM BLOOD ALT-14 AST-19 AlkPhos-85 Amylase-29
+TotBili-0.5
+[**2565-3-26**] 10:40AM BLOOD CK(CPK)-238
+.
+ECHO [**2565-3-26**]
+The left atrium is elongated. A left-to-right shunt across the
+interatrial septum is seen at rest c/w a small secundum atrial
+septal defect. There is mild symmetric left ventricular
+hypertrophy with normal cavity size and regional/global systolic
+function (LVEF>55%). The estimated cardiac index is normal
+(>=2.5L/min/m2). Right ventricular chamber size and free wall
+motion are normal. The diameters of aorta at the sinus,
+ascending and arch levels are normal. There are three aortic
+valve leaflets. The aortic valve leaflets are moderately
+thickened. There is severe aortic valve stenosis (valve area 0.8
+cm2). Mild (1+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Mild to moderate ([**2-4**]+) mitral
+regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+IMPRESSION: Severe aortic valve stenosis. Mild symmetric left
+ventricular hypertrophy with preserved global and regional
+biventricular systolic function. Mild-moderate mitral
+regurgitation. Mild aortic regurgitation. Increased PCWP. Small
+secundum type atrial septal defect.
+Compared with the prior study of [**2564-12-1**], the severity of
+aortic stenosis and the estimated PA systolic pressure, and
+severity of mitral regurgitation are now lower. A small secundum
+type ASD is now seen.
+CLINICAL IMPLICATIONS:
+The patient has severe aortic valve stenosis. Based on [**2559**]
+ACC/AHA Valvular Heart Disease Guidelines, if the patient is
+symptomatic (angina, syncope, CHF) and a surgical candidate,
+surgical intervention has been shown to improve survival.
+.
+CARDIAC CATH [**3-28**]
+1.  Selective coronary angiography of this co-dominant system
+demonstrated 1 vessel coronary artery disease.  The LMCA had no
+angiographically apparent flow-limiting disease.  The LAD had
+30%
+stenosis .  The LCx had 50% stenosis of the OM branch.  The RCA
+was a
+small vessel that was totally occluded at mid-vessel.
+2.  Resting hemodynamics revealed elevated left-sided filling
+pressure
+with a PCWP of 18mmHg.  There was pulmonary venous hypertension
+with a
+PA pressure of 42/17mmHg in the setting of an only mildly
+elevated PVR.
+Cardiac output was decreased at 4.7L/min with an index of
+2.6L/min/m2.
+3. Selective aortography revealed a calcified aortic root with
+no
+dilation, patent arch vessels, and patent renal and iliac
+arteries with
+only mild disease.
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease.
+2. Elevated left-sided filling pressures with pulmonary venous
+hypertension.
+3. Non-dilated and calcified aortic root with patent arch
+vessel,
+renals, and iliac arteries.
+.
+
+[**2565-4-17**] 05:20AM BLOOD WBC-10.4 RBC-3.26* Hgb-9.9* Hct-28.7*
+MCV-88 MCH-30.4 MCHC-34.5 RDW-16.2* Plt Ct-104*
+[**2565-4-17**] 05:20AM BLOOD Glucose-124* UreaN-20 Creat-1.0 Na-137
+K-4.2 Cl-102 HCO3-27 AnGap-12
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted to the [**Hospital1 4**] on [**2565-3-25**] for further
+management of his chest pain. Heparin was continued and a
+cardiac catheterization was obtained which showed single,
+non-occlusive coronary artery disease. An echocardiogram showed
+severe aortic stenosis with a normal ejection fraction. (Please
+see full report for details.) Given the severity of his disease
+and the fact that he has had 2 recent failed valvuloplasty's,
+the cardiac surgical service was consulted.
+
+ He was worked-up in the usual preoperative manner including a
+cartotid duplex ultrasound which showed a <40% stenosis on the
+right and a 40-59% stenosis on the left. Pulmonary function
+testing was obtained which showed an FEV1 of 1.25L and a
+diffusion capacity adjusted for hemoglobin to be 58%. As he had
+urinary retention and a worsening renal function
+([**2-4**]->1.7->1.2), a renal ultrasound was obtained which was
+normal. A nephrology consult was obtained which suspected he
+sustained an acute renal injury secondary to to Bactrim. Over
+the next few days, his renal function slowly improved.
+
+On [**2565-4-15**], he was taken to the Operating Room where he
+underwent an aortic valve replacement using a 19mm St. [**Male First Name (un) 357**]
+tissue prosthesis. Please see operative note for details.
+Postoperatively he was taken to the intensive care unit for
+monitoring. He was slowly weaned from pressors. On postoperative
+day one, he awoke neurologically intact and was extubated. On
+postoperative day two, he was transferred to the step down unit
+for further recovery. He was gently diuresed towards his
+preoperative weight.
+
+The Physical Therapy service was consulted for assistance with
+his postoperative strength and mobility. Coumadin was resumed
+for paroxysmal atrial fibrillation. He continued to have
+paroxysmal atrial fibrillation, Insulin was titrated for glucose
+control and beta blockers adjusted when he became hypotensive to
+the 80s, although he remained assymptomatic.
+
+He remains 12kg above his preoperative weight, with significant
+edema and will continue on twice daily Lasix at discharge.  This
+will need to be titrated at rehab as he diuresis. He was in
+sinus rhythm on [**4-18**] at am rounds.
+
+He was transferred to the [**Location (un) **] Center for Rehab in [**Location (un) **],
+[**Location (un) 1498**] for further recovery on [**2565-4-19**].No Coumadin today
+as INR 4.3.
+
+Medications on Admission:
+`1. Humulin N insulin 12units [**Hospital1 **] (before breakfast and before
+supper)
+2. Novolog insulin 8 units [**Hospital1 **] (before breakfast and before
+supper)
+3. aspirin 325mg QD
+4. lisinopril 40mg QDAY
+5. Lasix 40mg QDAY
+6. Ranitidine 150mg QDAY
+7. Metoprolol 25mg [**Hospital1 **]
+8. Norflex 100mg [**Hospital1 **]
+9. Simvastatin 40mg QDAY
+10. Coumadin 2.5mg X6 days/week, 5mg wednesdays
+11. Ventolin daily prn sob
+12. Atrovent daily prn sob
+.
+transfer meds:
+Albuterol + ipratropium nebs PRN
+Aspirin 325mg QD
+IV Furosamide 40mg [**Hospital1 **]
+Insulin lispro
+
+Discharge Medications:
+1. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+2. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Atrovent HFA 17 mcg/actuation HFA Aerosol Inhaler Sig: One
+(1)  Inhalation every six (6) hours as needed for shortness of
+breath or wheezing.
+4. Ventolin HFA 90 mcg/actuation HFA Aerosol Inhaler Sig: [**2-4**]
+puffs Inhalation every 4-6 hours as needed for shortness of
+breath or wheezing.
+5. simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+7. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain, fever.
+8. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+9. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. warfarin 1 mg Tablet Sig: as directed Tablet PO once a day:
+INR 2-2.5.
+11. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain for 4 weeks.
+Disp:*50 Tablet(s)* Refills:*0*
+12. fluticasone-salmeterol 100-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+13. Lasix 80 mg Tablet Sig: One (1) Tablet PO twice a day for 2
+weeks.
+14. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO twice a day for 2
+weeks.
+15. Humulin N 100 unit/mL Suspension Sig: Twelve (12) units
+Subcutaneous twice a day.
+16. Novolog 100 unit/mL Solution Sig: Eight (8) units
+Subcutaneous twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **]
+
+Discharge Diagnosis:
+s/p aortic valve replacement
+chronic obstructive pulmonary disease
+s/p aortic valvuloplasty x 2
+s/p atrial dysrhythmia ablation-unsuccessful
+s/p laparotomy for ischemic colon with resection
+h/o remote pulmonary embolism
+coronary artery disease
+hypertension
+hyperlipidemia
+benign prostatic hypertrophy
+aortic stenosis
+insulin dependent diabetes mellitus
+ paroxysmal atrial fibrillation
+congestive heart failure
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Edema: 1+
+
+
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with
+mild soap, no baths or swimming until cleared by surgeon. Look
+at your incisions daily for redness or drainage.
+2) Please NO lotions, cream, powder, or ointments to incisions.
+3) Each morning you should weigh yourself and then in the
+evening take your temperature, these should be written down on
+the chart provided.
+4) No driving for approximately one month and while taking
+narcotics. Driving will be discussed at follow up appointment
+with surgeon when you will likely be cleared to drive.
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) 222**] ([**Telephone/Fax (1) 294**]) on [**2565-5-22**] at1:15pm
+Cardiologist: Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 8738**]) on [**2565-5-6**] at 8am
+ **Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication atrial fibrillation
+Goal INR 2-2.5
+First draw day after transfer
+ Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 8738**]) will manage Coumadin after rehab
+discharge
+
+
+
+Completed by:[**2565-4-19**]
+
+
+DOC CLASS

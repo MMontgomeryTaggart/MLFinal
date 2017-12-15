@@ -1,0 +1,147 @@
+Chief Complaint:
+   24 Hour Events:
+   - Removed from BiPap, placed on NRB facemask
+   - Concern for PNA, rec
+d Levaquin in ED.  Unable to discern actuality
+   of PNA.  Decided to hold on Abx for now.  Low threshold to start abx.
+   Will need to cover with more than LVQ as he was transferred from [**Hospital 11**]
+   Rehab and would req pseudomonal coverage.
+   - Lasix drip, added Diuril 250 mg
+   - Pending urine lytes, depending on results
+ renal u/s
+   - Blood cx pending
+   - ABG 7.39/65/160
+   - Required low dose Ativan x 1 for agitation
+   - Emailed pt
+s cardiologist, Dr. [**Last Name (STitle) 4448**], to update him on admission.
+   He replied that he would help in a transfer to the CCU.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 8 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2849-8-18**] 05:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2849-8-19**] 06:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36
+C (96.8
+   HR: 69 (63 - 108) bpm
+   BP: 113/61(72) {78/39(43) - 131/68(78)} mmHg
+   RR: 18 (15 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    747 mL
+                                                                     51 mL
+   PO:
+                                                                    200 mL
+             TF:
+   IVF:
+                                                                     47 mL
+                                                                     51 mL
+   Blood products:
+   Total out:
+                                                                  1,010 mL
+                                                                    760 mL
+   Urine:
+                                                                    910 mL
+                                                                    560 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -263 mL
+                                                                   -709 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 100%
+   ABG: 7.39/65/160//11
+   PaO2 / FiO2: 320
+   Physical Examination
+   Gen: sleeping, occasional tremor-like movements
+   Chest: diffuse crackles bilat
+   Ext: left leg larger than right, no edema in right, with slight pitting
+   to ankle in left
+   Labs / Radiology
+   401
+   9.3
+   129
+   2.8
+   36
+   4.0
+   98
+   93
+   140
+   31.1
+   9.9
+        [image002.jpg]
+                             [**2849-8-18**]  06:52 PM
+                             [**2849-8-19**]  01:24 AM
+   TropT
+   0.09
+   TCO2
+   41
+   Other labs: CK / CKMB / Troponin-T:46//0.09
+   BNP: [**Numeric Identifier 4444**]
+   Assessment and Plan
+   Mr. [**Known patient lastname 3232**] is an 83 year-old man with a history of coronary artery
+   disease and respiratory failure due to acute-on-chronic systolic CHF.
+   1. Acute on chronic systolic CHF plus severe mitral regurgitation:
+   - furosemide 80 mg IV bolus followed by 8 mg/hr drip; added Diural
+   250mg for goal of net negative 100 cc/hr
+   - cont amiodarone for beta blockade
+   - Continue ACE, although have low threshold to d/c in case of worsening
+   renal function
+   - cycle enzymes to rule out acute infarction as cause of decompensation
+   - low Na/fluid restricted diet
+   - consider transfer to CCU service, Dr. [**Last Name (STitle) 4448**] is in agreement
+   2. Hypoxemia: likely secondary to pulmonary edema and decompensated
+   heart failure; lack of fever, sputum production, leukocytosis, bandemia
+   all argue against pneumonia
+   - hold further antibiotics for now
+   - [**Month (only) 56**] need another ABG today as pt is hypercarbic but appears to be
+   compensated
+   3. Coronary artery disease:
+   - cont home aspirin, clopidogrel, statin
+   - cycle enzymes
+   4. Atrial fibrillation:
+   - cont amiodarone
+   - hold warfarin given supratherapeutic INR and possibility of invasive
+   procedure; if subtherapeutic, can use IV heparin
+   5. Acute on chronic renal failure (baseline CKD IV): likely due to poor
+   forward flow from decompensated CHF as above
+   - urine lytes, urine eo
+s- pending
+   - diuresis as above
+   6. DM2: on oral agents at home
+   - sliding scale insulin
+   7. Anxiety:
+   - cont home citalopram; prn low-dose lorazepam
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2849-8-18**] 04:27 PM
+   Prophylaxis:
+   DVT: pneumoboots
+   Stress ulcer: H2 Blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

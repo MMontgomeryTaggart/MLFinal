@@ -1,0 +1,209 @@
+CVICU
+   HPI:
+   s/p rt thoracotomy, fibrillating/cold heart/MVR(mechanical)
+   Chief complaint:
+   PMHx:
+   Possible Rheumatic Valvular Disease, HTN, Hyperlipidemia, Chronic Afib,
+   History of DCCV [**2833**], Neuropathy of Lower Extremities, Hemorrhoids,
+   Arthritis, s/p 21mm AVR (bioprosthetic) [**2831**] by Dr. [**Last Name (STitle) 9426**] at [**Hospital1 938**],
+   Hysterectomy, Bilateral Cataracts
+   Current medications:
+   Metoprolol Tartrate 50 mg PO/NG TID, Acetaminophen 650 mg PO/PR
+   Q4H:PRN, Milk of Magnesia 30 mL PO DAILY:PRN constipation, Albumin 25%
+   (12.5g / 50mL) 25 g IV Q8H, Nitroglycerin 0.2-2.0 mcg/kg/min IV DRIP,
+   Aspirin EC 81 mg PO DAILY, Pantoprazole 40 mg PO Q12H, Atorvastatin 10
+   mg PO/NG DAILY, Docusate Sodium 100 mg PO BID, Furosemide 20 mg IV BID,
+   TraMADOL (Ultram) 50 mg PO Q4H:PRN pain, Insulin 100 Units/100 ml NS @
+   [**1-17**] UNIT/HR IV DRIP, Warfarin 5 mg PO/NG ONCE
+   24 Hour Events:
+ EXTUBATION - At [**2839-11-16**] 03:20 PM
+   cuff leak noted
+ INVASIVE VENTILATION - STOP [**2839-11-16**] 03:20 PM
+ CCO PAC - STOP [**2839-11-16**] 05:25 PM
+   Placed in OR
+ MULTI LUMEN - START [**2839-11-16**] 05:35 PM
+   Right IJ Cordis changed over a guide wire to a multi lumen [**2839-11-16**] @
+   1740
+ CORDIS/INTRODUCER - STOP [**2839-11-16**] 05:36 PM
+   Placed in OR
+   Post operative day:
+   POD 2 s/p rt thoracotomy, fibrillating/cold heart/MVR(mechanical)
+   Allergies:
+   Erythromycin Base
+   Hives;
+   Last dose of Antibiotics:
+   Cefazolin - [**2839-11-17**] 02:03 AM
+   Infusions:
+   Esmolol - 150 mcg/Kg/min
+   Other ICU medications:
+   Diltiazem - [**2839-11-16**] 01:00 PM
+   Metoprolol - [**2839-11-16**] 05:04 PM
+   Insulin - Regular - [**2839-11-16**] 06:54 PM
+   Pantoprazole (Protonix) - [**2839-11-17**] 06:04 AM
+   Furosemide (Lasix) - [**2839-11-17**] 10:15 AM
+   Other medications:
+   Flowsheet Data as of  [**2839-11-17**] 11:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**42**] a.m.
+   Tmax: 35.8
+C (96.4
+   T current: 35.4
+C (95.8
+   HR: 114 (100 - 117) bpm
+   BP: 117/69(88) {83/57(68) - 123/78(96)} mmHg
+   RR: 21 (14 - 25) insp/min
+   SPO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 91 kg (admission): 80 kg
+   Height: 65 Inch
+   CVP: 22 (19 - 27) mmHg
+   PAP: (62 mmHg) / (33 mmHg)
+   CO/CI (Fick): (5.1 L/min) / (2.7 L/min/m2)
+   CO/CI (CCO): (3.5 L/min) / (2.7 L/min/m2)
+   SvO2: 67%
+   Total In:
+                                                                  2,639 mL
+                                                                  1,548 mL
+   PO:
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  2,399 mL
+                                                                  1,038 mL
+   Blood products:
+                                                                    200 mL
+                                                                    450 mL
+   Total out:
+                                                                  2,607 mL
+                                                                  1,180 mL
+   Urine:
+                                                                  2,117 mL
+                                                                    990 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                     32 mL
+                                                                    368 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 95%
+   ABG: 7.42/36/135/24/-2
+   PaO2 / FiO2: 338
+   Physical Examination
+   General Appearance: No acute distress, Anxious
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bases bilaterally), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities, Sedated
+   Labs / Radiology
+   101 K/uL
+   9.3 g/dL
+   99 mg/dL
+   0.7 mg/dL
+   24 mEq/L
+   3.9 mEq/L
+   16 mg/dL
+   111 mEq/L
+   143 mEq/L
+   26.7 %
+   17.6 K/uL
+        [image002.jpg]
+                             [**2839-11-15**]  08:27 PM
+                             [**2839-11-15**]  09:36 PM
+                             [**2839-11-15**]  11:10 PM
+                             [**2839-11-16**]  12:37 AM
+                             [**2839-11-16**]  02:08 AM
+                             [**2839-11-16**]  03:49 AM
+                             [**2839-11-16**]  05:53 AM
+                             [**2839-11-16**]  12:11 PM
+                             [**2839-11-16**]  06:48 PM
+                             [**2839-11-17**]  01:53 AM
+   WBC
+   15.8
+   17.6
+   Hct
+   31.7
+   34.7
+   26.7
+   Plt
+   159
+   101
+   Creatinine
+   0.6
+   0.7
+   TCO2
+   23
+   21
+   20
+   24
+   22
+   22
+   23
+   Glucose
+   149
+   148
+   160
+   129
+   121
+   105
+   104
+   127
+   99
+   Other labs: PT / PTT / INR:14.2/38.4/1.2, Fibrinogen:235 mg/dL, Lactic
+   Acid:1.9 mmol/L, Mg:2.2 mg/dL
+   Imaging: [**11-15**] Slightly improved lung ventilation, decrease of the
+   pre-described
+   mediastinal widening.
+   Microbiology: [**2839-11-15**]  MRSA SCREEN MRSA SCREEN-PENDING
+   ECG: AF
+   Assessment and Plan
+   VALVE REPLACEMENT, MITRAL MECHANICAL (MVR), .H/O ATRIAL FIBRILLATION
+   (AFIB)
+   Assessment and Plan: 76 yr old female s/p s/p rt thoracotomy,
+   fibrillating/cold heart/MVR(mechanical)
+   Neurologic: Pain controlled, On ultram, disoriented yesterday but
+   oriented times three today although still somnulent
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   Wean Esmolol gtt as tolerated and increase lopressor for better rate
+   control.  Coumadin for mechanical mitral valve and atrial fibrillation.
+   Pulmonary: IS, Discontinue chest tube(s)
+   Gastrointestinal / Abdomen: Bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO
+   Hematology: 1 Unit PRBC for Hct of 26
+   Endocrine: Insulin drip
+   Infectious Disease: no current issues
+   Lines / Tubes / Drains: Foley, Chest tube - pleural
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: P.T.
+   ICU Care
+   Nutrition: Heart healthy, ADAT
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**2839-11-15**] 08:00 PM
+   Multi Lumen - [**2839-11-16**] 05:35 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

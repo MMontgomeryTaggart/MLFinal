@@ -1,0 +1,163 @@
+Admission Date:  [**3105-6-10**]              Discharge Date:   [**3105-6-11**]
+
+Date of Birth:  [**3033-12-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Lipitor
+
+Attending:[**First Name3 (LF) 8335**]
+Chief Complaint:
+S/P fall after discharge
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Mr. [**Known patient lastname 2200**] is a 71 yo M with COPD on 2.5L home O2, CAD s/p CABG
+in [**3072**] with repeat CABG in '[**86**] and residual Left hemidiaphragm
+paralysis, PCI with BMS to the prox RCA, as well as a DES in
+[**3102**] to the left main and left circ, h/o VT who was discharged
+earlier this morning after being hospitalized from [**Date range (1) 8336**] for
+shortness of breath [**2-6**] COPD exacerbation and pneumonia. He was
+discharged home on a Prednisone taper.
+.
+As he was getting into the car, his son went to the other side
+to place the oxygen tank into the back seat. He then noted that
+his father had fallen down. Per report, the patient did not have
+his oxygen on at this time and appeared bluish-grayish in color.
+The patient denied any dizziness, chest pain, palpitations, SOB,
+or abdominal pain prior to this episode. He states that he felt
+week in his knees and fell. He is unsure if he felt like he was
+going to pass out. A code blue was called at this time and the
+patient was brought back to the ED for further work-up.
+.
+In the ED, initial vitals were T 98.3 BP 107/60 AR 94 RR 18 O2
+sat 95% on 2L. He received calcium gluconate and kayexelate for
+hyperkalemia as well as a combivent neb.
+
+Past Medical History:
+- CAD s/p CABG in [**3072**] (LIMA to LAD) c/b left phrenic nerve
+damage
+MI in [**3086**] with CABG redo (SVG-OM and SVG-RCA - both known to be
+totally occluded)
+- s/p PCI in [**5-/3102**] with a BMS to the proximal RCA, as well as a
+Cypher drug-eluting stent in [**6-/3102**] to the LMCA into LCx.
+-h/o VT, pulseless arrest in [**11/3104**]; taken off amiodarone after
+EPS did not show inducible arrhythmia (thought due to acidosis)
+
+-CHF, ischemic cardiomyopathy, EF 35%, AR and PR
+-Abdominal aortic aneurysm s/p bifurcated graft repair in [**3088**]
+-Popliteal aneurysm s/p repair [**3104**]
+-COPD with L hemidiaphragm paralysis, leading to restrictive
+lung disease. On home O2 (2.5 L/min) since summer [**3104**].
+-Hyperlipidemia (dx over 30 years ago)
+-Peptic ulcer disease (dx [**3100**])
+-Peripheral vascular disease s/p left femoral-to-popliteal
+artery bypass graft
+-Benign prostatic hypertrophy
+-Deep vein thrombosis in UE - patient unsure of details,
+?following CABG, patient was in ICU and said both of his arms
+were swollen
+-Arthritis
+- Of note, multiple ICU admissions in last year, requiring
+multiple intubations
+
+Social History:
+Smoked 1 pack per day for 30 years, quit 18 years ago. Denies
+EtOH usage now as well as illicit drugs. The patient is
+currently living at home. He has two sons.
+
+
+Family History:
+Brother died of MI at 48. Mother with chronic angina and father
+died at age 72 of either a heart attack or abdominal aortic
+aneurysm (AAA).
+
+Physical Exam:
+Vitals T 99.1 BP 112/62 AR 72 RR 18 O2 sat 93% on 3L NC
+Gen: Awake and alert, does not appear acutely ill
+HEENT: MMM
+Heart: Distant heart sounds, no m,r,g
+Lungs: CTAB, poor air movement posteriorly likely [**2-6**] poor
+effort
+Abdomen: Obese, soft, NT/ND, +BS
+Extremities: No LE edema, well perfused
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**3105-6-10**] 08:58PM BLOOD Neuts-83.4* Lymphs-9.8* Monos-5.9 Eos-0.7
+Baso-0.1
+[**3105-6-11**] 05:40AM BLOOD Glucose-98 UreaN-44* Creat-1.4* Na-139
+K-4.6 Cl-89* HCO3-48* AnGap-7*
+[**3105-6-11**] 05:40AM BLOOD CK(CPK)-29*
+[**3105-6-11**] 05:40AM BLOOD CK-MB-NotDone cTropnT-0.03*
+.
+.
+PERTINENT LABS/STUDIES:
+.
+ECG: RBBB, no ST-T wave changes, unchanged from prior ECG
+.
+CT head: Negative.
+.
+Cxray: No acute findings.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 2200**] is a 71 M w CAD s/p CABG x 2, CHF EF 30%, h/o Vtach
+s/p ablation, CRI, and severe COPD with home 2.5L O2 discharged
+earlier today, who was readmitted s/p fall.
+.
+The patient was found to have hyperkalemia in the ED, where he
+was given Kayexelate, calcium, and gluconate.  The patient
+remained stable overnight.  On the morning of [**3105-6-11**], the
+patient developed VTach.  Given the fact that the patient was
+DNR/DNI, he was given IV Amiodarone in an attempt to break the
+rhythm.  The patient's son was called, who confirmed the fact
+that the patient was DNR/DNI.  The patient ultimately became
+unresponsive and expired 10 minutes later.  The patient's family
+was informed and an autopsy was declined.  The case was reported
+to the medical examiner's office, who also declined an autopsy.
+
+
+Medications on Admission:
+CPAP AS DIRECTED
+Aspirin 325 mg PO daily
+Simvastatin 10 mg PO daily
+Clopidogrel 75 mg PO daily
+Albuterol nebs Q6H PRN
+Ranitidine HCl 150 mg PO daily
+Acetaminophen 325-650 mg PO Q6H PRN
+Carvedilol 12.5 mg PO BID
+Furosemide 60 mg PO daily
+Lasix 80 mg PO QPM
+Lisinopril 2.5 mg PO daily
+Prednisone 40 mg for 1 day, 30 mg for 1 day, 20 mg for 1 day, 10
+mg for 3 days, 5 mg for 3 days
+
+Discharge Medications:
+Patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3309**] MD [**MD Number(1) 8337**]
+
+Completed by:[**3105-7-3**]
+
+
+DOC CLASS

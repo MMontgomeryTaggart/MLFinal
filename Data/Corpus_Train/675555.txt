@@ -1,0 +1,188 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - no events
+   Allergies:
+   Metoprolol
+   severe bradycar
+   Norvasc (Oral) (Amlodipine Besylate)
+   bradycardia per
+   Lipitor (Oral) (Atorvastatin Calcium)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3388-11-7**] 07:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 40 (31 - 41) bpm
+   BP: 124/32(55) {88/32(51) - 146/74(85)} mmHg
+   RR: 11 (10 - 21) insp/min
+   SpO2: 94%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 68 Inch
+             Total In:
+                                                                  1,474 mL
+                                                                    456 mL
+   PO:
+                                                                    180 mL
+             TF:
+   IVF:
+                                                                    794 mL
+                                                                    456 mL
+   Blood products:
+   Total out:
+                                                                    110 mL
+                                                                      0 mL
+   Urine:
+                                                                     60 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,364 mL
+                                                                    456 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///23/
+   Physical Examination
+   GEN: NAD, AAOx3
+   CV: RRR c [**2-15**] crescendo/decrescendo murmur heard best @ LUSB
+   RESP: CTA on anterior exam
+   ABD: S, NT/ND, +BS
+   EXT: WWP, 1+ pulses
+   Labs / Radiology
+   270 K/uL
+   9.2 g/dL
+   92 mg/dL
+   4.9 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   56 mg/dL
+   105 mEq/L
+   139 mEq/L
+   27.7 %
+   7.4 K/uL
+        [image002.jpg]
+                            [**3388-11-6**]  02:45 PM
+                            [**3388-11-6**]  10:01 PM
+   WBC
+   7.4
+   Hct
+   29.0
+   27.7
+   Plt
+   270
+   Cr
+   4.9
+   TropT
+   0.07
+   0.07
+   Glucose
+   92
+   Other labs: PT / PTT / INR:15.2/25.3/1.3, CK / CKMB /
+   Troponin-T:56//0.07, ALT / AST:402/525, Alk Phos / T Bili:77/0.3,
+   Differential-Neuts:76.4 %, Lymph:15.9 %, Mono:6.4 %, Eos:1.0 %,
+   Albumin:3.2 g/dL, LDH:759 IU/L, Ca++:7.7 mg/dL, Mg++:3.2 mg/dL, PO4:6.2
+   mg/dL
+   RUQ U/S:
+   IMPRESSION:
+   1. Diffusely coarsened echotexture of the liver. No discrete nodule
+   seen;
+   however, evaluation is limited given the coarsened appearance of the
+   liver.
+   Multiphasic CT or MRI is more sensitive for detecting focal
+   intrahepatic
+   lesions and can be considered for further evaluation if indicated.
+   2. Collapsed gallbladder with sludge and gallstones.
+   Assessment and Plan
+   68 M with CAD s/p 5 stents, chronic systolic heart failure, atrial
+   fibrillation, moderate AS, PVD, pHTN, h/o melanoma s/p resection and
+   radiation, hypothyroidism, chronic kidney disease presents from [**Hospital **] with symptomatic bradycardia and acute on chronic kidney
+   failure
+   .
+   # Bradycardia
+ DDx includes tachy/brady syndrome with excessive beta
+   blockade, new MI/ischemia, metastatic damage to conduction system
+   - ruled out for MI x 3
+   - holding amiodarone and BB for now
+   - per EP, will go for pacer placement
+   .
+   # Acute on chronic kidney failure- patient has been NPO for past [**3-16**]
+   days while still receiving his furosemide and [**Last Name (un) **]. Had urinalysis at
+   [**Location (un) 190**] with no RBCs and slight proteinuria not consistent with
+   nephritic picture. Patient is not volume overloaded on exam, in fact he
+   appears slightly volume depleted.
+   - hold [**Last Name (un) **] and diuretics
+   - given normal saline at 75cc/hr for 1500cc
+   - avoid nephrotoxins
+   .
+   # GIB - patient with long history of recurrent GIB which is why he is
+   off ASA and warfarin. Has continued with clopidogrel as sole therapy.
+   Of note his last stent was placed 5 years ago. He had a SB capsule
+   study at [**Hospital1 571**] facility in [**Location (un) **] several months ago with 'ulcers' in
+   small bowel and last 3 days at [**Location (un) 190**] he has had EGD with gastric non
+   bleeding ulcers and colonoscopy with no signs of active bleeding. He
+   was transfused 3 units PRBC over past week and has been having chronic
+   melena for months now.
+   - Hct remains stable, continue to trend esp. if continued evidence of
+   GIB
+   - active type and screen
+   - 2 large bore PIV
+   .
+   # Transaminitis- ddx includes hypoperfusion, medication induced from
+   amiodarone, metastatic disease, fatty liver. Less likely hepatitis.
+   - recheck and trend
+   - hold amiodarone
+   - tox panel negative
+   - IVF to restore euvolemia
+   - RUQ US: coarse echotexture of liver, no appreciable nodularity though
+   limited exam
+   .
+   # Chronic systolic heart failure- currently volume depleted
+   - hold BB, diuretic and [**Last Name (un) **] for now given acute issues
+   - normal saline 75cc/hr for 1500cc
+   - daily weights
+   .
+   # h/o melanoma- stage III followed by oncology. Not a candidate for
+   interferon given CAD
+   .
+   # OSA- CPAP
+   .
+   FEN:  NPO for now
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots.
+   CODE: Presumed full  .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3388-11-6**] 01:53 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

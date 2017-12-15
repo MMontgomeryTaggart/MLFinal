@@ -1,0 +1,221 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   [**10-14**]
+   - gave laisx 10mg x 1
+   - his insurance is working on pt transfer to rehab
+   Allergies:
+   Ceftriaxone
+   Rash;
+   Last dose of Antibiotics:
+   Tobramycin - [**2652-10-14**] 03:00 PM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2652-10-14**] 08:13 PM
+   Furosemide (Lasix) - [**2652-10-14**] 09:32 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2652-10-15**] 07:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.8
+C (98.3
+   HR: 62 (56 - 72) bpm
+   BP: 114/53(66) {92/46(58) - 137/65(78)} mmHg
+   RR: 17 (16 - 24) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 74 Inch
+             Total In:
+                                                                  3,130 mL
+                                                                    821 mL
+   PO:
+             TF:
+                                                                  2,040 mL
+                                                                    645 mL
+   IVF:
+                                                                    340 mL
+                                                                     76 mL
+   Blood products:
+   Total out:
+                                                                  2,585 mL
+                                                                    520 mL
+   Urine:
+                                                                  2,585 mL
+                                                                    520 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    545 mL
+                                                                    301 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 443 (443 - 523) mL
+   PS : 10 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 107
+   PIP: 21 cmH2O
+   Plateau: 12 cmH2O
+   Compliance: 71.4 cmH2O/mL
+   SpO2: 94%
+   ABG: ///30/
+   Ve: 13.4 L/min
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   , Diminished: )
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): person, place, time, Movement: Not assessed,
+   Tone: Not assessed
+   Labs / Radiology
+   196 K/uL
+   8.7 g/dL
+   131 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   4.6 mEq/L
+   17 mg/dL
+   98 mEq/L
+   135 mEq/L
+   27.3 %
+   11.6 K/uL
+        [image002.jpg]
+                             [**2652-10-7**]  04:52 AM
+                             [**2652-10-8**]  03:33 AM
+                             [**2652-10-9**]  05:23 AM
+                             [**2652-10-10**]  03:37 AM
+                             [**2652-10-11**]  04:52 AM
+                             [**2652-10-12**]  04:06 AM
+                             [**2652-10-13**]  04:25 AM
+                             [**2652-10-14**]  04:16 AM
+                             [**2652-10-15**]  05:05 AM
+   WBC
+   15.4
+   10.1
+   9.3
+   9.7
+   15.7
+   13.5
+   12.8
+   11.8
+   11.6
+   Hct
+   29.0
+   26.9
+   26.8
+   28.2
+   27.1
+   26.0
+   26.3
+   27.0
+   27.3
+   Plt
+   161
+   161
+   177
+   187
+   [**Telephone/Fax (2) 8026**]94
+   196
+   Cr
+   0.9
+   0.9
+   0.8
+   0.8
+   0.7
+   0.7
+   0.8
+   0.8
+   0.9
+   Glucose
+   106
+   120
+   110
+   124
+   131
+   133
+   128
+   131
+   131
+   Other labs: PT / PTT / INR:22.1/30.6/2.1, Differential-Neuts:80.0 %,
+   Lymph:14.1 %, Mono:2.8 %, Eos:2.8 %, Lactic Acid:0.8 mmol/L, Ca++:7.6
+   mg/dL, Mg++:2.1 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+ RASH
+ RESPIRATORY FAILURE, CHRONIC
+ HYPOTENSION (NOT SHOCK)
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   67 year old man 1 month s/p AVR, MVR, and CABG x 3, now with fever to
+   100.9, WBC 18.7 admitted with pneumonia and possible cellulitis.
+    # Fever/Sepsis Most likely etiology is pneumonia given CT findings and
+   moderate growth of pseudomonas and e. coli on sputum. Also with thick
+   mucus suctioned from trach. Sputum with MDR pseudomonas
+   - tobramycin (through [**10-24**]), trough Q3days or if Cr changes
+   - tylenol prn fever
+   # Respiratory distress: Pt was d/c'ed with trach due to inability to
+   clear secretions. Discharged with trach collar and vent at night.
+   Currently on AC due to difficulty with thick secretions.  Underlying
+   pneumonia likely limiting factor for patient to transition to normal
+   settings.  Had bronch yesterday
+   - AC as needed
+   - Continue home albuterol
+   - lasix PRN, will give dose today
+   # Cardiovascular: EKG improved from prior. No chest pain. BP was low on
+   med in setting of sepsis. BP now stable.
+   - continue ASA, statin
+   - continue ACEi
+   - continue BB low dose
+   - hold CaCh blocker
+   - telemetry as pt on vent, has history of afib
+   # H/o afib/flutter: Currently in sinus on EKG. On amiodarone and
+   Coumadin as outpatient, INR still subtheraputic
+   - Coumadin 4mg today
+   - monitor coags
+   - Continue amio
+   # Muscle spasms: bilateral LEs and L arm at night. ? etiology [**3-8**]
+   medication.  Again last night
+   - will monitor
+   - oxycodone PRN HS
+   # H/o CVA: Left hemiparesis improved as L LE now has some strength.
+   - Continue statin, aspirin, Coumadin
+   # Anxiety:
+   - start celexa 10mg
+   - low dose ativan PRN for now
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2652-10-15**] 01:51 AM 85 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2652-10-11**] 12:20 PM
+   Prophylaxis:
+   DVT: Heparin subq
+   VAP:  standard ppx
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: To rehab when bed available
+
+
+
+DOC CLASS

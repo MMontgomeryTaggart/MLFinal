@@ -1,0 +1,237 @@
+Admission Date:  [**3111-4-18**]              Discharge Date:   [**3111-4-21**]
+
+Date of Birth:  [**3043-2-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins
+
+Attending:[**First Name3 (LF) 764**]
+Chief Complaint:
+Capsular hematoma and pneumothorax post liver biopsy.
+
+Major Surgical or Invasive Procedure:
+percutaneous liver biopsy
+
+
+History of Present Illness:
+68 year-old male with recently diagnosed HTN and liver mass
+admitted for hemodynamic monitoring from intraperitoneal bleed
+after liver biopsy. Mass was incidentally discovered on a CT for
+nephrolithiasis [**3043**], and initially believed to be in
+pancreas. CT and MR of the abdomen showed 4x3cm mass to be in
+caudate liver. He presented for IR liver biopsy on [**4-18**], which
+was complicated by small RUL ptx. He was under observation when
+HCT dropped from 53 (admit) to 41 this morning. Of note, HCT was
+45 post bx-->41 14 hrs later. CT abd/pelvis showed subcapsular
+hematoma, retroperitoneal bleed, blood in pelvis. On transfer to
+MICU for close observation hemodynamically stable and normal.
+Denies SOB, dizziness, abd pain. Had stopped baby ASA one week
+prior to liver bx.
+
+Past Medical History:
+1. Liver mass as above
+2. AAA 3x3 with minimal prior dissection
+3. Nephrolithiasis (fall [**3109**])
+4. Hypertension (diagnosed two weeks prior, no medications)
+5. Right inguinal hernia status post repair [**5-/3110**]
+6. Arthritis
+7. Alcohol abuse
+
+Social History:
+Retired school teacher, lives in [**Hospital1 2147**] currently with dying
+brother. [**Name (NI) 447**] reports smoking [**5-25**] cigs/day for 40 years and 2
+drinks/week. However, cousin told nurse that patient drinks and
+smokes much more than he admits. No prior blood transfusions.
+
+Family History:
+Brother has prostate Ca, colon cancer, CAD s/p bypass, now dying
+from cancer metastases. No family hx of pancreatic/liver
+disease.
+
+Physical Exam:
+98.8 HR 82-88NSR BP 159/65(not accurate) RR24-28 O2sat 91-96% on
+room air
+Gen: AOX3. NAD
+HEENT: anicteric, PERRL, OP clear, no JVD
+Chest: RRR, nml S1 S2
+Pulm: CTAB
+Abd: +Bs, NT, soft, tympanitic, no guarding, mildly distended
+Extr: No edema
+
+Pertinent Results:
+Labwork on admission:
+[**3111-4-18**] WBC-6.8 HGB-17.9 HCT-53.0* MCV-102* MCH-34.5* MCHC-33.8
+PLT 178
+[**3111-4-21**]  WBC 5.2 Hgb 11.2  Hct 32.5  Plt Ct 120
+
+[**3111-4-18**] 09:15AM   PLT COUNT-192
+[**3111-4-18**] 09:15AM   PT-11.2 INR(PT)-0.9
+[**3111-4-18**] 04:30PM   WBC-8.8 RBC-4.46* HGB-15.5 HCT-45.1 MCV-101*
+MCH-34.7* MCHC-34.3 RDW-14.0
+[**3111-4-18**] 04:30PM   PLT COUNT-178
+[**3111-4-18**] 04:30PM   cTropnT-<0.01
+
+.
+CT LIVER BX  [**3111-4-18**]
+IMPRESSION:
+1. Technically successful CT fluoroscopic-guided biopsy of
+periportal/caudate lobe lesion.
+2. Small right (10-15%) pneumothorax.
+.
+CHEST (PA & LAT)  [**3111-4-18**] 3:19 PM
+CHEST, TWO VIEWS, PA AND LATERAL
+History of liver biopsy with pneumothorax on post-scan
+radiograph.
+The previous chest radiographs are not on PACS for review. There
+is a small right pneumothorax.
+.
+CHEST (PA & LAT)  [**3111-4-18**] 5:02 PM
+CONCLUSION: Stable right apical pneumothorax as compared to
+earlier today at 3:30 p.m.
+.
+LIVER OR GALLBLADDER US (SINGLE ORGAN)  [**3111-4-18**]
+FINDINGS: This study was performed in conjunction with the CT
+fluoroscopic-guided biopsy done on same day ([**3111-4-18**]). Study
+was performed to assess feasibility to see if the lesion could
+be biopsied by ultrasound or CT fluoroscopy.
+Again seen is a periportal echogenic vascular lesion measuring
+approximately 2.2 cm in size. However, based on its location, it
+was decided that the best approach for sampling this lesion
+would be performed by CT fluoroscopy.
+.
+ECG Study Date of [**3111-4-18**]  4:16:14 PM
+Sinus rhythm. Biatrial enlargement. Non-specific inferolateral
+ST-T wave
+flattening. Delayed precordial R wave progression. No previous
+tracing
+available for comparison.
+.
+CT ABD W&W/O C  [**3111-4-19**]
+IMPRESSION:
+1. Unchanged right hepatic hematoma. No active extravasation.
+Increased prominence of the segment VII and VIII hepatic artery
+branch could reflect that this was the prior source of bleeding,
+though this is uncertain.
+2. Heterogeneous perfusion of the liver likely related to _____
+hematoma and the fact that the patient had heterogeneous
+perfusion prior to the procedure. No narrowing or thrombosis of
+hepatic or portal veins.
+3. Large lesser sac hematoma and hemoperitoneum, as before.
+4. Unchanged appearance of mass adjacent to the caudate lobe.
+5. Decreased size of right pneumothorax with small remaining
+pneumothorax.
+6. High-grade right renal artery stenosis.
+.
+CHEST (PA & LAT)  [**3111-4-19**]
+REASON FOR EXAMINATION: Followup of pneumothorax after liver
+biopsy.
+PA and lateral upright chest radiograph compared to [**3111-4-18**].
+The small right apical pneumothorax is stable or slightly
+decreased compared to the previous study giving the expiratory
+technique of the current exam. The marked emphysema and
+subpleural bullae are unchanged in appearance. The
+cardiomediastinal silhouette is stable.
+.
+CHEST (PA & LAT)  [**3111-4-20**]
+CHEST TWO VIEWS PA AND LATERAL
+History of liver biopsy and pneumothorax.
+There is a persistent small right apical pneumothorax
+essentially unchanged since the previous film of [**3111-4-19**],
+there are new lung lesions.
+
+
+Brief Hospital Course:
+68 year old male with incidentally discovered liver mass who
+presented to CT guided liver biopsy, compicated by right apical
+pneumothorax and peri-hepatic/intrapelvic hematoma, transferred
+to the ICU for closer monitoring.
+
+1) Liver mass:  As above, the patient underwent CT guided biopsy
+on arrival.  The pathology is still pending at the time of
+discharge.  Complicated by pneumothorax and bleeding (see
+below).  The patient will follow up with his home GI doctor, Dr.
+[**Last Name (STitle) 17206**], who should call Dr. [**Last Name (STitle) 1529**] for results of the liver
+biopsy.
+
+2) Peri-hepatic hematoma/intra-pelvic bleed:  Secondary to liver
+biopsy.  His hematocrit on arrival was 53, declining to 45
+post-procedure, and then slowly trending down by a couple of
+points an hour to a nadir of 31.5.  He did not require any red
+blood cell transfusions, and his hematocrit stabilized at around
+32; 32.5 on the day of discharge.  His aspirin had been
+discontinued 7 days prior to admission, and should not be
+restarted for at least a week, possibly longer, pending repeat
+hematocrit check by his PCP.
+
+3) Pneumothorax:  He developed a small right apical pneumothorax
+secondary to the procedure.  His oxygenation was never impaired
+(>95% on room air throughout).  He was given high flow O2 to
+speed the resolution.  Followup chest x-rays demonstrated
+improvement/resolution of the pneumothorax.
+
+4) Alcohol abuse:  Though he denied significant alcohol use, his
+platelet count was on the low side, with elevated MCV, and his
+family reported significant use.  He was therefore placed on a
+CIWA scale and required only one 10 mg dose of valium.  He was
+not tachycardic, and appeared comfortable on discharge.  He had
+a social work consult who spoke to him about both his alcohol
+use and smoking.  He would like to try the patch and he was
+given a prescription for this.  He is somewhat in denial about
+having a problem with drinking.
+
+5) Hypertension:  He was normotensive during the admission.
+This will be followed by his PCP.
+
+Medications on Admission:
+ASA 81 mg daily
+MVI
+
+Discharge Medications:
+1. Multi-Vitamin     Tablet Sig: One (1) Tablet PO once a day.
+2. Nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) patch
+Transdermal once a day.
+Disp:*30 patches* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Intrabdominal bleed (subcapsular hematoma of liver, pelvis)
+Right upper lobe pneumothorax secondary to liver biopsy
+complications.
+Hepatic mass
+Alcohol withdrawal
+
+
+Discharge Condition:
+stable, no signs/symptoms of further bleeding
+
+
+Discharge Instructions:
+You had a liver biopsy which resulted in minor collapse of your
+R lung which is resolving, and some internal bleeding.  You were
+monitored with serial checks of blood levels which were fine.
+
+Please seek medical attention immediately if you experience any
+symptoms of further bleeding such as shortness of breath,
+dizziness or chest pain.
+
+Because of your bleeding, you should not take your baby Aspirin
+for at least the next week, and probably not until you see your
+primary care doctor, who should recheck your blood level.
+
+Followup Instructions:
+Follow up with PCP (Dr. [**Last Name (STitle) 17652**] in [**12-20**] weeks.
+
+Please see Dr. [**Last Name (STitle) 17206**] in the next 1-2 weeks.  He should call Dr. [**Name (NI) 17653**] office at [**Telephone/Fax (1) 1682**] to get the report from your
+liver biopsy.
+
+
+
+
+
+
+DOC CLASS

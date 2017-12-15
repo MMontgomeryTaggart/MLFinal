@@ -1,0 +1,170 @@
+Chief Complaint:
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**2729-1-31**] 08:25 AM
+   Overnight Events:
+   - neuro exam at 2am: moves head slight towards voice,unable to follow
+   commands, PERRLA, babinski flat.
+   - EP fellow called, reviewed EEG, no epileptiform activity.requested CT
+   head-ordered.
+   - ASA/lipitor started.
+   - systemic heparin dc'd, ordered for IABP heparin.
+   - start rewarming at 6pm with neuro exam after.
+   - TID lytes: Cr 1.7 from 1.6 on admit.
+   Platelets dropping, no bleeding.
+   - Echo:  Focal LV systolic dysfunction consistent with prior inferior
+   MI. Moderate mitral and mild aortic regurgitation. The right ventricle
+   is not well seen but is probably dilated/hypokinetic.
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 10 mg/hour
+   Other ICU medications:
+   Fentanyl - [**2729-1-31**] 03:00 PM
+   Midazolam (Versed) - [**2729-1-31**] 04:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2729-2-1**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**30**] AM
+   HR: 79 (41 - 92) bpm
+   BP: 114/49(78) {104/45(72) - 142/56(97)} mmHg
+   RR: 14 (8 - 17) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                    960 mL
+                                                                    179 mL
+   PO:
+             TF:
+   IVF:
+                                                                    960 mL
+                                                                    179 mL
+   Blood products:
+   Total out:
+                                                                  2,026 mL
+                                                                  1,175 mL
+   Urine:
+                                                                  2,026 mL
+                                                                  1,175 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,066 mL
+                                                                   -996 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 16
+   RR (Spontaneous): 7
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 12 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 35.7 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.36/43/185/22/-1
+   Ve: 10.6 L/min
+   PaO2 / FiO2: 463
+   Physical Examination
+   GENERAL: Intubated, sedated. Intraaortic balloon and arctic sun
+   apparatus in place.
+   HEENT: NCAT. Sclera anicteric. ET tube, NG tube, and esophageal
+   temperature probe in place.
+   NECK: Right IJ in place.
+   CARDIAC: Bradycardic. Irregular. Heart sounds otherwise obscured by
+   sound of balloon pump.
+   LUNGS: Clear ventilated breath sounds anteriorly.
+   ABDOMEN: Soft, NTND.
+   GU: Foley in place.
+   EXTREMITIES: Extremities warm and well-perfused. No edema.
+   NEURO: PERRL (sluggish).
+   PULSES:
+   Right: Radial 2+ PT doppler
+   Left: Radial 2+ PT doppler
+   Labs / Radiology
+   98 K/uL
+   14.0 g/dL
+   98 mg/dL
+   1.7 mg/dL
+   22 mEq/L
+   4.1 mEq/L
+   46 mg/dL
+   105 mEq/L
+   141 mEq/L
+   40.7 %
+   15.6 K/uL
+        [image002.jpg]
+                             [**2729-1-30**]  10:54 PM
+                             [**2729-1-31**]  03:43 AM
+                             [**2729-1-31**]  03:54 AM
+                             [**2729-1-31**]  11:31 AM
+                             [**2729-1-31**]  02:19 PM
+                             [**2729-1-31**]  02:36 PM
+                             [**2729-1-31**]  08:22 PM
+                             [**2729-1-31**]  08:38 PM
+                             [**2729-2-1**]  02:29 AM
+                             [**2729-2-1**]  02:53 AM
+   WBC
+   14.1
+   15.6
+   Hct
+   38.2
+   40.7
+   Plt
+   107
+   91
+   98
+   Cr
+   1.5
+   1.7
+   1.6
+   1.7
+   TCO2
+   24
+   24
+   21
+   22
+   26
+   25
+   Glucose
+   144
+   119
+   125
+   98
+   Other labs: PT / PTT / INR:38.5/34.2/4.0, CK / CKMB /
+   Troponin-T:578/41/1.23, ALT / AST:105/154, Alk Phos / T Bili:91/2.2,
+   Differential-Neuts:84.6 %, Lymph:9.0 %, Mono:5.0 %, Eos:1.1 %, Lactic
+   Acid:1.4 mmol/L, Ca++:8.8 mg/dL, Mg++:1.9 mg/dL, PO4:5.0 mg/dL
+   Assessment and Plan
+ CARDIAC ARREST
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2729-1-30**] 03:00 PM
+   IABP line - [**2729-1-30**] 03:00 PM
+   20 Gauge - [**2729-1-30**] 03:35 PM
+   18 Gauge - [**2729-1-30**] 03:36 PM
+   Multi Lumen - [**2729-1-30**] 05:17 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Supratherapeutic INR)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

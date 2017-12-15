@@ -1,0 +1,263 @@
+Chief Complaint:  3rd degree heart block
+   HPI:
+   Ms. [**Known patient lastname **] is a 61 year old female with history of seizures,
+   hypothyroidism, CAD who presents from OSH with third degree heart
+   block.  Patient is sedated and family not available to provide
+   history.  Reportedly this AM patient was found down after using the
+   bathroom.  She was taken to [**Hospital3 4549**] and found to be minimally
+   responsive with HR 30s, low BP.  She was given atropine x1 with
+   reported improved perfusion.  Right IJ placed and patient started on
+   levophed.  BP improved after atropine so levophed d/c'd.  She was given
+   4L IVF and started on dopamine gtt.  It was determined at [**Hospital1 594**] to
+   transfer to [**Hospital1 17**] for further managment.  Medics began transcutaneous
+   pacing, placed Aline and intubated patient in transport.  Of note, she
+   reportedly had CP in AM but refused to go to ER for evaluation.
+   .
+   In the ED here, HR 70, BP 160/80, vented on AC 100% FiO2.  Labs notable
+   for INR 2.1.  She was seen by EP.  RIJ was exchanged for cordis and
+   temporary wire was placed with good capture.  She was also sent for CT
+   head which was negative for acute bleed but showed evidence of
+   subacute/chronic occipital and parietal infarcts.
+   .
+   On arrival to the CCU, the patient was intubated and paced at a rate of
+   70s.  Dopamine was quickly weaned off and BPs have remained stable.
+   She was responsive to some commands.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Codeine
+   Unknown;
+   Morphine
+   Unknown;
+   Penicillins
+   Unknown;
+   Iodine; Iodine Containing
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3306-3-26**] 01:00 AM
+   Infusions:
+   Midazolam (Versed) - 4 mg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3306-3-25**] 11:45 PM
+   Pantoprazole (Protonix) - [**3306-3-26**] 01:00 AM
+   Other medications:
+   (Stop and Shop Pharmacy [**Telephone/Fax (1) 5905**] - closed this evening.  Medication
+   doses unknown.)
+   Sertraline
+   Dilantin
+   Coumadin
+   Simvastatin
+   ASA
+   Isosorbide
+   Plavix
+   Metformin
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p 3v CABG, MI [**3302**]
+   Hypertension
+   Seizure disorder
+   Hypothyroidism
+   noncontributory
+   Occupation:
+   Drugs: None.
+   Tobacco: None.
+   Alcohol: None
+   Other:
+   Review of systems:
+   Unable to obtain as patient sedated, intubated.
+   Flowsheet Data as of [**3306-3-26**] 03:48 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 37.4
+C (99.3
+   HR: 71 (71 - 72) bpm
+   BP: 155/63(94) {151/63(92) - 169/76(105)} mmHg
+   RR: 19 (15 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: V Paced
+   Wgt (current): 83.8 kg (admission): 83.8 kg
+   Height: 66 Inch
+             Total In:
+                                                                      6 mL
+                                                                    215 mL
+   PO:
+             TF:
+   IVF:
+                                                                      6 mL
+                                                                    215 mL
+   Blood products:
+   Total out:
+                                                                    500 mL
+                                                                    160 mL
+   Urine:
+                                                                    500 mL
+                                                                    160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -494 mL
+                                                                     55 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 20 cmH2O
+   Plateau: 16 cmH2O
+   SpO2: 97%
+   ABG: 7.35/37/252/20/-4
+   Ve: 14.7 L/min
+   PaO2 / FiO2: 630
+   Physical Examination
+   Gen: Intubated female, responds to commands.
+   HEENT: NCAT. Sclera anicteric. PERRL.  Conjunctiva were pink, no pallor
+   or cyanosis of the oral mucosa. No xanthalesma.
+   CV: RR - paced, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+   S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use.  Clear anteriorly.
+   Abd: Soft, nondistended.
+   Ext: No c/c/e. No femoral bruits. 2+ DP pulses bilaterally.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   401 K/uL
+   10.1 g/dL
+   168 mg/dL
+   0.8 mg/dL
+   14 mg/dL
+   20 mEq/L
+   113 mEq/L
+   4.2 mEq/L
+   142 mEq/L
+   30.0 %
+   12.5 K/uL
+        [image002.jpg]
+                                  [**3303-1-29**]
+                          2:33 A2/27/[**3306**]  12:31 AM
+                                  [**3303-2-2**]
+                         10:20 P2/27/[**3306**]  12:51 AM
+                                  [**3303-2-3**]
+                                   1:20 P
+                                  [**3303-2-4**]
+                                   11:50 P
+                                  [**3303-2-5**]
+                                   1:20 A
+                                  [**3303-2-6**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3303-3-1**]
+                                   1:20 P
+                                  [**3303-3-1**]
+                                   11:20 P
+                                  [**3303-3-1**]
+                                   4:20 P
+   WBC
+                                    12.5
+   Hct
+                                    30.0
+   Plt
+                                     401
+   Cr
+                                     0.8
+   TC02
+                                     21
+   Glucose
+                                     168
+   Other labs: PT / PTT / INR:22.7/23.7/2.2, Differential-Neuts:88.9 %,
+   Lymph:7.7 %, Mono:3.2 %, Eos:0.1 %, Lactic Acid:1.8 mmol/L, Ca++:8.3
+   mg/dL, Mg++:1.6 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   Patient is a 61 year old female with history of seizures,
+   hypothyroidism, CAD, arrhythmia who presents from OSH with third degree
+   heart block now with temporary wire in place.
+   .
+   #. Third degree heart block: Likely progression of prior disease vs
+   ischemia related.  Based on medication list does not appear to be med
+   related.  Less likely lyme, SLE, post-surgical.  Presented with HR 30s,
+   poor BP.  Temporary wire in place and pacing at 70 with good BPs.
+   - Plan for pacemaker in the morning with EP.  Continue pacing
+   overnight.
+   - Will give 1 dose of vancomycin overnight in anticipation of
+   procedure.
+   - NPO as diet pending procedure
+   - Will check coags, lytes in AM.
+   - Patient on coumadin as outpatient, will hold but will not reverse
+   with Vitamin K.
+   - Likely will need cardiac catheterization prior to discharge to rule
+   out ischemia.  Not acutely necessary.  Will attempt to obtain outside
+   records in the AM.
+   - Obtain outside records in the AM including old EKGs and medications.
+   Based on list given to ED, patient not on any nodal blocking agents.
+   - Discuss with team regarding further work up.
+   .
+   #. Pump: Euvolemic on exam.
+   - Continue to monitor clinically
+   .
+   # CAD: Patient reportedly had CP this AM but did not present with such.
+   - Continue to cycle enzymes
+   - Continue ASA, plavix, statin
+   .
+   # Diabetes mellitus: On oral agents at home.
+   - Sliding scale for now.  Hold Metformin
+   - Check hemoglobin A1c
+   .
+   #. s/p intubation:  Poor documentation but likely done for airway
+   protection in setting of low BP and somnolence.  No evidence of hypoxia
+   or hypercarbia.  ET tube appears to be appropriately placed.
+   - Check ABG on current settings: 7.35/37/252.  Lactate 1.8
+   - Will attempt to extubate following EP procedure.  Do not believe
+   there is an underlying pulmonary condition.
+   - Repeat CXR in the AM.
+   .
+   #. Syncopal episode: Likely related to poor cerebral perfusion [**3-1**]
+   third degree heart block however patient also has history of seizures
+   and verbal report of tonic clonic movements this AM.
+   - Continue dilantin - need to obtain dose in AM.
+   - Treat CHB as above with temporary wire
+   .
+   #. FEN
+   - NPO for procedure
+   - Monitor lytes and replete PRN
+   .
+   #. Access:
+   - RIJ with temporary wire
+   - Aline
+   - PIV x1
+   .
+   #. PPx:  PPI while intubated, therapeutic INR
+   .
+   #. Code:  Presumed full
+   .
+   #. Dispo:  CCU for now.
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**3306-3-25**] 11:00 PM
+   Arterial Line - [**3306-3-25**] 11:00 PM
+   18 Gauge - [**3306-3-25**] 11:00 PM
+   20 Gauge - [**3306-3-25**] 11:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

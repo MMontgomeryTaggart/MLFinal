@@ -1,0 +1,235 @@
+Chief Complaint: sepsis
+   24 Hour Events:
+   [**3339-9-7**]
+   -family mtg-confirmed DNR/DNI without escalation of care. Wanted to
+   visit with pt prior to official CMO. Family would like to wait until 2
+   sons arrive tomorrow by noon to officially withdraw pressors and
+   provide morphine gtt, morphine bolus for now
+   -vasc informed of goals of care
+   -called over to [**Location (un) **] [**Location (un) **]-state cxs actually drawn at [**Hospital1 9729**]-NGTD
+   -echo showing diffusely thickened values, severely depressed EF ~20%.
+   - antibiotics were stopped
+   History obtained from Family / Friend, Interpreter
+   [**Name (NI) 51**] unable to provide history: Unresponsive, Language barrier
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3339-9-6**] 08:44 PM
+   Ciprofloxacin - [**3339-9-6**] 11:44 PM
+   Piperacillin - [**3339-9-6**] 11:45 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**3339-9-8**] 04:00 AM
+   Other medications:
+   Levophed
+   Moprhine prn
+   Atrovent
+   Pantoprazole
+   albuterol
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3339-9-8**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.5
+C (97.7
+   Tcurrent: 35.6
+C (96
+   HR: 100 (85 - 113) bpm
+   BP: 94/53(62) {83/21(41) - 126/102(117)} mmHg
+   RR: 36 (14 - 51) insp/min
+   SpO2: 83%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  1,703 mL
+                                                                    262 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,603 mL
+                                                                    262 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,703 mL
+                                                                    262 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 83%
+   ABG: ////
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Absent), (Left DP pulse: Absent)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   277 K/uL
+   10.6 g/dL
+   21 mg/dL
+   5.3 mg/dL
+   27 mEq/L
+   4.0 mEq/L
+   41 mg/dL
+   100 mEq/L
+   141 mEq/L
+   34.9 %
+   14.7 K/uL
+        [image002.jpg]
+                             [**3339-9-6**]  06:24 PM
+                             [**3339-9-6**]  06:35 PM
+                             [**3339-9-6**]  09:00 PM
+                             [**3339-9-6**]  11:00 PM
+                             [**3339-9-7**]  12:00 AM
+                             [**3339-9-7**]  04:36 AM
+   WBC
+   14.0
+   14.7
+   Hct
+   33.9
+   34.9
+   Plt
+   261
+   277
+   Cr
+   5.1
+   5.3
+   TropT
+   0.24
+   0.25
+   TCO2
+   30
+   Glucose
+   [**Telephone/Fax (3) 9706**]50
+   21
+   Other labs: PT / PTT / INR:33.6/40.3/3.4, CK / CKMB /
+   Troponin-T:87//0.25, ALT / AST:35/24, Alk Phos / T Bili:165/0.7,
+   Differential-Neuts:91.3 %, Band:0.0 %, Lymph:4.0 %, Mono:3.8 %, Eos:0.8
+   %, Lactic Acid:2.1 mmol/L, Albumin:3.1 g/dL, LDH:192 IU/L, Ca++:9.0
+   mg/dL, Mg++:2.3 mg/dL, PO4:6.0 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname 9699**] is a 71 year old male with ESRD on HD, PVD, CAD s/p NSTEMI,
+   here with altered mental status and sepsis requiring pressors likely
+   secondary to osteo of right foot, although line infection or other
+   sites of osteo cannot be excluded.  Plan to become CMO today after
+   arrival of family members.
+   .
+   Goals of care.  Family meeting yesterday to make patient DNR/ DNI with
+   no escalation of care.  Plan to make patient CMO today after his family
+   members arrive.
+   .
+   Sepsis.  Hypotension likely secondary to sepsis given that patient has
+   elevated WBC and large amounts of necrotic tissue on both feet and
+   hands.  Suspect that right foot osteo is the source, but may also be
+   secondary to bacterial seeding from skin breakdown, line infection (has
+   tunnelled HD line), or other occult source.  No clear source of
+   pneumonia.  Given low voltages, will get echo to evaluate for effusion
+   (though echo today at OSH did not show temponade).  Also, echo can be
+   obtained to look for endocarditis.
+   - follow up blood cultures, UA, UCx
+   - f/u final read of foot and hand films to evaluate for osteo
+   - vascular following but do not feel foot is the source
+   - vanco/zosyn/cipro for double gram negative coverage in setting of
+   diabetic foot osteo and GPC for dialysis patient with tunelled HD line
+   - echo to evaluate EF and look for endocarditis
+   - cycle cardiac enzymes
+   - Levophed to maintain MAPS> 60, consider starting vasopressin if this
+   causes significant tachycardia
+   - obtain OSH records of micro data
+   .
+   Gangrenous foot and digits/ PVD.  Patient has b/l gangrenous toes and
+   toe stumps which have significantly worsened over the last year. In
+   [**11-12**], he was noted to have "a 2-cm ulceration over the site of the
+   fifth digit TMA [on the left foot]."  Vascular evaluated the patient,
+   but do not feel that he needs urgent amputation.  Foot films
+   demonstrated osteo worst at the right foot.  He is likely not a
+   surgical candidate given his recent NSTEMIs and was declined for
+   revascularization.
+   - vascular consult for management of gangrenous extremities
+   - ABIs per vascular
+   - vanco/zosyn/cipro to cover infection
+   - continue aspirin, plavix
+   - morphine PRN foot pain
+   .
+   Altered mental status.  Even with vietnamese translator, patient was
+   confused, although has had some improvement of mental status throughout
+   the night.  Likely delerium in the setting of hypotension and
+   infection.  OVerall seems to be improving.
+   - continue broad spectrum antibiotics
+   - continue IVFs and pressors to maintain MAPs> 60
+   - limit sedating meds, but will resume seroquel given agitation
+   - will continue morphine in spite of sedating effects given the degree
+   of his pain
+   - consider head CT if no improvement of mental status over 24 hours
+   .
+   Type 2 Diabetes.  Patient presented with hypoglycemia at OSH but was
+   hyperglycemic on arrival.  Had episodes of hypoglycemia overnight on
+   insulin drip so transistion to ISS.
+   - HISS
+   - follow fingersticks
+   .
+   End stage renal disease on HD.  Likely secondary to diabetic
+   nephropathy.  Has hyperphosphatemia.  No urgent dialysis needs.
+   - will notify renal of his arrival, patient typically gets HD MWF but
+   at this point would need CVVH given hypotension requiring pressors
+   - initiate phos binders when eating
+   .
+   Hypertension.
+   - hold antihypertensives in setting of hypotension requiring pressors
+   .
+   Coronary Artery Disease.  Patient with ischemic cardiomyopathy and
+   significantly reduced EF over the course of 1 year.  Was told that he
+   needed revascularization but was not felt to be a cath candidate.
+   - continue aspirin and statin
+   - hold BB
+   .
+   Depression.
+   - continue seroquel, celexa
+   .
+   H/o A.fib with RVR.
+   - hold coumadin in setting of supratherapeutic INR
+   - follow INR
+   .
+   .
+   FEN: NPO pending improvement of mental status
+   CODE: DNR/DNI
+   PPx: coumadin, bowel regimen, PPI
+   Dipso: ICU monitoring pending improvement of blood pressure
+   Contact:  [**Name (NI) **] Mother - [**Telephone/Fax (1) 9701**] (h), cell is [**Telephone/Fax (1) 9702**].
+   Sister  [**Telephone/Fax (1) 9703**] who is coming in from NJ this morning.  Another
+   Sister - [**Telephone/Fax (1) 9704**].
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3339-9-6**] 06:46 PM
+   20 Gauge - [**3339-9-6**] 06:46 PM
+   Dialysis Catheter - [**3339-9-7**] 08:06 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin(Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: DNR / DNI
+   Disposition:Transfer to floor
+
+
+
+DOC CLASS

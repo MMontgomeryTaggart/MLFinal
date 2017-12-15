@@ -1,0 +1,275 @@
+Chief Complaint: syncope, ICD firing,
+   24 Hour Events:
+   [**10-29**]- Lidocaine d/c
+d. Remained on antiarrhythmic Multaq/Dronedarone.
+   Attempted TF again but residuals too high. Urine output increasing
+   BUN/CR remain elevated. Urine positive for enterococcus. ABX: Cipro,
+   vanco, and Flagyl d/c
+d. on ampicillin and cefepime. Afebrile. Started
+   back on lopressor IV.
+   [**10-30**]- due for neuro evoke potential exam today.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3499-10-27**] 09:00 AM
+   Ciprofloxacin - [**3499-10-28**] 01:00 PM
+   Metronidazole - [**3499-10-28**] 08:00 PM
+   Cefipime - [**3499-10-29**] 08:30 PM
+   Ampicillin - [**3499-10-30**] 04:00 AM
+   Infusions:
+   Heparin Sodium - 600 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3499-10-29**] 08:30 PM
+   Metoprolol - [**3499-10-30**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3499-10-30**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.1
+C (98.7
+   HR: 73 (73 - 84) bpm
+   BP: 96/52(66) {96/52(66) - 133/85(101)} mmHg
+   RR: 18 (14 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 76.1 kg (admission): 76.9 kg
+   Height: 67 Inch
+             Total In:
+                                                                    808 mL
+                                                                    210 mL
+   PO:
+             TF:
+                                                                     40 mL
+   IVF:
+                                                                    768 mL
+                                                                    210 mL
+   Blood products:
+   Total out:
+                                                                  1,752 mL
+                                                                    370 mL
+   Urine:
+                                                                    852 mL
+                                                                    370 mL
+   NG:
+                                                                    400 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -944 mL
+                                                                   -160 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 504 (395 - 542) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 41
+   PIP: 15 cmH2O
+   SpO2: 100%
+   ABG: 7.44/30/210/21/-1
+   Ve: 9 L/min
+   PaO2 / FiO2: 525
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   202 K/uL
+   9.6 g/dL
+   95 mg/dL
+   5.3 mg/dL
+   21 mEq/L
+   3.7 mEq/L
+   77 mg/dL
+   108 mEq/L
+   146 mEq/L
+   30.1 %
+   11.1 K/uL
+        [image002.jpg]
+                            [**3499-10-27**]  11:54 PM
+                            [**3499-10-28**]  02:47 AM
+                            [**3499-10-28**]  01:33 PM
+                            [**3499-10-28**]  04:55 PM
+                            [**3499-10-29**]  06:16 AM
+                            [**3499-10-29**]  06:22 AM
+                            [**3499-10-29**]  04:42 PM
+                            [**3499-10-29**]  05:01 PM
+                            [**3499-10-30**]  04:00 AM
+                            [**3499-10-30**]  04:16 AM
+   WBC
+   18.5
+   13.6
+   11.1
+   Hct
+   33.2
+   30.8
+   30.1
+   Plt
+   128
+   141
+   202
+   Cr
+   4.6
+   5.0
+   5.8
+   5.5
+   5.3
+   TCO2
+   13
+   16
+   20
+   22
+   21
+   Glucose
+   178
+   112
+   108
+   95
+   99
+   95
+   Other labs: PT / PTT / INR:33.7/68.6/3.4, CK / CKMB /
+   Troponin-T:77/8/0.49, ALT / AST:2329/2322, Alk Phos / T Bili:223/4.3,
+   Amylase / Lipase:/183, Differential-Neuts:88.8 %, Lymph:6.2 %, Mono:3.9
+   %, Eos:0.8 %, Lactic Acid:2.0 mmol/L, Albumin:3.3 g/dL, LDH:1199 IU/L,
+   Ca++:8.5 mg/dL, Mg++:2.3 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   43 y/o M w/ h/o Ischemic Dilated Cardiomyopathy (EF 20%) s/p ICD
+   placement who presents with VT Storm.
+   .
+   # RHYTHM:  Patient s/p EP procedure for VT which was likely the cause
+   of his syncopal episode PTA.  Unable to induce arrhythmia in cath lab
+   o/n, however slow rhythm induced and pt required resuscitation for
+   PEA.  Patient with ICD in place with AT pacing at rates > 180, Firing
+   at rates > 250.  Returned to ICU on ballon pump s/p cardiac arrest in
+   EP lab.  Balloon pump pulled [**10-23**], sedation continued as patient
+   became very agitated on vent with propofol. Off propofol since 2pm on
+   [**10-25**] with little improvement in MS. On [**10-26**], pt had multiple episodes
+   of SVT yesterday
+ ICD shocked him back into sinus tachycardia. These
+   episodes improved with lidocane gtt (dc
+d [**10-28**]) and Amiodarone.  Now
+   transitioned to Dronedarone for rhythm control and out of concern for
+   toxicity with Amiodarone.  Digoxin also dc
+d given renal failure.
+   - Continue Dronedarone
+   - Continue metoprolol 5mg IV Q4H for rate control
+   - On Heparin gtt for afib and mural thrombus
+   .
+   # Mental status: Concern for anoxic brain injury s/p hypoperfusion,
+   (vs. etoh withdrawal, or excess sedation not being cleared by
+   liver/kidneys.) Neuro does not believe this is sub-clinical seizures
+   based on EEG.  Off sedation since [**10-25**] at 2pm.
+   - f/u neuro recs
+   - f/u evoked potential test results, will need to re-address recovery
+   potential with family once these results have been obtained.
+   .
+   # Respiratory status: currently on PSV with peep of 5, he is initiating
+   spontanous breathing.  Questionable if patient is able to tolerate off
+   the vent and may likely will aspirate.
+   - trial wean off status
+   - watch for aspiration risk, pna.
+   .
+   # Fever/Leukocytosis:  Fever improved but WBC remains elevated.  UA
+   growing enterococcus. Positive sputum cx, speciation pending, positive
+   U/A growing Enterococcus, still with fevers of 102 with rising
+   leukocytosis.  Patient started on antibiotics on [**10-25**].
+   - Ampicillin for vanc-sensitive enterococcus in urine (day 1=[**10-29**],
+   continue for 10 days), off  vanco
+   - continue cefepime for gram negatives in sputum
+   - foley change (last change [**10-29**])
+   .
+   # Transaminitis: Elevated transaminases, LDH concerning for medication
+   toxicity (amiodarone) versus viral etiology versus shock liver
+   (hypoperfusion during code or during multiple VT runs, or secondary to
+   multiple ICD firings)  Patient had unremarkable abdominal CT ([**10-23**]),
+   negative RUQ US ([**10-27**]).  LFTs now downtrending.
+   - trend LFTs daily
+   - check albumin, INR daily to follow liver function
+   - f/u viral hepatitis serologies
+   - keep tylenol level to less than 2gm / day
+   - d/c nephrotoxic meds (Lisinopril, digoxin; re-dose Vancomycin)
+   - [**Hospital1 **] electrolytes
+   .
+   #ARF: Patient in acute renal failure, likely [**2-6**] poor perfusion during
+   arrest in the setting of poor forward flow [**2-6**] EF 20%.  Renal function
+   worsening with poor urine output.  Will likely need CVVH vs. HD; Renal
+   following.   Waiting for neuro results and family meeting prior to
+   starting dialysis.  No urgent need for dialysis but hemodialysis line
+   in place for dialysis if indicate.  Appreciate renal recs.  UOP and
+   volume status improving.
+   - follow daily lytes, creatinine, fluid balance, UOP.
+   - f/u Renal recs
+   .
+   # LV mural thrombus/ ? embolism:  Thrombus/embolus seen on TTE [**10-24**],
+   head CT negative for embolic CVA or other acute process.  INR
+   supertherapeutic now.
+   -Continue heparin for now
+   -Hold warfarin for now, will restart when INR therapeutic
+   .
+   # PUMP/Chronic Systolic Heart Failure:  Euvolemic on examination
+   without significant pedal edema.  Antero-apical akinesis on TTE, had
+   been off coumadin at home given non-compliance with INR checks as an
+   outpatient, now with LV thrombus seen on TTE this admission.  IABP
+   removed [**10-24**].  Volume overloaded with poor urine output, anticipate
+   initiation of CVVH vs. HD today, [**10-28**].
+   -Continue Metoprolol
+   -Lisinopril held d/t renal failure
+   .
+   # CORONARIES:  Patient s/p large anterior myocardial infarction in
+   [**3490**].
+   - Continue statin, aspirin, beta blocker.
+   .
+   #  ETOHism - Chronic issue.  Patient likely minimizes his ETOH use.
+   Not requiring CIWA currently given sedation.
+   - CIWA Scale in place for when patient is extubated
+   - MVI, folate, thiamine (NG)
+   .
+   #Cool L Lower Extremity: Hx of L foot slightly cooler than R but
+   stable/improved clinically.
+   .
+   #Abd distension: Stable, +BS, CT negative, will monitor clinically
+   daily.
+   .
+   #Macrocytic Anemia: Likely secondary to alcohol. Stable/improved today.
+   .
+ INEFFECTIVE COPING
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ H/O ALCOHOL ABUSE
+ PANCREATITIS, ACUTE
+ CARDIAC ARREST
+ VENTRICULAR TACHYCARDIA, NON-SUSTAINED (NSVT)
+ KNOWLEDGE DEFICIT
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3499-10-27**] 03:00 PM
+   20 Gauge - [**3499-10-28**] 01:38 AM
+   22 Gauge - [**3499-10-28**] 01:39 AM
+   Dialysis Catheter - [**3499-10-28**] 12:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,237 @@
+Admission Date:  [**3232-10-1**]              Discharge Date:   [**3232-10-8**]
+
+Date of Birth:  [**3183-8-29**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 381**]
+Chief Complaint:
+s/p MVC
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+This is a 49 year-old female who was driving her car when she
+believes she lost consciousness and then hit a tree. She was
+transferred from [**Hospital3 **] for internal injuries.
+
+She denied any memory of the incident, remembering only the
+broken windshield. Prior to the incdent she had gone to a long
+spinning class at the gym and then to the beach. She denied any
+presyncopal symptoms of palpitations, shortness of breath, chest
+pain, visual changes, nausea, vomiting, or dizziness.
+
+She has a history of a prior MVC in [**3231-12-8**], with head
+trauma and residual memory problems. She denied any history of
+seizure or loss of consciousness.
+
+Past Medical History:
+history of head trauma in [**3231**] with residual memory problems
+
+Family History:
+Noncontributory
+
+Physical Exam:
+On discharge:
+T97.6 P80 BP102/68 R18 95%RA
+Gen: Awake and alert, somewhat flat affect.
+Neck: Soft collar in place. No midline tenderness
+Chest: Clear bilaterally. Chest tube site clean, dry and intact
+with no erythema, pus or swelling.
+CV: Regular rate and rhythm.
+Abd: NABS. Soft, nontender, nondistended.
+Ext: Left toes taped together with hard sole boot in place. Good
+toe perfusion. 3/5 strength shoulder abduction, rest of motor
+exam unremarkable.
+
+Pertinent Results:
+Abd CT (intial):
+1. Left pneumothorax.
+2. Right 10th and 11th rib fractures.
+3. Large hepatic laceration, which abuts the mid hepatic vein.
+No evidence of active extravasation.
+4. Small splenic laceration. No evidence of active
+extravasation.
+5. Complex right renal laceration. Rupture of an anterior medial
+upper calyx. Perirenal space hematoma with no evidence of
+arterial extravasation.
+6. Questionable small pancreatic tail laceration.
+7. Hemoperitoneum.
+
+Abd CT (repeat):
+1. No evidence of a renal abscess.
+2. Hepatic and right renal lacerations.
+3. Decreased size of right perirenal hematoma.
+4. Unchanged appearance of hemoperitoneum.
+5. Right tenth and eleventh rib fractures.
+6. New bilateral pleural effusions and bibasilar atelectasis.
+Persistent left pneumothorax, partially visualized.
+
+HIDA:
+1) Normal scintigraphic appearance of the gallbladder without
+evidence of
+cholecystitis. Normal biliary to bowel transit of tracer.
+2) Focal tracer activity that persists on the delayed images
+which in this
+patient with known hepatic laceration is likely due to a small
+contained biliary
+leak.
+
+Spine XR:
+No evidence for fracture or dislocation in the cervical,
+thoracic, or lumbar spine. Degenerative disc disease at C5-C6.
+
+Carotid US:
+No plaque was found on either side. The velocities and waveforms
+in the bilateral internal, common, and external carotid arteries
+and bilateral vertebral arteries were normal, with antegrade
+flow.
+
+TTE:
+1. The left atrium is normal in size.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity
+size is normal. Overall left ventricular systolic function is
+normal
+(LVEF>55%).
+3.Right ventricular chamber size is normal. Right ventricular
+systolic
+function is normal.
+4.The aortic valve leaflets (3) appear structurally normal with
+good leaflet
+excursion. No aortic regurgitation is seen.
+5.The mitral valve leaflets are mildly thickened. Trivial mitral
+regurgitation
+is seen.
+6.There is no pericardial effusion.
+
+EEG:
+This is an abnormal routine EEG obtained in wakefulness
+progressing to stage II sleep. Due to the presence of
+intermittent,
+independent and synchronous [**Hospital1 **]-temporal slowing in the delta and
+theta
+frequency range, left-sided predominence. These findings suggest
+
+subcortical dysfunction in both temporal regions and is
+regarding
+epilepsy is a relatively non-specific finding. No epileptiform
+abnormalities were seem.
+
+
+Brief Hospital Course:
+On arrival at [**Hospital1 22**] the patient was hemodynamically stable, and
+her initial evaluation revealed the following injuries: right
+kidney laceration, liver laceration, splenic laceration, right
+toe fractures, left pneumothorax with broken ribs. A chest tube
+was placed and she was admitted to the Trauma ICU. She was
+followed by Urology for the non-operative kidney laceration and
+transferred to the floor after observation and serial
+hematocrits; she did not need surgery for her organ injuries.
+
+She had a work-up including a TTE, carotid ultrasound, EEG, and
+MRI of her head to rule out cardiac or neurologic causes of her
+apparent loss of consciousness before the MVC. Please see the
+Neurology note for details. Ultimately it was felt that she had
+a vasovagal incident in the setting of dehydration after
+exercising and a long day at the beach, but she was instructed
+to follow-up with a Neurologist given her history of prior head
+trauma.
+
+She was also seen by the Orthopedic/Spine service given the
+tingling and weakness of her left shoulder and chronic-appearing
+cervical spine canal narrowing seen on MRI. Based on their
+recommendations she was instructed to wear a neck collar for
+comfort only and to follow-up at their office.
+
+A thyroid mass was incidentally noted on her c-spine MRI and an
+ultrasound revealed a large nodule with necrotic areas. She was
+instructed to see her primary care physician for [**Name Initial (PRE) **] possible
+outpatient biopsy.
+
+She was seen by physical and occupational therapists and was
+given a hard-sole boot to wear on her left foot, on which the
+toes were buddy-taped together.
+
+She had a fever while hospitalized and was started on Zosyn out
+of concern for a hospital-acquired pneumonia on the left, where
+she had had the pneumothorax. A HIDA scan, abdominal CT scan,
+blood cultures, UA and examination of the chest-tube site did
+not suggest any other sources of infection such as a renal
+abscess.
+
+Discharge Medications:
+1. abdominal CT
+The patient needs an abdominal CT (with contrast) 2-4 weeks
+after discharge, prior to Urology appointment.
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*15 Tablet(s)* Refills:*0*
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*30 Capsule(s)* Refills:*0*
+4. Levofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day
+for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Left-sided pneumothorax
+Fractures of right 10 & 11th ribs
+Liver laceration
+Right renal laceration (Grade III) with perirenal hematoma
+Fractures of 2nd, 3rd, 4th proximal phalanges
+Status-post motor vehiclce collision
+Minor multilevel cervical spine degenerative changes (non-acute)
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+You should call a physician or come to ER if you have worsening
+pains, fevers, chills, nausea, vomiting, shortness of breath,
+chest pain, or if you have any questions or concerns.
+
+It is important you complete the full course of antibiotics and
+take other medications as directed. You may continue to take
+your pre-admission medicaitons. You should not drive or operate
+heavy machinery while on any narcotic pain medication such as
+percocet as it can be sedating. You may take colace to soften
+the stool as needed for constipation, which can be cause by
+narcotic pain medication.
+
+You should continue to wear the hard boot and keep your toes
+taped together.  You can wear the soft neck collar for comfort.
+
+Followup Instructions:
+Call for a follow-up appointment at the Trauma Surgery Clinic
+([**Telephone/Fax (1) 2307**]) in 1 week.
+
+Call for an appointment with Dr. [**Last Name (STitle) 505**] (Spine Orthopedics,
+[**Telephone/Fax (1) 1322**]) in 2 weeks. You do not need to wear the neck
+collar.
+
+Call for an appointment with Urology in [**3-12**] weeks
+([**Telephone/Fax (1) 2899**]). You will need a follow-up CT scan of your
+abdomen at that time.
+
+Call your neurologist or the [**Hospital1 22**] Neurology Clinic
+([**Telephone/Fax (1) 3770**]) for follow-up with Drs. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **] in [**5-12**] weeks after discharge.
+
+You can call the Neuropsychiatry clinic ([**Telephone/Fax (1) 4375**]) for an
+appointment for evaluation of your memory problems.
+
+
+
+
+
+DOC CLASS

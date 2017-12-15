@@ -1,0 +1,195 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - lasix x1 - I/O net neg
+   - ABG done this am for somulence, wnl.
+   Allergies:
+   Zestril (Oral) (Lisinopril)
+   Cough;
+   Last dose of Antibiotics:
+   Cefipime - [**2775-4-14**] 08:55 PM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2775-4-14**] 10:23 PM
+   Furosemide (Lasix) - [**2775-4-15**] 05:23 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2775-4-15**] 07:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**77**] AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.9
+C (98.5
+   HR: 117 (115 - 141) bpm
+   BP: 108/79(86) {91/62(68) - 132/93(99)} mmHg
+   RR: 16 (16 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: A Flut (Atrial Flutter)
+             Total In:
+                                                                    146 mL
+                                                                     72 mL
+   PO:
+             TF:
+   IVF:
+                                                                    146 mL
+                                                                     72 mL
+   Blood products:
+   Total out:
+                                                                    500 mL
+                                                                    645 mL
+   Urine:
+                                                                    500 mL
+                                                                    645 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -354 mL
+                                                                   -573 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: 7.38/47/85.[**Numeric Identifier 120**]/26/1
+   PaO2 / FiO2: 85
+   Physical Examination
+   General: Alert, in moderate distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lung:  wheezes, rales, rhonchi on expiration
+   CV: irregular rate and rhythm, normal S1 + S2, 2/6 systolic murmurs, no
+   rubs, gallops
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   GU: no foley
+   Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   311 K/uL
+   9.4 g/dL
+   140 mg/dL
+   2.0 mg/dL
+   26 mEq/L
+   4.4 mEq/L
+   44 mg/dL
+   105 mEq/L
+   141 mEq/L
+   29.1 %
+   5.1 K/uL
+        [image002.jpg]
+                             [**2775-4-14**]  09:23 PM
+                             [**2775-4-15**]  03:41 AM
+                             [**2775-4-15**]  06:47 AM
+   WBC
+   5.1
+   Hct
+   29.1
+   Plt
+   311
+   Cr
+   2.0
+   TropT
+   0.05
+   TCO2
+   28
+   29
+   Glucose
+   140
+   Other labs: PT / PTT / INR:15.9/29.1/1.4, CK / CKMB /
+   Troponin-T:99/2/0.05, ALT / AST:45/61, Alk Phos / T Bili:78/0.2, Lactic
+   Acid:1.1 mmol/L, Albumin:2.9 g/dL, LDH:247 IU/L, Ca++:7.8 mg/dL,
+   Mg++:2.0 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   84 y/o F with hx of DM, CAD, CHF, COPD, afib, MM, HTN and CKD who
+   presents today with worsening shortness of breath.
+   # Shortness of Breath
+Admssion physical was notable for bronchospasm.
+   Chest X-ray on admission was suggestive of fluid overload vs infiltrate
+   vs COPD exacerbation vs MI induced HF decompensation. She is on bipap.
+   BNP was elevated ([**Numeric Identifier 11868**]); though not terribly fluid overloaded on exam
+   If PNA, then possibly
+aspiration
+   - continue nasal canula
+   - gentle diuresis for goal 500-1L negative daily
+   - lasix bolus, nebs. (home dose is 40 mg PO), dampening response to
+   lasix
+   - continue vancomycin and cefepime for presumed HAP x 24-48 hours until
+   cx positive or other indication
+   - f/u on Bcx, MRSA screen, Ucx
+   - transfer to cardiology floor when stable
+   .
+   # Atrial fibrillation: Heart rate noted to be elevated to 130's. Dr.
+   [**Last Name (STitle) **], her out-patient cardiologist, switched her to digoxin recently.
+   - continue metoprolol, coumadin (subtherapeutic - given additional abx,
+   will likely rise INR)
+   - continue low dose of 0.125 mg digoxin Q twice a week (Tuesday and
+   Saturday).
+   - trend INR, no indication to bridge with heparin gtt to therapeutic
+   INR
+   .
+   # Acute on chronic renal failure: On admission, creatinine was elevated
+   at 2.5 from baseline in upper 1s. Throught to be
+   pre-renal; patient was total body overloaded but intravascularly  dry,
+   likely due to poor forward flow.  MM may contribute to this too.
+   - renal dose meds
+   - trend cr
+   - consider urine lytes and urine eos if trending up
+   .
+   # Depressed mental status: baseline mental status is hard to assess,
+   will retry in AM. likely [**2-11**] ARF/COPD exacerbation.
+   - follow MS
+   - may have to convert meds to IV if not confident in swallow status
+   - clarify with [**Hospital3 **] re: how often she misses meds, meals
+   # Coronary artery disease: Troponin was mildly elevated on
+   admission at 0.09 in setting of ARF, likely a component of demand
+   ischemia.
+   - continue on aspirin, beta-blocker, atorvastatin
+   .
+   # Multiple myeloma--required no management.
+   - trend creatinine and electrolytes
+   .
+   # Anemia: Perhaps due to multiple myeloma. Remained stable at
+   baseline.
+   .
+   # Seizure Disorder: no seizure activity noted.  dilantin level checked
+   and found to be within normal limits.
+   - continued on dilantin at a dose of 250 mg [**Hospital1 **].
+   .
+   # COPD/chronic bronchitis: remained on home nebulizer treatment.
+   - on steroid currently
+   .
+   FEN: No IVF, replete electrolytes, cardiac diet
+   .
+   Prophylaxis: Subcutaneous heparin
+   .
+   Access: peripherals
+   .
+   Code:  dnr/dni, though there is some lack of clarity on how this can be
+   documented. [**Hospital3 **] would not sign a form
+   .
+   Communication: Patient
+   .
+   Disposition: pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2775-4-14**] 08:09 PM
+   20 Gauge - [**2775-4-14**] 08:10 PM
+   Prophylaxis:
+   DVT:  boots, coumadin
+   Stress ulcer:  h2blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: dni, though there is some lack of clarity on how this can
+   be documented. [**Hospital3 **] would not sign a form
+   Disposition:
+
+
+
+DOC CLASS

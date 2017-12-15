@@ -1,0 +1,281 @@
+Admission Date:  [**3460-6-7**]              Discharge Date:   [**3460-6-13**]
+
+Date of Birth:  [**3387-6-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1265**]
+Chief Complaint:
+Chest pain and shortness of breath
+
+Major Surgical or Invasive Procedure:
+PICC line placed on [**6-7**]. S/p intubation and extubation.
+
+History of Present Illness:
+72 M with CAD s/p CABG, ESRD on HD, HTN, DM. Pt awoke on the
+morning of admission with CP, SOB, called EMS who found pt to be
+in VT. Pt subsequently lost pulse, was given lidocaine 100mg
+bolus, and was transferred to [**Location (un) 18**] ED. There he persisted in
+VT, received amiodarone 300mg bolus, was started on amio drip,
+intubated for airway protection, had 2 cardioversions, had
+subsequent PEA, received epi, atropine, also received CaCl,
+bicarb, D50, insulin, kayexalate for empiric tx of hyperkalemia.
+Started on levophed for hypotension, and was transferred to CCU
+for further care.
+Notably pt recently hospitalized at [**Location (un) 18**] from [**5-1**] to [**5-4**]
+with CP/SOB, ruled out for MI and discharged home. Notably no
+dialysis during that hospitalization, planned for outpt
+dialysis.
+EKG showed baseline LBBB, s/p arrest EKG showing deep ST
+depressions in V2-3 post code.
+.
+Access: Hickman right chest. [**Location (un) 18**] ED attempted a subclavian
+on left but couldn't threat wire, L femoral line placed instead
+(has hx right fem-[**Doctor Last Name 410**] graft).
+
+
+Past Medical History:
+- CAD, MI [**11-13**], (S/P cath with PTCA to OM in [**4-15**], s/p CABG
+[**3453-12-22**] [**Location 4499**], LIMA to LAD, SVG to PDA & OM) CATH
+performed on [**3460-2-18**] : Severe native three vessel coronary
+artery disease, Patent LIMA and vein grafts, widely patent OM
+stent.
+- CHF, EF 55%
+- DM
+- Hypertension
+- Hyperlipidemia
+- End stage renal disease, dialysis dependent, AV fistula in L
+arm.
+- Peripheral vascular disease s/p fem-[**Doctor Last Name 410**] on right
+- s/p toe amputations
+.
+Cardiac Risk Factors: Diabetes, Dyslipidemia, Hypertension, PVD,
+ESRD
+.
+Cardiac History: CABG LIMA-LAD, SVG-OM, SVG-PDA
+Pacemaker/ICD: n/a
+
+Old EKG from [**3460-3-14**] similar with same T wave inversions,
+slightly less pronounced ST depressions V4-V5.
+TELEMETRY demonstrated: VT on rhythm strips from outside
+hospital, here in AFib with episodes of sinus tach.
+.
+2D-ECHOCARDIOGRAM [**4-15**]: EF 55%. mildly dilated LA, moderate
+symmetric LVH, mod. dilated LV. mild LV systolic dysfunction
+with basal infero-lateral thinning and akinesis. mildly
+thickened AV. no AS. 1+AR. MV mildly thickened. 1+MR. [**First Name (Titles) **] [**Last Name (Titles) 4500**]l effusion. Compared with the prior study (images
+reviewed) of [**3458-2-9**], no definite change (prior study was of
+poor quality to exclude above findings).
+.
+CARDIAC CATH [**2-15**]:
+1. patent LIMA to LAD with no significant disease distal to the
+[**Female First Name (un) 220**]. The SVG to PDA and SVG to OM were also widely patent. The
+stent in the OM was widely patent and the 80% lesion in the
+lower pole was unchanged.
+2. The native coronary arteries were not injected due to known
+severe
+disease.
+3. Limited resting hemodynamics revealed an opening aortic
+pressure of 114/61mmHg.
+FINAL DIAGNOSIS:
+1. Severe native three vessel coronary artery disease.
+2. Patent LIMA and vein grafts, widely patent OM stent.
+.
+
+
+Social History:
+>100 pack year smoking hx, worked as a security guard. No etoh
+or drugs.
+Lives at home in [**Location (un) 18**]. Daughter in law is the only family
+member.
+
+
+
+Family History:
+father died of MI in 70's.  Mother died in 80's of cerebral
+aneurysm. Divorced & estranged from remainder of family.
+
+Physical Exam:
+VS: T 96.9 BP 97/58 HR 104 (AFib) RR 16 O2 100% on CMV
+600x20/8/100%
+Gen: elderly appearing male, intubated, sedated, nonresponsive.
+
+HEENT: NCAT. Sclera anicteric. Pupils small, equal, minimally
+responsive. Conjunctiva were pink, no pallor or cyanosis of the
+oral mucosa.
+Neck: Supple, unable to visualize JVP.
+CV: PMI located in 5th intercostal space, midclavicular line.
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+Chest: No chest wall deformities, scoliosis or kyphosis. Equal
+breath sounds bilaterally with coarse crackles bilaterally.
+Abd: Soft, NTND. + BS. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+Ext: L groin with triple lumen in place, R groin with old scar.
+Extremities with chronic hemostatis, changes, multiple toe
+amputations. Minimal pitting edema.
+
+Pulses:
+Right: Carotid 2+ DP 1+ PT 1+
+Left: Carotid 2+ DP 1+ PT 1+
+
+
+Pertinent Results:
+LABORATORY DATA at OSH:
+WBC 13.5, HCT 32.6, Plt 137
+Na 142, K 5.3, Cl 104, Co2 27, Bun 44, Cr 7.0, Gluc 192
+Ca 11.8, Mg 2.0, Alt 35, AST 33,
+CK 98, MB 1.6, Trop T 0.240 (baseline)
+
+LAB DATA [**Hospital1 68**]:
+[**3460-6-7**]   PT-14.1* PTT-53.3* INR(PT)-1.3*
+
+[**3460-6-7**] WBC-12.3* RBC-3.63* HGB-11.7* HCT-35.7* MCV-99*
+MCH-32.3* MCHC-32.8 RDW-17.8*NEUTS-88.9* LYMPHS-4.2* MONOS-6.6
+EOS-0.1 BASOS-0.1
+GLUCOSE-188* UREA N-49* CREAT-7.8* SODIUM-141 POTASSIUM-4.5
+CHLORIDE-98 TOTAL CO2-29 ALBUMIN-3.6 CALCIUM-10.2 PHOSPHATE-6.7*
+MAGNESIUM-2.2
+ALT(SGPT)-105* AST(SGOT)-127* LD(LDH)-274* CK(CPK)-165 ALK
+PHOS-82 AMYLASE-69 TOT BILI-0.6
+
+[**3460-6-7**] 09:27AM   CK-MB-13* MB INDX-7.9* cTropnT-0.49*
+[**3460-6-7**] 06:21PM   CK(CPK)-126 CK-MB-15* MB INDX-11.9*
+cTropnT-0.91*
+
+[**3460-6-7**] TYPE-ART PO2-147* PCO2-38 PH-7.49* TOTAL CO2-30 BASE
+XS-6
+
+IMAGING:
+CXR [**3460-6-7**]: Increased right lower lobe opacity, probably due to
+pulmonary edema or infection. (Initially read as wedge-shaped
+opacity).
+TTE [**6-7**]: Severe regional left ventricular systolic dysfunction
+- EF = 20-25%. Mild AR. Moderate-to-severe MR. Compared with the
+prior study (images reviewed) of [**3459-4-18**], LV systolic function
+has markedly deteriorated and severity of MR has increased.
+inferior and inferolateral hypokinesis was present on the prior
+study.
+CXR [**3460-6-8**]: More extensive left lower lobe opacity, probably
+due to atelectasis, although pneumonia cannot be excluded.
+Bilateral effusions and persistent right lower lobe process,
+suggesting edema versus infection.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 4501**] is a 72 yo M with history of CAD s/p CABG, ESRD on
+HD who presented with VT/ PEA/ cardiac arrest with prolonged
+resuscitation (CPR > 45min), intubated for airway protection,
+whose course was complicated by anoxic brain injury. Hospital
+course by problem:
+
+1)Arrhythmia: The original rhythm (VT/ PEA/ cardiac arrest) was
+unclear as EMS found pt down and shocked him right away. The
+patient was treated with cardioversion, initially started on
+lidocaine, then started on amiodarone to prevent further
+episodes of VT. The patient briefly went into atrial
+fibrillation (although he had no documented history of this in
+the past), but remained in NSR throughout the remainder of his
+hospital course, with only occasional APBs and PVCs on
+telemetry. The etiology of original arrhythmia was most likely
+scar-induced. Electrolyte abnormality was unlikely given stable
+electrolytes at OSH. Ischemic etiology was unlikely given
+cardiac enzymes not commensurate with that of MI.
+
+2)Hemodynamics: Upon admission the pt was initially hypotensive.
+BP was maintained with a levophed drip, which was slowly weaned
+as tolerated. Follow-up echo on [**3460-6-7**] showed EF of 20-25% with
+severe regional left ventricular systolic dysfunction, which had
+markedly deteriorated. Volume management was maintained via
+hemodialysis.
+
+3) CAD w/3 vessel disease:The patient was maintained on ASA and
+statin given his history of CAD.
+
+4)Poor oxygenation: CXR findings on [**6-7**] (above) were initally
+read as concerning for PE. But because PE could not be ruled out
+(as contrast could not be administered through the pt's IV site
+and the patient??????s family did not want to place a central line
+with a larger lumen for this purpose), patient was started on a
+heparin drip.  The patient remained intubated for airway
+protection throughout his hospital stay. Ventilator settings
+were weaned as tolerated to FiO2 of 50%.  Subsequent CXR
+findings (Above) showed evidence of a LLL infiltrate and +
+sputum stain of GPC on [**6-7**], and the patient was empirically
+treated for a PNA with vancomycin/levofloxacin/flagyl. On
+hospital day 2 neurology recommended that levo/flagyl be
+discontinued as these meds could decrease the seizure threshold
+(see below), and ceftriaxone was started instead.
+
+4) Anoxic brain injury: On hospital day 2, the patient was
+observed to have twitching of his eyelids and chin. He was
+placed on 24 hour EEG monitoring, and neurology determined him
+to be in status epilepticus secondary to anoxic brain injury.
+The patient was started on dilantin and phenobarbitol and was
+placed on continuous EEG monitoring. After hospital day 3 there
+were no observed recurrences of this seizure-like activity.
+However, after performing serial neuro exams, the neurology team
+felt that the patient??????s overall prognosis was grim for a
+meaningful neurological recovery.
+
+5) DM was controlled with an ISS.
+
+6) FEN: On hospital day 2 tube feeds were started without
+complication.
+
+7) Prophylaxis: The patient received heparin gtt initially for
+suspected PE, and was maintained on heparin drip for atrial
+fibrillation. Pt also received a PPI, and bowel meds prn for
+prophylaxis.
+
+8)After much discussion with the primary team with input from
+neurology, on [**3460-6-12**] the patient??????s daughter and health care
+proxy decided to remove the ventilator and proceed with comfort
+level of care.  Patient was extubated on [**3460-6-12**]. He passed away
+at 12:27 pm.
+
+
+Medications on Admission:
+Aspirin 81mg daily
+Lipitor 40mg daily
+Lisinopril 5mg daily
+Toprol 50mg daily
+Phoslo 1334 mg TID with meals
+ISS (regular)
+
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Ventricular tacchycardia arrest
+Atrial fibrillation
+Status epilepticus
+Anoxic brain injury
+Pneumonia
+End stage renal disease on hemodialysis
+Coronary artery disease
+Congestive heart failure
+Diabetes
+Hypertension
+
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:[**3460-6-13**]
+
+
+DOC CLASS

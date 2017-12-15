@@ -1,0 +1,274 @@
+Chief Complaint:
+   24 Hour Events:
+   - continued to spike fevers (Tmax 101.2) with leukocytosis
+   - liquid stool, melanotic but small volume. Sent repeat C Diff
+   - LFT's trending up, ? ceftriaxone which has now been stopped.
+   continuing to trend
+   - unable to obtain peripheral access, therefore subclavian left in
+   place to use if needed for emergency access
+   - CT Chest/Abd/Pelvis with contrast to evaluate for evidence of
+   infection showed no focal infectious process, but did showed common
+   iliac --> femoral DVT. Final read pending
+   - Family meeting with neurology and medicine with some progress. Son
+   and daughter do not feel that their mother would want prolonged life
+   support and are approaching decision. Son more decisive than daughter
+   who is still coming to terms with this
+   - pigtail continues on water seal
+   - transient hypotension to 77 at 1700, 2 hours after lasix 20mg IV with
+   800cc output. Recovered without intervention
+   Allergies:
+   Lorazepam
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Vancomycin - [**2865-4-17**] 08:42 PM
+   Infusions:
+   Heparin Sodium - 700 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2865-4-17**] 10:14 PM
+   Dilantin - [**2865-4-18**] 12:05 AM
+   Metoprolol - [**2865-4-18**] 06:16 AM
+   Pantoprazole (Protonix) - [**2865-4-18**] 06:17 AM
+   Other medications: phenytoin 100mg IV q12h, metoprolol 5mg IV q6h,
+   levothyroxine 12.5mcg IV
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: Intubated
+   Flowsheet Data as of  [**2865-4-18**] 07:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (101
+   Tcurrent: 37.3
+C (99.2
+   HR: 81 (73 - 87) bpm
+   BP: 99/45(57) {79/34(45) - 132/86(92)} mmHg
+   RR: 17 (11 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 79 kg (admission): 73.6 kg
+   Height: 64 Inch
+             Total In:
+                                                                  2,725 mL
+                                                                    618 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,225 mL
+                                                                    166 mL
+   Blood products:
+   Total out:
+                                                                  2,755 mL
+                                                                    760 mL
+   Urine:
+                                                                  2,380 mL
+                                                                    700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -30 mL
+                                                                   -142 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 460 (460 - 460) mL
+   Vt (Spontaneous): 432 (399 - 443) mL
+   PS : 14 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 120
+   PIP: 19 cmH2O
+   SpO2: 100%
+   ABG: ////
+   Ve: 7.2 L/min
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: Pupils Left 1mm, Right 2mm and non-reactive,
+   staccotic eye movements. No tracking. +blink to threat this am
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: RRR nl S1S2, no murmurs appreciated
+   Peripheral Vascular: DP/PTY pulses palpable bilaterally
+   Respiratory / Chest: vented breath sounds, no crackles or wheezes
+   appreciated
+   Abdominal: Bowel sounds present, non-tender, minimally distended
+   Extremities: Upper extremity non-pitting edema L>R.  LUE with marked
+   edema.
+   Skin:  Cool, No Rash: , No Jaundice
+   Neurologic: Unresponsive off sedation. Upgoing toes bilaterally. No
+   purposeful response to deep nail-bed pressure in upper or lower
+   extremities. Decerebrate posturing. No-purposeful movementsNeurologic:
+   Responds to: Not assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   272 K/uL
+   8.7 g/dL
+   109 mg/dL
+   0.5 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   23mg/dL
+   1074mEq/L
+   136 mEq/L
+   27 %
+   14 K/uL
+        [image002.jpg]
+                             [**2865-4-13**]  10:30 AM
+                             [**2865-4-13**]  03:22 PM
+                             [**2865-4-14**]  05:29 AM
+                             [**2865-4-14**]  03:03 PM
+                             [**2865-4-15**]  04:40 AM
+                             [**2865-4-16**]  06:00 AM
+                             [**2865-4-16**]  06:30 AM
+                             [**2865-4-16**]  08:51 PM
+                             [**2865-4-17**]  06:03 AM
+                             [**2865-4-17**]  02:00 PM
+   WBC
+   15.2
+   19.6
+   19.3
+   18.3
+   17.6
+   Hct
+   30.0
+   30.0
+   32.5
+   32.0
+   30.8
+   29.0
+   28.8
+   27.5
+   Plt
+   139
+   163
+   184
+   196
+   236
+   Cr
+   0.5
+   0.5
+   0.6
+   0.6
+   0.5
+   0.4
+   0.5
+   TCO2
+   25
+   Glucose
+   125
+   100
+   468
+   198
+   68
+   210
+   Other labs: PT / PTT / INR:13.0/56.2/1.1, CK / CKMB /
+   Troponin-T:32/7/0.07,
+   ALT / AST:107/222, Alk Phos / T Bili:99/0.3,
+   Differential-Neuts:83.6 %, Band:0.0 %, Lymph:10.9 %, Mono:5.0 %,
+   Eos:0.3 %,
+    Lactic Acid:1.8 mmol/L, Albumin:2.6 g/dL, LDH:300 IU/L,
+   Ca++:7.9 mg/dL, Mg++:1.9 mg/dL, PO4:3.9 mg/dL
+   Phenytoin 7.9
+   Vanco 23.3
+   Assessment and Plan
+   81F with PMH of DM, HOCM, CHF, Afib and recent intraventricular
+   hemorrhage found unresponsive and hypoglycemic in PEA arrest, now
+   intubated and unresponsive.
+   # Altered mental status/unresponsiveness: Thought most likely hypoxic
+   brain injury in setting of PEA arrest from hypoglycemia and GI bleed,
+   however MRI without evidence of ischemia.  Also in differential is
+   status epilepticus, prolonged effect from hypoglycemic episode,
+   medication effect. Last dose of sedation was on [**4-12**] when she received
+   fentanyl bolus for MRI. MRI showed chronic overshunting however this
+   not likely to be contributing to current presentation. Dilantin level
+   is slightly sub therapeutic. Given low grade fevers with bacteremia and
+   VP shunt, shunt was tapped to r/o CNS infection and showed no e/o
+   infection.  Family meeting yesterday to discuss goals of care, no
+   change in plan of care at this time.
+   - neuro consult appreciated, follow up neuro recs
+   - continue phenytoin to maintain level 15-20, slightly low this am
+   adjusted for albumin; will adjust per neuro
+   - continue to communicate with family re:goals of care
+   .
+   # UGIB: HCT stable. EGD + for clot that could not be removed. Repeat
+   EGD showed residual organizing clot. Cont supportive care per GI. No
+   further episodes of melena/hematemesis since [**4-11**]. Hct has remained
+   stable. High risk to rebleed given appearance of clot in fundus and
+   initiation of anti-coagulation
+   - transfuse for Hct <30
+   - [**Hospital1 **] Hct
+   - active T&C
+   - PPI [**Hospital1 **]
+   - monitor closely for signs of active bleeding
+   .
+   #Fever/ leukocytosis: Tmax of 101, but afebrile this am.. Extensive
+   work-up unrevealing for infectious source including CT Chest/Abd/Pelvis
+   yesterday
+   - f/u sputum, pleural fluid culture, C Diff
+   - consider Zosyn for VAP if clinically deteriorates
+   - trend WBC, fever curve
+   - consider ID consult today depending on goals of care
+   .
+   # s/p mechanical MVR : TEE showed mechanical valve further supporting
+   need for anticoagulation. Started on heparin on [**4-16**]
+   - cont heparin gtt with goal PTT 60-80
+   .
+   # LUE clot:  Extensive clot likely related to subclavian line
+   placement. Also had iliac
+ femoral clot on CT thorax. Subclavian line
+   still in place. Pt will require anticoagulation for at least 3 months.
+   - cont anticoagulation with heparin gtt
+   .
+   # Pneumothorax: Identified on chest X-ray on [**4-14**] likely secondary to
+   subclavian line placement on [**4-10**]. Thoracic surgery was consulted and
+   placed pigtail catheter. Pigtail at water seal. CXR stable
+   - f/u thoracics recs to eval for possible d/c of pigtail catheter
+   - daily CXR and mixed venous gas
+   .
+   # Hyperglycemia: better control after increasing insulin in TPN
+   yesterday
+   -cont lantus 26U qAM
+   -cont 36U insulin in TPN
+   -cont SS insulin
+   .
+   # Bacteremia: OSH cultures show GPC in 4/4bottles from [**4-9**] with MRSE.
+   On vanc day #9. Blood cultures here from [**4-9**] and [**4-13**], [**4-14**] with no
+   growth to date. TEE with no evidence of valvular vegetation
+   - cont vancomycin 750mg q12h to complete a 14 day course or possibly
+   longer per ID consult considering mechanical valve.
+   - f/u vanc level from this am, adjust dose appropriately
+   - f/u blood cx from [**4-13**], [**4-14**], [**4-15**], [**4-16**]
+   .
+   # Hypothyroidism: Elevated TSH of 8 with slightly low free T 4 (0.9).
+   Was started on thyroid replacement
+   - cont levothyroxine
+   .
+   # Ppx: pneumoboots, heparin gtt, protonix
+   # FEN:  TPN, IVF prn, replete lytes prn
+   # Access: d/c left subclavian if additional access able to be obtained;
+   right IJ placed on [**4-16**]
+   # Code:  Full Code
+   # Disp: ICU for now
+   # Contact:  Daughter, [**Name (NI) 5422**] [**Name (NI) 5423**], HCP, [**Telephone/Fax (1) 5425**] or her
+   husband [**Name (NI) **], [**Telephone/Fax (1) 5426**]
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**2865-4-17**] 09:45 PM 62.5 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2865-4-16**] 08:11 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

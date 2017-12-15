@@ -1,0 +1,200 @@
+CVICU
+   HPI:
+   [**4-12**] POD 4
+   82M s/p CABGx3(LIMA to LAD, SVG to OM, SVG to RCA/PDA)/AVR (25 mm
+   mosaic porcine) [**4-8**]
+   EF 15-20 Cr 1.3 Wt 93kgs HgbA1C 9.7
+   [**Last Name (un) **]:ASA 81, diovan 80, glyburide 10 [**Hospital1 **], insulin 15 units in am, lasix
+   80, metformin 1.5, potassium 10
+   PMHx:
+   PMHx: angioedema episode on ACE, DM, severe dialated cardiomyopathy
+   Current medications:
+    Acetaminophen 5. Albuterol-Ipratropium 6. Albuterol 0.083% Neb Soln 7.
+   Albumin 5% (25g / 500mL) 8. Aspirin EC 9. Atorvastatin 10. Calcium
+   Gluconate 11. Chlorothiazide 12. Dextrose 50% 13. Docusate Sodium 14.
+   FoLIC Acid 15. Furosemide 16. Furosemide 17. Insulin 18. Ipratropium
+   Bromide Neb 19. Magnesium Sulfate 20. Metoclopramide 21. Milk of
+   Magnesia 22. Multivitamins 23. Oxycodone-Acetaminophen 24. Pneumococcal
+   Vac Polyvalent 25. Potassium Chloride 26. Ranitidine 27. Sodium
+   Chloride 0.9% Flush 28. Sodium Chloride 0.9% Flush 29. Thiamine 30.
+   Vasopressin
+   24 Hour Events:
+   Extubated
+   weaned Dobutamine
+   Post operative day:
+   [**4-12**] POD 4
+   82M s/p CABGx3(LIMA to LAD, SVG to OM, SVG to RCA/PDA)/AVR (25 mm
+   mosaic porcine) [**4-8**]
+   Allergies:
+   Benadryl (Oral) (P-Ephed Hcl/Dp-Hydram Hcl)
+   anxiety;
+   Ace Inhibitors
+   angioedema;
+   Last dose of Antibiotics:
+   Cefazolin - [**2545-4-9**] 06:00 PM
+   Infusions:
+   Vasopressin - 1.2 units/hour
+   Furosemide (Lasix) - 10 mg/hour
+   Other ICU medications:
+   Morphine Sulfate - [**2545-4-11**] 10:18 AM
+   Furosemide (Lasix) - [**2545-4-11**] 03:27 PM
+   Flowsheet Data as of  [**2545-4-12**] 09:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**47**] a.m.
+   HR: 103 (83 - 105) bpm
+   BP: 123/68(87) {88/43(58) - 123/68(87)} mmHg
+   RR: 9 (8 - 26) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 102.1 kg (admission): 90 kg
+   Height: 69 Inch
+   CVP: 27 (9 - 29) mmHg
+   PAP: (68 mmHg) / (36 mmHg)
+   CO/CI (Fick): (4.2 L/min) / (2 L/min/m2)
+   CO/CI (CCO): (5.1 L/min) / (2.6 L/min/m2)
+   SvO2: 41%
+   Mixed Venous O2% sat: 54 - 54
+   Total In:
+                                                                  1,033 mL
+                                                                    807 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                    755 mL
+                                                                    307 mL
+   Blood products:
+                                                                    278 mL
+                                                                    500 mL
+   Total out:
+                                                                  1,380 mL
+                                                                  2,080 mL
+   Urine:
+                                                                    720 mL
+                                                                  1,730 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -347 mL
+                                                                 -1,273 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: No acute distress, Well nourished, Overweight /
+   Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : scattered), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   158 K/uL
+   10.5 g/dL
+   128 mg/dL
+   2.0 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   35 mg/dL
+   101 mEq/L
+   138 mEq/L
+   30.5 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**2545-4-10**]  03:27 AM
+                             [**2545-4-10**]  03:47 AM
+                             [**2545-4-10**]  03:49 AM
+                             [**2545-4-10**]  05:00 AM
+                             [**2545-4-10**]  12:00 PM
+                             [**2545-4-10**]  03:00 PM
+                             [**2545-4-11**]  04:34 AM
+                             [**2545-4-11**]  04:56 AM
+                             [**2545-4-11**]  01:00 PM
+                             [**2545-4-12**]  04:11 AM
+   WBC
+   14.7
+   12.6
+   9.2
+   Hct
+   29.6
+   29.6
+   28.5
+   28.5
+   30.5
+   Plt
+   173
+   146
+   158
+   Creatinine
+   1.3
+   1.5
+   2.0
+   TCO2
+   25
+   25
+   30
+   Glucose
+   119
+   111
+   172
+   115
+   128
+   Other labs: PT / PTT / INR:15.4/61.4/1.4, Differential-Neuts:89.8 %,
+   Lymph:7.2 %, Mono:2.5 %, Eos:0.3 %, Fibrinogen:336 mg/dL, Lactic
+   Acid:3.0 mmol/L, Ca:8.7 mg/dL, Mg:2.5 mg/dL, PO4:5.4 mg/dL
+   Assessment and Plan
+   VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), CORONARY ARTERY BYPASS
+   GRAFT (CABG), ACUTE PAIN
+   Assessment and Plan: 82yoM s/p AVR/CABG making slow progress
+   post-operatively. Will wean from remaining inotropes and pressors today
+   Neurologic: Pain controlled, percocet
+   Cardiovascular: Aspirin, Statins, Discontinue PA monitor, d/c
+   dobutamine and vasopressin today
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Advance diet as tolerated
+   Renal: Foley, Lasix gtt to make net negative 1-1.5 liters today. Cr 2.0
+   today baseline 1.3
+   Hematology: stable
+   Endocrine: RISS
+   Infectious Disease: no  positive cultures
+   afebrile, normal wbc
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires, d/c mediastinal chest tubes today
+   Wounds: Dry dressings
+   Imaging: CXR today, after chest tube removal
+   Consults: CT surgery, P.T., Nutrition
+   ICU Care
+   Nutrition: regular
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   CCO PAC - [**2545-4-8**] 04:46 PM
+   Cordis/Introducer - [**2545-4-8**] 04:46 PM
+   Arterial Line - [**2545-4-10**] 11:47 PM
+   Prophylaxis:
+   DVT: boots today
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Comments: venodyne boots if unable to ambulate today
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) 351**] [**Doctor Last Name 1787**].
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**2545-4-13**] 07:45 ------
+
+
+
+DOC CLASS

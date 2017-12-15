@@ -1,0 +1,161 @@
+Date of service: [**3145-1-19**]
+   Initial visit, Cardiology service: CCU
+   Presenting complaint: Chest pain
+   History of present illness: (from Dr.[**Name (NI) 4827**] initial admission note
+   and chart) 50 yo male with h/o HCV presented to [**Location (un) **] with chest
+   pain; has been having CP for 4 months with activity; but then 2 nights
+   ago was moving wood and that produced some severe CP that lasted
+   overnight into today; severe, crushing pain, non-radiating, +SOB and
+   nausea. He went to [**Location (un) **] ER where he was found to have TropI 67 and
+   EKG with q waves inferiorly and signficant R waves V1-V2. He was
+   started on aspirin, heparin gtt, nitro gtt and plavix loaded before
+   transferring here.
+   .
+   Per report BP 110/60 but on arrival SBP 80s and tachycardic
+   In cath; found LAD chronically occluded (mid) and LCX mid segment had
+   thrombus (assumed culprit lesion); tried balloon angioplasty b/c of low
+   platelets (didn't want to give stent) but suboptimal results;
+   ultimately placed BMS. Could never fully engage RCA; origin may be
+   anomalous. Received heparin during procedure (started at OSH). LVEDP
+   was elevated but received a lot of dye trying to find RCA.
+   .
+   After the catheterization, patient was admitted to [**Hospital Unit Name 1652**]. About 30-60
+   minutes after arrival on the floor, he complained of recurrent chest
+   pain, nausea, back pain. SBP was initially in the 100s on arrival on
+   the floor but then dropped to the 80s then 70s. Patient was given IVF
+   bolus. He then vomitted, became unconscious, went into PEA arrest. CPR
+   was started. Was given epinephrine 1 mg. Pulses returned. Patient
+   regained consciousness, again vomited coffee-ground emesis. Was
+   intubated. Started on dopamine and wide-open IVF. Transferred to CCU.
+   ECG showed new ST depression in precordial leads and ST elevations in
+   II, III. R-sided ECG showed ST elevations in lateral leads.
+   Past medical history: HCV 2/2 blood transfusion - s/p IFN and
+   Ribavarin; neg viral load per report
+   Sinusitis
+   Depression
+   CAD Risk Factors
+   CAD Risk Factors Absent
+   Diabetes mellitus, Dyslipidemia, Hypertension, Family Hx of CAD, Family
+   Hx of sudden cardiac death
+   (Tobacco: Yes), (Quit: Yes), (Cigarettes: 1 packs / day x 1 yrs)
+   Cardiovascular Procedural History
+   There is no history of:
+   PCI
+   CABG
+   Pacemaker / ICD
+   Allergies:
+   No Known Drug Allergies
+   Current medications: Mucinex dose unknown
+   lexapro 20mg daily
+   Physical Exam
+   Date and time of exam: [**3144-1-19**]
+   General appearance: intubated
+   Vital signs: per R.N.
+   Height: 70 Inch, 178 cm
+   BP right arm:
+   96 / 67 mmHg
+   Weight: 86 kg
+   T current: 36.9 C
+   HR: 118 bpm
+   RR: 27 insp/min
+   O2 sat: 100 %  on Supplemental oxygen: ventilator
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Right carotid artery: No bruit), (Left carotid artery: No
+   bruit), (Jugular veins: Not visible)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: WNL), (Auscultation: Abnormal, coarse breath
+   sounds throughout, bibasilar crackles)
+   Cardiac: (Rhythm: Regular), (Auscultation: S1: WNL, S2: wnl), (Murmur /
+   Rub: Present), (Auscultation details: 2/6 systolic murmur best heard at
+   apex)
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   No bruit)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Dorsalis pedis
+   artery: Right: 2+, Left: 2+), (Posterior tibial artery: Right: 2+,
+   Left: 2+), (Edema: Right: 0, Left: 0)
+   Skin: ( WNL)
+   Labs
+   9.9
+   204
+   1.2
+   18
+   4.4
+   12
+   108
+   137
+   29.6
+   9.6
+        [image002.jpg]
+                            [**3145-1-19**]  04:04 AM
+   O2 sat (arterial)
+   98
+   ABG: 7.20 / 38 / 327 /  / -12   Values as of [**3145-1-19**] 04:04 AM
+   Tests
+   ECG: (Date: [**3145-1-19**]), ECG (admission): NSR, LAD, Q waves II, III, AVF,
+   TWI AVL, R waves V1-2, TWI V4-6
+   ECG (post-cath): ST elevations in III, II (III>II), and ST depressions
+   in V2-6
+   Cardiac Cath: (Date: [**3145-1-19**]), LMCA clean
+   LAD: TO mid, chronic, collaterlized
+   LCX: very thrombotic OM1 occlusion, BMS
+   RCA: poorly visualized
+   Assessment and Plan
+   ASSESSMENT AND PLAN: 50 yo male with h/o HCV presented with NSTEMI,
+   received BMS in LCx, then had post-cath chest pain, coded, and had new
+   evidence of RCA infarct.
+   .
+   # CORONARIES: Pt presented with chest pain; found with very signicant
+   elevation in Trop and CK at OSH, discovered to have chronically
+   occluded LAD and thrombus in LCX; now s/p BMS to LCX. RCA unable to be
+   engaged. Pt received Plavix load and aspirin prior. Post-cath chest
+   pain and new ECG findings of ST elevations in III>II and precordial ST
+   depressions suggest RCA infarct.
+   - start bivalirudin bolus and gtt given thrombocytopenia
+   - re-activate cath lab; will attempt emergent catheterization again
+   - continue ASA, clopidogrel
+   - statin in a.m.
+   - BB in a.m. if BP tolerates
+   - serial ECGs
+   - trend cardiac enzymes
+   - check TTE
+   .
+   # PUMP: No known h/o diastolic/systolic function, had elevated LVEDP in
+   Cath lab. Hypotension likely due to RCA infarct.
+   - IVF and dopamine to maintain BP
+   - TTE in a.m.
+   .
+   # RHYTHM: sinus rhythm, currently tachycardic
+   - monitor on telemetry
+   .
+   # [**Name (NI) 4828**] Pt with plts 57; baseline unknown. Concern given pt
+   started on aspirin/plavix but unable to do balloon angiplasty; thus
+   requires clopidogrel.
+   - monitor CBC closely
+   - call PCP in AM to determine baseline (? if related to HCV)
+   .
+   # Depression:
+   - will restart escitalopram once extubated
+   .
+   # HCV: Pts LFTs not markedly elevated, T.bili at OSH wnl; pt has
+   completed IFN/ribavarin and per report recent viral load undetectable.
+   - recheck LFTs
+   - monitor for signs of esophageal variceal bleed given coffee ground
+   emesis
+   - monitor CBC closely; transfuse as needed
+   .
+   # FEN: NPO while intubated, will consider TF
+   .
+   # ACCESS: PIV's, L fem line (will need to pull non-sterile femoral line
+   once stable)
+   .
+   # PROPHYLAXIS: Pneumoboots for now (as pt with very low plts) , PPI
+   .
+   # CODE: Presumed full
+   .
+   # DISPO: CCU care for now
+
+
+
+DOC CLASS

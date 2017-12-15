@@ -1,0 +1,193 @@
+Chief Complaint: resp failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   85 yo male with CHF from amyloidosis, acute on chronic renal failure
+   admitted with carediogenic shock with renal failure/poor renal flow now
+   on HD. Has acute respiratory failure from volume overload now trach'd
+   and undergoing TC trials.
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**3118-7-5**] 11:21 AM
+ URINE CULTURE - At [**3118-7-5**] 02:31 PM
+ STOOL CULTURE - At [**3118-7-5**] 02:31 PM
+ BLOOD CULTURED - At [**3118-7-6**] 04:30 AM
+   1 set sent of surveillence cxs sent from the picc line.
+   Started on cipro for possibility of UTI
+   History obtained from Patient, Medical records
+   Patient unable to provide history: trach'd
+   Allergies:
+   Benadryl (Injection) (Diphenhydramine Hcl)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3118-7-6**] 08:34 AM
+   Other medications:
+   cipro, mitodrine, lansoprazole, SSI, colace, senna, atrovent,
+   albuterol, chlorhexidien
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3118-7-6**] 10:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37.4
+C (99.4
+   HR: 82 (77 - 95) bpm
+   BP: 94/50(56) {83/42(51) - 104/56(126)} mmHg
+   RR: 19 (18 - 40) insp/min
+   SpO2: 100% on 35% TM
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 72.2 kg (admission): 96.9 kg
+   Height: 71 Inch
+                  Total In:
+                                                                  1,138 mL
+                                                                    509 mL
+   PO:
+                  TF:
+                                                                    898 mL
+                                                                    389 mL
+   IVF:
+   Blood products:
+   Total out:
+                                                                    115 mL
+                                                                     55 mL
+   Urine:
+                                                                    115 mL
+                                                                     55 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,023 mL
+                                                                    454 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 100%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Endotracheal tube, No(t)
+   NG tube, trach
+   Lymphatic: Cervical WNL, Supraclavicular WNL, No(t) Cervical adenopathy
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), No(t) S3,
+   No(t) S4, Left SC HD catheter
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   scattered rales
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , No(t) Obese
+   Extremities: No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, No(t) Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Follows simple commands, Responds to: Not assessed,
+   Movement: Purposeful, No(t) Sedated, No(t) Paralyzed, Tone: Normal
+   Labs / Radiology
+   7.4 g/dL
+   251 K/uL
+   164 mg/dL
+   3.0 mg/dL
+   26 mEq/L
+   3.7 mEq/L
+   62 mg/dL
+   105 mEq/L
+   143 mEq/L
+   23.7 %
+   14.4 K/uL
+        [image002.jpg]
+                             [**3118-7-2**]  11:57 PM
+                             [**3118-7-3**]  05:47 AM
+                             [**3118-7-3**]  06:03 AM
+                             [**3118-7-4**]  03:20 AM
+                             [**3118-7-4**]  03:26 PM
+                             [**3118-7-4**]  04:22 PM
+                             [**3118-7-5**]  05:25 AM
+                             [**3118-7-5**]  05:33 AM
+                             [**3118-7-5**]  06:19 PM
+                             [**3118-7-6**]  04:30 AM
+   WBC
+   12.8
+   13.1
+   11.5
+   14.4
+   Hct
+   21.5
+   24.6
+   22.9
+   23.5
+   23.6
+   23.7
+   Plt
+   [**Telephone/Fax (3) 9503**]51
+   Cr
+   1.9
+   2.4
+   2.4
+   3.0
+   TCO2
+   26
+   26
+   29
+   27
+   Glucose
+   167
+   95
+   168
+   164
+   Other labs: PT / PTT / INR:14.1/29.2/1.2, CK / CKMB /
+   Troponin-T:26//0.11, ALT / AST:28/52, Alk Phos / T Bili:395/0.7,
+   Amylase / Lipase:122/79, Differential-Neuts:83.9 %, Lymph:7.6 %,
+   Mono:7.3 %, Eos:0.9 %, Lactic Acid:0.8 mmol/L, Albumin:2.6 g/dL,
+   LDH:177 IU/L, Ca++:8.8 mg/dL, Mg++:2.3 mg/dL, PO4:3.6 mg/dL
+   Fluid analysis / Other labs: Hep serologies pending
+   Microbiology: Blood and urine cultures pending
+   Assessment and Plan
+ ANEMIA, OTHER
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ CONSTIPATION (OBSTIPATION, FOS)
+ IMPAIRED SKIN INTEGRITY
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ SHOCK, CARDIOGENIC
+   84 yo male admitted with cardiogenic shock with mulitorgan failure from
+   volume overload and poor forward flow
+   1. Resp failure: currently tolerating TC trials. Receiving HD for fluid
+   overload
+   2. Cardiogenic shock: on mitodrine with good response
+   3. Leukocytosis: Was febrile earlier this week with no + culture
+   results; empirically started on ciprofloxacin for concern for UTI with
+   his low uop. No fevers over the past 24 hours
+   4. Anemia: slow intermittent decreases in Hct, not actively bleeding.
+   Have been supporting with transfusions as needed (last several days
+   ago). On PPI
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3118-7-5**] 05:22 PM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3118-7-3**] 10:30 AM
+   Dialysis Catheter - [**3118-7-3**] 11:45 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :Transfer to rehab / long term care facility
+   Total time spent:
+
+
+
+DOC CLASS

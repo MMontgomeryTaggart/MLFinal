@@ -1,0 +1,220 @@
+Chief Complaint:
+   24 Hour Events:
+ NON-INVASIVE VENTILATION - STOP [**2709-3-12**] 09:15 AM
+   Continued to hold lasix and IVF
+   Creatinine improved to 3.1
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2709-3-10**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2709-3-11**] 10:00 AM
+   Levofloxacin - [**2709-3-11**] 08:56 PM
+   Ciprofloxacin - [**2709-3-12**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2709-3-13**] 03:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2709-3-13**] 07:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 65 (60 - 65) bpm
+   BP: 121/48(65) {93/38(52) - 127/58(72)} mmHg
+   RR: 24 (19 - 33) insp/min
+   SpO2: 89%
+   Heart rhythm: A Paced
+                  Total In:
+                                                                  1,220 mL
+                                                                    350 mL
+   PO:
+                                                                    800 mL
+                                                                    350 mL
+   TF:
+   IVF:
+                                                                    420 mL
+   Blood products:
+   Total out:
+                                                                    706 mL
+                                                                    460 mL
+   Urine:
+                                                                    706 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    514 mL
+                                                                   -110 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   Ventilator mode: Standby
+   FiO2: 100%
+   SpO2: 89%
+   ABG: ///29/
+   Physical Examination
+   Gen: A&O x3, Russian speaking, sleeping awakens easily to voice
+   HEENT: NC AT PERRL EOMI
+   Neck: obese
+   CV: diffuicult to auscultate over vocal noises, regular rate and
+   rhythm, 2/6 systolic murmur
+   Lungs: scattered ronchi/crackles L>R, no wheezing
+   Abd: obese, soft, NT BS+
+   Ext: erythema of LE bilaterally/symmetric, chronic venous stasis
+   dermatitis,  no open lesions, trace pitting edema
+   Labs / Radiology
+   186 K/uL
+   9.9 g/dL
+   98 mg/dL
+   3.1 mg/dL
+   29 mEq/L
+   4.9 mEq/L
+   92 mg/dL
+   98 mEq/L
+   141 mEq/L
+   31.5 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**2709-3-9**]  09:31 AM
+                             [**2709-3-9**]  03:14 PM
+                             [**2709-3-9**]  08:45 PM
+                             [**2709-3-10**]  03:48 AM
+                             [**2709-3-10**]  05:21 AM
+                             [**2709-3-10**]  12:54 PM
+                             [**2709-3-11**]  04:20 AM
+                             [**2709-3-11**]  03:43 PM
+                             [**2709-3-12**]  03:46 AM
+                             [**2709-3-13**]  05:18 AM
+   WBC
+   18.4
+   17.5
+   11.8
+   11.4
+   9.4
+   Hct
+   32.7
+   30.3
+   29.8
+   27.9
+   29.2
+   31.5
+   Plt
+   193
+   174
+   159
+   186
+   186
+   Cr
+   3.2
+   3.4
+   3.6
+   3.6
+   3.6
+   3.6
+   3.5
+   3.1
+   TropT
+   0.04
+   0.04
+   0.06
+   TCO2
+   35
+   Glucose
+   119
+   131
+   130
+   99
+   122
+   98
+   Other labs: CK / CKMB / Troponin-T:278/5/0.06, Ca++:8.6 mg/dL, Mg++:3.1
+   mg/dL, PO4:5.4 mg/dL
+   MICRO:
+   Urine cx [**3-9**]: Negative
+   IMAGES: None
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ NEPHROLITHIASIS (KIDNEY STONES)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITH ACUTE EXACERBATION
+   A/P: Ms. [**Known patient lastname 7203**] is an 80 yo F with hypercarbic respiratory failure
+   [**1-4**] COPD, OSA, acute on chronic dCHF admitted with right flank pain due
+   to nephrolithiasis.
+   .
+   #Nephrolithiasis/UTI: s/p right perc nephrostomy tube placement by IR,
+   with WBC trending down and good urine output via nephro tube.  UTI from
+   admission with pansensitive proteus mirabilis.
+   -continue ciprofloxacin to complete 14 day course
+   -outpt f/u with urololgy to determine long term plan
+   -f/u IR reccs -> nephrostomy tube functioning properly
+   .
+   #Acute on chronic renal failure:  Likely multifactorial [**1-4**] hypotension
+   on admission, UTI/obstructive nephropathy, congestive heart
+   failure/severe OSA with poor cardiac output.  Creatinine improved to
+   3.1this morning.  Have been holding diuretics since day of admission.
+   -encourage po intake
+   -continue holding lasix for now, hold additional IVF
+   -renally dose all meds
+   -monitor cr daily
+   -allow to take po
+   .
+   # Acute on chronic diastolic CHF-Cor pulmonale with 4+TR and severe RV
+   dysfunction [**1-4**] long standing untreated OSA as well as COPD.  Will
+   continue to hold diuretics given renal failure, will be tenuous balance
+   given severe dchf and pulmonary edema as well as poor renal function.
+   - daily weight
+   - monitor UOP
+   - continue BB, asa, statin
+   -continue BIPAP while sleeping to decrease RV dysfunction.
+   .
+   # Hypercarbic Respiratory Acidosis: Baseline pCO2 appears to be in the
+   70
+s likely [**1-4**] COPD, untreated OSA, diastolic failure.  Does well when
+   on bipap while sleeping with improvement in oxygenation from O2 sats in
+   the mid 80
+s to low 90
+s with bipap.
+   - adjust BIPAP as indicated, b/l CO2 60s -70
+   ..
+   # Atrial fibrillation: Rate controlled, has been in sinus
+   -continue dig, check level given renal dysfunction
+   -continue asa and lopressor
+   .
+   # COPD: on oxygen at home 7L
+   - switch spiriva to ipratropium
+   - albuterol nebs
+   .
+   # Hypothyroidism: continue levothyroxine
+   ICU Care
+   Nutrition: cardiac diet as tolerated
+   Glycemic Control: not requiring insulin
+   Lines:
+   20 Gauge - [**2709-3-13**] 02:05 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: not taking
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 856**], MD
+   on:[**2709-3-13**] 15:31 ------
+
+
+
+DOC CLASS

@@ -1,0 +1,223 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ TRANSTHORACIC ECHO - At [**2894-11-22**] 02:00 PM- showed increased
+   pulmonary htn, but no vegetations or marked wall motion abnormalities
+   -rash worsened
+ FEVER - 102.2
+F - [**2894-11-22**] 05:45 PM, sent standard and fungal
+   cultures
+   Fever- 103 this AM
+   -still on levophed, received 1.5 L NS, 1L LR
+   -ID recs
+   -Derm to be consulted for worsening rash; prn benadryl & sarna lotion
+   ordered
+   -Levophed weaned during day but restarted at night; IVF boluses also
+   given
+   -Azithromycin started for atypical coverage
+   -[**Year (4 digits) **] serologies sent to Mayo Clinic
+   Allergies:
+   Vancomycin
+   Rash; rash comp
+   Last dose of Antibiotics:
+   Vancomycin - [**2894-11-20**] 02:30 PM
+   Piperacillin - [**2894-11-21**] 10:00 PM
+   Daptomycin - [**2894-11-22**] 08:30 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2894-11-22**] 09:40 PM
+   Clindamycin - [**2894-11-23**] 12:00 AM
+   Infusions:
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2894-11-23**] 06:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 36.9
+C (98.5
+   HR: 88 (62 - 95) bpm
+   BP: 105/60(71) {74/35(31) - 113/62(73)} mmHg
+   RR: 28 (14 - 31) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+    CVP: 6 (2 - 13)mmHg
+   Total In:
+                                                                  4,713 mL
+                                                                  1,164 mL
+   PO:
+                                                                  1,440 mL
+   TF:
+   IVF:
+                                                                  3,273 mL
+                                                                  1,164 mL
+   Blood products:
+   Total out:
+                                                                  2,880 mL
+                                                                    969 mL
+   Urine:
+                                                                  2,880 mL
+                                                                    969 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,833 mL
+                                                                    195 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ///20/
+   Physical Examination
+   Gen: Awake, alert, +shaking chills, appropriate with conversation
+   HEENT: NC AT, PERRL, EOMI, slight pharyngeal exudate no oral lesions.
+   R IJ line placed.
+   Neck: right IJ in place  Not erythematous or indurated.  No LAD
+   CV: RRR s1 s2
+   Lungs: CTAB
+   Abd: soft, NT, ND BS+ no rebound or guarding
+   Ext: no edema, warm, mild rash on thighs and buttocks., slight
+   erythema, no induration at site of L antecubital fossa where he
+   recently injected crystal meth
+   Skin: Diffuse, blanching, erythematous rash, mostly on trunk and back,
+   with slight morbiliform pattern on chest.  New facial involvement,
+   Greater involvement of buttocks and thighs.  No exfoliation,, no oral
+   crusting or oral ulcers, No ocular lesions.  No tenderness to skin
+   palpation.
+   Labs / Radiology
+   64 K/uL
+   8.6 g/dL
+   100 mg/dL
+   0.8 mg/dL
+   20 mEq/L
+   3.4 mEq/L
+   10 mg/dL
+   110 mEq/L
+   138 mEq/L
+   24.9 %
+   5.7 K/uL
+        [image002.jpg]
+                             [**2894-11-20**]  10:58 AM
+                             [**2894-11-20**]  01:34 PM
+                             [**2894-11-20**]  05:05 PM
+                             [**2894-11-20**]  06:59 PM
+                             [**2894-11-21**]  03:51 AM
+                            [**2894-11-22**]  03:00 AM
+                            [**2894-11-23**]  02:12 AM
+   WBC
+   4.2
+   4.1
+   5.0
+   3.2
+   5.7
+   Hct
+   29.6
+   28.0
+   29.5
+   25.5
+   24.9
+   Plt
+   58
+   60
+   65
+   49
+   64
+   Cr
+   0.7
+   0.7
+   0.8
+   0.8
+   0.8
+   TCO2
+   18
+   23
+   Glucose
+   104
+   116
+   130
+   93
+   100
+   Other labs: PT / PTT / INR:13.3/37.2/1.1, ALT / AST:46/51, Alk Phos / T
+   Bili:49/0.8, Differential-Neuts:64.6 %, Lymph:31.9 %, Mono:3.4 %,
+   Eos:0.1 %, Fibrinogen:309 mg/dL, Lactic Acid:1.7 mmol/L, LDH:200 IU/L,
+   Ca++:7.4 mg/dL, Mg++:1.7 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname **] is a 48 yo M with HIV, HCV presenting with fevers and
+   hypotension concerning for sepsis.  Now has worsening rash.
+   .
+   #Fevers - unclear source for infection at this time, although recent
+   injection drug use concerning for bacteremia/endocarditis, with
+   differential including staph, partially treated strep (pt received
+   penicillin for syphilis), or culture negative pathogens.  Fever,
+   hypotension, and rash would be concerning for a toxic-shock syndrome
+   picture, but again, patient would be likely culture positive.  Other
+   likely sources would be viral respiratory infection, PNA less likely
+   given clear CXR. LP without evidence of meningitis.  U/A is positive,
+   representing possible UTI, pyelonephritis, or spillover of infection
+   from the bloodstream.  However, this would be covered by antibiotics.
+   Given ECG conduction problems, considering [**Name (NI) **], myocarditis.
+   -f/u nasal aspirate for influenza
+   -continue Daptomycin because of vanco allergy, Zosyn, add Clinda per ID
+   recs X 48 hours
+   -f/u cultures, [**Name (NI) 2445**] serologies, C. Diff
+   - Tylenol for fevers alternating with Ibuprofen for liver disease
+   .
+   #Hypotension - concerning for sepsis given high fevers.   [**Last Name (un) 552**] stim
+   test normal
+   -continue with antibiotics
+   -continue levophed with goal MAP >65, attempt to wean as tolerated
+   -continue IVF to maintain CVP 8-10.
+   .
+   #Thrombocytopenia, coagulopathy
+ Lower than baseline.  No current
+   evidence of bleeding. DIC labs negative.  Ddx: primary HIV effects,
+   drug (interferon, HAART) effects, or consumptive process/dilution.
+   -monitor PLT, coags
+   -transfuse if Hct<21, Plt<[**10-27**]
+   .
+   Rash- Most likely drug rash, followed by viral exanthem, and toxic
+   shock syndrome much less likely.  No ocular/mucous membrane involvement
+   concerning for  [**Doctor Last Name 2470**]-[**Location (un) 725**].
+   -          Recheck diff for eosinophilia
+   -          Sarna lotion for symptomatic relief.  Diphenhydramine for
+   same.
+   -          If skin grows painful, or eyes/mouth become involved, derm
+   consult
+   #HIV/HCV - followed by Dr. [**First Name (STitle) 2426**] and Dr. [**Last Name (STitle) 2427**] of ID service.  LFT's at
+   baseline.
+   -continue [**Doctor Last Name 797**] with kaletra and truvada
+   -hold off on ribaviron for now per Dr. [**First Name (STitle) 2426**]
+   .
+   #Anemia - per patient [**2-13**] interferon/ribaviron therapy, gets aranesp
+   injestions.  No evidence of acute bleeding and HCT close to baseline.
+   -monitor HCT, PLT
+   #PPX: pneumoboots (hold heparin given thrombocytopenia), bowel reg if
+   needed
+   .
+   #FEN - regular diet, replete lytes prn
+   .
+   #Code Status - Full
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2894-11-20**] 08:15 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

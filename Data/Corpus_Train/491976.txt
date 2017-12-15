@@ -1,0 +1,48 @@
+TITLE: Cardiology fellow CCU admit note
+   S: Pt seen and discussed with housestaff. Please see their note for
+   complete details. In brief, Mr. [**Known patient lastname 2922**] is a [**Age over 90 304**] yoM w/ reported h/o CAD
+   (although dobutamine-MIBI in [**3004**] normal), ? CHF (last EF>55% w/o
+   diastolic dysfunction on doppler in [**3007**]), OSA, 2nd degree AVB s/p dual
+   chamber [**Company 2322**] PPM in [**3006**], recurrent pna and bronchitis, htn, h/o
+   DVT and AF on coumadin here with increased respiratory distress from
+   nursing home. Reportedly hypoxic and tachypneic at nursing home with
+   rales and elevated JVP on exam. Given 80 mg and then 160 mg of lasix
+   (unclear if made urine). EMS called and placed on BiPAP. DNR/DNI
+   confirmed from nursing home paperwork.
+   O: 98.2, 129/77, 90, 20, 100% BiPAP
+   elderly, appears fatigued. Minimally interactive. Attempts to respond
+   to verbal stimuli but difficult to understand through BiPAP
+   JVP difficult to appreciate with BiPAP mask in place but appears to be
+   to earlobe sitting upright
+   Irreg irreg. No appreciable murmurs
+   Prominent BS on BiPAP. No clear rales or rhonchi
+   Distended abd. S/NT.
+   No edema. WWP. Full distal pulses
+   Labs reviewed. No leukocytosis. Hct normal. Cr 1.9 (last 1.4 [**8-1**]
+   here). Bicarb 42 (chronically elevated). CEs negative. INR 2.8. CXR
+   suggestive of CHF with possible RLL consolidation. ECG appears to be
+   sinus with APCs and V paced rhythm. No RWs in lateral precordial leads.
+   No prior paced ECGs for comparison. Last TTE  [**3007**] with EF>55%, mild
+   LVH, no e/o diastolic dys, dilated RV with HK, and nl PASP.
+   A/P: [**Age over 90 304**] yoM w/ ?CAD, preserved EF, OSA, ? COPD, 2nd degree heart block
+   s/p PPM, OSA, DVT/AF on coumadin here with respiratory distress and
+   CHF. Unclear cause of CHF given prior normal EF w/o e/o diastolic
+   dysfunction. Does have LVH although not tachy, hypertensive, or
+   obviously ischemic to cause dCHF exacerbation. Possibility of missed MI
+   now causing sCHF given lack of RWs laterally. Per nursing home reports,
+   BL O2 88% on 2L so likely acute exacerbation complicating chronic
+   underlying lung disease.
+   - diurese with lasix IV. Can use gtt prn
+   - add metolazone prn
+   - cont BiPAP support and wean as tolerated
+   - check VBG to evaluate pH and CO2
+   - TTE in am
+   - if mental status fails to improve, will need to check CT head (per
+   nursing home reports, was interactive and appropriate just prior to
+   transfer)
+   - will need to address goals of care with family in am
+   Discussed with Dr. [**Last Name (STitle) **].
+
+
+
+DOC CLASS

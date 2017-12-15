@@ -1,0 +1,390 @@
+Admission Date:  [**2790-12-13**]              Discharge Date:   [**2790-12-19**]
+
+Date of Birth:  [**2711-2-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents
+
+Attending:[**Last Name (NamePattern4) 615**]
+Chief Complaint:
+Staph aureus bacteremia
+
+Major Surgical or Invasive Procedure:
+Placement of PICC line
+
+History of Present Illness:
+Mr. [**Known patient lastname 8171**] is a 79 yo male with hx of CAD, CHF, Afib, AS s/p
+[**Known patient lastname **], DM2 who presents from [**Hospital 209**] Rehab with staph bacteremia
+[**12-11**] and [**12-12**] in need of a TEE. Patient was discharged from
+[**Hospital1 68**] on [**2790-11-29**]. He was admitted at that time for increasing
+dependence on the vent and was thought to have a VAP and
+questionable CHF exacerbation. He was diuresed daily and treated
+with levaquin for stenotrophomonas pna. Patient was also able to
+be weaned from the vent and was discharged on trach mask with
+50% FIO2. Patient then went to [**Hospital 209**] Rehab and during his
+course there developed a klebsiella UTI and pna and is being
+treated with cefaclor per sensitivities. Start date of cefaclor
+appears to be [**12-8**]. On [**12-10**], patient spiked a fever to 101
+rectally and blood cultures were drawn. He has been afebrile
+since then. He also had a rising white count from 8-->13 noted
+on [**12-11**] with diarrhea and was started on po vanco empirically.
+Blood cultures from [**12-11**] and [**12-12**] are growing out staph aureus
+and patient was sent to [**Hospital1 68**] for TEE since he has recent
+history of [**Hospital1 **]. Also has stage 4 pressure ulcer on right foot
+which could also be causing the fever and bacteremia as there is
+a question of osteomyelitis.
+
+Past Medical History:
+Past Medical History:
+CAD s/p CABG (LIMA -> LAD, SVG ->OM)
+CHF EF 50%, mod AI
+DM2 with neuropathy and retinopathy
+aortic stenosis s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], [**First Name8 (NamePattern2) **] [**Initials (NamePattern4) 659**] [**Last Name (NamePattern4) **]
+PVD s/p left bkpop-at with left cephalic vein [**7-13**], s/p left
+fem-pedal [**6-12**] failed
+osteoarthritis-back l/s spine
+AFib with embolic CVA
+cataracts s/p repair bilaterally
+inguinal hernia s/p repair
+retinopathy s/p OD laser
+HIT positive
+s/p trach
+s/p PEG tube
+
+Social History:
+retired, married, living in [**Hospital 209**] Rehab.
+
+Family History:
+NC
+
+Physical Exam:
+vitals: T 99.2 ax P 95 BP 113/50 R 25 O2 sat 98% on 35% cool
+mist neb
+general: sleepy but interactive, NAD
+heent: NCAT , anicteric, no injections, MMM, no oral lesions
+pulm: fine bibasilar crackles
+cv: irreg, irreg no mgr
+abd: + bs, soft, nt, nd, peg in place- no erythema at site
+extr: no cce, pedal pulses dopplerable
+neuro: moves all extrem except left arm which had previous
+plexus injury
+
+Pertinent Results:
+[**2790-12-13**] 09:05PM   LACTATE-1.0
+[**2790-12-13**] 06:37PM   GLUCOSE-188* UREA N-75* CREAT-1.4* SODIUM-144
+POTASSIUM-4.1 CHLORIDE-110* TOTAL CO2-27 ANION GAP-11
+[**2790-12-13**] 06:37PM   CALCIUM-9.0 PHOSPHATE-3.7 MAGNESIUM-3.0*
+[**2790-12-13**] 06:37PM   CRP-192.2*
+[**2790-12-13**] 06:37PM   WBC-18.2* RBC-3.15* HGB-9.6* HCT-29.6* MCV-94
+MCH-30.5 MCHC-32.5 RDW-16.5*
+[**2790-12-13**] 06:37PM   NEUTS-80.9* LYMPHS-13.6* MONOS-3.5 EOS-1.6
+BASOS-0.3
+[**2790-12-13**] 06:37PM   PLT COUNT-266#
+[**2790-12-13**] 06:37PM   PT-18.1* PTT-41.8* INR(PT)-1.7*
+[**2790-12-13**] 06:37PM   SED RATE-124*
+[**2790-12-13**] 09:05PM   LACTATE-1.0
+[**2790-12-16**] 06:58PM BLOOD WBC-17.9* RBC-3.14* Hgb-9.3* Hct-29.2*
+MCV-93 MCH-29.6 MCHC-31.9 RDW-15.7* Plt Ct-246
+[**2790-12-16**] 04:00AM BLOOD PT-25.2* PTT-47.2* INR(PT)-2.5*
+[**2790-12-16**] 06:58PM BLOOD Glucose-67* UreaN-42* Creat-1.0 Na-146*
+K-4.3 Cl-114* HCO3-26 AnGap-10
+[**2790-12-16**] 06:58PM BLOOD Calcium-8.5 Phos-3.7 Mg-2.7*
+.
+Micro:
+[**2790-12-14**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-PRELIMINARY {GRAM NEGATIVE ROD(S), GRAM NEGATIVE ROD #2}
+
+[**2790-12-14**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING
+[**2790-12-13**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING
+[**2790-12-13**] SWAB GRAM STAIN-FINAL; WOUND CULTURE-FINAL
+{CORYNEBACTERIUM SPECIES (DIPHTHEROIDS), STAPHYLOCOCCUS,
+COAGULASE NEGATIVE}; ANAEROBIC CULTURE-FINAL
+[**2790-12-13**] URINE URINE CULTURE-FINAL
+[**2790-12-13**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+[**2790-12-13**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PRELIMINARY {STAPH AUREUS COAG +}
+.
+Imaging:
+CHEST (PORTABLE AP)  [**2790-12-13**] 6:16 PM
+IMPRESSION: AP chest compared to [**11-25**] through 18:
+Extensive infiltrative pulmonary abnormality has improved since
+[**11-29**] and previous moderate bilateral pleural effusions
+have decreased, consistent with improving pulmonary edema.
+Residual abnormality could represent pneumonia to some degree.
+Moderate-to-severe enlargement of the cardiac silhouette due to
+cardiomegaly and/or pericardial effusion is unchanged.
+Tracheostomy tube is in standard placement. No pneumothorax or
+mediastinal widening.
+.
+FOOT 2 VIEWS PORT RIGHT  [**2790-12-14**] 10:16 AM
+IMPRESSION: No radiographic evidence of osteomyelitis.
+.
+TEE [**2790-12-14**]:
+A small secundum atrial septal defect/stretched PFO is seen with
+color Doppler (cine loop #60). The left atrium is dilated. Mild
+spontaneous echo contrast is seen in the body of the left
+atrium. No mass/thrombus is seen in the left atrium or left
+atrial appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). The right atrium is dilated. There is
+symmetric left ventricular hypertrophy. Overall left ventricular
+systolic function appears preserved. There are simple atheroma
+in the ascending aorta, arch and descending aorta. A
+bioprosthetic aortic valve prosthesis is present. The
+transaortic gradient is normal for this prosthesis (but may be
+slightly UNDERestimated on this study). No masses or vegetations
+are seen on the aortic valve. A paravalvular jet of moderate
+(2+) aortic regurgitation is seen. The jet emanates from the
+posterolateral aspect of the aortic annulus, adjacent to the
+left sinus of Valsalva. The mitral valve leaflets are mildly
+thickened. No mass or vegetation is seen on the mitral valve.
+Mild (1+) mitral regurgitation is seen. No vegetation/mass is
+seen on the pulmonic valve. There is no pericardial effusion.
+IMPRESSION: No valvular vegetations seen. Moderate paravalvular
+prosthetic aortic regurgitation.
+
+Brief Hospital Course:
+A/P: 79 yo with CAD, CHF, DM2 who presents with bacteremia
+growing staph.
+.
+#. Staph bacteremia- Patient had positive blood cultures with
+coag + Staph at rehab and GPC in one BCx bottle at [**Hospital1 68**]. TEE
+was negative for endocarditis. GS from foot decub showed coag
+negative staph and diptheriae (likely contaminate). He continued
+to have high white count despite treatment, though he was never
+febrile during his stay. Surveillance blood cultures taken after
+[**2790-12-13**] showed no growth several days after drawn.  He was
+continued on vancomycin IV throughout his stay.  Sensitivities
+of the original positive blood culture showed MRSA that was
+sensitive to Bactrim.  Per vascular, the decision was made to
+treat the infection as if he has osteomyelitis.  The plan is to
+continue IV vancomycin for a total of 6 weeks to end, last day
+[**2791-1-16**].
+.
+#. Klebsiella UTI- diagnosed at rehab and treated with cefaclor
+for 7 days before admission. He was continued on ceftriaxone
+(cefaclor is not formulary at [**Hospital1 68**], though sensitivies from
+rehab showed that it was sensitive to ceftriaxone).  Urine
+culture from [**12-13**] negative.  The plan is to continue the
+ceftriaxone for a total of 14 days of cefaclor/ceftriaxone, last
+day [**12-26**].
+.
+#. Afib: Patient has chronic afib and had periods of RVR on [**12-15**]
+which were controlled with his usual scheduled dose of
+metoprolol. Patient is anticoagulated with coumadin. Will check
+coags on admission. His INR was therapeutic during his stay and
+his rate was controlled with his home metoprolol dose. He was
+monitored on telemetry.
+.
+#. Ulcer right foot- Patient has a stage 2 and stage 4 pressure
+ulcer on right foot, one on his heel and the other on the sole
+of his foot. Podiatry and vascular were consulted.  GS from foot
+sole decub grew coag negative staph and diptheriae (likely
+contaminate). Foot xray showing no evidence of osteomyelitis,
+but should be treated as if he has osteo per vascular for 6
+weeks. Vasculary surgery also reccomended against chemical or
+surgical debridement.  He was continued on IV vancomycin and
+micro data as above.
+.
+#. Positive sputum- patient appears to be colonized with
+stenotrophomonas as he has previous sputum cultures showing
+stenotrophomonas. His CXR was not worsening and he was afebrile.
+He was not treated specifically for pna given the likelihood of
+the stenotrophomonas being a colonizer.
+.
+#. Diarrhea- On empiric flagyl for c dif as patient is on
+antibiotics and had diarrhea at OSH. C dif was pending at rehab
+at the time of admission.  Started on po vanco empirically as
+well at rehab. This could also be the source of his rising WBC,
+though he is currently without diarrhea. Here, he has had C.diff
+negative x2. He was continued on Flagyl and po vanco
+empirically. He should have 7 more days of both Flagyl and PO
+Vanc, last day [**12-26**].
+.
+#. AoCRF- He had a small increase in his renal failure above
+baseline.  It improved during his stay.
+.
+#. CAD- stable. No current ischemic symptoms. Ekg is unchanged
+from prior.
+He was continued on asa, simvastatin, metoprolol
+.
+#. CHF: ECHO as above. Patient had EF of 50%. On exam, patient
+appeared euvolemic.  No further intervention was done.
+.
+#. DM2: He was continued on glargine and covered with humalog
+sliding scale.
+.
+#. Hyperkalemia: He had a potassium level of 146 on [**12-16**] which
+was treated by increasing his free water flushes in his tube
+feeds.
+.
+#. FEN: He was given tube feeds- nutren renal at 35 cc/hr and
+35g beneprotein with water flushes.
+.
+#. PPx: lansoprazole, no heparin products given history of HIT,
+venodynes, bowel regimen
+.
+#. Code: He was determined to be DNR/DNI by family discussion
+.
+#. Access: He has very poor access.  He was given a PICC by IR
+on [**12-17**].
+.
+#. Communication: HCP is daughter [**Name (NI) 8172**] [**Name (NI) 7777**] [**Telephone/Fax (1) 8173**] and
+wife [**Name (NI) 8174**] [**Name (NI) 8171**] at [**Telephone/Fax (1) 8175**]
+
+Medications on Admission:
+1. Acetaminophen 325 mg Tablet [**Telephone/Fax (1) 38**]: 1-2 Tablets PO Q6H (every 6
+
+hours) as needed for pain, fever.
+2. Aspirin 81 mg Tablet, Chewable [**Telephone/Fax (1) 38**]: One (1) Tablet, Chewable
+
+PO DAILY (Daily).
+3. Simvastatin 10 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO DAILY
+(Daily).
+4. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Telephone/Fax (1) 38**]:
+One (1) Adhesive Patch, Medicated Topical 12 HOURS ON AND 12
+HOURS OFF () as needed for to back.
+5. Ferrous Sulfate 325 mg qd
+6. Duonebs q6 hours
+7. Prilosec 20 mg qd
+9. Insulin Glargine 100 unit/mL Solution [**Telephone/Fax (1) 38**]: Fifty (50) units
+Subcutaneous once a day.
+10. Novolog insulin sliding scale as directed by rehab physican
+
+11. Warfarin 2.5 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO HS (at
+bedtime).
+12. Hydralazine 10 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO Q6H (every 6
+
+hours).
+13. Quetiapine 50 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+14. Metoprolol Tartrate 100 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO
+three times a day.
+15. Isosorbide Dinitrate 20 mg Tablet [**Telephone/Fax (1) 38**]: One (1) Tablet PO TID
+
+(3 times a day).
+16. senna and colace
+17. Mucomyst nebs q 8 hours
+18. cefaclor 250 mg q8 hours started on [**12-8**]
+19. vancomycin 250 mg po QID started [**12-11**]
+20. vancomycin 1 g IV q24 started on [**12-12**]
+21. pramiprexole 0.125 mg po qhs
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable [**Month/Day (4) 38**]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Simvastatin 10 mg Tablet [**Month/Day (4) 38**]: One (1) Tablet PO DAILY
+(Daily).
+3. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated [**Month/Day (4) 38**]:
+One (1) Adhesive Patch, Medicated Topical QD (): do not leave on
+for longer than 12 hours per day.
+4. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution [**Month/Day (4) 38**]: One (1)
+Inhalation Q6H (every 6 hours) as needed.
+5. Ipratropium Bromide 0.02 % Solution [**Month/Day (4) 38**]: One (1)  Inhalation
+Q6H (every 6 hours).
+6. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 38**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) 39**] DAILY (Daily).
+7. Ferrous Sulfate 325 (65) mg Tablet [**Last Name (STitle) 38**]: One (1) Tablet PO
+DAILY (Daily).
+8. Warfarin 2.5 mg Tablet [**Last Name (STitle) 38**]: One (1) Tablet PO QHS (once a day
+(at bedtime)).
+9. Quetiapine 25 mg Tablet [**Last Name (STitle) 38**]: Two (2) Tablet PO QHS (once a
+day (at bedtime)).
+10. Docusate Sodium 50 mg/5 mL Liquid [**Last Name (STitle) 38**]: Two (2)  PO BID (2
+times a day).
+11. Acetaminophen 325 mg Tablet [**Last Name (STitle) 38**]: Two (2) Tablet PO Q8H
+(every 8 hours).
+12. Isosorbide Dinitrate 20 mg Tablet [**Last Name (STitle) 38**]: One (1) Tablet PO TID
+(3 times a day).
+13. Metoprolol Tartrate 50 mg Tablet [**Last Name (STitle) 38**]: One (1) Tablet PO TID
+(3 times a day).
+14. insulin
+per previous regimen
+15. Chlorhexidine Gluconate 0.12 % Mouthwash [**Last Name (STitle) 38**]: One (1) ML
+Mucous membrane [**Hospital1 **] (2 times a day).
+16. oral vancomycin
+Vancomycin Oral Liquid 125 mg PO Q6H
+17. Senna 8.6 mg Tablet [**Hospital1 38**]: One (1) Tablet PO BID:PRN.
+18. Ceftriaxone-Dextrose (Iso-osm) 1 gram/50 mL Piggyback [**Hospital1 38**]:
+One (1)  Intravenous Q24H (every 24 hours).
+19. Vancomycin in Dextrose 1 gram/200 mL Piggyback [**Hospital1 38**]: One (1)
+Intravenous Q36H (every 36 hours).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 **] center
+
+Discharge Diagnosis:
+Primary:
+MRSA bacteremia
+stage 2 and 4 foot ulcers on his right foot
+
+Secondary:
+CAD s/p CABG (LIMA -> LAD, SVG ->OM)
+CHF EF 50%, mod AI
+DM2 with neuropathy and retinopathy
+aortic stenosis s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], [**First Name8 (NamePattern2) **] [**Initials (NamePattern4) 659**] [**Last Name (NamePattern4) **]
+PVD s/p left bkpop-at with left cephalic vein [**7-13**], s/p left
+fem-pedal [**6-12**] failed
+osteoarthritis-back l/s spine
+AFib with embolic CVA
+cataracts s/p repair bilaterally
+inguinal hernia s/p repair
+retinopathy s/p OD laser
+HIT positive
+s/p trach
+s/p PEG tube
+
+
+Discharge Condition:
+good, afebrile
+
+
+Discharge Instructions:
+Mr. [**Known patient lastname 8171**] was treated at [**Hospital1 68**] for MRSA bacteremia and right
+foot ulcers stage 2 and 4.  He was started on a six week course
+of IV vancomycin for the bacteremia on [**12-12**].  He had one
+positive blood culture while here.  He was seen by vascular and
+podiatry and no debridement was undertaken, but it was felt that
+he should be treated as if he had osteomyelitis (despite
+negative foot xray) since the ulcer on the sole of his foot is
+deep to bone. He also had a negative TEE to address the
+possibility of endocarditis.
+
+His vancomycin trough levels should be followed as his level was
+too high on the morning of [**2790-12-18**] so his dosing was decreased
+to 1g q 36 hours.
+
+He was changed from cefoclor to ceftriaxone for his klebsiella
+uti as cefoclor is not on the [**Hospital1 68**] formulary.  He should get a
+total of 14 days of treatment with the cefoclor/ceftriaxone.
+
+He was continued on metoprolol for his afib, which other than
+one brief episode of RVR which resolved with his regular dose of
+metoprolol, he was well controlled.
+
+He was continued on his PO vancomycin for cdiff coverage which
+was started before he was admitted.  We were unable to check him
+for cdiff while in the ICU.
+
+He should be returned to the ED if he becomes febrile or septic
+or if he has any other concerning symptoms.
+
+
+Followup Instructions:
+He should follow up with his primary care physician in the next
+7 to 10 days.
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 622**]
+
+
+ 
+ 
+DOC CLASS

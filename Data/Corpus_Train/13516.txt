@@ -1,0 +1,210 @@
+Admission Date:  [**2543-3-14**]              Discharge Date:   [**2543-3-18**]
+
+Date of Birth:  [**2512-10-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Watermelon / Almond Oil
+
+Attending:[**First Name3 (LF) 5802**]
+Chief Complaint:
+Upper GIB
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+30M h/o DMI, hypertension, GERD, h/o erosive gastritis admitted
+to [**Hospital1 68**] on [**3-14**] with hyperglycemia (though without an anion
+gap), vomitting, and hypertension, was treated on the general
+medical floor initially, then transferred to the ICU when he
+developed hematemesis.
+
+ED course was significant for HTN, with a BP 180/117 and
+hyperglycemia with FSBG of 305. Pt's initial presentation [**3-14**]
+with hyperglycemia, thought to be due to viral URI and vomitting
+along with not taking insulin because he had no syringes. When
+he developed hematemesis he was transferred to ICU. GI team was
+consulted, and as hct was stable and there was no further
+vomitting, EGD deferred to outpt.  ICU course complicated by
+acute renal failure.  Renal ultrasounds showed no hydronephrosis
+
+ROS: Mild sore throat; negative f/c; Feels thirsty
+
+
+Past Medical History:
+1. Type I diabetes mellitus, uncontrolled. Last HbA1c 10.8
+[**2542-4-12**]. Followed by Dr. [**Last Name (STitle) **] at [**Last Name (un) 124**]. Complicated by
+gastroparesis, nephropathy.
+2. Erosive gastritis per EGD [**2536**]. Noncompliant with GI follow
+up for EGD after [**2540**] hospitalization/elopement. Noncompliant
+with PPI.
+3. Hypertension, uncontrolled
+4. Chronic renal insufficiency, baseline 1.5
+5. Gastroesophageal reflux disease
+6. Depression
+
+
+Social History:
+Works at [**Company **] in office services. Lives with girlfriend in
+[**Location (un) 1019**]. Smokes approx 5 cigarettes/week. Usually rare EtOH.
+
+
+Family History:
+Mr. [**Known patient lastname **] has 4 brothers and 5 sisters, all with no known Hx
+of diabetes or significant medical problems. His [**Name2 (NI) 10565**] are
+alive and well. He reports that his grandfather had Diabetes,
+but he isn??????t sure what type.
+
+
+Physical Exam:
+VS: T 98 PO, BP 150/80, HR 90, RR 20, O2 sat 100 RA, FSBG 63
+Gen: Alert, no acute distress
+HEENT: PERRL, extraocular motions intact, anicteric, mucous
+membranes dry
+Neck: No JVD, no cervical lymphadenopathy
+Chest: Clear to auscultation bilaterally, no rales
+CV: Normal S1/S2, RRR, no murmurs
+Abd: Soft, nontender, nondistended, with normoactive bowel
+sounds
+Extr: No edema. 2+ DP pulses bilaterally
+Neuro: Alert and oriented x 3, no asterixis
+Skin: No rash
+
+
+Pertinent Results:
+[**2543-3-14**] 09:17PM   GLUCOSE-176* UREA N-28* CREAT-2.8* SODIUM-143
+POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-21* ANION GAP-18
+[**2543-3-14**] 09:17PM   LD(LDH)-279* CK(CPK)-517*
+[**2543-3-14**] 09:17PM   CK-MB-3 cTropnT-<0.01
+[**2543-3-14**] 09:17PM   CALCIUM-9.2 PHOSPHATE-4.0 MAGNESIUM-1.5*
+[**2543-3-14**] 09:17PM   WBC-8.8 RBC-3.71* HGB-10.7* HCT-30.5* MCV-82
+MCH-28.9 MCHC-35.1* RDW-12.5
+[**2543-3-14**] 09:17PM   WBC-8.8 RBC-3.71* HGB-10.7* HCT-30.5* MCV-82
+MCH-28.9 MCHC-35.1* RDW-12.5
+[**2543-3-14**] 10:55AM URINE  RBC-[**11-7**]* WBC-0-2 BACTERIA-RARE
+YEAST-NONE EPI-0-2
+[**2543-3-14**] 10:55AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 11**]-1.016
+[**2543-3-14**] 10:55AM URINE  UHOLD-HOLD
+[**2543-3-14**] 10:55AM URINE  UHOLD-HOLD
+[**2543-3-14**] 11:23AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2543-3-14**] 11:23AM URINE  HOURS-RANDOM
+[**2543-3-14**] 09:30AM   GLUCOSE-282* UREA N-29* CREAT-2.7* SODIUM-140
+POTASSIUM-3.7 CHLORIDE-104 TOTAL CO2-23 ANION GAP-17
+[**2543-3-14**] 09:30AM   AST(SGOT)-30 LD(LDH)-280* CK(CPK)-509* ALK
+PHOS-101 TOT BILI-0.4
+[**2543-3-14**] 09:30AM   LIPASE-43
+[**2543-3-14**] 09:30AM   CK-MB-3 cTropnT-<0.01
+[**2543-3-14**] 09:30AM   ALBUMIN-3.9 CALCIUM-9.3 PHOSPHATE-3.0
+MAGNESIUM-1.6
+[**2543-3-14**] 09:30AM   ALBUMIN-3.9 CALCIUM-9.3 PHOSPHATE-3.0
+MAGNESIUM-1.6
+[**2543-3-14**] 09:30AM   ACETONE-NEGATIVE
+[**2543-3-14**] 09:30AM   WBC-11.9*# RBC-4.08* HGB-12.3* HCT-33.4*
+MCV-82 MCH-30.1 MCHC-36.7* RDW-12.5
+[**2543-3-14**] 09:30AM   NEUTS-93.3* LYMPHS-2.7* MONOS-3.7 EOS-0.1
+BASOS-0.2
+[**2543-3-14**] 09:30AM   NEUTS-93.3* LYMPHS-2.7* MONOS-3.7 EOS-0.1
+BASOS-0.2
+
+[**2543-3-16**] 3:38 am BLOOD CULTURE      Source: Venipuncture.
+
+   Blood Culture, Routine (Preliminary):
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.
+         ISOLATED FROM ONE SET ONLY SENSITIVITIES PERFORMED ON
+REQUEST..
+
+   Anaerobic Bottle Gram Stain (Final [**2543-3-18**]):
+      REPORTED BY PHONE TO DR. [**First Name (STitle) **] AT 2120 ON [**3-18**]..
+      GRAM POSITIVE COCCI IN PAIRS AND CLUSTERS.
+
+
+Brief Hospital Course:
+1)Hematemesis:  Resolved spontaneously, GI team evaluated pt and
+felt that GI bleed was likely due to known gastritis vs possible
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 368**] tears.  Hct remained stable.
+
+2)Acute renal failure: Creatinine was 2.6 on presentation.  No
+hydronephrosis by ultrasound.  Given pt's sense of thirst,
+possible pre-renal from hypovolemia, IV fluids to be bolued and
+creatinine rechecked.  Given that on arrival to general medicine
+floor he had lost IV access. Urine lytes were sent.  No evidence
+of volume overload.  A CPK was checked which was markedly
+elevated after being transferred out of the [**Hospital Unit Name 3**].  The patient
+was given aggressive IVF once IV access was obtained.  On the
+night of discharge the patient stated he did not want further
+treatment and signed out AMA.  He was deemed competent to make
+his decision by the moonlighting physician.  [**Name10 (NameIs) **] that evening
+the microlab called the moonlighter to say he had a positive
+blood cx with GPC (see results above).  This was deemed a
+possible contaminant but the patient was called and instructed
+to return to the ER for further evaluation.  Two messages were
+left on the patient's phone.
+
+3)Hypertension, benign: Pt presented initially with hypertensive
+urgency, better controlled now on home medication of amlodopine
+10 mg daily, and Toprol 200 mg daily.
+
+4)Diabetes Mellitus type 1, uncontrolled with complications:
+Giving smaller dose of standing insulin than he is on at home
+due to his acute renal failure.  Treat with NPH.  He was given
+NPH 40 units in ICU [**3-16**] pm and had FSBG of 27 in the morning of
+[**3-17**].
+
+Medications on Admission:
+# Amlodipine 10 mg daily
+# Toprol XL 200 mg daily
+# Insulin NPH 30 units subcutaneous in the morning; 60 units
+Subcutaneous at bedtime.
+# Humalog 10 units subcutaneous [**Hospital1 **]
+
+
+Discharge Medications:
+1. Amlodipine 5 mg Tablet [**Hospital1 38**]: Two (2) Tablet PO DAILY (Daily).
+
+2. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+[**Hospital1 38**]: Two (2) Tablet Sustained Release 24 hr PO DAILY (Daily).
+3. Simethicone 80 mg Tablet, Chewable [**Hospital1 38**]: One (1) Tablet,
+Chewable PO QID (4 times a day) as needed.
+Disp:*40 Tablet, Chewable(s)* Refills:*0*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) [**Hospital1 38**]: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Metoclopramide 10 mg Tablet [**Hospital1 38**]: One (1) Tablet PO QIDACHS (4
+times a day (before meals and at bedtime)).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+hypertension
+hyperglycemia
+GI bleed
+
+
+Discharge Condition:
+sable
+
+
+Discharge Instructions:
+Please be sure to take your insulin every day, call the clinic
+and ask to speak to the triage nurses at [**Telephone/Fax (1) 494**] if you
+ever run out of any medicine or syringes.  Call your PCP with
+any confusion, headache,  vomitting, or other concerning
+symptoms.  Please be sure to continue the omeprazole (Prilosec)
+to protect your stomach  so you do not bleed.
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) 1448**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 494**]
+Date/Time:[**2543-4-23**] 3:30
+
+
+
+
+
+
+DOC CLASS

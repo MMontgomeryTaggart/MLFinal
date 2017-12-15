@@ -1,0 +1,206 @@
+Chief Complaint: 81 year old male with CHF, Stage III CKD, lung CA s/p
+   wedge resection, and prostate CA s/p hormonal tx and XRT who presented
+   [**1-10**] with ruptured appendix medically managed, transferred to medicine
+   floor for tachycardia, now transferred to [**Hospital Unit Name 10**] with tachycardia and
+   relative hypotension.
+   24 Hour Events:
+   Rash on buttocks and perineum thought to be fungal, sore, not itchy
+   turning and applying antifungals.
+   Cards consult: tachycardia is sinus, recommend trying Dig IV (.25 q12 x
+   3d, then 0.125 daily), recommend switching BB to CCB due to wheezing.
+   GI: recommended KUB, diet: sips.
+   CXR: Interval worsening of bibasilar atelectasis and small bilateral
+   pleural effusions.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3347-1-14**] 08:00 AM
+   Ciprofloxacin - [**3347-1-14**] 10:09 PM
+   Vancomycin - [**3347-1-16**] 08:38 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3347-1-17**] 12:22 AM
+   Other ICU medications:
+   Metoprolol - [**3347-1-16**] 12:30 PM
+   Pantoprazole (Protonix) - [**3347-1-16**] 08:38 PM
+   Flowsheet Data as of  [**3347-1-17**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 110 (105 - 156) bpm
+   BP: 103/63(49) {77/35(44) - 112/101(104)} mmHg
+   RR: 30 (23 - 39) insp/min
+   SpO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  1,230 mL
+                                                                    170 mL
+   PO:
+                                                                    320 mL
+             TF:
+   IVF:
+                                                                    910 mL
+                                                                    170 mL
+   Blood products:
+   Total out:
+                                                                  1,665 mL
+                                                                    370 mL
+   Urine:
+                                                                  1,665 mL
+                                                                    370 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -435 mL
+                                                                   -200 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///26/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   215 K/uL
+   13.4 g/dL
+   113 mg/dL
+   1.4 mg/dL
+   26 mEq/L
+   3.9 mEq/L
+   31 mg/dL
+   104 mEq/L
+   139 mEq/L
+   38.0 %
+   26.1 K/uL
+        [image002.jpg]
+                             [**3347-1-14**]  12:40 PM
+                             [**3347-1-14**]  07:53 PM
+                             [**3347-1-15**]  12:00 AM
+                             [**3347-1-15**]  06:13 AM
+                             [**3347-1-15**]  09:35 AM
+                             [**3347-1-15**]  04:00 PM
+                             [**3347-1-15**]  09:55 PM
+                             [**3347-1-16**]  03:32 AM
+                             [**3347-1-16**]  11:16 AM
+                             [**3347-1-17**]  05:12 AM
+   WBC
+   13.7
+   19.4
+   26.1
+   Hct
+   24.4
+   23.9
+   38.8
+   40.7
+   37.5
+   39.2
+   36.8
+   41.1
+   38.0
+   Plt
+   [**Telephone/Fax (3) 4398**]
+   Cr
+   1.1
+   1.1
+   1.4
+   TCO2
+   27
+   Glucose
+   172
+   150
+   113
+   Other labs: PT / PTT / INR:14.0/26.0/1.2, CK / CKMB / Troponin-T:67/4/,
+   ALT / AST:32/36, Alk Phos / T Bili:57/0.2, Differential-Neuts:93.0 %,
+   Band:1.0 %, Lymph:1.0 %, Mono:3.0 %, Eos:0.0 %, Lactic Acid:1.6 mmol/L,
+   Albumin:2.5 g/dL, LDH:191 IU/L, Ca++:7.4 mg/dL, Mg++:2.3 mg/dL, PO4:3.4
+   mg/dL
+   Assessment and Plan
+   81 year old male with CHF, Stage III CKD, lung CA s/p wedge resection,
+   and prostate CA s/p hormonal tx and XRT who presented [**1-10**] with
+   ruptured appendix medically managed, transferred to medicine floor for
+   tachycardia, now transferred to [**Hospital Unit Name 10**] with tachycardia and relative
+   hypotension.
+   # Tachycardia: has h/o PAF, but on eval by cardiology is thought to be
+   in sinus tachycardia. In setting of worsening renal function, pulm HTN
+   and biventricular systolic dysfunction, may be physiological response
+   to decreased preload.  Other possiblities entertained have included
+   anemia from GIB, pain, albuterol nebs. PE ruled out.
+   - will increase metop 50 TID to 75mg TID, if still not rate-controlled
+   with incr to 100 TID
+   - consider switching BB to CCB for less bronchoconstriction properties.
+   - IVF
+   - continue tele
+   # Ruptured Appendix: No plan for surgery, continue zosyn/Vanco
+   overnight.
+   - Not passing flatus but imaging without obstruction. Abdomen benign.
+   # Leukocytosis- WBC 13->26 over 2 days.
+   - urine and blood cultures pending
+   - CXR with worsening atelectasis and bilateral effusion, no infiltrate
+   - KUB unread
+   - C Diff not yet sent
+   - UA :  cloudy, mod leuk, neg nitrites, 50 WBC, 342 RBCs, 1 epi
+   treatement not started
+   .
+   # GIB- Hct now stable s/p 4 u PRBCs on [**1-14**] .
+   - GI following, no plan to scope at this point
+   - Hct q12, continues to have grossly bloody stool
+   - IV PPI [**Hospital1 **]
+   .
+   #COPD:  On multiple nebs, and abx, off steroids
+   - cont Vanco/zosyn
+   - consider switching BB to CCB for rate control without
+   broncoconstriction
+   # [**Last Name (un) 2359**] on CKD: Cr bumped from 1.1 to 1.4 in setting of NPO/sips and no
+   IVF, net  -1/2 L
+   - renally dose meds
+   - urine output adequate
+   - checking urine lytes, following serum lytes
+   #Prostate and Lung Ca: Not currently on treatment for these at home.
+   No tx indicated at this time.
+   #Hyperlipidemia: Continue pravastatin at home dose.
+   ICU Care
+   Nutrition: Sips
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3347-1-14**] 12:22 AM
+   PICC Line - [**3347-1-15**] 11:33 AM
+   Prophylaxis:
+   DVT: none due to guaiac positive stool
+   Stress ulcer: IV PPI
+   Communication:
+   Code status: Full code
+   Disposition:
+                      1. Vancomycin 1000 mg IV Q 24H
+   11. Multivitamins 1 TAB PO DAILY
+   2. Piperacillin-Tazobactam Na 4.5 g IV Q8H
+   12. Neutra-Phos 1 PKT PO BID
+   3. Metoprolol Tartrate 75 mg PO Q 8H
+   13. Nystatin Cream 1 Appl TP [**Hospital1 **]
+   4. Pravastatin 40 mg PO DAILY
+   14. Miconazole Powder 2% 1 Appl TP QID:PRN
+   5. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]
+   15. Lorazepam 0.5 mg IV Q1H PRN/CIWA
+   6. Ipratropium Bromide Neb [**11-18**] NEB IH Q6H
+   16. traZODONE 75 mg PO HS
+   7. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN
+   17. Vitamin D 400 UNIT PO Q 12H
+   8. Tiotropium Bromide 1 CAP IH DAILY
+   18. Pantoprazole 40 mg IV Q12H
+   9. Xopenex *NF* 0.63 mg/3 mL Inhalation q2h:prn SOB
+   19. Calcium Carbonate 1250 mg PO TID
+   10. Alendronate Sodium 70 mg PO QTHUR
+   20. Docusate Sodium 100 mg PO BID
+                      21. Acetaminophen 1000 mg PO Q 8H
+
+
+
+DOC CLASS

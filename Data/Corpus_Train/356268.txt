@@ -1,0 +1,173 @@
+Chief Complaint:
+   24 Hour Events:
+   -          Received total of 2.2L of NS while in MICU (in addition to
+   800cc in ED), total UOP 275cc.
+   -          MAPs improved from 51
+   -          Brought down on NC from 4L to 2L (Baseline per daughter)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3317-1-31**] 09:57 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history: No changes
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: (Through an interpreter) Patient states her cough is
+   stable, no fever, chills, no chest pain, SOB stable, no abdominal pain.
+   The patient admits to some chest tightness when coughing but denies
+   pleuritic pain.
+   Flowsheet Data as of  [**3317-2-1**] 07:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.1
+C (97
+   HR: 60 (60 - 61) bpm
+   BP: 99/49(59) {81/40(33) - 148/67(94)} mmHg
+   RR: 14 (9 - 23) insp/min
+   SpO2: 95%
+   Heart rhythm: V Paced
+   Wgt (current): 75 kg (admission): 75 kg
+             Total In:
+                                                                    970 mL
+                                                                  1,476 mL
+   PO:
+             TF:
+   IVF:
+                                                                    970 mL
+                                                                  1,476 mL
+   Blood products:
+   Total out:
+                                                                    220 mL
+                                                                    255 mL
+   Urine:
+                                                                    220 mL
+                                                                    255 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    750 mL
+                                                                  1,221 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///21/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Anxious
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Diminished: )
+   Abdominal: Soft, Distended, No(t) Tender:
+   Extremities: No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting
+   Skin:  Chronic venous stasis on legs
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x3, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   263 K/uL
+   9.6 g/dL
+   168 mg/dL
+   5.4 mg/dL
+   21 mEq/L
+   4.0 mEq/L
+   68 mg/dL
+   104 mEq/L
+   137 mEq/L
+   29.0 %
+   5.7 K/uL
+        [image002.jpg]
+                            [**3317-1-31**]  11:16 PM
+   WBC
+   5.7
+   Hct
+   29.0
+   Plt
+   263
+   Cr
+   5.4
+   Glucose
+   168
+   Other labs: PT / PTT / INR:20.9/30.9/2.0, Ca++:8.2 mg/dL, Mg++:2.7
+   mg/dL, PO4:6.2 mg/dL
+   Assessment and Plan
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ URINARY TRACT INFECTION (UTI)
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+   A/P: 79F Russian speaking s/p CABG, dCHF s/p dual pacemaker, DMII, AF,
+   CRI that presents with decreased PO and hypotension likely [**3-7**] to
+   decresed PO in setting of UTI and potential PNA.
+   .
+   # Hypotension: Improved overnight with IVF. Maps now in 60s.
+   - Cont IVF resuscitation but will increase to perfuse kidneys given ARF
+   - Cont UTI coverage with Ceftriaxone
+   - Cont coverage for HAP with Vanc / Ceftriaxone / Levaquin
+   - UOP goal of 30cc/hr
+   .
+   # ARF: Patients baseline Cr [1.6-1.9], most recent Cr is 2.4 on [**1-22**].
+   Likely pre-renal given patient.. 5.6 in ED, 5.4 last PM.  Received 3L
+   total since admission although roughtly putting out only 10cc/hr.  FeNa
+   .51, FeUrea 14.7.
+   - PM Lytes
+   - Continue fluid resuscitation with 125cc/hr with PRN 500 cc boluses
+   .
+   # UTI: + UA. Pt with quinolone resistance in the past.
+   - Cont Ceftriaxone
+   - f/u UCx
+   .
+   # PNA: Question underlying left sided infiltrate. Pt recently in and
+   out of hospital. No fevers, chills, leukocytosis. No reported sputum.
+   Persistent Cough.
+   - Will initiate Vanc
+   - Double coverage for GNRs (Ceftriaxone, Levaquin).
+   - Sputum Culture
+   .
+   # Bilateral Pleural Effusions: New on CXR. Pt on 4L NC. Pt not on home
+   02 per daughter.
+   - Will d/w family for potential therapeutic thoracentesi
+   .
+   # dCHF: Pt's last ECHO EF 50% from [**12-29**]. Severe TR with gradient
+   55-60. Pt on Lasix 80mg PO Daily
+   - Holding Lasix
+   - Holding BP Meds (Metoprolol, Dilt)
+   .
+   # AF: Pt on Amiodarone for long-term AF. Previously on Warfarin 1mg PO
+   Daily.
+   - Will monitor on tele while in unit.
+   - d/w family home Insulin dose
+   .
+   # DMII: Pt not on insulin. Received 4 units in ED.
+   - FS QID with HISS
+   .
+   # Hypothyroid: Last THS 6.8 in [**Month (only) 569**]. TSH 11 today.
+   - Cont Synthroid, f/u Free T4
+   .
+   # FEN: NS at 125cc/hr with 500cc Bolus / Replete PRN / Diabetic,
+   Cardiac Diet
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3317-1-31**] 07:39 PM
+   Prophylaxis:
+   DVT: SQH
+   Stress ulcer: Wound care per nursing
+   Comments:
+   Communication:  Comments:
+   Code status: DNR/DNI
+   Disposition: MICU
+
+
+
+DOC CLASS

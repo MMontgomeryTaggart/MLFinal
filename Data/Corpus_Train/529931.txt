@@ -1,0 +1,130 @@
+Chief Complaint:  respiratory distress
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   83-year-old woman with complicated past medical history brought to
+   [**Hospital1 52**] from her nursing home due to hypoxemia and a report of chest
+   heaviness.  Other HPI and ROS as per ICU resident note today.
+   ED: 99, 110, 108/64, eventually 95% on 4L --> levoflox, ceftriaxone,
+   tylenol, prednisone, bronchodilators, blood cultures.  Multiple
+   unsuccessful attempts at blood gas.  Transiently planned for
+   non-invasive ventilation, but did not receive.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Patient unable to provide history: Language barrier
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Home meds per resident note (including prednisone).
+   SQI, mucinex, DPH, lopressor, lisinopril, iron, CaCO3, asa, pred 60,
+   atrovent, SQH, colace, levoflox 750
+   Past medical history:
+   Family history:
+   Social History:
+   HTN
+   DM2
+   CVA with LUE weakness
+   Hx of cerebral aneurysm s/p clipping
+   CHF
+   COPD
+   -- FEV1 0.46, FVC 0.48 (per records)
+   NC
+   Occupation: retired
+   Drugs:
+   Tobacco: former
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**3198-11-14**] 09:50 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.6
+C (97.8
+   HR: 106 (105 - 117) bpm
+   BP: 134/39(63) {101/39(63) - 146/76(83)} mmHg
+   RR: 36 (9 - 42) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+                  Total In:
+                  1,500 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    265 mL
+   Urine:
+   265 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,235 mL
+   Respiratory
+   O2 Delivery Device: None, Nasal cannula
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Diminished: ), tachypneic
+   Abdominal: Soft, Non-tender
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: OMR labs reviewed.  Other repeat labs
+   pending.
+   Imaging: CXR: more confluent right base opacity
+   Assessment and Plan
+   83-year-old woman with respiratory distress.  There is likely a mix of
+   COPD exacerbation, pneumonia, and cardiac disease.
+   Pneumonia
+   This is HCAP
+ will cover for MRSA, PSA, and atypicals for now.  Check
+   cultures
+   COPD
+   Continue prednisone and bronchodilators
+   Get records of PFTs
+ numbers are very severe
+   Heart failure
+   Check echocardiogram given murmur.  This is billed as diastolic CHF,
+   but on exam I am concerned about aortic stenosis.
+   Tachycardia
+   Appears sinus.  Etiology is not completely clear.  [**Month (only) 56**] be related to
+   nebs, pneumonia, or hypovolemia.  Will hold off on usual diuretics for
+   today.
+   Other issues as per ICU team note.
+   [**Month (only) 56**] be ready for the floor later today.
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines / Intubation:
+   18 Gauge - [**3198-11-14**] 03:58 AM
+   Comments:
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+
+
+
+DOC CLASS

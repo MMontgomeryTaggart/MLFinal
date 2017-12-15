@@ -1,0 +1,145 @@
+Admission Date: [**3468-9-4**]        Discharge Date: [**3468-9-10**]
+
+Date of Birth:  [**3430-5-14**]        Sex:  M
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 38-year-old white male
+who has had recurrent episodes of severe chest pain.  He had
+a cardiac catheterization in [**3465**] which was negative for
+coronary artery disease.
+
+Then in [**3468-6-16**], he was admitted with severe chest pain,
+diaphoresis, shortness of breath, nausea, and vomiting and
+ruled out for a myocardial infarction.  An exercise tolerance
+test at that time revealed a possible left anterior
+descending infarction, and an echocardiogram revealed
+worsening mitral regurgitation.
+
+On [**3468-7-13**] he was again admitted with chest pain,
+nausea, vomiting, and shortness of breath and was transferred
+to [**Hospital1 58**].  He ruled out for a
+myocardial infarction, but he had a positive toxicology
+screen for cocaine.  An echocardiogram on [**7-14**] revealed a
+left-to-right shunt across the intraatrial septum, secundum
+as atrial septal defect, and an ejection fraction of 75
+percent.  His mitral valve leaflets were myxomatous and
+elongated, and he had moderate-to-severe mitral valve
+prolapse with partial mitral leaflet flare and 4 plus mitral
+regurgitation.
+
+He had a stress test on [**7-15**] which revealed no significant
+ST changes.  He underwent cardiac catheterization on [**8-7**]
+which revealed an ejection fraction of 71 percent, normal
+coronaries, and 4 plus mitral regurgitation.  He is now
+admitted for elective mitral valve repair.
+
+PAST MEDICAL HISTORY:  Significant for a history of
+hypertension, hypercholesterolemia, a heart murmur for 12
+years, mild L5-S1 disc protrusion, history of migraines,
+status post motor vehicle accident with chronic leg pain and
+low back pain requiring narcotics, a history of BPH, history
+of hemorrhoids, history of anxiety, history of depression,
+and a history of substance abuse.
+
+SOCIAL HISTORY:  He is married.  He works as an automobile
+mechanic but has not worked in several months.  He smoked
+half a pack per day until recently and now smokes one to two
+cigarettes per day.  He smokes marijuana and denies recent
+other kind of drug use.
+
+ALLERGIES:  He is allergic to PENICILLIN (gets a rash).
+
+MEDICATIONS ON ADMISSION:  Protonix 40 mg p.o. q.d., Elavil
+50 mg p.o. q.h.s., lisinopril 10 mg p.o. q.d., Lipitor 10 mg
+p.o. q.d., Neurontin 300 mg p.o. b.i.d., Percocet one to two
+tablets by mouth q.4-6h. as needed, Klonopin 1 mg p.o.
+b.i.d., and he was on a prednisone taper for hives.
+
+PHYSICAL EXAMINATION ON ADMISSION:  He was a well-developed
+and well-nourished white male in no apparent distress.  Vital
+signs were stable.  Afebrile.  Head, eyes, ears, nose, and
+throat examination revealed normocephalic and atraumatic.
+The extraocular movements were intact.  The oropharynx had
+poor dentition.  The neck was supple with full range of
+motion.  No lymphadenopathy or thyromegaly.  The carotids
+were 2 plus and equal bilaterally.  No bruits.  The lungs
+were clear to auscultation and percussion.  Cardiovascular
+examination revealed a regular rate and rhythm with a
+holosystolic murmur.  The abdomen was soft and nontender with
+positive bowel sounds.  No masses or hepatosplenomegaly.  The
+extremities were without clubbing, cyanosis, or edema.
+Neurologic examination was nonfocal.
+
+SUMMARY OF HOSPITAL COURSE:  On [**9-4**], the patient
+underwent a mitral valve repair with a quadrangular resection
+of the posterior leaflet, and an anuloplasty with a 30-mm
+[**Doctor Last Name 1326**] band, and a closure of a small atrial septal defect.
+He was ready to leave the Operating Room and had some
+increased chest tube drainage.  He was reopened in the
+Operating Room, but by that time platelets and fresh frozen
+plasma had been transfused and his coagulopathy had resolved.
+
+The patient was transferred to the Cardiac Surgery Recovery
+Unit and was started on Precedex.  He remained intubated
+overnight and was extubated on postoperative day one.  He had
+his chest tubes discontinued on postoperative day two and was
+transferred to the floor.  On postoperative day three and had
+his pacing wires discontinued.  He had a lot of pain
+management issues and required respiratory therapy.
+
+He was ready for discharge on postoperative day five but
+spiked a temperature to 101.6.  He was fully cultured, which
+was negative.  His white count was 6700 and remained afebrile
+after that and was discharged to home on postoperative day
+six in stable condition.
+
+LABORATORY DATA ON DISCHARGE:  Her laboratories on discharge
+were a hematocrit of 29, white count of 6500, and platelets
+of 319.  Sodium was 141, potassium was 4, chloride was 105,
+bicarbonate was 31, blood urea nitrogen was 10, and
+creatinine was 0.8.
+
+MEDICATIONS ON DISCHARGE:
+1. Potassium 20 mEq p.o. b.i.d. (for seven days).
+2. Aspirin 325 mg p.o. q.d.
+3. Colace 100 mg p.o. b.i.d.
+4. Ibuprofen 600 mg p.o. q.6h. as needed.
+5. Lasix 40 mg p.o. b.i.d. (for seven days).
+6. Protonix 40 mg p.o. q.d.
+7. Lipitor 10 mg p.o. q.d.
+8. Klonopin 1 mg p.o. b.i.d.
+9. Elavil 50 mg p.o. q.h.s.
+10.      Lopressor 45 mg p.o. b.i.d.
+11.      Neurontin 300 mg p.o. b.i.d.
+12.      Oxycodone 20 mg p.o. q.4-6h. as needed (for pain).
+13.      Nicoderm patch 14 mg topically q.24h. for 14 days
+   then change to 7 mg topically once q.d. for 21 days.
+
+
+DISCHARGE FOLLOWUP:  He will be followed up by Dr. [**Last Name (STitle) **]
+in one to two weeks, Dr. [**Last Name (STitle) 295**] in two to three weeks, and
+Dr. [**Last Name (STitle) **] in four weeks.
+
+DISCHARGE DIAGNOSES:
+1. Mitral regurgitation.
+2. Polysubstance use.
+3.
+   Hypertension.
+4. Hypercholesterolemia.
+
+
+
+
+                        [**Name6 (MD) **] [**Name8 (MD) **], M.D. [**MD Number(2) 3444**]
+
+Dictated By:[**Last Name (NamePattern1) 6532**]
+MEDQUIST36
+D:  [**3468-9-10**] 17:45:06
+T:  [**3468-9-10**] 19:39:16
+Job#:  [**Job Number 9774**]
+
+ 
+ 
+DOC CLASS

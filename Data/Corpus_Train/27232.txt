@@ -1,0 +1,692 @@
+Admission Date:  [**2854-5-2**]              Discharge Date:   [**2854-6-2**]
+
+Date of Birth:  [**2795-12-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Heparin Agents / Cefepime / Vancomycin
+
+Attending:[**First Name3 (LF) 137**]
+Chief Complaint:
+Transfer from [**Hospital1 70**] for NSTEMI, cardiogenic and septic shock
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+Insertion of central venous catheter
+
+History of Present Illness:
+HPI: 58 male with h/o CAD s/p MI, DM2, HTN, atrial fibrillation,
+morbid obesity presented to [**Hospital 70**] Hospital with 2-3 days of
+productive cough and hemoptysis. He was found to be in
+significant respiratory distress, and BiPAP was initiated. He
+then became agitated and confused, and he required intubation
+with ABG of 7.23/61/66. He then became hypotensive and had
+decreased urine output (despite agressive diuresis). He was
+eventually started on levophed and neosynephrine, with propofol
+for sedation. His CXR was read as an infiltrate; his BNP was
+>1100; his cardiac enzymes were elevated, and there were no ST
+elevations on his ECG. He was given [**Hospital **], plavix 300, mucomyst,
+and moxifloxacin x 1, and transferred to [**Hospital1 22**] for presumed
+cardiogenic shock, NSTEMI, and emergent catheterization.
+.
+ROS: Per his family, he has had a productive cough for several
+weeks, and increasing dyspnea on exertion, orthopnea, and PND.
+He did not complain of any chest pain, fevers, chills, nausea,
+vomiting, or urinary symptoms. He has had chronic diarrhea since
+starting metformin (which has been stopped), and may have been
+worse recently. He also complained of intermittent headaches.
+.
+On arrival to [**Hospital1 22**] he was taken emergently to the cardiac
+catheterization lab, where he was found to have three vessel
+disease (LM 40-50%; LAD 95% prox/mid; LCx subtotal plaque; RCA
+mid 60% and distal 80%. There were no interventions done on the
+coronary arteries (felt that the LCx occlusion was old). His
+pressures were: RA 29; RV 86/12; PA 74/40; PCW 28; CO 8.7; CI
+2.9. A balloon pump was inserted.
+.
+On arrival to the CCU he was intubated, sedated, with swan ganz
+catheter in his right groin, balloon pump through his left
+groin.
+
+
+Past Medical History:
+CAD (fixed anterolateral defect)
+HTN
+Atrial fibrillation, chronic
+DM-2
+Obesity
+OSA
+Pulmonary hypertension (on home CPAP)
+
+
+Social History:
+Denies tobacco; occasional EtOH; He has a girlfriend, no
+children. He works as a 5th grade teacher
+
+Family History:
+Father: h/o malaria; died of MI at age 49
+Mother: CABG in 70s
+
+
+Physical Exam:
+VS- 100.7 112 122/86 100% on AC 600/18, PEEP 5, 100% FiO2
+GEN- Sedated, intubated, not following commands; morbidly obese
+
+HEENT- MMM, anicteric
+NECK- obese, could not assess JVP; no carotid bruits
+CV- Irreg irreg, tachy, no S3, no M/R/G appreciated
+CHEST- Clear anteriorlly, decreased at bases
+ABD- Obese, soft, pos BS
+EXT- no C/C, 1+ edema bilaterally. Shiny skin, venous
+insufficiecy changes
+NEURO- sedated
+SKIN- erythema lesions beneath breasts (L>R)
+
+
+Pertinent Results:
+Discharge labs:
+.
+.
+.
+Admission Labs:
+.
+[**2854-5-2**] 11:45AM BLOOD WBC-23.9* RBC-4.42* Hgb-13.2* Hct-39.6*
+MCV-90 MCH-29.9 MCHC-33.3 RDW-15.3 Plt Ct-190
+[**2854-5-2**] 11:45AM BLOOD Neuts-60 Bands-33* Lymphs-4* Monos-1*
+Eos-0 Baso-0 Atyps-0 Metas-1* Myelos-1*
+[**2854-5-2**] 11:45AM BLOOD PT-35.2* PTT-37.6* INR(PT)-3.8*
+[**2854-5-2**] 11:45AM BLOOD Glucose-37* UreaN-51* Creat-3.0* Na-136
+K-4.6 Cl-100 HCO3-26 AnGap-15
+[**2854-5-2**] 11:45AM BLOOD Glucose-37* UreaN-51* Creat-3.0* Na-136
+K-4.6 Cl-100 HCO3-26 AnGap-15
+[**2854-5-2**] 08:35PM BLOOD Glucose-141* UreaN-52* Creat-3.0* Na-136
+K-4.8 Cl-100 HCO3-20* AnGap-21*
+[**2854-5-3**] 05:04AM BLOOD Glucose-92 UreaN-55* Creat-3.2* Na-135
+K-5.9* Cl-99 HCO3-20* AnGap-22*
+[**2854-5-2**] 11:45AM BLOOD ALT-35 AST-117* CK(CPK)-874* AlkPhos-71
+Amylase-48 DirBili-0.6*
+[**2854-5-3**] 05:04AM BLOOD CK(CPK)-1465*
+[**2854-5-4**] 02:51PM BLOOD CK(CPK)-328*
+[**2854-5-7**] 03:49AM BLOOD ALT-84* AST-80* AlkPhos-88 Amylase-85
+TotBili-1.7*
+[**2854-5-2**] 11:45AM BLOOD %HbA1c-5.8 [Hgb]-DONE [A1c]-DONE
+[**2854-5-2**] 08:35PM BLOOD TSH-0.94
+[**2854-5-3**] 10:23AM BLOOD Cortsol-30.6*
+[**2854-5-3**] 10:52AM BLOOD Cortsol-42.9*
+[**2854-5-3**] 11:40AM BLOOD Cortsol-44.0*
+[**2854-5-29**] 04:00PM BLOOD Type-ART pO2-126* pCO2-60* pH-7.38
+calHCO3-37* Base XS-8
+[**2854-5-9**] 06:19PM BLOOD HEPARIN DEPENDENT ANTIBODIES- positive
+.
+[**5-2**] CARD CATH:
+.
+COMMENTS:
+1. Selective coronary angiography of this right dominant system
+revealed
+three vessel disease. The LMCA had an eccentric 50% distal
+plaque
+extending into the origin of the LCX. The LAD was diffusely
+diseased
+throughout with a complex, uclerated 95% stenosis in the mid
+vessel with
+TIMI3 flow. The LCX was a severely diffusely diseased vessel
+that was
+subtotally occluded proximally. The RCA was a dominant vessel
+with an
+ulcerated 60% stenosis in the mid vessel and an 80% stenosis in
+a
+diminutive rPL branch.
+2. Resting hemodunamics revealed severely elevated right and
+left sided
+filling pressures (mRAP 27 mmHg, mPCW 38 mmHg). There was severe
+
+pulmonary arterial hypertension (mPAP 50 mmHg). The cardiac
+index was
+normal (2.9 l/m/m2).
+3. Successful placement of a 40cc intraaortic balloon pump.
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Severely elevated right and left sided filling pressures.
+3. Severe pulmonary hypertension.
+4. Successful balloon pump placement.
+.
+TEE:
+.
+Conclusions:
+No atrial septal defect is seen by 2D or color Doppler. There is
+mild
+symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction
+with hypokinesis of the anterior wall. The remainder of the
+walls contract well although the apex is not fully visualized
+(estimated ejection fraction ?45%). Right ventricular chamber
+size and free wall motion are normal in suboptimal views. There
+are complex (>4mm) non-mobile atheroma in the descending
+thoracic aorta. The aortic valve leaflets (3) are mildly
+thickened but no aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+.
+IMPRESSION: Anterior wall hypokinesis with overall probably
+mildly depressed left ventricular systolic function (with IABP
+support). No significant valvular disease. Complex, non-mobile
+atheroma in descending aorta.
+.
+INITIAL CXR:
+.
+Two radiographs of the chest demonstrates an endotracheal tube
+with its tip at the level of the clavicular heads. Cardiac size
+is not well assessed secondary to portable technique, but there
+is probably mild cardiomegaly. There is a nasogastric tube
+present with its tip in the stomach. Assessment of the pulmonary
+parenchyma is limited by patient rotation and position. No
+consolidation is evident. No pleural effusion is detected.
+Trachea is midline.
+.
+IMPRESSION:
+.
+Satisfactory placement of endotracheal tube.
+.
+MEASUREMENTS:
+Left Ventricle - Ejection Fraction: 35% to 40% (nl >=55%)
+
+INTERPRETATION:
+
+Findings:
+
+The patient was intubated and mechanically ventilated during the
+procedure. He was on 1 mg/hr IV of midazolam, and 25mcg/hr for
+sedation, which was continued during the procedure. The patient
+was receiving IABP support during the procedure. The descending
+thoracic aorta was not well visualized due to the presence of
+the IABP.
+.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA.  Normal interatrial septum. No ASD by 2D or
+color Doppler.
+.
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size.
+Mild-moderate
+regional LV systolic dysfunction.
+.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+.
+AORTA: Focal calcifications in aortic root.
+.
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AR.
+
+.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets.
+Physiologic (normal) PR.
+.
+PERICARDIUM: No pericardial effusion.
+.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was monitored by a nurse [**First Name (Titles) **] [**Last Name (Titles) 3480**]
+throughout the procedure. No TEE related complications. The
+rhythm appears to be atrial fibrillation. Based on [**2845**] AHA
+endocarditis prophylaxis recommendations, the echo findings
+indicate a low risk (prophylaxis not recommended). Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data. Results were reviewed with
+the Cardiology Fellow involved with the patient's care.
+Echocardiographic results were reviewed with the houseofficer
+caring for the patient. An intra-aortic balloon pump was placed.
+The proximal balloon tip is positioned distal to the takeoff of
+the left subclavian.
+.
+Conclusions:
+No atrial septal defect is seen by 2D or color Doppler. There is
+mild
+symmetric left ventricular hypertrophy with normal cavity size.
+There is mild regional left ventricular systolic dysfunction
+with hypokinesis of the anterior wall. The remainder of the
+walls contract well although the apex is not fully visualized
+(estimated ejection fraction ?45%). Right ventricular chamber
+size and free wall motion are normal in suboptimal views. There
+are complex (>4mm) non-mobile atheroma in the descending
+thoracic aorta. The aortic valve leaflets (3) are mildly
+thickened but no aortic regurgitation is seen. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no pericardial effusion.
+.
+IMPRESSION: Anterior wall hypokinesis with overall probably
+mildly depressed left ventricular systolic function (with IABP
+support). No significant valvular disease. Complex, non-mobile
+atheroma in descending aorta.
+.
+Based on [**2845**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate a low risk (prophylaxis not recommended).
+Clinical decisions regarding the need for prophylaxis should be
+based on clinical and echocardiographic data.
+.
+BRIEF HISTORY:   Mr [**Known patient lastname 10023**] presents for coronary
+revascularization.
+He presented two weeks ago in  shock presumed to be due to
+sepsis, with
+a possible contribution from CHD. His angiogram at that time
+showed
+three vessel disease. Since then he has been intubated and had
+difficulty in weaning off. He is also morbidly obese, has
+diabetes and
+AF. He subsequently developed HIT and has been treated with
+Argatroban
+iv. His echocardiogram showed an EF of 40-45% with anterior
+hypokinesia.
+
+INDICATIONS FOR CATHETERIZATION:
+For PCI
+
+PROCEDURE:
+Left Heart Catheterization: was performed by percutaneous entry
+of the
+right femoral artery, using a 8 French  xb lad 4.5 catheter,
+advanced to
+the ascending aorta through a 8 French introducing sheath.
+Coronary Angiography: was performed in multiple projections
+using a 8
+French  XB 4.5 LAD guide and a 8 French JR4 guide catheter, with
+manual
+contrast
+injections.
+Percutaneous coronary revascularization was performed using
+placement of
+drug-eluting stent(s).
+Percutaneous coronary revascularization of an additional vessel
+was
+performed using balloon angioplasty.
+Percutaneous coronary revascularization of an additional vessel
+was
+performed using placement of drug-eluting stent(s).
+Conscious Sedation:  was provided with appropriate monitoring
+performed by
+a member of the nursing staff.
+
+
+
+
+
+**PTCA RESULTS
+  CX LAD RCA
+**BASELINE
+STENOSIS PRE-PTCA 100 90 70
+**TECHNIQUE
+GUIDING CATH 8F XB 4. 8F XB 4. 8F JR4
+GUIDEWIRES PTGI PROWATER PROWATER
+INITIAL BALLOON (mm) 1.5 2 3.5
+FINAL BALLOON (mm) 2 3 3.5
+# INFLATIONS 8 9 1
+MAX PRESSURE (PSI) 180 300 270
+**RESULT
+STENOSIS POST-PTCA [**78**] 0 0
+DISSECTION (0-4) 1
+SUCCESS? (Y/N) Y Y Y
+
+PTCA COMMENTS:     The angiogram showed a diffusely diseased
+proximal/mid LAD with a 80-90% lesion through which the D1
+arose. The CX
+was completely occluded woth collateralisation. The mid RCA had
+an
+eccentric 60-70% lesion. We planned to treat these lesions using
+
+[**Last Name (LF) 10024**], [**First Name3 (LF) **] and Plavix prophylactically and starting with
+the CX.
+(He has a h/o HIT) A 8F XB 4.5 guide provided adeqaute support.
+We then
+crossed in to the distal CX with a PT [**Name (NI) **] IM wire with
+minimal
+difficulty and performed serial multiple dilations using a 1.5 X
+09mm
+Maveick and a 2.0 X 15mm  Voyager balloon at 9-12 atm. This
+resulted in
+TIMI III flow, mild dissection and a 30% residual stenosis with
+no
+embolisation.
+.
+We then turned our attention to the LAD. The lesion was crossed
+using a
+Prowater wire with some difficulty and predilated with a 2.0 X
+20mm
+(inflated up to 14-18atm) and a 2.5 X 20mm Sprinter ( infalted
+up to
+[**1-14**] atm) balloons from distal to proximal lesion. We then
+deployed a
+2.5 X 28mm and a 3.0 X 18mm Cypher stent at 20 atm and 18 atm
+from
+distal to proximal resepectively. This jailed the D1 causing a
+non flow
+limiting 70% lesions. The final angiogram showed TIMI III flow,
+no
+residual stenosis, no dissection or embolisation in the stented
+segement.
+.
+We then turned our attention to the RCA. A 8F JR 4 guide
+provided
+adequate support. A prowater wire crossed in to the distal
+vessel
+easily.We then directly deployed a 3.5 X 13mm cypher stent at 18
+atm.
+the final angiogram showed TIMI III flow with no residual
+stenosis, no
+dissection and no embolisation. the patient left the lab in a
+stable
+condition.
+
+
+TECHNICAL FACTORS:
+Total time (Lidocaine to test complete) = 1 hour 14 minutes.
+Arterial time = 1 hour 8 minutes.
+Fluoro time = 23 minutes.
+Contrast:
+          Non-ionic low osmolar (isovue, optiray...), vol 320 ml
+
+Premedications:
+          Cefazolin 1g
+Anesthesia:
+          1% Lidocaine subq.
+Anticoagulation:
+          Heparin 0 units IV
+Other medication:
+          [**Month/Year (2) 10024**]  bolus 135 mg, drip 315 mg hr
+          Fentanyl 100 mctg
+          Plavix 600 mg
+          Midazolam 6 mg
+Cardiac Cath Supplies Used:
+          .014 [**Name (NI) 3517**], PT [**Name (NI) 7215**], 300CM
+          .014 [**Doctor Last Name 4763**], ASAHI PROWATER, 300
+          .014 [**Doctor Last Name 4763**], ASAHI PROWATER, 300
+          2.0 [**Company 3517**], MAVERICK, 15
+          2.0 GUIDANT, VOYAGER 15
+          1.5 [**Company 3517**], MAVERICK, 9
+          2.0 [**Company **], SPRINTER, 20
+          2.5 [**Company **], SPRINTER, 20
+          8F CORDIS, XBLAD 3.5
+          8F CORDIS, XBLAD 4.0
+          8F CORDIS, XBLAD 4.5
+          8F CORDIS, JR 4 SH
+          200CC MALLINCRODT, OPTIRAY 200CC
+          200CC MALLINCRODT, OPTIRAY 200CC
+          2.5 CORDIS, CYPHER RX, 28
+          3.0 CORDIS, CYPHER RX, 18
+          3.5 CORDIS, CYPHER OTW, 13
+
+
+COMMENTS:
+1. The LCX total occlusion was angioplastied with a 1.5 X 09mm
+Maverick
+and 2.0 X 15mm Voyager balloons with lesion reduction from 100%
+to 30%.
+The final angiogram showed TIMI III flow, 30% diffuse residual
+stenosis,
+mild dissection and no embolisation. (see PTCA comments)
+.
+2. The proximal LAD lesion was predilated with a 2.0 X 20mm and
+a 2.5 X
+20mm Sprinter balloon and stented with a 2.5 X 28mm and a 3.0 X
+18mm
+Cypher stent in an overlapping manner with lesion reduction from
+90% to
+0%. The final angiogram showed TIMI III flow with no residual
+stenosis
+in the stented segment with no dissection or embolisation. The
+jailed D1
+had an ostial stenosis of 70% severity with no flow limitation.
+(see
+PTCA comments)
+.
+3. the mid RCA lesion was directly stented with a 3.5 X 13mm
+Cypher
+stent with lesion reduction from 70% to 0% The final angiogram
+showed
+TIMI III flow with no dissection or embolisation. (see PTCA
+comments)
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Mildly impaired ventricular function.
+3. Successful balloon angioplasty of the proximal LCX
+4. Successful stenting of the proximal LAD
+5. Successful stenting of the mid RCA
+.
+[**5-29**] CXR:
+FINDINGS: There is stable cardiomegaly. Pulmonary edema pattern
+seen on the prior radiographs is essentially unchanged. Left
+retrocardiac opacity with obscuration of the hemidiaphragm is
+stable in appearance.
+
+IMPRESSION:
+No significant change.
+
+
+Brief Hospital Course:
+IMPRESSION/PLAN: 58 morbidly obese male with h/o CAD, HTN, DM2,
+hypercholesterolemia presenting with hypotension/sepsis due to
+infection and cardiogenic, respiratory failure, fever, NSTEMI
+[**5-2**] , acute renal failure now s/p trach/PEG [**5-18**] for
+OSA/obesity/pulmonary hypertension, s/p LAD DESx2, RCA - DES,
+LCx s/p baloon on [**5-19**], being transfered for further pulmonary
+rehab.
+.
+HYPOTENSION: Initially felt to be combination of septic and
+cardiogenic shock. Patient was found to be with decreased
+cardiac index as well as elevated leukocytosis. Cardiac index
+and output soon returned to [**Location 10025**]. Patient's IABP was
+discontinued. Patient was also titrated offf levophed adn
+vasopressin over 3 days with MAPs > 60. For septic component
+patient presented with several weeks of diarrhea, cough and then
+hemoptysis thus PNA was felt to be most likely course of
+infection. Patient was empirically treated for VAP, initially
+levo/azithro. His sputum on [**5-4**] grew out MRSA and vanco was
+added. He remained febrile and antibiotics were switched to
+vanc/ctx/azithro, then vanc/cefepime, then switched to
+aztreonam/linezolid for suspected drug fever/rash, completing
+10d course on [**5-14**]. His rash improved and vanco and cefepime
+were deemed to be potential allergens. Patient was also
+subsequent found to have C. Diff ([**5-6**]) and was started on
+Flagyl, he completed 14 day course on [**5-21**]. Patient was also
+found to be bacteremic after he grew out [**2-4**] BCx on [**5-19**] that
+showed MRSA.  Patient was treated with Linezolid because of his
+presumed rash to vancomycin.  He is to complete 14 day course.
+Patient's sputum was also positive for MRSA with moderate growth
+which may be a chronic colonizer but 2 week course should be
+more than adequate for ventilator associated pneumonia and
+excellent lung penetration with linezolid.  Patient had his R
+Scl line subsequently resited on [**5-21**].  His lines were d/c upon
+discharge.  He remained afebrile 48 hours prior to discharge.
+Patient was also treated with a 7 day course of Aztreonam that
+finished on [**5-27**].  Patient remained normotensive through the
+rest of the course and tolerated his beta blocker and his ace
+well.
+.
+ATRIAL FIB: Patient with chronic history with persistent AF.
+Patient was initially started on amiodarone and digoxin for rate
+control. He was loaded and then switched to amiodarone PO. He
+was also started on heparin drip for anticoagulation. Patient
+was subsequently found to be thrombocytopenic and with + Heparin
+antibody. His anticoagulation was switched to argatroban. His
+course was also complicated by bradycardic AF to 30s without BP
+compromise. His digoxin and amiodarone were d/c and patient
+recovered to 60s. He was slowly restarted on low dose beta
+blocker and remained in 60s as his beta blocker was titrated up.
+ Patient was also restarted on coumadin with a goal INR of [**3-6**]
+and he needs his coumadin dose to be adjusted based on weekly
+INRs to be followed by his PCP.
+.
+RESP FAILURE: Patient CXR initially showed with diffuse
+pulmonary edema. His failure was attributed to both septic and
+cardiac failure and he was found to have Vent Associated
+Pneumonian afterwards. Patient was oxygenating well after
+aggressive diuresis. His oxygenation status also improved.
+Patient however still required high PEEPs. Patient has a
+compromised pulmonary status at baseline and is followed by a
+pulmonologist as an outpatient and was electively being
+evaluated for a tracheaostomy due to sleep apnea, pulmonary
+hypertension and obesity hypoventilation. Patient previously did
+not tolerated CPAP at night. Pulmonary service was consulted
+after patient failed spontaneous breathing trials and after 2
+weeks on ventilator, a tracheostomy was recommended. Patient
+subsequently underwent PEG and Tracheostomy placement on [**5-19**] by
+Minimally Invasive Surgery. Patient tolerating the procedure
+well without complications. His sedation with fentanyl and
+versed was subsequently weaned and he was further diuresed.
+Patient was doing well on trach mask during the day requring
+40-50% FiO2.  He was rested at night with CPAP of [**11-5**]. [**2854-5-29**]
+had an acute desaturation requiring pulmonary toilet, suctioning
+and replacement on A/C for the rest of the evening. [**2854-5-30**] he
+was placed on CPAP and Sunday was again on trach collar doing
+well. Thought patient had aspirated but his white count remained
+stable and CXR was w/o infiltrates. Patient is to follow up with
+his pulmonologist and to undergo aggressive pulmonary rehab.
+The ultimate goal of tracheostomy reversal may be difficult to
+achieve.
+.
+NSTEMI: Patient was found to have elevated cardiac enzymes
+during his hospital course. Peak CK was 1766 and peak troponin T
+was 2.95. His EKG initially did not show any ischemic changes
+and remained with AF and incomplete RBBB. He was taken to
+Cardiac Cath upon transfer on [**5-2**] and was found to have diffuse
+3 vessel disease. CT surgery was consulted and recommended
+further stabilization medically of this diabetic, septic,
+hypotensive patient with ? of demand infarct and acute renal
+failure. After 2 weeks patient was also re-evaluated but with
+heparin antibody and intermittent pressor requirement he was
+deemed to be high risk. Patient was then taken to the cath lab
+for LAD intervention. He was continued on aspirin, statin,
+plavix, heparin and then argatroban drip and beta blocker and
+ace were restarted.
+Patient was taken bath to cath lab on [**5-19**] where his LAD was
+stented with 2 [**Name Prefix (Prefixes) 608**] [**Last Name (Prefixes) **], DES in RCA and baloon angioplasty in
+LCx.  The procedure was without complications.  Patient remained
+chest pain free.
+.
+ACUTE RENAL FAILURE: Patient's baseline was unknown. He was
+admitted with Cr of 3.0 but with good urine output. His urine
+lytes revealed a pre-renal state. They slowly improved to 1.5
+and were deeemed likely to be due to hypoperfusion. There may
+have also been an element of contrast nephropathy despite
+receing mycomyst and prehydration with bicarbonate. Renal US
+([**5-2**]) was also normal.  Patient remained with good urine output.
+ He tolerated diuresis well with lasix prn and lasix gtt.  His
+Cr returned to his baseline of 1.1.
+.
+PUMP: Echo [**5-6**]: 45% EF, anterior hypokinesis, no valvular
+abnormalities.  Patient tolerated diuresis well. Patient was
+continued on BB and AceI as they were titrated up.
+.
+DM-2: cont ISS, patient may be able to return to oral
+hypoglycemic upon his discharge home.
+.
+HEPARIN INDUCED THROMBOCYTOPENIA: After several days on IV
+heparin, patient was found to thrombocytopenia (88 from 190K
+upon admission after 5 days). HIT antibody screen was done, and
+was found to be positive. Heparin products were stopped and
+argatroban was started. Patient will need anticoagulation for at
+least 30 days after last heparin dose to reduce risk of
+thrombosis or until patient will be restarted on coumadin for
+his AF.  Patient was subsequently therapuetic on Coumadin with
+INR of [**3-6**] and argatroban gtt was turned off.  His platelet
+returned to baseline.
+.
+FEN: thin liquid, regular solid, cardiac diet
+.
+PPX: coumadin, colace, senna, PPI
+.
+COMMUNICATION: mother [**Name (NI) **] [**Name (NI) 10023**] [**Telephone/Fax (1) 10026**], girlfriend is
+also involved.
+.
+CODE: full
+
+Medications on Admission:
+MEDS at home:
+Coumadin (7.5mg 2x/wk; 5mg 5x/wk)
+Actos
+Lasix 40mg (but only taking on weekends)
+Toprol XL 25 mg
+Lipitor 10mg
+Amaryl 4mg
+
+
+Discharge Medications:
+1. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+Hold for SBP<100, HR<50.
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Warfarin 2 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+6. Linezolid 600 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 5 days.
+7. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1)
+Intravenous  Q8H (every 8 hours) as needed for nausea.
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed.
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+11. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One
+(1)  PO DAILY (Daily).
+12. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Six (6)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+13. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff
+Inhalation Q4H (every 4 hours) as needed.
+14. Clotrimazole 1 % Cream Sig: One (1) Appl Topical  [**Hospital1 **] (2
+times a day).
+15. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID
+(3 times a day) as needed.
+16. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+17. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: [**2-10**]
+units Subcutaneous every 4-6 hours: per sliding scale.
+18. Lisinopril 10 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 1004**] - [**Location (un) 1005**]
+
+Discharge Diagnosis:
+1. Septic Shock
+2. Cardiogenic Shock
+3. NSTEMI - s/p DES to LAD, RCA and baloon angioplasty in LCx
+4. Respiratory Failure
+5. MRSA Bacteremia
+
+
+Discharge Condition:
+stable. afebrile. tolerating PO.  Patient sating well on trach
+mask during the day with CPAP 10/5 @ night.
+
+
+Discharge Instructions:
+Please take all your medications as instructed.  It is important
+that you take your plavix and aspirin until told otherwise by
+your cardiologist.  You should also follow up with your
+cardiologist and your pulmonologist.  If you experience any
+chest pain, shortness of breath, nausea/vomiting or sweating
+please seek immediate medical attention.
+
+Followup Instructions:
+Please follow up with your PCP, [**Last Name (NamePattern4) 21**]. [**Last Name (STitle) **],[**First Name3 (LF) 10027**] Y
+[**Telephone/Fax (1) 6146**]
+Please follow up with your Cardiologist Dr. [**Last Name (STitle) **], your
+cardiologist @ ([**Telephone/Fax (1) 8426**].
+Please follow up with your Pulmonologist Dr. [**Last Name (STitle) **] @ ([**Telephone/Fax (1) 10028**] in [**2-2**] weeks.
+
+
+
+
+
+
+DOC CLASS

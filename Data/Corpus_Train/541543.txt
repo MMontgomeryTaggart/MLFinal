@@ -1,0 +1,196 @@
+CVICU
+   HPI:
+   HD5
+   53F with 3-4+ MR, mitral valve vegetation
+   EF 70 Wt 78 Cr 0.3
+   PMH: HTN,+ETOH
+   [**Last Name (un) **]: none
+   [**9-27**]: Cathed->no CAD. CT= septic emboli spleen/left kidney. **MRI of
+   spine needs to be read. Opth.consult called. ID following. panorex
+   done
+   Current medications:
+   Acetaminophen 4. Atropine Sulfate 5. Atorvastatin 6. Calcium Gluconate
+   7. FoLIC Acid
+   8. Furosemide 9. Guaifenesin 10. Influenza Virus Vaccine 11. Insulin
+   12. Lorazepam 13. Magnesium Sulfate
+   14. Multivitamins 15. Norepinephrine 16. Penicillin G Potassium 17.
+   Potassium Chloride 18. Potassium Chloride
+   19. Sodium Chloride 0.9% Flush 20. Sodium Chloride 0.9% Flush 21.
+   Thiamine
+   24 Hour Events:
+ FEVER - 101.2
+F - [**2712-9-28**] 08:00 PM
+   Post operative day:
+   HD5
+   53F with 3-4+ MR, mitral valve vegetation  Endocarditis
+   24H Events: HCT=23.8 tx 1Uprbc, WITH GOOD RESPONSE. Head CT neg.Panorex
+   done.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Gentamicin - [**2712-9-27**] 05:04 PM
+   Vancomycin - [**2712-9-29**] 08:26 AM
+   Penicillin G potassium - [**2712-9-29**] 03:22 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2712-9-29**] 09:18 AM
+   Flowsheet Data as of  [**2712-9-29**] 04:07 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**15**] a.m.
+   Tmax: 38.4
+C (101.2
+   T current: 36.6
+C (97.8
+   HR: 101 (89 - 111) bpm
+   BP: 103/68(76) {81/47(54) - 109/72(81)} mmHg
+   RR: 26 (21 - 44) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 76.6 kg (admission): 78 kg
+   Height: 64 Inch
+   CVP: 16 (3 - 16) mmHg
+   Total In:
+                                                                  2,147 mL
+                                                                  1,004 mL
+   PO:
+                                                                  1,040 mL
+                                                                    500 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    827 mL
+                                                                    504 mL
+   Blood products:
+                                                                    280 mL
+   Total out:
+                                                                  2,599 mL
+                                                                  1,050 mL
+   Urine:
+                                                                  2,599 mL
+                                                                  1,050 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -452 mL
+                                                                    -46 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///32/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular), (Murmur: Systolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   395 K/uL
+   9.6 g/dL
+   91 mg/dL
+   0.6 mg/dL
+   32 mEq/L
+   3.5 mEq/L
+   9 mg/dL
+   95 mEq/L
+   134 mEq/L
+   27.9 %
+   8.0 K/uL
+        [image002.jpg]
+                             [**2712-9-26**]  05:55 PM
+                             [**2712-9-27**]  12:45 AM
+                             [**2712-9-27**]  02:28 AM
+                             [**2712-9-27**]  04:11 AM
+                             [**2712-9-27**]  05:57 AM
+                             [**2712-9-27**]  03:51 PM
+                             [**2712-9-28**]  03:11 AM
+                             [**2712-9-28**]  06:45 AM
+                             [**2712-9-29**]  02:39 AM
+                             [**2712-9-29**]  12:51 PM
+   WBC
+   9.2
+   8.2
+   8.8
+   8.0
+   Hct
+   26.5
+   41
+   23.8
+   23.7
+   27.0
+   27.9
+   Plt
+   362
+   361
+   373
+   395
+   Creatinine
+   0.6
+   0.6
+   0.6
+   TCO2
+   27
+   30
+   25
+   25
+   Glucose
+   96
+   92
+   121
+   91
+   Other labs: PT / PTT / INR:15.2/27.8/1.3, CK / CK-MB / Troponin
+   T:18//0.07, ALT / AST:20/20, Alk-Phos / T bili:73/0.5, Amylase /
+   Lipase:42/44, Differential-Neuts:85.1 %, Lymph:10.9 %, Mono:2.7 %,
+   Eos:0.9 %, Lactic Acid:1.0 mmol/L, Albumin:2.6 g/dL, LDH:265 IU/L,
+   Ca:8.0 mg/dL, Mg:2.1 mg/dL, PO4:4.4 mg/dL
+   Assessment and Plan
+   MITRAL REGURGITATION (MITRAL INSUFFICIENCY), .H/O ENDOCARDITIS, OTHER,
+   .H/O PLEURAL EFFUSION, ACUTE, .H/O ALKALOSIS, RESPIRATORY, .H/O COUGH,
+   .H/O DIARRHEA, .H/O ALCOHOL WITHDRAWAL (INCLUDING DELIRIUM TREMENS,
+   DTS, SEIZURES), .H/O [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+   Assessment and Plan: HD5 53F with 3-4+ MR, mitral valve vegetation
+   ->OSH Blood CXs speciated Strep. oralis-PCN sensitive. HD stable.
+   Neurologic: Neuro checks Q: 4 hr, Cont. DT prophylaxis w/Ativan.
+   Thiamon/Folate/OOB
+   Cardiovascular: Statins, Remains off pressors
+   Pulmonary: IS, Diurese as BP tols.
+   Gastrointestinal / Abdomen:
+   Nutrition: DAT
+   Renal: Adequate uo, cont. gentle diuresis
+   Hematology: stable after Tx
+   Endocrine: RISS
+   Infectious Disease: Check cultures, Per ID: OSH Blood CXs speciated
+   Strep. oralis. Vanco dc'd. PCN G 4million units q4h .
+   will f/u CXs PND
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging: [**2712-9-27**]: Abd CTscan=+septic emboli left kidney /spleen/MRI
+   spine done. [**9-28**]: Head Ct negative for acute process.Panorex done.
+   Fluids:
+   Consults: CT surgery, Cardiology, P.T.
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2712-9-25**] 06:00 PM
+   20 Gauge - [**2712-9-26**] 06:20 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,231 @@
+Chief Complaint: SOB - progressive
+   24 Hour Events:
+   - Aline placed.
+   - AM Labs: K: 8.0 given 4G Calcium, 10U regular Insulin, Bicarb,
+   Dextrose. Renal consulted given worsening renal function high
+   potassium. EKG with widening of QRS and PR intervals. No peaked T
+   waves. Repeat K 8.5. Given 60 of Kayexalate. Repeat EKG with shortening
+   of both QRS and PR intervals. K down to  6.4. Then back up to 7.2. Line
+   placed for HD. 3 hour session last night.
+   - Cardiac Enzymes: Flat
+   - Urine Lytes: FeUrea 20% so points toward prerenal.
+   - Renal Ultrasound: No hydronephrosis.
+   - Renal Recs: DC'd Lisinopril/Furosemide, AM Cortisol Pending. Line
+   placed for HD. Dialysis last night.
+   - Repeat ABG 7.26/52/112.
+   - Heparin stopped for placement of Dialysis line.
+   - Nursing asked for Social Work Consult - previous notes have stated
+   patient has had suicidal ideation and nursing concerned.
+   Allergies:
+   Byetta (Sub-Q) (Exenatide)
+   pancreatitis;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Dextrose 50% - [**2707-1-19**] 03:21 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2707-1-20**] 07:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**09**] AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 94 (80 - 98) bpm
+   BP: 156/80(104) {99/43(60) - 156/85(106)} mmHg
+   RR: 12 (11 - 19) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 168.9 kg (admission): 172 kg
+   Height: 72 Inch
+                  Total In:
+                                                                  1,267 mL
+                                                                     60 mL
+   PO:
+                                                                    480 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    237 mL
+   Blood products:
+   Total out:
+                                                                  1,660 mL
+                                                                  1,351 mL
+   Urine:
+                                                                  1,510 mL
+                                                                    151 mL
+   NG:
+   Stool:
+                                                                    150 mL
+   Drains:
+   Balance:
+                                                                   -393 mL
+                                                                 -1,291 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 348 (0 - 1,291) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 14 cmH2O
+   SpO2: 96%
+   ABG: 7.30/66/120/30/3
+   Ve: 6.8 L/min
+   PaO2 / FiO2: 240
+   Physical Examination
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Skin:
+   Neuro:
+   Motor:
+   Sensation:
+   DTR:
+   Coordination:
+   Gait:
+   Labs / Radiology
+   165 K/uL
+   8.1 g/dL
+   140 mg/dL
+   2.2 mg/dL
+   30 mEq/L
+   4.9 mEq/L
+   55 mg/dL
+   103 mEq/L
+   141 mEq/L
+   26.7 %
+   3.0 K/uL
+        [image002.jpg]
+                             [**2707-1-19**]  08:05 AM
+                             [**2707-1-19**]  10:21 AM
+                             [**2707-1-19**]  01:06 PM
+                             [**2707-1-19**]  03:25 PM
+                             [**2707-1-19**]  04:51 PM
+                             [**2707-1-19**]  05:08 PM
+                             [**2707-1-20**]  12:33 AM
+                             [**2707-1-20**]  04:21 AM
+                             [**2707-1-20**]  04:47 AM
+                             [**2707-1-20**]  06:33 AM
+   WBC
+   5.2
+   3.0
+   Hct
+   27.7
+   27.1
+   26.7
+   Plt
+   205
+   165
+   Cr
+   3.1
+   3.1
+   3.3
+   2.2
+   TropT
+   0.02
+   <0.01
+   TCO2
+   23
+   24
+   25
+   33
+   34
+   34
+   Glucose
+   136
+   128
+   140
+   Other labs: PT / PTT / INR:13.1/25.1/1.1, CK / CKMB /
+   Troponin-T:114/2/<0.01, Lactic Acid:0.8 mmol/L, Ca++:8.6 mg/dL,
+   Mg++:1.8 mg/dL, PO4:4.9 mg/dL
+   Microbiology: MRSA and blood cultures from [**1-19**] pending.
+   Assessment and Plan
+   This is a 54 year old male with a history of pulmonary hypertension,
+   dCHF, HIV, DM, OSA, Morbid obesity who presnts to the ED with Dyspnea
+   and increasing edema.
+   # Dyspnea: Likely multifactorial.  Concerns are for worsening pulmonary
+   artery hypertension, infection, CHF.  Infectious etiologies include
+   normal pneumonias or oportunistic pathogens such as PCP.  [**Name Initial (NameIs) 1234**] CD4
+   count is 385 ([**February 2706**]).  Aother possibilities include CAD/anginal
+   equivalent, PE or anxiety.  Patient has been afebrile and there are no
+   signs of infection on history and physcial.  WBC is not elevated.  dCHF
+   is certainly a possibility however his BMP was not elevated.  Also no
+   real O2 requirement just subjective dyspnea.  Still in the setting of
+   volume overload this is a consideration.  Unlikely to be CAD or anginal
+   equvalent.  [**Month (only) 47**] be partly contributed by anxiety.
+   -Hold lasix currently given hyptensive episode.  If pressures stable
+   overnight re-start in am.
+   -Continue Sildenafil TID
+   -Hep gtt for possible PE (increased risk given PAH)
+   -ROMI
+   -check CD4 count
+   -LDH
+   -LFTs
+   # Pulmonary [**Last Name (un) **] HTN: Difficult treating.  Presumed due to HIV and
+   dCHF.  Has not been able to tolerate sildenafil as getting "drunk"
+   feelings.  Per recent notes from end of 09 patient seems to be getting
+   worse.
+   -D/w attending further treatment for PAH, Flolan or other inhailed
+   vasodilator.
+   -Continue Sildenafil
+   -O2 as needed
+   -CPAP overnight
+   -Consider dig.
+   -Assess for pulmonary rehab.
+   # Hyperkalemia: K often runs in upper 5s and occasionally lower 6.
+   Currently is elevated.  S/p Ca in ED and Kayexelate.  No ECG changes.
+   Likely related to renal disase.
+   -Kayxelate
+   -ECG in am
+   -Low K diet.
+   # dCHF: Presumed based on Echo and R heart cath.  LV EF preserved and
+   hyperdynamic.  Elevated E wave acceleration time.  Unclear if currently
+   worse given normal BNP and lack of true desaturation.  Do not suspect
+   that dCHF is causing large component of DOE at this time.
+   -Holding lasix given sensative preload with PAH and recent hypotensive
+   episode.
+   # HIV:  Last CD4 count in [**2-19**] was 384.  Patient currently on ARVT.
+   -Continue ARV while in house.
+   -Check CD4 count, if low consider oportunistic infections.
+   # Anemia: Currently stable.  Attributable to HIV and multiple medical
+   illenss.
+   -Trend hct
+   -Transfuse if < 21
+   # OSA: Patient with history of noncompliance of CPAP in past, currently
+   tolerating it well.  CPAP seems to improve his breathing.
+   -CPAP at night
+   # Acute renal failre: [**Month (only) 47**] be in setting of increase diuresis.  Recieved
+   some fluid in ED.  Will hold am lasix and trend Cr.
+   -F/u cr.  If worsening will send urine lytes.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2707-1-19**] 05:39 AM
+   Arterial Line - [**2707-1-19**] 12:10 PM
+   Dialysis Catheter - [**2707-1-19**] 08:37 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

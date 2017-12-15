@@ -1,0 +1,165 @@
+Chief Complaint: shortness of breath, tachypnea
+   24 Hour Events:
+   - SOB improved with deep suctioning
+   - given 250 cc bolus x 2 for asymptomatic hypotension
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3237-9-26**] 03:50 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3237-9-26**] 07:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.4
+C (97.5
+   HR: 81 (77 - 81) bpm
+   BP: 92/38(51) {76/22(39) - 100/38(52)} mmHg
+   RR: 23 (22 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             748 mL
+   PO:
+             TF:
+   IVF:
+   748 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    135 mL
+   Urine:
+   135 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    613 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: No(t) Well nourished, Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), 2/6 systolic murmur
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: No(t) Clear : , Rhonchorous:
+   diffusely)
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   244 K/uL
+   9.3 g/dL
+   127 mg/dL
+   1.0 mg/dL
+   23 mEq/L
+   4.0 mEq/L
+   32 mg/dL
+   108 mEq/L
+   139 mEq/L
+   28.9 %
+   17.0 K/uL
+        [image002.jpg]
+                             [**3237-9-26**]  04:30 AM
+   WBC
+   17.0
+   Hct
+   28.9
+   Plt
+   244
+   Cr
+   1.0
+   TropT
+   0.06
+   Glucose
+   127
+   Other labs: PT / PTT / INR:56.9/40.5/6.7, CK / CKMB /
+   Troponin-T:36//0.06, ALT / AST:16/25, Alk Phos / T Bili:71/0.5,
+   Differential-Neuts:96.1 %, Band:0.0 %, Lymph:1.7 %, Mono:1.8 %, Eos:0.3
+   %, Albumin:3.0 g/dL, LDH:517 IU/L, Ca++:8.8 mg/dL, Mg++:2.0 mg/dL,
+   PO4:3.6 mg/dL
+   Assessment and Plan
+   Ms. [**Known patient lastname 3331**] is an 84 year old female with CAD, AS, diastolic CHF
+   admitted with a worsening shortness of breath.
+   .
+   1.  SOB.  Patient recently discharged from [**Hospital1 17**] with pneumonia,
+   treated with levaquin and 14 day course of vancomycin for MRSA PNA
+   completed on [**9-17**].  Now with leukocytosis, though denies fevers or
+   chills.  Concern for pneumonia (hospital acquired given that she was at
+   rehab and recently discharged).  Although increasing O2 requirements
+   may be due to patient's inability to clear secretions due to weak
+   cough/ deconditioning.  Has a history of PE, though currently with
+   supratherapeutic INR.  Has history of diastolic heart failure with
+   elevated BNP (though unknown baseline), elevated JVP, b/l LE edema
+   (stable), and "Mild CHF" on CXR, which may be contributing to her SOB
+   though did not tolerate diuresis in ED due to low BP.  Given
+   leukocytosis, would favor treating pneumonia and then considering
+   diuresis in a few days if she fails to respond.
+   - continue albuterol, atrovent
+   - vanco/cefepime for HAP
+   - follow fever curve, wbc
+   - frequent suctioning
+   - consider diuresis if BP tolerates it
+   - send sputum sample
+   - PA and lateral CXR
+   .
+   2. A. fib.  Patient developed A. fib post-operatively after CABG on
+   [**3237-7-28**] and has been treated with coumadin.  Now found to have
+   supratherapeutic INR.  Currently in NSR.
+   - continue amiodarone
+   - hold coumadin given supratherapeutic INR
+   - hold metoprolol for now given hypotension in ED
+   .
+   3.  CAD.  S/p CABG on [**3237-7-28**].  Initial set of cardiac enzymes showed
+   normal CK and TropT of 0.05.  Not complaining of CP and EKG appears
+   unchanged.
+   - aspirin, simvastatin
+   - hold lisinopril, metoprolol given hypotension in ED
+   .
+   4.       Hypotension.  Patient had hypotension to 70s overnight, after
+   receiving lasix in ED.  From prior notes, appears to commonly have SBP
+   of 100 or 110.  Given concern for pulmonary infection, will given fluid
+   boluses to maintain SBP > 90.  Due to hypotension, unable to diurese
+   patient.
+   - fluid boluses to maintain SBP > 90
+   5.       Sytolic murmur.  Patient with systolic murmur on exam.
+   Recently had aortic valve replacement.  Echo following surgery showed
+   1+ AR, and [**11-19**]+MR.
+   - consider echo
+   Ppx: therapeutic INR for A. fib, bowel regimen, home PPI
+   Access: PIVs x 2
+   Communication: patient, daughter
+   DNR/[**Name2 (NI) 933**], confirmed with patient
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3237-9-26**] 02:17 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: Family meeting held  Comments:
+   Code status: DNR / DNI
+   Disposition:ICU
+
+
+
+DOC CLASS

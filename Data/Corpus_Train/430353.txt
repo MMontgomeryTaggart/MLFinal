@@ -1,0 +1,196 @@
+TITLE:
+   CVICU
+   HPI:
+   HD4   POD 3-CABGx4(LIMA->LAD, SVG->OM, OM2, RCA)/LAA lig
+   Ejection Fraction:20%
+   Hemoglobin A1c:7.1
+   Pre-Op Weight:162 lbs   73.48 kgs
+   Baseline Creatinine:1.1
+   PMHx:silent MI
+   HTN,gout,type 2 DM-diet controlled,GERD,,hypertriglyceridemia
+   squamous cell CA-s/p removal from ear,asthma,asbestosis,depression
+   duodenal ulcer,h/o GIB,colonic polyps,Bell's Palsy,s/p industrial
+   accident w/pelvic fx,chronic pain s/p pelvic fx,OA-knees, s/p R
+   inguinal hernia repair
+   Medications at home: albuterol MDI 2 puffs prn, atenolol 50mg daily,
+   econazole 1%cream PRN, gemfibrozil 600mg twice daily, HCTZ 25mg daily,
+   prilosec 20mg daily PRN
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 5. Amiodarone 6. Aspirin EC 7. Carvedilol 8. Calcium
+   Gluconate 9. Dextrose 50% 10. Docusate Sodium 11. Furosemide 12.
+   Gemfibrozil 13. Magnesium Sulfate 14. Metoclopramide 15. Metoprolol
+   Tartrate 16. Metoprolol Tartrate 17. Metoprolol Tartrate 18. Milk of
+   Magnesia 19. Pantoprazole 20. Potassium Chloride 21. Potassium Chloride
+   22. Sodium Chloride 0.9% Flush 23. TraMADOL (Ultram)
+   24 Hour Events:
+[**8-4**]:HIT PND-Plts recovering. +/- AF 120s-SR w/ B-Blocker. CTs Dc
+    CHEST TUBE REMOVED - At [**2730-8-3**] 03:13 PM
+   Events:
+   [**2730-8-3**] Doing well. CTs in 2'DRG-thin.plan->F6 tomorrow
+   [**2730-8-2**] Extubated.Epi off.Milr.weaned.Levo weaned. CT drg ^
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2730-8-2**] 09:15 PM
+   Infusions:
+   Other ICU medications:
+   Metoprolol - [**2730-8-3**] 11:10 PM
+   Furosemide (Lasix) - [**2730-8-4**] 05:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2730-8-4**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**32**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 36.2
+C (97.2
+   HR: 82 (76 - 148) bpm
+   BP: 110/39(55) {74/39(52) - 135/72(87)} mmHg
+   RR: 15 (15 - 33) insp/min
+   SPO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80.3 kg (admission): 66.6 kg
+   Height: 66 Inch
+             Total In:
+                                                                    175 mL
+                                                                    131 mL
+   PO:
+                                                                     60 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    115 mL
+                                                                     11 mL
+   Blood products:
+   Total out:
+                                                                  2,870 mL
+                                                                    300 mL
+   Urine:
+                                                                  2,470 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,695 mL
+                                                                   -169 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 93%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   116 K/uL
+   8.4 g/dL
+   100 mg/dL
+   1.3 mg/dL
+   29 mEq/L
+   3.6 mEq/L
+   35 mg/dL
+   101 mEq/L
+   139 mEq/L
+   25.5 %
+   9.8 K/uL
+        [image002.jpg]
+                             [**2730-8-2**]  03:28 AM
+                             [**2730-8-2**]  09:03 AM
+                             [**2730-8-2**]  11:14 AM
+                             [**2730-8-2**]  12:29 PM
+                             [**2730-8-2**]  12:54 PM
+                             [**2730-8-2**]  01:30 PM
+                             [**2730-8-2**]  02:00 PM
+                             [**2730-8-2**]  09:09 PM
+                             [**2730-8-3**]  03:59 AM
+                             [**2730-8-4**]  04:34 AM
+   WBC
+   9.7
+   9.5
+   9.8
+   Hct
+   28.4
+   27.0
+   25.8
+   25.5
+   Plt
+   117
+   97
+   116
+   Creatinine
+   0.9
+   1.1
+   1.3
+   TCO2
+   24
+   25
+   Glucose
+   140
+   114
+   72
+   70
+   81
+   128
+   100
+   Other labs: PT / PTT / INR:16.1/36.9/1.4, Fibrinogen:231 mg/dL, Lactic
+   Acid:1.6 mmol/L, Ca:8.0 mg/dL, Mg:2.0 mg/dL
+   Imaging: CXR - CVL in good position; small effusion.
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), PAIN CONTROL (ACUTE PAIN, CHRONIC
+   PAIN)
+   Assessment and Plan:
+[**8-4**]:HIT PND-Plts recovering. +/- AF 120s-SR w/
+   B-Blocker. CTs Dc
+d, HD stable
+   Neurologic: Pain controlled, Tramadol PRN
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Cont Amio. EP consult
+   for LVEF=20% w/ ^ventricular ectopy
+   Pulmonary: OOB / IS / PT qd
+   Gastrointestinal / Abdomen: standard bowel regimen
+   Nutrition: Regular diet
+   Renal: Adequate UO, Would reduce lasix given mild elevation in
+   creatinine and > 2 liters negative balance yesterday.
+   Hematology: Mod anemia --> cont to follow
+   Endocrine: RISS
+   Infectious Disease: No issues
+   Lines / Tubes / Drains:  D/C CVL
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2730-8-1**] 02:35 PM
+   18 Gauge - [**2730-8-1**] 02:35 PM
+   20 Gauge - [**2730-8-3**] 08:42 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

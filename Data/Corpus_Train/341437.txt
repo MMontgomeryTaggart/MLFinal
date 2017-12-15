@@ -1,0 +1,156 @@
+Chief Complaint: DKA
+   Chest Pain
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Patient with move to po intake and return to SQ insulin dosgin
+   24 Hour Events:
+ EKG - At [**3264-11-19**] 11:07 AM
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: No(t) Chest pain
+   Endocrine: Hyperglycemia
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**3264-11-20**] 12:27 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.8
+C (98.3
+   HR: 63 (60 - 68) bpm
+   BP: 150/58(81) {106/40(57) - 161/66(89)} mmHg
+   RR: 17 (11 - 20) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                  3,569 mL
+                                                                    240 mL
+   PO:
+                                                                    240 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  1,329 mL
+   Blood products:
+   Total out:
+                                                                    650 mL
+                                                                    150 mL
+   Urine:
+                                                                    450 mL
+                                                                    150 mL
+   NG:
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,919 mL
+                                                                     90 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///30/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Distant)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   11.4 g/dL
+   183 K/uL
+   221
+   1.4 mg/dL
+   30 mEq/L
+   4.2 mEq/L
+   30 mg/dL
+   98 mEq/L
+   137 mEq/L
+   32.7 %
+   10.7 K/uL
+        [image002.jpg]
+                            [**3264-11-19**]  10:31 AM
+                            [**3264-11-19**]  02:54 PM
+                            [**3264-11-19**]  08:07 PM
+                            [**3264-11-20**]  06:17 AM
+                            [**3264-11-20**]  12:00 PM
+   WBC
+   8.2
+   10.7
+   Hct
+   28.5
+   32.7
+   Plt
+   168
+   183
+   Cr
+   1.6
+   1.5
+   1.4
+   1.4
+   TropT
+   0.04
+   Glucose
+   220
+   190
+   110
+   282
+   221
+   Other labs: PT / PTT / INR:12.8/23.2/1.1, CK / CKMB /
+   Troponin-T:84//0.04, ALT / AST:23/21, Alk Phos / T Bili:102/0.3,
+   Amylase / Lipase:53/15, LDH:198 IU/L, Ca++:8.8 mg/dL, Mg++:2.4 mg/dL,
+   PO4:3.1 mg/dL
+   Fluid analysis / Other labs: Anion Gap=9
+   Assessment and Plan
+   patient with known history of diabetes now admit with DKA in the
+   setting of difficult accesss to insulin.  She additionally had evidence
+   of significant ischemia and chest pain at the time of admisssion.
+   Arguing against a signficant state of insulin resistance is that
+   patient had rapid resolution of anioin gap with treatment start with IV
+   insulin.
+ HYPERGLYCEMIA
+ ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY ISCHEMIA)
+ DIABETIC KETOACIDOSIS (DKA)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3264-11-19**] 08:45 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 35 minutes
+
+
+
+DOC CLASS

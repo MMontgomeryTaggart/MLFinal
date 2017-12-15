@@ -1,0 +1,383 @@
+TITLE:
+   Chief Complaint:  Chest pain
+   HPI:
+   74 yo W with PMH of DM, ESRD on HD, HTN, SVC stenosis s/p dilation
+   presents from HD with acute dyspnea.  She reports malaise the past 5
+   days.  In dialysis, she had a low-grade temp of 99, and developed
+   chills and respiratory distress with sats 80's on NRB at which time she
+   was sent to ED for further evaluation.
+   .
+   In the ED, VS: T 100.6, HR 117, BP 170/84, RR 38, Sat 90% on NRB.  She
+   reported chest pain.  She had evidence of new LBBB with discordant ST
+   elevations <5mm in V2-V4. CODE STEMI was called.  She received ASA
+   325mg, Plavix 600mg load, heparin bolus+gtt, nitro gtt.  She also
+   received 1 gm Vanco for presumed line sepsis.  She was intubated with
+   Etomidate and Rocuronium and transferred to the cath lab for
+   intervention.
+   .
+   In the cath lab, she was found to be right dominant with no disease in
+   left main.  Serial 90% lesions in LAD with TO at mid LAD.  She has
+   left-to-left collaterals.  Minimal disease in circ.  RCA with 30% mid
+   occlusion and 90% at origin of PDA.  Lesion in RCA could be crossed
+   wire but not ballon due to tortous nature.  CT [**Doctor First Name 438**] was recommended.
+   Post-cath, the LBBB was resolved and HR was lower.  LVEDP was elevated
+   at 35.  Patient was transferred to the CCU for further monitoring.
+   Allergies:
+   Hydralazine
+   Nausea/Vomiting
+   Opioid Analgesics
+   Confusion/Delir
+   Compazine (Injection) (Prochlorperazine Edisylate)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3253-11-26**] 01:00 AM
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Phenylephrine - 0.3 mcg/Kg/min
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3253-11-26**] 03:00 AM
+   Fentanyl - [**3253-11-26**] 04:00 AM
+   Past medical history:
+   Family history:
+   Social History:
+   1. CARDIAC RISK FACTORS: Positive for Diabetes, Dyslipidemia, prior
+   CVA, and Hypertension
+   2. CARDIAC HISTORY:
+   -CABG:  None
+   -PERCUTANEOUS CORONARY INTERVENTIONS:  None
+   -PACING/ICD:  No
+   3. OTHER PAST MEDICAL HISTORY:
+   1. Hypertension
+   2. Hypothyroidism: [**2-8**] thyroidectomy in [**3235**] for benign growth;
+   TSH 5.4 in [**3-15**]
+   3. DM type II:   For >10yrs
+   4. ESRD: on HD (T, Th, Sat); s/p left loop forearm AV graft in
+   [**3249**], now using Tunelled HD Line
+   5. CVA [**3248**]: left caudate infarct; mini-strokes before that
+   6. Gait disorder: shaky and unsteady when she walks
+   7. Splenectomy in [**3207**] [**2-8**] trauma
+   8. SVC stenosis
+   9. Cataract surgery bl
+   Father: died when pt was 17 unknown cause
+   No family history of early MI, otherwise non-contributory.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Patient lives alone at home but daughter [**Name (NI) 61**]([**Telephone/Fax (1) 6432**])
+   is extensively involved in her care.  She has 7 other children.
+   She uses a walker at baseline, but has been wheelchair bound for
+   several months per the daughter because patient is afraid of
+   falling. She denies current or past tobacco, alcohol or illicit
+   drug use.
+   Home medications:
+   1. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO HS.
+   2. Clonidine 0.3 mg/24 hr Patch TD QMON.
+   3. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr
+   Sig: One (1) Tablet Sustained Release 24 hr PO QAM
+   4. Lactulose 30ml PO PRN for constipation.
+   5. Levothyroxine 100 mcg PO daily.
+   6. Lisinopril 40mg PO QAM.
+   7. Calcium Acetate 667 mg  2 tabs PO TID
+   8. MVI PO DAILY (Daily).
+   9. Docusate 100mg Capsule PO BID
+   10. Minoxidil 10 mg PO QAM
+   11. Metoprolol Tartrate 150 mg PO BID.
+   12. Lorazepam 0.5 mg PO Q6H as needed.
+   13. Losartan 100 mg PO QAM
+   14. Glipizide 2.5 mg Tablet PO BID
+   15. Lansoprazole 30 mg Tablet,Rapid Dissolve, PO DAILY.
+   16. Warfarin 7.5 mg Tablet Sig: One (1) Tablet PO once a day.
+   17. Nephrocaps 1 mg Capsule Sig: One (1) Capsule PO once a day.
+   LABS/STUDIES
+   EKG:  NSR, rate 96, long PR, wide QRS, LAD, LBBB with discordant ST
+   elevations >5mm in V2-V4, Qs in III,avF, TWI in I, avL ( Q's and ST/T
+   wave changes new, new LBBB)
+   .
+   2D-ECHOCARDIOGRAM:  [**3251-10-30**]
+   The left atrium is normal in size. The interatrial septum is
+   aneurysmal. No atrial septal defect is seen by 2D or color Doppler.
+   There is mild symmetric left ventricular hypertrophy with normal cavity
+   size and systolic function (LVEF>55%). Regional systolic function is
+   normal.  Tissue velocity imaging E/e' is elevated (>15) suggesting
+   increased left ventricular filling pressure (PCWP>18mmHg). Right
+   ventricular chamber size and free wall motion are normal. The aortic
+   valve leaflets (3) are mildly thickened.  Aortic stenosis is not
+   present. Mild (1+) aortic regurgitation is seen. The mitral valve
+   leaflets are structurally normal. Mild to moderate ([**1-8**]+) mitral
+   regurgitation is seen. The pulmonary artery systolic pressure could not
+   be quantified. There is no pericardial effusion.
+   .
+   IMPRESSION: Mild symmetric LVH with preserved global and regional
+   systolic function. Diasatolic dysfunction. Mild-moderate MR. [**First Name (Titles) **]
+[**Last Name (Titles) 6433**]tic regurgitation.
+   Compared with the prior study (images reviewed) of [**3249-8-14**], the severity
+   of tricuspid regurgitation is reduced. Very mild aortic regurgitation
+   and diastolic dysfunction are now identified. The other findings are
+   similar.
+   .
+   CXR: Bilateral pulmonary infiltrates, tunneled line in place (my read)
+   Overnight events:
+   HD removed 1.9 L IVF.
+   Seen by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 438**] who recommended pre-op studies in preparation for
+   possible CABG (Echo, carotid U/S, blood, urine CX, LFTs, HbA1cs, CEs).
+   Bedside ECHO with ok LV function, appears diastolic HF.
+   GNR in blood cultures at HD and here.  Started Zosyn.
+   EK with STD in V4-6 worsening, TWI in precordial leads.
+   Started on Neosynepherin for blood pressure control
+   Flowsheet Data as of [**3253-11-26**] 06:37 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.2
+C (99
+   HR: 73 (63 - 145) bpm
+   BP: 85/42(57) {66/35(49) - 168/3,547(109)} mmHg
+   RR: 15 (15 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,025 mL
+                                                                    311 mL
+   PO:
+             TF:
+   IVF:
+                                                                    975 mL
+                                                                    311 mL
+   Blood products:
+   Total out:
+                                                                  1,900 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -875 mL
+                                                                    311 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow  500/16/5/.8
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 16
+   RR (Spontaneous): 5
+   PEEP: 5 cmH2O
+   FiO2: 80%
+   RSBI: 37
+   PIP: 18 cmH2O
+   Plateau: 16 cmH2O
+   Compliance: 58.1 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.45/37/146/24/2  @ 5:40 AM
+   Ve: 5.3 L/min
+   PaO2 / FiO2: 183
+   Physical Examination
+   HENT: Pupils 4->3 mm, equal.  Scleral edema
+    GEN: Intubated.  Responds to commands.  Breathing comfortably on vent.
+     CV: RRR. nl S1 S2.  II/VII systolic murmur at LUSB without
+   radiatation to carotids.
+      P: Good airation bilaterally.  Diffuse ralles.
+    ABD: S NT ND
+    EXT: 1+ edema, 0-1(+) pulses.
+   NEUR: PERRL, EOMI, (+) cough & gag.  Moves all four extremities with
+   command with grossly normal strength and sensation.
+   Tele: PVCs
+   Labs / Radiology
+   366 K/uL
+   9.9 g/dL
+   114 mg/dL
+   4.6 mg/dL
+   30 mg/dL
+   24 mEq/L
+   101 mEq/L
+   3.6 mEq/L
+   139 mEq/L
+   30.0 %
+   21.3 K/uL
+        [image002.jpg]
+                                  [**3251-1-9**]
+                         2:33 A11/18/[**3253**]  12:03 PM
+                                  [**3251-1-13**]
+                         10:20 P11/18/[**3253**]  12:14 PM
+                                  [**3251-1-14**]
+                         1:20 P11/18/[**3253**]  02:33 PM
+                                  [**3251-1-15**]
+                         11:50 P11/18/[**3253**]  04:20 PM
+                                  [**3251-1-16**]
+                         1:20 A11/18/[**3253**]  05:08 PM
+                                  [**3251-1-17**]
+                         7:20 P11/18/[**3253**]  06:00 PM
+                                  1//11/006
+                         1:23 P11/18/[**3253**]  10:18 PM
+                                  [**3251-2-9**]
+                         1:20 P11/18/[**3253**]  10:37 PM
+                                  [**3251-2-9**]
+                         11:20 P11/19/[**3253**]  05:35 AM
+                                  [**3251-2-9**]
+                         4:20 P11/19/[**3253**]  05:40 AM
+   WBC
+                                    28.9
+                                    19.1
+                                    18.3
+                                    21.3
+   Hct
+                                    37.2
+                                    31.1
+                                    29.9
+                                    30.0
+   Plt
+                                     392
+                                     365
+                                     340
+                                     366
+   Cr
+                                     6.0
+                                     4.6
+   TropT
+                                    2.62
+                                    3.40
+   TC02
+                                     26
+                                     27
+                                     28
+                                     28
+                                     27
+   Glucose
+                                     [**Telephone/Fax (3) 6434**]
+   Other labs: PT / PTT / INR:20.7/56.9/2.0, CK / CKMB /
+   Troponin-T:56//3.40, ALT / AST:20/22, Alk Phos / T Bili:119/0.3,
+   Differential-Neuts:93.2 %, Lymph:2.7 %, Mono:3.8 %, Eos:0.1 %, Lactic
+   Acid:0.9 mmol/L, LDH:352 IU/L, Ca++:7.9 mg/dL, Mg++:1.9 mg/dL, PO4:2.9
+   mg/dL
+   Vanco: 11.5
+   HbA1c: 6.9
+   Trop: 2.8->2.6->3.4->
+   CK:   39->50->59->56
+   BCx: [**11-25**] GNR @ HD and on floor 4/6 bottles
+   Sputum:  Polys, no organisms,  culture pending
+   Infulenza pending
+   Assessment and Plan
+   74 yo W with PMH of DM, ESRD on HD, CVA, HTN presents with NSTEMI and
+   pulmonary edema in setting of GNR bacteremia.
+   CORONARIES:  Appears to have demand ischemia given infection.
+   Originally thought to be NSTEMI based on elevated troponin well above
+   baseline and new LBBB with ST elevations under criteria for STEMI in
+   LBBB.  Given cath with severe flow-limiting lesions that appear
+   chronic, more likely to be demand ischemia, especially given
+   bacteremia.  Lesions on cath not amenable to PCI and will likely need
+   CABG.
+   - C-[**Doctor First Name 438**] evaluation for CABG, but likely will be > 7 days away.
+   - Trend CKs to peak
+   - continue ASA, statin
+   - start ACE-I and bblocker once BP and HR tolerate
+   - ck lipid panel for risk reduction with goal LDL < 70
+   - resume coumadin as will need bacteremia fully treated prior to
+   surgery.
+   .
+   PUMP: Evidence of pulmonary edema on CXR, likely source of SOB and
+   hypoxemia in setting of acute infarct. Will not exclude pulmonary
+   source of infection given chills and leukocytosis and large A-a
+   gradient.  Patient is hypertensive at baseline on metoprolol 150 mg PO
+   BID, Losartan 100 mg DAILY, Amlodipine 10 mg, Minoxidil 10 mg PO QAM,
+   and Lisinopril 40 mg DAILY at home.  Hypotensive s/p 1.9 L IVF
+   removal.  Likely with diastolic dysfunction and preload dependency.
+   Given bacteremia, may need generous IVF resuscitation.
+   - eval with ECHO today
+   - Will support blood pressure with IVF
+   - Wean neosynepherin
+   - Hold blood pressure lowering medications for now
+   .
+   RHYTHM: NSR currently, but had 2 episodes of SVT associated with
+   hypotension to SBPs of 60.  The episode started with APB, had
+   prolonging PR intervals and ended with an atrial pause, with HR around
+   150.  Ddx includes A-tach and AVNRT.
+   - continue monitor on TELE
+   - add beta-blockade when pressure tolerates
+   .
+   HYPOXIC RESPIRATORY FAILURE:  Patient intubated in for acute
+   respiratory distress.  Has high FiO2 requirement and large A-a
+   gradient.  CXR shows volume overload and possible developing
+   infiltrate.
+   - Abx with vanc and zosyn for HAP coverage.  Follow sputum culture
+   - Fluid goal even, may need to diurese to compensate for obligate IVF.
+   - daily CXR
+   - Wean FiO2 as tolerated, consider increasing PEEP if pressure
+   tolerates.
+   .
+   BACTEREMIA: Chills during HD and low grade temp, along with elevated
+   WBC and left count.  Possible sources include pulmonary and skin from
+   indwelling HD line.  GNR in blood cultures
+   - Vanc/Zosyn
+   - daily blood cultures
+   - Zosyn to meropenem if worsening for ESBL coverage.  No h/o pip-tazo
+   resistance
+   - will attempt to treat through bacteremia, but may need to pull line
+   if GNR are pseudomonas or other difficult organisms.
+   .
+   ANION GAP ACIDOSIS: Likely secondary to uremia. Lactate normal
+   - HD today
+   - monitor lytes
+   .
+   ESRD on HD:
+   - dialysis
+   - goal even
+   - f/u renal recs
+   - continue nephrocaps and calcium acetate
+   .
+   DIABETES: Would aim for tight glucose control given sepsis picture.
+   - Hold glipizide
+   - ISS for now
+   .
+   HISTORY OF STROKE:  Per family, patient has no residual deficits.  On
+   coumadin at home.
+   - monitor PT/INR
+   - restart coumadin with goal [**2-9**], currently subtheraputic, bridge with
+   heparin
+   .
+   HYPOTHYROIDISM
+   - continue levothyroxine
+   .
+   FEN:  NPO, HD today, TF consult
+   ACCESS: Peripheral EJ IV and one peripheral IV, HD line, will likely
+   need central access.
+   PROPHYLAXIS:
+   -DVT ppx with heparin gtt
+   -Bowel regimen:  colace, senna
+   CODE: Presumed full
+   DISPO: CCU
+   4. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain
+   No more than 4gm per day.  Order date: [**11-25**] @ [**3198**]
+   10. Influenza Virus Vaccine 0.5 mL IM ASDIR
+   Follow Influenza Protocol Document administration in POE   Order date:
+   [**11-25**] @ 1059
+   5. Aspirin 300 mg PR DAILY  Order date: [**11-25**] @ 1714
+   11. Insulin SC  (per Insulin Flowsheet)
+         Sliding Scale Order date: [**11-25**] @ 1241
+   6. Atorvastatin 80 mg PO DAILY  Order date: [**11-25**] @ 1653
+   12. Levothyroxine Sodium 100 mcg PO DAILY  Order date: [**11-25**] @ 1241
+   7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]
+   Use only if patient is on mechanical ventilation.  Order date: [**11-25**] @
+   1739
+   13. Midazolam 0.5-2 mg/hr IV DRIP TITRATE TO sedation
+   Patient must have adequate airway support prior to administration of
+   dose.  Order date: [**11-25**] @ 1103
+   8. Fentanyl Citrate 25-100 mcg IV Q6H:PRN
+   Give doses every 5 min until sedated. Maintenance target: [**Last Name (un) 1781**] 3 and
+   overbreathing ventilator   Order date: [**11-25**] @ 1102
+   14. Nephrocaps 1 CAP PO DAILY  Order date: [**11-25**] @ 1241
+   9. Heparin IV per Weight-Based Dosing Guidelines
+   Order date: [**11-25**] @ 1657
+   15. Pantoprazole 40 mg PO Q24H  Order date: [**11-25**] @ 1241
+   16. Phenylephrine 0.5-5 mcg/kg/min IV DRIP TITRATE TO MAP > 60  Order
+   date: [**11-25**] @ 2216
+   17. Piperacillin-Tazobactam Na 2.25 g IV Q12H Start: Stat
+   Start [**11-25**]  Order date: [**11-25**] @ 2138
+
+
+
+DOC CLASS

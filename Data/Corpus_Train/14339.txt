@@ -1,0 +1,81 @@
+Admission Date:  [**2879-5-23**]       Discharge Date:[**2879-5-29**]
+
+Date of Birth:   [**2806-12-15**]       Sex:  M
+
+Service:  Cardiac Surgery
+
+CHIEF COMPLAINT:  Coronary artery disease.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 72-year-old
+male who was transferred here from [**Hospital3 **].  He was
+admitted there on [**2879-5-21**] with a two week history of
+paroxysmal nocturnal dyspnea, orthopnea, increasing
+peripheral edema and exertional chest burning.  He was
+treated with Lasix.  He ruled out for an MI.  He was
+transferred to the [**Hospital1 58**] on
+[**2879-5-23**] in stable condition for catheterization.
+
+PAST MEDICAL HISTORY:  Hypertension, hypercholesterolemia,
+benign prostatic hypertrophy.
+
+PAST SURGICAL HISTORY:  Right ankle surgery.
+
+ALLERGIES:  None known.
+
+MEDICATIONS:  At home, HCTZ 25 mg q d, Zestril 5 mg q d,
+Lipitor 10 mg q d, Hytrin 10 mg q d.  Medications on
+transfer, Zestril 10 mg q d, Lipitor 10 mg q d, Hytrin 10 mg
+q d, Lasix 40 mg q d, Aspirin 325 mg q d, Lopressor 25 mg
+[**Hospital1 12**], Flonase one spray [**Hospital1 12**], Nitro Paste one inch q 6 hours,
+Heparin infusion which was discontinued.
+
+FAMILY HISTORY:  Lives with wife.
+
+SOCIAL HISTORY:  Smoker, quit 1?????? months ago.
+
+HOSPITAL COURSE:  The patient was admitted to the cardiac
+medical service.  He underwent a catheterization on [**2879-5-24**]
+where they found severe three vessel disease with severe 95%
+LM.  The patient had an intra-aortic balloon pump placed and
+was transferred to the CCU at which point a cardiac surgery
+consult was obtained and the decision was made to operate on
+[**2879-5-25**].  The patient underwent an urgent CABG times three
+with LIMA to LAD, SVG to OM, SVG to PDA on [**2879-5-25**].  He was
+transferred to the CSRU in stable condition.  He was
+extubated on postoperative day #1.  Pump was also removed  on
+postoperative day #1.  He was transferred to the regular
+floor on postoperative day #2.  He did complain of some low
+back pain on postoperative day #2 and was given Toradol with
+good pain relief.  On postoperative day #3 his creatinine had
+bumped from 1 to 1.4, his Toradol was discontinued, he was
+hydrated and Flexeril was started for back pain.  He got good
+relief from this.  On postoperative day #4 his creatinine
+came back down to 1.2.  His pacing wires were discontinued
+and he is ready for discharge to a rehab facility when a bed
+is available.
+
+DISCHARGE MEDICATIONS:  Aspirin 325 mg q d, Lopressor 25 mg
+[**Hospital1 12**], Lasix 20 mg q d times one week, KCL 20 mEq q d times one
+week, Colace 100 mg [**Hospital1 12**], Plavix 75 mg q d, Lipitor 10 mg q
+h.s., Hytrin 10 mg q d, Flonase one spray [**Hospital1 12**], Flexeril 10 mg
+[**Hospital1 12**], Percocet 1-2 tablets po q 4-6 hours prn.
+
+FOLLOW-UP:  With Dr. [**Last Name (STitle) 287**] in four weeks, with primary care
+physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1910**] in two weeks.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 951**]
+
+Dictated By:[**Last Name (NamePattern1) 6906**]
+MEDQUIST36
+
+D:  [**2879-5-29**]  11:28
+T:  [**2879-5-29**]  11:32
+JOB#:  [**Job Number 18118**]
+RP  [**2879-5-29**]
+
+
+
+DOC CLASS

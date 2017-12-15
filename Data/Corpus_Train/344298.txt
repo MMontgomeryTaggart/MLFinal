@@ -1,0 +1,239 @@
+Chief Complaint: multifocal pna, hypotension, pSBO
+   24 Hour Events:
+   - Worsening abdominal distention in AM--> KUB showed ileus versus SBO.
+   Opioids d/c'd, made NPO, given PO naloxone --> abomdinal exam improved
+   - Synthroid switched to IV given that patient is NPO
+   - BAL culture showed GNRs and GP diplococci
+   - [**First Name8 (NamePattern2) **] [**Known patient lastname 5603**] states she would not like to be called for worsening in
+   Mr. [**Known patient lastname 6389**] status because it makes her worry; she wants only to be
+   notified if he has passed but not in anticipation of it
+   - Hypotensive to 80s systolic --> got 500 cc fluid bolus and 1 unit of
+   PRBC, but not pressors --> BP improved
+   - Hct did not respond appropriately to PRBC transfusion 25.1 --> 24.5
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Daptomycin - [**2603-10-16**] 10:10 PM
+   Meropenem - [**2603-10-17**] 02:18 AM
+   Bactrim (SMX/TMP) - [**2603-10-17**] 06:18 AM
+   Infusions:
+   Other ICU medications:
+   Midazolam (Versed) - [**2603-10-16**] 12:13 PM
+   Pantoprazole (Protonix) - [**2603-10-16**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**2603-10-17**] 12:18 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-10-17**] 07:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.1
+C (97
+   HR: 76 (72 - 95) bpm
+   BP: 103/54(66) {84/42(56) - 114/60(74)} mmHg
+   RR: 26 (16 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                  2,810 mL
+                                                                    709 mL
+   PO:
+             TF:
+                                                                     75 mL
+   IVF:
+                                                                  2,210 mL
+                                                                    679 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                    708 mL
+                                                                    160 mL
+   Urine:
+                                                                    508 mL
+                                                                    160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,102 mL
+                                                                    549 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 470 (470 - 500) mL
+   Vt (Spontaneous): 615 (615 - 615) mL
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 31 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 35.3 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.42/43/42/26/2
+   Ve: 12.6 L/min
+   PaO2 / FiO2: 84
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   386 K/uL
+   9.0 g/dL
+   93 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   3.4 mEq/L
+   23 mg/dL
+   97 mEq/L
+   127 mEq/L
+   25.8 %
+   5.2 K/uL
+        [image002.jpg]
+                            [**2603-10-14**]  03:22 AM
+                            [**2603-10-14**]  03:23 PM
+                            [**2603-10-14**]  04:28 PM
+                            [**2603-10-15**]  03:16 AM
+                            [**2603-10-15**]  12:27 PM
+                            [**2603-10-15**]  05:32 PM
+                            [**2603-10-16**]  04:52 AM
+                            [**2603-10-16**]  02:14 PM
+                            [**2603-10-17**]  03:13 AM
+                            [**2603-10-17**]  03:27 AM
+   WBC
+   12.6
+   8.4
+   8.8
+   6.2
+   5.2
+   Hct
+   30.6
+   25.7
+   27.6
+   26.9
+   27.7
+   25.1
+   24.5
+   25.8
+   Plt
+   497
+   454
+   473
+   351
+   386
+   Cr
+   0.7
+   0.7
+   0.8
+   0.9
+   1.0
+   1.0
+   TCO2
+   29
+   Glucose
+   80
+   64
+   123
+   117
+   98
+   93
+   Other labs: PT / PTT / INR:13.9/35.5/1.2, CK / CKMB /
+   Troponin-T:20/3/0.16, ALT / AST:[**10-16**], Alk Phos / T Bili:65/0.0,
+   Amylase / Lipase:36/9, Differential-Neuts:80.4 %, Band:0.0 %,
+   Lymph:15.1 %, Mono:3.9 %, Eos:0.4 %, D-dimer:881 ng/mL, Fibrinogen:386
+   mg/dL, Lactic Acid:2.0 mmol/L, Albumin:2.0 g/dL, LDH:163 IU/L, Ca++:8.4
+   mg/dL, Mg++:2.1 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   75yoM CAD, CHF, PVD, s/p resp failure with trach/PEG with vent assoc
+   ESBL Klebsiella and Acineotbacter pna now with ileus.
+   1.  Ileus- dist, tympanitic abd since [**10-11**], mild improvement.  TFs
+   initiated [**10-16**], then dc
+ed for abd distention.  Ileus +/o sbo, making
+   stool.
+   - NPO, hold TFs
+   - bowel regimen
+   - no opioids, DC nalaone
+   2.  UGIB/coffee grounds
+ noted on [**10-15**], now resolved, with downward
+   trend in hct.
+   - iv ppi [**Hospital1 **]
+   - t/c 2 units
+   - [**Hospital1 **] hcts, transfuse if <23
+   - hold aspirin, plavix
+   3.  Hypotension
+ intermittent pressors [**Date range (1) 6394**], concern for septic
+   shock vs adrenal insufficiency, ECHO [**10-14**] showed no RWMA, nl EF.
+   Remains on broad spectrum abx and stress dose steroids (started [**10-14**]),
+   now off pressors.
+   - [**Last Name (un) 411**], bactrim, dapto
+ to complete 14d course (started [**10-6**], to end
+   [**10-19**])
+   - MAPs>60, trend lactate, levophed as needed
+   - f/u culture data, fever curve, wbc
+   - minimize IVF boluses for hypotension
+   - hold lasix for now, but consider lasix drip if hemodynamics improve
+   - decrease steroids to 25 q6, then taper over 3 days
+   4.  Respiratory failure - pna (ESBL klebsiella and acinetobacter),
+   worsening bil pleural effusions that have reaccumlated following
+   thoracentis, and significant of abdominal distention.
+   -  [**Last Name (un) 411**], dapto, bactrim, for pna
+   -  A/C, PS trial
+   -  f/u bronch results
+   5.  Hyponatremia - likely SIADH given low sodium.  Difficult to control
+   free water given NPO and no TFs.
+   - serial lytes
+   - when able to feed him, will stop IVF and free water restrict
+   6.  Nutrition - failed S&S, PEG placement by IR, now on hold from NPO.
+   Given concern for obstruction, will remain NPO.
+   - hold TFs due to ileus
+   - will discuss TPN, as needs nutrition long term
+   7.  PD - awaiting revascularization after DC.  Stable LLE dry gangrene.
+   - further management per Dr. [**Last Name (STitle) **] as patient recovers from this
+   hospitalization.
+   - hold asa/plavix given above
+   - hold opioids due to ileus vs sbo and hypotension
+   8.  UTI.  UTI ESBL Klebsiella species, S to meropenem (last Klebs MIC
+   panel pending).  Foley changed [**10-8**].  Also, yeast in urine.  Completed
+   2 days of fluconazole, which was stopped given concern for drug rash.
+   9.  Rash.  Concern for drug rash. Will stop fluconazole as this was
+   recently started and may be the offending [**Doctor Last Name **].  Now significantly
+   improved.
+   10. HEART FAILURE (CHF), DIASTOLIC
+ hold on diuresis given ileus.
+   Found to have elevated BNP.  Also with pulmonary edema on bronch.
+   - hold on diuresis for now, but consider lasix drip in PM pending echo
+   results
+   11. EOSINOPHILIA
+ s/p tx strongyloides with ivermectin, ?drug
+   reaction.  Tryptase wnl.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

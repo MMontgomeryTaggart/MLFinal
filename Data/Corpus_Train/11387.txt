@@ -1,0 +1,148 @@
+Admission Date:  [**2733-10-25**]       Discharge Date:  [**2733-10-30**]
+
+Date of Birth:   [**2668-11-5**]       Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 9381**] is a 64-year-old
+morbidly obese male who presented to the [**Hospital 315**] Hospital on
+[**10-23**] with acute onset dizziness, diaphoresis while playing
+cards that night.  He reportedly had increased shortness of
+breath over the last several weeks, on home O2 with sleep
+apnea (severe although he reports not using CPAP). He also
+complained of nausea and vomiting.  He denied chest pain or
+chest pressure.  He had one episode similar to this one of
+dizziness and diaphoresis months ago, but denies any chest
+pain or pressure.  His mobility at baseline is severely
+limited by his weight and shortness of breath.  His arterial
+blood gases on 100% oxygen by face mask in the Emergency
+Department was 729/64/236.  He was placed on BIPAP and his
+subsequent arterial blood gases was 7.24/63/87 with a
+bicarbonate of 29, BUN and creatinine 28/1.8, unknown
+baseline.  He was felt to be in congestive heart failure by
+exam and chest x-ray and was given diuretics.  He was
+monitored in the Intensive Care Unit at the outside hospital
+and placed on intermittent BIPAP which he tolerated poorly.
+Echocardiogram by report at outside hospital also
+demonstrated mild aortic stenosis with anteroseptal and
+inferoseptal hypokinesis that was severe and ejection
+fraction of 30% to 35%.  Subsequently, he was transferred to
+the [**Hospital6 656**] for further
+management.
+
+PAST MEDICAL HISTORY:
+1.  Morbid obesity
+2.  Questionable history of sleep apnea
+3.  Congenitally with one kidney, subsequent chronic renal
+insufficiency
+4.  Depression
+5.  Questionable history of diabetes mellitus
+
+ADMISSION MEDICATIONS:
+1.  Prozac
+2.  Nitropaste
+3.  Aspirin
+4.  Phenergan prn
+5.  Albuterol/Atrovent nebulizers
+6.  Reglan
+7.  Regular insulin sliding scale
+8.  Mucomyst in anticipation of possible cardiac
+catheterization
+
+ALLERGIES:  No known drug allergies.
+
+ADMISSION PHYSICAL EXAM:
+VITAL SIGNS:  Temperature 97.1??????, blood pressure 140/70, pulse
+80, respiratory rate 19, O2 saturations 90% to 96% on 100%
+face mask.
+GENERAL:  Morbidly obese male in no apparent distress, sleepy
+but arousable and oriented.
+HEAD, EARS, EYES, NOSE AND THROAT:  Pupils equal, round and
+reactive to light.  Extraocular muscles are intact.
+Oropharynx dry.
+NECK:  Jugular venous pressure not visualized, supple neck.
+CARDIAC:  Regular rate and rhythm, 2/6 systolic murmur at
+left sternal border.
+LUNGS:  Fine crackles at bases bilaterally, no wheezes.
+ABDOMEN:  Obese, soft, nontender, positive bowel sounds.
+EXTREMITIES:  Venostasis changes bilaterally, no pitting
+edema.
+NEUROLOGIC:  Alert and oriented x3.  Cranial nerves II
+through XII intact.
+
+ADMISSION LABS:  White blood cell count 18.8, hematocrit
+43.8, platelets 202.  Sodium 148, potassium 4.6, chloride
+107, bicarbonate 32, BUN 13, creatinine 1.5, glucose 126.
+
+IMAGING:  Electrocardiogram showed normal sinus rhythm at 80,
+PR interval 170, left axis deviation with poor R-wave
+progression, Qs in V2, V3, no ST-T changes.
+
+HOSPITAL COURSE BY SYSTEMS:
+1.  CARDIOVASCULAR:  Echocardiogram done at our institution
+showed that his AS was not severe.  Left ventricular
+hypertrophy was present.  Focal wall motion abnormalities.
+The patient was ruled out for myocardial infarction with CKs.
+He was diuresed with Lasix and was put on a nitroglycerin
+drip for preload reduction.  Given his echocardiogram
+results, it was decided that the patient would not need an
+emergent catheter.  A Swan-Ganz catheter was placed to assess
+his pulmonary capillary wedge pressure and to guide
+management of his congestive heart failure.
+
+2.  PULMONARY:  The patient's states there had been
+longstanding deterioration in his respiratory status,
+etiology was unclear.  The patient has not been formally
+diagnosed with obstructive sleep apnea and has not had PFTs.
+The patient was intubated on [**10-25**] for hypercarbic
+respiratory failure.  He was empirically started on
+levofloxacin.  Propofol was used for sedation during
+patient's course of mechanical ventilation.  Pulmonary
+consult was obtained and it was thought the patient's
+respiratory problems were secondary to pulmonary hypertension
+due to sleep apnea and/or chronic Ps.  On [**2733-10-27**], the
+patient's sedation was discontinued in anticipation of
+extubation.  The patient remained sedated, but was moving
+legs and had brain stem reflexes.
+
+On the afternoon of [**2733-10-29**], the patient had an episode of
+apnea on pressure support, was subsequently changed to CMV
+and had an additional episode of hypertension with systolic
+blood pressures to 60.  He subsequently was started on
+dopamine and blood pressure recovered slowly.  However, the
+patient was observed to not have a gag reflex.  Further
+neurologic exam reveals 5 mm fixed dilated bilaterally and
+non reactive, no response to sternal rub or noxious stimuli.
+Doll's eyes were negative.  A stat head CT was obtained which
+showed a large cerebellar bleed involving mid brain obscuring
+the pontine angle.  A stat neurology and neurosurgery consult
+was obtained.  Upon discussion with the neurology and
+neurosurgery, it was decided that since there was no sign of
+brain stem function there would be no benefits to urgent
+craniotomy and craniectomy, evacuation of hematoma and
+decompression.  Since there was no sign of brain stem or
+cerebellar function, this was thought to be consistent with
+clinical brain death.
+
+The patient's condition was discussed with the patient's wife
+and next of [**Doctor First Name **].  Upon discussion with the patient's family
+and medical team, it was decided to withdraw life support.
+Life support was withdrawn on [**2733-10-30**] after neurology's
+official certification of brain death.  The patient's family
+agreed to an autopsy.
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 1594**]
+
+Dictated By:[**Name8 (MD) 1209**]
+MEDQUIST36
+
+D:  [**2734-4-16**]  13:46
+T:  [**2734-4-16**]  14:01
+JOB#:  [**Job Number 9382**]
+
+
+
+DOC CLASS

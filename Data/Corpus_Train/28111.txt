@@ -1,0 +1,225 @@
+Admission Date:  [**3333-10-14**]              Discharge Date:   [**3333-10-17**]
+
+Date of Birth:  [**3286-7-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 352**]
+Chief Complaint:
+sob
+
+Major Surgical or Invasive Procedure:
+n/a
+
+
+History of Present Illness:
+HPI: Pt is a 47y/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1343**] w/ a PMH of PAF, HTN, morbid obesity and
+OSA who presents today with respiratory distress.  He was in his
+USOH until approximately 1wk ago when he noted that his asthma
+became worse.  He developed an exacerbation of his "chronic
+smokers cough" that was productive of white or brown sputum.  At
+this time, the patient also noted increased SOB and wheezing,
+especially with exercise. He denies any CP, abdominal pain, N/V,
+viral symptoms, fevers, or sick contacts over the past week.
+.
+On the day of admission, the patient presented to his PCP's
+office with the complaints above plus malaise for a week.  He
+was sent to an OSH ER where a CXR showed no pulmonary process
+but ABG showed hypercarbia and a resultant respiratory acidosis.
+ He was transported to [**Hospital1 22**] for further management of his
+respiratory complaints.
+.
+In the ED, the patient was treated with nebulizers, lasix, and
+solumedrol with symptomatic improvement in his complaints.
+However, he remained hypercarbic and eventually required a 50%
+FM to maintain his SpO2 > 90%.
+.
+Per the patient he was diagnosed with asthma after receiving
+PFTs at an OSH but rarely uses his inhalers.  His major trigger
+is cold temperatures and he has never been intubated for his
+asthma although he does note "lots" of hospitalizations in his
+lifetime related to breathing problems.
+
+
+Past Medical History:
+1. OSA s/p uvulectomy in 90s
+2. HTN
+3. PAF
+4. Morbid obesity
+5. Hypercholesterolemia
+6. Asthma
+
+
+Social History:
+Divorced w/ 2 children.  Currently a construction worker but
+worked in the military in the past.  60pk/yr smoker w/ current
+<1ppd habit.  Former heavy EtOH user (quart vodka/day) but
+states he quit 6yrs ago.  Occasional marijuana use and remote
+(>20yrs) cocaine use.  No IVDU.
+
+
+Family History:
+Father w/ CAD.  GM w/ DM.
+.
+
+
+Physical Exam:
+PE: 98.7, 140/72, 105, 20, 92% on 50%FM
+HEENT: EOMI, MM slightly dry, O/P clear, poor dentition
+Neck: No JVP appreciated but exam limited by habitus
+CV: Tachycardic and irregular, no M/R/G appreciated
+Lungs: Diffuse expiratory wheezes
+Abd: Obese, S/NT, +BS
+Ext: Chronic venous changes in the LE and pitting edema, skin
+tears in the posterior L calf and an erythematous 1cm x 1cm
+ulceration in the anterior R shin w/ mild surrounding warmth
+Neuro: awake and alert, responding appropriately to question and
+moving all extremities spontaneously
+
+
+Pertinent Results:
+140  95  12  / 100    AGap=13
+4.3  36  1.0 
+CK: 66  MB: Notdone
+proBNP: 1236
+Trop-*T*: <0.01
+.
+           100
+7.6  15.8 / 216
+    / 50.5 
+ N:58.6 L:30.1 M:6.4 E:2.8 Bas:2.1
+Hypochr: 3+ Anisocy: 1+ Macrocy: 3+
+PT: 17.8  PTT: 26.8  INR: 1.7
+.
+cxr [**10-13**]: No acute pulmonary process.
+.
+LENI: No deep venous thrombosis.
+.
+tte: Image quality is suboptimal. Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. Overall left ventricular systolic function cannot be
+reliably assessed. The right ventricular cavity is dilated.
+Right ventricular systolic function appears depressed. There is
+no pericardial effusion.
+
+
+Brief Hospital Course:
+A/P:  47y/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1343**] w/ morbid obesity, OSA, and PAF here w/
+respiratory failure.
+.
+1. Respiratory failure:  Pt w/ hypercarbic failure. His pH and
+bicarbonate correct as if this is a chronic obstructive disease.
+ w/ significant wheezes on exam and rapid response to BIPAP,
+likely due to combination of COPD and reactive airways disease.
+Improved dramatically on high-dose steroids and
+albuterol/atrovent.  Rec'd 7 day course of levaquin for possible
+PNA.  On discharge would desat to 86% on ambulation but patient
+did not want home O2 as he did not believe he could stop smoke.
+Started on spiriva, advair, and albuterol MDI.  F/u appt made w/
+Dr. [**Last Name (STitle) 846**] of Pulmonary.
+.
+2. OSA- patient w/ clear desaturations and apnea at night,
+despite remote surgical intervention.  Dramatic response to
+BIPAP.
+.
+3. PAF: on admisison in afib w/ rate in low 100s, but convered
+spontaneously in house.  continued on amiodarone for rhythm
+control and dilt for rate control. propranolol held due to
+severe pulmonary disease.  Restarted coumadin at lower dose (INR
+therapeutic on discharge) w/ plan to f/u at PCPs office on
+Monday.
+.
+3. HTN: continue diltiazem at higher dose.
+.
+4. PPx: maintained on heparin gtt then coumadin, PPI
+.
+6. Full Code
+
+Medications on Admission:
+1. Coumadin 5mg/7.5mg
+2. Digoxin 0.25mg
+3. Cardizem CD 120mg [**Hospital1 **]
+4. Amiodarone 200mg [**Hospital1 **]
+5. Ultram 50mg prn
+6. Indaral 200mg qd
+
+
+Discharge Medications:
+1. Diltiazem HCl 240 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+3. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR
+Transdermal DAILY (Daily) for 7 days.
+Disp:*7 Patch 24HR(s)* Refills:*0*
+4. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO HS (at
+bedtime).
+Disp:*15 Tablet(s)* Refills:*0*
+5. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 1 days.
+Disp:*1 Tablet(s)* Refills:*0*
+6. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation q6h:prn.
+Disp:*1 MDI* Refills:*2*
+7. Prednisone 10 mg Tablet Sig: see below Tablet PO once a day:
+On [**10-18**] take 4 tabs,
+on [**10-19**] take 3 tabs
+on [**10-20**] take 2 tabs
+on [**10-21**] take 1 tab.
+Disp:*10 Tablet(s)* Refills:*0*
+8. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+9. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital6 **] VNA
+
+Discharge Diagnosis:
+COPD exacerbation
+reactive airways disease
+OSA
+smoking
+
+
+Discharge Condition:
+Good, vital signs stable.  Tolerating bipap at night.
+
+
+Discharge Instructions:
+Please come back to the hospital if you have any shortness of
+breath, chest pain, fever or any other concerns. Please take all
+medications as prescribed.
+Please wear your BiPAP machine at night. You should also try to
+stop smoking and loose [**Last Name (un) 11788**] to prevent further
+You have been given a prescription for the nicotine patch.  You
+will need to discuss with your PCP further tapering of the patch
+over a long time period.
+
+
+Followup Instructions:
+Please follow up with your primary care doctor in the next week
+after discharge.  You will need to go to the office to get your
+INR checked on Monday.
+.
+You also have a pulmonology follow up appointment at 3pm on
+[**3333-10-29**] with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 846**], in the [**Location (un) **] of the [**Hospital Ward Name 211**]
+builiding, Medical specialties. Your PCP will need to send a
+referral to the pulmonology clinic in the name of Dr. [**Last Name (STitle) 846**].
+
+
+
+
+
+
+DOC CLASS

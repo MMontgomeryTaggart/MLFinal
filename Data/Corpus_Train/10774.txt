@@ -1,0 +1,292 @@
+Admission Date:  [**3286-11-18**]              Discharge Date:   [**3286-11-22**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / A.C.E Inhibitors / Protonix
+
+Attending:[**First Name3 (LF) 5803**]
+Chief Complaint:
+Respiratory distress, CHF exacerbation
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+[**Age over 90 **] yo M w CHF (EF 40%), CAD s/p CABG, CKD, DM2, CHB with
+pacemaker who presents from his [**Hospital3 71**] with increased
+shortness of breath. His torsemide dose had recently been
+increased from 10mg to 20mg daily over the weekend given weight
+gain, poor urinary output and rales on exam per visiting
+nursing. On [**11-17**] this dose was increased to 40mg daily,
+however, without substantial benefit and pt was referred to ED
+today for respiratory distress. According to his son, prior to
+this time he had been doing well on the torsemide, however still
+had very poor exercise tolerance and even the smallest task
+(such as weighing himself) causes him to become dyspnea.
+.
+He has had multiple recents admissions for hypoxia and
+respiratory distress secondary to CHF: [**Date range (1) 7298**], [**Date range (1) 7295**]
+(MICU stay), [**Date range (1) 7299**] (MICU stay/BiPAP). On discussions with
+the patient and his family the decision was made to change his
+code status to DNR/ but ok to intubate (for short time).
+.
+In ED, VS were T 97.1 HR 70 (paces ) 115/59, RR 32, O2 sat low
+80s on 100% NRB. He was acutely SOB with increased work of
+breathing and placed on BiPAP 10/5 (FiO2 100% - 40%). He had
+some symptomatic improvement with this. His CXR was consistent
+with pulmonary edema and given concern for possible underlying
+pneumonia, he was treated with CTX and azithromycin in addition
+to 100mg IV Lasix.
+.
+ROS: as above. Negative for fever, chills. +weight gain. +R hand
+weakness (unchanged). + LE edema. No abdominal pain, nausea,
+vomiting, diarrhea or constipation
+
+
+Past Medical History:
+Type II diabetes mellitus
+CAD s/p CABG in [**3257**]
+Single chamber PPM for CHB
+EF 40%, [**1-30**]+ MR/TR
+Moderate pulmonary HTN
+BPH s/p TURP
+CKD baseline Cr 2-2.2
+Gout
+Partial Hip replacement last year after fall
+Macular Degeneration on R eye
+B/L vision loss
+Hearing loss
+
+Social History:
+Used to work in a confectionary store in [**State 7289**]. Now lives
+in [**Hospital3 71**] facility with his wife. [**Name (NI) **] two sons, one in
+[**Name (NI) 211**], both involved in care. 30 pack year smoking history of
+cigars and pipes. Rarely drinks EtOH. Denies illicits.
+
+
+Family History:
+Mother with CAD in her 50s died from myocardial infarction.
+
+
+Physical Exam:
+Tmax: 36.4 ??????C (97.5 ??????F)
+Tcurrent: 35.8 ??????C (96.5 ??????F)
+HR: 70 (67 - 70) bpm
+BP: 108/59(73) {89/17(42) - 112/66(98)} mmHg
+RR: 18 (11 - 23) insp/min
+SpO2: 95%
+Heart rhythm: V Paced
+
+Gen: NAD, pleasant, conversive, alert
+HEENT: NC/AT, EOMI, L pupil surgical, R reactive, dry lips/MM
+Neck: supple, JVD to jaw, no carotid bruits, no LAD
+Heart: Pacemaker in place, distant RRR, nl S1/2, no S3/4, no
+murmurs or rubs
+Lungs: Slightly tachypneic with very little use of accessory
+muscles, crackles at bases b/l, no wheezes
+Abd: +BS, soft, tympanic throughout, NT/ND
+Ext: 1+ edema L leg, [**1-30**]+ R leg, 1+DP and PT pulses B/L
+Neuro: AAOx3, moves all 4 extremities, weakness of RUE compared
+to L
+Skin: no ulcers, rash or lesion, no decubitus ulcer
+Psych: mood/affect appropriate
+
+
+Pertinent Results:
+Labs on admission:
+[**3286-11-19**] 05:10AM BLOOD WBC-5.8 RBC-2.79* Hgb-8.4* Hct-24.8*
+MCV-89 MCH-30.2 MCHC-33.9 RDW-18.5* Plt Ct-102*
+[**3286-11-18**] 02:00PM BLOOD Neuts-80.6* Lymphs-10.0* Monos-7.1
+Eos-2.0 Baso-0.3
+[**3286-11-18**] 08:51PM BLOOD PT-18.3* PTT-39.9* INR(PT)-1.7*
+[**3286-11-19**] 05:10AM BLOOD Glucose-51* UreaN-100* Creat-3.3* Na-137
+K-4.0 Cl-101 HCO3-25 AnGap-15
+[**3286-11-18**] 08:48PM BLOOD CK(CPK)-99
+[**3286-11-18**] 08:48PM BLOOD CK-MB-4 cTropnT-0.01
+[**3286-11-18**] 02:00PM BLOOD cTropnT-0.03*
+[**3286-11-18**] 02:00PM BLOOD CK-MB-NotDone proBNP-3989*
+[**3286-11-18**] 02:32PM BLOOD Type-ART pO2-552* pCO2-36 pH-7.43
+calTCO2-25 Base XS-0
+.
+Labs on discharge:
+[**3286-11-22**] 07:40AM BLOOD WBC-5.7 RBC-2.90* Hgb-8.7* Hct-26.0*
+MCV-90 MCH-30.1 MCHC-33.6 RDW-18.4* Plt Ct-133*
+[**3286-11-22**] 07:40AM BLOOD Glucose-82 UreaN-111* Creat-4.2* Na-133
+K-4.4 Cl-96 HCO3-24 AnGap-17
+[**3286-11-22**] 07:40AM BLOOD Calcium-8.5 Phos-5.9* Mg-2.9* Iron-49
+.
+Microbiology:
+Urine Cx: [**11-18**] negative
+.
+Imaging:
+CXR: [**11-19**]
+FINDINGS: As compared to the previous radiograph, there is
+unchanged moderate pulmonary edema accompanied by bilateral
+pleural effusions. Also unchanged is the amount of interstitial
+fluid accumulation and the size of the cardiac silhouette. No
+evidence of newly appeared parenchymal opacities. Unchanged
+right-sided pacemaker.
+.
+Right upper extremity ultrasound [**3286-11-21**]:
+IMPRESSION: No evidence of DVT in the right upper extremity.
+
+
+
+Brief Hospital Course:
+Patient is a [**Age over 90 **] year old man with history of diastolic and
+systolic CHF, CAD status post CABG, CKD, DM2 who presents with
+respiratory distress likely secondary to CHF flare and pulmonary
+edema initiated on BiPAP in the ED.
+.
+Plan:
+# SOB/Dyspnea/Acute on chronic diastolic and systolic heart
+failure: The patient presented with acute respiratory distress,
+initially requiring bipap and ICU monitering.  He was initially
+placed on a lasix drip, which was then converted to torsemide
+30mg [**Hospital1 **], with stabilization of his respiratory status and
+transfer to the regular medical floor.  On the medical floor,
+his torsemide was weaned down to 20mg [**Hospital1 **], then to 20mg daily on
+discharge to help with his rising kidney function, particularly
+because his respiratory status remained stable.  He was also
+started on valsartan 40mg daily to assist with afterload
+reduction.  On discharge, he was breathing comfortabley on his
+baseline 2 liters oxygen via nasal cannula, and will follow up
+with Dr. [**Last Name (STitle) **] in clinic.
+.
+# Acute on chronic renal failure: The patient's creatinine has
+been rising over past 6-8 months, which is attributed to his
+poor forward flow from his congestive heart failure and
+recurrent diuretic use with exacerbations.  His new baseline on
+admission was 2.8-3.4, and patient had acute renal failure with
+rise in his creatnine to 4.2 at time of discharge.  Renal
+consult was obtained and his acute renal failure was attributed
+to his diuretic use and addition of valsartan, although no
+change in management was made as he required these medications
+for his congestive heart failure.  He was started on sevelamer
+TID with meals, and was discharged to start taking procrit
+10,000 units every other week and iron supplements for his
+kidney-disease related anemia.  It is unclear if he will
+tolerate the procrit with his congestive heart failure.
+Although his creatnine was still rising at time of discharge,
+per discussion with the patient's primary care physician and the
+nephrologists, we felt comfortable discharging him on a lower
+dose of torsemide, 20mg daily, to be increased to [**Hospital1 **] as needed
+for volume overload.  His electrolytes and creatnine will be
+monitered by home nursing on discharge, and he will follow up
+with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 3722**] (from nephrology) in clinic.
+.
+
+# CAD status post remote CABG: The patient was maintained on his
+outpatient aspirin, beta blocker.
+.
+# Anemia: The patient's recent baseline Hct has been approx 25.
+His anemia is attributed to his renal failure and he was
+discharged on iron supplements, and procrit if tolerated.
+.
+# BPH: Continued Flomax
+.
+# Diabetes mellitus type II: Held glipizide and treatd with
+humalog ISS, restarted glipizide on discharge.
+
+Medications on Admission:
+Aspirin  81 mg po daily
+Senna  8.6 mg po bid
+Tamsulosin  0.4 mg po qhs
+Glipizide  10 mg po daily
+Torsemide  10 mg po daily
+Carvedilol  6.25 mg po bid
+Albuterol INH prn
+Home oxygen at 2L/min continuous
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1)
+Capsule, Sust. Release 24 hr PO HS (at bedtime).
+3. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+4. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation Q6H (every 6 hours) as needed.
+5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. Torsemide 20 mg Tablet Sig: One (1) Tablet PO once a day: Can
+increase to 2 times per day if needed.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Valsartan 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet(s)* Refills:*2*
+10. Procrit 10,000 unit/mL Solution Sig: One (1) injection
+Injection every other week.
+Disp:*10 injections* Refills:*2*
+11. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+12. Glipizide 10 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 364**] Homecare
+
+Discharge Diagnosis:
+Acute on chronic systolic and diastolic congestive heart failure
+Acute on chronic renal failure
+
+
+Discharge Condition:
+Improved respiratory status, worsening renal function.
+
+
+Discharge Instructions:
+You were admitted to the hospital with exacerbation of your
+congestive heart failure.
+
+-Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+
+-Adhere to 2 gm sodium diet
+
+-Fluid Restriction: please restrict fluid intake to no more than
+1000 to 1500mL per day
+
+-Please take medications as directed.  Medication changes
+include:
+--> torsemide 20mg daily
+--> addition of ferrous sulfate 325mg daily
+--> addition of procrit injection 10,000 units every other week
+--> addition of sevelamer to be taken with meals
+--> addition of valsartan
+
+- Please follow up with appointments as directed
+
+- Please contact physician if develop shortness of breath, chest
+pain/pressure, any other questions or concerns
+
+
+Followup Instructions:
+Please follow up with renal doctors, Dr. [**Last Name (STitle) 3722**] ([**Telephone/Fax (1) 5805**]
+on Thursday [**12-9**] at 1:00pm, located on [**Location (un) 107**] of
+[**Hospital Ward Name 44**] building.
+
+Please follow up with following appointments:
+-Provider: [**Name10 (NameIs) 2220**] [**Last Name (NamePattern4) 2221**], MD Phone:[**Telephone/Fax (1) 2222**]
+Date/Time:[**3286-11-28**] 8:30
+-Provider:  [**Name10 (NameIs) 870**] CLINIC Phone:[**Telephone/Fax (1) 869**] Date/Time:[**3286-12-3**]
+10:00
+-Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7294**], MD Phone:[**Telephone/Fax (1) 494**]
+Date/Time:[**3286-12-3**] 10:30
+
+
+
+
+ 
+ 
+DOC CLASS

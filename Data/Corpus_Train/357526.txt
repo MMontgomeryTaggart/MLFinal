@@ -1,0 +1,191 @@
+SICU
+   HPI:
+   63F w/ acute onset abdominal pain and free air from a likely perforated
+   diverticulum.  On Coumadin and Plavix.  Steroids for graft vs host
+   disease.  Required multiple fluid boluses for hypotension.
+   Chief complaint:
+   perforated diverticulum
+   PMHx:
+   - CAD, STEMI in [**3089-5-30**] s/p PCI/stenting to RCA
+   - h/o AML, s/p chemotherapy, radiation and bone marrow transplantation
+   - Hypertension
+   - Hypercholesterolemia
+   - GERD
+   - Type two diabetes mellitus - diet controlled
+   - Diverticulosis, noted on colonoscopy 4 years ago
+   - Occasional bronchospasm treated with Primatene Mist
+   - History of SVC clot [**3088**] [**3-3**] PORT (s/p course of lovenox)
+   - History of C.Diff [**4-5**] & [**6-5**]
+   - History of VRE
+   - History of Shingles
+   - History of Asthma
+   - Endoscopic CABG x 1 [**3089-8-13**]
+   - RCA stent [**3089-6-24**]
+   Current medications:
+   Acyclovir. Acetaminophen. Albuterol Inhaler. Albuterol 0.083% Neb Soln.
+   Aspirin EC. Atorvastatin. Calcium Gluconate. Clopidogrel. HYDROmorphone
+   (Dilaudid). Insulin. Latanoprost 0.005% Ophth. Soln. Magnesium Sulfate.
+   Metoprolol Tartrate. Oseltamivir Phosphate. Pantoprazole.
+   Piperacillin-Tazobactam Na. PredniSONE.
+   24 Hour Events:
+   hypotension responded to IVF boluses
+   chest pressure in early am ecg unchanged from baseline
+   prednisone increased to 3mg daily (home dose)
+   Increased flushing in face
+   Nasopharyngeal secretions sent for influenza and other respiratory
+   viruses
+   Allergies:
+   Vancomycin
+   Redman Syndrome
+   Iodine; Iodine Containing
+   Hypotension; An
+   Meropenem
+   Rash;
+   Ceftriaxone
+   Rash;
+   Ciprofloxacin
+   Rash;
+   Flagyl (Oral) (Metronidazole)
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3090-2-4**] 04:05 AM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3090-2-3**] 11:47 AM
+   Metoprolol - [**3090-2-4**] 07:00 AM
+   Flowsheet Data as of  [**3090-2-4**] 09:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**93**] a.m.
+   Tmax: 37.6
+C (99.6
+   T current: 36.9
+C (98.4
+   HR: 92 (80 - 106) bpm
+   BP: 108/46(66) {79/41(53) - 141/62(86)} mmHg
+   RR: 16 (13 - 27) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  4,290 mL
+                                                                  1,032 mL
+   PO:
+                                                                     60 mL
+             Tube feeding:
+   IV Fluid:
+                                                                  4,230 mL
+                                                                  1,032 mL
+   Blood products:
+   Total out:
+                                                                  4,500 mL
+                                                                  1,160 mL
+   Urine:
+                                                                  4,500 mL
+                                                                  1,160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -210 mL
+                                                                   -128 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 97%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI, head flushed
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : scattered rhonchi), (Sternum: Stable ), no wheezing
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: Rash: flushed face
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   146 K/uL
+   10.6 g/dL
+   91 mg/dL
+   1.0 mg/dL
+   26 mEq/L
+   4.2 mEq/L
+   14 mg/dL
+   106 mEq/L
+   137 mEq/L
+   30.1 %
+   9.0 K/uL
+        [image002.jpg]
+                             [**3090-2-2**]  02:24 AM
+                             [**3090-2-2**]  02:18 PM
+                             [**3090-2-3**]  02:06 AM
+                             [**3090-2-4**]  02:54 AM
+   WBC
+   4.7
+   8.9
+   7.3
+   9.0
+   Hct
+   33.8
+   33.6
+   32.5
+   30.1
+   Plt
+   143
+   155
+   132
+   146
+   Creatinine
+   1.1
+   1.1
+   1.1
+   1.0
+   Glucose
+   112
+   86
+   82
+   91
+   Other labs: PT / PTT / INR:27.8/34.7/2.8, Differential-Neuts:86.1 %,
+   Lymph:11.3 %, Mono:1.7 %, Eos:0.7 %, LDH:208 IU/L, Ca:8.2 mg/dL, Mg:1.8
+   mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **]), CHEST PAIN, .H/O ABDOMINAL
+   PAIN (INCLUDING ABDOMINAL TENDERNESS), HYPOTENSION (NOT SHOCK), FEVER
+   (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   Assessment and Plan: Neuro: AAOx3, dilauded for pain
+   CV: off coumadin, on Plavix and ASA, statin, fluid bolus for
+   hypotension
+   Resp: nasal canula, nebs for wheezes
+   GI: NPO, serial abdominal exam
+   GU: adequate UOP
+   FEN: LR @ 100, may change to maint IVF
+   Heme: Hct stable
+   Endo: RISS
+   ID: zosyn started [**2-2**]
+   Wound: none
+   Prophylaxis: PPI, plavix, ASA
+   Other: on prednisone 3mg for GVHD
+   Dispo: transfer to [**Hospital Ward Name **] BMT floor
+   ICU Care
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3090-2-2**] 03:51 AM
+   Arterial Line - [**3090-2-2**] 03:52 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   :
+   Code status:  full code
+   Disposition:  transfer to BMT floor
+   Total time spent:  31 minutes
+
+
+
+DOC CLASS

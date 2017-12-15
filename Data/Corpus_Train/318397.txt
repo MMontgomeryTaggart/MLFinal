@@ -1,0 +1,178 @@
+Chief Complaint: fever
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   79M with h/o CVA, CHF, CAD, present with high fever:
+   24 Hour Events:
+ ULTRASOUND - At [**3117-7-13**] 01:00 PM
+   LENIS
+   *urology removed the forerign object
+   *had LENIs; no dvt
+   *no more fevers, no new complaints
+   *TTE ordered given MRSA in urine in the past and now GPC bacteremia,
+   not done yet
+   *this AM had sharp chest pain, new onset but
+   History obtained from Patient, Medical records
+   Allergies:
+   Tetanus
+   Diphther Toxoid Adult
+   Hives;
+   Aggrenox (Oral) (Aspirin/Dipyridamole)
+   Diarrhea;
+   Last dose of Antibiotics:
+   Vancomycin - [**3117-7-13**] 09:59 AM
+   Ceftriaxone - [**3117-7-14**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   simvastatin, gabapendtin, [**Last Name (LF) 3808**], [**First Name3 (LF) **], plavix, lopressor, sqh, riss
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever
+   Ear, Nose, Throat: No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: Chest pain, No(t) Palpitations, mild this am
+   Nutritional Support: No(t) NPO
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis
+   Genitourinary: No(t) Dysuria, Foley, No(t) Dialysis
+   Endocrine: No(t) Hyperglycemia
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**3117-7-14**] 01:02 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.1
+C (98.8
+   HR: 69 (61 - 73) bpm
+   BP: 162/54(83) {93/36(57) - 162/65(83)} mmHg
+   RR: 18 (1 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: AV Paced
+   CVP: 17 (12 - 18)mmHg
+   Total In:
+                                                                  1,564 mL
+                                                                    456 mL
+   PO:
+                                                                    360 mL
+   TF:
+   IVF:
+                                                                  1,564 mL
+                                                                     96 mL
+   Blood products:
+   Total out:
+                                                                  1,855 mL
+                                                                  1,420 mL
+   Urine:
+                                                                  1,855 mL
+                                                                  1,420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -291 mL
+                                                                   -964 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: Well nourished, No(t) No acute distress, Overweight
+   / Obese, No(t) Thin, No(t) Anxious, No(t) Diaphoretic
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: No(t) Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bibasilar, mild, Wheezes : mild at bases)
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Tender: , Obese
+   Extremities: Right: 3+, Left: 1+
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   8.3 g/dL
+   161 K/uL
+   125 mg/dL
+   1.9 mg/dL
+   24 mEq/L
+   4.5 mEq/L
+   54 mg/dL
+   106 mEq/L
+   138 mEq/L
+   24.0 %
+   10.4 K/uL
+        [image002.jpg]
+                             [**3117-7-12**]  10:02 AM
+                             [**3117-7-12**]  02:45 PM
+                             [**3117-7-13**]  04:20 AM
+                             [**3117-7-14**]  05:48 AM
+   WBC
+   14.0
+   10.4
+   Hct
+   24.8
+   24.0
+   Plt
+   165
+   161
+   Cr
+   2.4
+   2.3
+   1.9
+   Glucose
+   [**Telephone/Fax (3) 3809**]25
+   Other labs: PT / PTT / INR:12.5/28.3/1.1, Ca++:8.2 mg/dL, Mg++:2.2
+   mg/dL, PO4:3.1 mg/dL
+   Imaging: cxr: unchanged
+   Microbiology: gpc in bcx, no speciation yet
+   ECG: ([**5-22**] cp): old Q wave in III/F
+   Assessment and Plan
+   1. fever - resolved
+   2. leukocytosis - resolved
+   3. GPC bacteremia -
+   4. foreign object in bladder
+   5. chest pain this am
+   79M with cad, pvd, foreign body in the bladder, presents with high
+   fevers and leukocytosis, with GPC bacteremia. No other source of
+   infection. Patient improved with IV hydration and antibiotics (CTX and
+   vancomycin). Also acute renal failure is resolving. Chest pain today
+   reproducible on exam, unlikley cardiac, although very high risk of
+   recurrent ischemia:
+   -continue vancomycin and ctx for presumed uti and gcp bacteremia
+   -follow-up cultures, speciation
+   -follow enzymes to rule out for MI; will obtain another EKG if any new
+   sx; cxr unchanged
+   -call out to the floor today
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   Multi Lumen - [**3117-7-12**] 08:35 PM
+   16 Gauge - [**3117-7-12**] 08:36 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin(Systemic anticoagulation: None)
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 35 minutes
+
+
+
+DOC CLASS

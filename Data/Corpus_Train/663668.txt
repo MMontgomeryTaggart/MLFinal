@@ -1,0 +1,225 @@
+CVICU
+   HPI:
+   HD4   POD 2-Emerg CABG x4
+   Ejection Fraction:20-25% [**Doctor Last Name **]
+   Hemoglobin A1c:
+   Pre-Op Weight:136.68 lbs   62 kgs
+   Baseline Creatinine:1.6
+   TLD:LT rad aline:Day1   RIJ PA/RT rad aline:Day2
+   83F w/UAP on max tx. Cath [**11-7**] d/t ECG changes/enzyme bump.LVEDP 40,
+   in pulm edema. IABP and emerg CABG.Review chart after OR-NO OMR NOTE)
+   chronic stable exertional angina,crescendo over week, SOB
+   yesterday->ED.
+   PMH:dermatomyositis,NIDDM,??CVA v. TIA.Hysterx,spinal sx.
+   Prednisone 5mg/D, Atrovastatin 80mg/D.
+   New meds: Lopressor 25mgBID,Plavix 75mg [**11-6**],Acetylcysteine,
+   Senna,ISMN 60mg/D,ASA 325mg/d
+   Plavix - last dose:[**11-6**]
+   Micro/Imaging:
+   [**2646-11-8**] cxr improved
+   [**2646-11-7**] CXR Pulm edema
+   Events:
+   [**2646-11-7**] cath,IABP/ emerg.cabg
+   Current medications:
+   Acetaminophen 4. Aspirin EC 5. Aspirin 6. Atorvastatin 7. Calcium
+   Gluconate 8. Chlorhexidine Gluconate 0.12% Oral Rinse 9. Dextrose 50%
+   10. Docusate Sodium 11. Docusate Sodium (Liquid) 12. Furosemide 13.
+   HYDROmorphone (Dilaudid) 14. Hespan 15. Heparin (IABP) 16.
+   Hydrocortisone Na Succ. 17. Insulin 18. Leflunomide 19. Magnesium
+   Sulfate 20. Metoclopramide 21. Milk of Magnesia 22. Nitroglycerin 23.
+   Pneumococcal Vac Polyvalent 24. Potassium Chloride 25. Propofol 26.
+   Ranitidine 27. Ranitidine 28. Sodium Chloride 0.9% Flush 29. Vancomycin
+   24 Hour Events:
+ EKG - At [**2646-11-8**] 08:33 AM
+ ARTERIAL LINE - STOP [**2646-11-8**] 12:17 PM
+ ARTERIAL LINE - START [**2646-11-8**] 12:30 PM
+ IABP LINE - STOP [**2646-11-9**] 06:45 AM
+ SHEATH - STOP [**2646-11-9**] 06:45 AM
+   Allergies:
+   Methotrexate
+   Unknown;
+   Codeine
+   nausea;
+   Last dose of Antibiotics:
+   Vancomycin - [**2646-11-9**] 08:00 AM
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Insulin - Regular - 2 units/hour
+   Other ICU medications:
+   Amiodarone - [**2646-11-8**] 12:15 PM
+   Furosemide (Lasix) - [**2646-11-8**] 04:00 PM
+   Hydromorphone (Dilaudid) - [**2646-11-9**] 02:38 AM
+   Insulin - Regular - [**2646-11-9**] 09:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2646-11-9**] 09:27 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**49**] a.m.
+   HR: 80 (16 - 89) bpm
+   BP: 118/56(77) {70/10(0) - 185/63(85)} mmHg
+   RR: 10 (10 - 15) insp/min
+   SPO2: 100%
+   Heart rhythm: A Paced
+   Wgt (current): 72 kg (admission): 62 kg
+   Height: 63 Inch
+   CVP: 16 (9 - 18) mmHg
+   PAP: (41 mmHg) / (26 mmHg)
+   CO/CI (Fick): (5.3 L/min) / (3.2 L/min/m2)
+   CO/CI (CCO): (2.9 L/min) / (1.8 L/min/m2)
+   SvO2: 71%
+   Mixed Venous O2% sat: 76 - 76
+   Total In:
+                                                                  2,761 mL
+                                                                    495 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,951 mL
+                                                                    435 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                  2,715 mL
+                                                                  1,330 mL
+   Urine:
+                                                                  1,865 mL
+                                                                  1,060 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     46 mL
+                                                                   -835 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 10
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: No Spon Resp
+   PIP: 21 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 45.8 cmH2O/mL
+   SPO2: 100%
+   ABG: 7.41/37/135/24/0
+   Ve: 5.4 L/min
+   PaO2 / FiO2: 270
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Moves all extremities, Sedated
+   Labs / Radiology
+   76 K/uL
+   9.9 g/dL
+   71 mg/dL
+   1.4 mg/dL
+   24 mEq/L
+   4.4 mEq/L
+   29 mg/dL
+   110 mEq/L
+   138 mEq/L
+   28.5 %
+   10.8 K/uL
+        [image002.jpg]
+                            [**2646-11-7**]  06:24 PM
+                            [**2646-11-7**]  09:03 PM
+                             [**2646-11-8**]  12:00 AM
+                             [**2646-11-8**]  03:15 AM
+                             [**2646-11-8**]  03:30 AM
+                             [**2646-11-8**]  12:59 PM
+                             [**2646-11-8**]  04:01 PM
+                             [**2646-11-8**]  04:14 PM
+                             [**2646-11-9**]  02:30 AM
+                             [**2646-11-9**]  02:37 AM
+   WBC
+   11.6
+   9.4
+   10.8
+   Hct
+   34.3
+   30.2
+   25.5
+   28.5
+   Plt
+   128
+   72
+   76
+   Creatinine
+   1.2
+   1.4
+   TCO2
+   18
+   21
+   21
+   18
+   23
+   24
+   Glucose
+   131
+   190
+   94
+   71
+   Other labs: PT / PTT / INR:14.0/32.7/1.2, Fibrinogen:227 mg/dL, Lactic
+   Acid:1.1 mmol/L, Ca:7.8 mg/dL, Mg:2.7 mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: Emerg CABG x4/IABP
+   Neurologic: Pain controlled, PPF gtt for sedation.
+   Cardiovascular: Aspirin, Statins, Successfully weaned off Pressors /
+   Intropes.   IABP d/c'd this AM. Afib over the weekend, but now SR when
+   not A-pacing.
+   Pulmonary: Cont ETT, (Ventilator mode: CMV)
+   Gastrointestinal / Abdomen: Follow LFT's.
+   Nutrition: NPO
+   Renal: Foley, Adequate UO
+   Hematology: Mod anemia --> appropriate increase in Hct after 1 unit
+   PRBC.   Thrombocytopenia
+ most likely secondary to IABP
+ cont to
+   follow.
+   Endocrine: Insulin drip
+ start Lantus to wean gtt.
+   Infectious Disease:  No issues.
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Acute MI / Ischemia, (Respiratory distress:
+   Failure), Post-op hypotension, Post-op shock
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   CCO PAC - [**2646-11-7**] 04:43 PM
+   Cordis/Introducer - [**2646-11-7**] 04:43 PM
+   18 Gauge - [**2646-11-7**] 04:49 PM
+   20 Gauge - [**2646-11-7**] 04:49 PM
+   Arterial Line - [**2646-11-8**] 12:30 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

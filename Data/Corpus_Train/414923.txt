@@ -1,0 +1,288 @@
+TITLE:
+   Chief Complaint: STEMI
+   24 Hour Events:
+   Weaned dopamine throughout the day, now completely off, given 1.5L
+   bolus to maintain pressure.  MAP's in the 60's throughout the
+   afternoon.  Dropped to 50's at about 11pm - given 1L bolus plus put on
+   maintenance fluids.
+   Temp to 101.1 yesterday with lots of brownish secretions, given tylenol
+   per rectum.
+   - Outpt cardiologist felt that patient likely aspirated (he witnessed
+   the code).
+   - Pulled right fem line yesterday
+   -RT felt that should not attempt extubation [**3-14**] increased secretions
+   yesterday - will attempt to extubate today
+   - Neuro will continue to watch, feel that EEG and clinical exam
+   promising.  No need for imaging at this time.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3335-8-29**] 02:20 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Could not assess
+   Flowsheet Data as of  [**3335-8-30**] 06:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.1
+   Tcurrent: 37.2
+C (99
+   HR: 64 (61 - 90) bpm
+   BP: 111/62(74) {84/39(41) - 113/68(76)} mmHg
+   RR: 19 (10 - 28) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+    CVP: 12 (7 - 14)mmHg
+   PAP: (40 mmHg) / (18 mmHg)
+   CO/CI (Fick): (10.2 L/min) / (4.8 L/min/m2)
+   Mixed Venous O2% Sat: 78 - 78
+   Total In:
+                                                                  3,340 mL
+                                                                    789 mL
+   PO:
+   TF:
+   IVF:
+                                                                  3,340 mL
+                                                                    789 mL
+   Blood products:
+   Total out:
+                                                                    935 mL
+                                                                    420 mL
+   Urine:
+                                                                    935 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,405 mL
+                                                                    369 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 400 (400 - 640) mL
+   PS : 5 cmH2O
+   RR (Set): 15
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 40
+   PIP: 11 cmH2O
+   Plateau: 18 cmH2O
+   SpO2: 97%
+   ABG: 7.38/48/80.[**Numeric Identifier 18**]/24/1
+   Ve: 9.6 L/min
+   PaO2 / FiO2: 229
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese; intubated; asleep and agitated when awoken, and quickly falls
+   asleep again
+   Eyes / Conjunctiva: Pupils minimally reactive.
+   Head, Ears, Nose, Throat: Endotracheal tube, NG tube
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Distant)
+   Peripheral Vascular: (Right radial pulse: 2+), (Left radial pulse: 2+),
+   (Right DP pulse: 2+), (Left DP pulse: 2+)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear,
+   Rhonchi in anterior fields;  No wheezes/crackles appreciated in
+   anterior lung fields )
+   Abdominal: Soft, Non-tender, High Pitched Bowel sounds present, No(t)
+   Distended, Obese;
+   Extremities: Right: trace; Left: trace edema
+   Skin:  Not assessed
+   Neurologic: GCS 14T, With decreased sedation this morning, patient
+   opens eyes to name and actively moving all extremities, intermittently
+   follows simple commands
+   Labs / Radiology
+   149 K/uL
+   9.1 g/dL
+   124 mg/dL
+   1.0 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   29 mg/dL
+   113 mEq/L
+   143 mEq/L
+   27.0 %
+   10.2 K/uL
+         [image002.jpg]
+                             [**3335-8-28**]  02:07 PM
+                             [**3335-8-28**]  05:59 PM
+                             [**3335-8-28**]  10:00 PM
+                             [**3335-8-28**]  10:45 PM
+                             [**3335-8-29**]  01:47 AM
+                             [**3335-8-29**]  03:41 AM
+                             [**3335-8-29**]  11:31 AM
+                             [**3335-8-29**]  02:45 PM
+                             [**3335-8-29**]  03:05 PM
+                             [**3335-8-30**]  03:45 AM
+   WBC
+   14.5
+   14.7
+   12.4
+   11.0
+   10.8
+   9.6
+   10.2
+   Hct
+   34.4
+   33.3
+   33.3
+   33.8
+   31.0
+   28.5
+   31
+   27.0
+   Plt
+   [**Telephone/Fax (3) 7714**]85
+   162
+   162
+   149
+   Cr
+   0.8
+   0.7
+   0.8
+   0.8
+   0.8
+   1.0
+   1.0
+   TropT
+   4.29
+   3.67
+   3.23
+   2.36
+   TCO2
+   29
+   29
+   Glucose
+   130
+   135
+   112
+   102
+   117
+   122
+   124
+   Other labs: PT / PTT / INR:13.9/37.5/1.2, CK / CKMB /
+   Troponin-T:2123/12/2.36, ALT / AST:110/112, Alk Phos / T Bili:55/0.6,
+   Differential-Neuts:88.4 %, Lymph:5.4 %, Mono:6.0 %, Eos:0.2 %, Lactic
+   Acid:1.6 mmol/L, Albumin:2.8 g/dL, LDH:781 IU/L, Ca++:7.7 mg/dL,
+   Mg++:2.4 mg/dL, PO4:2.3 mg/dL
+Sputum Culture Prelim: GRAM STAIN (Final [**3335-8-29**]):
+      <10 PMNs and <10 epithelial cells/100X field.
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                    IN PAIRS AND CLUSTERS.
+      2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED.
+UA: Moderate blood; trace protein; 26 RBC, 14 WBC, Few bacteria
+Echo: Normal biventricular cavity sizes with preserved global biventricular syst
+olic function. No definite valvular pathology or pathologic flow identified. Dil
+ated aortic root. LVEF: >55%, EstCI: >2.5L/min/m2, trivial MR/TR
+UCx, BCx pending
+CXR: Pending
+   Assessment and Plan
+   The patient is a 61 yo man with h/o CAD s/p DES to the LAD and D1, and
+   hyperlipidemia, who presented from [**Hospital3 504**] with STEMI.  He is
+   now s/p vfib arrest and was coded for approximately 54 minutes.  He is
+   now also s/p BMS to the RCA.
+   .
+   # ?Pneumonia/Fever: With increasing secretions, fever, prelim sputum
+   culture showing some growth, and increasing infiltrate on CXR; concern
+   for pneumonia; 1.  Aspiration: Prolonged resuscitation in OSH; 2.  VAP
+   as patient has been ventilated for 3 days.  Lower on differential, but
+   cannot rule out 3. UTI as UA is not pristine. 4. Also line sepsis is on
+   the list
+as patient has had femoral lines placed during cath.
+   Encouraging is that patient does have normal white count without bands.
+   -          Consider starting empiric Tx for PNA today -> Zosyn/Vanc
+   -          Continue to follow with daily CXRs
+   -          UCx, Blood Cx
+s, and Femoral Tip Cx pending; will follow up
+   # STEMI: He was found to have STe in II, III, AVF, and after one hour
+   of resuscitiation, subsequent cardiac catheterization demonstrated a
+   fresh thrombus in the mid-RCA.  Heparin and integrilin gtts were held
+   secondary to nose bleed. He was started on cooling protocol.  Cardiac
+   enzymes continue to trend down this morning. Patient status improving,
+   now off pressors and fluid boluses prn for pressure control.
+    - Attempt to wean Fentanyl/Versed for sedation
+   -  Dopamine stopped, and monitor for MAPs <60
+   -  Continue to hold heparin and integrilin, given significant bleeding
+   from nose, started on SC heparin for DVT proph
+   - Continue ASA 325 mg daily, Plavix 75 mg daily
+    - Continue Lipitor to 80 mg daily
+    - Attempt to start low dose Beta Blocker as BP tolerates
+   - If pt develops pulmonary edema, consider acute MR, contact cards
+   fellow.
+   .
+   #. Respiratory Distress:  ABG on PS 7.38/48/80 with FIO2 of 35;
+   patient
+s respiratory status improving. Continuing vent support
+   secondary to unable to manage secretions yesterday. Moderate amount of
+   tan/thick secretions.
+     -  Continue with daily RSBI tests & SBT's as tolerated to wean off of
+   PS
+    -  Aim for pO2 in the low 100s (decrease free radicals) and CO2
+   between 35 and 40.
+    -  Continue VAP precautions with raising the HOB to 30%
+   #Neuro Status: Patient with EEG overnight. Patient responds to name and
+   actively moving all extremities. Neuro feels this is promising.
+   -          FU Neuro recommendations
+   -          FU EEG recommendations
+   -          Wean sedation as tolerated
+   # RHYTHM:  The patient presented in VFib arrest and then had a
+   junctional rhythm.  He is currently in sinus rhythm.
+    - Continue to monitor on telemetry.
+    - Continue to replete K > 4.0 and Mg > 2.0
+   # Acute Systolic Congestive Heart Failure:  He does not have a known
+   history of CHF, per our records, and these elevated filling pressures
+   seen in the cath lab are most likely [**3-14**] his acute RV infarct.
+   Currently stable disease as patient does not appear fluid overloaded.
+    - TTE with LVEF > 55% without wall motion abnormalities is encouraging
+   for minimal disease
+    - Hold on diuresis for now, as patient is pre-load dependent.
+    - Will continue to follow for signs of fluid overload, and diuresis as
+   needed
+   .
+   # Nose bleed:  Stable. Without rebleed in the last 48 hours. HCT stable
+    - Continue Afrin NS as needed.
+    - Consider ENT C/S if bleeding starts again.
+   .
+    #Shock Liver: LFTs continue to trend down. Normal INR.
+   - Continue to monitor daily LFTs
+   .
+   # Diabetes: Will discuss with pcp/cardiologist today
+   - Continue sliding scale today and continue to monitor FSBS
+   .
+   #Lactic Acidosis: Lactate 10 in cath to 1.6 [**8-28**]. Resolved.
+   ICU Care
+   Nutrition: NPO for now, consider starting tube feeds today if patient
+   can tolerate
+   Comments: Glycemic Control: Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3335-8-27**] 06:30 PM
+   18 Gauge - [**3335-8-27**] 06:30 PM
+   Prophylaxis:
+   DVT: Boots, SC heparin
+   Stress ulcer: H2 Blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication:  Comments: [**Name (NI) 399**] (Sister in [**Name2 (NI) **]) Primary Contact
+   [**Telephone/Fax (1) 7692**]. [**Name (NI) 183**] [**Name (NI) 7665**] (Sister) [**0-0-**].
+   Code status: Full code
+   Disposition: ICU (needs ICU consent form)
+
+
+
+DOC CLASS

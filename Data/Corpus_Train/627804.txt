@@ -1,0 +1,209 @@
+Chief Complaint:
+   24 Hour Events:
+   - nipride titrated up with improved Ficks (2.7/1.6/2147 -> 5/2.9/1116)
+   - responded well to lasix from cath lab (-1.8L @ 11pm), CVP 26->15
+   - did not re-bolus lasix given good CVP improvement and cre bump
+   - holding statin given LFTs
+   - per [**Doctor First Name 86**], plan for CABG +/- valve repair in 4-5d
+   - TEE today
+   - Carotid study, chest CT today/tomorrow
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,150 units/hour
+   Nitroprusside - 0.7 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium - [**2764-6-24**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2764-6-25**] 07:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 37.3
+C (99.1
+   HR: 98 (88 - 110) bpm
+   BP: 115/60(89) {106/56(80) - 142/76(111)} mmHg
+   RR: 22 (18 - 29) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+    CVP: 15 (12 - 23)mmHg
+   PAP: (52 mmHg) / (26 mmHg)
+   CO/CI (Fick): (6.9 L/min) / (4 L/min/m2)
+   Mixed Venous O2% Sat: 47 - 74
+   Total In:
+                                                                    657 mL
+                                                                    361 mL
+   PO:
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    537 mL
+                                                                    361 mL
+   Blood products:
+   Total out:
+                                                                  2,425 mL
+                                                                    650 mL
+   Urine:
+                                                                  2,425 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,768 mL
+                                                                   -289 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: 7.47/32/77/25/0
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal), Systolic murmur not
+   auscultated
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Breath Sounds: Crackles : anteriorly on R side)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to): ,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   218 K/uL
+   11.0 g/dL
+   119 mg/dL
+   1.1 mg/dL
+   25 mEq/L
+   4.3 mEq/L
+   26 mg/dL
+   101 mEq/L
+   136 mEq/L
+   33.5 %
+   10.9 K/uL
+        [image002.jpg]
+                             [**2764-6-24**]  02:49 PM
+                             [**2764-6-24**]  03:00 PM
+                             [**2764-6-24**]  08:01 PM
+                             [**2764-6-25**]  03:59 AM
+   WBC
+   11.6
+   10.9
+   Hct
+   36.2
+   33.5
+   Plt
+   256
+   218
+   Cr
+   1.2
+   1.1
+   TropT
+   4.12
+   3.86
+   TCO2
+   24
+   Glucose
+   117
+   117
+   119
+   Other labs: PT / PTT / INR:15.8/67.7/1.4, CK / CKMB /
+   Troponin-T:659/38/3.86, ALT / AST:263/148, Alk Phos / T Bili:140/0.5,
+   Amylase / Lipase:42/, Lactic Acid:1.3 mmol/L, Albumin:3.4 g/dL, LDH:702
+   IU/L, Ca++:7.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   This is a 65yo Italian-speaking male with HTN who presents several days
+   out from likely STEMI now s/p cath showing 3VD with chronic RCA
+   occlusion and TTE showing LV dysfunction, 4+MR, 3+TR and significant
+   AS, s/p IABP placement and planning for probable CABG +/- AVR/MVR/TVR.
+   CORONARIES: Severe LM/3VD s/p probable inferior STEMI, planning for
+   likely CABG. IABP placed for increased coronary perfusion and afterload
+   reduction; will likely leave IABP for several days to facilitate
+   recovery of the myocardium.
+   -ASA 325, heparin gtt, start atorvastatin once LFTs improved.
+   -check methemoglobin after 2 days of nipride
+   -no plavix given likely surgery
+   -start low dose BB and observe response
+   -per surgery, will obtain CT chest w/o contrast to eval aortic ca+,
+   carotid U/S, and U/A/Ucx
+   -f/u with CT [**Doctor First Name 86**] re plan for CABG
+   PUMP: 4+MR, 3+TR, mild/mod AS. He is tachycardic with SBPs in 100s but
+   with low cardiac index. Cardiac index could be increased by either
+   inotropy or afterload reduction. Given his very high SVR and severe MR,
+   afterload reduction with IABP and nipride drip will likely be more
+   effective, but will consider direct inotropy with dobutamine if cardiac
+   index does not respond. He is also in heart failure with elevated
+   filling pressures and will likely benefit from preload reduction with
+   diuresis.
+   -nipride drip, gently titrating to increase CI while keeping map>60,
+   UOP and mentation.
+   -gentle diuresis with lasix, monitoring CVP
+   -follow I/Os, UOP and mentation
+   -TEE today
+   -f/u with CT [**Doctor First Name 86**] re likely MVR/AVR
+   -follow hemodynamics with Swan
+   RHYTHM: Sinus tachycardia
+   -very low dose BB
+   -monitor on tele
+   Anemia: Hct drop 36 -> 32, likely related to hemolysis in setting of
+   IABP. Continue to trend, and follow platelet count.
+   - send hemolysis labs
+   Transaminitis: Likely resolving shock liver in setting of cardiogenic
+   shock given LFTs trending down this AM.
+   -follow LFTs
+   Renal failure: Acute vs Chronic. Last known cre from [**2761**] was 0.9.
+   therefore, likely chronic. Cre stable from yesterday.
+   - Continue to follow cre.
+   HTN: SBPs in 100s since arrival to floor.
+   -holding home antihypertensives
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   IABP line - [**2764-6-24**] 04:41 PM
+   PA Catheter - [**2764-6-24**] 04:44 PM
+   20 Gauge - [**2764-6-24**] 04:46 PM
+   Prophylaxis:
+   DVT: Heparin
+   Stress ulcer: H2 Blocker
+   VAP:  N/A
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: Here with IABP pending surgery, likely Saturday or Monday.
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 7154**].
+   I would add the following remarks:
+   History
+   Improved hemodynamics and good diuresis with Nipride, IABP and lasix.
+   PA 55/26 adn C.I. 4.0 with SVR 850.
+   CK peak 850
+   Prelim TEE report shows severe MR, possibly amenable to repair and
+   moderate AS.
+   Physical Examination
+   +JVD.
+   No distress.
+   Distal pulses OK with IABP.
+   Medical Decision Making
+   Discuss timing of cardiac surgery.
+   Continue diuresis with Nipride and lasix.
+   Total time spent on patient care: 30 minutes of critical care time.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 169**] [**Last Name (NamePattern1) 4754**], MD
+   on:[**2764-6-25**] 16:15 ------
+
+
+
+DOC CLASS

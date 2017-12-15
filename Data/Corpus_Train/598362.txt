@@ -1,0 +1,226 @@
+Chief Complaint:
+   24 Hour Events:
+ SPUTUM CULTURE - At [**2865-4-11**] 12:00 PM
+   [**2865-4-11**]:
+   - Family meeting on Monday? consult palliative care prior?
+   - Replaced 40mEq K x1 for 3.0, then 80mEq for repeat 3.1
+   - Hct stable
+   - Started TPN as BG marginally low.
+   - Started lantus 4mg QHS
+   - Sent sputum cultures as thick secretions from ET tube
+   Allergies:
+   Lorazepam
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2865-4-11**] 02:00 AM
+   Vancomycin - [**2865-4-11**] 04:46 AM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**2865-4-11**] 03:20 PM
+   Pantoprazole (Protonix) - [**2865-4-11**] 06:00 PM
+   Dilantin - [**2865-4-12**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2865-4-12**] 06:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.7
+C (98
+   HR: 88 (82 - 92) bpm
+   BP: 160/64(88) {96/33(51) - 160/73(89)} mmHg
+   RR: 15 (14 - 17) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 73.6 kg (admission): 73.6 kg
+   Height: 64 Inch
+    CVP: 13 (11 - 35)mmHg
+   Total In:
+                                                                  1,231 mL
+                                                                    309 mL
+   PO:
+   TF:
+   IVF:
+                                                                    960 mL
+                                                                     60 mL
+   Blood products:
+   Total out:
+                                                                  1,250 mL
+                                                                    225 mL
+   Urine:
+                                                                  1,050 mL
+                                                                    225 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -19 mL
+                                                                     84 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 460 (460 - 460) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 123
+   PIP: 27 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 25.6 cmH2O/mL
+   SpO2: 98%
+   ABG: ///29/
+   Ve: 6.7 L/min
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: Pupils non-reactive, staccotic eye movements
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal), [**2-20**]
+   systolic murmur at the apex (new from yesterday)
+   Peripheral Vascular: cool upper extremities with punctuate lesions on
+   fingertips. Aline without evidence of hematoma
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Bowel sounds present
+   Extremities: No edema
+   Skin:  Cool, No(t) Rash: , No(t) Jaundice
+   Neurologic: Unresponsive off sedation. Upgoing toes bilaterally. No
+   posturing. No response to deep nail-bed pressure
+   Labs / Radiology
+   151 K/uL
+   10.3 g/dL
+   321 mg/dL
+   0.7 mg/dL
+   29 mEq/L
+   4.3 mEq/L
+   29 mg/dL
+   117 mEq/L
+   150 mEq/L
+   31.1 %
+   12.0 K/uL
+        [image002.jpg]
+                             [**2865-4-10**]  01:19 AM
+                             [**2865-4-10**]  05:30 AM
+                             [**2865-4-10**]  06:13 AM
+                             [**2865-4-10**]  12:24 PM
+                             [**2865-4-10**]  12:30 PM
+                             [**2865-4-10**]  06:23 PM
+                             [**2865-4-11**]  12:32 AM
+                             [**2865-4-11**]  04:56 AM
+                             [**2865-4-11**]  02:49 PM
+                             [**2865-4-12**]  04:20 AM
+   WBC
+   13.8
+   15.0
+   12.0
+   Hct
+   31.5
+   30.3
+   29.3
+   30.0
+   29.2
+   29.4
+   31.1
+   Plt
+   161
+   146
+   151
+   Cr
+   1.1
+   0.8
+   0.7
+   TropT
+   0.07
+   TCO2
+   27
+   31
+   29
+   Glucose
+   [**Telephone/Fax (3) 5488**]
+   Other labs: PT / PTT / INR:13.7/31.3/1.2, CK / CKMB /
+   Troponin-T:32/7/0.07, Lactic Acid:1.8 mmol/L, Albumin:2.7 g/dL,
+   Ca++:8.7 mg/dL, Mg++:2.2 mg/dL, PO4:2.0 mg/dL
+   Assessment and Plan
+   A/P:  81F with PMH of DM, HOCM, CHF, Afib and recent intraventricular
+   hemorrhage found unresponsive at nursing home went into PEA for which
+   received atropine and muptiple dose of epi now intubated and
+   unresponsive.
+   # Cardiac arrest (PEA or ?bradycardic): Unclear etiology for arrest:
+   most likely hypoglycemia, hypoxia less likely. Echo with no evidence of
+   pericardial effusion or rv strain.
+   - no heparin or ASA given GI bleed
+   # Altered mental status/unresponsiveness
+ most likely hypoxic brain
+   injury in setting of PEA arrest from hypoglycemia and GI bleed
+   - OSH cultures show GPC in 4/4bottles, elevated lactate, fever, raise
+   concern for sepsis: discontinue zosyn, and continue vanc
+   - F/u cultures here
+   - EEG suggests encephalopathy rather than seizure activity: continue
+   phenytoin per level.
+   - Follow up Neuro recs
+   - prognosis is poor per neuro
+   - Palliative care consult
+   - Pt is posturing today, concern for progression, consider head CT
+   today will confirm with Neuro first
+   # Respiratory failure: Intubated for airway protection in the setting
+   of unresponsiveness.
+   - cont mechanical ventilation
+   - wean settings as able
+   # UGIB: HCT stable. EGD + for clot that could not be removed. Cont
+   supportive care per GI.
+   - Follow GI recs
+   - EGD done, clot in esophagus/stomach
+   - Goals Hct 30, INR<1.5, Plt >50
+   # s/p porcine MVR : INR is currently subtherapeutic s/p FFP and vitamin
+   K at OSH for acute UGIB.  With new murmur today
+   - Will likely need to start anticoagulation today regardless of UGIB,
+   will discuss with GI
+   - ECHO Today
+   # Hypernatremia:  Will give 1l of
+ NS at 100cc/hr and repeat lytes
+   later today
+   # Ppx: pneumoboots, holding sub q heparin, protonix
+   # FEN:
+   - replete lytes prn
+   # Access:  peripherals, pull A-line/groin line, will need central line
+   # Code:  Full
+   # Disp: ICU for now
+   # Contact:  Daughter, [**Name (NI) 5422**] [**Name (NI) 5423**], HCP, [**Telephone/Fax (1) 5425**] or her
+   husband [**Name (NI) **], [**Telephone/Fax (1) 5426**]
+   ICU Care
+   Nutrition:
+   TPN without Lipids - [**2865-4-11**] 05:30 PM 41.[**Telephone/Fax (5) 5010**] mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2865-4-10**] 05:47 PM
+   Prophylaxis:
+   DVT:  pneumoboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  CCU
+   ------ Protected Section ------
+   Chart reviewed.  Patient examined.  Patient not interviewed due to
+   intubated status.  I agree with Dr. [**Last Name (STitle) 3089**]
+s H+P, A+P.  Louder murmur
+   in left apical location
+ most consistent with MR but given recent
+   valve surgery we will pursue echocardiogram today.  Rest of plan as
+   outlined above.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 2318**], MD
+   on:[**2865-4-12**] 10:54 ------
+   60 minutes spent on patient critical care.  ICU level care due to
+   intubated status and altered mental status.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 2318**], MD
+   on:[**2865-4-12**] 10:55 ------
+
+
+
+DOC CLASS

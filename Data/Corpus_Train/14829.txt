@@ -1,0 +1,126 @@
+Admission Date:  [**3014-6-15**]       Discharge Date:  [**3014-8-5**]
+
+Date of Birth:                    Sex:
+
+Service:  NEUROSURGE
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is an
+83-year-old woman, who presented to [**Hospital3 2112**] Hospital
+on [**3014-6-14**] for an evaluation of subarachnoid hemorrhage.
+The patient was in her usual state of health until the night
+before admission when she had the occipital headache.  She
+thought nothing of this and went to bed.  The following
+morning, the patient was eating breakfast and had a
+recurrence of a headache with some speech difficulty that was
+reported by her husband with decreased speech output.  She
+had no focal weakness, numbness, or sensory changes.  She was
+taken to [**Hospital3 2112**] Hospital, where head CT showed
+subarachnoid hemorrhage with pooling of blood in the left
+lateral ventricle.  The patient had been on Plavix and
+Celebrex for history of hypertension and old stroke.  She was
+sent to [**Hospital1 58**] for further
+management.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Cerebrovascular accident.
+3.  Thyroid disease.
+
+MEDICATIONS ON ADMISSION:
+1.  Fosamax 70 mg q. Sunday.
+2.  Plavix 75 mg q.d.
+3.  Celebrex 200 mg q.d.
+4.  M.V.I. one PO q.d.
+5.  Univasc 15 mg q.d.
+6.  Synthroid 88 mcg PO q.d.
+7.  Zantac 150 mg q.d.
+8.  Detrol 2 mg q.d.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  On physical examination the patient's
+vital signs were stable.  She was afebrile.  Blood pressure
+was 168/70, heart rate 72, respiratory rate 18, saturations
+99% on room air.  She was an elderly woman, lying in bed in
+no acute distress.  Pupils equal, round, and reactive to
+light.  Extraocular muscles are full.  Chest was clear to
+auscultation.  CARDIOVASCULAR:  Regular rate and rhythm.
+ABDOMEN:  Soft, nontender, nondistended, positive bowel
+sounds.  EXTREMITIES:  1+ pulses, no edema.  NEUROLOGY:  The
+patient was alert, oriented times three.  MEMORY:  2 out of 3
+at 5 minutes, difficulty repeating, no pronator drift, muscle
+strength 4/5 in all muscle groups.  No focal deficits in
+sensory.
+
+LABORATORY DATA:  Labs revealed the following:  White count
+4.9, hematocrit 38.2, platelet count 183, INR 1.1, PTT 26.3,
+sodium 139, potassium 3.9, chloride 102, CO2 27, BUN 20,
+creatinine 1.1, glucose 132.  Head CT shows left hemorrhage
+in the region of the MCA accumulating in the left lateral
+ventricle.
+
+The patient was admitted to Dr.[**Name (NI) 10033**] service to the
+Surgical Intensive Care Unit for close monitoring.
+
+The patient had a vent drain placed on the day of admission.
+She went directly to angiography, which showed a ruptured
+left PICA aneurysm.  She underwent coiling of the left PICA
+aneurysm without any interprocedure complication.  This was
+monitored in the Surgical Intensive Care Unit
+postoperatively.
+
+Postoperatively, neurologically, she was arousable and not
+following commands.  Pupils:  Left was larger than the right.
+They were both sluggish to react.
+
+On [**3014-6-16**], the patient's neurological status had improved
+slight.  She was restless.  She was moving all extremities
+with some right sided weakness and attempting to follow
+commands by opening her eyes to voice.
+
+On [**3014-6-21**], the patient had an episode of respiratory
+distress, which was nonresponsive to BiPAP.  The patient was
+intubated at that time.
+
+Neurologically, the patient's pupils reminded reactive to
+light, but she was only localizing briskly on the right,
+greater than the left, with decreased movement on the right.
+
+On [**3014-8-24**], the patient had bronchoscopy, which
+showed some thick secretions, but no obvious mucous plugging.
+The patient had repeat head CT on [**3014-6-29**] that showed
+resolving left lateral hematoma.
+
+On [**3014-6-29**], the patient had PEG and tracheostomy done
+without complication.
+
+On [**3014-6-30**], the patient's vent drain was
+discontinued due to decreased output.  The patient's mental
+status remained unchanged, arousable localizing, moving,
+withdrawing lower extremities, more so that the upper
+extremities.
+
+The patient remained in the Intensive Care Unit until
+[**3014-8-5**], where the mental status continue to wax and wane.
+She also range into difficulty with respiratory problems and
+air.  Question of ARDS.  The Pulmonary Department was
+consulted and multiple vent changes were made.  Ultimately,
+the patient's condition deteriorated and the family decided
+to make the patient comfort measures only.  The patient
+passed away on [**3014-8-5**] after a prolonged illness.
+
+
+
+
+                            [**Name6 (MD) **] [**Last Name (NamePattern4) 135**], M.D.  [**MD Number(1) 136**]
+
+Dictated By:[**Last Name (NamePattern1) 326**]
+MEDQUIST36
+
+D:  [**3014-8-22**]  14:21
+T:  [**3014-8-22**]  14:38
+JOB#:  [**Job Number 11300**]
+
+
+
+DOC CLASS

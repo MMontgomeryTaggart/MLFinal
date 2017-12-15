@@ -1,0 +1,199 @@
+Chief Complaint:
+   24 Hour Events:
+   - Decreased Amio because HRs in 50s and CO worse when bradycardic
+   - renal wanted to [**Name6 (MD) **] off RRT for one more day because do not think
+   will tolerate HD with such low BPs and want to see what MR is like on
+   TTE before trying renal replacement.
+   - PM lytes were worse hyponatremia likely from fluid overload consider
+   RRT as therapy as already decreased PO intake and not enough IV meds to
+   cause this
+   - CDiff negative (diarrhea a few days ago)
+   Allergies:
+   Cefazolin
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 700 units/hour
+   Other ICU medications:
+   Other medications: ASA 325, plavix 75mg, allopurinol 100mg QOD,
+   pantoprazole 40mg daily, simvastatin 20mg, Imdur 10mg TID, hydralazine
+   10mg [**Hospital1 7**], Amiodarone 200mg daily
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2844-4-4**] 06:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 34.1
+C (93.3
+   HR: 64 (57 - 69) bpm
+   BP: 84/55(62) {68/46(54) - 101/68(76)} mmHg
+   RR: 19 (13 - 25) insp/min
+   SpO2: 95%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Wgt (current): 60.4 kg (admission): 65 kg
+   Height: 58 Inch
+             Total In:
+                                                                  1,248 mL
+                                                                    169 mL
+   PO:
+                                                                    840 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    408 mL
+                                                                    109 mL
+   Blood products:
+   Total out:
+                                                                     75 mL
+                                                                     15 mL
+   Urine:
+                                                                     75 mL
+                                                                     15 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,173 mL
+                                                                    154 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula, 4L
+   SpO2: 95%
+   ABG: ///18/
+   Physical Examination
+   Gen: Elderly female in NAD
+   HEENT: NCAT. Conjunctiva were pink, no pallor or cyanosis of the oral
+   mucosa. No xanthalesma.
+   Neck: Supple with JVD elevated , Left HD line in place
+   CV: Regular rate and rhythm, normal S1, S2. 3/6 systolic murmur best
+   heard at apex. Hyperdynamic PMI. No thrills, lifts. No S3 or S4.
+   Chest: Wheezing and crackles
+ way up both lung fields
+   Abd: Soft, NTND. No HSM or tenderness.
+   Ext: Bilateral pitting edema. No femoral bruits.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Neurologic: A+OX3
+   Labs / Radiology
+   97 K/uL
+   10.0 g/dL
+   90
+   3.0 mg/dL
+   20 mEq/L
+   5.0 mEq/L
+   48 mg/dL
+   94 mEq/L
+   127 mEq/L
+   3059 %
+   14.1 K/uL
+        [image002.jpg]
+                             [**2844-3-31**]  03:21 PM
+                             [**2844-3-31**]  03:35 PM
+                             [**2844-3-31**]  08:15 PM
+                             [**2844-4-1**]  02:30 AM
+                             [**2844-4-1**]  08:44 AM
+                             [**2844-4-1**]  05:07 PM
+                             [**2844-4-1**]  05:18 PM
+                             [**2844-4-2**]  06:10 AM
+                             [**2844-4-3**]  05:35 AM
+                             [**2844-4-3**]  03:15 PM
+   WBC
+   12.2
+   14.5
+   15.0
+   Hct
+   29.7
+   30.2
+   29.8
+   31.2
+   30.9
+   Plt
+   53
+   70
+   92
+   Cr
+   0.8
+   0.8
+   0.8
+   1.5
+   2.4
+   2.7
+   TCO2
+   22
+   16
+   Glucose
+   92
+   108
+   139
+   91
+   101
+   Other labs: PT / PTT / INR:15.6/66.9/1.4, CK / CKMB /
+   Troponin-T:2159/273/14.93, ALT / AST:305/500, Alk Phos / T
+   Bili:107/0.8, Differential-Neuts:94.8 %, Lymph:3.0 %, Mono:2.0 %,
+   Eos:0.1 %, Fibrinogen:669 mg/dL, Lactic Acid:1.8 mmol/L, Albumin:2.6
+   g/dL, LDH:1540 IU/L, Ca++:8.5 mg/dL, Mg++:2.0 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   80 yo woman with HTN HL CAD now s/p primary PCI to the mid-RCA for
+   inferior STEMI complicated by posterior pap muscle ischemia and MR.
+   # Cardiogenic shock/MR: Has posterior pap muscle ischemia and severe MR
+   but not a flail leaflet. Off pressors completely. Continue to have very
+   low U/O ; off CVVH [**1-11**] to low bp. Subsequently MAP 55-65
+   - continue Hydral, nitro for afterload reduction given MR -> split up
+   so doesn
+t get them all at once
+   # Inferior STEMI: now s/p primary PCI to the mid-RCA. Continuing post
+   cath management with aspirin 325, clopidogrel 75 and simvastatin 80.
+   - holding carvedilol, lisinopril
+   # Diarrhea:  C Diff negative from [**4-3**]
+   # Normocytic anemia:  Stable. Folate, B12 and Fe studies
+   noncontributory to anemia. Will continue to monitor
+   # Thrombocytopenia:  Has been stable over last days.
+   # ARF:Most likely contrast nephropathy. Creatinine rose to 3.0 today
+   and has had very minimal urine output. Since MAPs in 55-65 range off
+   CVVH she may tolerate HD. Renal recs appreciated.  Crn at baseline on
+   admission 2.0
+   - monitor uop
+   - will likely require long term dialysis
+   - HD started today, monitor BP with HD with goal SBP>90
+   - [**Hospital1 7**] lytes for now
+   - Will follow up renal recs
+   # Hyponatremia: From volume overload as patient is not making much
+   urine. Sodium increased to 127 from 126. Will likely improved as fluid
+   is removed with HD
+   - pm lytes after HD
+   # Rhythm: aflutter/fib
+   - Heparin gtt
+   - continue amiodarone 200mg QD
+   # Gout: Allopurinol QOD
+   ICU Care
+   Nutrition:  Cardiac diet
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2844-3-30**] 08:53 PM
+   Prophylaxis:
+   DVT:  Heparin gtt
+   Stress ulcer: ppi
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  CCU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2844-3-30**] 08:53 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

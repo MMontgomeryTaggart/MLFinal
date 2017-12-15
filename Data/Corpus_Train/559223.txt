@@ -1,0 +1,206 @@
+Chief Complaint: complex bleeding/clotting disorder; renal failure;
+   pulmonary hemorrhage
+   24 Hour Events:
+ PHERESIS CATHETER - STOP [**3032-12-5**] 02:30 PM
+ DIALYSIS CATHETER - START [**3032-12-5**] 03:24 PM
+   This note reflects assessment and plan from this AM; it contains data
+   up until 2 pm because the original AM note was apparently lost in
+   Metavision.
+   Events overnight
+   Heme-Onc said OK to start heparin with lower target after [**Year (4 digits) **]
+   continued to bleed from A-line site including after [**Year (4 digits) **] 2U; held off on
+   heparin; ordering two more units [**Last Name (LF) **], [**First Name3 (LF) **] to pull a-line if can get
+   extubated this AM
+   attempted to keep off enduring sedation; gave Versed boluses for
+   anxiety; nitro drip for high BP
+   stayed on pressure support
+   in addition: this morning:
+   prepared for extubation
+   underwent dialysis
+   as note is being written:
+   recently extubated
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Rash;
+   Penicillins
+   Rash;
+   Dicloxacillin
+   Rash;
+   Morphine
+   Unknown;
+   Compazine (Oral) (Prochlorperazine Maleate)
+   Unknown; dyston
+   Reglan (Oral) (Metoclopramide Hcl)
+   Unknown; parkin
+   Last dose of Antibiotics:
+   Levofloxacin - [**3032-12-4**] 03:16 PM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**3032-12-5**] 02:00 PM
+   Hydralazine - [**3032-12-6**] 05:00 AM
+   Midazolam (Versed) - [**3032-12-6**] 05:30 AM
+   Lansoprazole (Prevacid) - [**3032-12-6**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Ear, Nose, Throat: OG / NG tube
+   Nutritional Support: Tube feeds
+   Flowsheet Data as of  [**3032-12-6**] 02:08 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 37.4
+C (99.4
+   HR: 92 (68 - 105) bpm
+   BP: 139/81(89) {113/66(76) - 141/81(89)} mmHg
+   RR: 25 (15 - 47) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 52 kg (admission): 50 kg
+           Total In:
+                                                                  2,417 mL
+                                                                  1,367 mL
+   PO:
+           TF:
+                                                                    726 mL
+                                                                    253 mL
+   IVF:
+                                                                    604 mL
+                                                                    297 mL
+   Blood products:
+                                                                    547 mL
+                                                                    617 mL
+   Total out:
+                                                                     33 mL
+                                                                     29 mL
+   Urine:
+                                                                     33 mL
+                                                                     29 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,384 mL
+                                                                  1,338 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool, Face tent, Endotracheal tube
+   Ventilator mode: Standby
+   Vt (Set): 0 (0 - 0) mL
+   Vt (Spontaneous): 432 (290 - 593) mL
+   PS : 5 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 41
+   PIP: 0 cmH2O
+   SpO2: 97%
+   ABG: 7.42/35/147/21/0
+   NIF: -20 cmH2O
+   Ve: 7.1 L/min
+   PaO2 / FiO2: 367
+   Physical Examination
+   General Appearance: Anxious
+   Eyes / Conjunctiva: PERRL, Pupils dilated
+   Head, Ears, Nose, Throat: Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Distended
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Warm
+   Neurologic: Responds to: Verbal stimuli, Oriented (to): not verbally
+   responsive, appears to respond to questions, following commands
+   intermittently, Movement: Not assessed, Tone: Increased
+   Labs / Radiology
+   107 K/uL
+   8.5 g/dL
+   169 mg/dL
+   5.7 mg/dL
+   21 mEq/L
+   4.3 mEq/L
+   95 mg/dL
+   84 mEq/L
+   121 mEq/L
+   23.5 %
+   12.3 K/uL
+        [image002.jpg]
+                             [**3032-12-4**]  10:00 AM
+                             [**3032-12-4**]  02:28 PM
+                             [**3032-12-4**]  04:19 PM
+                            [**3032-12-5**]  12:47 AM
+                            [**3032-12-5**]  11:25 AM
+                            [**3032-12-5**]  12:50 PM
+                            [**3032-12-5**]  05:25 PM
+                            [**3032-12-6**]  05:12 AM
+                            [**3032-12-6**]  05:23 AM
+                            [**3032-12-6**]  08:28 AM
+   WBC
+   8.2
+   8.0
+   9.4
+   12.3
+   Hct
+   27.7
+   26.9
+   26.0
+   23.5
+   Plt
+   91
+   94
+   94
+   107
+   Cr
+   4.2
+   5.7
+   TCO2
+   19
+   26
+   24
+   25
+   24
+   23
+   Glucose
+   165
+   169
+   Other labs: PT / PTT / INR:12.8/32.3/1.1, ALT / AST:36/37, Alk Phos / T
+   Bili:102/0.7, Differential-Neuts:96.0 %, Lymph:1.8 %, Mono:1.8 %,
+   Eos:0.2 %, Lactic Acid:1.2 mmol/L, Albumin:2.8 g/dL, LDH:627 IU/L,
+   Ca++:7.9 mg/dL, Mg++:1.6 mg/dL, PO4:6.5 mg/dL
+   Assessment and Plan
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ ALTERATION IN NUTRITION
+ HYPERTENSION, BENIGN
+ ALTERATION IN TISSUE PERFUSION
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ INEFFECTIVE COPING
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ THROMBOTIC THROMBOCYTOPENIC PURPURA / HEMOLYTIC UREMIC SYNDROME
+   (HUS/TTP)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3032-12-4**] 02:59 PM
+   Dialysis Catheter - [**3032-12-5**] 03:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

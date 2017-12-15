@@ -1,0 +1,218 @@
+Chief Complaint: Transient Hypotension
+   24 Hour Events:
+ BLOOD CULTURED - At [**2573-3-17**] 09:05 PM
+ URINE CULTURE - At [**2573-3-17**] 09:05 PM
+ FEVER - 101.1
+F - [**2573-3-17**] 08:00 PM
+ CALLED OUT
+   -- seen by plastics, feel decubitus ulcers appear to be granulating
+   appropriately with no
+   sign of infection
+   -- IV team could not place PIV, kept central for access and blood draws
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientNo Known Drug Allergies
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2573-3-16**] 10:00 PM
+   Vancomycin - [**2573-3-17**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Eyes: photophobia
+   Musculoskeletal: Myalgias, neck pain
+   Neurologic: Headache
+   Flowsheet Data as of  [**2573-3-18**] 07:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.4
+C (101.1
+   Tcurrent: 36.6
+C (97.8
+   HR: 80 (77 - 98) bpm
+   BP: 95/68(75) {75/45(57) - 115/75(86)} mmHg
+   RR: 14 (0 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88 kg (admission): 88 kg
+   Height: 71 Inch
+    CVP: 8 (3 - 18)mmHg
+   Total In:
+                                                                  2,320 mL
+                                                                    193 mL
+   PO:
+                                                                  1,080 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  1,240 mL
+                                                                     73 mL
+   Blood products:
+   Total out:
+                                                                  1,715 mL
+                                                                  1,160 mL
+   Urine:
+                                                                  1,715 mL
+                                                                  1,160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    605 mL
+                                                                   -967 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL, closes eyes when to light
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, No(t) Bowel sounds present, Obese
+   Extremities: Right: 1+, Left: 1+, pitting edema to knee
+   Musculoskeletal: Unable to stand
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   281 K/uL
+   8.9 g/dL
+   109 mg/dL
+   0.4 mg/dL
+   23 mEq/L
+   3.7 mEq/L
+   5 mg/dL
+   110 mEq/L
+   139 mEq/L
+   28.5 %
+   6.7 K/uL
+        [image002.jpg]
+                             [**2573-3-16**]  10:27 PM
+                             [**2573-3-17**]  05:24 AM
+                             [**2573-3-18**]  04:47 AM
+   WBC
+   7.0
+   6.7
+   Hct
+   30.4
+   28.5
+   Plt
+   281
+   Cr
+   0.3
+   0.4
+   TropT
+   0.08
+   Glucose
+   93
+   109
+   Other labs: PT / PTT / INR:33.8/39.7/3.5, CK / CKMB /
+   Troponin-T:84/5/0.08, ALT / AST:[**5-30**], Alk Phos / T Bili:100/0.3,
+   Amylase / Lipase:/14, Lactic Acid:1.4 mmol/L, Albumin:2.8 g/dL,
+   Ca++:8.2 mg/dL, Mg++:2.0 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   67M h/o T4 paraplegia, recurrent UTIs [**2-20**] indwelling foley, multiple
+   stage 4 decubs was admitted to ICU with fever to 101.8, transient
+   hypotension that resolved with IVF but continued on sepsis protocol.
+   VS Stable overnight.
+   .
+   # FEVER - Pt has multiple prior admission with similar presentation,
+   recent work up for fever was unrevealing.  Pt is currently being
+   presumptively being treated for UTI, culture pending, though UA was
+   weakly positive and may be [**2-20**] chronic colonization. Prior urine Cx
+   were sensitive to Cipro. Etiology of fever includes PNA although f/u
+   CXR was unremarkable & no h/o productive cough. Pt has a h/o chronic
+   diarrhea with neg work up to date vs infection of sacral decub
+   infections possibly complicated by osteo given his elevated CRP.
+   - continue vanc and cipro until recent culture data finalized
+   - f/u urine cx, blood cx, CIS
+   - f/u stool cultures
+   - f/u swab of sacral decubitus ulcers
+   - f/u plastic surgery recs, would like to r/o osteo
+ felt that
+   decubiti did not look infected, no evidence of osteo, well know by
+   plastics, did have large work-up in [**11-26**] including tagged WBC scan
+   that was negative for osteo
+   .
+   # HYPOTENSION - Pt has h/o transient hypotension & this episode
+   resolved with 3L IVF, pt never required pressors. Most likely due to
+   autonomic disregulation [**2-20**] paraplegia, sepsis unlikely given this
+   clinical picture.  Will continue infectious work-up, treating UTI with
+   empiric Cipro. Diff Dx also includes dehydration [**2-20**] diarrhea, MI ruled
+   out with 3 sets of CE. Adrenal insufficiency unlikely given that pt has
+   been essentially normotensive, cortisol drawn in ED at 15 did not rule
+   this out definitively.
+   - will continue to bolus IVF prn, goal MAP>65
+   - continue Cipro and Vanc as above, until cx data negative
+   .
+   # Chest/abd pain - etiology unclear, pt has multiple vague complaints
+   and describes chest/abd pain pain which has been present for more than
+   3 months. EKGs on admission showed not acute ST-T wavce changes. Trop
+   mildly elevated but stable at 0.08, CK & CKMBs flat. Abd mildly
+   distended/tympanic but NTTP/NABS, CT abdomen unremarkable.  PT denies
+   pain this am.
+   - will check EKGs prn CP, althought unlikely cardiac in nature
+   - LFTs WNL, follow serial abd exams
+   - f/u stool cultures as above
+   .
+   # CAD - Pt s/p 2v CABG with EF 25-30%, normal valves.  Pt appeared
+   mildly volume overloaded on admission, but home regimen does not
+   include ACE/Lasix, possibly due to BP lability & autonomic dysfunctn
+   -continue home regimen of aspirin, simvastatin.
+   -consider restarting ACE, BB, spirinolactone, lasix as outpt
+   .
+   # Multiple Decubitus ulcer - Stage 4 decubs that probe to bone, beefy
+   red granulation tissue, except 1 right lateral lesion with yellow/black
+   coverage that may benefit from debridement
+   - consulted plastics
+ felt that wounds had healthy granulation tissue
+   and saw no evidence of infection and did not feel that there was osteo
+   - kinair mattress
+   - wet to dry dressings [**Hospital1 **]
+   - f/u wound swabs, likely to be contaminated with colonizers
+   .
+   # anemia - baseline 30-33, now 28.5, will follow for now.
+   - guaiac stools x 3.
+   .
+   # h/o PE - s/p IVC filter, INR elevated this am at 3.5.
+   - hold coumadin tonight, repeat INR in am
+   .
+   # Asthma - continue home advair, added albuterol prn.
+   .
+   # Depression - continue citalopram.
+   .
+   # h/o back pain (chronic)- continue home regimen of baclofen, tramadol,
+   and neurontin.
+   .
+   # h/o cholelithiasis - continue ursodiol.
+   .
+   # vitiligo - not on treatment currently.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Presep Catheter - [**2573-3-16**] 06:20 PM
+   18 Gauge - [**2573-3-17**] 12:20 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin(Systemic anticoagulation: None)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition:Transfer to floor
+
+
+
+DOC CLASS

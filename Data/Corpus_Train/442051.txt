@@ -1,0 +1,184 @@
+TITLE: EP Fellow Progress Note
+   History of Present Illness
+   Date: [**3499-10-29**]
+   Subsequent care
+   Seen and examined with: Dr. [**Last Name (STitle) 4203**] and housestaff
+   Events / History of present illness: -No changes to mental status
+   -Remains febrile on multiple antibiotics
+   -Sputum with normal flora + Meningicoccus
+   -LFT's slightly decreasing, Cr still elevated with some UOP
+   -Holding of HD for now based on acid/base state
+   -No VT
+   Medications
+   Unchanged
+   ASA 325 mg daily
+   Lipitor 80 mg daily
+   Metoprolol 50 mg [**Hospital1 **]
+   MVI
+   Thiamine
+   Folic acid
+   Colace
+   Flagyl 500 mg tid
+   Dronedarone 400 mg [**Hospital1 **]
+   Cefepime 1 g IV qd
+   Ciprofloxacin 200 IV qd
+   Heaprin IV
+   Protonix
+   Physical Exam
+   General appearance: Intubated, awake with no purposeful movement
+   BP: 105 / 63 mmHg
+   HR: 80 bpm
+   RR: 20 insp/min
+   Tmax C last 24 hours: 37.8 C
+   Tmax F last 24 hours: 100 F
+   T current C: 37.4 C
+   T current F: 99.4 F
+   O2 sat: 100 %  on Supplemental oxygen: FiO2 40%, PEEP 5 on CPAP
+   Previous day:
+   Weight: 81.3 kg
+   Intake: 2,840 mL
+   Output: 2,017 mL
+   Fluid balance: 823 mL
+   Today:
+   Weight: 76.1 kg
+   Intake: 161 mL
+   Output: 227 mL
+   Fluid balance: -66 mL
+   HEENT: (Oral mucosa: Moist)
+   Cardiovascular: (Auscultation: Reg, 2/6 SEM)
+   Respiratory: (Auscultation: Coarse intuabated BS B/L ant)
+   Abdomen: (Palpation: Soft, NTND)
+   Neurological: (Orientation: awake, non-responsive)
+   Extremities:
+   Right: (Edema: None)
+   Left: (Edema: None)
+   Labs
+   141
+   9.9
+   95
+   5.8
+   20
+   3.7
+   73
+   104
+   145
+   30.8
+   13.6
+        [image002.jpg]
+                            [**3499-10-27**]  11:02 AM
+                            [**3499-10-27**]  12:28 PM
+                            [**3499-10-27**]  06:29 PM
+                            [**3499-10-27**]  10:09 PM
+                            [**3499-10-28**]  02:47 AM
+                            [**3499-10-28**]  10:24 AM
+                            [**3499-10-28**]  01:33 PM
+                            [**3499-10-28**]  04:55 PM
+                            [**3499-10-29**]  12:28 AM
+                            [**3499-10-29**]  06:16 AM
+   WBC
+   17.8
+   18.5
+   13.6
+   Hgb
+   11.1
+   10.6
+   9.9
+   Hct (Serum)
+   34.9
+   33.2
+   30.8
+   Plt
+   138
+   128
+   141
+   INR
+   2.3
+   2.3
+   2.6
+   3.6
+   2.6
+   3.1
+   3.6
+   PTT
+   119.9
+   79.9
+   125.7
+   91.3
+   98.4
+   47.1
+   61.2
+   69.6
+   Na+
+   139
+   140
+   140
+   144
+   145
+   K + (Serum)
+   4.7
+   6.3
+   4.3
+   4.0
+   3.8
+   3.7
+   K + (Whole blood)
+   4.1
+   Cl
+   101
+   102
+   103
+   104
+   104
+   HCO3
+   20
+   11
+   15
+   19
+   20
+   BUN
+   48
+   55
+   59
+   65
+   73
+   Creatinine
+   3.5
+   4.2
+   4.6
+   5.0
+   5.8
+   Glucose
+   [**Telephone/Fax (2) 10490**]2
+   108
+   95
+   ABG: 7.38 / 33 / 180 /  / -4   Values as of [**3499-10-29**] 06:22 AM
+   Tests
+   Telemetry: No episodes of VT, sinus rhythm
+   Ventilator: FiO2 40%, PEEP 5 on CPAP
+   Assessment and Plan
+   43 year old male with infarct related cardiomyopathy and severe
+   systolic HF with LV mural thrombus, p/w VT storm s/p attempt at VT
+   ablation with subsequent PEA arrest, now with poor improvement in
+   mental status, severe shock liver and kidney, fever with likely PNA.
+   1.  Multi-system organ failure:
+   -Evidence of shock liver/kidney; poor overall prognosis although mildly
+   improving
+   -Hold renal or hepatotoxic meds; hold renal damaging meds as you are
+   -HD in future as needed
+   2.  Fever:
+   -N. menigitidis in sputum, consider consult ID re: fever despite
+   therapy and this organism
+   -Continue broad Abx, f/u cx data
+   3.  VT:
+   -No recurrence since AAD's resumed
+   -Continue dronedarone at current dose
+   -Continue BB
+   4.  Mental status:
+   -Poor neurologic prognosis; awaiting furtherc determination by Neuro
+   -Goals of care to be addressed again if continues to deteriorate
+   -Likley needs family meeting tomorrow
+   Rest of plan per housestaff.
+
+
+
+DOC CLASS

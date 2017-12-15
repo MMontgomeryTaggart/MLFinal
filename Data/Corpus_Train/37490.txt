@@ -1,0 +1,614 @@
+Admission Date:  [**2789-10-2**]              Discharge Date:   [**2789-10-16**]
+
+Date of Birth:  [**2718-4-2**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1181**]
+Chief Complaint:
+Transfer from [**Hospital6 5742**] in DKA with groin
+infection
+
+Major Surgical or Invasive Procedure:
+[**2789-10-6**] 1. Excision of right femoral to anterior tibial bypass
+    graft with complete removal of foreign material.
+2. Extensive debridement of the right groin including the
+    native common femoral artery in its entirety.
+3. Right external iliac to distal common femoral bypass
+    graft using cadaveric deep femoral vein (CryoVein).
+4. Right groin sartorius muscle flap.
+
+[**2789-10-10**]
+Right below-knee amputation
+
+
+History of Present Illness:
+71 yo F wtih h/o of PVD and recent right fem-[**Doctor Last Name **] bypass in [**Month (only) 798**]
+with Dr. [**Last Name (STitle) 581**] who presented to [**Hospital3 **] today with
+pus from bypass site and found to be in DKA. She initially
+presented because she thought she was having dark stools and was
+concerned for a GIB which she's had in the past.  She was found
+to have dark pus coming from her fem-[**Doctor Last Name **] bypass site.  At OSH,
+her right leg was noted to be red from the surgical site down to
+her knee.
+.
+VS at OSH: 113/34 60-70 98.3 96% 2L.  Fingerstick was 548.
+Sodium 129. WBC 19 with 11% bandemia.  K 6.8.  Serum acetone
+1:8.  Urine and blood cx drawn. No CXR done.  UA was negative
+except for ketones and glucose.  She was given 2L IVF, 5u iv
+insulin and placed on insulin gtt at 10u hr.  Repeat sugar was
+348. EKG had non-specific ST changes, but none was available for
+comparison.  No cardiac enzymes were drawn.  Her right leg was
+noted to be red with drainage from surgical site.  She was
+treated with Unasyn 3g and vancomygin 1g iv.
+.
+On arrival to the ICU patient reports that she noticed drainage
+from the bypass incision site 1-2 days ago.  She denies fever or
+chills.  She endorses nausea though no vomiting. She denies
+diarrhea.
+.
+ROS: pos per HPI, otherwise negative.
+
+
+Past Medical History:
+DM I
+CAD s/p MI and 4 vessel CABG in [**2780**]
+RLE endarterectomy/patch angioplasty of distal popliteal artery
+[**2788**]
+L SFA angioplasty
+
+Social History:
+She is a retired clerical worker.  Lives alone.  Has a daughter
+that helps her. No tobacco, EtOH or recreational drugs.
+
+Family History:
+No h/o DM.
+
+Physical Exam:
+Admission:
+General Appearance: No acute distress, Thin
+Eyes / Conjunctiva: PERRL
+Head, Ears, Nose, Throat: dry MM, cracked lips
+Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Absent), (Left DP pulse:
+Diminished)
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Clear : , No(t) Crackles : , No(t) Wheezes : , No(t)
+Rhonchorous: )
+Abdominal: Soft, Non-tender, Bowel sounds present
+Extremities: Right lower extremity edema: 2+, Left lower
+extremity edema: Trace
+Skin:  Cool, No(t) Rash: , No(t) Jaundice
+Neurologic: Attentive, Follows simple commands, Responds to:
+Verbal stimuli, Movement: Purposeful, Tone: Normal
+
+Discharge:
+VS: 99.1  HR: 80    BP: 114/52   RR:20    Spo2: 99%
+Gen: Alert and oriented x3, Pain under aqeduate managment
+Neuro: CN II-XII intact
+CV:RRR
+Lungs with bilateral crackles, diminshed bases
+Abd: soft, NT, ND
+Right BKA wound improved decrease in erythema, 3 + edema
+
+Pulses:           Fem            [**Doctor Last Name 572**]            DP           PT
+
+Left            palp             palp           dop         dop
+Right           palp              -               BKA
+
+
+Pertinent Results:
+Admission Labs:
+[**2789-10-2**] 08:25PM   WBC-14.8*# RBC-3.92* HGB-10.3* HCT-32.3*
+MCV-82 MCH-26.3* MCHC-32.0 RDW-15.1
+[**2789-10-2**] 08:25PM   NEUTS-89.3* LYMPHS-8.4* MONOS-1.8* EOS-0.1
+BASOS-0.4
+[**2789-10-2**] 08:25PM   PLT COUNT-463*
+[**2789-10-2**] 08:25PM   PT-11.5 PTT-23.0 INR(PT)-1.0
+[**2789-10-2**] 08:25PM   CALCIUM-8.7 PHOSPHATE-1.7*# MAGNESIUM-1.6
+[**2789-10-2**] 08:25PM   ALT(SGPT)-11 AST(SGOT)-10 CK(CPK)-30 ALK
+PHOS-93 TOT BILI-0.2
+[**2789-10-2**] 08:25PM   CK-MB-4 cTropnT-<0.01
+[**2789-10-2**] 08:25PM   GLUCOSE-70 UREA N-23* CREAT-0.8 SODIUM-138
+POTASSIUM-4.2 CHLORIDE-105 TOTAL CO2-21* ANION GAP-16
+[**2789-10-2**] 10:04PM   LACTATE-1.9
+
+Studies:
+
+[**2789-10-2**]: Sinus rhythm with atrial premature beats. ST-T wave
+abnormalities. Since the previous tracing of [**2789-7-6**] the atrial
+premature beats are new. ST-T wave abnormalities may be more
+marked.
+
+[**2789-10-2**]: CXR: As compared to the previous radiograph, today's
+image shows
+multiple respiratory motion artifacts and is limited in
+interpretability. The lung volumes are normal. There is no
+evidence of pleural effusions. The sternal wires have been
+removed in the interval, however, several clips projecting over
+the mediastinum are still visible. No evidence of pathological
+parenchymal opacities, no pulmonary edema. No focal parenchymal
+opacity suggesting pneumonia. The size of the cardiac silhouette
+is at the upper range of normal.
+
+[**2789-10-6**]:
+Final Report
+PORTABLE CHEST, [**2789-10-6**]
+
+CLINICAL INFORMATION: PICC pulled back.
+
+FINDINGS:
+
+Frontal view of the chest is compared to multiple prior
+examinations. The
+right PICC has been pulled back and now resides within the
+superior vena cava.  The lungs demonstrate mild bibasilar
+atelectasis. There is a small left-sided  pleural effusion.
+There is a small right-sided pleural effusion. Upper lung  zones
+are clear. No pneumothorax. Cardiomediastinal silhouette is
+unremarkable. Status post CABG. Clips in the left paratracheal
+region.
+
+IMPRESSION:
+
+Right PICC pulled back, terminates in superior vena cava.
+
+Small bilateral pleural effusions, bibasilar atelectasis.
+
+-----
+UNDERLYING MEDICAL CONDITION:
+   71 year old woman with has had multiple surgeries (vascular).
+Please redo upper
+   extremities
+REASON FOR THIS EXAMINATION:
+   please asses conduit for conduit for BPG
+
+
+
+Final Report
+INDICATION: 71-year-old woman being evaluated prior to CABG.
+
+Patient has history of multiple intravenous catheters in the
+right upper
+extremity.
+
+TECHNIQUE AND FINDINGS: Vein mapping of the upper extremity was
+performed
+with B-mode ultrasound. Also the left small saphenous vein was
+evaluated with
+B-mode ultrasound.
+
+On the right upper extremity, the right cephalic vein is patent
+and
+compressible with diameters ranging between 0.37 and 0.13 cm.
+The right
+basilic vein is patent and compressible with diameters ranging
+between 0.46
+and 0.2 cm.
+
+On the left side, the left cephalic vein is patent and
+compressible with
+diameters ranging between 0.32 and 0.21 cm. The wall of the
+distal segment of
+the left cephalic vein in the left arm presents with increased
+thickness.
+
+The left basilic vein is patent and compressible with diameters
+ranging
+between 0.35 and 0.21 cm. There is some thickening of the wall
+of the left
+basilic vein.
+
+The left small saphenous vein is patent and compressible
+demonstrating thick
+walls.
+
+IMPRESSION: Patent cephalic and basilic veins bilaterally with
+diameters
+described above. The left basilic and the distal segment of the
+left cephalic
+veins demonstrated thick walls.
+
+The left small saphenous vein demonstrated thick walls.
+
+
+INDICATION: 71-year-old woman being evaluated prior to CABG.
+
+Patient has history of multiple intravenous catheters in the
+right upper
+extremity.
+
+TECHNIQUE AND FINDINGS: Vein mapping of the upper extremity was
+performed
+with B-mode ultrasound. Also the left small saphenous vein was
+evaluated with
+B-mode ultrasound.
+
+On the right upper extremity, the right cephalic vein is patent
+and
+compressible with diameters ranging between 0.37 and 0.13 cm.
+The right
+basilic vein is patent and compressible with diameters ranging
+between 0.46
+and 0.2 cm.
+
+On the left side, the left cephalic vein is patent and
+compressible with
+diameters ranging between 0.32 and 0.21 cm. The wall of the
+distal segment of
+the left cephalic vein in the left arm presents with increased
+thickness.
+
+The left basilic vein is patent and compressible with diameters
+ranging
+between 0.35 and 0.21 cm. There is some thickening of the wall
+of the left
+basilic vein.
+
+The left small saphenous vein is patent and compressible
+demonstrating thick
+walls.
+
+IMPRESSION: Patent cephalic and basilic veins bilaterally with
+diameters
+described above. The left basilic and the distal segment of the
+left cephalic
+veins demonstrated thick walls.
+
+The left small saphenous vein demonstrated thick walls.
+
+
+Labs on DC:
+
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2789-10-13**] 05:04       10.4 3.42* 10.1* 29.0* 85 29.5 34.7 15.9*
+444*
+  DIFFERENTIAL      Neuts Bands Lymphs Monos Eos Baso Atyps
+Metas
+[**2789-10-4**] 07:15    89.5*   8.1* 2.0 0.3 0.2
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2789-10-13**] 05:04        444*
+  LAB USE ONLY
+[**2789-10-13**] 05:04
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2789-10-16**] 05:58    155*1 17 0.8 138 4.3 100 30 12
+Source: Line-PICC
+
+IF FASTING, 70-100 NORMAL, >125 PROVISIONAL DIABETES
+
+  ESTIMATED GFR (MDRD CALCULATION) estGFR
+[**2789-10-10**] 04:13    Using this1
+Source: Line-arterial
+
+Using this patient's age, gender, and serum creatinine value of
+0.9,
+Estimated GFR = 62 if non African-American (mL/min/1.73 m2)
+Estimated GFR = 75 if African-American (mL/min/1.73 m2)
+For comparison, mean GFR for age group 70+ is 75 (mL/min/1.73
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2789-10-3**] 10:27          351
+LPD ADDED [**10-3**] @ 10:58
+[**2789-10-3**] 01:58          321
+
+NEW REFERENCE INTERVAL AS OF [**2789-1-16**];UPPER LIMIT (97.5TH %ILE)
+VARIES WITH ANCESTRY AND GENDER (MALE/FEMALE);WHITES 322/201
+BLACKS 801/414 ASIANS 641/313
+
+  CPK ISOENZYMES CK-MB cTropnT
+[**2789-10-3**] 10:27    4 <0.011
+LPD ADDED [**10-3**] @ 10:58
+[**2789-10-3**] 01:58      <0.011
+
+<0.01
+CTROPNT > 0.10 NG/ML SUGGESTS ACUTE MI
+
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+Cholest
+[**2789-10-16**] 05:58          7.8* 3.8 2.0
+
+
+
+Brief Hospital Course:
+[**2789-10-2**] MICU Course:
+71 yo F with PMH DMI, CAD s/p MI and CABG, severe PAD/PVD with
+fem-[**Doctor Last Name **] bypass in [**Month (only) 798**] who presented to OSH with ? dark stool
+and found to be in DKA with a sugar >500 and
+leukocytosis/bandemia likely from infected graft material.  She
+was started on an insulin drip and her anion gap resolved.  She
+had a red graft incision site oozing pus without dopplerable
+pulses on her RLE.  It was felt that she had a graft infection
+and was transferred to the vascular surgery team for management.
+
+[**Date range (3) 35031**]
+Right groin was explored by Vascular surgery for purulent
+drainage at the bedside. Tissue was opened at healed scar site
+and purulent material was expressed. Wound was explored and
+found to track. Site cleansed and dressed with wet to dry
+dressing. Patient was transferred to VICU for probable surgery
+in am. [**Last Name (un) **] was consulted for DKA. Continued on IVF and
+insulin gtt. Lantus started after insulin gtt was stopped.
+
+[**2789-10-5**] Patient was taken to the OR for excision of R femoral
+infected graft with external iliac-profunda bypass with
+cryovein, debridement, sartorius flap. Wound cultures pending.
+IV abx continued. Intubated in the ICU overnight.
+
+[**2789-10-6**]
+Right foot cool to touch, no DP/PT signals. Patient having
+ischemic pain. UA positive for yeast and blood. PICC placed and
+placement confirmed. Discussion of possible additional operative
+treatment. Better glucose management of insulin sliding scale.
+
+[**2789-10-7**]
+Right foot continues to be ischemia. Significant pain of the
+right leg at rest. Plan to take back to OR for BKA.
+
+[**Date range (3) 35032**]
+Social work consult for coping, Pre-oped for BKA. Received 1
+unit of PRBC and continued diuresis. Wound cultures positive for
+beta stept group B
+
+[**2789-10-10**]:
+Taken to the OR for R BKA. Tolerated operation without
+complications. Hemodynamically stable post op. Pain management
+with PCA, Neurontin, Tylenol. Fluconazole 14 days for increasing
+yeast and + UTI.
+
+[**2789-10-11**]
+Stable. Continued pain management. Nutrition following the
+patient. [**Last Name (un) **] continues to follow patient
+
+[**Date range (1) 35033**]-
+Continued pain management. [**Last Name (un) **] continued to follow and tweak
+insulin regimen. BKA site stable with some mild erythema, no
+drainage. PT recommending Rehab. Per ID request patient on PCN
+for 1 week po. Will be dc'ed on PCN and 2 additional weeks of
+fluconazole for UTI. Discharged to Rehab [**2789-10-16**]. PICC d/c'ed
+prior to transfer
+
+
+Medications on Admission:
+Acebutolol 400 mg once a day
+Clopidogrel 75 mg  once a day
+Glyburide 15 mg qam and 5mg qpm
+Lisinopril 10 mg once a day
+Metformin 1,000 mg Extended twice a day
+Aspirin 81 mg once a day
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+hold for sbp<100;.
+4. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every
+6 hours) as needed for pain.
+5. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+8. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day): hold for sbp < 100, hr < 60.
+9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+10. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID
+(3 times a day) as needed for yeast  overgrowth  peri rectal
+area, gluteal cleft.
+11. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 2 weeks.
+12. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+[**Hospital1 **] (2 times a day) as needed for constipation.
+13. Cromolyn 5.2 mg/Actuation Spray, Non-Aerosol Sig: One (1)
+Spray Nasal Q6H (every 6 hours).
+14. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Oxycodone 10 mg Tablet Sustained Release 12 hr Sig: One (1)
+Tablet Sustained Release 12 hr PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12 hr(s)* Refills:*2*
+16. Oxycodone 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+17. Penicillin V Potassium 500 mg Tablet Sig: One (1) Tablet PO
+Q6H (every 6 hours) for 7 weeks.
+18. Lantus
+5 units with dinner
+19. Insulin sliding scale
+               Breakfast   Lunch   Dinner Bedtime
+                     Humalog
+Glucose Insulin Dose Insulin Dose Insulin Dose Insulin Dose
+0-70   mg/dL Proceed with hypoglycemia protocol
+71-119   mg/dL  0   Units 0   Units 0   Units 0   Units
+120-150   mg/dL 6   Units 6   Units 8   Units 0   Units
+151-199   mg/dL 7   Units 7   Units 9   Units 0   Units
+200-239   mg/dL 8   Units 8   Units 10   Units 2   Units
+240-279   mg/dL 9   Units 9   Units 11   Units 2   Units
+280-319   mg/dL 10   Units 10   Units 12   Units 3   Units
+320-360   mg/dL 11   Units 11   Units 13   Units 4   Units
+> 360   mg/dL Notify M.D.
+20. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO Q12H
+(every 12 hours) as needed for continued pain.
+21. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day as
+needed for diuresis.
+22. Lorazepam 0.25 mg IV Q6H:PRN anxiety
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 **] [**Hospital1 **]
+
+Discharge Diagnosis:
+DKA
+R groin wound infection
+Graft infection
+
+PMH:
+DM
+Cornonary Artery Disease
+Peripheral Vascular Disease
+Arterial ulcers
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+DISCHARGE INSTRUCTIONS FOLLOWING TRANSMETATARSAL AMPUTATION
+
+This information is designed as a guideline to assist you in a
+speedy recovery from your surgery. Please follow these
+guidelines unless your physician has specifically instructed you
+otherwise. Please call our office nurse if you have any
+questions. Dial 911 if you have any medical emergency.
+
+ACTIVITY:
+There are restrictions on activity. On the side of your BKA you
+can not bear weight. You should keep this amputation site
+elevated when ever possible
+
+No driving until cleared by your Surgeon.
+
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+
+Redness in or drainage from your leg wound(s).
+New pain, numbness or discoloration of your foot or toes.
+Watch for signs and symptoms of infection. These are: a fever
+greater than 101 degrees, chills, increased redness, or pus
+draining from the incision site. If you experience any of these
+or bleeding at the incision site, CALL THE DOCTOR.
+
+Exercise: You should work with PT and OT daily. Limit strenuous
+activity for 6 weeks. Do not drive a car unless cleared by your
+Surgeon. No heavy lifting greater than 10 pounds for the next 30
+days.
+
+.Try to keep leg elevated when able.
+
+.BATHING/SHOWERING:
+You may shower in a shower chair. No baths or soaking. You may
+wash your incision(s) gently with soap and water. You will have
+sutures/staples which are usually removed in 4 weeks. This will
+be done by the Surgeon on your follow-up appointment.
+
+WOUND CARE:
+Avoid taking a tub bath, swimming, or soaking in a hot tub for
+four weeks after surgery.
+
+MEDICATIONS: Unless told otherwise you should resume taking all
+of the medications you were taking before surgery. You will be
+given a new prescription for pain medication, which can be taken
+every three (3) to four (4) hours only if necessary.
+
+.
+
+Remember that narcotic pain meds can be constipating and you
+should increase the fluid and bulk foods in your diet. (Check
+with your physician if you have fluid restrictions.) If you feel
+that you are constipated, do not strain at the toilet. You may
+use over the counter Metamucil or Milk of Magnesia. Appetite
+suppression may occur; this will improve with time. Eat small
+balanced meals throughout the day.
+
+CAUTIONS:
+NO SMOKING! We know you've heard this before, but it really is
+an important step to your recovery. Smoking causes narrowing of
+your blood vessels which in turn decreases circulation. If you
+smoke you will need to stop as soon as possible. Ask your nurse
+or doctor for information on smoking cessation.
+
+.
+
+Avoid pressure to your amputation site.
+
+No strenuous activity for 6 weeks after surgery.
+
+.
+
+DIET:
+
+.You should follow a diabetic diet. Poor appetite is expected
+for several weeks and small, frequent meals may be preferred.
+
+.
+For people with vascular problems we would recommend a
+cholesterol lowering diet: Follow a diet low in total fat and
+low in saturated fat and in cholesterol to improve lipid profile
+in your blood. Additionally, some people see a reduction in
+serum cholesterol by reducing dietary cholesterol. Since a
+reduction in dietary cholesterol is not harmful, we suggest that
+most people reduce dietary fat, saturated fat and cholesterol to
+decrease total cholesterol and LDL (Low Density Lipoprotein-the
+bad cholesterol). Exercise will increase your HDL (High Density
+Lipoprotein-the good cholesterol) and with your doctor's
+permission, is typically recommended. You may be self-referred
+or get a referral from your doctor.
+
+.
+If you are overweight, you need to think about starting a weight
+management program. Your health and its improvement depend on
+it. We know that making changes in your lifestyle will not be
+easy, and it will require a whole new set of habits and a new
+attitude. If interested you can may be self-referred or can get
+a referral from your doctor.
+
+.
+
+If you have diabetes and would like additional guidance, you may
+request a referral from your doctor.
+
+FOLLOW-UP APPOINTMENT:
+
+.
+
+Be sure to keep your medical appointments. The key to your
+improving health will be to keep a tight reign on any of the
+chronic medical conditions that you have. Things like high blood
+pressure, diabetes, and high cholesterol are major villains to
+the blood vessels. Don't let them go untreated!
+
+.
+
+Please call the office on the first working day after your
+discharge from the hospital to schedule a follow-up visit. This
+should be scheduled on the calendar for seven to fourteen days
+after discharge. Normal office hours are 8:30-5:30 Monday
+through Friday.
+
+PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR
+QUESTIONS THAT MIGHT
+
+
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 583**], MD Phone:[**Telephone/Fax (1) 584**]
+Date/Time:[**2789-11-13**] 3:00
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 583**], MD Phone:[**Telephone/Fax (1) 584**]
+Date/Time:[**2789-12-25**] 1:15
+
+
+
+Completed by:[**2789-10-16**]
+
+
+DOC CLASS

@@ -1,0 +1,197 @@
+Admission Date:  [**2766-3-20**]       Discharge Date: [**2766-4-6**]
+
+Date of Birth:   [**2698-5-8**]       Sex:  F
+
+Service: Medicine
+HISTORY OF PRESENT ILLNESS:  The patient is a 67-year-old female
+with a past medical history significant for ALS, chronic
+obstructive pulmonary disease on home oxygen, recently admitted
+for chronic obstructive pulmonary disease exacerbation on
+[**2766-2-19**], responding to nebulizer admission with agonal
+breathing at home.  Basic life support was called and found the
+patient with a respiratory rate of 2, oxygen saturation of 20%.
+The patient was taken by EMS, and placed on 100% oxygen, with the
+patient subsequently with a respiratory rate of 40, and minimal
+responsive.  The patient was intubated in the Emergency
+Department.  On admission the patient was found to be in
+supraventricular tachycardia.
+
+The patient had been in her usual state of health on the morning
+of admission as reported by her siblings.  Her children went to
+get her food and found her as above when they returned.  Per the
+Emergency Department, the decision to intubate the patient was
+based on air movement, and the patient "looking fatigued."  No
+arterial blood gas was obtained prior to intubation.
+
+After intubation, the patient was noted to have paradoxical
+breathing and required significant sedation to synchronize with
+the rate.
+
+The patient was transferred to the Intensive Care Unit for
+further management of her respiratory distress.
+
+PAST MEDICAL HISTORY:  1.  ALS diagnosed in [**2756**].  The patient is
+bedridden.  2.  Chronic obstructive pulmonary disease on home
+oxygen (no PFTs available).  3.  Atrial fibrillation diagnosed in
+[**2765-8-18**].  4.  Anxiety.  5. Diverticulitis.  6.  Lung nodule,
+which on [**2765-4-18**], was characterized as a right posterior lung
+mass, 3.0 cm x 2.0 cm x 2.5 cm, consistent with a hamartomata.
+
+MEDICATIONS ON ADMISSION:  Albuterol metered dose inhaler,
+Trazodone 50 mg p.o. q.h.s., Amitriptyline Maxzide 1 tab p.o.
+q.d., Combivent 4 puffs inhaled q.4 hours.
+
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+
+SOCIAL HISTORY:  The patient lives at home.  Her grandchildren
+help care for her.  The patient has a home health aid who comes
+for one hour a day.  She has a remote history of tobacco use.  No
+alcohol use.  The patient uses a motorized wheelchair.
+
+PHYSICAL EXAMINATION:  Vital signs:  Blood pressure 110/60,
+heart rate 135, respirations 20, oxygen saturation 97% on
+pressure support ventilation (pressure support of 10, PEEP of
+5).  General:  The patient was an elderly female, lying on a
+stretcher intubated.  HEENT:  Normocephalic, atraumatic.
+Pupils 2 mm bilaterally, nonreactive.  Neck:  Supple.
+Cardiovascular:  Tachycardiac.  Normal S1 and S2.  Lungs:
+Poor air movement throughout.  Inspiratory to expiratory
+ratio 1:4.  Left lower lobe crackles.  Abdomen:  Soft,
+slightly distended.  Good bowel sounds in all four quadrants.
+Extremities:  No edema.  Neurological:  The patient was
+intubated and minimally sedated.  She was moving all four
+extremities spontaneously.
+
+LABORATORY DATA:  White blood cell count 12.4, hematocrit
+32.2, platelet count 693; sodium 141, potassium 6.2
+(hemolyzed), chloride 103, bicarb 24, BUN 14, creatinine 0.6,
+glucose 182; calcium 9.3, magnesium 2.1; CK 66; ABG after
+intubation with pH of 7.33, pCO2 66, pO2 364 on the above
+vent settings.
+
+Chest x-ray showed hyperinflated, hyperaerated lungs,
+endotracheal tube 4 cm above the carina, no infiltrates.
+Electrocardiogram showed sinus tachycardia at 160 beats per
+minute, normal axis, normal intervals, normal [**Last Name (LF) 1858**], [**First Name3 (LF) **]
+depression at 1 mm in V5, no change compared to
+electrocardiogram from [**2766-2-19**].
+
+HOSPITAL COURSE:  The impression was that this was a 67-year-old
+female with a history of chronic obstructive pulmonary disease
+and emphysema with ALS, history of atrial fibrillation,
+presenting in respiratory distress status post intubation in the
+Emergency Department.
+
+1.  Pulmonary:  The patient had poor air movement, wheezing,
+hyperinflation, and respiratory failure with hypoxia.  The
+patient had been recently admitted for a chronic obstructive
+pulmonary disease exacerbation responding to nebulizers,
+steroids, and Levaquin.  The differential diagnosis on this
+admission for this patient's respiratory failure was a recurrent
+chronic obstructive pulmonary disease flare versus chronic
+obstructive pulmonary disease aspiration secondary to mucous plug
+or secondary to aspiration versus pulmonary embolism versus flash
+pulmonary edema secondary to rapid heart rate.
+
+CT angiogram was negative for pulmonary embolism.  An
+echocardiogram was done to evaluate for congestive heart failure
+exacerbating chronic obstructive pulmonary disease.
+Echocardiogram showed an ejection fraction of 55% and no mitral
+regurgitation.  There was no evidence of pneumonia or congestive
+heart failure during the MICU stay.  The trigger of this
+patient's acute respiratory failure was uncertain.  The patient
+was treated with steroids (Solu-Medrol switched to Prednisone
+with taper), Levaquin and Flagyl for a question of aspiration
+pneumonia, for a total of a 10-day course, Albuterol and Atrovent
+nebulizers, and diuresis to maintain the patient euvolemic.
+
+The patient was initially intubated with high-pressure support
+and noted to have auto-PEEP with a slow long wean to extubation.
+Upon transfer to the floor, the patient's respiratory status was
+stable.  The patient required an oxygen requirement of [**2-20**] L
+nasal cannula during the hospital stay after transfer out of the
+MICU.  The patient was continued on Albuterol and Atrovent
+nebulizer therapy.
+
+2.  Right lung mass:  The patient had a right lung mass
+suspicious for cancer.  A CT scan of the chest was done on this
+admission showing a right lower lobe lung mass, 3 cm x 3 cm x 3
+cm in dimension, with speckled calcification.  There was also
+mediastinal and paratracheal lymphadenopathy raising the
+suspicion for cancer.  On comparison with a chest CT done at the
+[**Hospital6 4089**] in [**2764-7-18**], the mass was larger,
+and the adenopathy was new.
+
+A Pulmonary consult was obtained with bronchoscopy and biopsy of
+the paratracheal lymph node.  Final pathology of the specimen is
+pending.
+
+3.  Cardiac:  The patient had an episode of atrial tachycardia on
+admission to the Intensive Care Unit which had been well
+controlled on Diltiazem which was titrated up to 90 mg p.o. q.6
+hours.  Upon transfer to the floor, the patient was switched to
+Cardizem CD 360 mg p.o. q.d., and then titrated up further to 480
+p.o. q.d.  The patient was monitored on telemetry for the
+duration of her stay on the floor.  The patient did not require
+intravenous Diltiazem for interim episodes of atrial tachycardia.
+
+4.  Hematology:  In the Intensive Care Unit, the patient had a
+hematocrit drop from 28 to 22.  The etiology of this hematocrit
+drop was unclear.  The patient had a history of diverticulitis.
+The patient was transfused 2 U of packed red blood cells.
+Hematocrit was stable for the remainder of the hospital stay.
+
+5.  Neurologic:  The patient had a reported history of ALS
+diagnosed at the [**Hospital6 4089**].  The patient was
+reevaluated by the Neuromuscular Service on this admission, and
+their impression was that the patient did not have ALS.  The
+patient was restarted on Trazodone and Amitriptyline for
+depression upon transfer back to the floor.
+
+On [**3-31**], the patient was found unresponsive by the nursing
+staff in the morning.  It was uncertain if the patient was having
+any seizure activity before this episode.  Upon finding the
+patient unresponsive, the patient was placed back in bed and was
+described by the nurses as being unresponsive and "floppy."  By
+the time she was examined by the medical team, the patient was
+back to her baseline.  An arterial blood gas was checked showing
+a pH of 7.42, pCO2 57, pO2 246 on 5 L nasal cannula oxygen.  The
+patient's baseline CO2 is in the 60s.  The patient's heart rate
+was 108, and an electrocardiogram showed sinus tachycardia.  The
+etiology of this acute unresponsiveness was unclear.
+
+As the patient had a right lung mass suspicious for cancer, an
+MRI of the head was ordered to rule out brain metastasis with a
+seizure focus.  Other items of a differential diagnosis included
+a central paraneoplastic syndrome.  The patient also has weak
+upper extremities (previously diagnosed as ALS but was
+reevaluated and no longer carries this diagnosis).  Another item
+on the differential diagnosis was Lambert-Eaton syndrome, a
+paraneoplastic syndrome.  The patient had no further episodes of
+unresponsiveness during the hospital stay.
+
+6.  Endocrine:  In the Intensive Care Unit, the patient was on a
+regular Insulin sliding scale as she had been on steroids for
+treating her chronic obstructive pulmonary disease flare.  The
+patient's fingersticks were within normal limits upon transfer to
+the floor, and therefore the sliding scale was discontinued.
+
+
+
+
+
+
+                                      [**Name6 (MD) 177**] [**Name8 (MD) **], M.D.
+[**MD Number(1) 18291**]
+
+
+Dictated By:[**Doctor Last Name 30711**]
+MEDQUIST36
+
+D:  [**2766-4-6**]  08:35
+T:  [**2766-4-6**]  08:34
+JOB#:  [**Job Number 30712**]
+
+
+
+DOC CLASS

@@ -1,0 +1,159 @@
+TITLE:
+   History of Present Illness
+   Date: [**3068-1-5**]
+   Initial visit
+   Events / History of present illness: [**3068-1-4**]-
+   -confused at night
+   -HR elevated to 130s, asymptomatic, given lopressor 12.5 oral twice;
+   then 3 hours later, still elevated, given 5mg IV twice without change;
+   then 25mg PO lopresser, HR still in 120s; ordered 12.2mg lopressor x 1
+   with 500ml fluid (see below); then later given 25mg at 1AM with 1 gram
+   of tylenol (pt was febrile); HR still elevated and only 100ml urine, BP
+   in 90s, given two 500ml boluses, HR improved to 110s, SBP 100s
+   -only 100ml urine output over 6 hours, orderded 500ml bolus to help
+   with UO and to prevent drop in SBP with lopressor; later given two more
+   500ml boluses- pt then had 200ml UO
+   -CXR with infiltrate on right base, started on levo, sputum cx ordered
+   -EEG at 0030, no significant change in STelevations, afib with RVR
+   .
+   Medications
+   Unchanged
+   Physical Exam
+   BP: 98 / 85 mmHg
+   HR: 110 bpm
+   Tmax C last 24 hours: 38.4 C
+   Tmax F last 24 hours: 101.2 F
+   T current C: 38.4 C
+   T current F: 101.2 F
+   Previous day:
+   Intake: 94 mL
+   Output: 100 mL
+   Fluid balance: -6 mL
+   Today:
+   Intake: 606 mL
+   Output: 0 mL
+   Fluid balance: 606 mL
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Jugular veins: Not visible)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: WNL), (Auscultation: Abnormal, decreased breath
+   sounds)
+   Cardiac: (Rhythm: Irregular), (Palpation / PMI: WNL), (Auscultation:
+   S1: WNL, S3: Absent, S4: Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Pulsatile mass: No), (Hepatosplenomegaly: No)
+   Genitourinary: (WNL)
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   No bruit)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Dorsalis pedis
+   artery: Right: 1+, Left: 1+), (Edema: Right: 2+, Left: 2+)
+   Skin: (Abnormal, erythema of the left leg with 2cm ulcerations, no
+   drainage)
+   Labs
+   234
+   13.1
+   114
+   0.7
+   26
+   4.0
+   15
+   104
+   140
+   37.9
+   7.9
+        [image002.jpg]
+                            [**3068-1-4**]  11:21 PM
+                            [**3068-1-5**]  04:31 AM
+   WBC
+   7.9
+   Hgb
+   13.1
+   Hct (Serum)
+   37.9
+   Plt
+   234
+   INR
+   1.6
+   PTT
+   115.1
+   78.6
+   Na+
+   141
+   140
+   K + (Serum)
+   4.4
+   4.0
+   Cl
+   103
+   104
+   HCO3
+   27
+   26
+   BUN
+   16
+   15
+   Creatinine
+   0.7
+   0.7
+   Glucose
+   115
+   114
+   CK
+   624
+   431
+   CK-MB
+   63
+   Troponin T
+   1.59
+   ABG: /  /  / 26 /    Values as of [**3068-1-5**] 04:31 AM
+   Assessment and Plan
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+   62 yo F with STEMI and schizophrenia who refused revascularization.
+   .
+   # STEMI: The patient has ST elevation with significant troponin
+   elevation.  Given that the patient is unable to be revascularized, the
+   patient will be managed medically.    The patient will continue to be
+   able to refuse revascularization while stable.  However, should the
+   patient become unstable, she will have to get a cardiac
+   catherization.   The cardiology fellow has been in contact with the
+   psychatrist on call who recommends that legal be contact[**Name (NI) **] in the event
+   of necessitating a cardiac catherization.
+   - Heparin gtt, integrilin gtt
+   - Aspirin, plavix
+   - serial cardiac enzymes
+   - echocardiography on monday
+   - beta blocker with goal HR <100, atorvastatin
+   - serial ECG, continuous evaluation for arrhythmia
+   .
+   # PUMP:  Significant lower extremity edema, no signs of fluid overload
+   on CXR or lung exam. However, previous history of intermittent lower
+   extremity edema with associated weight gain and dyspnea is concerning
+   for CHF.
+   - strict I/O, lasix prn
+   - echo in AM
+   .
+   # RHYTHM:  Atrial fibrillation with RVR.  Not currently on
+   anticoagulation.  Will start on Aspirin 325 mg for stroke ppx.
+   Additionally will rate control with IV lopressor.
+   .
+   #  Cellulitis: Likely secondary to stasis with injury.  Will treat with
+   abx, trend erythema.
+   .
+   #  Pneumonia: CXR consistent with LLL pneumonia, will treat with
+   levofloxacin for now, will broaden coverage as needed
+   .
+   #  Schizophrenia- will continue home prescribed risperadal, normal
+   .
+   FEN: IV fluids normal,  normal electrolytes,
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with heparin gtt
+   CODE: Presumed full
+   DISPO: Cardiology floor service for now
+
+
+
+DOC CLASS

@@ -1,0 +1,159 @@
+Chief Complaint:  respiratory distress
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   [**Age over 90 50**] yr old man with Alzeimers ESRD MWF HTN asp PNA who presents with
+   fevers and resp distress from HD< Hx per dtr largely,
+   at fridays HD ? chilss, did fine over weekend. Then at HD today temp
+   101 and tx to ED. He had stable BP and HR but tacypneic. WBC 14.2.  K
+   6.2 ECG without peaked ts. Kayexylate PR>
+   Rx Clinda Vanco Ceftaz for ? PNA.
+   He apparently developed increased resp distress, HTN, Rx with IV Nitro
+   and BIPAP and tx MICU. Lactate 2.4.
+   Note he underwnet anuerysm removal of AV fistulka on [**2985-2-7**]
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Family / Friend
+   Allergies:
+   [**Name2 (NI) 55**] Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   htn
+   esrd - AV fistula revision on [**2985-2-12**]
+   alzheimers
+   MSSA psuedomonas
+   c diff
+   bladder ca
+   diastolic CHF
+   Home Meds: metoprolol, minoxidil, PPI, ramantidine, lkisinopril
+   amlopdne mvi asa 8
+   B CAD
+   M ESRD
+   Occupation: retired kitchen worker
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: lives at [**Hospital1 159**], daughter very involved in care
+   Review of systems:
+   Constitutional: Fever
+   Ear, Nose, Throat: Dry mouth
+   Respiratory: Dyspnea
+   Gastrointestinal: Abdominal pain
+   Genitourinary: Dialysis
+   Psychiatric / Sleep: No(t) Agitated
+   Flowsheet Data as of [**2985-3-7**] 09:20 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**86**] AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.3
+C (99.2
+   HR: 87 (87 - 87) bpm
+   BP: 144/58(80) {144/50(80) - 170/58(83)} mmHg
+   RR: 21 (21 - 21) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             3 mL
+   PO:
+             TF:
+   IVF:
+   3 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      3 mL
+   Respiratory
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 577 (476 - 577) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 28
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 8 cmH2O
+   SpO2: 98%
+   ABG: ////
+   Ve: 12.9 L/min
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bases, Diminished: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: 2+, Left lower extremity
+   edema: 2+, pedal edema
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm, erythema over fistula
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Oriented (to): ?self
+   Labs / Radiology
+   [**Telephone/Fax (2) 12000**]9
+   93
+   6.2
+   140
+   14.8
+        [image002.jpg]
+   Other labs: PT / PTT / INR://1.2, Differential-Neuts:84, Band:5,
+   Lymph:6, Lactic Acid:2.4, Mg++:2.2, PO4:3.4
+   Microbiology: Blood Cx pending
+   CXR: on BIPAP less interstitial edema, still cannot exclude
+   retrocardiac process
+   ECG: SR at 85, RBB and V3-V6 TWI are old. No peaked t waves.
+   Assessment and Plan
+   [**Age over 90 50**] yr old man presents with fevers and resp distress requiring non
+   invasive ventilation
+   1.       Resp Distress: in setting of HTN and volume overload with
+   question of superimposed infection.. Agree with plans for BIPAP as a
+   bridge while getting HD.
+   Question of pneumothorax raised in initial CXR but not seen on follow
+   up CXRs
+ check serial CXR, low pressures. Thoracics following.
+   2.       Fevers: DDX is fistula infection in setting of recent surgery
+   in that will cover Vanco, Cefipime, Flagyl. To cover both nosocomial
+   PNA and fistula infection.  Low threshold for Dapto if deteriorates
+   sonce hx of [**Name (NI) 1549**] (swab only)  Transplant surgery was involved in the ED
+   to  clear use of fistula and they agree- be sure to have them follow in
+   house. Follow
+   3.       ESRD: start on HD tonight in MICU, repeat K after HD run
+   4.       HTN: in setting o fevers and underdiuresis. Restart home meds,
+   getting HD< wean nitro drip as tolerates for BP less than 160. No ecg
+   changes
+   Remaining issues as per Housestaff.
+   ICU Care
+   Nutrition: NPO on BIPAP then mech soft aspiration precautions
+   Glycemic Control:
+   Lines / Intubation:
+   18 Gauge - [**2985-3-7**] 07:28 PM
+   20 Gauge - [**2985-3-7**] 07:29 PM
+   Comments:
+   Prophylaxis:
+   DVT: sc heo
+   Stress ulcer:PPI
+   VAP:  HOB chlorhex
+   Communication:  daughter [**Name (NI) **]
+   [**Last Name (NamePattern1) 62**] status: DNR/DNI
+   Disposition: ICU
+   Total time spent: 40
+
+
+
+DOC CLASS

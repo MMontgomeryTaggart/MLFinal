@@ -1,0 +1,196 @@
+Chief Complaint: Respiratory Failure, Shock
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   72 year old woman with PMH CAD, AVR, p/w septic shock [**2-6**] pneumonia
+   course complicated by NSTEMI. Please see previous noted for details.
+   24 Hour Events:
+   Code Status changed to DNR
+   Transfused 2U PRBC
+   Started on vasopressin , still on levo
+   Allergies:
+   Diuril (Oral) (Chlorothiazide)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3283-12-26**] 03:30 PM
+   Piperacillin - [**3283-12-27**] 12:00 AM
+   Ciprofloxacin - [**3283-12-27**] 03:32 AM
+   Infusions:
+   Fentanyl - 75 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Vasopressin - 2.4 units/hour
+   Insulin - Regular - 5 units/hour
+   Heparin Sodium - 600 units/hour
+   Norepinephrine - 0.34 mcg/Kg/min
+   Other ICU medications:
+   Midazolam (Versed) - [**3283-12-26**] 09:48 AM
+   Fentanyl - [**3283-12-26**] 09:48 AM
+   Pantoprazole (Protonix) - [**3283-12-27**] 12:00 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3283-12-27**] 09:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 40.6
+C (105
+   Tcurrent: 39.5
+C (103.1
+   HR: 120 (109 - 131) bpm
+   BP: 103/45(65) {91/39(56) - 118/53(73)} mmHg
+   RR: 25 (22 - 32) insp/min
+   SpO2: 34%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 62 Inch
+   CVP: 7 (7 - 18)mmHg
+   Bladder pressure: 14 (14 - 14) mmHg
+                                Total In:
+                                                                  6,374 mL
+                                                                  1,828 mL
+   PO:
+                                TF:
+   IVF:
+                                                                  5,434 mL
+                                                                  1,828 mL
+   Blood products:
+                                                                    700 mL
+   Total out:
+                                                                    556 mL
+                                                                    527 mL
+   Urine:
+                                                                    406 mL
+                                                                    127 mL
+   NG:
+                                                                    150 mL
+                                                                    400 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,818 mL
+                                                                  1,301 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 430 (380 - 430) mL
+   RR (Set): 32
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 32 cmH2O
+   Plateau: 26 cmH2O
+   SpO2: 34%
+   ABG: 7.28/34/102/16/-9
+   Ve: 13.4 L/min
+   PaO2 / FiO2: 170
+   Physical Examination
+   Cardiovascular: (S1: Normal), (S2: Normal, Distant)
+   Peripheral Vascular: (Right radial pulse: Absent), (Left radial pulse:
+   Absent), (Right DP pulse: Present), (Left DP pulse: Present), by
+   doppler
+   Respiratory / Chest: (Breath Sounds: Bronchial: right base,
+   Rhonchorous: left)
+   Abdominal: Soft, Non-tender, Distended
+   Extremities: Cyanosis, cold
+   Skin:  Not assessed
+   Neurologic: No(t) Attentive, Responds to: Unresponsive, Movement: Not
+   assessed, Sedated, Tone: Not assessed
+   Labs / Radiology
+   10.6 g/dL
+   347 K/uL
+   183 mg/dL
+   2.9 mg/dL
+   16 mEq/L
+   4.0 mEq/L
+   45 mg/dL
+   101 mEq/L
+   129 mEq/L
+   30.8 %
+   14.1 K/uL
+        [image002.jpg]
+                            [**3283-12-26**]  06:00 PM
+                            [**3283-12-26**]  06:38 PM
+                            [**3283-12-26**]  07:55 PM
+                            [**3283-12-26**]  08:48 PM
+                            [**3283-12-26**]  10:04 PM
+                            [**3283-12-27**]  12:02 AM
+                            [**3283-12-27**]  12:42 AM
+                            [**3283-12-27**]  01:01 AM
+                            [**3283-12-27**]  03:53 AM
+                            [**3283-12-27**]  04:05 AM
+   WBC
+   14.1
+   Hct
+   31.5
+   31.6
+   30.8
+   Plt
+   347
+   Cr
+   2.8
+   2.9
+   TropT
+   7.46
+   10.06
+   TCO2
+   21
+   21
+   21
+   19
+   18
+   18
+   17
+   Glucose
+   243
+   183
+   Other labs: PT / PTT / INR:19.1/130.0/1.8, CK / CKMB /
+   Troponin-T:853/19/10.06, ALT / AST:2193/2212, Alk Phos / T Bili:92/0.7,
+   Differential-Neuts:82.0 %, Band:1.0 %, Lymph:14.0 %, Mono:0.0 %,
+   Eos:0.0 %, Fibrinogen:910 mg/dL, Lactic Acid:2.4 mmol/L, LDH:2454 IU/L,
+   Ca++:7.3 mg/dL, Mg++:2.2 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   72 year old woman p/w pneumonia, septic shock, and NSTEMI. Now with
+   shock liver and progressive acute renal failure. Prognosis is
+   increasingly grim.
+   High dose pressors despite adequate volume resuscitation(CVP 15, no
+   pulse pressure variation). Worsening metabolic acidosis will speak with
+   family today about RRT and possibly consult renal. Troponins still
+   increasing but no utility to cardiac intervention. Will check TTE today
+   but appears to be in primarily distributive shock at this point.
+   Further plans as per resident note.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   20 Gauge - [**3283-12-25**] 11:30 PM
+   Multi Lumen - [**3283-12-26**] 12:50 AM
+   Arterial Line - [**3283-12-26**] 10:00 AM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication: Family meeting held  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :ICU
+   Total time spent: 40 minutes
+   Patient is critically ill
+   I saw and examined the patient, and was physically present on rounds
+   with the ICU team for the key portions of the services provided. I
+   would emphasize and add the following points:   Multiorgan failure
+   involving septic and likely cardiogenic shock in context of new NSTEMI
+   (trop-t of 10), lingular pneumonia, baseline cardiomyopathy (EF 25%),
+   acute renal failure, pressor dependence, and shock liver.
+   Worsening metabolic acidosis and high pressor requirement despite
+   adequate fluid resuscitation.
+
+
+
+DOC CLASS

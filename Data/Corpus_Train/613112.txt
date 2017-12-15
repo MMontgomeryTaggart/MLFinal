@@ -1,0 +1,207 @@
+TITLE:
+   Chief Complaint: Shock - cardiogenic
+   24 Hour Events:
+   - Hct drop to 25.9 with am labs. Guaiac neg. Repeat Hct 28.2
+   - Fena 0.3
+   - Code status confirmed as FULL
+   - Renal c/s - More c/w Pre-renal azotemia. Urine sediment with many
+   casts more c/w ATN. Less likely HRS given normal BPs and active
+   sediment. Added on Urine Eos.
+   - Liver c/s - Did not see patient, but suggested midodrine and
+   octreotide. Decision deferrred until Liver team can see the patient in
+   person
+   - EP recs none
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientAmoxicillin
+   Unknown;
+   Sulfa (Sulfonamides)
+   Unknown;
+   Iodine; Iodine Containing
+   Rash;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3167-5-5**] 08:12 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3167-5-6**] 10:00 PM
+   Heparin Sodium (Prophylaxis) - [**3167-5-6**] 11:19 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3167-5-7**] 07:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.7
+C (98
+   HR: 57 (53 - 60) bpm
+   BP: 151/55(77) {102/40(62) - 154/77(90)} mmHg
+   RR: 15 (15 - 30) insp/min
+   SpO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 77 kg (admission): 79.8 kg
+   Height: 61 Inch
+                  Total In:
+                                                                  1,515 mL
+                                                                    260 mL
+   PO:
+                                                                    840 mL
+                                                                    260 mL
+   TF:
+   IVF:
+                                                                    510 mL
+   Blood products:
+                                                                    165 mL
+   Total out:
+                                                                    328 mL
+                                                                    285 mL
+   Urine:
+                                                                    328 mL
+                                                                    285 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,187 mL
+                                                                    -25 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///17/
+   Physical Examination
+   GENERAL:  a/o x3, comfortable
+   SKIN:  mild jaundice, no stigmata of liver disease
+   HEENT:  NCAT. Sclera anicteric. EOMI. Conjunctiva pale.
+   NECK:  Supple. No appreciable JVD (exam limited [**1-16**] body habitus)
+   CARDIAC:  RRR, normal S1, quiet S2; III/VI holosystolic murmur loudest
+   at LUSB
+   LUNGS:  Diffuse expiratory wheezes trace crackles
+   ABDOMEN:  Obese; mild distension but soft non-tender. Dull to
+   percussion, unable to appreciate fluid wave.
+   EXTREMITIES:  No lower extremity edema. Radial, DP pulses 2+.
+   Neuro:  No asterixis; CNII-XII intact; EOMI; upper and lower extremity
+   strength 5/5 and equal bilaterally.
+   Labs / Radiology
+   131 K/uL
+   9.2 g/dL
+   132 mg/dL
+   3.4 mg/dL
+   17 mEq/L
+   4.5 mEq/L
+   79 mg/dL
+   108 mEq/L
+   134 mEq/L
+   27.7 %
+   8.2 K/uL
+        [image002.jpg]
+                             [**3167-5-5**]  02:05 PM
+                             [**3167-5-6**]  03:26 AM
+                             [**3167-5-6**]  03:00 PM
+                             [**3167-5-7**]  05:42 AM
+   WBC
+   19.0
+   9.4
+   8.2
+   Hct
+   32.6
+   25.9
+   28.2
+   27.7
+   Plt
+   172
+   114
+   131
+   Cr
+   3.3
+   3.5
+   3.7
+   3.4
+   Glucose
+   160
+   133
+   140
+   132
+   Other labs: PT / PTT / INR:16.3/31.2/1.5, ALT / AST:15/18, Alk Phos / T
+   Bili:73/0.6, Differential-Neuts:84.6 %, Lymph:11.4 %, Mono:2.6 %,
+   Eos:1.1 %, Albumin:3.6 g/dL, LDH:157 IU/L, Ca++:8.2 mg/dL, Mg++:2.3
+   mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ DIABETES MELLITUS (DM), TYPE II
+ AORTIC STENOSIS
+ ASCITES
+ KNOWLEDGE DEFICIT
+   77F with CAD s/p triple CABG, cirrhosis, DMII, HTN, CRI transferred
+   from OSH with new finding of severe AS, bradycardia, hypotension,
+   leukocytosis, and ARF on CRI, in the setting of increasing shortness of
+   breath and abdominal girth.
+   # SBP / ASCITES / CIRRHOSIS.  Unknown etiology.  On CTX for 5 day
+   course.
+   -          Continue on ceftriaxone 1 g qd for 5 days (day 1 = [**3167-5-5**])
+   -          Albumin 1.0g/kg today
+   -          Will consider Cipro 750 mg qweek after ceftriaxone is
+   discontinued
+   -          Transfer to liver service now that pt is stable
+   -          Low salt diet, fluid restriction
+   # AORTIC STENOSIS.  Severe, new dx.
+   - CT [**Doctor First Name 204**] c/s for non-emergent intervention
+   - cards will continue to follow while on floor
+   # BRADYCARDIA.  Down to 50
+s while sleeping.
+   -          holding anti HTN
+   -          EP consult, appreciate recs
+   -          Atropine at bedside
+   -          Monitor on telemetry
+   # ACUTE ON CHRONIC RENAL FAILURE.  Cr at 3.4, down from 3.7.  Baseline
+   1.7.  Sediment suggestive of ATN given casts, and hypotension at OSH.
+   Also consdiered HRS though less likely.   UOP improving over last 24
+   hours, 400 since MN.
+   - renal following, appreciate recs
+   -  Continue trending creatinine [**Last Name (un) **]
+   -          IV albumin today
+   -          monitor UOP
+   -          Hold diuretics
+   # ANEMIA.  Stable at 27 this morning.  The patient had a drop in
+   hematocrit from 32 to 25 yesterday.  Guaiac neg.  Pt reportedly on
+   epogen 10,000u qSaturday.
+   - trend daiy
+   - will ask renal about why pt on epogen
+   # HYPOTENSION:  Resolved.  Likely in setting of SBP.
+   -          Hold anti-hypertensives
+   -          On ceftriaxone as abov
+   #. CORONARIES:  CAD s/p CABG. Anatomy as listed previously. No chest
+   pain currently or prior to OSH admission, although this is not
+   necessarily reassuring in this female, diabetic patient. By report,
+   cardiac biomarkers were negative at outside hospital.
+   - decrease ASA to 81mg
+   - Holding anti HTN as above
+   - Continue simvastatin 20mg PO daily
+   #. PUMP:  EF 65-70%.  AS as above.
+   - Hold beta-blocker given recent bradycardia, hypotension.
+   - Hold lasix
+   #. Diabetes melliitus, type II:
+   - Continue Humalog sliding scale per home regimen
+   ICU Care
+   Nutrition:  low salt
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3167-5-5**] 09:41 PM
+   22 Gauge - [**3167-5-6**] 02:40 PM
+   Prophylaxis:
+   DVT:  heparin sq
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:  FULL
+   Disposition: call out to [**Doctor Last Name 957**] [**Doctor Last Name 2537**] service
+
+
+
+DOC CLASS

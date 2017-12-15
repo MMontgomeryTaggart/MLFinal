@@ -1,0 +1,278 @@
+Chief Complaint:  Unresponsiveness
+   HPI:
+   Mr. [**Known patient lastname 3681**] is a [**Age over 90 **] year old gentleman wiht a PMH significant for
+   CAD, COPD on 2L nc at night, PE on coumadin, mild AS, and DM 2
+   transferred to the CCU for unresponsiveness. The patient was initially
+   admitted to an OSH for unresponsiveness and slurred speech that
+   spontaneously resolved. At that time, he denied any chest pain, but
+   does endorse dyspnea with exertion and occasional exertional chest pain
+   when walking from his bed to the bathroom.  At the OSH, the patient had
+   a CTH that was negative and carotid dopplers that demonstrated severe
+   bilateral carotid stenosis. He was also noted to have a right foot
+   ulcer for which he received amp/sulbactam and was transfused 1 unit
+   pRBCs on the morning of [**2583-11-9**] for a hemoglobin of 10.0.  Of note,
+   the patient was scheduled for an outpatient revascularization procedure
+   of the RLE on [**2583-11-11**] prior to this admission.
+   .
+   On initial arrival, the patient was noted to be mildly fluid overloaded
+   and noted that he had increased lower extremity edema for the past 2
+   weeks. A CXR demonstrated mild pulmonary edema and increased pulmonary
+   vascular congestion with a BNP of 2200.  This morning, the patient was
+   found to be unresponsive. On initial exam, he was noted to have
+   convulsions, which were not tonic-clonic in nature.  ABG on 2L nc
+   7.40/62/91 and the patient received 40 mg IV lasix.  He regained
+   consciousness within minutes, although remained confused and unable to
+   follow commands for several minutes without any stool incontinence (FC
+   in place).
+   .
+   Currently, he is resting comfortably without complaints. Denies CP/SOB,
+   f/c/s, n/v/d, abd pain, HA, palpitations, diaphoresis, or pain
+   radiating to jaw or arm.
+   Allergies:
+   Lisinopril
+   Unknown;
+   Zoloft (Oral) (Sertraline Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   MEDICATIONS (On transfer to CCU)
+   Aspirin 81 mg PO DAILY
+   Atorvastatin 80 mg PO DAILY
+   Docusate Sodium 100 mg PO BID
+   Furosemide 40 mg PO DAILY
+   Insulin SC  (per Insulin Flowsheet) Sliding Scale
+   Ipratropium Bromide Neb 1 NEB IH Q6H
+   Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY
+   Lorazepam 0.5 mg PO QAM
+   Metoprolol Tartrate 25 mg PO BID
+   Miconazole Powder 2% 1 Appl TP QID:PRN
+   Senna 1 TAB PO BID:PRN constipation
+   .
+   MEDICATIONS (Home per OSH):
+   Lipitor 80mg PO qday
+   Metoprolol 25mg PO BID
+   Ranitidine 150mg PO BID
+   Lorazepam .5mg PO qHS
+   Coumadin 5mg four days per week (per d/c summary, was M/T/W/F)
+   Coumadin 7.5mg 3 days per week (per d/c summary, was Sat/Sun/[**Last Name (un) **])
+   Glipizide 10mg PO BID
+   Gabapentin 100mg PO TID
+   Isosorbide 60mg PO qday
+   Lasix 40mg PO qday
+   Atenolol 25mg PO qday
+   Insulin 20 units SC qday (type not specified)
+   ?prednisone
+   .
+   MEDICATIONS (Transfer to [**Hospital1 5**]):
+   Regular Insulin sliding scale
+   Atenolol 12.5mg PO qday
+   Atorvastatin 80mg PO qday
+   Glipizide 10mg PO BID
+   Nystatin powder
+   Ranitidine 300mg PO qday
+   Tylenol PRN
+   Past medical history:
+   Family history:
+   Social History:
+   Coronary Artery Disease s/p cath [**8-7**] with occlusion of LAD and
+   collaterals, medically managed
+   Aortic stenosis - mild on cath ([**8-7**]), mean peak to peak gradient of 28
+   mmHg.
+   PE ([**6-7**])
+   COPD - 2L supplemental oxygen at night
+   Restrictive lung disease (per report)
+   Diabetes Mellitus
+   Obesity
+   arthritis
+   Paralysed left hemi-diaphragm
+   Appendectomy
+   prior knee surgery
+   Mother had a stroke, [**Name (NI) **] CHF, Daughter with leukemia, Son died
+   of "cancer"
+   He is a widower who lives with his daughter in [**Name (NI) 9175**].  Tobacco
+   history: history of 1 ppd x 2 years, quit in 60s
+   Review of systems: Cardiac review of systems is notable for absence of
+   chest pain, paroxysmal nocturnal dyspnea, orthopnea, palpitations,
+   syncope or presyncope.
+   Flowsheet Data as of [**2583-11-10**] 12:32 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 67 (67 - 67) bpm
+   BP: 111/54(66) {111/54(66) - 111/54(66)} mmHg
+   RR: 31 (31 - 31) insp/min
+   SpO2: 89%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,200 mL
+   Urine:
+   1,200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,200 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 89%
+   Physical Examination
+   GENERAL: Age appropriate male in NAD
+   HEENT: Perrl, eomi, sclerae anicteric. MMM, OP clear without lesions,
+   exudate, or erythema.
+   CV: Nl S1+S2, II/VI systolic murmur throughout precordium loudest at
+   the base. Unable to ascertain JVP.
+   Pulm: Decreased breathsounds at left base. No wheezes.
+   Abd: S/NT/ND +bs
+   Ext: 1+ edema bilaterally. Unable to palpate dp/pt pulses
+   Neuro: Oriented to person and time. CN II-XII intact.
+   Skin: RLE bandaged. 2x2 cm ulcuer with eschar. No surrounding erythema.
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: 2.STENOSES IDENTIFIED INVOLVING THE MAJOR BRANCH VESSELS OF
+   THE ABDOMINAL AORTA. I SUSPECT MODERATE STENOSIS OF THE ORIGINS OF THE
+   SUPERIOR MESENTERIC ARTERY AND THE CELIAC ARTERY. ADDITIONALLY I
+   SUSPECT MILD NARROWING OF THE ORIGIN OF THE RIGHT RENAL ARTERY AND MILD
+   TO MODERATE NARROWING ON THE LEFT SIDE. ALL FOUR VESSELS DO OPACIFY
+   WELL DISTAL TO THE PROXIMAL NARROWINGS.
+   3.EVIDENCE OF PORTAL HYPERTENSION. THERE IS AN OBVIOUS VARICOSITY
+   CONNECTING FROM THE DISTAL SPLENIC VEIN TO THE INFERIOR VENA CAVA.
+   4.CONSOLIDATION ATELECTASIS INVOLVING LEFT LOWER LOBE. CLINICAL
+   CORRELATION RECOMMENDED.
+   .
+   Cardiac Cath [**2583-8-25**]:
+   1. Coronary angiography in this left dominant system demonstrated one
+   vessel disease. The LMCA had mild disease, but no flow-limiting
+   stenosis. The LAD was proximally occluded. The LCx had mild disease.
+   The RCA was small and had mild disease; it also provided collateral
+   flow to the LAD via the conus.
+   2. Limited resting hemodynamics revealed a slightly elevated left-sided
+   filling pressure of 15mmHg. The systemic arterial blood pressure was
+   within normal limits.
+   3. There was mild aortic stenosis with a mean peak to peak gradient of
+   28 mmHg.
+   FINAL DIAGNOSIS:
+   1. One vessel coronary artery disease with proximal LAD occlusion.
+   2. Mild aortic stenosis.
+   .
+   Echo [**2583-8-25**]:
+   The left atrium is elongated. There is mild symmetric left ventricular
+   hypertrophy with normal cavity size. Regional left ventricular wall
+   motion is normal. Left ventricular systolic function is hyperdynamic
+   (EF>75%). There is no left ventricular outflow obstruction at rest or
+   with Valsalva. No mid-cavitary gradient is identified. Right
+   ventricular chamber size and free wall motion are normal. The diameters
+   of aorta at the sinus, ascending and arch levels are normal. The aortic
+   valve leaflets (3) are moderately thickened. There is mild aortic valve
+   stenosis (valve area 1.2-1.9cm2). No aortic regurgitation is seen. The
+   mitral valve leaflets are mildly thickened. No mitral regurgitation is
+   seen. [Due to acoustic shadowing, the severity of mitral regurgitation
+   may be significantly UNDERestimated.] There is mild pulmonary artery
+   systolic hypertension. There is an anterior space which most likely
+   represents a fat pad.
+   IMPRESSION: Symmetric left ventricular hypertrophy with preserved
+   regional and global systolic function. Mild aortic valve stenosis. Mild
+   pulmonary artery systolic hypertension.
+   ECG: Sinus with 1:1 conduction. LBBB. NI. TWI in V1-V3 new compared to
+   [**2583-8-25**].
+   Assessment and Plan
+   Mr. [**Known patient lastname 3681**] is a [**Age over 90 **] year old gentleman wiht a PMH significant for
+   CAD, COPD on 2L nc at night, PE on coumadin, mild AS, and DM 2
+   transferred to the CCU for unresponsiveness.
+   .
+   # Unresponsiveness: Most likely etioloigy at this time is LLL collapse
+   leading to transient hypoxia in setting of bilateral carotid occlusive
+   disease with supple/demand mismatch.  This may also represent a TIA
+   from embolic source, although less likely.  From an obstructive lung
+   disease standpoint, he appears to be at baseline with minimal wheezing
+   and an ABG on 2L nc with appropriate pH and compensatory metabolic
+   compensation in setting of chronic CO2 retention. Additionally, this
+   may represent new seizure activity, although patient does not have a
+   history of seizure activity. Prior to transfer to CCU, [**Hospital1 1246**] team
+   already consulted neurology for possible TIA and/or seizure.
+   - Chest PT, mucolytics
+   - Continue albuterol and ipratropium nebs.
+   - Non-contrast CTH and CTA neck
+   - Follow-up neurology recs
+   - Continue ASA 81 mg daily
+   .
+   # Carotid stenosis: Patient transferred for carotid intervention.
+   - As above, CTA neck to assess carotid and basilar flow.
+   - Continue ASA 81 and atorvastatin.
+   - Continue to hold coumadin, plan to start heparin in AM when INR<2
+   .
+   # Respiratory: Patient with known COPD on supplemental overnight O2,
+   although this appears to be stable. Based on physical exam, admission
+   CXR, and elevated BNP, he likely also has an element of volume overload
+   secondary to cardiogenic pulmonary edema.  In addition, he was noted to
+   have elevated filling pressures on cardiac catheterization in [**8-7**].
+   Patient received lasix 40 IV this AM.  CXR following unresponsiveness
+   now with LLL collapse.
+   - Lasix prn with goal TBB -1000 cc/day. Check PM lytes.
+   - Albuterol and ipratropium nebs.
+   - Chest PT and mucolytics as above.
+   .
+   # CAD: Patient not currently complaining of chest pain or anginal
+   equivalents.  ECG with new TWI, although low suspicion for ACS at this
+   time.
+   - Continue metoprolol, ASA, statin, imdur.
+   .
+   # Pump: Patient with preserved LVEF on last echo, although with signs
+   of volume overload currently.
+   - Continue metoprolol, lasix as above.
+   .
+   # Rhythmn: Sinus with 1:1 conduction.
+   .
+   # Anemia: Unclear baseline, although patient received 1 unit PRBC at
+   OSH prior to transfer for hemoglobin 10.  Patient with iron studies
+   consistent with iron deficiency anemia.
+   - Trend hct, transfuse for hct<21
+   - Guaiac stools
+   - Call PCP and assess colonoscopy history.
+   .
+   # Pulmonary embolism: Patient with history of PE in [**6-7**] on coumadin.
+   Unclear based on review of records if there was an inciting event and
+   need for continued anticoagulation.
+   - Until clarified, will cover with heparin gtt for INR<2, although
+   patient may not require continued anticoagulation.
+   .
+   # DM: Hold home glipizide. Continue HISS and accuchecks.
+   .
+   FEN: NPO for now pending improvement in mental status. NPO at midnight.
+   Replete as necessary.
+   Access: PIV
+   PPx: Therapeutic INR, heparin gtt with subtherapeutic as above.
+   Code: DNR/DNI confirmed on admission.  Will plan on reversing prior to
+   interventions.
+   Dispo: ICU level of care.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2583-11-10**] 12:17 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

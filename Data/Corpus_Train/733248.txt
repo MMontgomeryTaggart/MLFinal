@@ -1,0 +1,256 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Started on [**Hospital1 7**] lasix
+   Dilt started for tachycardia to low 100s (sinus)
+   Seen by PT, OT will see in AM, then d/c to nursing home
+   GI consult recommended: D/C flagyl, PO Vanc taper, probiotics
+   Allergies:
+   Sulfa (Sulfonamides)
+   Unknown;
+   Hydantoins
+   Unknown;
+   Trimethadione/Paramethadione
+   Unknown;
+   Phenacemide
+   Unknown;
+   Barbiturates
+   Unknown;
+   Primidone
+   Unknown;
+   Gadolinium-Containing Agents
+   Unknown;
+   Mysoline (Oral) (Primidone)
+   Unknown;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3079-8-13**] 06:00 AM
+   Vancomycin - [**3079-8-15**] 11:30 AM
+   Metronidazole - [**3079-8-16**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3079-8-16**] 12:00 AM
+   Furosemide (Lasix) - [**3079-8-16**] 02:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3079-8-16**] 05:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 35.9
+C (96.7
+   HR: 98 (91 - 112) bpm
+   BP: 100/67(74) {84/44(54) - 122/79(88)} mmHg
+   RR: 24 (18 - 37) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                  3,042 mL
+                                                                    643 mL
+   PO:
+             TF:
+                                                                  1,532 mL
+                                                                    343 mL
+   IVF:
+                                                                    300 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  3,330 mL
+                                                                    290 mL
+   Urine:
+                                                                  1,870 mL
+                                                                    290 mL
+   NG:
+   Stool:
+                                                                  1,100 mL
+   Drains:
+                                                                    360 mL
+   Balance:
+                                                                   -288 mL
+                                                                    353 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///26/
+   Physical Examination
+   Gen:  Thin elderly man, cachetic.  NAD.
+   HEENT:  Anicteric.  PERRL.  EOMI.  Poor dentition. Mucus membranes dry
+   but intact.
+   CV:  JVP not elevated.  RRR, quiet heart sounds, no m/r/g,
+   Resp:  Bibasilar rales, CTAB at apexes anteriorly, no rhonchi, or
+   wheezing
+   Abd:  Distended.  Non-tender.
+   Extrem:  Well perfused.  Pitting edema, especially in thighs.
+   Skin:  Sacral decubitus ulcer with clean dressing in place.
+   Neuro:  Speech appropriate.  PERRL.  Moving all 4 extremitites.
+   Resting tremor L>R.
+   Labs / Radiology
+   417 K/uL
+   11.6 g/dL
+   156 mg/dL
+   0.8 mg/dL
+   26 mEq/L
+   3.7 mEq/L
+   24 mg/dL
+   113 mEq/L
+   144 mEq/L
+   34.5 %
+   16.6 K/uL
+        [image002.jpg]
+                             [**3079-8-10**]  03:38 AM
+                             [**3079-8-11**]  03:15 AM
+                             [**3079-8-12**]  04:38 PM
+                             [**3079-8-13**]  03:55 AM
+                             [**3079-8-13**]  03:25 PM
+                             [**3079-8-14**]  07:00 AM
+                             [**3079-8-14**]  03:12 PM
+                             [**3079-8-15**]  03:40 AM
+                             [**3079-8-15**]  06:31 PM
+                             [**3079-8-16**]  02:37 AM
+   WBC
+   22.4
+   23.7
+   34.0
+   30.2
+   19.9
+   19.5
+   16.6
+   Hct
+   39.2
+   35.0
+   38.3
+   37.3
+   37.9
+   33.3
+   34.5
+   Plt
+   389
+   398
+   483
+   463
+   395
+   380
+   417
+   Cr
+   1.1
+   1.1
+   1.2
+   1.2
+   1.2
+   1.1
+   0.9
+   0.8
+   0.9
+   0.8
+   Glucose
+   131
+   132
+   142
+   122
+   110
+   122
+   125
+   150
+   142
+   156
+   Other labs: PT / PTT / INR:14.1/31.6/1.2, CK / CKMB /
+   Troponin-T:20/3/<0.01, ALT / AST:[**12-29**], Alk Phos / T Bili:83/0.4,
+   Amylase / Lipase:17/8, Differential-Neuts:92.2 %, Lymph:5.2 %, Mono:2.3
+   %, Eos:0.3 %, Lactic Acid:1.0 mmol/L, Albumin:2.1 g/dL, LDH:205 IU/L,
+   Ca++:6.9 mg/dL, Mg++:1.8 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   Pt is a 76 y o man with several month history of refractory C.diff
+   presented with septic shock [**12-21**] C.diff colitis now improving.
+   #Hypotension / low urine output / volume overload:  Currently
+   normotensive, with low urine output, pleural effusions, and peripheral
+   edema.  Made about 900 cc of urine yesterday [**8-14**] after receiving Lasix
+   40 mg IV, but then urine output dropped off again.  Creatinine stable.
+   Will attempt further diuresis today.
+   - gentle diuresis with Lasix today
+   - monitor vitals, creatinine, and urine output
+   - give free water 200 mL Q6H via NG tube
+   - p.m. lytes
+   # Leukocytosis: Stable today at 19.  No rash or fever to indicate drug
+   reaction.  No UTI.  Sputum culture cancelled by lab due to extensive
+   contamination with upper respiratory secretions.  Most likely still [**12-21**]
+   colonic inflammation from colitis.
+   - monitor for fever, trend WBC
+   - follow CXRs for signs of evolving PNA
+   - follow blood cultures
+   # C.diff.  Septic shock resolving.  Abdominal exam distended but
+   non-tender.  Diarrhea continues.
+   - continue PO Vanc/IV flagyl for 14 days
+   - follow GI recs
+   - Follow blood cultures
+   # A Fib with RVR.  CEs flat. Had second episode [**8-13**], converted after
+   amiodarone, diltiazem, and digoxin. Continued on IV amiodarone and
+   digoxin,.
+   - monitor
+   - continue 400mg PO BID x 1 week.
+   - Digoxin, per pharmacy recs, will continue w/ 0.125mg PO every other
+   day, will follow levels.  Check dig level next level tomorrow [**3079-8-16**].
+   # Myocardial Ischemia: On presentation had elevated ST segments in
+   setting of clean coronaries per cath report c/w demand ischemia.  Such
+   diffuse elevation would also be consistent with pericarditis.
+   Echocardiogram showed no evidence of restrictive heart disease.
+   Troponins are reassuring. Had repeat ECHO with no increase in effusion
+   or signs of pericarditis. Pt has had no chest pain at any point.
+   - Continue Statin at 40 mg
+   - ASA 81 mg
+   # Parkinson
+   - Continue Senemet 25-100 TID  (needs diet)
+   # Sacral decub
+ Currently very mild per nursing.
+   - dressed by wound care, will change q3days, monitor, frequent turns
+   # Back pain - chronic spinal stenosis.
+   - Vicodin 5/500 Q6HRS PRN Back Pain (home med)
+   # Hypertension:  Held antihypertensives in setting of septic shock.
+   Currently normotensive to mildly hypotensive.
+   - monitor for now, add back as needed.  Norvasc 5 mg QD, Benzaepril 10
+   mg QD.
+   # FEN/GI: Speech and swallow consult showed poor swallowing function,
+   suggests consider PEG placement for long term nutrition, currently
+   swallow is poor and pt should only have small amounts of thickened
+   fluids. NG tube was originally unusable for tube feeds as it was
+   positioned high up in hiatal hernia, was repositioned by IR and is now
+   appropriate for TFs.
+   - replete lytes prn.
+   - phos 2.1 today.  replete.
+   - Bisacodyl PRN, hold for now with colitis and diarrhea.
+   - continue TFs today w/ free water flushes.
+   - f/u GI recs
+   - For his dry mouth, use humidified air on scoop mask, swabs, and oral
+   hygiene
+   # Glycemic control: BS well controlled with SSI.
+   # Lines: Right PICC line.  1 out of 2 ports can be drawn off.  Both
+   open for infusion.
+   # PPx: Heparin SC.  D/c
+d protonix for increased risk of C. diff.
+   # Communication: [**Name (NI) 200**] [**Name (NI) 1768**] (Nephew): [**Telephone/Fax (1) 1769**]
+   # Code: DNR/DNI but could reverse if intubation likely to be temporary
+   # Dispo: ICU for now, is being screened for rehab.
+   ICU Care
+   Nutrition:
+   Impact with Fiber (Full) - [**3079-8-16**] 03:36 AM 65 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3079-8-12**] 09:30 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

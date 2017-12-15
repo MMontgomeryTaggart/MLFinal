@@ -1,0 +1,145 @@
+Chief Complaint:  abd pain
+   HPI:
+   24 y/o F w/ESRD [**1-13**] lupus nephritis, frequent admission for malignant
+   HTN, who missed her HD appt on Tuesday and presented today with abd
+   pain and headache.  In ED, found to have bp 225/150, eventually put on
+   labetalol gtt after many one-time doses failed to control her bp.
+   Admitted to the MICU.
+   Here, labetalol weaned off and switched to nicardipine gtt.  BP better
+   controlled and drip is now off.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Penicillins
+   Rash;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3355-3-6**] 12:28 PM
+   Other medications:
+   clonidine, nicardipine
+   Past medical history:
+   Family history:
+   Social History:
+   - ESRD on HD
+   - SLE
+   - Malignant htn
+   - Hx seizures
+   - PRES
+   - thrombocytopenia
+   - SVC syndrome
+   - fungal infection in left eye s/p enucleation
+   - OSA
+   - MSSA bacteremia in [**Month (only) 1052**]
+   [**Last Name (un) 550**]: prednisone 4, protonix, celexa, labetalol 900 tid, hydralazine 100
+   q8h, nifedipine 30 qhs, nifedipine 90 qam, clonidine patch, clonidine
+   po prn, dilaudid prn
+   no autoimmune diseases
+   Occupation: on disability
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: denies
+   Other: single, lives with mom
+   Review of systems:
+   Cardiovascular: No(t) Chest pain
+   Respiratory: No(t) Dyspnea
+   Gastrointestinal: Abdominal pain, No(t) Nausea, No(t) Emesis
+   Neurologic: Headache
+   Psychiatric / Sleep: Daytime somnolence
+   Flowsheet Data as of [**3355-3-6**] 02:51 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.2
+C (97.1
+   HR: 83 (83 - 94) bpm
+   BP: 125/63(76) {120/62(75) - 185/131(144)} mmHg
+   RR: 24 (16 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             1,054 mL
+   PO:
+             250 mL
+   TF:
+   IVF:
+   204 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    150 mL
+   Urine:
+   150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    904 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, sleeping,
+   snoring, easily arousable
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), S4, (Murmur: Systolic),
+   III/VI HSM at RUSB
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Bowel sounds present, Tender: mild LUQ TTP
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   112
+   25.1
+   90
+   7
+   49
+   20
+   108
+   5.4
+   139
+   4.5
+        [image002.jpg]
+   Other labs: PT / PTT / INR://1.5
+   Imaging: CXR: cardiomegaly, no infiltrate
+   Assessment and Plan
+   24 y/o F w/ESRD on HD, SLE, malignant htn, who presents with malignant
+   hypertension likely due to missing HD, +/- noncompliance with outpt
+   meds.  Currently is off of all drips, bp better controlled, goal around
+   140s-160s.  Her abd pain is c/w her prior pain, exam reassuring without
+   rebound or guarding, will continue to monitor.  Getting dialyzed
+   currently.  OK to transfer to floor if bp stable.
+   ICU Care
+   Nutrition:
+   Comments: low sodium diet (refuses renal diet)
+   Glycemic Control: Blood sugar well controlled
+   Lines / Intubation:
+   18 Gauge - [**3355-3-6**] 09:02 AM
+   Dialysis Catheter - [**3355-3-6**] 09:05 AM
+   Comments:
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

@@ -1,0 +1,340 @@
+Admission Date:  [**2720-6-7**]              Discharge Date:   [**2720-6-8**]
+
+Date of Birth:  [**2657-3-6**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Lisinopril
+
+Attending:[**First Name3 (LF) 455**]
+Chief Complaint:
+s/p fall, acidosis.
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+The patient is a 63 year old woman with PMHx of Hep C & ETOH
+Cirrhosis, Gastritis/Duodenitis, HTN & CKD who presents with
+fall 2 days ago after tripping on a rug at home.  She was able
+to ambulate after the fall but as the hip pain persisted she
+came to the ED for evaluation.
+.
+In the ED, initial vs were: T 94.4 P 105 BP 88/53 RR 18 O2 sat
+100%ra. Right hip films were negative for fracture.  Laboratory
+results were most notable for signficant anion-gap acidosis, and
+pancytopenia (worsened from baseline low Hct and Plt).  She was
+given 2L of NS, as well as vanc/zosyn/Mag sulfate/KCl.
+.
+She denied cough, pain other than hip pain.  She had no abd
+pain. no headache. no dysuria. no rash. no diarrhea. no neck
+stiffness. She denies metformin use.  She denies anti-freeze
+ingestion. In speaking with her fiance (who lives with her) she
+was feeling well yesterday and had visited by daughter.  Eating
+normally yesterday with family. Temp check at home 98.3F at
+home.  Feet were swelling.
+.
+Review of systems:
+(+) Per HPI
+(-) Denies fever, night sweats, recent weight loss or gain.
+Denies headache, sinus tenderness, rhinorrhea or congestion.
+Denied cough, shortness of breath. Denied chest pain or
+tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+
+
+Past Medical History:
+Diabetes Mellitus, type 2 - on insulin
+Chronic Kidney Disease, baseline Cr 1.6-2.0
+Hepatitis C-Rx with rebetron-discontinued after poor response
+h/o acute hepatitis from tylenol overdose
+Hypertension
+h/o Chronic Pancreatitis
+s/p TAH/BSO [**2699-12-31**]
+Substance Abuse (Cocaine, EtOH)
+h/o SBO with small bowel resection [**6-5**] and again [**10-6**]
+Carpal Tunnel Syndrome
+Depression
+NSTEMI [**9-7**] in the context of cocaine use
+Anemia with baseline Hct 26-30
+
+Social History:
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 29717**] (fiance) lives with her.  she states she last had
+a mixed drink with gin 2 days ago.  she denies illicit drug use.
+ [**First Name9 (NamePattern2) 2661**] [**First Name8 (NamePattern2) **] [**Known patient lastname **] is her HCP.
+
+Family History:
+Hypertension. No history of premature CAD. Father with lung
+cancer who died in his early 60s, mother with sarcoid who died
+in her early 50s. No family hx of breast CA.
+
+Physical Exam:
+Vitals: T: 92.4 (oral) BP:  120/53 P: 92  R: 17 O2: 96%2L
+General: Arousable to voice and follows commands, oriented
+(hosp, year, day), no acute distress, tachypneic
+HEENT: Sclera anicteric, MMM, oropharynx clear. right surgical
+pupil.
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: tachy. regular rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: cool, 2+ pulses, no clubbing, cyanosis or edema
+Neuro:
+-MS: awake, response to voice answering questions in short but
+appropriate answers. no dysarthria. no R/L confusion or neglect
+-CN: right surgical pupil. EOMI to full gaze. face symmetric.
+tongue/palate midline.
+-Motor: moving all 4 extremities symmetrically.
+-[**Last Name (un) 1029**]: light touch intact to face/hands/feet.
+-Gait: deferred
+
+Pertinent Results:
+LABS:
+[**2720-6-7**] 06:30AM BLOOD WBC-0.9*# RBC-3.11* Hgb-9.8* Hct-31.3*
+MCV-101*# MCH-31.6 MCHC-31.3 RDW-16.2* Plt Ct-65*#
+[**2720-6-7**] 07:20AM BLOOD WBC-2.7*# RBC-2.65* Hgb-8.5* Hct-27.3*
+MCV-103* MCH-32.0 MCHC-31.1 RDW-17.2* Plt Ct-50*
+[**2720-6-7**] 02:29PM BLOOD WBC-1.1*# RBC-2.03* Hgb-6.4* Hct-21.5*
+MCV-106* MCH-31.7 MCHC-29.9* RDW-17.8* Plt Ct-18*#
+[**2720-6-8**] 12:21AM BLOOD WBC-2.9*# RBC-2.12* Hgb-6.7* Hct-21.6*
+MCV-102* MCH-31.5 MCHC-30.9* RDW-16.8* Plt Ct-12*
+[**2720-6-8**] 03:37AM BLOOD WBC-2.6* RBC-1.96* Hgb-5.9* Hct-18.7*
+MCV-96 MCH-30.1 MCHC-31.5 RDW-17.8* Plt Ct-11*
+[**2720-6-7**] 06:30AM BLOOD Neuts-52 Bands-8* Lymphs-22 Monos-0 Eos-0
+Baso-0 Atyps-0 Metas-4* Myelos-14*
+[**2720-6-7**] 07:20AM BLOOD Neuts-61 Bands-3 Lymphs-20 Monos-2 Eos-1
+Baso-0 Atyps-0 Metas-6* Myelos-7*
+[**2720-6-7**] 06:30AM BLOOD Plt Ct-65*#
+[**2720-6-7**] 07:20AM BLOOD PT-22.9* PTT-52.0* INR(PT)-2.2*
+[**2720-6-7**] 02:29PM BLOOD PT-59.6* PTT-150* INR(PT)-7.1*
+[**2720-6-8**] 03:37AM BLOOD PT-150* PTT-150* INR(PT)->21.8*
+[**2720-6-7**] 06:30AM BLOOD Glucose-264* UreaN-27* Creat-2.8* Na-132*
+K-3.4 Cl-94* HCO3-6* AnGap-35*
+[**2720-6-7**] 07:20AM BLOOD Glucose-241* UreaN-26* Creat-2.6* Na-137
+K-3.3 Cl-96 HCO3-6* AnGap-38*
+[**2720-6-8**] 12:21AM BLOOD Glucose-201* UreaN-18 Creat-2.1* Na-139
+K-6.5* Cl-94* HCO3-7* AnGap-45*
+[**2720-6-8**] 03:37AM BLOOD Glucose-489* UreaN-15 Creat-1.8* Na-132*
+K-7.4* Cl-85* HCO3-7* AnGap-47*
+[**2720-6-7**] 07:20AM BLOOD ALT-54* AST-117* CK(CPK)-2426*
+AlkPhos-125* TotBili-1.6*
+[**2720-6-7**] 02:29PM BLOOD LD(LDH)-553* CK(CPK)-[**Numeric Identifier 31643**]*
+[**2720-6-8**] 12:21AM BLOOD CK(CPK)-[**Numeric Identifier 31644**]*
+[**2720-6-8**] 03:37AM BLOOD ALT-59* AST-353* LD(LDH)-875*
+CK(CPK)-7550* AlkPhos-72 TotBili-0.8
+[**2720-6-7**] 07:20AM BLOOD cTropnT-0.10*
+[**2720-6-7**] 02:29PM BLOOD CK-MB-80* MB Indx-0.7 cTropnT-0.08*
+[**2720-6-7**] 07:20AM BLOOD Albumin-2.4* Calcium-6.8* Phos-5.1*#
+Mg-0.9*
+[**2720-6-8**] 03:37AM BLOOD Calcium-8.3* Phos-8.2*# Mg-1.8
+[**2720-6-7**] 07:20AM BLOOD Acetone-NEGATIVE Osmolal-306
+[**2720-6-7**] 07:20AM BLOOD ASA-NEG Ethanol-19* Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2720-6-7**] 11:01AM BLOOD Type-ART pO2-96 pCO2-30* pH-6.96*
+calTCO2-7* Base XS--25 Intubat-NOT INTUBA
+[**2720-6-7**] 12:46PM BLOOD Type-ART pO2-105 pCO2-35 pH-6.91*
+calTCO2-8* Base XS--26
+[**2720-6-7**] 05:18PM BLOOD Type-CENTRAL VE pO2-98 pCO2-25* pH-6.96*
+calTCO2-6* Base XS--26
+[**2720-6-8**] 12:25AM BLOOD Type-[**Last Name (un) **] Temp-34.4 pO2-38* pCO2-29*
+pH-6.97* calTCO2-7* Base XS--26
+[**2720-6-8**] 04:25AM BLOOD Type-[**Last Name (un) **] Temp-34.2 pO2-36* pCO2-21*
+pH-7.08* calTCO2-7* Base XS--23
+[**2720-6-7**] 11:01AM BLOOD Lactate-17.8*
+[**2720-6-7**] 03:11PM BLOOD Lactate-19.8* K-4.6
+[**2720-6-8**] 04:25AM BLOOD Lactate-20.8*
+[**2720-6-7**] 03:11PM BLOOD freeCa-0.88*
+[**2720-6-8**] 04:25AM BLOOD freeCa-0.97*
+[**2720-6-7**] 05:17PM BLOOD CYANIDE-PND
+.
+.
+MICRO:
+BLOOD CX:
+[**2720-6-7**] 9:50 am BLOOD CULTURE      VENIPUNTURE.
+
+   Blood Culture, Routine (Preliminary):
+      THIS IS A CORRECTED REPORT [**2720-6-8**].
+      GRAM NEGATIVE ROD(S).
+         PREVIOUSLY REPORTED ALSO POSITIVE FOR GRAM POSITIVE
+COCCI [**2720-6-7**].
+
+   Anaerobic Bottle Gram Stain (Final [**2720-6-7**]):
+      GRAM NEGATIVE ROD(S).
+      REPORTED BY PHONE TO [**Doctor First Name 20315**] [**Doctor Last Name 1634**] ON [**2720-6-7**] @ 7:45 P.M..
+
+
+   Aerobic Bottle Gram Stain (Final [**2720-6-7**]):
+      THIS IS A CORRECTED REPORT [**2720-6-8**].
+      GRAM NEGATIVE ROD(S).
+      PREVIOUSLY REPORTED AS [**2720-6-7**].
+      GRAM POSITIVE COCCI IN CLUSTERS.
+      GRAM NEGATIVE ROD(S).
+      REPORTED BY PHONE TO [**Doctor First Name 20315**] [**Doctor Last Name 1634**] [**2720-6-8**] 3:15PM.
+
+.
+.
+STUDIES:
+[**2720-6-7**] CT ABD/PELVIS:
+IMPRESSION:
+1. Limited assessment without IV or oral contrast. There is a
+suggestion of wall thickening involving the hepatic flexure of
+the colon ( c/w colitis), as well as in recto-sigmoid. No free
+air or pneumatosis.
+2. Diffusely fatty liver.
+3. Pancreatic parenchymal calcifications, likely sequela from
+chronic
+pancreatitis.
+4. Bilateral lower lobe consolidation in the visualized lungs,
+with tiny
+adjacent pleural effusions.
+.
+[**2720-6-7**] CXR:
+IMPRESSION: No acute intrathoracic process.
+.
+[**2720-6-7**] ECG:
+Sinus tachycardia with ventricular premature depolarizations and
+diffuse
+non-diagnostic repolarization abnormalities. Compared to the
+previous tracing of [**2720-5-26**] the heart rate is increased, now
+with ventricular ectopic activity
+.
+
+
+Brief Hospital Course:
+63 year old woman with medical history notable for HepC/EtOH
+cirrhosis, DM2, hypertension and CKD presenting after a fall c/b
+hip pain found to have significant anion-gap metabolic acidosis.
+.
+# Anion-gap metabolic acidosis with notable lactic acidosis: The
+etiology of her acidosis remained unclear, though was ultimately
+felt more likely due to an overwhelming septic picture,
+supported by rapid growth of gram negative and gram positive
+bacteremia.  Initial delta-delta suggested co-incident non-anion
+gap acidosis as well, and initial pCO2 of 30 suggested
+inadequate respiratory compensation.
+.
+As above, the source of her profound lactic acidosis remained
+unclear given lack of clear causitive medication; additionally
+she initially appeared to have adequate organ perfusion (global
+and mesentery) given benign abdominal exam, lack of abdominal
+complaints, and relative normotension.  Metabolic derangements
+could have been related to severe thiamine deficiency, though
+uncommon, this was treated.  Ethylene glycol ingestion was also
+entertained, but felt less likely given negative serum osm gap
+unless it is now very late in the course.
+.
+Toxicology consult was obtained, without clear etiology, though
+cyanide poisoning was entertained, and the antidone was
+administered given lack of alternate explanations and the
+patients rapid clinical decline.  She was also empirically
+treated with broad spectrum antibiotics (vancomycin, cefepime,
+flagyl) without clear source.  Surgical consult and CT abdomen
+were obtained to further evaluate for an abdominal source, and
+preliminary [**Location (un) 456**] revealed no clear abcess or evidence of
+mesenteric ischemia.
+.
+Over the course of her first 12 hours in hospital, her acidemia
+progressed, her arterial PCO2 rose (to 47) and her mental status
+declined prompting intubation.  She also developed worsening
+hypotension, prompting placement of a central venous catheter,
+and iniation of levophed and vasopressin.  Multiple attempts to
+place an arterial line were unsucessful (residents x2, critical
+care attending, surgical resident).  OGT revealed coffee
+grounds, though her HCT (baseline 30) declined slightly (27),
+her labs ultimately revealed a DIC picture over the course of 12
+hours, (INR >21, platlets 11), GIB was felt unlikely to
+contribute to such a profound acidemia, despite her known liver
+history.  Cardiac enzymes were flat (CK MB 80s, MBI 0.7, though
+peak trop 0.10).
+.
+Given lack of alternate explanations for her acidemia and
+clinical decline, the renal service was consulted regarding
+initiation of CVVH for removal of possible toxic ingestions and
+to optimize management of the acidemia.  She was treated
+empirially with continuous bicarbonate infusion and CVVH was
+initiated via a left femoral temporary HD catheter.
+.
+Despite the above interventions, her clinical status continued
+to decline.  Her CK rose to >10,000 (no evidence of rhabdo on
+UA), her acidemia progressed, with venous PH=6.81/24/80 at 8PM,
+her potassium rose to 7 despite CVVH.  Given her grave
+condition, a family meeting was held, led by her daughter
+[**Name (NI) **].  Decision was made to make the patient DNR/DNI, but to
+continue with current measures.  Her acidemia improved slightly
+however lactate continued to rise.  Microbiology data revealed
+rapid growth of gram negative rods (2/2 bottles), and gram
+positive cocci (1/2 bottles), supporting an overwhelming septic
+picture of unclear etiology, but possibly enteric translocation
+from GIB.
+.
+Despite the above efforts, the patient expired at 3AM the
+following morning.  An autopsy was offered to the family, and
+accepted.
+.
+.
+# Pancytopenia: most likely [**2-2**] septic picture as above.
+Rapidly rising INR 2->7->21, also likely reflected DIC, though
+fibrinogen 60.  She was treated empirically with antibiotics as
+above.
+.
+#  Fall c/b hip pain: initial hip films were unremarkable for
+fracture.
+.
+# Hep C cirrhosis: LFTs within her baseline range.  her altered
+mental status was felt more likely related to acidosis as
+opposed to hepatic encephalopathy
+.
+# CKD - initially near her baseline Cr of 2.6.  she rapidly
+became anuric, likely [**2-2**] hypotension, and was started on CVVH
+as above, primarily given concern for toxic ingestion.
+.
+# Diabetes mellitus type 2 uncontrolled: no clear evidence of
+DKA.  she was followed with q4 HISS.
+.
+# FEN: she remained NPO.
+# Prophylaxis: pneumoboots
+# Access: PIV, and R IJ TLC.
+# Code: DNR/DNI after discussion with daughter [**Name (NI) **].
+# Communication: Patient, daughter is HCP [**Location (un) **] h
+[**Telephone/Fax (1) 31641**], c [**Telephone/Fax (1) 31645**])
+.
+
+Medications on Admission:
+Medications: (per d/c summary on [**2720-5-28**])
+Cholecalciferol 800 unit daily
+Calcium Carbonate 500 mg TID
+Pantoprazole 40 mg Q12H
+Humalog 6 units Subcutaneous qac.
+Verapamil 180 mg daily
+Albuterol Sulfate 1-2 Puffs Q6H prn
+Amylase-Lipase-Protease 20,000-4,500- 25,000 unit TID W/MEALS
+Sertraline 100 mg daily
+
+Discharge Medications:
+pt expired.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+pt expired.
+
+Discharge Condition:
+pt expired.
+
+Discharge Instructions:
+pt expired.
+
+Followup Instructions:
+pt expired.
+
+
+
+
+
+DOC CLASS

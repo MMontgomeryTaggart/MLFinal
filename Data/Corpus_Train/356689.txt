@@ -1,0 +1,230 @@
+TITLE:
+   History of Present Illness
+   -          decision was made not to do valvuloplasty
+   -          surgery decision regarding intra-abdominal collection still
+   pending
+   -          pt received lasix 20 mg x 2 for diuresis but was net
+   positive 1360
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 36.3 C
+   Tmax F last 24 hours: 97.4 F
+   T current C: 36.2 C
+   T current F: 97.2 F
+   Previous day:
+   Intake: 2,229 mL
+   Output: 870 mL
+   Fluid balance: 1,359 mL
+   Today:
+   Intake: 688 mL
+   Output: 500 mL
+   Fluid balance: 188 mL
+   Labs
+   134
+   1.0
+   24
+   3.8
+   34
+   103
+   138
+        [image002.jpg]
+                            [**3334-11-21**]  02:17 PM
+                            [**3334-11-22**]  04:34 AM
+                            [**3334-11-22**]  04:47 AM
+                            [**3334-11-23**]  04:08 AM
+                            [**3334-11-23**]  04:20 AM
+                            [**3334-11-23**]  11:11 AM
+                            [**3334-11-23**]  05:20 PM
+                            [**3334-11-24**]  05:33 AM
+                            [**3334-11-25**]  03:49 AM
+                            [**3334-11-25**]  09:40 PM
+   WBC
+   11.8
+   14.9
+   16.5
+   14.3
+   Hgb
+   11.1
+   11.9
+   11.7
+   11.3
+   Hct (Serum)
+   32.7
+   34.5
+   33.2
+   31.3
+   Plt
+   285
+   332
+   346
+   356
+   INR
+   1.2
+   1.3
+   PTT
+   30.1
+   38.2
+   Na+
+   146
+   145
+   140
+   141
+   139
+   138
+   K + (Serum)
+   4.1
+   4.1
+   4.0
+   3.7
+   3.5
+   3.3
+   3.8
+   Cl
+   113
+   112
+   107
+   107
+   105
+   103
+   HCO3
+   27
+   28
+   27
+   26
+   25
+   24
+   BUN
+   52
+   50
+   42
+   42
+   38
+   34
+   Creatinine
+   1.4
+   1.3
+   1.2
+   1.1
+   0.9
+   1.0
+   Glucose
+   126
+   125
+   114
+   173
+   136
+   134
+   O2 sat (arterial)
+   98
+   98
+   97
+   ABG: /  /  / 24 /    Values as of [**3334-11-25**] 09:40 PM
+   BP 102/53, HR 70, O2 Sat 94%
+   GENERAL: Elderly man in NAD, cooperative and coherent
+   HEENT: NCAT. Sclera anicteric. Pupils reactive bilaterally.
+   NECK: Supple with JVP of 9 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, soft S2. Soft [**12-24**] late-systolic murmur.
+   LUNGS: Crackles at bases only
+   ABDOMEN: Soft, BS present, no mass, no abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right:  DP 2+ PT 2+
+   Left: Carotid  DP 2+ PT 2+
+   Assessment and Plan
+ DELIRIUM / CONFUSION
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ .H/O INTESTINE, PERFORATION OF (PERFORATION OF HOLLOW VISCUS)
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+ IMPAIRED PHYSICAL MOBILITY
+ AORTIC STENOSIS
+   84M w CAD (s/p CABGx4), chronic sys CHF (EF 35% s/p ICD), severe AS
+   (area 0.6 cm2, gradient 33 mmHg, s/p valvuloplasty in [**3-/3334**]), who was
+   transferred from OSH for acute CHF exacerbation [**12-20**] severe AS in the
+   setting of likely small bowel perforation/peritonitis.
+   .
+   # VALVES: critical AS - TTE showed LVEF 35-40%, Aortic area of 0.7cm2
+   ([**3334-11-20**]), preload dependent
+   - metoprolol IV prn for HR goal of 60s
+   - discuss valvuloplasty utility with Dr. [**Last Name (STitle) 3154**] and family today for
+   purposes of tolerating diagnostic Lap.
+   - gentle diuresis: net 24 hour goal of even -500cc
+   .
+   # SMALL BOWEL INFLAMMATION/ABSCESS:  CT with possible abscess near smll
+   bowel. Will advance diet today to clears, surgery wants to do
+   non-emergent diagnostic laparoscopy.   [**Month (only) 11**] need valvuloplasty to
+   tolerate diag lap.
+   - Dr. [**Last Name (STitle) 3154**] will evaluate once again for valvuloplasty
+   - serial abd exams, no sig change to date
+   - continue pip-tazo for 14-day course (through [**3334-11-29**])
+   - will advance to clears
+   - appreciate surgery recommendations
+   .
+   # PUMP: acute on chronic systolic CHF exacerbation with pulmonary edema
+   [**12-20**] AS, leading to respiratory failure requiring intubation.  Net
+   negative -500 mL yesterday. Spoke with the outpatient cardiologist, no
+   ace inhibitor as the patient has not tolerated it in the past,
+   preference of outpt cardiologist.
+   - strict I/O
+   - change Metoprolol to PO; uptitrate PRN
+   - gentle diuresis: net 24 hour goal of -500cc max
+   .
+   #RESPIRATORY FAILURE:  likely [**12-20**] CHF exacerbation. Weaned successfully
+   from the ventilator and extubated without issue
+   -extubated
+   - wean oxygen as tolerated
+   - incentive spirometry as tolerated
+   -goal net negative
+   .
+   # RHYTHM: sinus
+   -continue Metoprolol, now PO
+   -uptitrate Metoprolol as needed for HR 60
+   .
+   .
+   # CORONARIES: Hx CABG.  Currently no acute ischemia, resolving
+   subendocardial ischemia with Trp leak in the setting of CHF
+   exacerbation, severe AS, and concurrent renal failure.  Will restart
+   statin when LFTs normal.
+   - continue ASA 81mg PO daily
+   - continue  Metoprolol
+   .
+   # FEVER: Last fever [**11-23**] at 1500..  Unclear source likely [**12-20**] possible
+   peritonitis/small bowel perforation. Fever started [**3333-11-19**], cultures
+   [**Month/Day/Year 3205**].   CX from OSH [**Month/Day/Year 3205**].
+   - follow up blood, urine, sputum cultures
+   - Pip/tazo until [**11-29**]
+   - will check C. Diff
+   .
+   .
+   # ARF: improved, likely renal hypoperfusion secondary to poor forward
+   flow. FeUN = 23 < 50% (suggestive of prerenal etiology).
+   - monitor urine output closely
+   - redose renally cleared meds (Zosyn)
+   .
+   # HYPERNATREMIA: Resolved
+   .
+   # TRANSAMINITIS: likely due to hypoperfusion in setting of CHF and
+   severe AS. Unremarkable RUQ U/S. Improving.
+   - trend LFTs
+   .
+   # AMS:  Improved, no longer confused. Possibly [**12-20**] oversedation
+   (fentanyl/midazolam) and hypernatremia.
+   -  re-evaluate after sedation off with extubation
+   .
+   # ANEMIA: Hct 32 now, 39 in [**Month (only) 11**]. Combined iron-deficiency and anemia of
+   chronic disease.
+   - monitor Hct
+   .
+   #Hiccups: continue reglan
+   .
+   # FEN: replete electrolytes, advance to clears
+   .
+   # ACCESS: PICC
+   .
+   # Dispo: CCU
+
+
+
+DOC CLASS

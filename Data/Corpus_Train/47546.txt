@@ -1,0 +1,315 @@
+Admission Date:  [**2553-6-8**]              Discharge Date:   [**2553-6-14**]
+
+Date of Birth:  [**2472-7-22**]             Sex:   M
+
+Service: NEUROSURGERY
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 32**]
+Chief Complaint:
+Right SDH
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+80M sent in for elevated INR. Patient is unsure why he takes
+coumadin, but has pig valve and pacer in place. INR at PCPs
+office was 6.5 today and was sent in for reversal given history
+of recent falls. INR 8.7 on arrival today. Patient denies any
+increased bleeding. No CP/SOB. No f/c. No abdominal pain.
+Patient is a relatively poor historian
+
+Past Medical History:
+1. Hypertension
+2. Hyperlipidemia
+3. Seizure disorder ([**Doctor Last Name 3**] mal seizures have not occurred for
+many years; complex partial seizures with behavior patterns have
+not occurred for 1-2 years)
+4. Sick sinus syndrome ([**Company 4**] pacemaker placed on right
+side; interrogated [**6-/2552**])
+5. s/p mitral valve repair with MAZE procedure (atrial
+fibrillation) complicated by total occlusion of coronary artery
+- artery over-sewn during procedure and resulting CABG (RSVG
+from aorta to OM2) x 1-vessel and left femoral artery
+pseudoaneurysm (with thrombin injection).
+6. Bilateral foot drop (resulting from coronary bypass surgery)
+7. Left anterior wall acetabular fracture ([**2550**])
+8. Prostate adenocarcinoma
+9. Colonic adenoma
+10. Rheumatoid arthritis
+11. Chronic anemia
+12. Gout
+13. Prior subdural hematoma (required Burr hole placement)
+14. Lichen simplex chronicus
+
+Social History:
+Patient lives at home with his wife (has previously been at
+[**Name (NI) 5**] [**Last Name (NamePattern1) 6**]). Has one adult child. Retired mechanical
+engineer. Denies tobacco use or alcohol use; no recreational
+substance use.
+
+
+Family History:
+non-contributory.
+
+Physical Exam:
+On Admission:
+O: T: 98.8 BP: 119/68         HR: 80   R  18     O2Sats 97%
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: 3->2        EOMs: intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+[**Doctor First Name 33**]: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power [**4-21**] throughout except RUE 5-. Mild
+L
+pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Reflexes: Normal bilaterally
+
+Toes downgoing bilaterally
+
+Handedness Right
+
+On discharge:  Oriented to Person and place but not date.  Motor
+exam intact.
+
+Pertinent Results:
+Head CT [**6-8**]
+New acute/subacute subdural hematoma overlying the right
+frontoparietal convexity.  Previously seen small left frontal
+subdural
+hematoma is unchanged.  New small subgaleal hematoma overlying
+the right
+vertex.  No fractures seen.
+
+CT C/T spine [**6-8**]
+Nondisplaced acute compression fracture of T1.
+
+CT Head [**6-9**]
+Stable appearance of right frontoparietal and left frontal
+subdural hematomas with no new foci of hemorrhage.  Stable
+subgaleal hematoma overlying the vertex.
+
+
+Brief Hospital Course:
+Pt was admitted to the neurosurgery service. Orthopedics was
+consulted for a T1 fracture and they felt it was not acute and
+needed no intervention. His coumadin was held and he was given
+FFP and vitamin K to reverse his INR and it normalized to 1.3 on
+[**6-10**]. He had a repeat CT head on [**6-9**] that showed no new
+hemorrhage and remained stable. He did become somewhat aggitated
+and required restraints on the evening of [**6-9**]. Social work was
+consulted per wife's request as she has been finding it
+difficult to care for him at home and to discuss her options of
+nursing facilities. On [**6-11**], patient remained stable. PT/OT was
+consulted and atrius was called to help move him forward to a
+nursing home facility.
+
+On [**6-12**], patient became slightly agitated and disoriented
+however this delerium began to clear the following day and he
+became more cooperative during the remainder of his hospital
+stay.
+
+At the time of discharge on [**6-14**] he was tolerating a diet,
+ambulating with a walker, afebrile with stable vital signs.
+
+Medications on Admission:
+amiodarone 200 mg Tab
+2 Tablet(s) by mouth twice a day Please take 2 200mg tablets
+twice daily for 5 days. Then 1 200mg tablet twice daily for 7
+days. Then 1 200mg tablet once daily until stopped by
+cardiologist.
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ aspirin 81 mg Chewable Tab
+1 Tablet(s) by mouth DAILY (Daily)
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ calcium carbonate 500 mg calcium (1,250 mg) Chewable Tab
+3 Tablet(s) by mouth twice a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ cholecalciferol (vitamin D3) 1,000 unit Tab
+1 Tablet(s) by mouth DAILY (Daily)
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ digoxin 125 mcg Tab
+1 Tablet(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ fluoxetine 10 mg Cap
+1 Capsule(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ furosemide 20 mg Tab
+1 Tablet(s) by mouth twice a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ glucosamine HCl 500 mg Tab
+1 Tablet(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ levothyroxine 25 mcg Tab
+1 Tablet(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ metoprolol tartrate 25 mg Tab
+1 Tablet(s) by mouth twice a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ metronidazole 500 mg Tab
+1 Tablet(s) by mouth three times a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ multivitamin Tab
+1 Tablet(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ nystatin 100,000 unit/mL Oral Susp
+5 ml by mouth four times a day swish and swallow
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ omeprazole 20 mg Cap, Delayed Release
+1 Capsule(s) by mouth DAILY (Daily)
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ phenytoin sodium extended 100 mg Cap
+1 Capsule(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ potassium chloride ER 20 mEq Tab, Particles/Crystals
+1 Tablet(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ pravastatin 40 mg Tab
+1 Tablet(s) by mouth once a day
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ tamsulosin ER 0.4 mg 24 hr Cap
+1 Capsule(s) by mouth HS (at bedtime)
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+ warfarin 1 mg Tab
+[**12-18**] Tablet(s) by mouth once a day Adjust for a goal INR of [**1-18**].5
+for atrial fibrillation. Coumadin held [**10-18**] d/t INR of 2.9.
+([**First Name8 (NamePattern2) 34**] [**Last Name (NamePattern1) 35**] [**2553-6-8**] 20:23)
+
+
+
+Discharge Medications:
+1. Amiodarone 200 mg PO DAILY
+2. Aspirin 81 mg PO DAILY
+3. Calcium Carbonate 1500 mg PO BID
+4. Digoxin 0.125 mg PO DAILY
+5. Docusate Sodium 100 mg PO BID
+6. Fluoxetine 10 mg PO DAILY
+7. Heparin 5000 UNIT SC TID
+8. Levothyroxine Sodium 25 mcg PO DAILY
+9. Metoprolol Tartrate 37.5 mg PO BID
+Please use IV meds if patient refused pills. Goal SBP<140
+10. Phenytoin Sodium Extended 100 mg PO TID
+11. Pravastatin 40 mg PO DAILY
+12. Senna 1 TAB PO HS
+13. Tamsulosin 0.4 mg PO HS
+14. Vitamin D 1000 UNIT PO DAILY
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 36**] [**Last Name (NamePattern1) 37**]
+
+Discharge Diagnosis:
+Subdural hematoma
+Confusion
+Agitation
+Chronic T1 compression fracture
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 15**] MD if weight goes up more
+than 3 lbs.
+??????	Take your pain medicine as prescribed.
+??????	Exercise should be limited to walking; no lifting, straining,
+or excessive bending.
+??????	Increase your intake of fluids and fiber, as narcotic pain
+medicine can cause constipation. We generally recommend taking
+an over the counter stool softener, such as Docusate (Colace)
+while taking narcotic pain medication.
+??????	Unless directed by your doctor, do not take any
+anti-inflammatory medicines such as Motrin, Advil, or Ibuprofen
+etc.
+??????	Do not Resume Coumadin until follow up and discussion with
+your Neurosurgeon, Dr. [**Last Name (STitle) **].
+??????	You have been prescribed Dilantin (Phenytoin) for anti-seizure
+medicine, take it as prescribed and follow up with laboratory
+blood drawing in one week.  This can be drawn at your PCP??????s
+office, but please have the results faxed to [**Telephone/Fax (1) 38**].
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE
+FOLLOWING
+
+??????	New onset of tremors or seizures.
+??????	Any confusion, lethargy or change in mental status.
+??????	Any numbness, tingling, weakness in your extremities.
+??????	Pain or headache that is continually increasing, or not
+relieved by pain medication.
+??????	New onset of the loss of function, or decrease of function on
+one whole side of your body.
+
+
+Followup Instructions:
+Follow-Up Appointment Instructions
+
+??????Please call ([**Telephone/Fax (1) 39**] to schedule an appointment with Dr.
+[**Last Name (STitle) **], to be seen in _4_weeks.
+??????You will need a CT scan of the brain without contrast prior to
+your appointment. This can be scheduled when you call to make
+your office visit appointment.
+??????We recommend you see Dr [**First Name (STitle) 40**] in the Traumatic Brain Injury
+(TBI) clinic the phone number is [**Telephone/Fax (1) 41**]. If you have any
+problems booking this appointment please ask for [**First Name8 (NamePattern2) 42**] [**Last Name (NamePattern1) 43**].
+
+
+
+Completed by:[**2553-6-14**]
+
+
+DOC CLASS

@@ -1,0 +1,170 @@
+Chief Complaint:
+   24 Hour Events:
+   - Pt on nitro gtt and heparin gtt
+   - daughter at beside this AM to interpret
+   - Pt currently CP, but states has intermittent CP
+   History obtained from Patient, Family / Friend
+   Allergies:
+   History obtained from Patient, Family / Friend
+   [**Name (NI) 1234**] dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 400 units/hour
+   Nitroglycerin - 0.6 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3328-5-1**] 07:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 36.1
+C (96.9
+   HR: 67 (60 - 70) bpm
+   BP: 114/72(82) {108/56(71) - 138/86(93)} mmHg
+   RR: 23 (8 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             67 mL
+   PO:
+             TF:
+   IVF:
+   67 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    135 mL
+   Urine:
+   135 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    -68 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: ///27/
+   Physical Examination
+   GENERAL: In NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with no JVD.
+   CARDIAC: rrr, nl s1, faint s2, [**1-23**] ESM as well as [**1-23**] PSM.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:  1+ dp and pt pulses.
+   Labs / Radiology
+   115 K/uL
+   13.3 g/dL
+   159 mg/dL
+   1.4 mg/dL
+   27 mEq/L
+   3.8 mEq/L
+   39 mg/dL
+   96 mEq/L
+   135 mEq/L
+   38.7 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**3328-5-1**]  06:18 AM
+   WBC
+   7.8
+   Hct
+   38.7
+   Plt
+   115
+   Cr
+   1.4
+   Glucose
+   159
+   Other labs: PT / PTT / INR:14.8/78.6/1.3, CK / CKMB /
+   Troponin-T:1339//, ALT / AST:118/349, Alk Phos / T Bili:95/0.7,
+   Ca++:8.8 mg/dL, Mg++:2.2 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+ .H/O CARDIOMYOPATHY, OTHER
+ .H/O CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ .H/O DELIRIUM / CONFUSION
+ .H/O ATRIAL FIBRILLATION (AFIB)
+   80 year old female with multiple medical issues s/p recent MI with
+   cardiac catheterization demonstrated severe 3VD deemed not amenable to
+   intervention and she's a too high risk candidate for CABG. She now
+   returned to the outside hospital with an inferior STEMI and is
+   transfered for revaluation for option of revascularization. On arrival
+   pt appears stable without evidence of ongoing ischemia.
+   .
+   #) CAD: currently cp free.
+   - trend enzymes
+   - continue aspirin, hold off plavix until surgical opinion, iv heparin,
+   wean off iv nitro, lipitor, zestril.
+   - start metoprolol at 25mg tid and titrate up dose.
+   - obatin angiography film from [**Hospital1 **]
+   - discuss with ct [**Doctor First Name 204**]
+   .
+   #) CHF: well compensated at present despite recent MIs and low ef.
+   - will repeat tte here to confirm measurement of high PA pressure as
+   well as severity of as.
+   - continue metoprolol, lisnopril, lasix
+   .
+   #) a fib:
+   - now in sinus rhythm.
+   - continue to monitor on tele.
+   - cont metoprolol
+   - clarify why not anti-coaguated, likey [**12-22**] thrombocytopenia and
+   bleeding risk
+   .
+   #) AS:
+   - repeat echo reassess aortic valve area and stenosis. however in the
+   setting of severe lv dysfunction and poor forward flow this may be
+   overestimated.
+   .
+   #) thrombocytopenia:
+   - thought to be secondary to hepatitis c.
+   - wil repeat plt level.
+   .
+   #) Prophylaxis:
+   - on heparin drip, ppi.
+   .
+   #) DNR/DNI. Will confirm with patient
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 562**].
+   I would add the following remarks:
+   History
+   80 yr old woman recently hospitalized at [**Hospital1 3574**] with cath showing tight
+   LM and diffuse CAD not well suited for revasc.
+   Now transferred from [**Hospital3 2751**] with new cardiac event:  CP with
+   inf STEMI and CK 1339.
+   EF 15-20%, with moderate AS with [**Location (un) 330**] 1.0.
+   Hx of PAF, Hep C with decr Plt.
+   Physical Examination
+   No chest pain.
+   Mild AS with preserved A2 and good carotid upstrokes.
+   No edema or rales.
+   Medical Decision Making
+   Will review films when available from recent cath at [**Hospital1 3574**] to see if
+   CABG or PCI is option but suspect will continue Med Rx.
+   Above discussed extensively with patient. Above discussed extensively
+   with family member, next of [**Doctor First Name 360**] or health care proxy.
+   Total time spent on patient care: 30 minutes of critical care time.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 18**] [**Last Name (NamePattern1) 2693**], MD
+   on:[**3328-5-1**] 10:22 ------
+
+
+
+DOC CLASS

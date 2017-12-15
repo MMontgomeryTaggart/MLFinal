@@ -1,0 +1,180 @@
+Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2527-1-25**] 06:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (96.9
+   Tcurrent: 35.8
+C (96.5
+   HR: 62 (60 - 81) bpm
+   BP: 157/65(84) {94/65(76) - 173/96(99)} mmHg
+   RR: 19 (12 - 23) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    150 mL
+                                                                    120 mL
+   PO:
+                                                                    150 mL
+                                                                    120 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    250 mL
+                                                                    550 mL
+   Urine:
+                                                                    250 mL
+                                                                    550 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -100 mL
+                                                                   -430 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 95%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: NAD eating breakfast
+   HEENT: NCAT MMM anicteric hard of hearing w/aid in place
+   Cardiovascular: S1S2 RRR 2/6 SEM
+   Respiratory / Chest: clear bilaterally
+   Abdominal: Soft, Non-tender, Bowel sounds present, Non Distended
+   Extremities: warm, well perfused, 1+ dp pulses
+   Skin:  Warm, circular erythematous macules over b/l extremities
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, A+Ox3. Moving all extremities.
+   Labs / Radiology
+   95 mg/dL
+   0.7 mg/dL
+   24 mEq/L
+   4.2 mEq/L
+   13 mg/dL
+   87 mEq/L
+   118 mEq/L
+        [image002.jpg]
+                            [**2527-1-24**]  10:24 PM
+                            [**2527-1-25**]  02:04 AM
+   Cr
+   0.7
+   0.7
+   TropT
+   <0.01
+   Glucose
+   92
+   95
+   Other labs: CK / CKMB / Troponin-T:59//<0.01, Ca++:9.0 mg/dL, Mg++:1.8
+   mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname 3031**] is a [**Age over 90 **] year old male with a history of chronic
+   hyponatremia attributed to SIADH, chronic bronchitis, moderate aortic
+   stenosis, htn admitted for hyponatremia.
+   .
+   # Hyponatremia: Likely acute on chronic hyponatremia attributed to
+   SIADH exacerbation.  Possible causes include recent pain, dietary
+   indiscretion (should be fluid restricted), infection. Current Na worse
+   than most recent baseline of 125-130.  TSH and cortisol checks have
+   been normal. Prior chest and head imaging has been unrevealing. Last CT
+   chest [**5-/2526**] without masses. last CT head [**9-/2525**] without masses.  CXR
+   here unremarkable. Appears euvolemic. Normal BUN/Cr argues against
+   hypovolemia.
+   - q6 lytes
+   - fluid restriction 1000 cc/day
+   - if worsening despite fluid restriction, can cosider hypertonic saline
+   - consider salt tabs
+   .
+   # SOB: history of chronic bronchitis and subjective SOB by history. Has
+   had increased need for albuterol inhaler; may be secondary to increased
+   physical activity at rehabilitation. Currently saturating well on RA
+   without any significant abnormalities on CXR.
+   - albuterol and atrovent nebs
+   - cont fluticasone
+   - hold off on antibiotics for now
+   -control pain
+   .
+   # bilateral shoulder/arm pain: s/p recent fall. Came from rehab. Known
+   bilat rotator cuff injuries. No fractures by report from survey
+   performed at St Es after fall. (Note OSH records in chart)
+   - tylenol prn
+   - ultram prn
+   - lidocaine patches
+   .
+   # HTN: suboptimally controlled currently
+   - cont valsartan, metoprolol
+   .
+   # chronic diastolic CHF: Likely contribution of known AS with LVH on
+   most recent ECHO. Reasonable BP control currently. No evidence of
+   active ischemia. Appears euvolemic currently.
+   - BP and HR control
+   .
+   # ? CAD: patient carries a history of CAD for unclear reasons as he has
+   never had a positive stress test nor cardiac catheterization, has no
+   WMA on ECHO, and has no QWs on ECG.
+   - cont home plavix for now
+   - cont statin, beta blocker, Imdur
+   .
+   # PUD: h/o H pylori in past. Unclear if treated. Scheduled for breath
+   test as [**Year (4 digits) 606**].
+   - cont PPI, H2B, Maalox
+   - urease breath test as outpatient
+   .
+   # anemia: BL Hct 28-33.  At most recent baseline. No evidence of
+   bleeding. Iron studies, B12, folate normal 4/[**2526**].
+   - Qday CBC
+   .
+   # rash: per sons report, has significant eczema history and uses
+   moisturizing cream [**Hospital1 **].
+   - moisturize [**Hospital1 **]
+   .
+   # skin cancer on L chin: scheduled for [**Hospital1 606**] follow up per sons report.
+   -[**Name2 (NI) 606**] f/u
+   .
+   # FEN: regular diet; fluid restrict; salt tabs. Replete K and Mg as
+   needed.
+   - Ocuvite
+   .
+   # PPx: PPI, heparin sc. Increase bowel regimen as pt notes
+   constipation.
+   .
+   # ACCESS: PIV
+   .
+   # CODE: FULL, confirmed with patient
+   .
+   # COMM: [**Known patient lastname **],[**Name (NI) **] (son) [**Telephone/Fax (1) 3035**], [**Telephone/Fax (1) 3036**]
+   .
+   # DISP: c/o to floor for further management
+ HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY)
+ CHRONIC PAIN
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2527-1-24**] 08:45 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

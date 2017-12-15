@@ -1,0 +1,217 @@
+TITLE:
+   Chief Complaint: GIB
+   24 Hour Events:
+   - ortho evaluated pt - blood in pre-patellar bursae b/l, no further
+   evaluation needed
+   - started cipro 500 mg Q24H for UTI
+   - hct did not bump after 1st unit of PRBCs
+   - knee imaging deferred until am as pt has to stand for films
+   - transfused 3 units PRBCs over the night (hct 24->26 with 2 units)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2508-4-11**] 06:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.3
+C (97.4
+   HR: 60 (60 - 75) bpm
+   BP: 110/40(57) {110/38(57) - 124/52(97)} mmHg
+   RR: 18 (12 - 22) insp/min
+   SpO2: 95%
+   Heart rhythm: V Paced
+           Total In:
+                                                                  1,100 mL
+                                                                    476 mL
+   PO:
+           TF:
+   IVF:
+                                                                     50 mL
+                                                                     66 mL
+   Blood products:
+                                                                  1,050 mL
+                                                                    410 mL
+   Total out:
+                                                                    605 mL
+                                                                    160 mL
+   Urine:
+                                                                    605 mL
+                                                                    160 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    495 mL
+                                                                    316 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///27/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent, large hematoma over left
+   knee, mild discoloration, no bleeding or pain
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   153 K/uL
+   8.8 g/dL
+   176
+   1.6 mg/dL
+   27 mEq/L
+   4.3 mEq/L
+   41 mg/dL
+   107 mEq/L
+   140 mEq/L
+   26.2 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**2508-4-10**]  04:42 PM
+                             [**2508-4-10**]  09:20 PM
+                             [**2508-4-11**]  02:44 AM
+                             [**2508-4-11**]  04:00 AM
+   WBC
+   7.8
+   Hct
+   23.9
+   24.0
+   26.2
+   Plt
+   153
+   Cr
+   1.6
+   TropT
+   0.02
+   0.03
+   Glucose
+   148
+   176
+   Other labs: PT / PTT / INR:44.7/46.8/5.0, CK / CKMB /
+   Troponin-T:276/4/0.03, ALT / AST:[**1-21**], Alk Phos / T Bili:97/2.3,
+   Differential-Neuts:78.8 %, Lymph:12.8 %, Mono:5.7 %, Eos:2.3 %,
+   Albumin:3.3 g/dL, LDH:219 IU/L, Ca++:8.3 mg/dL, Mg++:2.7 mg/dL, PO4:3.3
+   mg/dL
+   Assessment and Plan
+   Assessment and Plan: This is an 88 year old man with significant
+   cardiac history who is admitted with significant coagulopathy, acute
+   renal failure and a GI bleed.
+   .
+   # GIB: Patient had 13 point HCt drop over last week with
+   lightheadedness and orthostasis.  No blood pressure drops or evidence
+   of hemodynamic instability in the ED.  He did have guaiac positive
+   brown stool, but no evidence of melena or BRBPR according to the
+   patient.  INR greater than assay, though no clear precipitating
+   symptoms.
+   - Hold ASA/warfarin
+   - Maintain access with 2 large bore PIV
+   - Active T&C
+   - 1 units prbcs now, will transfuse to goal of 30 given CAD and
+   question of ischemic ECG changes with elevated trop, though this is
+   most likely in the setting of ARF
+   - IV PPI [**Hospital1 **]
+   - NPO for now
+   - Q4H Hct
+   - Correct coagulopathy as below
+   - GI fellow aware, no plan to scope at this time given coagulopathy, no
+   indication for NGT given risk for trauma-related bleeding. EGD / [**Last Name (un) **]
+   when stable
+   - Bleeding scan if acute bleed
+   .
+   # Coagulopathy: No clear etiology for acute rise. Patient has INR
+   checked monthly.  No recent illness, change in warfarin dosing or
+   dietary changes.  Patient rec'd 5 mg of Vit K in ED as well as 2 units
+   FFP, now INR down to 6.6.
+   - Will give another dose of FFP now given knee hematoma and GI bleed
+   - Additional FFP for any necessary procedures
+   - Holding asa/coumadin
+   - Continue to follow
+   .
+   # L knee hematoma: Occurred after traumatic fall in the ED.  Patient
+   did have a prior knee surgery on that side, will need to clarify what
+   type of surgery.
+   - Follow CK
+   - Will get plain films to assess for fracture or other underlying
+   abnormality
+   - Will ask ortho if there is any indication for further investigation
+   .
+   # ARF: Baseline creatinine around 1.1, now up to 2.6 over the last
+   week.  Likely in the setting of hypoperfusion from GI bleed (also with
+   large Hct drop as above). Initial UA relatlively non-diagnostic, some
+   hyaline casts present.
+   - Will send urine lytes
+   - Urine eos
+   - Avoid nephrotoxins including ACEi/lasix for now
+   - Renally dose all meds
+   - UA with reflex override to look for sediment / casts
+   .
+   # CAD: No current complaints.  Was feeling lightheaded in the setting
+   of GI bleed.  Also with small trop bump to 0.03 and ?TWI that resolved
+   in the ED.
+   - Continue to trend cardiac enzymes
+   - Repeat ECG in am
+   - Continue statin, hold metoprolol, felodipine, lisinopril as above,
+   and aspirin
+   .
+   # Aortic aneurysm s/p repair: No current treatment
+   .
+   # BPH: Continue finasteride and terazosin with holding parameters
+   .
+   # DM type 2, insulin dependent: Continue home 70/30 with HISS, half
+   dose 70/30 while NPO
+   .
+   # HTN: BP have been stable. In the setting of GIB, will hold
+   metoprolol, CCB, lasix, and ACEi as above.  Restart when GIB resolved
+   or BP becomes elevated
+   .
+   # FEN: Prbcs and FFP as above, IVF as needed, replete electrolytes prn,
+   NPO
+   .
+   # Prophylaxis: Supratherapeutic INR at this time, continue to monitor,
+   IV PPI [**Hospital1 **] for GI bleed, bowel regimen prn
+   .
+   # Access: peripherals, large bore
+   .
+   # Code: Full
+   .
+   # Communication: Patient
+   .
+   # Disposition: ICU for now
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2508-4-10**] 02:53 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

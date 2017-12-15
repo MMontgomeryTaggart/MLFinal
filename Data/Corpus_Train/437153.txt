@@ -1,0 +1,217 @@
+TITLE:
+   Chief Complaint: TCA overdose
+   24 Hour Events:
+   femoral line pulled
+   failed SBT, put on pressure support
+   Allergies:
+   Last dose of Antibiotics:
+   Cefipime - [**2911-12-23**] 08:37 AM
+   Vancomycin - [**2911-12-23**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2911-12-23**] 04:44 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Ear, Nose, Throat: OG / NG tube
+   Nutritional Support: Tube feeds
+   Flowsheet Data as of  [**2911-12-24**] 07:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.4
+C (99.4
+   HR: 89 (73 - 89) bpm
+   BP: 103/60(79) {93/48(66) - 124/72(94)} mmHg
+   RR: 19 (14 - 36) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+             Total In:
+                                                                  1,537 mL
+                                                                    360 mL
+   PO:
+             TF:
+                                                                    626 mL
+                                                                    235 mL
+   IVF:
+                                                                    791 mL
+                                                                    125 mL
+   Blood products:
+   Total out:
+                                                                  3,550 mL
+                                                                    660 mL
+   Urine:
+                                                                  3,550 mL
+                                                                    660 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,013 mL
+                                                                   -300 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 382 (300 - 425) mL
+   PS : 18 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 27
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 135
+   PIP: 24 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 30.6 cmH2O/mL
+   SpO2: 96%
+   ABG: 7.43/38/121/23/1
+   Ve: 9.5 L/min
+   PaO2 / FiO2: 303
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: R pupil 4mm, L pupil 3mm
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, Endotracheal
+   tube, NG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric)
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   101 K/uL
+   9.0 g/dL
+   107 mg/dL
+   0.7 mg/dL
+   23 mEq/L
+   3.7 mEq/L
+   13 mg/dL
+   110 mEq/L
+   139 mEq/L
+   27.8 %
+   8.7 K/uL
+        [image002.jpg]
+                            [**2911-12-22**]  10:10 AM
+                            [**2911-12-22**]  12:33 PM
+                            [**2911-12-22**]  02:32 PM
+                            [**2911-12-22**]  05:21 PM
+                            [**2911-12-22**]  07:06 PM
+                            [**2911-12-23**]  02:54 AM
+                            [**2911-12-23**]  03:33 AM
+                            [**2911-12-23**]  03:19 PM
+                            [**2911-12-24**]  03:04 AM
+                            [**2911-12-24**]  03:42 AM
+   WBC
+   11.0
+   8.7
+   Hct
+   28.0
+   27.8
+   Plt
+   104
+   101
+   Cr
+   0.7
+   0.7
+   TCO2
+   30
+   29
+   30
+   29
+   27
+   25
+   24
+   26
+   Glucose
+   108
+   107
+   Other labs: PT / PTT / INR:12.5/34.0/1.1, ALT / AST:75/190, Alk Phos /
+   T Bili:78/0.5, Amylase / Lipase:59/28, Differential-Neuts:78.2 %,
+   Band:0.0 %, Lymph:18.5 %, Mono:1.4 %, Eos:1.4 %, Lactic Acid:2.1
+   mmol/L, LDH:695 IU/L, Ca++:8.3 mg/dL, Mg++:2.0 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   44F with depression and EtOH abuse, s/p severe TCA overdose.  Multiple
+   seizures with significant QRS widening and ECG changes.
+   .
+   # TCA overdose.  Doxepin found on scene.  Fits clinical scenario with
+   CNS depression, widened QRS, seizure, hypotension initially at OSH.
+   Received hypertonic Na and IV bicarb to overcome fast Na channel
+   antagonism, intralipid bolus for improving volume of distribution.
+   - Appreciate tox recs are as follows:
+   -----maintain pH  between 7.45 and 7.55.
+   -----Keep K > 3.0 with supplemental (though does not need to be >4).
+   -----Levophed for hypotension
+   - Q2H ABG.
+   - Q12H electrolytes.
+   - Seizure management.
+   - Consider intralipid if patient begins to not do well- 100 cc
+   - Continue to follow Tox recs
+   - Call PCP to discuss prescriptions written
+   .
+   # Seizure.  Most likely from TCA overdose and GABA receptor antagonist
+   activity.  No prior history of seizures known.
+   - Started on propofol gtt.
+   - Pressors stopped today.
+   - TCA management as above.
+   - Benzos prn breakthrough seizure.
+   .
+   # Wide complex tachycardia.  Precordial negative concordance and axis
+   change most suspicious for VT.  Also consider sinus tach with QRS
+   widening from TCAs.  VT can be seen severe TCA overdose.
+   - Continue to monitor on telemetry.
+   - s/p lidocaine bolus of 100mg; rebolus and gtt at this point if
+   recurs.
+   - TCA management as above.
+   .
+   # Respiratory failure/VAP.  Intubated in field due to mental status
+   from med related CNS depression likely.  Sputum and mini-BAL positive
+   for gram (+) cocci in clusters. MRSA (+)
+   - vanc and cefipime continued
+   - Plan to wean from vent by tomorrow
+   - Aline in place.
+   .
+   # Combined respiratory/metabolic alkalosis.  With superimposed
+   metabolic acidosis due to TCAs and lactate.
+   - Q12H ABG and lytes.
+   - Vent changes prn.
+   .
+   # Anion gap/lactic acidosis.  Likely related to TCA overdose, but by
+   ?mechanism.  Was hypotensive at times during course, now normotensive.
+   Lactate improving.
+   - ABGs as above.
+   - Fluid resuscitation prn.  Avoid further hypotension.  Pressors as
+   needed for med-related hypotension.
+   .
+   # Hypernatremia.  Iatrogenic from multiple IV infusions of hypertonic
+   fluids.
+   - Monitor Q2H.
+   .
+   # Hypokalemia.  As above.  From extra to intracellular potassium shifts
+   with alkalemic pH.  Required 140meq overnight.
+   - Replete to goal >3.
+   .
+   # Fever.  Upon arrival to MICU.  Blood cultures drawn in ED.  CXR
+   without pneumonia and urine without WBCs.  Suspect central fever with
+   above overdose.
+   - f/u cultures.
+   .
+   FEN: replete electrolytes, tube feeds, bowel regime
+   Prophylaxis: Subutaneous heparin, H2B
+   Access: peripherals, L femoral CVL (confirmed with transducing). Change
+   fem line to IJ today
+   Code:  Presumed full
+   Communication: [**Name (NI) **] husband [**Name (NI) **];
+   Disposition: pending clinical improvement
+
+
+
+DOC CLASS

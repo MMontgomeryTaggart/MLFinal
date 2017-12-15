@@ -1,0 +1,171 @@
+Admission Date:  [**2997-10-16**]       Discharge Date:  [**2997-11-2**]
+
+Date of Birth:   [**2980-9-3**]       Sex:  F
+
+Service:  TRAUMA SURGERY
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 17 year-old
+female with no significant past medical history who was
+brought in by med flight to the [**Hospital1 1499**] on [**2997-10-16**].  The patient was the front seat
+passenger in an automobile.  She was unrestrained and was
+ejected through the front windshield.  There was positive
+loss of consciousness.  In the field the patient was
+intubated.  Systolic blood pressure was found to be in the
+130s.  There was significant damage to the car.  The patient
+had [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3576**] coma scale of 6 or 7 at the scene.  In the
+Emergency Department she was found to have [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3576**] coma
+scale of 3T.  She was hemodynamically stable.  She had a
+notable right arm deformity.  She was reportedly complaining
+of abdominal pain at the scene.  She had been at [**Hospital 7026**]
+Hospital the same day for workup of possible pregnancy.  This
+was negative.
+
+PAST MEDICAL HISTORY:  Ovarian cyst.
+
+MEDICATIONS:  None.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient's family lives in [**State 210**].
+
+PHYSICAL EXAMINATION:  Initial vital signs showed heart rate
+of 68, blood pressure 121/54, oxygen sat was 100% on room
+air.  The patient was intubated and sedated.  Her pupils were
+3 to 2 bilaterally and equal.  Tympanic membranes were clear
+bilaterally.  Her trachea was midline.  There were multiple
+superficial facial abrasions.  Lungs were clear to
+auscultation bilaterally.  The right chest had lateral
+superficial abrasions.  Heart was regular rate and rhythm.
+Abdomen was soft, nontender, nondistended.  Pelvis was
+stable.  The rectal examination was normal sphincter tone and
+no guaiac positivity.  Extremities revealed multiple
+superficial ecchymosis and a gross deformity of the right
+arm. There was a palpable pulse and brisk capillary refill.
+The back was without step offs.  There were multiple
+superficial abrasions.
+
+LABORATORY STUDIES:  White blood cell count 20.9, hematocrit
+29.9, platelets 318, sodium 143, potassium 3.3, chloride 111,
+CO2 20, BUN 7, creatinine 0.9, glucose 129, amylase 59, PT
+14.1, INR 1.4, PTT 33.6, fibrinogen 145, lactate 3.0.
+Urinalysis showed large blood, 100 protein.  Toxicology
+screen showed an ethanol level of 11.  Multiple radiologic
+studies were undertaken while the patient was in the
+Emergency Department.  A C spine film revealed a C7
+transverse process fracture.  There was posterior
+displacement and anterior fracture of C7.  A chest x-ray
+showed scoliosis, left apical caping suggestive of an aortic
+injury and a right main stem bronchus intubation.  Pelvic
+film showed a right superior ramus fracture, right inferior
+ramus fracture and bilateral sacral iliac fractures.  The
+patient was stable and transferred to the CT scanner.  CT of
+the chest, abdomen and pelvis showed a mediastinal hematoma
+extending to the left apex and adjacent to the descending
+intrathoracic aorta.  There was no active extravasation, but
+aortic dissection was not rule out.  Number two was right
+upper lobe liver laceration and contusion.  Possible
+aspiration pneumonia, multiple fractures involving C7, T1,
+right scapular, right iliac bone, right sacrum and right
+superior and inferior pubic symphyses, splenic laceration
+with active contrast extravasation.
+
+The patient was admitted promptly to the Surgical Intensive
+Care Unit.  Both cardiothoracic surgery and orthopedic
+surgery were consulted urgently.  On [**2997-10-17**] the patient had
+an aortogram.  This revealed a normal thoracic aorta with no
+contour irregularities or contrast extravasation.  An MR of
+the cervical spine was obtained, which showed a burst
+fracture involving the C7 vertebral body, but no intrinsic
+signal abnormality within the cord itself.  There was
+disruption of the left facet joint at C6-7, C7 to T1 and
+fractures at C7.  There was also a fracture seen at T1.
+Orthopedic Surgery saw the patient and determined that the
+patient would benefit from operative management.  She
+underwent anterior cervical decompression and fusion from C6
+to T1 on [**2997-10-23**].  The patient tolerated the procedure well
+and was returned to the Intensive Care Unit.
+
+The patient remained there for several days.  She slowly
+began to improve.  Her course was complicated only by a
+pneumonia, which was initially treated with Vancomycin and
+then tailored to Oxacillin and Levofloxacin after Methacillin
+sensitive staph aureus and hemophilus influenza grew out from
+her cultures.  She was maintained nutritionally with tube
+feeds.  The remainder of her fractures including her right
+humerus fracture were managed nonoperatively.  The patient's
+intra-abdominal injuries were also managed conservatively
+with observation and strict bed rest.  The patient remained
+stable and gradually had decreased discomfort in her abdomen.
+An IVC filter was placed for PE prophylaxis.
+
+Neurosurgery was then consulted to evaluate the patient.  It
+was recommended to get another CT scan of the head to rule
+out subdural or subarachnoid bleed.  The CT scan was
+negative.  Neurobehavioral Service was also consulted.  It
+was determined that the patient had findings consistent with
+the diffuse external injury type of severe traumatic brain
+injury.  They anticipated that her amnesia and confusion
+should improve over time particularly with active
+rehabilitation.  On [**2997-10-30**], the patient was transferred to
+the hospital [**Hospital1 **].  She began feeding slowly.  She had a TLSO
+brace, which allows her to be removed from bed.  The only
+subsequently complication on the floor was a marked
+thrombocytosis to platelets greater then one million.  This
+is now gradually resolving and thought to be an acute phase
+reaction from trauma.  Her pneumonia has resolved nicely and
+her white blood cell count has drastically decreased to near
+normal levels.
+
+On [**2997-11-1**], interventional radiology removed the patient's
+IVC filter without complication.  On [**2997-11-2**] the patient is
+doing much better.  She is eating.  She is performing her
+physical therapy.  She is more awake and alert.  It is felt
+that she will benefit from an aggressive rehabilitation stay.
+ Placement is pending currently.
+
+CONDITION ON DISCHARGE:  Improved.
+
+DISCHARGE STATUS:  To a rehab facility.
+
+DISCHARGE DIAGNOSES:
+1.  Status post motor vehicle accident with ejection from the
+vehicle.
+2.  Right humerus fracture.
+3.  Closed head injury with resultant diffuse external
+injury.
+4.  Multiple spinal fractures including the levels of C4, C5,
+C6, C7 and T1.
+5.  Status post anterior cervical decompression and fusion
+from C6 to T1.
+6.  Right scapular fracture.
+7.  Right superior pubic ramus fracture.
+8.  Right inferior pubic ramus fracture.
+9.  Right iliac [**Doctor First Name **] fracture.
+10.  Left inferior pubic ramus fracture.
+11.  Grade 3 splenic laceration.
+12.  Pneumonia.
+13.  Thrombocytosis.
+
+MEDICATIONS ON DISCHARGE:  Lovenox 30 mg subQ b.i.d., Tylenol
+650 q 4 hours prn, Percocet one to two q 4 hours prn, iron
+sulfate 325 mg po q day, Levofloxacin 500 mg po q.d. to end
+[**2997-11-3**].  Oxacillin 500 mg intravenous q 4 hours to end
+[**2997-11-3**].
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3009**], M.D.  [**MD Number(1) 3010**]
+
+Dictated By:[**Last Name (NamePattern1) 6780**]
+MEDQUIST36
+
+D:  [**2997-11-2**]  09:02
+T:  [**2997-11-2**]  09:05
+JOB#:  [**Job Number 9447**]
+
+ 
+ 
+DOC CLASS

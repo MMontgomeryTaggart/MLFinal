@@ -1,0 +1,75 @@
+Admission Date:  [**2755-5-25**]     Discharge Date: [**2755-5-29**]
+
+Date of Birth:   [**2693-4-26**]     Sex:  M
+
+Service:  CARDIAC SURGERY
+
+CHIEF COMPLAINT:  Severe mitral and aortic regurgitation.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 62 year-old
+male with a history of rheumatic fever and chronic
+anemia/beta thalassemia.  He also has severe left ventricular
+hypertrophy and query IHSS.  He was admitted with positive
+blood cultures several months back and diagnosed with
+subacute endocarditis involving both valves.  He was treated
+with antibiotics and he was noted to have extreme mitral
+regurgitation at the time and mild aortic regurgitation.  He
+had a repeat echocardiogram on [**5-11**], which showed severe 4+
+MR and 3+ moderate to severe MR.  [**Name13 (STitle) **] was admitted for cardiac
+catheterization prior to cardiac surgery.
+
+PAST MEDICAL HISTORY:  Rheumatic fever, hypertension, severe
+left ventricular hypertrophy query IHSS, chronic anemia/beta
+thallasemia with a history of transfusions, Bence-[**Doctor Last Name **]
+proteinuria, splenomegaly with splenic infarct.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS PRIOR TO ADMISSION:  Altace 2.5 mg q day, Niacin
+500 mg q.d.
+
+PHYSICAL EXAMINATION:  The patient underwent cardiac
+catheterization, showed clean coronaries on [**2755-5-25**].  An ID
+consult was obtained prior to surgery.  On [**2755-5-26**] the
+patient underwent an aortic and mitral valve replacement.  He
+tolerated the procedure well and was extubated on the day of
+surgery.  He was started on Vancomycin and Ceftriaxone per
+ID.  A hematology consult was obtained for his thalassemia.
+They did not see any need for Epogen.  He was ready for
+transfer to the regular floor on postoperative day two.  He
+continued to do well on postoperative day two and had his
+chest tube discontinued on postoperative day two.  In the
+early a.m. on postoperative day three he went into atrial
+fibrillation, but he converted back to normal sinus rhythm
+with intravenous Lopressor.  He was started on po Amiodarone.
+He is now in stable condition.  His vials have been
+discontinued on postoperative day three.  He was ready for
+discharge on postoperative day four.
+
+MEDICATIONS ON DISCHARGE:  Lasix 20 mg q.d. times one week,
+K-Ciel 20 milliequivalents q.d. times one week, Lopressor 25
+mg b.i.d., Colace 100 mg b.i.d., aspirin enteric coated 325
+mg q.d., Percocet one to two tablets q 4 to 6 hours prn,
+Amiodarone 400 mg q.d.
+
+FO[**Last Name (STitle) 3472**]P:  Follow up with his primary care physician doctor
+in two weeks and with Dr. [**Last Name (Prefixes) **] in four weeks.
+
+
+
+
+
+
+                          [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern1) 6906**]
+
+MEDQUIST36
+
+D:  [**2755-5-29**]  09:17
+T:  [**2755-6-1**]  06:14
+JOB#:  [**Job Number 10282**]
+
+ 
+ 
+DOC CLASS

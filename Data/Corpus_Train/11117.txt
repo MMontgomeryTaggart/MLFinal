@@ -1,0 +1,283 @@
+Admission Date:  [**2622-6-10**]              Discharge Date:   [**2622-7-3**]
+
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1858**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (25-mm [**Doctor Last Name 529**] Magna E
+pericardial),aortic endarterectomy7/19/10
+emergency re-exploration [**2622-6-12**]
+sternal washout/advance pectoralis flaps and closure [**2622-6-14**]
+PICC line placement [**6-27**]
+
+
+History of Present Illness:
+This 87 year old male with severe aortic stenosis and recent
+admission for congestive heart failure exacerbation was admitted
+with worsening renal failure and hyponatremia. Cardiac surgical
+consultation was obtained to evaluate for aortic valve
+replacement. he was admitted now for elective surgery.
+
+Past Medical History:
+Aortic Stenosis
+chronic atrial fibrillation
+h/o gastrointestinal bleed
+Hypertension
+Systolic and diastolic congestive heart failure
+Hyperlipidemia
+chronic Anemia
+Benign Prostatic Hypertrophy
+Moderate pulmonary Hypertension
+Chronic Kidney Disease
+s/p cataract surgery
+s/p basal cell CA excision from face
+s/p Tonsillectomy
+
+Social History:
+Race:Caucasian, primarily Italian speaking
+Last Dental Exam:many years, poor dentition
+Lives with:wife and daughter
+Occupation:previous factory worker
+Tobacco:40 pack year history
+ETOH:2 glasses wine/day
+
+Family History:
+Sister on dialysis, hypertension. Mother died suddenly at 65
+years old, also with hypertension. Father died at 89yo of old
+age. There is no family history of premature coronary artery
+disease or sudden death.
+
+Physical Exam:
+admission:
+Pulse: Resp:  O2 sat:
+B/P  Right:    Left:
+Height:5'3"     Weight:
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur III/VI SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema +2 Varicosities:
+0
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: +2  Left: +2
+DP           Right: +1  Left: +1
+PT           [**Name (NI) 422**]: +1  Left: +1
+Radial       Right:  +2 Left: +2
+
+Carotid Bruit        Right:    Left:
+
+Pertinent Results:
+[**2622-6-10**] Echo: PRE BYPASS The left atrium is markedly dilated.
+The left atrium is elongated. No spontaneous echo contrast or
+thrombus is seen in the body of the left atrium/left atrial
+appendage or the body of the right atrium/right atrial
+appendage. The left atrial appendage emptying velocity is
+depressed (<0.2m/s). No atrial septal defect is seen by 2D or
+color Doppler. There is mild symmetric left ventricular
+hypertrophy. Regional left ventricular wall motion is normal.
+Overall left ventricular systolic function is mildly depressed
+(LVEF= 40-45%). [Intrinsic left ventricular systolic function is
+likely more depressed given the severity of valvular
+regurgitation.] The right ventricle displays normal free wall
+contractility. There are simple atheroma in the ascending aorta.
+There are simple atheroma in the aortic arch. The descending
+thoracic aorta is mildly dilated. There are complex (>4mm)
+atheroma in the descending thoracic aorta. There are three
+aortic valve leaflets. The aortic valve leaflets are severely
+thickened/deformed. There is critical aortic valve stenosis
+(valve area = 0.6cm2). Mild to moderate ([**11-24**]+) aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. Moderate to severe (3+) mitral regurgitation is seen.
+Dr. [**Last Name (STitle) **] was notified in person of the results in the
+operating room at the time of the study.
+POST BYPASS The patient is being v-paced. There is normal
+biventricular systolic function. The interventricular septum
+shows dyssynchronous motion consistent with pacing. There is a
+bioprosthesis located in the aortic position. It is well seated
+and displays normal leaflet motion. No significant aortic
+regurgitation is appreciated. The maximum gradient across the
+aortic valve is 14 mmHg with a mean of 7 mmHg at a cardiac
+output of 4.2 liters/minute. The effective orifice area of the
+valve is 1.4 cm2. The mitral regurgitation is somewhat improved
+- now moderate in severity. The tricuspid regurgitation is
+somewhat improved - now mild. The thoracic aorta appears intact
+after decannulation.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was a same day admit and on [**6-10**] was taken to the
+Operating Room where he underwent aortic valve replacement and
+ascending aortic endarterectomy. Please see operative report for
+surgical details. Following surgery he was transferred to the
+CVICU for invasive monitoring in unstable condition on Neo
+Synephrine. he subsequently stabilized and was weaned from
+sedation, awoke neurologically intact and extubated.
+
+On [**6-12**] he underwent a right thoracentesis for 1200cc of straw
+colored fluid.  He later that day was found to have a
+significant hematocrit drop.  A chest tube was placed for about
+2 liters of dark blood and he suffered a cardiac arrest.
+Closed, then open massage were performed and he returned to the
+Operating Room. He was returned to the ICU on Epinephrine, Neo
+Synephrine and Nitroglycerin infusions with an open chest. He
+stabilized, and on [**6-14**] returned to the operating Room for chest
+washout and closure. He remained on multiple pressors.  He
+became severely oliguric and CVVH was instituted with renal
+consultation.  Fluid was removed gradualy and he weaned from
+pressors.  Tube feeding was instituted and he gradually awoke.
+
+He was transitioned to hemodialysis and as renal function
+stabilized he was given a holiday from dialysis and remained
+stable. He was extubated with some stridor which responded to
+racemic Epinephrine. he improved, was able to swallow and tube
+feeds were discontinued. He should have nectar-thick foods with
+ground solids for dysphagia. He become progressively more alert
+and was intact. Physical Therapy worked with him for
+strengthening and he was screened for transfer to a
+rehabilitation facility. He completed abx therapy today. Sternal
+wound should be washed with hydrogen peroxide when showered. He
+is to return to [**Hospital Ward Name 75**] 6 in 7 days for wound check and removal of
+remaining sutures. Foley may be removed tomorrow [**7-4**]. Cleared
+for discharge to [**Hospital1 **] at [**Hospital1 1814**] on [**7-3**]. Follow up appts
+were advised.
+
+
+
+
+Medications on Admission:
+1. Docusate Sodium 100 mg Capsule [**Month/Year (2) 38**]: One (1) Capsule PO BID (2
+times a day).
+2. Doxazosin 1 mg Tablet [**Month/Year (2) 38**]: Two (2) Tablet PO HS (at bedtime).
+
+3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) [**Month/Year (2) 38**]: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+4. Simvastatin 10 mg Tablet [**Month/Year (2) 38**]: Two (2) Tablet PO DAILY
+(Daily).
+5. Aspirin 81 mg Tablet, Chewable [**Month/Year (2) 38**]: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. Ferrous Sulfate 300  mg (60 mg Iron) Tablet [**Month/Year (2) 38**]: One (1)
+Tablet PO DAILY (Daily).
+7. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+[**Month/Year (2) 38**]: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily):
+Hold for sbp<100, hr<50.
+
+Discharge Medications:
+1. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization [**Month/Year (2) 38**]: One (1) neb Inhalation Q6H (every 6 hours).
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) [**Month/Year (2) 38**]: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 38**]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) 39**] DAILY (Daily).
+4. Ipratropium Bromide 0.02 % Solution [**Last Name (STitle) 38**]: One (1) neb
+Inhalation Q6H (every 6 hours).
+5. Heparin (Porcine) 5,000 unit/mL Solution [**Last Name (STitle) 38**]: 5000 (5000)
+units SC Injection TID (3 times a day).
+6. Simvastatin 20 mg Tablet [**Last Name (STitle) 38**]: One (1) Tablet PO at bedtime.
+7. Metoprolol Tartrate 25 mg Tablet [**Last Name (STitle) 38**]: One (1) Tablet PO TID
+(3 times a day): hold for HR <55 or SBP <90 and call provider.
+8. Docusate Sodium 100 mg Capsule [**Last Name (STitle) 38**]: One (1) Capsule PO BID (2
+times a day).
+9. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+10. Magnesium Hydroxide 400 mg/5 mL Suspension [**Last Name (STitle) 38**]: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1096**] Northeast - [**Hospital1 1814**]
+
+Discharge Diagnosis:
+Aortic Stenosis
+chronic atrial fibrillation
+Hypertension
+Systolic and diastolic congestive heart failure
+Hyperlipidemia
+anemia-chronic
+Benign Prostatic Hypertrophy
+Moderate pulmonary Hypertension
+s/p Aortic Valve Replacement
+s/p ascending aortic endarterectomy
+s/p postop cardiac arrest with mediastinal exploration
+chest reclosure
+coronary artery disease
+Chronic Kidney Disease
+s/p cataract surgery
+s/p basal cell carcinoma excision from face
+s/p Tonsillectomy
+post operative acute renal failure
+dysphagia
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+uses lift; does not ambulate
+Incisional pain with tylenol prn
+mild BLE edema
+
+Incisions:
+Sternal - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+Please shower daily including washing incisions gently with mild
+soap,STERNAL INCISION TO ALSO BE WASHED WITH HYDROGEN PEROXIDE;
+no baths or swimming until cleared by surgeon. Look at your
+incisions daily for redness or drainage
+
+FOLEY [**Month (only) **] BE REMOVED TOMORROW [**7-4**]
+
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 425**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments:
+
+Wound check and suture removal [**Hospital Ward Name 75**] 6 Wed [**7-10**] @ 10:30 AM
+Surgeon: Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 425**]),on Tuesday, [**7-23**] at
+1:00 PM
+
+Please call to schedule appointments with:
+
+Primary Care: Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 8481**] ([**Telephone/Fax (1) 6985**]in [**11-24**] weeks
+Cardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**11-24**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 425**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2622-7-3**]
+
+
+DOC CLASS

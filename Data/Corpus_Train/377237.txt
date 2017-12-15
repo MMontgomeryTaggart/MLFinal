@@ -1,0 +1,203 @@
+CVICU
+   HPI:
+   HD2
+   [**4-5**] POD 1
+   59yoM s/p MVRepair(28 Annuloplasty band)[**4-4**]
+   EF 30 Cr 1.1 Wt 77.7K HgbA1c 5.3
+   PMH:MR, CAD s/p STEMI(RCA-stent), HTN, ^chol, Skin CA s/p excision,
+   Hernia repair x2, , scrotal cyst removal, vasectomy, thumb surgery
+   [**Last Name (un) **]: ASA 325', Plavix 75', Lisinopril 15', Lasix 20', Simvastatin 80',
+   Metoprolol 25', Sertraline 75',
+   Allergy: Sulfa
+   Current medications:
+   Acetaminophen 4. Aspirin 7. CefazoLIN 9. Clopidogrel 11.
+   Dexmedetomidine 12. Docusate Sodium 14. Epinephrine HCl 17. Insulin 22.
+   Milrinone 23. Morphine Sulfate 26. Oxycodone-Acetaminophen 27.
+   Phenylephrine 29. Propofol 30. Ranitidine32. Sertraline 33. Simvastatin
+   24 Hour Events:
+ ARTERIAL LINE - START [**3346-4-4**] 11:15 AM
+ ARTERIAL LINE - START [**3346-4-4**] 11:15 AM
+ CORDIS/INTRODUCER - START [**3346-4-4**] 11:15 AM
+ PA CATHETER - START [**3346-4-4**] 11:15 AM
+ OR RECEIVED - At [**3346-4-4**] 11:21 AM
+ INVASIVE VENTILATION - START [**3346-4-4**] 11:21 AM
+ INTUBATION - At [**3346-4-4**] 11:23 AM
+ INVASIVE VENTILATION - START [**3346-4-4**] 11:23 AM
+ EKG - At [**3346-4-4**] 12:22 PM
+   Allergies:
+   Sulfonamides
+   Unknown;
+   Last dose of Antibiotics:
+   Cefazolin - [**3346-4-5**] 12:15 AM
+   Infusions:
+   Milrinone - 0.125 mcg/Kg/min
+   Phenylephrine - 1 mcg/Kg/min
+   Propofol - 55 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**3346-4-5**] 03:50 AM
+   Insulin - Regular - [**3346-4-5**] 05:04 AM
+   Other medications:
+   Flowsheet Data as of  [**3346-4-5**] 08:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**49**] a.m.
+   HR: 74 (74 - 100) bpm
+   BP: 108/78(83) {82/39(49) - 121/78(88)} mmHg
+   RR: 18 (12 - 25) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 88.8 kg (admission): 77.7 kg
+   Height: 65 Inch
+   CVP: 12 (6 - 301) mmHg
+   PAP: (35 mmHg) / (19 mmHg)
+   CO/CI (Fick): (7.2 L/min) / (3.9 L/min/m2)
+   CO/CI (CCO): (4.4 L/min) / (2.9 L/min/m2)
+   SvO2: 71%
+   Mixed Venous O2% sat: 46 - 84
+   Total In:
+                                                                  7,698 mL
+                                                                  1,701 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  4,979 mL
+                                                                    744 mL
+   Blood products:
+                                                                  2,719 mL
+                                                                    957 mL
+   Total out:
+                                                                  2,511 mL
+                                                                    770 mL
+   Urine:
+                                                                    845 mL
+                                                                    320 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,187 mL
+                                                                    931 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 689 (689 - 689) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 58
+   PIP: 19 cmH2O
+   Plateau: 20 cmH2O
+   SPO2: 99%
+   ABG: 7.44/36/137/25/1
+   Ve: 10.6 L/min
+   PaO2 / FiO2: 274
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   Mild exp wheeze bilat), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, No(t) Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, Moves all extremities, Sedated
+   Labs / Radiology
+   169 K/uL
+   8.6 g/dL
+   80
+   1.1 mg/dL
+   25 mEq/L
+   4.4 mEq/L
+   21 mg/dL
+   108 mEq/L
+   138 mEq/L
+   25.9 %
+   14.2 K/uL
+        [image002.jpg]
+                             [**3346-4-5**]  01:56 AM
+                             [**3346-4-5**]  02:12 AM
+                             [**3346-4-5**]  03:00 AM
+                             [**3346-4-5**]  04:00 AM
+                             [**3346-4-5**]  05:00 AM
+                             [**3346-4-5**]  05:43 AM
+                             [**3346-4-5**]  06:00 AM
+                             [**3346-4-5**]  07:00 AM
+                             [**3346-4-5**]  07:13 AM
+                             [**3346-4-5**]  08:00 AM
+   WBC
+   14.2
+   Hct
+   24.1
+   25.9
+   Plt
+   112
+   169
+   Creatinine
+   1.1
+   TCO2
+   25
+   Glucose
+   91
+   126
+   126
+   139
+   110
+   101
+   80
+   Other labs: PT / PTT / INR:14.3/32.6/1.2, Fibrinogen:174 mg/dL, Lactic
+   Acid:1.6 mmol/L, Mg:2.1 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS, VALVE REPAIR (ALL
+   VALVES)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Cont PPF gtt and Morphine PRN for
+   now.
+   Cardiovascular: Aspirin, Holding plavix today. Wean Milrinone gtt and
+   Neo gtt for C.I. > 2 and MAP > 60
+   Pulmonary: Cont ETT, Spontaneous breathing trial, Wean to extubate as
+   tolerated.
+   Gastrointestinal / Abdomen: Cont standard bowel regimen.
+   Nutrition: NPO
+   Renal: Foley, Adequate UO
+   Hematology: Serial Hct, Cont serial Hct and tx 2 units PRBC now and
+   check CXR.
+   Endocrine: RISS
+   Infectious Disease: Kefzol periop
+   Lines / Tubes / Drains: Foley, OGT, ETT, Chest tube - pleural , Chest
+   tube - mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   hypotension, Post-op shock
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3346-4-4**] 11:15 AM
+   Cordis/Introducer - [**3346-4-4**] 11:15 AM
+   PA Catheter - [**3346-4-4**] 11:15 AM
+   16 Gauge - [**3346-4-4**] 12:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

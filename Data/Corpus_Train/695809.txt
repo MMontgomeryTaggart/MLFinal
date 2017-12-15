@@ -1,0 +1,272 @@
+Chief Complaint:
+   24 Hour Events:
+ FEVER - 987.0
+F - [**3025-3-26**] 04:00 PM
+   Non con CT chest:
+   Large bilateral pleural effusions, with subtotal collapse of the lower
+   lobes.
+   Evidence of loculated fluid in the right hemithorax. Focal air space
+   consolidation in the RUL concern for superimposed PNA. No PTX.
+   Deferred extubation, restarted propofol -light.
+   IP will drain loculated effusion in am, and extubate in afternoon.
+   -2L negative at 7pm. Stopped lasix GTT.
+   Allergies:
+   Ace Inhibitors
+   Unknown;
+   Cozaar (Oral) (Losartan Potassium)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3025-3-26**] 08:53 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3025-3-27**] 05:57 AM
+   Infusions:
+   Heparin Sodium - 1,300 units/hour
+   Propofol - 10 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3025-3-27**] 08:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**27**] AM
+   Tmax: 530.6
+C (987
+   Tcurrent: 37.9
+C (100.2
+   HR: 81 (54 - 85) bpm
+   BP: 181/67(96) {127/47(69) - 182/73(100)} mmHg
+   RR: 26 (10 - 26) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 77.8 kg (admission): 81 kg
+   Height: 62 Inch
+             Total In:
+                                                                  1,293 mL
+                                                                    671 mL
+   PO:
+             TF:
+                                                                    199 mL
+                                                                    321 mL
+   IVF:
+                                                                  1,094 mL
+                                                                    350 mL
+   Blood products:
+   Total out:
+                                                                  3,320 mL
+                                                                    580 mL
+   Urine:
+                                                                  3,320 mL
+                                                                    580 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,027 mL
+                                                                     91 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 218 (152 - 264) mL
+   PS : 5 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 98
+   PIP: 11 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 28.1 cmH2O/mL
+   SpO2: 95%
+   ABG: 7.42/49/76.[**Numeric Identifier 119**]/34/5
+   Ve: 6 L/min
+   PaO2 / FiO2: 190
+   Physical Examination
+   No jvp
+   Irregularly
+   [**2-12**] holosystolic murmur. Loudest at apex.
+   Intubated, able to follow commands, less alert than yesterday, on more
+   sedation today
+   Pitting edema in all 4 extremities
+   Labs / Radiology
+   349 K/uL
+   9.7 g/dL
+   230 mg/dL
+   1.2 mg/dL
+   34 mEq/L
+   3.9 mEq/L
+   32 mg/dL
+   104 mEq/L
+   148 mEq/L
+   31.3 %
+   6.0 K/uL
+        [image002.jpg]
+                             [**3025-3-24**]  08:44 PM
+                             [**3025-3-24**]  10:19 PM
+                             [**3025-3-25**]  04:11 AM
+                             [**3025-3-25**]  11:32 AM
+                             [**3025-3-25**]  06:13 PM
+                             [**3025-3-25**]  06:35 PM
+                             [**3025-3-26**]  03:52 AM
+                             [**3025-3-26**]  08:52 AM
+                             [**3025-3-26**]  06:50 PM
+                             [**3025-3-27**]  03:52 AM
+   WBC
+   8.4
+   7.4
+   5.5
+   6.0
+   Hct
+   31.6
+   31.0
+   30.5
+   31.3
+   Plt
+   288
+   295
+   284
+   349
+   Cr
+   1.3
+   1.3
+   1.5
+   1.4
+   1.3
+   1.2
+   TropT
+   0.31
+   0.28
+   0.28
+   TCO2
+   32
+   33
+   33
+   Glucose
+   120
+   145
+   148
+   168
+   162
+   230
+   Other labs: PT / PTT / INR:11.7/38.5/1.0, CK / CKMB /
+   Troponin-T:45//0.28, ALT / AST:22/25, Alk Phos / T Bili:119/0.8,
+   Differential-Neuts:78.5 %, Lymph:15.0 %, Mono:3.6 %, Eos:2.4 %, Lactic
+   Acid:1.1 mmol/L, Albumin:2.3 g/dL, LDH:231 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.0 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+ HYPERNATREMIA (HIGH SODIUM)
+ HYPOTHYROIDISM
+ IMPAIRED SKIN INTEGRITY
+ [**Last Name 12**] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ ATRIOVENTRICULAR (AV) BLOCK
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**3025-3-24**] 05:42 PM
+   Midline - [**3025-3-24**] 05:43 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   74 y/o F with PMHx significant for dCHF, HTN, HL, DM, who was admitted
+   OSH with respiratory failure, now s/p intubation. Recent hospital
+   course complicated by persistent respiratory failure, bilateral pleural
+   effusions, who developed Afib with RVR and development of sinus pauses
+   on telemetry  raising concern for sick sinus syndrome.
+   .
+   # Respiratory Failure: Likely multifactorial, related to infection and
+   heart failure. Most recent Cx data from OSH shows hemophilus influenza
+   (beta lactamase positive ) in Sputum cx . Had initially been on
+   ceftriaxone at OSH but spiked through ABX so was broadened to
+   vanc/zosyn. Also component of heart failure for which she is being
+   diuresed with effect. She does have known large R> L pleural effusions
+   which could be loculated/hiding an abcess. She continues to have a
+   primary respiratory acidosis with compensatory metabolic alkalosis,
+   with a primary respiratory process that is not resolved despite a RISBI
+   of 59. For this reason, continued intubation is desired.
+   Recommend left lateral decubitus CXR
+   -IR guided thoracentesis today.
+   -if this fails, may consider VATS.
+   -continue vanc/zosyn
+   -continue lasix GTT ,goal negative 1L/day
+   -[**Hospital1 7**] lytes.
+   -f/u with OSH lab, request read of values of pleural fluid, gram stain
+   and culture, with s/s
+   -continue to trend fever curve, white count
+   Back off propofol, for extubation post thoracentesis.
+   .
+   # Rhythm: As above, the patient has been noted to have episodes of both
+   a.fib with RVR as well as sinus pauses on telemetry. This is concerning
+   for sick sinus syndrome. Paced at 50, only paces when patient
+ HR drops
+   below this in sleep.
+   - EP  following re temporary pacer and wthether it can be screwed ito
+   placed?
+   - possible  PM placement after infection is better controlled
+   - continue telemetry
+   Continue heparin GTT given differed Coumadin while pacer decision being
+   made.
+   -IV metoprolol for RVR, holding nodal agents otherwise.
+   .
+   # Troponinemia: As above, elevated troponin secondary to demand
+   ischemia in the setting of CHF exacerbation, afib  vs. secondary to
+   ischemic event contributing to CHF exacerbation. Decreased troponin
+   clearance likely [**2-8**] ARF.
+   - Echo showed hyperdynamics, mild AS, mild functional mitral stenosis,
+   and moderate PA systolic HTN.
+   - continue ASA
+   .
+   # ID: Pt with H.flu in sputum and GPC's & GN coccobacilli in sputum at
+   OSH. Was on vanc/zosyn there.
+   - f/u repeat blood cx here
+   - f/u micro data from OSH
+   - continue vanc/zosyn for now (day 5 of 8 day course)
+   - consider getting ID input
+   .
+   # ARF: [**First Name8 (NamePattern2) 49**] [**Last Name (un) 292**] labs, baseline Cr ranges between 0.8 and 1.0.
+   Currently, Cr is 1.4 Likely poor forward flow in the setting of CHF.
+   - continue to trend creatinine
+   .
+   # Diabetes: Unclear of pt's home regimen.
+   - ISS for now
+   - fingersticks QID
+   .
+   # Nutrition: Pt is hypoalbuminemic on admission (2.3). NG tube in
+   place. Was getting TF's at OSH. Poor nutritional status likely
+   contributing to patient's peripheral edema.
+   - nutrition consultrecommending REPLETE WITH FIBER (goal of 50 mL/hr)
+   -resume tube feeds if continued intubation.
+   # Hypertension: Pt hypertensive to 160s.
+   Continue home coreg, start hydral.
+   Control BP as this is barrier to extubation..
+   .
+   # Hyperlipidemia:
+   - need to clarify home regimen
+   .
+   # Hypothyroidism:
+   - continue levothyroxine 50 mcg daily
+   ICU care;
+   Nutrition: Resume tube feeds
+   Glycemic control: RISS
+   Lines; Cordis/introducer [**3025-3-24**]
+   Midline: [**3025-3-24**] : 05:43 pm
+   DVT: heparin systemic
+   Stress Ulcer: lansoprazole
+   Communication: brother
+   [**Name (NI) 34**] status: full
+   Dispo: ICU for now.
+   Disposition:
+
+
+
+DOC CLASS

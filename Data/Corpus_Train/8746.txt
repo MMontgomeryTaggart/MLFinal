@@ -1,0 +1,169 @@
+Admission Date:  [**2714-12-23**]       Discharge Date:  [**2715-1-1**]
+
+Date of Birth:   [**2645-8-28**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 69 year old
+male with a complicated past medical history.  He initially
+presented to [**Hospital1 69**] in
+[**Month (only) **], complaining of constipation and vague abdominal
+pain, associated with nausea and vomiting. The patient also
+reported a ten pound weight loss at that admission.  The
+patient underwent CT of the abdomen, which showed a markedly
+abnormal pancreas with an ectatic duct and possible filling
+defect. The patient was suspected to have IPMT disease;
+however, MRCP of the pancreas was more consistent with a
+calculus disease of the pancreas with an additional finding
+of acute cholecystitis.  During that admission, the patient
+successfully underwent endoscopic retrograde
+cholangiopancreatography with sphincterotomy, resulting in
+removal of multiple gallstones and drainage of pus from the
+biliary system.  After discharge from the hospital, the
+patient was followed up with the hepatobiliary surgical
+office and was seen by Dr. [**First Name (STitle) **] Vomer, who had initially
+been consulted during the prior admission.  With the
+successful resolution of the calculous disease of the
+pancreas, the patient agreed to undergo elective laparoscopic
+cholecystectomy and presented to the operating room on
+[**2714-12-23**].
+
+PAST MEDICAL HISTORY:  Significant for diabetes mellitus;
+coronary artery disease; chronic renal insufficiency with
+baseline creatinine level of 2.6; hypertension and paroxysmal
+atrial fibrillation, documented during the last admission.
+(It is not clear whether this was an acute onset or a chronic
+onset that was recently detected). Benign prostatic
+hypertrophy.
+
+PAST SURGICAL HISTORY:  Status post coronary artery bypass
+graft in [**2712**]; status post left carotid endarterectomy in
+[**2709**] and status post prostate surgery in [**2696**].
+
+REVIEW OF SYSTEMS:  Anemia secondary to chronic renal
+insufficiency, otherwise all other medical history was
+reported previously and review of systems was otherwise
+noncontributory.
+
+FAMILY HISTORY:  Noncontributory.
+
+MEDICATIONS AT HOME:
+1.  Cardura 6 mg p.o. q. a.m. and 4 mg p.o. q. p.m.
+2.  Lopressor 100 mg p.o. twice a day.
+3.  Cozaar 100 mg p.o. q. day.
+4.  Aspirin p.o. q. day.
+5.  Lasix 40 mg p.o. q. day.
+6.  Rocaltrol 0.25 mg p.o. q. day.
+7.  Procrit 4000 units q. four days.
+8.  Lipitor 10 mg p.o. q. day.
+9.  NPH 42 units in the a.m. and 12 units q h.s. with Humalog
+    sliding scale.
+10. Cardizem CD 240 mg p.o. q. day.
+11. Multi-vitamins.
+12. Folate.
+13. Nasonex and Clarinex.
+
+PHYSICAL EXAMINATION:  The patient was afebrile; temperature
+96.8; heart rate of 67; blood pressure 179/78; saturating 97%
+on room air.  Fingerstick was 199.  The patient was alert and
+oriented times three without jaundice or icteric sclera; not
+in apparent distress.  HEAD, EYES, EARS, NOSE AND THROAT
+examination was otherwise normal.  Cardiovascular
+examination:  Regular rate and rhythm with S1 and S2, no
+murmurs were appreciated.  Respiratory examination:  Clear to
+auscultation bilaterally.  Abdominal examination:  Bowel
+sounds present; obese, soft, nontender, nondistended.
+
+HOSPITAL COURSE:  The patient underwent laparoscopic
+cholecystectomy but at the very end of the procedure, the
+patient had intraoperative hemorrhage from the liver bed,
+upon separation of the gallbladder from the liver.  Because
+of the profuse bleeding, the procedure was converted to open
+cholecystectomy for management of the hemorrhage.  The
+estimated blood loss was 800 cc.  The patient received 5.5
+liters of Crystalloid and 2 units of packed red blood cells
+and was transferred to the Intensive Care Unit at the end of
+the case for postoperative management.  The patient was
+followed with serial hematocrit levels, which remained
+stable, above the level of 30 and there was no further
+evidence of bleeding postoperatively.  During his Intensive
+Care Unit admission, the patient was found to have atrial
+fibrillation postoperatively.  Cardiology consult was
+obtained, given the patient's history of cardiac disease and
+that his cardiologist was a [**Hospital1 186**] cardiologist. With cardiology consult, the patient was
+started on Amiodarone bolus and was continued on Amiodarone
+drip.  The patient spontaneously came out of atrial
+fibrillation, only to return again and the patient was
+continued on Amiodarone as per cardiology consult.
+
+The patient left the Intensive Care Unit on postoperative day
+number four, only to return promptly again with rapid atrial
+fibrillation.  The patient was continued to be treated with
+Lopressor and Amiodarone with conversion of his cardiac
+rhythm.  After conversion of the cardiac rhythm to sinus
+rhythm, the patient was transferred to the floor and his
+cardiac rhythm was monitored by telemetry.  He was found to
+have several episodes of paroxysmal atrial fibrillation.
+Again, cardiology consult was obtained and the patient was
+restarted on his home regimen as noted above.  The patient
+had several episodes of nausea and vomiting and with
+appropriate medication, the patient's nausea improved and the
+patient was slowly advanced on his diet, which he tolerated
+without difficulty.  Nausea and vomiting had been resolved
+within a time period of 24 hours and after further
+consultation with cardiology, the patient was discharged on
+[**2715-1-1**] on postoperative day number nine, having
+passed flatus and having had bowel movement.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:
+Discharged to home.
+
+DISCHARGE DIAGNOSES:
+1.  History of calculus disease of the pancreas.
+2.  Acute cholecystitis.
+3.  Coronary artery disease status post coronary artery
+    bypass graft.
+4.  Diabetes mellitus.
+5.  Chronic renal insufficiency.
+6.  Atrial fibrillation.
+7.  Hypertension.
+8.  Benign prostatic hypertrophy.
+9.  Liver hemangioma.
+
+DISCHARGE MEDICATIONS:
+1.  Patient is to continue on all his preadmission
+    medications and is to add the following:
+2.  Amiodarone 200 mg p.o. q. day.
+3.  Coumadin 4 mg p.o. q h.s.
+4.  Tylenol with codeine 30/300 mg one to two tablets p.o.
+    every four hours prn for pain.
+5.  Colace 400 mg p.o. twice a day.
+
+FOLLOW-UP:  The patient is to follow-up with Dr. [**Last Name (STitle) **] in
+his office one week from discharge.  The patient is to see
+his cardiologist, Dr. [**First Name8 (NamePattern2) 481**] [**Last Name (NamePattern1) **], and is to follow-up on
+his arrhythmia which will be monitored at home with [**Doctor Last Name **] of
+Hearts monitoring.  The patient is to see his primary care
+physician and [**Name9 (PRE) 695**] with him to check the INR with a goal
+of 2 to 3.
+
+
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 8176**]
+
+Dictated By:[**Last Name (NamePattern1) 30204**]
+MEDQUIST36
+
+D:  [**2715-1-14**]  07:42
+T:  [**2715-1-14**]  19:43
+JOB#:  [**Job Number 30205**]
+
+
+
+DOC CLASS

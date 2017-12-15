@@ -1,0 +1,229 @@
+Chief Complaint:  Hypotension
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   54 yom ESRD --> home nocturnal PD, CAD, ischemic cardiomyopathy  was in
+   his USOH until 3-4 days PTA when he developed persistent cough and
+   scant white sputum production.  On AM of admission, noted BP systolic=
+   80 mmHg (self monitors) associated with presyncope
+ transported to
+   [**Hospital1 52**] ER.
+   Denies dyspnea, chest discomfort, palpitations.  Denies worsening
+   exercise tolerance or baseline orthopnea, although notes increased
+   bilateral leg swelling.
+   [**Hospital1 52**] evaluation revealed BP= 60/44
+ 121/101 on repeat.  HR= 72, RR=
+   19, SaO2= 90% RA in triage, T= 98.3.  Appeared ill.  Blood tests
+   revealed elevated toponin.  Received left IJ central line, 1.5 L NS,
+   norepinephrine, dexamethasone, Vanco and Zosyn empirically.  ECG with
+   new q-waves in II, III, AVF.  Bedside cardiac echo demonstrated global
+   hypokinesis.  Cardiology consultation suggested recent MI, but no
+   evidence ACS
+ ASA & plavix (no heparin).  Transferrred to MICU service
+   for further evaluation and management.
+   Upon transfer to MICU, stated to feel much improved.  Vasopressor
+   weaned to d/c.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Reglan (Oral) (Metoclopramide Hcl)
+   SEIZURES;
+   Protonix (Oral) (Pantoprazole Sodium)
+   diarrhea;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   ESRD --> Renal transplant [**2850**], pertoneal dialysis since [**5-7**]
+   CAD (3 vessel), s/p MI
+   CHF, ischemic, EF= 20%
+   Polycythemia [**Doctor First Name **]
+   PVD
+   HTN
+   h/o Osteomyelitis of R 5th metatarsal in [**2859**]
+   Eosinophilic gastritis
+   s/p CVA [**2854**] with right hand weakness
+ resolved
+   Mother Bipolar
+   Sister Bipolar
+   Sister congenital [**Last Name 10498**]
+problem
+   Occupation: Retired auto mechanic
+   Drugs: Denies
+   Tobacco: Denies
+   Alcohol: Denies
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision, No(t) Conjunctival edema
+   Ear, Nose, Throat: No(t) Dry mouth, No(t) Epistaxis, No(t) OG / NG tube
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Nutritional Support: NPO, No(t) Tube feeds, No(t) Parenteral nutrition
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, No(t) Foley, Dialysis
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Integumentary (skin): No(t) Jaundice, No(t) Rash
+   Endocrine: No(t) Hyperglycemia, No(t) History of thyroid disease
+   Heme / Lymph: No(t) Lymphadenopathy, Anemia, No(t) Coagulopathy
+   Neurologic: No(t) Numbness / tingling, No(t) Headache, No(t) Seizure
+   Psychiatric / Sleep: No(t) Agitated, No(t) Suicidal, No(t) Delirious,
+   No(t) Daytime somnolence
+   Allergy / Immunology: Immunocompromised, No(t) Influenza vaccine
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2866-4-8**] 05:47 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**68**] AM
+   Tmax: 36
+C (96.8
+   Tcurrent: 36
+C (96.8
+   HR: 65 (65 - 78) bpm
+   BP: 98/65(73) {98/65(73) - 127/83(94)} mmHg
+   RR: 22 (17 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+   CVP: 4 (4 - 4)mmHg
+   Total In:
+                                                                  1,507 mL
+   PO:
+   TF:
+   IVF:
+                                                                      7 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,507 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///18/
+   Physical Examination
+   General Appearance: No(t) Well nourished, No acute distress, No(t)
+   Overweight / Obese, Thin, No(t) Anxious, No(t) Diaphoretic
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition, No(t)
+   Endotracheal tube, No(t) NG tube, No(t) OG tube
+   Lymphatic: Cervical WNL, No(t) Supraclavicular WNL, No(t) Cervical
+   adenopathy
+   Cardiovascular: (PMI Normal, No(t) Hyperdynamic), (S1: Normal, No(t)
+   Absent), (S2: Normal, No(t) Distant, No(t) Loud, No(t) Widely split ,
+   No(t) Fixed), No(t) S3, No(t) S4, No(t) Rub, (Murmur: Systolic, No(t)
+   Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric, No(t) Paradoxical),
+   (Percussion: Resonant : , No(t) Hyperresonant: , No(t) Dullness : ),
+   (Breath Sounds: No(t) Clear : , Crackles : posteriorly, No(t)
+   Bronchial: , No(t) Wheezes : , No(t) Diminished: , Absent : , No(t)
+   Rhonchorous: )
+   Abdominal: Soft, Non-tender, No(t) Bowel sounds present, No(t)
+   Distended, No(t) Tender: , No(t) Obese, PD catheter site intact
+   Extremities: Right lower extremity edema: 1+, Left lower extremity
+   edema: 1+, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: No(t) Muscle wasting, Unable to stand
+   Skin:  Warm, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): 0x3, Movement: Purposeful, Sedated, No(t)
+   Paralyzed, Tone: Normal
+   Labs / Radiology
+   176 K/uL
+   32.1 %
+   10.0 g/dL
+   114 mg/dL
+   9.0 mg/dL
+   63 mg/dL
+   18 mEq/L
+   96 mEq/L
+   4.0 mEq/L
+   135 mEq/L
+   5.5 K/uL
+        [image002.jpg]
+                             [**2866-4-8**]  02:09 AM
+   WBC
+                                     5.5
+   Hct
+                                    32.1
+   Plt
+                                     176
+   Cr
+                                     9.0
+   TropT
+                                    2.16
+   Glucose
+                                     114
+   Other labs: PT / PTT / INR:13.9/60.8/1.2, CK / CKMB /
+   Troponin-T:85//2.16, Differential-Neuts:85.5 %, Lymph:11.3 %, Mono:2.6
+   %, Eos:0.4 %, Lactic Acid:1.8 mmol/L, Ca++:7.2 mg/dL, Mg++:2.2 mg/dL,
+   PO4:9.7 mg/dL
+   Assessment and Plan
+   HYPOTENSION
+ multifactorial, with concerns including sepsis,
+   hypovolemia (related to dialysis), adrenal insufficiency (chronic
+   prednisone with low random cortisol) and cardiac component (likely
+   recent MI).  No evidence GI bleed, pulmonary embolism, CVA.  Good
+   response to current management.  Continue iv fluids, vasopressor as
+   needed, corticosteroids (check cotrosyn stimulation test), empirical
+   antimicrobials.  Plan repeat cardiac echo.  Plan continue monitor BP,
+   maintain MAP >60 mmHg.
+   SEPSIS
+ concerns include pneumonia (RLL, cough, sputum), less likely
+   cystitis.  No evidence for peritonitis or PD catheter associated
+   infection (entry or tunnel infection).  Other concerns include C.
+   diff., osteo.  Check stool for C. diff.  Continue empirical
+   antimicrobials, targeted to pneumonia.
+   NEW ECG ABNORMALITIES
+evidence for likely recent MI, without acute
+   cornonary syndrome currently.  [**Month (only) 56**] contribute to hypotension due to
+   worsening EF.  Plan continue ASA, plavix (no heparin unless CPK rise),
+   monitor troponini, repeat cardiac echo, cardiology to f/u.
+   FLUIDS
+ net hypovolemia.  Continue net resuscitation.  Montor I/O.
+   Monitor BP.
+   ESRD
+ plan resume usual nocturnal PD, but aim for no net fluid
+   removal.  No indication for acute hemodialysis
+   ACIDOSIS --  +anion gap likely secondary to sepsis, elevated lactic
+   acid and worsening renal failure;  check ABG
+   IDDM --  monitor blood glucose, insulin to maintain <150.
+   NUTRITIONAL SUPPORT -- PO
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   Multi Lumen - [**2866-4-8**] 01:40 AM
+   18 Gauge - [**2866-4-8**] 01:40 AM
+   Comments:
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: None)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

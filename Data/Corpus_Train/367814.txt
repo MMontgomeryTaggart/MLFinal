@@ -1,0 +1,223 @@
+SICU
+   HPI:
+   62 yo Spanish speaking M with PMH of HTN, DM, embolic and hemorrhagic
+   CVA, aphasia, DVT who presents with hypotension and lethargy.  Pt had
+   recent admision [**2961-12-9**] for pneumosepsis due to aspiration treated with
+   IV vanco.  Today, found with temp 103 oral, lethargic and hypotensive
+   with  sbp in 70s.  Pt had recently completed course of oral vanco for
+   c-diff.   Started on fluids, levo, dopamine, and vasopressin in ED. s/p
+   subtotal colectomy w ileostomy and takeback for bleeding [**12-30**]
+   PMH:-Hypertension,CVA: bilateral embolic cerebellar [**3032**], hemorrhagic
+   left thalamic [**3034**], Type II Diabetes mellitus,  Peripheral neuropathy ,
+   Constipation, Dysphagia, Depression,  Hypothyroidism  h/o DVT
+   PSH:s/p lap chole at [**Hospital1 947**], s/p INH as child,  Hip surgery
+   Current medications:
+   1. 2. 3. 4. 1000 mL LR 5. 1000 mL LR 6. Calcium Gluconate 7.
+   Chlorhexidine Gluconate 0.12% Oral Rinse
+   8. Famotidine 9. Fentanyl Citrate 10. HYDROmorphone (Dilaudid) 11.
+   Heparin 12. Heparin Flush (10 units/ml)
+   13. Hydrocortisone Na Succ. 14. Insulin 15. Magnesium Sulfate 16.
+   MetRONIDAZOLE (FLagyl) 17. Midazolam
+   18. Norepinephrine 19. Piperacillin-Tazobactam Na 20. Potassium
+   Chloride 21. Sodium Chloride 0.9% Flush
+   22. Sodium Chloride 0.9% Flush 23. Vancomycin Enema
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3042-12-30**] 09:00 AM
+ OR RECEIVED - At [**3042-12-30**] 09:46 AM
+ MULTI LUMEN - START [**3042-12-30**] 01:00 PM
+   Received FFP, off pressors
+   Post operative day:
+   POD#2 - [**12-30**] Subtotal colectomy
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ampicillin/Sulbactam (Unasyn) - [**3042-12-30**] 04:00 PM
+   Piperacillin - [**3042-12-31**] 12:47 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3042-12-31**] 11:50 PM
+   Metronidazole - [**3043-1-1**] 02:21 AM
+   Infusions:
+   Midazolam (Versed) - 1.5 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3042-12-31**] 05:46 PM
+   Heparin Sodium (Prophylaxis) - [**3042-12-31**] 10:50 PM
+   Other medications:
+   Flowsheet Data as of  [**3043-1-1**] 03:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**45**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 36.9
+C (98.5
+   HR: 75 (75 - 96) bpm
+   BP: 133/53(66) {0/0(0) - 0/0(0)} mmHg
+   RR: 0 (0 - 18) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+   CVP: 8 (5 - 16) mmHg
+   Total In:
+                                                                  7,539 mL
+                                                                    723 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,995 mL
+                                                                    723 mL
+   Blood products:
+                                                                    544 mL
+   Total out:
+                                                                  2,990 mL
+                                                                    315 mL
+   Urine:
+                                                                    810 mL
+                                                                    115 mL
+   NG:
+                                                                    100 mL
+   Stool:
+   Drains:
+                                                                  2,050 mL
+                                                                    200 mL
+   Balance:
+                                                                  4,549 mL
+                                                                    408 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 514 (514 - 514) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 27 cmH2O
+   Plateau: 20 cmH2O
+   Compliance: 40 cmH2O/mL
+   SPO2: 99%
+   ABG: 7.43/43/126/27/4
+   Ve: 7.8 L/min
+   PaO2 / FiO2: 315
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bases and RUL)
+   Abdominal: Soft
+   Left Extremities: (Edema: 2+)
+   Right Extremities: (Edema: 2+)
+   Neurologic: Follows simple commands, Moves all extremities
+   Labs / Radiology
+   96 K/uL
+   9.8 g/dL
+   79 mg/dL
+   0.5 mg/dL
+   27 mEq/L
+   3.8 mEq/L
+   13 mg/dL
+   118 mEq/L
+   148 mEq/L
+   26.3 %
+   10.1 K/uL
+        [image002.jpg]
+                             [**3042-12-30**]  06:51 PM
+                             [**3042-12-30**]  09:49 PM
+                             [**3042-12-31**]  01:08 AM
+                             [**3042-12-31**]  03:09 AM
+                             [**3042-12-31**]  05:33 AM
+                             [**3042-12-31**]  07:41 AM
+                             [**3042-12-31**]  02:13 PM
+                             [**3042-12-31**]  02:24 PM
+                             [**3042-12-31**]  05:33 PM
+                             [**3042-12-31**]  10:07 PM
+   WBC
+   5.8
+   7.6
+   7.4
+   10.1
+   Hct
+   32.9
+   32.5
+   28.1
+   26.3
+   Plt
+   88
+   97
+   96
+   96
+   Creatinine
+   0.5
+   0.5
+   0.5
+   0.5
+   TCO2
+   15
+   13
+   20
+   24
+   27
+   29
+   Glucose
+   166
+   147
+   93
+   79
+   Other labs: PT / PTT / INR:19.7/40.2/1.8, CK / CK-MB / Troponin
+   T:177/4/0.08, ALT / AST:628/750, Alk-Phos / T bili:27/0.5,
+   Fibrinogen:159 mg/dL, Lactic Acid:2.3 mmol/L, Albumin:1.3 g/dL,
+   LDH:1400 IU/L, Ca:7.5 mg/dL, Mg:1.6 mg/dL, PO4:1.8 mg/dL
+   Assessment and Plan
+   DECUBITUS ULCER (PRESENT AT ADMISSION), .H/O ACIDOSIS, METABOLIC,
+   ELECTROLYTE & FLUID DISORDER, OTHER, SHOCK, HYPOVOLEMIC OR HEMORRHAGIC,
+   RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), AIRWAY, INABILITY TO
+   PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH)
+   Assessment and Plan: This is a 62 yo M with PMH of HTN, type 2 DM,
+   embolic and hemorrhagic CVA, and history of DVT who presents with
+   sepsis likely secondary to c. diff colitis, s/p subtotal colectomy and
+   take back for bleed
+   Neurologic: Fentanyl drip, midaz drip
+   Cardiovascular: HD stable over night, MAP>60 as goal.  Cont
+   resuscitation, off pressors
+   Pulmonary: Intubated, wean vent as tolerated
+   Gastrointestinal/Abdominal: NPO. f/u JP output, abdomen open - will
+   need return to OR Monday
+   Nutrition: NPO
+   Renal: monitor uop
+   Hematology: f/u serial cbc and coags, HCT slowing drifting down,
+   maintains dilute blood tinged output via abd drains
+   Endocrine: SSI
+   Infectious Disease: cdiff, Started on flagyl/zosyn. vancomycin
+   Lines/Tubes/Drains: foley, R IJ, aline, JP. d/c femoral line?
+   Wounds: open abd wound, bilateral gluteal stage 2 pressure ulcers,
+   first step bed ordered, wound care consult
+   Imaging: none
+   Fluids: LR @ 100 ml/hr
+   Prophylaxis: boots, hep sq, h2b
+   Consults: General Sugery
+   Disposition: SICU
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3042-12-30**] 02:13 AM
+   18 Gauge - [**3042-12-30**] 02:14 AM
+   20 Gauge - [**3042-12-30**] 02:15 AM
+   Multi Lumen - [**3042-12-30**] 01:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent:
+   Patient is critically ill
+
+
+
+DOC CLASS

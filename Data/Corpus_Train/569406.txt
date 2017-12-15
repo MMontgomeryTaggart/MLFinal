@@ -1,0 +1,186 @@
+Chief Complaint:
+   24 Hour Events:
+   [**3-11**] events:
+   - weaned pressors to only vasopressin
+   - vent FiO2 weaned to 50%
+   - bronch with BAL at 430 pm with thick yellow secretions
+   - gas at midnight with mild alkalosis, decreased RR to 24 (from 28),
+   repeat gas looked better
+   - around 4 am MAP started decreasing; received 2 250 cc boluses with
+   effect, started transfusion of 1 unit PRBCs for Hct of 25
+   - sedation weaned to fentanyl 30 and midaz 0.5 and pt opening eyes and
+   intermittently following commands
+   - levofed restarted around 5am for low MAPs
+   Allergies:
+   Cholestyramine
+   ?erectile dysfc
+   Niacin
+   Hepatic toxicit
+   Iodine; Iodine Containing
+   Rash;
+   Ciprofloxacin
+   muscle weakness
+   Last dose of Antibiotics:
+   Vancomycin - [**2522-3-11**] 12:00 PM
+   Azithromycin - [**2522-3-11**] 04:37 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2522-3-12**] 12:21 AM
+   Infusions:
+   Fentanyl - 30 mcg/hour
+   Midazolam (Versed) - 1.5 mg/hour
+   Vasopressin - 2.4 units/hour
+   Insulin - Regular - 1 units/hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   KCl (CRRT) - 2 mEq./hour
+   Norepinephrine - 0.04 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2522-3-11**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**2522-3-11**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2522-3-12**] 07:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.1
+C (96.9
+   HR: 60 (60 - 60) bpm
+   BP: 115/54(75) {98/42(1) - 141/63(90)} mmHg
+   RR: 0 (0 - 28) insp/min
+   SpO2: 97%
+   Heart rhythm: AV Paced
+   Height: 64 Inch
+    CVP: 338 (10 - 361)mmHg
+   Total In:
+                                                                  6,432 mL
+                                                                  1,450 mL
+   PO:
+   TF:
+   IVF:
+                                                                  5,926 mL
+                                                                  1,100 mL
+   Blood products:
+                                                                    506 mL
+                                                                    350 mL
+   Total out:
+                                                                  2,172 mL
+                                                                  1,028 mL
+   Urine:
+                                                                     55 mL
+                                                                     65 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,260 mL
+                                                                    422 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 28 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 36.4 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.39/38/81.[**Numeric Identifier 237**]/22/-1
+   Ve: 7.4 L/min
+   PaO2 / FiO2: 164
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   256 K/uL
+   9.6 g/dL
+   99 mg/dL
+   3.5 mg/dL
+   22 mEq/L
+   4.0 mEq/L
+   73 mg/dL
+   99 mEq/L
+   132 mEq/L
+   27.8 %
+   19.8 K/uL
+        [image002.jpg]
+                             [**2522-3-11**]  10:30 AM
+                             [**2522-3-11**]  10:31 AM
+                             [**2522-3-11**]  05:36 PM
+                             [**2522-3-11**]  05:42 PM
+                             [**2522-3-11**]  11:40 PM
+                             [**2522-3-11**]  11:57 PM
+                             [**2522-3-12**]  01:57 AM
+                             [**2522-3-12**]  03:10 AM
+                             [**2522-3-12**]  05:08 AM
+                             [**2522-3-12**]  05:27 AM
+   WBC
+   20.1
+   19.8
+   Hct
+   25.1
+   27.8
+   Plt
+   256
+   256
+   Cr
+   6.9
+   4.2
+   3.5
+   TropT
+   0.08
+   TCO2
+   18
+   21
+   23
+   22
+   22
+   24
+   Glucose
+   104
+   119
+   90
+   99
+   Other labs: PT / PTT / INR:21.3/43.1/2.0, CK / CKMB /
+   Troponin-T:522/9/0.08, ALT / AST:357/439, Alk Phos / T Bili:196/6.4,
+   Amylase / Lipase:345/555, Differential-Neuts:96.1 %, Lymph:2.5 %,
+   Mono:1.2 %, Eos:0.0 %, Fibrinogen:457 mg/dL, Lactic Acid:1.3 mmol/L,
+   Albumin:2.2 g/dL, LDH:482 IU/L, Ca++:7.8 mg/dL, Mg++:2.0 mg/dL, PO4:4.6
+   mg/dL
+   Assessment and Plan
+ HYPERGLYCEMIA
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name **])
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2522-3-10**] 10:12 PM
+   Multi Lumen - [**2522-3-10**] 10:15 PM
+   Arterial Line - [**2522-3-10**] 10:31 PM
+   Dialysis Catheter - [**2522-3-11**] 09:57 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

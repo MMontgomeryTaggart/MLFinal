@@ -1,0 +1,274 @@
+Chief Complaint:
+   24 Hour Events:
+   - Checking hemodynamics Q8hr, CVP decreasing to goal [**11-9**], PCWP down
+   [**Last Name (un) 4687**] 20 -> 16, SVR in 700s, CO remains 4.9-> 5 with UOP of avg 200/hr
+   but then pressor requirement increased (levophed 0.1) so lasix gtt
+   decreased/off so by morning, patient down to 0.05 levophed, CVP 12,
+   wedge 20-21. Lasix gtt resumed. Net fluid balance 1L out overnight
+   - Weaned down on PEEP from 10-> 8, tolerated PS for 3 hours but then
+   got tachypneic, uncomfortable, increased pressor requirement
+   - unable to replace a-line
+   - CT [**Doctor First Name 86**] came by to check in, will talk with attending about candidacy
+   for surgery next week
+   Allergies:
+   No Known Drug Allergies
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Meropenem - [**2579-5-16**] 04:33 PM
+   Vancomycin - [**2579-5-16**] 08:53 PM
+   Metronidazole - [**2579-5-17**] 12:31 AM
+   Ciprofloxacin - [**2579-5-17**] 03:30 AM
+   Infusions:
+   Norepinephrine - 0.05 mcg/Kg/min
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Midazolam (Versed) - 0.5 mg/hour
+   Furosemide (Lasix) - 2 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2579-5-16**] 07:55 AM
+   Midazolam (Versed) - [**2579-5-16**] 02:22 PM
+   Fentanyl - [**2579-5-16**] 02:22 PM
+   Heparin Sodium (Prophylaxis) - [**2579-5-16**] 08:57 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-17**] 07:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.6
+C (97.9
+   HR: 103 (98 - 108) bpm
+   BP: 87/52(61) {0/0(0) - 0/0(0)} mmHg
+   RR: 20 (12 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+    CVP: 14 (10 - 15)mmHg
+   PAP: (52 mmHg) / (33 mmHg)
+   PCWP: 20 (16 - 20) mmHg
+   CO/CI (Thermodilution): (5.86 L/min) / (3 L/min/m2)
+   CO/CI (Fick): (6.2 L/min) / (3.2 L/min/m2)
+   SVR: 1,066 dynes*sec/cm5
+   PVR: 263 dynes*sec/cm5
+   Mixed Venous O2% Sat: 63 - 63
+   SV: 56 mL
+   SVI: 29 mL/m2
+   Total In:
+                                                                  3,269 mL
+                                                                    800 mL
+   PO:
+   TF:
+                                                                  1,080 mL
+                                                                    315 mL
+   IVF:
+                                                                  2,189 mL
+                                                                    485 mL
+   Blood products:
+   Total out:
+                                                                  4,400 mL
+                                                                    790 mL
+   Urine:
+                                                                  4,400 mL
+                                                                    790 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,131 mL
+                                                                     10 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 331 (331 - 331) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI: 77
+   PIP: 22 cmH2O
+   Plateau: 18 cmH2O
+   Compliance: 40 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.42/61/39/37/11
+   Ve: 7.9 L/min
+   PaO2 / FiO2: 98
+   Physical Examination
+   General: intubated, sedated, NAD
+   HEENT: anicteric, pupils equal
+   LUNGS: L>R rales with bronchial breath sounds on L
+   CVS: loud systolic murmur at LUSB, no rubs , RRR
+   EXT:  2+ pedal pulses, boots in place, warm feet, cooler hands
+   SKIN: no rashes or jaundice, +sacral decubitus ulcer
+   Lines/tubes/drains LIJ, R cordis, L a line
+ mild exit site erythema no
+   purulence. Foley with yellow urine.
+   Labs / Radiology
+   47 K/uL
+   8.6 g/dL
+   171 mg/dL
+   1.0 mg/dL
+   37 mEq/L
+   3.7 mEq/L
+   55 mg/dL
+   103 mEq/L
+   142 mEq/L
+   26.8 %
+   5.2 K/uL
+        [image002.jpg]
+                             [**2579-5-13**]  03:02 PM
+                             [**2579-5-14**]  02:19 AM
+                             [**2579-5-14**]  02:23 PM
+                             [**2579-5-14**]  07:45 PM
+                             [**2579-5-15**]  03:36 AM
+                             [**2579-5-15**]  06:04 PM
+                             [**2579-5-16**]  03:35 AM
+                             [**2579-5-16**]  03:25 PM
+                             [**2579-5-17**]  04:13 AM
+                             [**2579-5-17**]  04:18 AM
+   WBC
+   8.5
+   5.7
+   5.3
+   4.7
+   5.2
+   Hct
+   31.9
+   31
+   30.9
+   29.6
+   28.5
+   28.1
+   26.8
+   Plt
+   128
+   122
+   84
+   54
+   57
+   47
+   Cr
+   1.3
+   1.3
+   1.3
+   1.3
+   1.1
+   1.1
+   1.0
+   TCO2
+   34
+   41
+   Glucose
+   120
+   120
+   163
+   190
+   205
+   173
+   171
+   Other labs: PT / PTT / INR:20.5/49.5/1.9, CK / CKMB /
+   Troponin-T:20/1/0.02, ALT / AST:21/25, Alk Phos / T Bili:86/2.2,
+   Amylase / Lipase:68/14, Differential-Neuts:79.0 %, Band:6.0 %,
+   Lymph:5.0 %, Mono:9.0 %, Eos:1.0 %, Fibrinogen:399 mg/dL, Lactic
+   Acid:1.5 mmol/L, Albumin:1.6 g/dL, LDH:236 IU/L, Ca++:7.1 mg/dL,
+   Mg++:2.1 mg/dL, PO4:2.3 mg/dL
+   CXR decreased R sided infiltrate, ET tube good position, LIJ and R swan
+   in position
+   Micro
+   [**5-15**] blood cx NGTD
+   [**5-15**] urine cx 10-100k yeast
+   [**5-15**] sputum yeast
+   All other micro
+ none new
+   Assessment and Plan
+   79 yo M with critical aortic stenosis now s/p valvuloplasty and still
+   intubated with VAP, hypoxia and respiratory distress
+   # Critical AS / systolic CHF:  s/p valvuloplasty with good effect on
+   valve area. CO appears adequate currently  in the 5 range
+ warm,
+   appears to be perfusing peripherally.
+   - check PCWPs q 8 hours ( coming down from 24 to 18 )
+   - f/up any interventional cardiology recommendations
+   - limit tachycardia if possible
+   -continue current Lasix drip with goal I/O near negative~ 500cc to -1L
+   , mainly keep CVP 10-12
+   # Hypotension:
+   Pressor requirements are decreased today
+ increased slightly yesterday
+   in setting of lower wedges, remains preload sensitive given his AS.
+   Warm legs and lower SVRs more consistent with distributive etiology
+   (sepsis), though lower CVO2 suggests cardiogenic component. Evidence
+   for infection is fairly limited
+ no fever, leukocytosis, or recent
+   positive cultures
+ though he has had more airway secretions over the
+   weekend raising possibility of tracheobronchitis versus pna. L sacral
+   wound does not appear infected.
+   - Continue Meropenem (currently d16),  . Would favor DCing vancomycin
+   Staph should have grown if present. Would also DC metronidazole, and if
+   remains afebrile/no leukocytosis would also DC ciprofloxacin tomorrow.
+   - Continue levophed, wean as tolerated
+   - Follow urine output, MAPS goal >65
+   - repeat central venous O2 and lactate
+ check PM levels
+   # Respiratory failure:  Decreased O2 requirements, now on PSV trial.
+   Has persistent pulm edema, improved today
+    L sided consolidation concerning for PNA versus organizing process,
+   unclear.
+   - pneumonia treatment as above
+   - wean  PEEP as tolerates
+   - diuresis as above
+   - family seems to agree with possible tracheostomy / PEG given likely
+   long term vent at this time
+   # thrombocytopenias:
+   Plts down again significantly over the weekend in the setting of recent
+   large heparin load for valvuloplasty and recently starting
+   ciprofloxacin and metronidazole. Previous work up for HIT thought false
+   + PF4 antibody (decreased titer on repeat, negative serotonin release
+   assay). DDX antibiotics, heparin, infection. Restarted SQ heparin on
+   4.13 (6d ago)
+ 4T score ~5, intermediate prob. No clinical evidence
+   for new clot
+   - discuss resending PF4 with heme
+   - hold heparin
+   - streamlining antibiotics as above
+   - follow daily CBC
+   .
+   #elevated INR:
+   Elevated today in setting of heparin in cath lab. Trend coags daily.
+   # atrial tachycardia:
+   HR recently under better control, though tachycardia at times likely
+   levophed and volume related
+   - continue amio
+   - try to wean levophed as possible
+   .
+   # sacral decubitus sore
+   - f/up local wound care recs, plastics eval appreciated
+   - continue enzymatic debridement
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2579-5-16**] 06:13 PM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2579-5-6**] 02:47 AM
+   Multi Lumen - [**2579-5-8**] 12:58 PM
+   PA Catheter - [**2579-5-14**] 05:00 PM
+   Cordis/Introducer - [**2579-5-14**] 05:04 PM
+   Prophylaxis:
+   DVT: boots
+   Stress ulcer:  ppi
+   VAP:  daily wakeup, mouthcare
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

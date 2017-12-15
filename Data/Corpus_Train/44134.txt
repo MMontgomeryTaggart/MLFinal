@@ -1,0 +1,128 @@
+Admission Date: [**3499-10-5**]        Discharge Date: [**3499-10-11**]
+
+Date of Birth:  [**3433-9-8**]        Sex:  M
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  This 66-year-old gentleman with
+known coronary artery disease status post multiple cardiac
+catheterizations and PCIs.  Patient presented with repeat
+chest pain radiating to the shoulder and back, and with the
+workup, the patient was referred to Dr. [**Last Name (STitle) 222**] for surgical
+treatment of his coronary disease.  Patient had cardiac
+catheterization done at outside hospital.  Results are
+unavailable.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+Coronary artery disease.
+
+Non-insulin dependent-diabetes mellitus.
+
+Has a history of arthritis due to the herpes virus for which
+she takes methotrexate.
+
+Hernia repair in [**3487**].
+
+PREOPERATIVE MEDICATIONS:
+1. Nifedipine extended release 60 mg p.o. q.d.
+2. Folic acid 1 mg p.o. q.d.
+3. Glyburide 2.5 mg p.o. q.d.
+4. Aspirin 325 mg p.o. q.d.
+5. Metoprolol 50 mg p.o. t.i.d.
+6. Lasix 20 mg p.o. q Monday, Wednesday, and Friday.
+7. Flomax 0.4 mg p.o. q.d.
+8. Methotrexate 2.5 mg p.o. q Friday, Saturday.
+9. Lipitor 10 mg p.o. q.d.
+10.      Plavix 75 mg p.o. q.d.
+11.      Skelaxin 400 mg p.o. q.i.d. prn.
+
+
+ALLERGIES:  Ticlid, which causes mental status changes.
+
+Angiotensin, which causes a rash .
+
+Lisinopril, which causes a rash.
+
+HOSPITAL COURSE:  Patient was taken to the operating room on
+[**3499-10-5**] and underwent a CABG x4 with LIMA to LAD, SVG
+to RCA, SVG to OM, and SVG to diagonal.  Total
+cardiopulmonary bypass time is six minutes.  Total cross-
+clamp time 69 minutes.  Please see operative note for full
+details.  Patient was transported to the Intensive Care Unit
+in stable condition.  He was weaned and extubated from
+mechanical ventilation on his first postoperative day.  On
+postoperative day one, the patient was transferred from the
+Intensive Care Unit to the regular part of the hospital.
+
+On postoperative day two, the chest tubes, Foley catheter,
+and pacing wires were discontinued without incident.  Patient
+began diuresing.  Was started on Lopressor, began ambulating
+with Physical Therapy, and by postoperative day number five,
+patient was cleared by Physical Therapy for discharge to
+home.  On postoperative day six, the patient was discharged
+home in stable condition.
+
+CONDITION ON DISCHARGE:  T max 99.1, pulse 80 in sinus
+rhythm, blood pressure of 143/57, respiratory rate 18, and on
+room air oxygen saturation 94 percent.  Neurologically:  The
+patient is awake, alert, and oriented times three.
+Examination was nonfocal.  Heart:  Regular rate and rhythm
+with soft rub, no murmur.  Respiratory:  Breath sounds have
+scattered expiratory wheezes on right, which resolved with
+coughing.  Otherwise, breath sounds are clear throughout.
+GI:  Abdomen has positive bowel sounds, soft, obese,
+nontender, and nondistended.  Sternal incision:  Steri-Strips
+are intact.  Open to air.  Incision is clean and dry.  There
+is no erythema or drainage.  Sternum is stable.  The right
+lower extremity vein harvest site is clean, dry, and intact.
+There is no erythema or drainage.  Vein harvest site has [**3-14**]
+plus pitting edema.  Left lower extremity has [**2-10**] plus
+pitting edema, is warm and well perfused.  Per report by the
+patient, the edema is significantly decreased from yesterday.
+
+LABORATORY DATA:  White blood cell count 8.4, hematocrit
+30.7, platelet count 356.  Potassium 4.3, BUN 13, creatinine
+0.7.
+
+DISCHARGE DIAGNOSES:  Coronary artery disease.
+
+Status post coronary artery bypass graft.
+
+Hypertension.
+
+Non-insulin dependent-diabetes mellitus.
+
+DISCHARGE MEDICATIONS:
+1. Percocet 5/325 mg 1-2 tablets p.o. q.4-6h prn.
+2. Aspirin 325 mg p.o. q.d.
+3. Lasix 20 mg p.o. q.d. x2 weeks and then 3x a week per the
+   preoperative regime.
+4. Lipitor 10 mg p.o. q.d.
+5. Flomax 0.4 mg p.o. q.d.
+6. Plavix 75 mg p.o. q.d.
+7. Glyburide 5 mg p.o. q.d.
+8. Lopressor 75 mg p.o. t.i.d.
+
+
+DISPOSITION:  The patient is to be discharged home in stable
+condition.
+
+FOLLOW UP:  He should follow up with his primary care
+physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] in [**3-14**] weeks, Dr. [**Last Name (STitle) 2883**], his
+cardiologist in [**4-13**] weeks, and Dr. [**Last Name (STitle) 222**] in one month.
+
+
+
+                        [**Name6 (MD) 223**] [**Name8 (MD) 222**], M.D. [**MD Number(2) 20279**]
+
+Dictated By:[**Last Name (NamePattern4) 22456**]
+MEDQUIST36
+D:  [**3499-10-11**] 14:46:35
+T:  [**3499-10-12**] 05:50:13
+Job#:  [**Job Number 22457**]
+
+
+
+DOC CLASS

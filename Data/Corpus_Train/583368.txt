@@ -1,0 +1,289 @@
+Chief Complaint:  Chief Complaint: lightheadedness
+   .
+   Reason for MICU admission: GIB
+   HPI:
+   Mr. [**Known patient lastname 8248**] is an 88 yo M with history of aortic aneursym status post
+   repair, MVR s/p porcine valve placement, atrial fibrillation and
+   diverticulosis who presented with lightheadedness on the day of
+   admission and is admitted with a GI bleed.
+   .
+   The patient reports he was feeling well up until the day of admission.
+   On further questioning, he admits that he may have felt a bit weak one
+   day prior.  He denies any recent illness, cough, headache, vision
+   changes, dysuria, diarrhea or other symptoms prior to today.  He notes
+   he woke up early this morning and felt very dizzy and "woozy" so his
+   wife suggested that he come in to the ED for evaluation.  He also
+   reports difficulty with urinary retention worse than usual secondary to
+   his BPH which was concerning to him.
+   .
+   In the ED, initial vs were: T 97.3 P 78 BP 122/60 R 16 O2 sat 98% on
+   RA. A foley was placed and per report approximately 200 cc of urine
+   drained.  Patient had one set of partial orthostatics with lying BP He
+   was found to have a 12 point Hct drop and INR greater than assay as
+   well as acute renal failure.  Patient was given 1 L of NS, vitamin K 5
+   mg PO x1, protonix 40 mg IV x1 and 2 units of PRBCs and 4 units of FFP
+   were ordered.  He rec'd one unit of FFP prior to transfer to the
+   floor.  Additionally, patient got up in the ED to urinate prior to
+   foley being placed and fell.  Was possibly unresponsive mom[**Name (NI) **].
+   CT head was negative.  He did sustain a considerable L knee hematoma at
+   the time.
+   .
+   Of note, the patient had a complicated coure at the time of his prior
+   cardiac surgery.  He was re-intubated due to respiratory failure and
+   developed a left cephalic vein DVT.  He has been doing well since
+   admission and has been on a stable dose of anticoagulation with INR
+   checks monthly.  His last check was one week ago and was around 2.1 per
+   his report.  He is not entirely sure why he is on anticoagulation, but
+   notes he has been on it for the last year.  He denies any recent
+   changes in his coumadin dose.
+   .
+   His last colonoscopy was in [**12/2503**] and showed diverticulosis of the
+   sigmoid colon.  EGD at that time showed a large hiatal hernia and
+   gastritis with normal biopsies.
+   .
+   On the floor, the patient feels well.  VSS.  He does not currently have
+   any complaints.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   -Coronary Artery Disease s/p 2 vessel CABG in [**6-8**] (LIMA to LAD, SVG to
+   PDA)
+   -Ascending Aortic Aneurysm s/p repair
+   -Mitral Regurgitation s/p MVR
+   -Diabetes Mellitus
+   -Hypertension
+   -Benign Prostatic Hypertrophy
+   -Obesity
+   -Hiatal hernia
+   -S/p pacemaker in [**2501**]
+   -S/p left knee surgery - CLARIFY
+   -Splenic hypodensity
+   -Anti-K antibiodies (requies [**Doctor Last Name **] antigen neg blood)
+   NC
+   Occupation: Retired
+   Drugs: Denies
+   Tobacco: Denies
+   Alcohol: Denies
+   Other:
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss
+   Eyes: No(t)  Blurry vision
+   Ear, Nose, Throat: No(t) Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, No(t) Edema,
+   No(t) Tachycardia, No(t) Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea, No(t) Tachypnea, No(t) Wheeze
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: Hesitancy
+   Musculoskeletal: No(t) Joint pain, No(t) Myalgias
+   Neurologic: No(t) Headache
+   Flowsheet Data as of [**2508-4-10**] 05:15 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.2
+   Tcurrent: 36.2
+C (97.2
+   HR: 60 (60 - 75) bpm
+   BP: 112/45(58) {112/45(58) - 119/52(67)} mmHg
+   RR: 16 (12 - 19) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+                  Total In:
+                  295 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   295 mL
+   Total out:
+                                                                      0 mL
+                                                                    175 mL
+   Urine:
+   175 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    120 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), (Murmur:
+   Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent, large hematoma over left
+   knee, mild discoloration, no bleeding or pain
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   182
+   271
+   2.6
+   40
+   23
+   101
+   4.8
+   137
+   28.1
+   10.6
+        [image002.jpg]
+   Other labs: PT / PTT / INR:56.0/49.6/6.6 (was >22), CK / CKMB /
+   Troponin-T:258/4/0.03
+   Imaging: CT head wet read:
+   No acute intracranial abnl or fracture. Maxillary and ethmoid sinus
+   disease.
+   CXR: On my read, large globular heart, no significant pulmonary edema
+   or infiltrate though poor quality film
+   ECG: EKG: Occasional demand pacing with native rhythm which appears to
+   be afib w/ PVCs, no significant changes from baseline other than pacing
+   is more frequent
+   Assessment and Plan
+   Assessment and Plan: This is an 88 year old man with significant
+   cardiac history who is admitted with significant coagulopathy, acute
+   renal failure and a GI bleed.
+   .
+   # GIB: Patient had 13 point HCt drop over last week with
+   lightheadedness and orthostasis.  No blood pressure drops or evidence
+   of hemodynamic instability in the ED.  He did have guaiac positive
+   brown stool, but no evidence of melena or BRBPR according to the
+   patient.  INR greater than assay, though no clear precipitating
+   symptoms.
+   - Hold ASA/warfarin
+   - Maintain access with 2 large bore PIV
+   - Active T&C
+   - 1 units prbcs now, will transfuse to goal of 30 given CAD and
+   question of ischemic ECG changes with elevated trop, though this is
+   most likely in the setting of ARF
+   - IV PPI [**Hospital1 **]
+   - NPO for now
+   - Q4H Hct
+   - Correct coagulopathy as below
+   - GI fellow aware, no plan to scope at this time given coagulopathy, no
+   indication for NGT given risk for trauma-related bleeding. EGD / [**Last Name (un) **]
+   when stable
+   - Bleeding scan if acute bleed
+   .
+   # Coagulopathy: No clear etiology for acute rise. Patient has INR
+   checked monthly.  No recent illness, change in warfarin dosing or
+   dietary changes.  Patient rec'd 5 mg of Vit K in ED as well as 2 units
+   FFP, now INR down to 6.6.
+   - Will give another dose of FFP now given knee hematoma and GI bleed
+   - Additional FFP for any necessary procedures
+   - Holding asa/coumadin
+   - Continue to follow
+   .
+   # L knee hematoma: Occurred after traumatic fall in the ED.  Patient
+   did have a prior knee surgery on that side, will need to clarify what
+   type of surgery.
+   - Follow CK
+   - Will get plain films to assess for fracture or other underlying
+   abnormality
+   - Will ask ortho if there is any indication for further investigation
+   .
+   # ARF: Baseline creatinine around 1.1, now up to 2.6 over the last
+   week.  Likely in the setting of hypoperfusion from GI bleed (also with
+   large Hct drop as above). Initial UA relatlively non-diagnostic, some
+   hyaline casts present.
+   - Will send urine lytes
+   - Urine eos
+   - Avoid nephrotoxins including ACEi/lasix for now
+   - Renally dose all meds
+   - UA with reflex override to look for sediment / casts
+   .
+   # CAD: No current complaints.  Was feeling lightheaded in the setting
+   of GI bleed.  Also with small trop bump to 0.03 and ?TWI that resolved
+   in the ED.
+   - Continue to trend cardiac enzymes
+   - Repeat ECG in am
+   - Continue statin, hold metoprolol, felodipine, lisinopril as above,
+   and aspirin
+   .
+   # Aortic aneurysm s/p repair: No current treatment
+   .
+   # BPH: Continue finasteride and terazosin with holding parameters
+   .
+   # DM type 2, insulin dependent: Continue home 70/30 with HISS, half
+   dose 70/30 while NPO
+   .
+   # HTN: BP have been stable. In the setting of GIB, will hold
+   metoprolol, CCB, lasix, and ACEi as above.  Restart when GIB resolved
+   or BP becomes elevated
+   .
+   # FEN: Prbcs and FFP as above, IVF as needed, replete electrolytes prn,
+   NPO
+   .
+   # Prophylaxis: Supratherapeutic INR at this time, continue to monitor,
+   IV PPI [**Hospital1 **] for GI bleed, bowel regimen prn
+   .
+   # Access: peripherals, large bore
+   .
+   # Code: Full
+   .
+   # Communication: Patient
+   .
+   # Disposition: ICU for now
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2508-4-10**] 02:53 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Other, supratherapeutic INR)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 88M CABG/porcine MVR/Ao repair [**2506**], DM, HTN,
+   PPM, tics, gastritis, AF on coumadin p/w weakness / presyncope in the
+   setting of INR >20 and HCT 41 to 28. Fall in ED with micturition, head
+   CT neg, L knee hematoma. GI aware, plan to scope once coags improved,
+   now s/p 1u FFP, 1u PRBC, 5mg Vit K.
+   Exam notable for Tm 97.3 BP 113/52 HR 60 (paced) RR 18 with sat 97 on
+   RA. Labs notable for WBC 10K, HCT 28, K+ 3.8, Cr 2.6. CXR with clear
+   lungs, EKG c AF/paced rhythm.
+   Agree with plan to manage GIB in the setting of profound coagulopathy
+   with FFP for INR<2, PRBCs for HCT >30, serial coags/HCT q6h overnight
+   with IV PPI and upper / lower endoscopy when coagulopathy has resolved.
+   He has good peripheral access. For ARF, continue fluid / blood
+   resuscitation, hold cardiac meds including ACEI, check UA / sed / [**Street Address(1) 8249**] meds. For L knee hematoma, will check plain films, serial exams
+   and d/w ortho given prior surgery. Troponin elevated in the setting of
+   stress and ARF, will follow trend but doubt this is ACS. Remainder of
+   plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**2508-4-10**] 05:48 PM ------
+
+
+
+DOC CLASS

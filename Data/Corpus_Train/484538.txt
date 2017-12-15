@@ -1,0 +1,208 @@
+Chief Complaint: 69-year-old M with severe COPD on home 4L NC, HTN, CAD
+   (s/p NSTEMI), depression and chronic back pain who presented with AMS,
+   hypercarbic respiratory distress
+   24 Hour Events:
+   -Palliative care involved: patient still much more lethargic than
+   baseline. Changed to standing tylenol. Left other recs for
+     low dose pain medications to try prn but patient not in acute pain
+   overnight
+   - Patient placed back on home dose of 20mg PO prednisone
+   - Given 2L of NS boluses to keep MAP>65
+   - Patient tolerated BIPAP for most of night, occasionally anxious and
+   tachycardic but redirectable
+   Allergies:
+   Levaquin (Oral) (Levofloxacin)
+   Last dose of Antibiotics:
+   Azithromycin - [**3376-5-27**] 03:18 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3376-5-28**] 07:01 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**78**] AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37.2
+C (99
+   HR: 91 (85 - 105) bpm
+   BP: 117/54(69) {84/40(50) - 120/56(70)} mmHg
+   RR: 25 (16 - 26) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 48.8 kg (admission): 48.8 kg
+             Total In:
+                                                                  3,830 mL
+                                                                    310 mL
+   PO:
+                                                                    270 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  2,560 mL
+                                                                     70 mL
+   Blood products:
+   Total out:
+                                                                    955 mL
+                                                                    400 mL
+   Urine:
+                                                                    755 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,875 mL
+                                                                    -90 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: 7.40/74/96.[**Numeric Identifier 228**]//16
+   Physical Examination:
+   General:  alert and oriented x2 today, NAD, resting on 4L NC
+   HEENT: OP clear, PERRL, EOMI, NC in nose
+   Lungs: diffuse wheezes with expiration over both lung fields
+   Abd: nontender / nondistended , NABS
+   CVS; s1/s2 reg, RRR, no murmurs
+   Ext: thin, cachectic appearing extremities, 2+ pedal pulses, no edema
+   Neuro
+ CN 2-12 in tact, moving all extremities
+   Labs / Radiology
+   UPDATED LABS [**5-28**]:  Wbc 11.6, Hct 28.6, Plts 279, Na 140, K 4.7, Cl 95,
+   HCO3 37, Cr .6 BUN 17, glu 88, phos 1.7, Mg 2.5, Ca 8.6
+   UA negative
+   268 K/uL
+   9.7 g/dL
+   143 mg/dL
+   0.7 mg/dL
+   42 mEq/L
+   4.9 mEq/L
+   17 mg/dL
+   91 mEq/L
+   140 mEq/L
+   33.3 %
+   6.9 K/uL
+        [image002.jpg]
+   Blood Cx
+ NGTD
+                             [**3376-5-27**]  03:46 AM
+                             [**3376-5-27**]  06:13 AM
+                             [**3376-5-27**]  05:23 PM
+   WBC
+   6.9
+   Hct
+   33.3
+   Plt
+   268
+   Cr
+   0.7
+   TCO2
+   49
+   48
+   Glucose
+   143
+   Other labs: PT / PTT / INR:11.7/29.7/1.0, ALT / AST:[**2-2**], Alk Phos / T
+   Bili:73/0.2, Differential-Neuts:91.5 %, Lymph:6.9 %, Mono:1.1 %,
+   Eos:0.3 %, Lactic Acid:0.7 mmol/L, Albumin:3.5 g/dL, LDH:173 IU/L,
+   Ca++:9.3 mg/dL, Mg++:1.6 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   69-year-old male with severe COPD on home 4L NC, HTN, hyperlipidemia,
+   CAD (s/p , GERD, depression and chronic back pain on multiple sedating
+   pain medications and psychiatric medications who presented with AMS,
+   hypercarbic respiratory distress.
+   .
+   #Hypercarbic respiratory distress / COPD : Most likely etiology is
+   narcotic and BZD induced respiratory depression atop of his usual COPD
+   retainer status at baseline. Patient is taking fentanyl patch, Percocet
+   & Ativan at home.  Unlikely an underlying infection with  COPD
+   exacerbation given his normal WBC count, lack of fevers, and normal
+   CXR. Also unclear if he is compliant with his home oxygen.
+   .
+   -plan to continue on 4L NC with goal O2 sats >90%
+   -f/up interval CXR read today
+   -f/up blood cultures
+   -continue on albuterol, ipratropium nebs q4hrs PRN
+   -continue current 20mg Prednisone for COPD, adding Azithromycin as well
+   x 5 days
+   -continue daily Advair
+   -continue PPx Bactrim)
+   .
+   #agitation/confusion: Likely secondary to hypercarbia and narcotics as
+   outlined above. Half life of recently removed fentanyl patches ( 2)
+   still lingering x 24 hours. CT head r/o any acute process.
+   -continue to monitor O2 sats, ABGs
+   - place order for ativan PRN
+   -can add PRN Haldol if becomes belligerent  or refractory to Ativan
+   - consider repeat ABD
+   .
+   #Right sided weakness: Subtle weakness with right sided hand grasp,
+   other CNs [**3-29**] all normal on exam. Neurology service saw patient in ED
+   and felt no acute exam focal findings, CT head negative. Recommended a
+   f/up CTA which was ordered in ED. Recent slurred speech resolved now
+   and was most likely secondary to his narcotics.
+   -ff/up additional neurology recs
+   -repeat neuro exam in afternoon , currently unremarkable
+   .
+   #Coronary Artery Disease: Past medical history significant for prior
+   NSTEMI in [**3369**]. He has no c/o current chest pain or palpitations.
+   -continue on telemetry
+   -continue usual home daily ASA 81mg
+   -continue daily pravastatin
+   #. Hypertension: Currently normotensive and stable. BPs in
+   120-130s/60-70s range.
+   - continue on home Lisinopril 5 mg daily
+   .
+   #Depression: Mood stable. Denies any suicidal ideation.
+   - continue Sertraline 50 mg
+   - hold Ativan for now given recent over-sedation
+   - SW consult
+   .
+   #. Chronic Back Pain:  Given concern for decreased respirations and
+   somnolence with hypercarbia will hold sedating narcotics for now.
+   Palliative and pain service now following.
+   - f/up additional palliative team recs, appreciate input
+   - continue on ATC Tylenol,
+   - start lidocaine patch today
+   -will add low dose PRN oxycodone once more stable
+   -holding fentanyl patch and percocet
+   -.
+   #. GERD: Denies active reflux symptoms, stable without complaints.
+   -continue on home Protonix 40mg PO daily
+   .
+   #BPH: urine output currently within normal limits, will plan to
+   continue usual home Finasteride 5mg PO daily
+   .
+   #FEN:  cardiac diet
+   #Access: got 20g and 22g
+   #PPX: continue usual home PPI as above, bowel regimen with Senna,
+   Colace, Miralax and Lactulose home regimen
+   #Dispo: ICU for BIPAP, if stable and improves possible call out
+   #Code: DNR/DNI, discussed with wife/HCP and patient
+   **** WILL PLAN FOR DETAILED GOALS OF CARE DISCUSSION this afternoon
+   with palliative care, attending and wife as patient seems near hospice
+   level care now
+   #Communication: with wife (also HCP), [**Name (NI) 8061**] [**Name (NI) 4595**] #[**Telephone/Fax (1) 8062**], cell
+   [**Telephone/Fax (1) 9312**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3376-5-27**] 03:12 AM
+   20 Gauge - [**3376-5-27**] 01:32 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,106 @@
+Admission Date:  [**2709-9-9**]     Discharge Date:  [**2709-9-17**]
+
+Date of Birth:   [**2655-7-26**]     Sex:  M
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 54-year-old
+white man with a history of silent MI, hypertension,
+increased cholesterol, tobacco use, with a witnessed episode
+of V fibrillation at [**Hospital 481**] Hospital, shocked back into
+normal sinus rhythm with 200 joules.  The patient initially
+presented with midsternal crushing chest pain, no radiation,
+nausea, vomiting times 20 minutes.  The patient had V
+fibrillation in the ED shortly prior to arrival and received
+two minutes of CPR, successfully cardioverted to normal sinus
+rhythm.  The patient was seen by Cardiology and started on
+Lasix, nitro drip, morphine, Lopressor, Amiodarone, heparin,
+aspirin, and then transferred to emergency cardiac
+catheterization at [**Hospital1 **].  The patient said
+that the chest pain had completely resolved one minute post
+shock.  The patient reports no new history of dyspnea on
+exertion while walking his dog, also a brief episode of chest
+pain and vomiting one week prior to presentation.
+
+PAST MEDICAL HISTORY:
+1.  Silent MI.
+2.  Hypertension.
+3.  Increased cholesterol.
+
+HOME MEDICATIONS:
+1.  Toprol XL 50 mg q.d.
+2.  Lipitor 10 mg p.o. q.d.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature 97.7, heart
+rate 65, blood pressure 112/67, respiratory rate 18,
+saturating 100% on 4 liters.  He was lying comfortably in bed
+in no acute distress.  The mucous membranes were moist.  The
+oropharynx was clear.  The extraocular movements were intact.
+The neck revealed JVP at 8 cm.  Cardiovascular examination
+revealed normal S1, S2, regular rate and rhythm, no murmurs,
+rubs, or gallops.  Pulmonary examination revealed soft
+crackles at the right base.  The abdomen was soft, nontender,
+nondistended, positive bowel sounds.
+
+LABORATORY DATA:  White count 9.7, hematocrit 45, platelets
+327,000.  Chem-7 141, 4.3, 101, 29, 13, 1.0, 107.  PT/PTT
+within normal limits.
+
+HOSPITAL COURSE:  The patient was admitted to the Cardiac
+Catheterization Laboratory and underwent catheterization.  It
+showed a left MCA tapering distal part at 30-40% stenosis and
+LAD with complex proximal 95% stenosis, left circumflex
+dominant 70% proximal stenosis, 100% OMB-I.
+
+The patient was brought to the Operating Room on [**2709-9-13**] and underwent a three vessel CABG; LIMA to LAD,
+saphenous vein graft to OM-I and saphenous vein graft to the
+diagonal.  The patient did well postoperatively and was
+transferred to the CSIU.
+
+The patient was extubated on postoperative day number zero in
+the evening.  On postoperative day number one, the patient
+was tolerating a regular diet.  On postoperative day number
+two, the patient was transferred to the floor.  The patient
+was ambulating at a level III by postoperative day number
+three.
+
+On postoperative day number four, the patient had climbed
+stairs and was tolerating a regular diet and feeling
+comfortable enough to go home.  The patient was discharged on
+postoperative day number four on the following medications.
+
+DISCHARGE MEDICATIONS:
+1.  Lopressor 12.5 mg p.o. b.i.d.
+2.  Lasix 20 mg p.o. b.i.d. times ten days.
+3.  [**First Name5 (NamePattern1) 230**] [**Last Name (NamePattern1) 988**] 20 mEq p.o. b.i.d. times ten days.
+4.  Aspirin 325 mg p.o. q.d.
+5.  Percocet 5/325 one to two tablets p.o. q. 4-6 hours
+p.r.n.
+6.  Amiodarone 200 mg p.o. q.d. times one month.
+7.  Lipitor 10 mg p.o. q.d.
+8.  Nicotine patch 14 mg topically q.d. times three weeks.
+
+DISCHARGE DIAGNOSIS:  Status post coronary artery bypass
+graft times three.
+
+FOLLOW-UP:  The patient is to follow-up with Dr. [**Last Name (STitle) **] in
+four weeks.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 1097**] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 3065**]
+
+Dictated By:[**Last Name (NamePattern1) 22252**]
+
+MEDQUIST36
+
+D:  [**2709-9-17**]  16:33
+T:  [**2709-9-18**]  13:41
+JOB#:  [**Job Number 26682**]
+
+
+
+DOC CLASS

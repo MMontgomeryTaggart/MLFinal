@@ -1,0 +1,195 @@
+CVICU
+   HPI:
+   HD3
+   [**9-15**] POD1
+   CABGx4(LIMA-LAD,SVG-DG,SVG-RI,SVG-PDA) [**9-14**]
+   62M with exertional dyspnea and abnl. EST. Cath [**9-13**] for LT main/ostial
+   RT disease.Stable, transferred for urgent CABG.
+   CR: 0.88 Wt: 105kg EF 60%
+   PMH: HTN
+   [**Last Name (un) **]: Lisinopril 10/D, Lopressor50BID,Gemfibrazil600/D
+   Current medications:
+   Aspirin EC Docusate Sodium Furosemide Metoprolol Tartrate Morphine
+   Sulfate Oxycodone-Acetaminophen Rantitidine
+   24 Hour Events:
+ PA CATHETER - START [**2777-9-14**] 02:00 PM
+ ARTERIAL LINE - START [**2777-9-14**] 02:00 PM
+ OR RECEIVED - At [**2777-9-14**] 02:00 PM
+ INVASIVE VENTILATION - START [**2777-9-14**] 02:00 PM
+ CORDIS/INTRODUCER - START [**2777-9-14**] 02:00 PM
+ EKG - At [**2777-9-14**] 02:15 PM
+ EXTUBATION - At [**2777-9-14**] 04:15 PM
+ INVASIVE VENTILATION - STOP [**2777-9-14**] 04:15 PM
+ ARTERIAL LINE - STOP [**2777-9-14**] 06:00 PM
+ PA CATHETER - STOP [**2777-9-15**] 06:35 AM
+ FEVER - 101.5
+C - [**2777-9-15**] 12:00 AM
+   Post operative day:
+   POD#1 - s/p CABG x4
+   24 hour events
+   extubated
+   Allergies:
+   Last dose of Antibiotics:
+   Vancomycin - [**2777-9-15**] 08:13 AM
+   Infusions:
+   Other ICU medications:
+   Insulin - Regular - [**2777-9-14**] 05:00 PM
+   Morphine Sulfate - [**2777-9-15**] 12:00 AM
+   Ranitidine (Prophylaxis) - [**2777-9-15**] 08:13 AM
+   Other medications:
+   Flowsheet Data as of  [**2777-9-15**] 08:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**80**] a.m.
+   Tmax: 38.6
+C (101.5
+   T current: 37.9
+C (100.2
+   HR: 84 (63 - 104) bpm
+   BP: 134/61(77) {114/48(62) - 157/68(85)} mmHg
+   RR: 22 (13 - 28) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 111 kg (admission): 105 kg
+   Height: 70 Inch
+   CVP: 16 (2 - 19) mmHg
+   PAP: (34 mmHg) / (21 mmHg)
+   CO/CI (Thermodilution): (6.76 L/min) / (3 L/min/m2)
+   SVR: 757 dynes*sec/cm5
+   SV: 73 mL
+   SVI: 33 mL/m2
+   Total In:
+                                                                  5,291 mL
+                                                                    958 mL
+   PO:
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  5,291 mL
+                                                                    838 mL
+   Blood products:
+   Total out:
+                                                                  1,506 mL
+                                                                    560 mL
+   Urine:
+                                                                    915 mL
+                                                                    300 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,785 mL
+                                                                    398 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   SPO2: 98%
+   ABG: 7.37/38/91.[**Numeric Identifier 136**]/27/-2
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, hypoactive
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   287 K/uL
+   11.1 g/dL
+   145 mg/dL
+   0.8 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   13 mg/dL
+   106 mEq/L
+   137 mEq/L
+   31.9 %
+   13.6 K/uL
+        [image002.jpg]
+                             [**2777-9-14**]  11:30 AM
+                             [**2777-9-14**]  12:26 PM
+                             [**2777-9-14**]  01:10 PM
+                             [**2777-9-14**]  01:48 PM
+                             [**2777-9-14**]  02:18 PM
+                             [**2777-9-14**]  02:27 PM
+                             [**2777-9-14**]  04:02 PM
+                             [**2777-9-14**]  05:53 PM
+                             [**2777-9-14**]  08:13 PM
+                             [**2777-9-15**]  01:59 AM
+   WBC
+   18.6
+   16.9
+   13.6
+   Hct
+   27
+   29
+   27.4
+   35
+   33.5
+   31.9
+   Plt
+   279
+   270
+   287
+   Creatinine
+   0.8
+   0.8
+   TCO2
+   27
+   27
+   26
+   26
+   21
+   23
+   Glucose
+   114
+   211
+   134
+   128
+   124
+   144
+   356
+   145
+   Other labs: PT / PTT / INR:14.1/35.4/1.2, Fibrinogen:313 mg/dL, Lactic
+   Acid:1.6 mmol/L, Mg:2.1 mg/dL, PO4:3.2 mg/dL
+   Microbiology: urine culture negative
+   Assessment and Plan
+   Neurologic: Neuro checks Q: 2 hr, Pain controlled, percocet effective
+   toradol x1 for pericardial rub
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue PA monitor
+   Pulmonary: IS, oob to chair
+   Gastrointestinal / Abdomen:
+   Nutrition: Clear liquids, Advance diet as tolerated
+   Renal: Foley, Adequate UO, start diuresis with lasix
+   Hematology:
+   Endocrine: RISS, Regular insulin, Lantus (R), convert from gtt to SS
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today, with chest tubes on water seal
+   Consults: P.T.
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Cordis/Introducer - [**2777-9-14**] 02:00 PM
+   16 Gauge - [**2777-9-14**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

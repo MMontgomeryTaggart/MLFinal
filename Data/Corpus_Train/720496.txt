@@ -1,0 +1,289 @@
+Chief Complaint:  referred for right renal artery stenting and coronary
+   angiography, course complicated by NSTEMI, transfered to the CCU s/p
+   catheterization and placement of stent to left circumflex.
+   24 Hour Events:
+ BLOOD CULTURED - At [**3465-2-24**] 11:49 AM
+ URINE CULTURE - At [**3465-2-24**] 11:49 AM
+   [**2-24**]
+   - Na noted to be dropping, SCr rising on PM labs; Lasix infusion and
+   metolazone held
+   - heparin gtt restarted
+   History obtained from Patient, Medical records
+   Allergies:
+   History obtained from Patient, Medical recordsCiprofloxacin
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,300 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**3465-2-25**] 02:10 AM
+   Other medications:
+   Changes to medical and family history:
+   No CP or SOB
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3465-2-25**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**66**] AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 35
+C (95
+   HR: 65 (60 - 74) bpm
+   BP: 138/55(76) {109/45(65) - 155/102(110)} mmHg
+   RR: 15 (11 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 64 Inch
+             Total In:
+                                                                  1,267 mL
+                                                                     79 mL
+   PO:
+                                                                    840 mL
+             TF:
+   IVF:
+                                                                    427 mL
+                                                                     79 mL
+   Blood products:
+   Total out:
+                                                                  1,254 mL
+                                                                    500 mL
+   Urine:
+                                                                  1,254 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     13 mL
+                                                                   -421 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SpO2: 96%
+   ABG: ///28/
+   Physical Examination
+   Gen: WDWN female in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: Dry MMM
+   Neck: Supple with JVP flat
+   CV: RR, prominent S1, S2. [**1-21**] SM at LLSB. No S3 or S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. Rales at bases b/l and decreased
+   breath sounds, no wheezes or rhonchi.
+   Abd: Soft, NTND. No HSM or tenderness.
+   Ext: No c/c. 2+ pitting edema at ankles.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Pulses:  R femoral pulse 1+, no hematomas noted
+   Labs / Radiology
+   294 K/uL
+   9.0 g/dL
+   111 mg/dL
+   5.6 mg/dL
+   28 mEq/L
+   4.9 mEq/L
+   72 mg/dL
+   84 mEq/L
+   125 mEq/L
+   26.1 %
+   15.5 K/uL
+         [image002.jpg]
+                             [**3465-2-21**]  02:15 PM
+                             [**3465-2-21**]  05:43 PM
+                             [**3465-2-21**]  09:54 PM
+                             [**3465-2-22**]  02:40 AM
+                             [**3465-2-22**]  03:47 PM
+                             [**3465-2-23**]  06:24 AM
+                             [**3465-2-23**]  03:27 PM
+                             [**3465-2-24**]  06:12 AM
+                             [**3465-2-24**]  05:55 PM
+                             [**3465-2-24**]  11:55 PM
+   WBC
+   11.7
+   16.7
+   16.7
+   20.0
+   16.2
+   15.5
+   Hct
+   28.9
+   27.1
+   25.8
+   29.3
+   25.9
+   26.1
+   Plt
+   293
+   304
+   285
+   291
+   310
+   266
+   294
+   Cr
+   2.7
+   3.6
+   4.6
+   5.0
+   5.3
+   5.6
+   5.6
+   TropT
+   5.60
+   6.13
+   5.20
+   Glucose
+   123
+   119
+   108
+   165
+   107
+   128
+   111
+   Other labs: PT / PTT / INR:11.4/34.4/0.9, CK / CKMB /
+   Troponin-T:89/11/5.20, ALT / AST:[**11-17**], Alk Phos / T Bili:73/0.5,
+   Differential-Neuts:84.0 %, Lymph:8.0 %, Mono:6.5 %, Eos:0.9 %, Lactic
+   Acid:1.7 mmol/L, LDH:530 IU/L, Ca++:8.8 mg/dL, Mg++:2.5 mg/dL, PO4:5.2
+   mg/dL
+   Imaging: No new imaging
+   Microbiology: [**3465-2-24**]  URINE URINE CULTURE-PENDING INPATIENT
+   [**3465-2-24**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   [**3465-2-24**]  BLOOD CULTURE Blood Culture, Routine-PENDING INPATIENT
+   Assessment and Plan
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ PULMONARY EDEMA
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+ .H/O RENAL ARTERY STENOSIS (RAS)
+   Ms. [**Known patient lastname 5025**] is an 80 year old woman with a history of aortic stenosis
+   s/p mechanical AVR [**5-24**], atrial fibrillation s/p cardioversion, HTN,
+   GERD, and PVD who presented [**3465-2-12**] for elective coronary and renal
+   angiogram complicated by pna and [**Last Name (un) **] and is transferred to the CCU s/p
+   cath for hemodynamic monitoring.
+   .
+   # ARF on CKD/Renal Artery Stenosis: Patient with severe 95% R renal
+   artery stenosis now s/p stenting on [**3465-2-13**]. Creatinine worsened in
+   setting of cardiac and renal angiogram, may have been due to IV
+   contrast, U/A supports this with granular casts c/w ATN. Creatinine
+   peaked at 5.6, and now making excellent urine off of lasix gtt!
+   - Renal recs, appreciate their input
+   - continue lasix gtt
+   - DC metolazone
+   - No further need for temporary dialysis line
+   - Renal diet (low K and low phos)
+   - [**Hospital1 **] lytes
+   - renally dose meds
+ ask pharmacy for assistance
+   .
+   # Hypoxia: Most likely [**12-20**] bilateral moderate pleural effusions, L
+   sided loculated. Etiology of effusions most likely CHF, however,
+   parapneumonic/emypema in the ddx. Latter is unlikely given white count
+   trending down and pt has been afebrile. Abx course complete. PE less
+   likely as we have a good reason for the hypoxia.
+   - Hold on thoracentesis given the complexity of the effusion and
+   patient
+s antiplatelet therapy
+   - Nebs and mucolytics
+   - If patient spikes again or decompensates will call IR again to
+   perform diagnostic thoracentesis
+   - Pan cultures remain negative
+   .
+   # Hyponatremia: Suspect patient is intravascularly dry, therefore this
+   may be consistent with hypovolemic hyonatremia. This is supported by
+   sodium
+s improvement after discontinuing the lasix gtt.
+   - Monitor sodium with [**Hospital1 **] lytes
+   - Encourage PO intake
+   - Will discontinue lasix and metolazone
+   .
+   #. CAD/NSTEMI:  Had overlapping BMSx2 to LCx and could not open chronic
+   total occlusion of OM1.  Post-cath chest pain and anterior ST changes
+   suggestive of LAD as site of culprit lesion for chest pain.  Upon
+   return to the cath lab again could not open chronic total OM1
+   occlusion, instead placed BMS to mid LAD calcified 80% lesion that had
+   collaterals to inferior wall. Pt returned to floor CP free.
+   - continue aspirin, plavix, atorvastatin 40
+   - reduce aspirin from 325 to 81 given heparin and Coumadin
+   - Restart metoprolol 25mg PO TID if pressures and heart rate allow
+   #. history of AS s/p mechanical AVR: in [**3461**]. Last TTE shows EF >50%,
+   [**11-19**]+MR, 3+TR. Following chest pain, patient found to have new S3,
+   crackles on lung exam, concerning for heart failure. Patient does not
+   have baseline BNP
+   - Continue heparin gtt
+   - restart warfarin today, goal presumed to be 2.5-3.5
+   .
+   #. Atrial fibrillation: Patient with h/o Afib s/p cardioversion.
+   Currently in NSR.
+   - holding heparin gtt for now until renal provides answer for temp HD
+   line
+   - continue amiodarone, metoprolol
+   - restart warfarin today
+   .
+   #. Hypertension:
+   - holding metoprolol
+   .
+   #. GERD: Stable.
+   - changed pantoprazole to ranitidine and renally dosed
+   .
+   #. Thyroid nodules/thyroid goiter: Continue home Levothyroxine.
+   .
+   #. Urinary Dysfunction: Continue home Terazosin, Oxybutynin per home
+   regimen.
+   .
+   #. Degenerative joint disease: Pain control with Tylenol as per home
+   regimen.
+   .
+   #. s/p cholesterol emboli to left eye:
+   - continue anticoagulation
+   .
+   #. FEN: Cardiac HH diet; NPO at MN
+   #. Access: PIV
+   #. PPx: DVT ppx with Heparin gtt
+   Bowel regimen with Senna, Colace prn
+   Pain control with Tylenol
+   #. Code: Full code per patient
+   #. Contact: [**Name (NI) **] [**Name (NI) 5025**] (husband) # cell: [**Telephone/Fax (1) 11873**]
+   Dr. [**First Name4 (NamePattern1) 278**] [**Last Name (NamePattern1) **]: [**Telephone/Fax (1) 11874**]
+   #. Dispo: ccu
+   .
+   ICU Care
+   Nutrition: Cardiac and renal diet
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3465-2-20**] 10:30 PM
+   20 Gauge - [**3465-2-20**] 10:30 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication: Comments: Pt and pt
+s husband
+   [**Name (NI) 62**] status: Full code, confirmed
+   Disposition: Floor if hyponatremia stabilizes
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr. [**Last Name (STitle) **].
+   I would add the following remarks:
+   History
+   Making good urine output in response to diuretics and resolution of her
+   ATN.  Her spirits are excellent.
+   Medical Decision Making
+   Mrs. [**Known patient lastname 5025**] is an 80 year old woman with recent renal artery stent
+   placement and stent placement to the LCX (BMS) and LAD (BMS).  There
+   was post procedural contrast induced nephropathy and a NSTEMI.  Her
+   Creatinine has peaked at 5.6 mg/dL and she is now making urine.   She
+   has a mechanical AVR and has been restarted on IV heparin to cross-over
+   to warfarin.    We will continue her aspirin and clopidogrel but
+   lowered her aspirin dose to aspirin 81 mg daily due to her concomitant
+   warfarin therapy.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 5801**] [**Last Name (NamePattern1) 8766**], MD
+   on:[**3465-2-25**] 11:02 ------
+
+
+
+DOC CLASS

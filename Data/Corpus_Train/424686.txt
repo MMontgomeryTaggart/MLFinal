@@ -1,0 +1,181 @@
+CVICU
+   HPI:
+   HD6   POD 3-CABG x 3( LIMA->LAD/SVG->Ramus/OM/PDA)
+   PMH: s/p bilat. inguinal hernia repair [**9-29**], s/p circumcision [**9-29**],
+   s/p bilateral cataract surgery
+   Current medications:
+   Acetaminophen 4. AcetaZOLamide 5. Albuterol 0.083% Neb Soln 6.
+   Albuterol 0.083% Neb Soln
+    Aspirin 9. Atorvastatin 10. Calcium Gluconate 11. Chlorhexidine
+   Gluconate 0.12% Oral Rinse
+   12. Dextrose 50% 13. Dexmedetomidine 14. Docusate Sodium 15. Docusate
+   Sodium (Liquid) 16. Fluticasone Propionate 110mcg Furosemide 19.
+   Insulin 20. Ipratropium Bromide Neb 21. Magnesium Sulfate 22.
+   Metoclopramide Milk of Magnesia 24. Morphine Sulfate 25. Nitroglycerin
+   26. Oxycodone-Acetaminophen Piperacillin-Tazobactam 29. Pneumococcal
+   Vac Polyvalent 30. Potassium Chloride 31. Ranitidine
+   33. Sodium Chloride 0.9% Flush 34. Vancomycin
+   24 Hour Events:
+ PA CATHETER - STOP [**3101-7-14**] 02:04 PM
+   Post operative day:
+   POD#3 - S/P CABG x4
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**3101-7-14**] 06:38 PM
+   Vancomycin - [**3101-7-15**] 08:20 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3101-7-14**] 06:20 PM
+   Morphine Sulfate - [**3101-7-15**] 03:19 AM
+   Other medications:
+   Flowsheet Data as of  [**3101-7-15**] 09:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**03**] a.m.
+   Tmax: 37.6
+C (99.7
+   T current: 35.7
+C (96.3
+   HR: 56 (53 - 84) bpm
+   BP: 118/47(67) {103/43(59) - 145/63(89)} mmHg
+   RR: 11 (11 - 23) insp/min
+   SPO2: 86%
+   Heart rhythm: A Paced
+   Wgt (current): 96.2 kg (admission): 86.7 kg
+   Height: 71 Inch
+   CVP: 12 (10 - 12) mmHg
+   PAP: (41 mmHg) / (18 mmHg)
+   Total In:
+                                                                  2,392 mL
+                                                                    639 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,572 mL
+                                                                    639 mL
+   Blood products:
+                                                                    700 mL
+   Total out:
+                                                                  4,285 mL
+                                                                  1,720 mL
+   Urine:
+                                                                  3,715 mL
+                                                                  1,620 mL
+   NG:
+                                                                    450 mL
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,893 mL
+                                                                 -1,081 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 663 (596 - 771) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 13
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   RSBI: 60
+   PIP: 14 cmH2O
+   SPO2: 86%
+   ABG: 7.37/52/162/27/3
+   Ve: 9.9 L/min
+   PaO2 / FiO2: 405
+   Physical Examination
+   Labs / Radiology
+   263 K/uL
+   10.0 g/dL
+   111 mg/dL
+   0.6 mg/dL
+   27 mEq/L
+   4.6 mEq/L
+   21 mg/dL
+   103 mEq/L
+   136 mEq/L
+   30.1 %
+   19.4 K/uL
+        [image002.jpg]
+                             [**3101-7-13**]  06:28 PM
+                             [**3101-7-13**]  09:47 PM
+                             [**3101-7-14**]  03:52 AM
+                             [**3101-7-14**]  05:47 AM
+                             [**3101-7-14**]  09:12 AM
+                             [**3101-7-14**]  02:54 PM
+                             [**3101-7-14**]  03:13 PM
+                             [**3101-7-15**]  01:22 AM
+                             [**3101-7-15**]  05:29 AM
+                             [**3101-7-15**]  05:42 AM
+   WBC
+   17.9
+   19.4
+   Hct
+   26.4
+   25.6
+   28.6
+   30.1
+   Plt
+   193
+   263
+   Creatinine
+   0.5
+   0.6
+   TCO2
+   31
+   31
+   29
+   35
+   28
+   31
+   Glucose
+   102
+   95
+   107
+   111
+   Other labs: PT / PTT / INR:14.5/46.8/1.3, Fibrinogen:188 mg/dL, Lactic
+   Acid:0.9 mmol/L, Ca:8.7 mg/dL, Mg:2.2 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG), [**Last Name 12**] PROBLEM - ENTER DESCRIPTION
+   IN COMMENTS, PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), ASTHMA
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr
+   Cardiovascular: Aspirin, Beta-blocker, Statins, A. paced for sinus
+   bradycardia, 2. start b-blocker hold for HR<60
+   Pulmonary: Extubate today, 1. known asthmatic 2. precedex for
+   extubation then d/c. OOB as tolerated, IS
+   Gastrointestinal / Abdomen: no issues
+   Nutrition: clears and advance
+   Renal: Foley, Adequate UO, lasix for goal 1-2 L negative today
+   Hematology: stable anemia
+   Endocrine: RISS
+   Infectious Disease: vanc/zosyn for GPC in sputum
+   Lines / Tubes / Drains: Foley, pacing wires O/N
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO, when tolerating clears
+   Consults: CT surgery, P.T., O.T.
+   Billing Diagnosis: (Respiratory distress: Respiratory Failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3101-7-12**] 12:15 PM
+   Cordis/Introducer - [**3101-7-12**] 12:15 PM
+   14 Gauge - [**3101-7-12**] 12:15 PM
+   16 Gauge - [**3101-7-12**] 12:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Communication: Patient discussed on interdisciplinary rounds:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 31 minutes
+
+
+
+DOC CLASS

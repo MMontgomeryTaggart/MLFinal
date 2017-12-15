@@ -1,0 +1,324 @@
+Admission Date:  [**2717-2-18**]              Discharge Date:   [**2717-3-1**]
+
+Date of Birth:  [**2652-6-8**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 433**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**2717-2-19**] - left heart catheterization
+[**2717-2-21**] - Placement of intra-aortic balloon pump
+[**2717-2-22**] Coronary artery bypass grafting
+x3,(LIMA-LAD,SVG-OM,SVG-PDA),Left atrial appendage resection,
+Mitral valve repair(26mm [**Doctor Last Name **] annuloplasty ring)
+
+History of Present Illness:
+This 64 year old male who has not seen a physician for over 5
+years  presented with chest pain that started 2 days prior (
+[**6-19**]) , lasted for "several hours" and resolved spontaneously.
+This was associated with mild dyspnea. He denies fevers, chills,
+nausea, vomiting, diaphoresis, PND, orthopnea, palpitations,
+syncope, presyncope, weight change, lower extremity swelling.
+His symptoms seemed to be worsened with exertion and relieved by
+rest. ECG in the ED was consistent with recent an inferolateral
+STEMI with q waves and prominent R waves in V1-3 and was
+admitted. A cardiac cath found 3 vessel disease (90% LAD, LCx
+was 100% occluded at its origin, RCA with long 70% mid-vessel
+stenosis). He was also found to have moderate-to-severe MR noted
+on echo and confirmed with his RHC tracings and ventriculogram.
+A cardiac surgery consult was requested for evaluation for CABG
+and possibly MV repair.
+
+
+Past Medical History:
+Paroxysmal atrial fibrillation
+Left atrium thrombus
+s/p tonsillectomy
+
+
+Social History:
+Retired medical assistant. Lives alone. No children. Not
+married.
+- Tobacco history: 50 pack year history, stopped 2 weeks ago.
+- ETOH: Sparing social consumption.
+- Illicit drugs: Denies.
+
+
+Family History:
+- No family history of early MI, arrhythmia, cardiomyopathies,
+or sudden cardiac death; otherwise non-contributory.
+- Mother: Denies.
+- Father: Denies.
+- Brother who passed from a ruptured AAA in his 60s
+
+
+Physical Exam:
+VS: 98.5, 101/68, 78, 14, 99%RA.
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 10 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Faint bibasilar
+crackles (L>R). No egophony appreciated.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: 1+ bilateral pitting edema
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: AAOx3, CNII-XII intact, 5/5 strength in all extremities.
+
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+
+.
+- ECHO ([**2717-2-19**])
+Conclusions
+The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler. The left ventricle is not well
+seen. The left ventricular cavity size is normal.There is mild
+regional left ventricular systolic dysfunction with mid to
+distal inferior and inferolateral hypokinesis. Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic stenosis or aortic regurgitation. The
+mitral valve leaflets are mildly thickened. Moderate to severe
+(3+) mitral regurgitation is seen. The tricuspid valve leaflets
+are mildly thickened. There is severe pulmonary artery systolic
+hypertension. There is a small pericardial effusion. There are
+no echocardiographic signs of tamponade.
+IMPRESSION; Regional left ventricular systolic dysfunction
+consistent with inferior infarction/ischemia. Moderate to severe
+mitral regurgitation which is likely due to leaflet tethering.
+Severe pulmonary artery systolic hypertension.
+- Chest radiograph ([**2717-2-18**])
+COMPARISON: None.
+
+CLINICAL HISTORY: Chest pain and shortness of breath, assess for
+pneumonia.
+
+FINDINGS: Portable AP upright chest radiograph was obtained.
+Consolidation is noted at the left lung base with associated
+effusion concerning for pneumonia. Right lung is clear.
+Cardiomediastinal silhouette is normal. Bony structures intact.
+
+
+IMPRESSION: Left lower lung pneumonia with associated effusion.
+
+- Carotid Series ([**2717-2-20**])
+Study: Carotid Series Complete
+
+Reason: 64 year old man pre/op CABG.
+
+Findings: Duplex evaluation was performed of bilateral carotid
+arteries. On the right there is no plaque seen in the ICA . On
+the left there is mild heterogeneous plaque seen in the ICA.
+
+On the right systolic/end diastolic velocities of the ICA
+proximal, mid and distal respectively are 72/25, 68/28, 63/27,
+cm/sec. CCA peak systolic velocity is 71 cm/sec. ECA peak
+systolic velocity is 81 cm/sec. The ICA/CCA ratio is 1.0. These
+findings are consistent with <40% stenosis.
+
+On the left systolic/end diastolic velocities of the ICA
+proximal, mid and distal respectively are 79/26, 61/20, 69/34,
+cm/sec. CCA peak systolic velocity is 84 cm/sec. ECA peak
+systolic velocity is 95 cm/sec. The ICA/CCA ratio is .94 . These
+findings are consistent with no stenosis.
+
+There is antegrade right vertebral artery flow.
+There is antegrade left vertebral artery flow.
+
+Impression: Right ICA no stenosis.
+Left ICA <40% stenosis.
+.
+
+[**2717-2-27**] 04:45AM BLOOD WBC-7.6 RBC-3.26* Hgb-10.2* Hct-30.8*
+MCV-95 MCH-31.4 MCHC-33.2 RDW-14.4 Plt Ct-139*
+[**2717-2-26**] 03:27AM BLOOD WBC-9.7 RBC-3.67* Hgb-11.3* Hct-33.8*#
+MCV-92 MCH-30.9 MCHC-33.5 RDW-14.4 Plt Ct-166
+[**2717-2-28**] 05:15AM BLOOD PT-16.5* INR(PT)-1.6*
+[**2717-2-27**] 04:45AM BLOOD PT-14.3* PTT-27.2 INR(PT)-1.3*
+[**2717-2-26**] 03:27AM BLOOD PT-13.0* PTT-21.9* INR(PT)-1.2*
+[**2717-2-25**] 04:35AM BLOOD PT-13.7* PTT-23.9* INR(PT)-1.3*
+[**2717-2-24**] 02:02AM BLOOD PT-16.7* INR(PT)-1.6*
+[**2717-2-23**] 12:11PM BLOOD PT-17.8* INR(PT)-1.7*
+[**2717-2-23**] 01:56AM BLOOD PT-20.8* PTT-31.6 INR(PT)-2.0*
+[**2717-2-22**] 03:08PM BLOOD PT-20.4* PTT-43.9* INR(PT)-1.9*
+[**2717-2-27**] 04:45AM BLOOD Glucose-145* UreaN-14 Creat-0.9 Na-135
+K-3.9 Cl-97 HCO3-31 AnGap-11
+[**2717-2-26**] 03:27AM BLOOD Glucose-120* UreaN-14 Creat-0.8 Na-135
+K-3.8 Cl-97 HCO3-31 AnGap-11
+[**2717-2-25**] 04:35AM BLOOD Glucose-113* UreaN-17 Creat-0.8 Na-134
+K-3.8 Cl-96 HCO3-31 AnGap-11
+[**2717-2-18**] 06:44PM BLOOD WBC-10.4 RBC-3.36* Hgb-10.9* Hct-30.7*
+MCV-91 MCH-32.5* MCHC-35.6* RDW-12.8 Plt Ct-257
+[**2717-3-1**] 06:25AM BLOOD PT-21.4* INR(PT)-2.0*
+[**2717-2-28**] 05:15AM BLOOD PT-16.5* INR(PT)-1.6*
+[**2717-2-27**] 04:45AM BLOOD PT-14.3* PTT-27.2 INR(PT)-1.3*
+[**2717-2-26**] 03:27AM BLOOD PT-13.0* PTT-21.9* INR(PT)-1.2*
+[**2717-3-1**] 06:25AM BLOOD Na-136 K-4.6 Cl-100
+[**2717-2-22**] 03:08PM BLOOD UreaN-16 Creat-0.8 Na-137 K-4.2 Cl-105
+HCO3-25 AnGap-11
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 10444**] was admitted to the [**Hospital1 52**] on [**2717-2-18**] for management
+of his chest pain and myocardial infarction. Heparin and Plavix
+were started. An echocardiogram showed an EF of 45-50% with
+moderate to severe mitral regurgitation, severe pulmonary artery
+systolic hypertension and inferior and inferiorlateral
+hypokinesis. A cardiac catheterization was performed which
+showed severe three vessel disease. Given the severity of his
+disease, the cardiac surgical service was consulted. Mr. [**Known patient lastname 10444**]
+was worked-up in the usual preoperative manner. A dental consult
+was obtained for oral clearance for surgery. Plavix was allowed
+to washout. After obtaining a panorex film, multiple extractions
+were recommended prior to surgery.
+
+On [**2717-2-21**], Mr. [**Known patient lastname 10444**] developed chest pain. He was returned to
+the cardiac catheterization lab where an intara-aortic balloon
+pump was placed. His pain resolved. On [**2717-2-22**] he was taken to
+the Operating Room where he underwent coronary artery bypass
+grafting to three vessels, a mitral valve repair and resection
+of his left atrial appendage. Please see operative note for
+details. Postoperatively he was taken to the intensive care unit
+for monitoring. On postoperative day one, he awoke
+neurologically intact and was extubated. His balloon pump was
+weaned and removed. Pressors and inotropes were slowly weaned
+off.
+
+
+Beta blocker was initiated and the patient was gently diuresed
+toward his preoperative weight.  The patient was transferred to
+the telemetry floor for further recovery.  He had a brief
+episode of post-op atrial fibrillation.  He converted to sinus
+rhythm with titration of beta blocker.  Anti-coagulation was
+started with Coumadin for left atrial thrombus noted on echo.
+Chest tubes and pacing wires were discontinued without
+complication.  The patient was evaluated by the Physical Therapy
+service for assistance with strength and mobility.  By the time
+of discharge on POD 6 the patient was ambulating freely, the
+wound was healing and pain was controlled with oral analgesics.
+The patient was discharged to Presentation rehab in [**Location (un) 394**] on
+[**3-1**] in good condition with appropriate follow up instructions.
+
+Medications on Admission:
+None. No OTC medications.
+
+Discharge Medications:
+
+
+1. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-11**] Sprays Nasal
+[**Hospital1 9**] (2 times a day) as needed for rhinitis.
+2. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig:
+2-4 Puffs Inhalation Q4H (every 4 hours) as needed for wheezing.
+
+3. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+6. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+7. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+8. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever, pain.
+9. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+10. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed for constipation.
+11. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day
+for 10 days.
+12. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 10 days.
+
+13. Coumadin 2.5 mg Tablet Sig: as directed Tablet PO once a
+day: INR goal [**1-12**].
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 460**] - [**Location (un) 394**]
+
+Discharge Diagnosis:
+Coronary artery disease
+Mitral valve regurgitaion
+Paroxysmal atrial fibrillation
+Left atrium thrombus
+s/p tonsillectomy
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, deconditioned
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+Edema 1+
+
+
+Discharge Instructions:
+1) Please shower daily including washing incisions gently with
+mild soap, no baths or swimming until cleared by surgeon. Look
+at your incisions daily for redness or drainage.
+2) Please NO lotions, cream, powder, or ointments to incisions.
+3) Each morning you should weigh yourself and then in the
+evening take your temperature, these should be written down on
+the chart provided.
+4) No driving for approximately one month and while taking
+narcotics. Driving will be discussed at follow up appointment
+with surgeon when you will likely be cleared to drive.
+5) No lifting more than 10 pounds for 10 weeks
+6) Please call with any questions or concerns [**Telephone/Fax (1) 279**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+WOUND Clinic in [**Last Name (un) 10445**] 2A ([**Telephone/Fax (1) 279**]) on [**2717-3-6**] at 10:45am
+Surgeon: Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 279**]) on [**2717-3-22**] at 2:15pm
+Cardiologist: Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 90**] ([**Telephone/Fax (1) 83**]) on [**2717-3-21**] at
+9:00
+
+Please call to schedule appointments with your
+Primary Care Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 10446**] ([**Telephone/Fax (1) 10447**]) in [**3-15**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication - atrial thrombus( for
+three months)
+Goal INR [**1-12**]
+First draw [**2717-3-1**]
+**please arrange for coumadin follow-up prior to discharge from
+rehab**
+
+
+
+Completed by:[**2717-3-1**]
+
+
+DOC CLASS

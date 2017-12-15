@@ -1,0 +1,237 @@
+TITLE:
+   Chief Complaint: Hypoxia
+   24 Hour Events:
+ BRONCHOSCOPY - At [**2579-5-1**] 04:30 PM
+ FEVER - 101.3
+F - [**2579-5-2**] 04:00 AM
+   [**2579-5-1**]
+   -underwent bronch, no obvious mucus plugs, friable tissue
+   -increased [**Location (un) 248**]/red sputum overnight
+   -temp 101.3 in am (pancultured)
+   Allergies:
+   Heparin Agents
+   Thrombocytopenia
+   Last dose of Antibiotics:
+   Meropenem - [**2579-4-30**] 06:00 PM
+   Ciprofloxacin - [**2579-4-30**] 10:30 PM
+   Vancomycin - [**2579-5-1**] 08:58 AM
+   Piperacillin - [**2579-5-2**] 02:00 AM
+   Infusions:
+   Phenylephrine - 1 mcg/Kg/min
+   Lepirudin - 0.05 mg/Kg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2579-5-1**] 10:02 AM
+   Fentanyl - [**2579-5-1**] 04:30 PM
+   Midazolam (Versed) - [**2579-5-1**] 04:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-2**] 06:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 38.5
+C (101.3
+   Tcurrent: 38.5
+C (101.3
+   HR: 123 (58 - 124) bpm
+   BP: 88/56(68) {81/52(61) - 110/68(85)} mmHg
+   RR: 20 (9 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+    CVP: 6 (6 - 11)mmHg
+   Total In:
+                                                                  1,719 mL
+                                                                    350 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,659 mL
+                                                                    350 mL
+   Blood products:
+   Total out:
+                                                                  1,405 mL
+                                                                    220 mL
+   Urine:
+                                                                  1,405 mL
+                                                                    220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    314 mL
+                                                                    130 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 394 (394 - 519) mL
+   PS : 10 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 78
+   PIP: 16 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 26.3 cmH2O/mL
+   SpO2: 98%
+   ABG: 7.49/47/115/32/11
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 329
+   Physical Examination
+   General: Alert, oriented, tachypnic with rapid shallow breaths
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, mildly elevated JVP
+   Lungs: Diminshed breath sounds on the left, scattered crackles on R
+   CV: Tachycardic, s1/s2 present, no murmurs appreciated
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   GU: foley in place
+   Ext: warm, well perfused, 2+ pulses, 1+ pitting edema to mid-shin
+   Labs / Radiology
+   96 K/uL
+   12.8 g/dL
+   140 mg/dL
+   1.4 mg/dL
+   32 mEq/L
+   4.3 mEq/L
+   37 mg/dL
+   94 mEq/L
+   135 mEq/L
+   40.0 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**2579-4-27**]  04:24 AM
+                             [**2579-4-27**]  03:40 PM
+                             [**2579-4-30**]  06:19 PM
+                             [**2579-4-30**]  07:46 PM
+                             [**2579-5-1**]  02:07 AM
+                             [**2579-5-1**]  04:30 AM
+                             [**2579-5-1**]  06:39 AM
+                             [**2579-5-1**]  05:02 PM
+                             [**2579-5-2**]  04:40 AM
+                             [**2579-5-2**]  04:51 AM
+   WBC
+   11.0
+   11.5
+   10.3
+   10.6
+   Hct
+   40.9
+   41.6
+   36.8
+   40.0
+   Plt
+   148
+   127
+   126
+   96
+   Cr
+   1.5
+   1.4
+   1.5
+   1.4
+   1.2
+   1.4
+   TCO2
+   36
+   36
+   38
+   37
+   Glucose
+   121
+   145
+   142
+   145
+   140
+   140
+   Other labs: PT / PTT / INR:21.8/70.6/2.0, ALT / AST:687/660, Alk Phos /
+   T Bili:128/1.1, Differential-Neuts:83.5 %, Lymph:9.0 %, Mono:6.5 %,
+   Eos:0.7 %, Fibrinogen:353 mg/dL, Lactic Acid:2.1 mmol/L, Albumin:2.8
+   g/dL, LDH:335 IU/L, Ca++:7.7 mg/dL, Mg++:2.1 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+ TACHYCARDIA, OTHER
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+ HYPOTENSION (NOT SHOCK)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ PNEUMONIA, OTHER
+ IMPAIRED SKIN INTEGRITY
+   This is a 79 year old male with critical aortic stenosis awaiting AVR
+   who was admitted with pneumonia and s/p 10 day course of broad spectrum
+   antibiotics being transferred to the MICU with hypoxia and respiratory
+   distress.
+   .
+   1. HYPOXIA: Likely due to mucus plugging, possible aspiration,  or +/-
+   flash pulm edema in setting of tachycardia.  Required intubation as
+   patient tired out.  Patient was bronched yesterday with no clear
+   evidence of mucus plugging but positive for friable tissue in the
+   setting of anticoagulation.  Patient now having blood tinged sputum.
+   One witness aspiration event yesterday.  Due to delay to wean off
+   sedation after bronch patient remained intubated overnight.
+   --treat PNA with broader abx
+   --careful monitoring of fluid status
+   --chest PT when more stable
+   --consider extubation today
+   .
+   2. FEVER: Temp 101.3 this am.  Pan cultured.  Continue broad spectrum
+   antibiotics.
+   .
+   3. VOLUME STATUS/HYPOVOLEMIA: Hypovolemic in setting of overly
+   aggressive diuresis.  Creatinine and hct increased overnight suggesting
+   dehydration.
+   --gentle fluid boluses
+   --try to make even very slowly
+   --avoid any additional lasix for the time being
+   --use improvement in tachycardia as guide
+   .
+   4.TACHYCARDIA: Likely related to hypovolemia,hypoxemia and significant
+   work of breathing. Also, patient has known atrial tachycardia that has
+   been controlled on metoprolol TID.
+   --cont current PO dose of metoprolol
+   --consider diltiazem gtt if poorly controlled heart rate
+   .
+   5. PNA: Concern for recurrent HAP.
+   --broaden with  vanc and zosyn
+   --repeat sputum sample
+   .
+   6. ?HIT: Positive HIT ab with negative SRA. Per Hematology he should
+   stay on Lepirudin gtt
+   --Continue  leparudin
+   -- follow up hematology recs
+   .
+   7. Critical AS: AVR on hold given current situation and positive HIT.
+   --f/u cardiac [**Doctor First Name 86**] recs (per resident, bypass machine needed for
+   surgery requires use of heparin)
+   --gentle fluid hydration
+   --control tachycardia as per above to improve filling time
+   .
+   8. ARF: Likely pre-renal in setting of hypovolemia. Fluid resucitation
+   as per above and f/u cr.
+   --f/u cr
+   --check urine lytes and osm
+   --renally dose all meds
+   ICU Care
+   Nutrition: pending extubation today will restart po diet or tube feeds
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2579-5-1**] 12:00 AM
+   Arterial Line - [**2579-5-1**] 01:00 AM
+   Prophylaxis:
+   DVT:  pneumoboots
+   Stress ulcer:  ppi
+   VAP:  mouth care, HOB > 30
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

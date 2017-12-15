@@ -1,0 +1,515 @@
+Admission Date:  [**2884-10-23**]              Discharge Date:   [**2884-11-3**]
+
+
+Service: MEDICINE
+
+Allergies:
+Naprosyn / Metoprolol / Nsaids / Verapamil / Sulfa
+(Sulfonamides)
+
+Attending:[**First Name3 (LF) 6969**]
+Chief Complaint:
+Chest pain; shortness of breath.
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+History of Present Illness:
+Ms. [**Known patient lastname 3094**] is an 85 year-old woman with a history of severe
+2-vessel CAD, congestive heart failure and restrictive lung
+disease who presents with chest pain and shortness of breath.
+
+Initially presented to an OSH on the evening prior to transfer
+where she was noted to be short of breath with clear lungs. CK
+was checked and negative with a troponin of 0.14 and BNP of 246.
+Second troponin noted to be elevated (6.91) and her O2 sat
+decreased to 88% on RA. Lovenox and aspirin was given, along
+with IV diltiazem for a HR in the 120s. For possible COPD
+exacerbation, she was also given nebs and solumedrol.
+
+Upon presentation to our ED, vitals showed T 98.6, HR 90, BP
+108/44, RR 20 and 88% on room air with increase to 94% on 3
+liters. Plavix 600mg, lasix 40mg IV were given and she was taken
+to the cath lab.
+
+Review of systems: unable to obtain given intubation.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS:
+(+) Diabetes
+(?) Dyslipidemia
+(?) Hypertension
+.
+2. CARDIAC HISTORY:
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+--[**12-28**]: LAD mid 80% (TAXUS STENTED); LCX 90% origin lesion
+(CYPHER STENTED), 70% in the upper pole of a large OM1 (POBA) as
+well as a 90% more distal lesion in a OM1 subbranch
+-PACING/ICD: None
+-CABG: None
+-CHF, diastolic ([**8-30**])
+.
+3. OTHER PAST MEDICAL HISTORY:
+- Peripheral [**Month/Year (2) 1092**] disease s/p R popliteal-DP bypass
+- History of GI bleed in [**6-28**], negative EGD and colonoscopy in
+[**6-/2882**]
+- COPD: mild restrictive ventilatory defect
+- Osteoarthritis
+- Chronic venous insufficiency
+- Chronic kidney disease
+- IBS
+- Hypothyroidism
+- Chronic UTI's
+- Chronic diarrhea
+- History of uterine cancer s/p TAHBSO
+- History of breast cancer s/p lumpectomy
+- History of Appendectomy (remote)
+- History of Cholecystectomy (remote)
+
+Social History:
+-Tobacco history: Yes. Quit smoking: >20 years ago
+-ETOH: Denies
+-Illicit drugs: Denies
+-Currently resides at [**Hospital 38**] Rehab.
+
+
+
+Family History:
+Mother died in 60's w/CAD.
+
+Physical Exam:
+VS: T= BP=127/59 HR=90 RR=14 (AC) O2 sat=100% on 1.0 FiO2; down
+to 93% on .50 FiO2
+GENERAL: Intubated. Awake and interactive. Uncomfortable when
+changing right groin dressing.
+HEENT: NCAT. Sclera anicteric. Right surgical pupil; left
+3mm-->2mm, Conjunctiva were pink, no pallor or cyanosis of the
+oral mucosa. No xanthalesma.
+NECK: Supple with difficult to interpret JVP.
+CARDIAC: RR, normal S1, S2 though distant. No clear murmurs. No
+S3 or S4.
+LUNGS: Course breath sounds with mild expiratory wheeze.
+ABDOMEN: Soft, NTND. Obese. No HSM or tenderness.
+EXTREMITIES: 1+ lower extremity edema. Prior medial scar noted
+on right. Venous stasis changes noted. Pulses were dopplerable.
+
+
+Pertinent Results:
+[**2884-10-23**] 09:04AM   GLUCOSE-245* LACTATE-1.2 NA+-139 K+-4.4
+CL--98* TCO2-27
+[**2884-10-23**] 09:00AM   CK(CPK)-153*
+[**2884-10-23**] 09:00AM   cTropnT-0.38*
+[**2884-10-23**] 09:00AM   CK-MB-10 MB INDX-6.5*
+[**2884-10-23**] 09:00AM   WBC-12.8* RBC-3.85* HGB-11.8* HCT-33.6*
+MCV-87 MCH-30.6 MCHC-35.0 RDW-15.1
+[**2884-10-23**] 09:00AM   NEUTS-92.4* LYMPHS-6.9* MONOS-0.6* EOS-0
+BASOS-0.1
+[**2884-10-23**] 09:00AM   PLT COUNT-244
+[**2884-10-23**] 09:00AM   PT-13.6* PTT-34.3 INR(PT)-1.2*
+[**2884-10-23**] 10:53AM   TYPE-ART O2 FLOW-6 PO2-53* PCO2-43 PH-7.38
+TOTAL CO2-26 BASE XS-0 INTUBATED-NOT INTUBA COMMENTS-MASK
+[**2884-10-23**] 11:48AM   ALBUMIN-3.7
+[**2884-10-23**] 11:48AM   CK-MB-10 MB INDX-7.1* cTropnT-0.31*
+[**2884-10-23**] 11:48AM   ALT(SGPT)-19 CK(CPK)-141* ALK PHOS-102
+AMYLASE-20 TOT BILI-0.6 DIR BILI-0.2 INDIR BIL-0.4
+[**2884-10-23**] 12:39PM   GLUCOSE-297* LACTATE-1.1 NA+-138 K+-4.3
+CL--98*
+[**2884-10-23**] 08:28PM   CK-MB-14* MB INDX-9.3* cTropnT-0.66*
+[**2884-10-23**] 04:44PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0
+LEUK-NEG
+
+Discharge labs:
+ COMPLETE BLOOD COUNT  WBC  RBC   Hgb   Hct  MCV MCH  MCHC  RDW
+Plt Ct
+[**2884-11-3**] 06:00AM    5.9 3.27* 10.1* 29.4*  90 31.0 34.4 14.8
+ 328
+
+Chemistry
+  RENAL & GLUCOSE    Glucose UreaN  Creat  Na  K   Cl  HCO3
+[**2884-11-3**] 06:00AM    160*    49*  1.5*  138 4.2  100  31
+
+  CHEMISTRY TotProt    Calcium  Phos  Mg
+[**2884-11-3**] 06:00AM       9.1   3.5   1.9
+
+
+[**2884-10-26**] 12:30 pm URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2884-10-28**]**
+
+   URINE CULTURE (Final [**2884-10-28**]):
+      ENTEROCOCCUS SP..    10,000-100,000 ORGANISMS/ML..
+
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------   <=1 S
+
+STUDIES:
+EKG ([**2884-10-22**]): Sinus tach at 111. 1mm ST-elevations in II/F and
+lateral ST-depressions. Inferior q-waves (?old). Anterior
+q-waves (old).
+EKG #2 ([**2884-10-23**]): Sinus at 92. 1st degree AV block.
+ST-elevations less pronounced.
+.
+2D-ECHOCARDIOGRAM ([**2884-8-23**]):
+- left atrium is elongated; estimated right atrial pressure is
+0-5 mmHg
+- mild symmetric LVH with normal cavity size (due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded)
+- LVEF>55%
+- Doppler imaging suggests an increased left ventricular filling
+pressure (PCWP>18mmHg); transmitral Doppler and tissue velocity
+imaging are consistent with Grade II (moderate) LV diastolic
+dysfunction
+- RV chamber size and free wall motion are normal
+- AV leaflets are mildly thickened; no AS; trace AR
+- MV leaflets are mildly thickened; [**11-24**]+ MR
+- TV mildly thickened
+- Moderate pulmonary artery systolic hypertension
+.
+CARDIAC CATH ([**2884-10-23**]):
+1- Selective coronary angiography of this right-dominant system
+demonstrated severe three-vessel CAD. Thewhole coronary system
+was
+mildly calcified. The LMCA had no angiographically-apparent
+disease. The
+LAD had 90% diffuse lesion at the previous PCI site. The LCX
+proximal
+stent was patent and the the OM1 (POBA [**2880**]) was 100% occluded.
+The RCA
+was a dominant vessel and totally occluded proximally (known)
+after the
+AM1 takeoff. The distal RPDA supplied the inferior wall and
+received
+faint collaterals from the LAD septal. Most of these collaterals
+arose
+from the diseased mid LAD segment (also the site of previous
+PCI).
+2- Limited resting hemodynamic assessment revealed mildly
+elevated
+arterial pressure (145/75 mmHg).
+3- Successful POBA of the mid LAD at teh site of previous PCI
+with
+marked improvement in flow to the distal LAD and more robust
+septal
+collaterals to the distal RPDA.
+4- Unsuccessful attempt to recanalize totally occluded OM1
+proximally.
+5- Successful deployment of an angioseal device to the RCFA.
+6- Successful endotracheal intubation by the end of the case for
+
+worsened pulmonary edema.
+
+TTE ([**2884-10-23**]):
+The left atrium and right atrium are normal in cavity size. Left
+ventricular wall thicknesses and cavity size are normal. There
+is mild to moderate regional left ventricular systolic
+dysfunction with severe hypokinesis of the inferior wall and
+distal half of the anterior septum. The remaining segments
+contract normally (LVEF = 40 %). Right ventricular chamber size
+and free wall motion are normal. The aortic valve leaflets (3)
+are mildly thickened but aortic stenosis is not present. No
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Mild to moderate ([**11-24**]+) mitral regurgitation
+is seen. The pulmonary artery systolic pressure could not be
+determined. There is no pericardial effusion.
+
+Renal US ([**2884-10-26**]):
+1. No hydronephrosis.
+2. Very limited Doppler study due to technical factors which
+demonstrates
+bilateral arterial and venous blood flow. No further Doppler
+characterization can be made.
+
+CXR ([**2884-10-28**]):
+The PICC line is unchanged. Calcified pleural plaques are
+unchanged. There is bilateral lower lobe volume loss but no
+definite
+infiltrate. No significant change compared to prior.
+
+
+Brief Hospital Course:
+# ST ELEVATION MI
+The patient was transferred after having an ST-Elevation MI in
+the inferior distribution and 3-vessel disease on cardaic
+catheterization.  Druing catheterization she had a POBA to the
+mid LAD.  She was referred to cardiothoracic surgery for
+possible CABG but was felt not to be a surgical candidate.  She
+was continued on her aspirin, carvedilol, simvastatin and
+started on Plavix.  She should continue to take these
+medications.  She experienced no episodes of chest pain after
+the catheterization or for the remainder of her hospital stay.
+
+# CONGESTIVE HEART FAILURE
+This patient was felt to be in acute diastolic heart failure on
+admission.  She was given IV lasix on admission.  She required
+intubation on [**2884-10-23**] for hypoxemic respiratory failure due to
+her pulmonary edema.  She was extubated on [**2884-10-25**] after her
+oxygenation improved and she was diuresed with IV Lasix.  Her
+respiratory status continued to improve.  She had a TTE here
+showing an EF of 40% and mild to moderate regional left
+ventricular systolic dysfunction with severe hypokinesis of the
+inferior wall and distal half of the anterior septum.  She had
+some fluid retention with oliguric renal failure but did not
+require re-intubation and her oxygen was able to be weaned off
+with further diuresis.   The patient was continued on
+carvedilol.  She was not started on an acei or [**Last Name (un) **] due to her
+family's wishes given a history of hypotension while on
+lisinopril.
+
+# CHRONIC KIDNEY DISEASE/ACUTE RENAL FAILURE: The patient has a
+baseline creatitine of 1.2 to 1.5.  Her creatinine was below her
+baseline at the time of presentation at 1.1.  After her cardiac
+catheterization her creatinine began to rise and rose above her
+baseline on day 4.  The renal team evaluated her and felt her
+ARF was consistent with ATN secondary to dye.  Her creatitine
+peaked at 4.2 on day 7 of hospitalization.  Given her acute
+renal faliure her medications were renally adjusted and
+nephrotoxic medications were held.  A renal US showed no
+evidence of hydronephrosis.  A lasix drip was initally tried
+when she became oliguric, but did not aide in increasing her
+urine output.  After her peak at 4.2 she began to quickly drop
+her creatitine and soon her urine output increased.  By
+discharge her creatinine was back to its baseline of 1.5.
+
+# PULM: The patient was intubated in the cath lab given
+decreasing sats and pO2. PFTs more consistent with restriction
+than with COPD, likely due to her body habitus. She is on advair
+and albuterol as an outpatient.  She was quickly extubated a few
+days after admission, however she required 5-6L of oxygen for
+many days given her oliguric acute renal failure and volume
+overload due to pulmonary edema.  Once extubated he was
+continued on advair and albuterol prn as well as atrovent prn.
+As her renal failure resolved and she began to make more urine
+she was able to be weaned off oxygen.  She was sating in the mid
+90s on RA the day of discharge.
+
+# URINARY TRACT INFECTION: The patient developed a urine culture
+which grew out enterococcus.  She was initally treated with
+ceftriaxone while the urine culture was pending, but then
+switched to amoxicillin.  However she continued to have fevers
+so she was broadened to amoxicillin-clavulonic acid for a 5 day
+course.  This was finished and her fevers resolved.  She was
+placed on bactrim 1 ss tab daily for UTI ppx given her history
+of chronic UTIs.
+
+# BACK PAIN: The patient has chronic back pain at home and
+continued to have pain while she was hospitalized.  She had been
+on 10 mg of oxycodone every 8 hours prior to admission.  This
+was modified many times, especially when she was delirious
+during the middle of her stay, however by time of discharge she
+was on a stable regimen of 5 mg of oxycodone every 4 hours
+standing and 5 mg of oxycodone every 4 hours prn.  She was also
+given 1 gm of tylenol every 6 hours.  PT worked with the patient
+to mobilize her out of bed as staying in bed was likely
+worsening her back pain.
+
+# DELIRIUM: The patient had several episodes of delirium,
+especially at night.  She responded well to 5 mg po of zyprexa.
+By time of discharge she was alert and oriented without an
+episode of delirium for 3 days without requiring medications.
+The delirium was thought to be due to her age, the opiods she
+was being treated with for he back pain, and disorientation
+after changing rooms.
+
+# RHYTHM: The patient maintained sinus rhythm during her
+hospitalization and was monitored on telemetry.
+
+# DIABETES: The patient was continued on her home NPH with
+sliding scale insulin coverage.  Her glyburide was held while
+she was hospitalized, but restarted on discharge.
+
+# HYPOTHYROIDISM: The patient was continued on levothyroxine.
+
+# ANEMIA: The patient has anemia at basliene with Hct previously
+ranging from the high 20's to low 30's.  Likely related to
+anemia of chronic kidney disease.  She did not require
+transfusion while hospitalized here.  Her Hct was stable at 29.4
+on discharge.
+
+
+Medications on Admission:
+1. Carvedilol 25 mg [**Hospital1 **]
+2. Imdur 60 mg daily
+3. Bumex 3 mg daily
+4. Spironolactone 25 mg daily
+4. Simvastatin 80 mg daily
+5. NPH 22 units QAM
+6. Glyburide 10 mg daily
+7. Levothyroxine 50 mcg daily
+8. Albuterol 90 mcg/Actuation 2 puff Q6H PRN
+9. Advair Diskus 250-50 2 inhalations [**Hospital1 **]
+10. Fluticasone 50 mcg nasal
+11. Dicyclomine 10 mg [**Hospital1 **]
+12. Esomeprazole 40 mg [**Hospital1 **]
+13. Allopurinil 200 mg daily
+14. Colchicine 0.6 mg daily
+15. Oxycodone 10 mg Q8H PRN
+16. Lorazepam 0.5 mg QHS PRN
+15. Lidocaine 5 % 12 hours on, 12 hours off
+16. Gabapentin 300 mg QAM and 600 mg QPM
+17. Bisacodyl 10 mg daily
+18. Lactulose PRN
+19. Vitamin C 1,000 mg daily
+20. Vitamin B daily
+.
+Cipro 250 mg [**Hospital1 **]
+Fluconazole 150 mg daily
+
+
+Discharge Medications:
+1. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO QAM (once a
+day (in the morning)).
+2. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO HS (at
+bedtime).
+3. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12
+hours on and 12 hours off.
+4. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+5. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) inj
+Injection TID (3 times a day).
+7. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twenty
+Two (22) units Subcutaneous qam.
+8. Carvedilol 25 mg Tablet Sig: One (1) Tablet PO twice a day.
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+10. Esomeprazole Magnesium 40 mg Capsule, Delayed Release(E.C.)
+Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.
+11. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+Two (2) puffs Inhalation [**Hospital1 **] (2 times a day).
+12. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2)
+Spray Nasal DAILY (Daily).
+13. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+14. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+15. Bumetanide 2 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+16. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO once a
+day.
+17. Imdur 60 mg Tablet Sustained Release 24 hr Sig: One (1)
+Tablet Sustained Release 24 hr PO once a day.
+18. Glyburide 5 mg Tablet Sig: Two (2) Tablet PO once a day.
+19. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2)  Inhalation
+every six (6) hours as needed for shortness of breath or
+wheezing.
+20. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO once a day.
+
+21. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO once a day.
+
+22. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+23. Lactulose 10 gram/15 mL Solution Sig: 15-30 mL PO every six
+(6) hours as needed for constipation.
+24. Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO once a day.
+
+25. Vitamin B Complex     Capsule Sig: One (1) Capsule PO once a
+day.
+26. Dicyclomine 10 mg Capsule Sig: One (1) Capsule PO twice a
+day.
+27. Trimethoprim-Sulfamethoxazole 80-400 mg Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+28. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours).
+29. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+30. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO every
+eight (8) hours.
+31. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day) as needed for omentum fold rash.
+32. Miralax 17 gram (100 %) Powder in Packet Sig: Seventeen (17)
+gram PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1093**] Rehabilitation Hospital - [**Location (un) 38**]
+
+Discharge Diagnosis:
+Primary -
+ST elevation myocardial infarction
+Acute renal failure
+Urinary tract infection
+
+Secondary -
+Chronic diastolic congestive heart failure
+Diabetes
+Chronic kidney disease
+Hypothyroidism
+Chronic back pain
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were transferred to this hospital due to an acute heart
+attack for treatment.  You underwent cardiac catheterization and
+had angioplasty (breakage the blockage in the artery) to a
+blocked artery.  After the catheterization your kidney function
+worsened likely due to the dye used during the catheterization.
+Your creatitine has decreased to its baseline.  You developed a
+urinary tract infection and were treated with antibiotics.  As
+you have chronic urinary tract infections you will need to be on
+antibiotics for prevention.
+
+Medication changes:
+1.  You were started on 325 mg of aspirin daily.
+2.  You were started on plavix 75 mg daily.
+3.  You were started on bactrim single strength 1 tab daily for
+urinary tract prophylaxis.
+4.  Your oxycodone was changed to 5 mg every 4 hours with
+another 5 mg every 4 hours as needed for pain.
+5.  For additional control of you pain you have been getting
+1000 mg of tylenol every 8 hours.
+6.  Miconazole powder is being applied to a fungal infection on
+the skin of your stomach.
+7.  Given constipation with the oxycodone you were started on
+miralax daily.
+
+Otherwise continue your outpatient medications as prescribed.
+
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2 L
+
+Go to the emergency room or call your primary doctor if you
+experience chest pain, shortness of breath, dizziness, blood in
+your stool, or black stool.
+
+Followup Instructions:
+An appointment was made for you to follow up with a nurse
+practioner in your primary doctor's office:
+Provider: [**First Name11 (Name Pattern1) 2448**] [**Last Name (NamePattern4) 10335**], [**MD Number(3) 1226**]:[**Telephone/Fax (1) 247**]
+Date/Time:[**2884-11-8**] 9:00
+
+An appointment was made for you to follow up with your
+cardiologist:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], M.D. Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2885-1-11**] 10:00
+
+Please keep your previously scheduled appointment:
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], M.D. Date/Time:[**2885-2-8**] 12:00
+
+It is important you keep these appointments.  If you cannot make
+one of them, please call and reschedule.
+
+
+
+Completed by:[**2884-11-3**]
+
+
+DOC CLASS

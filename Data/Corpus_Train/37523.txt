@@ -1,0 +1,252 @@
+Admission Date:  [**2917-11-4**]              Discharge Date:   [**2917-11-11**]
+
+Date of Birth:  [**2849-1-7**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Iodine / Statins-Hmg-Coa Reductase Inhibitors
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+chest discomfort, jaw pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+CABG
+Off pump Coronary Artery Bypass Graft x 2 with LIMA --> LAD,
+Reverse saphenous vein graft --> Obtuse marginal
+
+
+History of Present Illness:
+68 year old female with  known Coronary Artery disease and
+carotid artery disease was admitted to [**Hospital6 35090**] on [**2917-11-2**] with chest discomfort and jaw pain.
+She reports discomfort presented during exertion and was not
+relieved by rest. Sublingual nitroglycerin helped with resolving
+the pain. She had several episodes the following day. She noted
+dyspnea and radiation to the jaw. She denies nausea, vomiting or
+diaphoresis. The pain again progressed the day of admission when
+she presented to the emergency department. Her EKG showed NSR
+with anterolateral ST segement depression more accentuated than
+baseline EKG per OSH reports. She was admitted for further
+treatment. While she was in the hospital she ruled in for NSTEMI
+with a troponin peak of 5.1. She was catheterized which showed
+severe 2 vessel disease LVEF reportedly normal. She had post
+cath chest pain which resolved with NTG and morphine. She was
+transferred to [**Hospital1 22**] for evaluation and cardiac surgery was
+consulted for coronary artery revascularization.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. CAD RISK FACTORS: Know CAD, carotid artery disease,
+hyperlipidemia, hypertension, prior cigarette use
+2. CARDIAC HISTORY:
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS: cardiac catheterizations
+in [**2890**] and [**1-/2915**] which showed diffuse triple vessel disease
+with calcified coronary arteries per OSH records.
+-PACING/ICD:
+3. OTHER PAST MEDICAL HISTORY:
+- tobacco history
+- CAD treated medically
+- ? PVD - pt denies but in records
+- s/p left carotid endarterectomy
+- hyperlipidemia
+- hypertension
+
+
+Social History:
+-Tobacco history: quit 6 years ago, 49 pack year history
+-ETOH: social alcohol
+-Illicit drugs: none
+
+
+Family History:
+Father died with throat cancer, mother diet of old age, sister
+died at 57, brother alive with history of MI, she has 4
+children.
+
+Physical Exam:
+VS: T= 98.2 BP= 109/53 HR= 74 RR= 18 O2 sat= 96% 2LNC
+GENERAL: elderly female in NAD, oriented x3, mood and affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, OP without lesions. No xanthalesma.
+NECK: Supple, no JVD appreciated.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. II/VI systolic murmur best heart at
+apex, no rubs or gallops. No S3 or S4 appreciated.
+LUNGS: CTAB without crackles, wheezes or rhonchi, good air
+movement bilateral.
+ABDOMEN: Soft, NT/ND. Abd aorta not enlarged by palpation. No
+abdominial bruits appreciated.
+EXTREMITIES: No c/c/e. No femoral bruits. R hip cath site
+clean/dry and intact.
+PULSES:
+Right: Femoral 2+ DP 1+ PT 1+
+Left: Femoral 2+ DP 1+ PT 1+
+
+
+Pertinent Results:
+[**2917-11-4**] 09:46PM   CK(CPK)-156*
+[**2917-11-4**] 09:46PM   CK-MB-9 cTropnT-0.69*
+[**2917-11-4**] 05:25PM   GLUCOSE-98 UREA N-18 CREAT-0.8 SODIUM-144
+POTASSIUM-3.9 CHLORIDE-108 TOTAL CO2-25 ANION GAP-15
+[**2917-11-4**] 05:25PM   CALCIUM-8.9 PHOSPHATE-3.0 MAGNESIUM-2.1
+CHOLEST-207*
+[**2917-11-4**] 05:25PM   TRIGLYCER-116 HDL CHOL-66 CHOL/HDL-3.1
+LDL(CALC)-118
+[**2917-11-4**] 05:25PM   WBC-14.2* RBC-4.34 HGB-12.8 HCT-36.9 MCV-85
+MCH-29.4 MCHC-34.6 RDW-13.7
+[**2917-11-4**] 05:25PM   NEUTS-62.7 LYMPHS-31.1 MONOS-3.9 EOS-1.3
+BASOS-1.0
+[**2917-11-4**] 05:25PM   PT-11.8 PTT-27.1 INR(PT)-1.0
+
+ECHO [**2917-11-5**]:
+Off-Pump CABG:
+1. The left atrium is normal in size. No spontaneous echo
+contrast is seen in the left atrial appendage. No thrombus is
+seen in the left atrial appendage.
+2. No atrial septal defect is seen by 2D or color Doppler.
+3. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Overall left ventricular
+systolic function is normal (LVEF>55%).
+4. Right ventricular chamber size and free wall motion are
+normal.
+5. There are simple atheroma in the aortic root. There are
+complex (>4mm) atheroma in the aortic arch. There are complex
+(>4mm) atheroma in the descending thoracic aorta.
+6. There are three aortic valve leaflets. The aortic valve
+leaflets are moderately thickened. There is no aortic valve
+stenosis. Trace aortic regurgitation is seen.
+7. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral regurgitation is seen.
+8. There is a small pericardial effusion.
+
+[**2917-11-10**] 05:10AM BLOOD WBC-11.2* RBC-3.52* Hgb-10.3* Hct-31.7*
+MCV-90 MCH-29.4 MCHC-32.6 RDW-16.1* Plt Ct-305
+[**2917-11-10**] 05:10AM BLOOD Glucose-120* UreaN-20 Creat-0.8 Na-141
+K-3.8 Cl-103 HCO3-28 AnGap-14
+                            **FINAL REPORT [**2917-11-9**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN A & B TEST (Final [**2917-11-9**]):
+      Feces negative for C.difficile toxin A & B by EIA.
+
+
+Brief Hospital Course:
+This 68-year-old patient, who presented with unstable angina
+with non-ST elevation
+myocardial infarction, subsequently had a coronary angiogram
+which showed 2-vessel disease involving the left anterior
+descending artery and a small obtuse marginal artery. Initial
+angiogram showed the obtuse marginal to be quite small so the
+plan was to possibly stent this artery and do endoscopic LIMA to
+LAD graft. Subsequent angiogram the next day, when she developed
+further pain, showed the OM to be bigger than initially thought
+of and hence she was taken to the OR for an off pump sternotomy
+and 2-vessel bypass grafting on [**2917-11-5**]. Preoperative CT scan
+showed severe calcification of the ascending arch and descending
+aorta and hence the plan was to proceed with off-pump coronary
+artery bypass grafting.  See operative note for details.
+The patient was hemodynamically stable on transfer to the CVICU.
+ She was weaned off neosynephrine with stable cardiac
+index/output.  Ms. [**Known patient lastname 35091**] [**Last Name (Titles) 66**] neurologically intact and  was
+extubated on post operative day 1 morning without incidence.
+Postoperatively she transiently had an episode of atrial
+fibrillation, was treated with amiodarone and converted to sinus
+rhythm. Chest tubes and pacing wires were removed per cardiac
+surgery protocol.  She was transferred to the step down unit in
+stable condition.  Physical therapy continued to work with her
+to increase strength and endurance.  On post operative day #4,
+she did have a large amount of loose stools.  She was negative
+for Clostridium difficile and her bowel regimen was adjusted
+with resolution of her diarrhea.  She remained afebrile, in
+sinus rhythm and her incisions were healing well.  It was felt
+that she was safe for transfer to rehab on post operative day #
+6. All follow up appointments were advised.
+
+
+
+Medications on Admission:
+Verapamil, Aspirin, Centrum Cardio, Metamucil, Fish Oil
+
+Discharge Medications:
+1. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO Q12H (every 12 hours)
+for 5 days.
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) for 5 days.
+3. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for fever/pain.
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 3 months.
+7. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+8. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+9. Omega-3 Fatty Acids     Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+11. Psyllium     Packet Sig: One (1) Packet PO TID (3 times a
+day) as needed for diarrhea.
+12. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1875**]
+
+Discharge Diagnosis:
+Coronary Artery Disease
+Dyslipidemia
+Hypertension
+Peripheral vascular disease
+s/p Left carotid endarectomy
+
+s/p Left carotid endarectomy
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with percocet prn
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+
+Followup Instructions:
+Please call to schedule appointments
+Surgeon Dr [**First Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 181**]
+Primary Care Dr [**First Name8 (NamePattern2) 8682**] [**Name (STitle) 8683**] in [**12-4**] weeks [**Telephone/Fax (1) 8686**]
+Cardiologist in [**12-4**] weeks
+Wound check appointment - [**Hospital Ward Name **] 6 ([**Telephone/Fax (1) 3833**]) - your nurse
+will schedule
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2917-11-11**]
+
+
+DOC CLASS

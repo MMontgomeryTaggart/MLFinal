@@ -1,0 +1,234 @@
+Admission Date:  [**2532-8-22**]              Discharge Date:   [**2532-9-17**]
+
+Date of Birth:  [**2472-5-28**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2534**]
+Chief Complaint:
+Chest pain, Dyspnea on exertion
+
+Major Surgical or Invasive Procedure:
+Coronary Artery Bypass Graft x 4(LIMA->LAD, SVG->RCA, OM)
+[**2532-8-29**]
+
+History of Present Illness:
+60 y/o male adm. to OSH w/CP, found to have elev. troponin and
+pulmonary edema. Transferred to [**Hospital1 22**] for cardiac
+catheterization.
+
+Past Medical History:
+Congestive Heart Failure, Diabetes Mellitus, Hypertension,
+Chronic Renal Insufficiency newly started on hemodialysis
+[**2532-8-18**], Anemia, Fournier's gangrene s/p scrotal surgery, s/p
+appendectomy and tonsillectomy
+
+Social History:
+retired, smoked X 30 years, quit 5 years ago, rare ETOH
+
+Family History:
+non-contrib.
+
+Physical Exam:
+VS: 87 20 155/66 5'0" 84kg
+General: Well-appearing w/ SOB
+HEENT: NCAT, EOMI, perrl
+Neck: Supple, FROM -JVD
+Chest: CTAB -w/r/r
+Heart: RRR -c/r/m/g
+Abd: Soft NT/ND, +BS
+Ext: Warm, well-perfused with 1 +edema, -varicosities
+Neuro: MAE, non-focal, A&O x 3
+
+Pertinent Results:
+Cath [**8-22**]: Selective coronary angiography of this right dominant
+system demonstrated severe 3 vessel disease. The LMCA was short
+but normal. The LAD was subtotally occluded after S1, remainder
+of the LAD was small with diffuse irregularities filling
+antegrade and via RCA acute marginal collaterals. The LCX had
+diffuse disease and the OM2 was occluded and filled via
+collaterals. The RCA was occluded at mid vessel after the acute
+marginal which filled the distal LAD. There was mild pulmonary
+hypertension with PAP 40/16 mmHg). Left ventriculography
+revealed severe global hypokinesis with LVEF 29%. No significant
+mitral regurgitation was evident.
+CNIS [**8-25**]: Bilateral less than 40% carotid stenosis. Likely left
+subclavian stenosis.
+Chest CT [**8-26**]: Moderate emphysema. Widespread interstitial
+pulmonary abnormality including fibrosis and interstitial
+pneumonitis, consistent with IPF.
+Echo [**8-28**]: PreBypass: The left atrium is moderately dilated.
+There is mild symmetric left ventricular hypertrophy. The left
+ventricular cavity is mildly dilated. There is moderate regional
+left ventricular systolic dysfunction with LVEF 30-40%. Resting
+regional wall motion abnormalities include septal hypokinesis at
+the base, septal akinesis from mid basal region to apex,
+inferior wall hypokinesis at the base and inferior wall akinesis
+at the apex. A prominent thrombus is seen in the left ventricle,
+adherent to the ventricular wall near the apex. There are simple
+atheroma in the aortic arch. There are complex (mobile) atheroma
+in the descending aorta. There is no aortic valve stenosis. No
+aortic regurgitation is seen.
+Trivial mitral regurgitation is seen. Post Bypass: No new
+regional wall motion or valvular abnormalities observed. LVEF
+30-40%.  No new aortic abnormalities observed.
+CXR [**9-14**]: Right IJ line is unchanged with tip in the right
+atrium. Compared to [**2532-9-10**], there has been no significant change
+in the lower lobe volume loss, prominent interstitial markings
+versus scarring in the left lateral lung, mild cardiomegaly.
+[**2532-8-23**] 10:55AM BLOOD WBC-8.5 RBC-4.10* Hgb-12.3* Hct-36.2*
+MCV-88 MCH-30.1 MCHC-34.0 RDW-15.6* Plt Ct-170
+[**2532-9-4**] 04:34AM BLOOD WBC-6.9 RBC-1.69* Hgb-4.9* Hct-14.4*
+MCV-85 MCH-28.8 MCHC-33.8 RDW-16.9* Plt Ct-205
+[**2532-9-17**] 08:15AM BLOOD WBC-6.3 RBC-3.55* Hgb-10.6* Hct-32.1*
+MCV-90 MCH-29.7 MCHC-32.9 RDW-16.6* Plt Ct-247
+[**2532-8-22**] 02:46PM BLOOD PT-16.6* INR(PT)-1.5*
+[**2532-9-2**] 06:25AM BLOOD PT-30.1* INR(PT)-3.2*
+[**2532-9-3**] 01:23PM BLOOD PT-70.2* PTT-45.4* INR(PT)-9.0*
+[**2532-9-17**] 10:15AM BLOOD PT-19.5* PTT-30.2 INR(PT)-1.9*
+[**2532-8-22**] 02:46PM BLOOD Glucose-149* UreaN-37* Creat-3.2* Na-142
+K-3.7 Cl-106 HCO3-22 AnGap-18
+[**2532-9-1**] 08:40AM BLOOD Glucose-135* UreaN-47* Creat-4.7* Na-134
+K-4.3 Cl-99 HCO3-27 AnGap-12
+[**2532-9-17**] 08:15AM BLOOD Glucose-174* UreaN-21* Creat-3.6* Na-140
+K-3.9 Cl-99 HCO3-32 AnGap-13
+[**2532-9-17**] 08:15AM BLOOD Calcium-7.4* Phos-3.7 Mg-1.5*
+[**2532-8-26**] 05:46AM URINE Blood-SM Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2532-8-26**] 08:23PM URINE RBC-[**6-14**]* WBC-[**3-9**] Bacteri-MOD Yeast-NONE
+Epi-[**3-9**]
+
+Brief Hospital Course:
+Pt. was admitted to the medical service, medical management was
+optimized, he received regular hemodialysis treatments, and was
+taken to the OR on [**2532-8-28**] with Dr. [**Last Name (STitle) **]. He underwent a CABG
+X 4 (LIMA > LAD, SVG>Diag>OM, SVG>PDA). Please see operative
+note for details of surgical procedure. Pt. was transported to
+the cardiac surgical recovery unit for invasive monitoring in
+stable condition. Later on op day he was weaned from sedation,
+awoke neurologically intact and was extubated. His epicardial
+wires and chest tubes were removed on POD # 1, and warfarin was
+initiated(due to finding of LV thrombus in the OR). He remained
+hemodynamically stable and was transferred to the telemetry unit
+on POD # 2. He continued on regular dialysis, was being
+anticoagulated, and had remained stable until early am on [**9-4**].
+At that time, he had a bloody BM, was lightheaded, and
+diaphoretic. He was transferred to the ICU.  His INR which had
+been in the 3's had rapidly increased to 6, then to 9 just prior
+to this incident. His hematocrit dropped to the mid-teens. He
+was transfused RBC's & plasma, received vitamin K. GI was
+consulted, and he underwent UGI endoscopy (on [**9-4**])which showed
+gastritis (not actively bleeding). EGD was repeated on [**9-5**] which
+showed gastritis & duodenitis. He remained hemodynamically
+stable after his anticoagulation was reversed, and he was again
+transferred to the telemetry floor. He underwent a colonoscopy
+on [**2532-9-10**], which revealed polyps, and normal mucosa.
+Anticoagulation was again initiated (for post-op AF, as well as
+the LV thrombus noted in the OR) with warfarin and IV heparin
+was given while waiting for the INR to become therapeutic. On
+[**2532-9-15**], he was noted to have some bleeding in his left eye,
+ophthalmalogy was consulted (pt. has long-standing history of
+retinopathy, prev. vitreous hemorrhage, legally blind). He was
+found to have vitreous hemorrhage, and eye drops were initiated
+as recommended. His eye was patched, and anticoagulation was
+stopped. Throughout post-op course he received regular
+hemodialysis treatments and worked with physical therapy for
+strength and mobility. He appeared stable and suitable for
+discharge home on post-op day 20. He was not restarted on
+coumadin seoncadry to the his sensitivity and bleeding
+complications. He was discharged home with VNA services and the
+appropriate follow-up appointments.
+
+Medications on Admission:
+Toprol 50 mg PO daily, Glyburide 1.25 mg PO daily, Norvasc 20 mg
+PO daily, Albuterol, Doxazosin 2 mg PO daily, Nephrocaps, ASA
+325 mg PO daily, Plavix 75 mg PO daily, Lasix 20 mg PO daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 6-8 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+6. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO TID (3 times a day).
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+7. Norvasc 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+8. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*2*
+10. Scopolamine HBr 0.25 % Drops Sig: One (1) Drop Ophthalmic
+[**Hospital1 **] (2 times a day).
+Disp:*1 vial* Refills:*2*
+11. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop
+Ophthalmic  QID (4 times a day).
+Disp:*1 vial* Refills:*2*
+12. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO
+TID (3 times a day).
+Disp:*270 Tablet(s)* Refills:*2*
+14. Doxazosin 1 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+15. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+16. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop
+Ophthalmic  [**Hospital1 **] (2 times a day).
+Disp:*1 vial* Refills:*2*
+17. Glyburide 1.25 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Home Health and Hospice Care, [**Location (un) 1738**]
+
+Discharge Diagnosis:
+Coronary artery disease s/p Coronary Artery Bypass Graft x 4
+PMH: Congestive Heart Failure, Diabetes Mellitus, Hypertension,
+Chronic Renal Insufficiency newly started on hemodialysis
+[**2532-8-18**], Anemia, Fournier's gangrene s/p scrotal surgery, s/p
+appendectomy and tonsillectomy
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Follow medications on discharge instructions.
+Do not drive for 4 weeks.
+Do not lift more than 10 lbs. for 2 months.
+Shower daily, let water flow over wounds, pat dry with a towel.
+Do not use creams, powders, or lotions on wounds.
+Call our office with sternal drainage, temp>101.5
+
+Followup Instructions:
+Make an appointment with Dr. [**Last Name (STitle) 14483**] for 1-2 weeks.
+Make an appointment with Dr. [**Last Name (STitle) **] for 4 weeks.
+
+
+Completed by:[**2532-10-2**]
+
+
+DOC CLASS

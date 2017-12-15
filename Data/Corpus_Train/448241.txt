@@ -1,0 +1,207 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2902-11-6**] 09:30 AM
+ TRANSTHORACIC ECHO - At [**2902-11-6**] 01:45 PM
+   showed [**Hospital1 **]-V hypokinesis.
+   - d/c'ed Azithro/Ceftriaxone CAP
+   - Started Vanc/Cefepime for HAP
+   - CT chest showed loculated effusion (final read pending).  IP
+   evaluated patient, recommended VATS, which the patient refused.  IP
+   evaluated pt, arranging for VATS
+   - On Dilt drip for a fib with RVR
+   - U legionella negative
+   Allergies:
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Rash;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   itch;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2902-11-5**] 09:00 PM
+   Cefipime - [**2902-11-6**] 03:15 AM
+   Infusions:
+   Other ICU medications:
+   Diltiazem - [**2902-11-6**] 09:30 AM
+   Metoprolol - [**2902-11-6**] 02:02 PM
+   Heparin Sodium (Prophylaxis) - [**2902-11-7**] 12:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2902-11-7**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 36.2
+C (97.1
+   HR: 109 (65 - 135) bpm
+   BP: 103/66(76) {77/41(50) - 135/70(84)} mmHg
+   RR: 19 (17 - 28) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 76.5 kg (admission): 78 kg
+                  Total In:
+                                                                  1,303 mL
+                                                                  1,000 mL
+   PO:
+                                                                    500 mL
+                                                                  1,000 mL
+   TF:
+   IVF:
+                                                                    803 mL
+   Blood products:
+   Total out:
+                                                                  1,190 mL
+                                                                    200 mL
+   Urine:
+                                                                  1,190 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    113 mL
+                                                                    800 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 92%
+   ABG: 7.38/43/58/26/0
+   PaO2 / FiO2: 61
+   Physical Examination
+   General Appearance: General: elderly, NAD
+   Cardio: RRR, no m/g/r
+   Lungs: Rales and high pitched wheezes of left lung throughout, end exp
+   wheezes on right
+   Abd: Soft, non-tender, mildly distended, +BS
+   Ext: 2+ pitting LE edema b/l to knees
+   Skin: multiple SK's and AK's; large area of skin graft/post-surgery on
+   left fronto-parietal forehead/head
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   139 K/uL
+   8.8 g/dL
+   108 mg/dL
+   2.4 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   67 mg/dL
+   104 mEq/L
+   139 mEq/L
+   29.0 %
+   9.5 K/uL
+        [image002.jpg]
+                             [**2902-11-6**]  02:06 AM
+                             [**2902-11-6**]  03:00 PM
+                             [**2902-11-6**]  05:41 PM
+                             [**2902-11-7**]  02:41 AM
+   WBC
+   10.1
+   9.5
+   Hct
+   29.4
+   29.0
+   Plt
+   120
+   139
+   Cr
+   2.5
+   2.5
+   2.4
+   TropT
+   0.13
+   TCO2
+   26
+   Glucose
+   106
+   125
+   108
+   Other labs: CK / CKMB / Troponin-T:74//0.13, Lactic Acid:1.0 mmol/L,
+   Ca++:8.7 mg/dL, Mg++:1.9 mg/dL, PO4:3.7 mg/dL
+   Imaging: [**11-7**] CXR:  (my read)  left whiteout largely unchanged.  right
+   hilar fullness slightly worse.
+   [**11-6**] TTE:
+   The left atrium is mildly dilated. There is mild symmetric left
+   ventricular hypertrophy with normal cavity size. There is moderate
+   global left ventricular hypokinesis (LVEF = 35 %). The right
+   ventricular cavity is moderately dilated with mild global free wall
+   hypokinesis. The aortic valve leaflets (3) are mildly thickened but
+   aortic stenosis is not present. Trace aortic regurgitation is seen. The
+   mitral valve leaflets are mildly thickened. Mild (1+) mitral
+   regurgitation is seen. The pulmonary artery systolic pressure could not
+   be determined. There is a trivial/physiologic pericardial effusion.
+   Microbiology: [**2902-11-6**] 4:26 am SPUTUM      Source: Expectorated.
+   Contaminated.
+   bcx and pleural fluid cx ntd
+   Assessment and Plan
+ ATRIAL FIBRILLATION (AFIB)
+ PLEURAL EFFUSION, ACUTE
+   ASSESSMENT/PLAN: 87 yoM with cardiac history as well as squamous cell
+   on face, admitted with SOB/DOE x 3 days w/ pink frothy sputum
+   production and white out of left lung.
+   .
+   #. UNILATERAL EFFUSION: less likely CHF b/c of left-sided unilateral
+   nature, though appears to have element of volume overload;
+   parapneumonic effusion most likley, and would consider post-obstructive
+   PNA given degree to which whole lung is affect and smoking history
+   (thought had a normal PE four days ago at PCP's office per the pt).
+   Also with question of hemotpysis, making mass and PE a possibility (esp
+   with the hypoxia).  s/p thoracentesis.   IP evaluated patient and
+   recommended VATS, which the patient refused.
+   -- D/C azithro/ceftriaxone for empiric treatment of CAP
+   -- Start Vanc/Cefepime for HAP
+   -- f/u blood cultures, ucx
+   -- will order TTE
+   -- will obtain CT chest to evaluate for empyema, complicated effusion,
+   etc.
+   -- consult IP re: pleurocentesis of loculated effusion
+   .
+   #. COPD/ASTHMA: not sure which diagnosis he carries; records in
+   computer incomplete
+   -- cont home montelukast, fluticasone, cobivent
+   -- nebs prn
+   .
+   #. AFIB:  Back in a fib with RVR
+   -- rate better now after fluids in ED
+   -- Diltiazem drip for rate control
+   -- not on anticoagulation for fall risk and ? GIB hx.
+   -- start ASA 325mg daily
+   .
+   #. DIABETES:
+   -- will hold home PO meds; on SSI
+   .
+   #. PPX: home PPI, SQH, bowel reg PRN
+   .
+   #. CONTACT: with patient, had friends who are [**Name (NI) 10876**] ([**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) 464**] and
+   [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 10877**])
+   .
+   #. CODE: full, confirmed with patient, though he admits he hasn't
+   really thought of it before.
+   .
+   #. DISPO: to remain in ICU overnight for obs, will call out if able to
+   wean from O2 and stable
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2902-11-6**] 05:45 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

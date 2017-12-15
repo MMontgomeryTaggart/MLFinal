@@ -1,0 +1,553 @@
+Admission Date:  [**2826-8-26**]              Discharge Date:   [**2826-9-22**]
+
+Date of Birth:  [**2765-12-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Actos / Percocet / Cephalosporins
+
+Attending:[**First Name3 (LF) 4496**]
+Chief Complaint:
+Epigastric pain and shortness of breath
+
+Major Surgical or Invasive Procedure:
+Intubated
+IABP
+RIJ
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 7746**] is a 60 y.o male with a history of nonischemic
+cardiomyopathy with an ejection fraction of 20% and ICD who
+presented to [**Hospital6 **] with epigastric chest
+pain and shortness of breath. At [**Hospital1 **], he was found to have
+a left bundle branch block that was not known to be old and as
+such was taken to the cath lab. The LBBB was later noted to be
+old, however during cath he was noted to have a total occlusion
+to the OM2 as well as 2 tight lesions in the RCA. Of note, the
+patient had been found to have inferior septal ischemia on a
+stress test during outpatient workup.
+In the cath lab, the patient subsequently developed acute
+shortness of breath, at which point he was given 100mg of lasix
+and started on a nitroglycerin drip. His symptoms did not
+improve, at which point he was intubated and an intra-aortic
+balloon pump was placed through right femoral access. He also
+received angiomax and 300mg of clopidogrel. A swan was placed
+which showed elevated pulmonary artery pressures and wedge
+pressures between 37-44. Laboratory exam at [**Hospital1 **] was
+significant for Na 129, K 4.1, BUN 53, Cr 1.3, hemoglobin 16.6
+and platelets of 135. Her PT was 19.4 and INR was 1.8. Dig level
+of 0.8, and cardiac enzymes significant for CK of 135, MB of 7
+and Troponin of 0.08 which was negative in their reference
+range.
+.
+Review of systems could not be obtained due to intubation.
+
+
+Past Medical History:
+CARDIAC HISTORY: Positive for non-ischemic cardiomyopathy with
+ejection fraction 16%.
+
+-PACING/ICD: VVI AICD implated on [**2824-2-21**]
+3. OTHER PAST MEDICAL HISTORY:
+Diabetes type II on insulin
+Hypercholesterolemia
+Peripheral neuropahty
+Hypertriglyceride
+CHF
+Afib
+Dilated non-ischemic cardiomyopathy
+Multinodule goitor likely due to amiodarone
+Past surgical history:
+Appy
+Chole
+Epigastric hernia repair
+Tonsillectomy
+AICD/pacemaker implanted [**2824-2-3**]
+.
+
+
+Social History:
+-Tobacco history: Former smoker
+-ETOH: no etoh
+Is not married.
+
+
+Family History:
+Father died with rectal cancer
+Mother has [**Name2 (NI) **] of colon ca, rheumatic valvular dz
+
+
+Physical Exam:
+PHYSICAL EXAMINATION on Admission:
+VS: T=97.5 BP= 87/38 HR=89 RR=16 O2 sat=100% on 500/18/5/40
+GENERAL: Intubated, sedated.
+HEENT: NCAT. Sclera anicteric. PERRL, Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa.
+CARDIAC: Fast, irregular, normal S1, S2. No m/r/g. No thrills,
+lifts. No S3 or S4.
+LUNGS: Diffusely rhonchorous with crackles throughout.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: Trace lower extremity edema. Right femoral sheath
+introducer sheeth and swan in place.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Radial, DP 2+ bilaterally.
+.
+
+Pertinent Results:
+Admission Labs:
+[**2826-8-26**] 11:04PM BLOOD WBC-12.7* RBC-4.68 Hgb-15.5 Hct-44.1
+MCV-94 MCH-33.1* MCHC-35.1* RDW-17.0* Plt Ct-157
+[**2826-8-26**] 11:04PM BLOOD Neuts-83.9* Lymphs-10.4* Monos-4.5
+Eos-0.6 Baso-0.6
+[**2826-8-26**] 11:53PM BLOOD PT-33.4* PTT-150* INR(PT)-3.4*
+[**2826-8-26**] 11:04PM BLOOD Plt Ct-157
+[**2826-8-26**] 11:04PM BLOOD Glucose-243* UreaN-54* Creat-1.6* Na-133
+K-4.4 Cl-96 HCO3-29 AnGap-12
+[**2826-8-26**] 11:04PM BLOOD ALT-22 AST-31 LD(LDH)-313* CK(CPK)-126
+AlkPhos-89 TotBili-0.3
+[**2826-8-26**] 11:04PM BLOOD CK-MB-10 MB Indx-7.9* cTropnT-0.17*
+[**2826-8-26**] 11:04PM BLOOD Calcium-7.9* Phos-5.3* Mg-1.9
+[**2826-8-26**] 11:04PM BLOOD TSH-3.9
+.
+STUDIES:
+CHEST (PORTABLE AP) Study Date of [**2826-8-26**]
+Large right upper lobe opacity is consistent with a right upper
+lobe collapse. The NG tube tip is in the distal right mainstem
+bronchus. The aortic balloon pump tip is 2.4 cm from the aortic
+arch. ET tube tip is 2.3 cm above the carina. Swan-Ganz catheter
+from inferior approach is in the main right pulmonary artery.
+Left transvenous pacemaker lead terminates in the standard
+position in the right ventricle. There is moderate-to-severe
+cardiomegaly.  Left perihilar and left upper lobe opacities
+could be atelectasis or infection. There is gastric distention.
+
+There is mild shifting of the cardiomediastinum towards the
+right side.
+.
+Portable TTE (Complete) Done [**2826-8-27**]
+
+Conclusions
+The left atrium is mildly dilated. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+are normal. The left ventricular cavity is severely dilated.
+There is severe global left ventricular hypokinesis (LVEF = 15
+%). Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). There is no
+ventricular septal defect. Right ventricular chamber size is
+normal. with normal free wall contractility. The aortic valve
+leaflets are mildly thickened (?#). There is mild aortic valve
+stenosis (valve area 1.5 cm2). The aortic stenosis is likely the
+"low flow/low gradient" type. No aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened. There is no
+mitral valve prolapse. The left ventricular inflow pattern
+suggests a restrictive filling abnormality, with elevated left
+atrial pressure. The tricuspid valve leaflets are mildly
+thickened. The pulmonary artery systolic pressure could not be
+determined. There is no pericardial effusion.
+.
+CT Ab/Pelvis [**2826-9-9**]
+1. Findings suggestive of mild-to-moderate pulmonary edema. More
+focal small nodular opacities within the lungs as described
+above may represent focal regions of underlying
+pneumonitis/pneumonia, possibly aspiration related in this
+patient with distal trachea secretions. Small right simple
+pleural effusion. Follow up CT chest in [**2-7**] months recommended
+to confirm nodular opacity resolution.
+
+2. No definite source of infection noted within the
+abdomen/pelvis. No
+biliary ductal dilatation.
+
+3. Moderate sized right piriformis collection, probably
+intramuscular
+hematoma, particularly in the setting of anticoagulation
+(infected collection cannot be excluded).
+
+4. Dense atherosclerotic calcifications involving the aorta and
+coronary
+tree. Cardiac enlargement dilatation of both the left ventricle
+and left
+atrium.
+.
+CARDIAC CATH [**2826-9-17**]
+1.Selective coronary angiography in this right dominant system
+demonstrated two vessel coronary artery disease.  The LMCA was
+free of
+angiographically-apparent disease.  The LAD was heavily
+calcified with
+mild luminal irregularities.  The LCx had a short total
+occlusion in the
+mid CX into the OM2 which filled via collaterals from the OM1
+and LAD.
+The RCA had severe diffuse calcific diesease with calcific
+70-80%
+stenoiss in the proximal vessel, distal 50% stenosis adn 99%
+calcific
+stenosis at the RPDA/RPL bifurcation.
+2.Resting hemodynamics revealed normal right and left sided
+filling
+presures with RVEDP 13 mmHg and PCWP 12 mHg.  The cardiac index
+was
+preserved at 2.6 l/min/m2.  There was mild systolic hypotension
+SBP 87
+mmHg.
+3. Left ventriculography was deferred.
+4. Successful PCI of RCA lesions with rotablation and DES via R
+radial
+approach and balloon pump support
+5. Unsuccessful PCI of the OM.
+6. Secondary prevention of CAD
+7. Plavix 75mg daily for 12 months
+8. Monitor for signs of left leg ischemia
+9. Follow creatinine and HCT
+
+FINAL DIAGNOSIS:
+1. Two vessel coronary artery disease.
+2. Successful PCI to RCA with rotablation and IABP support.
+3. Unsuccessful PCI of the OM.
+4. Successful removal of IABP.
+.
+DISCHARGE LABS:
+Na 134, K 4.8, BUN 35, Creat 1.2, WBC 3.7, HCT 27, HGB 8.9, plt
+116, INR 1.6
+.
+ECHO [**9-21**]:
+The left atrium is moderately dilated. Left ventricular wall
+thicknesses are normal. The left ventricular cavity is severely
+dilated. There is severe global left ventricular hypokinesis
+with near akinesis of the inferior septum, inferior, and
+inferolateral wall. The anterior wall and anterior septum
+contracts best, but are hypokinetic. Global systolic function is
+severely depressed. (LVEF = 20 %). No masses or thrombi are seen
+in the left ventricle. Tissue Doppler imaging suggests an
+increased left ventricular filling pressure (PCWP>18mmHg). Right
+ventricular chamber size is normal. with mild global free wall
+hypokinesis. The aortic root is mildly dilated at the sinus
+level. The aortic valve leaflets (3) are mildly thickened but
+aortic stenosis is not present. There is mild aortic valve
+stenosis (valve area 1.2-1.9cm2). Trace aortic regurgitation is
+seen. The mitral valve leaflets are structurally normal. There
+is no mitral valve prolapse. Mild (1+) mitral regurgitation is
+seen. There is mild pulmonary artery systolic hypertension.
+There is no pericardial effusion.
+
+Compared with the prior study (images unavailable for review) of
+[**2826-8-27**], left ventricular systolic function is similar. Mild
+mitral regurgitation is now seen.
+.
+Micro data: (unless noted positive, result is negative)
+[**2826-9-9**]G STOOL CLOSTRIDIUM DIFFICILE TOXIN A & B
+TEST-FINAL INPATIENT
+[**2826-9-8**]G Blood (Toxo) TOXOPLASMA IgG ANTIBODY-FINAL;
+TOXOPLASMA IgM ANTIBODY-FINAL INPATIENT
+[**2826-9-8**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-8**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-7**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-9-7**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-7**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-6**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-6**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-5**]G CATHETER TIP-IV WOUND CULTURE-FINAL
+INPATIENT
+[**2826-9-5**]G CATHETER TIP-IV WOUND CULTURE-FINAL
+{STAPHYLOCOCCUS, COAGULASE NEGATIVE, STAPHYLOCOCCUS, COAGULASE
+NEGATIVE} INPATIENT
+[**2826-9-5**]G SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL INPATIENT
+[**2826-9-4**]G BLOOD CULTURE ( MYCO/F LYTIC BOTTLE)
+BLOOD/FUNGAL CULTURE-FINAL {STAPHYLOCOCCUS, COAGULASE NEGATIVE};
+BLOOD/AFB CULTURE-FINAL; Myco-F Bottle Gram Stain-FINAL
+INPATIENT
+[**2826-9-4**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-9-4**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+{STAPHYLOCOCCUS, COAGULASE NEGATIVE}; Aerobic Bottle Gram
+Stain-FINAL INPATIENT
+[**2826-9-3**]G Blood (Toxo) TOXOPLASMA IgG ANTIBODY-FINAL;
+TOXOPLASMA IgM ANTIBODY-FINAL INPATIENT
+[**2826-9-3**]G Immunology (CMV) CMV Viral Load-FINAL
+INPATIENT
+[**2826-9-3**]G Blood (EBV) [**Doctor Last Name 2559**]-[**Doctor Last Name **] VIRUS VCA-IgG
+AB-FINAL; [**Doctor Last Name 2559**]-[**Doctor Last Name **] VIRUS EBNA IgG AB-FINAL; [**Doctor Last Name 2559**]-[**Doctor Last Name **]
+VIRUS VCA-IgM AB-FINAL INPATIENT
+[**2826-9-3**]G SEROLOGY/BLOOD VARICELLA-ZOSTER IgG
+SEROLOGY-FINAL INPATIENT
+[**2826-9-3**]G Blood (EBV) [**Doctor Last Name 2559**]-[**Doctor Last Name **] VIRUS VCA-IgG
+AB-FINAL; [**Doctor Last Name 2559**]-[**Doctor Last Name **] VIRUS EBNA IgG AB-FINAL; [**Doctor Last Name 2559**]-[**Doctor Last Name **]
+VIRUS VCA-IgM AB-FINAL INPATIENT
+[**2826-9-3**]G Blood (CMV AB) CMV IgG ANTIBODY-FINAL; CMV
+IgM ANTIBODY-FINAL INPATIENT
+[**2826-9-2**]G SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL INPATIENT
+[**2826-9-2**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-2**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-9-2**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-9-1**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-8-30**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-30**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-30**]G SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL INPATIENT
+[**2826-8-30**]G URINE Legionella Urinary Antigen -FINAL
+INPATIENT
+[**2826-8-28**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-28**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-28**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-8-27**]G SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL INPATIENT
+[**2826-8-27**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-27**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-27**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-8-27**]G SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-FINAL INPATIENT
+[**2826-8-27**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-27**]G BLOOD CULTURE Blood Culture, Routine-FINAL
+INPATIENT
+[**2826-8-27**]G URINE URINE CULTURE-FINAL INPATIENT
+[**2826-8-26**]G MRSA SCREEN MRSA SCREEN-FINAL INPATIENT
+
+
+Brief Hospital Course:
+60 year old man who presented to an outside hospital emergency
+room with epigastric pain and shortness of breath, who was
+subsequently taken to the cath lab after being found to have a
+LBBB which was later demonstrated to be old. The patient
+subsequently became dyspneic in the cath lab, was intubated,
+became hypotensive, and an IABP was placed with phenylephrine
+started. He was subsequently transferred to the [**Hospital1 4**] CCU for
+further care.
+.
+# Shock and Dyspnea: The patient initially had elevated
+biventricular elevated filling pressures, increased cardiac
+output and low SVR.  He was therefore thought to have
+distributive shock with potential sepsis.  Our initial chest
+x-ray after new OG tube placement showed a collapsed right upper
+lobe of his lung which later resolved after replacement of the
+OG tube.  He was pan-cultured and started on broad spectrum
+antibiotics including Vancomycin and Zosyn, later switched to
+Vancomycin, Cefepime, and Ciprofloxacin.  His pressors remained
+marginal, and he required levophed to maintain MAPs >65.  Due to
+persistently adequate cardiac output readings from his Swan, his
+intra-aortic balloon pump and Swan were removed.  Repeat chest
+x-rays showed pulmonary edema and acute exacerbation of his
+systolic congestive heart failure. Extubation was attempted on
+[**2826-8-28**], but afterwards his oxygenation decreased acutely most
+likely secondary to flash pulmonary edema.  He failed a trial of
+BiPAP and became acutely agitated, requiring emergent
+re-intubation.  He was subsequently aggressively diuresed with
+IV boluses of furosemide in addition to a furosemide drip with
+metolazone. After the initial diuresis, he was transitioned to
+Torsemide PO and developed hyponatremia. The Torsemide dose was
+adjusted to 10 mg and he appears to be at his dry weight today
+of 200 pounds. He is ambulating on RA with O2 sats in high 90's,
+no peripheral edema and clear lung sounds. Given his very low
+EF, he should be started in spironolactone and digoxin as his BP
+allows. Please weight daily and adjust diuretics to maintain
+weight at 200 pounds. He is being considered for a heart
+transplant and transplant workup was started during this
+hospital stay. He will follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 205**] and
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], NP here for continued workup and evaluation.
+
+.
+# Coronary artery disease: The patient had evidence of a
+reperfusion defect on recent SPECT stress test and evidence of
+tight lesions in RCA from his cardiac catheterization at the
+outside hospital. His troponins were mildly elevated which could
+have represented demand ischemia and/or congestive heart
+failure, but less likely acute coronary syndrome.  His ECG
+showed a LBBB that remained unchanged throughout his CCU stay.
+He was medically managed with 48 hours of a heparin drip, full
+dose aspirin, atorvastatin 40mg daily, loaded with 300mg plavix
+and then given plavix 75mg daily.  He underwent catheterization
+prior to discharge with stenting of an RCA lesion (see cath
+report.) Note that in the setting of a heparin gtt, the patient
+developed a piriformis hematoma; his HCT remained stable.
+.
+# Atrial fibrillation and Ventricular Tachycardia: The patient
+was persistently in atrial fibrillation and had several episodes
+of ventricular tachycardia prompting firing of his ICD.  His
+beta blocker was held secondary to his hypotension requiring
+pressors.  He was seen by our electrophysiology team and
+received a AV nodal ablation following by a BiV pacer upgrade.
+He has been restarted on his betablocker at a lower dose and
+amiodarone was loaded. He has had no further VT within the last
+4-5 days and he is [**Age over 90 **]% AV paced on telemetry.
+.
+# Acute renal failure: This was most likely secondary to poor
+forward flow in the setting of an acute on chronic systolic CHF
+exacerbation.  His lisinopril was held, medications were renally
+dosed and his renal function improved with diuresis. ACEi was
+restarted before discharge at lower dose.
+.
+# Diabetes mellitus type 2: The patient was maintained on
+glargine and an ISS without complications. Metformin was d/c'ed
+because of his CHF. His glargine may need to be uptitrated as
+his appetite improves. Please continue to do fingerstickes
+before meals with Humalog insulin coverage per sliding scale.
+.
+#Transaminitis: LFTs trending down. Thought to be secondary to
+poor forward flow with CHF exacerbation. Statin has been
+restarted.
+.
+# Anemia: Hct has slowly trended down during hospital stay. He
+has no evidence of acute bleeding at present and piriformis
+hematoma development did not seem to drop his hct precipitously.
+It is thought that anemia a combination or phlebotomy, ARF and
+critical illness. His hct should be monitored and iron studies
+sent if hct/hgb continues to drop. Stools should be Guiaiced.
+.
+# Hyponatremia: now resolved. Thought secondary to overdiuresis.
+Torsemide dose has been adjusted and should be titrated to
+maintain dry weight of 200 pounds.
+.
+# Social: Patient lives alone with an elderly aunt and uncle as
+[**Name2 (NI) **] supports.He was functionally independent before admission
+and goal is to return to this.
+
+
+Medications on Admission:
+Home medications
+Aspirin 81mg daily
+lipitor 40mg daily
+lisinopril 40mg qd
+lopressor 150mg [**Hospital1 **]
+digoxin 0.375mg MWF, 0.25mg TTSS
+furosemide 160mg [**Hospital1 **]
+metolazone 2.5 qweek
+Gemfibrozil 600mg [**Hospital1 **]
+metformin 1000mg [**Hospital1 **]
+lantus 48 units qd
+multivitamin
+coumadin 5mg TWFSS, 7.5mg MT
+
+
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. metoprolol succinate 25 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*0*
+5. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily): Do not skip doses or stop taking unless Dr. [**Last Name (STitle) 2700**] says
+it is OK.
+Disp:*30 Tablet(s)* Refills:*11*
+6. senna 8.6 mg Capsule Sig: One (1) Capsule PO twice a day as
+needed for constipation.
+7. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed for Insomnia.
+8. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. torsemide 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily):
+Hold for SBP < 70.
+11. insulin glargine 100 unit/mL Solution Sig: Ten (10) units
+Subcutaneous at bedtime.
+12. insulin lispro 100 unit/mL Solution Sig: per sliding scale
+units Subcutaneous three times a day: before meals.
+13. warfarin 5 mg Tablet Sig: One (1) Tablet PO 4X per week
+(Sun, Tues, Wed, Fri): Please check INR on Thursday [**9-24**].
+14. warfarin 2.5 mg Tablet Sig: Three (3) Tablet PO 3X/week
+(Mon, Thurs, Sat).
+15. gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+16. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+17. Outpatient Lab Work
+[**Last Name (un) 7747**] check IR, PT, CBC and Chem 7 on [**2826-9-24**]
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 280**]
+
+Discharge Diagnosis:
+Atrial fibrillation s/p AV node ablation
+Acute on chronic systolic congestive heart failure
+Anemia
+Hypothyroidism
+Ventricular Tachycardia
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure to take care of you in the hospital. You were
+admitted for heart failure and required a lengthy stay in the
+ICU. During your time in the ICU you were intubated and had
+pneumonia. Also, three important procedures were performed.
+First, you had an AV nodal ablation which allowed your heart to
+beat more slowly. Second, you had a revision to your pacer to
+help your heart work better. Finally, you had a catheterization
+of your heart during which stents were placed to open blocked
+vessels.
+
+You should make the following changes to your medications:
+CHANGE THE FOLLOWING DOSES:
+- Change aspirin 81 mg daily to aspirin 325 mg daily
+- Change Lisinopril 40 mg daily to Lisinopril 5 mg daily
+- Change Metoprolol 150 mg [**Hospital1 **] to Toprol XL 12.5 mg daily
+- Change Furosemide to torsemide 10 mg daily
+
+STOP THE FOLLOWING MEDICATIONS:
+- Digoxin, Metolozone, metformin, spironolactone
+
+START THE FOLLOWING NEW MEDICATIONS:
+- Plavix to keep the stents open. You will need to take this
+medicine every day for at least one year with a 325 mg aspirin.
+Do not stop taking these medicines unless Dr. [**First Name (STitle) 205**] tells you it
+is OK.
+- Start Amiodarone to control your heart rhythm
+- Start Trazadone to help you sleep
+- start senna as needed if you get constipated.
+- Ranitidine to protect your stomach from the Plavix and
+aspirin.
+
+Weigh yourself every morning, call Dr. [**First Name (STitle) 205**] if weight goes up
+more than 3 lbs in 1 day or 5 pounds in 3 days.
+
+Please go to all of the recommended followup appointments that
+are listed below.
+
+Followup Instructions:
+Department: CARDIAC SERVICES
+When: MONDAY [**2826-10-12**] at 9:00 AM
+With: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**Telephone/Fax (1) 113**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 116**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Please call Dr. [**Last Name (STitle) 307**] and Dr. [**Last Name (STitle) 1782**] when you get out of
+rehab to schedule appts.
+
+
+
+Completed by:[**2826-9-23**]
+
+
+DOC CLASS

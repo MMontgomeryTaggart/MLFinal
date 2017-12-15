@@ -1,0 +1,189 @@
+Chief Complaint:
+   24 Hour Events:
+   - developed more dyspnea and had to be placed back in BiPAP, improved
+   after
+   - CXR with ?infiltrate on L
+   - given cefepime (had already gotten vanc/levo in ED)
+   Allergies:
+   Penicillins
+   Hives; Rash;
+   Ambien (Oral) (Zolpidem Tartrate)
+   Lightheadedness
+   Last dose of Antibiotics:
+   Cefipime - [**2545-3-12**] 08:15 PM
+   Vancomycin - [**2545-3-12**] 09:28 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2545-3-12**] 08:10 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   C/o some diaphoresis and lightheadedness; No CP
+   Flowsheet Data as of  [**2545-3-13**] 05:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**47**] AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 37.8
+C (100.1
+   HR: 93 (70 - 98) bpm
+   BP: 104/61(71) {84/26(53) - 127/84(89)} mmHg
+   RR: 25 (18 - 27) insp/min
+   SpO2: 95%
+   Heart rhythm: V Paced
+   Height: 72 Inch
+                  Total In:
+                                                                    980 mL
+                                                                     80 mL
+   PO:
+                                                                    480 mL
+                                                                     80 mL
+   TF:
+   IVF:
+                                                                    500 mL
+   Blood products:
+   Total out:
+                                                                  3,500 mL
+                                                                    200 mL
+   Urine:
+                                                                  2,650 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,520 mL
+                                                                   -120 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 541 (541 - 541) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 19
+   PEEP: 8 cmH2O
+   FiO2: 100%
+   PIP: 19 cmH2O
+   SpO2: 95%
+   ABG: 7.48/37/80.[**Numeric Identifier 170**]/27/3
+   Ve: 9.3 L/min
+   PaO2 / FiO2: 80
+   Physical Examination
+   GENERAL: Alert; Oriented x3. Uncomfortable; fidgety. Diaphoretic.
+   High-flow O2 mask on.
+   HEENT: NC/AT.
+   NECK: Supple. Unable to appreciate JVP.
+   CARDIAC: Difficult to hear over breath sounds; No m/r/g appreciated.
+   LUNGS: Resp slightly labored; bilateral crackles and coarse breath
+   sounds.
+   ABDOMEN: Obese, Soft, NTND. No HSM or tenderness noted. Ventral hernia
+   present.
+   EXTREMITIES: No significant LE edema noted. No calf pain.
+   Labs / Radiology
+   174 K/uL
+   11.5 g/dL
+   131 mg/dL
+   1.1 mg/dL
+   27 mEq/L
+   3.7 mEq/L
+   26 mg/dL
+   98 mEq/L
+   137 mEq/L
+   33.9 %
+   7.4 K/uL
+        [image002.jpg]
+                             [**2545-3-12**]  05:38 PM
+                             [**2545-3-12**]  08:15 PM
+                             [**2545-3-13**]  04:30 AM
+   WBC
+   7.4
+   Hct
+   33.9
+   Plt
+   174
+   Cr
+   1.2
+   1.1
+   TropT
+   <0.01
+   TCO2
+   28
+   Glucose
+   134
+   131
+   Other labs: CK / CKMB / Troponin-T:232/3/<0.01, Lactic Acid:1.4 mmol/L,
+   Ca++:8.1 mg/dL, Mg++:2.2 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   71 y/o M with PMHx significant for systolic HF (EF 20-25%), MI in '[**31**],
+   paroxysmal AV block, atrial fibrillation, h/o v.tach and v.fib s/p ICD
+   implantation, who presented to the ED with a chief complaint of
+   dyspnea, initially thought to be due to CHF exacerbation but now
+   suspicious for pneumonia.
+   .
+   # Dyspnea: Overnight, the patient had recurrent of dyspnea. Repeat CXR
+   showed a more clear left-sided infiltrate. Also, of note, pt had fevers
+   overnight. This presentation now more consistent with pneumonia, with a
+   possible superimposed CHF component. Pt given
+   vanc/cefepime/levofloxacin yesterday evening.
+   - vanc/cefepime/azithromycin for broad coverage for pneumonia
+   -
+   - holding on further antibiotics at this time, as pt does not
+   clinically appear to have a pneumonia
+   - continue metoprolol 12.5 mg daily
+   .
+   # CORONARIES: Pt has a history of an anterior wall MI in [**2531**]. Pt
+   denies any current chest pain, and the first set of CE's was negative.
+   Of note, the patient did report some chest pressure last night and in
+   the ED this morning, but this has since resolved.
+   - will continue to rule out MI with 3 sets of CE's
+   - continue to monitor for any chest pain
+   .
+   # RHYTHM: Pt with a history of a.fib, for which he is on coumadin. His
+   INR is currently therapeutic at 2.3. Telemetry currently showing
+   v-paced rhythm.
+   - continue coumadin, with goal INR of 2.3
+   - need to closely monitor INR, as it may change at patient received
+   levofloxacin in the ED
+   .
+   # Hypertension: Normotensive at this time.
+   - continue metoprolol tartrate
+   - lasix bolus PRN
+   .
+   # Hypothyroidism:
+   - continue levothyroxine 50 mcg daily
+   .
+   # Anemia: Pt with a history of anemia, baseline Hct of approx. 33-35.
+   Pt currently near his baseline.
+   - continue iron supplementation
+   - continue to trend hct
+   - bowel regimen with colace/senna
+   .
+   # ID: Per o/p ID notes, the patient is on chornic cefpodoxime for
+   ongoing suppression after high-grade viridans streptococcal bacteremia
+   in the setting of pacer/defibrillator wires and to continue intended
+   life-long suppression for suspected Klebsiella pneumoniae lead
+   endocarditis during a prior bacteremia.
+   - continue cefpodoxime
+   .
+   # S/p Whipple:
+   - continue pancreatic enzyme repletion
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2545-3-12**] 12:30 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

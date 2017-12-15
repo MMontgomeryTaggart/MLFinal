@@ -1,0 +1,140 @@
+Admission Date:  [**2641-11-20**]       Discharge Date:  [**2641-12-9**]
+
+
+Service:
+
+REASON FOR ADMISSION:  The patient was admitted for shortness
+of breath and presented with lower extremity swelling and
+elevated cardiac enzymes.
+
+HISTORY OF PRESENT ILLNESS:  The patient was found to have an
+acute myocardial infarction and agreed to go to the Cardiac
+Catheterization Suite and was found to have multi-vessel
+coronary artery disease and moderate aortic stenosis.  The
+patient was referred to the Cardiac Surgery Department.  The
+patient was found to have moderate aortic stenosis and
+multi-vessel coronary artery disease.  After careful
+consideration and given that she had a recent non-Q wave
+myocardial infarction, along with the catheterization
+findings the patient, after informed consent was obtained,
+decided to pursue an operative repair of these problems.
+
+The patient was taken to the Operating Room on [**2641-12-1**], where she underwent coronary artery bypass grafting
+times one and placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] aortic valve, Size No.
+19.  Immediately in the perioperative period, the patient was
+found to have ST segment changes.  A transesophageal
+echocardiogram was obtained immediately postoperative which
+showed her ventricle to have some apical hypokinesia and
+inadequate filling.  The patient then was given volume and
+her blood pressure was maintained using alpha agents.
+Postoperatively, the patient was noted to have peak
+inspiratory pressures and was believed to have abdominal
+compartment syndrome.
+
+She was then taken back to the Operating Room where she
+underwent an exploratory laparotomy.  She had her abdomen
+opened in the midline and a Shisker silo dressing was applied
+and was sewed to the abdominal wall.  She had drainage of
+ascites and placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2763**]-[**Location (un) 4237**] drain.  She was also
+given fresh frozen plasma and a unit of packed cells.  She
+was also followed using an oxy-Swan.  Her ventilator was
+slowly weaned thereafter and on postoperative day three, the
+patient had her abdominal wound now closed in the midline,
+stapled, and she tolerated that.  On the ventilator, there
+was no change in her peak inspiratory pressures.  She was
+followed by General Surgery during this hospitalization.
+
+The patient was then extubated which she tolerated.  She
+intermittently required Dopamine for heart rate control as
+she tended to be bradycardic and Neo-Synephrine was used to
+maintain her blood pressure.
+
+The patient has a history of atrial fibrillation and on
+postoperative day seven went into atrial fibrillation.  She
+was loaded with amiodarone with the orders to change to p.o.
+amiodarone which was done, 400 mg p.o. three times a day.
+
+The patient was seen by Physical Therapy.  As her blood
+pressure increased and Neo-Synephrine was weaned off, she was
+started on Lasix.  She was awake and alert.  She required
+some endotracheal suctioning.  She had a productive cough.
+Her voice was hoarse, but overall her saturations were in the
+90s on a face mask with an FIO2 of 0.4%.  She remained
+afebrile with a stable hematocrit.
+
+On [**12-9**], postoperative day eight from the exploratory
+laparotomy for abdominal compartment syndrome, postoperative
+day six from abdominal wall closure, she had several
+self-limiting runs of ventricular tachycardia, approximately
+six to eight beats long, with minimum decrease in her blood
+pressure and shortly thereafter was seen on the evening
+rounds after having labs sent off and was noted to have a
+decrease in her blood pressure significantly, dropped
+approximately 20 pounds, and continued in a ventricular
+tachycardia.
+
+When her blood pressure dropped she had a transthoracic
+echocardiogram which showed good right ventricular and left
+ventricular filling and then shortly thereafter she went in
+to ventricular tachycardia and had a full code performed.
+Her chest was then opened, wires were cut, and after having
+several episodes of attempts at electro-cardioversion,
+externally, she had the internal lead paddles placed and was
+attempted internal cardioversion.  She was able to generate a
+paced rhythm for a blood pressure of 90/60.  She then had an
+idioventricular rhythm and then subsequently became systolic.
+
+Sh[**Last Name (STitle) **]intubated.  She was given epinephrine, bicarbonate,
+Atropine, calcium.  She continued to have intermittent
+periods of hypotension and she then had a #30 French
+intra-aortic balloon pump placed.  She had her sternum
+irrigated with two liters of Bacitracin solution and warm
+saline and her chest was closed with an Isotac cover after
+pacing wires were placed and a chest tube was placed.  Family
+was notified.  The Attending, Dr. [**Last Name (Prefixes) **] was present as
+well as the chief resident of Cardiac Surgery.
+
+When the family was [**Name (NI) 221**], their decision was patient
+comfort measures only and the patient then, within
+approximately a hour and a half after the code was finished,
+expired at 11:40 p.m. on [**2641-12-9**].
+
+PAST MEDICAL HISTORY:
+1.  Breast cancer 20 years ago status post a mastectomy.
+2.  History of bright red blood with a recent colonoscopy and
+    a virtual colonoscopy.
+3.  History of hypertension.
+4.  Hemorrhoids.
+5.  History of atrial fibrillation after an myocardial
+    infarction with cardioversion to sinus rhythm in [**Month (only) 115**] of
+    [**2639**].
+
+ALLERGIES:  The patient had no known drug allergies.
+
+CONDITION:      Dead.
+
+DISPOSITION:    Deceased.
+
+DISCHARGE DIAGNOSES:
+1.  Status post non-Q wave myocardial infarction.
+2.  Status post coronary artery bypass graft times one,
+    aortic valve replacement.
+3.  Abdominal compartment syndrome.
+4.  Closure of abdominal compartment after an exploratory
+    laparotomy.
+5.  Ventricular tachycardia and cardiac arrest.
+
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 18436**]
+
+Dictated By:[**Last Name (NamePattern1) 18679**]
+MEDQUIST36
+
+D:  [**2641-12-10**]  00:42
+T:  [**2641-12-10**]  10:12
+JOB#:  [**Job Number 22192**]
+
+
+
+DOC CLASS

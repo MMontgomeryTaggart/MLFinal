@@ -1,0 +1,161 @@
+CVICU
+   HPI:
+   HD10
+   [**8-23**] POD 9
+   62M s/p emergency CABGx3(SVG->LAD, OM, PDA) [**8-14**], s/p R CVA [**8-21**]
+   EF:10-15% Cr.:1.2 Wt.: 93 kg
+   PMHx: presented with acute MI/CHF/cardiogenic shock, s/p MI [**21**] yrs.
+   ago
+   Chief complaint:
+   PMHx:
+   Current medications:
+   14Amiodarone  Aspirin EC  Atorvastatin Carvedilol
+   Insulin Ranitidine
+   Tamsulosin
+   24 Hour Events:
+ FALL - At [**3110-8-22**] 09:45 AM
+   pt fell upon attempting to get oob-PA notified
+ ULTRASOUND - At [**3110-8-22**] 03:15 PM
+   carotid
+ MAGNETIC RESONANCE IMAGING - At [**3110-8-22**] 09:00 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3110-8-23**] 08:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**13**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.9
+C (98.4
+   HR: 67 (67 - 81) bpm
+   BP: 119/55(71) {103/55(67) - 127/79(90)} mmHg
+   RR: 15 (15 - 24) insp/min
+   SPO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 81.9 kg (admission): 82.2 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,070 mL
+                                                                    500 mL
+   PO:
+                                                                  1,070 mL
+             Tube feeding:
+   IV Fluid:
+   500 mL
+   Blood products:
+   Total out:
+                                                                    400 mL
+                                                                  1,865 mL
+   Urine:
+                                                                    400 mL
+                                                                  1,865 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    670 mL
+                                                                 -1,365 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 94%
+   ABG: ///25/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: No(t) PERRL, Left pupil dilated, left pupil-4mm reactive
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: No(t) x 3, x 2, No(t) x 1),
+   Follows simple commands, (Responds to: Verbal stimuli, Tactile
+   stimuli), No(t) Moves all extremities, (LUE: Weakness), (LLE:
+   Weakness), left facial droop
+   Labs / Radiology
+   288 K/uL
+   10.3 g/dL
+   130 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+   3.6 mEq/L
+   13 mg/dL
+   102 mEq/L
+   136 mEq/L
+   30.2 %
+   5.8 K/uL
+        [image002.jpg]
+                             [**3110-8-22**]  02:38 AM
+                             [**3110-8-22**]  09:00 AM
+                             [**3110-8-22**]  12:00 PM
+                             [**3110-8-22**]  05:00 PM
+                             [**3110-8-23**]  04:01 AM
+   WBC
+   6.6
+   5.8
+   Hct
+   29.4
+   30.2
+   Plt
+   284
+   288
+   Creatinine
+   1.0
+   1.0
+   Glucose
+   117
+   135
+   178
+   114
+   130
+   Other labs: PT / PTT / INR:25.7/32.2/2.5, Ca:8.2 mg/dL, Mg:2.2 mg/dL,
+   PO4:3.1 mg/dL
+   Imaging: Carotid study- Right ICA occlusion, with distal collateral
+   flow
+   MRI- Right MCA Distribition infarct
+   Assessment and Plan
+   Assessment and Plan: S/p Cabg with new MCA stroke
+   Neurologic: Neuro checks Q: 2 hr, Pain controlled, S/p RT MCA Stroke,
+   improving, Keep SBP.120
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   hemodynamically stable, SBP>120, therapeutic INR
+   Pulmonary: IS, stable
+   Gastrointestinal / Abdomen:
+   Nutrition: Speech and Swallow eval, Advance diet as tolerated
+   Renal: Adequate UO
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: UA
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: CVA
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3110-8-23**] 02:27 AM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 37 MINUTES minutes
+
+
+
+DOC CLASS

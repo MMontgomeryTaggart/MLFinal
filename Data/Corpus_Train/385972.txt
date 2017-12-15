@@ -1,0 +1,21 @@
+TITLE:  EP fellow
+   Feels well, no significant left shoulder pain.  No events overnight
+   VSS
+   Left pectoral site with C/D/I.  No hematoma/ooze
+   [**Company **] Virtuoso single chamber ICD interrogation
+   Battery 3.16V, charge time 9.4sec
+   Underlying rhythm is SR with intact AV conduction
+   VP<3%
+               Ohms              Sense              Threshold
+   V          528                  9.6                   0.5V@0.5ms
+   H/V      34/43
+   A/P: s/p ICD for secondary prevention of VT/VF
+   -          no obvious post-procedure complications
+   -          Normal functioning ICD, stable lead parameters
+   -          PA/lat CXR this AM to eval lead position
+   -          Keflex for 48hrs
+   -          f/u device clinic in 1 week
+
+
+
+DOC CLASS

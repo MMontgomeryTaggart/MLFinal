@@ -1,0 +1,296 @@
+Admission Date:  [**2953-3-30**]              Discharge Date:   [**2953-4-4**]
+
+Date of Birth:  [**2898-10-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Percocet
+
+Attending:[**First Name3 (LF) 3490**]
+Chief Complaint:
+unstable angina
+
+Major Surgical or Invasive Procedure:
+[**2953-3-30**] - Cardiac Catheterization
+[**2953-3-30**] - IABP placement
+[**2953-3-31**] - CABGx3(LIMA-LAD,SVG-DIAG,SVG-OM
+
+
+History of Present Illness:
+54 yo m with recurrent angina over the past several months.
++ETT, referred for cath which showed 80% LM. Referred for
+surgery.
+
+Past Medical History:
+HTN, hyperlipidemia, Obesity, Asthma, Hiatal hernia, atrial
+fibrillation s/p ablation at [**Hospital3 **] in [**2945**] or [**2946**],
+LBBB
+
+Social History:
+VP of software company
+quit tobacco [**2932**], 2 ppd x 15 years
+no etoh
+
+Family History:
+father with MI at 54
+
+Physical Exam:
+HR 61 SR RR 16 BP 119/66
+NAD with IABP
+Lungs CTAB ant
+Heart RRR
+Abdomen benign
+Extrem warm, no edema
+Neuro non focal
+
+Pertinent Results:
+[**2953-4-3**] 05:30AM BLOOD WBC-5.3 RBC-2.79* Hgb-9.3* Hct-26.4*
+MCV-95 MCH-33.4* MCHC-35.3* RDW-13.6 Plt Ct-146*
+[**2953-4-1**] 04:17AM BLOOD PT-13.4 PTT-28.1 INR(PT)-1.1
+[**2953-4-1**] 04:17AM BLOOD PT-13.4 PTT-28.1 INR(PT)-1.1
+[**2953-4-3**] 05:30AM BLOOD Glucose-100 UreaN-25* Creat-1.0 Na-137
+K-4.6 Cl-99 HCO3-28 AnGap-15
+
+CHEST (PORTABLE AP)  [**2953-4-2**] 8:45 AM
+
+CHEST (PORTABLE AP)
+
+Reason: r/o ptx
+
+UNDERLYING MEDICAL CONDITION:
+54 year old man s/p CABG and ct removal
+REASON FOR THIS EXAMINATION:
+r/o ptx
+REASON FOR EXAMINATION: Followup of a patient after pneumothorax
+and chest tube removal.
+
+Portable AP chest radiograph compared to [**2953-3-31**].
+
+The patient was extubated in the meantime interval with removal
+of the Swan-Ganz catheter and mediastinal drain.
+
+The post-sternotomy wires are intact. The mild cardiomegaly is
+present slightly exaggerated by presence of the low lung
+volumes. There is no evidence of failure. There is no
+appreciable pleural effusion. Linear atelectasis at the left
+base is again noted. There is no appreciable pneumothorax.
+
+[**Hospital1 68**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname 4676**], [**Known patient firstname **]       [**Hospital1 68**] [**Numeric Identifier 4677**]       TEE (Complete)
+Done [**2953-3-31**] at 9:12:16 AM      FINAL
+Referring Physician     [**Name9 (PRE) 253**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] W.
+[**Hospital Unit Name 2738**]
+[**Location (un) 211**], [**Numeric Identifier 1230**]  Status: Inpatient DOB: [**2898-10-13**]
+Age (years): 54 M  Hgt (in): 67
+BP (mm Hg): 135/65  Wgt (lb): 261
+HR (bpm): 65  BSA (m2): 2.27 m2
+Indication: Intraoperative TEE for CABG
+ICD-9 Codes: 402.90, 786.05, 786.51, 440.0, 424.0
+Test Information
+Date/Time: [**2953-3-31**] at 09:12    Interpret MD: [**Name6 (MD) 904**] [**Name8 (MD) 905**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 1786**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4678**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2008AW2-: Machine: AW2
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  40% to 45%  >= 55%
+Aorta - Annulus:  2.3 cm  <= 3.0 cm
+Aorta - Sinus Level:  2.6 cm  <= 3.6 cm
+Aorta - Ascending:  2.8 cm  <= 3.4 cm
+Aorta - Descending Thoracic:  2.4 cm  <= 2.5 cm
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  0.8 m/sec
+Mitral Valve - A Wave:  0.4 m/sec
+Mitral Valve - E/A ratio:  2.00
+
+Findings
+LEFT ATRIUM: No mass/thrombus in the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. Good (>20 cm/s)
+LAA ejection velocity.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is
+seen in the RA and extending into the RV. Normal interatrial
+septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Suboptimal technical quality, a focal LV wall
+motion abnormality cannot be fully excluded. Mildly depressed
+LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Normal
+ascending aorta diameter. Normal aortic arch diameter. Complex
+(>4mm) atheroma in the aortic arch. Normal descending aorta
+diameter. Simple atheroma in descending aorta.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. No
+AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Mild to
+moderate ([**1-24**]+) MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: Trivial/physiologic pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications. The patient appears
+to be in sinus rhythm. Results were personally reviewed with the
+MD caring for the patient. See Conclusions for post-bypass data
+The post-bypass study was performed while the patient was
+receiving vasoactive infusions (see Conclusions for listing of
+medications).
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS:
+
+1. No atrial septal defect is seen by 2D or color Doppler.
+
+2. Due to suboptimal technical quality, a focal wall motion
+abnormality cannot be fully excluded, yet the apical segment,
+the mid portion of the anterior septum and apical portion of the
+septum appear hypokinetic. Overall left ventricular systolic
+function is mildly depressed (LVEF= 40-45 %).
+
+3. Right ventricular chamber size and free wall motion are
+normal.
+
+4. There are complex (>4mm) atheroma in the aortic arch. There
+are simple atheroma in the descending thoracic aorta. Tip of the
+intraoartic balloon pump is in good position.
+
+5. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation. No aortic
+stenosis is seen.
+
+6. The mitral valve leaflets are mildly thickened. Mild to
+moderate ([**1-24**]+) mitral regurgitation is seen.
+
+7. There is a trivial/physiologic pericardial effusion.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including epinephrine and
+phenylephrine infusion. Pt was AV paced upon separation from
+CPB.
+
+1. Biventricular function unchanged from the pre-bypass period ,
+LVEF 40-45%, with noted improvement of the apical segment, the
+mid portion of the anterior septum and apical portion of the
+septum.
+
+2. The aortic contours are intact post-decannulation.
+
+3. The position of the IABP remains in good position.
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted to the [**Hospital1 68**] on [**2953-3-30**] for a cardiac
+catheterization. This revealed significant left main disease and
+an IABP was placed. He was taken urgently to the operating room
+the following morning where he underwent a CABG x 3. He was
+given 48 hours of vancomycin as he was in the hospital
+preoperatively. He was extubated later that same day. His IABP
+was removed on POD #1. He was transferred to the floor on POD
+#2. He was gently diuresed towards his preoperative weight. His
+preoperative aspirin, beta blockade and statin were resumed. He
+worked with physical therapy daily. Mr. [**Known patient lastname **] did well
+postoperatively and was ready for discharge home on POD#4. He
+will follow-up with Dr. [**Last Name (STitle) 287**], his cardiologist and his primary
+care physician as an outpatient.
+
+Medications on Admission:
+Zestril 5mg daily, ASA 81mg daily, Prilosec 40 [**Hospital1 12**], Pravachol
+40mg [**Hospital1 12**], Xanax 0.25 [**Hospital1 12**] prn--uses rarely, typically for plane
+flights, Toprol XL 25mg qhs, Tiazac XL 240mg daily
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+4. Prilosec 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO twice a day.
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+5. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+6. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 7
+days.
+Disp:*7 Tablet(s)* Refills:*0*
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7 days:
+Take with lasix and stop when lasix stopped.
+Disp:*7 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+8. Pravachol 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA CareNetwork
+
+Discharge Diagnosis:
+CAD now s/p CABG
+PMH: HTN, hyperlipidemia, Obesity, Asthma, Hiatal hernia, atrial
+fibrillation s/p ablation at [**Hospital3 **] in [**2945**] or [**2946**],
+LBBB
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 1878**] at
+([**Telephone/Fax (1) 143**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month.
+7) Take lasix and potassium once daily for 1 week and then stop.
+8) Call with any questions or concerns.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) 4679**] 2 weeks. [**Telephone/Fax (1) 4680**]
+Dr. [**Last Name (STitle) 287**] 4 weeks. [**Numeric Identifier 4681**]
+Dr. [**Last Name (STitle) 418**] 2 weeks. [**Telephone/Fax (1) 4682**]
+Please call all providers for appointments.
+
+
+
+Completed by:[**2953-4-4**]
+
+
+DOC CLASS

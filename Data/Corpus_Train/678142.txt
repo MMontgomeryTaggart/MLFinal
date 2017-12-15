@@ -1,0 +1,208 @@
+Chief Complaint: resp failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   76 yo male with complex recent medical history notable for aortic
+   replacement and with prolonged hospital course complicated by recurrent
+   infection, respiratory failure and substantial peripheral muscle
+   weakness now re-admitted with sepsis and serratia growing in blood cx
+   from [**10-30**].
+   Major issues:
+          Improving sepsis with neg fluid balance over past 2 days.
+          Vent dependent on PSV but not tolerating SBT probably due to
+   weakness.
+          Altered mental status.
+          Left pleural effusion, pulm edema.
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**3303-11-2**] 02:30 PM
+   Patient unable to provide history: trached
+   Allergies:
+   Amiodarone
+   hyperthryoidism
+   Monosodium Glutamate
+   violent headach
+   Last dose of Antibiotics:
+   Cefipime - [**3303-11-1**] 12:30 PM
+   Vancomycin - [**3303-11-3**] 08:00 AM
+   Ciprofloxacin - [**3303-11-3**] 10:27 AM
+   Infusions:
+   Heparin Sodium - 1,450 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3303-11-2**] 09:34 PM
+   Other medications:
+   Changes to medical and family history: none
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3303-11-3**] 12:50 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 60 (60 - 61) bpm
+   BP: 106/58(66) {83/33(55) - 132/66(78)} mmHg
+   RR: 21 (13 - 30) insp/min
+   SpO2: 100%
+   Heart rhythm: AV Paced
+   Wgt (current): 100.6 kg (admission): 95.4 kg
+   Height: 69 Inch
+             Total In:
+                                                                  3,453 mL
+                                                                    920 mL
+   PO:
+             TF:
+                                                                  1,535 mL
+   IVF:
+                                                                  1,353 mL
+                                                                    860 mL
+   Blood products:
+   Total out:
+                                                                  4,025 mL
+                                                                  2,465 mL
+   Urine:
+                                                                  3,955 mL
+                                                                  2,465 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     70 mL
+   Balance:
+                                                                   -572 mL
+                                                                 -1,545 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 579 (396 - 579) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 33
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 61
+   PIP: 10 cmH2O
+   SpO2: 100%
+   ABG: ///28/
+   Ve: 13.7 L/min
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, trach
+   Cardiovascular: distant HS, RRR
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: , Rhonchorous: mild)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: generalized edema, ~[**12-1**]+
+   Skin:  Warm, right distal UE hyperpigmented wound in site of IV
+   infiltration with contrast, improved acc to residents
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Not assessed, appropriate
+   responses, mouthing words
+   Labs / Radiology
+   8.8 g/dL
+   210 K/uL
+   110 mg/dL
+   1.0 mg/dL
+   28 mEq/L
+   3.6 mEq/L
+   15 mg/dL
+   101 mEq/L
+   136 mEq/L
+   26.6 %
+   5.0 K/uL
+        [image002.jpg]
+                             [**3303-10-30**]  10:40 AM
+                             [**3303-10-30**]  11:30 AM
+                             [**3303-10-31**]  04:48 AM
+                             [**3303-10-31**]  10:12 AM
+                             [**3303-11-1**]  03:56 AM
+                             [**3303-11-1**]  04:11 AM
+                             [**3303-11-1**]  03:54 PM
+                             [**3303-11-2**]  04:16 AM
+                             [**3303-11-2**]  06:32 PM
+                             [**3303-11-3**]  05:01 AM
+   WBC
+   9.1
+   6.1
+   4.5
+   4.0
+   5.0
+   Hct
+   28.3
+   27.1
+   25.7
+   24.9
+   23.1
+   25.3
+   26.6
+   Plt
+   223
+   183
+   181
+   175
+   210
+   Cr
+   1.4
+   1.1
+   0.9
+   1.0
+   1.0
+   0.9
+   1.0
+   TropT
+   0.11
+   TCO2
+   26
+   23
+   25
+   Glucose
+   96
+   83
+   105
+   118
+   108
+   102
+   110
+   Other labs: PT / PTT / INR:19.5/66.6/1.8, CK / CKMB /
+   Troponin-T:56//0.11, ALT / AST:26/29, Alk Phos / T Bili:120/0.4,
+   Differential-Neuts:69.6 %, Lymph:20.1 %, Mono:6.3 %, Eos:3.7 %, Lactic
+   Acid:0.9 mmol/L, Albumin:3.2 g/dL, Ca++:8.6 mg/dL, Mg++:1.9 mg/dL,
+   PO4:3.3 mg/dL
+   Imaging: large left pleural effusion, improved pulm edema bilat
+   Microbiology: serratia
+   Assessment and Plan
+   76yo M s/p redo replacement aortic arch with presumed anoxic brain
+   injury, h/o recent status epilepticus and recent cholecystitis s/p per
+   chole tube now here with fever sepsis. Had PICC removed and
+   pan-cultured, covered broadly, now has Serratia in OSH culture on
+   cipro/vanc.  Is on the ventilator (PS) but was tolerating PMV prior to
+   admission so trying to liberate with diuresis, didn't tolerate TM.  Did
+   not get PICC today, will try for peripherals and pull femoral line.
+   Will need to readress if his perc chole tube can come out.
+   Overnight: lasix to goal negative body balance (getting another dose
+   tonight)
+   ICU Care
+   Nutrition:
+   Comments: tube feeds
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3303-10-30**] 08:30 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

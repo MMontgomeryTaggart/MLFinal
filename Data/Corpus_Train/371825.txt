@@ -1,0 +1,191 @@
+Chief Complaint:
+   24 Hour Events:
+   - Started on Metolazone 10mg PO daily to augment Lasix gtt effect on
+   UOP. Was net negative 3.1 L at MN, decreased Lasix gtt from 10->5mg/hr)
+   - Repleted total KCl 140mg
+   - Started on Diamox 250 q12 x 2 doses for rising bicarb (40->42 in
+   afternoon)
+   - Very restless at night, wrote for Ativan 0.5-1 qhs PRN in addition to
+   current Ambien PRN
+   S: C/o dry cough. Dyspnea improved, although not back at baseline yet.
+   No CP.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2780-2-25**] 05:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.8
+C (98.3
+   HR: 82 (69 - 96) bpm
+   BP: 106/68(77) {89/45(34) - 127/91(95)} mmHg
+   RR: 19 (18 - 26) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 101.5 kg (admission): 104.6 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,231 mL
+                                                                    179 mL
+   PO:
+                                                                    990 mL
+                                                                    150 mL
+   TF:
+   IVF:
+                                                                    241 mL
+                                                                     29 mL
+   Blood products:
+   Total out:
+                                                                  4,340 mL
+                                                                    620 mL
+   Urine:
+                                                                  4,340 mL
+                                                                    620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,109 mL
+                                                                   -441 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Spontaneous): 6,000 (290 - 6,000) mL
+   PS : 8 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 0 cmH2O
+   SpO2: 99%
+   ABG: ///42/
+   Ve: 6 L/min
+   Physical Examination
+   General Appearance: Awake and alert
+   Cardiovascular: (S1: Normal), (S2: Normal), II/VI systolic murmur. No
+   rubs or gallops.
+   Respirator: (Expansion: Symmetric), (Breath Sounds: Bases diminished
+   with crackles)
+   Abdominal: Soft, Non-tender, ND. Bowel sounds present.
+   Extremities: WWP. 1+ ankle edema.
+   Labs / Radiology
+   288 K/uL
+   11.4 g/dL
+   120 mg/dL
+   1.5 mg/dL
+   42 mEq/L
+   3.0 mEq/L
+   17 mg/dL
+   96 mEq/L
+   143 mEq/L
+   33.4 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**2780-2-22**]  07:44 PM
+                             [**2780-2-23**]  04:44 AM
+                             [**2780-2-23**]  05:02 PM
+                             [**2780-2-23**]  05:24 PM
+                             [**2780-2-24**]  04:23 AM
+                             [**2780-2-24**]  05:43 AM
+                             [**2780-2-24**]  02:45 PM
+                             [**2780-2-24**]  11:17 PM
+   WBC
+   6.5
+   7.8
+   Hct
+   33.7
+   33.4
+   Plt
+   282
+   288
+   Cr
+   1.4
+   1.4
+   1.5
+   1.4
+   1.4
+   1.5
+   TropT
+   0.06
+   TCO2
+   40
+   40
+   Glucose
+   109
+   105
+   95
+   105
+   120
+   Other labs: PT / PTT / INR:44.2/35.6/4.9, CK / CKMB /
+   Troponin-T:68//0.06, Ca++:8.9 mg/dL, Mg++:2.1 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   84 y/o gentleman with history of diastolic CHF, hypertension who
+   presents with acute CHF exacerbation requiring non-invasive
+   ventilation. Now with new 3+MR concerning for mechanical etiology vs
+   worsening volume overload
+   # ACUTE ON CHRONIC DIASTOLIC CONGESTIVE HEART FAILURE - He has known
+   hypertension and diastolic dysfunction with normal E:A ratio, though
+   this could suggest pseudonormalization. MR [**First Name (Titles) 4400**] [**Last Name (Titles) 4813**] to left
+   sided failure. No evidence of ischemia by ECG or biomarkers.
+   - Continue BiPAP as needed
+   - Diuresis with IV lasix gtt
+ goal 2L negative
+   - Holding  BB and ACE-I in the setting of ongoing hypotension
+   - ECHO showed Dilated left ventricle with normal global systolic
+   function. Dilated and at least mildly hypokinetic right ventricle. Mild
+   aortic regurgitation. Moderate to severe mitral regurgitation. Severe
+   pulmonary hypertension. Compared with the prior study (images reviewed)
+   of [**2780-1-24**], LV is more dilated. Mitral regurgitation severity has
+   increased, and pulmonary pressure is more severe.
+   .
+   # MR: Concerning for ischemic MR vs volume overload.
+   - Continue aggressive diuresis as above with lasix drip
+   - Optimize medical management prior to evaluation for possible need for
+   surgical intervention
+   .
+   # H/O DVT ON ANTICOAGULATION
+   - Hold warfarin today for INR of 4.8
+   .
+   # MYELOMA
+   - IgG numbers had been recently normal, dexamethasone held as
+   outpatient secondary to fluid overload
+   # CHRONIC KIDNEY DISEASE
+   - Would benefit from ACE inhibition
+ currently limited by BP
+   # HEMATURIA
+   - Outpatient urology w/u necessary. Will monitor for clots.
+   # BPH
+   - Continue finasteride.
+   # SLEEP APNEA
+   - BIPAP as needed overnight.
+   # FEN
+   - Lyte repletions, [**Hospital1 **] Check.
+   # CODE DNR/DNI , confirmed with patient and daughter
+   ICU [**Name2 (NI) 146**]
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2780-2-23**] 06:25 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,99 @@
+Admission Date:  [**3422-3-13**]     Discharge Date:  [**3422-3-19**]
+
+Date of Birth:   [**3346-8-8**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 75-year-old
+white male with a history of mitral valve disease who has
+been followed with echocardiograms.  He notes increasing
+shortness of breath and dyspnea on exertion while off of his
+Lasix.  Patient had a cardiac catheterization on [**3422-1-11**] which showed mitral valve disease and tricuspid valve
+disease followed by an echocardiogram on [**3422-1-17**]
+which showed the same.  The patient was referred to Dr. [**Last Name (STitle) 12189**]
+for a mitral valve repair.
+
+PAST MEDICAL HISTORY:
+1.  Head of pancreas mass, question small cyst.
+2.  History of torn rotator cuff on the left, status post
+repair eight weeks prior to admission.
+3.  History of right lower lobe pneumonia.
+4.  Post hepatic neuralgia, left occipital nerve.
+5.  Basal cell carcinoma of his back, status post removal.
+6.  Meningitis in the Navy.
+
+MEDICATIONS:  Digoxin 0.5 mg po q.d., Zestril 40 mg po q.d.,
+glyburide 5 mg po q.d., Neurontin 100 mg po t.i.d., Lasix 20
+mg po q.d., Coumadin 7.5 mg po q.h.s.
+
+ALLERGIES:  Sulfa.
+
+PHYSICAL EXAMINATION:  Vital signs:  Blood pressure 156/69.
+Pulse is 70.  Respiratory rate 20.  In general, white male in
+no acute distress.  Skin is warm and dry. Head, eyes, ears,
+nose and throat normal.  No jugular venous distention.  No
+bruits.  Chest is clear to auscultation bilaterally.  Heart
+regular rate and rhythm with 3/6 systolic ejection murmur.
+Bowel sounds are present in the abdomen, soft, nontender,
+nondistended.  Extremities:  No cyanosis, clubbing or edema.
+
+HOSPITAL COURSE:  The patient was admitted on [**3422-3-13**]
+and underwent a mitral valve repair with a #28 [**Doctor Last Name 670**] ring.
+ The patient did well postoperatively and was transferred to
+the CSRU.  Patient was weaned off of his neodrip and
+extubated.  On postoperative day number one, the patient was
+transferred to the floor and was seen by Physical Therapy who
+felt that after three to four more visits, he would be safe
+for discharge to home.
+
+On postoperative day number two, the patient's pacemaker was
+interrogated.  After this was found to be working well, his
+chest tube was removed, as well as his Foley catheter.  On
+postoperative day number three, the patient continued to work
+with Physical Therapy.  Patient was started back on his
+Coumadin and his INR on postoperative day number five was
+1.6.  As this was trending upwards, the patient was
+discharged to home on the following medications:
+
+DISCHARGE MEDICATIONS:
+1.  Coumadin 7.5 mg po q.h.s. with a goal INR of [**2-9**].5.
+2.  Aspirin 81 mg po q.d.
+3.  Zestril 40 mg po q.d.
+4.  Percocet 5/325 1 or 2 tablets po q. 4-6 hours prn.
+5.  Colace 100 mg po b.i.d.
+6.  Lasix 20 mg po b.i.d. times seven days.
+7.  KCL 20 mEq po b.i.d. times seven days.
+8.  Zantac 150 mg po b.i.d.
+9.  Neurontin 100 mg po t.i.d.
+10. Digoxin 0.5 mg po q.d.
+11. Glyburide 5 mg po q.d.
+
+Patient was to have his INR checked on [**3422-3-19**] and the
+results were to be called to Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 18600**].  Telephone
+number [**Telephone/Fax (1) 24079**].   Patient was to have Physical Therapy
+at home.
+
+DISCHARGE DIAGNOSIS:  Status post mitral valve repair.
+
+
+
+
+
+                             [**Last Name (LF) **],[**First Name3 (LF) **] E. M.D.  [**MD Number(1) 18169**]
+
+Dictated By:[**Last Name (NamePattern1) 24080**]
+
+MEDQUIST36
+
+D:  [**3422-3-19**]  20:13
+T:  [**3422-3-19**]  20:13
+JOB#:  [**Job Number 24081**]
+1
+1
+1
+DR
+
+
+
+
+DOC CLASS

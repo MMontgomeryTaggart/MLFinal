@@ -1,0 +1,213 @@
+TITLE:
+   Chief Complaint:  hypotension
+   HPI:
+   Please see medicine admit note from [**2964-8-26**] for full details and H&P.
+   Briefly, 63 yo female with ETOH cirrhosis on the transplant list who
+   was just discharged recently from the Hepatorenal service with noted
+   acute kidney injury that had resolved.  Over the last 2 days, she has
+   made minimal amounts urine, and called her hepatologist who had her
+   direct admitted to [**Wardname **].  Upon arrival, the patient was noted to have
+   SBPs in the low 80s, lowest BP [**Location (un) **] was 72/42.  Despite 2 liters of
+   saline, she was still 78/46.  The patient's creatinine was noted to be
+   4.0, and hyperkalemic with K of 5.5 without ECG changes.  Kayexalate
+   was also given prior to transfer.  Of note, patient's INR is 2.7.  Type
+   and cross was ordered prior to transfer.
+   Patient denies chest pain, fevers, chills.  She does report some
+   dyspnea, but states it is more from her distended abdomen.  She denies
+   any nausea or vomiting at this time.  She has no other complaints.
+   Of note, she had a rxn to heparin vs midodrine with full body skin rash
+   on last hospitalization
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Ciprofloxacin 250 mg daily
+   Folic Acid 1 mg Tablet daily
+   Lactulose 30ml TID
+   Omeprazole 40 mg daily
+   Rifaximin 400 mg TID
+   Ursodiol 300 mg TID
+   Ferrous Sulfate 325 mg daily
+   Thiamine HCl 100 mg daily
+   Zinc Sulfate 220 mg daily
+   Vitamin K 100 mcg daily
+   nadolol 20 daily
+   Past medical history:
+   Family history:
+   Social History:
+   - Alcoholic cirrhosis complicated by varices (grade II), mild
+   encephalopathy, ascites and coagulopathy.
+   - Alcohol abuse for 30 years. Quit on [**2963-11-13**].
+   - Iron deficiency anemia
+   - GERD
+   - Basal cell carcinoma status post excision
+   - Intrapyloric duodenal mass status post EUS and EGD with
+   biopsy
+   Father died of alcohol-related disease
+   Occupation: not working
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: h/o ETOH abuse; no longer
+   Other:
+   Review of systems:
+   Constitutional: Fatigue, No(t) Fever
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema, No(t)
+   Orthopnea
+   Respiratory: No(t) Cough, Dyspnea, No(t) Tachypnea
+   Gastrointestinal: Abdominal pain, Nausea, No(t) Emesis, No(t) Diarrhea,
+   No(t) Constipation
+   Genitourinary: No(t) Dysuria, Foley
+   Integumentary (skin): Rash
+   Heme / Lymph: Anemia, Coagulopathy
+   Neurologic: No(t) Headache
+   Pain: [**2-17**] Minimal
+   Pain location: abdomen
+   Flowsheet Data as of [**2964-8-26**] 06:39 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.6
+   Tcurrent: 35.9
+C (96.6
+   HR: 81 (78 - 81) bpm
+   BP: 76/47(54) {76/46(54) - 78/47(55)} mmHg
+   RR: 21 (21 - 27) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  3,083 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   383 mL
+   Total out:
+                                                                      0 mL
+                                                                     10 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  3,073 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 98%
+   Physical Examination
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera icteric, MMM, oropharynx clear
+   Neck: supple, JVP approx 8 cm, no LAD
+   Lungs: bibasilar crackles, no rhonci or wheezes
+   CV: Regular rate and rhythm, normal S1 + S2, 2/6 systolic murmur at
+   base
+   Abdomen: distended, + fluid wave with dullness to percussion.
+   nontender. hypoactive bowel sounds
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis 1+ edema BLE
+   Labs / Radiology
+        [image002.jpg]
+   Micro:
+   [**2964-8-26**] blood cx: pending
+   Images:
+   [**2964-8-26**] CXR: no focal process
+   EKG:  sinus rhythm. no ischemic changes. no peaked Twaves.  unchanged
+   from prior
+   Assessment and Plan
+   Pt is a 63 yo F w/ h/o EtOH cirrhosis and recent discharge [**2964-8-18**] with
+   [**Last Name (un) **] which improved concerning for hepatorenal sx vs prerenal azotemia
+   who was direct admitted for decreased urine output now noted to be
+   persistently hypotensive
+   # Hypotension- possibly causes include dehydration, metabolic
+   disturbance/electrolytes, sepsis, severe cirrhosis. Pt with low temp,
+   no WBC. CXR without obvious PNA
+   - 2 large IVs in place now; will hold off on CVL with INR 2.7; needs
+   FFP and vitamin K prior to central access
+   - can consider peripheral dopa if necessary to keep MAP>60
+   - no UOP for now; but that was present prior to arrival
+   - albumin being given for volume and ? HRS
+   -f/u final read CXR
+   -f/u U/a, urine culture, blood culture
+   - consider diagnostic para, but first will need FFP
+   - hold off on abx for now
+   # [**Name (NI) 8570**] unclear etiology at this time. possible causes include prerenal
+   given hypotension and renal failure, possible HRS, possible AIN given
+   desquamating rash during last hospitalization
+   - bolus fluids as above, then to give albumin 50gm
+   - f/u U/A and urine lytes sent
+   - check urine eos
+   - renal ultrasound
+   - kayexalate for hyperkalemia; recheck K in a few hrs
+   # ETOH cirrhosis- gets therapeutic para weekly. Bili up at 18 from 17
+   on discharge. Meld 42 here.
+   - consider therapeutic/ diagnostic paracentesis this morning (will need
+   FFP first)
+   - continue home lactulose, folate, thiamine, vitamin K, ursodiol,
+   rifaximine, omeprazole, cipro for SBP prophylaxis
+   - holding nadolol given hypotension
+   # FEN: IVF boluses as above, replete electrolytes, regular diet
+   # Prophylaxis: pneumoboots
+   # Access: 2 peripherals; hold off on CVL until after reversal
+   # Code: full
+   # Communication: Patient
+   # Disposition: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2964-8-26**] 06:05 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADMISSION NOTE
+   Critical Care:
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points:
+   Mrs [**Known patient lastname 5471**] presents with acute renal failure after recent admission
+   to [**Hospital1 17**] almost a week ago. She had developed a diffuse rash which is
+   now scaling and not as pruritic as before. She has noted oliguria over
+   past 48 hrs. I suspect the combination of capillary leak, hypotension
+   and poor PO intake in addition to continued medication use had
+   contributed to this ( ATN vs HRS vs AIN)
+   She is deeply jaundiced and has a diffuse exanthema in various stages
+   of healing and scaling. She has obvious tachypnea on account of her
+   ascites and mild anasarca. Her urine output remains marginal but creat
+   has decreased to 3.8 ( from 4). Her SBP is low and in the 70-90 mmhg
+   range.
+   Hct is 25.1, creat of 3.8, HCO3 of 19, PO4 of 5.8 and INR of 3.1
+   She will need PICC line placement for product support and IVF
+   slowly). She may need IV neosynephrine to help with MAP and GFR in
+   addition to IV albumin. There does not appear to be an obvious septic
+   source at this time and we will hold off on antibiotics unless
+   hepatology staff prefer otherwise. She will likely need paracentesis if
+   hemodynamics are better and can tolerate this in am [**2964-8-27**]. Renal
+   service has also seen today and will await recs from them.
+   Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   _________
+   [**First Name8 (NamePattern2) 3046**] [**Name8 (MD) **],  MD
+   Division of Pulmonary, Critical Care and Sleep Medicine
+   [**Hospital1 5693**]
+   [**Location (un) 5089**], KS-B23
+   [**Location (un) 21**], [**Numeric Identifier 942**]
+   ------ Protected Section Addendum Entered By:[**Name (NI) 3046**] [**Name8 (MD) **], MD
+   on:[**2964-8-26**] 14:19 ------
+
+
+
+DOC CLASS

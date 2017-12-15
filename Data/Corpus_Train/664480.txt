@@ -1,0 +1,287 @@
+TITLE:
+   Chief Complaint:  cardiac arrest
+   HPI:
+   -Family meeting tomorrow 3:30pm
+   -Lasix 40mg IV x1 after rounds, negative ~300cc
+   -neuro recs EP testing
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2718-11-20**] 11:59 AM
+   Clindamycin - [**2718-11-21**] 02:00 AM
+   Vancomycin - [**2718-11-21**] 05:53 AM
+   Infusions:
+   Heparin Sodium - 950 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2718-11-20**] 08:29 AM
+   Furosemide (Lasix) - [**2718-11-20**] 09:30 AM
+   Fosphenytoin - [**2718-11-20**] 06:01 PM
+   Other medications:
+   Flowsheet Data as of [**2718-11-21**] 07:11 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.8
+C (98.2
+   HR: 70 (47 - 87) bpm
+   BP: 164/57(89) {120/43(65) - 178/75(107)} mmHg
+   RR: 18 (13 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 64 Inch
+             Total In:
+                                                                  2,988 mL
+                                                                  1,108 mL
+   PO:
+             TF:
+                                                                    760 mL
+                                                                    301 mL
+   IVF:
+                                                                  2,107 mL
+                                                                    807 mL
+   Blood products:
+   Total out:
+                                                                  2,635 mL
+                                                                    240 mL
+   Urine:
+                                                                  2,635 mL
+                                                                    240 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    353 mL
+                                                                    869 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 289 (289 - 497) mL
+   PS : 5 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 29
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 94
+   PIP: 11 cmH2O
+   SpO2: 99%
+   ABG: 7.50/38/89.[**Numeric Identifier 428**]/27/5
+   Ve: 7.8 L/min
+   PaO2 / FiO2: 223
+   Physical Examination
+   GEN; NAD, intubated, no longer with EEG leads on head, obese
+   CV: bradycardic, irregular
+   PULM: coarse breath sounds, ventilated
+   ABD: soft, nt, nd
+   EXTR: edema of hands (L>R), but not feet
+   Labs / Radiology
+   297 K/uL
+   11.4 g/dL
+   126 mg/dL
+   0.7 mg/dL
+   25 mg/dL
+   27 mEq/L
+   106 mEq/L
+   4.2 mEq/L
+   142 mEq/L
+   32.8 %
+   14.0 K/uL
+                                  [**2715-2-1**]
+                         2:33 A10/20/[**2718**]  04:57 AM
+                                  [**2715-2-5**]
+                         10:20 P10/20/[**2718**]  06:41 PM
+                                  [**2715-2-6**]
+                         1:20 P10/20/[**2718**]  10:21 PM
+                                  [**2715-2-7**]
+                         11:50 P10/20/[**2718**]  11:56 PM
+                                  [**2715-2-8**]
+                         1:20 A10/21/[**2718**]  03:46 AM
+                                  [**2715-2-9**]
+                         7:20 P10/21/[**2718**]  05:37 AM
+                                  1//11/006
+                         1:23 P10/21/[**2718**]  06:15 AM
+                                  [**2715-3-4**]
+                         1:20 P10/21/[**2718**]  01:49 PM
+                                  [**2715-3-4**]
+                         11:20 P10/22/[**2718**]  04:47 AM
+                                  [**2715-3-4**]
+                         4:20 P10/22/[**2718**]  05:50 AM
+   WBC
+                                    12.4
+                                    14.0
+   Hct
+                                    31.7
+                                    32.8
+   Plt
+                                     277
+                                     297
+   Cr
+                                     0.6
+                                     0.7
+   TC02
+                                     23
+                                     26
+                                     27
+                                     30
+                                     28
+                                     28
+                                     30
+                                     31
+   Glucose
+                                     130
+                                     126
+   Other labs: PT / PTT / INR:17.9/70.9/1.6, ALT / AST:46/127, Alk Phos /
+   T Bili:64/0.3, Differential-Neuts:87.5 %, Lymph:6.9 %, Mono:5.1 %,
+   Eos:0.1 %, D-dimer:469 ng/mL, Fibrinogen:526 mg/dL, Lactic Acid:1.3
+   mmol/L, Albumin:3.3 g/dL, LDH:614 IU/L, Ca++:9.0 mg/dL, Mg++:1.9 mg/dL,
+   PO4:3.1 mg/dL
+   Assessment and Plan
+   53-year-old woman with history of atrial fibrillation/flutter presented
+   after v-fib arrest.
+   .
+   # Cardiac arrest: unclear precipitant for initial v-fib. Might have
+   been atrial arrhythmias degenerating into v-fib, or a pulmonary process
+   (aspiration; no evidence of PE) leading to cardiac arrest. No evidence
+   of ischemia. Now intubated. Patient now in junctional rhythm (telemetry
+   [**Location (un) 101**] as 110, true rate is half of that, ~55).  s/p arctic sun
+   protocol.
+   - continue amiodarone 400mg po bid
+   - continue ventilatory support
+   - telemetry
+   .
+   # Seizure: Patient with seizure activity on EEG
+ being monitored by
+   neuro as part of cardiac arrest cooling protocol. CT head negative for
+   acute process.  Guarded but unclear prognosis at this time.  MRI -
+   Diffuse cerebral anoxic injury. No longer in status epilepticus.
+   - f/u neuro recs, f/u EP study
+   - family meeting today
+   - continue fosphenytoin, depakote, dilantin (propofol weaned off thus
+   far; restart per neuro as needed)
+   .
+   # ?Aspiration PNA vs. Pneumonitis:  CT chest showed LUL and LLL
+   findings consistent with atelectasis vs. PNA, also with leukocytosis
+   (downtrending again today) and was febrile yesterday.
+   - Continue vancomycin, levofloxacin, clindamycin (last day [**11-21**])
+   - Trend leukocytosis (still rising WBC), fever curve
+   - CIS
+   - f/u pending cultures/micro
+   .
+   # Coagulopathy
+ PT, PTT, INR no longer elevated following vit K
+   administration. DIC labs negative. Now on heparin gtt for afib history.
+   Hct stable today. Still with GI bleed concern d/t gastroccult positive
+   OG tube secretions.
+   - Follow Hct, will call GI if Hct unstable
+   - Cont. [**Hospital1 **] PPI IV
+   .
+   # CORONARIES: no evidence of ischemia on ECG. Elevated trop and CK most
+   likely from cardiac arrest and CPR. S/p RCA DES in [**2718-7-31**].
+   - Continue ASA, clopidogrel.
+   .
+   # PUMP: BP stable with SBP in 90s to 140s; no longer on Levophed (off
+   since the [**11-15**]). EF >55% in [**2718-7-31**].  Does not appear volume
+   overloaded, though difficult to assess.
+   -lasix as needed for goal even is and os
+   .
+   # RHYTHM: h/o afib, was initially in V fib then asystole, unclear
+   precipitant. s/p arctic sun cooling protocol. Now in slow junctional
+   rhythm in 40s/50s on telemetry this morning. Had episodes of increasing
+   PR interval on [**11-20**]; hemodynamically stable during this.
+   - on heparin gtt for h/o afib
+   - monitor on telemetry
+   .
+   # Hypertension: Stable, holding anti-hypertensives given hx of
+   hypotension.  Will start captopril today.
+   .
+   # Anemia: improved, concern for UGI bleed given coffee ground aspirate
+   from OG tube, however minimal output at this time.
+   -follow Hct daily
+   -proton pump inhibitor [**Hospital1 **] IV
+   .
+   # Rash: dependent rash on upper back, ?dependent hematoma [**3-4**] rib
+   fracture ? petechial, d/t chest compressions trauma
+   - monitor clinically
+   .
+   # Hypothyroidism:
+   - continue levothyroxine at home dose; do not change dose even with low
+   TSH, given stressed state currently
+   ICU Care
+   Nutrition:
+   Boost Glucose Control (Full) - [**2718-11-21**] 04:05 AM 40 mL/hour
+   Glycemic Control: n/a
+   Lines:
+   Arterial Line - [**2718-11-15**] 06:37 PM
+   Multi Lumen - [**2718-11-16**] 10:48 PM
+   Prophylaxis:
+   DVT: heparin
+   Stress ulcer: pantoprazole
+   VAP:  elevate HOB
+   Comments:
+   Communication:  Comments: with brother and mother
+   [**Name (NI) 127**] status: Full code
+   Disposition: CCU
+   ------ Protected Section ------
+   TITLE: CCU Staff Note
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   53 year old woman with CAD s/p DES to dRCA in 7.09, large secundum ASD
+   (Qp/Qs 2.7), Aflutter s/p ablation, atrial fibrillation, who is s/p VF
+   arrest on 10.15 with severe anoxic encephalopathy (s/p cooling
+   protocol). Course complicated by status epilepticus, fever, probable
+   pneumonia (possibly aspiration).
+   Events:
+   Propofol has off x almost 48 hours, with minimal seizure activity. No
+   further status epilepticus. EEG monitoring removed.
+   MRI brain 10.19 demonstrated
+diffuse anoxic cerebral injury
+ pattern.
+   Evoked potentials being done this morning to assess for cortical
+   activity. Results pending.
+   Family meeting to occur today with neurology to discuss poor prognosis.
+   BP trending higher overnight.
+   Physical Examination
+   Per housestaff note
+   Medical Decision Making
+   1. Cardiac arrest secondary to VF, anoxic encephalopathy; s/p cooling
+   protocol:
+   No more seizure activity; however MRI brain findings concerning.
+   Neurology following, and after additional 24 hours after sedation, will
+   reassess prognosis.
+   Awaiting evoked potential testing.
+   Family discussion this afternoon regarding poor prognosis.
+   2. Seizures: No apparent seizure activity on Dilantin, Depakote,
+   Keppra.
+   3. ?Aspiration PNA: Remains on broad-spectrum antibiotics including
+   clindamycin, levofloxacin. Afebrile.
+   Episode of hypoxemia this morning that improved with an incrrase in
+   ventilatory support. No apparent etiology on CXR.
+   4. Atrial fibrillation: on Amiodarone, heparin gtt, in junctional
+   rhythm currently. Holding beta-blockers.
+   Episode of second degree (type I ) AV block overnight.
+   5. Large secundum ASD: etiology of right ventricular dilation and
+   likely cause of atrial arrhythmias.
+   Readress if patient survives acute illness.
+   6. CAD: distal RCA stenting in [**Month (only) 91**], on Plavix/ASA. Preserved left
+   ventricular function.
+   7. Hypertension: Will begin low dose ace-inhibitor given hypertension.
+   I have discussed this plan with Dr(s). [**Name (NI) **], [**First Name3 (LF) 3042**], [**Doctor Last Name 3089**], [**Location (un) **],
+   [**Last Name (LF) 8638**], [**First Name3 (LF) 2454**].
+   Total time spent on patient care: 35 minutes of critical care time.
+   Additional comments:
+   Critical care required because of intubation, sedation, seizures,
+   ventricular fibrillation arrest.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name8 (MD) **], MD
+   on:[**2718-11-21**] 01:55 PM ------
+
+
+
+DOC CLASS

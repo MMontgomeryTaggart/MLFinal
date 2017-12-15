@@ -1,0 +1,187 @@
+Chief Complaint: Mental status changes
+   Respiratory distress
+   24 Hour Events:
+   - Patient started on insulin gtt for elevated BSs (300
+   - Cxray suggested new infiltrate; started on Vancomycin and Zosyn for
+   HAP coverage; Levaquin d/c
+   - Captopril dose increased to 37.5mg TID
+   - Started on pureed/nectar thick liquids per speech and swallow with
+   supervised meals
+   - PICC line placed successfully
+   - Spiked fever to 102.3
+   - Called back into ICU
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3288-7-20**] 12:16 PM
+   Levofloxacin - [**3288-7-21**] 02:42 PM
+   Vancomycin - [**3288-7-22**] 05:14 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3288-7-23**] 12:39 AM
+   Infusions:
+   Insulin - Regular - 14 units/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3288-7-23**] 12:39 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3288-7-23**] 06:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.1
+C (102.3
+   Tcurrent: 37.9
+C (100.2
+   HR: 107 (97 - 120) bpm
+   BP: 143/92(104) {110/65(75) - 182/82,143(119)} mmHg
+   RR: 20 (13 - 29) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 74 Inch
+             Total In:
+                                                                  2,275 mL
+                                                                    754 mL
+   PO:
+             TF:
+                                                                  1,673 mL
+                                                                    526 mL
+   IVF:
+                                                                    422 mL
+                                                                    228 mL
+   Blood products:
+   Total out:
+                                                                  1,490 mL
+                                                                    650 mL
+   Urine:
+                                                                  1,490 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    785 mL
+                                                                    104 mL
+   Respiratory support
+   O2 Delivery Device: CPAP mask
+   SpO2: 93%
+   ABG: ///28/
+   Physical Examination
+   Gen: Sleeping but easily arousable
+   HEENT: MMM
+   Heart: RRR, no m,r,g
+   Lungs: CTA
+   Abdomen: Soft, NT, morbidly obese
+   Extremities: Warm, well perfused
+   Labs / Radiology
+   266 K/uL
+   14.3 g/dL
+   264 mg/dL
+   0.8 mg/dL
+   28 mEq/L
+   3.8 mEq/L
+   16 mg/dL
+   99 mEq/L
+   137 mEq/L
+   43.7 %
+   8.2 K/uL
+        [image002.jpg]
+                             [**3288-7-16**]  06:17 AM
+                             [**3288-7-17**]  04:00 AM
+                             [**3288-7-18**]  05:14 AM
+                             [**3288-7-19**]  04:37 AM
+                             [**3288-7-20**]  02:03 AM
+                             [**3288-7-20**]  01:26 PM
+                             [**3288-7-21**]  03:09 AM
+                             [**3288-7-21**]  06:00 AM
+                             [**3288-7-22**]  04:03 AM
+                             [**3288-7-23**]  03:32 AM
+   WBC
+   6.6
+   6.1
+   7.0
+   6.7
+   9.6
+   10.1
+   8.2
+   Hct
+   37.8
+   39.5
+   41.9
+   42.0
+   43.3
+   44.6
+   43.7
+   Plt
+   [**Telephone/Fax (2) 3934**]
+   266
+   Cr
+   0.6
+   0.7
+   0.6
+   0.7
+   0.7
+   0.6
+   0.8
+   TCO2
+   28
+   25
+   Glucose
+   245
+   174
+   234
+   [**Telephone/Fax (3) 3892**]
+   305
+   264
+   Other labs: PT / PTT / INR:14.5/25.7/1.3, Amylase / Lipase:/23,
+   Differential-Neuts:80.0 %, Band:0.0 %, Lymph:10.0 %, Mono:7.0 %,
+   Eos:0.0 %, Lactic Acid:2.1 mmol/L, Ca++:9.1 mg/dL, Mg++:2.2 mg/dL,
+   PO4:2.9 mg/dL
+   Imaging:
+   Cxray ([**7-22**]): 1. Right-sided PICC line terminates in the mid SVC. 2.
+   Patchy bibasilar opacities with low lung volumes, likely representing
+   atelectasis with small effusions. Pneumonia cannot be excluded.
+   Microbiology:
+   [**7-20**] Urine culture-no growth
+   [**7-21**] Blood culture-no growth
+   Assessment and Plan
+   Mr. [**Known patient lastname 3895**] is a 55M who presents with AMS found to have multiple CVAs
+   1) CVA: Bilateral thalamic infarcts and R pontine infarct.  Likely
+   reason for his somnolence
+   -Continue ASA, statin
+   - f/u Neuro recs
+   2) Fevers: MRI pelvis confirms findings of sacroiliitis and pelvic LAD,
+   per report seems more consistent with a degenerative process.
+   Continues to spike fevers through CTX/levofloxacin.  DDX include
+   aspiration PNA vs. VAP with recent intubation, UTI, central fevers,
+   drug fevers
+   -F/u urine cultures and sensitivities, CXR today, sputum culture
+   -continue levoflox for now, will broaden based on C&S and CXR, can
+   consider unasyn vs. clinda if concern for aspiration PNA vs.
+   pseudomonas coverage with cipro or zosyn if concerned for a VAP
+   3) HTN:
+   -Continue to titrate Captopril
+   4) OSA:
+   -Continue auto-CPAP
+   5)DM: continue NPH/ ISS, will titrate NPH
+   ICU Care
+   Nutrition:
+   Replete (Full) - [**3288-7-22**] 03:42 PM 85 mL/hour
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3288-7-21**] 06:08 PM
+   PICC Line - [**3288-7-22**] 10:02 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,287 @@
+Chief Complaint:
+   24 Hour Events:
+   - Wrote for 1x dose of vanco in addition to nafcillin while awaiting
+   final cultures from empyema. Pt did not get addl Levo as ID did not
+   recommend. Need to check with pharmacy today re: vanco dosing.
+   - In afternoon, MAPs were down in 50s. Pt had increased output
+   (200-300/hr) of gross dark blood from chest tube. CVPs also dropped
+   from >10 to 5. Thoracics called, said normal as pt was given TPA that
+   am to clear clots in tube. Did not recommend surgical intervention, as
+   limited options and pt not good surgical candidate. Stat crit showed
+   drop from 25.7 in am -> 22.5-> 19.9. Pt received 2 units pRBCs, 1 bag
+   plt, 1 bag FFP to decrease bleeding. MAPs improved to 60s after
+   interventions. Post-transfusion crit was 22.1, then -> 21.1 on re-check
+   two hours after. Gave addl 2 units pRBCs. Re-check crit during end of
+   2nd unit [**Unit Number **].4.
+   - Spiked temp 101.8 in early afternoon, pan-cultured
+   - Addl C.Diff ordered
+   - Changed tube feedings recommendations as per nutrition to Nutren 2.0
+   with 30 gram beneprotein @ 40 cc/hour
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Levofloxacin - [**3041-3-20**] 08:30 PM
+   Vancomycin - [**3041-3-22**] 12:00 PM
+   Metronidazole - [**3041-3-22**] 06:00 PM
+   Nafcillin - [**3041-3-23**] 04:00 AM
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Fentanyl - 75 mcg/hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Vasopressin - 2.4 units/hour
+   Dopamine - 7.5 mcg/Kg/min
+   Insulin - Regular - 6 units/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3041-3-22**] 10:00 AM
+   Heparin Sodium (Prophylaxis) - [**3041-3-22**] 05:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3041-3-23**] 05:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.8
+C (101.8
+   Tcurrent: 36.7
+C (98
+   HR: 85 (82 - 105) bpm
+   BP: 100/53(69) {73/42(53) - 129/69(90)} mmHg
+   RR: 16 (16 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 94.3 kg (admission): 98 kg
+   Height: 72 Inch
+    CVP: 6 (5 - 11)mmHg
+   Total In:
+                                                                 11,836 mL
+                                                                  2,630 mL
+   PO:
+   TF:
+                                                                    921 mL
+                                                                    230 mL
+   IVF:
+                                                                  8,867 mL
+                                                                  1,951 mL
+   Blood products:
+                                                                  1,928 mL
+                                                                    409 mL
+   Total out:
+                                                                  7,974 mL
+                                                                  2,511 mL
+   Urine:
+                                                                    560 mL
+                                                                    430 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,862 mL
+                                                                    119 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 170
+   PIP: 30 cmH2O
+   Plateau: 21 cmH2O
+   SpO2: 100%
+   ABG: 7.42/39/118/25/1
+   Ve: 10.5 L/min
+   PaO2 / FiO2: 295
+   Physical Examination
+   General Appearance: Well nourished, No acute distress. Responds to
+   voice. Nods and shakes head.
+   Eyes / Conjunctiva: PERRL, MMM
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Lymphatic: Cervical WNL
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal). No audible
+   rubs/gallops.
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: bilaterally). L chest tube in place draining
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: no c/c, trace edema bilaterally, boots in place, pulses
+   dopplerable bilaterally
+   Skin:  Warm
+   Neurologic: No(t) Attentive, Follows simple commands, Responds to:
+   Verbal stimuli, Movement
+   Labs / Radiology
+   130 K/uL
+   8.5 g/dL
+   157 mg/dL
+   1.7 mg/dL
+   25 mEq/L
+   3.6 mEq/L
+   22 mg/dL
+   100 mEq/L
+   133 mEq/L
+   24.4 %
+   19.4 K/uL
+        [image002.jpg]
+                             [**3041-3-22**]  11:18 AM
+                             [**3041-3-22**]  11:45 AM
+                             [**3041-3-22**]  01:30 PM
+                             [**3041-3-22**]  03:21 PM
+                             [**3041-3-22**]  03:43 PM
+                             [**3041-3-22**]  07:05 PM
+                             [**3041-3-22**]  09:26 PM
+                             [**3041-3-22**]  10:28 PM
+                             [**3041-3-23**]  04:06 AM
+                             [**3041-3-23**]  04:18 AM
+   WBC
+   19.4
+   Hct
+   22.5
+   19.9
+   22.1
+   21.1
+   24.4
+   Plt
+   130
+   Cr
+   1.8
+   1.6
+   1.7
+   TCO2
+   22
+   24
+   26
+   Glucose
+   [**Telephone/Fax (3) 4255**]6
+   157
+   Other labs: PT / PTT / INR:15.7/31.4/1.4, CK / CKMB /
+   Troponin-T:77/2/13.50, ALT / AST:124/34, Alk Phos / T Bili:81/1.8,
+   Amylase / Lipase:101/78, Differential-Neuts:82.0 %, Band:7.0 %,
+   Lymph:6.0 %, Mono:3.0 %, Eos:1.0 %, Lactic Acid:1.3 mmol/L, Albumin:2.2
+   g/dL, LDH:369 IU/L, Ca++:7.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   67 y/o M with PMH of CAD s/p MI, DM, hyperlipidemia and recent fall who
+   presents with nausea and vomiting and ongoing CP, found to have
+   elevated CE and EKG changes without multivessel disease on cardiac
+   catherization now with multifactorial shock.
+   .
+   # Cardiogeneic and Septic Shock: Patient is still persistently
+   hypotensive requiring addition of vasopressin in addition to dopamine.
+   Dopamine requirement decreasing over last 24 hours. Likely etiology is
+   combination or cardiogenic shock (low cardiac output) as well as septic
+   shock (bacteremia and empyema) Patient previously on intraaortic
+   balloon pump now off.
+   - cont pressors for now, wean as tolerated to maintain MAPs > 60
+   - cont Nafcillin for TEE negative bacteremia/empyema, Vanc pending
+   pleural fluid data
+   - f/u cultures
+   - consider repeat echo in the future to reassess LV/RV function
+   # SEPSIS/BACTEREMIA: Pt developed distributive shock in the context of
+   like sepsis. Initially was improving then started to decline again.
+   Ultimately found to have empyema.
+   - ID following. Recs greatly appreciated.
+   - On nafcillin for MSSA bacteremia (PA line cultures +)
+   - Found to have rising WBC to > 30,000. CT on [**3-21**] showed pulmonary
+   effusion. Diagnostic tap showed empyema and thoracics placed a chest
+   tube
+ on vanc/nafcillin pending final culture data
+   - Began empiric treatment for C. diff with PO flagyl given risking WBC.
+   Cdiff negative x1
+ will DC flagyl
+   - RUQ showed sludge, no e/o acute chole
+   - surveillence cultures negative to date
+   # EMPYEMA: Pt had rising WBC. Pleural effusion was noted to be very
+   enlarged on CT on [**3-21**]. Diagnostic tap was consistent with empyema.
+   Thoracic surgery placed a chest tube for further drainage. It was felt
+   that the empyema was due to an old hemothorax from a recent rib
+   fracture that became super infected during his MSSA bacteremia
+   - Thoracics following. Recs greatly appreciated
+   - ID following. Recs greatly appreciated
+   - Final culture ID and [**Last Name (un) 203**]. pending
+   - Chest tube to suction -20cm H2O for now
+   - continue vanc/nafcillin pending culture data
+   .
+   # RESPIRATORY FAILURE: Likely from fluid overload and infectious
+   process with pneumonia and empyema above. Currently with chest tube
+   placed by thorassic surgery.
+   - plan to continue on the vent today given new chest tube without plan
+   to wean settings
+   - consider pressure support trial tomorrow
+   - f/u thorassic recs regarding chest tube
+   - goal even to -500 cc negative
+   .
+   # ANEMIA : Pt with underlying anemia of chronic disease, now with
+   decreasing HCT in setting on chest tube placement, also found to have
+   guaiac + stools. Has a h/o recent GIB is at risk for rebleeding.
+   - Off heparin drip now. SQ only
+   - CT TPA
+d yesterday due to complicated effusion
+ increased bloody
+   output
+   - Trend HCT q8
+ goal HCT >25
+   - start pantoprazole IV for guaiac + stool
+   .
+   # ACUTE KIDNEY INJURY:
+   - continue CVVH for now, will discuss plan with renal when to
+   discontinue  .
+   - Renally dose meds
+   .
+   # COMMUNITY ACQUIRED PNEUMONIA: ID of moraxella, Treated with
+   levofloxacin dosed renally, now completed course
+   .
+   # ACUTE HEPATITIS: Improving from max of 1000s likely from shock liver
+   in the setting of low cardiac output.
+   - trending down
+   #  HYPERBILIRUBINEMIA: Does not appear to be hemolysis, concern for RUQ
+   source of infection given elevated bili. Patient had RUQ yesterday
+   which demonstrated no acute pathology some sludging.
+   - cont to trend
+   .
+   # RHYTHM: Ectopy improved with decreased doparmine drip
+   # DM: insulin drip for tight glucose control
+   .
+   # PERIPHERAL EOSINOPHILIA: new today, absolute count 640. will follow,
+   consider adrenal insufficiency, fungal process, drug reaction
+   .
+   # HYPERLIPIDEMIA: On vytorin at home. Stopped statin given
+   transaminitis.
+   - consider restarting once improves clinically for long-term risk
+   management
+   .
+   # NEUROPATHY, PERIPHERAL: On gabapentin as outpatient, inactive issue,
+   holding.
+   .
+   FEN:  OG tube in place, TFs at goal.  Reglan for h/o gastroparesis.
+   ACCESS: PIV's x 3 (20g x 2, 18g x 1), L IJ HD line, R IJ.  Aline in
+   place.
+   PROPHYLAXIS:  Hep subq, PPI given intubated.  Bowel regimen.
+   CODE: Full, confirmed with wife [**3-14**] (though pt would not want to be
+   maintained on lifelong vent)
+   CONTACT: Wife [**Name (NI) 4021**] [**Name (NI) 4022**] [**Telephone/Fax (1) 4023**] (H), [**Telephone/Fax (1) 4024**] (C)
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3041-3-22**] 08:58 PM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3041-3-16**] 04:37 PM
+   Dialysis Catheter - [**3041-3-16**] 06:52 PM
+   Arterial Line - [**3041-3-18**] 06:00 PM
+   Prophylaxis:
+   DVT: heparin SC
+   Stress ulcer:  IV PPI
+   VAP:  bundle
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,336 @@
+Admission Date:  [**3339-1-14**]              Discharge Date:   [**3339-1-15**]
+
+Date of Birth:  [**3296-3-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Augmentin / Zomig / Reglan
+
+Attending:[**First Name3 (LF) 1836**]
+Chief Complaint:
+DKA
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+42 yo F w/ DMI w/ DKA/HHS. pt presents with hyperglycemia, per
+home glucometer fs >600 since noon. 42 yo F w/ DMI currently
+being treated for cdiff. Was not able to get PO vanc and was
+only taking flagyl. EKG no changes. Started w/ 10U/hr regular
+insulin, has gotten 3L IVF NS. Cr 1.9 elevated from baseline.
+Abd pain currently she says is c/w her colitis. She is also
+having leg spasms has got 5mg valium X2 and 1mg dilaudid. Took
+her flagyl. Since her recent d/c from [**Hospital1 4**] she was d/c'd from
+MRWH w/ flagyl for c.diff. MRWF microlab confirmed cdiff +. Pt.
+states that her husband did not want her to come home from the
+hospital at that point and she is upset because her son is
+leaving for the navy.
+.
+In the ICU she says that her sugars had been fairly well
+controlled at home 130s-200 until yesterday afternoon when it
+climbed to 348. She administered her SSI and her glucose climbed
+to >600. She became frustrated and stopped checking her FSBS as
+frequently. Her husband found out that her glucose was very
+elevated and became angry. They argued, she called him fat and
+he crushed his wedding ring with some pliers. She denies any
+violence.
+.
+She has been having around 8 BMs/day non bloody. She had some
+chest discomfort last night which resolved spontaneously. She
+also complains of leg cramps which she has occasionally, her PCP
+has tried valium for these but only dilaudid works.
+.
+In the ED, initial VS: 97.7, 91, 123/70, 14, 100% RA
+
+
+Past Medical History:
+1. Diabetes mellitus type 1 diagnosed age 15, followed by
+[**Last Name (un) 93**]. Has had 4-5 episodes of DKA. Has had one seizure in the
+context of hypoglycemia years ago. Checks her sugars at
+least 6x/day.
+2. Gastroparesis with frequent hospital admissions; had G tube
+and J tube in past (2 yrs ago)
+3. Peripheral neuropathy
+4. Diabetic foot ulcers, s/p bilateral great toe amputation, s/p
+debridement
+5. Thalassemia - per pt, has had 5 [**Last Name (un) 118**] tx in past, usually
+around HCT of 23. Gets EPO q week.
+6. Migraine headache
+7. GERD
+8. S/p hysterectomy for heavy menses
+9. S/p eye surgery
+[**39**]. S/p oopherectomy
+11. Restless leg syndrome
+12. S/p portacath placement [**7-21**] due to poor access
+13. Depression
+14. Anxiety
+15. C. diff infection
+
+Social History:
+Married.  Quit smoking 16yrs ago, smoked 1-1.5 PPD x 13yrs
+previously; uses occasional alcohol, but no IV drug use
+
+
+Family History:
+Grandfather died of MI, oldest son has Afib, brother with type 2
+diabetes mellitus, aunt with type 1 diabetes mellitus
+
+Physical Exam:
+PE on admission:
+Vitals - T 97.7, 91, 123/70, 14, 100% RA
+GENERAL: A/Ox3, sobbing, NAD
+HEENT: No icterus
+CARDIAC: RRR, No MRG
+LUNG: CTAB
+ABDOMEN: Soft, moderately tender in LLQ, BS hyperactive
+EXT: No edema, barely palpable DP/PT pulses
+NEURO: Absent knee reflexes
+PE on transfer to the floor:
+Vitals - T 97.8 124/71 (BP range 88-137/62-82) 14 100% RA
+GENERAL: NAD
+HEENT: Normocephalic, atraumatic. No scleral icterus. PERRL.
+MMM. OP clear. Neck Supple, No LAD.
+CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs,
+rubs or [**Last Name (un) 597**]. Portacath without surrounding erythema.
+LUNGS: CTAB bilaterally.
+ABDOMEN: +BS. Tender in left quadrant. no rebound. Non
+distended.
+EXTREMITIES: No edema or calf pain. DP pulses +1 bilat. Missing
+great toe on each foot.
+SKIN: Bruises on shin.
+NEURO: Alert and answering all questions appropriately. CN 2-12
+grossly intact.
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**3339-1-14**] 01:30AM [**Month/Day/Year **] WBC-4.2 RBC-4.44 Hgb-8.5* Hct-32.3*
+MCV-73* MCH-19.2* MCHC-26.4* RDW-17.2* Plt Ct-245
+[**3339-1-14**] 01:30AM [**Month/Day/Year **] Neuts-62.5 Lymphs-31.3 Monos-3.7 Eos-1.8
+Baso-0.7
+[**3339-1-14**] 01:30AM [**Month/Day/Year **] Plt Ct-245
+[**3339-1-14**] 01:30AM [**Month/Day/Year **] Glucose-1025* UreaN-36* Creat-1.9*
+Na-119* K-6.5* Cl-85* HCO3-19* AnGap-22*
+[**3339-1-14**] 01:30AM [**Month/Day/Year **] Calcium-9.5 Phos-3.8 Mg-1.9
+[**3339-1-14**] 05:40AM [**Month/Day/Year **] Osmolal-305
+[**3339-1-14**] 04:57AM [**Month/Day/Year **] pO2-60* pCO2-42 pH-7.35 calTCO2-24 Base
+XS--2 Comment-GREEN TOP
+-------------------
+DISCHARGE LABS:
+[**3339-1-15**] 06:40AM [**Month/Day/Year **] WBC-3.8* RBC-4.39 Hgb-8.6* Hct-29.2*
+MCV-66*# MCH-19.6* MCHC-29.5*# RDW-17.2* Plt Ct-255
+[**3339-1-15**] 06:40AM [**Month/Day/Year **] Glucose-47* UreaN-19 Creat-1.1 Na-144
+K-4.5 Cl-112* HCO3-23 AnGap-14
+[**3339-1-14**] 09:24AM [**Month/Day/Year **] CK(CPK)-179*
+[**3339-1-14**] 03:09PM [**Month/Day/Year **] CK(CPK)-253*
+[**3339-1-15**] 12:20AM [**Month/Day/Year **] CK(CPK)-213*
+[**3339-1-14**] 09:24AM [**Month/Day/Year **] CK-MB-5 cTropnT-<0.01
+[**3339-1-14**] 03:09PM [**Month/Day/Year **] CK-MB-6 cTropnT-<0.01
+[**3339-1-15**] 12:20AM [**Month/Day/Year **] CK-MB-5 cTropnT-<0.01
+[**3339-1-15**] 06:40AM [**Month/Day/Year **] Calcium-9.4 Phos-3.5 Mg-2.0
+
+
+Brief Hospital Course:
+# DKA/HHS:  Patient presented with glucose of 1025 and DKA
+symptoms.  DKA likely caused by not taking insulin vs. cdiff
+causing dehydration. Patient was started on insulin gtt in the
+ED, and admitted to MICU for management of DKA.  Gap closed on
+the next day.  Insulin gtt was discontinued, and patient was
+transferred to the floor with her outpatient insulin regimen.
+Patient's [**Month/Day/Year 118**] glucose was well-controlled on discharge.
+Because she got into a big fight with her husband on the day of
+presentation, patient was also seen by social work who provided
+support.  Patient will follow up at the [**Hospital 93**] clinic the day
+after discharge.  An appointment was made for her.
+.
+# C.diff colitis:  Patient was diagnosed with c. diff colitis on
+[**1-6**], and she is in the middle of a 2 week course of PO flagyl.
+ Patient continues to complain of abdominal tednerness,
+especially in the left side, no rebound, no elevated WBC.
+Patient states she initially had seen [**Month/Year (2) 118**] in her stool, which
+has resolved.  Her abdominal pain and diarrhea are improving.
+Patient's abdominal pain was controlled with tylenol.
+.
+# ARF: Patient's baseline Cr 1.1-1.2, she presented with
+creatinine of 1.9. Likely [**3-17**] volume depletion. After getting IV
+fluids, creatinine was back down to 1.1 on discharge.
+.
+# Chest pain: Patient developed one episode of chest pain while
+in the MICU, which resolved spontaneously. EKG was essentially
+unchanged from priors.  Cardiac enzymes were normal.
+.
+# Peripheral neuropathy:  Home dose gabapentin was continued.
+.
+# Leg cramps:  Patient tends to get leg cramps when she is in
+DKA.  Symptoms resolved on lorazepam.
+.
+# Restless leg syndrome:  Patient has h/o iron deficiency, which
+likely is the etiology of restless leg syndrome.  Fe
+supplementation was continued.
+.
+# hyperlipidemia: Home dose atorvastatin was continued.
+.
+# Hypertension: Patient takes hydralazine and lisinopril for
+hypertension, and midodrine for hypotension at home.
+.
+# GERD: Home dose pantoprazole was continued.
+.
+# Chronic pain: ICU team contact[**Name (NI) **] patient's PCP, [**Name10 (NameIs) 5217**] [**Name11 (NameIs) 1166**]
+MD ([**Telephone/Fax (1) 29961**], and found that patient was on outpatient
+narcotics for her neuropathy and was stopped after overdose and
+falls.  PCP recommended that we limit narcotics as patient has
+addiction history.  Home lidocaine patch and gabapentin were
+continued.
+.
+#. Migraines:  Patient had no migraine symptoms during this
+hospital stay.  Home sumatriptan and butalbital-acet-caff PRN
+were ordered, but patient did not require any migraine
+medications.
+.
+# FEN:  Patient was continued on home calcium and vit D.  Her
+electrolytes were monitored and repleted prn.  She was put on
+diabetic diet, and she tolerated POs well.
+.
+# PPX: home PPI, heparin SQ
+.
+# ACCESS: Port
+.
+# CODE: Full (confirmed)
+.
+# CONTACT: [**Name (NI) 2541**] is emergency contact [**Name (NI) **] [**Telephone/Fax (1) 29962**]
+
+Medications on Admission:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily).
+2. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety.
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+4. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO qhs ().
+5. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+
+hours).
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+7. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every
+
+6 hours) as needed for headaches.
+8. Butalbital-Acetaminophen-Caff 50-325-40 mg Tablet Sig: [**2-14**]
+Tablets PO Q8H (every 8 hours) as needed for migraine HA.
+[**Month/Day (2) 1850**]:*60 Tablet(s)* Refills:*0*
+9. Gabapentin 400 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+10. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day).
+11. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO BID (2 times a day).
+12. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+13. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+14. Sumatriptan Succinate 6 mg/0.5 mL Solution Sig: One (1)
+Subcutaneous X1 (ONE TIME) as needed for migraine HA.
+15. Insulin Glargine 100 unit/mL Solution Sig: Forty (40) units
+
+Subcutaneous qam.
+[**Month/Day (2) 1850**]:*1 units* Refills:*2*
+16. Novolog 100 unit/mL Solution Sig: Nine (9) units
+Subcutaneous four times a day as needed for [**Month/Day (2) 118**] glucose >120:
+
+at breakfast, lunch or dinner time, if [**Month/Day (2) 118**] glucose is 120-159,
+
+then take 9U; if 160-199, then take 10U; if 200-239, then take
+11U; if 240-279, then take 12U;
+if 280-319, then take 13U; if 320-361, then take 14U; if >361,
+[**Name8 (MD) **] MD.
+[**Name8 (MD) 1850**]:*1 * Refills:*2
+17. Flagyl 800 mg po q8hrs
+18. Lisinopril 5mg daily
+19. Epogen injection
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Gabapentin 400 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety, leg cramps.
+4. Bupropion HCl 150 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO QAM (once a day (in the morning)).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO BID (2 times a day).
+6. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO at bedtime.
+
+9. Hydralazine 25 mg Tablet Sig: One (1) Tablet PO every eight
+(8) hours.
+10. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO every six
+(6) hours as needed for headache.
+11. Fioricet 50-325-40 mg Tablet Sig: 1-2 Tablets PO every eight
+(8) hours as needed for migraine.
+12. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO BID (2 times a day).
+13. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1)
+Tablet PO BID (2 times a day).
+14. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+15. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as
+needed for pain.
+16. Insulin Glargine 100 unit/mL Solution Sig: Forty (40) Unit
+Subcutaneous qam.
+17. Novolog 100 unit/mL Solution Sig: sliding scale
+Subcutaneous QACHS.
+18. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours).
+19. Sumatriptan Succinate 6 mg/0.5 mL Solution Sig: One (1)
+Subcutaneous once a day as needed for migraine.
+20. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily).
+21. Epogen  Injection
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Diabetes Mellitus Type I
+C. diff colitis
+
+
+Discharge Condition:
+Stable, afebrile. Glucose well-controlled.  Back to home insulin
+regimen.
+
+
+Discharge Instructions:
+It was a pleasure to be involved in your care, Ms. [**Known patient lastname 2064**].  You
+were admitted to [**Hospital1 509**] because of
+DKA in the setting of recent c. diff infection.  You were
+treated with insulin drip in the intensive care unit initially,
+before you were transferred to the regular medicine floor.  You
+glucose was well-controlled on transfer,  and you were back on
+your home insulin regimen on discharge.
+
+Your medications were not changed. Please continue your
+outpatient insulin regimen, and follow up at the [**Hospital 93**] clinic
+tomorrow.  You have an appointment.  Please also continue flagyl
+for c. diff infection.
+
+Followup Instructions:
+Please follow up at [**Hospital 93**] clinic tomorrow, Friday, [**1-16**], [**3338**] at 9:30am.
+
+
+
+
+
+
+DOC CLASS

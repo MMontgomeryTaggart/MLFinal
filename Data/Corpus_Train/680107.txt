@@ -1,0 +1,220 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - START [**3016-2-15**] 07:52 PM
+ SHEATH - START [**3016-2-15**] 07:56 PM
+ CARDIAC CATH - At [**3016-2-15**] 08:08 PM
+ NASAL SWAB - At [**3016-2-16**] 12:00 AM
+   Admitted overnight
+   No event overnight
+   Allergies:
+   Sulfa (Sulfonamides)
+   Anaphylaxis;
+   Shellfish
+   Anaphylaxis;
+   Iodine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroprusside - 0.3 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3016-2-16**] 06:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**18**] AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.7
+C (98
+   HR: 69 (69 - 86) bpm
+   BP: 193/69(112) {177/64(102) - 281/107(176)} mmHg
+   RR: 17 (16 - 23) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 64.8 kg (admission): 64.8 kg
+             Total In:
+                                                                    512 mL
+                                                                    328 mL
+   PO:
+                                                                    200 mL
+             TF:
+   IVF:
+                                                                    312 mL
+                                                                    328 mL
+   Blood products:
+   Total out:
+                                                                  1,595 mL
+                                                                    435 mL
+   Urine:
+                                                                    995 mL
+                                                                    435 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,083 mL
+                                                                   -107 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   GENERAL: elderly, pleasant F in NAD. Oriented x3. Mood, affect
+   appropriate.
+   NECK: Supple, with JVP of 8cm
+   CARDIAC: RR, normal S1, S2 (softer than S1 at the apex). +III/VI late
+   peaking systolic crescendo-decrescendo murmur heard throughout the
+   precordium radiating to the carotics. no gallops or rubs.
+   LUNGS: CTAB
+   ABDOMEN: BS+, Soft, ND.  Mild tenderness to palpation at LUQ, no
+   guarding, no rebound.
+   EXTREMITIES: No c/c/e. No femoral bruits.  Arterial and venous sheath
+   at right groin in place (not pulled)
+   Peripheral Vascular: (Right radial pulse: 2+), (Left radial pulse: 2+),
+   (Right DP pulse: 2+), (Left DP pulse: 2+)
+   Skin:  No stasis dermatitis, ulcers, scars, or xanthomas.
+   Neurologic: AOx3, neuro exam grossly normal
+   Labs / Radiology
+   186 K/uL
+   9.8 g/dL
+   180 mg/dL
+   1.1 mg/dL
+   23 mEq/L
+   3.6 mEq/L
+   27 mg/dL
+   104 mEq/L
+   138 mEq/L
+   28.7 %
+   4.3 K/uL
+        [image002.jpg]
+                             [**3016-2-15**]  08:37 PM
+                             [**3016-2-16**]  04:29 AM
+   WBC
+   7.2
+   4.3
+   Hct
+   30.9
+   28.7
+   Plt
+   182
+   186
+   Cr
+   0.9
+   1.1
+   Glucose
+   191
+   180
+   Other labs:
+   PT / PTT / INR:12.8/25.5/1.1,
+   CK 31,
+   ALT / AST:14/18, Alk Phos / T Bili:69/0.5, LDH:212 IU/L,
+   Ca++:8.7 mg/dL, Mg++:1.8 mg/dL, PO4:3.4 mg/dL
+   proBNP: 2787
+   MICRO: none
+   CXR from today: pending
+   Assessment and Plan
+   Pt is a 75 yo F with CAD s/p 3V CABG and critical aortic stenosis.
+   .
+   # CORONARIES: Patient with known CAD s/p CABG. However, no evidence of
+   ACS (negative troponins, no new ischemic EKG changes). Patient's chest
+   pain likely demand ischemia in setting of critical AS and  hypertensive
+   emergency.
+   - continue ASA 325 mg PO daily and zetia 10mg daily
+   - start short acting metoprolol 50 mg PO TID, goal HR 55-60
+   - will restart losartan today
+   - treatment of hypertension (see below)
+   .
+   # Hypertension: Hypertensive emergency. Patient grossly hypertensive in
+   the cath lab with arterial tracings showing systolics in the 330s. BP
+   brought down by nitroprusside gtt overnight in the CCU to SBPs 200.
+   Likely chronically hypertensive in setting of medication non-compliance
+   due to financial issues. Outpt blood pressure checks have SBPs ranging
+   from 110s-140s, but were in the left arm with known L subclavian steal
+   phenomenon. Also, cuff pressure seems to underestimate the true BPs
+   that are measured via A-line.
+   - transition nitroprusside gtt to metoprolol and losartan today
+   - has arterial sheath in place for A-line tracings
+   - SW consult for med compliance
+   - consider renal U/S to assess for artery stenosis
+   .
+   # Critical AS: Valve area 0.68 cm^2. Symptomatic with peak gradient of
+   25 mm Hg. Has [**3-13**] symptoms for AS triad (angina, CHF).
+   - f/u CSurg eval for AVR
+   - avoid medications that could decrease preload, such as NTG
+   .
+   # PUMP: Patient with evidence of diastolic congestive heart failure (EF
+   64% in [**4-/3015**]), with elevated PCWP. Critical symptomatic AS (0.7 cm^2)
+   with peak to peak gradient of 25 mm Hg. Patient also with R sided PA
+   and RA pressures on R heart cath, indicating evidence of pulmonary
+   hypertension and right-sided heart failure, likely exacerbated in
+   setting of L sided heart failure. Receive 40 mg IV lasix in cath lab
+   with good urine output of -1 L. EF 64% in 3/[**3015**].
+   - transition nitroprusside gtt to metoprolol and losartan today
+   - no nitroglycerin given critical AS
+   - f/u on BNP
+   - f/u Csurg recs on AVR
+   - f/u on CXR and TTE today
+   .
+   # RHYTHM: Patient with history of SVT in 2/[**3014**]. Currently in sinus
+   rhythm with prolonged PR and RBBB/left anterior fascicular block on
+   EKG.
+   - continue BB
+   - telemetry
+   .
+   # Peripheral Vascular Disease: Patient with possible vascular dementia
+   given hx of PVD and TIAs. A-line [**Location (un) 289**] higher than blood pressure
+   cuff, consistent with a diagnosis of PVD.
+   - continue ASA, Zetia
+   .
+   # Carotid artery disease: Patient with history of TIA in [**9-/3013**]
+   (significant R sided ICA stenosis).
+   - try to obtain carotid U/S records in AM
+   - may need carotid U/S here at [**Hospital1 **] for pre-op eval
+   .
+   # Hyperlipidemia: Elevated LDL of 134, not at goal. HDL low at 11.
+   Patient reportedly on Lipitor but discontinued due to patient concern
+   about cirrhosis and possible liver damage.  Patient was put on zetia as
+   a result.
+   - continue Zetia 10 mg PO daily
+   .
+   # Hyperglycemia: BS 191 on admission. Patient without history of
+   diabetes.
+   - RISS with FS qACHS
+   - f/u HgA1c
+   .
+   # Autoimmune Hepatitis with cirrhosis (Child's Class A). Followed by GI
+   at [**Hospital1 **].
+   - trend LFTS
+   .
+   # Anemia: baseline hct 25.  Admission hct 30.9. Ferritin checked at OSH
+   was 73.
+   - trend Hct
+   .
+   # History of seizure: Patient was admitted for seizure in [**7-17**].  She
+   has been on Keppra, but self-discontinued it because of depression. No
+   further episodes since then. Will continue to monitor.
+   ICU Care
+   Nutrition: cardiac healthy low salt low fat diet.
+   Glycemic Control:  RISS
+   Lines:
+   Arterial Line - [**3016-2-15**] 07:52 PM
+   20 Gauge - [**3016-2-15**] 07:54 PM
+   Sheath - [**3016-2-15**] 07:56 PM
+   Prophylaxis:
+   DVT: pneumoboots (pt refusing SQ heparin)
+   Stress ulcer:  none
+   VAP:  n/a
+   Comments: Bowel regimen with colace and senna prn
+   Communication:  Comments: [**Name (NI) 3018**] [**Name (NI) 11156**] (husband)
+   [**Name (NI) 62**] status: Full code (confirmed with patient)
+   Disposition: CCU for now
+
+
+
+DOC CLASS

@@ -1,0 +1,210 @@
+Chief Complaint:
+   24 Hour Events:
+   -post cath check okay
+   -epistaxis resolved
+   -RISB 68, converted to PSV 15/5.
+   -Tele with frequent PVCs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Propofol - 30 mcg/Kg/min
+   Other ICU medications:
+   Other medications:  ASA 325mg, plavix 75mg daily, lopressor 100mg [**Hospital1 **],
+   amlodipine 2.5mg daily, valsartan 40mg daily, lasix 80 [**Hospital1 **], lipitor
+   80mg daily, heparin sq TID, insulin lantus and sliding scale,
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3394-4-17**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 70 (52 - 70) bpm
+   BP: 111/27(49) {104/27(49) - 136/58(78)} mmHg
+   RR: 19 (12 - 19) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,960 mL
+                                                                    707 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,960 mL
+                                                                    707 mL
+   Blood products:
+   Total out:
+                                                                  1,180 mL
+                                                                  1,080 mL
+   Urine:
+                                                                    630 mL
+                                                                  1,080 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    780 mL
+                                                                   -373 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 650 (650 - 650) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 68
+   RSBI Deferred: 68
+   PIP: 23 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 46.4 cmH2O/mL
+   SpO2: 98%
+   ABG: ///28/
+   Ve: 8.3 L/min
+   Physical Examination
+   Gen: intubated and sedated, responds to voice.
+   Cardiac: Regular rate and rhythm.  Normal S1,S2.  No
+   murmurs/rubs/gallops.
+   Resp: ventilated breath sounds, no wheezes, rales or rhonchi
+   Abd: +BS, soft, NT, ND.
+   Periph vasc: right groin dressing C-D-I, no induration or eccyhmosis.
+   No fem bruit.  Bilateral DP
+   and PT pulses are nonpalpable but +Doppler. 1+ pedal edema
+   bilaterally.
+   ECG: SR 73 with PVC's
+   Labs / Radiology
+   285 K/uL
+   13.0 g/dL
+   275 mg/dL
+   1.6 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   27 mg/dL
+   99 mEq/L
+   136 mEq/L
+   37.7 %
+   11.5 K/uL
+        [image002.jpg]
+                             [**3394-4-16**]  09:52 PM
+                             [**3394-4-17**]  04:01 AM
+   WBC
+   9.5
+   11.5
+   Hct
+   39.0
+   37.7
+   Plt
+   280
+   285
+   Cr
+   1.6
+   1.6
+   Glucose
+   264
+   275
+   Other labs: PT / PTT / INR:13.7/24.9/1.2,
+   CK / CKMB / Troponin-T:141/4/,
+   Differential-Neuts:76.0 %, Lymph:13.9 %, Mono:6.5 %, Eos:3.2 %,
+   Ca++:8.9 mg/dL, Mg++:2.2 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   78 year-old man with history as above who was referred from OSH for a
+   cardiac catheterization secondary to persistent shortness of breath. Pt
+   had [**Year (4 digits) **] placed in distal RCA for 90% lesion.  Procedure was complicated
+   for sigificant epistaxis following NGT placement.  Integrelin and
+   heparin held.  Pt did receive plavix load and aspirin.
+   PLAN:
+   # Coronary Artery Disease - Known hx of CAD, prior CABG, prior
+   stent/PTCA.  Cath showed distal 90% RCA lesion s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **]
+   placement.  Post cath check w/o complication.
+   - continue ASA and plavix
+   - fup am EKG
+   - continue statin; tricor NF and will need to be restarted on d/c.
+   .
+   # Chronic systolic heart failure - Ischemic cardiomyopathy, EF 20%. RHC
+   notable for elevated RVEDP (16 mm Hg) and PCWP (28 mm Hg mean).  Mean
+   wedge 28 on cath yesterday and pt got 1L fluid for renal protection.
+   - cont lasix diuresis 80mg IV lasix this am then prn
+   - Continue Inspra, Diovan and Toprol
+   - cont [**Name (NI) 223**]
+ pt with previous worsening Cr on ACEI.
+   - Daily weight, 2 liter fluid restriction and 2 gram Na diet
+   .
+   # Ventilator-Assisted Breathing - Intubated for inability to tolerate
+   cath [**1-20**] anxiety and PTSD, remained extubated [**1-20**] extensive nosebleed.
+   - plan for extubation today.
+   .
+   Epistaxis
+ resolved.  Treated with Afrin, EBL ~200cc, OGT in place
+   - ENT following
+   - Hct stable
+   .
+   # Hypertension
+   - Continue Lasix, Diovan, Norvasc, Inspra and Toprol
+   - Low sodium/Heart Healthy diet
+   .
+   # Hyperlipidemia:  Most recent lipid panel not available
+   - Continue statin, restart tricor on d/c and heart-healthy diet
+   .
+   # Type II Diabetes, Insulin-Dependent
+   - Most recent HgA1c not available
+   - Monitor FSBS QAC and HS with Humalog sliding scale coverage
+   - Levemir HS
+   - will hold standing am and hs doses while NPO and cover with SSI
+   .
+   # Stage 3 chronic renal failure - Baseline Cr 1.8, received pre-cath
+   hydration and mucomyst. Cr 1.6 this am.
+   - avoid nephrotoxic agents
+   - renally dose meds as needed
+   .
+   # Depression
+   - Mood stable, patient frustrated with long wait for cath
+   - Clarify if patient on Effexor and continue if so
+   - Consider SW consult while hospitalized
+   .
+   # Access - 2 peripheral IVs
+   .
+   # FEN - Cardiac/Hearth Healthy/Low Sodium/Dietetic Diet once extubated,
+   replete lytes prn
+   .
+   # Proph - SC heparin once cleared from epistaxis, Bowel regimen
+   .
+   # Disposition - c/o tp floor once extubated
+   .
+   # Code Status - Full Code
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3394-4-16**] 06:37 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Chart reviewed.  Patient interviewed and examined.  I agree with
+   [**3394-4-16**] notes of Dr. [**Last Name (STitle) 6246**] and [**Initials (NamePattern4) **]
+[**Last Name (NamePattern4) **] and with the above note by Dr.
+   [**First Name (STitle) 3389**] including the H+P, A+P.  S/P RCA PCI, now extubated following
+   elective intubation and nasal bleeding.  Currently stable without
+   evidence of active bleeding.  Plan as outlined above.  60 minutes of
+   critical care provided.  ICU level care secondary to intubated status.
+   Nopw extubated
+ to be transferred to floor.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 4265**], MD
+   on:[**3394-4-17**] 12:35 ------
+
+
+
+DOC CLASS

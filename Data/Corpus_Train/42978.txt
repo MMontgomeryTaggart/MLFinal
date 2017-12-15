@@ -1,0 +1,218 @@
+Admission Date:  [**3416-10-11**]              Discharge Date:   [**3416-10-13**]
+
+Date of Birth:  [**3379-2-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern4) 1187**]
+Chief Complaint:
+MICU admission for malignant hypertension
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 37 y/o male with type I DM with known
+gastroparesis, ESRD on dialysis, and multiple prior admissions
+for nausea/vomiting and difficult to control hypertension who
+presented to the ED last PM with 1 day of N/V, and SBP in 250's.
+Pt had dialysis yesterday afternoon, and then experienced
+symptoms later that evening. Pt denies CP, SOB, F/C.  Of note,
+pt has had multiple [**Hospital1 4**] admissions in the past for similar
+symptoms and was recently discharged on [**3416-9-28**].
+.
+ED COURSE: He had N/V, and was found to have an elevated BP of
+250's/140's. He was initially placed on Nipride gtt, but this
+was then d/c'd and he was given Labetolol 20mg IV x1 and hydral
+10mg IV x 3.  He also received dilaudid 2mg IV x 5, Ativan 2mg
+IV x 5,  droperidol 2.5mg IM x 1, and Anzemet 12.5mg IV x 1.
+.
+Pt currently feels well, and denies N/V, CP, SOB.
+
+Past Medical History:
+1. DM type I
+2. ESRD on hemodialysis started [**12/3414**] on Tu, Th, Sat
+3. Severe autonomic dysfunction with multiple hospitalizations
+for hypertensive emergency, gastroparesis, and orthostatic
+hypotension.
+4. History of esophageal erosion, MW tear
+5. CAD with 1-vessel disease (50% stenosis D1), normal stress
+[**9-/3413**]
+6. Foot Ulcer - 2 months, healing slowly
+7. h/o clot in AV fistula clot on [**Year (4 digits) **]
+
+Social History:
+Denies any alcohol, tobacco, or drug use. He has his own room
+but lives with his son's mother. His son is 12 years old.
+
+
+Family History:
+His father recently died of ESRD and diabetes. His mother is in
+her 50s and has hypertension. He has two sisters, one with
+diabetes, and six brothers, one with diabetes.
+
+Physical Exam:
+VS- T 96 BP 197/96 --> 145/94, HR 86, RR 13, O2 97% 2L NC
+Gen: Pleasant male lying on bed in no acute distress
+HEENT: Sclerae muddy. MMM. OP clear.
+NECK: Supple, No LAD, No JVD. No thyromegaly.
+CV: RRR. nl S1, S2. Has 2/6 systolic murmur at LUSB as well as
+[**2-5**] sysotlic murmur radiating to apex. L sided port in place.
+LUNGS: CTAB
+ABD: Soft, nt, nd, +BS. No rebound/guarding.
+EXT: WWP, NO CCE. 2+ DP pulses BL. Has a healing ulcer on the
+inferior R foot. No surrounding erythema or drainage.
+SKIN: No rashes/lesions, ecchymoses.
+NEURO: A&Ox3.
+PSYCH: Listens and responds to questions appropriately, pleasant
+
+
+Pertinent Results:
+[**3416-10-11**] 12:48AM BLOOD PT-34.3* PTT-40.7* INR(PT)-3.7*
+[**3416-10-12**] 04:20AM BLOOD PT-52.1* PTT-44.3* INR(PT)-6.2*
+[**3416-10-12**] 01:42PM BLOOD PT-48.7* PTT-39.5* INR(PT)-5.7*
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] is a 37 year old male with hypertension, ESRD on
+dialysis, and multiple prior admissions for hypertension with
+nausea & vomiting who presented with HTN and nausea/vomiting.
+.
+# Nausea/vomiting: The presentation appears to be consistent
+with his prior admissions for severe autonomic dysfunction with
+hypertensive emergency, and gastroparesis.
+- He was continued on his usual medications including ativan,
+dilaudid, and anzemet, as well as antihypertensive regimen with
+resolution of his nausea and vomiting.
+.
+# Hypertension:  Upon admission, his SBP were up to 250's
+initially.  His regular antihypertensive regimen was resumed
+including clonidine patch, PO clonidine, metoprolol, ativan,
+dilaudid and his BP improved.  He was 132/87 upon discharge
+.
+# ESRD on dialysis: Mr. [**Known patient lastname 2516**] usual dialysis schedule was
+T/Th/Saturday.  He received Saturday dialysis during this
+admission and will resume his usual schedule upon discharge.  He
+was followed by the renal team during this admission.
+.
+# Type I DM: Glucose upon admission was 300.  He was continued
+on his home dose of NPH 6 units [**Hospital1 **] and an insulin sliding scale
+and glucose control was adequate.
+.
+# Elevated INR: Patient with INR elevated to 5.7 during this
+admission.  The patient's [**Hospital1 **] was held and he was
+instructed to stop his [**Hospital1 **] upon discharge and to be seen in
+coagulation clinic on [**Hospital1 1490**] to recheck his INR.  The patient
+was not reversed as he had no signs of bleeding.
+.
+# Ulcer on right foot: Stable during this admission.  There were
+no signs of infection.
+.
+# FEN: Patient was maintained on a renal, gastroparesis diet.
+.
+# PPx: ? HIT per renal, but HIT Ab negative during last
+admission. Will use pneumoboots for now.  Platelets were stable
+at 184 upon discharge.
+.
+# CODE: Full
+.
+
+
+Medications on Admission:
+Metoprolol Tartrate 37.5 mg [**Hospital1 **]
+B Complex-Vitamin C-Folic Acid 1 mg qd
+Warfarin 3mg PO qhs
+Clonidine 0.4 mg PO tid
+Clonidine 0.3 mg/24 hr Patch QTHUR
+Calcium Acetate 1334 tid w/meals
+Metoclopramide 5 mg qid
+Insulin NPH 6U [**Hospital1 **]
+Ativan 2 mg q4-6hrs prn
+Ondansetron HCl 4 mg/5 mL PO q8h prn
+
+
+Discharge Medications:
+1. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+2. Metoclopramide 5 mg/5 mL Solution Sig: One (1)  PO every six
+(6) hours as needed for nausea.
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+4. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO three
+times a day: take with meals.
+5. Ondansetron HCl 4 mg/5 mL Solution Sig: Five (5) mL PO every
+eight (8) hours as needed for nausea.
+6. Ativan 2 mg Tablet Sig: One (1) Tablet PO every 4-6 hours as
+needed for nausea.
+7. Insulin NPH Human Recomb 100 unit/mL Cartridge Sig: 6  units
+Subcutaneous twice a day.
+8. Clonidine 0.3 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly
+Transdermal QTHUR (every Thursday).
+9. Clonidine 0.2 mg Tablet Sig: Two (2) Tablet PO TID (3 times a
+day).
+10. Outpatient [**Hospital1 **] Work
+Please check INR at dialysis on Tuesday [**3416-10-15**] given
+supratherapeutic INR at discharge (INR 5.7).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+.
+Primary: Malignant hypertension, Gastroparesis
+.
+Secondary:
+1. DM type I
+2. ESRD on hemodialysis started [**12/3414**] on Tu, Th, Sat
+3. Severe autonomic dysfunction with multiple hospitalizations
+for hypertensive emergency, gastroparesis, and orthostatic
+hypotension.
+4. History of esophageal erosion, MW tear
+5. CAD with 1-vessel disease (50% stenosis D1), normal stress
+[**3413**]
+6. Foot Ulcer - 2 months, healing slowly
+7. h/o clot in AV fistula (on [**Year (4 digits) **])
+.
+
+
+Discharge Condition:
+Good: Taking POs well.  No nausea/vomiting.  BP well controlled.
+
+
+Discharge Instructions:
+.
+1- Please take all medications as prescribed.  Do not take your
+[**Year (4 digits) **] until you are seen at dialysis on Tuesday [**10-15**]
+for a check of your INR (your INR is currently elevated (5.7)).
+.
+2- Please followup with your PCP [**Last Name (NamePattern4) 22**] 1 week.  You will need an
+outpatient echo to evaluate your heart function given complaints
+of paroxysmal nocturnal dyspnea.
+.
+3- Please seek medical attention for severe nausea/vomiting or
+for elevated blood pressure (sbp> 200) that does not resolve
+after taking your usual outpatient BP medication regimen.
+.
+
+Followup Instructions:
+.
+1- Please hold your [**Last Name (NamePattern4) **] until you are seen at dialysis on
+Tuesday for a repeat INR.  Your [**Last Name (NamePattern4) **] is currently
+supratherapeutic.
+.
+2- Please followup with your outpatient doctor to have an echo
+of your heart scheduled to evaluate your symptom of paroxysmal
+noctural dyspnea.
+.
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 1190**]
+
+Completed by:[**3416-10-12**]
+
+
+DOC CLASS

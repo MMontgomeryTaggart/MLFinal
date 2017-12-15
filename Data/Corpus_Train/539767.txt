@@ -1,0 +1,212 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ URINE CULTURE - At [**3057-11-25**] 09:00 AM
+ ARTERIAL LINE - START [**3057-11-25**] 03:30 PM
+   Neuro consulted - started propofol.  Will do full neuro exam on [**11-26**]
+   off propofol.  Recommended EEG to assess for subclinical epliptic
+   activity
+   EEG ordered
+   Aspirin stopped
+   CXR showing LLL opacity, sputum cultures with GNRs
+   A-line placed
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3057-11-25**] 04:00 PM
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3057-11-25**] 08:30 AM
+   Heparin Sodium (Prophylaxis) - [**3057-11-26**] 12:13 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3057-11-26**] 05:21 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.6
+C (99.6
+   HR: 73 (62 - 93) bpm
+   BP: 124/51(68) {124/51(68) - 155/81(90)} mmHg
+   RR: 15 (12 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    784 mL
+                                                                     92 mL
+   PO:
+             TF:
+   IVF:
+                                                                    604 mL
+                                                                     92 mL
+   Blood products:
+   Total out:
+                                                                  1,370 mL
+                                                                    260 mL
+   Urine:
+                                                                  1,360 mL
+                                                                    260 mL
+   NG:
+                                                                     10 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -586 mL
+                                                                   -168 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 242 (242 - 431) mL
+   PS : 12 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 129
+   PIP: 21 cmH2O
+   Plateau: 18 cmH2O
+   Compliance: 38.5 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.43/34/177/25/0
+   Ve: 6.1 L/min
+   PaO2 / FiO2: 443
+   Physical Examination
+   General Appearance: No acute distress, coughing
+   Eyes / Conjunctiva: PERRL, 3mm -->2mm and brisk
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube,
+   intact gag reflex
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal), S4, RV
+   lift, SEM @ LSB
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear  ),
+   Rhonchi b/l.
+   Abdominal: Soft, No(t) Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to voice commands, opens eyes, tracks, moves UE
+   and LE on demand (minimal distal movements against gravity) when not
+   sedated.  No posturing.
+   Labs / Radiology
+   379 K/uL
+   9.5 g/dL
+   142 mg/dL
+   0.8 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   14 mg/dL
+   107 mEq/L
+   141 mEq/L
+   28.8 %
+   12.3 K/uL
+        [image002.jpg]
+                             [**3057-11-23**]  05:51 PM
+                             [**3057-11-24**]  03:36 AM
+                             [**3057-11-24**]  04:40 AM
+                             [**3057-11-25**]  05:49 AM
+                             [**3057-11-25**]  03:57 PM
+   WBC
+   13.0
+   12.8
+   12.3
+   Hct
+   26.8
+   27.1
+   28.8
+   Plt
+   [**Telephone/Fax (3) 2564**]
+   Cr
+   0.9
+   1.0
+   0.8
+   TropT
+   0.03
+   TCO2
+   24
+   23
+   Glucose
+   78
+   137
+   142
+   Other labs: PT / PTT / INR:12.3/33.0/1.0, CK / CKMB /
+   Troponin-T:265/2/0.03, ALT / AST:39/32, Alk Phos / T Bili:69/1.0,
+   Albumin:3.6 g/dL, LDH:256 IU/L, Ca++:8.7 mg/dL, Mg++:1.9 mg/dL, PO4:3.2
+   mg/dL
+   Assessment and Plan
+   64F with history of idiopathic CM presenting on transfer after vfib
+   arrest.
+   # CORONARIES:  No known CAD with cardiac cath in [**7-29**] showing no flow
+   limiting lesions.   Given this will likely not require catheterization.
+   - Start carvedilol 12.5 [**Hospital1 **] as elevated BPs
+   - will d/c aspirin 325mg
+   # PUMP:  Most recent echo at OSH showed an EF that was unchanged from
+   prior (~30%).  No known etiology for depressed EF.  Lungs appear
+   unchaged on CXR (my read).   Per OP provider, [**Name10 (NameIs) **] has Class II HF at
+   baseline, thus no BiV pacer needed.
+   - Restarted losartan at home dose
+   - Lasix 20mg QD maintenance
+   - Carvedilol, as above
+   - Will get ICD before d/c pending Neuro evaluation
+   # RHYTHM:  Vfib noted on EMS tracings.  Shocked back into sinus.  Now
+   on carvedilol, sinus..
+   - Start carvedilol today
+   - ICD as above.
+   # Pulmonary.  Pt. intubated on AC, overbreathing the vent 3/17 times.
+   ABG  Also some concern re: Aspiration PNA vs. Pneumonitis.  RSBI >
+   200.  Possible CPAP trial today.  Extubation failed.
+   -          Continue Zosyn for now, given WBC and no respiratory
+   improvement.  .
+   -          Continue diuresis
+   -          Frequent suctioning, scopolamine patch
+   -          Off propofol for Neurol Consult.
+   # NEURO:  Improved significantly since arrival (see above for exam
+   findings), but is unchanged from yesterday.  Contact[**Name (NI) **] Dr. [**First Name8 (NamePattern2) **]
+   [**Last Name (NamePattern1) 282**] to further evaluate anoxic brain injury, Neurology will see.
+   # ANEMIA:  Known to have iron deficiency anemia; recieved one unit of
+   pRBC at OSH.   HCT stable, pt asymptomatic, since unlikely ischemic in
+   origin will not transfuse.  Retic hypoproliferative.  Fe studies as OP
+   to w/ up further.
+   - Guaiac stools
+   # HYPERNATREMIA:  Improved to Na 141 w/ free water.  Continue OG
+   feedigs.  .
+   # LEUKOCYTOSIS:  Persistent, likely peri-code, afebrile.  UA negative.
+   Possibly [**1-24**] to aspiration Pneumonitis vs PNA.
+   -          If has PNA, most likely aspiration; given intibation and
+   continued Aa gradient, will continue pip/tazo for now (see above).
+   -          F/[**Location **] read on CXR.
+   FEN: 1.5L fluid restriction.
+   ACCESS: PIVs, arterial line
+   PROPHYLAXIS:
+   -DVT ppx with SC heparin
+   CODE: Presumed full.  Discussed with family today progress to date and
+   plan of extubation trial.  Family will discuss code status and we will
+   readdress tomorrow.
+   DISPO: CCU until extubation.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3057-11-24**] 06:00 AM
+   20 Gauge - [**3057-11-24**] 11:54 PM
+   Arterial Line - [**3057-11-25**] 03:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

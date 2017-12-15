@@ -1,0 +1,194 @@
+Chief Complaint:
+   24 Hour Events:
+   - called out to floor yesterday; no beds yet, so wasn't transferred
+   - Weaned off nitro
+   - patient was chest pain free for most of day yesterday but described
+   chest pain and SOB while walking with PT.
+   -TEE demonstrated EF30%. Moderate to severe regional left ventricular
+   systolic dysfunction with mid to distal septal, anterior,
+   antero-lateral and apical hypokinesis to akinesis. No masses or thrombi
+   are seen in the left ventricle. There is no ventricular septal defect.
+   Right ventricular chamber size is normal with borderline normal free
+   wall function. Trivial pericardial effusion. Trivial MR.
+   [**Name14 (STitle) 11487**] Heparin IV per Weight-Based Dosing Guidelines yesterday at 1pm
+   -Urine studies: FENA .08%
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,350 units/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2821-2-10**] 08:30 AM
+   Coumadin (Warfarin) - [**2821-2-10**] 05:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2821-2-11**] 06:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**22**] AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 38.2
+C (100.7
+   HR: 67 (57 - 77) bpm
+   BP: 128/68(80) {98/55(68) - 149/79(92)} mmHg
+   RR: 21 (12 - 23) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+             Total In:
+                                                                  1,431 mL
+                                                                     88 mL
+   PO:
+                                                                    660 mL
+             TF:
+   IVF:
+                                                                    771 mL
+                                                                     88 mL
+   Blood products:
+   Total out:
+                                                                    750 mL
+                                                                  1,775 mL
+   Urine:
+                                                                    750 mL
+                                                                  1,775 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    681 mL
+                                                                 -1,687 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///25/
+   Physical Examination
+   GENERAL: well nourished male in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric.  Moist mucus membranes
+   NECK: Supple , JVP difficult to assess b/c of thick neck
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2.
+   LUNGS: No chest wall deformities. Resp unlabored, no accessory muscle
+   use.  Diffuse crackles, increased at bases bilaterally.
+   ABDOMEN: Soft, obese, mildly distended, diffusely mildly tender,
+   abdominal hernia just left of midline.
+   EXTREMITIES: Trace bilateral lower extremity edema. Right groin site
+   nontender, no hematomas or bleeding, clean/dry/intact.
+   PULSES:
+   Right: Carotid 2+ DP 2+
+   Left: Carotid 2+ DP 2+
+   Labs / Radiology
+   155 K/uL
+   12.6 g/dL
+   139 mg/dL
+   1.6 mg/dL
+   25 mEq/L
+   3.4 mEq/L
+   27 mg/dL
+   100 mEq/L
+   134 mEq/L
+   36.4 %
+   12.8 K/uL
+        [image002.jpg]
+                             [**2821-2-9**]  07:31 PM
+                             [**2821-2-10**]  05:08 AM
+                             [**2821-2-11**]  02:18 AM
+   WBC
+   14.5
+   14.5
+   12.8
+   Hct
+   39.5
+   38.6
+   36.4
+   Plt
+   145
+   148
+   155
+   Cr
+   1.3
+   1.5
+   1.6
+   TropT
+   16.72
+   Glucose
+   133
+   143
+   139
+   Other labs: PT / PTT / INR:12.6/64.8/1.1, CK / CKMB /
+   Troponin-T:1350/75/16.72, Differential-Neuts:83.1 %, Lymph:8.5 %,
+   Mono:7.5 %, Eos:0.7 %, Ca++:8.5 mg/dL, Mg++:2.4 mg/dL, PO4:2.9 mg/dL
+   Imaging: CATH:
+   Selective coronary angiography in this left dominant system
+   demonstrated single vessel disease. The LMCA, LCx and RCA had minimal
+   disease. The LAD had a total occlusion mid-vessel.
+   ECHO:
+   EF 30%
+   The left atrium is mildly dilated. Left ventricular wall thicknesses
+   and cavity size are normal. There is moderate to severe regional left
+   ventricular systolic dysfunction with mid to distal septal, anterior,
+   antero-lateral and apical hypokinesis to akinesis. No masses or thrombi
+   are seen in the left ventricle. There is no ventricular septal defect.
+   Right ventricular chamber size is normal. with borderline normal free
+   wall function. The aortic arch is mildly dilated. The aortic valve
+   leaflets (3) are mildly thickened but aortic stenosis is not present.
+   No aortic regurgitation is seen. The mitral valve leaflets are mildly
+   thickened. There is no mitral valve prolapse. Trivial mitral
+   regurgitation is seen. The estimated pulmonary artery systolic pressure
+   is normal. There is a trivial/physiologic pericardial effusion.
+   Assessment and Plan
+   71 year old male with HTN, HLD who was transferred from an outside
+   hospital for STEMI after 4 days of constant chest pain, now s/p PCI
+   with DES x2 in LAD.
+   # CAD, s/p STEMI:
+   s/p PCI w DESx2 to mid LAD and mid distal LAD. Patient had 4 days of
+   constant chest pain with peak CK [**2810**] and Trop-I of 74. Currently chest
+   pain free.  EKG shows persistent ST elevations in leads V2-V5 after
+   intervention, may have aneurysm, risk of free wall rupture/VSD.
+   Integrilin drip finished yesterday morning 10am.  Weaned off nitro
+   yesterday.  Complained of chest pain w physical therapy yesterday.
+   Persistent ST changes on EKG suggest aneurysm.
+   - continue aspirin, prasugrel
+   - cont low dose metoprolol
+   - start high dose statin
+   - morphine for pain control
+   - started on heparin drip for prevention of LV thrombus
+   - will need coumadin chronically for aneurysm
+   # Acute Renal Failure
+   Received small dye load (130cc) during Cardiac Cath two days ago.
+   Urine electrolytes show FeNa 0.08%, but he does not appear dry on exam,
+   though hyaline casts in UA also suggest intravascular volume depletion;
+   FeNa could also suggest contrast-induced nephropathy.
+   # Acute Fluid overload
+   Likely secondary to stunned myocardium post MI and decreased EF 30%.
+   Patient not on diuretics at home aside from Triamterene/HCTZ for BP
+   control.  No complaints of acute shortness of breath, and will not
+   diurese anyway in setting of possible contrast-induced nephropathy.
+   - monitor for now
+   # Hypertension
+   - restart home triamterene/HCTZ
+   - can uptitrate beta blocker as well as tolerated by BP
+   # BPH
+   - continue home flomax and cardura
+   ICU Care
+   Nutrition:   Cardiac Healthy
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2821-2-9**] 05:05 PM
+   20 Gauge - [**2821-2-9**] 05:19 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:   Transfer to floor
+
+
+
+DOC CLASS

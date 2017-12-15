@@ -1,0 +1,203 @@
+MICU Intern Progress Note:
+   24 Hour Events:
+   - TTE done - LVEF 60%, no change from [**3094-4-18**]
+   - started digoxin for afib rate control
+   - tried to wean phenylephrine gtt, but mild tachycardia and slight
+   hypotension, so restarted on lowest dose, reattempting the wean
+   overnight
+   - episodes of afib w RVR overnight --> given digoxin .250 IV x1, then
+   metoprolol 5mg IV x 6 (30mg total), repleted K/Mg, 1L NS bolus, 1 amp
+   bicarb (bicarb 15 on stat labs)
+   Allergies:
+   Ativan (Injection) (Lorazepam)
+   Confusion/Delir
+   Prochlorperazine
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Vancomycin - [**3094-5-1**] 08:00 PM
+   Fluconazole - [**3094-5-1**] 08:00 PM
+   Cefipime - [**3094-5-2**] 12:00 AM
+   Infusions:
+   Phenylephrine - 0.3 mcg/Kg/min
+   Other ICU medications:
+   Enoxaparin (Lovenox) - [**3094-5-1**] 08:00 PM
+   Metoprolol - [**3094-5-2**] 03:25 AM
+   Haloperidol (Haldol) - [**3094-5-2**] 03:30 AM
+   Sodium Bicarbonate 8.4% (Amp) - [**3094-5-2**] 03:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3094-5-2**] 07:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.6
+C (97.9
+   HR: 114 (77 - 144) bpm
+   BP: 102/50(63) {79/39(53) - 136/85(91)} mmHg
+   RR: 9 (9 - 18) insp/min
+   SpO2: 93%
+   Heart rhythm: AF (Atrial Fibrillation)
+    CVP: 4 (4 - 4)mmHg
+   Total In:
+                                                                  1,769 mL
+                                                                  1,794 mL
+   PO:
+                                                                    720 mL
+   TF:
+   IVF:
+                                                                  1,049 mL
+                                                                  1,744 mL
+   Blood products:
+   Total out:
+                                                                  1,300 mL
+                                                                    220 mL
+   Urine:
+                                                                  1,300 mL
+                                                                    220 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    469 mL
+                                                                  1,574 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   ABG: ///15/
+   Physical Examination
+   General Appearance: No acute distress, Thin
+   Eyes / Conjunctiva: PERRL, slightly dry MM
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), no m/r/g
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Extremities: Right: 2+, Left: 2+, teds stockings in place
+   Skin:  Warm, no rashes
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Oriented (to): person, place but not date, Movement: Not assessed,
+   Tone: Not assessed, occasionally makes statements that do not make
+   sense, appears delirious
+   Labs / Radiology
+   105 K/uL
+   9.2 g/dL
+   151 mg/dL
+   0.8 mg/dL
+   15 mEq/L
+   3.8 mEq/L
+   17 mg/dL
+   112 mEq/L
+   143 mEq/L
+   26.3 %
+   13.4 K/uL
+        [image002.jpg]
+                             [**3094-4-30**]  02:44 PM
+                             [**3094-5-1**]  05:28 AM
+                             [**3094-5-2**]  01:27 AM
+   WBC
+   11.0
+   13.4
+   Hct
+   26.2
+   26.3
+   Plt
+   116
+   105
+   Cr
+   0.7
+   0.7
+   0.8
+   TropT
+   0.09
+   Glucose
+   67
+   101
+   151
+   Other labs: PT / PTT / INR:14.1/36.4/1.2, CK / CKMB /
+   Troponin-T:13/4/0.09, ALT / AST:17/30, Alk Phos / T Bili:94/0.6, Lactic
+   Acid:6.4 mmol/L, LDH:474 IU/L, Ca++:8.8 mg/dL, Mg++:1.9 mg/dL, PO4:2.4
+   mg/dL
+   Assessment and Plan
+   61M w DLBCL s/p multiple doses of chemotherapy w hospital course c/b
+   AF/RVR, hypercalcemia, and RUE DVT, who is being transferred to [**Hospital Unit Name 42**]
+   with afib with RVR in the setting of hypotension.
+   # Atrial fibrillation w RVR: unclear etiology, possibly in the setting
+   of hypovolemia vs malignant pericardial effusions vs infection/sepsis.
+   Responded to amiodarone in the past.
+   - rate control w digoxin at baseline
+   - if unstable, consider phenylephrine bolus vs amiodarone 150mg IV vs
+   metoprolol IV if BP tolerates
+   - attempt to wean phenylephrine gtt
+   - IVF boluses prn to maintain urine output, keep MAPs > 60.
+   - f/u bl cxs
+   - vancomycin and cefepime for broad-coverage
+   - telemetry
+   # Hypotension: unclear etiology, likely combination of poor po intake w
+   possible sepsis [**12-25**] infxn (?line infxn), worsened by afib w RVR.
+   - vancomycin and cefepime for broad-coverage
+   - attempt to wean phenylephrine gtt
+   - no a-line for now per pt and wife's wishes.
+   # Agitation: intermittently delirious
+   - haldol PRN
+   # h/o DVTs - Has known h/o bilateral LE DVTs and RUE DVT, s/p IVC
+   filter [**1-29**]. On enoxaparin, which was last held on [**4-11**] when plts 20K.
+   Possible that pt may have PE given recent afib with RVR, hypotension.
+   - Continue enoxaparin at 60 mg SQ [**Hospital1 **].
+   - Per BMT, would hold enoxaparin if plts < 20K.
+   .
+   # Leukocytosis
+ [**12-25**] Infxn vs steroids.
+   - Monitor fever curve.
+   - Follow-up bld cxs, UA
+   # Thrombocytopenia - Per BMT, because pt requires lovenox for treatment
+   and prevention of further DVTs, the patient's platelet count should be
+   kept greater than 50K.
+   - Follow plt count and transfuse for > 50K.
+   .
+   # Anemia - Likely related to anemia of chronic disease. Less likely
+   that anemia is [**12-25**] chemo nadir at this point as last chemo was 1 month
+   ago.
+   - Follow Hct, transfuse for less than 24 per BMT.
+   - Keep T&S active.
+   - Guaiac stools.
+   # Metabolic anion gap acidosis - Has been increasing over past few
+   days. Likely secondary to lactic acidosis that may be secondary to
+   hypoperfusion vs. increased cell death/turnover from recurrent
+   lymphoma, although this has not yet been verified by biopsy.
+   - Check venous lactate.
+   - Closely monitor for worsening gap.
+   .
+   # Nausea - Per BMT note, etiology unclear. Pt not currently complaining
+   of this. Evaluated by GI and neurology on previous admission. GI
+   recommended continuing with max dose reglan and an outpatient
+   esophagael motility study.
+   - reglan 2.5 mg PO tid with meals and prn
+   - zyprexa 5 mg ODT TID prn
+   - IV zofran prn
+   .
+   # Back pain - Evaluated by pain service on last admission. Not
+   currently complaining of back pain. Continue methadone.
+   .
+   # GERD - Continue pantoprazole.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3094-4-30**] 02:19 PM (left IJ placed by IR on [**3-28**]/9)
+   Prophylaxis:
+   DVT: lovenox
+   Stress ulcer: pantoprazole
+   VAP:
+   Comments:
+   Communication:  Comments: family
+   Code status:  DNR/DNI
+   Disposition:
+
+
+
+DOC CLASS

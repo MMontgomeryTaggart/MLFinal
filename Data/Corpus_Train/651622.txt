@@ -1,0 +1,233 @@
+CVICU
+   HPI:
+   HD9   POD 8-Redo sternotomy/Asc. aorta, total arch(#28 Gelweave)
+   Ejection Fraction:55
+   Hemoglobin A1c:5.8
+   Pre-Op Weight:203 lbs   92.08 kgs
+   Baseline Creatinine:1.0
+   TLD:R IJ TLC (wire change):Day6
+   PMHx:
+   PMH:PVD, Asc Aortic aneurysm/Type A dissection, Htn, CHF, A fib s/p
+   ablation [**6-7**], Tachy-Brady syndrome s/p pacemaker, ? Hypertrophic
+   obstructive cardiomyopathy, Ventral Hernia, Cholelithiasis, BPH,
+   Diverticulosis, Spinal stenosis (cortison inj. 3 yrs ago
+   PSH: Replacement of Asc Ao(26mm Gelweave graft)/resusp of Aortic
+   Valve/CABGx1(SVG to PDA) [**1-3**],Coil embolization of left internal iliac
+   [**6-6**], s/p Tonsillectomy, s/p left trigger finger release, s/p removal
+   of skin lesion right shoulder
+   [**Last Name (un) 550**]: Norvasc 5', Lipitor 20', Lasix 20', Lopressor 150", KCl 20',
+   Flomax 0.4', ASA 81', Colace 200', MVI, Multag 400', Lorazepam 0.5',
+   Naproxen prn
+   Current medications:
+   Acetaminophen (Liquid) 5. Aspirin 6. Atorvastatin 7. Bisacodyl 8.
+   Calcium Gluconate 9. Chlorhexidine Gluconate 0.12% Oral Rinse 10.
+   Dextrose 50% 11. Docusate Sodium (Liquid) 12. Dronedarone 13.
+   Furosemide 14. Heparin 15. HydrALAzine 16. Influenza Virus Vaccine 17.
+   Insulin 18. Lactulose 19. LeVETiracetam 20. Magnesium Sulfate 21.
+   Metoclopramide 22. Milk of Magnesia 23. Oxycodone-Acetaminophen 24.
+   PHENObarbital Phenytoin 28. Phenylephrine 29. Piperacillin-Tazobactam
+   Potassium Chloride 32. Propofol 33. Ranitidine (Liquid) 34. Sodium
+   Chloride 0.9% Flush 35. Tamsulosin 36. Vancomycin
+   24 Hour Events:
+ WOUND CULTURE - At [**3303-9-10**] 02:49 PM
+   sternal wound culture sent
+ FEVER - 103.1
+F - [**3303-9-10**] 03:00 PM
+   Post operative day:
+   POD#8 - [**9-3**] Redo Sternostomy, ascending aorta  & total arch
+   replacement
+   Allergies:
+   Amiodarone
+   hyperthryoidism
+   Monosodium Glutamate
+   violent headach
+   Last dose of Antibiotics:
+   Vancomycin - [**3303-9-10**] 08:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**3303-9-11**] 01:19 AM
+   Infusions:
+   Heparin Sodium - 1,200 units/hour
+   Phenylephrine - 1.8 mcg/Kg/min
+   Propofol - 50 mcg/Kg/min
+   Other ICU medications:
+   Dilantin - [**3303-9-10**] 11:00 AM
+   Furosemide (Lasix) - [**3303-9-10**] 09:48 PM
+   Flowsheet Data as of  [**3303-9-11**] 08:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**05**] a.m.
+   Tmax: 39.5
+C (103.1
+   T current: 37.7
+C (99.9
+   HR: 107 (96 - 120) bpm
+   BP: 84/49(61) {84/47(59) - 151/83(97)} mmHg
+   RR: 15 (13 - 26) insp/min
+   SPO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 115 kg (admission): 92.3 kg
+   Height: 70 Inch
+   CVP: 17 (15 - 55) mmHg
+   Total In:
+                                                                  4,140 mL
+                                                                  1,427 mL
+   PO:
+   Tube feeding:
+                                                                    960 mL
+                                                                    318 mL
+   IV Fluid:
+                                                                  2,985 mL
+                                                                  1,109 mL
+   Blood products:
+   Total out:
+                                                                  2,040 mL
+                                                                    460 mL
+   Urine:
+                                                                  2,040 mL
+                                                                    460 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,100 mL
+                                                                    967 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: PRVC/AC
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 0 (0 - 0) mL
+   RR (Set): 12
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 23 cmH2O
+   Plateau: 23 cmH2O
+   SPO2: 92%
+   ABG: 7.38/43/110/25/0
+   Ve: 8.4 L/min
+   PaO2 / FiO2: 220
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese, intubated
+   and sedated
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : throughout), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Responds to: Unresponsive), Sedated, sedated
+   w/propofol/phenobarb
+   Labs / Radiology
+   158 K/uL
+   10.2 g/dL
+   122 mg/dL
+   1.5 mg/dL
+   25 mEq/L
+   4.8 mEq/L
+   51 mg/dL
+   105 mEq/L
+   141 mEq/L
+   30.7 %
+   9.8 K/uL
+        [image002.jpg]
+                            [**3303-9-8**]  05:18 AM
+                            [**3303-9-8**]  12:35 PM
+                            [**3303-9-9**]  04:15 AM
+                            [**3303-9-10**]  02:54 AM
+                            [**3303-9-10**]  03:54 AM
+                            [**3303-9-10**]  01:23 PM
+                            [**3303-9-10**]  01:38 PM
+                            [**3303-9-10**]  05:18 PM
+                            [**3303-9-10**]  10:12 PM
+                            [**3303-9-11**]  03:59 AM
+   WBC
+   5.4
+   5.9
+   9.8
+   Hct
+   30.3
+   30.8
+   32.6
+   30.7
+   Plt
+   111
+   144
+   158
+   Creatinine
+   1.0
+   1.2
+   1.5
+   TCO2
+   28
+   25
+   26
+   25
+   26
+   Glucose
+   96
+   103
+   111
+   113
+   135
+   122
+   Other labs: PT / PTT / INR:14.1/63.8/1.2, ALT / AST:18/33, Alk-Phos / T
+   bili:53/0.8, Amylase / Lipase:39/19, Fibrinogen:150 mg/dL, Lactic
+   Acid:1.3 mmol/L, Albumin:3.7 g/dL, LDH:215 IU/L, Ca:8.2 mg/dL, Mg:2.3
+   mg/dL, PO4:5.3 mg/dL
+   Assessment and Plan
+   FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), IMPAIRED
+   SKIN INTEGRITY, SEIZURE, WITHOUT STATUS EPILEPTICUS, AORTIC ANEURYSM,
+   THORACIC (TAA)
+   Assessment and Plan: 76yo man s/p asc aorta/root replacement. Post-op
+   seizure activity despite dilantin/depakote and keppra now on
+   phenobarbital. Head CT negative
+   Blood and sputum cultures now positive on Vanco/Zosyn
+   Neurologic: Restraints, continuous EEG monitor. Loaded with Phenobarb
+   yesterday will attempt slow wean of Propofol now w/phenobarb on board.
+   Continue Keppra/Dilantin(check levels)
+   Cardiovascular: Aspirin, Full anticoagulation, Heparin infusion for
+   Afib-on Multag
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), cxr w/LLL opacity
+   Sputum Cx w/GPC
+   Continue full ventilation until able to wean sedation
+   Gastrointestinal / Abdomen: feeding tube in place
+   Nutrition: Tube feeding, TF at goal rate
+   Renal: Foley, Adequate UO, BUN/Cr rising, no peripheral edema will hold
+   Lasix
+   Hematology: stable post-op anemia
+   Endocrine: RISS
+   Infectious Disease: GPC in blood from [**9-10**]
+   GPC in sputum from [**9-10**]
+   Currently on Vanco/Zosyn will resite lines today
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults: Vascular surgery, CT surgery, Neurology
+   ICU Care
+   Nutrition: Nutren Pulmonary (Full) - [**3303-9-10**] 12:13 PM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines: Arterial Line - [**3303-9-3**] 06:45 PM
+   Multi Lumen - [**3303-9-6**] 04:02 PM
+   Prophylaxis: DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) 117**] [**Doctor Last Name **].  Updated wife this morning
+   regarding patient
+s condition.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 196**] [**Last Name (NamePattern1) 5551**], MD
+   on:[**3303-9-11**] 04:29 PM ------
+
+
+
+DOC CLASS

@@ -1,0 +1,188 @@
+Chief Complaint: shock
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   end stage liver, metastatic HCC
+   24 Hour Events:
+ EKG - At [**2752-9-9**] 05:25 PM
+   Bolus 1 L NS overnight
+   3 C diff negative
+   This AM complaining of abdominal distension and tightness
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2752-9-10**] 05:30 AM
+   Metronidazole - [**2752-9-10**] 08:00 AM
+   Piperacillin - [**2752-9-10**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2752-9-10**] 09:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.2
+C (97.1
+   Tcurrent: 36.2
+C (97.1
+   HR: 69 (66 - 113) bpm
+   BP: 113/45(63) {80/41(55) - 146/92(148)} mmHg
+   RR: 11 (11 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 69.8 kg (admission): 68 kg
+   CVP: 16 (10 - 129)mmHg
+   Total In:
+                                                                  2,100 mL
+                                                                    698 mL
+   PO:
+                                                                    460 mL
+   TF:
+   IVF:
+                                                                  1,640 mL
+                                                                    698 mL
+   Blood products:
+   Total out:
+                                                                  1,705 mL
+                                                                    585 mL
+   Urine:
+                                                                    805 mL
+                                                                    585 mL
+   NG:
+   Stool:
+                                                                    400 mL
+   Drains:
+   Balance:
+                                                                    395 mL
+                                                                    113 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///13/
+   Physical Examination
+   General Appearance: Thin, conversant complaining of abd pain
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition
+   Cardiovascular: (S1: Normal, No(t) Absent), (S2: Normal
+   Respiratory / Chest: dimished BS with bibasilar rales nut no wheezes
+   Extremities: echymoses from post back to ankle on left
+ stable to
+   improved from yesterdya
+   Musculoskeletal: Muscle wasting, Unable to stand
+   Skin:  warm, ecchymotic as above, left hip ulceration
+   Neurologic: Attentive, Follows simple commands
+   Labs / Radiology
+   9.3 g/dL
+   130 K/uL
+   113 mg/dL
+   2.0 mg/dL
+   13 mEq/L
+   3.8 mEq/L
+   46 mg/dL
+   120 mEq/L
+   146 mEq/L
+   29.9 %
+   67.7 K/uL
+        [image002.jpg]
+                             [**2752-9-7**]  03:02 AM
+                             [**2752-9-7**]  09:06 AM
+                             [**2752-9-7**]  04:07 PM
+                             [**2752-9-8**]  05:16 AM
+                             [**2752-9-8**]  05:51 PM
+                             [**2752-9-9**]  03:48 AM
+                             [**2752-9-9**]  01:00 PM
+                             [**2752-9-9**]  04:23 PM
+                             [**2752-9-9**]  08:51 PM
+                             [**2752-9-10**]  03:34 AM
+   WBC
+   75.8
+   88.3
+   85.5
+   76.2
+   62.4
+   82.6
+   67.7
+   Hct
+   29.5
+   27.9
+   29.3
+   32.5
+   28.8
+   27.7
+   29.2
+   30.7
+   29.9
+   Plt
+   156
+   159
+   164
+   146
+   136
+   142
+   130
+   Cr
+   2.0
+   2.0
+   2.1
+   2.1
+   2.2
+   2.0
+   Glucose
+   78
+   90
+   97
+   94
+   142
+   114
+   113
+   Other labs: PT / PTT / INR:16.3/61.0/1.5, CK / CKMB /
+   Troponin-T:39/3/<0.01, ALT / AST:15/25, Alk Phos / T Bili:335/2.0,
+   Amylase / Lipase:31/25, Differential-Neuts:96.0 %, Band:0.0 %,
+   Lymph:1.0 %, Mono:3.0 %, Eos:0.0 %, Lactic Acid:2.1 mmol/L, Albumin:2.6
+   g/dL, LDH:279 IU/L, Ca++:8.6 mg/dL, Mg++:2.1 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   1) Septic shock-Off pressors most likely source is abdominal given
+   recent C. diff but we now have 3 neg C diff. we are sending off toxin
+   and will keep on therapy for now. He has had neg blood urine and
+   peritoneal fluid culture> Non con abd ct negative at admission.
+   Hematoma could be superinfected but this would be a 2ndry process not
+   the initial etiology of his sepsis. At this point we will complete
+   7 days for zosyn/vanc and continue flagyl/po vanc and follow
+   clinically.  Resend peritoneal fluid.  Add on ESR and CRP - ? osteo.
+   Could consider tagged WBC scan
+ but given his overall prognosis the
+   likelihood of finding something upon which we could intervene may be
+   low. Will discuss further with Dr [**Last Name (STitle) 2183**].
+   2) Acute renal failure likely due to shock/ATN -improving urine
+   output.
+   3) Leukocytosis WBC 64 now trending down, likely reactive given
+   increased LAP score and responding to antibiotics
+   4) Flank hematoma Hgb stable, large ecchymosis on exam holding without
+    transfusion
+   5) Free Water deficit- calculate free water deficit and replete
+ with
+   d5 w today.
+   6) Cirrhosis-Lactulose at TID with voluminous output, change to [**Hospital1 **]
+   ICU Care
+   Nutrition: soft solids, speech and swallow
+   Glycemic Control:  SSRi
+   Lines:
+   18 Gauge - [**2752-9-5**] 05:00 PM
+   Presep Catheter - [**2752-9-5**] 05:58 PM
+   Prophylaxis:
+   DVT: Boots
+   Communication:  with ot and wife
+   [**Name (NI) 62**] status: DNR / DNI
+   Disposition :Transfer to floor
+
+
+
+DOC CLASS

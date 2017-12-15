@@ -1,0 +1,185 @@
+CVICU
+   HPI:
+   [**3-7**] POD 2
+   69 M s/p AVR (pericardial), CABGx4 (SVG to LAD, SVG to Diag, SVG to OM,
+   SVG to PDA) [**3-5**]
+   Wt 70.9 Cre 1.1 EF 25
+   PMHx: CM, CHF, DM, BPH, gastric ulcers, s/p prostate surgery
+   [**Last Name (un) 500**]: ASA 81, Advair 100/50, Coreg 3.125 [**Hospital1 **], glucophage 1000 in the am/
+   500 mg in PM, lasix 50mg [**Hospital1 **], lanoxin 0.125 [**Hospital1 **], zestril 40
+   24 Hour Events:
+ EXTUBATION - At [**3214-3-6**] 01:00 PM
+ INVASIVE VENTILATION - STOP [**3214-3-6**] 01:00 PM
+ ARTERIAL LINE - STOP [**3214-3-6**] 05:00 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**3214-3-6**] 12:25 PM
+   Cefazolin - [**3214-3-6**] 08:00 PM
+   Infusions:
+   Norepinephrine - 0.03 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**3214-3-6**] 01:15 PM
+   Pantoprazole (Protonix) - [**3214-3-6**] 06:24 PM
+   Other medications:
+   Flowsheet Data as of  [**3214-3-7**] 10:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**17**] a.m.
+   HR: 69 (69 - 82) bpm
+   BP: 102/55(67) {85/48(58) - 126/76(80)} mmHg
+   RR: 12 (0 - 28) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 79.9 kg (admission): 76.5 kg
+   Height: 68 Inch
+   CVP: 19 (5 - 19) mmHg
+   PAP: (42 mmHg) / (15 mmHg)
+   CO/CI (Fick): (3.9 L/min) / (2 L/min/m2)
+   CO/CI (CCO): (3.7 L/min) / (1.5 L/min/m2)
+   SvO2: 59%
+   Mixed Venous O2% sat: 66 - 66
+   Total In:
+                                                                  2,140 mL
+                                                                    176 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,030 mL
+                                                                    176 mL
+   Blood products:
+                                                                  1,050 mL
+   Total out:
+                                                                  5,540 mL
+                                                                    945 mL
+   Urine:
+                                                                  4,760 mL
+                                                                    665 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,400 mL
+                                                                   -769 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: Standby
+   Vt (Spontaneous): 475 (475 - 475) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 4%
+   PIP: 11 cmH2O
+   SPO2: 99%
+   ABG: 7.44/39/137/26/2
+   Ve: 8.9 L/min
+   PaO2 / FiO2: 3,425
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bases)
+   Abdominal: Soft
+   Left Extremities: (Edema: 1+)
+   Right Extremities: (Edema: 1+)
+   Neurologic: Follows simple commands, Moves all extremities
+   Labs / Radiology
+   109 K/uL
+   11.4 g/dL
+   88 mg/dL
+   1.4 mg/dL
+   26 mEq/L
+   4.7 mEq/L
+   41 mg/dL
+   109 mEq/L
+   143 mEq/L
+   31.6 %
+   14.0 K/uL
+        [image002.jpg]
+                             [**3214-3-5**]  06:43 PM
+                             [**3214-3-5**]  07:25 PM
+                             [**3214-3-6**]  02:00 AM
+                             [**3214-3-6**]  02:07 AM
+                             [**3214-3-6**]  08:17 AM
+                             [**3214-3-6**]  11:03 AM
+                             [**3214-3-6**]  03:48 PM
+                             [**3214-3-6**]  09:38 PM
+                             [**3214-3-6**]  09:50 PM
+                             [**3214-3-7**]  02:04 AM
+   WBC
+   10.6
+   11.0
+   12.4
+   14.0
+   Hct
+   27.1
+   24.5
+   26.4
+   31.7
+   31.3
+   37
+   31.6
+   Plt
+   193
+   155
+   142
+   112
+   109
+   Creatinine
+   1.7
+   1.5
+   1.4
+   TCO2
+   21
+   27
+   27
+   Glucose
+   93
+   141
+   130
+   82
+   77
+   88
+   Other labs: PT / PTT / INR:16.5/32.5/1.5, Fibrinogen:245 mg/dL, Lactic
+   Acid:1.9 mmol/L, Ca:8.3 mg/dL, Mg:2.0 mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), CORONARY ARTERY BYPASS GRAFT
+   (CABG), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), BRADYCARDIA
+   Assessment and Plan: Improving
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled
+   Cardiovascular: Aspirin, Statins, Wean off levophed then D/C PAC. When
+   off levo start ACE and beta blocker
+   Pulmonary: OOB and CPT
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet
+   Renal: Foley
+   Hematology: Start SC heparin
+   Endocrine: RISS
+   Infectious Disease: Check cultures
+   Lines / Tubes / Drains: Foley
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Post-op complication, Post-op shock
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   CCO PAC - [**3214-3-5**] 05:01 PM
+   Cordis/Introducer - [**3214-3-5**] 05:02 PM
+   20 Gauge - [**3214-3-7**] 09:30 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

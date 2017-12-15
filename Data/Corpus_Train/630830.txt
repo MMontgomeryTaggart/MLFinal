@@ -1,0 +1,199 @@
+CVICU
+   HPI:
+   HD8   POD 6-s/p ascending aorta replacement resuspension AVR
+   Ejection Fraction:55%
+   Pre-Op Weight:242.5 lbs   110 kgs
+   Baseline Creatinine:4 (acute)
+   PMHx: HTN, s/p T+A
+   [**Last Name (un) **]: HCTZ ? dose
+   Current medications:
+   Acetaminophen, Albuterol 0.083% Neb Soln, Amiodarone, Amlodipine,
+   Aspirin, Bisacodyl, CefazoLIN, Heparin, HydrALAzine, Insulin,
+   Ipratropium Bromide Neb, Lactulose, Metoprolol Tartrate, Tamsulosin,
+   Zantac
+   24 Hour Events:
+   Remains in ICU for hemodynamic and respiratory management
+   Atrial fibrillation treated with Amiodarone and BB, no anticoagulation
+   per Dr [**Last Name (STitle) **]
+   Extubated without complications
+   Continues with rising creatinine and BUN
+ lasix x1 with adequate urine
+   output
+   Post operative day:
+   POD#6 - ascending aorta graft
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2777-9-3**] 07:50 AM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Nitroglycerin - 2 mcg/Kg/min
+   Insulin - Regular - 2 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2777-9-3**] 07:15 AM
+   Famotidine (Pepcid) - [**2777-9-3**] 10:10 AM
+   Diltiazem - [**2777-9-3**] 04:50 PM
+   Hydralazine - [**2777-9-3**] 08:13 PM
+   Heparin Sodium (Prophylaxis) - [**2777-9-4**] 12:08 AM
+   Metoprolol - [**2777-9-4**] 03:30 AM
+   Fentanyl - [**2777-9-4**] 03:53 AM
+   Flowsheet Data as of  [**2777-9-4**] 05:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**79**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 37.1
+C (98.8
+   HR: 66 (62 - 136) bpm
+   BP: 137/74(94) {106/55(70) - 146/78(97)} mmHg
+   RR: 18 (13 - 32) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 114.6 kg (admission): 113.6 kg
+   Height: 70 Inch
+             Total In:
+                                                                  1,527 mL
+                                                                    269 mL
+   PO:
+             Tube feeding:
+                                                                    133 mL
+   IV Fluid:
+                                                                  1,334 mL
+                                                                    269 mL
+   Blood products:
+   Total out:
+                                                                  2,310 mL
+                                                                    420 mL
+   Urine:
+                                                                  2,060 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -783 mL
+                                                                   -151 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.51/24/91.[**Numeric Identifier 244**]/20/-1
+   PaO2 / FiO2: 131
+   Physical Examination
+   General Appearance: Overweight / Obese, following commands
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )  no sternal drainage this am
+   Abdominal: Soft, distended, Non-tender, Bowel sounds present, Obese,
+   Bowel movement
+   Left Extremities: (Temperature: Warm), (Pulse - Dorsalis pedis:
+   Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Temperature: Warm), (Pulse - Dorsalis pedis:
+   Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact) right groin mild erythema no
+   drainage
+   Neurologic: (Responds to: Verbal stimuli), Will move thumbs to request
+   able to lift right arm and leg - left arm moves thumb left leg wiggles
+   toes, slight withdrawal to pain
+   Labs / Radiology
+   174 K/uL
+   9.3 g/dL
+   96 mg/dL
+   6.8 mg/dL
+   20 mEq/L
+   3.5 mEq/L
+   125 mg/dL
+   106 mEq/L
+   143 mEq/L
+   28.4 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**2777-9-2**]  08:46 AM
+                             [**2777-9-2**]  01:52 PM
+                             [**2777-9-2**]  05:12 PM
+                             [**2777-9-3**]  04:13 AM
+                             [**2777-9-3**]  04:52 AM
+                             [**2777-9-3**]  07:48 AM
+                             [**2777-9-3**]  08:42 AM
+                             [**2777-9-3**]  10:55 AM
+                             [**2777-9-4**]  04:11 AM
+                             [**2777-9-4**]  04:31 AM
+   WBC
+   7.4
+   9.9
+   Hct
+   27.0
+   27.4
+   28.4
+   Plt
+   139
+   174
+   Creatinine
+   5.8
+   6.1
+   6.1
+   6.8
+   TCO2
+   21
+   23
+   24
+   22
+   22
+   20
+   Glucose
+   106
+   96
+   Other labs: PT / PTT / INR:14.9/26.1/1.3, CK / CK-MB / Troponin
+   T:358//, ALT / AST:2/32, Alk-Phos / T bili:77/0.2, Amylase /
+   Lipase:33/44, Differential-Neuts:78.2 %, Lymph:10.4 %, Mono:6.9 %,
+   Eos:4.3 %, Fibrinogen:214 mg/dL, Lactic Acid:0.8 mmol/L, Ca:8.4 mg/dL,
+   Mg:3.0 mg/dL, PO4:6.4 mg/dL
+   Assessment and Plan
+   [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS, ACUTE RESPIRATORY
+   DISTRESS SYNDROME (ARDS, ACUTE LUNG INJURY, [**Doctor Last Name 73**]), ANXIETY, AORTIC
+   DISSECTION, PERICARDIAL EFFUSION WITH TAMPONADE
+   Assessment and Plan: 61 year old male Repair of type A aortic
+   dissection - 28-mm Dacron interposition tube graft from the sinotubular
+   junction > proximal arch using deep hypothermic circulatory arrest
+   Neurologic: tylenol for pain control, neuro checks q4h
+   Cardiovascular: Aspirin, Beta-blocker, Statins, wean nitro gtt off for
+   SBP < 130, continues on amiodarone for previous afib
+   Pulmonary: IS  cough and deep breath, continue with cool nebs for
+   humidification
+   Gastrointestinal / Abdomen:  Bowel regimen, flexiseal in place
+   Nutrition:  start clear advance as tolerate no difficulty with
+   swallowing
+   Renal: Foley, decreased urine output with increase Cr/BUN recheck labs
+   Renal continues to follow, plan for fluid balance even  BUN/Cr elevated
+   will continue to monitor. Prn Lasix for decreased urine output
+   Hematology: stable anemia
+   Endocrine: Insulin gtt with goal BG < 150 use lantus to transition to
+   sliding scale insulin
+   Infectious Disease: Cefazolin for sternal drainage, dose decreased due
+   to worsening renal function, continue with TID dressing changes WBC
+   normal 9  will monitor for fevers
+   Lines / Tubes / Drains: Foley maintaining due to renal failure
+   Wounds: Sternal wound no drainage distal incision
+   Consults: PT/OT, Nephrology
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Insulin infusion,
+   Lantus (R) protocol
+   Lines:
+   [**First Name4 (NamePattern1) 534**] [**Last Name (NamePattern1) **] - [**2777-8-29**] 03:20 AM
+   Arterial Line - [**2777-9-1**] 04:12 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

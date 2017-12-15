@@ -1,0 +1,428 @@
+Admission Date:  [**3150-10-29**]              Discharge Date:   [**3150-11-3**]
+
+Date of Birth:  [**3076-2-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ampicillin / Ceftin / Bactrim / Zocor / Lopressor
+
+Attending:[**First Name3 (LF) 4496**]
+Chief Complaint:
+Shortness of Breath
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+74 yo woman with past medical history of CHF, coronary artery
+disease s/p CABG in [**3137**] who presents to the hospital with
+shortness of breath that started 3-4 days ago and acutely
+worsened around 5 am this morning. She increased her home 02
+from 2L to 10L, took a nitro and took 40 mg Lasix without
+improvement.
+.
+Of note, the patient was recently hospitalized in CCU for CHF
+exacerbation between [**3150-10-1**] and [**3150-10-5**]. During that admission,
+she was diuresed with Lasix and sent home on PO Lasix.
+Amlodipine was stopped, Quinapril was decreased in dose to 5 mg
+daily and she was started on aspirin. She saw her cardiologist,
+Dr. [**First Name (STitle) 6563**], after admission who started Carvedilol (dose
+unknown.) Three days ago when she started to feel short of
+breath, Dr. [**First Name (STitle) 6563**] increased her Lasix from 20 mg daily to 40 mg
+daily.
+.
+At baseline, the patient is quite limited by exertional dyspnea
+and shortness of breath at baseline. She has 23 steps at home,
+and is able to get up those stairs but only very slowly. Her
+exertional dyspnea is predictable and rapidly resolves with
+cessation of activities. She also had a recent admission to [**Hospital 4831**] for a CHF exacerbation in [**Month (only) 539**], at which time
+she also had a cardiac catherization which per the patient
+showed patency in 3 of her 4 bypass grafts. After that
+admission, she was weaned off of her lasix by [**Month (only) 484**] due to drops
+in blood pressure- as noted above, this was restarted on last
+admission. She had a stress test in [**Month (only) 439**] which showed possible
+perfusion abnormalities.
+.
+On review of systems, she denies recent fever. She also has a
+history of DVTs x2 and had previously been on coumadin, but has
+been off of coumadin for at least 2 years. She has 3 pillow
+orthopnea. She denies fevers, chills or rigors. No change in
+bowel habits. No symptoms of claudication. No recent weight gain
+or change in eating habits.
+.
+On arrival to the ED, her BP was 200/100 with O2 saturations 95%
+on NRB and 100% on bipap breathing in 40s with rales bilaterally
+half way up the lungs on exam. In the ED, the patient was given
+80 mg IV Lasix and a Nitro drip was started. Pressure dropped to
+101/64 and O2 sats improved to 93% on 5L NC with RR 25.
+
+
+Past Medical History:
+ Coronary artery disease s/p coronary artery bypass
+graft in [**3137**], (stress test [**3146-7-22**] @[**Hospital3 **], under Dr.
+[**First Name (STitle) 6563**] [**Telephone/Fax (1) 28352**] shows mild ischemia LV RCA distribution
+consistent with old finding.)
+2. Carcinoid tumor of right middle lobe s/p resection.
+3. Diabetes mellitus, type 2, HbA1c=8.8 ([**6-/3145**])
+4. Obesity.
+5. Deep venous thrombosis, [**3123**], on Coumadin X6 months. Stopped
+Coumadin, had another DVT,[**3123**] placed on Coumadin since, s/p IVC
+filter, [**3144**]
+6. Oxygen dependent since lung surgery and for obstructive sleep
+apnea, uses 2L nasal cannula 02 at night at home. NO Bpap
+7. obstructive sleep apnea.
+8. restrictive lung disease
+9. carpel tunnel syndrome b/l, [**3126**]
+10. congestive heart failure (left atrium is mildly dilated.
+LVEF 67%/[**3146**])
+11.Anemia of Chronic disease, baseline Hct=30-33.0/Hb=10.
+12.HTN
+13.hypercholesterolemia
+
+
+Social History:
+-Tobacco history:  None
+-ETOH:  None
+-Illicit drugs:  None
+Is married, lives with husband, daughter and 1 of her sons.  [**Name (NI) 243**]
+2 other children.
+She lives with her husband, adult daughter and son (38 yo) in a
+
+[**Location (un) 1068**] apartment in [**Location (un) 79**], Mass. The indicates
+that she has 31 steps to climb. Her family is very supportive.
+Daughter,
+[**Name (NI) 28353**], is the contact @ Cell [**Telephone/Fax (1) 28354**]/Home [**Telephone/Fax (1) 28355**].
+Retired office asst. Pt is a native of [**Country 1938**], where she used to
+work as a nurse. [**First Name (Titles) **] [**Last Name (Titles) 28356**] currently or in past. No Etoh
+intake.
+
+
+Family History:
+Mother - diabetes
+
+Physical Exam:
+Admission Exam:
+GENERAL: Well appearing woman in NAD. Oriented x3. Mood, affect
+appropriate.  Speaking in full sentences.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of 6 cm.
+CARDIAC: Slightly muffled S1.  3/6 systolic murmur radiating to
+apex, possible [**1-11**] diastolic murmur.  Normal S2. No S3/S4
+LUNGS: Bibasilar crackles
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: Mild bilateral edema L>R.  Vein harvest scar on
+left
+leg. Warm and well perfused.
+PULSES:  1+ radial pulses bilaterally.  DP and PT Pulses not
+palpable.
+
+Pertinent Results:
+STUDIES:
+The left atrium is moderately dilated. The estimated right
+atrial pressure is 0-10mmHg. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is mild
+regional left ventricular systolic dysfunction with focal
+hypokinesis of the mid-septum. The remaining segments contract
+normally (LVEF = 55 %). [Intrinsic left ventricular systolic
+function is likely more depressed given the severity of valvular
+regurgitation.] Right ventricular chamber size and free wall
+motion are normal. The aortic valve leaflets are moderately
+thickened. There is severe aortic valve stenosis (valve area
+0.8-1.0cm2). Mild to moderate ([**1-7**]+) aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Moderate
+to severe (3+) mitral regurgitation is seen. There is moderate
+pulmonary artery systolic hypertension. There is a
+trivial/physiologic pericardial effusion.
+
+IMPRESSION: Severe aortic valve stenosis. Pulmonary artery
+systolic hypertension. Moderate to severe mitral regurgitation.
+Symmetric left ventricular hypertrophy with regional systolic
+dysfunction suggestive of CAD. Mild-moderate aortic
+regurgitation.
+
+CLINICAL IMPLICATIONS:
+The patient has severe aortic stenosis. Based on [**3146**] ACC/AHA
+Valvular Heart Disease Guidelines, if the patient is a surgical
+candidate, surgical intervention has been shown to improve
+survival.
+
+CT chest:
+IMPRESSIONS:
+
+1. Longstanding sternal nonunion following prior sternotomy,
+with
+fragmentation of multiple sternal closure wires, and
+well-corticated bony
+fragments in the sternotomy defect.
+
+2. Extensive atherosclerotic disease involving both the native
+and graft
+coronary vessels.
+
+3. Prior CABG with graft vessels arising from the anterior
+aspect of the
+ascending aorta. No atherosclerotic calcification involving the
+ascending
+aorta.
+
+4. Small bilateral pleural effusions with associated
+atelectasis.
+
+5. Small hiatal hernia.
+
+6. Cholelithiasis without cholecystitis.
+
+Carotid US:
+IMPRESSION:
+1. Heterogeneous plaque at the ostium of the right internal
+carotid artery as
+well as slightly more significantly in the proximal left
+internal and external
+carotid arteries.
+2. No significant stenosis noted on the right side.
+3. Suspected 60-69% stenosis involving the proximal left
+internal carotid
+artery.
+4. Prograde flow in both vertebral arteries.
+
+Pulmonary Report SPIROMETRY, LUNG VOLUMES, DLCO Study Date of
+[**3150-11-2**]  8:06 AM
+
+
+SPIROMETRY 8:06 AM Pre drug Post drug
+    Actual Pred %Pred Actual %Pred %chg
+FVC   1.23 2.10 58
+FEV1   1.00 1.42 70
+MMF   1.00 1.84 54
+FEV1/FVC   81 68 121
+
+LUNG VOLUMES 8:06 AM Pre drug Post drug
+    Actual Pred %Pred Actual %Pred
+TLC   2.36 3.62 65
+FRC   1.33 2.12 63
+RV   1.20 1.52 79
+VC   1.16 2.10 55
+IC   1.03 1.51 68
+ERV   0.14 0.60 23
+RV/TLC   51 42 121
+He Mix Time   2.13
+
+DLCO 8:06 AM
+    Actual Pred %Pred
+DSB   9.39 15.68 60
+VA(sb)   1.98 3.62 55
+HB   10.70
+DSB(HB)   10.37 15.68 66
+DL/VA   5.25 4.32 121
+
+
+
+
+
+
+
+Brief Hospital Course:
+74 y.o woman with history of CABG and CHF, also DVT who presents
+with acute onset of dyspnea and evidence of pulmonary edema,
+consistent with a severe exacerbation of congestive heart
+failure.
+.
+# Acute on chronic diastolic Congestive Heart Failure
+exacerbation: CHF exacerbation was attributed to severe Aortic
+Stenosis seen on echo. Pt was initially diuresed with lasix and
+had improved symptoms. Carvedilol and quinapril were initially
+held and then restarted. Furosemide was continued at previous
+dose of 40 mg daily. Weight at discharge was 184 pounds and pt
+appeared euvolemic.
+.
+# Severe Aortic stenosis: Pt found to have severe Aortic
+Stenosis with aortic valve area: 0.8-1.0cm2. Echo also revealed
+mod-severe MR. CT surgery was consulted and reccomended surgery.
+Pre-op workup was initiated. Pt had CT chest (revealing small
+bilateral pleural effusions and extensive atherosclerosis).
+Carotid US performed which showed 89% stenosis on left side and
+no sig stenosis on right side. PFTs returned showing mixed
+restrictive and obstructive disease. Cardiac surgeon Dr. [**First Name (STitle) 223**]
+[**Name (STitle) 222**] will schedule surgery.
+.
+# Coronary Artery Disease: R/O'd. No significant chest pain
+during hospital stay. Continued ASA 81 mg, Atorvastatin 40 mg
+daily. Given her marginal BP, Imdur was not given during
+hospital stay and not restarted at discharge. The RCA may be
+bypassed during the AVR surgery. If so, vein mapping will be
+needed and will be arranged by the cardiac surgeon.
+.
+# Hypertension: Restarted carvedilol and quinapril. Held Imdur.
+SBP 98-103 on day of discharge.
+.
+# Diabetes Mellitus: Sugars in the 170-350 range. Family
+requested [**Last Name (un) 93**] consult. She was started on 75/25 humalog here
+in the hospital with daily [**Last Name (un) 93**] oversight. She will go home on
+a new regimen of 70/30 Novalog (humalog with NPH) of 36 units in
+the morning and 24 units at night. She will also do fingersticks
+before each meal and has a new Humalog sliding scale. Metformin
+was held but restarted at discharge. She will f.u with [**Last Name (un) 93**]
+outpatient.
+.
+# GERD: Continued Esomeprazole
+.
+# Dispo: She will go home and return for surgery. She has an
+appt in 4 days with her cardiologist Dr. [**First Name (STitle) 6563**].
+
+Pt refuses VNA despite encouraging.
+Pt noted to have enlarged flat tongue with MCV in low 80s. Might
+have B12 def. Pts B12 levels should be checked and followed
+outpatient.
+
+Medications on Admission:
+atorvastatin 40mg
+Ascorbic acid 500mg [**Hospital1 **]
+Vit E 400U daily
+Esomeprazole Magnesium 40mg [**Hospital1 **]
+Mag Oxide 400mg [**Hospital1 **]
+Sucralfate 1g [**Hospital1 **]
+Nitroglycerin 0.4mg prn
+Metformin 500mg- 2 tabs [**Hospital1 **]
+Ferrous sulfate 325mg TID
+Omeprazole 20mg, 2 tabs [**Hospital1 **]
+Isosorbide Mononitrate 30mg daily
+Klorcon 8 MEQ once daily
+Carvedilol 3.125mg [**Hospital1 **] (Was recent started at once daily then
+increased to [**Hospital1 **] as of [**3150-10-10**] appt with Dr [**First Name (STitle) 6563**]
+furosemide 40 mg daily
+Quinipril 5mg daily
+Insulin NPH & Regular Human 100 unit/mL (70-30) Suspension; 50 U
+once daily
+Insulin NPH & Regular Human 100 unit/mL (70-30) Suspension; 20 U
+at bedtime
+XIBROM 0.09 % Drops; one drop daily
+
+
+Discharge Medications:
+1. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. ascorbic acid 500 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+3. vitamin E 400 unit Capsule Sig: One (1) Capsule PO once a
+day.
+4. esomeprazole magnesium 40 mg Capsule, Delayed Release(E.C.)
+Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.
+5. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO twice a
+day.
+6. Carafate 1 gram Tablet Sig: One (1) Tablet PO twice a day: do
+not take with other medicines.
+7. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet
+Sublingual as directed as needed for chest pain.
+8. metformin 500 mg Tablet Sig: Two (2) Tablet PO twice a day.
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+10. XIBROM 0.09 % Drops Sig: One (1) drop Ophthalmic one drop
+daily ().
+11. carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+12. Outpatient Lab Work
+please check Chem-7 at Dr.[**Name (NI) 28358**] office on [**3150-11-7**] with
+results to Dr. [**First Name (STitle) 6563**] at [**Telephone/Fax (1) 24913**]
+13. potassium chloride 8 mEq Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO once a day.
+14. Novolog Mix 70-30 100 unit/mL (70-30) Solution Sig: Thirty
+Six (36) units Subcutaneous before breakfast.
+Disp:*1 bottle* Refills:*2*
+15. Novolog Mix 70-30 100 unit/mL (70-30) Solution Sig: Twenty
+Four (24) units Subcutaneous before dinner.
+16. Humalog 100 unit/mL Solution Sig: as per sliding scale units
+Subcutaneous four times a day: check fingersticks 4 times a day
+before meals and at bedtime. .
+Disp:*1 bottle* Refills:*2*
+17. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day.
+18. quinapril 5 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Acute on Chronic Diastolic Congestive Heart Failure
+Critical Aortic Stenosis
+Coronary Artery Disease
+Diabetes Mellitus Type 2
+Hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+You had an acute exacerbation of congestive heart failure that
+was a result of a very tight aortic valve. You will need to have
+that valve replaced in the near future. You will be [**Telephone/Fax (1) 221**] by
+the cardiac surgery department at [**Hospital1 4**] to schedule and plan for
+this surgery. We have done many tests here to get you ready for
+the surgery including a CT scan of the chest, Pulmonary function
+tests, a sleep study, and a carotid ultrasound. You will need to
+have an sleep study after the surgery and should make an appt in
+the sleep clinic here to have that arranged.
+.
+Please get blood drawn while you are seeing Dr. [**First Name (STitle) 6563**] on [**11-7**].
+A prescription was given to you for that lab work.
+.
+Weigh yourself every morning, call Dr. [**First Name (STitle) 6563**] if weight goes up
+more than 3 lbs in 1 day or 5 pounds in 3 days.
+.
+We made the following changes to your medicines:
+1. Stop taking omeprazole, Vitamin E, potassium (Kdur) and Imdur
+(isosorbide mononitrate)
+2. Change insulin to 70/30 Novalog at 36 units in the morning
+and 24 units at night. You will also have a new sliding scale of
+humalog insulin to use before each meal.
+3. Decrease ferrous sulfate to once daily
+4. Start aspirin 81 mg (baby aspirin)
+
+
+Followup Instructions:
+Please call the office of Dr. [**Last Name (STitle) 222**] to schedule an appointment
+within the next week #[**Telephone/Fax (1) 23159**] to discuss the upcomming
+surgery. At this appointment, you will discuss: the surgery,
+your questions, your concerns, the date of surgery.
+
+
+
+[**Hospital 93**] Clinic
+
+[**Last Name (un) **], [**Location (un) 100**] MA
+
+Phone: [**Telephone/Fax (1) 1980**]
+
+Date/time: [**3150-11-14**] at 1:30pm
+
+.
+
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6563**]
+
+Phone: [**Telephone/Fax (1) 24913**]
+
+Date/time: Tuesday [**11-7**] at 2:30pm
+
+[**Doctor Last Name 659**] Hospital
+
+.
+
+Please make an appt in the Sleep study clinic here at [**Hospital1 4**]
+after the surgery. PHONE: (66)7.LUNG (5864) ?????? Sleep Disorders
+Clinic
+
+
+
+
+
+
+
+DOC CLASS

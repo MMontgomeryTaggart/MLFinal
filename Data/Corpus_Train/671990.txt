@@ -1,0 +1,217 @@
+TITLE:
+   Chief Complaint: Altered MS
+   24 Hour Events:
+   Palliative care met with family: goal of bringing pt home.  t/c trach
+   to facilitate easier suctioning
+   Trasnplant surgery: if patient is FC, he needs fistula repaired.  He
+   has high risk of rupture and needs OR prior to d/c from hospital.
+   [**Pager number 10977**] p GOC decision.
+   [**Hospital3 **] records obtained, but no EGDs in their records
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Encephalopathy, Unresponsive
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3422-11-18**] 08:33 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3422-11-20**] 07:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.6
+C (97.8
+   HR: 61 (61 - 95) bpm
+   BP: 137/72(89) {88/52(65) - 146/80(108)} mmHg
+   RR: 18 (18 - 36) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 68.4 kg (admission): 66.3 kg
+   Height: 71 Inch
+                  Total In:
+                                                                  1,215 mL
+                                                                    654 mL
+   PO:
+                  TF:
+                                                                    945 mL
+                                                                    354 mL
+   IVF:
+   Blood products:
+   Total out:
+                                                                  1,000 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    215 mL
+                                                                    654 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 100%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Absent : right side)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace, No(t) Cyanosis, No(t) Clubbing
+   Skin:  Not assessed, No(t) Jaundice
+   Neurologic: No(t) Attentive, No(t) Follows simple commands, Responds
+   to: Noxious stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   199 K/uL
+   9.3 g/dL
+   125 mg/dL
+   2.3 mg/dL
+   23 mEq/L
+   3.7 mEq/L
+   24 mg/dL
+   109 mEq/L
+   139 mEq/L
+   29.7 %
+   9.2 K/uL
+        [image002.jpg]
+                            [**3422-11-14**]  02:23 AM
+                            [**3422-11-14**]  06:00 AM
+                            [**3422-11-15**]  05:54 AM
+                            [**3422-11-17**]  01:01 AM
+                            [**3422-11-17**]  04:25 AM
+                            [**3422-11-18**]  03:27 AM
+                            [**3422-11-18**]  03:23 PM
+                            [**3422-11-18**]  08:45 PM
+                            [**3422-11-19**]  03:49 AM
+                            [**3422-11-20**]  04:28 AM
+   WBC
+   9.2
+   8.2
+   9.3
+   8.0
+   9.9
+   9.2
+   Hct
+   24.6
+   24.5
+   24.0
+   23.1
+   29.3
+   30.2
+   28.9
+   29.7
+   Plt
+   235
+   208
+   183
+   190
+   206
+   199
+   Cr
+   2.6
+   1.8
+   2.1
+   2.6
+   3.2
+   2.3
+   TCO2
+   0
+   26
+   Glucose
+   170
+   85
+   89
+   149
+   68
+   125
+   Other labs: PT / PTT / INR:14.7/41.1/1.3, ALT / AST:32/35, Alk Phos / T
+   Bili:127/0.1, Differential-Neuts:87.7 %, Lymph:7.8 %, Mono:3.5 %,
+   Eos:0.9 %, Lactic Acid:1.5 mmol/L, Albumin:2.2 g/dL, LDH:142 IU/L,
+   Ca++:8.5 mg/dL, Mg++:1.9 mg/dL, PO4:2.0 mg/dL
+   Imaging: no recent
+   Microbiology: no recent
+   Assessment and Plan
+ INEFFECTIVE COPING
+ AIRWAY CLEARANCE, IMPAIRED
+ KNOWLEDGE, IMPAIRED
+ AROUSAL, ATTENTION, AND COGNITION, IMPAIRED
+ MOTOR FUNCTION, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ RESPIRATION / GAS EXCHANGE, IMPAIRED
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ PNEUMONIA, OTHER
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD)
+ ALTERATION IN NUTRITION
+   74 yo M with ESRD, chronic pleural effusion, Hx of large CVA who is
+   non-responsive s/p PEA arrest.
+   #Unresponsive: Palliative care to continue to see today and will have
+   further family meetings discuss possibility of taking him home which
+   would likely require trach for suctioning at home.
+   - F/u palliative care recs
+   - family meeting
+   - readdress code status
+   - Consider Tracheostomy
+   .
+   # UGIB: No more blood from PEG, GI does not want to scope, no melena.
+   Hct stable
+   -GI holding on EGD given tenuous resp. status
+   -daily Hct
+   - [**Hospital1 **] PPI IV
+   - Transfuse Hct<25
+   - Restarted TFs
+   # Hypoxemic respiratory failure: Has not mucous plugged o/n, only
+   intermittently being suctioned. Being treated for possible PNA.
+   - reculture if spikes
+   - PRN pulmonary toilet
+   - hold cefepime
+   - continue to monitor
+   -Wil discuss with family other possibilities to limit aspiration
+   potential, ? trach.
+   .
+   #Possible Neurosyphilis: Per ID CTX now day [**7-19**].
+   - CTX 2g Q24 in PM for 14 days
+   .
+   #ESRD: S/P HD yesterday. Transplant surgery feels that his fistula
+   needs to be repaired prior to his leaving the hospital.
+   - f/u renal recs
+   - dialysis dose medications
+   - HD per renal
+   .
+   .
+   #DMII: Continue previous insulin regimen, TFs restarted
+   .
+   #Vasculopathy:
+   - continue simvastatin, lisinopril and ASA when stable
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**3422-11-20**] 05:41 AM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Midline - [**3422-11-17**] 01:40 AM
+   Multi Lumen - [**3422-11-18**] 05:30 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP: RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

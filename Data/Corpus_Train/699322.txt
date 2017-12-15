@@ -1,0 +1,248 @@
+Chief Complaint: chest pain
+   24 Hour Events:
+   - pt continued to be drowsy, changed oxycodone dosing to TID
+   - pt had several large bowel movements; guaiac positive, cdiff sent
+   - urine lytes show FeNa < 1%, receiving 1 L NS
+   - Chest PA/Lat: Unremarkable postoperative changes. No evidence of new
+   acute infiltrate, pleural effusion, or pneumothorax.
+   - Iron studies show [**Doctor First Name **] - now on iron and ascorbic acid
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2783-2-22**] 08:00 PM
+   Ciprofloxacin - [**2783-2-23**] 04:00 AM
+   Metronidazole - [**2783-2-23**] 06:00 AM
+   Infusions:
+   Nitroglycerin - 2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2783-2-23**] 07:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**85**] AM
+   Tmax: 38.5
+C (101.3
+   Tcurrent: 36.5
+C (97.7
+   HR: 81 (67 - 115) bpm
+   BP: 166/71(226) {95/50(66) - 173/82(309)} mmHg
+   RR: 17 (13 - 19) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74.5 kg (admission): 73.4 kg
+   Height: 64 Inch
+             Total In:
+                                                                  3,586 mL
+                                                                    772 mL
+   PO:
+                                                                    950 mL
+             TF:
+   IVF:
+                                                                  2,636 mL
+                                                                    772 mL
+   Blood products:
+   Total out:
+                                                                  2,350 mL
+                                                                    900 mL
+   Urine:
+                                                                  2,350 mL
+                                                                    900 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,236 mL
+                                                                   -128 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   General: middle-aged man, lying in bed on back, NC in place, mildly
+   sedated appearing with eyes closed
+   HEENT: NC/AT, oropharynx clear
+   Cardiac: Regular rate & rhythm, no murmurs
+   Pulm: Clear to auscultation bilaterally
+   Abdominal: soft, non-distended, mildly tender to palpation throughout
+   all quadrants, positive bowel sounds
+   Extremities: warm, well-perfused, no edema
+   Peripheral Vascular: (Right radial pulse: Not assessed as A-line in
+   place), (Left radial pulse: Present), (Right DP pulse: Present), (Left
+   DP pulse: Present)
+   Neurologic: Alert & oriented x 3, but expressing some confusion, slow
+   speech
+   Labs / Radiology
+   145 K/uL
+   7.2 g/dL
+   148 mg/dL
+   1.3 mg/dL
+   21 mEq/L
+   3.9 mEq/L
+   18 mg/dL
+   99 mEq/L
+   132 mEq/L
+   20.0 %
+   6.2 K/uL
+        [image002.jpg]
+                             [**2783-2-19**]  11:08 PM
+                             [**2783-2-20**]  04:44 AM
+                             [**2783-2-20**]  11:08 AM
+                             [**2783-2-20**]  11:12 AM
+                             [**2783-2-20**]  11:18 AM
+                             [**2783-2-21**]  03:17 AM
+                             [**2783-2-21**]  01:29 PM
+                             [**2783-2-21**]  05:28 PM
+                             [**2783-2-22**]  01:58 AM
+                             [**2783-2-23**]  06:16 AM
+   WBC
+   7.9
+   11.2
+   10.1
+   9.9
+   7.1
+   6.2
+   Hct
+   26.8
+   27.9
+   24.9
+   22.4
+   21.9
+   22.8
+   20.0
+   Plt
+   159
+   151
+   165
+   142
+   132
+   119
+   145
+   Cr
+   0.9
+   1.0
+   1.3
+   TropT
+   0.22
+   0.26
+   0.14
+   0.06
+   TCO2
+   25
+   Glucose
+   160
+   219
+   148
+   Other labs: PT / PTT / INR:12.6/25.2/1.1, CK / CKMB /
+   Troponin-T:55/3/0.06, ALT / AST:26/30, Alk Phos / T Bili:63/0.7,
+   Amylase / Lipase:32/, Differential-Neuts:84.9 %, Lymph:11.2 %, Mono:3.1
+   %, Eos:0.7 %, Lactic Acid:1.0 mmol/L, LDH:180 IU/L, Ca++:7.5 mg/dL,
+   Mg++:2.0 mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname 12373**] is a 64M with severe CAD s/p CABG x 3. He is not a surgical
+   candidate per CT surgery.
+   .
+   #. CORONARY ARTERY DISEASE: Pt with CAD s/p CABG x 3. Pt with severe 3V
+   disease with 1 graft patent.  Plan for cardiac catheterization with Dr.
+   [**Last Name (STitle) 7030**] today.  IABP was pulled on [**2-21**] out of concern for infection with
+   fevers.  Nitro gtt was discontinued on [**2-21**], but restarted on [**2-22**]
+   because of chest pain.  Patient with mild chest pain this AM.
+   - Cardiac catheterization pending family meeting today, as patient
+   refusing blood products with Hct of 20.0
+   - Heparin gtt on hold given low Hct
+   - Continue Nitro gtt
+   - Integrillin/Plavix held for now
+   - Continue Metoprolol 12.5mg PO BID as tolerated by BP and HR
+   - High dose statin, ASA
+   - EKG
+s PRN chest pain
+   .
+   #. Anemia: Hct down to 20.0 from 27.8. Guaiac positive on [**2-22**].  Iron
+   studies c/w iron deficiency. Given severe CAD with active chest pain,
+   Hct goal is 30 but patient is refusing pRBC
+s given religious beliefs
+   (Jehovah
+s Witness).
+   - Continue Epo 4000u SC (began yesterday on Tu/Th/Sat schedule)
+   - Continue Fe supplementation
+   - Continue to hold Heparin given hct drop, on pneumoboots
+   - Trend CBC
+   - Fluid resuscitation PRN with IVF
+   .
+   #. Fever: Patient with recurring fevers on [**2-20**] on Tylenol for which he
+   was started on IV Vancomycin because IABP was in place.  IABP was
+   pulled on [**2-21**]. Blood cultures, urine cultures from [**2-20**] & [**2-21**] no
+   growth to date. U/A
+s x 3 negative. C. diff negative. Abdominal CT scan
+   with wall thickening in cecum & ascending colon. CXR clear.  WBC
+   normal.  Patient afebrile since morning of [**2-22**].
+   - D/C Vancomycin
+   - continue Ciprofloxacin day 3, switched to PO
+   - continue Flagyl day 3, switched to PO
+   - continue to follow WBC and fever curve
+   - F/U all blood cx
+   - F/U any surgery recs
+   .
+   #. ACUTE RENAL FAILURE:  Creatinine back down at 1.0 after 1L IVF
+s on
+   [**2-22**].
+   - Continue to trend
+   .
+   #. PUMP: ECHO with distal septal hypokinesis, EF 55%. Appears euvolemic
+   on exam without evidence of failure.
+   - Continue to assess fluid status
+   - Continue BB and Captopril
+   .
+   #. RHYTHM: Patient in sinus rhythm, but has lots of PVCs.
+   - Replete K and Mg
+   - Continue to monitor on telemetry
+   .
+   #. DIABETES:  Hemoglobin A1c 8.0
+   - Continue to hold home Glyburide, Metformin
+   - HISS, titrate PRN
+   .
+   #. HYPERCHOLESTEROLEMIA: Total cholesterol 117, HDL 31, LDL 54
+   - Continue Atorvastatin 80mg daily
+   - Continue Gemfibrizol 600mg [**Hospital1 7**]
+   - Continue Ezetimibe 10mg daily
+   .
+   #. Chronic Pain: Patient has old left shoulder pain (10 years +),
+   current right shoulder pain (3 days +) and back pain. He has an
+   overlapping musculoskeletal pain syndrome that can be worrisome for the
+   pain of angina. His presentation begun with a piercing left chest pain.
+   Oxycodone dosing changed for oversedation on [**2-22**].
+   - Oxycodone 15mg PO TID
+   - Morphine 2-4mg IV q4H:PRN
+   - EKG
+s when called for chest pain
+   - Nitro gtt
+   ICU Care
+   Nutrition: NPO for procedure
+   Glycemic Control:  Insulin sliding scale
+   Lines:
+   Arterial Line - [**2783-2-19**] 02:56 AM
+   20 Gauge - [**2783-2-22**] 05:09 PM
+   Prophylaxis:
+   DVT: Pneumoboots (no Heparin due to low Hct & refusal of blood
+   products)
+   Stress ulcer: None
+   VAP:  None
+   Communication:  Patient
+   Code status: Full code
+   Disposition: pending clinical improvement
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   [**Name Initial (PRE) **] have seen and examined the patient. I have reviewed the above note
+   and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 12396**].
+   I would add the following remarks:
+   ------ Protected Section Addendum Entered By:[**Name (NI) 29**] [**Last Name (NamePattern1) 4766**], MD
+   on:[**2783-2-24**] 10:06 ------
+
+
+
+DOC CLASS

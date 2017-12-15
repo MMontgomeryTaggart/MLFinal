@@ -1,0 +1,248 @@
+Chief Complaint: shock, resp failure
+   24 Hour Events:
+   -extubated
+   -levophed off at 1100
+   -csurg rec plavix washout but surgery unlikely to take place this
+   admission so continued it (as per cards recs)
+   -vanc trough supratherapeutic, deferred repeat dose until [**11-26**] level
+   back
+   -called renal re: cyclosporine level, recommended continue at current
+   dose despite subtherapeutic level (role is to prevent any acute
+   rejection of failing transplant) & consider increasing it when tapering
+   hydrocortisone
+   -unable to safely swallow pills, NG tube placed
+   -self d/c'd NGT
+   -zyprexa zydis 5 mg x 2 for agitation
+   -became more delirious and hypoxemic 93% on 70%face tent other VSS, cxr
+   unchanged, vbg 7.38/33/27/20 lactate 2.6 SaO2 43%, blood/urine Cx sent;
+   placed on 100%FM ABG 7.45/25/57/18 Sa02 lactate 3.0, placed on 100%NRB,
+   ordered lower ext dopplers to eval for DVT
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Reglan (Oral) (Metoclopramide Hcl)
+   SEIZURES;
+   Protonix (Oral) (Pantoprazole Sodium)
+   diarrhea;
+   Last dose of Antibiotics:
+   Vancomycin - [**2865-11-24**] 01:01 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2865-11-25**] 08:47 PM
+   Infusions:
+   Insulin - Regular - 1 units/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2865-11-25**] 08:47 PM
+   Other medications:
+   Changes to medical and family history:
+   n/a
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2865-11-26**] 07:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 35.5
+C (95.9
+   HR: 100 (57 - 104) bpm
+   BP: 137/89(101) {106/61(76) - 154/111(114)} mmHg
+   RR: 20 (14 - 31) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 67.8 kg (admission): 67.5 kg
+             Total In:
+                                                                  1,764 mL
+                                                                     33 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,524 mL
+                                                                     33 mL
+   Blood products:
+   Total out:
+                                                                    730 mL
+                                                                    135 mL
+   Urine:
+                                                                    330 mL
+                                                                    135 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,034 mL
+                                                                   -102 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: 7.45/25/57/19/-4
+   PaO2 / FiO2: 114
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: at bases, Rhonchorous: bilateral)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace, No(t) Clubbing
+   Skin:  Cool, Rash: LLE cellulitic rash contained within demarcated
+   borders
+   Neurologic: No(t) Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): person only, Movement: Not assessed, Tone: Not
+   assessed
+   Labs / Radiology
+   231 K/uL
+   9.1 g/dL
+   99 mg/dL
+   5.7 mg/dL
+   19 mEq/L
+   3.6 mEq/L
+   53 mg/dL
+   105 mEq/L
+   140 mEq/L
+   26.3 %
+   10.9 K/uL
+        [image002.jpg]
+                            [**2865-11-24**]  10:50 AM
+                            [**2865-11-24**]  11:43 AM
+                            [**2865-11-24**]  05:20 PM
+                            [**2865-11-24**]  05:40 PM
+                            [**2865-11-24**]  06:00 PM
+                            [**2865-11-25**]  03:59 AM
+                            [**2865-11-25**]  05:37 AM
+                            [**2865-11-25**]  10:09 AM
+                            [**2865-11-26**]  04:29 AM
+                            [**2865-11-26**]  06:09 AM
+   WBC
+   11.4
+   10.9
+   Hct
+   32
+   27
+   27.7
+   26.3
+   Plt
+   244
+   231
+   Cr
+   5.9
+   5.7
+   5.7
+   TropT
+   1.67
+   1.11
+   0.71
+   TCO2
+   17
+   17
+   17
+   17
+   18
+   Glucose
+   116
+   47
+   47
+   168
+   223
+   99
+   Other labs: PT / PTT / INR:13.3/27.1/1.1, CK / CKMB /
+   Troponin-T:276/11/0.71, Lactic Acid:3.0 mmol/L, Ca++:7.8 mg/dL,
+   Mg++:2.4 mg/dL, PO4:4.5 mg/dL
+   Imaging: FINDINGS: In comparison with the study of [**11-24**], there is
+   little change in
+   the appearance of the monitoring and support devices. Continued
+   enlargement of the cardiac silhouette with more prominent opacification
+   in the retrocardiac region at the base, consistent with atelectasis and
+   effusion. In view of the clinical history, the possibility of a
+   superimposed pneumonia must be considered. There is also some
+   increasing opacification at the right base
+   medially, that could represent a developing consolidation.
+   Microbiology: [**2865-11-24**] 7:44 pm SWAB      Source: left foot wound.
+      GRAM STAIN (Final [**2865-11-24**]):
+         NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.
+         2+   (1-5 per 1000X FIELD):   GRAM POSITIVE COCCI.
+                                       IN PAIRS AND CLUSTERS.
+      WOUND CULTURE (Preliminary):
+         STAPH AUREUS COAG +.    MODERATE GROWTH.
+   [**2865-11-23**] 11:09 pm DIALYSIS FLUID
+      GRAM STAIN (Final [**2865-11-24**]):
+         3+  (5-10 per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES.
+         NO MICROORGANISMS SEEN.
+         This is a concentrated smear made by cytospin method, please
+   refer to
+         hematology for a quantitative white blood cell count..
+      FLUID CULTURE (Preliminary):    NO GROWTH.
+   [**Date range (1) 10524**] Blood Cx NGTD
+   Assessment and Plan
+   52M with DM1 c/b gastroparesis/neuropathy, s/p renal transplant in
+   [**2850**], CAD, iCMP with EF 40%, PVD admitted with septic shock from LLE
+   cellulitis and subendocardial ischemia (type II MI).
+    .
+   # Hypoxemic Respiratory failure: resp status had been stable s/p
+   extubation [**11-25**] until an acute decompensation with marked hypoxemia
+   early this AM with an unclear precipitant; aspiration event possible as
+   self-discontinued NG tube but no infiltrate on CXR; +5.6L LOS and +1L x
+   24 hrs so volume overload may theoretically be contributing but also
+   not apparent on CXR
+   -O2 to maintain sat>92%
+   -trial of diuresis
+   -cont ABX for noscomial PNA cov'g
+   -LENI's to eval for DVT as CTA relatively contraindicated in the
+   setting of ESRD
+   .
+   #Multifactorial shock - resolved, now off pressors ~24 hrs. suspect
+   source is LLE cellulitis, as well as adrenal insufficiency based on
+   inadequate [**Last Name (un) 43**] stim response
+   -dose vanco by level
+   -cont zosy (day 4)  & cipro (day 3) for cov'g diabetic foot ulcer &
+   nosocomial PNA
+   -taper hydrocort (day 3 today) starting [**11-27**] and fludrocort
+   -appreciate vascular & podiatry recs
+   .
+   #Subendocardial ischemia: enzymes peaked [**11-24**], cath showed progression
+   of diffuse multivessel CAD but no ACS.  ECHO shows increased
+   hypokinesis of the inferior, posterior, and lateral walls;
+   - cont ASA 325 mg, plavix, statin
+   - restart BB
+   - appreciate cards recs
+   .
+   # ESRD
+   -appreciate renal involvement
+   -cont PD
+   -cont. current dose of cyclosporine, d/w renal/transplant Rx re:
+   increasing dose when tapering steroids
+   .
+   # DM1:  Sugars worse on stress dose steroids
+   -transition insulin gtt to SC when eating
+   .
+   #Systolic CHF:  TTE showed EF 40%
+   -diuresis, as above
+   -BB, ACEI prior to discharge
+   .
+   # FEN: replace NG tube
+   .
+   # PPX: H2blocker, SQH
+   # ACCESS: R IJ, 18g PIV
+   # CODE:  FULL
+   # CONTACT: Wife [**Name (NI) 4**] [**Name (NI) 10499**] [**Telephone/Fax (1) 10500**]
+   # DISPO: ICU
+   ICU Care
+   Nutrition: place NG tube for TF
+   Glycemic Control:  insulin gtt
+   Lines:
+   Multi Lumen - [**2865-11-23**] 05:51 PM
+   18 Gauge - [**2865-11-23**] 06:52 PM
+   Prophylaxis:
+   DVT: SQH
+   Stress ulcer: H2RA
+   Communication:  Wife [**Name (NI) 4**] [**Name (NI) 10499**] [**Telephone/Fax (1) 10500**]
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

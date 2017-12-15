@@ -1,0 +1,187 @@
+CCU Intern Progress Note:
+   24-hour events:
+   - chest-pain free, comfortable
+   - on IABP 1:1
+   - INR 1.6, reversed urgently w Vit K 10mg SC for surgery in Am
+   - surgery postponed for further liver workup
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 1 mcg/Kg/min
+   Heparin Sodium - 900 units/hour
+   Furosemide (Lasix) - 4 mg/hour
+   Other ICU medications:
+   Morphine Sulfate - [**3104-12-23**] 04:16 AM
+   Other medications:
+   Flowsheet Data as of  [**3104-12-23**] 05:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.4
+C (97.5
+   HR: 69 (63 - 73) bpm
+   BP: 143/51(107) {102/40(79) - 165/77(121)} mmHg
+   RR: 21 (18 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 56 Inch
+    PAP: (70 mmHg) / (23 mmHg)
+   Mixed Venous O2% Sat: 75 - 75
+   PAP  60s-70s/20s
+   IABP:
+   Augmented diast: 154
+   Assist syst: 142
+   Total In:
+                                                                    136 mL
+                                                                    123 mL
+   PO:
+   TF:
+   IVF:
+                                                                    136 mL
+                                                                    123 mL
+   Blood products:
+   Total out:
+                                                                  2,495 mL
+                                                                    835 mL
+   Urine:
+                                                                  1,595 mL
+                                                                    835 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,359 mL
+                                                                   -712 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///32/
+   Physical Examination
+   GENERAL: Elderly petite woman, NAD, laying flat comfortably.
+   HEENT: NCAT. Alopecia. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+   pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple, JVP ~12cm.  No carotid bruits
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR.
+   IABP in place with loud systolic murmur and prominent S2, loudest in
+   abdomen.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. Unable to ascultate abdominal bruits over IABP
+   EXTREMITIES: No c/c/e. No femoral bruits. PA catheter in place in r
+   groin, no ooze.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right:  DP 2+ PT 2+
+   Left:  DP 2+ PT 2+
+   Labs / Radiology
+   136 K/uL
+   12.2 g/dL
+   119 mg/dL
+   1.2 mg/dL
+   32 mEq/L
+   4.0 mEq/L
+   23 mg/dL
+   99 mEq/L
+   140 mEq/L
+   35.7 %
+   9.3 K/uL
+        [image002.jpg]
+                             [**3104-12-22**]  05:26 PM
+                             [**3104-12-23**]  12:24 AM
+                             [**3104-12-23**]  04:22 AM
+   WBC
+   8.3
+   9.3
+   Hct
+   33.9
+   35.7
+   35.7
+   Plt
+   135
+   136
+   Cr
+   1.2
+   1.2
+   Glucose
+   101
+   119
+   Other labs: PT / PTT / INR:17.7/60.5/1.6, Ca++:9.3 mg/dL, Mg++:2.1
+   mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   72F w HTN, HL, COPD, originally p/w worsening SOB, was found to have
+   3vCAD and elevated PCWP, now awaiting CABG.
+   # Elevated INR: 1.7, repeat 1.6. Vitamin K given. Unclear etiology.
+   - check LFTs
+   - trend INR
+   # CORONARIES: 3vCAD w occluded LAD, stenotic LM, proximal RCA and PDA,
+   evaluated by CT Surgery for CABG.
+   - IABP in place 1:1
+   - heparin gtt
+   - ASA 325 daily
+   - metoprolol 50 [**Hospital1 **]
+   - atorvastatin 20 daily
+   - awaiting CABG
+   # PUMP:  Likely chronic systolic CHF. EF 40%, evidence systolic and
+   severe biventricular diastolic dysfunction on ECHO/cath. Not
+   decompensated. Pt relatively asymptomatic with markedly elevated PCWP
+   (~43).  Optimized hemodynamics prior to surgery w diuresis.
+   - PA catheter in place for tailored therapy
+   - ACEi on hold pre-surgery
+   - Vasodilation with NTG
+   # RHYTHM:  NSR. Monitor on tele
+   - continue metoprolol
+   # COPD
+   -Standing ipratropium inhaler
+   -Prn albuterol inhaler
+   -IS at bedside
+   # HTN:
+   -metoprolol
+   -NTG gtt
+   -hydral for afterload reduction
+   -holding home verapamil for now
+   -hold ACEI in setting of dye load, cr 1.3 and pre-CABG as above.
+   # Hyperlipidemia. Pt carries dx of elevated lipids, on recent PCP labs,
+   LDL low at 62, low HDL 33.  Has been on fibrate therapy for "years" for
+   unclear reasons.  In setting of low HDL, and for peri-operative med
+   optimization will start low dose statin.
+   -Atorvastatin 20mg daily
+   -repeat lipids
+   # Depression - Continue home dose fluoxetine, 20mg TID confirmed with
+   pt and pharmacy.
+   FEN:NPO except meds/sips for now. NPO after MN for surgery. Otherwise
+   low sodium diet, fluid restricted.
+   ACCESS: PIV's, PA catheter
+   PROPHYLAXIS:  bowel regimen, on hep gtt
+   CODE: FULL
+   DISPO: to CT [**Doctor First Name 3**] post-op
+   Contact: [**Name (NI) **] [**Name (NI) 3678**], cell [**Telephone/Fax (1) 3677**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   IABP line - [**3104-12-22**] 01:23 PM
+   PA Catheter - [**3104-12-22**] 01:23 PM
+   Sheath - [**3104-12-22**] 01:23 PM
+   20 Gauge - [**3104-12-22**] 01:23 PM
+   22 Gauge - [**3104-12-22**] 01:23 PM
+   18 Gauge - [**3104-12-23**] 12:34 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

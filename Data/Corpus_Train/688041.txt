@@ -1,0 +1,229 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -Patient conversant, knew he was in [**Hospital 21**] Hospital in [**2924-12-18**]
+   yesterday AM; mental status markedly improved from overnight and
+   previous day.  His mental status slowly worsened as the day progressed
+   -Around 2pm patient had large BM and had received 40mg torsemide two
+   hours earlier, developed hypotension and appeared somnolent.  ECG
+   demonstrated diffusely inverted T waves in anterior leads, remniscent
+   of ECG on morning [**2924-12-12**] pre-PCI which also demonstrated T-wave
+   inversions.  250cc bolus NS with resolution of pressures.
+   - Decreased dose of metoprolol from 25 to 12.5mg TID and lisinopril
+   from 5 to 2.5mg QD.  Changed dose of torsemide from 40mg QD to 20mg [**Hospital1 7**]
+   in order to be able to hold med if diuretic involved in hypotensive
+   episode.
+   - overnight, he was given seroquel 12.5mg.  he was somnolent ~8pm, ABG
+   done to eval for hypercarbia but pCO2 51; pt became agitated again
+   overnight, angry but coherent
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2924-12-26**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**2924-12-26**] 04:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2924-12-27**] 07:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 36.7
+C (98
+   HR: 89 (76 - 98) bpm
+   BP: 104/57(66) {75/42(50) - 123/75(85)} mmHg
+   RR: 23 (15 - 38) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 96.6 kg (admission): 104.6 kg
+   Height: 70 Inch
+                  Total In:
+                                                                  1,410 mL
+                                                                     60 mL
+   PO:
+                                                                    660 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                    750 mL
+   Blood products:
+   Total out:
+                                                                  1,392 mL
+                                                                    425 mL
+   Urine:
+                                                                  1,392 mL
+                                                                    425 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     18 mL
+                                                                   -365 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: 7.41/51/71/33/5
+   Physical Examination
+   General Appearance: No acute distress, obese, alert, oriented to
+rehab
+ and [**2924-12-18**] in early AM and had attention to recite days of
+   week backwards; within a couple of hours, hypoactive and somnolent,
+   awakens to sternal rub but goes back to sleep
+   Head, Ears, Nose, Throat: Normocephalic, moist mucus membranes
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic III/VI)
+   Respiratory / Chest: Bibasilar crackles
+   Abdominal: Soft, Non-tender, Bowel sounds present, obese
+   Extremities: lower extremities trace edema
+   Skin:  left anterior lower shin erythematous and warm
+   Neurologic: Attentive, conversational in AM; somnolent by AM rounds
+   Labs / Radiology
+   161 K/uL
+   10.5 g/dL
+   166 mg/dL
+   1.3 mg/dL
+   33 mEq/L
+   4.0 mEq/L
+   15 mg/dL
+   106 mEq/L
+   146 mEq/L
+   31.7 %
+   6.9 K/uL
+        [image002.jpg]
+                             [**2924-12-19**]  04:12 PM
+                             [**2924-12-19**]  04:24 PM
+                             [**2924-12-20**]  03:16 AM
+                             [**2924-12-21**]  04:05 AM
+                             [**2924-12-25**]  03:12 PM
+                             [**2924-12-25**]  05:04 PM
+                             [**2924-12-26**]  04:00 AM
+                             [**2924-12-26**]  02:50 PM
+                             [**2924-12-26**]  09:35 PM
+                             [**2924-12-27**]  03:55 AM
+   WBC
+   6.2
+   8.2
+   8.7
+   6.9
+   Hct
+   29.9
+   28.0
+   33.8
+   31.7
+   Plt
+   275
+   237
+   174
+   161
+   Cr
+   1.0
+   0.9
+   1.0
+   1.2
+   1.3
+   1.3
+   TCO2
+   34
+   40
+   38
+   33
+   Glucose
+   245
+   256
+   182
+   136
+   125
+   166
+   Other labs: PT / PTT / INR:12.9/29.4/1.1, CK / CKMB /
+   Troponin-T:38/3/0.11, ALT / AST:29/42, Alk Phos / T Bili:75/0.9,
+   Amylase / Lipase:/10, Lactic Acid:0.9 mmol/L, Ca++:9.3 mg/dL, Mg++:1.9
+   mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   82M with hx of CABG, DM, etoh abuse, transferred for cardiac
+   catheterization s/p DES to LIMA-LAD, c/b intubation for hypoxemic
+   respiratory failure and continued agitation.
+   # Altered Mental Status/ Delirium:
+   Alternating Hypoactive and Hyperactive Delirium.  The patient has been
+   agitated since the outside hospital, likely delirious since
+   presentation from outside hospital. He has multiple new lesions in his
+   brain likely secondary to cath procedures with emboli. Has required
+   restraints and chemical restraints to prevent injury to self and
+   others. Continues w agitation particularly each night and has been
+   somnolent in middle of day intermittently.  Has responded to seroquel
+   for a couple of hours last night.  Geriatrics is following.  QTc
+   yesterday ~450.  Also started on low dose neurontin last night as
+   well.  UA negative.  No metabolic source found.
+   - appreciate geriatrics recs
+   - continue seroquel at night, and add prn Haldol TID, per Geriatrics
+   recs
+   - DCed neurontin
+   - frequent reorientation
+   - minimize lines and tubes as possible ; continues w foley catheter and
+   telemetry and requires restraints intermittently, particularly at night
+   - sleep wake cycles
+   - OOB for meals as possible
+   #. Acute on chronic systolic CHF:
+   CHF with EF 30-35%. Appeared fluid overloaded and had hypoxemic
+   respiratory failure requiring intubation previously; has had ABGs drawn
+   multiple times in past several days for concern of somnolence and
+   hypercarbia, but patient has been stable. Patient has been diuresed.
+   Lasix DCed yesterday. 40mg torsemide appeared to drop blood pressures
+   yesterday, so dose was decreased to 20mg [**Hospital1 7**].  Urine output and mental
+   status may correlate with blood pressure.
+   - continue 20mg torsemide but decrease to DAILY in order to help
+   maintain BP
+   - oxygen for SaO2 > 92%
+   - Continue Metoprolol tartrate 12.5mg TID (decreased doses from
+   yesterday after hypotensive episode)
+   - DCed lisinopril to improve blood pressure
+   #. NSTEMI/CAD:
+   Patient's symptoms prior to hospitalization are concerning for unstable
+   angina and enzymes at OSH were suggestive of  NSTEMI in the setting of
+   Troponin elevation. However, no EKGs are available from the OSH. Serum
+   troponin on admission to [**Hospital1 17**] was 0.04. Cardiac catheterization
+   demonstrated occlusion of the SVG-OM1 & LIMA-LAD grafts, but patient
+   agitation during procedure prevented completion of cardiac
+   catheterization. s/p DES to SVG-OM1 and LIMA-LAD. Chest pain free. CE
+   stable.
+   - cont aspirin 325mg
+   - cont plavix
+   - cont atorvastatin 80mg
+   - metoprolol tartrate 12.5mg [**Hospital1 7**]
+   - holding low dose acei
+   - telemetry
+   #. DM: Will continue NPH & insulin sliding scale from OSH.
+   - Continue NPH 22u [**Hospital1 7**] & Humalog sliding scale and adjust prn
+   #. EtOH abuse: Outside window for withdrawal. Monitor.
+   - SW consult
+   #. HLD: Continue Atorvastatin 80mg daily.
+   #. HTN:
+   -Continue Lisinopril 2.5mg daily
+   -Continue Metoprolol Tartrate 12.5mg PO BID
+   #. GERD:
+   - Ranitidine 150mg PO BID
+   #. Anxiety/Depression: Stable.
+   - Continue to observe
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2924-12-25**] 12:00 PM
+   20 Gauge - [**2924-12-26**] 02:58 PM
+   Prophylaxis:
+   DVT:  subq heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

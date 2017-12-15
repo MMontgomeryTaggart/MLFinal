@@ -1,0 +1,209 @@
+Chief Complaint: resp failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   89F with chf, presented with acute pulm edema in the setting of new
+   afib.
+   24 Hour Events:
+   s/p cardioversion
+   persistent brady, likely due to prior metopr, amio
+   some bloody secretions
+ TRANS ESOPHAGEAL ECHO - At [**2549-7-28**] 10:00 AM
+   PT GIVEN .5MG OF IV VERSED FOR PROCEDURE
+ CARDIOVERSION/DEFIBRILLATION - At [**2549-7-28**] 01:50 PM
+   ELECTIVE CARDIOVERSION FOR AF WITH 200 JOULES
+   History obtained from Medical records
+   Patient unable to provide history: Language barrier
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2549-7-28**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2549-7-28**] 06:08 PM
+   Midazolam (Versed) - [**2549-7-29**] 05:59 AM
+   Fentanyl - [**2549-7-29**] 05:59 AM
+   Other medications:
+   asa 325, lipitor, riss, protonix q12
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever
+   Ear, Nose, Throat: No(t) Epistaxis, No(t) OG / NG tube
+   Nutritional Support: NPO
+   Respiratory: No(t) Cough
+   Gastrointestinal: No(t) Abdominal pain
+   Signs or concerns for abuse : No
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2549-7-29**] 08:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.7
+C (98.1
+   HR: 49 (38 - 99) bpm
+   BP: 127/47(66) {83/41(52) - 139/106(109)} mmHg
+   RR: 13 (12 - 26) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 54.3 kg (admission): 54 kg
+   Height: 62 Inch
+             Total In:
+                                                                  1,057 mL
+                                                                     62 mL
+   PO:
+             TF:
+   IVF:
+                                                                    927 mL
+                                                                     62 mL
+   Blood products:
+   Total out:
+                                                                  1,780 mL
+                                                                    295 mL
+   Urine:
+                                                                  1,780 mL
+                                                                    295 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -723 mL
+                                                                   -233 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 441 (269 - 441) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 57
+   PIP: 11 cmH2O
+   Plateau: 15 cmH2O
+   SpO2: 100%
+   ABG: 7.42/34/163/18/-1
+   Ve: 7.2 L/min
+   PaO2 / FiO2: 408
+   Physical Examination
+   General Appearance: No(t) No acute distress, Thin
+   Head, Ears, Nose, Throat: Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : )
+   Abdominal: Soft, Non-tender, No(t) Distended
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: Responds to: Verbal stimuli, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   11.9 g/dL
+   178 K/uL
+   100 mg/dL
+   0.9 mg/dL
+   18 mEq/L
+   3.7 mEq/L
+   23 mg/dL
+   112 mEq/L
+   144 mEq/L
+   37.6 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**2549-7-27**]  04:38 AM
+                             [**2549-7-27**]  02:14 PM
+                             [**2549-7-27**]  03:21 PM
+                             [**2549-7-28**]  04:50 AM
+                             [**2549-7-28**]  06:35 AM
+                             [**2549-7-28**]  07:58 AM
+                             [**2549-7-28**]  04:17 PM
+                             [**2549-7-28**]  08:20 PM
+                             [**2549-7-29**]  12:38 AM
+                             [**2549-7-29**]  03:19 AM
+   WBC
+   7.1
+   8.9
+   7.9
+   7.8
+   Hct
+   35.9
+   40.8
+   45.6
+   36.1
+   37.6
+   Plt
+   173
+   203
+   195
+   178
+   Cr
+   0.9
+   1.0
+   1.1
+   1.1
+   0.8
+   0.9
+   0.9
+   TropT
+   0.01
+   TCO2
+   21
+   23
+   Glucose
+   111
+   104
+   132
+   126
+   121
+   101
+   100
+   Other labs: PT / PTT / INR:12.9/39.1/1.1, CK / CKMB /
+   Troponin-T:59//0.01, ALT / AST:39/51, Alk Phos / T Bili:85/1.2,
+   Differential-Neuts:76.9 %, Lymph:16.0 %, Mono:6.2 %, Eos:0.8 %, Lactic
+   Acid:1.9 mmol/L, LDH:295 IU/L, Ca++:8.2 mg/dL, Mg++:2.0 mg/dL, PO4:3.8
+   mg/dL
+   Imaging: none new
+   Microbiology: gpc x1 bottle
+   Assessment and Plan
+   89F with chf, presnted with acute pulm edema in the setting of new
+   afib, now s/p dccv into sinus brady:
+   dyspnea -- afib, pulm edema; s/p diuresis
+   -extubate today
+   afib:
+   -heparin,  transition to coumadin
+   -no nodal agents whily brady
+   chf
+   -goal tbb -[**Telephone/Fax (1) 254**]
+   -start acei when stable
+   gpc bacteremia: contaminant?
+   -vanco
+   -awaiting speciation
+   awaiting picc, extubation, floor txr
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2549-7-26**] 11:30 PM
+   22 Gauge - [**2549-7-27**] 03:30 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

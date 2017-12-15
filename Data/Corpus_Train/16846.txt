@@ -1,0 +1,267 @@
+Admission Date:  [**2764-11-16**]              Discharge Date:   [**2764-11-21**]
+
+Date of Birth:  [**2685-12-24**]             Sex:   M
+
+Service: SURGERY
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 408**]
+Chief Complaint:
+ischemic heel ulcer with toe gangrene and rest pain
+
+Major Surgical or Invasive Procedure:
+1. Right femoral and profunda endarterectomy, and Dacron
+    patch profundoplasty.
+2. Exploration of above-the-knee popliteal artery.
+
+
+History of Present Illness:
+Mr. [**Known patient lastname 24343**] is a 78-year-old male, who is
+status post an aortobifemoral bypass graft and a failed
+femoral to dorsalis pedis bypass graft performed 6 months
+ago. The patient now presents with an ischemic heel ulcer as
+well as toe gangrene with rest pain. A diagnostic arteriogram
+demonstrated extensive SFA disease with a calcified popliteal
+artery but yet a patent peroneal and anterior tibial. For
+that reason, he was admitted to undergo a femoropopliteal
+bypass.
+
+
+Past Medical History:
+Stress Test ([**2759-11-23**] - stress MIBI normal,LVEF 58%.)
+Echo (Post CABG echo - LVEF 30%)
+Congestive Heart Failure
+Dyslipidemia
+Hypertension
+Ischemic Heart Disease
+Hx of Myocardial Infarction
+Hx of CABG (x1 [**1-/2764**] at [**Hospital3 **])
+Peripheral Vascular/Arterial Disease (s/p
+aortobifem in [**2759**])
+Pulmonary Chronic Obstructive Pulmonary Disease
+DM 2 (with retinopathy,neuropathy)
+hypothyroidism
+Gastrointestinal Reflux
+Chronic Renal Insufficiency(Baseline Cr= 1.5)
+prostate CA s/p seed implantation
+polycythemia [**Doctor First Name 1552**] s/p phlebotomy
+s/p Aorta bifemoral bypass graft ([**2758**])
+s/p Cholecystectomy
+s/p left Carotid Endarterectomy([**5-14**])
+
+Social History:
+Nonsmoker/No EtOH
+
+Family History:
+Noncontributory
+
+Physical Exam:
+PHYSICAL EXAM:
+
+General: no acute distress,Awake,Alert,& Oriented x 3
+HEENT: neck supple, PERRLA,EOMI
+Heart: regular rate and rhythm, without murmurs, rubs, or
+gallops
+Lungs: clear to auscultation bilaterally,
+Abdomen: soft, nontender, nondistended, +bowel sounds
+Extremities: no clubbing, cyanosis, or edema, capillary refill<
+2 seconds,sensation intact to light touch
+Pulses: fem   [**Doctor Last Name 410**]    PT   DP
+R       palp  palp   dop dop
+L       palp palp   dop dop
+
+
+Pertinent Results:
+[**2764-11-16**] 08:20PM   GLUCOSE-50* UREA N-27* CREAT-1.6* SODIUM-138
+POTASSIUM-4.8 CHLORIDE-99 TOTAL CO2-31 ANION GAP-13
+[**2764-11-16**] 08:20PM   estGFR-Using this
+[**2764-11-16**] 08:20PM   ALT(SGPT)-17 AST(SGOT)-21 ALK PHOS-138* TOT
+BILI-0.7
+[**2764-11-16**] 08:20PM   CALCIUM-8.7 PHOSPHATE-3.7 MAGNESIUM-2.5
+[**2764-11-16**] 08:20PM   %HbA1c-6.7*
+[**2764-11-16**] 08:20PM   WBC-5.7# RBC-3.10* HGB-11.4* HCT-34.7*
+MCV-112*# MCH-36.9*# MCHC-32.9 RDW-16.9*
+[**2764-11-16**] 08:20PM   TSH-0.39
+[**2764-11-16**] 08:20PM   PLT COUNT-606*
+[**2764-11-16**] 08:20PM   PT-13.5* PTT-27.3 INR(PT)-1.2*
+
+[**2764-11-17**]  6:17:04 Cardiology Report ECG:
+Sinus rhythm. Left atrial abnormality. Intraventricular
+conduction delay - may
+be incomplete left bundle-branch block. Consider left
+ventricular hypertrophy
+and possible biventricular hypertrophy. ST-T wave abnormalities
+with probable
+prolonged QTc interval, although is difficult to measure - are
+non-specific but
+could be due to intraventricular conduction delay, left
+ventricular
+hypertrophy, drug/electrolyte,metabolic effect or possible
+ischemia. Clinical
+correlation is suggested. Since the previous tracing of [**2764-5-20**]
+the rate is
+slower and ST-T wave changes are less prominent
+
+
+[**2764-11-17**] 12:39 AMCHEST (PRE-OP PA & LAT) Study Date of:Stable
+cardiomegaly. Small left pleural effusion. No evidence
+of pneumonia or CHF.
+
+[**2764-11-20**] ECHOCARDIOGRAM:The left atrium is mildly dilated. No
+spontaneous echo contrast is seen in the left atrial appendage.
+Right ventricular chamber size and free wall motion are normal.
+There are simple atheroma in the descending thoracic aorta. The
+aortic valve leaflets are moderately thickened. There is no
+aortic valve stenosis. No aortic regurgitation is seen. There is
+severe mitral annular calcification. Moderate (2+) mitral
+regurgitation is seen. Left ventricular function is depressed EF
+20-25%. Septal a nd inferior walls are hypokinetic.There is no
+pericardial effusion.
+
+
+
+Brief Hospital Course:
+1.ISCHEMIC HEEL ULCER WITH TOE GANGRENE & REST PAIN
+
+[**2764-11-16**]
+-Admit to Dr.[**Name (NI) 2775**] service (Vascular Surgery)
+-Preop'ed patient for OR (consent,type/screen,)
+
+[**2764-11-17**]
+- a.m. labs
+-CXR
+-EKG
+-To OR for Right femoral and profunda endarterectomy,and Dacron
+patch profundoplasty.
+-Pulmonary Artery(Swanz-Ganzth)Catheter placed
+-Foley placed
+-pain control
+
+[**2764-11-18**]
+-ruled out an MI with 3 sets of cardiac enzymes
+-advance diet as tolerated
+-out of bed to a chair
+
+[**2764-11-19**]
+-Pulmonary Artery(Swanz-Ganzth)Catheter Removed
+
+[**2764-11-20**]
+-Physical Therapy Consult
+
+[**2764-11-21**]
+-Discharged home today
+
+Medications on Admission:
+Acetylcysteine (Mucomyst, Mucosil)
+Albuterol Aerosol
+ASA (Aspirin)
+Atorvastatin [Lipitor]
+Carvedilol [Coreg]
+Cipro (Ciprofloxacin)
+Flagyl (Metronidazole)
+Folic acid (Folvite)
+Heparin (SC TID)
+Insulin (Humulin, Novolin, Lente Iletin,
+Semilente Iletin, Velosulin, Ultralente (70/30
+and sliding scale)
+Lasix (Furosemide)
+Lisinopril [Prinivil, Zestril]
+Percocet (Oxycodone/Acetaminophen) (prn)
+Plavix (Clopidogrel)
+Protonix
+Vancocin (Vancomycin)
+Other (hydroxyurea, montelukast
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. Hydroxyurea 500 mg Capsule Sig: Two (2) Capsule PO 1X/WEEK
+([**Doctor First Name **]).
+3. Hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+4. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Montelukast 10 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+9. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+10. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+11. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1)
+Tablet PO BID (2 times a day) for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+PRN for 30 days.
+Disp:*60 Capsule(s)* Refills:*0*
+13. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Right foot gangrene with ischemic rest pain.
+2. Urinary retention
+
+
+Discharge Condition:
+good
+pain controlled w/ oxycodone
+d/c'ed with a foley catheter in place
+
+
+Discharge Instructions:
+Please call your physician or go to the emergency room if you
+develop chest pain, shortness of breath,fever greater than
+101.5, foul smelling or colorful drainage from your  incisions,
+redness or swelling, severe abdominal pain or
+distention,persistent nausea or vomiting, inability to eat or
+drink, or any other symptoms which are concerning to you.
+
+Please do not get your incisions wet until your follow-up
+appointment. If there is clear drainage from your incisions,
+cover with a dry dressing. Please leave staples in until your
+follow-up appointment.
+
+Activity: You may resume activity as tolerated
+
+Medications: Resume your home medications. You have been
+prescribed an antibiotic called Bactrim,please take as directed.
+You have also been given a pain medication called oxycodone
+(prescription in OMR). This is a narcotic pain medication,so
+please use with caution. Please do not drive while taking
+oxycodone. You will also be given a stool softener, as oxycodone
+can cause constipation.
+
+You are being sent home with a foley catheter in place and leg
+bag training. Please at the Urology Clinic (([**Telephone/Fax (1) 24344**]) to be
+evaluated and to have the foley catheter removed.
+
+
+
+Followup Instructions:
+Please follow up with [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. in 2 weeks. Please
+call his office at ([**Telephone/Fax (1) 4991**] to make an appointment
+
+2. Please call the Urology Clinic @([**Telephone/Fax (1) 24344**] on Monday [**11-23**]
+for an appointment to be evaluated and have the foley catheter
+removed
+
+Please follow up with your PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **] [**Telephone/Fax (1) 24345**]
+in 1 week.
+
+
+
+Completed by:[**2765-5-28**]
+
+
+DOC CLASS

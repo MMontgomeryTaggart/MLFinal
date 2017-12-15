@@ -1,0 +1,171 @@
+Chief Complaint: Fever and hypotension
+   24 Hour Events:
+ PICC LINE - START [**2798-4-21**] 08:49 PM
+ INDWELLING PORT (PORTACATH) - START [**2798-4-21**] 08:50 PM
+   Allergies:
+   Latex
+   Rash;
+   Oxaliplatin
+   Iodine; Iodine Containing
+   Rash;
+   Fluconazole
+   angioedema;
+   Ace Inhibitors
+   Rash; contraind
+   Last dose of Antibiotics:
+   Vancomycin - [**2798-4-21**] 11:00 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2798-4-22**] 02:58 AM
+   Infusions:
+   Norepinephrine - 0.03 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2798-4-22**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**00**] AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.7
+C (99.8
+   HR: 100 (85 - 100) bpm
+   BP: 101/54(65) {83/43(55) - 116/56(67)} mmHg
+   RR: 9 (0 - 24) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    712 mL
+                                                                    656 mL
+   PO:
+             TF:
+   IVF:
+                                                                    712 mL
+                                                                    656 mL
+   Blood products:
+   Total out:
+                                                                  1,020 mL
+                                                                    260 mL
+   Urine:
+                                                                    420 mL
+                                                                    260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -308 mL
+                                                                    396 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 94%
+   ABG: ///20/
+   Physical Examination
+   GEN: NAD, comfortable, answering questions appropiately.
+   HEENT: no icterus, or conjunctival injection, MM moist, EOMI
+   LYMPH: no cervical, clavicular LAD
+   NECK: neck veins not dilated, JVP not seen
+   CAR: s1s2 rrr no m/r/g, no murmurs appreciated
+   RESP: Clear to auscultation bilaterally
+   ABD: soft, nontender, not distended, enterocutaneous fistula with small
+   volume liquid red/brown stool. Per patient--normal in appearance.
+   EXT: no LE edema, RUE increased swelling compared to R.
+   SKIN: no rash
+   BACK: no midline, paraspinal or CVA tenderness
+   NEURO: CN II-XII intact, alert/oriented X 3, MAE normally
+   Labs / Radiology
+   291 K/uL
+   8.5 g/dL
+   91 mg/dL
+   0.2 mg/dL
+   20 mEq/L
+   3.9 mEq/L
+   19 mg/dL
+   91 mEq/L
+   136 mEq/L
+   27.5 %
+   7.9 K/uL
+        [image002.jpg]
+                             [**2798-4-21**]  11:07 PM
+                             [**2798-4-22**]  05:06 AM
+   WBC
+   8.5
+   7.9
+   Hct
+   28.8
+   27.5
+   Plt
+   330
+   291
+   Cr
+   0.6
+   0.2
+   Glucose
+   111
+   91
+   Other labs: PT / PTT / INR:14.5/32.6/1.3, Differential-Neuts:77.2 %,
+   Lymph:13.7 %, Mono:6.0 %, Eos:2.8 %, Ca++:7.8 mg/dL, Mg++:1.7 mg/dL,
+   PO4:3.4 mg/dL
+   Assessment and Plan
+   67 year old female with metastatic colon cancer C33D8 5-FU/Leucovorin
+   presenting with fever, hypotension and blood per enterocutaneous
+   fistula.
+   .
+   # Hypotension: SBP to 80s in ED and on arrival to ICU after 2 units of
+   NS. Pt is mentating well, strong peripheral pulses, voiding. DDx
+   includes hypovolemia vs. sepsis. Hypovolemia is a possiblity given poor
+   po intake (on TPN), ?blood loss from fistula site (less likely). Sepsis
+   also possible - fever, elevated WBC in an immunocompromised host (see
+   below).
+   - IVF for MAP goal >60
+   - Levophed if needed to maintain above
+   - Foley for close output monitoring
+   - Broad spectrum abx for now Vanco/Zosyn
+   - f/u bcx, ucx, sputum, and stool for C.diff.
+   - CXR - repeat in am, consider thoracentesis
+   - Planned CT abd/pelvis in am
+   - serial HCTs, transfuse for HCT < 21 or increased bleeding.
+   .
+   # Fever, leukocytosis: Potential sources include lines (PICC, port)
+   though neither look infected, pulmonary (increased effusions on CXR),
+   abdominal - fistula site vs. abscess vs. C. dif.
+   - Broad spectrum abx for now Vanco/Zosyn
+   - f/u bcx, ucx, sputum, and stool for C.diff.
+   - CXR - repeat in am
+   - Planned CT abd/pelvis in am
+   .
+   # Bloody fistula drainage: Surgery consult tonight, serial hematocrits
+   - q4hr. Ostomy/wound care consult for fistula site. NPO Hold heparin,
+   pneumoboots.
+   .
+   # Metastatic colon cancer: now followed by Dr. [**Last Name (STitle) 1814**] (heme/onc) and
+   Dr. [**Last Name (STitle) **]. Plan is for staging CT abd/pelvis tomorrow if she is able
+   to gauge response to chemotherapy.
+   .
+   # H/O PE/SVC syndrome/port-related clots: Fondaparinux on hold due to
+   recent bleeding.
+   .
+   # Wound: ostomy consult. Continue topical therapies and local care.
+   .
+   # DM - Not on meds at home.
+   - insulin s/s
+   ICU Care
+   Nutrition: Clear liquid diet
+   Glycemic Control:  Insulin s/s
+   Lines:
+   PICC Line - [**2798-4-21**] 08:49 PM
+   Indwelling Port (PortaCath) - [**2798-4-21**] 08:50 PM
+   Prophylaxis:
+   DVT: Pneumoboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code, confirmed with patient, ICU consent signed
+   Disposition: ICU pending clinical improvement
+
+
+
+DOC CLASS

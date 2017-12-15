@@ -1,0 +1,193 @@
+CVICU
+   HPI:
+   s/p emergent CABGx4 (LIMA-LAD, SVG-Diag, SVG- OM, SVG-PDA)
+   PMH:CAD,HTN, IMI/VF arrest/cerbral hypoxia'[**37**], VF arrest '[**50**] 2'
+   hypokalemia, BMS LCx '[**47**], ESRD on HD (T,TH,Sat), PVD, ^lipids,
+   Pulm.fibrosis, GERD
+   [**Last Name (un) 550**]: Lasix 40, Flomax 0.4, Zoloft 100, Renagel 800(3), Nephrocaps,
+   Hydrocodone 7.5/750 prn, Plavix 75-last dose 12/9, nebulizers prn,
+   Omeprazole 20, Metoprolol 25 Q AM/50 Q PM, lopid 600(2), Crestor 20,
+   **Home O2 prn at night.
+   Chief complaint:
+   PMHx:
+   Current medications:
+   24 Hour Events:
+ EKG - At [**2652-12-19**] 09:30 AM
+ INVASIVE VENTILATION - STOP [**2652-12-19**] 01:55 PM
+ EXTUBATION - At [**2652-12-19**] 01:58 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2652-12-19**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Insulin - Regular - [**2652-12-19**] 09:35 AM
+   Pantoprazole (Protonix) - [**2652-12-19**] 10:20 PM
+   Other medications:
+   Flowsheet Data as of  [**2652-12-20**] 06:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**56**] a.m.
+   HR: 82 (78 - 99) bpm
+   BP: 118/47(72) {84/37(56) - 121/57(78)} mmHg
+   RR: 19 (12 - 34) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 68 Inch
+   CVP: 20 (7 - 20) mmHg
+   PAP: (41 mmHg) / (19 mmHg)
+   CO/CI (Fick): (5.9 L/min) / (3.5 L/min/m2)
+   CO/CI (CCO): (5.9 L/min) / (3.4 L/min/m2)
+   SvO2: 67%
+   Mixed Venous O2% sat: 72 - 72
+   Total In:
+                                                                  2,270 mL
+                                                                     11 mL
+   PO:
+                                                                     30 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,963 mL
+                                                                     11 mL
+   Blood products:
+                                                                    277 mL
+   Total out:
+                                                                  1,450 mL
+                                                                    180 mL
+   Urine:
+                                                                     50 mL
+                                                                     10 mL
+   NG:
+                                                                    400 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    820 mL
+                                                                   -169 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: Standby
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 412 (412 - 590) mL
+   PS : 5 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 30 cmH2O
+   Plateau: 19 cmH2O
+   Compliance: 35.7 cmH2O/mL
+   SPO2: 97%
+   ABG: 7.31/45/124/23/-3
+   Ve: 10 L/min
+   PaO2 / FiO2: 248
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Respiratory / Chest: (Expansion: Symmetric), (Sternum: Stable )
+   Abdominal: Soft
+   Left Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present),
+   (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present),
+   (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   117 K/uL
+   9.0 g/dL
+   57 mg/dL
+   4.5 mg/dL
+   23 mEq/L
+   5.1 mEq/L
+   24 mg/dL
+   108 mEq/L
+   141 mEq/L
+   25.2 %
+   21.2 K/uL
+        [image002.jpg]
+                            [**2652-12-18**]  09:47 PM
+                            [**2652-12-18**]  09:55 PM
+                            [**2652-12-19**]  03:43 AM
+                            [**2652-12-19**]  04:00 AM
+                            [**2652-12-19**]  06:09 AM
+                            [**2652-12-19**]  12:40 PM
+                            [**2652-12-19**]  01:41 PM
+                            [**2652-12-19**]  08:00 PM
+                            [**2652-12-19**]  08:14 PM
+                            [**2652-12-20**]  03:29 AM
+   WBC
+   17.4
+   26.5
+   21.2
+   Hct
+   26.6
+   25.6
+   26.7
+   25.2
+   Plt
+   120
+   162
+   117
+   Creatinine
+   2.5
+   2.7
+   4.5
+   TCO2
+   28
+   24
+   23
+   20
+   20
+   24
+   Glucose
+   107
+   136
+   103
+   57
+   Other labs: PT / PTT / INR:16.0/34.8/1.4, Fibrinogen:179 mg/dL, Lactic
+   Acid:3.8 mmol/L, Ca:8.4 mg/dL, Mg:2.5 mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+   .H/O RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD), CORONARY
+   ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Off neo
+   Pulmonary: IS, OOB and CPT
+   Chest tube placed for large rt effusion
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet
+   Renal: HD, .  yesterday and repeat today
+   Hematology: No evidence of active bleeding
+   Endocrine: RISS
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2652-12-18**] 03:46 PM
+   22 Gauge - [**2652-12-18**] 03:47 PM
+   Arterial Line - [**2652-12-18**] 09:20 PM
+   Cordis/Introducer - [**2652-12-18**] 09:20 PM
+   CCO PAC - [**2652-12-18**] 09:20 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU, Transfer to floor
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

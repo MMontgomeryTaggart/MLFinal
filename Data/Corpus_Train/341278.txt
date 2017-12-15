@@ -1,0 +1,239 @@
+Chief Complaint:
+   24 Hour Events:
+   Kept NPO in am to monitor for ileus, pSBO
+   Echo performed to assess for systolic dysfunction worsening - EF 55%,
+   mildly dilated RV, preserved global biV systolic fx, moderate pulmonary
+   htn.
+   Cortisol level checked - 20
+   Family meeting with [**Doctor First Name 67**], daughter --> made DNR
+   T 101, pan-cultured, increasing pressor requirements
+   Discussed with daughter and son; want to try another pressor, if
+   needed, and reassess
+   Started IV hydrocortisone q6
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Metronidazole - [**2603-10-12**] 08:00 AM
+   Fluconazole - [**2603-10-13**] 12:00 PM
+   Daptomycin - [**2603-10-14**] 09:46 PM
+   Meropenem - [**2603-10-15**] 02:00 AM
+   Bactrim (SMX/TMP) - [**2603-10-15**] 06:19 AM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Norepinephrine - 0.25 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2603-10-14**] 02:33 PM
+   Midazolam (Versed) - [**2603-10-14**] 11:45 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-10-15**] 07:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.5
+C (101.3
+   Tcurrent: 37.2
+C (99
+   HR: 94 (61 - 102) bpm
+   BP: 142/64(83) {82/39(54) - 142/85(90)} mmHg
+   RR: 26 (17 - 34) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+             Total In:
+                                                                  2,360 mL
+                                                                    708 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,315 mL
+                                                                    708 mL
+   Blood products:
+                                                                     15 mL
+   Total out:
+                                                                  1,379 mL
+                                                                    584 mL
+   Urine:
+                                                                  1,379 mL
+                                                                    584 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    981 mL
+                                                                    124 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 34 cmH2O
+   Plateau: 27 cmH2O
+   Compliance: 29.4 cmH2O/mL
+   SpO2: 99%
+   ABG: ///27/
+   Ve: 12.9 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   473 K/uL
+   9.4 g/dL
+   123 mg/dL
+   0.8 mg/dL
+   27 mEq/L
+   4.1 mEq/L
+   15 mg/dL
+   99 mEq/L
+   131 mEq/L
+   27.6 %
+   8.8 K/uL
+        [image002.jpg]
+                            [**2603-10-12**]  04:00 AM
+                            [**2603-10-12**]  05:03 AM
+                            [**2603-10-12**]  03:03 PM
+                            [**2603-10-12**]  04:57 PM
+                            [**2603-10-13**]  03:30 AM
+                            [**2603-10-13**]  06:18 PM
+                            [**2603-10-14**]  03:22 AM
+                            [**2603-10-14**]  03:23 PM
+                            [**2603-10-14**]  04:28 PM
+                            [**2603-10-15**]  03:16 AM
+   WBC
+   11.1
+   8.8
+   9.1
+   9.3
+   12.6
+   8.4
+   8.8
+   Hct
+   25.3
+   25.5
+   26.8
+   25.1
+   30.6
+   25.7
+   27.6
+   Plt
+   [**Telephone/Fax (3) 6393**]
+   473
+   Cr
+   0.5
+   0.6
+   0.6
+   0.6
+   0.6
+   0.7
+   0.7
+   0.8
+   TCO2
+   33
+   Glucose
+   86
+   640
+   89
+   85
+   92
+   80
+   64
+   123
+   Other labs: PT / PTT / INR:15.6/36.8/1.4, CK / CKMB /
+   Troponin-T:20/3/0.16, ALT / AST:[**10-18**], Alk Phos / T Bili:71/0.2,
+   Amylase / Lipase:36/16, Differential-Neuts:84.8 %, Band:0.0 %,
+   Lymph:5.1 %, Mono:2.5 %, Eos:7.1 %, D-dimer:881 ng/mL, Fibrinogen:386
+   mg/dL, Lactic Acid:1.2 mmol/L, Albumin:2.0 g/dL, LDH:163 IU/L, Ca++:8.2
+   mg/dL, Mg++:1.7 mg/dL, PO4:2.2 mg/dL
+   Assessment and Plan
+   In summary, Mr. [**Known patient lastname 5603**] is a 75 year old male with CAD, CHF, PVD, s/p
+   resp failure with trach/PEG with vent assoc ESBL Klebsiella and
+   Acineotbacter pna now with ileus.
+   Ileus: Patient developed distended, tympanitic abdomen on [**10-11**] which
+   is clinically improving with NGT suction, NPO. Bowel regimen, holding
+   opioids.
+   - trend lactate, wbc
+   - cont NPO with IVF , hold on TFs
+   - bowel regimen
+   - [**Doctor First Name 438**] following
+   - no opioids
+   Hypotension.  Patient developed hypotension yesterday requiring
+   re-initiation of pressors.  WBC is mildly rising but not febrile.
+   Remains on broad spectrum antibiotics but exam is not consistent with
+   worsening sepsis.  Given eleveated BNP, will evaluate echo and consider
+   diuresis with lasix drip.
+   - [**Last Name (un) 411**], bactrim, dapto
+ to complete 14d course (started [**10-6**], to end
+   [**10-19**])
+   - MAPs>60, trend lactate, levophed as needed
+   - f/u culture data, fever curve, wbc
+   - minimize IVF boluses for hypotension
+   - hold lasix for now, but consider lasix drip in PM following echo
+   results
+   - d/c opioids
+   - echo to assess cardiac function today
+   Respiratory failure.  Patient has Pneumonia (ESBL klebsiella and
+   acinetobacter), worsening bilateral pleural effusions that have
+   reaccumlated following thoracentis, and significant of abdominal
+   distention.  Bronch yesterday  consistent with CHF/pulmonary edema,
+   though unable to diurese due to concern for SBO.
+   -  [**Last Name (un) 411**], bactrim, for pna
+   -  Assist Control today
+   -  consider lasix diuresis with drip in PM pending result of echo
+   Hyponatremia. Patient likely has SIADH given low sodium.  However,
+   unable to free water restrict due to concern for SBO.  Currently stable
+   hyponatremia.
+   -          serial lytes
+   -          when able to feed him, will stop IVF and free water restrict
+   Nutrition.  Failed S&S, PEG placement by IR.  PEG appears to be in good
+   position.  However, given concern for obstruction, will remain NPO.
+   - hold TFs
+   PD - awaiting revascularization after DC.  Stable LLE dry gangrene.
+   - further management per Dr. [**Last Name (STitle) **] as patient recovers from this
+   hospitalization.
+   - hold asa/plavix given above
+   - hold opioids due to ileus vs sbo and hypotension
+   UTI.  UTI ESBL Klebsiella species, S to meropenem (last Klebs MIC panel
+   pending).  Foley changed [**10-8**].  Also, yeast in urine.  Completed 2 days
+   of fluconazole, which was stopped given concern for drug rash.
+   Rash.  Concern for drug rash. Will stop fluconazole as this was
+   recently started and may be the offending [**Doctor Last Name **].
+   HEART FAILURE (CHF), DIASTOLIC
+ hold on diuresis given ileus.  Found
+   to have elevated BNP.  Also with pulmonary edema on bronch.
+   - hold on diuresis for now, but consider lasix drip in PM pending echo
+   results
+   EOSINOPHILIA
+ s/p tx strongyloides with ivermectin, ?drug reaction.
+   Tryptase wnl.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2603-8-31**] 01:06 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

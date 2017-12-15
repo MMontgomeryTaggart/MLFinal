@@ -1,0 +1,160 @@
+SICU
+   HPI:
+   83F, w/recent admission for diastolic CHF, new afib, and cardiac PCI w/
+   stent to mid RCA on [**5-3**], now w/worsening rt foot malleolus ulcer and
+   necrosis around rt hallux ulceration.  Has had h/o b/l hallux ulcers
+   treated w/debridement c/b rt malleolus ulceration & swelling of RLE
+   noted. After cath, had an episode of non-documented Afib, received
+   Lopressor iv and hypotensive 80s, convert>NSR
+   Chief complaint:
+   hypotension
+   PMHx:
+   PMHx: DM2, ^chol, htn, diastolic CHF (EF45%), afib last admission on
+   coumadin, s/p PTCA/stent [**5-3**], h/o MI, h/o PE/DVT [**3141**], OA
+   PSH: s/p appy, b/l THR, ?vein ligation @ saphfem jxn for remote DVT
+   Medications: Lipitor 80, Plavix 75, Asa 325, Furosemide 20, Glyburide
+   10", Ntg prn, Metoprolol 37.5, Metformin 1,000, Moexipril 15"
+   Current medications:
+   Acetaminophen  Albuterol  Aspirin Atorvastatin Clopidogrel Furosemide
+   GlyBURIDE Heparin  Insulin  Metoprolol
+   Nitroglycerin SL
+   24 Hour Events:
+   admit to sicu.  2 doses 20mg Lasix.  Cards ok with 15cc/hr UOP, no more
+   lasix as Cr bumped and contrast nephropathy likely to present with
+   increased Cr tomorrow. Only lasix if clinically worse volume overload
+   Allergies:
+   Cymbalta (Oral) (Duloxetine Hcl)
+   Nausea/Vomiting
+   Penicillins
+   Hives; Unspecif
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3185-5-17**] 06:10 PM
+   Flowsheet Data as of  [**3185-5-18**] 05:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**87**] a.m.
+   Tmax: 36.6
+C (97.9
+   T current: 36.6
+C (97.9
+   HR: 58 (51 - 73) bpm
+   BP: 131/56(75) {101/46(61) - 151/75(92)} mmHg
+   RR: 16 (14 - 25) insp/min
+   SPO2: 96%
+   Heart rhythm: SB (Sinus Bradycardia)
+             Total In:
+                                                                    925 mL
+                                                                      2 mL
+   PO:
+                                                                    300 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    625 mL
+                                                                      2 mL
+   Blood products:
+   Total out:
+                                                                    356 mL
+                                                                     90 mL
+   Urine:
+                                                                    356 mL
+                                                                     90 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    569 mL
+                                                                    -88 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Absent), (Pulse
+   - Posterior tibial: Absent)
+   Right Extremities: (Edema: 2+), (Pulse - Dorsalis pedis: Absent),
+   (Pulse - Posterior tibial: Absent)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   422 K/uL
+   11.0 g/dL
+   83 mg/dL
+   1.4 mg/dL
+   24 mEq/L
+   4.0 mEq/L
+   25 mg/dL
+   104 mEq/L
+   138 mEq/L
+   33.1 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**3185-5-17**]  07:04 AM
+                             [**3185-5-17**]  04:30 PM
+                             [**3185-5-17**]  06:00 PM
+                             [**3185-5-18**]  03:44 AM
+   WBC
+   10.3
+   10.2
+   Hct
+   32.8
+   33.1
+   Plt
+   423
+   422
+   Creatinine
+   1.5
+   1.4
+   1.4
+   Troponin T
+   0.06
+   0.06
+   Glucose
+   190
+   476
+   172
+   83
+   Other labs: CK / CK-MB / Troponin T:75/4/0.06, Ca:8.2 mg/dL, Mg:2.1
+   mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   .H/O PERIPHERAL VASCULAR DISEASE (PVD) WITHOUT CRITICAL LIMB ISCHEMIA,
+   HEART DISEASE, OTHER
+   Assessment and Plan: 83yF with CHF
+   Neurologic: no active issues
+   Cardiovascular: Metoprolol 37.5'', aspirin/plavix. Cardiology
+   following. Lasix if symptomatic
+   Pulmonary: stable
+   Gastrointestinal / Abdomen:
+   Nutrition: Diabetic diet
+   Renal: Cr bumped, continue to follow for possible worsening of contrast
+   nephropathy.  Holding ACE inhibitor
+   Hematology: SQH, Hct stable
+   Endocrine: glyburide
+   Infectious Disease: afebrile, wbc normal
+   Lines / Tubes / Drains: Foley
+   Consults: Vascular surgery, Cardiology
+   Billing Diagnosis: Post-op hypotension, Acute renal failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3185-5-17**] 06:30 AM
+   22 Gauge - [**3185-5-17**] 06:30 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP bundle:
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 32 min
+
+
+
+DOC CLASS

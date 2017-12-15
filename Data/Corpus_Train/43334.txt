@@ -1,0 +1,107 @@
+Admission Date:  [**2927-12-9**]     Discharge Date:  [**2927-12-14**]
+
+Date of Birth:   [**2877-4-9**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 50-year-old
+male with a history of dilated nonischemic cardiomyopathy
+with an EF of 15, complete heart block status post VVI pacer,
+status post gastric bypass, several episodes of acute tubular
+necrosis in the past, presents to an outside hospital with
+five days of nausea, vomiting, watery diarrhea three times
+per day - no blood and no black.  Wife had been sick with
+diarrhea previously.
+
+No recent travel and no PND or orthopnea.  No increased lower
+extremity edema, chest pain or shortness of breath.  Wife
+notes that the patient has been very fatigued as of late, two
+days ago, as well as extremely confused.  His wife, who is [**Name8 (MD) **]
+RN, noticed a systolic blood pressure to be in the 70's to
+80's, but he normally has a baseline of 90.  He continues to
+take his diuretics and his ACE inhibitor while he was not
+taking any PO and having massive diarrhea.  He called EMS,
+went to the outside hospital, was found to be in acute renal
+failure, acidotic, hyperkalemic, elevated INR, and sent to
+the [**Hospital1 509**].
+
+PAST MEDICAL HISTORY:  Dilated nonischemic cardiomyopathy
+with an EF of less than 15%, complete heart block status post
+DDD pacer in [**2913**], replaced in [**2924**], neuropathic pain,
+/ventral hernia, atrial fibrillation with left bundle branch
+block, and status post gastric bypass, trach postoperatively,
+ventral hernia repair, hospital course complicated by acute
+renal failure and trach and a baseline creatinine of 1.1.
+
+MEDICATIONS ON ADMISSION:  Coumadin 5, Enalapril 10 b.i.d.,
+carvedilol 12.5 b.i.d., Zantac 150 b.i.d., vitamin B12, Lasix
+120 b.i.d., aspirin 325, Ativan 0.5 PO b.i.d., Neurontin 300
+mg PO b.i.d..
+
+SOCIAL HISTORY:  Remote tobacco.
+
+PHYSICAL EXAMINATION:  On initial exam, the patient was alert
+and oriented.  HEENT was anicteric.  Extraocular muscles were
+dry.  Neck: No JVD.  Supple.  Distant S1, S2.  Lungs: Clear
+to auscultation anteriorly.  Abdomen: Positive bowel sounds,
+obese.  Extremities: No edema, but scabbed excoriations.
+Neuro: Alert and oriented times three and conversant.
+
+HOSPITAL COURSE:  1. Renal.  Patient admitted in acute renal
+failure notable for a BUN of 210 and creatinine 9.9.  He also
+had elevated K with peaked T waves anteriorly.  He was given
+emergent hemodialysis for three hours and was given
+aggressive IV fluid hydration and his urine output started to
+pick up to peaks of 400 cc an hour.  He received Swan-Ganz
+catheter monitoring with wedges that were around 15-18.  On
+the third day of his admission, the Swan was discharged and
+he was continued to be aggressively rehydrated until his
+urine output came to more reasonable levels where he was able
+to keep up with his PO intake.  His acute renal failure
+resolved with only the one episode of hemodialysis, as did
+most of his hyperkalemia.
+
+2. Cardiac.  The patient had an EF of 15%.  His initial wedge
+was 22 and he was monitored closely during this
+resuscitation.  He never went into failure.  Rhythm, his AV
+is sequentially paced.  He had peaked Ts on first EKG which
+were then resolved.
+
+3. Hematology.  Patient had low hematocrit after his
+rehydration and was transfused two units.  He was also given
+vitamin K to reverse his INR of 14. His INR did reverse on
+its own and was felt likely secondary to decreased PO intake.
+His Coumadin, as of this dictation, was still on hold.
+
+4. GI.  Patient with diarrhea which had resolved for the
+first two days and then came back.  Stool studies were sent
+and the results are pending, as of the time of this
+dictation.
+
+5. ID.  Patient was evaluated by ID for septic numbers on the
+Swan.  Patient had low SVR and a high cardiac output.  It was
+felt there was no infectious source, although he did have a
+low grade fever.  The patient was given one dose of Levaquin
+for a presumed UTI, which then the culture had no growth and
+was discontinued.
+
+DISCHARGE MEDICATIONS:  The same as on admission.
+
+DISCHARGE STATUS:  Good.
+
+DISCHARGE DISPOSITION:  Home.
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 19688**], M.D.  [**MD Number(1) 19689**]
+
+Dictated By:[**Last Name (NamePattern1) 19690**]
+
+MEDQUIST36
+
+D:  [**2927-12-13**]  14:21
+T:  [**2927-12-15**]  07:35
+JOB#:  [**Job Number 19691**]
+
+
+
+DOC CLASS

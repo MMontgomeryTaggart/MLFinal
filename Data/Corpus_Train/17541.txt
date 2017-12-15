@@ -1,0 +1,112 @@
+Admission Date:  [**2987-4-6**]       Discharge Date:  [**2987-4-26**]
+
+Date of Birth:   [**2944-3-8**]       Sex:  M
+
+Service:  Cardiothoracic Surgery
+
+HISTORY OF PRESENT ILLNESS:  Briefly, this is a 43-year-old
+male who had been feeling deconditioned since [**2986-2-14**] who noticed increased swelling in his lower extremities
+and increasing dyspnea on exertion.  Recently diagnosed with
+cardiomyopathy with an ejection fraction of about 15%.  ETT
+during which systolic blood pressure dropped to 65.  The
+patient underwent catheterization on the day of admission at
+[**Hospital3 **] and confirmed severe cardiomyopathy, critical left
+main coronary artery stenosis 90%, and was transferred to
+[**Hospital1 58**] for intra-aortic balloon
+pump placement and possible coronary artery bypass graft.
+
+PAST MEDICAL HISTORY:  Hypercholesterolemia.
+
+ALLERGIES:  The patient had no known drug allergies.
+
+MEDICATIONS:
+1. Lipitor 10 q day.
+2. Lisinopril 10 q day.
+
+SOCIAL HISTORY:  The patient was a nonsmoker and used only
+occasional alcohol.
+
+PHYSICAL EXAMINATION:  On examination, the patient was in no
+acute distress.  Regular, rate, and rhythm.  He had bibasilar
+crackles in the lungs, otherwise clear, and 2+ pitting edema
+in the lower extremities.
+
+Patient's white count is 8.1, hematocrit of 45.1, platelets
+of 208.  Patient had an INR of 1.9, PTT of 46.1.
+Electrolytes were within normal limits.  T bilirubin 2.4,
+direct bilirubin of 0.8, and indirect bilirubin of 1.6, ALT
+22, AST 23, alkaline phosphatase 101.
+
+Patient underwent intra-aortic balloon placement without
+complication.  Patient was seen by Heart Transplant Team who
+felt him to be a decent candidate for transplant in the
+future.  The patient was also evaluated for coronary artery
+bypass grafting as the patient was shown to have severe
+disease at the right coronary artery.
+
+The patient underwent a CABG x3 on [**2987-4-9**] for two
+vessel disease, decreased ejection fraction and left main
+disease.  The patient was unstable postoperatively requiring
+multiple pressors intra-aortic balloon pump.  Patient
+remained intubated and sedated.  The patient had an
+intra-aortic balloon pump removed on postoperative day six.
+Patient had an echocardiogram which showed an ejection
+fraction of 10%, mild mitral regurgitation, tricuspid
+regurgitation, mild pericardial effusion, and no change
+compared to previous on [**2987-4-7**].  The patient was
+extubated on postoperative day 10.
+
+He was transferred to the floor on postoperative day 14.  He
+continues to do well and he was continued on antibiotics for
+a noted cellulitis on his right lower extremity, which
+continued to improve.  Otherwise, the patient had an
+uncomplicated hospital course.  He was on a Heparin drip
+pending an EPS study upon transfer to his original hospital.
+
+By[**Last Name (STitle) 11319**]perative day 12, the patient was felt to be doing
+well as he was tolerating regular diet, ambulating well with
+good po pain control.  The patient continued on Heparin drip,
+Vancomycin, and Cipro, and felt to be ready for transfer to
+the outside hospital, [**Hospital3 **] in order to undergo his EP
+study with possible placement of an ICD which was scheduled
+to occur on [**2987-4-27**].  Patient will be following up
+with Dr. [**Last Name (Prefixes) **] in four weeks and his primary care
+physician [**Last Name (NamePattern4) **] [**2-15**] weeks and his cardiologist in [**3-19**] weeks.
+
+TR[**Last Name (STitle) **] MEDICATIONS:
+1. Heparin drip at 1300 units an hour.
+2. Captopril 100 mg po tid.
+3. Albuterol 1-2 puffs q6h.
+4. Amiodarone 400 mg po q day.
+5. Valsartan 80 mg q day.
+6. Ciprofloxacin 500 mg po q12h.
+7. Vancomycin 1 gram IV q12h.
+8. Percocet 1-2 tablets po q4-6h prn pain.
+9. Tylenol 650 mg po q4h prn.
+10. Aspirin 325 mg po q day.
+11. Zantac 150 mg po bid until followup with Dr. [**Last Name (Prefixes) **].
+12. Colace 100 mg po bid.
+13. Lasix 20 mg po q12h.
+14. Potassium 20 mEq po q12h.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To [**Hospital3 **] Hospital.
+
+DIAGNOSIS:  Status post coronary artery bypass graft x3.
+
+
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Name8 (MD) 399**]
+MEDQUIST36
+
+D:  [**2987-4-26**]  11:58
+T:  [**2987-4-26**]  12:03
+JOB#:  [**Job Number 26077**]
+
+
+
+DOC CLASS

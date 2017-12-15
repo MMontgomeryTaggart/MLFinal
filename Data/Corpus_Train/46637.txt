@@ -1,0 +1,513 @@
+Admission Date:  [**2753-4-10**]              Discharge Date:   [**2753-4-23**]
+
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Lisinopril / Zetia / [**Year/Month/Day **] / Lovastatin / Doxepin /
+Boniva / Gleevec / Ciprofloxacin
+
+Attending:[**First Name3 (LF) 1235**]
+Chief Complaint:
+Dizziness, fatigue
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+H/P reviewed and verified. Please see original HPI for details.
+In brief, Ms. [**Known patient lastname 4278**] is an 87yo woman with h/o CAD, Afib on
+dofetalide and coumadin, sCHF (EF 40%), h/o v tach s/p PPM/ICD,
+CML on Gleevec but not taking, CKD (baseline Cr 1.6), who
+initially presented to the BMT service with vertigo and vomiting
+on [**2753-4-10**], and a white count of 173 thought to be due to
+untreated CML. Of note, she had not been taking her Gleevec for
+6 weeks because of side effects of malaise and GI discomfort.
+Her hospital course was notable for starting Gleevec with more
+GI symptoms which caused a decrease in her WBC count. They also
+discontinued dofetilide due to worsening renal failure on [**4-17**].
+On [**4-18**], she developed intractable V tach in the 130s with
+pressures in the 90s/50s that was not easily amenable to pacer
+override by EP. She was transferred to the CCU for further
+management of her v tach.
+In the CCU, she complains of mild dyspnea at rest, palpitations.
+She denies CP or light-headedness. She was in sinus prior to
+transfer, but en route returned into v tach in the 130s with
+pressures in the 90s/50s. EP was called again who tried again to
+override pace the v tach successfully. However, v tach recurred
+and this needed to be repeated 2 more times. Amiodarone 100mg IV
+ONCE bolus plus 1mg/min drip x 6 hours, then 0.5mg/min bolus x
+18 hours was started. Electrolyte panel returned showing
+hypokalemia of 3.2 and hypomagnesemia of 1.7. This was repleted
+immediately with K 10mg IV ONCE, and K 40mg PO ONCE and
+magnesium 4gm IV ONCE. Because the v tach developed at a sinus
+rate of 78, the pacer was set to 85bpm to override the
+ventricular ectopic focus with an automated 8 time override
+mechanism.
+.
+On review of systems, she denies any prior joint pains, cough,
+hemoptysis, black stools or red stools. She denies recent
+fevers, chills or rigors. She denies nause, vomitting, diarrhea,
+constipation. All of the other review of systems were negative.
+
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope (except on
+presentation).
+
+
+Past Medical History:
+1.  Hypertension / CAD / CHF,  [**2731**]
+IWMI cardiogenic shock.  Cath: LVEF 0.40, INFERIOR AKINESIS, 1+
+MR,
+LMCA, LAD AND LCX -- NO SIGNIFICANT DISEASE, RCA -- 100% PROX.
+[**2746-3-11**] ETT modified [**Doctor Last Name 555**], 3.5 min, 55% age pred max heart
+rate, MIBI  LVEF 48%, large inf fixed defect.  Echocard [**7-/2749**]:
+mild sym LVH, EF only 30%, 2+ MR.  s/p mi [**2731**], cath [**2740**] one
+vessel dz RCA, LVEF 40%; [**6-16**] ETT fixed defect inf/lat and
+apical EF 42%, [**2-19**] new septal moderate, parially reversible
+defect
+2.  Type 2 diabetes, diet controlled.
+3.  Atrial fib / flutter and wide complex tachycardia, rx
+pacemaker / defibrillator [**2745**], anticoag, followed by Dr. [**Last Name (STitle) **].
+4.  CML, stable on Gleevec despite side effects incl eye
+discomfort and occasional gassiness, dry heaves
+5.  Hyperlipidemia, discontinued pravachol due to myalgias which
+then promptly resolved.  Had liver problems on [**Name2 (NI) 7772**], zocor so
+intolerant to multiple statins.
+6.  COPD, FEV1 1.13 [**2749**].  Stopped smoking in [**2731**], pulmonary
+eval [**2749**]: deconditioning and wt is contributing to dyspnea.
+7.  Depression,
+8.  Eczema / psoriasis, pruritis improved with Sarna.
+9.  GERD, ? asymptomatic.
+10.  Gout, treated.
+11.  Hypothyroidism.
+12.  Mesenteric ischemia, without abdominal sx after eating.
+Positive angiogram
+13.  Osteporosis.  stopped Fosamax due to heartburn.
+14.  Renal insufficiency, creat 1.4.
+
+
+Social History:
+Social History: Pt lives alone in her own apartment. She has a
+homemaker and someone who helps buy her groceries. She ambulates
+with a walker. She was a previously smoker, 2ppd x 40 years,
+quit in [**2731**]. No ETOH or recreational drugs.
+
+
+Family History:
+Family History: Mother, brother, and [**Name2 (NI) 2781**] with DM. Sister,
+brother with heart disease. Sister with breast cancer, who has
+now passed.
+
+Physical Exam:
+VS: No temp measured, 97/63 136 17 94% 2L
+GENERAL: Elderly woman in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT.
+NECK: Supple with JVP flat
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. bibasilar crackles, no
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND, obese. No HSM or tenderness.
+EXTREMITIES: No c/c/e.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+
+Pertinent Results:
+ADMISSION LABS:
+[**2753-4-10**] 09:52AM BLOOD WBC-181.0*# RBC-3.25* Hgb-10.7* Hct-32.7*
+MCV-101* MCH-32.9* MCHC-32.7 RDW-16.7* Plt Ct-195
+[**2753-4-10**] 01:40PM BLOOD WBC-173.6* RBC-3.42* Hgb-10.8* Hct-32.8*
+MCV-96 MCH-31.7 MCHC-33.0 RDW-17.6* Plt Ct-160
+[**2753-4-11**] 06:25AM BLOOD WBC-142.0* RBC-2.97* Hgb-9.8* Hct-29.6*
+MCV-99* MCH-33.0* MCHC-33.2 RDW-16.9* Plt Ct-157
+[**2753-4-12**] 06:10AM BLOOD WBC-122.7* RBC-2.86* Hgb-9.0* Hct-28.9*
+MCV-101* MCH-31.3 MCHC-31.2 RDW-17.0* Plt Ct-134*
+[**2753-4-10**] 01:40PM BLOOD Glucose-145* UreaN-68* Creat-2.0* Na-141
+K-4.7 Cl-107 HCO3-22 AnGap-17
+[**2753-4-11**] 06:25AM BLOOD Glucose-94 UreaN-71* Creat-2.3* Na-143
+K-4.7 Cl-108 HCO3-25 AnGap-15
+[**2753-4-10**] 09:52AM BLOOD LD(LDH)-877*
+[**2753-4-10**] 01:40PM BLOOD Calcium-9.8 Phos-4.6* Mg-2.8*
+UricAcd-7.6*
+
+DISCHARGE LABS:
+[**2753-4-23**] 06:30AM BLOOD WBC-49.7* RBC-2.97* Hgb-10.0* Hct-29.7*
+MCV-100* MCH-33.5* MCHC-33.6 RDW-18.7* Plt Ct-114*
+[**2753-4-23**] 06:30AM BLOOD PT-13.6* INR(PT)-1.2*
+[**2753-4-23**] 06:30AM BLOOD Glucose-94 UreaN-44* Creat-1.7* Na-140
+K-4.2 Cl-105 HCO3-22 AnGap-17
+[**2753-4-23**] 06:30AM BLOOD LD(LDH)-351*
+[**2753-4-22**] 05:25AM BLOOD ALT-36 AST-33 LD(LDH)-389* AlkPhos-92
+TotBili-0.6
+[**2753-4-23**] 06:30AM BLOOD Calcium-8.6 Phos-4.0 Mg-2.6 UricAcd-10.1*
+[**2753-4-23**] 06:30AM BLOOD TSH-2.1
+[**2753-4-20**] 08:30PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.010
+[**2753-4-20**] 08:30PM URINE Blood-NEG Nitrite-NEG Protein-TR
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG
+[**2753-4-20**] 08:30PM URINE RBC-<1 WBC-61* Bacteri-NONE Yeast-NONE
+Epi-1
+
+MICROBIOLOGY:
+Blood Cx [**4-10**], [**4-11**] No growth
+Urine Cx [**4-1**] negative
+Urine Cx (Final [**2753-4-22**]):
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML..
+                              SENSITIVITIES: MIC expressed in
+MCG/ML
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------     8 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     4 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+IMAGING/STUDIES:
+
+NCHCT [**2753-4-10**]: There is no acute hemorrhage, large areas of
+edema, large masses or mass effect. Periventricular white matter
+hypodensities consistent with [**Month/Day/Year 3720**] small vessel ischemic
+changes. Additional hypodensities noted within the basal ganglia
+bilaterally are likely due to old lacunar infarcts. There is
+preservation of normal [**Doctor Last Name **]-white matter differentiation.
+Prominence of the ventricles and sulci is likely due to
+age-related parenchymal atrophy. Visualized paranasal sinuses
+and mastoid air cells are clear. Soft tissues of the orbits and
+nasopharynx are within normal limits. Mild calcification of the
+cavernous portions of both internal carotid arteries is noted.
+IMPRESSION: No acute intracranial process.
+.
+Abd U/S [**2753-4-13**]: 1. Nodular liver, compatible with cirrhosis,
+and splenomegaly indicative of portal hypertension.
+2. Stable hepatic hemangioma.
+3. Cholelithiasis, without evidence of acute cholecystitis.
+4. Simple bilateral renal cysts.
+.
+CT Abd/Pel [**4-14**]:
+FINDINGS: Small bilateral pleural effusions are new on this
+study. Heart
+size is enlarged with pacer leads noted within the right
+ventricle.
+Atelectasis is also noted in the lower lung lobes.
+ABDOMEN: In segment VII of the liver, there is a 14 x 13
+well-circumscribed
+hypodensity that is of a fat density, this is increased in size
+from previous study; however, microscopic fat suggests a benign
+lesion. No intrahepatic biliary dilatation is seen. Large
+gallstones are seen within the gallbladder, but there is no
+gallbladder distention or wall thickening. The spleen is
+enlarged, measuring 13.6 mm in its longest axis. Pancreas is
+normal appearing showing no masses, cysts or calcifications. In
+the right adrenal gland, there is a 6 x 9 mm nodule with
+macroscopic fat most consistent with myelolipoma. The left
+adrenal gland is normal appearing. The kidneys enhance with and
+excrete contrast symmetrically without evidence of masses. The
+small and large intesting demonstrate no evidence of
+obstruction, wall thickening, or masses. Diverticulosis without
+evdience of diverticulitis is seen in the sigmoid colon. No
+lymphadenopathy is seen. The aorta, IVC, portal vein, and their
+major branches appear patent.
+BONES: An L4 vertebroplasty is seen. Severe degenerative changes
+are seen
+throughout the lumbar spine. No lytic or sclerotic lesions are
+seen.
+IMPRESSION:
+1. Small new bilateral pleural effusions.
+2. Cholelithiasis without evidence of cholecystitis.
+3. Diverticulosis without evidence of diverticulitis.
+4. Enlarged spleen.
+.
+CXR [**4-15**]: PA and lateral upright chest radiographs were compared
+to [**2753-4-10**]. Cardiomegaly is unchanged. Pacemaker leads
+terminate in right atrium and right ventricle, the right
+ventricular lead being pacemaker defibrillator. There is
+interval progression of vascular engorgement, upper zone
+redistribution of the vasculature and bilateral perihilar
+opacities in conjunction with increased pleural effusion,
+findings consistent with interval development of interstitial
+pulmonary edema. No pneumothorax is demonstrated.
+
+Brief Hospital Course:
+BMT COURSE:
+
+Ms [**Known patient lastname 4278**] was admitted to BMT for her uncontrolled CML, as she
+had been off Gleevec secondary to side effects.  She was
+prescribed dasatinib in the interval, but she never filled this
+prescription. She described her side effects as having nausea,
+abdominal discomfort, and periorbital edema.  While on the BMT
+service, we restarted her Gleevec at 400 mg daily but given as 4
+100 mg pills rather than the larger 400 mg tablet, she was
+better able to tolerate the smaller pills.  On one occasion, we
+tried the larger pill and she had severe abdominal pain.  We did
+obtain a CT scan with PO contrast to evaluate for any
+obstruction but no significant abnormalities were seen.  On
+Gleevec, her WBC continued to improve considerably from 170 ->
+below 90.  Tumor lysis labs remained negative.
+
+Coumadin was initially held because of its interaction with
+Gleevec.
+
+Due to her initial renal failure, her lasix dose, which she
+takes 40 mg PO daily, was held.  Over the course of her
+hospitalization on BMT, her renal function improved, and
+secondary to hydration, she developed pulmonary edema,
+presenting with orthopnea and shortness of breath.  She was
+restarted on lasix and given IV diuresis over [**4-15**] - [**4-17**] with
+significant improvement with a return of her oxygen status to
+baseline.  Her dofetilide was also contraindicated at admission
+secondary to renal failure and was held.  She remained in normal
+sinus rhythm for the first week on the BMT service.  She then
+went into a slow, sustained ventricular tachycardia on [**4-18**],
+during which she was asymptomatic.  The ventricular tachycardia
+lasted for 60 beats with a duration of ~ 20-30 seconds.  Her
+defibrillator/pacer managed to bring her back into a regular
+sinus rhythm and rate after several attempts to pace.  However,
+upon repeat instance of asymptomatic, slow, sustained VT the
+next day, she was transferred to the CCU for further management
+of her VT.
+
+CCU COURSE: In the CCU, the pt came in Vtach in the 130s
+(probably converting in the field) with pressures in the
+90s/50s. EP was called, and tried to override pace the v tach
+successfully. However, v tach recurred and this needed to be
+repeated 2 more times. Amiodarone 100mg IV ONCE bolus plus
+1mg/min drip x 6 hours, then 0.5mg/min bolus x 18 hours was
+started.  Electrolyte panel returned showing hypokalemia of 3.2
+and hypomagnesemia of 1.7. This was repleted immediately with K
+10mg IV ONCE, and K 40mg PO ONCE and magnesium 4gm IV ONCE.
+Because the v tach developed at a sinus rate of 78, the pacer
+was set to 85bpm to override the ventricular ectopic focus with
+an automated 8 time override mechanism. The override pacer
+function was set to override pace at 128bpm, with shocking after
+8 attempts. Amio was continued. The patient's v tach was thought
+to be triggered by electrolyte abnormalities and stopping
+dofetelide [**2-17**] renal failure. On [**2753-4-20**] just past midnight, the
+patient developed V tach again while on amio. She remained
+hemodynamically stable (only has sx of palpitations) Lidocaine
+was started with a bolus then a drip with successful conversion.
+Gtt stopped on [**2753-4-20**]. Of note, pt had WBCs in urine and was
+started on ceftriaxone for UTI on [**2753-4-20**]. Lasix restarted
+[**2753-4-21**], and electrolytes checked twice daily thereafter without
+significant derangement.  The patient was then transferred to
+the medicine service to coordinate discharge planning.
+.
+MEDICINE WARDS COURSE:
+
+VTach: Patient had no further episodes of ventricular
+tachycardia. She was instructed to continue with her new cardiac
+regimen of amiodarone and metoprolol, and follow-up with EP as
+an outpatient.  Her prior cardiac regiment included dofetolide,
+atenolol, digoxin and irbesartan.  Irbesartan was stopped
+secondary to renal failure on admission, and digoxin was stopped
+on transfer to CCU; these medications were not restarted on
+discharge, and should be discussed with outpatient cardiologist.
+
+UTI: Patient was initially started on ceftriaxone, which was
+transitioned to oral cefpodoxime when species and sensitivities
+from urine culture returned.  The patient was instructed to
+complete a 7 day course of antibiotics to end on [**2753-4-27**].
+
+Atrial Fibrillation: As noted above, patient had stopped
+dofetolide and was started on amiodarone during her course in
+the CCU.  She will consequently need periodic monitoring of
+TFTs, LFTs and repeat PFTs as an outpatient.  Additionally,
+coumadin was stopped during her hospitalization and restarted
+several days prior to discharge.  At discharge her INR was 1.2.
+She was instructed to have VNA draw INR on Monday [**4-27**], and the
+results faxed to her PCP.
+
+CML:  The patient was discharged on [**Month/Year (2) 29585**] 300 mg daily.  The
+patient's pharmacy was contact[**Name (NI) **] and stated they would have the
+medication ready for pickup on the day after discharge.  The
+patient was instructed to take her dose of [**Name (NI) 29585**] prior to
+leaving on the day of discharge, but refused, stating that she
+would only take the medication at dinner time, when consuming a
+full dinner (this was not available at the time of discharge).
+Consequently, she missed her dose of [**Name (NI) 29585**] on the day of
+discharge, but was given detailed instructions for obtaining and
+taking her medication thereafter.
+
+
+Medications on Admission:
+ALLOPURINOL - 100 mg Tablet - 2 Tablet(s) by mouth every day -
+gout
+ATENOLOL - 25 mg Tablet - [**1-17**] Tablet(s) by mouth in AM and 1 tab
+in PM per Dr.[**Name (NI) 29586**] note - prevent heart attack, blood
+pressure
+DASATINIB [SPRYCEL] - 100 mg Tablet - 1 Tablet(s) by mouth once
+a
+day
+DIGOXIN - (Prescribed by Other Provider) - 125 mcg Tablet - 1
+Tablet(s) by mouth once a day
+DOFETILIDE [TIKOSYN] - 250 mcg Capsule - one Capsule(s) by mouth
+twice a day
+FUROSEMIDE - 40 mg Tablet - 1 Tablet(s) by mouth once a day -
+diuretic
+GLIPIZIDE - (Dose adjustment - no new Rx) - 5 mg Tablet - 1
+Tablet(s) by mouth once a day before breakfast
+INSULIN GLARGINE [LANTUS SOLOSTAR] - 300 unit/3 mL Insulin Pen -
+23 Units every night
+IRBESARTAN [AVAPRO] - 75 mg Tablet - 1 Tablet(s) by mouth 1 po
+qd
+LEVOTHYROXINE - 88 mcg Tablet - 1 Tablet(s) by mouth once a day,
+take separately from calcium - thyroid
+NITROGLYCERIN - 400 MCG (1/150 GR) TABLET - ONE UNDER THE TONGUE
+AS NEEDED
+ONDANSETRON HCL - 4 mg Tablet - 1 Tablet(s) by mouth qd prn
+POTASSIUM CHLORIDE [K-DUR] - 20 mEq Tab Sust.Rel.
+Particle/Crystal - 1 Tab(s) by mouth twice a day
+WARFARIN - 2 mg Tablet - 2 - 3 Tablet(s) by mouth once a day as
+directed (Coumadin 4 mg daily, apart from Tue & [**Doctor First Name **] when she
+takes 5 mg)
+ACETAMINOPHEN [TYLENOL EXTRA STRENGTH] - (OTC) - 500 mg Tablet -
+2 Tablet(s) by mouth four times a day as needed for pain
+ASPIRIN [ENTERIC COATED ASPIRIN] - (OTC) - 81 mg Tablet, Delayed
+Release (E.C.) - 1 Tablet(s) by mouth once a day with food -
+heart protection
+CALCIUM CITRATE-VITAMIN D3 [CITRACAL + D MAXIMUM] - (OTC) - 315
+mg-250 unit Tablet - 1 Tablet(s) by mouth twice a day with food
+NAPHAZOLINE [CLEAR EYES] - (OTC) - 0.012 % Drops - 1 - 2 drops
+both eyes four times a day as needed for irritation
+NASAL MOISTURIZER - (OTC) - 0.65 % Aerosol, Spray - 2 sprays
+each nostril twice a day as needed for dryness
+
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+3. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day: 1
+tab once daily before breakfast.
+6. Lantus Solostar 300 unit/3 mL Insulin Pen Sig: Twenty Three
+(23) units Subcutaneous at bedtime.
+7. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)
+Sublingual prn as needed for chest pain.
+8. Ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*0*
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+10. Imatinib 100 mg Tablet Sig: Three (3) Tablet PO QAM (once a
+day (in the morning)).
+Disp:*90 Tablet(s)* Refills:*0*
+11. K-Dur 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab
+Sust.Rel. Particle/Crystal PO once a day.
+12. Warfarin 2 mg Tablet Sig: Two (2) Tablet PO Once Daily at 4
+PM: Take 4 mg daily, except Tue and [**Doctor First Name **] take 5 mg.
+13. Tylenol Extra Strength 500 mg Tablet Sig: Two (2) Tablet PO
+four times a day as needed for pain.
+14. Citracal + D Maximum 315-250 mg-unit Tablet Sig: One (1)
+Tablet PO twice a day: With food.
+15. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times
+a day).
+Disp:*120 Tablet(s)* Refills:*2*
+16. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO twice a day
+as needed for anxiety.
+Disp:*30 Tablet(s)* Refills:*0*
+17. Cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q24H (every
+24 hours) for 4 days: Last day [**2753-4-27**].
+Disp:*8 Tablet(s)* Refills:*0*
+18. Outpatient Lab Work
+Please draw INR on Monday [**2753-4-27**] and fax results to PCP [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] at fax [**Telephone/Fax (1) 22348**].  Tel [**Telephone/Fax (1) 507**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 100**] VNA
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Uncontrolled [**Location (un) **] Myelogenous Leukemia
+Acute on [**Location (un) 3720**] renal failure
+Ventricular Tachycardia
+Urinary Tract Infection
+.
+Secondary Diagnoses:
+CHF
+CAD
+HTN
+COPD
+Depression/Anxiety
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital for dizziness and nausea
+thought to be related to untreated CML.  During the course of
+your hospitalization, you were restarted on [**Location (un) 29585**] and your CML
+improved.  However, some of your cardiac medications were
+stopped and you experienced several episodes of ventricular
+tachycardia.  You have started on a new medication for this
+rhythm, which will hope will continue to control your heart
+rate.
+.
+We made the following changes to your home medications:
+-Restart [**Location (un) 29585**] 300 mg daily (and stop Sprycel)
+-START cefpodoxime for 4 more days for your urinary tract
+infection
+-STOP dofetolide and START Amiodarone to control your arrhythmia
+-CHANGE Atenolol to Metoprolol twice daily
+-STOP Digoxin and irbesartan until you see your PCP or
+cardiologist
+[**Name9 (PRE) **] Lorazepam as needed for anxiety or sleep
+
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight goes up more
+than 3 lbs.
+
+Followup Instructions:
+Please have VNA draw an INR on Monday [**4-27**] (or go to the
+location where you normally have INRs drawn) and fax the results
+to your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at fax [**Telephone/Fax (1) 22348**]. Tel [**Telephone/Fax (1) 507**].
+
+Department: HEMATOLOGY/ONCOLOGY
+When: FRIDAY [**2753-5-1**] at 10:45 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 19665**], MD [**Telephone/Fax (1) 151**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: [**Hospital3 2475**] CENTER
+When: WEDNESDAY [**2753-5-6**] at 1:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3986**], M.D. [**Telephone/Fax (1) 200**]
+Building: SC [**Hospital Ward Name 60**] Clinical Ctr [**Location (un) 83**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 60**] Garage
+
+Department: [**Hospital1 4**] [**Location (un) **] - ADULT MED WITH DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+When: FRIDAY [**2753-5-8**] at 11:30 AM
+With: 9471 [**Telephone/Fax (1) 507**]
+Building: [**Location (un) 1248**] ([**Location (un) 505**], MA) [**Location (un) 61**]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+
+
+
+
+
+DOC CLASS

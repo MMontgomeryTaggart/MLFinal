@@ -1,0 +1,206 @@
+CVICU
+   HPI:
+   [**2-24**] POD 3
+   82 F s/p OPCAB/CABG x2 (L->LAD, SVG->PDA), RV repair,
+   EF: 40% Cr:0.6 Wt:48.5kg HbA1c:
+   PMH:HTN, chol,s/p LT THR,early dementia,seizure disorder
+   [**Last Name (un) 500**]:lisinopril 40/D,Keppra 500BID,Atenol 50/D,Norvasc5/d,heparin gtt,
+   NTG gtt, ASA81/D,Plavix 75 [**2-17**], Simvastatin 80/D,Ca++,Aricept10/D
+   24 hour events: Fem sheath pulled, awaiting plavix washout
+   [**2-22**]: Tx 1uPRBC HCT 22->26, +/- Neo stayed in unit
+   [**2-23**]:Tx 1uPrbc, off Neo since overnight. CTs dc'd->small left ApicalPTX.
+   Held Tx to F6 2' drop in BP. HCt stable: 29/repeat CXR:No ap. PTX
+   appreciated. A-paced@90. Given Albumin/lasix.
+   Chief complaint:
+   PMHx:
+   Current medications:
+    Acetaminophen 4. Albumin 25% (12.5g / 50mL) 5. Aspirin EC 6. Calcium
+   Gluconate
+   7. Clopidogrel 8. Dextrose 50% 9. Docusate Sodium 10. Donepezil 11.
+   Furosemide 12. Influenza Virus Vaccine
+   13. Insulin 14. LeVETiracetam 15. Magnesium Sulfate 16. Metoclopramide
+   17. Metoprolol Tartrate 18. Milk of Magnesia
+   19. Pneumococcal Vac Polyvalent 20. Potassium Chloride 21. Potassium
+   Chloride 22. Ranitidine 23. Simvastatin
+   24. Sodium Chloride 0.9% Flush 25. TraMADOL (Ultram)
+   24 Hour Events:
+[**2-24**]:CTs/PWs dc'd. transient hypotension on [**2-23**], requiring volume. UO
+   dropped and responded well to lasix.Held in CVICU to monitor.
+    CORDIS/INTRODUCER - STOP [**3040-2-23**] 12:00 PM
+   Post operative day:
+   [**2-24**] POD 3
+   82 F s/p OPCAB/CABG x2 (L->LAD, SVG->PDA), RV repair,
+   Allergies:
+   Morphine
+   Confusion/Delir
+   Vancomycin
+   Hives;
+   Ciprofloxacin
+   Hives;
+   Last dose of Antibiotics:
+   Cefazolin - [**3040-2-22**] 04:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3040-2-24**] 10:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**43**] a.m.
+   Tmax: 37.2
+C (98.9
+   T current: 36.8
+C (98.2
+   HR: 99 (74 - 109) bpm
+   BP: 113/47(64) {83/28(43) - 147/68(85)} mmHg
+   RR: 28 (18 - 28) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 58.9 kg (admission): 46.8 kg
+   Height: 59 Inch
+             Total In:
+                                                                  1,718 mL
+                                                                    107 mL
+   PO:
+                                                                    400 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    893 mL
+                                                                    107 mL
+   Blood products:
+                                                                    425 mL
+   Total out:
+                                                                  2,745 mL
+                                                                  1,620 mL
+   Urine:
+                                                                  2,625 mL
+                                                                  1,620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,027 mL
+                                                                 -1,513 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: ///30/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bibasilar, Diminished: weak insp.effort), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   67 K/uL
+   9.6 g/dL
+   120
+   0.6 mg/dL
+   30 mEq/L
+    3.3 mEq/L
+   17 mg/dL
+   99 mEq/L
+   135 mEq/L
+   26.4 %
+   9.6 K/uL
+        [image002.jpg]
+                             [**3040-2-22**]  12:57 AM
+                             [**3040-2-22**]  03:00 AM
+                             [**3040-2-22**]  03:09 AM
+                             [**3040-2-22**]  06:20 AM
+                             [**3040-2-22**]  08:26 AM
+                             [**3040-2-22**]  03:40 PM
+                             [**3040-2-23**]  12:51 AM
+                             [**3040-2-23**]  04:19 PM
+                             [**3040-2-24**]  02:33 AM
+                             [**3040-2-24**]  09:00 AM
+   WBC
+   19.2
+   12.0
+   9.6
+   Hct
+   29.7
+   27.0
+   22.6
+   26.1
+   29.0
+   26.4
+   Plt
+   158
+   91
+   67
+   Creatinine
+   0.6
+   0.7
+   0.6
+   TCO2
+   22
+   23
+   Glucose
+   148
+   121
+   102
+   127
+   107
+   120
+   Other labs: PT / PTT / INR:15.3/33.9/1.4, CK / CK-MB / Troponin
+   T:27/3/0.23, ALT / AST:[**8-30**], Alk-Phos / T bili:43/0.5, Amylase /
+   Lipase:30/27, Differential-Neuts:89.0 %, Lymph:8.0 %, Mono:2.4 %,
+   Eos:0.6 %, Fibrinogen:131 mg/dL, Lactic Acid:3.9 mmol/L, Albumin:3.6
+   g/dL, Ca:8.6 mg/dL, Mg:1.8 mg/dL, PO4:3.5 mg/dL
+   Assessment and Plan
+   AEROBIC CAPACITY / ENDURANCE, IMPAIRED, ADLS (ACTIVITIES OF DAILY
+   LIVING), INABILITY TO PERFORM, KNOWLEDGE, IMPAIRED, MUSCLE PERFORMACE,
+   IMPAIRED, POSTURE, IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED,
+   TRANSFERS, IMPAIRED, CORONARY ARTERY BYPASS GRAFT (CABG), CORONARY
+   ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE), .H/O CHEST PAIN,
+   HYPERTENSION, BENIGN
+   Assessment and Plan: [**2-24**] POD 3
+   82 F s/p OPCAB/CABG x2 (L->LAD, SVG->PDA), RV repair,  kept in the
+   CVICU over the weekend-anemia treated w/ blood, HCT responded
+   appropriately.Transient hypotension responded to volume.
+   lethargic-easily arousable. HD stable
+   Neurologic: Neuro checks Q:  hr, Ultram, [**Last Name (un) **]. for pain OOB/PT eval.
+   Cont Keppra/Aricept
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Discontinue epicardial
+   wires, On Plavix 2'OPCAB. Cont B-Blocker/statin/ASA. PWs DC'd this AM
+   Pulmonary: IS, Cont nebs prn, Encourage DB&C
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, DAT, cont bowel regiment/prophylaxis.
+   Renal: Foley, Adequate UO, Responds well to lasix. BUN/CR: 17/.6, cont.
+   gentle diuresis
+   Hematology: HCT 26 (29) this AM. Cont. to monitor. Sent off HIT panel
+   for PLTs 67(91)yesterday.On Plavix for OPCAB
+   Endocrine: RISS
+   Infectious Disease: No issues
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging: CXR today, follow up small left apical PTX post pull [**2-23**]
+   Fluids:
+   Consults: CT surgery, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3040-2-23**] 08:16 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status:
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

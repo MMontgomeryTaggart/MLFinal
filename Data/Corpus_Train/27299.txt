@@ -1,0 +1,278 @@
+Admission Date:  [**3130-4-28**]              Discharge Date:   [**3130-5-2**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4238**]
+Chief Complaint:
+NSTEMI s/p PCI w/stent x2 to RCA c/b cardiac arrest, IABP, and
+intubated
+
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+
+History of Present Illness:
+83yo F w/poorly controlled HTN (LVH), longstanding diabetes,
+dyslipidemia, renal insufficiency, s/p recent laminectomy on
+[**3130-4-26**]. During pre-op evaluation had an unremarkable Dobutamine
+ECHO on [**4-19**]. Post operative course c/b ischemic symptoms, CP,
+ECG changes-acute inferolateral downsloping ST depressions, and
++CE. CK 500S, MB +3.8, Tn-T 7.67 then 37. In setting of being
+48hours post op from laminectomy, she did not receive heparin.
+She received ASA, Nitrates, IV lopressor and underwent a
+diagnostic cath at NEBH. Cath showed R-dominant systed with 3VD.
+She was transferred to [**Hospital1 22**] for further intervention. She
+received 3 UPRBC for anemia at NEBH.
+.
+On arrival to Cath lab she received Plavix 300mg. During Cath
+found 99%RCA Mid/moderate proximal with [**Name Prefix (Prefixes) 608**] [**Last Name (Prefixes) **] x2 to RCA.
+During LAD injection with dye pt went into Asystole, CPR was
+initiated, gave Atropine 1mg x1, Epi 1mgx1 and placed IABP
+followed by intubation for airway protection. LAD w/acute
+occlusion possibly due to vasospasm vs. embolic event as LAD was
+found to be patent without requiring stent placement immediately
+after this transient event. She then received [**Name Prefix (Prefixes) 608**] [**Last Name (Prefixes) **] stent
+to L-Cx. Pt underwent TTE in holding area w/EF 40-45%, 1+AR,
+2+TR, 1+MR, Overall left ventricular systolic function is mildly
+to moderately depressed with akinesis of the infero-lateral wall
+and hypokinesis of the inferior wall. She received Lasix 40mg IV
+x1 and was sent to the CCU for further management.
+
+Past Medical History:
+-OA
+-Spinal Stenosis s/p Laminectomy [**3130-4-26**]
+-Hyperlipidemia
+-GERD
+-Renal Insufficiency (Cr 2.4 negative renal U/S)
+-AI
+-Depression
+-IDDM
+
+
+Social History:
+Lives in [**State 216**] year round, visiting kids in the area
+
+Family History:
+N/C
+
+Physical Exam:
+VS: 120/56 71 Intubated AC 500/14/5/100% ABG:7.33/40/90
+GEN: Sedated, Intubated
+HEENT: ETT in place,
+RESP: Coarse BS throughout, Crackles at bases
+CV: Reg Nml S1, S2, 2/6HSM, JVP at 10cm
+ABD: Soft ND/NT +BS
+EXT: No peripheral edema, 2+DP pulses b/l
+
+
+Pertinent Results:
+[**3130-4-28**] 11:27PM   POTASSIUM-3.8
+[**3130-4-28**] 11:27PM   CK(CPK)-457*
+[**3130-4-28**] 11:27PM   CK-MB-21* MB INDX-4.6 cTropnT-3.92*
+[**3130-4-28**] 11:27PM   HCT-30.5*
+[**3130-4-28**] 11:27PM   PLT COUNT-125*
+[**3130-4-28**] 08:40PM   TYPE-ART TEMP-37.3 RATES-14/ PEEP-8 PO2-147*
+PCO2-32* PH-7.39 TOTAL CO2-20* BASE XS--4 INTUBATED-INTUBATED
+VENT-CONTROLLED
+[**3130-4-28**] 08:40PM   GLUCOSE-93
+[**3130-4-28**] 04:32PM   TYPE-ART RATES-14/ TIDAL VOL-500 PEEP-5
+PO2-89 PCO2-39 PH-7.37 TOTAL CO2-23 BASE XS--2
+INTUBATED-INTUBATED
+[**3130-4-28**] 03:01PM   O2 SAT-96
+[**3130-4-28**] 03:01PM   TYPE-ART PO2-90 PCO2-40 PH-7.33* TOTAL CO2-22
+BASE XS--4 INTUBATED-INTUBATED
+[**3130-4-28**] 02:53PM   GLUCOSE-185* UREA N-24* CREAT-1.6* SODIUM-137
+POTASSIUM-3.9 CHLORIDE-106 TOTAL CO2-19* ANION GAP-16
+[**3130-4-28**] 02:53PM   CALCIUM-7.0* PHOSPHATE-4.0 MAGNESIUM-1.7
+[**3130-4-28**] 02:53PM   CK-MB-20* cTropnT-2.17*
+[**3130-4-28**] 02:53PM   WBC-11.4* RBC-3.92* HGB-12.0 HCT-34.5* MCV-88
+MCH-30.7 MCHC-34.9 RDW-14.2
+[**3130-4-28**] 02:53PM   PLT COUNT-134*
+[**3130-4-28**] 12:43PM   O2 SAT-95
+[**3130-4-28**] 12:43PM   K+-3.5
+[**3130-4-28**] 12:08PM   TYPE-ART RATES-/12 TIDAL VOL-500 PEEP-5
+O2-100 PO2-106* PCO2-40 PH-7.27* TOTAL CO2-19* BASE XS--7
+AADO2-585 REQ O2-94 -ASSIST/CON INTUBATED-INTUBATED
+[**3130-4-28**] 12:08PM   HGB-14.0 calcHCT-42 O2 SAT-97
+[**3130-4-28**] 10:45AM   GLUCOSE-151* UREA N-24* CREAT-1.5* SODIUM-140
+POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-21* ANION GAP-17
+[**3130-4-28**] 10:45AM   ALT(SGPT)-20 AST(SGOT)-96* CK(CPK)-689* ALK
+PHOS-32* AMYLASE-92 TOT BILI-0.6
+[**3130-4-28**] 10:45AM   CK-MB-22* MB INDX-3.2 cTropnT-1.71*
+[**3130-4-28**] 10:45AM   ALBUMIN-2.9* CHOLEST-93
+[**3130-4-28**] 10:45AM   TRIGLYCER-134 HDL CHOL-42 CHOL/HDL-2.2
+LDL(CALC)-24
+[**3130-4-28**] 10:45AM   WBC-11.3* RBC-4.20 HGB-13.2 HCT-36.6 MCV-87
+MCH-31.6 MCHC-36.2* RDW-14.1
+[**3130-4-28**] 10:45AM   NEUTS-84.4* BANDS-0 LYMPHS-9.4* MONOS-5.0
+EOS-0.8 BASOS-0.5
+[**3130-4-28**] 10:45AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL
+POLYCHROM-NORMAL
+[**3130-4-28**] 10:45AM   PT-12.3 PTT-29.8 INR(PT)-1.1
+.
+EKG:
+-NSR 74 bpm, L axis deviation
+-ST depressions V3-V5, TWI III, aVF
+.
+Cath at NEBH-R Dominant, LAD 70-80%; D2 90% at origin, Mid LAD
+70%, LVEF 49%, 3+MR, Inf-post HK, Mild A/L HK, CI 1.7, LVEDP 30
+PCWP 19
+.
+[**Hospital1 22**] Cath [**3130-4-28**]:
+RCA 99% s/p stent x2, CX 90% cypher stent x1; PA 38/23 Mean 30,
+PCWP 18 CO 4.87 CI 3.15
+.
+ECHO [**4-28**] Conclusions: The left atrium is normal in size. There
+is mild symmetric left ventricular hypertrophy with normal
+cavity size. Overall left ventricular systolic function is
+mildly to moderately depressed with akinesis of the
+infero-lateral wall and hypokinesis of the inferior wall. No
+masses or thrombi are seen in the left ventricle. Right
+ventricular systolic function is normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. Mild (1+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. Moderate (2+) mitral
+regurgitation is seen. The mitral regurgitation jet is
+eccentric. The left ventricular inflow pattern suggests impaired
+relaxation. Moderate [2+] tricuspid regurgitation is seen. There
+is
+mild pulmonary artery systolic hypertension. There is no
+pericardial effusion. IMPRESSION: Regional LV systolic
+dysfunction c/w CAD. Moderate mitral and tricuspid
+regurgitation. No pericardial effusion.
+.
+[**4-30**] Renal U/S IMPRESSION: No evidence of hydronephrosis. Simple
+cysts in both kidneys.
+.
+
+Brief Hospital Course:
+Asessment: 83 yo F s/p NSTEMI w/3VD on cath, s/p PCI to RCA and
+Cx, c/b transient occlusion of LAD [**1-16**] embolic event, s/p
+intubation and IABP placement
+.
+# CARDIOVASCULAR
+  1. CAD: s/p revascularization (see HPI).  We continued ASA,
+Plavix, Beta Blocker and started high dose statin.  ACE was held
+n the setting of ARF (see below).  We cycled CE until peak
+Troponin of 4.32 and CK of 689 (index peak was 5.1).  Upon
+arrival in CCU, we discontinued Nitro gtt, norvasc, and witheld
+hep gtt and integrellin (s/p recent back surgery).  Her IABP was
+discontinued on HD #1.  Her BB was temporarily held for low BP
+(SBP 80s-90s) but this resolved on HD #1.  An echocardiogram
+showed EF 40-45% with 1+ AI and 2+ MR [**First Name (Titles) **] [**Last Name (Titles) **].  There was
+inferolateral Akinesis and Inferior Hypokinesis.  While she
+experienced some back pain, she denied CP throughout the
+admission.
+.
+  2. PUMP: TTE w/EF 40-45%, hypotension during cath requiring
+IABP.  We weaned IABP to off (d/c'd IABP [**4-28**]).  Given 2+MR, we
+afterload reduced with gentle diuresis and monitored
+hemodynamics carefully.  BPs were transiently low on HD #1 but
+resolved.
+.
+# RESPIRATORY FAILURE: PT arrested during cath (PEA arrest),
+requiring CPR and intubation for airway protection.  Infiltrate
+on CXR was thought to be possible aspiration PNA, so we started
+Clinda on [**4-28**] (planned 7 day course).  She was gently diuresis
+with lasix prn.  On HD #1, she was extubated without event after
+a successful ventillator wean.  She remained off the ventillator
+throughout the duration of the admission and required minimal
+(2L) Nasal Cannula by day of transfer.
+.
+#. RENAL: Underlying renal insufficiency possibly from HTN and
+DM.  She subsequently developed ARF thought to be secondary to
+ATN with low urine output and a bump in her creatinine with a
+peak of 3.9 2 days prior to transfer and a BUN of 43 at that
+time.  We avoided nephrotoxin meds, renally dosed all meds and
+stopped her Ace-inhibitor and held diuretics in the setting of
+ARF.  A renal ultrasound was normal (no hydronephrosis).  Urine
+lytes were consistent with a low FENa.  Renal consulted and
+considered her ARF secondary to contrast nephropathy.
+.
+#. HEMATURIA: pt received 3UPRBC at OSH for anemia, unclear
+whether anemia secondary to hematuria.  Cytology was sent and is
+pending at time of transfer.  She received 1 unit of PRBCs on
+[**4-29**] for a HCT of 30 but this has since stabilized in the low
+30s.
+.
+#. BACK PAIN:  She had pain throughout the admission,  She is
+s/p recent laminectomy.  Ortho-spine conulted and stated that
+unless she had increased pain below the knee of headache,
+MR/Lspine was not necessary.  PT followed but she was too
+deconditioned during this admission to ambulate.
+.
+#. RASH:  Pt had a rash s/p percocet.  This was switched to
+Dilauded and the rash resolved.
+.
+#. DM: Held oral hypoglycemic meds, ISS and FS during this
+admission.
+.
+#. PPX: Hep SC, PPI
+.
+#. CODE: FULL
+.
+
+Medications on Admission:
+MEDS at Home:
+-Atenolol 50mg daily
+-Diovan 100mg daily
+-Folic Acid
+-MVI
+-Calcium
+-Actonel
+-Zetia 10mg
+-Caduet 5/40 off
+-Cymbalta 60mg daily
+-ASA 81mg daily
+-Protonix 40mg daily
+-Glyburide 10mg [**Hospital1 **]
+-Glucophage 500mg
+.
+MEDS at OSH:
+- Nitro gtt 40mg/min
+- Hep gtt
+- Protonix
+- Diovan
+- Zetia
+- Cymbalta
+- Lipitor
+- Norvasc
+- ASA 325
+- Lopressor
+- Glyburide
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+NSTEMI with Catheterization and Stents
+Hyperlipidemia
+ARF
+DM
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+Please take all medications as prescribed
+
+Seek medical attention immediately if you experience new chest
+pain, shortness of breath, fatigue, dizziness, fainting, arm or
+jaw pain, or any other new concerning symptoms.
+
+Followup Instructions:
+With Dr. [**Last Name (STitle) **] at NEBH (being transferred to his care today)
+
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,225 @@
+TITLE:
+   Chief Complaint: Delirium
+   24 Hour Events:
+   None
+   Allergies:
+   Penicillins
+   Unknown;
+   Sulfa (Sulfonamides)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3083-2-6**] 09:22 PM
+   Lorazepam (Ativan) - [**3083-2-6**] 11:35 PM
+   Metoprolol - [**3083-2-7**] 12:20 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3083-2-7**] 07:26 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**85**] AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 72 (61 - 87) bpm
+   BP: 98/36(52) {92/36(52) - 163/94(110)} mmHg
+   RR: 21 (12 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    620 mL
+                                                                    210 mL
+   Urine:
+                                                                    470 mL
+                                                                    210 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -620 mL
+                                                                   -210 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///26/
+   Physical Examination
+   General: Angry, agitated.  Eyes shut, does not open spontaneously to
+   command.  Shouting nonsensically - often disinhibited and swearing at
+   others.  Often shouting for "[**Doctor First Name **]" or "[**Doctor First Name 6185**]".  Repeats what is said
+   to her in mocking tone.  Sometimes with word finding difficulties or
+   replacement with similar sounding words.  At times when threatening
+   speech.
+   HEENT: Sclera anicteric, PERRL 4->3 though only can see eyes when lids
+   forced open.  MMM, oropharynx clear.
+   Neck: supple, JVP not elevated, no LAD.
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi,
+   though poor insiratory effort and will only permit anterolateral exam
+   currently.
+   CV: Regular rate and rhythm, normal S1 + S2, [**2-24**] SM at LUSB without
+   radiation.  L sided ICD with overlying ecchymosis, area somewhat firm,
+   no erythema or warmth or fluctuance.  Ecchymosis over left
+   chest/breast.
+   Abdomen:  soft, appears non-tender, non-distended, bowel sounds
+   present, no rebound tenderness or guarding, no organomegaly
+   Ext: slightly cool, well perfused, 2+ DP pulses, no clubbing,
+   cyanosis.  Trace LUE edema of upper arm, minimal LE edema.  R heel with
+   deep decubitus with eschar.
+   Neuro: unable to participate in exam.  Mental status and speech as
+   above.  Moves all extremities, but unable to formally test strength.
+   States she knows where she is and date but refuses to tell me.  States
+   she has been in the hospital for ten years.
+   Labs / Radiology
+   232 K/uL
+   11.7 g/dL
+   72 mg/dL
+   2.4 mg/dL
+   26 mEq/L
+   4.2 mEq/L
+   39 mg/dL
+   112 mEq/L
+   149 mEq/L
+   37.0 %
+   13.1 K/uL
+        [image002.jpg]
+                             [**3083-2-6**]  06:00 PM
+                             [**3083-2-6**]  06:28 PM
+                             [**3083-2-7**]  05:47 AM
+   WBC
+   9.0
+   13.1
+   Hct
+   36.3
+   37.0
+   Plt
+   176
+   232
+   Cr
+   2.4
+   2.4
+   Glucose
+   231
+   262
+   72
+   Other labs: PT / PTT / INR:10.6/22.8/0.9, ALT / AST:98/67, Alk Phos / T
+   Bili:88/0.5, Differential-Neuts:73.3 %, Lymph:18.1 %, Mono:6.2 %,
+   Eos:2.1 %, Albumin:3.4 g/dL, LDH:372 IU/L, Ca++:9.0 mg/dL, Mg++:2.6
+   mg/dL, PO4:4.0 mg/dL
+   Imaging: CXR: No acute cardiopulmonary process
+   Microbiology: UA: mod bacteria, trace leuks.
+   Assessment and Plan
+   Assessment and Plan: 59F with CAD s/p multiple PCIs, ischemic CHF, Type
+   I DM, Hx of Anoxic Brain Injury, Anxiety, Depression who presents with
+   altered mental status sp ICD placement for ventricular tachycradia.
+   .
+   # Delerium: Most likley multifactorial in the setting of recent
+   hosptialization, poor po intake, and benzodiazepines. After discussion
+   with husband it is clear that at baseline patients thinking is clear
+   and this is a major change. Husband notes [**Name2 (NI) 11238**] episodes of
+   hallucination/agitation/anxiety while patient was in the ICU at
+   [**Hospital1 924**] with intermittent lucidity. Patient has been afebrile.
+   Reports of CT head with new ?stroke from prior in [**Month (only) 94**] at OSH. Pt
+   with multiple psychiatric medication which were stopped at OSH with
+   stated improvement. During her stay she recieved ativan prn agitation
+   which her husband stated controlled her anxiety/agitation however often
+   sedated her during the interum. Patient takes poor PO during this time
+   and has denied PO meds here.
+   -  Repeat CT Head
+   - Normalize sleep wake cycle
+   - Minimize sedating medications
+   - Minimize IVF/Telemetry/Foley
+   - Neuro consult sp CT Head.
+   - Geriatrics AM.
+   - Urinalysis
+   - CXR
+   - LFTS/Albumin
+   - B12, Folate, RPR, TSH
+   - Blood Cultures if patient spikes
+   - FU CT Head from [**Hospital1 924**]. Report of new ?stroke in thalamus.
+   .
+   # Hypernatremia: Most likely secondary to hypovolemia. Patient not
+   taking PO. Free Water deficit 2 Liters.
+   - D5W at 75 cc hour for 2 liters.
+   .
+   # Ventricular arrhythmias sp ICD placement: EKG stable from prior.
+   - Telemetery
+   - Continue Beta Blocker, IV if not taking
+   - Avoid QT prolonging medications.
+   - Agressive repletion of potassium/magnesium
+   .
+   # Depression/Anxiety: Will DC Abilify/Remeron given current level of
+   confusion.
+   .
+   # Pacer Pocket Hematoma: No warmth, erythema, or tenderness on
+   palpation. Unlikely infection. No leukocytosis or fever. Follow for
+   now.
+   .
+   # Elevated Liver Function: Elevated at outside hospital in setting of
+   mexiletine. Trending down since mexiletine dc'd.
+   - Trend LFTs
+   .
+   # CAD s/p multiple PCI.
+   - Continue [**Last Name (LF) **], [**First Name3 (LF) 350**]
+   .
+   # Chronic systolic CHF, ischemic.
+   - Continue Furosemide 40 mg IV daily.
+ hold given minimal PO intake
+   - Continue Metoprolol IV as above.
+   .
+   # Type 1 DM: Followed by [**Last Name (un) 257**]. Husband to bring in [**Last Name (un) 257**] Sliding
+   Scale in AM. Last A1c 8.3%. On Levemir.
+   - RISS and Glargine
+   - Followed by [**Last Name (un) 257**], Notify practitioner that present.
+   .
+   # CKD: Baeline Creatinine has ranged 2.0 to 3.0 since [**3077**]. Secondary
+   to Diabetes. Creatinine at baseline.
+   - Trend Creatinine
+   - Renally Dose Meds
+   .
+   # Hypothyroidism: On replacement. TSH elevated. T4 Elevated. Given
+   elevated free t4 will decrease Synthroid replacement currently.
+   .
+   # Coccyx/Heel Ulcerations: Chronic. Husband provides wound care at home
+   and notes stability of wounds. Right heel ulceration with some mild
+   erythema. Patient afebrile without leukocytosis.
+   - Wound care consult
+   - Waffle Boots
+   .
+   # FEN: No IVF, replete electrolytes K>4 and Mag>2 , Cardiac/Diabetic
+   diet
+   # Prophylaxis: Subcutaneous heparin, Pneumoboots, PPI
+   # Access: peripherals
+   # Communication: Husband [**Name (NI) 6185**] [**Name (NI) **] [**Telephone/Fax (1) 11239**]; sister [**Name (NI) **] is HCP -
+   [**Telephone/Fax (1) 11240**] or cell [**Telephone/Fax (1) 11241**].
+   # Code:  Full (discussed with patient)
+   # Disposition: To the Floor in AM.
+   ICU Care
+   Nutrition:
+   Lines: Midline Today. Difficult IV access.
+   22 Gauge - [**3083-2-6**] 06:00 PM
+   Prophylaxis:
+   DVT: Subcutaneous Heparin, Pneumoboots
+   Stress ulcer: PPI
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: To Floor
+   ------ Protected Section ------
+   Physical Exam above is based on initial presentation. This AM patient
+   sleeping/sedated. Decision made by team to wait and exam her when she
+   was awake and interacitive.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD
+   on:[**3083-2-7**] 10:27 ------
+
+
+
+DOC CLASS

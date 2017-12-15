@@ -1,0 +1,264 @@
+TITLE:
+   CVICU
+   HPI:
+   HD30   POD 20-AVR(23 pericardial)/CABGx3
+    POD 7-Trach
+   Ejection Fraction:65
+   Hemoglobin A1c:6.3
+   Pre-Op Weight:229.94 lbs   104.3 kgs
+   Baseline Creatinine:0.8-1.2
+   PMHx: HTN, ^chol, PVD, UTIs, DM, AS, CAD, gastric ulcer, OA, CKD,
+   Obesity, Anemia, Mrsa abdominal wall abscess, Bil dry/necrotic toe
+   ulcers, s/p cholecystectomy, s/p hernia repair
+   Meds on transfer: ASA 325', Furosemide 40', Diltiazem HCL 240', Heparin
+   SC 5000"', Citalopram 20', Lisinopril 10', Bactrim 1", NPH 20"
+   Events:
+   [**3149-3-13**] Hct down but hemolysis labs ok. heparin stopped - 1st deg AVB.
+   gen [**Doctor First Name 86**] for bum
+   [**3149-3-10**] Quintin placed
+   [**3149-3-5**] RUQ pain.TBILI ^1.7.Abd US=ascites all quads.Vanc/Cipro 2'Sput
+   GS. anuric
+   [**3149-3-2**] Reintubated for resp insuff, ep reconsulted - hep started
+   afib
+   [**3149-2-28**] extubated-lasix gtt
+   [**3149-2-26**] Levophed weaned to off. Vasopressin decreased. Improving
+   Assessment:78 year old female s/p AVR(23 pericardial)/CABGx3(LIMA>LAD,
+   SVG>Diag, SVG>OM) [**3149-2-25**]
+   Plan:[**3-16**]-transplant holding on Permacath d/t [**11-29**] pos BC last
+   week.Quinton removed,2 BC sent,2 more [**3-17**].Meropenum for E.coli urine
+   until [**Last Name (un) 43**]. back then change if able(d/w ID).Cath later in wk
+   hopefully.Use DHT for gastric feeds/no gtube to be placed.Diflucan for
+   yeast urine.3wks of Vanco for coag+ SA sp-presumed MRSA.
+   Chief complaint:
+   PMHx:
+   Current medications:
+   1. 2. 3. 4. Acetaminophen 5. Albuterol Inhaler 6. Aspirin 7. Calcium
+   Gluconate 8. Chlorhexidine Gluconate 0.12% Oral Rinse
+   9. Citalopram Hydrobromide 10. Collagenase Ointment 11. Dextrose 50%
+   12. Dextrose 50% 13. Fluconazole
+   14. Glucagon 15. Heparin Flush (10 units/ml) 16. Heparin Flush (10
+   units/ml) 17. Heparin 18. HydrALAzine
+   19. 20. Insulin 21. Magnesium Sulfate 22. Meropenem 23. Milk of
+   Magnesia 24. Pneumococcal Vac Polyvalent
+   25. Potassium Chloride 26. Ranitidine (Liquid) 27. Simvastatin 28.
+   Sodium Chloride 0.9% Flush 29. TraMADOL (Ultram)
+   30. Vancomycin
+   24 Hour Events:
+[**3-17**]: Breast US ->neg. EP recs->No A/C. Wound Care
+   reevaluated->cont.enzymatic topical.
+    PICC LINE - STOP [**3149-3-16**] 08:26 AM
+   insertion site 45cm
+ DIALYSIS CATHETER - STOP [**3149-3-16**] 08:26 AM
+ PICC LINE - START [**3149-3-16**] 08:30 AM
+   insertion site 45cm
+   Post operative day:
+   POD#7 - [**3149-3-10**] trach, rigid bronch
+   Allergies:
+   Aspirin
+   Abdominal pain;
+   Iodine
+   Rash;
+   Penicillins
+   Rash;
+   Opioid Analgesics
+   Lightheadedness
+   Chocolate Flavor
+   Rash;
+   [**Location (un) **] Juice
+   Rash; Wheezing;
+   Benzodiazepines
+   Delirium
+   Agita
+   Red Dye
+   Hives;
+   Egg
+   Hives;
+   Gluten
+   Hives;
+   Tomato
+   Hives;
+   Last dose of Antibiotics:
+   Bactrim (SMX/TMP) - [**3149-3-15**] 04:50 PM
+   Fluconazole - [**3149-3-16**] 01:00 PM
+   Vancomycin - [**3149-3-16**] 08:00 PM
+   Meropenem - [**3149-3-17**] 07:43 AM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**3149-3-17**] 07:43 AM
+   Heparin Sodium (Prophylaxis) - [**3149-3-17**] 07:43 AM
+   Other medications:
+   Flowsheet Data as of  [**3149-3-17**] 10:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**50**] a.m.
+   Tmax: 37.6
+C (99.6
+   T current: 37.3
+C (99.1
+   HR: 64 (53 - 71) bpm
+   BP: 123/36(61) {106/29(49) - 150/90(95)} mmHg
+   RR: 26 (16 - 29) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 120.7 kg (admission): 104.3 kg
+   Height: 63 Inch
+             Total In:
+                                                                  1,083 mL
+                                                                    717 mL
+   PO:
+             Tube feeding:
+                                                                    473 mL
+                                                                    356 mL
+   IV Fluid:
+                                                                    520 mL
+                                                                    151 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,083 mL
+                                                                    717 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 309 (309 - 452) mL
+   PS : 15 cmH2O
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 33 cmH2O
+   SPO2: 98%
+   ABG: ///28/
+   Ve: 12.7 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : ), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: eschar on the inferior pole of the sternum
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities, necrotic toes b/l
+   Labs / Radiology
+   183 K/uL
+   8.8 g/dL
+   108 mg/dL
+   3.8 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   45 mg/dL
+   98 mEq/L
+   136 mEq/L
+   25.6 %
+   16.0 K/uL
+        [image002.jpg]
+                             [**3149-3-13**]  09:41 PM
+                             [**3149-3-14**]  02:15 AM
+                             [**3149-3-14**]  02:27 AM
+                             [**3149-3-14**]  10:38 AM
+                             [**3149-3-15**]  03:06 AM
+                             [**3149-3-15**]  03:14 AM
+                             [**3149-3-15**]  08:16 PM
+                             [**3149-3-15**]  10:38 PM
+                             [**3149-3-16**]  01:52 AM
+                             [**3149-3-17**]  02:05 AM
+   WBC
+   16.1
+   19.5
+   16.7
+   16.0
+   Hct
+   22.6
+   21.7
+   22.9
+   24.9
+   26.4
+   25.6
+   Plt
+   349
+   297
+   186
+   183
+   Creatinine
+   4.1
+   5.0
+   3.3
+   3.8
+   TCO2
+   31
+   30
+   31
+   Glucose
+   92
+   102
+   97
+   88
+   87
+   108
+   Other labs: PT / PTT / INR:14.6/28.7/1.3, ALT / AST:[**10-11**], Alk-Phos / T
+   bili:63/0.4, Amylase / Lipase:37/18, Fibrinogen:240 mg/dL, Lactic
+   Acid:1.2 mmol/L, Albumin:2.8 g/dL, LDH:319 IU/L, Ca:8.6 mg/dL, Mg:2.1
+   mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), RESPIRATORY FAILURE, ACUTE
+   (NOT ARDS/[**Doctor Last Name 73**]), BRADYCARDIA, VALVE REPLACEMENT, AORTIC BIOPROSTHETIC
+   (AVR), ANXIETY, IMPAIRED SKIN INTEGRITY, CORONARY ARTERY BYPASS GRAFT
+   (CABG)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Alert, awake,
+   responsive- episodes of agitation and uncooperativeness.-haldol prn
+   Cardiovascular: Aspirin, hemodynamically  stable SB 50s.,s/p AVR.EP
+   recs=No A/C
+   Pulmonary: s/p Tracheostomy. Has failed multiple weaning trials with
+   agitation- haldol prn. Attempt CPAP/PSV trial again today
+   Gastrointestinal / Abdomen:  prophylaxis
+   Nutrition: Tube feeding
+   Renal: S/P CRI with HD . no current triggers for dialysis. Urinated
+moderate amount
+ over night [**Name8 (MD) 74**] RN. Straight cath today=200ccs. Plan
+   permacath Friday w/ transplant team if Blood CXs negative.
+   Hematology: stable.
+   Endocrine: RISS
+   Infectious Disease: MRSA -Sputum,Ecoli-Urine ,afebrile with decreasing
+   white counts. On meropenem and Vanco.Check vanco trough. Blood Cxs
+   PND.
+   Lines / Tubes / Drains:
+   Wounds: Dry dressings->Gen [**Doctor First Name 86**] reconsulted re: sacral
+   decub/debridement
+   Imaging:
+   Fluids:
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition: TFs
+   NovaSource Renal (Full) - [**3149-3-17**] 12:43 AM 35 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3149-3-16**] 08:30 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

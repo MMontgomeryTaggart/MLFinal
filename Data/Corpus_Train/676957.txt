@@ -1,0 +1,163 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - thoracics notified re: open PEG placement.  They would prefer not to
+   do PEG for 1-2 weeks until abumin >2.5
+   - NPO after midnight for IR-guided Dobhoff placement tomorrow
+   - [**Last Name (un) 291**] recs: Lantus 10 units, ISS increased
+   - vascular: leg oozing, so another stitched was placed
+   - 9p: pulled out NGT, gave IV Lopressor in place of PO dose
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3057-11-3**] 06:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.8
+C (98.3
+   HR: 84 (78 - 100) bpm
+   BP: 116/76(84) {90/31(47) - 143/76(84)} mmHg
+   RR: 18 (16 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 81.8 kg (admission): 92 kg
+   Height: 62 Inch
+                  Total In:
+                                                                    962 mL
+                  PO:
+                  TF:
+                                                                    872 mL
+   IVF:
+   Blood products:
+   Total out:
+                                                                    221 mL
+                                                                     60 mL
+   Urine:
+                                                                    221 mL
+                                                                     60 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    741 mL
+                                                                    -60 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 100%
+   ABG: ///29/
+   Physical Examination
+   GEN: on trach mask, awake, responsive to verbal stimuli, answering
+   questions
+   CV: RRR s mrg
+   RESP: transmitted upper airway sounds, expiratory wheezing
+   ABD: obese, S, +BS, NT/ND
+   EXT: Intact pulses.  LLE wound wrapped.
+ wound vac on medial wound,
+   aquacel on lateral wound
+   Labs / Radiology
+   299 K/uL
+   8.5 g/dL
+   107 mg/dL
+   2.3 mg/dL
+   29 mEq/L
+   3.6 mEq/L
+   34 mg/dL
+   106 mEq/L
+   143 mEq/L
+   26.3 %
+   7.1 K/uL
+        [image002.jpg]
+                            [**3057-10-29**]  12:00 PM
+                            [**3057-10-29**]  06:00 PM
+                            [**3057-10-29**]  06:09 PM
+                            [**3057-10-30**]  03:39 AM
+                            [**3057-10-30**]  06:52 PM
+                            [**3057-10-31**]  04:28 AM
+                            [**3057-10-31**]  11:24 PM
+                            [**3057-11-1**]  04:06 AM
+                            [**3057-11-2**]  04:07 AM
+                             [**3057-11-3**]  04:28 AM
+   WBC
+   7.5
+   8.8
+   7.6
+   7.4
+   8.1
+   7.1
+   Hct
+   25.9
+   26.3
+   27.6
+   24.1
+   26.2
+   28.0
+   29.0
+   26.3
+   Plt
+   [**Telephone/Fax (3) 9390**]59
+   286
+   299
+   Cr
+   1.6
+   2.2
+   1.4
+   2.1
+   2.3
+   Glucose
+   230
+   249
+   92
+   75
+   138
+   280
+   107
+   Other labs: PT / PTT / INR:13.8/34.8/1.2, CK / CKMB /
+   Troponin-T:366/27/7.99, ALT / AST:16/50, Alk Phos / T Bili:365/0.7,
+   Amylase / Lipase:/7, Differential-Neuts:82.2 %, Band:0.0 %, Lymph:12.9
+   %, Mono:3.2 %, Eos:1.4 %, D-dimer:2458 ng/mL, Fibrinogen:765 mg/dL,
+   Lactic Acid:1.4 mmol/L, Albumin:1.7 g/dL, LDH:376 IU/L, Ca++:7.4 mg/dL,
+   Mg++:2.2 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ HYPERNATREMIA (HIGH SODIUM)
+ INEFFECTIVE COPING
+ DIABETES MELLITUS (DM), TYPE I
+ ATRIAL FIBRILLATION (AFIB)
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ SHOCK, OTHER
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ IMPAIRED SKIN INTEGRITY
+ SHOCK, CARDIOGENIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ [**Last Name **] PROBLEM - ENTER DESCRIPTION IN COMMENTS
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3057-10-12**] 06:00 PM
+   Dialysis Catheter - [**3057-10-27**] 02:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,194 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2601-8-1**] 07:59 PM
+   [**2601-8-1**]: Started Metoprolol 25 TID. Around 8pm Pt tacchy to 130s,
+   dyspeneic. O2 requirement increased from 2 to 4L. EKG obtained showed
+   afib. Given 50 of metoprolol. Ordered 15 IV Dilt but held it as HR came
+   down to 80s.  CXR shows increased pulmonary edema. Pt urinating well so
+   held off on diuretics.
+   ECHO: The left atrium is dilated. There is mild symmetric left
+   ventricular hypertrophy. The left ventricular cavity is moderately
+   dilated. Overall left ventricular systolic function is moderately
+   depressed (LVEF= 30-40 %) secondary to akinesis of the basal septum and
+   hypokinesis of the rest of the left ventricle. There is considerable
+   beat-tobeat variability of the left ventricular ejection fraction due
+   to an irregular rhythm. Tissue Doppler imaging suggests an increased
+   left ventricular filling pressure (PCWP>18mmHg). Right ventricular
+   chamber size and free wall motion are normal. The aortic root is
+   moderately dilated at the sinus level. The ascending aorta is
+   moderately dilated. The aortic valve leaflets are severely
+   thickened/deformed. There is moderate aortic valve stenosis (valve area
+   1.0-1.2cm2). Moderate (2+) aortic regurgitation is seen. The mitral
+   valve leaflets are mildly thickened. There is no mitral valve prolapse.
+   Mild to moderate ([**11-21**]+) mitral regurgitation is seen.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 450 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2601-8-2**] 06:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.6
+C (97.9
+   HR: 81 (63 - 114) bpm
+   BP: 116/52(68) {106/38(60) - 135/100(106)} mmHg
+   RR: 21 (12 - 29) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 64.7 kg (admission): 64.7 kg
+   Height: 68 Inch
+             Total In:
+                                                                  1,731 mL
+                                                                     27 mL
+   PO:
+                                                                    850 mL
+             TF:
+   IVF:
+                                                                     81 mL
+                                                                     27 mL
+   Blood products:
+   Total out:
+                                                                    830 mL
+                                                                    290 mL
+   Urine:
+                                                                    830 mL
+                                                                    290 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    901 mL
+                                                                   -263 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   Gen: Pleasant, in NAD, able to follow commands
+   HEENT: No conjunctival pallor. No icterus. MMM. OP clear.
+   NECK: Supple, No LAD. JVP 12 cm. Normal carotid upstroke without
+   bruits.
+   CV: Soft S1S2, Irregluarlary irregular.  II/VI systolic murmur best at
+   USB..
+   LUNGS: CTA anteriorly
+   ABD: Soft, NT, ND.  No HSM. Abdominal aorta was not enlarged by
+   palpation.
+   EXT:No clubbing, cyanosis, edema. Full distal pulses bilaterally.
+   SKIN: No rashes/lesions, ecchymoses.
+   NEURO: A&Ox3. Grossly intact, no focal deficits.
+   Labs / Radiology
+   135 K/uL
+   12.9 g/dL
+   126 mg/dL
+   1.3 mg/dL
+   23 mEq/L
+   5.2 mEq/L
+   31 mg/dL
+   107 mEq/L
+   139 mEq/L
+   38.6 %
+   10.1 K/uL
+        [image002.jpg]
+                             [**2601-8-1**]  04:49 AM
+                             [**2601-8-1**]  01:02 PM
+                             [**2601-8-1**]  08:46 PM
+   WBC
+   10.1
+   Hct
+   38.6
+   Plt
+   135
+   Cr
+   1.3
+   TropT
+   0.59
+   0.71
+   0.83
+   Glucose
+   126
+   Other labs: PT / PTT / INR:24.9/41.3/2.4, CK / CKMB /
+   Troponin-T:260/26/0.83, Mg++:1.9 mg/dL
+   Assessment and Plan
+ ACUTE CORONARY SYNDROME (ACS, UNSTABLE ANGINA, CORONARY ISCHEMIA)
+ PULMONARY EDEMA
+   78 y/o gentleman with CAD with PCI in [**2598**], HTN, AS, AF, presents with
+   rest angina in the setting of rapid heart rate with wide complex
+   tachycardia.
+   .
+   # CORONARIES:  Chest pain is concerning for unstable angina.  Known CAD
+   as above. Plan is for cath early next week to fix underlying CAD, to
+   allow for possible catheter ablation of VT. CK leak is likely due to
+   demand ischemia.
+   - cycle CE
+   - ASA 325, plavix 75 (already loaded in ED)
+   - heparin gtt when INR is below 2 and will hold coumadin
+   - Will increase BB if HR trends up
+   - risk stratify with HbA1c and lipid panel
+   - continuing statin
+   .
+   # RHYTHM:  Episodes of WCT concerning for VTach.  Now in afib with PVC.
+   Vt is in RVOT or LVOT in location
+   - rate control with BB
+   - heparin gtt and will hold coumadin
+   - will start amiodarone gtt if WCT returns
+   .
+   # PUMP:  Known severe AS in our system and currently on exam.  Cath in
+   [**2597**] with [**Location (un) 534**] of 1.07 with gradient of 21 mmHg.
+   - daily I&O and weights
+   - may benefit from careful diuresis in AM given CHF
+   .
+   #  ARF:  Cr 1.3 on admission.  Last Cr in our system is 0.9 in [**2597**].
+   - trend Cr/renally dose meds/avoid nephrotoxins.
+   - will get renal US given abd bruit
+   .
+   #  Medication reconciliation:
+   - Unable to reach his family or pharmacy ([**Company 8650**] in [**Hospital1 696**])
+   - will perform in AM.
+   .
+   #  Cough:  Patient states that this is similar to his allergic
+   symptoms.  No fever.  CXR without evidence of PNA.  WBC mild elevation
+   could be secondary to stress.
+   - trend fever curve
+   - low thresh hold to repeat CXR with PA/Lat
+   .
+   FEN:  Cardiac heart healthy
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with therap INR
+   .
+   CODE: Presumed full
+   .
+   COMM: With patient and Wife, [**Name (NI) 8651**], [**Telephone/Fax (1) 8652**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2601-8-1**] 05:14 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

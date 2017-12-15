@@ -1,0 +1,204 @@
+Chief Complaint:
+   24 Hour Events:
+   - received 5 units PRBCs and 3 units FFP, HCT 13.4 -> 19.2
+   Allergies:
+   Ancef (Intraven.) (Cefazolin Sodium)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3193-3-27**] 10:50 PM
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3193-3-27**] 10:05 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3193-3-28**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.1
+C (96.9
+   HR: 71 (70 - 75) bpm
+   BP: 112/55(69) {92/39(54) - 118/67(79)} mmHg
+   RR: 16 (12 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: AV Paced
+   Height: 65 Inch
+           Total In:
+                                                                  1,908 mL
+                                                                  1,442 mL
+   PO:
+           TF:
+   IVF:
+                                                                    274 mL
+                                                                    130 mL
+   Blood products:
+                                                                  1,634 mL
+                                                                  1,312 mL
+   Total out:
+                                                                  1,432 mL
+                                                                  1,190 mL
+   Urine:
+                                                                  1,432 mL
+                                                                  1,190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    476 mL
+                                                                    252 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///23/
+   Physical Examination
+   General: Alert, oriented, pale but no acute distress
+   HEENT: Sclera anicteric, MM dry
+   Neck: supple, no LAD
+   Lungs: CTA lateral bases, no appreciable wheezes, rales, ronchi
+   CV: RRR, soft gr 2 SEM best heard over LUSB, no gallop
+   Abdomen:  soft/obese, decreased bowel sounds, no rebound tenderness or
+   guarding, fluid wave present
+   Ext: chronic severe lower extremity edema +3 bilaterally & venous
+   stasis changes.
+   Labs / Radiology
+   122 K/uL
+   6.1 g/dL
+   132 mg/dL
+   2.5 mg/dL
+   23 mEq/L
+   4.5 mEq/L
+   83 mg/dL
+   107 mEq/L
+   144 mEq/L
+   19.2 %
+   6.0 K/uL
+        [image002.jpg]
+                             [**3193-3-27**]  06:50 PM
+                             [**3193-3-27**]  09:46 PM
+                             [**3193-3-27**]  11:45 PM
+                             [**3193-3-28**]  01:14 AM
+                             [**3193-3-28**]  03:41 AM
+                             [**3193-3-28**]  05:53 AM
+   WBC
+   6.0
+   Hct
+   13.3
+   14.9
+   15.7
+   16.9
+   17.8
+   19.2
+   Plt
+   122
+   Cr
+   2.5
+   Glucose
+   132
+   Other labs: PT / PTT / INR:22.9/38.7/2.2, ALT / AST:[**9-25**], Alk Phos / T
+   Bili:67/1.0, Albumin:2.9 g/dL, LDH:233 IU/L, Ca++:7.9 mg/dL, Mg++:2.5
+   mg/dL, PO4:6.1 mg/dL
+   Assessment and Plan
+   64 y/o M with PMHx of Severe COPD, Diastolic Dysfunction and AVJ
+   ablation s/p PCM who presents with BRBPP, Hct of 13 and
+   supratherapeutic INR at 21.
+   .
+   # GI Bleed: Pt presenting with 3-4 days of dark stools and BRBPR.
+   Found to have hct drop to 13 and still HD stable which suggests that
+   this must have been slow bleed with compensation.  Unclear source, may
+   be bleeding from more than one site. Given gross coagulopathy with INR
+   of 21, unsafe for NG tube or urgent EGD per GI.  Will aggressively
+   resuscitate with blood & FFP overnight, t/b with GI if any signs of
+   recurrent melena.
+   - received 5 units PRBCs and 3 units FFP with only modest increase in
+   HCT
+   - maintain > 4units crossmatched
+   - f/u q4hr hct
+   - Cipro 400mg IV BID for PPx (possible UGI source)
+   - NPO with protonix gtt at 8mg/hr
+   - octreotide 50mcg bolus and gtt at 50mcg/hr
+   - f/u GI recs
+   - correct coagulopathy as below
+   - maintain PIV & CVL
+   .
+   # Coagulopathy:  Pt on coumadin as outpt and last INR was 1.8 on [**2-28**]^th. He has been maintained on a stable regimen of 1 or 1.5mg per day
+   and now found to have INR>21 for unclear reasons. He completed a course
+   of Abx in early [**Month (only) **] for H. Pylori and he was recently treated with
+   Prednisone for gout flare.  Otherwise, no recent med changes, does
+   report poor po intake.  Pt denies mucosal bleeding, hematuria and
+   hemoptysis.  Received Vitamin K 10mg IV and 1u FFP prior to transfer
+   - continue Vitamin K 5mg po x 3days
+   - FFP PRN
+   - f/u INR
+   .
+   # Cirrhosis: Pt with cirrhosis, ascites, splenomegaly & portal HTN seen
+   on RUQ u/s performed in [**10-19**].  Pt is unaware of this diagnosis and does
+   not appear to have had any workup in the past.  EGD from 07 did not
+   show any varices, but may have developed portal gastropathy in the
+   interim.
+   - f/u iron studies
+   - f/u hepatitis panel, [**Doctor First Name 1168**], [**Last Name (un) 5763**], AMA
+   - f/u liver consult recs
+   .
+   # Diastolic Dysfunction: Pt with known diastolic dysfunction presenting
+   with significant hct drop and GI bleed, now being aggressively
+   resuscitated with blood products.  Concern for volume overload/pulm
+   edema with resuscitation
+   - lasix 40mg IV with every 2-3units of products
+   - holding BP meds given marginal BPs and hypovolemia
+   - monitor resp status, CPAP overnight
+   .
+   # ARF: Baseline creatinine of approx 1.8 and now 2.3 with BUN of 80.
+   Pt is likely pre-renal due to hypovolemia from blood loss.  Elevated
+   BUN may also be due to upper GI bleed.  Will aggressively resuscitate
+   with blood products and recheck lytes in am.
+   - transfuse as above
+   - monitor lytes [**Hospital1 **]
+   - foley in place
+   - f/u am labs and send urine lytes if not improving
+   .
+   # Afib s/p AVJ ablation & PCM: holding coumadin given INR>21 and active
+   GI bleed
+   - hold nodal agents given hypovolemia and bleed
+   .
+   # OSA: Pt with OSA, restrictive PFTs and severe pulm HTN.
+   - continue home CPAP settings overnight
+   .
+   # FEN: NPO for now
+   - replete electrolytes aggressively
+   .
+   # Prophylaxis: Pneumoboots, supratherapeutic INR
+   .
+   # Access: PIV, Femoral Line
+   .
+   # Code: FULL CODE
+   .
+   # Communication: Patient and wife
+   .
+   # Disposition: ICU
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3193-3-27**] 04:35 PM
+   16 Gauge - [**3193-3-27**] 04:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

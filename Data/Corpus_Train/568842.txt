@@ -1,0 +1,283 @@
+Chief Complaint:  OUTPATIENT CARDIOLOGIST:  Dr. [**First Name4 (NamePattern1) 3671**] [**Last Name (NamePattern1) 3672**] and Dr.
+   [**First Name8 (NamePattern2) 464**] [**Last Name (NamePattern1) 3673**]
+   CHIEF COMPLAINT:  Referred for cath due to DOE/abnl stress now with
+   elevated PCWP, balloon pump and 3VD.
+   HPI:
+   Pt is a 72F with a history of hypertension, hyperlipidemia and COPD.
+   She was seen in cardiac consultation with Dr. [**Last Name (STitle) 3672**] on [**10-1**] for
+   complaints of shortness of breath. She underwent an echocardiogram
+   which revealed segmental wall abnormalities.  She then underwent a
+   nuclear stress test which was limited by functional capacity and
+   shortness of breath.  Nuclear images did reveal multiple perfusion
+   defects involving the anterior wall, apex and part of the inferior
+   wall.  Pt reports developing increasing DOE over past year, reports she
+   is able to walk one block and climb one flight of stairs "slowly" but
+   without stopping. Can carry her groceries.  Denies ever having
+   experienced any chest discomfort. Otherwise on ROS: Denies orthopnea,
+   LE edema.  No HA, vision changes, dysphagia, palpitations, heart burn,
+   abd pain, n/v/d/c, musculoskeletal pain.
+   She has been worked up extensively by pulmonary and found to have
+   COPD.  Apparently she has never smoked but worked for thirty years in a
+   factory with exposure to fiberglass on a
+   daily basis.  She was started on multiple inhalers and was doing well
+   until this past fall when she developed a cold.  She was given
+   antibiotics and steroids which resolved her cold but she
+   noticed that since that time she develops shortness of breath with
+   exertion.  She reports the episodes are inconsistent, some days she can
+   walk the length of the grocery store without
+   difficulty but other days she develops shortness of breath after one
+   block.  She denies chest discomfort, dizziness, lightheadedness,
+   nausea, near syncope, or syncope.
+   Pt underwent cardiac catheterization on day of admission to the CCU.
+   She was found on right heart cath to have markedly elevated RA, PASP
+   and PCWP pressures, with a mean wedge pressure ~40. On L heart cath had
+   occluded LAD, tight LM lesion, as well as tight lesions in proximal RCA
+   and PDA.  Given nitro gtt for HTN, 40mg IV lasix x 2, IABP placed.
+   Heparin gtt started. Dr. [**Last Name (STitle) 618**] evaluated the pt in the lab for
+   anticipated CABG this admission.
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 0.64 mcg/Kg/min
+   Heparin Sodium - 600 units/hour
+   Other ICU medications:
+   Other medications:
+   Albuterol 1-2 puffs PRN Q4
+   Alprazolam 0.5mg QHS
+   Atenolol 100mg daily
+   Fenofibrate 145mg daily
+   Fluoxetine 20mg TID (dose confirmed with pt and pharmacy)
+   Advair 500/50
+   Lisinopril 40mg daily
+   Spiriva INH daily
+   Torsemide 20mg [**Hospital1 **]
+   Verapamil 200mg QHS
+   Vitamin D
+   ASA 81mg daily
+   Ferrous sulfate
+   Past medical history:
+   Family history:
+   Social History:
+   PAST MEDICAL HISTORY:
+   1. CARDIAC RISK FACTORS:: Diabetes -, Dyslipidemia +, Hypertension+
+   2. CARDIAC HISTORY:
+   -CABG:  none
+   -PERCUTANEOUS CORONARY INTERVENTIONS: see below
+   -PACING/ICD:None
+   3. OTHER PAST MEDICAL HISTORY:
+   Hypertension
+   Hyperlipidemia
+   COPD
+   Fiberglass exposure
+   Sciatica
+   Tonsillectomy as a child
+   Depression
+   S/P lumpectomy of the left breast
+   Iron deficient Anemia
+   Monoclonal Gammopathy under the care of Dr. [**First Name4 (NamePattern1) 3674**] [**Last Name (NamePattern1) 3675**]
+   Arthritis
+   Her sister died two years ago at age 72 of heart disease, she had
+   multiple MI
+s and a CABG.  Her brother died of a MI at age 59.  Her
+   father died a sudden cardiac death at age 60.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: She is a widow with one grown son.  [**Name (NI) **] son and
+   daughter-in-law will accompany her.  Her son [**Name (NI) 3676**]
+s cell phone
+   # is [**Telephone/Fax (1) 3677**].  She has never smoked and drinks on very rare
+   occasions.  She worked in a curtain factory for 30 years and is
+   currently retired.
+   -Tobacco history: Never
+   -ETOH:  Rare
+   -Illicit drugs: None
+   Review of systems:
+   Flowsheet Data as of [**3104-12-22**] 04:37 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 73 (67 - 73) bpm
+   BP: 145/69(110) {143/48(97) - 165/69(120)} mmHg
+   RR: 23 (19 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 56 Inch
+   PAP: (71 mmHg) / (24 mmHg)
+   Total In:
+                                                                     34 mL
+   PO:
+   TF:
+   IVF:
+                                                                     34 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,640 mL
+   Urine:
+                                                                    740 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,606 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   Physical Examination
+   VS: HR 67 158/60 PAP 75/29(48) 95%
+   GENERAL: Elderly petite woman, NAD, laying flat comfortably.
+   HEENT: NCAT. Alopecia. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+   pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple, JVP ~12cm.  No carotid bruits
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR.
+   IABP in place with loud systolic murmur and prominent S2, loudest in
+   abdomen.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. Unable to ascultate abdominal bruits over IABP
+   EXTREMITIES: No c/c/e. No femoral bruits. PA catheter in place in r
+   groin, no ooze.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right:  DP 2+ PT 2+
+   Left:  DP 2+ PT 2+
+   Labs / Radiology
+   154
+   132
+   1.3
+   28
+   31
+   99
+   3.6
+   139
+   37.1
+   9.1
+        [image002.jpg]
+   CK 26  Ca 8.9 ALT 13 AST 34 AP 49 TB1.3 Alb 3.8 [**Doctor First Name 90**] 18 INR 1.5
+   Fluid analysis / Other labs: Per PCP lipids checked [**10-1**]:
+   TC 132
+   LDL 62
+   HDL 33
+   TG 184
+   Imaging: 2D-ECHOCARDIOGRAM: [**3104-12-22**]: There is mild to moderate regional
+   left ventricular systolic dysfunction with anteroseptal and anterior
+   hypokinesis (proximal LAD distribution). The remaining segments
+   contract normally (LVEF = 40%). The right ventricular cavity is mildly
+   dilated with normal free wall contractility. The mitral valve leaflets
+   are mildly thickened. There is no mitral valve prolapse. Trivial mitral
+   regurgitation is seen. Moderate [2+] tricuspid regurgitation is seen.
+   There is no pericardial effusion.
+   IMPRESSION: Mild to moderate regional left ventricular systolic
+   dysfunction, c/w CAD. Moderate tricuspid regurgitation.
+   ETT:  Per report: Nuclear stress test done as outpatient: Limited by
+   functional capacity and shortness of breath.  Multiple perfusion
+   defects involving the anterior wall, apex and part of the inferior
+   wall.
+   CARDIAC CATH: Summary and recommendations: (not finalized)
+   1. Severe biventricular diastolic dysfunction
+   2. Severe pulmonary hypertension
+   3. Left main and multivessel CAD
+   4. CT surgery evaluation
+   5. Diuresis
+   6. Nitrates
+   HEMODYNAMICS:
+   RA mean 30
+   PA mean 70
+   PCW mean 43
+   ECG: NSR at 66, nl axis and intervals.  ~1mm ST depression II.
+   Assessment and Plan
+ .H/O CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+   ASSESSMENT AND PLAN: 72F with COPD and newly dx 3VD, CHF.
+   # CORONARIES:  Prelim cath report revealed occluded LAD, stenotic LM,
+   proximal RCA and PDA.  Candidate for CABG.  Was evaluated in cath lab
+   by Dr. [**Last Name (STitle) 618**]. No CP or evidence acute ischemia on ECG.
+   -hep gtt
+   -daily ASA
+   -BB
+   -statin initiated for optimization of medical mgmt prior to CABG.
+   -f/u csurg recs, pre-op tests (carotid u/s, vein mapping)
+   -pt has active T+S.
+   -NPO after MN for poss [**Doctor First Name **] tomorrow.
+   # PUMP:  EF 40%, evidence systolic and severe biventricular diastolic
+   dysfunction on ECHO/cath. Not decompensated. Pt relatively asymptomatic
+   with markedly elevated PCWP (~43).  Optimize hemodynamics prior to
+   surgery.
+   -PA catheter in place for tailored therapy
+   -diuresis with lasix gtt, goal min 200cc UOP per hour or PASP ~30
+   -Vasodilation with NTG, consider adding hydral prn and uptitrating as
+   tolerated
+   -holding ACEI for now with cr 1.3 and pre-CABG
+   # RHYTHM:  NSR. Monitor on tele
+   -BB
+   # HTN:
+   -Continue BB, switch from atenolol to metoprolol tartrate for ease of
+   titration and in setting of possible worsening renal function.
+   -NTG gtt
+   -consider hydral for afterload reduction
+   -holding home verapamil for now
+   -Hold ACEI in setting of dye load, cr 1.3 and pre-CABG as above.
+   # COPD
+   -Standing ipratropium nebs
+   -Prn albuterol nebs
+   -IS at bedside
+   # Hyperlipidemia. Pt carries dx of elevated lipids, on recent PCP labs,
+   LDL low at 62, low HDL 33.  Has been on fibrate therapy for "years" for
+   unclear reasons.  In setting of low HDL, and for peri-operative med
+   optimization will start low dose statin.
+   -Atorvastatin 20mg daily
+   -repeat lipids
+   # Depression - Continue home dose fluoxetine, 20mg TID confirmed with
+   pt and pharmacy.
+   FEN:NPO except meds/sips for now. NPO after MN for surgery. Otherwise
+   low sodium diet, fluid restricted.
+   ACCESS: PIV's, PA catheter
+   PROPHYLAXIS:  bowel regimen, on hep gtt
+   CODE: FULL
+   DISPO: CCU for now
+   Contact: [**Name (NI) **] [**Name (NI) 3678**], cell [**Telephone/Fax (1) 3677**]
+   ICU Care
+   Nutrition:
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   IABP line - [**3104-12-22**] 01:23 PM
+   PA Catheter - [**3104-12-22**] 01:23 PM
+   18 Gauge - [**3104-12-22**] 01:23 PM
+   22 Gauge - [**3104-12-22**] 01:23 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this [**3104-12-23**], I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans as well as those detailed in Dr.
+   [**First Name (STitle) 3618**]
+s note from [**3104-12-23**].
+   I have also reviewed the notes of Dr(s). [**Name (NI) 1366**].
+   I would add the following remarks:  Planning CABG for severe CAD.
+   Remains on IABP necessitating critical care.  Continue diuresis.
+   Critical Care time 60 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD
+   on:[**3104-12-23**] 11:55 ------
+
+
+
+DOC CLASS

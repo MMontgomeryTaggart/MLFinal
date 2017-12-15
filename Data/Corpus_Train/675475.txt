@@ -1,0 +1,137 @@
+Chief Complaint:
+   Shortness of breath
+   HPI:
+    85yoF h/o moderate AS, afib; admitted in setting of progressive
+   hypoxemia and dyspnea.  She reports several days of progressive
+   dyspnea, then had an acute change yesterday afternoon with worsening of
+   her dyspnea.  Seen by EMS and found to be hypoxemic and placed on
+   BiPAP.  Brought to ED and admitted to ICU for ongoing management.
+   24 Hour Events:
+   Admitted overnight and has had steady improvement in her oxygenation.
+   Weaned from NRB now to 4L NC.
+   Allergies:
+   Lisinopril
+   throat swelling
+   Last dose of Antibiotics:
+   Levofloxacin
+   Ceftriaxone
+   Oseltamivir
+   Other medications:
+   Colace
+   Heparin
+   PPI
+   Simvastatin
+   Insulin sliding scale
+   Changes to medical and family history:
+   No change
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2667-12-4**] 08:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 73 (70 - 85) bpm
+   BP: 112/52(68) {99/52(64) - 126/64(75)} mmHg
+   RR: 24 (20 - 26) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 61 Inch
+             Total In:
+             87 mL
+   PO:
+             TF:
+   IVF:
+   87 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    570 mL
+   Urine:
+   570 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -483 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 4L
+   SpO2: 98%
+   ABG: ///27/
+   Physical Examination
+   Gen: Awake, alert, no acute distress
+   Chest: Crackles bilateral bases; lower [**12-22**].
+   CV: RRR, 4/6 systolic murmur at LUSB
+   Abd: s/nt/nd
+   Ext: no edema
+   Labs / Radiology
+   9.7 g/dL
+   197 K/uL
+   157 mg/dL
+   1.2 mg/dL
+   27 mEq/L
+   3.9 mEq/L
+   23 mg/dL
+   100 mEq/L
+   137 mEq/L
+   30.4 %
+   13.1 K/uL
+        [image002.jpg]
+                            [**2667-12-4**]  03:23 AM
+   WBC
+   13.1
+   Hct
+   30.4
+   Plt
+   197
+   Cr
+   1.2
+   TropT
+   <0.01
+   Glucose
+   157
+   Other labs: PT / PTT / INR:13.3/22.4/1.1, CK / CKMB /
+   Troponin-T:63//<0.01, Ca++:8.5 mg/dL, Mg++:1.6 mg/dL, PO4:3.5 mg/dL
+   BNP 2875
+   EKG: LBBB
+   CXR:  Initially with bilateral lower lower infiltrates; overall
+   improved from admission.
+   Assessment and Plan
+   85yoF history of aortic stenosis, afib; with hypoxemia and dyspnea.
+   1.       Hypoxemia:  Likely pulmonary edema, possibly in setting of
+   infectious process.
+   - Continue management of her hemodynamics
+   - diuresis
+   - decrease O2 as tolerated
+   2.       PNA:
+   - little evidence for significant PNA
+   - Plan to treat with course of levofloxacin; d/c ceftriaxone
+   - f/u flu swab; d/c oseltamivir if DFA negative
+   3.       CV:  h/o moderate AS
+   - Repeat TTE
+   - beta-blocker
+   - restart home regimen
+   ICU Care
+   Nutrition: Cardiac diet
+   Glycemic Control:  insulin sliding scale
+   Lines:
+   20 Gauge - [**2667-12-4**] 12:00 AM
+   18 Gauge - [**2667-12-4**] 12:00 AM
+   Prophylaxis:
+   DVT:  heparin prophylaxis
+   Stress ulcer:  No indication
+   VAP:  Not intubated
+   Communication:  Patient updated during rounds
+   Code status: FULL
+   Disposition : Transfer to floor
+   Total time spent:  35 minutes
+
+
+
+DOC CLASS

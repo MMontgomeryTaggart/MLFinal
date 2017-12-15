@@ -1,0 +1,264 @@
+Admission Date:  [**2912-7-5**]              Discharge Date:   [**2912-8-2**]
+
+Date of Birth:  [**2840-7-10**]             Sex:   M
+
+Service: [**Hospital Unit Name 336**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 463**]
+Chief Complaint:
+Chest pressure w/ associated shortness of breath
+
+Major Surgical or Invasive Procedure:
+Pericardial window
+VATS with wedge resection
+
+History of Present Illness:
+71 yo M w/ h/o HTN, CAD, s/p anterior MI [**2908**] (RCA stent,
+unsuccessful LAD intervention); severe systolic and diastolic
+dysfunction (EF 35 % [**2-29**]), hyperlipidemia; he had vague CP w/
+assoc SOB x days prior to admission. In ed, CXR w/ globular
+heart prompted echo that showed large pericardial effusion w/o
+echocardiographic tamponade however clinically impending as he
+went into rapid AF.  Amiodarone initiated.  Serial echo later
+revealed 5cm mediastinal mass, collaborated by CT, and
+ultimately biopsied in OR (Dr. [**Last Name (STitle) 456**], thoracics) and
+pericardial effusion drained.
+
+Past Medical History:
+CONGESTIVE HEART FAILURE (systolic dysfunction)
+CORONARY ARTERY DISEASE
+anterior MI in [**12/2908**], cath old TO of the LAD and
+an acute thrombus in the RCA. Stent to RCA
+HYPERLIPIDEMIA
+ANTICOAGULATION
+HYPERTENSION
+
+
+
+Social History:
+Lives in a room at the [**Company 437**]
+Pt has 40 pack year smoking history, patient has quit smoking 4
+years ago
+Pt socially drinks 1 beer per day
+Pt has no illicit drug history
+
+Family History:
+Pt has no history of cancer in the family
+
+Physical Exam:
+Tm 98.1 BP 135/92 P 70 R 16 O2 98%
+Gen: well appearing, NAD
+HEENT: Perrla, EOMI
+Neck: supple, from, no LAD, JVP = 10cm
+Lungs: bibasilar crackles (l>r)
+CV: RRR, S1 < S2 +S4 loud rub
+Abd: obese, NABS, soft NTND, liver edge palpable 2cm below RCM
+Ext: 3+ pitting edema B/L with hyperpigmentation, c/w chronic
+venous insuff.
+
+Pertinent Results:
+[**2912-7-19**] 06:00AM BLOOD WBC-9.9 RBC-3.02* Hgb-9.2* Hct-28.3*
+MCV-94 MCH-30.4 MCHC-32.4 RDW-13.3 Plt Ct-362
+[**2912-7-18**] 06:19AM BLOOD WBC-10.2 RBC-2.93* Hgb-8.7* Hct-27.5*
+MCV-94 MCH-29.7 MCHC-31.7 RDW-13.1 Plt Ct-386
+[**2912-7-6**] 07:11AM BLOOD WBC-12.8* RBC-3.80* Hgb-11.6* Hct-35.8*
+MCV-94 MCH-30.6 MCHC-32.5 RDW-13.0 Plt Ct-379
+[**2912-7-5**] 07:50PM BLOOD WBC-11.4* RBC-3.55* Hgb-11.0* Hct-32.2*
+MCV-91 MCH-30.9 MCHC-34.1 RDW-13.2 Plt Ct-323
+[**2912-7-9**] 06:22AM BLOOD Neuts-80.6* Lymphs-9.5* Monos-7.3 Eos-2.4
+Baso-0.3
+[**2912-7-19**] 06:00AM BLOOD Plt Ct-362
+[**2912-7-5**] 07:50PM BLOOD PT-14.3* PTT-27.2 INR(PT)-1.4
+[**2912-7-19**] 06:00AM BLOOD Glucose-82 UreaN-23* Creat-1.0 Na-134
+K-4.2 Cl-99 HCO3-27 AnGap-12
+[**2912-7-5**] 07:50PM BLOOD Glucose-94 UreaN-29* Creat-1.4* Na-130*
+K-4.1 Cl-93* HCO3-25 AnGap-16
+[**2912-7-17**] 06:16AM BLOOD ALT-29 AST-46* AlkPhos-126*
+[**2912-7-5**] 07:50PM BLOOD ALT-40 AST-36 CK(CPK)-212* AlkPhos-187*
+TotBili-0.7
+[**2912-7-16**] 11:42PM BLOOD CK-MB-10 MB Indx-2.0 cTropnT-0.03*
+[**2912-7-16**] 04:05PM BLOOD CK-MB-14* MB Indx-2.4 cTropnT-0.05*
+[**2912-7-16**] 05:45AM BLOOD CK-MB-13* MB Indx-2.3 cTropnT-0.04*
+[**2912-7-19**] 06:00AM BLOOD Calcium-8.3* Phos-3.2 Mg-2.0
+[**2912-7-6**] 07:11AM BLOOD Calcium-8.9 Phos-3.4 Mg-2.3
+[**2912-7-5**] 07:50PM BLOOD calTIBC-273 Ferritn-452* TRF-210
+[**2912-7-5**] 07:50PM BLOOD TSH-2.9
+[**2912-7-6**] 07:11AM BLOOD Free T4-1.4
+[**2912-7-8**] 03:15PM BLOOD HIV Ab-NEGATIVE
+[**2912-7-6**] 07:11AM BLOOD RheuFac-14
+[**2912-7-6**] 01:51AM BLOOD [**Doctor First Name **]-POSITIVE Titer-1:40
+
+Echo Results
+[**2912-7-5**]: Conclusions:
+Left ventricular wall thicknesses and cavity size are normal.
+Overall left
+ventricular systolic function is severely depressed with near
+akinesis of the
+distal 2/3rds of the ventricle. The remaining segements are
+markedly
+hypokinetic. Right ventricular chamber size and free wall motion
+are normal.
+Moderate (2+) mitral regurgitation is seen. There is a large
+circumferential
+pericardial effusion measuring 2.7cm lateral to the left
+ventricle, 1.5cm
+inferior to the left ventricle and anterior to the right atrium
+with relative
+sparing of anterior to the right ventricle (<1cm). The effusion
+is echo dense,
+consistent with blood, inflammation or other cellular elements.
+There is mild
+intermittent RA invagination. There is no evidence of RV
+diastolic collapse.
+An unusual "mass" is visualized anterior to the right ventricle.
+The echo
+texture is atypical for hepatic tissue..
+
+[**2912-7-18**]: Conclusions
+The left atrium is moderately dilated. The left atrium is
+elongated. The right
+atrium is moderately dilated. Left ventricular wall thicknesses
+are normal.
+The left ventricular cavity size is normal. There is mild global
+left
+ventricular hypokinesis. Overall left ventricular systolic
+function is mildly
+depressed. Right ventricular chamber size is normal. Right
+ventricular
+systolic function is normal. The ascending aorta is mildly
+dilated. The aortic
+valve leaflets (3) are mildly thickened. No aortic regurgitation
+is seen. The
+mitral valve leaflets are mildly thickened. There is mild
+pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+
+Compared with the findings of the prior study (tape reviewed) of
+[**2912-7-6**], the
+LV function has improved and the pericardial effusion is no
+longer present.
+The mediastinal mass is no longer apparent.,
+
+
+Brief Hospital Course:
+71 yo M w/ h/o HTN, CAD, s/p anterior MI [**2908**] (RCA stent,
+unsuccessful LAD intervention); severe systolic and diastolic
+dysfunction (EF 35 % [**2-29**]), hyperlipidemia; he had vague CP w/
+assoc SOB x days prior to admission. In ed, CXR w/ globular
+heart prompted echo that showed large pericardial effusion w/o
+echocardiographic tamponade however clinically impending as he
+went into rapid AF.  Amiodarone initiated.  Serial echo later
+revealed 5cm mediastinal mass, collaborated by CT, and
+ultimately biopsied in OR (Dr. [**Last Name (STitle) 456**], thoracics) and
+pericardial effusion drained. sugeons described lesion as
+caseating/cheesy hence TB concern and precautions. extubated,
+post op w/o complications and diuresed in  CCU for mild decomp
+HF. effusion w/u labs included a negative [**Doctor First Name **], RF. HIV negative.
+ Preliminary pathology results reported on [**2912-7-8**] (Dr.
+[**Last Name (STitle) 464**] revealed highly  atypical squamous epithelial cells
+w/o invasion w/ a differential most suggestive for Thymic cyst
+(w/ CIS) vs Thymic CA (w/ sqaumous differentiation) vs primary
+lung CA (w/ Mets).  Staining for TTF (lung CA) and CD5 (thymic
+CA) were non-diagnostic and the decision to biopsy upper lung
+nodules that were noted on CT as staging for possible mets.
+Respiratory precautions d/c'd as pathology not c/w infection
+(AFB stain and flow cytometry negative additionally).
+Incidental 5.6cm AAA is evaluated by vasc [**Doctor First Name 465**] consult who felt
+no acute surgical repair necessary.
+Pt had VATS and wedge resection on [**7-14**] and lung nodules were
+sent to pathology.  Two lung lesions were biopsied and third
+lesion was too deep to be removed.  Pt while recovering from
+surgery had an episode of hypotension with blood pressure drop
+to 75/30s.  Pt was thought to be dry and was given aggresive
+fluids.  Pt's BP returned to [**Location 230**] and kidney function
+improved.  PT fluids stopped and pt started on lasix for net 1L
+fluid output.  Pt s/p VATS remianed with a chest tube until
+pneumothorax from surgery resolved.  Pt will follow up outpt in
+terms of results of biopsy and treatment decisions.
+
+UTI - Pt urine culture came back positive for psuedomonas while
+in hospital and pt was started and finished 7 day course of
+cipro while in the hospital.  Pt repeat urine cx came back
+negative.
+
+
+Medications on Admission:
+Lipitor 10mg qd
+Lisinopril 40mg qd
+Lasix 40mg [**Hospital1 12**]
+Atrovent 2p [**Hospital1 12**]
+Atenolol 50mg qd Imdur 100mg qd
+
+Discharge Medications:
+1. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation QID (4 times a day).
+Disp:*1 IH* Refills:*2*
+2. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO QD (once
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*40 Tablet(s)* Refills:*0*
+4. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1)
+Tablet, Chewable PO QID (4 times a day) as needed.
+6. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO once
+a day.
+7. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+8. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) as needed for lung effusion for 4 days.
+Disp:*4 Tablet(s)* Refills:*0*
+9. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO QD (once a day).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+10. Lopressor 100 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+11. Miconazole Nitrate     Powder Sig: One (1) Appl Miscell.
+[**Hospital1 **] (2 times a day) as needed.
+12. Docusate Sodium 100 mg Capsule Sig: Two (2) Capsule PO BID
+(2 times a day) as needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 466**] - [**Location (un) 467**]
+
+Discharge Diagnosis:
+Medistinal Mass; Thymic CA vs. metastasis
+Lung nodules
+Pericardial Effusion
+CAD
+HTN
+CHF
+Hyperlipidemia
+
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+Please return if you have any chest pain, shortness of breath,
+loss of conciousness.  Please follow up as an outpatient at
+[**Hospital 468**] clinic.
+
+Followup Instructions:
+[**Hospital **] clinic appointments:
+Dr. [**Last Name (STitle) 469**] at 1030
+Dr. [**Last Name (STitle) 456**] at 1100
+Dr. [**Last Name (STitle) 457**] at 1530
+
+Follow up at vascular clinic w/ Dr. [**Last Name (STitle) 222**]; call the office for
+an appointment.
+
+
+
+
+
+
+DOC CLASS

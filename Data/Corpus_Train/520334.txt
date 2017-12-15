@@ -1,0 +1,195 @@
+Chief Complaint: vomiting, diarrhea
+   24 Hour Events:
+   500 cc NS given over 2 hrs - UOP 30 cc/hr
+   Pulled out L IJ c/b significant bleeding at site (INR
+   supratherapeutic). FFP and vit K given for reversal of coagulopathy.
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Pronestyl (Oral) (Procainamide Hcl)
+   Unknown;
+   Quinidine
+   Unknown;
+   Clonidine
+   Unknown;
+   A.C.E Inhibitors
+   Unknown; Cough;
+   Spironolactone
+   mental status c
+   Flagyl (Oral) (Metronidazole)
+   Nausea/Vomiting
+   Levaquin (Oral) (Levofloxacin)
+   increased bleed
+   Compazine (Injection) (Prochlorperazine Edisylate)
+   Unknown;
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Vancomycin - [**2857-7-26**] 12:40 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2857-7-26**] 06:56 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.5
+C (95.9
+   HR: 70 (70 - 75) bpm
+   BP: 126/23(51) {119/23(51) - 143/105(111)} mmHg
+   RR: 28 (17 - 28) insp/min
+   SpO2: 93%
+   Heart rhythm: V Paced
+    CVP: 6 (6 - 7)mmHg
+   Total In:
+                                                                    514 mL
+   PO:
+   TF:
+   IVF:
+                                                                    514 mL
+   Blood products:
+   Total out:
+                                                                    150 mL
+                                                                     90 mL
+   Urine:
+                                                                    150 mL
+                                                                     90 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -150 mL
+                                                                    424 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ////
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   106 mg/dL
+   5.2 mEq/L
+   109 mEq/L
+   143 mEq/L
+        [image002.jpg]
+                             [**2857-7-26**]  12:24 AM
+   Glucose
+   106
+   Other labs: Lactic Acid:2.9 mmol/L
+   Microbiology: [**7-25**] Blood, urine Cx pending
+   [**7-25**] Legionella AG pending
+   Assessment and Plan
+   86 y/o F h/o CAD, CHF, DM, AFib hypertherapeutic on coumadin, and
+   chronic c. diff colitis on recently elevated dose of PO vanco a/w
+   vomiting and diarrhea with evidence of colitis, and acute on chronic
+   renal failure in the setting of escalating diuresis.
+   .
+   #Acute on chronic renal failure - suspect multifactorial pre-renal
+   physiology (poor forward flow from decompensated CHF, uptitrated
+   diuretics, vomiting, diarrhea, poor PO intake); unlikely UTI/pyelo as
+   U/A more c/w contamination from foley; bland sediment; likely still
+   intravascularly volume depleted as low-normal CVP, poor UOP, only
+   received 1 L NS so far; dehydration and ARF likely account for
+   hyperlactatemia
+   -favor giving additional fluid challenge (500 cc bolus) with careful
+   consideration to LVEF
+   -holding K, [**Last Name (un) 223**], diuretics
+   -urine lytes for frac excr. UN
+   -refrain from treating urine until culture data available
+   .
+   #Acute on chronic systolic heart failure - suspect some precipitant
+   such as silent ischemia, dietary indiscretion, med changes, excessive
+   thyroid replacement, in recent past which tipped patient into volume
+   overload, putting her further out on the starling curve, thereby
+   worsening renal function and fluid and electrolyte balance
+   -favor giving fluid challenge as above over gentle diuresis as entirely
+   preload dependent [**2-10**] severe valvular disease
+   -cycle CE's to r/o MI
+   -CPAP, carvedilol for afterload reduction; may uptitrate B-blocker as
+   BP tolerates
+   -cont. digoxin
+   -repeat TTE
+   .
+   #Bilat pleural effusion/RLL opacity - likely transudative effusions in
+   the setting of decompensated CHF, cannot exclude underlying PNA but low
+   suspicion since no fever or leukocytosis; stable resp. status on
+   minimal O2 requirement
+   -no indictation for ABX for now (esp. in light of h/o c. diff)
+   -blood Cx pending
+   .
+   #N/V/D - suspect viral etiology as has not had vomiting with prior
+   episodes of c. diff; no c/o pain, benign abdominal exam, and
+   supratherapeutic INR makes ischemia/thrombosis less likely; lactate
+   trending down
+   -check LFT's, repeat c. diff toxin, stool Cx
+   -cont. PO vanco, flagyl not indicated
+   -repeat c. diff toxin
+   -consider contrast CT if renal function improves
+   .
+   #Anemia - Hct 32, b/l ~38; no s/sx bleeding but GI tract most likely
+   source; has polyps on prior colonoscopies; on Fe replacement for
+   chronic anemia, likely element of ACD as well
+   -guaiac stools
+   -hold off on FeSO4 as may darken stool and be constipating
+   -follow Hct, x-fuse for <24%
+   .
+   #AFib - V-paced
+   -holding coumadin with supratherapeutic INR
+   .
+   #DM -
+   -[**1-10**] basal insulin + RISS while NPO, f/b full dose NPH when eating
+   .
+   #CAD - no ischemic changes on EKG, will ROMI
+   -cont. ASA, B-blocker
+   -cycle CE's
+   -repeat TTE
+   .
+   #HTN -
+   -Cont. carvedilol for HTN, afterload reduction
+   -holding diuretics, [**Last Name (un) 223**] in ARF
+   .
+   #Hypothyroidism
+   -Cont. thyroxine
+   -TSH, free T4 pending
+   .
+   #F/E/N
+   -500 cc bolus, follow CVP ([**8-19**]) & UOP (>30 cc/hr)
+   -monitor lytes [**Hospital1 **] while in ARF or being diuresed, replete cautiously
+   -NPO o/n f/b starting diet; consider S&S c/s
+   .
+   #PPx - PPI, supratherapeutic INR, no need for bowel regimen
+   .
+   #Access - L IJ, PIV
+   .
+   #Contact - Daughter [**First Name8 (NamePattern2) 1645**] [**Known patient lastname 3558**] [**Telephone/Fax (1) 3559**]
+   .
+   #CODE STATUS - FULL
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**2857-7-26**] 04:19 AM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

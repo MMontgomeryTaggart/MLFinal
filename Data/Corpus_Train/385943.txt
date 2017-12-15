@@ -1,0 +1,117 @@
+Chief Complaint:
+   24 Hour Events:
+ FEVER - 102.0
+F - [**3135-5-31**] 10:00 AM
+   Continued CMO
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Anaphylaxis;
+   Last dose of Antibiotics:
+   Ambisome - [**3135-5-29**] 10:20 PM
+   Metronidazole - [**3135-5-30**] 06:30 AM
+   Vancomycin - [**3135-5-30**] 09:00 AM
+   Ceftazidime - [**3135-5-30**] 10:00 AM
+   Infusions:
+   Morphine Sulfate - 10 mg/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3135-6-1**] 07:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.9
+C (102
+   Tcurrent: 38.3
+C (101
+   HR: 112 (101 - 138) bpm
+   BP: 88/40(50) {88/40(50) - 92/54(62)} mmHg
+   RR: 16 (12 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                    336 mL
+                                                                    128 mL
+   PO:
+             TF:
+   IVF:
+                                                                    336 mL
+                                                                    128 mL
+   Blood products:
+   Total out:
+                                                                    400 mL
+                                                                      0 mL
+   Urine:
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -64 mL
+                                                                    128 mL
+   Respiratory support
+   SpO2: 93%
+   ABG: ////
+   Labs / Radiology
+   196 K/uL
+   8.6 g/dL
+   114 mg/dL
+   1.6 mg/dL
+   18 mEq/L
+   4.0 mEq/L
+   19 mg/dL
+   109 mEq/L
+   140 mEq/L
+   25.9 %
+   11.1 K/uL
+        [image002.jpg]
+                             [**3135-5-28**]  04:59 PM
+                             [**3135-5-29**]  01:06 AM
+                             [**3135-5-29**]  05:09 AM
+                             [**3135-5-30**]  02:14 AM
+   WBC
+   11.8
+   14.8
+   11.1
+   Hct
+   27.4
+   27.6
+   25.9
+   Plt
+   370
+   283
+   196
+   Cr
+   1.2
+   1.2
+   1.4
+   1.6
+   Glucose
+   106
+   159
+   163
+   114
+   Other labs: PT / PTT / INR:16.2/45.2/1.4, Differential-Neuts:83.9 %,
+   Band:0.0 %, Lymph:6.7 %, Mono:4.2 %, Eos:4.8 %, Ca++:8.6 mg/dL,
+   Mg++:1.8 mg/dL, PO4:4.1 mg/dL
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3135-5-28**] 03:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Comfort measures only
+   Disposition:
+
+
+
+DOC CLASS

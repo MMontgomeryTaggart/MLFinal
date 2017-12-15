@@ -1,0 +1,180 @@
+CVICU
+   HPI:
+   HD5
+   [**5-15**] POD4
+   70F s/p Thoracoabd AA repair [**5-11**].Ligation LfT RA. stent Rt RA
+   EF:50% Cr:1.5 Wt:59.8K HgA1c:
+   PMH:CAD(s/p PCI),Hypothyroid
+   [**Last Name (un) **]:lopressor 50mg [**Hospital1 7**],Levothyroxine50mcg/D,Mirtazpine
+   15mg/D,Zolpidem5mg HSprn,Vits,nitrofurantoin 50mg/D
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Aspirin 3. Calcium Gluconate 4. HYDROmorphone (Dilaudid) 5. Heparin 6.
+   HydrALAzine 7. HydrALAzine
+   8. Insulin 9. Levothyroxine Sodium 10. Magnesium Sulfate 11. Metoprolol
+   Tartrate 12. Mirtazapine
+   13. Pantoprazole 14. Pneumococcal Vac Polyvalent 15. Potassium Chloride
+   16. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**3199-5-14**] 12:29 PM
+ EXTUBATION - At [**3199-5-14**] 12:33 PM
+   good cuff leak heard prior to extubation.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ampicillin/Sulbactam (Unasyn) - [**3199-5-14**] 08:13 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3199-5-15**] 09:31 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**01**] a.m.
+   Tmax: 36.7
+C (98
+   T current: 36.4
+C (97.6
+   HR: 94 (78 - 104) bpm
+   BP: 138/52(82) {108/50(74) - 167/69(102)} mmHg
+   RR: 20 (12 - 22) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80 kg (admission): 60 kg
+   Height: 66 Inch
+   CVP: 4 (2 - 8) mmHg
+   PAP: (39 mmHg) / (15 mmHg)
+   CO/CI (Fick): (4.3 L/min) / (2.6 L/min/m2)
+   CO/CI (CCO): (5.1 L/min) / (3 L/min/m2)
+   SvO2: 63%
+   Total In:
+                                                                    531 mL
+                                                                    118 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                    471 mL
+                                                                    118 mL
+   Blood products:
+   Total out:
+                                                                  2,665 mL
+                                                                  2,113 mL
+   Urine:
+                                                                  2,285 mL
+                                                                  1,743 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,134 mL
+                                                                 -1,995 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.39/45/86/24/1
+   PaO2 / FiO2: 172
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: left flank incision with staples serous drainage no erythema
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Neurologic: No(t) Moves all extremities, (RUE: Weakness), (LUE:
+   Weakness), (RLE: Weakness), (LLE: Weakness), right arm not lifting or
+   holding able to lift left arm and hold
+   Labs / Radiology
+   152 K/uL
+   11.3 g/dL
+   85 mg/dL
+   1.8 mg/dL
+   24 mEq/L
+   4.5 mEq/L
+   29 mg/dL
+   102 mEq/L
+   137 mEq/L
+   34.0 %
+   14.8 K/uL
+        [image002.jpg]
+                             [**3199-5-13**]  06:00 PM
+                             [**3199-5-14**]  01:00 AM
+                             [**3199-5-14**]  02:31 AM
+                             [**3199-5-14**]  02:44 AM
+                             [**3199-5-14**]  09:00 AM
+                             [**3199-5-14**]  09:12 AM
+                             [**3199-5-14**]  02:12 PM
+                             [**3199-5-14**]  06:00 PM
+                             [**3199-5-15**]  02:45 AM
+                             [**3199-5-15**]  02:56 AM
+   WBC
+   15.5
+   14.8
+   Hct
+   34.4
+   34.0
+   Plt
+   134
+   152
+   Creatinine
+   2.0
+   1.8
+   TCO2
+   31
+   27
+   23
+   28
+   Glucose
+   132
+   136
+   114
+   100
+   96
+   108
+   85
+   85
+   Other labs: PT / PTT / INR:14.0/28.0/1.2, CK / CK-MB / Troponin
+   T:714//, ALT / AST:31/58, Alk-Phos / T bili:104/0.4, Amylase /
+   Lipase:38/16, Lactic Acid:1.2 mmol/L, Albumin:2.4 g/dL, LDH:249 IU/L,
+   Ca:7.6 mg/dL, Mg:2.4 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   IMPAIRED PHYSICAL MOBILITY, AORTIC ANEURYSM, ABDOMINAL WITHOUT RUPTURE
+   (AAA), AORTIC ANEURYSM, THORACIC (TAA)
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3199-5-11**] 04:23 PM
+   Multi Lumen - [**3199-5-15**] 01:45 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

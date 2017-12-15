@@ -1,0 +1,119 @@
+24 Hour Events:
+ DIALYSIS CATHETER - START [**3478-5-24**] 08:00 PM
+   - Patient received vanc/zosyn overnight
+   - Received non-contrast CT abd/pelvis showing no obvious fluid
+   collections, unchanged cholelithiasis from previous
+   - Afebrile overnight
+   Allergies:
+   Dyazide (Oral) (Triamterene/Hydrochlorothiazid)
+   Unknown;
+   Prozac (Oral) (Fluoxetine Hcl)
+   Unknown;
+   Nsaids
+   Unknown;
+   Inderal (Oral) (Propranolol Hcl)
+   Unknown;
+   Cefazolin
+   laryngeal ed
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,300 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3478-5-25**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.1
+C (96.9
+   HR: 54 (54 - 68) bpm
+   BP: 170/50(80) {122/40(62) - 170/74(84)} mmHg
+   RR: 26 (15 - 28) insp/min
+   SpO2: 93%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 64 Inch
+             Total In:
+                                                                     52 mL
+                                                                    210 mL
+   PO:
+             TF:
+   IVF:
+                                                                     52 mL
+                                                                    210 mL
+   Blood products:
+   Total out:
+                                                                     70 mL
+                                                                    330 mL
+   Urine:
+                                                                     70 mL
+                                                                     30 mL
+   NG:
+   300 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                    -18 mL
+                                                                   -120 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 93%
+   ABG: ///24/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   216 K/uL
+   11.0 g/dL
+   125 mg/dL
+   4.5 mg/dL
+   24 mEq/L
+   5.3 mEq/L
+   17 mg/dL
+   99 mEq/L
+   139 mEq/L
+   35.1 %
+   15.0 K/uL
+        [image002.jpg]
+                             [**3478-5-25**]  02:30 AM
+   WBC
+   15.0
+   Hct
+   35.1
+   Plt
+   216
+   Cr
+   4.5
+   Glucose
+   125
+   Other labs: PT / PTT / INR:18.8/150.0/1.7, Ca++:8.8 mg/dL, Mg++:1.6
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**3478-5-24**] 08:00 PM
+   18 Gauge - [**3478-5-24**] 09:54 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

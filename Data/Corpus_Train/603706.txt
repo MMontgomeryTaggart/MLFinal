@@ -1,0 +1,240 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   > lasix trial: with improvement in UOP
+   > Decreased PEEP from 15->13->11 with good effect
+   > Increased Free H2O
+   Allergies:
+   Haldol (Oral) (Haloperidol)
+   Confusion/Delir
+   Ativan (Oral) (Lorazepam)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Metronidazole - [**3209-5-24**] 08:00 AM
+   Erythromycin - [**3209-5-25**] 04:00 AM
+   Vancomycin - [**3209-5-25**] 09:00 PM
+   Meropenem - [**3209-5-26**] 08:00 PM
+   Infusions:
+   Insulin - Regular - 4 units/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3209-5-26**] 08:00 AM
+   Furosemide (Lasix) - [**3209-5-26**] 01:15 PM
+   Heparin Sodium (Prophylaxis) - [**3209-5-26**] 04:00 PM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3209-5-27**] 07:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 37.2
+C (98.9
+   HR: 97 (82 - 102) bpm
+   BP: 132/68(94) {109/54(76) - 149/78(108)} mmHg
+   RR: 16 (13 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 110.1 kg (admission): 103.7 kg
+   Height: 69 Inch
+   CVP: 11 (11 - 19)mmHg
+   Total In:
+                                                                  2,418 mL
+                                                                    558 mL
+   PO:
+   TF:
+                                                                    728 mL
+                                                                    234 mL
+   IVF:
+                                                                    700 mL
+                                                                    104 mL
+   Blood products:
+                                                                    100 mL
+   Total out:
+                                                                  1,949 mL
+                                                                    480 mL
+   Urine:
+                                                                  1,949 mL
+                                                                    480 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    469 mL
+                                                                     78 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 671 (616 - 868) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 20
+   PEEP: 11 cmH2O
+   FiO2: 40%
+   RSBI Deferred: PEEP > 10
+   PIP: 22 cmH2O
+   SpO2: 97%
+   ABG: 7.45/31/138/20/0
+   Ve: 12.5 L/min
+   PaO2 / FiO2: 345
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL, Sclera edema, icteric
+   Head, Ears, Nose, Throat: [**Last Name (LF) 2303**], [**First Name3 (LF) 977**], Trach
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished)
+   Respiratory / Chest: (Breath Sounds: Crackles : , Diminished: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 3+, Left: 3+
+   Skin:  Warm, Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: verbal
+   stimuli, No(t) Oriented (to): , Movement: Not assessed, No(t) Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   8.3 g/dL
+   78 K/uL
+   115 mg/dL
+   1.5 mg/dL
+   20 mEq/L
+   4.0 mEq/L
+   90 mg/dL
+   117 mEq/L
+   148 mEq/L
+   25.7 %
+   23.2 K/uL
+        [image002.jpg]
+                             [**3209-5-25**]  09:58 PM
+                             [**3209-5-26**]  05:08 AM
+                             [**3209-5-26**]  05:16 AM
+                             [**3209-5-26**]  12:07 PM
+                             [**3209-5-26**]  03:18 PM
+                             [**3209-5-26**]  03:43 PM
+                             [**3209-5-26**]  04:52 PM
+                             [**3209-5-27**]  12:12 AM
+                             [**3209-5-27**]  12:23 AM
+                             [**3209-5-27**]  07:28 AM
+   WBC
+   16.9
+   23.2
+   Hct
+   25.8
+   25.7
+   Plt
+   84
+   78
+   Cr
+   1.7
+   1.6
+   1.5
+   TCO2
+   20
+   22
+   20
+   24
+   22
+   Glucose
+   [**Telephone/Fax (3) 9133**]05
+   115
+   Other labs: PT / PTT / INR:20.2/43.6/1.9, CK / CKMB /
+   Troponin-T:177/5/, ALT / AST:32/58, Alk Phos / T Bili:146/5.2,
+   Differential-Neuts:80.0 %, Band:4.0 %, Lymph:6.0 %, Mono:1.0 %, Eos:0.0
+   %, Fibrinogen:219 mg/dL, Lactic Acid:1.9 mmol/L, Albumin:3.6 g/dL,
+   LDH:217 IU/L, Ca++:9.6 mg/dL, Mg++:2.7 mg/dL, PO4:3.4 mg/dL
+   CXR [**5-27**]: slowl trend in improvement in multifocal opacities. Lines and
+   tubes OK.
+   Assessment and Plan
+   58 y/o M with history of ETOH cirrhosis c/b encephalopathy, ascites and
+   portal gastropathy with recent UGIB.  Found today to be apneic with
+   respiratory arrest and likely aspiration s/p intubation and transferred
+   to the MICU with multi organ failure, now slowly improving, concern
+   today for increasing WBC.
+   >Aspiration and Hypox Respiratory failure:  new b/l infiltrates and
+   temporal history consistent with aspiration event  rowing out
+   enterobacter cloacaein the sputum with CT [**5-19**] showing significant
+   multifocal PNA with no evidence of cavitation which has improved over
+   the last few days; now complicated by volume overload and renal
+   failure.  High  PEEP requirements overnight [**1-19**] ascites, volume and
+   multifocal PNA, he has been gradually improving,
+   - Vanco and meropenem, Vanco by level  for empiric coverage and
+   Meropenem for MDR enterobacter ([**Last Name (un) **] [**Last Name (un) 938**])  (D1 = [**5-19**] for Meropenem)
+   (D1= [**5-11**] for Vancomycin now completed 14 day
+   course)
+   - Cont PS and slow wean of PEEP. (D9 of intubation) , Will have to
+   think about  tracheostomy if we have limited progress.
+   > Leukocytosis:  Seems that he likely has a worsening multifocal PNA,
+   no evidence of new peritonitis or bowel (no evidence of pfocal
+   obstruction.  Will need to reculture for rising WBC, may not have fever
+   given liver dysfunction.
+   - remove the IJ on the left
+   - cultures from all in dwelling lines, check urine, sputum and c. dif
+   - d/w liver re: repeat paracentesis
+   - Continue coverage multifocal PNA as above, stop flagyl [**5-24**])
+   - recheck cultures (blood, urine, c. dif), if spikes would favor
+    > Illeus: on CT, now off Fentanyl. Reglan trial [**Date range (1) 9124**] with
+   improvement, added erythromycin [**Date range (1) 9117**] and s/p 4L paracentesis , now
+   slowly improving (tolerating PO and had BM) seems to be doing well.
+   - cont care as above
+   - Cont lactulose
+   > Hypotension: ? early sepsis from aspiration event on the back drop of
+   liver failure and illeus.  No evidence of bleed. Previously requiring
+   two pressors, able to be weaned off (and also got started on
+   hydrocortisone which seemed to facilitate the weaning of pressors.
+   - Cont  hydrocortisone (D1=[**5-21**]) for 5 day course last day [**5-26**].
+   - trend Hct (slowly drifting down).
+   > Renal failure: Cr trending up from baseline 1.3 with little urine
+   output, based on exam of  urine appears more consistent with ATN.
+   hypotension. No evidence of hydro on renal US.  [**5-23**] Cr worse with
+   concern that we may precipitate HRS by doing the para (despite giving
+   albumin), with improvement  with albumin challenge. Will cont  gentle
+   diuresis today with lasix and albumin.
+   - follow urine bladder pressures (have been in [**6-28**] range)
+   - Cont Gentle diuresis with albumin today, goal 500 cc negative.
+   - follow electrolytes
+     > Anemia: worsening Hct but no evidence of active bleeding at this
+   point, could be dilutional from renal failure.
+   - cont to trend Hct.
+   > Liver failure with Esoph Varices: recent GI bleed no evidence of
+   underlying encephalopathy as a an etiology
+   - back on  lactulose/rifax [**5-24**]
+   - supportive therapy for coagulopathy
+   > Encephalopathy: multi factorial including hepatic enceph with no
+   ability to deliver lactulose, renal failure, toxic-metabolic, sepsis.
+   Cont to follow serial exams.  Will likely take significant time for him
+   to improve.
+   > Thrombocytopenia: restart heparin, more likely to be Vanco (which is
+   stopping today). We will cont to follow.
+    Additional issues per ICU resident note
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3209-5-26**] 10:39 PM 30 mL/hour, up titrate
+   free H2O (given hypernatremia and diuresis)
+   Glycemic Control:  Insulin infusion given poor absorbtion
+   Lines:
+   PICC Line - [**3209-5-17**] 07:48 PM
+   Multi Lumen - [**3209-5-18**] 03:35 PM
+   Arterial Line - [**3209-5-21**] 08:45 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition :ICU
+   Total time spent: 43 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

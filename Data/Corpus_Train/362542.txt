@@ -1,0 +1,194 @@
+TITLE:
+   History of Present Illness
+   -          Brief vagal episode with sheath removal
+   -          post-cath hydration
+   -          post-cath check unremarkable
+   -          low urine output (10cc/hour post hydration)
+   -          Tylenol for arthritis pain
+   Medications
+   Unchanged
+   Physical Exam
+   BP 111/40, HR 58, RR 18, O2 Sat 97% on 2L NC
+   Tmax C last 24 hours: 36.4 C
+   Tmax F last 24 hours: 97.6 F
+   T current C: 35.6 C
+   T current F: 96.1 F
+   Previous day:
+   Intake: 305 mL
+   Output: 415 mL
+   Fluid balance: -110 mL
+   Today:
+   Intake: 393 mL
+   Output: 80 mL
+   Fluid balance: 313 mL
+   GEN: Pleasant elderly woman in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. OP dry. No xanthalesma.
+   Neck: Supple with JVP of 7 cm.
+   CV: Midline sternotomy scar, PMI located in 5th intercostal space,
+   midclavicular line. RR, normal S1, S2. III/VI SEM at USB. No thrills,
+   lifts. No S3 or S4.
+   PULM: Resp were unlabored, no accessory muscle use. Bibasilar crackles,
+   1/3 up lung fields, no wheezes
+   ABD: BS+. Soft, NTND. No HSM or tenderness.
+   Ext: 1+ non pitting edema on R, trace edema on L. No stasis dermatitis,
+   ulcers, scars, or xanthomas. Sheath present in L groin, no bruits or
+   hematoma.
+   Labs
+   162
+   9.9
+   90
+   2.4
+   29
+   4.2
+   73
+   91
+   132
+   28.5
+   8.3
+        [image002.jpg]
+                            [**3288-2-24**]  08:53 PM
+                            [**3288-2-24**]  08:57 PM
+   WBC
+   8.3
+   Hgb
+   9.9
+   Hct (Serum)
+   28.5
+   Plt
+   162
+   INR
+   1.3
+   PTT
+   28.1
+   Na+
+   130
+   K + (Serum)
+   4.1
+   Cl
+   92
+   HCO3
+   27
+   BUN
+   69
+   Creatinine
+   2.0
+   Glucose
+   137
+   CK
+   43
+   32
+   Troponin T
+   0.77
+   .89
+   ABG: /  /  / 27 /    Values as of [**3288-2-24**] 08:53 PM
+   Assessment and Plan
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE
+ MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ CHRONIC PAIN
+   ASSESSMENT AND PLAN: [**Age over 90 **] year old female with history of CAD s/p CABG,
+   HTN, DM2 who presents on transfer from OSH with NSTEMI. On the floor
+   she developed new EKG changes and was sent urgently to cath for high
+   risk intervention.  She is admitted to the CCU for close monitoring.
+   .
+   #. CAD - patient has an extensive CAD history with 3 vessel disease and
+   previous CABG. Patient's troponin elevated at OSH but no acute ECG
+   changes there. Went urgently to cath lab yesterday after episode of CP
+   with EKG changes and found to have LM disease and occluded SVGs.  She
+   was taken back to the cath lab for intervention and intra-aortic
+   balloon pump was placed for LM protection.  Balloon was then removed
+   and patient remained hemodynamically stable.  Underwent PCI to LM-LAD
+   and LCx.  Currently CP free.  CK and MB flat here with trop rising
+   0.36->0.43
+   - heparin and eptifibatide gtt d/c'd
+   - trend troponin until peaks, continue to trend
+   - continue ASA, zocor, lopressor, imdur, plavix
+   #. Pump - most recent echo from [**10/3287**] demonstrates EF 40%, 2+MR [**First Name (Titles) **]
+[**Last Name (Titles) **]mid to distal inferior, inferoseptal and apical hypokinesis.  Has
+   severe diastolic dysfunction on cath today.  JVP not elevated
+   currently, however BNP [**Numeric Identifier 7566**] and has oxygen requirement with bibasilar
+   crackles.
+   - cont. to monitor fluid status carefully, particularly given post-cath
+   hydration.
+   - JVP flat on exam
+   - daily weights
+   - Cont. afterload reduction with hydralazine
+   .
+   #. Rhythm - Currently in NSR
+   - monitor on telemetry
+   .
+   #. Possible pneumonia: Patient with possible RLL infiltrate at OSH,
+   given 3 days of levaquin for CAP. Patient had low grade fever on
+   admission here, cont. to have a cough.  CXR here shows b/l pleural
+   effusions and no clear infiltrate.
+   - follow fever curve
+   - continue IV levaquin, currently day [**6-3**]
+   - guaifenesin for cough. Given post-cath will also add tessalon perles
+   prn to prevent cough
+   .
+   #. HTN:  Currently well-controlled.
+   - continue lopressor, imdur, hydral, amlodipine with hold parameters
+   .
+   #. DM: diet controlled at home
+   - monitor FS QID
+   - insulin sliding scale
+   .
+   #. Chronic renal insufficiency:  baseline Cr 1.8-2.0. Cr up slightly
+   this am, however received high dose dye load x2 so at high risk of
+   contrast nephropathy.  Low UOP
+   - receiving mucomyst, had post cath hydration
+   - renally dose meds
+   - follow Cr
+   - gentle rehydration, given exam/oxygenation not c/w with severe
+   overload.  Low UOP.
+   .
+   #. Anemia of chronic disease - baseline Hct reported to be 30
+   - continue iron supplementation
+   - guiac stools
+   - Cont. to follow closely given cath and recent anti-platelet agents
+   .
+   #. Hyponatremia: Noted to be chronic issue for the patient. Na 129 on
+   transfer here, currently Na 132.  Likely related to CHF if chronic and
+   improved with diuresis,
+   - Cont. to follow
+   .
+   #. Hypothyroidism
+   - continue home levothyroxine
+   .
+   #. Gout
+   - continue allopurinol
+   .
+   #. FEN: Follow and replete electrolytes. Cardiac/diabetic diet.
+   .
+   #. Access: PIV
+   .
+   #. PPx:  Bowel regimen, Calcium, Hep SC
+   .
+   #. Code: DNR/DNI reversed for procedure, patient expressed wish to be
+   DNR/DNI
+   .
+   #. Dispo: ICU care for now, call out to floor if UOP improves out of
+   trigger range
+   .
+   #  Comm: Sister [**Name (NI) 3025**] ([**Name2 (NI) 4325**]) HCP, [**Telephone/Fax (1) 7567**] (c) or [**Telephone/Fax (1) 7568**]
+   (h)
+   .
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 1936**].
+   I would add the following remarks:
+   Medical Decision Making
+   Will continue to follow urine output.  Gentle fluid resuscitation and
+   consider diuresis if does not work.  Secondary prevention CAD.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) **], MD
+   on:[**3288-2-25**] 10:54 ------
+
+
+
+DOC CLASS

@@ -1,0 +1,471 @@
+Admission Date:  [**3097-4-9**]              Discharge Date:   [**3097-5-4**]
+
+Date of Birth:  [**3021-11-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Serax
+
+Attending:[**First Name3 (LF) 776**]
+Chief Complaint:
+SOB, Hypoxia
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+75 F c CAD s/p CABG, PVD, ESRD on HD, sarcoid (seen by Dr.
+[**Last Name (STitle) 214**].  Recently hospitalized ([**12-20**]) for ischemic L
+thumb and L subclavian vein stenosis with course complicated by
+fluid overload (tx c HD), hemodynamically unstable afib c RVR
+requiring 2 DCCV + started on amiodarone.  Also complicated by
+b/l pleural effusions, underwent thoracentesis showing
+transudate.  Had angioplasty of L subclavian vein stenosis.
+Also of note, had recent evaluation for temporal arteritis c
+negative biopsy; treated empirically with a course of prednisone
+([**2-17**]).
+.
+Pt. reports 2 weeks of worsening SOB and orthopnea.  Awoke
+significantly SOB this morning.  Noted to be hypoxic at HD to
+80s and SOB c fever and cough at dialysis.  Also complained of
+pain, redness, swelling over R foot.  At HD, concern expressed
+for nonhealing L shin ulcer, possible RLE cellulitis.  Sent to
+[**Hospital1 18**].  Received 1 dose of 750 mg levofloxacin prior to
+transfer.
+.
+In ED, VS - 100.4, 108, 27, 93% 4L NC. BNP 30 K.  Recevied
+vancomycin, levofloxacin in ED.  CXR concerning for new RLL PNA.
+Admitted to MICU.  In MICU, c/o mild orthopnea, mild pleuritic
+pain midline with exhalation, fatigue.
+
+
+Past Medical History:
+- CAD s/p CABG ([**9-18**])
+- DM II: since age 47 with triopathy
+- Hypercholesterolemia
+- HTN
+- Sarcoidosis with pulmonary involvement: Followed by Dr.
+[**Last Name (STitle) 214**]
+- COPD (FEV1 93% in [**3092**]; previously on home O2 but not now)
+- hypothyroidism
+- Renal artery stenosis s/p bilateral stents ([**3093**])
+- ESRD on HD (qMWF; due to renal artery stenosis)
+- CHF (EF>55%)
+- atrial fibrillation, paroxysmal
+- PVD s/p left fem-[**Doctor Last Name **] [**3087**], s/p right fem-[**Doctor Last Name **] [**3090**], s/p
+angioplasty and stent [**4-17**]
+- breast cancer s/p left mastectomy [**3073**]
+- h/o mesenteric ischemia s/p SMA bypass [**8-15**]
+- gastritis
+- s/p cholecystectomy [**3094**]
+- chronic anemia (baseline Hct 28-30)
+- [**1-19**]: LT SC angioplasty for necrotic L thumb
+- Carpal tunnel syndrome bilaterally, with positive
+electromyogram
+- Acute tubular necrosis secondary to dye nephropathy
+
+Social History:
+General: Retired postal worker.  Lives with husband.  Previously
+independent in her ADLs.  Has 3 adult children and
+grandchildren.
+Tobacco: 25-50 pack year smoking history, quit [**3071**]
+EtOH: Denies
+Recreational drugs: Denies
+
+Family History:
+One sister had lung cancer, one brother had lung cancer and
+leukemia, five of the patient's six siblings have diabetes.
+Father died of myocardial infarction at age 66.  There is a
+strong family history of hypertension.
+
+Physical Exam:
+VS- 98.7, 86/48, 106-111 (afib), 25-28, 100% Ventimask 10 lpm
+HEENT- JVP flat at 20 degrees, dry MM, + skin tenting over
+forehead
+LUNGS- Crackles R>L base, decreased fremitus R base, dullness to
+percussion over R/L bases.  Fine wheeze on inspiration.
+HEART- Irregularly irregular, tachycardic, no murmurs
+ABDOM- soft, ND, NT, BS+
+EXTRE- wwp, no edema, erythema over R/L shin + ulcer
+NEURO- A*O*3, moving ext.
+
+Pertinent Results:
+LABS:
+[**3097-4-9**] 01:40PM BLOOD WBC-13.3* RBC-3.64* Hgb-11.3* Hct-34.9*
+MCV-96 MCH-31.1 MCHC-32.4 RDW-19.8* Plt Ct-333
+[**3097-4-9**] 01:40PM BLOOD Neuts-84.6* Lymphs-7.9* Monos-6.4 Eos-0.8
+Baso-0.3
+[**3097-4-9**] 01:40PM BLOOD Hypochr-2+ Anisocy-2+ Poiklo-1+
+Macrocy-2+
+[**3097-4-9**] 01:40PM BLOOD PT-20.1* PTT-33.5 INR(PT)-1.9*
+[**3097-4-9**] 01:40PM BLOOD Plt Ct-333
+[**3097-4-9**] 01:40PM BLOOD Glucose-300* UreaN-22* Creat-2.3* Na-136
+K-4.2 Cl-95* HCO3-31 AnGap-14
+[**3097-4-9**] 01:40PM proBNP-[**Numeric Identifier 22866**]*
+[**3097-4-9**] 01:49PM LACTATE-2.6*
+[**3097-4-9**] 08:52PM PT-22.7* PTT-35.2* INR(PT)-2.2*
+[**3097-4-9**] 08:52PM WBC-9.9 RBC-3.07* HGB-9.8* HCT-29.4* MCV-96
+MCH-31.9 MCHC-33.3 RDW-20.1*
+[**3097-4-9**] 08:52PM ALBUMIN-2.2* CALCIUM-7.2* PHOSPHATE-2.9
+MAGNESIUM-1.7
+[**3097-4-9**] 08:52PM ALT(SGPT)-11 AST(SGOT)-12 ALK PHOS-82 TOT
+BILI-0.3
+[**3097-4-9**] 08:52PM GLUCOSE-308* UREA N-26* CREAT-2.6* SODIUM-137
+POTASSIUM-4.2 CHLORIDE-100 TOTAL CO2-29 ANION GAP-12
+.
+CXR ([**3097-4-9**]): Comparison is made to prior chest radiograph
+dated [**3097-1-21**] and prior CT dated [**3097-1-19**].
+Increased interstitial edema with more focal opacity within the
+right lower lung, likely representing alveolar edema with
+underlying consolidation less likely.  Recommend repeat
+radiographs to assess for resolution. Stable appearance to small
+pleural effusions, left greater than right.
+.
+CXR ([**3097-4-29**]):
+1. Diffuse interstitial edema.
+2. Developing confluent asymmetric airspace opacity in right
+lower lobe. Although possibly asymmetric edema, aspiration or
+infectious pneumonia should be considered.
+3. Bilateral pleural effusions, left greater than right.
+.
+EKG ([**3097-4-9**]): Atrial fibrillation with a rapid ventricular
+response. Compared to the previous tracing of [**3097-1-24**] there is
+atrial fibrillation with a rapid ventricular response. The T
+waves appear less biphasic in leads V2-V3, which may reflect the
+change in rate.
+.
+PFTs ([**3097-2-25**]): The FVC is mildly reduced. The FEV1 is within
+normal limits.  The FEV1/FVC ratio is elevated. Flow-Volume
+Loop: Abrupt termination of exhalation with reduced volume
+excursion. Volumes: The TLC is mildly reduced. The FRC, RV and
+RV/TLC ratio are within normal limits. Results suggest a mild
+restrictive ventilatory defect. However, FVC may be
+underestimated due to suboptimal test performance, and lung
+volumes are irreproducible. Since [**3093-2-23**], FVC has been reduced
+by 1.06 L (35%). Since [**3090-12-24**], there is no significant change
+in TLC or Dsb.
+.
+Echo ([**3097-1-15**]): Left atrium is normal in size. No atrial septal
+defect is seen. Left ventricular wall thickness, cavity size,
+and systolic
+function are normal (LVEF 70%). No ventricular septal defect.
+The
+right ventricular cavity is dilated. Right ventricular systolic
+function is borderline normal. The aortic valve leaflets (3) are
+mildly thickened but aortic stenosis is not present. Mild to
+moderate ([**12-15**]+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. There is a minimally increased gradient consistent
+with trivial mitral stenosis. Moderate (2+) mitral regurgitation
+is seen. [Due to acoustic shadowing, the severity of mitral
+regurgitation may be significantly UNDERestimated.] The
+tricuspid valve leaflets are mildly thickened. The supporting
+structures of the tricuspid valve are thickened/fibrotic.
+Moderate to severe [3+] tricuspid regurgitation is seen. There
+is at least moderate pulmonary artery systolic hypertension.
+There is a trivial/physiologic pericardial effusion. There are
+no echocardiographic signs of tamponade. Compared with the
+findings of the prior study (images reviewed) of [**3095-5-7**],
+the mitral and tricuspid regurgitation are increased; there is
+now at least moderate pulmonary hypertension; and the right
+ventricle is now dilated and hypocontractile.
+
+
+Brief Hospital Course:
+75 yo female with CAD s/p CABG, COPD, ESRD on HD, DM type II,
+presents with worsening SOB and hypoxia and admitted with
+probable RLL pneumonia, volume overload, atrial fibrillation
+with RVR, and right LE cellulitis.
+.
+# SOB/hypoxia:  When the patient was admitted, she was found to
+be volume overloaded with EKG demonstrating afib with RVR, and
+additionally had RLL infiltrate on CXR.  A COPD flair was
+thought unlikely as she was not wheezing.  She was initially
+treated for pneumonia with levofloxacin and vanco and then
+switched to zosyn and vanco because a long QT was noted on EKG.
+She was admitted to the MICU for respiratory distress in the
+setting of rapid afib.  She underwent HD with ultrafiltration
+with removal of 3L with improvement in symptoms.  She was
+transferred back to regular medical floor with improvement in
+her symptoms, but again triggered on the floor when she was
+found to be experiencing palpitations, SOB, lightheadedness, and
+was tachycardic 130-160s.  An EKG demonstrated sustained
+wide-complex afib with RVR and exam demonstrated worsening
+pulmonary crackles.  Efforts to restore normal sinus rhythm
+failed with IV metoprolol and she was transferred back to the
+MICU.  In the MICU, IV diltiazem was started with improved rate
+control.  Cardiology was consulted and felt that wide complex
+tachycardia was likely a. fib w/ aberrancy and unlikely VT.  She
+was again loaded with amiodarone with maintenance of NSR and
+rate control established with metoprolol.  During this time the
+patient has been dialyzed with UF removal to reduce the volume
+overload, and after each session she had improvement in her SOB.
+ As the sessions were being limited by hypotension, she was
+started on midodrine prior to each session.  She will be
+discharged on 12.5mg metoprolol [**Hospital1 **] and amiodarone 400mg daily
+to be decreased to 200mg daily on [**3097-5-15**].  She has been
+requiring supplemental O2 which should be continued to maintain
+O2 saturations >93% and titrated off as possible with additional
+fluid removal at HD.
+.
+# Leukocytosis:  Had significant bandemia of 10% on [**4-24**] which
+has since resolved with WBC count trending downward from a max
+of 19.6, now 14 on day of discharge.  Admission CXR showed RLL
+infiltrate that on subsequent imaging had resolved and then
+again reappeared in the setting of climbing WBC count.  She was
+again started on levofloxacin with downward trend of her WBC
+count, however was changed to zosyn for concern of widening QT
+while on amiodarone.  She previously had significant diarrhea
+during this hospitalization with repeated C. diff toxin A that
+were negative.  Her diarrhea has since resolved and C. diff
+toxin B is pending and should be followed up on.  Urine culture
+was negative.  Last day of zosyn for probable aspiration
+pneumonia is [**3097-5-10**] to complete a 7 day course.
+.
+# CKD on hemodialysis: She was continued on hemodialysis with
+goal to remove excess fluid with UF.  Her phosLo was
+discontinued as her phosphate had normalized, but this should be
+monitored and restarted if again climbs.  Additionally, she has
+been receiving 5mg midodrine prior to HD to maintain pressures
+during HD, as amount of fluid removed during her sessions had
+previously been limited by borderline blood pressures.  As she
+remains fluid overloaded, the goal will be continued removal of
+fluid with HD/UF and, thus, midodrine should be continued prior
+to HD as needed.  She is next due for hemodialysis on [**3097-5-5**]
+with goal, as above, to continue fluid removal.
+.
+# Atrial fibrillation and wide complex tachycardia: As above,
+she was admitted due to hypoxia in the setting of A-fib w/ RVR.
+She is now in NSR on amiodarone and HR consistently in the low
+60s on 12.5mg metoprolol [**Hospital1 **].  [**Last Name (un) **] rate controlled and in sinus
+rhythm s/p amio load.  Her INR is therapeutic on 1mg coumadin
+qhs and should be monitored especially while on antibiotics and
+amiodarone.  She should be continued on amiodarone 400mg PO
+daily and should be decreased to 200mg daily on [**5-15**].
+.
+# Epistaxis:  On hospital day 10 ([**3097-4-18**]) the patient
+experienced an uncontrollable nose bleed that failed to respond
+to pressure, Afrin, and packing in the MICU.  Her INR at the
+time was therapeutic (2.6).  ENT was called and an anterior
+perforation was seen.  The patient was decongested with
+Afrin/lidocaine and the nasal cavity was cleared.  Surgicell was
+packed into the R-nare (anterior and posterior) and L-nare
+anteriorly and has since dissolved.  Coumadin was temporarily
+held and has since been restarted and remains therapeutic
+without any subsequently nose bleeds.
+.
+# BRBPR: Occurred in the setting therapeutic INR (2.6) and
+severe epistaxis as above. Of note, has h/o UGIB in [**3091**] [**1-15**]
+ischemic necrosis of transverse duodenum after aorto-SMA bypass.
+GI evaluated and, as her hct has since remained stable, EGD and
+colonoscopy can be pursued as an outpatient.  Hct remained
+stable in the 24-27 and she is HD stable without evidence of
+further bleeding.
+.
+# Anemia:  Although hct fluctuates, BL recently prior to this
+admission appears to be in the low 30s.  hct during this stay
+has been 24-29 and is likely [**1-15**] CKD and GI bleed and
+iron-deficiency.  Recent iron studies reveals iron saturation of
+11% (iron 15, TIBC 129, ferritin 428).  She was continued on
+Epogen per renal recs and was started on iron supplemenation
+which should be held 1 week to colonoscopy when scheduled.
+.
+# Hypertension:  Blood pressure remained well controlled during
+her stay with the exception of BP dips during HD as discussed
+above.  She will be discharged on 12.5mg metoprolol [**Hospital1 **] with
+midodrine prn prior to HD.
+.
+# CAD: s/p CABG.  She was without signs of active ischemia
+during her stay.  She was continued on ASA, statin, betablocker.
+
+.
+# Right lower extremity cellulitis:  Surrounding superficial
+ulcer with erythema.  Treated x 8 days with vanco (and was on
+zosyn for pneumonia #1) with resolution of surrounding erythema
+and tenderness.  Superficial ulcer remains scabbed/dry without
+evidence of persistent infection.  This exam should be
+monitored.
+.
+# PVD: Patient with dry gangrenous left thumb tip without any
+e/o infection.  No [**Hospital1 1092**] intervention currently as dry
+gangrene.  Thus, dry gauze dressings should be applied daily and
+exam monitored.
+.
+# COPD: Remained stable without e/o significant bronchospasm on
+exam.  She was continued on tiotropium, advair, prn albuterol.
+.
+# DM: Her blood glucose was challenging to control during her
+admission.  Her lantus was up-titrated somewhat with better
+overall control.  She demonstrated some tendancy to become
+hypoglycemic in the morning hours and so her bedtime sliding
+scale was reduced with good effect.  The Humalog ISS and lantus
+will need to be titrated according to her SS requirements.
+.
+# Hypothyroidism:  An initial TSH during the hospitalization was
+elevated and on re-check it was still elevated.  Free T4 was
+checked and was normal.  She was continued on her home dose
+synthroid.
+.
+# FEN: Cardiac, diabetic, renal diet.  As there was some concern
+for aspiration with thin liquids (okay with food), speech and
+swallow evaluated her at bedside.  She is to use chin tuck
+maneuver when drinking thin liquids and head of bed should be
+upright when eating.
+.
+# Access: Dialysis line placed [**3097-4-12**], peripheral IVs
+.
+# PPX: Therapeutic from coumadin, PPI, HOB elevation, PT consult
+
+.
+# Code:  DNR/DNI as discussed with patient
+
+Medications on Admission:
+ASA 81 qd
+Nephrocaps qd
+Salmeterol 1 spray [**Hospital1 **]
+Spiriva 1 cap qd
+Prednisolone 1 gtt R eye daily
+Colace/Senna/Dulcolax PRN
+Insulin regular sliding scale
+Amiodarone 200 daily
+Darepoetin
+Eucerin Cream
+Atorvastatin 40 daily
+Nexium 40 daily
+Becaplermin gel daily
+CaCO3 1000mg tid
+Lopressor 25-50 [**Hospital1 **]
+Insulin 12 U NPH diluy
+Vancomycin PO 250 mg tid
+Linezolid 600 mg [**Hospital1 **]
+Vicodin PRN
+Albuterol PRN
+Ambien PRN
+
+
+Discharge Medications:
+1. Nephrocaps 1 mg Capsule Sig: One (1) Capsule PO once a day.
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO once a day.
+3. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.
+
+4. Levothyroxine 200 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+5. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+6. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device
+Sig: One (1)  Inhalation once a day.
+7. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1)  Inhalation twice a day.
+8. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: [**12-15**]
+Inhalation every 4-6 hours as needed for shortness of breath or
+wheezing.
+9. Insulin Glargine 100 unit/mL Solution Sig: Seventeen (17)
+units Subcutaneous in the morning.
+10. Insulin Regular Human 100 unit/mL Solution Sig: sliding
+scale subcutaneous Injection four times a day.
+11. Metoprolol Tartrate 25 mg Tablet Sig: One-half Tablet PO
+twice a day.
+12. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day:
+Last dose of 400mg daily will be on [**3097-5-14**].
+13. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day:
+Please start this dose on [**3097-3-15**] after finishing 400mg
+daily dose on [**3097-3-14**].
+14. Coumadin 1 mg Tablet Sig: One (1) Tablet PO at bedtime.
+15. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) drop
+in right eye Ophthalmic once a day.
+16. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ml PO four
+times a day as needed.
+17. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day.
+18. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice
+a day.
+19. Sodium Chloride 0.65 % Spray, Non-Aerosol Sig: [**12-15**]  Nasal
+three times a day as needed.
+Disp:*1 bottle* Refills:*2*
+20. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) application
+Topical once a day as needed for as needed for affected areas.
+Disp:*1 tube* Refills:*2*
+21. Midodrine 5 mg Tablet Sig: One (1) Tablet PO On mornings of
+hemodialysis: Please give before hemodialysis sessions.
+22. Zosyn 2.25 g Recon Soln Sig: One (1)  Intravenous every
+twelve (12) hours for 7 days.
+23. Piperacillin-Tazobactam 2.25 g Recon Soln Sig: 2.25 g
+Intravenous Q12H (every 12 hours) for 7 days: to be completed on
+[**3097-5-10**].
+24. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital1 693**] TCU - [**Location (un) 694**]
+
+Discharge Diagnosis:
+Primary Diagnosis:
+1. RLL pneumonia
+2. RLE cellulitis
+3. Hypoxia from volume overload due to ESRD
+4. Afib with RVR
+5. Guiaic positive stools
+6. Anemia due to CKD, GIB
+7. Diabetes type 2
+8. Dry gangrene of left thumb
+.
+Secondary:
+1. Chronic obstructive pulmonary disease
+2. Hypothyroidism
+3. Peripheral [**Location (un) 1092**] disease
+4. Ischemic left thumb
+5. Healing right shin ulcer
+6. Hypercholesterolemia
+7. Hypertension
+8. Coronary artery disease
+
+
+Discharge Condition:
+Afebrile with improving white blood cell count, stable
+hematocrit and O2 requirement, currently on 4L NC.
+
+
+Discharge Instructions:
+You were diagnosed with atrial fibrillation with rapid heart
+rate as well as excessive fluid that led to your shortness of
+breath.  Please continue to go to hemodialysis as needed to help
+remove more fluid.
+
+Please take medications as below.
+
+If you develop worsening shortness of breath, increasing weight
+gain, chest pain, palpitations, cough, fevers, or any other
+worrisome symptoms, please contact your facility doctor or
+report to the nearest ER.
+
+Followup Instructions:
+Please follow up with your doctor within 1-2 weeks of your
+discharge, Dr. [**Last Name (STitle) 17687**] [**Telephone/Fax (1) 17688**].  Please call his office for
+an appointment.
+.
+You have an appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 566**], a
+gastroenterologist, on [**6-24**] at 4pm.  His office is at [**Doctor First Name **], [**Location (un) **].  For questions regarding scheduling
+or other issues, his phone number is [**Telephone/Fax (1) 458**].  The purpose
+of this visit is follow-up regarding the bleeding episode you
+had during your hospitalization.
+.
+Please follow up with previously scheduled appointments as
+below:
+1. Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 323**] Date/Time:[**3097-6-17**]
+10:15
+2. Provider: [**Name10 (NameIs) 1552**] FUNCTION LAB Phone:[**Telephone/Fax (1) 603**]
+Date/Time:[**3097-6-24**] 12:00
+
+
+                             [**First Name11 (Name Pattern1) 727**] [**Last Name (NamePattern1) 728**] MD, [**MD Number(3) 792**]
+
+
+
+
+DOC CLASS

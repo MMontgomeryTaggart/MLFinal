@@ -1,0 +1,188 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Patient was given 40 mg of IV lasix in the am, but only put out about
+   350 cc to it.  Was given 80 mg IV lasix x 2 later in the day/night.
+   Was *** L negative.
+   - Code status was addressed with him while his family were in the room,
+   but he is not sure what he wants to choose.
+   - a TTE showed mild symmetric LVH and a moderately dilated LV cavity.
+   No masses or thrombi are seen in the left ventricle. LVEF= 35-40 %with
+   inferior and infero-lateral akinesis.
+   - He began sating better and was weaned down to 3 L NC
+   Allergies:
+   Keflex (Oral) (Cephalexin Monohydrate)
+   Unknown;
+   Avandia (Oral) (Rosiglitazone Maleate)
+   Unknown;
+   Aldactone (Oral) (Spironolactone)
+   Unknown;
+   Levofloxacin
+   Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3482-1-25**] 10:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3482-1-26**] 05:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 79 (63 - 87) bpm
+   BP: 120/51(69) {96/21(37) - 140/59(76)} mmHg
+   RR: 17 (10 - 31) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+                  Total In:
+                                                                    840 mL
+                                                                    240 mL
+   PO:
+                                                                    840 mL
+                                                                    240 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                  2,050 mL
+                                                                    450 mL
+   Urine:
+                                                                  2,050 mL
+                                                                    450 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,210 mL
+                                                                   -210 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: irregularly irregular, unable to asses JVP 2/2 body
+   habitus
+   Peripheral Vascular: 2+ distal pulses bilaterally
+   Respiratory / Chest: crackles at right base-mid lung fields, scattered
+   wheeze
+   Abdominal: Soft, Bowel sounds present, Obese
+   Extremities: trace [**Location (un) **]
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Verbal stimuli, Oriented (to):
+   self, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   624 K/uL
+   10.7 g/dL
+   138 mg/dL
+   2.0 mg/dL
+   28 mEq/L
+   4.0 mEq/L
+   27 mg/dL
+   100 mEq/L
+   138 mEq/L
+   31.4 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**3482-1-24**]  03:01 AM
+                             [**3482-1-24**]  03:08 AM
+                             [**3482-1-25**]  04:27 AM
+                             [**3482-1-26**]  04:17 AM
+   WBC
+   9.8
+   9.6
+   10.0
+   Hct
+   30.2
+   31.9
+   31.4
+   Plt
+   550
+   577
+   624
+   Cr
+   1.6
+   1.8
+   2.0
+   TCO2
+   29
+   Glucose
+   65
+   157
+   138
+   Other labs: PT / PTT / INR:23.1/30.8/2.2, Lactic Acid:0.7 mmol/L,
+   Ca++:9.0 mg/dL, Mg++:1.9 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   83 year-old male with MMP including afib on coumadin, CAD,
+   cardiomyopathy s/p ICD/pacer, T2DM, HTN, hyperlipidemia, and CKD who
+   presents to the ED from rehab with weakness and hypoxia.
+   # CHF Exacerbation:   Improving, now on 2L nc.  Had hypoxic yesterday,
+   had increasing O2 requirement and was increased to  60% FiO2, desated
+   to 80%.  Felt to be fulid overloaded and put out well to iv lasix
+   though overall only negative 600cc in 24 hours.  Did not appear gorssly
+   fluid overloaded and suspect that hypoxia is primarily due to
+   destruction of lung parenchyma [**2-13**] his significant pneumonia.  However,
+   BNP of 4700 and likely has  of heart failure
+ has depressed EF of ~40%
+   per TTE. Received a total of 200ic lasix yesterday and was -1.2L over
+   24 hours.
+   - no further diuresis as has decreased O2 requirement and Cr bumped to
+   2.0
+ diurese as needed
+   # Multifocal PNA:  CT scan showed worsening of lung process compared to
+   the one 2 weeks ago.  Unclear if patient has truly failed PNA treatment
+   or if there is another process occurring
+ possiblye lung parenchyema
+   destruction as a sequalae of his pneumonia.  No culture data available
+   .  WBC has normalized at 9.8 today. Other etiologies include BOOP or
+   other post-infectious inflammatory process - has peripheral
+   eosinophila.  Has hilar nodules on CXR which are likely reactive.
+   - no abx for now (got vanc, CTZ, and levo in ED, s/p 10 day course of
+   vanc and zosyn,  if spikes or becomes hypotensive, cover broadly with
+   vanc and cefipime)
+   - f/u cx, blood cx NGTD, urine cx negative, c. diff negative x2
+   - continue respiratory support
+   # Weakness/Lethargy:   Unclear [**Name2 (NI) 1877**], likley  related to recent
+   infectious process, nothing focal on exam
+   - work up as above
+   # Hypoglycemia:  Resovled. Had low fs at 44 in ED here, got 1 amp D50.
+   Likely [**2-13**] to poor po intake and continued home insulin dosing
+   - follow fingersticks
+   - continue home insulin, ensure good po intake
+   - SSI
+   # Afib on coumadin: rate controlled currently, INR therapeutic 2.2
+   - continue coumadin
+   # CAD/cardiomyopathy:  Continue home regimen
+   # T2DM:  Insulin as above
+   # CKD, Stage III: Cr 2.0 this morning, likely [**2-13**] lasix, baseline is
+   1.9
+   - trend
+   ICU Care
+   Nutrition:  NPO
+   Glycemic Control:  SSI
+   Lines:
+   22 Gauge - [**3482-1-24**] 11:34 AM
+   Prophylaxis:
+   DVT:  On coumadin, therapeutic
+   Stress ulcer: PPI
+   VAP:  HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: FULL for now, will discuss furhter with family/patient
+   Disposition: ICU for now
+
+
+
+DOC CLASS

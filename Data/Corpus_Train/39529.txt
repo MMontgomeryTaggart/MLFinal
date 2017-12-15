@@ -1,0 +1,177 @@
+Admission Date:  [**3405-7-16**]              Discharge Date:   [**3405-7-20**]
+
+Date of Birth:  [**3337-9-3**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetanus
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+"Excruciating back pain"
+
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+Mr.[**Known patient lastname 1962**] reports waking up this AM with "excruciating back
+pain" ([**9-22**])located above his shoulder blades. He reports
+associated shortness of breath and nausea. Denies
+dizziness/lightheadedness/vomiting. Denies having this
+pain prior to this morning. He was seen at OSH where he
+underwent a Chest CT scan that revealed a Type B dissection. He
+was transferred to [**Hospital1 4**] for further evaluation.
+
+Past Medical History:
+Hypercholesterolemia
+Asthma
+Anxiety
+Chronic Back pain-herniated discs
+arthritis
+*awaiting a triple fusion to the (R)foot with Dr.[**First Name (STitle) **]
+prostate ca.
+
+
+Social History:
+Lives with:wife
+[**Name (NI) 568**]:denies
+ETOH:2 days/week
+
+
+Family History:
+Father died age 66 of myocardial infarction
+
+
+Physical Exam:
+Pulse:66  Resp:15  O2 sat:99%4L
+B/P  Right:141/80    Left:128/76 on admission
+Height:5'[**05**]"     Weight:247lbs
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI []
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur IV/VI SEM
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema Varicosities:
+None []
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:   Left:
+DP           Right:1+   Left:2+
+PT           [**Name (NI) **]:   Left:
+Radial       Right:   Left:
+
+Carotid Bruit: none appreciated,pulses=Right: 2+   Left:2+
+
+Pertinent Results:
+[**3405-7-18**] 01:19AM BLOOD WBC-9.1 RBC-3.51* Hgb-11.4* Hct-32.5*
+MCV-93 MCH-32.4* MCHC-35.0 RDW-14.0 Plt Ct-158
+[**3405-7-18**] 01:19AM BLOOD PT-12.2 PTT-26.1 INR(PT)-1.0
+[**3405-7-18**] 01:19AM BLOOD Glucose-124* UreaN-20 Creat-1.0 Na-139
+K-4.5 Cl-107 HCO3-24 AnGap-13
+
+CT Chest [**3405-7-17**]
+IMPRESSION:
+
+1. Type B aortic dissection originating just distal to left
+subclavian artery
+extending caudally to the level of the renal arteries. The
+celiac trunk,
+superior mesenteric artery and renal arteries originate from the
+true lumen.
+Dissection extends somehwat (about 1cm) into the the superior
+mesenteric
+artery without significant compromise of the blood flow through
+its branches.
+This extension is a new finding.
+
+2. Multiple right pulmonary nodules. Prior studies are needed
+for comparison
+to ensure their stability. If none are available, PET scan may
+be considered
+for further evaluation as one nodule measure 1cm.
+
+[**3405-7-20**] 06:15AM BLOOD WBC-14.5*# RBC-3.15* Hgb-10.2* Hct-30.7*
+MCV-97 MCH-32.3* MCHC-33.2 RDW-13.6 Plt Ct-107*
+[**3405-7-20**] 06:15AM BLOOD Plt Ct-107*
+[**3405-7-20**] 06:15AM BLOOD PT-16.0* PTT-53.2* INR(PT)-1.4*
+[**3405-7-20**] 06:15AM BLOOD Glucose-334* UreaN-19 Creat-1.1 Na-139
+K-4.9 Cl-107 HCO3-10* AnGap-27*
+[**3405-7-20**] 06:15AM BLOOD ALT-72* AST-80* LD(LDH)-407* AlkPhos-77
+Amylase-26 TotBili-0.8
+[**3405-7-20**] 06:15AM BLOOD Calcium-12.2* Phos-7.3*# Mg-2.2
+
+Brief Hospital Course:
+He was admitted for further work-up and management of his type B
+aortic dissection.  He was started on labetalol drip for blood
+pressure control.  Vascular surgery was consulted.  Chest CT was
+performed to assess for progression of dissection.  This study
+showed Type B aortic dissection originating just distal to left
+subclavian artery extending caudally to the level of the renal
+arteries. The celiac trunk,
+superior mesenteric artery and renal arteries originate from the
+true lumen.
+Dissection extends somehwat (about 1cm) into the the superior
+mesenteric
+artery without significant compromise of the blood flow through
+its branches.
+Additionally, pulmonary nodules were noted and thoracic surgery
+was consulted.  His oral medications were adjusted, he was
+weaned off the labetolol drip and transferred to the floor.
+Continued to monitor his blood pressure and adjusted
+antihypertensives, with plan for discharge [**7-20**].  On [**7-20**] early am
+he developed severe pain and was taken to CT scan for CTA of
+aorta however he arrested prior to scan and the scan was
+intubated and regained pulses and was transferred to the CVICU.
+In the CVICU he went into Ventricular fibrillation and he was
+defibrillated and CPR resumed with no return to life.  The
+resuscitative efforts were stopped and he was expired at [**3405-7-20**]
+at 0637.  Dr [**Last Name (STitle) **] spoke with daughter on the phone.
+
+
+Medications on Admission:
+Ultram 50mg po q4-6hrs PRN-pt states he doesn't use anymore
+Citalopram 20mg po daily
+Simvastatin 80mg po daily
+Omeprazole 20mg po daily
+Nabumetone 1000mg po daily
+Vicodin PRN
+
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Type B aortic dissection
+Cardiac arrest
+Hypercholesterolemia
+Asthma
+Anxiety
+Chronic Back pain-herniated discs
+arthritis
+*awaiting a triple fusion to the (R)foot with Dr.[**First Name (STitle) **]
+prostate ca.
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none
+
+
+Completed by:[**3405-7-22**]
+
+
+DOC CLASS

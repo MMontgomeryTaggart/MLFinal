@@ -1,0 +1,205 @@
+Chief Complaint:
+   68yo M with CAD, CABG, severe COPD & prior NSLC  who was admitted w /
+   hypoxia in setting of MRSA PNA with bacteremia, now found to have
+   recurrence of his lung CA
+   [**38**] Hour Events:
+   - got 40 IV lasix x2 overnight
+   - got really agitated and got out of bed but responded to Haldol
+   - EKG with normal QT
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**2625-3-25**] 04:29 AM
+   Vancomycin - [**2625-3-26**] 09:23 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2625-3-26**] 03:54 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2625-3-27**] 06:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.3
+C (97.3
+   HR: 89 (87 - 111) bpm
+   BP: 119/54(73) {69/36(45) - 131/102(106)} mmHg
+   RR: 23 (18 - 37) insp/min
+   SpO2: 96%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,144 mL
+                                                                    440 mL
+   PO:
+             TF:
+                                                                    910 mL
+                                                                    308 mL
+   IVF:
+                                                                    663 mL
+                                                                    132 mL
+   Blood products:
+   Total out:
+                                                                  1,162 mL
+                                                                    710 mL
+   Urine:
+                                                                    862 mL
+                                                                    510 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    982 mL
+                                                                   -270 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 96%
+   ABG: ///36/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   260 K/uL
+   9.1 g/dL
+   165 mg/dL
+   1.6 mg/dL
+   36 mEq/L
+   3.7 mEq/L
+   37 mg/dL
+   100 mEq/L
+   146 mEq/L
+   28.1 %
+   9.4 K/uL
+        [image002.jpg]
+                             [**2625-3-24**]  03:14 AM
+                             [**2625-3-24**]  12:37 PM
+                             [**2625-3-24**]  06:06 PM
+                             [**2625-3-24**]  11:58 PM
+                             [**2625-3-25**]  06:02 AM
+                             [**2625-3-25**]  01:24 PM
+                             [**2625-3-26**]  12:13 AM
+                             [**2625-3-26**]  05:58 AM
+                             [**2625-3-26**]  04:37 PM
+                             [**2625-3-27**]  04:11 AM
+   WBC
+   7.8
+   7.5
+   7.3
+   9.4
+   Hct
+   27.2
+   27.3
+   28.6
+   28.1
+   Plt
+   172
+   172
+   203
+   260
+   Cr
+   1.9
+   1.8
+   1.6
+   1.8
+   1.7
+   1.6
+   TCO2
+   36
+   35
+   36
+   38
+   Glucose
+   114
+   137
+   113
+   141
+   164
+   165
+   Other labs: PT / PTT / INR:12.9/25.5/1.1, CK / CKMB /
+   Troponin-T:51/4/0.06, ALT / AST:41/37, Alk Phos / T Bili:120/0.5,
+   Differential-Neuts:85.5 %, Lymph:9.2 %, Mono:3.0 %, Eos:2.1 %,
+   Fibrinogen:675 mg/dL, Lactic Acid:0.9 mmol/L, Albumin:2.6 g/dL, LDH:266
+   IU/L, Ca++:8.4 mg/dL, Mg++:2.1 mg/dL, PO4:2.1 mg/dL
+   Assessment and Plan
+   68 year-old male with COPD, h/o lung cancer with RUL lobectomy, & CAD (
+   s/p CABG) who was admitted with hypotension and respiratory failure in
+   setting of MRSA PNA and bacteremia and now has recurrent lung cancer
+   diagnosis s/p recent biopsy of  left  lobe mass.
+   .
+   # Respiratory failure:
+   Extubated >48hrs ago and has been stable off vent so far, still with
+   significant O2 requirements but weaning down gradually. Yesturday
+   patient had worse fluid overload on  CXR so he was diuresed more
+   aggressively
+   - run even today
+   - lasix gtt only PRN , keeping UOP > 30cc/hr
+   - Continue steroid taper and MDIs  ( PO prednisone
+ day#19 today, down
+   to 10mg daily)  - keep at 10mg for now as patient still with wheezing
+   - continue  on standing nebs
+   - wean FiO2 as tolerates , patient and family now decided do not want
+   re-intubation if he decompensates to that point
+   # Delirium
+   Remains confused intermittently c/w delirium
+   - continue Haldol 3mg qpm and 1-2 mg PRN q 8 hrs during daytime
+   - check EKG / QT  today
+   - keep O2 sats around 90-92%
+   - wean steroids to off
+   - reorient frequently, out of bed, enforce sleep/wake cycles
+   .
+   # NSCLC recurrence:  IP biopsy results now confirmed as squamous cell
+   lung cancer.
+   - family meeting done yesterday and goals of care changed to DNR/DNI
+   - f/up palliative care team recs
+   - will discuss with family whether further onc evaluation desired
+   - social work involved
+   # CAD,s/p CABG: No active issues
+   - continue ASA, plavix  BB
+   # CHF, systolic, chronic:  recent EF 35%. Patient more euvolemic today
+   -  continue BB
+   - I/o goal as above
+   - consider ACEI when Cr trending back down
+   .
+   # Atach/afib:
+   - continue amiodarone and metoprolol
+   - monitoring on tele
+   - follow K, Mg   PM labs  and replete aggressively
+   .
+   # Anemia
+    Has been stable [**Month (only) 47**] be stress gastritis. Has not required transfusions
+   since [**3-18**].
+   -will trend HCTs [**Hospital1 7**], keep >25 given CAD history
+   - active T/S
+   - guaiac stools
+   # CRI
+   Cr slightly up today in setting of diuresis
+   - continue to follow urine output, Cr
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**2625-3-27**] 01:56 AM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2625-3-7**] 02:27 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

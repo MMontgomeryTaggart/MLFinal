@@ -1,0 +1,81 @@
+Admission Date:  [**2894-10-18**]       Discharge Date:  [**2894-10-28**]
+
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 77-year-old
+woman admitted to [**Hospital1 58**] from
+[**Hospital6 **] where she presented with lethargy and
+decreased p.o. intake. Husband states she fell out of bed
+because of weakness.  CT of the head showed subarachnoid
+hemorrhage.  Of note, she was admitted to [**First Name8 (NamePattern2) 267**] [**Last Name (NamePattern1) **]
+Hospital a week ago with headache, refused magnetic resonance
+scan at that time.
+
+PAST MEDICAL HISTORY:  Significant for hypertension,
+increased cholesterol, carotid stenosis, question Alzheimer's
+disease with short term memory loss.  Hypothyroidism, status
+post stroke in the past.
+
+MEDICATIONS:  Plavix, Accupril, Synthroid,
+Hydrochlorothiazide, Lipitor and Toprol.
+
+The patient was admitted to the Surgical Intensive Care Unit
+for close monitoring and blood pressure control.  She had a
+cerebral arteriogram which showed no aneurysm or
+arteriovascular malformation as a cause of the subarachnoid
+hemorrhage.  She was monitored closely in the surgical
+Intensive Care Unit with tight blood pressure control and
+followed by Cardiology service.  The patient had CTA which
+was grossly negative for any aneurysm, also had magnetic
+resonance scan and MRA which also was negative.
+
+The patient had severe hypertension and was treated with
+Lopressor 100 mg p.o. b.i.d., Procardia XL 30 mg p.o. q day
+and Accupril 40 mg q day with intermittent intravenous
+Hydralazine and Lopressor for systolics greater than 160.
+The patient was transferred to the regular floor on [**2894-10-21**]
+in stable condition.
+
+On [**2894-10-22**] in the late evening the patient had hypertensive
+crisis with blood pressure into the 224/90 range and
+complained of increased headache and confusion.  She was
+started on Nipride and was subsequently switched to p.o.
+medications as mentioned previously.  She currently is on the
+regular floor in stable condition neurologically oriented
+times one to two, moving all extremities with no weakness.
+She has been followed by the physical therapy, occupational
+therapy, found to require rehabilitation prior to discharge
+home.  She is currently without fever.
+
+She is on Lipitor 10 mg p.o. q day, Synthroid 100 mg p.o. q
+day, Accupril 40 mg q day, Procardia XL 30 mg p.o. q day,
+Lopressor 100 mg p.o. b.i.d., Zantac 150 mg p.o. b.i.d.,
+Procardia XL has been increased to 60 mg p.o. q day, hold for
+systolic pressure less than 110.  Levaquin 500 mg p.o. q day
+for five days which will be discontinued today for urinary
+tract infection. Hydrochlorothiazide 25 mg p.o. q day and
+Hydralazine 40 mg p.o. q 6 hours hold for systolic blood
+pressure less than 160.
+
+The patient's vital signs stable, she is afebrile, she will
+be discharged to rehabilitation with follow-up with Dr. [**Last Name (STitle) 134**]
+in one months time.
+
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 136**]
+
+Dictated By:[**Last Name (NamePattern1) 326**]
+MEDQUIST36
+
+D:  [**2894-10-28**]  11:35
+T:  [**2894-10-28**]  12:45
+JOB#:  [**Job Number 8456**]
+
+ 
+ 
+DOC CLASS

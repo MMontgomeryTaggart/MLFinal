@@ -1,0 +1,194 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Febrile to 102.6 yest afternoon. Stable on 4LNC.
+   Allergies:
+   Penicillins
+   Hives;
+   Morphine
+   Nausea/Vomiting
+   Keppra (Oral) (Levetiracetam)
+   poor concentrat
+   Acetylcysteine
+   Cough; Wheezing
+   Last dose of Antibiotics:
+   Vancomycin - [**3413-8-22**] 07:57 PM
+   Cefipime - [**3413-8-22**] 09:00 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3413-8-23**] 08:16 AM
+   Lorazepam (Ativan) - [**3413-8-23**] 08:16 AM
+   Hydromorphone (Dilaudid) - [**3413-8-23**] 08:16 AM
+   Other medications:
+   RISS, ciproflox, heparin sc, vancom IV, cefepime IV, albuterol,
+   ipratropium, pantroprazole, Ducolax, prn lorazepam, Dilaudid prn
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3413-8-23**] 09:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.2
+C (102.6
+   Tcurrent: 37.9
+C (100.2
+   HR: 125 (106 - 137) bpm
+   BP: 126/65(80) {105/48(64) - 157/94(101)} mmHg
+   RR: 19 (13 - 30) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 64 Inch
+                  Total In:
+                                                                  1,601 mL
+                  PO:
+                                                                    900 mL
+                  TF:
+   IVF:
+                                                                    701 mL
+   Blood products:
+   Total out:
+                                                                  3,000 mL
+                                                                    940 mL
+   Urine:
+                                                                  3,000 mL
+                                                                    940 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,399 mL
+                                                                   -940 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bilat, Wheezes :
+   difufsely)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to): ,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   7.7 g/dL
+   368 K/uL
+   117 mg/dL
+   0.8 mg/dL
+   29 mEq/L
+   4.4 mEq/L
+   8 mg/dL
+   99 mEq/L
+   137 mEq/L
+   23.7 %
+   10.3 K/uL
+        [image002.jpg]
+                             [**3413-8-18**]  08:15 PM
+                             [**3413-8-18**]  08:31 PM
+                             [**3413-8-19**]  02:27 AM
+                             [**3413-8-19**]  02:33 AM
+                             [**3413-8-19**]  11:47 AM
+                             [**3413-8-22**]  04:42 AM
+                             [**3413-8-23**]  05:00 AM
+   WBC
+   6.7
+   7.2
+   12.7
+   10.3
+   Hct
+   27.2
+   25.5
+   25.0
+   24.2
+   23.7
+   Plt
+   184
+   174
+   340
+   368
+   Cr
+   0.9
+   0.8
+   0.8
+   0.8
+   TCO2
+   30
+   29
+   Glucose
+   135
+   140
+   108
+   117
+   Other labs: PT / PTT / INR:12.7/29.6/1.1, Differential-Neuts:84.4 %,
+   Lymph:5.5 %, Mono:9.2 %, Eos:0.8 %, Lactic Acid:1.2 mmol/L, Ca++:8.2
+   mg/dL, Mg++:2.1 mg/dL, PO4:2.6 mg/dL
+   Imaging: CT neck ([**8-23**])- no clear airway narrowing
+   CT torso ([**8-23**])- LUL and LLL consolidation with pleural effusion,
+   R-sided scattered infiltrate
+   Assessment and Plan
+   58 year old female with a history of metastatic renal caricnoma to the
+   brain, spine and lungs who was admitted for planned vertebrectomy and
+   reconstruction of T8 and T9 who postoperatively has developed fevers,
+   tachycardia and imaging suggestive of pneumonia.  Acute on chronic
+   respiratory failure with superimposed nosocomial PNA s/p recent OR
+   procedure and intubation with multiple lung resections, possible tumor
+   spread.
+    Hospital Acquired Pneumonia:
+   - vancomycin, cefepime, ciprofloxacin for hospital acquired pneumonia
+   will course out for a 10 day regimen (day 2 today)
+   - incentive spirometry and OOB today
+   - blood, sputum cultures
+   - wean supplemental oxygen as tolerated
+   Wheezing/ Bronchospasm: may be related to lypmhangitic spread vs
+   infection
+   - levo-albuterol and ipratropium nebs standing Q6H
+   - guaifenesin for cough (as well as narcotic as below)
+   -CT neck and torso unrevealing for central obstruction
+   Tachycardia: attributing to multifocal pneumonia and underlying
+   malignancy, postoperative status
+   -for now will manage expectantly and per [**Doctor First Name **], transfuse 1u PRBC
+   -need to keep in mind PE as a possible etiology (less likely at this
+   point) and workup if clinically indicated
+   s/p T8 + T9 vertebrectomy and reconstruction
+   - PT consult once respiratory status stable
+   - dilaudid 2-4 mg PO Q4H:PRN for pain
+   - f/u neurosurgery recommendations
+   Metastatic Renal Cell Carcinoma:  Most recently taking evrolimus as
+   part of the RAD001 protocol. She is followed by Dr. [**Last Name (STitle) **] as her
+   primary oncologist.
+   - continue aranesp; clarify and resume equivalent Epogen in-house
+   - Onc following
+   Remainder of plan as per housestaff note
+   ICU Care
+   Nutrition:
+   Comments: po diet
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   22 Gauge - [**3413-8-21**] 08:04 PM
+   20 Gauge - [**3413-8-21**] 10:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 35 minutes
+
+
+
+DOC CLASS

@@ -1,0 +1,242 @@
+Admission Date:  [**2687-4-13**]              Discharge Date:   [**2687-4-13**]
+
+Date of Birth:  [**2619-4-23**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Peanut
+
+Attending:[**Last Name (NamePattern1) 894**]
+Chief Complaint:
+CHIEF COMPLAINT:  chest pain
+REASON FOR CCU ADMISSION:  heart failure
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization [**2687-4-13**]
+
+History of Present Illness:
+Mr. [**Known patient lastname 15779**] is a 67y/o gentleman with HTN, HLD, DM2, prostate
+cancer s/p XRT, bicuspid aorta with severe AS, and CAD s/p CABG
+[**2677**] with known graft disease based on cardiac cath in [**2684**]
+(patient declined redo sternotomy, AVR, and CABG at the time)
+who presented with chest pain,underwent emergent cardiac cath
+due to concern for STEMI, and was found to have unchanged
+disease but is in heart failure. Pt initially presented to [**Hospital1 **]-N
+by ambulance with c/o lightheadedness, and syncope while
+climbing stairs. He felt normal prior to this and says his sx
+only began with the syncopal episode that occurred on the
+stairs. He had not had CP or SOB prior to the syncope. (Of note,
+wife reports different story and states that he has had
+increased SOB for past 2 days, increased LE edema, and unability
+to sleep lying down due to SOB.) Ambulance called and EMT
+reported pt to be diaphoretic on their arrival and slightly "out
+of it." He also c/o nausea and vomiting at that time. An IV was
+placed and fluids started and he improved. He was brought to
+[**Hospital1 **]-N where he was c/o left arm pain which was dull and of
+moderate intensity. An EKG showed SR and diffuse ST depressions
+in nearly all leads (not including aVR and V1).  Given heparin,
+zofran, and aspirin and transferred to [**Hospital1 68**].
+.
+At his baseline, he can walk about [**12-8**] mile before feeling short
+of breath. He states that he has only had problems with DOE for
+about 6 months now and it has been progressive. He does take
+lasix at home and has had problems with [**Name2 (NI) **] and pulm edema in
+past but they have been mild.  He was in this usual state of
+health until 1 week ago when he presented to [**Hospital1 **] [**Location (un) 18**] due to
+dizziness/lightheadedness.  He was found to be relatively
+hypotensive; it was determined that he was taking his
+medications incorrectly (Lasix, Imdur, HCTZ).  He was told to
+hold them, and then restart his Lasix a few days ago, which he
+did. He subsequently developed the sx his wife described.
+.
+In the ED, initial VS were: Pulse: 106, RR: 24, BP: 120/70,
+O2Sat: 100, O2Flow: cpap. Labs were notable for troponin 0.32,
+BNP 2490, Cr 1.3 (baseline 0.7-0.8).  He underwent cardiac cath
+due to concern for STEMI, and was found to have unchanged
+disease compared to his prior cath in 11/[**2684**].  He was mildly
+hypoxic so was started on BiPAP and was admitted to the CCU
+team.
+.
+On arrival to the ICU, VS BP 107/64, P 98, RR 25, 99% CPAP. He
+denies CP, N/V, but admits to continued SOB. No pain. Admits to
+feeling diaphoretic.
+.
+ROS positive per HPI, otherwise negative.
+
+
+Past Medical History:
+bicuspid aortic valve with moderate-severe AS
+hypertension
+hyperlipidemia
+Diabetes
+--c/b neuropathy of feet, bilateral Charcot deformity
+--c/b retinopathy (almost no vision right eye, poor vision left
+eye)
+CAD
+--[**2671**] Cx stent
+--[**12/2677**] CABG: LIMA to LAD,  radial to PDA, SVG to ramus/OM2
+CVA ([**2671**] during MI); Left occipital, w/ mild residual visual
+changes
+Prostate cancer s/p external beam radiation [**2684**]
+s/p hernia repair
+s/p penile implant
+s/p remote surgery after being involved in a chemical explosion
+as a child
+possible mild allergic asthma per patient report
+
+
+Social History:
+Patient is married. He has two children from a former marriage.
+Tobacco: Patient smoked 4ppd x 30 years, quitting [**2657-2-9**]
+ETOH: Prior heavy ETOH, quit in [**2652**]
+Contact upon discharge:
+Home Care Services:  Denies
+
+
+Family History:
+Brother died at age 47 from an MI and diabetes. Mother died
+at age 64 from complications of cardiovascular disease and
+diabetes. Sister also died at age 64 from cardiovascular
+disease.
+
+Physical Exam:
+ADMISSION EXAM:
+VS: BP 107/64, HR 98, RR 25, O2 sat 99% CPAP
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  lying flat
+in bed s/p cath
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. CPAP in place
+NECK: unable to assess JVD [**1-6**] large neck and patient
+positioning
+CARDIAC: RRR, normal S1, S2. 3/6 systolic murmur heard best at
+USB. No rubs, gallops.
+LUNGS: Exam limited by patient positioning. Decreased BS at
+bases bilaterally. CTAB anteriorly in upper lobes
+ABDOMEN: Soft, obese, NT.
+EXTREMITIES: No c/c/e.
+SKIN: no rashes.
+PULSES:  2+ radial and DP bilat
+
+DISCHARGE EXAM:
+[patient expired]
+
+Pertinent Results:
+ADMISSION LABS:
+[**2687-4-12**] 11:54PM BLOOD WBC-16.9* RBC-4.40*# Hgb-13.9*# Hct-42.1#
+MCV-96 MCH-31.6 MCHC-33.0 RDW-13.6 Plt Ct-239
+[**2687-4-12**] 11:54PM BLOOD Neuts-86.9* Lymphs-6.8* Monos-4.5 Eos-1.6
+Baso-0.3
+[**2687-4-12**] 11:54PM BLOOD PT-12.6* PTT-150* INR(PT)-1.2*
+[**2687-4-12**] 11:54PM BLOOD Glucose-249* UreaN-29* Creat-1.3* Na-133
+K-4.2 Cl-97 HCO3-20* AnGap-20
+[**2687-4-12**] 11:54PM BLOOD proBNP-2490*
+[**2687-4-12**] 11:54PM BLOOD cTropnT-0.32*
+[**2687-4-13**] 02:50AM BLOOD CK-MB-112* MB Indx-5.9 cTropnT-1.71*
+[**2687-4-13**] 02:50AM BLOOD Calcium-9.0 Phos-4.9* Mg-2.0
+
+CARDIAC CATHETERIZATION [**2687-4-13**]:
+[final report pending]
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 15779**] is a 67y/o gentleman with HTN, HLD, DM2, prostate
+cancer s/p XRT, bicuspid aorta with severe AS, and CAD s/p CABG
+[**2677**] with known graft disease based on cardiac cath in [**2684**]
+(patient declined redo sternotomy, AVR, and CABG at the time)
+who presented with chest pain, underwent emergent cardiac cath
+due to concern for STEMI, and was found to have unchanged
+disease but was in clinical heart failure.
+
+Over the course of the night, CCU team attempted diuresis with
+Lasix 20g IV x1 (poor response) then started Lasix gtt at 5/hr
+with urine output ~30-40/hr.    Blood pressures were systolic
+~85 so he did not tolerate the Nitro gtt that was ordered.  We
+placed him on CPAP.
+
+At 6AM, team was paged that patient had requested to remove
+CPAP.  He was oxygenating fine, but had HR 100-130 with SBP
+~75-85.  He was mentating fine but endorsed diaphoresis and
+nausea (vomited a few times).  No chest pain.  Began to feel ??????as
+if I am drowning.??????
+
+Team confirmed his code status:  under no circumstance would he
+want chest compressions, or endotracheal intubation.  Even if
+his immediate illness might be reversible.  CCU resident called
+his wife [**Name (NI) **] and confirmed this with her; she knew he felt this
+way and had written her a letter the day before mentioning that
+he knew he was dying ?????? would not want resuscitation.
+
+Cardiology Fellow was at the bedside at this time.  Team
+attempted diuresis again with a Lasix drip but he became
+persistently hypotensive and tachycardic.  Started Dopamine.
+Continued to complain of dyspnea.  Team considered ACS (though
+unlikely given his cath findings from hours earlier); though
+possibly an element of ongoing ischemia as 2AM cardiac enzymes
+were elevated.  Also considered PE.  TTE at the bedside did not
+show any obvious signs of acute RV pressure/volume overload but
+his LV appeared very hypokinetic.  Attending came to the bedside
+and looked at TTE.  It was determined that he probably had acute
+on chronic worsening LV failure.
+
+After discussing the findings with patient and family, and
+explaining that there were no measures available to reverse his
+underlying disease, both patient and family understood and
+requested that patient be transitioned to comfort-focused care.
+ He had been back on CPAP at the time but requested for it to be
+removed.  His dyspnea was treated with supplemental O2, fan by
+the bedside, and morphine boluses.
+
+Mr. [**Known patient lastname 15779**] had a bradycardic/PEA arrest and expired at 8:30AM,
+with family (including [**Name (NI) **], wife/HCP) arriving soon thereafter.
+[**Doctor First Name **] declined post-mortem exam.  Family was appreciative of
+communication between team and family, as well as the treatment
+of her husband??????s symptoms at the end of his life.
+
+Medications on Admission:
+GABAPENTIN -  (Prescribed by Other Provider) - 800 mg Tablet - 1
+Tablet(s) by mouth three times a day
+INSULIN GLARGINE [LANTUS] -  (Prescribed by Other Provider) -
+100
+unit/mL Solution - 60 units daily at dinner
+INSULIN LISPRO [HUMALOG] -  (Prescribed by Other Provider) - 100
+unit/mL Solution - four times a day per sliding scale
+LEVOTHYROXINE -  (Prescribed by Other Provider) - 50 mcg Tablet
+-
+1 Tablet(s) by mouth every morning
+METOPROLOL TARTRATE -  (Prescribed by Other Provider) - 50 mg
+Tablet - 2 Tablet(s) by mouth every morning, 2 tablets at 2pm, 1
+tablet at hs
+RAMIPRIL -  (Prescribed by Other Provider) - 10 mg Capsule - 1
+Capsule(s) by mouth twice a day
+RANITIDINE HCL [ZANTAC] -  (Prescribed by Other Provider) - 150
+mg Tablet - 1 Tablet(s) by mouth as needed
+ROSUVASTATIN [CRESTOR] -  (Prescribed by Other Provider) - 40 mg
+Tablet - 1 Tablet(s) by mouth every day, additional [**12-6**] a tablet
+on Monday/Wed/Saturday
+ASPIRIN -  (Prescribed by Other Provider) - 81 mg Tablet,
+Chewable - 1 Tablet(s) by mouth every evening
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] -  (Prescribed by Other
+Provider) - 2,000 unit Capsule - 1 Capsule(s) by mouth daily
+
+Discharge Medications:
+[patient expired]
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+[patient expired]
+
+Discharge Condition:
+[patient expired]
+
+Discharge Instructions:
+[patient expired]
+
+Followup Instructions:
+[patient expired]
+
+
+
+
+
+DOC CLASS

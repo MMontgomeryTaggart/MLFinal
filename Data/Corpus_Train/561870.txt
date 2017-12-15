@@ -1,0 +1,208 @@
+Chief Complaint: Respiratory distress, pneumonia, anemia
+   Patient seen and examined with the ICU resident.  Agree with his/her
+   note, including the assessment and plan.
+   HPI:
+   60 yo M w/DLBCL (dx [**5-30**]) s/p 6 cycles R-CHOP a/w fever and subtle RUL
+   infiltrate, rapidly progressive (dense consolidation throughout R lung)
+   despite broad spectrum abx.  s/p VATS wedge resection ([**11-3**]).  On 4L
+   O2 pre-op, not extubated post-op given high O2 requirement.  Frozen
+   section c/w infiltrative process, likely infectious.
+   24 Hour Events:
+   s/p 1U PRBC for Hct 25
+   s/p 2x 500cc NS boluses post-op
+   Started caspo per onc recs
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3093-11-3**] 07:53 PM
+   Caspofungin - [**3093-11-3**] 11:18 PM
+   Cefipime - [**3093-11-4**] 01:00 AM
+   Metronidazole - [**3093-11-4**] 03:51 AM
+   Azithromycin
+   Bactrim ppx
+   Infusions:
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**3093-11-4**] 02:30 AM
+   Protonix
+   Other medications:
+   Diltiazem- on hold
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3093-11-4**] 07:49 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38
+C (100.4
+   Tcurrent: 36.6
+C (97.9
+   HR: 89 (89 - 110) bpm
+   BP: 90/52(64) {78/42(55) - 121/62(83)} mmHg
+   RR: 14 (11 - 42) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 70 Inch
+             Total In:
+                                                                  2,329 mL
+                                                                    790 mL
+   PO:
+                                                                     60 mL
+             TF:
+   IVF:
+                                                                  1,950 mL
+                                                                    790 mL
+   Blood products:
+                                                                    258 mL
+   Total out:
+                                                                  1,540 mL
+                                                                    500 mL
+   Urine:
+                                                                  1,540 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    789 mL
+                                                                    290 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 670 (670 - 670) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   RSBI: 31
+   PIP: 16 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 55 cmH2O/mL
+   SpO2: 95%
+   ABG: 7.36/41/107/24/-1
+   Ve: 9.9 L/min
+   PaO2 / FiO2: 178
+   Physical Examination
+   Intubated, sedated, opens eyes to voice, denies pain
+   R chest tube on -20sxn, serosanguinous drainage, no air leak
+   CTAB anteriorly
+   HS distant but regular
+   Abd soft, NT, ND, +BS
+   Ext warm, 1+ ankle edema b/l
+   Labs / Radiology
+   8.5 g/dL
+   210 K/uL
+   105 mg/dL
+   0.6 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   22 mg/dL
+   108 mEq/L
+   137 mEq/L
+   24.3 %
+   7.2 K/uL
+        [image002.jpg]
+                             [**3093-10-31**]  03:25 AM
+                             [**3093-10-31**]  11:35 AM
+                             [**3093-10-31**]  11:34 PM
+                            [**3093-11-1**]  03:15 AM
+                            [**3093-11-2**]  05:31 AM
+                            [**3093-11-3**]  05:11 AM
+                            [**3093-11-3**]  05:16 PM
+                            [**3093-11-3**]  06:15 PM
+                            [**3093-11-3**]  08:06 PM
+                            [**3093-11-4**]  05:14 AM
+   WBC
+   6.3
+   7.1
+   10.0
+   8.5
+   7.2
+   Hct
+   24.2
+   22.9
+   25.2
+   25.6
+   25.6
+   23.8
+   24.3
+   Plt
+   85
+   123
+   149
+   167
+   210
+   Cr
+   0.7
+   0.6
+   0.6
+   0.5
+   0.6
+   TCO2
+   26
+   28
+   24
+   Glucose
+   123
+   108
+   90
+   102
+   105
+   Other labs: PT / PTT / INR:15.4/36.4/1.4, Ca++:7.9 mg/dL, Mg++:1.6
+   mg/dL, PO4:2.6 mg/dL
+   Portable CXR
+ sig improved, no clear ptx
+   Assessment and Plan
+   See also resident note for full details.
+   60 yo M w/DLBCL (dx [**5-30**]) s/p 6 cycles of R-CHOP and recent
+   hospitalization for pneumonia in the setting neutropenia who was
+   readmitted on [**3093-10-28**] w/RUL infiltrate and fever.  Despite broad
+   antibiotic coverage, pt remains febrile and has had dramatic
+   progression of dense R-sided consolidation on chest CT. s/p flex bronch
+   w/BAL notable only for GPC.  s/p R VATS [**11-3**] w/wedge resection.
+   -R-sided infiltrate-
+   ---f/u path, shows acute organizing pneumonitis w/lots of pmns, fungal
+   stain pending though H&E unrevealing
+   ---cont vanco, cefepime, flagyl, azithro, caspo- d/w ID and onc
+   tailoring regimen
+   -Hypoxemic Respiratory failure s/p VATS.
+   ---no e/o ptx on CXR this am
+   ---wean FiO2 for goal O2 sat >95%
+   -R chest tube
+   ---cont -20sxn, f/u thoracics recs
+   -Fevers
+   ---Cont broad spectrum abx, f/u cxs.  Check quantitative
+   immunoglubulins (has required IVIG in past).
+   -DLBCL
+   ---day 16 s/p 6^th cycle R-CHOP: not neutopenic, plts rebounding, tf
+   for Hct<25,
+   ---f/u onc recs
+   -PAF
+   ---currently in NSR, dilt on hold given lower BP in setting of sedation
+   -h/o DVT
+   ---lovenox
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3093-10-30**] 08:00 PM
+   20 Gauge - [**3093-11-1**] 10:00 PM
+   16 Gauge - [**3093-11-3**] 03:55 PM
+   Prophylaxis:
+   DVT: lovenox
+   Stress ulcer: Protonix
+   VAP: peridex, HOB elevated
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition : ICU
+   Total time spent:  30 min
+
+
+
+DOC CLASS

@@ -1,0 +1,128 @@
+Admission Date:  [**3291-11-12**]     Discharge Date:  [**3291-11-19**]
+
+Date of Birth:   [**3264-8-21**]     Sex:  F
+
+Service:  Cardiothoracic Surgery
+
+HI[**Last Name (STitle) 2666**]OF PRESENT ILLNESS:  This is a 27-year-old woman who
+was referred to Dr. [**Last Name (Prefixes) **] for repair of a dilated
+aortic root.  Her aortic root was found to measure 4.6 cm in
+the ascending portion and 3.1 cm at the arch.
+
+PAST MEDICAL HISTORY:  Marfan syndrome.  The patient had an
+echocardiogram on [**3291-7-31**] which revealed an ejection fraction
+of 55%, mild left ventricular hypertrophy, mild aortic
+insufficiency, mild mitral regurgitation, mild tricuspid
+regurgitation and most significantly dilated aortic root.
+The patient also has a history of asthma with numerous
+Emergency Room visits and treated with courses of steroids.
+Last course of steroids was [**6-24**].  Of note, the patient does
+not tolerate beta blockers.  The patient denies any history
+of reflux or esophageal disease.
+
+PAST SURGICAL HISTORY:  Status post pneumothorax repair in
+[**3282**] at [**Hospital 4355**].  She has had a normal
+spontaneous vaginal delivery.
+
+ALLERGIES:  Seasonal allergies.  Denies allergies to
+medications.
+
+MEDICATIONS:  On admission, Ventolin inhaler prn.
+
+PHYSICAL EXAMINATION:  On admission, height 6 feet, 1 inch,
+weight 250 lbs, blood pressure 116/75, pulse 86.  General,
+impression of pleasant, obese woman appearing consistent with
+stated age of 27 years old in no distress.  Neuro, alert and
+oriented, non focal exam.  HEENT:  Extraocular movements
+intact, pupils equal, round and reactive to light with
+accommodation.  Neck, full range of motion.  Chest clear to
+auscultation bilaterally.  Cardiac, regular rate and rhythm.
+Abdomen soft, nontender, non distended.  Extremities, no
+edema, warm, well perfused.
+
+LABORATORY DATA:  Echocardiogram from [**3291-7-31**], please see HPI
+for details.  Preoperative laboratories, hematocrit 34.0.
+[**Name (NI) 2551**], PT 12.5, PTT 28.1, INR 1.0.  Chemistries, sodium 139,
+potassium 3.9, chloride 104, CO2 22, BUN 11, creatinine 0.7,
+glucose 99.
+
+HO[**Last Name (STitle) **] COURSE:  The patient was admitted to [**Hospital1 341**] on [**3291-11-4**].  On the day of
+admission Dr. [**Last Name (Prefixes) **] performed a valve sparing aortic
+root replacement.  The patient had 199 minutes on bypass, 179
+minutes cross clamp time and 10 minutes of circulatory
+arrest.  Please see previously dictated operative note for
+more details.
+
+The patient tolerated the procedure well and was discharged
+from the operating room to the cardiac surgery recovery unit.
+On leaving the operating room the patient was intubated, was
+atrial paced and on a Propofol drip.  Her postoperative
+course was complicated by hypertension in the Intensive Care
+Unit which required her to be on a variety of vasoactive
+drips.  On postoperative day #1 she was on Esmolol, Nitro and
+Propofol drip to maintain her blood pressure.  By
+postoperative day #2 the patient was weaned off all
+vasoactive drips and was extubated and pressure was
+controlled with oral cardizem.  She was transferred to the
+patient care floor on postoperative day #2.  By postoperative
+day #3 her pacing wires and Foley catheter were removed and
+she was ambulating at approximately level [**1-27**].  The patient
+continued to do well and had a temperature up to 101.2 on
+[**11-15**].  Fever was worked up with CBC, urinalysis, blood
+cultures, urine cultures and sputum cultures.  Her work-up
+did not reveal any source of the fever, neither did a chest
+x-ray.  Her fever resolved and she remained afebrile
+throughout the duration of the hospital course.  The patient
+continued to do well and discharge was delayed until
+postoperative day #7 due to the fact that she was to be
+discharged home alone.  Her discharge was delayed until she
+had support at home.
+
+Examination on discharge, temperature 100.6, pulse 104, blood
+pressure 112/68, respirations 18, 96% on room air.  General
+appearance is comfortable.  Pulmonary clear to auscultation
+bilaterally.  Cardiac, regular rate and rhythm, no murmurs.
+Her sternum was stable.  There was no drainage from the
+wound.  Her abdomen was soft, nontender, non distended.  She
+has a wound in her right groin which is well healing, no
+erythema, no exudate, no drainage.  There is no edema in her
+lower extremities.
+
+DISCHARGE DISPOSITION:  To home with VNA for frequent blood
+pressure checks.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE MEDICATIONS:  Lasix 20 mg po q 12 hours times one
+week, potassium chloride 20 mEq po q 12 hours while on Lasix,
+Percocet 1-2 tablets q 4-6 hours prn, Colace 100 mg po bid
+while taking Percocet, Aspirin 325 mg po q day, Cardizem 30
+mg po q 6 hours, Nystatin powder to affected area prn.
+
+FO[**Last Name (STitle) **]P:  Dental - her dentist has been called alerting her
+that she needs semi urgent appointment and will be seen in
+the next couple of days.  The dentist will call the patient
+but the patient should call the dentist should this not
+happen.  Follow-up by Dr. [**Last Name (Prefixes) **] in [**2-25**] weeks.
+Follow-up with primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 13986**] in 3
+weeks.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post valve sparing aortic root replacement.
+
+
+
+
+                          [**Doctor Last Name 407**] [**Last Name (Prefixes) 408**], M.D.  [**MD Number(1) 409**]
+
+Dictated By:[**Last Name (NamePattern1) 6276**]
+
+MEDQUIST36
+
+D:  [**3291-11-19**]  09:56
+T:  [**3291-11-21**]  12:47
+JOB#:  [**Job Number 28472**]
+
+
+
+DOC CLASS

@@ -1,0 +1,225 @@
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**3222-11-7**] 08:30 AM
+ BLOOD CULTURED - At [**3222-11-7**] 09:30 AM
+   x1set
+ EEG - At [**3222-11-7**] 12:15 PM
+ TRANSTHORACIC ECHO - At [**3222-11-7**] 03:47 PM
+ EKG - At [**3222-11-7**] 04:00 PM
+ FEVER - 101.8
+F - [**3222-11-7**] 08:00 AM
+   Troponins flat
+   Per VNA nurse, HA since [**Month (only) 56**], progressively worse, [**3224-9-16**] x 1 month
+   Allergies:
+   Penicillins
+   Arthralgia/Arth
+   Codeine
+   Nausea/Vomiting
+   Sulfonamides
+   Unknown;
+   Aspirin
+   Abdominal pain;
+   Valium (Oral) (Diazepam)
+   Headache;
+   Erythromycin Base
+   Constipation;
+   Ciprofloxacin
+   Nausea/Vomiting
+   Biaxin (Oral) (Clarithromycin)
+   Nausea/Vomiting
+   Acyclovir
+   Nausea/Vomiting
+   Zestril (Oral) (Lisinopril)
+   Cough;
+   Egg
+   swollen arm;
+   Oxycontin (Oral) (Oxycodone Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Cefipime - [**3222-11-8**] 03:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3222-11-7**] 06:00 AM
+   Famotidine (Pepcid) - [**3222-11-7**] 10:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3222-11-8**] 05:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.8
+C (101.8
+   Tcurrent: 37.3
+C (99.2
+   HR: 57 (57 - 106) bpm
+   BP: 116/64(76) {110/61(75) - 157/97(111)} mmHg
+   RR: 17 (13 - 27) insp/min
+   SpO2: 99%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 58.8 kg (admission): 58.8 kg
+             Total In:
+                                                                  2,330 mL
+                                                                    220 mL
+   PO:
+                                                                    240 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    790 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  2,670 mL
+                                                                    120 mL
+   Urine:
+                                                                  1,570 mL
+                                                                    120 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                   -340 mL
+                                                                    100 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 99%
+   ABG: ///27/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   117 K/uL
+   12.6 g/dL
+   142 mg/dL
+   1.2 mg/dL
+   27 mEq/L
+   4.5 mEq/L
+   17 mg/dL
+   102 mEq/L
+   139 mEq/L
+   38.7 %
+   16.9 K/uL
+        [image002.jpg]
+                             [**3222-11-7**]  01:29 AM
+                             [**3222-11-7**]  09:53 AM
+                             [**3222-11-7**]  05:42 PM
+   WBC
+   16.8
+   16.9
+   Hct
+   41.1
+   38.7
+   Plt
+   227
+   117
+   Cr
+   1.2
+   1.2
+   TropT
+   <0.01
+   0.06
+   0.06
+   Glucose
+   198
+   142
+   Other labs: PT / PTT / INR:13.7/22.8/1.2, CK / CKMB /
+   Troponin-T:183/5/0.06, ALT / AST:21/26, Alk Phos / T Bili:91/1.1,
+   Differential-Neuts:85.7 %, Lymph:8.0 %, Mono:4.6 %, Eos:1.2 %, Lactic
+   Acid:2.8 mmol/L, Albumin:4.0 g/dL, LDH:281 IU/L, Ca++:8.4 mg/dL,
+   Mg++:2.8 mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   [**Age over 90 304**]yo woman with h/o stroke presents with aphasia and right sided
+   weakness.
+   # Aphasia/R sided weakness:
+   Per neurology, unlikely to be recurrence of stroke given lack of
+   findings on MRI.  She has clearly made progress on her speech and
+   weakness since presentation.  Symptoms could be due to recrudescence in
+   the setting of active infection.  It is interesting to note that she
+   was also febrile when she initially presented with stroke 5/[**3222**].
+   Seizures also possible as this could be post-ictal state, but unlikely
+   given no witnessed seizure activity.
+   - appreciate neuro input
+   - maintain SBP < 220
+   - f/u MRI read
+   - monitor neuro exam
+   - check MRA head/neck when patient able
+   - EEG
+   - ASA and plavix
+   - TTE to eval for embolic source
+   - continue metoprolol
+   - hold imdur to allow for autoregulation
+   - IVF at 70cc/hr
+   # Fevers:
+   Of note, she was observed to aspirate in the ED.  However, she was also
+   febrile upon presentation, so it is unclear if she had aspirated
+   earlier or if there is another source for her infection.
+   - f/u sputum, UCx, BCx
+   - given vanc and ceftriaxone in ED ([**11-6**])
+   - treat with vanc/cefepime for broad coverage given that she comes from
+   [**Hospital3 **]
+   - defer LP for now given no nuchal rigidity and improving neurologic
+   findings; patient's BP has been stable
+   - elevated lactate in ED most likely from rigors; monitor, decreasing,
+   repeat lactate this am.
+   # ARF on CKD:  Baseline Cr 1.2, Admission Cr 1.6, now down to 1.2
+   Back to baseline after IVF
+   - monitor
+   - renally dose meds as her GFR is not normal
+   # CAD s/p PCI: 2 sets of CE, 2^nd set shows CK of 158, Trop 0.06
+   - continue ASA, plavix, metoprolol
+   - restart imdur pending neuro recs
+   - continue lipitor
+   - SL NTG prn
+   - serial EKGs and cardiac enzymes. If Trop continues to rise, consult
+   Cardiology.
+   # Paroxysmal AFib:
+   [**Month (only) 56**] be contributing to recurrent strokes.  Not on anticoagulation.
+   - discuss with neuro and patient's PCP [**Name Initial (PRE) 5586**]/benefits of coumadin
+   - on beta blocker
+   #DM: SSI
+   # Elevated AST:
+   - recheck LFTs
+   # ? Anxiety/Depression
+   - continue lexapro
+   - unclear why patient is on benzodiazepines, but hold in setting of
+   poor mental status
+   # Osteoporosis:
+   - fosamax as outpatient
+   # GERD:  lansoprazole
+   # ? Asthma:  albuterol
+   # FEN:  Speech and swallow eval: unable to handle liquids, able to
+   swallow Nectar thick liquid and puree. Meds can go PO crushed in puree.
+   Feed in small amounts.
+   - Nutrition consult
+   # PPx:  subQ heparin [**Hospital1 **], PPI
+   # Access:  18g x 2
+   # Comm:  son [**Name (NI) 37**] [**Name (NI) **] [**Telephone/Fax (3) 5587**] (unable to reach
+   son tonight)
+   # [**Name2 (NI) 62**]:  DNR/DNI confirmed with her son.
+   #DISPO: ICU for now.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3222-11-6**] 11:45 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

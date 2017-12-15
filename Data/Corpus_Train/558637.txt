@@ -1,0 +1,145 @@
+Chief Complaint: Hemetemsis
+   HPI:
+   Admitted to the MICU with hemetemeisis, s/p EGD yesterday which showed
+   only gastritis. Hct has been stable since admit.
+   24 Hour Events:
+ EKG - At [**2719-12-8**] 08:15 AM
+ ULTRASOUND - At [**2719-12-8**] 08:23 AM
+ ENDOSCOPY - At [**2719-12-8**] 12:35 PM
+   Allergies:
+   Lisinopril
+   Angioedema;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Dextrose 50% - [**2719-12-8**] 12:00 PM
+   Pantoprazole (Protonix) - [**2719-12-9**] 08:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2719-12-9**] 10:43 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.3
+C (97.4
+   HR: 96 (77 - 96) bpm
+   BP: 141/83(98) {100/58(69) - 141/85(98)} mmHg
+   RR: 18 (12 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+   CVP: 5 (-12 - 9)mmHg
+   Total In:
+                                                                  3,026 mL
+                                                                    456 mL
+   PO:
+                                                                    300 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  2,070 mL
+                                                                    216 mL
+   Blood products:
+                                                                    556 mL
+   Total out:
+                                                                  2,420 mL
+                                                                    580 mL
+   Urine:
+                                                                  2,420 mL
+                                                                    580 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    606 mL
+                                                                   -125 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   9.9 g/dL
+   26 K/uL
+   103 mg/dL
+   1.5 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   16 mg/dL
+   104 mEq/L
+   140 mEq/L
+   27.3 %
+   10.3 K/uL
+        [image002.jpg]
+                             [**2719-12-8**]  04:05 AM
+                             [**2719-12-8**]  10:02 AM
+                             [**2719-12-8**]  04:18 PM
+                             [**2719-12-8**]  10:13 PM
+                             [**2719-12-9**]  04:21 AM
+   WBC
+   5.3
+   7.0
+   10.3
+   Hct
+   18.2
+   27.2
+   27.0
+   26.6
+   27.3
+   Plt
+   34
+   38
+   26
+   Cr
+   1.7
+   1.5
+   Glucose
+   40
+   103
+   Other labs: PT / PTT / INR:20.4/34.2/1.9, ALT / AST:60/126, Alk Phos /
+   T Bili:145/4.2, Lactic Acid:1.8 mmol/L, Albumin:3.1 g/dL, LDH:281 IU/L,
+   Ca++:7.8 mg/dL, Mg++:0.9 mg/dL, PO4:2.0 mg/dL
+   Assessment and Plan
+   GI bleed - EGD with gastitis, advancing diet. On IV PPI. Restart home
+   antihypertensives
+   ETOH - at risk for WD.  Cont. on CIWA scale .
+   Liver Failure - not transplant candidate [**2-1**] etoh abuse. GI following
+   Anion Gap Acidosis - Lacatate, gap improving.
+   further plans as per resident note
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2719-12-8**] 03:45 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

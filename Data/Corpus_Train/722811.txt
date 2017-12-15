@@ -1,0 +1,161 @@
+Chief Complaint:
+   24 Hour Events:
+   Thoracic surgery: requesting daily CXR
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3041-4-3**] 05:00 PM
+   Nafcillin - [**3041-4-4**] 02:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3041-4-3**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3041-4-4**] 06:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.7
+C (96.3
+   Tcurrent: 35.7
+C (96.3
+   HR: 84 (78 - 93) bpm
+   BP: 110/55(69) {73/31(49) - 124/73(94)} mmHg
+   RR: 18 (17 - 34) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95 kg (admission): 98 kg
+   Height: 72 Inch
+             Total In:
+                                                                  1,580 mL
+                                                                    220 mL
+   PO:
+                                                                    880 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    700 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                    665 mL
+                                                                    500 mL
+   Urine:
+                                                                    665 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    915 mL
+                                                                   -280 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 92%
+   ABG: ///29/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   208 K/uL
+   9.8 g/dL
+   90 mg/dL
+   3.3 mg/dL
+   29 mEq/L
+   3.5 mEq/L
+   42 mg/dL
+   103 mEq/L
+   139 mEq/L
+   29.8 %
+   6.3 K/uL
+        [image002.jpg]
+                             [**3041-3-31**]  08:00 AM
+                             [**3041-3-31**]  02:49 PM
+                             [**3041-3-31**]  11:22 PM
+                             [**3041-4-1**]  06:28 AM
+                             [**3041-4-1**]  04:50 PM
+                             [**3041-4-2**]  06:23 AM
+                             [**3041-4-2**]  04:55 PM
+                             [**3041-4-3**]  04:28 AM
+                             [**3041-4-3**]  06:28 PM
+                             [**3041-4-4**]  03:58 AM
+   WBC
+   8.6
+   7.8
+   6.3
+   Hct
+   26.5
+   25.7
+   29.6
+   29.8
+   Plt
+   [**Telephone/Fax (3) 4524**]
+   Cr
+   2.6
+   2.5
+   2.5
+   2.3
+   2.4
+   2.6
+   2.8
+   3.1
+   3.3
+   Glucose
+   237
+   284
+   237
+   187
+   189
+   124
+   227
+   110
+   90
+   Other labs: PT / PTT / INR:17.6/29.6/1.6, CK / CKMB /
+   Troponin-T:166/6/4.18, ALT / AST:45/33, Alk Phos / T Bili:54/0.9,
+   Amylase / Lipase:101/78, Differential-Neuts:84.6 %, Band:2.0 %,
+   Lymph:10.6 %, Mono:3.7 %, Eos:0.9 %, Fibrinogen:563 mg/dL, Lactic
+   Acid:1.2 mmol/L, Albumin:2.3 g/dL, LDH:295 IU/L, Ca++:8.0 mg/dL,
+   Mg++:2.2 mg/dL, PO4:5.3 mg/dL
+   Assessment and Plan
+ ALTERATION IN NUTRITION
+ IMPAIRED PHYSICAL MOBILITY
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE
+ DECUBITUS ULCER (NOT PRESENT AT ADMISSION)
+   coccyx
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**])
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ ANXIETY
+ IMPAIRED SKIN INTEGRITY
+ INEFFECTIVE COPING
+ SHOCK, SEPTIC
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ DIABETES MELLITUS (DM), TYPE II
+ .H/O RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ SHOCK, OTHER
+ SHOCK, CARDIOGENIC
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3041-3-27**] 10:55 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,260 @@
+Chief Complaint:
+   24 Hour Events:
+   -versed and fentanyl gtt started
+   -PO valium started; pt also getting PO haldol
+   -HR was elevated overnight. pt was given 5mg lopressor
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Azithromycin - [**3250-8-2**] 02:27 PM
+   Vancomycin - [**3250-8-3**] 08:27 AM
+   Ceftriaxone - [**3250-8-3**] 01:52 PM
+   Infusions:
+   Fentanyl (Concentrate) - 75 mcg/hour
+   Midazolam (Versed) - 3 mg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3250-8-3**] 02:50 PM
+   Fentanyl - [**3250-8-3**] 04:00 PM
+   Haloperidol (Haldol) - [**3250-8-3**] 04:15 PM
+   Metoprolol - [**3250-8-4**] 04:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3250-8-4**] 05:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 35.8
+C (96.4
+   HR: 100 (89 - 145) bpm
+   BP: 112/67(79) {79/51(59) - 129/96(106)} mmHg
+   RR: 13 (0 - 20) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 72 Inch
+    CVP: 14 (8 - 26)mmHg
+   CO/CI (Fick): (13.1 L/min) / (5.8 L/min/m2)
+   Mixed Venous O2% Sat: 80 - 80
+   Total In:
+                                                                  1,250 mL
+                                                                     52 mL
+   PO:
+   TF:
+   IVF:
+                                                                    880 mL
+                                                                     52 mL
+   Blood products:
+                                                                    280 mL
+   Total out:
+                                                                  1,450 mL
+                                                                    560 mL
+   Urine:
+                                                                  1,450 mL
+                                                                    560 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -200 mL
+                                                                   -508 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Agitated
+   PIP: 41 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 50 cmH2O/mL
+   SpO2: 98%
+   ABG: 7.38/41/164/23/0
+   Ve: 10.6 L/min
+   PaO2 / FiO2: 410
+   Physical Examination
+   General
+ sedated, on ventilator
+   CV
+ faint heart sounds; however, no murmurs, rubs, or gallops
+   appreciated; irregular rhythm
+   Resp
+ some ronchi noted
+   Abdomen
+ soft, non-tender, non-distended, bowel sounds present
+   Extremities
+ some pitting edema noted in the lower extremities
+   Labs / Radiology
+   93 K/uL
+   8.0 g/dL
+   89 mg/dL
+   1.5 mg/dL
+   21 mEq/L
+   4.4 mEq/L
+   46 mg/dL
+   97 mEq/L
+   129 mEq/L
+   23.8 %
+   3.7 K/uL
+        [image002.jpg]
+                             [**3250-8-2**]  05:04 PM
+                             [**3250-8-2**]  06:22 PM
+                             [**3250-8-2**]  06:28 PM
+                             [**3250-8-2**]  09:56 PM
+                             [**3250-8-2**]  10:18 PM
+                             [**3250-8-3**]  04:16 AM
+                             [**3250-8-3**]  04:34 AM
+                             [**3250-8-3**]  11:41 AM
+                             [**3250-8-3**]  01:50 PM
+                             [**3250-8-3**]  06:17 PM
+   WBC
+   6.7
+   5.9
+   5.7
+   Hct
+   23.4
+   21.4
+   23.7
+   25.0
+   Plt
+   84
+   78
+   82
+   Cr
+   1.7
+   1.6
+   TCO2
+   25
+   24
+   25
+   26
+   23
+   25
+   Glucose
+   95
+   101
+   Other labs: PT / PTT / INR:17.5/66.6/1.6, CK / CKMB /
+   Troponin-T:216/11/0.05, ALT / AST:15/21, Alk Phos / T Bili:79/0.4,
+   Lactic Acid:1.0 mmol/L, Albumin:2.5 g/dL, LDH:522 IU/L, Ca++:7.5 mg/dL,
+   Mg++:1.8 mg/dL, PO4:2.6 mg/dL
+   Sputum Cx - pending
+   Assessment and Plan
+ ATRIAL FIBRILLATION (AFIB)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ CARDIOMYOPATHY, OTHER
+ ANEMIA, OTHER
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ .H/O HEART FAILURE (CHF), SYSTOLIC, CHRONIC
+ .H/O CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS,
+   EMPHYSEMA) WITH ACUTE EXACERBATION
+ .H/O ATRIAL FIBRILLATION (AFIB)
+ .H/O ALCOHOL ABUSE
+   59 yo M with PMH of systolic CHF, hx of transudative pleural effusions,
+   admitted with bradycardia and acute on chronic CHF initially managed
+   with fluid resulting in worsening heart failure transferred to MICU for
+   hypoxia.
+   .
+   # Dyspnea / Hypoxia
+ likely CHF exacerbation and CAP
+   - on fentanyl gtt at 75 and versed gtt at 3
+   - will continue albuterol and ipratropium
+   - pt was intubated secondary to worsening respiratory status (now on
+   CMV with PEEP of 10 and FiO2 40%)
+ will attempt to wean down to a PEEP
+   of 5
+   - for his CAP, the patient is on ceftriaxone
+ will continue
+   ceftriaxone now and obtain another sputum culture
+   .
+   # Systolic CHF
+   - unclear etiology (per cards, possibly some component of alcohol
+   cardiomyopathy and possibly some tachy-myopathy)
+   - will continue metoprolol and will continue to hold hydralazine, as
+   patient is normotensive
+   - pt did have some tachycardia last night that required IV metoprolol
+   will increase pt
+s metoprolol dose to 50 mg TID
+   - will also give pt a 40 mg IV Lasix bolus and then start pt on Lasix
+   gtt
+ goal diuresis is around 1 to 1.5L today
+   - pt
+s long-acting nitrate was held
+   - pt can possibly be started on an ACEi in the long term
+   .
+   # Alcohol Abuse
+ Reported h/o DTs with seizures.
+   - continue MVI, thiamine, and folate
+   - follow-up B12
+   - Stopped CIWA because pt was snowed on benzodiazepines initially when
+   he was in the ICU
+   - F/u social work recs
+ SW says that they will see the patient when he
+   is able to communicate
+   # Recurrent Left Pleural Effusion
+ was tapped in [**6-4**]
+   - continue to monitor for changes in CXR
+   .
+   # Atrial Fibrillation
+   - HR still elevated
+   - will increase metoprolol to 50 mg TID
+   - will hold off on restarting diltiazem at this point
+   - pt not on coumadin per personal preference
+   .
+   # ARF
+   - current creatinine 1.5
+ seems to be trending down
+   - continue to monitor UOP, BUN, and Cr
+   .
+   # Anemia
+   - pt
+s hematocrit is currently 23.8
+ will transfuse if Hct drops below
+   21
+   - guaiac stools
+   .
+   # Diabetes Mellitus Type II
+   - on ISS
+   .
+   # Chronic Obstructive Pulmonary Disease
+   - continue albuterol and ipratropium
+   .
+   # Hyponatremia / Hypochloremia
+   - hyponatremia improving
+ will continue to monitor to see if it
+   corrects with diuresis
+   - will continue to check lytes
+   .
+   # Thrombocytopenia
+   - will continue to monitor platelet level
+   - will avoid medications that worsen
+   .
+   # Elevated INR
+   - will continue to monitor and trend
+   .
+   # Mediastinal Lymphadenopathy/Pulmonary Nodules - Noted on prior
+   admission, recommended follow-up CT in 3 months.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3250-8-1**] 10:42 PM
+   Arterial Line - [**3250-8-2**] 05:02 PM
+   Multi Lumen - [**3250-8-2**] 07:03 PM
+   Prophylaxis:
+   DVT: heparin SC
+   Stress ulcer: PPI
+   VAP:  mouth care, HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

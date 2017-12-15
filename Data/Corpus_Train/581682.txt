@@ -1,0 +1,200 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - Swallow eval: regular diet
+   - Gave 200mg IV furosemide in pm for 900ml.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2653-3-20**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2653-3-21**] 05:51 AM
+   Infusions:
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**2653-3-21**] 10:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2653-3-22**] 06:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.4
+C (97.6
+   HR: 65 (54 - 75) bpm
+   BP: 157/67(93) {114/52(68) - 170/74(102)} mmHg
+   RR: 15 (13 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 78.1 kg (admission): 86.1 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,953 mL
+                                                                    486 mL
+   PO:
+                                                                    170 mL
+             TF:
+                                                                  1,323 mL
+                                                                    334 mL
+   IVF:
+                                                                    680 mL
+                                                                    121 mL
+   Blood products:
+   Total out:
+                                                                  2,065 mL
+                                                                    465 mL
+   Urine:
+                                                                  2,065 mL
+                                                                    465 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    888 mL
+                                                                     21 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: 7.43/43/76.[**Numeric Identifier 428**]/27/3
+   Physical Examination
+   Gen: awake, talking, follows simple commands
+   CV: RRR no m/r/g
+   Resp: Occasional rhonchi
+   Abd: Soft. Obese. NT ND. NABS.
+   Ext: No edema b/l. WWP. 2+ radial and DP pulses.
+   Neuro: Moves all ext (R>L), follows commands, EOMI.
+   Labs / Radiology
+   440 K/uL
+   8.9 g/dL
+   154 mg/dL
+   3.3 mg/dL
+   27 mEq/L
+   3.5 mEq/L
+   72 mg/dL
+   96 mEq/L
+   138 mEq/L
+   25.3 %
+   15.8 K/uL
+        [image002.jpg]
+                             [**2653-3-19**]  03:19 PM
+                             [**2653-3-19**]  06:34 PM
+                             [**2653-3-20**]  05:36 AM
+                             [**2653-3-20**]  05:47 AM
+                             [**2653-3-20**]  03:06 PM
+                             [**2653-3-20**]  03:19 PM
+                             [**2653-3-21**]  04:51 AM
+                             [**2653-3-21**]  02:31 PM
+                             [**2653-3-22**]  04:00 AM
+                             [**2653-3-22**]  04:08 AM
+   WBC
+   13.2
+   14.5
+   15.8
+   Hct
+   28.5
+   26.5
+   25.3
+   Plt
+   458
+   480
+   440
+   Cr
+   2.5
+   2.5
+   2.7
+   3.3
+   TCO2
+   36
+   29
+   32
+   32
+   29
+   29
+   Glucose
+   162
+   163
+   162
+   154
+   Other labs: PT / PTT / INR:16.7/92.5/1.5, CK / CKMB /
+   Troponin-T:1063/25/5.28, ALT / AST:33/36, Alk Phos / T Bili:281/0.3,
+   Differential-Neuts:82.7 %, Lymph:9.2 %, Mono:4.5 %, Eos:3.4 %, Lactic
+   Acid:1.9 mmol/L, Albumin:3.3 g/dL, LDH:315 IU/L, Ca++:9.3 mg/dL,
+   Mg++:2.3 mg/dL, PO4:6.4 mg/dL
+   Assessment and Plan
+   62 yo male admitted with [**Year (4 digits) **] and in-stent thrombosis of his Cypher
+   DES and acute CHF likely ischemic/diastolic now s/p evacuation of clot
+   and POBA to distal RCA. Hospital course complicated by respiratory
+   failure, altered mental status, pneumonia, and stroke now improved.
+   Mental status change: Mental status continues to improve s/p
+   extubation. Etiology of altered mental status is likely related to
+   prolonged hospitalization, multiple sedating medications related to
+   intubation, infection given VAP, fluid overload, B12 deficiency, and
+   multiple small acute infarcts as seen on MRI.
+   - continue to follow-up EEG
+   - continue B12 repleteion
+   - appreciate neuro recs
+   - S+S consult
+   Respiratory Failure
+   Patient is s/p self-extubation on [**2653-3-19**] and has tolerated
+   supplemental O2. Etiology likely related to fluid overload now much
+   improved and pneumonia. S/p 8 day course of vancomycin and pip/tazo
+   ([**2559-3-22**]).
+   - continue prn lasix 200mg IV with metolazone 5mg to aim for goal I/Os
+   to be even
+   - continue aggressive suctioning and chest PT
+   [**Name (NI) **] / In-Stent Thrombosis:
+   It remains unclear what may have triggered this thrombosis 4 years
+   after stent placement. He was managed by evacuation of clot and POBA to
+   distal RCA.
+   - Cont plavix , high dose aspirin, statin , labetalol, and lisinopril
+   Strokes/atrial fibrillation
+   - continue plavix
+   - for anticoagulation, continue heparin gtt for now and transition to
+   PO coumadin
+   - for rate control, continue beta blocker
+   Acute Systolic HF
+   Echo showed new systolic dysfunction s/p IMI, now improved with EF
+   50-55%.
+   - aim for goal I/Os to be even with prn lasix 200mg IV with metolazone
+   5mg
+   - continue beta blocker and ACEI
+   Hypertension:
+   Remains hypertensive on regimen but improved since starting imdur.
+   - Cont lisinopril 20 [**Hospital1 **], amlodipine, beta blocker, and imdur
+   Leukocytosis
+   Etiology is unclear. [**Name2 (NI) **] has now completed VAP treatment and no
+   additional symptoms.
+   - send blood and urine cultures
+   Acute Kidney Injury
+   Likely initially from ATN. Creatinine has been in the range of 2.4-2.7.
+   - continue to avoid nephrotoxic agents
+   Diabetes
+   - Cont glargine and ISS
+   Anemia
+   Hct stable. Threshold for transfusion is under 21 given no evidence of
+   end-organ ischemia.
+   - continue to trend
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2653-3-22**] 12:39 AM 55 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2653-3-12**] 08:32 AM
+   PICC Line - [**2653-3-20**] 01:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,154 @@
+Chief Complaint:
+   24 Hour Events:
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Clindamycin - [**2895-10-17**] 01:00 PM
+   Ampicillin - [**2895-10-17**] 02:10 PM
+   Ampicillin/Sulbactam (Unasyn) - [**2895-10-20**] 03:00 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl - 50 mcg/hour
+   Other ICU medications:
+   Diltiazem - [**2895-10-19**] 02:39 PM
+   Famotidine (Pepcid) - [**2895-10-20**] 02:00 AM
+   Metoprolol - [**2895-10-20**] 02:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2895-10-20**] 05:50 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.4
+C (99.4
+   HR: 115 (98 - 149) bpm
+   BP: 135/73(86) {106/51(65) - 144/80(94)} mmHg
+   RR: 8 (7 - 22) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 84.2 kg (admission): 82.6 kg
+   Height: 68 Inch
+             Total In:
+                                                                  2,537 mL
+                                                                    637 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,537 mL
+                                                                    637 mL
+   Blood products:
+   Total out:
+                                                                  1,193 mL
+                                                                    420 mL
+   Urine:
+                                                                  1,193 mL
+                                                                    420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,344 mL
+                                                                    217 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: MMV/PSV/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 1,077 (353 - 1,079) mL
+   PS : 5 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 1
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 9
+   PIP: 10 cmH2O
+   Plateau: 11 cmH2O
+   Compliance: 83.3 cmH2O/mL
+   SpO2: 99%
+   ABG: ///29/
+   Ve: 6.2 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   172 K/uL
+   10.2 g/dL
+   156 mg/dL
+   0.8 mg/dL
+   29 mEq/L
+   4.4 mEq/L
+   29 mg/dL
+   111 mEq/L
+   144 mEq/L
+   27.7 %
+   8.5 K/uL
+        [image002.jpg]
+                            [**2895-10-17**]  01:14 AM
+                            [**2895-10-17**]  01:46 AM
+                            [**2895-10-17**]  06:45 AM
+                            [**2895-10-17**]  06:27 PM
+                            [**2895-10-18**]  02:12 AM
+                            [**2895-10-18**]  04:54 PM
+                            [**2895-10-19**]  01:33 AM
+                            [**2895-10-20**]  01:22 AM
+   WBC
+   7.2
+   8.2
+   11.2
+   11.1
+   8.5
+   Hct
+   30.8
+   30.8
+   29.2
+   29.7
+   27.4
+   27.7
+   Plt
+   164
+   173
+   186
+   187
+   172
+   Cr
+   0.8
+   0.9
+   0.9
+   0.8
+   TCO2
+   26
+   26
+   Glucose
+   162
+   192
+   153
+   156
+   Other labs: PT / PTT / INR:15.8/24.0/1.4, Ca++:8.4 mg/dL, Mg++:2.7
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2895-10-20**] 01:25 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

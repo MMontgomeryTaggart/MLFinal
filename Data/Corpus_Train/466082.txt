@@ -1,0 +1,184 @@
+Chief Complaint:
+   24 Hour Events:
+   - admitted overnight, no complaints overnight
+   - post-cath check performed at 2AM without hematoma or bruit
+   Allergies:
+   Ceftin (Oral) (Cefuroxime Axetil)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Eptifibatide (Integrilin) - 2 mcg/Kg/min
+   Heparin Sodium - 1,000 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2604-1-8**] 06:40 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**05**] AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 57 (52 - 62) bpm
+   BP: 105/47(63) {105/47(63) - 132/90(94)} mmHg
+   RR: 14 (8 - 20) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 66 Inch
+             Total In:
+                                                                  1,869 mL
+                                                                  1,166 mL
+   PO:
+                                                                    480 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                  1,389 mL
+                                                                    926 mL
+   Blood products:
+   Total out:
+                                                                    700 mL
+                                                                    650 mL
+   Urine:
+                                                                    500 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,169 mL
+                                                                    516 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///28/
+   Physical Examination
+   General: middle-aged man, lying on side in bed, nasal prongs in place,
+   NAD
+   HEENT: NC/AT, oropharynx clear
+   Cardiac: Regular rate & rhythm, no murmurs, rubs, or gallops
+   Pulmonary: Clear to auscultation anteriorly
+   Abdominal: soft, NT/ND, no masses, normoactive bowel sounds
+   Extremities: R groin site covered in CDI dressing, no e/o hematoma or
+   bruit this AM, LE
+s warm & well-perfused without edema, cyanosis, or
+   clubbing
+   Peripheral Vascular: (Right radial pulse: present), (Left radial pulse:
+   present), (Right DP pulse: present), (Left DP pulse: present)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   195 K/uL
+   11.9 g/dL
+   130 mg/dL
+   0.8 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   14 mg/dL
+   105 mEq/L
+   139 mEq/L
+   36.6 %
+   4.8 K/uL
+        [image002.jpg]
+                             [**2604-1-7**]  05:15 PM
+                             [**2604-1-7**]  07:11 PM
+                             [**2604-1-7**]  10:24 PM
+                             [**2604-1-8**]  04:15 AM
+   WBC
+   11.1
+   7.0
+   4.8
+   Hct
+   36.7
+   36.2
+   36.6
+   Plt
+   233
+   227
+   186
+   195
+   Cr
+   0.2
+   0.8
+   0.8
+   TropT
+   0.06
+   0.48
+   0.69
+   Glucose
+   108
+   133
+   130
+   Other labs: PT / PTT / INR:12.6/30.2/1.1, CK / CKMB /
+   Troponin-T:310/30/0.69, Differential-Neuts:88.3 %, Lymph:7.4 %,
+   Mono:3.7 %, Eos:0.5 %, Lactic Acid:1.2 mmol/L, Ca++:8.3 mg/dL, Mg++:1.8
+   mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   58 year old male with past medical history significant for known CAD
+   but no MI who presents with anterior STEMI.
+   1) STEMI/CAD: The patient had a large anterior STEMI but was
+   revascularized with placement of a DES in the proximal LAD.  Since
+   catheterization, the patient has been hemodynamically stable and chest
+   pain free. CE
+s elevated this AM, have not yet peaked.
+   -Continue Epifibatide gtt for 18 hours (1pm on [**1-8**])
+   -Continue Heparin gtt for 48 hours (5pm on [**1-9**])
+   -Continue Aspirin, high dose atorvastatin, holding beta blocker for
+   relative bradycardia
+   -Cycle cardiac enzymes to monitor resolution of ischemia
+   -Echocardiogram to assess for wall motion abnormalities
+   -Restart home Ramipril 2.5mg daily at discharge
+   -Lipid panel in AM, acknowledging that it may be altered by stress
+   reaction to MI
+   -Repeat EKG in AM to evaluate for any signs of recurrent ischemia
+   2) PUMP: Despite large anterior wall STEMI the patient has no
+   signs/symptoms of left ventricular systolic dysfunction at this time.
+   No hypotension or signs of cardiogenic shock.
+   -Holding off on starting beta blocker given relative bradycardia
+   -Echocardiogram to assess for wall motion abnormalities
+   -Will start home Ramipril 2.5mg daily over next 2-3 days or at
+   discharge
+   3) RHYTHM: Patient had 4-5 beats of NSVT at OSH in context of STEMI but
+   in NSR since then.
+   -Monitor on telemetry
+   -beta blocker when tolerated
+   -Replete electrolytes PRN, K>4, Mg>2
+   -If sustained VT would start Lidocaine gtt for post MI arrythmia
+   4) DYSAUTONOMIA/PARTIAL COMPLEX SEIZURES: Patient stable on home
+   regimen of Phenobarbitol and Lamotrigine.
+   - Continue Phenobarbitol and Lamotrigine at home dose
+   5) BPH: Continue home Doxasosin 1mg qHS.
+   6) HYPERTENSION: Currently normotensive.
+   - Begin patient
+s home Ramipril 2.5mg daily at discharge
+   - Begin low-dose beta-blocker when hr tolerates
+   7) HYPERLIPIDEMIA: On Simvastatin at baseline, will use high dose
+   atorvastatin in context of acute MI.
+   -Continue Atorvastatin 80 mg PO daily
+   -Lipid panel pending
+   8) Likely metabolic acidosis: Resolved with repeat labs. Likely
+   compensatory for respiratory alkalosis due to hyperventilation in
+   context of chest pain and acute myocardial infarction.
+   ICU Care
+   Nutrition: cardiac/heart healthy diet
+   Glycemic Control:  none
+   Lines:
+   20 Gauge - [**2604-1-7**] 06:41 PM
+   Prophylaxis:
+   DVT: Heparin gtt
+   Stress ulcer: N/A
+   VAP:  N/A
+   Communication:  Patient & patient
+s wife [**Name (NI) 115**]
+   Code status: Full code
+   Disposition: to [**Hospital Ward Name 403**] 3 today
+
+
+
+DOC CLASS

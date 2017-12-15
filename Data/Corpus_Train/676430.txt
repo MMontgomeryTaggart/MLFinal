@@ -1,0 +1,219 @@
+SICU
+   HPI:
+   41M with complex recent medical history, significant for MRSA  septic
+   prosthetic hip s/p explantation and spacer in place s/p  9.5 weeks
+   vancomycin/Daptomycin, and enterococcal PICC-associated  bacteremia,
+   off all antibiotics x 2 weeks, now presenting with  severe right
+   forearm cellulitis with complex fluid collection,
+   POD#1 s/p I&D. Currently covered with Daptomycin and Clindamycin.  PT
+   became hypotensive postoperativley requiring neosynephrine
+   Chief complaint:
+   Fever, abscess
+   PMHx:
+   PMH: S/p Line sepsis entercoccus, depression with suicide attempts,
+   SVT, L THR [**3428-7-17**] c/b L hip MRSA prosthetic joint infection with, h/o
+   polysubstance abuse/IVDU cocaine EtOH bacteremia, h/o GIB [**3-3**]
+   thrombocytopenia from Vancomycin
+   PSH: L hip repleacement ,s/p explant [**8-6**], multiple washouts,
+   spacer,ORIF R femur, T10-L3 fusion, transpedicular decompression, at
+   T12, multiple  laminotomies, right Iliac Crest Bone Graft, SBR and
+   exlap [**3424**]
+   Current medications:
+   Ferrous Sulfate 325 mg PO/NG DAILY  Order date: [**12-30**] @ 0135, FoLIC
+   Acid 1 mg PO/NG DAILY  Order date: [**12-30**] @ 0135, Gabapentin 300 mg
+   PO/NG Q12H  Order date: [**12-30**] @ 0135, Glucagon 1 mg IM Q15MIN:PRN
+   hypoglycemia protocol  Order date: [**12-30**] @ 0447, 1000 mL D5NS,
+   HYDROmorphone (Dilaudid) 0.25 mg IVPCA Lockout Interval: 6 minutes
+   Basal Rate: 0 mg(s)/hour 1-hr Max Limit: 1.2 mg(s)  Order date: [**12-30**] @
+   0933
+   Heparin 5000 UNIT SC TID  Order date: [**12-30**] @ 0135, Insulin SC  (per
+   Insulin Flowsheet) Sliding Scale Order date: [**12-30**] @ 0447,
+   Acetaminophen 325-650 mg PO/NG Q6H:PRN pain, fe [**Last Name (un) **]  Order date: [**12-30**]
+   @ 0135,  Magnesium Sulfate  IV Sliding Scale Order date: [**12-30**] @ 1121,
+   Clindamycin 600 mg IV Q8H  Order date: [**12-30**],  @ 0135 Omeprazole 40 mg
+   PO DAILY  Order date: [**12-30**] @ 0135, Daptomycin 700 mg IV Q24H ,
+   Ondansetron 4 mg IV Q8H:PRN nausea  Order date: [**12-30**] @ 0135, Dextrose
+   50% 12.5 gm IV PRN hypoglycemia protocol  Order date: [**12-30**] @ 0447,
+   Phenylephrine 0.5-5 mcg/kg/min IV DRIP TITRATE TO map 60  Order date:
+   [**12-30**] @ 0420  Diazepam 5 mg PO/NG Q6H:PRN agitation  Order date: [**12-30**]
+   @ 0135  Piperacillin-Tazobactam 4.5 g IV Q8H  Order date: [**12-30**] @ 0233
+   Diltiazem 30 mg PO QID  Order date: [**12-30**] @ 0956  Diltiazem 5 mg/hr IV
+   Q4H:PRN afib hold sbp < 100 or HR < 60  Order date: [**12-31**] @ 0736
+   Docusate Sodium 100 mg PO BID  Order date: [**12-30**] @ 0135 Thiamine 100 mg
+   PO/NG DAILY  Order date: [**12-30**] @ 0135  Famotidine 20 mg IV Q24H  Order
+   date: [**12-30**] @ 0454
+   24 Hour Events:
+ EKG - At [**3428-12-30**] 09:29 AM
+ TRANSTHORACIC ECHO - At [**3428-12-30**] 11:15 AM
+ FEVER - 102.2
+F - [**3428-12-30**] 12:00 PM
+   [**12-30**]: Agitated. Hypotensive. Febrile. Bolused, given neo. Bld cx w/ [**3-3**]
+   GPC. Weaned off neo. s/p I/D of L antecub. Vac removed. ? OR in AM.
+   Restarted home meds. Ortho requesting spine MRI
+   Allergies:
+   Vancomycin
+   Rash; Fever/[**Doctor First Name **]
+   Last dose of Antibiotics:
+   Daptomycin - [**3428-12-30**] 10:30 PM
+   Clindamycin - [**3428-12-31**] 02:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3428-12-31**] 04:00 AM
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**3428-12-30**] 08:25 AM
+   Metoprolol - [**3428-12-30**] 09:30 AM
+   Diltiazem - [**3428-12-30**] 09:45 AM
+   Heparin Sodium (Prophylaxis) - [**3428-12-30**] 11:44 PM
+   Other medications:
+   Flowsheet Data as of  [**3428-12-31**] 07:47 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**31**] a.m.
+   Tmax: 39
+C (102.2
+   T current: 37.4
+C (99.4
+   HR: 126 (72 - 143) bpm
+   BP: 112/51(72) {75/40(38) - 126/70(89)} mmHg
+   RR: 18 (12 - 31) insp/min
+   SPO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 101.4 kg (admission): 118 kg
+   Height: 73 Inch
+   CVP: 9 (4 - 16) mmHg
+   Total In:
+                                                                 10,819 mL
+                                                                  2,058 mL
+   PO:
+                                                                  1,020 mL
+                                                                  1,020 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  9,449 mL
+                                                                  1,038 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                  6,440 mL
+                                                                  2,090 mL
+   Urine:
+                                                                  6,340 mL
+                                                                  2,090 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,379 mL
+                                                                    -32 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 100%
+   ABG: 7.42/34/99.[**Numeric Identifier 120**]/20/-1
+   Physical Examination
+   General Appearance: No acute distress, slighlty confused
+   HEENT: EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact, Erythema)
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   374 K/uL
+   7.1 g/dL
+   124 mg/dL
+   1.8 mg/dL
+   20 mEq/L
+   3.4 mEq/L
+   27 mg/dL
+   110 mEq/L
+   143 mEq/L
+   22.5 %
+   13.2 K/uL
+        [image002.jpg]
+                             [**3428-12-30**]  12:52 AM
+                             [**3428-12-30**]  01:01 AM
+                             [**3428-12-30**]  06:49 AM
+                             [**3428-12-30**]  09:27 AM
+                             [**3428-12-31**]  03:28 AM
+   WBC
+   16.9
+   13.2
+   Hct
+   20.2
+   28
+   22.5
+   Plt
+   321
+   374
+   Creatinine
+   1.9
+   1.8
+   TCO2
+   22
+   22
+   23
+   Glucose
+   131
+   102
+   124
+   Other labs: Differential-Neuts:80.2 %, Lymph:13.4 %, Mono:4.9 %,
+   Eos:1.3 %, Lactic Acid:1.2 mmol/L, Albumin:1.9 g/dL, Ca:8.0 mg/dL,
+   Mg:1.6 mg/dL, PO4:5.5 mg/dL
+   Assessment and Plan
+   41yoM RHD h/o IVDU s/p ID Rt forearm abscess as well as dorsal hand
+   Neuro: Dilaudid PCA, Neurontin, Valium prn anxiety.
+   CV: New onset Afib, likely related to sepsis. Restarted pt
+s home dose
+   of diltiazem with good reate control.  TTE normal, no vegetations. ?
+   TEE however at this point, pt refuses TEE.
+   Resp: stable
+   GI: NPO except meds for ?I/D in OR
+   FEN: thiamine,folate. NPO
+   GU: check lytes/Cr likely pre-renal, Foley in place making good urine,
+   Lasix held
+   Endo: RISS
+   ID: Sepsis. Likely MRSA bacteremia. Dapto/Clinda/Zosyn. Bld cx [**3-3**] w/
+   GPC; UTI f/u UCx, f/u ID recs in AM. S/p I/D of L antecubital. Titanium
+   to spine, ortho recs MRI rule out collection.  Pt off pressors last
+   night after plastic surgery did I/D of right forearm at bedside.
+   Heme: Chronic Anemia  s/p 1u pRBC
+   TLD: Foley, Lt radial Aline, 20Gauge and 16Guage peripheral, CVL
+   Wound: Reassess R forearm in AM, ? OR. L antecubital s/p I&D.
+   Imaging:
+   Fluids: D5NS
+   Consults: ID, Plastics, ortho
+   Billing Diagnosis:
+   DVT: Heparin
+   Stress ulcer: H2
+   VAP bundle:
+   Comments:
+   Communication:
+   Code status:  Full
+   Disposition:
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3428-12-30**] 12:44 AM
+   20 Gauge - [**3428-12-30**] 12:44 AM
+   16 Gauge - [**3428-12-30**] 12:44 AM
+   Multi Lumen - [**3428-12-30**] 04:40 AM
+   Prophylaxis:
+   DVT: SQH, VD
+   Stress ulcer: H2
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: SICU
+   Total time spent: 30
+
+
+
+DOC CLASS

@@ -1,0 +1,208 @@
+Chief Complaint:
+   24 Hour Events:
+ URINE CULTURE - At [**2969-3-2**] 09:00 PM
+ EKG - At [**2969-3-3**] 12:00 AM
+   -Was in Vtach for 30 min last night, held pressures, given 150mg IV
+   amiodarone and increased rate to 1mg/ml, also given 100mg lidocaine IV
+   bolus, broke on his own
+   -questionable different underlying rhythm?Aflutter
+   -got 1mg Ativan for PTSDish symptoms
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 1 mg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2969-3-2**] 07:00 AM
+   Pantoprazole (Protonix) - [**2969-3-2**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**2969-3-2**] 09:00 PM
+   Hydromorphone (Dilaudid) - [**2969-3-2**] 11:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2969-3-3**] 06:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (98.9
+   Tcurrent: 36.6
+C (97.9
+   HR: 75 (75 - 136) bpm
+   BP: 110/79(89) {91/63(74) - 154/86(109)} mmHg
+   RR: 18 (9 - 21) insp/min
+   SpO2: 96%
+   Heart rhythm: AV Paced
+             Total In:
+                                                                  2,474 mL
+                                                                    312 mL
+   PO:
+                                                                  1,680 mL
+             TF:
+   IVF:
+                                                                    794 mL
+                                                                    312 mL
+   Blood products:
+   Total out:
+                                                                    790 mL
+                                                                    230 mL
+   Urine:
+                                                                    790 mL
+                                                                    230 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,684 mL
+                                                                     83 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///24/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   111 K/uL
+   10.5 g/dL
+   111 mg/dL
+   1.6 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   32 mg/dL
+   109 mEq/L
+   137 mEq/L
+   30.3 %
+   11.2 K/uL
+        [image002.jpg]
+                             [**2969-2-28**]  12:18 PM
+                             [**2969-2-28**]  07:37 PM
+                             [**2969-3-1**]  04:12 AM
+                             [**2969-3-1**]  04:31 AM
+                             [**2969-3-1**]  08:22 AM
+                             [**2969-3-1**]  12:37 PM
+                             [**2969-3-1**]  11:04 PM
+                             [**2969-3-2**]  04:22 AM
+                             [**2969-3-2**]  05:39 PM
+                             [**2969-3-3**]  04:45 AM
+   WBC
+   13.2
+   13.0
+   15.6
+   11.2
+   Hct
+   34.0
+   32.9
+   35.9
+   30.3
+   Plt
+   129
+   114
+   107
+   150
+   111
+   Cr
+   2.1
+   2.2
+   1.7
+   2.0
+   1.6
+   TropT
+   0.10
+   0.11
+   TCO2
+   26
+   27
+   23
+   26
+   Glucose
+   135
+   113
+   111
+   Other labs: PT / PTT / INR:15.2/30.5/1.3, CK / CKMB /
+   Troponin-T:1674/5/0.11, ALT / AST:174/150, Alk Phos / T Bili:138/0.5,
+   Differential-Neuts:90.9 %, Lymph:6.1 %, Mono:2.1 %, Eos:0.9 %, Lactic
+   Acid:0.8 mmol/L, Albumin:3.9 g/dL, LDH:367 IU/L, Ca++:7.6 mg/dL,
+   Mg++:2.0 mg/dL, PO4:2.9 mg/dL
+   ASSESSMENT AND PLAN: 73 year old man with hx of CAD s/p CABG and PCI,
+   severe ischemic cardiomyopathy with EF ~20%, scar mediated VT s/p biV
+   ICD implanation, CKD, and afib admitted with pancreatitis, course c/b
+   VT arrest this AM.
+   .
+   # s/p VT arrest:
+   Will aim to wean lido gtt and possibly restart mexilitine.
+   - TSH wnl
+   - will discuss further with EP service
+   # s/p intubation: Aim for extubation today, on minimal settings.
+   .
+   # CAD: - current chest pain is focal and likely related to CPR and
+   shocks.
+   - continue aspirin/statin.  Holding beta blocker as above.
+   - cautious use of SLN if CP recurs given severe AS
+   - Continue to monitor on telemetry
+   - trend biomarkers
+   .
+   # Abdominal pain/Diarrhea: Had resolved prior to transfer to CCU.
+   History appears similar to prior episode in [**1-6**].  Symptoms and labs
+   felt to be c/w pancreatitis.  No cholethiasis apprecaited on abdominal
+   u/s.  C. diff negative x1.
+   - OG tube in place
+   - Continue PPI, sucralfate, antiemetics per home regimen
+   .
+   # Chronic systolic CHF.  The patient has known severe HK and AK of LV
+   c/w CAD, EF 20%, AS (valve area 0.8-1.0cm) on most recent echo.  After
+   discussion with Dr. [**First Name (STitle) **], echocardiogram during today's code showed
+   worsened LV function.
+   - continue aspirin/statin.
+   - Consider diuresis today if poor UOP though this may be post-arrest
+   ATN.
+   .
+   #. Acute on chronic renal failure: Likley [**1-30**] ATN, hypoperfusion during
+   code
+   -          continue to follow
+   -          avoid nephrotoxins
+   -          renally dose meds
+   -          Check urine lytes
+   -
+   #Thrombocytopenia: Repeat in pm
+   .
+   # Anxiety: not acute issue
+   .
+   # FEN: NPO, OG tube in place
+   - Follow lytes and replete aggressively.
+   .
+   # ACCESS: PIVs
+   .
+   # PROPHYLAXIS: heparin subq, bowel regimen, PPI
+   .
+   # CODE: full confirmed with patient by [**Hospital Unit Name 4201**] team.  Will rediscuss with
+   patient once able.   Patient is not interested in catheterization,
+   valvuloplasty, or ablation procedures according to discussion with his
+   [**Hospital Unit Name 4201**] team and attg Dr. [**First Name (STitle) **].
+   .
+   # DISPO: pending above
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2969-2-28**] 06:00 PM
+   Arterial Line - [**2969-2-28**] 07:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

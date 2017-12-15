@@ -1,0 +1,245 @@
+Chief Complaint: ascites, bacteremia
+   24 Hour Events:
+ PICC LINE - START [**3500-2-13**] 09:56 AM
+   -Restarted home statin
+   -Restarted aldactone (at higher dose) 100mg and cont lasix 40mg po
+   -Stopped meropenem, started cipro 250mg daily for sbp ppx
+   -Picc line placed
+   -Likely to radius today
+   History obtained from Medical records
+   Patient unable to provide history: Unresponsive
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3500-2-11**] 08:14 PM
+   Meropenem - [**3500-2-13**] 12:10 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3500-2-13**] 08:00 AM
+   Lorazepam (Ativan) - [**3500-2-13**] 08:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Cardiovascular: Tachycardia
+   Nutritional Support: Tube feeds
+   Genitourinary: Foley
+   Flowsheet Data as of  [**3500-2-14**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**02**] AM
+   Tmax: 36.9
+C (98.5
+   Tcurrent: 36.2
+C (97.2
+   HR: 108 (84 - 108) bpm
+   BP: 116/77(86) {96/60(70) - 123/85(105)} mmHg
+   RR: 20 (15 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 86.7 kg (admission): 90 kg
+   Height: 70 Inch
+                  Total In:
+                                                                  1,026 mL
+                                                                    259 mL
+   PO:
+                  TF:
+                                                                    861 mL
+                                                                    259 mL
+   IVF:
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  1,700 mL
+                                                                    350 mL
+   Urine:
+                                                                  1,550 mL
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -674 mL
+                                                                    -91 mL
+   Respiratory support
+   O2 Delivery Device: T-piece
+   SpO2: 100%
+   ABG: ///28/
+   Physical Examination
+   General Appearance: No acute distress
+   Head, Ears, Nose, Throat: trach, split tongue
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous: )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Not assessed
+   Neurologic: No(t) Follows simple commands, Responds to: Noxious
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   316 K/uL
+   8.0 g/dL
+   127 mg/dL
+   1.6 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   40 mg/dL
+   111 mEq/L
+   149 mEq/L
+   26.9 %
+   13.0 K/uL
+        [image002.jpg]
+                             [**3500-2-9**]  04:38 AM
+                             [**3500-2-10**]  02:02 AM
+                             [**3500-2-10**]  09:00 AM
+                             [**3500-2-11**]  02:32 AM
+                             [**3500-2-11**]  10:30 PM
+                             [**3500-2-11**]  10:40 PM
+                             [**3500-2-12**]  03:21 AM
+                             [**3500-2-12**]  11:39 PM
+                             [**3500-2-13**]  03:12 AM
+                             [**3500-2-14**]  04:31 AM
+   WBC
+   13.8
+   13.0
+   17.4
+   14.1
+   13.4
+   13.0
+   Hct
+   27.6
+   23.0
+   26.0
+   24.2
+   26.7
+   26.6
+   26.9
+   Plt
+   [**Telephone/Fax (3) 11388**]74
+   270
+   316
+   Cr
+   2.3
+   2.0
+   1.8
+   1.8
+   1.7
+   1.7
+   1.6
+   TropT
+   0.07
+   TCO2
+   26
+   Glucose
+   95
+   103
+   81
+   98
+   108
+   147
+   94
+   127
+   Other labs: PT / PTT / INR:15.7/30.9/1.4, ALT / AST:33/31, Alk Phos / T
+   Bili:558/2.6, Ca++:9.4 mg/dL, Mg++:2.1 mg/dL, PO4:3.0 mg/dL
+   Fluid analysis / Other labs: VANC: 26.0
+   TRENDS:
+   WBCs trending down
+   CR trending down
+   Tbili tredning down
+   Microbiology: No new culture growth
+   Assessment and Plan
+   45M anoxic brain injury s/p VFA during VT abalation, DCM (20%), MRSA
+   bacteremia, tongue biting s/p total dental extraction, ?chronic liver
+   disease. Reportedly febrile at rehab with increasing abd girth, +BCx,
+   proteus UTI, peritonitis treated with vanc/[**Last Name (un) 411**] for coag negative
+   staph, MRSA bacteremia, SBP and pseudomonas/MRSA in sputum.
+ BACTEREMIA: Coag neg staph x 2, MRSA.  Per ID likely new line source
+   rather than relapse from prior MRSA bacteremia.
+   -- Continue vanc for 14 day treatment course (start date [**2-7**])
+   -- new PICC placed
+ SBP
+   Completed course of [**Last Name (un) 411**]. On cipro ppx.
+ Sputum with MRSA and pseudomonas,
+   not likely represents true infection, however did coomplete course of
+   [**Last Name (un) 411**]
+ Hypernatremia
+   Free water deficit 3.1L. Increased free water flushes to tube feeds to
+   150 Q4.
+ ASCITES/TRANSAMINITIS:
+   Likely secondary to progressive severe sCHF leading to congestive
+   hepatopathy, BNP elevated and echo remarkable for severe RHF (severe
+   TR) and poor EF (20%).
+   -- Cont lasix and spironolactone
+   --cipro for ppx
+   --Will advise rehab to give additional lasix for weight change
+   --continue to hold statin
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF): Cr improving.
+   Likely related to poor forward flow.
+   -- Trend Is/Os
+   -- Trend Cr
+   -- Holding ace-I
+   -- Renally dose meds
+ HEART FAILURE (CHF), SYSTOLIC, CHRONIC: EF 20% on TEE; Severe TR.
+   -- Increase carvedilol to 12.5 [**Hospital1 **]
+   -- on spironolactone
+   -- daily weights,  extra lasix for weight change as above
+   -- Holding ace-I for ARF, would consider restarting if creatinine
+   stable
+ ANEMIA, CHRONIC: stable
+   -- may benefit from iron supplementation
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+   -- Cont asa, coreg
+   -- Holding ace-I and statin
+ DIABETES MELLITUS (DM), TYPE II
+   -- ISS
+ ANOXIC BRAIN DAMAGE (ANOXIC ENCEPHALOPATHY, HYPOXIC ISCHEMIC)
+   [**2-6**] PEA arrest
+   stable
+ DECUBITUS ULCER (PRESENT AT ADMISSION)
+   Per wound care
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**3500-2-14**] 03:39 AM 38 mL/hour
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3500-2-8**] 12:37 PM
+   PICC Line - [**3500-2-13**] 09:56 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:Transfer to rehab / long term care facility
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 45M anoxic brain injury s/p VFA during VT
+   abalation, DCM (20%), admitted with MRSA bacteremia / peritonitis /
+   UTI, creatinine and LFTs are slowly trending down.
+   Exam notable for Tm 98.5 BP 120/70 HR 82 RR 18 with sat 99 on TM 0.4.
+   Eyes open, may track occasionally, unresponsive to threat. Coarse BS c
+   scattered wheeze / rales. RRR s1s2s3s4 [**2-10**] SM. Distended, +BS, + fluid
+   wave. 1+ edema. Labs notable for WBC 13K, HCT 26, K+ 4.2, Cr 1.6, LFTs
+   improving.
+   Agree with plan to manage staph bacteremia with vanco to level via PICC
+   x 14d total, ID input appreciated, continue cipro for SBP prophlaxis.
+   New ascites / cirrhosis - continue lasix and aldactone, LFTs are
+   improving, hold lipitor. ARF improving, renal dose meds, vanco to
+   level. DCM - continue asa / coreg / lasix - can increase coreg to 12.5
+   [**Hospital1 **], eventually would like to add back ACEI. Will add FWB 150 q4h for
+   new hypernatremia. TFs, +BM, PICC. Remainder of plan as outlined above.
+   Total time: 35 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3500-2-14**] 01:48 PM ------
+
+
+
+DOC CLASS

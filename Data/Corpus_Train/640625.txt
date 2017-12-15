@@ -1,0 +1,124 @@
+SICU
+   HPI:
+   64F dyspnea & chronic R effusions - loculated s/p R VATS decortication
+   [**9-18**]
+   Chief complaint:
+   PMHx:
+   PMH:  Hodgkin's Lymphoma s/p XRT, CAD - MI in [**3107**] s/p stents x3,
+   IDDM2, GERD, Barrett's, Hypothyroid
+   PSH:  CABG/MVR [**5-13**], Splenectomy [**3078**], s/p Right video-assisted
+   thoracoscopic surgery drainage of pleural effusion, pleural biopsy,
+   lysis of adhesions and removal of clotted hemothorax on [**3113-8-29**]
+   [**Last Name (un) 550**]:  Simvastatin 40, folic acid 1, metformin 500, NPH 22/18, Humalog
+   SS, niacin 500, Toprol XL 25, Levoxyl 150, Prilosec 20, ASA 325,
+   Lisinopril, Plavix 75
+   Current medications:
+   24 Hour Events:
+   Allergies:
+   Iodine
+   Hives;
+   Steri-Strip (Topical) (Adhesive Tape)
+   Rash;
+   Adhesive (Miscell)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 1 mcg/Kg/min
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3113-9-18**] 02:16 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**16**] a.m.
+   Tmax: 35.7
+C (96.2
+   T current: 35.7
+C (96.2
+   HR: 104 (104 - 109) bpm
+   BP: 78/50(61) {78/50(61) - 98/54(72)} mmHg
+   RR: 16 (16 - 16) insp/min
+   SPO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 63 Inch
+            Total In:
+            3,501 mL
+   PO:
+            Tube feeding:
+   IV Fluid:
+   2,001 mL
+   Blood products:
+   1,500 mL
+   Total out:
+                                                                      0 mL
+                                                                  1,730 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,771 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   PIP: 41 cmH2O
+   Plateau: 23 cmH2O
+   SPO2: 100%
+   ABG: ////
+   Ve: 8.3 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: Absent), (Temperature: Warm)
+   Right Extremities: (Edema: Absent), (Temperature: Warm)
+   Neurologic: Sedated, Chemically paralyzed
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   Assessment and Plan:
+   Neurologic: Epidural T7-8, APS 10- on hold right now, will restart if
+   BP improves, fentanyl prn sedation/overbreathing vent. Sedation:
+   Propofol
+   Cardiovascular: Metoprolol prn, Neo gtt prn MAP>55
+   Pulmonary: Plan to remain intubated with high TV/PEEP to keep R lung up
+   Gastrointestinal / Abdomen: NPO, Protonix
+   Nutrition: LR @ 25, electrolyte replacemet prn
+   Renal: Foley
+   Hematology: 1500 EBL in OR, s/p 4 units rbcs
+   Endocrine: Levothyroxine IV, RISS
+   Infectious Disease:  Cefazolin 2 g q12
+   Lines / Tubes / Drains: 16G IV x1, ulnar A line, CT x3
+   Wounds:
+   Imaging:
+   Fluids: LR
+   Consults: CT surgery
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition:
+   Total time spent:
+
+
+
+DOC CLASS

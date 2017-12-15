@@ -1,0 +1,299 @@
+Admission Date:  [**3409-7-31**]              Discharge Date:   [**3409-8-4**]
+
+Date of Birth:  [**3344-2-29**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+shortness of breath
+
+Major Surgical or Invasive Procedure:
+Aortic valve replacement (25mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 357**]) [**7-31**]
+
+
+History of Present Illness:
+65 year old male who was found to have aortic stenosis on
+outside study. Echocardiogram repeated revealing severe aortic
+stenosis ([**Location (un) **] 1.0cm2, peak gradient 99mmHG, EF 55%). He reports
+having to stop at the top of a flight of stairs due to shortness
+of breath. He admits to increasing fatigue over the last few
+months and is now taking naps daily. He was referred for a
+cardiac
+catheterization which showed essentially clean coronaries. He
+was seen by Dr. [**Last Name (STitle) 222**] for an aortic valve replacement and has
+undergone dental work in preparation for surgery. He returns
+today for preadmission testing for surgery [**3409-7-25**].
+
+Past Medical History:
+Severe aortic stenosis
+Hypertension
+Hyperlipidemia
+History of rheumatic fever
+Diabetes mellitus type 2
+Peripheral vascular disease
+Tobacco abuse
+Obesity
+Obstructive sleep apnea, uses CPAP with O2 concentrator
+Hypothyroid
+Venous stasis, skin [**Month/Day/Year 2297**]
+arthritis (knees)
+Left foot fracture
+Left wrist fracture
+Bells palsy, resolved
+Kidney stone
+S/P "ulcers" in eye caused by virus
+right arthroscopic knee surgery
+Umbilical hernia repair [**3380**] and [**3383**]
+Tonsillectomy
+
+
+Social History:
+He lives with his wife and works as a production coordinator.
+Mr. [**Known patient lastname 17361**] is a current smoker, smoking twelve cigarettes per day
+for fifty
+years.  He consumes less than one alcoholic beverage per week.
+
+Family History:
+Mr. [**Known patient lastname 17362**] mother had a myocardial infarction in her sixties.
+
+Physical Exam:
+Pulse:85 Resp:20  O2 sat:95/RA
+B/P  Right:138/66    Left: 135/68
+Height:5'[**07**]"     Weight:380 lbs
+
+General: NAD, AAOx3
+Skin: Dry [X] [**Year (2 digits) 2297**] [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [x] grade II/VI SEM
+Abdomen: Obese. Soft [x] non-distended [x] non-tender [x]
+Extremities: Warm [x], well-perfused [x]  [**2-13**]+ LE Edema with
+chronic venous stasis changes
+Varicosities: None [x]
+Neuro: Grossly [**Month/Day (2) 2297**] [x]
+Pulses:
+Femoral      Right: palp  Left: palp
+DP           Right: palp  Left: palp
+PT           [**Name (NI) **]: palp  Left: palp
+Radial       Right: palp  Left: palp
+
+Carotid Bruit        Right: none  Left: none
+
+
+Pertinent Results:
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname **], [**Known patient firstname 152**]       [**Hospital1 4**] [**Numeric Identifier 17363**]       TEE (Complete) Done
+[**3409-7-31**] at 10:34:16 AM      FINAL
+Referring Physician     [**Name9 (PRE) 406**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+[**Hospital1 4**], Division of Cardiothorac
+[**Hospital Unit Name 407**]
+[**Location (un) 100**], [**Numeric Identifier 112**]  Status: Inpatient DOB: [**3344-2-29**]
+Age (years): 65 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: AVR
+ICD-9 Codes: 786.05, 786.51, 424.1
+Test Information
+Date/Time: [**3409-7-31**] at 10:34    Interpret MD: [**First Name8 (NamePattern2) 163**] [**Last Name (NamePattern1) 706**], MD
+
+Test Type: TEE (Complete) Son[**Name (NI) 410**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 706**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2012AW-1: Machine: us4
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Inferolateral Thickness:  *1.2 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  *6.2 cm  <= 5.6 cm
+Left Ventricle - Ejection Fraction:  50% to 55%  >= 55%
+[**Last Name (NamePattern4) **] - Ascending:  3.0 cm  <= 3.4 cm
+Aortic Valve - Mean Gradient:  54 mm Hg
+Aortic Valve - LVOT diam:  2.3 cm
+Aortic Valve - Valve Area:  *1.2 cm2  >= 3.0 cm2
+
+Findings
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.
+
+LEFT VENTRICLE: Low normal LVEF.
+
+RIGHT VENTRICLE: Mild global RV free wall hypokinesis.
+
+[**Last Name (NamePattern4) 10762**]: Normal ascending [**Last Name (NamePattern4) **] diameter. Simple atheroma in
+descending [**Last Name (NamePattern4) **].
+
+AORTIC VALVE: Moderate AS (area 1.0-1.2cm2) Moderate (2+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial
+MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. No TEE related complications.
+Conclusions
+Pre-CPB:
+No spontaneous echo contrast is seen in the left atrial
+appendage.
+Overall left ventricular systolic function is low normal (LVEF
+50-55%). with mild global free wall hypokinesis. There are
+simple atheroma in the descending thoracic [**Last Name (NamePattern4) **].
+There is moderate aortic valve stenosis (valve area 1.0-1.2cm2).
+Moderate (2+) aortic regurgitation is seen.
+The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen.
+There is no pericardial effusion.
+
+Post-CPB:
+The patient is in NSR, on no inotropes.
+There is a new aortic tissue valve in place with no AI and no
+leak.
+Residual mean gradient = 6 mmHg.
+Preserved biventricular systolic fxn.
+No MR. [**First Name (Titles) **] [**Last Name (Titles) 2297**].
+
+[**3409-8-4**] 05:02AM BLOOD WBC-10.5 RBC-3.36* Hgb-10.9* Hct-32.8*
+MCV-98 MCH-32.5* MCHC-33.4 RDW-13.4 Plt Ct-87*
+[**3409-7-31**] 02:50PM BLOOD PT-12.9* PTT-31.1 INR(PT)-1.2*
+[**3409-8-4**] 05:02AM BLOOD Glucose-125* UreaN-28* Creat-0.9 Na-142
+K-3.7 Cl-105 HCO3-32 AnGap-9
+
+Brief Hospital Course:
+The patient was brought to the Operating Room on [**7-31**] where the
+patient underwent an aortic valve replacement.  Overall the
+patient tolerated the procedure well and post-operatively was
+transferred to the CVICU in stable condition for recovery and
+invasive monitoring.  Please see the operative note for details.
+ POD 1 found the patient extubated, alert and oriented and
+breathing comfortably.  The patient was neurologically [**Month/Year (2) 2297**]
+and hemodynamically stable, weaned from inotropic and
+vasopressor support.  Beta blocker was initiated and the patient
+was gently diuresed toward the preoperative weight.  He was
+thrombocytopenic post-operatively but was heparin dependent
+antibody negative and his platelets slowly began to recover.
+The patient was transferred to the telemetry floor for further
+recovery on post-operaive day two.  Chest tubes and pacing wires
+were discontinued without complication.  For DVT prophylaxis he
+was given subcutaneous heparin and venodyne boots, which he
+should continue at rehab until he is more mobile.  The patient
+was evaluated by the physical therapy service for assistance
+with strength and mobility.  By the time of discharge on POD
+four the patient's wound wound was healing and pain was
+controlled with oral analgesics.  The patient was discharged to
+[**Hospital3 280**] in good condition with appropriate follow up
+instructions.
+
+Medications on Admission:
+.  Information was obtained from .
+1. Levothyroxine Sodium 300 mcg PO DAILY
+2. Lisinopril 20 mg PO DAILY
+3. Hydrochlorothiazide 25 mg PO DAILY
+4. meloxicam *NF* 15 mg Oral daily
+5. MetFORMIN (Glucophage) 1000 mg PO BID
+6. Niacin 500 mg PO DAILY
+7. Simvastatin 20 mg PO DAILY
+8. Chantix *NF* (varenicline) 1 mg Oral [**Hospital1 **]
+
+
+Discharge Medications:
+1. Levothyroxine Sodium 300 mcg PO DAILY
+2. Niacin 500 mg PO DAILY
+3. Simvastatin 20 mg PO DAILY
+4. Lisinopril 20 mg PO DAILY
+5. Hydrochlorothiazide 25 mg PO DAILY
+6. MetFORMIN (Glucophage) 1000 mg PO BID
+7. meloxicam *NF* 15 mg ORAL DAILY
+8. Chantix *NF* (varenicline) 1 mg Oral [**Hospital1 **]
+9. Acetaminophen 650 mg PO Q4H:PRN pain/fever
+10. Albuterol Inhaler 4 PUFF IH Q4H:PRN wheezes
+11. Aspirin EC 81 mg PO DAILY
+12. Bisacodyl 10 mg PR DAILY:PRN constipation
+13. Docusate Sodium 100 mg PO BID
+14. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **]
+15. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol
+16. Heparin 5000 UNIT SC TID
+17. Insulin SC
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using REG Insulin
+18. Metoprolol Tartrate 25 mg PO BID
+Hold for HR < 55 or SBP < 90 and call medical provider.
+19. Milk of Magnesia 30 ml PO HS:PRN constipation
+20. Potassium Chloride 20 mEq PO Q12H
+Hold for K+ > 4.5
+21. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain
+22. Furosemide 40 mg IV BID
+taper per clinical exam and weight.  patient has normal EF and
+was not previously on lasix
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 280**]
+
+Discharge Diagnosis:
+aortic stenosis
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Lift only
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Wound Check at Cardiac Surgery Office [**Telephone/Fax (1) 294**] [**3409-8-15**] at
+10:30
+Surgeon Dr. [**Last Name (STitle) 222**] [**3409-8-30**] at 1:45pm [**Telephone/Fax (1) 294**]
+Cardiologist Dr. [**Last Name (STitle) 2418**] (Dr.[**Name (NI) 17364**] office will call patient)
+Please call to schedule the following:
+Primary [**First Name (STitle) 17365**], [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in [**5-18**] weeks ([**Telephone/Fax (1) 17366**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**3409-8-4**]
+
+
+DOC CLASS

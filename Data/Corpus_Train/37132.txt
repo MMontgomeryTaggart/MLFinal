@@ -1,0 +1,259 @@
+Admission Date:  [**2649-2-6**]              Discharge Date:   [**2649-2-11**]
+
+Date of Birth:  [**2578-11-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Severe mitral regurgitation status post minimally invasive
+mitral valve repair.
+
+
+Major Surgical or Invasive Procedure:
+Redo mitral valve surgery with mitral valve replacement, 27 mm
+Biocor tissue valve.
+
+
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 70-year-old male who 1 week earlier underwent
+mitral valve repair for a flail posterior leaflet and a
+myxomatous valve through a right
+minithoracotomy minimally invasively. His postoperative TEE at
+the time of surgery showed an intact repair with no mitral
+regurgitation whatsoever. He was discharged from the hospital 3
+days later with no murmur and feeling well. However, on the 5th
+postoperative day he presented to an outside hospital
+complaining of shortness of breath and found to have a murmur
+and echocardiogram showed moderate to severe mitral
+regurgitation. He was admitted urgently to the ICU and TEE that
+showed dehiscence of the mitral
+annuloplasty band posteriorly. He was brought to the operating
+room for mitral valve surgery through a median sternotomy.
+
+
+Past Medical History:
+Past Medical History:
+Mitral and aortic valve insufficiency
+Hyperlipidemia
+Hypertension
+GERD
+BPH
+remote right legfx
+remote bil. rib fxs
+skin CA
+remote left wrist fx
+osteoarthritis- hands
+Past Surgical History:
+Left inguinal hernia repair
+rem. skin CA right face and back
+
+
+Social History:
+Race:Caucasian
+Last Dental Exam: 20 YEARS AGO
+Lives in [**Location **] MA with wife
+Occupation:[**Name2 (NI) **]
+Tobacco:never
+ETOH: 1 cocktial per day
+
+
+Family History:
+Family History:Significant for CAD <55%: mother died of CHF at
+85
+
+
+Physical Exam:
+Physical Exam
+T 98.0
+Pulse:ST 108 Resp:20  O2 sat: 100% 4L
+B/P  Right:147/86    Left:
+Height: 5'[**49**]"    Weight:175#
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [] B/L crackles
+Heart: RRR [x]  Irregular []  Murmur IV/VI blowing holosystolic
+murmur best heard at apex
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [], well-perfused []  Edema 2+ LE edema
+sluggish cap refill, mottled toes B/L Varicosities: None []
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right:2+   Left:2+
+DP           Right:1+   Left:1+
+PT           [**Name (NI) 647**]:1+   Left:1+
+Radial       Right:   Left:
+
+Carotid Bruit        Right:    Left: transmitted murmur B/L
+Incision: Thoracotomy incision C/D/I with no erythema
+
+
+Pertinent Results:
+[**2649-2-6**] 07:14PM   GLUCOSE-169* UREA N-31* CREAT-1.1 SODIUM-138
+POTASSIUM-4.7 CHLORIDE-101 TOTAL CO2-27 ANION GAP-15
+
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+[**2649-2-7**] at 2:20:23 PM      PRELIMINARY
+LEFT ATRIUM: Mild LA enlargement. No spontaneous echo contrast
+or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA. All four pulmonary
+veins identified and enter the left atrium.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA. PFO is present. Left-to-right
+shunt across the interatrial septum at rest.
+LEFT VENTRICLE: Wall thickness and cavity dimensions were
+obtained from 2D images. Normal LV wall thickness and cavity
+size. Low normal LVEF.
+RIGHT VENTRICLE: Normal RV chamber size. Mildly dilated RV
+cavity. Mild global RV free wall hypokinesis.
+AORTA: Normal ascending aorta diameter. Simple atheroma in
+ascending aorta. Normal descending aorta diameter. Simple
+atheroma in descending aorta.
+AORTIC VALVE: Three aortic valve leaflets. Mildly thickened
+aortic valve leaflets (?#). No AS. Trace AR.
+MITRAL VALVE: Bioprosthetic mitral valve prosthesis (MVR).
+Mitral valve annuloplasty ring. Abnormal MVR motion c/w partial
+dehiscence. Severe (4+) MR. [**Name13 (STitle) 653**] to the eccentric MR jet, its
+severity may be underestimated (Coanda effect).
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+PERICARDIUM: No pericardial effusion.
+
+PRE-BYPASS: The left atrium is mildly dilated. No spontaneous
+echo contrast or thrombus is seen in the body of the left atrium
+or left atrial appendage. A patent foramen ovale is present. A
+left-to-right shunt across the interatrial septum is seen at
+rest. Left ventricular wall thicknesses and cavity size are
+normal. Overall left ventricular systolic function is low normal
+(LVEF 50-55%). Right ventricular chamber size is normal. The
+right ventricular cavity is mildly dilated with mild global free
+wall hypokinesis. There are simple atheroma in the ascending
+aorta. There are simple atheroma in the descending thoracic
+aorta. There are three aortic valve leaflets. The aortic valve
+leaflets are mildly thickened . There is no aortic valve
+stenosis. Trace aortic regurgitation is seen. A mitral valve
+annuloplasty ring is present. The annunloplasty ring has
+dehisced and has dissociated from the posterior mitral annular
+region. Motion of the mitral annulus is abnormal and suggestive
+of partial dehiscence. Severe (4+) mitral regurgitation is seen.
+Due to the eccentric nature of the regurgitant jet, its severity
+may be significantly underestimated (Coanda effect). There is no
+pericardial effusion.
+
+POST CPB:
+1. There is a bioprosthetic prosthesis in mitral position. Well
+seated and stable with good leqaflet excursion. There is no MR.
+[**Name13 (STitle) **] gradient is 17 mm Hg and mean gradient is 11 mm Hg.
+(Cardiac Output 6.5 liters/min with epinephrine infusion)
+2. LV and RV systolic functions are unchanged.
+3. Intact aorta.
+
+
+Brief Hospital Course:
+70 yo male admitted with shortness of breath and increasing
+lower extremity edema.   After TEE showed dehiscence of the
+mitral annuloplasty band posteriorly, the patient was taken on
+[**2649-2-7**] to the operating room for a redo mitral valve surgery
+with mitral valve replacement, 27 mm Biocor tissue valve via
+median sternotomy.  See operative note for full details.  He was
+transported to the intensive care unit and weaned off of all
+vasoactive medications on post operative night.  He was
+extubated without incidence on post operative night.  He was
+started on beta blockers and they were increased as needed.
+Chest tubes and pacing wires were removed per cardiac surgery
+protocol.  He was transferred to the floor on post operative day
+# 1.  He continued to work with physical therapy for improving
+strength and endurance.  He was diuresing well with Lasix twice
+a day.  He was tolerating a full po diet, his incisions were
+healing well and he was ambulating with assistance on post
+operative day 4.  It was felt that he was safe for discharge to
+home with VNA services at this time.
+
+
+Medications on Admission:
+Lopressor 25 [**Hospital1 **], Lasix 40 po daily, KCL, Colace, omeprazole,
+ASA, ibuprofen TID
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*1*
+6. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 10
+days.
+Disp:*20 Tablet(s)* Refills:*0*
+7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+Two (2) Tab Sust.Rel. Particle/Crystal PO once a day for 10
+days.
+Disp:*20 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for pain/fever. Tablet(s)
+9. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Community Nurse [**First Name (Titles) **] [**Last Name (Titles) **] Care,Inc
+
+Discharge Diagnosis:
+Severe mitral regurgitation status post minimally invasive
+mitral valve repair.
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with percocet prn
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month until follow up with
+surgeon
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 181**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+
+
+Followup Instructions:
+Please call to schedule appointments
+Surgeon Dr [**Last Name (STitle) **] in 4 weeks [**Telephone/Fax (1) 181**]
+Primary Care Dr [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 965**] in [**1-20**] weeks [**Telephone/Fax (1) 34313**]
+Cardiologist Dr [**First Name8 (NamePattern2) **] [**Name (STitle) **] 1-2 weeks
+Wound check appointment - [**Hospital Ward Name **] 6 ([**Telephone/Fax (1) 3833**]) - your nurse
+will schedule
+
+
+
+Completed by:[**2649-2-11**]
+
+
+DOC CLASS

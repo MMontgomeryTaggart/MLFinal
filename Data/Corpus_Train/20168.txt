@@ -1,0 +1,172 @@
+Admission Date:  [**2973-1-28**]       Discharge Date:  [**2973-2-4**]
+
+Date of Birth:   [**2933-3-19**]       Sex:  F
+
+Service:  Cardiac surgery
+
+CHIEF COMPLAINT:  Chest pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a 39-year-old woman with
+diabetes, hypertension, hyperlipidemia and obesity, with a
+one to two months of chest burning with exertion. For the
+past six months, she has been participating in a new vigorous
+exercise program to lose weight. Her symptoms do gradually
+resolve with rest, but they have started to occur now with
+walking. She does acknowledge that there is associated
+nausea, diaphoresis and shortness of breath. Now recently she
+started to get symptoms for the past two days while at rest.
+She was referred for an outpatient exercise tolerance test,
+where she had chest pain and significant EKG changes. She was
+referred to [**Hospital1 68**] for cardiac catheterization today, which
+revealed significant left main artery disease. Just prior to
+her transfer to [**Hospital1 68**], she did complain of chest pain and
+back pain at about 7/10 intensity and a nitroglycerin drip
+was started and she received 5 mg of IV Lopressor and 2 mg of
+IV Ativan, which did resolve her pain. While she was in the
+cath lab, she had an intraaortic balloon pump placed, and now
+she is not actively complaining of any pain.
+
+REVIEW OF SYSTEMS:  She denies any orthopnea, lower extremity
+edema, but she does acknowledge that she does have
+dysmenorrhea.
+
+PRIOR MEDICAL HISTORY:  She has diabetes mellitus, type 2,
+diagnosed in [**2963**]. She has been able to control it with diet
+since [**2972-7-12**]; hypertension and obesity; however, she has
+lost 40 pounds in the last six months.
+
+SHE HAS AN ALLERGY TO SHELLFISH.
+
+MEDICATIONS ON TRANSFERS TO [**Hospital1 68**]:  Atenolol 50 mg a day,
+lisinopril 10 mg a day, Lipitor 20 mg a day, aspirin 325 mg
+once a day, progesterone, nitroglycerin drip, Lopressor,
+Ativan.
+
+SOCIAL HISTORY:  She does not smoke. She does not use ethanol
+and she does not use cocaine. Her father had a brain tumor.
+Her brother did have coronary artery disease and a myocardial
+infarction in his late 30s. Her mother has hypertension. She
+does have a strong family history for hyperlipidemia.
+
+PHYSICAL EXAMINATION:  The patient is comfortable appearing,
+in no apparent distress. Vital signs: Temperature 99.1, pulse
+72, blood pressure 144/87. Pulse oximetry is 98% on room air.
+Head and neck: PERRLA. EOMI. Anicteric. Mucous membranes
+moist. Neck supple, no lymphadenopathy, no JVD. Cardiac:
+Regular rate and rhythm. Lungs clear to auscultation
+bilaterally. Abdomen is soft, nontender, nondistended, but
+she is morbidly obese, positive bowel sounds. Her extremities
+are warm, no edema. She has got 5/5 strength in all
+extremities.
+
+Her laboratories prior to admission from [**Hospital3 **] were
+white count 7.4, hematocrit of 39.8, platelets 190,000.
+Hemoglobin A1c was 7.1. Sodium was 140, potassium 4.1,
+chloride 103, bicarbonate 28, BUN 14, creatinine 0.6. Total
+cholesterol was 307, triglycerides were 79, and HDL was 50.
+
+[**Last Name (STitle) 32175**], which was at [**Hospital3 **] (it was not at
+[**Hospital1 68**]), showed diffuse left main and proximal left anterior
+descending artery stenosis, 60% to 70%, which was ulcerative;
+50% mid LAD stenosis; 50% left circumflex stenosis after OM1;
+moderate right coronary artery stenosis; a normal ejection
+fraction of 78%; no mitral regurgitation. Note that the right
+coronary artery stenosis that I am reported is different than
+what was actually reported on the initial catheterization
+results from [**Hospital3 **]. This was discussed between Dr. [**Last Name (Prefixes) 1869**] and Dr. [**Last Name (STitle) **], and was not actually considered to be
+80% as previously reported.
+
+So this was a woman who was considered to have unstable
+angina but not actively ischemic. She was put on an
+intraaortic balloon pump, followed in the cardiac care unit,
+and was "preoped" and consented for a CABG on the next day
+because of her three-vessel disease. She was made n.p.o.
+after midnight and then in the morning she was taken to the
+operating room.
+
+On[**Last Name (STitle) 28055**] of [**2973-1-29**], Ms. [**Known patient lastname 18608**] went to the
+operating room with Dr. [**Last Name (Prefixes) **] for bypass surgery.
+Please refer to the previously dictated operative note by Dr.
+[**Last Name (Prefixes) **] for the specifics of this surgery. In brief,
+three grafts were made. One was a left internal mammary to
+the left anterior descending artery and then two saphenous
+vein grafts were connected to the OM1 and OM2. She was on
+cardiopulmonary bypass for 76 minutes and the aorta was cross
+clamped for 53 of those minutes.
+
+She tolerated the surgery well and was transferred to the
+intensive care unit on propofol and Neo-Synephrine drips.
+
+Postoperatively, Ms. [**Known patient lastname 18608**] did extremely well. Her
+intraaortic balloon pump and all of her intravenous drips
+were discontinued on postoperative day one. On postoperative
+day two she was extubated and on postoperative day three she
+was transferred to the floor. Ms. [**Known patient lastname 32176**] major floor issues
+were as follows.
+
+Ms. [**Known patient lastname 18608**] was followed by physical therapy, which cleared
+her to go home with home physical therapy to assist with
+mobility, strength and endurance. She was also actively
+diuresed with Lasix and had her potassium repleted
+accordingly. Finally, she was noted to have hyperglycemia
+while she resumed her regular diet. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1195**] consultation
+was obtained and they recommended metformin 500 mg twice a
+day to maintain euglycemia. She would follow her sugar as an
+outpatient and report this back in an outpatient followup
+appointment.
+
+On [**2-3**] the patient's central line was discontinued.
+She was scheduled to leave, but she developed chest pain;
+however, this chest pain was considered not to be cardiac, to
+be more gastrointestinal in nature, and she had ......... and
+an EKG, both of which confirmed a noncardiac source for this
+chest pain.
+
+She is, therefore, on [**2-4**], postoperative day six,
+being discharged home in good condition with home physical
+therapy scheduled.
+
+FINAL DIAGNOSES:
+1.  Type 2 diabetes mellitus.
+2.  Hypertension.
+3.  Obesity.
+4.  Hyperlipidemia.
+5.  Unstable angina.
+6.  Three-vessel coronary artery disease, status post
+coronary artery bypass grafting, status post intraaortic
+balloon pump.
+7.  Hypokalemia.
+
+DISCHARGE MEDICATIONS:
+1.  Metoprolol 100 mg t.i.d.
+2.  Aspirin 325 mg p.o. q.d.
+3.  Captopril 50 mg p.o. t.i.d.
+4.  Lipitor 20 mg p.o. q.d.
+5.  Lasix 20 mg p.o. b.i.d. for one week.
+6.  Potassium chloride 10 mEq p.o. b.i.d. for one week.
+7.  Metformin 500 mg p.o. b.i.d.;  follow your blood sugar
+levels and follow up with [**Doctor First Name 1195**].
+8.  Percocet one to two tablets every four hours as needed
+for pain.
+9.  Colace 100 mg p.o. b.i.d. as needed for constipation.
+
+[**Last Name (STitle) 32177**]owup appointments are with Dr. [**Last Name (STitle) 4596**], her primary
+care physician, [**Name10 (NameIs) **] one to two weeks, Dr. [**Last Name (STitle) **], her
+cardiologist, in two to three weeks, Dr. [**First Name (STitle) 4317**] from [**Doctor First Name 1195**]
+as directed, and Dr. [**Last Name (Prefixes) **] in one month. She is also
+recommended to follow up in [**Hospital1 68**] Wound Care Clinic in one to
+two weeks to remove her staples.
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 660**]
+
+Dictated By:[**Last Name (NamePattern1) 4646**]
+MEDQUIST36
+
+D:  [**2973-2-3**]  16:37
+T:  [**2973-2-3**]  18:16
+JOB#:  [**Job Number 32178**]
+
+
+
+DOC CLASS

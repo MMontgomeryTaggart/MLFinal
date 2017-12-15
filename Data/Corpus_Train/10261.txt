@@ -1,0 +1,218 @@
+Admission Date:  [**2502-10-9**]     Discharge Date:  [**2502-10-23**]
+
+Date of Birth:   [**2427-8-1**]     Sex:  F
+
+Service:  CCU
+
+HISTORY OF THE PRESENT ILLNESS:  This 75-year-old woman was
+admitted to the CCU for decompensated heart failure.  She has
+a history of hypertension, dyslipidemia, type 2 diabetes
+mellitus, and coronary artery disease.  She had a myocardial
+infarction in [**2501-1-13**] and received a catheterization
+with stent placement to the LAD that re-stenosed.  In [**2501-3-13**], she had an ICD placed for nonsustained ventricular
+tachycardia.  She had a repeat catheterization in [**2502-8-13**] revealing 70% lesions in LAD and first diagonal as
+well as a totally occluded proximal right coronary artery.
+She underwent three vessel bypass on [**2503-9-4**] (LIMA
+to LAD, SVG to first diagonal, SVG to PDA) with a
+bioprosthetic mitral valve replacement for severe mitral
+regurgitation. She was discharged from [**Hospital1 68**] on [**2502-9-15**].
+
+Of note, she was discharged off of levothyroxine which she
+had been prescribed for hypothyroidism.  An echocardiogram on
+[**2502-9-12**] revealed an LVEF of [**10-1**]%, dilated left
+ventricle, 1+ aortic regurgitation, and 4+ tricuspid
+regurgitation.
+
+The patient presented to [**Hospital3 **] Hospital on [**2502-10-6**] after three days of progressive dyspnea.  Her
+laboratories were notable for an INR of greater than 5.8 and
+a TSH of 42.  The patient developed respiratory distress and
+was intubated on [**2502-10-8**].  The same day, the patient
+reportedly had an episode of ventricular tachycardia with
+rate in the 140s to 150s, systolic blood pressure in the 50s
+to 60s.  She was started on Amiodarone, Vasopressin, and
+transferred to [**Hospital1 68**] for further management.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease with history of MI, LAD stent and
+re-stenosis, CABG with bioprosthetic mitral valve
+replacement, congestive heart failure with LVEF of [**10-1**]%, 4+
+TR, 1+ AR, paroxysmal atrial fibrillation with rapid
+ventricular response, ICD placement for nonsustained
+ventricular tachycardia.
+2.  Diabetes mellitus type 2.
+3.  Hypercholesterolemia.
+4.  Chronic renal failure with baseline creatinine 1.3 to
+1.9.
+5.  Anemia.
+6. Peptic ulcer disease.
+7.  Hypothyroidism.
+8.  Peripheral arterial disease.
+
+MEDICATIONS ON TRANSFER:
+1.  Amiodarone 0.5 mg per hour.
+2.  Vasopressin drip.
+3.  Nisiritide drip.
+4.  Levothyroxine 0.075 mg IV q.a.m.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+SOCIAL HISTORY:  Positive for smoking.  The patient lives
+with her husband.
+
+LABORATORY DATA AT [**Hospital3 **] ON [**2502-10-9**]:  Sodium 134,
+potassium 3.8, chloride 95, total C02 28, BUN 77, creatinine
+2.6, glucose 169.  CK 158, 126, 125, 141.  TSH 41.6, free T4
+6.7.  ABG with pH 7.53, PC02 31, P02 76.  INR greater than
+5.8.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  Temperature
+98.0, heart rate 71, blood pressure 105/48, weight 75.6
+kilograms.  Ventilator settings with assist controlled with
+500 cc:  Tidal volume respiratory rate 18, FI02 50%, and
+oxygen saturation 97%.  General: The patient was intubated,
+responsive to voice, and in no acute distress, pale.  HEENT:
+Pupils 3 mm in diameter, light reactive.  Oral mucosa was
+moist.  Extraocular motility intact.  Neck:  Supple, no
+carotid bruits, JVP difficult to asses.  Lungs:  Scattered
+crackles bilaterally.  Heart:  Soft heart sounds, regular
+rate and rhythm, with normal S1, S2, positive S3.  Abdomen:
+Obese, soft, nondistended, normal sounds.  Extremities:
+Cool, 1+ pitting lower extremity edema.  Neurologic:  Cranial
+nerves II through VIII intact, IX through XII not assessed.
+The patient moves four extremities spontaneously.
+
+HOSPITAL COURSE:  1.  CARDIOVASCULAR:  A.  Pump:  The patient
+was admitted with known systolic dysfunction and
+decompensated heart failure with multiple possible
+contributing factors including uncontrolled hypothyroidism,
+Rosiglitazone use, and dietary indiscretion.  She was taken
+off of Vasopressin and started on dopamine for its inotropic
+effects and blood pressure support.  She was placed on
+Carvedilol 6.25 mg b.i.d. and diuresed with a furosemide drip
+so as to lower her preload.  She diuresed well in response to
+the furosemide and was extubated on [**2502-10-14**] without
+event.  At this time, the dopamine drip was also taken off
+and the patient maintained mean arterial pressures over 60
+mmHg off of dopamine.  The furosemide drip was weaned off and
+furosemide was started at a dose of 80 mg p.o. q.d.
+
+On [**2502-10-17**], low-dose Captopril (6.25 mg) was
+initiated for afterload reduction.  The furosemide was
+titrated to a dose of 160 mg p.o. q.d. and spironolactone was
+initiated on [**2502-10-19**].
+
+On [**2502-10-20**], the patient received a Heart Failure
+Service consultation.  They recommended holding the beta
+blocker while the patient was fluid overloaded and
+re-initiating it once she is in compensated heart failure.
+The patient was seen by a nurse practitioner for heart
+failure teaching and arranged for follow-up with Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] for further management of her heart failure as an
+outpatient.
+
+Prior to discharge, the patient's furosemide was decreased to
+80 mg p.o. q.d. and her ACE inhibitor was changed to
+lisinopril at a dose of 2.5 mg q.d.
+
+B.  Rhythm:  As aforementioned, the patient had a reported
+episode of ventricular tachycardia while at [**Hospital3 **]
+Hospital.  On transfer here, she was taken off of intravenous
+Amiodarone and placed on oral Amiodarone at a dose of 200 mg
+p.o. t.i.d.  She received an interrogation of her ICD on
+[**2502-10-10**].  She was placed on heparin for
+anticoagulation in the setting of her paroxysmal atrial
+fibrillation and diffuse akinesis.  Her rhythm remained
+A-sensed, V paced throughout admission.  She completed an
+Amiodarone load for her ventricular tachycardia totaling 6
+grams prior to conversion to a dose of 200 mg q.d.
+
+2.  PULMONARY:  On admission, the patient was noted to have
+significant pulmonary edema as well as bilateral pleural
+effusions, left-sided greater than right-sided.  Despite her
+aggressive diuresis, she had a persistent large left pleural
+effusion.  After she was extubated, the CT Surgery Service
+was consulted to place a chest tube and this was done
+successfully.
+
+The cytology of the pleural fluid was negative for malignant
+cells.  Fluid contained blood, lymphocytes, and neutrophils,
+and was exudative on the basis of Light's criteria.
+
+After the placement of the chest tube with drainage of
+pleural fluid, it was noted that the patient had an elevated
+left hemidiaphragm likely secondary to postsurgical
+diaphragmatic paralysis.
+
+On [**2502-10-18**], the chest tube was discontinued.  On
+[**2502-10-20**], she received chest fluoroscopy which
+revealed that her left hemidiaphragm was indeed paralyzed.
+However, by this point in her hospitalization, the patient
+was breathing much better with oxygen saturations over 95% on
+room air.
+
+3.  RENAL:  The patient was noted to have a creatinine of 2.6
+on admission as compared with her baseline creatinine of 1.3
+to 1.9.  The differential diagnosis for the increase in GFR
+was felt to include prerenal insufficiency from decreased
+effective intravascular volume as well as ATN from
+hypotension and decreased renal perfusion.  She did not have
+casts in her urine sediment.  With successful diuresis and
+inotropic support, the patient's renal function improved,
+with creatinine downtrending consistently until it reached a
+level of 1.6 on [**2502-10-22**].
+
+4.  ENDOCRINE:  The patient's endocrine issues at the time of
+admission included severe hypothyroidism by TSH at the
+outside hospital as well as type 2 diabetes mellitus.  She
+was placed on oral levothyroxine for the hypothyroidism and a
+regular insulin sliding scale for her type 2 diabetes.  The
+Endocrine Service was consulted for evaluation and management
+of her hypothyroidism and they recommended continuing
+levothyroxine at 175 micrograms p.o. q.d. and checking a free
+T4 and TSH level in six weeks.
+
+DISCHARGE DIAGNOSIS:
+1.  Decompensated heart failure.
+2.  Paroxysmal atrial fibrillation.
+3.  Coronary artery disease.
+4.  Severe tricuspid regurgitation.
+5.  Left diaphragm paralysis with pleural effusion.
+6.  Hypothyroidism.
+7.  Type 2 diabetes.
+8.  Status post acute on chronic renal failure of prerenal
+etiology.
+9.  Anemia.
+
+DISCHARGE CONDITION:  Fair.
+
+DISCHARGE STATUS:  To home with home services.
+
+FOLLOW-UP: The patient is to follow-up with Dr. [**Last Name (STitle) 295**] and
+Dr. [**Last Name (STitle) **].
+
+DISCHARGE MEDICATIONS:
+1.  Lisinopril 2.5 mg p.o. q.d.
+2.  Furosemide 80 mg p.o. q.d.
+3.  Spironolactone 25 mg q.d.
+4.  Coumadin 5 mg q.h.s.
+5.  Amiodarone 200 mg q.d.
+6.  Aspirin 81 mg q.d.
+7.  Lipitor 10 mg q.d.
+8.  Levothyroxine 175 micrograms q.d.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 300**], M.D.  [**MD Number(1) 2550**]
+
+Dictated By:[**Last Name (NamePattern1) 5087**]
+
+MEDQUIST36
+
+D:  [**2503-4-5**]  05:52
+T:  [**2503-4-8**]  17:50
+JOB#:  [**Job Number 5088**]
+
+
+
+DOC CLASS

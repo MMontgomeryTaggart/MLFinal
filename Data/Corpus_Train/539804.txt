@@ -1,0 +1,218 @@
+Chief Complaint: Sepsis
+   24 Hour Events:
+   Stopped flagyl, and daptomycin
+   Gave one unit pRBCs given on CVVHD and patient HCT trending downward
+   Vassopressin unable to be weaned off, had to decreased CVVHD at 3am to
+   neg 200 /hr due to SBPs 70s
+   During turning was noted to have clots in her vagina, ordered for
+   transvaginal ultrasound to eval as a source of bleeding
+   Allergies:
+   Penicillins
+   Rash;  Swelling
+   Codeine
+   Wheezing; Short
+   Heparin Agents
+   Thrombocytopeni
+   Levofloxacin
+   Rash;
+   Last dose of Antibiotics:
+   Metronidazole - [**3212-1-8**] 08:00 AM
+   Colistin - [**3212-1-10**] 10:59 AM
+   Daptomycin - [**3212-1-10**] 09:15 PM
+   Ampicillin - [**3212-1-11**] 04:31 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Calcium Gluconate (CRRT) - 1.2 grams/hour
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Morphine Sulfate - [**3212-1-10**] 03:03 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Pain: [**6-14**] ModeratePain location: right arm
+   Flowsheet Data as of  [**3212-1-11**] 07:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 74 (67 - 78) bpm
+   BP: 91/35(49) {76/12(35) - 113/75(81)} mmHg
+   RR: 14 (13 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  6,479 mL
+                                                                  2,078 mL
+   PO:
+                                                                    340 mL
+             TF:
+   IVF:
+                                                                  5,764 mL
+                                                                  2,078 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                 10,244 mL
+                                                                  3,454 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,765 mL
+                                                                 -1,376 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 100%
+   ABG: ///32/
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Diminished), (Left DP pulse: Not
+   assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : ,
+   Crackles : at bases)
+   Abdominal: Soft, Bowel sounds present, Distended, Tender: diffusely
+   Extremities: Right: 3+, Left: 3+
+   Musculoskeletal: Unable to stand
+   Skin:  Warm, Rash:
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): self, Movement: Not assessed, Tone: Not
+   assessed
+   Labs / Radiology
+   61 K/uL
+   9.2 g/dL
+   83 mg/dL
+   1.6 mg/dL
+   32 mEq/L
+   4.3 mEq/L
+   9 mg/dL
+   98 mEq/L
+   140 mEq/L
+   26.9 %
+   16.3 K/uL
+        [image002.jpg]
+                             [**3212-1-9**]  05:44 AM
+                             [**3212-1-9**]  11:18 AM
+                             [**3212-1-9**]  05:09 PM
+                             [**3212-1-9**]  11:17 PM
+                             [**3212-1-10**]  04:57 AM
+                             [**3212-1-10**]  10:03 AM
+                             [**3212-1-10**]  03:46 PM
+                             [**3212-1-10**]  08:13 PM
+                             [**3212-1-10**]  10:14 PM
+                             [**3212-1-11**]  04:17 AM
+   WBC
+   24.2
+   17.0
+   18.3
+   16.1
+   16.3
+   Hct
+   26.5
+   24.5
+   24.1
+   26.5
+   26.9
+   Plt
+   73
+   71
+   75
+   57
+   61
+   Cr
+   2.0
+   1.9
+   1.9
+   1.9
+   1.7
+   1.8
+   1.6
+   1.6
+   Glucose
+   172
+   166
+   162
+   130
+   102
+   111
+   175
+   142
+   109
+   83
+   Other labs: PT / PTT / INR:20.4/38.6/1.9, CK / CKMB / Troponin-T:25//,
+   ALT / AST:13/25, Alk Phos / T Bili:212/1.1, Differential-Neuts:87.8 %,
+   Band:0.0 %, Lymph:4.7 %, Mono:6.6 %, Eos:0.5 %, Lactic Acid:1.9 mmol/L,
+   Albumin:2.0 g/dL, LDH:247 IU/L, Ca++:10.3 mg/dL, Mg++:1.7 mg/dL,
+   PO4:1.4 mg/dL
+   Assessment and Plan
+   Ms. [**Known patient lastname 5137**] is a 78 year old female with type 2 DM, ESRD on HD, PVD s/p
+   BKA, CAD s/p MI with septic shock
+   Vaginal Bleed
+   1.       Septic Shock: from MDR Acinetobacter line infection; decubitus
+   ulcers may very well be contributing; unclear if there is also tissue
+   ischemia from PVD (? In her left arm/hand).
+   -          ID input appreciated
+   -          Cont vasopressin unti 3pm then attempt to stop, but goal is
+   to continue CVVHD
+   -          Remaining on Colistin/high-dose Unasyn for Acinetobacter
+   bacteremia; surveillance blood cultures negative
+   -          Remaining empiric Daptomycin to cover skin/soft tissue
+   infections
+   -         Metronidazole - C Diff negative x4, CT neg intrabdominal
+   access
+ STOP today
+   -          Plastics role of debridement of decubitus ulcers
+ does not
+   feel any intervention needed
+   -          Hand surgery to evaluate right hand/arm for compartment
+   syndrome
+ no need for intervention, no compartment
+   2.       CKD V on hemodialysis
+   -          cont CVVH per renal team; per renal attending, systolics of
+   80s are typical for her and we should tolerate this; they feel that she
+   still have considerable fluid to take off and that the failure to do so
+   will significantly limit her future prospects; therefore we are
+   continuing to the extent possible, targeting systolics of 80s and
+   making sure that basic mentation, organ function, etc remains intact.
+   3.       Sacral/ischial decubitus ulcers
+   Plastics feels that there is not currently a role for debridement; we
+   should follow these closely and ask them to reassess if she continues
+   to have any element of sepsis-like picture
+   4.       Anemia; history of chronic GI bleed from AVMs
+   -         Continue to transfuse HCT >25 given on CVVHD and will have
+   ongoing blood loss
+   -         Give one unit of pRBCs
+   5.       Heel ulcer/PVD
+   -          cont weight-sparing boot; no urgent vascular intervention
+   6.       History of HIT
+   -          avoid heparin
+   7.       DM2
+   -          cont insulin
+   ICU Care
+   Nutrition: PO diabetic diet
+   Glycemic Control:  insulin fixed and sliding
+   Lines:
+   Multi Lumen - [**3212-1-6**] 05:38 PM
+   Dialysis Catheter - [**3212-1-6**] 05:39 PM
+   Prophylaxis:
+   DVT:  no heparin as HIT ( on pneumoboots)
+   Stress ulcer:  on PPI
+   VAP:  no intubated
+   Comments:
+   Communication:  daughter
+   [**Name (NI) 62**] status: DNR/DNI
+   Disposition: ICU
+
+
+
+DOC CLASS

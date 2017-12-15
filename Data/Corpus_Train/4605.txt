@@ -1,0 +1,168 @@
+Admission Date:  [**3322-8-10**]              Discharge Date:   [**3322-8-14**]
+
+Date of Birth:  [**3275-3-27**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1268**]
+Chief Complaint:
+Asymptomatic
+
+Major Surgical or Invasive Procedure:
+Ascending aorta replacement (valve-sparing [**Doctor Last Name **]
+procedure)[**3322-8-10**]
+
+History of Present Illness:
+47 yo male with known dilated aorta. Referred to Dr. [**Last Name (STitle) 1275**]
+for surgical repair. Cath done [**6-30**] showed no CAD, right
+dominant system, aortic aneurysm. Echo [**5-30**] showed aortic root
+4.9cm, ascending 5.2 cm, 1+ MR, trivial TR, no AI, EF 55%. Prior
+CT done [**7-/3316**] showed no dissection, and aortic root size 4.7cm x
+5.0cm indicating further aneurysmal dilation.
+
+Past Medical History:
+? pericarditis [**3316**]
+s/p childhood tonsillectomy
+
+Social History:
+lives with partner
+self employed in real estate/antique sales
+occasional ETOH
+quit smoking 20 years ago
+
+Family History:
+mother with ? MR
+
+Physical Exam:
+Hr 74  RR 18  right 114/74,  left 110/70
+6'6"   220#
+NAD
+skin/HEENT unremarkable
+neck supple with full ROM and no carotid bruits
+CTAB
+RRR no murmur
+abd soft/NT/ND +BS
+warm, well-perfused, no edema or varicosities
+neuro grossly intact
+2+ bilat. fem/DP/PT/radials
+
+Pertinent Results:
+Echo [**8-10**]: Prebypass: A patent foramen ovale is present. There
+is a bidirectional shunt across the interatrial septum at rest.
+Left ventricular wall thickness, cavity size, and systolic
+function are normal (LVEF>55%). Regional left ventricular wall
+motion is normal. The aortic root is moderately dilated. The
+sinuses of Valsalva are dilated. The ascending aorta is
+moderately dilated. There are three aortic valve leaflets. There
+is no aortic valve stenosis. Mild (1+) aortic regurgitation is
+seen. The mitral valve leaflets are structurally normal. Mild
+(1+) mitral regurgitation is seen. Post Bypass: Biventricular
+systolic function is unchanged. Mild aortic insufficiency
+present. Trace to mild mitral regurgitation present. Graft
+material seen in the ascending aorta.
+CXR [**8-12**]: The patient is status post median sternotomy and CABG.
+A tiny left apical pneumothorax is present. Chest tubes,
+mediastinal drains, and Swan-Ganz catheter have been removed.
+Heart is normal in size. Mediastinal and hilar contours are
+unchanged. Left lower lobe atelectasis is improving. Tiny right
+pleural effusion is present. Pulmonary vascularity is within
+normal limits.
+[**3322-8-10**] 05:10PM BLOOD WBC-7.7# RBC-2.06*# Hgb-6.7*# Hct-18.1*#
+MCV-88 MCH-32.3* MCHC-36.9* RDW-13.3 Plt Ct-167
+[**3322-8-12**] 07:45AM BLOOD WBC-13.0* RBC-3.11* Hgb-9.7* Hct-27.9*
+MCV-90 MCH-31.2 MCHC-34.7 RDW-13.1 Plt Ct-181
+[**3322-8-14**] 07:05AM BLOOD Hct-24.6*
+[**3322-8-10**] 05:10PM BLOOD PT-16.9* PTT-59.1* INR(PT)-1.6*
+[**3322-8-11**] 03:08AM BLOOD PT-12.5 PTT-28.8 INR(PT)-1.1
+[**3322-8-10**] 06:58PM BLOOD UreaN-16 Creat-0.9 Cl-106 HCO3-27
+[**3322-8-12**] 07:45AM BLOOD Glucose-123* UreaN-17 Creat-0.9 Na-135
+K-3.9 Cl-97 HCO3-33* AnGap-9
+[**3322-8-14**] 07:05AM BLOOD K-4.3
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 19304**] was a same day admit after undergoing all
+pre-operative work-up as an outpatient. On [**8-10**] he was brought
+directly to the operating room where he underwent a ascending
+aorta replacement. Please see operative report for surgical
+details. Following surgery he was transferred to the CSRU for
+invasive monitoring in stable condition on a titrated propofol
+drip. Later on op day he was weaned from sedation, awoke
+neurologically intact and extubated. That evening he was off all
+drips and then transferred to the floor on post-op day one. Beta
+blockers and diuretics were initiated and he was gently diuresed
+towards pre-op wt. Foley and chest tubes were removed on post-op
+day two. Pacing wires removed on post-op day three and beta
+blockade titrated for HR/BP management. Physical therapy
+followed him throughout post-op course for strength and
+mobility. He continued to improve quite rapidly without any
+post-op complications. He was discharged to home with VNA
+services and the appropriate follow-up appointments on post-op
+day four.
+
+Medications on Admission:
+wellbutrin 200 mg [**Hospital1 **]
+prilosec 20 mg daily
+metoprolol 25 mg [**Hospital1 **]
+ambien prn
+alprazolam prn
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+5. Bupropion 75 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) for 2 weeks.
+Disp:*28 Tablet(s)* Refills:*0*
+8. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 2 weeks.
+Disp:*28 Packet(s)* Refills:*0*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **] VNA
+
+Discharge Diagnosis:
+Ascending Aortic Aneurysm s/p valve-sparing ascending aorta
+replacement ([**Doctor Last Name **] procedure)
+PMH: ? h/o pericarditis [**3316**], s/p tonsillectomy
+
+Discharge Condition:
+stable
+
+Discharge Instructions:
+no lotions, creams or powders on any incision
+no driving for one month
+call for fever greater than 100, rednes or drainage
+no lfting greater than 10 pounds for 10 weeks
+may shower over incisions and pat dry
+
+Followup Instructions:
+follow up with Dr.[**Doctor Last Name 19305**] in [**1-26**] weeks
+follow up with Dr. [**Last Name (STitle) **] in [**2-27**] weeks
+follow up with Dr. [**Last Name (STitle) 1275**] in 4 weeks [**Telephone/Fax (1) 168**]
+
+
+Completed by:[**3322-9-2**]
+
+
+DOC CLASS

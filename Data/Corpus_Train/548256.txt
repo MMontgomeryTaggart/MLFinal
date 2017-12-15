@@ -1,0 +1,249 @@
+Chief Complaint:  cough, wheezing
+   HPI:
+   62 year old female with PMH including CAD s/p MI, HTN, DMII, CKD,
+   asthma presents to clinic with 2 wks wheezing and dry cough. Note that
+   patient is somewhat uncooperative with interview, history is copied
+   from admitting team:  She notes that her sx had been slowly
+   progressing, but acutely worsened over the past 1-3 days with more SOB.
+   Took home albuterol and flovent with some relief. Confirms associated
+   fatigue, dizziness, and palpitations (unable to elaborate). Has never
+   been hospitalized or intubated for asthma exacerbation. Was seen at
+   clinic today, vitals 130/90, 84, 96%, and sent to ED.
+   .
+   In ED, vitals 98.4, 158/84, 88, 24, 99 on 2L. She was given combivent
+   x2, prednisone 60mg, ASA, azithromycin 500mg PO, levofloxacin 750mg PO.
+   EKG showed inferior Q waves, and diffuse TWI. PIV placed in L EJ as
+   unable to obtain other access.
+   .
+   On floor, pt appears to have SOB, although denies any trouble
+   breathing. She states she feels "better." ROS negative for f/c, CP,
+   anorexia, n/v/d/c, edema, HA, arthralgias.
+   Patient admitted from: [**Hospital1 5**] [**Hospital1 **]
+   History obtained from Medical records
+   Patient unable to provide history: unwilling to communicate
+   Allergies:
+   Sulfonamides
+   Rash;
+   Shellfish
+   Anaphylaxis;
+   Iodine Containing Agents Classifier
+   Rash;
+   Codeine
+   Rash;
+   Morphine
+   Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Home meds per OMR:
+   1) Albuterol 2 puffs QID
+   2) Aripiprazole 15mg daily
+   3) Atorvastatin 80mg daily
+   4) Citalopram 40mg daily
+   5) Clopidogrel 75mg daily
+   6) Fluticasone 1 inh [**Hospital1 **]
+   7) Glipizide 10mg [**Hospital1 **]
+   8) Lipram 4500 capsule, 1 tab TIDAC
+   9) Metoprolol 300mg daily
+   10) Pantoprazole 40mg [**Hospital1 **]
+   11) Risperidone microspheres 25mg syringe q2wks
+   12) Trazodone 50mg hs prn
+   13) Zolpidem 5mg hs
+   14) ASA 81mg daily
+   15) Ferrous sulfate 325mg daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. Asthma
+   2. PVD - s/p Aorto-Fem Bypass with atherectomy in [**2733**] after
+   near total occlusion; Multiple revisions of her aorto-bifemoral
+   and cross femoral grafts.
+   3. CAD s/p MI [**10-22**]
+   4. Schizoaffective disorder
+   5. HTN
+   6. DMII
+   7. hx of DVT
+   8. Lumbar Disc Disease (Long H/O Back Pain)
+   9. Hyperlipidemia
+   10. Gastroesophageal reflux
+   11. S/P exploratory laparotomy for pancreas divisum with
+   sphincterotomy of her minor duct
+   12. Pelvic/Ovarian (Benign) Mass s/p R Oophrectomy and
+   Hysterectomy
+   13. patient reports cholecystectomy in distant past
+   14. s/p Arthroscopy of right knee and medial meniscectomy in '[**38**]
+   15. chronic kidney disease
+   16. h/o pancreatitis
+   many of her siblings passed away from CAD/heart attacks.
+   Occupation:
+   Drugs: none
+   Tobacco: smokes 5 cig/day for many years
+   Alcohol: none
+   Other: Verified that pt lives alone, , no EtOH or drugs. Per OMR, "The
+   patient was born and raised in [**State 2202**]. Both her parents are deceased
+   as are 9 of her siblings. She graduated from HS and worked in [**Hospital1 5**]
+   central processing. She stopped working in [**2736**] due to illness and is
+   now on SSDI. She lives alone in J.P, has remaining siblings elsewhere
+   in the country. She was married, now divorced and has one adult
+   daughter who lives in [**Name (NI) 2203**]."
+   Review of systems:
+   Flowsheet Data as of [**2746-11-15**] 03:47 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.5
+C (95.9
+   Tcurrent: 35.5
+C (95.9
+   HR: 84 (84 - 84) bpm
+   BP: 162/86(101) {150/85(101) - 162/86(101)} mmHg
+   RR: 16 (16 - 16) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   95.8, 150/85, 84, 20, 98 on 2L
+   Gen: speaks in short sentences, audible wheezes,easily agitated and
+   unwilling to communicate
+   HEENT: sclerae anicteric, MM dry, OP clear
+   CV: RRR no m/r/g
+   Pulm: Poor air movement, diffuse bilat exp wheezing, prolonged
+   expiration, bibasilar rales, unlabored breathing, no retractions, no
+   accessory muscle use
+   Abd: Soft, mild epigastric TTP without reb/guard, ND. NABS. Midline
+   scar from surgery. No masses or HSM.
+   Ext: WWP. trace edema to thighs bilat.
+   Labs / Radiology
+   249
+   203
+   4.0
+   34
+   15
+   109
+   5.0
+   137
+   29
+   6.8
+        [image002.jpg]
+                                     pH
+                                    7.25
+                                    pCO2
+                                     39
+                                     pO2
+                                     62
+                                    HCO3
+                                     18
+                                   BaseXS
+                                     -9
+    Trop 0.04,  CK 153
+   Imaging: CXR ([**11-14**]): New bibasilar parenchymal opacities, which likely
+   represent
+   ECG: NSR, inferior Q waves, diffuse TWI
+   Assessment and Plan
+   62 yo F with asthma and MMP p/w wheezing and SOB, with CXR concerning
+   for PNA and ARF.
+   .
+   # Asthma exacerbation: ED noted some improvement with nebs, and pt
+   states she is breathing fine, but objectively she appears to have
+   labored resps and her air movement is quite poor. She has recv'd 3 nebs
+   on the floor, but is still audibly wheezing. Unclear if her mental
+   status is at baseline as she is agitated and slow to respond. Pt is
+   only mildly acidemic with little to no CO2 retention. This is
+   reassuring that she does not need urgent intubation. However, will need
+   to monitor her respiratory status closely overnight.
+   - IV methylprednisolone 125mg q8h
+   -  albuterol nebs q2h , ipratropium q6h. .
+   - Supplemental O2 to keep sat > 92. Monitor SpO2 frequently.
+   .
+   # PNA: Her resp sx are more consistent with obstructive lung disease
+   than infection, and her cough is dry, but her CXR demonstrates
+   bibasilar infiltrates concerning for PNA. No fever or WBC count,
+   although does have elevated polys. Will treat for CAP to cover S.
+   pneumo, H. flu, etc. with a 7d abx course.  Has received Azithromycin
+   and CTX, but will switch to levofloxacin.
+   - Levofloxacin
+   .
+   # EKG changes: Has h/o MI, inferior Q waves noted on EKG. Now with
+   diffuse TWI, new from prior. No CP, but does have palpitations (heart
+   racing), some epigastric pain. Trop sent in ER was 0.04, but in
+   association with renal disease. She is not clearly demonstrating an
+   ischemic picture, but given her hx and multiple risk factors, she will
+   be ruled out for MI.
+   - Cycle cardiac markers and EKGs.
+   - Tele overnight.
+   - cont ASA and plavix ,but will hold BB in setting of severe asthma
+   exacerbation
+   .
+   # ARF: No clear etiology. Perhaps prerenal due to dehydration, or her
+   CKD may be worsening as her BUN is not elevated from baseline.
+   - UA and urine lytes.
+   - IVF: 500 cc NS bolus over 60 min, then 3 amp bicarb in D5W at 100
+   ml/hr overnight.
+   - Follow BUN, Cr.
+   - obtain renal U/S
+    -renally dose meds
+   .
+   # Anemia: Has been microcytic in the past, takes oral iron, although
+   most recent iron studies had normal ferritin. Perhaps due to her kidney
+   disease. If remains stable, could have further workup as outpatient.
+   - Guaiac stools.
+   - Follow up hct in am.
+   .
+   # DM: Fingerstick on arrival to floor 400. Has some metabolic acidosis,
+   but no anion gap.
+   - Hold glipizide and cover with humalog sliding scale overnight
+   .
+   # CAD: Cont ASA, clopidogrel, hold BB
+   .
+   # HTN: hold metoprolol  for asthma exacerbation
+   .
+   # Schizoaffective d/o: Cont aripiprazole, citalopram.
+   .
+   # Hyperlipidemia: cont statin
+   .
+   # FEN: Has nongap acidosis, unchanged from 5 mos prior. Pt without
+   diarrhea. [**Month (only) 8**] be due to renal failure.
+   - Follow lytes and replete PRN.
+   - Cardiac DM diet.
+   - Fluids as above.
+   .
+   # Ppx: Heparin SC
+   # Code: full, will confirm with patient
+   # Dispo: pending respiratory improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2746-11-15**] 02:15 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

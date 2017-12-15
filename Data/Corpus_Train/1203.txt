@@ -1,0 +1,326 @@
+Admission Date:  [**2967-3-4**]              Discharge Date:   [**2967-3-7**]
+
+Date of Birth:  [**2921-8-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Bactrim
+
+Attending:[**First Name3 (LF) 3512**]
+Chief Complaint:
+transfer from micu for altered mental status
+
+Major Surgical or Invasive Procedure:
+none
+
+
+History of Present Illness:
+This is a 45 year-old male with history of HIV/AIDS([**2-17**] CD4 53,
+VL < 50), HCC (w/ cirrhosis) who was found to have mental status
+changes after taking tincture of opium. The patient says he has
+had diarrhea for 2 years, but has been worse over past couple of
+days. Usually this is relieved with loperamide, though over last
+2 days diarrhea worse and took opium. The morning of the
+admission the patient took an unknown amount of opium and mother
+noted patient was somnolent and difficult to arouse. The patient
+said with the recent diarrhea he had some abdominal pain,
+nausea, fever to 101 and some streaks of blood in his stool.
+Based on his somnolence he was brought to ED.
+.
+In the ED, patient received naloxone 0.8mg with intermittent
+improvement in mental status followed by relapse to original
+state. He also complained of headache at this time. Due to
+headache and concern for meningitis, patient received head CT
+and also 1 dose of acyclovir, ceftriaxone, and vancomycin. Blood
+cultures were sent prior to this. He was also given lactulose
+for possible hepatic encephalopathy. Due to concern for naloxone
+requirement and periods of apnea, patient was transferred to
+MICU for further respiratory monitoring.
+.
+His micu course was uncomplicated, he had some meds (trazodone,
+mirtazapine, percocet and clonazepam) held to prevent further
+somnolene and he was given lactulose for high ammonia. Initially
+treated for presumed meningitis given fevers, given ceftriaxone,
+azithromycin and vancomycin His mental status improved and he
+was transferred to medicine.
+.
+Currently patient feels well, had formed, non-bloody stool
+today.
+.
+
+
+Past Medical History:
+1. AIDS by CD4 (CD4 128, HIV VL<50, [**6-6**], on abacavir,
+atazanavir, lamivudine, reports missing 1 dose/week typically)
+2. HCV (Genotype [**12-16**] hybrid) not currently treated due to his
+polysubstance abuse and depression. No Biopsy done yet.
+3. Invasive Anal Carcinoma treated with chemo/XRT; recent high
+grade lesion found and treated; followed in Anal dysplasia
+clinic
+4. Substance abuse, cocaine and ETOH
+5. L arm amputee secondary to compression injury and ischemia
+after drug overdose, [**2955**]
+6. Depression with multiple suicide attempts
+7. Bone marrow toxicity secondary to Bactrim/AZT
+8. Chronic Thrombocytopenia
+9. MRSA scrotal abscess x2
+[**69**]. h/o testicular cellulitis, [**4-18**]
+11. COPD (FEV1 83% of predicted on [**2-14**])
+12. erosive gastritis on EGD, [**2962-12-22**]
+14. s/p multiple sexual and physical trauma
+
+
+Social History:
+lives alone, social support from mother in [**Name (NI) 2218**]. h/o
+polysubstance abuse, although denies current drug use or EtOH
+use, 10 pack year smoking hx, Pt has been in multiple fights,
+where he has been severely beaten and injured. Abused as a
+child. The patient dropped out of [**Location (un) 3731**] high school while in
+the tenth grade secondary to being bullied on the basis of being
+gay. He later obtained his GED.
+
+
+Family History:
+-His family psychiatric history is significant for his mother
+diagnosed with depression and alcoholism, currently in
+remission,
+-His biological father has a history of depression.
+-His sister died at the age of 24 in a fire while intoxicated
+with alcohol.
+-His brother was addicted to heroin and prescription opioids and
+
+he had died from an overdose.
+
+Physical Exam:
+Vitals: BP: 103/59, P 94, T 98.6, 98%RA, RR 15
+GEN: sitting in bed, NAD, pleasant male
+HEENT: EOMI, sclera anicteric, no mucosal ulcerations of thrush,
+MM slightly dry
+COR: regular rhythm, no M/G/R
+PULM: slight crackles at bases bilateral
+ABD: Soft, mildly distended, non-tender, +BS
+EXT: No cyanosis, clubbing or edema, warm, well-perfused, +2 DP
+pulses, LUE amputation at forearm.
+NEURO: aaox3, conversant, appropriate, cn intact, strength
+intact, non-focal exam
+
+
+Pertinent Results:
+[**2967-3-4**] 11:43PM   GLUCOSE-123* UREA N-25* CREAT-1.3* SODIUM-133
+POTASSIUM-5.0 CHLORIDE-102 TOTAL CO2-23 ANION GAP-13
+[**2967-3-4**] 06:12PM   AMMONIA-83*
+[**2967-3-4**] 05:25PM   GLUCOSE-125* UREA N-26* CREAT-1.3* SODIUM-136
+POTASSIUM-5.6* CHLORIDE-109* TOTAL CO2-20* ANION GAP-13
+[**2967-3-4**] 05:25PM   WBC-5.4 RBC-3.78* HGB-13.5* HCT-41.4
+MCV-110*# MCH-35.7* MCHC-32.6 RDW-16.2*
+.
+[**3-4**] ct head:
+IMPRESSION: No acute intracranial pathology, including no sign
+of intracranial hemorrhage
+.
+[**3-4**] cxr:
+FINDINGS: Single frontal view of the chest demonstrates normal
+heart size and mediastinal contours. There are linear markings
+at the left base consistent with scar or small areas of
+atelectasis. The right lung is clear. There is no parenchymal
+consolidation, pleural effusion, or pneumothorax. The bones are
+unremarkable.
+IMPRESSION: Left basilar atelectasis or scar
+.
+[**3-5**] doppler abd:
+IMPRESSION: 1) Heterogeneous cirrhotic appearing liver normal
+Doppler waveforms and no focal lesions.
+2) Splenomegaly.
+3) Trace amount of ascites insufficient for paracentesis.
+
+
+Brief Hospital Course:
+45 y.o. male with history of AIDS, HCV cirrhosis, polysubstance
+abuse, diarrhea, admitted for mental status changes and
+respiratory monitoring.
+.
+His micu course was uncomplicated, he had some meds (trazodone,
+mirtazapine, percocet and clonazepam) held to prevent further
+somnolence and he was given lactulose for high ammonia.
+Initially treated for presumed meningitis given fevers, he was
+given ceftriaxone, azithromycin and vancomycin. His mental
+status improved and he was transferred to medicine.
+.
+Floor course:
+.
+#) Mental status changes - The patient's mental status changes
+were likely related to his overdose of opium, as his mental
+status improved through his course.  Given his elevated ammonia
+a concern for encephalopathy was raised, but this was unlikely.
+Given this concern the patient was initially treated with
+lactulose, and rifaximin. With the history of fever and headache
+in ED, he was initially treated for meningitis, though on the
+floor he was afebrile with no meningismus, so concern for
+meningitis was low and he was not treated any further.  On the
+floor, his mental status improved and this was again related to
+opium overdose.  Given this his lactulose and rifaximin were
+stopped.  He was doing well prior to discharge, and as blood
+cultures were sent in the ED, and should be followed as an
+outpatient.
+.
+#) Cirrhosis: The patient had improved mental status on the
+floor, and while he had elevated ammonia it was unlikley he had
+encephalopathy, so his lactulose and rifaximin (given in the ED
+and MICU) were stopped. He did not appear to have a large amount
+of ascites, though given his delicate fluid balance he had an US
+which showed minimal ascites. As he had Acute renal failure, his
+lasix and spironolactone were held, and his fluid balance was
+closely followed.  His renal function improved prior to
+discharge, so to prevent fluid overload his diuretics were
+restarted at a lower dose, and he will be followed closely by ID
+and the coinfection clinic as an outpatient, so he is maintained
+on the appropriate dose of diuretics to prevent reacummulation
+of ascites.
+.
+#) HIV - The patient is followed by Dr. [**Last Name (STitle) 3344**], and he is on
+appropriate medications.  He was followed by ID and was
+continued on PCP and MAC prophylaxis with [**Last Name (STitle) 7525**] and
+azithromycin respectively, and also continued on his
+antiretroviral regimen (Emtricitabine, tenofovir, abacavir,
+ritonavir, atazanavir).  He will be closely followed by ID and
+the coinfection clinic as an outpatient.
+.
+#) Diarrhea - The patient has chronic diarrhea, and the acute
+worsening was likely due to the lactulose he was given.  ID did
+not feel this was infectious, though stool cultures were sent
+and should be followed as an outpatient.  With the
+discontinuation of his lactulose and rifaximin, and with
+starting imodium, the patient's diarrhea improved and he was at
+baseline for discharge.
+.
+#) Chronic thrombocytopenia: The patient has a history of bone
+marrow toxicity secondary to Bactrim/AZT.  His thrombocytopenia
+appears stable during this admission and was not an active
+issue.
+.
+#) Acute renal failure - The patient has a baseline creatinine
+that appears to be around 0.9-1.0, and this was elevated to 1.3.
+This was likely due to dehydration in setting of diarrhea for
+this patient.  His lasix and spironolactone were held and with
+IVF his renal function returned to baseline.  He was restarted
+on a lower dose of his diuretics prior to discharge, and will
+need his dose of diuretics readjusted as an outpatient and
+should have his creatinine closely monitored as well.
+
+
+
+Medications on Admission:
+Transfer meds:
+Sarna Lotion 1 Appl TP QID:PRN
+Clonazepam 1 mg PO QHS
+traZODONE HCl 100 mg PO HS:PRN
+Mirtazapine 30 mg PO HS
+Oxycodone-Acetaminophen 1 TAB PO Q4-6H:PRN
+Emtricitabine 200 mg PO Q24H
+Ipratropium Bromide Neb 1 NEB IH Q6H:PRN
+Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN
+Rifaximin 200 mg PO TID
+Lactulose 15 ml PO BID
+Multivitamins 1 CAP PO DAILY
+Azithromycin 1200 mg PO 1X/WEEK (TH)
+[**Last Name (STitle) **] Suspension 1500 mg PO DAILY
+Heparin 5000 UNIT SC TID
+Ritonavir 100 mg PO DAILY
+Tenofovir Disoproxil Fum. 300 mg PO DAILY
+Atazanavir 300 mg PO DAILY
+Abacavir *NF* 20 mg/mL Oral 10mL [**Hospital1 **]
+.
+Medications on admission:
+1. Oxycodone/Acetaminophen 5-325mg 1 tablet PO Q4-6H PRN
+2. Furosemide 80 mg PO DAILY
+3. Spironolactone 200 mg PO DAILY
+4. Mirtazapine 30 mg PO QHS
+5. Trazodone 100 mg PO HS
+6. [**Hospital1 **] 1500mg PO DAILY
+7. Clonazepam 1 mg PO QHS
+8. Azithromycin 1200mg PO 1X/WEEK (TH).
+9. Abacavir 200mg PO BID
+10. Atazanavir 300mg PO DAILY
+11. Truvada 1 pill daily
+12. Ritonavir 100 mg PO DAILY
+13. Hexavitamin PO DAILY
+
+
+Discharge Medications:
+1. Abacavir 20 mg/mL Solution Sig: Ten (10) ML PO 10mL [**Hospital1 **] ():
+200 mg [**Hospital1 **].
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet
+PO Q4-6H (every 4 to 6 hours) as needed.
+3. Mirtazapine 15 mg Tablet Sig: Two (2) Tablet PO HS (at
+bedtime).
+4. Trazodone 50 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime)
+as needed.
+5. [**Hospital1 **] 750 mg/5 mL Suspension Sig: 1500 mg  PO DAILY
+(Daily): 10 ml daily.
+6. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day
+(at bedtime)).
+7. Azithromycin 600 mg Tablet Sig: Two (2) Tablet PO 1X/WEEK
+(TH).
+8. Atazanavir 150 mg Capsule Sig: Two (2) Capsule PO DAILY
+(Daily).
+9. Truvada 200-300 mg Tablet Sig: One (1) Tablet PO once a day.
+
+10. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+11. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).
+12. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times
+a day) as needed.
+Disp:*120 Capsule(s)* Refills:*0*
+13. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+14. Aldactone 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Altered mental status related to drug overdose
+2. Cirrhosis
+3. HIV
+4. Diarrhea
+5. Acute renal failure
+
+
+Discharge Condition:
+stable, tolerating medications
+
+
+Discharge Instructions:
+1. You were admitted with altered mental status, likely due to
+opium use.  You should avoid opium in the future.  All of your
+medications are the same, except we are decreasing your lasix
+and spironolactone.  You should have these readjusted by Dr.
+[**First Name (STitle) 3589**].
+.
+2. Return for fevers, chills, weight gain, shortness of breath,
+vomiting, worsened diarrhea and inability to take medications.
+.
+3. Please attend all follow-up appointments.
+.
+4. Follow new medication list
+
+Followup Instructions:
+1. You need to attend your infectious disease appointment as
+follows: Provider: [**First Name8 (NamePattern2) 7530**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 452**]
+Date/Time:[**2967-3-9**] 1:00.  This is the urgent care [**Hospital **] clinic
+.
+2. Please attend the following appointment: Provider: [**Name10 (NameIs) **]
+[**Name11 (NameIs) 7531**] CLINIC Phone:[**Telephone/Fax (1) 2388**] Date/Time:[**2967-3-17**] 1:00
+.
+3. Provider: [**Name10 (NameIs) 699**] MRI Phone:[**Telephone/Fax (1) 323**] Date/Time:[**2967-3-17**]
+2:15
+
+
+
+
+
+
+DOC CLASS

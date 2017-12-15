@@ -1,0 +1,253 @@
+Chief Complaint: MOSD
+   24 Hour Events:
+ PICC LINE - START [**2761-5-2**] 07:00 PM
+   [**5-2**]
+   - Spoke with nephrologist and daughter: no further escalation of care.
+   no dialysis.  if interventions don't work, would move towards comfort
+   - CHF service: increase lasix gtt and add metolazone [**Hospital1 **]
+   - Intermittently on BiPAA, feeling slightly dyspneic
+   - Given morphine 1mg x3 plus ativan 1mg x1 for comfort
+   - PICC placed successfully
+   History obtained from Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Prednisone
+   Rash;
+   Isordil (Oral) (Isosorbide Dinitrate)
+   Headache;
+   Ace Inhibitors
+   Renal Toxicity;
+   Last dose of Antibiotics:
+   Azithromycin - [**2761-5-1**] 08:01 AM
+   Vancomycin - [**2761-5-2**] 05:39 PM
+   Piperacillin - [**2761-5-3**] 04:16 AM
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2761-5-2**] 01:00 PM
+   Heparin Sodium (Prophylaxis) - [**2761-5-2**] 04:00 PM
+   Morphine Sulfate - [**2761-5-3**] 02:00 AM
+   Lorazepam (Ativan) - [**2761-5-3**] 03:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2761-5-3**] 07:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 36.4
+C (97.5
+   HR: 74 (70 - 91) bpm
+   BP: 136/66(82) {105/47(62) - 162/89(95)} mmHg
+   RR: 12 (12 - 21) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,170 mL
+                                                                    346 mL
+   PO:
+                                                                    350 mL
+             TF:
+   IVF:
+                                                                    820 mL
+                                                                    346 mL
+   Blood products:
+   Total out:
+                                                                    610 mL
+                                                                    190 mL
+   Urine:
+                                                                    610 mL
+                                                                    190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    560 mL
+                                                                    156 mL
+   Respiratory support
+   O2 Delivery Device: Bipap mask
+   Ventilator mode: CPAP/PPS
+   Vt (Spontaneous): 287 (287 - 712) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 0 cmH2O
+   SpO2: 97%
+   ABG: ///24/
+   Ve: 8.8 L/min
+   Physical Examination
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   , Diminished: )
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): x2, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   202 K/uL
+   9.8 g/dL
+   197 mg/dL
+   5.2 mg/dL
+   24 mEq/L
+   5.1 mEq/L
+   89 mg/dL
+   96 mEq/L
+   135 mEq/L
+   29.2 %
+   4.7 K/uL
+        [image002.jpg]
+                             [**2761-4-29**]  05:30 AM
+                             [**2761-4-29**]  02:26 PM
+                             [**2761-4-30**]  05:27 AM
+                             [**2761-5-1**]  05:01 AM
+                             [**2761-5-1**]  03:45 PM
+                             [**2761-5-2**]  05:51 AM
+                             [**2761-5-3**]  02:52 AM
+   WBC
+   7.9
+   7.4
+   5.4
+   5.2
+   4.6
+   4.7
+   Hct
+   31.8
+   29.4
+   27.7
+   27.5
+   29.6
+   29.2
+   Plt
+   [**Telephone/Fax (3) 8573**]86
+   189
+   202
+   Cr
+   4.0
+   3.9
+   4.2
+   4.4
+   4.7
+   4.9
+   5.2
+   TropT
+   0.11
+   0.13
+   0.09
+   Glucose
+   115
+   176
+   123
+   90
+   163
+   137
+   197
+   Other labs: PT / PTT / INR:15.1/34.0/1.3, CK / CKMB /
+   Troponin-T:48/3/0.09, Differential-Neuts:84.7 %, Lymph:11.5 %, Mono:3.1
+   %, Eos:0.5 %, Ca++:8.1 mg/dL, Mg++:2.6 mg/dL, PO4:7.1 mg/dL
+   Imaging: none today, overload yest afternoon after PICC
+   Microbiology: enterococcus urine
+   Assessment and Plan
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+ .H/O PULMONARY EDEMA
+ URINARY TRACT INFECTION (UTI)
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+ .H/O C. DIFFICILE INFECTION (C DIFF, CDIFF COLITIS, CLOSTRIDIUM
+   DIFFICILE)
+   Mr. [**Known patient lastname 7816**] is a [**Age over 90 50**] yo M with PMH CAD, CHF, Cdiff, CKD (3.2-3.7)
+   admitted with Healthcare assoc RLL pneumonia now with pulmonary edema
+   and ARF and multi organ failure
+   .
+   #Pulmonary Edema/Acute Systolic CHF: EF 30-40%, 1+ MR c/b pulmonary
+   edema and lower extremity swelling.  Hypervolemic on exam, CXR with
+   pulm edema worsening over the last 24hrs.  Unable to diurese given
+   ARF. Made 600cc urine.  Therapy not working as expected
+   - discuss goals of care with family
+   - tentatively will increase carvedilol and  hydralazine to optimal
+   doses
+   - lasix gtt/metolazone
+   - appreciate HF service recs
+   - dry weight  150 lbs per past notes
+   - goal sbp<120
+   - discuss goals of care
+   .
+   #Acute on Chronic Stage IV Chronic Kidney Disease: creatinine slightly
+   elevated above baseline of 3.5-3.7 at 5.2 likely related [**2-20**] c.diff and
+   acute PNA/UTI.   Has had poor UOP.  Likely pre-renal though cannot rule
+   out ATN given hypotension
+   - likely pre-renal physiology [**2-20**] acute HF
+   - outpt nephrologist discussed HD with patient/family>>>do not want
+   dialysis
+   - lasix gtt and metolazone [**Hospital1 **] -> not working
+   - renally dose meds, avoid nephrotoxins
+   - continue phos binder
+   - per outpt nephrologist, no HD
+   .
+   #Health Care associated pneumonia - with large infiltrate in RLL on
+   CXR, most likely cause of presenting symptoms of weakness, lethargy and
+   cough.  Does have mild pulmonary edema after fluid resuscitation.  Had
+   high fevers as well as hypotension.  Pressor dependent currently
+   - vanc, zosyn and completed azithromycin today to cover broadly for HAP
+   and atypicals, renally dosed
+   - vanco level elevated, will dose based on level daily
+   -sputum culture with GPRs, GPCs, cx not helpful, OP flora
+   .
+   #Urinary Tract Infection: UA on admission c/w UTI, per family he has
+   h/o UTI's, which may also be explanation for weakness and lethargy.
+   Last positive culture with MRSA.  This time has enterococcus >100,000.
+   -f/u urine culture, f/u sensitivity
+   -current antibiotics will cover likely causes for UTI
+   .
+   #Recurrant C.diff: stable
+   -continue po vanco
+   -contact precautions
+   .
+   #Type 2 DM: stable
+   -hold oral agents for now
+   -cover with HISS
+   .
+   #Peripheral Neuropathy: pt with chronic pain in hands and feet
+   -hold neurontin given mental status
+   -percocet prn
+   .
+   #CAD - h/o prior MI with ischemic cardiomyopathy, no acute issues, EKG
+   at baseline.  Had ? aflutter vs SVT last night
+   -continue atorvastatin 80
+   -continue ASA
+   - uptitrate carvedilol,  hydralazine
+   - has allergy to ACEI, not on [**Last Name (un) 223**]??
+   .
+   # HTN- restart carvedilol, hydralazine, nitro prn
+   .
+   #COPD: stable
+   -albuterol/atrovent nebs standing
+   ** Overall plan of care to be discussed with family today
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2761-5-2**] 08:06 AM
+   PICC Line - [**2761-5-2**] 07:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: DNR / DNI
+   Disposition:ICU
+
+
+
+DOC CLASS

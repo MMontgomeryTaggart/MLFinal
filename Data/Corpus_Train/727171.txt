@@ -1,0 +1,281 @@
+Chief Complaint:  presumed septic shock
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Pt is a 79 y.o male w/ ischemic CM, CKD, DM, PVD, afib. Recent d/c from
+   OSH on [**2993-7-18**] to [**Hospital 652**] Rehab who was admitted to MICU on [**7-19**] after
+   he was found unresponsive on the bedpan. Brief MICU stay for
+   monitoring, but at that time little suspicion for infection.
+   Unresponsiveness was attributed to possible syncope related to
+   tachy-brady syndrome. he was covered empirically with vanco + levoflox,
+   however.
+   On the night of [**7-22**] pt was noted to be oliguric and received IVF,
+   which were reduced when increased oxygen requirement was noted.
+   Additionally, a rising WBC ct was also noted.  Other hospital events
+   included coffee-grounds emesis on [**7-22**] for which an eventual EGD has
+   been planned for.
+   Of note, on pt's OSH hospitalization in early [**Month (only) 91**], he developed a MRSA
+   bactermia with an unclear source. A TEE was negative for endocarditis
+   and repeat cultures remained negative; he was treated w/ vancomycin IV.
+   He did also have a Klebsiella and Stenotrophomonas-positive sputum
+   sample, which was treated with levofloxacin.
+   Allergies: NKDA
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2993-7-23**] 01:09 PM
+   Metronidazole - [**2993-7-23**] 02:05 PM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   - Aortic stenosis with AVR with a bioprosthetic (pericardial) valve
+   - Coronary artery bypass graft times two with saphenous vein graft to
+   left anterior descending and OM
+   -Tachy-brady syndrome w/ eventual pacemaker planned for.
+   - Ischemic cardiomyopathy with EF of 35%
+   - Hypertension
+   - Postoperative atrial fibrillation
+   - Asthma
+   - Diabetes mellitus
+   - Gout
+   - Hyperlipidemia
+   - Hypothyroidism
+   noncontributory
+   Occupation: retired
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: denies
+   Other: lived at home til [**3-11**]
+   Review of systems: Reviewed in detail and negative except as noted
+   above
+   Flowsheet Data as of [**2993-7-23**] 02:53 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35
+C (95
+   Tcurrent: 35
+C (95
+   HR: 102 (102 - 108) bpm
+   BP: 103/40(57) {77/40(50) - 103/68(75)} mmHg
+   RR: 27 (26 - 29) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 78.3 kg (admission): 74 kg
+             Total In:
+             226 mL
+   PO:
+             TF:
+   IVF:
+   226 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     25 mL
+   Urine:
+   25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    201 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ////
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), irreg iireg, tachy; 2+
+   systolic murmur
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Rhonchorous: bilat)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace, Cool to touch
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Purposeful, Tone: Not assessed
+   Labs / Radiology
+   437K/uL
+   35.9
+   11.5 g/dL
+   41 mg/dL
+   1.4 mg/dL
+   13 mg/dL
+   15 mEq/L
+   114 mEq/L
+   4.4 mEq/L
+   140 mEq/L
+   21.6 K/uL
+        [image002.jpg]
+                             [**2993-7-20**]  12:30 AM
+                             [**2993-7-20**]  01:14 AM
+                             [**2993-7-20**]  05:40 AM
+                             [**2993-7-20**]  01:45 PM
+   WBC
+                                     7.9
+   Hct
+                                    31.8
+   Plt
+                                     264
+   Cr
+                                     1.3
+   TropT
+                                    0.23
+                                    0.21
+                                    0.21
+                                    0.17
+   Glucose
+                                     60
+   Other labs: PT / PTT / INR:26.5/38.1/2.6, CK / CKMB /
+   Troponin-T:61//0.17, ALT / AST:[**6-19**], Alk Phos / T Bili:69/0.8,
+   Differential-Neuts: 91%, Lymph:2%, LDH:181 IU/L, Ca++:7.3 mg/dL,
+   Mg++:2.4 mg/dL, PO4:2.5 mg/dL
+   INR- 3.5
+   Peripheral VBG- 7.19 / 45 / 40 (lactate 1.6)
+   Imaging: KUB ([**7-23**])- distended stomach bubble, no free air noted
+   CXR ([**7-23**])- L > R pleural effusion, atelectasis vs infiltrate B bases
+   CXR ([**7-19**])-  cardiomegaly, b pleural effusions
+   OSH TEE ([**7-17**])- reduced LVEF, biosprosthetic aortic valve well seated.
+   No evidence of endocarditis on any valves. No significant valvular
+   regurgitations noted. Left atrium moderately dilated with mild
+   spontaneous echo contrast noted.
+   Atherosclerosis of the descending aorta noted.
+   Microbiology: [**7-19**] Blood Cultures x 2: pending
+   [**7-12**] OSH blood cx- MRSA (subsequent OSH blood cx neg)
+   [**7-12**] OSH Sputum- Klebsiella and Stenotrophomonas (unclear
+   sensitivities)
+   [**7-19**] Urine Culture: pending
+   [**7-20**] MRSA Screen: pending
+   [**7-21**] Bloodx2- pending
+   [**7-22**] C diff- neg
+   [**7-22**] Blood- pending
+   [**7-23**] urine- pending
+   ECG: EKG- A. fib at 80 bpm, left axis deviation, LBBB, LVH, st
+   elevations in V2 and V3, unchanged from priors.
+   Assessment and Plan
+   79 yo male w/ tachy-brady syndrome, ischemic CM, s/p bioprosthetic AVR,
+   CKD, admitted to [**Hospital1 1**] on [**7-19**] w/ possible syncope, and transferred to
+   the MICU today for hypotension and leukocytosis concerning for severe
+   sepsis vs septic shock, also with hypoxemic respiratory distress
+   possibly related to pneumonia +/- pulmonary edema.
+   1. Shock: most likely due to sepsis but w/ underlying ischemic CM
+   -place R IJ CVC, place a line
+   -IVF resuscitation and pressor for MAP and CVP goals
+   -follow lactate and central venous O2 sats
+   -possible repeat TTE or TEE
+   2. Severe Sepsis (shock state): Possible etiologies include line
+   sepsis, pneumonia, prostethic valve endocarditis, c. diff.
+   - vanco/zosyn/levoflox/flagyl to cover broadly for bacterial infections
+   and c. diff
+   - f/u sensitivities of Stenotrophomonas and Klebsiella from OSH as we
+   will want to cover for these as well.
+   - f/u sputum, blood, urine cultures
+   - consider repeat TTE or TEE
+   - check glucan
+   3.  Hypoxemic respiratory distress: related to edema plus possible
+   infection.
+   - consider bipap vs intubation if he has worsening respiratory status
+   - infectious mgmt as above
+   4.  Abd distension/ coffee-grounds emesis: KUB shows significant
+   gastric distention.
+   - NGT to suction
+   - serial KUBs
+   - per GI plan on EGD when more stable
+   5. Possible syncope:  suspecting tachy-brady as related to event. Ruled
+   out for ACS already.
+   - Cards had planned on pacer at some point
+   - f/u carotid u/s recommended by cards
+   -tele monitoring
+   6. Anticoagulation: for afib
+   - holding coumadin given coffee-grounds emesis
+   7. CAD/CABG/AVR: holding BB for now, will give statin; holding ASA for
+   now
+   Remainder of plan as per housestaff note
+   ICU Care
+   Nutrition: npo for now
+   Glycemic Control: Blood sugar well controlled
+   Lines / Intubation:
+   PICC Line - [**2993-7-23**] 12:00 PM
+   Comments: to get CVC and have PICC pulled
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+   ------ Protected Section ------
+   I was physically present with the resident team on this date for
+   discussion of the above history, exam and assessment and plan with
+   which I agree.  I independently examined the patient and would add the
+   following comments:
+   79 yo male with [**Last Name (un) **] CM, tachy-brady syndrome, CKD, DM, HTN,
+   hypothyroidism recently at [**Hospital1 **] [**Location (un) 76**] in [**Month (only) 91**] for tachy-brady
+   syndrome, hospitalization also notable for MRSA bacteremia of unclear
+   source, Klebsiella and stenotrophomonas PNA. Discharged to rehab [**7-18**];
+   readmitted [**7-19**] to ICU when found to be unresponsive on the bed pan. He
+   was briefly covered with Vanc/Levaquin and thought to have syncope
+   either tachy brady or syncope.
+   To the floor-developed coffee grds emesis with EGD planned by GI. Cards
+   consult was called regarding tachy-brady syndrome. He continued to have
+   a leukocytosis and yesterday became oliguric. With attempted fluid
+   resuscitation he became hypoxic and today, hypotension with SBP's to
+   the 70's
+   PMHx: tachy-brady syndrome, CAD s/p CABG, hx Ao stenosis s/p
+   bioprosthetic valve (TEE [**7-11**] negative), HTN, afib, asthma, DM
+   Non smoker, nondrinker
+    PE:
+   Ill appearing male, mildly tachypneic
+   Lungs: Rhonchorous with decreased BS
+   Irreg. Irreg USB systolic murmur
+   Abd: soft, nt; mildly distended,  hypoactive bs
+   Ext: cool, no peripheral edema
+   Skin: multiple scattered ecchymoses
+   RUE PICC
+   WBC 21.6 with 90% N
+   Bicarb down to 15
+   AG 15, lactate 1.6
+   KUB and CXR: bilateral effusions
+   Cx: All Bd Cx's NGTD ([**2903-7-19**])
+   Imp:
+   79 yo male with recent hospitalization for MRSA bacteremia of unclear
+   source, and Stenotrophomonas PNA- now with evolving sepsis with
+   leukocytosis, acidosis, hypotension
+   1. shock: sepsis most likely etiology-
+   IJ placed, plan a-line for invasive monitoring
+   Check CVP and fluid resuscitate- central venous sats and lactate
+   Re-check Echo
+   Neo to maintain MAP>65
+    2. Sepsis: source not entirely clear. Possibilites include line,
+   resistant PNA; Cdiff; GI source
+   Expand to Vanc/Cefipime/cipro/flagyl
+   CVL placed and will pull PICC
+   CT torso if pt
+s status stabilizes, or if he gets intubated
+    3. Hypoxic respiratory distress: pulm edema (cardiogenic vs
+   non-cardiogenic)-
+   support with supplemental oxygen and may require NIPPV or  intubation
+    4. Coffee grds emesis/distension: NG tube to suction, montior
+   abdominal exams
+   5. Afib: anticoauglation being held due to coffee grds emesis. HR
+   control acceptable
+   Pt is critically ill: Total time spent: 50 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 337**] [**Last Name (NamePattern1) **], MD
+   on:[**2993-7-23**] 18:17 ------
+
+
+
+DOC CLASS

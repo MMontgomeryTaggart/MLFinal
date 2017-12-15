@@ -1,0 +1,141 @@
+Chief Complaint:  Admitted to N/V, transferred for hypotension and GNR
+   bacteremia from port blood cx
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   67 yr old metast colon ca, receiving 5-FU and leucovorin, presented
+   [**2-14**] to ED with N/V and decreased ostomy output x 1d. Last [**Month/Year (2) 3158**] 5 d
+   ago.  Was disimpacted ~ 2 weeks ago.
+    During admission, N/V, tx with antiemetics and IVF
+   BP baseline ~100-110. was hypotensive. Yesterday had barium study to
+   eval ostomy. Post procedure, had some bleeding from ostomy rim, seen by
+   surgery, transfused 3 units of prbc. Hypotensive with SBP 70s fluid
+   responsive o/n. This AM, hypotensive that did not respond to IVF.
+   Cipro/Flagyl yest, meropenem ordered today.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Latex
+   Rash;
+   Oxaliplatin
+   see ccc note;
+   Iodine; Iodine Containing
+   Rash;
+   Fluconazole
+   angioedema;
+   Ace Inhibitors
+   Rash; contraind
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Reviewed - meropenem, octreotide for diarrhea, mvi,dilt 240, opium
+   tincture, PPI, fent patch 100, iron, flonase, compazine, rifaximin,
+   ISS, NaHCO3, loperamide, lorazepam
+   Past medical history:
+   Family history:
+   Social History:
+   Colon ca [**2790**] with lung mets s/p [**Year (4 digits) 3158**], R colectomy, currently
+   undergoing [**Year (4 digits) 3158**]
+   s/p SB resection
+   SVC syndrome
+   DM
+   Chronic diarrhea
+   Occupation:
+   Drugs: denies
+   Tobacco:
+   Alcohol: denies
+   Other: from [**Country 630**]
+   Review of systems:
+   Ear, Nose, Throat: eye tearing
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: Nausea
+   Neurologic: No(t) Numbness / tingling, No(t) Headache
+   Flowsheet Data as of [**2798-2-21**] 01:00 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**00**] AM
+   HR: 82 (82 - 92) bpm
+   BP: 84/43(54) {84/43(54) - 107/52(63)} mmHg
+   RR: 17 (15 - 17) insp/min
+   SpO2: 99%
+                  Total In:
+                  3,270 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    855 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  2,415 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ////
+   Physical Examination
+   Eyes / Conjunctiva: PERRL, tearing noted
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, ostomy in place
+   Extremities: portacath, RUE>LUE edema
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   194
+   26.2
+   1.4
+   14
+   21
+   105
+   4.1
+   137
+   6.9
+        [image002.jpg]
+   Other labs: PT / PTT / INR:20.7/44.4/1.9, Alk Phos / T Bili:59/3.7,
+   Differential-Neuts:73%, Band:3%, LDH:156
+   Fluid analysis / Other labs: Baseline creat 1.4-2.0
+   Imaging: CXR reviewed
+   Assessment and Plan
+   GNR septicemia +/- hypovolemic shock
+ c/w vanc/meropem/flagyl, f/u on
+   cultures, IVF, pressors prn, MAP>65
+    - ordered for more blood cultures from port and periph. [**Month (only) 56**] need CT
+   imaging of abdomen to look for abscess
+   Hx of PE/DVT
+ holding lovenox since yesterday (was reversed with
+   protamine)
+   ARF
+ resolved, at baseline creat
+   Colon ca
+ getting [**Last Name (LF) 3158**], [**First Name3 (LF) 167**] keep in touch oncology
+   ICU Care
+   Nutrition: PO diet
+   Glycemic Control: Regular insulin sliding scale
+   Comments:
+   Prophylaxis:
+   DVT: Pneumoboots
+   Stress ulcer: PPI
+   Communication: ICU consent signed , son is HCP
+   [**Name (NI) 62**] status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

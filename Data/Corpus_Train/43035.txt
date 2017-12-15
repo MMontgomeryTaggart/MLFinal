@@ -1,0 +1,295 @@
+Admission Date:  [**3417-5-22**]              Discharge Date:   [**3417-5-28**]
+
+Date of Birth:  [**3379-2-9**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1982**]
+Chief Complaint:
+Hypertensive urgency/ Nausea and Vomiting
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+This is a 38 yo male with DM1 complicated by severe
+gastroparesis, poorly controlled hypertension with severe
+autonomic dysfunction, ESRD on HD (Tu/Th/Sat), CAD, who is well
+known to medicine service for multiple admissions secondary to
+hypertensive emergency and gastroparesis, discharged yesterday,
+who presented to the ED with elevated BP, nausea/vomiting and
+back pain. Mild back pain in thorac
+.
+On review of systems, the patient denies any chest pain,
+shortness of breath, fevers, chills, weight loss, night sweats,
+fatigue, headaches, dizziness, blurred vision, sore throat,
+nausea, vomiting, abdominal pain, any new rashes, denies
+dysuria, hematuria, increased urgency, diarrhea, constipation,
+hematochezia, melena, epistaxis. All other systems were reviewed
+in detail and were negative except for what has been mentioned
+above.
+.
+He was last admitted on [**7-4**] for question of seizure and
+elevated cardiac enzymes. Cardiology was consulted and felt that
+this leak most likely represented subendocardial ischemia in the
+setting of severe hypertension and tachycardia. He was
+discharged on a baby aspirin, beta blocker, ace inhibitor, and
+was continued on his regular coumadin dose. Seizure/altered
+mental status was attributed to hypertension.
+.
+In the ED, was hypertensive to the 250s, was started on
+labetolol and nitro drip. SBP in 130s. Received dose of toprol
+prior ot tranfer. ECG with prominent repolarization in the
+anterior leads. Cardiology did not think it was concerning.
+Troponins were more elevated than prior, attributed to renal
+insufficiency.
+
+
+Past Medical History:
+1. Diabetes mellitus type I
+2. End-stage renal disease on hemodialysis started [**12/3414**]
+TuThSa
+3. Severe autonomic dysfunction with multiple hospitalizations
+for hypertensive emergency, gastroparesis, and orthostatic
+hypotension
+5. History of esophageal erosion, [**Doctor First Name **]-[**Doctor Last Name **] tear
+6. Coronary artery disease with 1-vessel disease (50% stenosis
+D1)
+- Fixed, small, moderate severity perfusion defect involving the
+LAD (diagonal) territory by MIBI on [**3417-3-26**]
+7. History of foot ulcer - 2 months, healing slowly
+8. History of clot in AV fistula clot on coumadin - [**Month (only) 949**]/[**Month (only) 77**]
+of [**3415**] s/p multiple attempts to remove clot
+9. History of coagulase negative Staphylococcus bacteremia
+
+
+Social History:
+Denies alcohol or tobacco use. Endorses occassional marijuana
+use.
+
+
+Family History:
+His father died of ESRD and diabetes. His mother is in her 50s
+and has hypertension. He has two sisters, one with diabetes, and
+six brothers, one with diabetes.
+
+Physical Exam:
+VS T 98  HR 70s  BP 190/100 RR 18 O sats 98% 2 L
+
+Gen: Appears well dressed, well nourished, in no acute distress
+
+HEENT: NCAT, PERRL, Sclera anicteric, No ulcers, oropharynx
+otherwise clear, throat with no erythema or exudates, no thrush,
+no cervical lymphadenopathy, JVP is flat
+CV: normal S1/S2, RRR, no m/r/g, no tenderness to palpation of
+precordium, PMI non-displaced
+Lungs: Clear to auscultation bilaterally, No w/r/rh
+Abdomen: Soft, nontender, nondistended, normoactive bowel
+sounds, no hepatosplenomegaly, no ascites
+Ext: No peripheral edema, no clubbing, cyanosis, no calf pain,
+DP pulses are 2+ bilaterally
+Neuro: A + O x 3, CN II-XII grossly intact, Motor [**4-5**] both upper
+and lower extremities, Sensation grossly intact to light touch,
+DTR 2+ throughout, Toes downgoing
+Skin: pink, warm, no rashes
+
+
+Pertinent Results:
+[**3417-5-22**] 08:09PM   CK(CPK)-138
+[**3417-5-22**] 08:09PM   cTropnT-0.90*
+[**3417-5-22**] 08:09PM   CK-MB-7
+[**3417-5-22**] 01:30PM   GLUCOSE-307* UREA N-56* CREAT-10.2*#
+SODIUM-135 POTASSIUM-5.3* CHLORIDE-96 TOTAL CO2-21* ANION
+GAP-23*
+[**3417-5-22**] 01:30PM   ALT(SGPT)-8 AST(SGOT)-14 CK(CPK)-172 ALK
+PHOS-115 AMYLASE-107* TOT BILI-0.2
+[**3417-5-22**] 01:30PM   CK-MB-9 cTropnT-0.80*
+[**3417-5-22**] 01:30PM   CALCIUM-10.0 PHOSPHATE-4.9* MAGNESIUM-2.2
+[**3417-5-22**] 01:30PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG
+bnzodzpn-POS barbitrt-NEG tricyclic-NEG
+[**3417-5-22**] 01:30PM   WBC-7.1 RBC-4.84 HGB-12.7* HCT-39.6* MCV-82
+MCH-26.3* MCHC-32.2 RDW-19.3*
+[**3417-5-22**] 01:30PM   NEUTS-75.3* LYMPHS-15.7* MONOS-4.5 EOS-3.4
+BASOS-1.1
+[**3417-5-22**] 01:30PM   PLT COUNT-120*
+[**3417-5-22**] 01:30PM   PT-18.0* PTT-34.1 INR(PT)-1.7*
+[**3417-5-21**] 06:06AM   GLUCOSE-344* UREA N-37* CREAT-7.7*#
+SODIUM-139 POTASSIUM-4.1 CHLORIDE-98 TOTAL CO2-28 ANION GAP-17
+[**3417-5-21**] 06:06AM   CK(CPK)-121
+[**3417-5-21**] 06:06AM   CK-MB-7 cTropnT-0.51*
+[**3417-5-21**] 06:06AM   CALCIUM-9.4 PHOSPHATE-5.9* MAGNESIUM-2.2
+[**3417-5-21**] 06:06AM   WBC-6.6 RBC-4.65 HGB-11.9* HCT-38.3* MCV-82
+MCH-25.6* MCHC-31.0 RDW-19.1*
+[**3417-5-21**] 06:06AM   PLT COUNT-132*
+
+CTA CHEST [**3417-5-24**]
+
+IMPRESSION:
+1.  No evidence of aortic dissection, as clinically questioned.
+2.  Left ventricular hypertrophy, consistent with reported
+history of
+hypertension.
+3.  Diffuse, dense vascular calcifications, including coronary
+artery
+calcifications, much greater than expected for patient's age.
+4.  Extensive collateral venous drainage with associated focal
+narrowing of the left subclavian vein.
+
+CT ABDOMEN-PELVIS [**3417-5-24**]
+
+Note is made of bilateral mild gynecomastia.  There is a right
+chest port and
+a right central venous catheter in place.
+
+The liver is normal, without focal lesions.  No intra- or
+extra-hepatic
+biliary ductal dilatation.  The gallbladder, pancreas, adrenal
+glands and
+spleen are normal.  Note is made of a prominent ampulla
+projecting into the
+duodenum (sequence 3A, image 127) that likely is a normal
+finding.
+
+The bowel is unremarkable.  The kidneys demonstrate symmetric
+enhancement
+without hydronephrosis or focal lesions.
+
+No abdominal free fluid or lymphadenopathy.
+
+The urinary bladder, rectum, prostate and sigmoid colon are
+unremarkable.  No
+pelvic free fluid or lymphadenopathy.
+
+No suspicious osseous lesions.
+
+
+Brief Hospital Course:
+# Hypertensive urgency:
+Pt has a history of widely fluctuating BP [**1-3**] autonomic
+instability. There is also medication non-adherence. There is no
+sign of end-organ damage now with the HTN. He occasionally has
+EKG changes (TWI) as a result of demand ischemia. He was on a
+nitro drip in the ED and again on the floor. His outpatient
+medications were re-started and imdur was added to the regimen.
+It was after the addition of Imdur that the patient??????s BP
+stabilized at 100s systolic. He at one point became hypotensive
+and required bolus of 500ccs, with BP meds held. At discharge,
+he was tolerating well his regimen of meds and was normotensive.
+
+.  He complained of back pain which is a new complaint in him,
+and CTA chest was reassuring that there was no aortic
+dissection. For other findings see report above.
+.
+# N/V and abdominal pain:
+Pt with multiple admissions with similar complaints, etiology
+[**1-3**] gastroparesis, pain is now resolved. He responds to dilaudis
+and ativan. He was transitioned from NPO to clears to full to
+regular, and he was able to tolerate regular at dc.
+Abdomen-pelvis CT was obtained to rule out other pathologies
+that might have been masked by gastroparesis. There were none.
+.
+=Anticoagulation: 2 days prior to discharge, the patient??????s INR
+became elevated (6 and above) and his coumadin was dced. Even
+after the coumadin was dc, his INR increased the next day and
+subsequently trended down rapidly.
+
+.# DMI:
+- c/w home NPH 3 units [**Hospital1 **], RISS
+.
+# ESRD:
+etiology [**1-3**] DM and HTN,
+- continued on usual schedule, usual T/Th/Sat, renal following
+and HD also as needed, such as after contrast for CT scans.
+- Contact[**Name (NI) **] Transplant team to discuss options for pancreas and
+kidney transplant. Pt had been relying on former girlfriend to
+[**Name2 (NI) 18534**] kidney, but that is no longer an option. Transplant team
+aware of this.
+.
+
+
+Medications on Admission:
+Patient not sure
+
+Discharge Medications:
+1. Clonidine 0.3 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly
+Transdermal QTUES (every Tuesday).
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Lanthanum 500 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TID (3 times a day).
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO BID (2 times a day).
+Disp:*60 Tablet Sustained Release(s)* Refills:*2*
+7. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+8. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+9. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Three
+(3) units Subcutaneous twice a day.
+10. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+11. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+
+1. Clonidine 0.3 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly
+Transdermal QTUES (every Tuesday).
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+3. Lanthanum 500 mg Tablet, Chewable Sig: Two (2) Tablet,
+Chewable PO TID (3 times a day).
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+6. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO BID (2 times a day).
+Disp:*60 Tablet Sustained Release(s)* Refills:*2*
+7. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+8. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+9. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Three
+(3) units Subcutaneous twice a day.
+10. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr
+Sig: 0.5 Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+11. Clonidine 0.1 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Hypertensive crisis.
+
+
+Discharge Condition:
+Fair.
+
+
+Discharge Instructions:
+Go to dialysis as normally scheduled for tomorrow (Thursday).
+Take medications as instructed.
+
+Followup Instructions:
+Follow-up with Dr [**Last Name (STitle) **] in [**12-3**] weeks.
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1984**] MD, [**MD Number(3) 1985**]
+
+
+
+
+DOC CLASS

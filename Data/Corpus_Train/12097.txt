@@ -1,0 +1,43 @@
+Admission Date:  [**2927-12-25**]       Discharge Date:  [**2928-1-5**]
+
+
+Service:
+
+ADDENDUM:  The patient is discharged on [**2928-1-5**] to
+[**Hospital 1814**] [**Hospital **] Rehabilitation Facility.
+
+DISCHARGE MEDICATIONS:  Protonix 40 mg po q.i.d., Timolol one
+GTT each eye q.d., Flomax 0.4 mg po q.d., Lipitor 10 mg po
+q.d., Percocet one to two tabs po q 4 to 6 h prn for pain,
+Colace 100 mg po b.i.d., aspirin 325 mg po once a day,
+Metoprolol 25 mg po b.i.d. held for a systolic blood pressure
+less then 100 and a heart rate less then 60.  Lasix 10 mg po
+b.i.d. times ten days, 20 milliequivalents of potassium
+chloride b.i.d. times ten days, Coumadin titrated to an INR
+of 2 to 2.5.  The patient received 3 mg po tonight.  The
+patient is to follow up with Dr. [**First Name4 (NamePattern1) 164**] [**Last Name (NamePattern1) 7375**] his primary
+care physician upon discharge for INR checks and for his
+atrial fibrillation.  The patient is also to go rehab on
+Amiodarone titrated and loaded and with a final dose of 400
+mg po q.d.
+
+DISCHARGE CONDITION;  Good.  He is to follow up with Dr.
+[**Last Name (STitle) **] in four to six weeks.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 187**]
+
+Dictated By:[**Name8 (MD) 2701**]
+MEDQUIST36
+
+D:  [**2928-1-5**]  08:49
+T:  [**2928-1-5**]  09:26
+JOB#:  [**Job Number 11641**]
+
+
+
+DOC CLASS

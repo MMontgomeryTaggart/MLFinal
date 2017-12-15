@@ -1,0 +1,195 @@
+Chief Complaint:
+   24 Hour Events:
+   EP: 24 hrs of IV amio at 0.5mg/min, if not ectopy then switch to
+   quinidine 324 TID and check level in 2 days
+   Placed Dobhoff, verified location in stomach
+   sodium improved at 1500
+   Required multiple doses of haldol for extreme agitation
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2625-3-11**] 08:10 AM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2625-3-11**] 10:00 PM
+   Haloperidol (Haldol) - [**2625-3-11**] 10:36 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2625-3-12**] 06:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 36.3
+C (97.3
+   Tcurrent: 35.9
+C (96.7
+   HR: 82 (80 - 106) bpm
+   BP: 106/51(63) {83/33(50) - 134/90(99)} mmHg
+   RR: 18 (16 - 36) insp/min
+   SpO2: 97%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+             Total In:
+                                                                  2,541 mL
+                                                                    337 mL
+   PO:
+             TF:
+                                                                    546 mL
+                                                                    264 mL
+   IVF:
+                                                                  1,715 mL
+                                                                     73 mL
+   Blood products:
+   Total out:
+                                                                  1,360 mL
+                                                                    390 mL
+   Urine:
+                                                                  1,360 mL
+                                                                    390 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,181 mL
+                                                                    -53 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: 7.50/48/46/37/11
+   PaO2 / FiO2: 92
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   109 K/uL
+   10.6 g/dL
+   197 mg/dL
+   1.8 mg/dL
+   37 mEq/L
+   3.7 mEq/L
+   48 mg/dL
+   103 mEq/L
+   145 mEq/L
+   34.4 %
+   16.3 K/uL
+        [image002.jpg]
+                             [**2625-3-7**]  04:38 AM
+                             [**2625-3-7**]  05:02 AM
+                             [**2625-3-8**]  05:42 AM
+                             [**2625-3-8**]  10:58 AM
+                             [**2625-3-9**]  03:06 AM
+                             [**2625-3-9**]  07:49 PM
+                             [**2625-3-10**]  04:00 AM
+                             [**2625-3-11**]  04:11 AM
+                             [**2625-3-11**]  02:53 PM
+                             [**2625-3-11**]  05:51 PM
+   WBC
+   17.9
+   15.3
+   10.0
+   18.0
+   16.3
+   Hct
+   33.8
+   35.0
+   34.6
+   35.0
+   34.4
+   Plt
+   129
+   128
+   127
+   141
+   109
+   Cr
+   1.4
+   1.4
+   1.4
+   1.6
+   1.8
+   1.9
+   1.8
+   TCO2
+   40
+   42
+   39
+   Glucose
+   103
+   177
+   221
+   183
+   168
+   153
+   197
+   Other labs: PT / PTT / INR:12.0/32.5/1.0, CK / CKMB /
+   Troponin-T:136/4/0.07, ALT / AST:26/26, Alk Phos / T Bili:56/1.1,
+   Differential-Neuts:95.7 %, Lymph:2.6 %, Mono:1.5 %, Eos:0.1 %,
+   Fibrinogen:675 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:2.8 g/dL, LDH:269
+   IU/L, Ca++:8.7 mg/dL, Mg++:2.6 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   This is a 68 yo male with a history of COPD on home O2, CAD, s/p CABG
+   presented to OSH with dyspnea and hypotension requirng rapid intubation
+   and vasopressors transferred to [**Hospital1 17**] for further management and
+   determined to have MRSA bacteremia and MRSA PNA.
+   .
+   ## Hypoxia/MRSA sepsis: related to COPD exacerbation and MRSA
+   pneumonia.  Stable but slow to improve.
+   -continue vancomycin x 6 weeks given cardiac hardware (PPM)
+   -taper prednisone to 40mg po daily continue standing nebs
+   -f/u cxs (all neg to date)
+   .
+   # Atrial Tachycardia:  EP recommended restarting amiodarone gt at
+   0.5mg/min for 24 hrs and if no ectopy switching back to quinidine
+   --assess telemetry
+   --cont amio gtt for now
+   --cont digoxin
+   --cont diltiazem
+   --f/u EP recs
+   .
+   # ICU Delirium: Required multiple doses of haldol yesterday.
+   --cont haldol PRN
+   --olanzapine DC'd
+   .
+   # Hypovolemia: Now 1.2L positive overnight
+   .
+   #Prolonged QT: Fluconazole and olanzapine DC'd. Cont monitor though pt
+   also has prolonged PRS
+   .
+   # Acute renal failure:
+   -send urine lytes, 1L of
+   .
+   # Nutrition: Dobhoff replaced and TF restarted
+   .
+   ## CAD,s/p CABG: No active issues
+   --cont [**Last Name (LF) **], [**First Name3 (LF) **]
+   .
+   # Dispo: rehab screening
+   ICU Care
+   Nutrition:
+   NovaSource Renal (Full) - [**2625-3-11**] 03:30 PM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2625-3-7**] 02:27 PM
+   22 Gauge - [**2625-3-8**] 10:13 AM
+   Prophylaxis:
+   DVT: Hep SC
+   Stress ulcer:  Lansoprazole
+   VAP:
+   Comments:
+   Communication:  Wife
+   [**Name (NI) 34**] status: Full code
+   Disposition: ICU for now, being screened for rehab
+
+
+
+DOC CLASS

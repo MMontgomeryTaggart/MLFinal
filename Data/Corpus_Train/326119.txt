@@ -1,0 +1,161 @@
+Chief Complaint:
+   HPI:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**3225-9-9**] 06:08 PM
+ ULTRASOUND - At [**3225-9-9**] 09:00 PM
+ DIALYSIS CATHETER - STOP [**3225-9-10**] 12:22 AM
+   Allergies:
+   Sulfasalazine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3225-9-8**] 10:00 PM
+   Infusions:
+   Norepinephrine - 0.06 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**3225-9-9**] 08:08 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3225-9-10**] 10:41 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.3
+C (99.2
+   HR: 107 (81 - 107) bpm
+   BP: 94/54(64) {76/48(55) - 108/74(81)} mmHg
+   RR: 28 (18 - 42) insp/min
+   SpO2: 65%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 84.3 kg (admission): 92 kg
+   Height: 66 Inch
+             Total In:
+                                                                  1,490 mL
+                                                                    998 mL
+   PO:
+             TF:
+                                                                    436 mL
+                                                                    403 mL
+   IVF:
+                                                                    699 mL
+                                                                    244 mL
+   Blood products:
+   Total out:
+                                                                    130 mL
+                                                                     25 mL
+   Urine:
+                                                                    130 mL
+                                                                     25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,360 mL
+                                                                    973 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask , Tracheostomy tube
+   SpO2: 65%
+   ABG: ///18/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   8.1 g/dL
+   119 K/uL
+   126 mg/dL
+   2.8 mg/dL
+   18 mEq/L
+   5.0 mEq/L
+   96 mg/dL
+   104 mEq/L
+   142 mEq/L
+   25.8 %
+   25.7 K/uL
+        [image002.jpg]
+                             [**3225-9-6**]  06:40 PM
+                             [**3225-9-7**]  04:00 AM
+                             [**3225-9-7**]  05:58 PM
+                             [**3225-9-7**]  08:00 PM
+                             [**3225-9-8**]  12:00 AM
+                             [**3225-9-8**]  05:38 AM
+                             [**3225-9-8**]  06:00 AM
+                             [**3225-9-9**]  04:55 AM
+                             [**3225-9-9**]  11:34 AM
+                             [**3225-9-10**]  03:49 AM
+   WBC
+   29.3
+   20.2
+   19.7
+   25.3
+   25.7
+   Hct
+   23.3
+   25.7
+   25.8
+   25.9
+   25.8
+   Plt
+   168
+   149
+   113
+   104
+   119
+   Cr
+   1.6
+   1.6
+   1.2
+   1.6
+   1.9
+   2.8
+   TropT
+   1.91
+   2.45
+   2.54
+   TCO2
+   27
+   Glucose
+   133
+   138
+   126
+   120
+   138
+   121
+   133
+   125
+   126
+   Other labs: PT / PTT / INR:17.6/32.2/1.6, CK / CKMB /
+   Troponin-T:[**Numeric Identifier 782**]/100/2.54, ALT / AST:371/273, Alk Phos / T
+   Bili:165/1.5, Amylase / Lipase:278/98, Differential-Neuts:93.0 %,
+   Band:0.0 %, Lymph:4.0 %, Mono:3.0 %, Eos:0.0 %, D-dimer:5093 ng/mL,
+   Fibrinogen:167 mg/dL, Lactic Acid:4.0 mmol/L, Albumin:3.4 g/dL,
+   LDH:1373 IU/L, Ca++:7.9 mg/dL, Mg++:2.6 mg/dL, PO4:8.5 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3225-9-10**] 09:46 AM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3225-9-7**] 07:09 PM
+   Dialysis Catheter - [**3225-9-9**] 06:08 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :
+   Total time spent:
+
+
+
+DOC CLASS

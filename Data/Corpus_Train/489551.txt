@@ -1,0 +1,187 @@
+TITLE:
+   Chief Complaint: Shortness of breath
+   24 Hour Events:
+   [**2625-3-6**]
+   -- follow up on mental status: per wife this is his baseline; is
+   requires constant monitoring at home; is usually oriented but unable to
+   distinguish his medications from each other and has poor memory; has
+   done poorly with ativan in the past; tolerates gabapentin well for
+   sleep (was restarted on home gabapentin 100 mg po qhs)
+   -- significantly sore throat and dysphagia (dysphagia may be chronic);
+   ENT will see on Monday if symptoms persist
+   -- patient sounded volume overloaded at 1400 and was given lasix 20mg
+   IV x 2
+   -- patient became more short of breath and entered an atrial
+   tachycardia with borderline blood pressures; he required BiPAP,
+   metoprolol 5mg IV x 3, and diltiazem 10 mg IV x 1 to convert back to
+   sinus
+   -- ABG stable; CXR unchanged
+   -- increased amiodarone to 400 mg po bid
+   -- required multiple haldol doses 1-2 mg IV for agitation on BiPAP
+   -- held pm vanco dose as trough was 36
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Fluconazole - [**2625-3-5**] 12:26 PM
+   Cefipime - [**2625-3-5**] 11:51 PM
+   Vancomycin - [**2625-3-6**] 08:10 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2625-3-6**] 03:09 PM
+   Morphine Sulfate - [**2625-3-6**] 03:20 PM
+   Metoprolol - [**2625-3-6**] 03:32 PM
+   Diazepam (Valium) - [**2625-3-6**] 03:42 PM
+   Heparin Sodium (Prophylaxis) - [**2625-3-6**] 09:15 PM
+   Haloperidol (Haldol) - [**2625-3-7**] 02:30 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2625-3-7**] 06:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.8
+C (98.2
+   HR: 104 (90 - 155) bpm
+   BP: 119/51(72) {92/42(56) - 135/69(195)} mmHg
+   RR: 20 (17 - 30) insp/min
+   SpO2: 99%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+    CVP: 11 (11 - 31)mmHg
+   Total In:
+                                                                    440 mL
+                                                                     66 mL
+   PO:
+   TF:
+   IVF:
+                                                                    440 mL
+                                                                     66 mL
+   Blood products:
+   Total out:
+                                                                  5,600 mL
+                                                                    700 mL
+   Urine:
+                                                                  5,600 mL
+                                                                    700 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -5,160 mL
+                                                                   -634 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 358 (310 - 654) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 36
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 11 cmH2O
+   SpO2: 99%
+   ABG: 7.45/56/76.[**Numeric Identifier 119**]/34/12
+   Ve: 9.7 L/min
+   PaO2 / FiO2: 190
+   Physical Examination
+   Gen: weak, shallow breathing
+   Lungs: diffuse expiratory wheezes, moderate air movement
+   Heart: s1/s2 present, no murmurs
+   Abd: +BS, soft, NT
+   Ext: no LE edema
+   Labs / Radiology
+   [**2625-3-6**] CXR:
+   Hilar vessels appear slightly more engorged and indistinct, and
+   subtle areas of perihilar haziness have developed suggesting
+   interstitial
+   edema. Patchy left retrocardiac opacity is unchanged since recent
+   radiographs, and areas of linear opacity in the left mid and lower lung
+   are
+   also similar as well as a small left pleural effusion and pleural
+   thickening.
+   Postoperative changes in the right hemithorax are unchanged.
+   129 K/uL
+   11.5 g/dL
+   103 mg/dL
+   1.4 mg/dL
+   34 mEq/L
+   3.9 mEq/L
+   43 mg/dL
+   100 mEq/L
+   144 mEq/L
+   33.8 %
+   17.9 K/uL
+        [image002.jpg]
+                             [**2625-3-5**]  02:36 PM
+                             [**2625-3-5**]  09:50 PM
+                             [**2625-3-6**]  03:24 AM
+                             [**2625-3-6**]  03:47 AM
+                             [**2625-3-6**]  09:02 AM
+                             [**2625-3-6**]  03:22 PM
+                             [**2625-3-6**]  03:30 PM
+                             [**2625-3-6**]  10:50 PM
+                             [**2625-3-7**]  04:38 AM
+                             [**2625-3-7**]  05:02 AM
+   WBC
+   15.6
+   17.9
+   Hct
+   31.5
+   33.8
+   Plt
+   110
+   129
+   Cr
+   1.3
+   1.5
+   1.4
+   TropT
+   0.07
+   TCO2
+   28
+   28
+   33
+   35
+   35
+   41
+   40
+   Glucose
+   110
+   158
+   103
+   Other labs: PT / PTT / INR:11.9/35.0/1.0, CK / CKMB /
+   Troponin-T:136/4/0.07, ALT / AST:26/26, Alk Phos / T Bili:56/1.1,
+   Fibrinogen:675 mg/dL, Lactic Acid:1.0 mmol/L, Albumin:2.8 g/dL, LDH:269
+   IU/L, Ca++:9.4 mg/dL, Mg++:2.6 mg/dL, PO4:2.3 mg/dL
+   Assessment and Plan
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ ATRIAL FLUTTER (AFLUTTER)
+ CELLULITIS
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ CARDIOMYOPATHY, OTHER
+ SHOCK, SEPTIC
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**])
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2625-3-3**] 01:08 AM
+   Multi Lumen - [**2625-3-3**] 04:38 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

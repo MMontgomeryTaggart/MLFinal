@@ -1,0 +1,250 @@
+Chief Complaint:
+   24 Hour Events:
+   -          Uncomfortable, c/o itching on R side, settled down with
+   zyprexa, denies pain/SOB
+   -          Sedated and hypotensive yesterday after 10mg Oxycodone, dose
+   decreased to 5mg, improved over time and with fluid bolus (500cc NS)
+   -          Pulled out NGT overnight
+   -          Foley changed, UA nd UCx resent
+   -          Vascular re-evaluating for surgery
+   -          Speech to fit for PM valve
+   Allergies:
+   Vancomycin
+   Exfoliative [**Doctor Last Name **]
+   Linezolid
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,150 units/hour
+   Other ICU medications:
+   Metoprolol - [**2603-9-2**] 02:04 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2603-9-2**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.1
+C (97
+   HR: 110 (89 - 121) bpm
+   BP: 105/61(72) {76/39(49) - 143/90(94)} mmHg
+   RR: 16 (7 - 17) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 69 Inch
+             Total In:
+                                                                  2,886 mL
+                                                                     82 mL
+   PO:
+             TF:
+                                                                  1,150 mL
+   IVF:
+                                                                    776 mL
+                                                                     82 mL
+   Blood products:
+   Total out:
+                                                                    883 mL
+                                                                    360 mL
+   Urine:
+                                                                    833 mL
+                                                                    310 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,003 mL
+                                                                   -278 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   SpO2: 100%
+   ABG: ///31/
+   Physical Examination
+   Gen: Awake, alert, answering questions appropriately
+   HEENT: PERRL
+   Neck: Trach in place, no bleeding
+   Lungs: Coarse BS bilaterally
+   Heart: s1s2 irreg irreg
+   Abd: soft, NT/ND
+   Ext: stable, with cooler LLE compared with other extremities; minimal
+   erythema surrounding dry ulcer on L knee, stable since yesterday
+   Neuro: Wakens, follows commands
+   Labs / Radiology
+   332 K/uL
+   8.5 g/dL
+   88 mg/dL
+   0.7 mg/dL
+   31 mEq/L
+   4.7 mEq/L
+   20 mg/dL
+   108 mEq/L
+   142 mEq/L
+   25.5 %
+   17.2 K/uL
+        [image002.jpg]
+                             [**2603-8-29**]  04:09 AM
+                             [**2603-8-29**]  04:19 AM
+                             [**2603-8-30**]  03:53 AM
+                             [**2603-8-30**]  04:01 AM
+                             [**2603-8-31**]  12:16 AM
+                             [**2603-8-31**]  04:01 AM
+                             [**2603-8-31**]  04:42 AM
+                             [**2603-8-31**]  05:34 AM
+                             [**2603-9-1**]  04:18 AM
+                             [**2603-9-2**]  03:25 AM
+   WBC
+   12.5
+   16.8
+   14.1
+   19.9
+   17.2
+   Hct
+   26.2
+   26.3
+   25.8
+   24.9
+   25.5
+   Plt
+   294
+   334
+   346
+   337
+   332
+   Cr
+   0.5
+   0.5
+   0.5
+   0.7
+   0.7
+   TCO2
+   35
+   34
+   32
+   33
+   34
+   Glucose
+   108
+   116
+   102
+   105
+   88
+   Other labs: PT / PTT / INR:15.9/76.7/1.4, CK / CKMB /
+   Troponin-T:19/4/0.12, ALT / AST:33/30, Alk Phos / T Bili:54/0.4,
+   Amylase / Lipase:24/10, Differential-Neuts:73.7 %, Lymph:9.9 %,
+   Mono:3.5 %, Eos:12.8 %, Lactic Acid:0.6 mmol/L, LDH:218 IU/L, Ca++:8.6
+   mg/dL, Mg++:2.0 mg/dL, PO4:4.4 mg/dL
+   MICRO:
+   -          [**8-30**] Urine cx: Pseudomonas
+   -          [**8-30**] Blood cx: GPC pairs/clusters (speciation pending)
+   -          [**8-30**] Pleural fluid: GNR (speciation pending)
+   -          [**8-31**] pleural fluid
+: 2+ GNR, pH>8, WBC 30 with 13 polys,
+   RBC 5525, protein 1.1, glucose 69, LDH 156
+   -          [**9-1**] C diff: pending
+   -          [**8-31**] RIJ tip cx: pending
+   -          10/2 Blood cx: pending
+   -          [**9-1**] Urine cx: pending
+   Radiology:
+   - CXR: similar to [**8-31**], bilateral pleural effusions, R pigtail in
+   place, trach in place
+   Assessment and Plan
+   Pt is a 75 year old male with many medical problems, admitted initially
+   [**7-16**] with surgical wound infection, with hospital course complicated by
+   PNA, NSTEMI, who was transferred to MICU with shock, intubated [**2603-8-22**]
+   for hypercarbic respiratory failure and aspiration, now s/p
+   tracheostomy, awaiting possible revascularization procedure for the
+   left lower extremity.
+   Hypercarbic Respiratory Failure/PNA/Pleural effusions:  Patient
+   intubated [**8-22**] for hypercarbic respiratory faillure, which was felt to
+   be secondary to pulmonary infection (which has now resolved), prior
+   history of COPD, OSA, altered mental status, and likely aspiration of
+   tube feeds (even with NGT in correct location).
+   - POD 4 from trach
+   - Tolerating trach mask
+   - s/p 14 day course meropenem for klebseilla PNA ([**Date range (1) 5489**])
+   - Possibly still aspirating secretions. No tube feed residuals when
+   checked. PEG deferred for now.
+   - IP removed L pigtail, R still in place. IP following.
+   - R pleural fluid with GPC, pH >8; previously sent fluid showed GNR
+   (acinetobacter).  Unclear if colonization vs active infection, but
+   fluid analysis profile is somewhat reassuring.
+   - Passy-Muir valve evaluation
+   - Suction as needed for secretions
+   Bacteremia:  Blood cx from [**8-30**] now showing GPC in one bottle; WBC has
+   been trending upward to 19 today, although pt afebrile.
+   - Started Dapto (allergy to Vanc, hx MRSA)
+   - Await speciation, sensitivities
+   - New cx sent
+   PVD/Necrotic foot: All plans for AKA and fem/fem bypass had been on
+   hold until patient more stable. Per vascular surgery, Dr. [**Last Name (STitle) **]
+   willing to take patient to OR if cleared medically. Now that pt
+   clinical status appears to be improving, will ask Vascular to
+   re-evaluate candidacy for surgery
+   - Neurontin for pain control
+   - Heparin gtt, since may have procedure
+   - Continuing to monitor for signs of ischemia
+fingers not dusky at
+   present, already on heparin, vascular following. Appearance of hands
+   improves with SBP >90s after IVF boluses.
+   - Vascular re-evaluating for surgery
+   CAD: s/p recent NSTEMI. Has prior BMS.
+   -Will continue aspirin, plavix (though does not strictly need plavix as
+   has BMS), restarted after trach.
+   - Continue metoprolol 25 TID,  statin
+   - Cards rec peri-operative beta blockade and optimization of fluid
+   status prior to OR, no need for MIBI (patient is high risk for high
+   risk procedure).
+   Atrial Fibrillation: Patient with atrial fibrillation, occasional
+   episodes of tachycardia.
+   - Continue metoprolol to 25mg PO TID for rate control (home dose is
+   50mg PO TID)
+will titrate up as tolerated
+   - Heparin gtt
+   Diastolic CHF: Diastolic, preserved EF. Total body fluid overloaded,
+   but hypotension now resolved.
+   - follow I+O's
+   - I/O goal even
+   - UOP does trail off or poor perfusion, small fluid boluses prn, but
+   will monitor first as patient is very third spaced and at times urine
+   output picks up on its own.
+   Hypothyroidism. Had been followed Endocrine, appreciate recs.
+   - IV levothyroxine while on continuous feeds
+   - Once on bolus feeds, can switch to 75 mcg PO daily
+   - Check TFTs next week
+   - Endocrine signing off, call with questions
+   Pseudomonas. Pt with indwelling foley and pseudomonas in culture UA
+   [**8-30**] with 11-20 WBC, [**10-20**] RBCs, neg nitrite .
+   - No abx tx for now
+   - Change out foley
+   - Resent UA and urine cx: UA with 6-10 WBC, [**5-10**] RBCs, neg nitrite,
+   culture pending
+   Nutrition: very poor nutritional status.
+   - NGT, tube feeds
+   - Consider PEG as soon as possible, but TF via NGT for now
+   Access: PICC ([**2603-8-31**])
+   Code: full (confirmed on admit to ICU)
+   Communication: Wife [**Name (NI) **] (HCP) [**Telephone/Fax (1) 5481**]
+ family meeting [**8-26**]:
+   want aggressive management currently. want trach and peg. Prefer
+   Meeting over the phone.
+   ICU Care
+   Nutrition:  Tube feeds via NGT
+   Glycemic Control:  Insulin sliding scale
+   Lines:  PICC (inserted [**8-31**])
+   Prophylaxis:
+   DVT: Heparin gtt
+   Stress ulcer: PPI
+   VAP:  Chlorhexidine, HOB
+   Comments:
+   Communication:  Comments: With family every day or every other day
+   Code status: Full Code
+   Disposition: ICU
+
+
+
+DOC CLASS

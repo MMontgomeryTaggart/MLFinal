@@ -1,0 +1,223 @@
+CCU
+   History of Present Illness
+   24-hour events:
+   - mental status improved a bit during the day
+   - off BiPaP for part of the night [**1-24**] mild agitation (pt kept removing
+   BiPap), sats remained normal
+   - awaiting ? aortic valvuloplasty next week
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax F last 24 hours: 98.8 F
+   T current F: 98.8 F
+   Previous day:
+   Weight: 79.6 kg
+   Intake: 590 mL
+   Output: 685 mL
+   Fluid balance: -95 mL
+   Today:
+   Output: 105 mL
+   Fluid balance: -105 mL
+   VS: 100-132/58-99, 100-117, [**10-20**], 92-100% on Bipap and 5L O2 by NC
+   TELE: a-fib w PVCs, missed beats, episodes of NSVT x 3 beats
+   GEN: sleeping but easily arousable, oriented x 2
+   HEENT: NC/AT, EOMI, PERRL, right eye conjunctival lesion
+   NECK: JVP ?
+   CV: irregularly irregular, systolic/diastolic murmurs
+   CHEST: CTAB
+   ABD: soft, NT/ND, NABS
+   EXT: WWP, no e/c/c, palpable DP pulses
+   Labs
+   92
+   13.4
+   131
+   2.0
+   25
+   4.4
+   47
+   109
+   143
+   41.6
+   10.1
+        [image002.jpg]
+   Ca: 8.7 Mg: 2.6 P: 3.7
+   PT: 20.3
+   PTT: 57.9
+   INR: 1.9
+                            [**2884-1-5**]  04:53 PM
+                            [**2884-1-5**]  05:07 PM
+                            [**2884-1-6**]  05:00 AM
+                            [**2884-1-6**]  07:10 PM
+                            [**2884-1-7**]  01:27 AM
+                            [**2884-1-8**]  04:02 AM
+                            [**2884-1-9**]  03:33 AM
+   WBC
+   11.2
+   12.2
+   12.8
+   8.8
+   10.1
+   Hgb
+   13.6
+   13.4
+   12.6
+   12.3
+   13.4
+   Hct (Serum)
+   41.0
+   41.5
+   37.9
+   37.8
+   41.6
+   Plt
+   105
+   101
+   89
+   80
+   92
+   INR
+   2.5
+   2.4
+   2.3
+   1.7
+   1.9
+   PTT
+   32.4
+   33.9
+   39.6
+   45.7
+   57.9
+   Na+
+   146
+   148
+   142
+   143
+   142
+   143
+   K + (Serum)
+   4.7
+   4.5
+   3.5
+   4.3
+   3.8
+   4.4
+   Cl
+   111
+   111
+   111
+   109
+   109
+   HCO3
+   25
+   24
+   25
+   22
+   26
+   25
+   BUN
+   70
+   69
+   60
+   48
+   47
+   Creatinine
+   2.2
+   2.2
+   2.1
+   1.8
+   2.0
+   Glucose
+   140
+   118
+   148
+   101
+   131
+   O2 sat (arterial)
+   94
+   Assessment and Plan
+   85M w chronic systolic CHF (EF 30%), atrial fibrillation w RVR, aortic
+   stenosis ([**Location (un) **] 0.8-1.0 cm2), HTN, Burkitt's lymphoma, who presented with
+   altered mental status and dehydration, was transferred to CCU with low
+   urine output, rising lactate, recent afib with RVR.
+   # AMS: Similar to AMS on last admission, likely from delirium secondary
+   to pneumonia. Slowly improving.
+   - continue to limit sedating medications, limit restraints, remove
+   Foley when possible
+   - continue levofloxacin
+   # RHYTHM: Atrial fibrillation - Somewhat rate controlled, but unable to
+   increase further as at maximum dose of metoprolol.  Limited additional
+   agents (digoxin contraindicated given renal failure, amiodarone
+   contraindicated given liver failure, CCB contraindicated given low
+   LVEF/severe AS).
+   - will add diltiazem and downtitrate metoprolol 125mg PO QID for better
+   rate control
+   - hold warfarin per PCP for fall risk, will continue aspirin 325 mg
+   daily
+   .
+   # PUMP: Chronic systolic heart failure, EF 30% on [**2883-12-21**]. Not
+   significantly volume overloaded on exam.  Will continue to follow fluid
+   status as patient is very preload dependent.
+   - maintain euvolemia
+   - monitor I/O closely
+   - continue metoprolol
+   .
+   # VALVES: Aortic stenosis - the patient
+s aortic valve area of approx
+   0.9cm2.  [**Month (only) 56**] be worsened overall status secondary to natural history of
+   worsening of AS.
+   - anticipate valvuloplasty as not ideal AVR candidate; but only when
+   pna resolves
+   .
+   # PNA: CXR ([**1-5**]) w ?RLL consolidation. Treated w Zosyn at first, given
+   that pt is from nursing home. Transitioned to levofloxacin PO
+   - levofloxacin PO day 2 of 7 day course through [**2884-1-14**]
+   - f/u blood cx - NGTD
+   .
+   # ACUTE ON CHRONIC RENAL FAILURE:  Likely [**1-24**] prerenal etiology from
+   hypovolemie due to diarrhea. Also, poor perfusion given severe heart
+   disease. History of CKD with baseline creatinine in ~1.5. Creatinine
+   2.2 on admission. S/p 2L of NS since admission. Pt now euvolemic. Mild
+   improvement.
+   - renally dose all meds
+   .
+   # ELEVATED LFTs:  Likely [**1-24**] poor perfusion (dehydration, aortic
+   stenosis, ?cardiogenic shock). Trending down. Unrevealing hepatitis and
+   autoimmune workup during last admission.
+   - trend LFTs; if rising, would get ultrasound.
+   .
+   # Elevated INR: INR 2.6, up from 1.3 at discharge on [**2883-12-28**]. Also
+   elevated during last admission even though patient was not on warfarin.
+   Again, likely from transient liver failure and malnutrition. No sign of
+   active bleeding. Downtrending.
+   - trend coags
+   .
+   # RUE edema: will stop IV antibiotics.  Elevate right arm, only use if
+   urgent.  Not candidate for anticoagulation, no u/s for now.
+   - remove PICC today
+   .
+   # HTN: Currently BP is stable.
+   - continue metoprolol
+   .
+   # OSA: Not candidate for theophylline as uncontrolled AF.
+   - CPAP at night as outpatient
+   .
+   # FEN: Regular low-sodium cardiac diet
+   .
+   # Access: PICC (to be d/c
+d on [**1-9**]), PIV
+   .
+   # PPx:
+   -DVT ppx with SQ Heparin
+   -Bowel regimen
+   .
+   # Code: FULL CODE  for now; ongoing discussion regarding changing code
+   to DNR/DNI
+   .
+   # Dispo: CCU care for now
+   .
+   # Contact: HCP: [**Name (NI) **] [**Name (NI) 7360**] [**Name (NI) **] [**Name (NI) 2491**]. [**Telephone/Fax (1) 7361**]; Son [**Name (NI) 372**]
+   [**Telephone/Fax (1) 7362**].
+
+
+
+DOC CLASS

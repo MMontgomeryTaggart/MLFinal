@@ -1,0 +1,201 @@
+TITLE:
+   CVICU
+   HPI:
+   75 yo recent admission for ^SOB/DOE; found AV endocarditis(alpha strep)
+   and ARF needing HD
+   EF50 Cr Wt
+   PMH:COPD, CHF, AF, alcoholic liver disease, type 2 DM, +EtOH
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Albuterol 0.083% Neb Soln , Albuterol Inhaler , Aspirin, Bisacodyl ,
+   Calcium Gluconate , CeftriaXONE Chlorhexidine Gluconate 0.12% Oral
+   Rinse , Diltiazem,  Docusate Sodium (Liquid) ,  Famotidine , Fentanyl
+   Citrate ,Fluticasone Propionate 110mcg , FoLIC Acid , Heparin Flush
+   (5000 Units/mL) , Heparin , Influenza Virus Vaccine , Insulin ,
+   Ipratropium Bromide MDI , Midazolam , Nephrocaps , Pneumococcal Vac
+   Polyvalent
+   29. Ranitidine (Liquid) 30. Sodium Chloride 0.9% Flush 31. Thiamine
+   24 Hour Events:
+ TRANS ESOPHAGEAL ECHO - At [**3165-11-30**] 09:45 AM
+ SPUTUM CULTURE - At [**3165-12-1**] 02:00 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**3165-11-29**] 04:35 PM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Heparin Sodium - 1,400 units/hour
+   Fentanyl - 25 mcg/hour
+   Other ICU medications:
+   Fentanyl - [**3165-11-30**] 10:00 AM
+   Midazolam (Versed) - [**3165-11-30**] 04:46 PM
+   Other medications:
+   Flowsheet Data as of  [**3165-12-1**] 07:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**68**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.3
+C (99.2
+   HR: 72 (67 - 81) bpm
+   BP: 127/27(54) {97/25(43) - 139/96(102)} mmHg
+   RR: 11 (11 - 25) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 97.5 kg (admission): 96.2 kg
+   Height: 71 Inch
+             Total In:
+                                                                    908 mL
+                                                                    552 mL
+   PO:
+             Tube feeding:
+                                                                    125 mL
+                                                                    248 mL
+   IV Fluid:
+                                                                    753 mL
+                                                                    283 mL
+   Blood products:
+   Total out:
+                                                                  2,150 mL
+                                                                     10 mL
+   Urine:
+                                                                    150 mL
+                                                                     10 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,242 mL
+                                                                    542 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 551) mL
+   Vt (Spontaneous): 1,005 (725 - 1,072) mL
+   PS : 12 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 8
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 22 cmH2O
+   Plateau: 25 cmH2O
+   Compliance: 27.5 cmH2O/mL
+   SPO2: 98%
+   ABG: 7.31/56/125/28/0
+   Ve: 7 L/min
+   PaO2 / FiO2: 250
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular), (Murmur: Systolic)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Responds to: Verbal stimuli), Sedated
+   Labs / Radiology
+   157 K/uL
+   7.7 g/dL
+   106 mg/dL
+   4.8 mg/dL
+   28 mEq/L
+   4.3 mEq/L
+   44 mg/dL
+   102 mEq/L
+   140 mEq/L
+   23.1 %
+   10.6 K/uL
+                            [**3165-11-30**]  05:38 AM
+                            [**3165-11-30**]  08:06 AM
+                            [**3165-11-30**]  04:02 PM
+                            [**3165-11-30**]  06:24 PM
+                            [**3165-11-30**]  07:44 PM
+                            [**3165-11-30**]  09:17 PM
+                            [**3165-11-30**]  11:27 PM
+                            [**3165-12-1**]  03:22 AM
+                            [**3165-12-1**]  03:35 AM
+                            [**3165-12-1**]  05:40 AM
+   WBC
+   10.6
+   Hct
+   23.1
+   Plt
+   157
+   Creatinine
+   4.8
+   TCO2
+   25
+   25
+   30
+   30
+   29
+   30
+   30
+   31
+   30
+   Glucose
+   79
+   75
+   100
+   96
+   101
+   115
+   106
+   Other labs: PT / PTT / INR:18.1/38.5/1.7, CK / CK-MB / Troponin
+   T:67//0.61, ALT / AST:19/17, Alk-Phos / T bili:58/0.5, Amylase /
+   Lipase:65/22, Differential-Neuts:90.8 %, Lymph:6.0 %, Mono:2.3 %,
+   Eos:0.8 %, Lactic Acid:0.9 mmol/L, Albumin:2.5 g/dL, LDH:215 IU/L,
+   Ca:8.2 mg/dL, Mg:1.9 mg/dL, PO4:7.1 mg/dL
+   Imaging: CXR: bilat. lower lobe eff.vs atel.
+   Echo: 2+AI, unchanged
+   Microbiology: +MRSA screen
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]), HYPOTENSION (NOT SHOCK),
+   ENDOCARDITIS, OTHER, RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF),
+   .H/O ATRIAL FIBRILLATION (AFIB), CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+   (COPD, BRONCHITIS, EMPHYSEMA) WITH ACUTE EXACERBATION
+   Assessment and Plan: Pt. will be dialyzed today, attempt extubation
+   after HD.  Family meeting to discuss surgical options today.  Cont. a/c
+   with heparin.
+   Neurologic:
+   Cardiovascular: Aspirin, Beta-blocker
+   Pulmonary: Cont ETT, Attempt extubation after HD
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal: Foley, HD
+   Hematology:
+   Endocrine: RISS
+   Infectious Disease: +MRSA screen
+   Lines / Tubes / Drains: Foley, OGT, ETT
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults: ID dept, Nephrology
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3165-11-30**] 05:00 PM 45 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**3165-11-29**] 03:44 PM
+   PICC Line - [**3165-11-29**] 03:44 PM
+   Arterial Line - [**3165-11-29**] 10:13 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting planning Comments:
+   Code status: Full code
+   Disposition: ICU  Time spent 31 minutes
+
+
+
+DOC CLASS

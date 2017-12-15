@@ -1,0 +1,395 @@
+Admission Date:  [**2741-12-24**]              Discharge Date:   [**2741-12-26**]
+
+Date of Birth:  [**2678-12-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4699**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization on [**2741-12-24**]
+
+
+History of Present Illness:
+63 y/o M with h/o hypertension who preseted to [**Hospital3 **]
+with 2 h of chest pain.
+.
+His pain started at 11:30am, after eating. He described pressure
+on his chest radiated to his shoulder and jaw. [**10-2**]. NO nausea,
+vomit, DOE, orthopnea, PND. He went to [**Hospital3 **] where his
+EKG showed St depressions v2-v5. Ck 35. Trop I 0.03. Chest x
+ray, normal. He was given aspirin, Iv NTG, plavix, BB, heparin
+and integrillin drip, then transfer to [**Hospital1 18**] for further
+managment.
+.
+As far as his cardiovascular status, he is able to walk with no
+SOB or DOE. He can go up a fligh of stairs. Of note, he does
+report short episode of SOB while gardening and also while
+shaveling snow few months ago. He took an inhaler and it got
+better.
+.
+In the Cath lab, he had an ocluded OM2, cypher stent was placed.
+Durint the procedure, patient complained of severed abdominal
+and R thigh pain. angiography confirmed the tear drop appearance
+with extravasation. Contralateral access was obtained and a
+ballon was ussed to tamponade the bleeding. He was hypotensive
+into the 60's.
+Vascular surgery was consulted. Neo was started in the cath lab.
+1 unit of PRBC was given. He was also evaluated by urology given
+h/o BPh and unable to place foley. Foley thorugh a wire was
+placed- 3 doses of cipro were recomended.
+.
+
+On review of symptoms, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools.
+.
+*** Cardiac review of systems is notable for absence of chest
+pain, dyspnea on exertion, paroxysmal nocturnal dyspnea,
+orthopnea, ankle edema, palpitations, syncope or presyncope.
+
+
+Past Medical History:
+Hypertension
+s/p TURP
+s/p bilateral hernia repair
+
+
+Social History:
+Had 3 daughters. [**Name (NI) **] work as a fire fighter now retired.
+No smoking, No alcohol, no IV drug use.
+
+
+Family History:
+Non-contributory
+
+Physical Exam:
+VS: T 99.7 , BP131/94 , HR 81, RR 11 , O299% 2L
+Gen: WDWN middle aged male in NAD, resp or otherwise. Oriented
+x3. Mood, affect appropriate. Pleasant.
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor
+or cyanosis of the oral mucosa.
+Neck: Supple with JVP flat
+CV: RRR, s1-s2 normal, no murmurs, rubs or gallops appreciated.
+Chest:  No crackles, wheeze, rhonci
+Abd: Obese, soft, NTND, No HSM or tenderness. No abdominial
+bruits.
+Ext: No c/c/e. No femoral bruits.  no hematoma bilaterally
+Pulses:
+Right: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+Left: Carotid 2+ without bruit; Femoral 2+ without bruit; 2+ DP
+
+
+Pertinent Results:
+[**2741-12-24**] 07:56PM   WBC-16.2*# RBC-3.52*# HGB-10.7*# HCT-31.0*#
+MCV-88 MCH-30.4 MCHC-34.6 RDW-13.7
+[**2741-12-24**] 07:56PM   PLT COUNT-431#
+[**2741-12-24**] 07:11PM   TYPE-ART PO2-111* PCO2-37 PH-7.33* TOTAL
+CO2-20* BASE XS--5
+[**2741-12-24**] 07:11PM   GLUCOSE-142* LACTATE-2.4* K+-3.4*
+[**2741-12-24**] 07:11PM   HGB-10.4* calcHCT-31 O2 SAT-98
+[**2741-12-24**] 11:11PM   GLUCOSE-140* UREA N-12 CREAT-1.0 SODIUM-134
+POTASSIUM-4.6 CHLORIDE-103 TOTAL CO2-20* ANION GAP-16
+[**2741-12-24**] 11:11PM   CALCIUM-8.6 PHOSPHATE-2.7 MAGNESIUM-1.6
+[**2741-12-24**] 11:11PM   CK(CPK)-3146*
+[**2741-12-24**] 11:11PM   CK-MB-488* MB INDX-15.5* cTropnT-8.56*
+[**2741-12-24**] 11:11PM BLOOD CK(CPK)-3146*
+[**2741-12-25**] 05:24AM BLOOD ALT-38 AST-177* LD(LDH)-500*
+CK(CPK)-2263* AlkPhos-70 TotBili-1.2
+[**2741-12-25**] 07:50PM BLOOD CK(CPK)-1393*
+[**2741-12-24**] 11:11PM BLOOD CK-MB-488* MB Indx-15.5* cTropnT-8.56*
+[**2741-12-25**] 05:24AM BLOOD CK-MB-283* MB Indx-12.5* cTropnT-6.26*
+[**2741-12-25**] 07:50PM BLOOD CK-MB-101* MB Indx-7.3* cTropnT-4.41*
+[**2741-12-25**] 05:24AM BLOOD Triglyc-278* HDL-28 CHOL/HD-6.5
+LDLcalc-99
+
+EKG OSH: HR 104, NSR, normal axis, st depression on v2-v5. no t
+wave changes.
+
+Cath: [**2741-12-24**]
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**RIGHT CORONARY
+1) PROXIMAL RCA   NORMAL
+2) MID RCA   NORMAL
+2A) ACUTE MARGINAL   NORMAL
+3) DISTAL RCA   NORMAL
+4) R-PDA   NORMAL
+4A) R-POST-LAT   NORMAL
+4B) R-LV   NORMAL
+
+**ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+**LEFT CORONARY
+5) LEFT MAIN   NORMAL
+6) PROXIMAL LAD   NORMAL
+6A) SEPTAL-1   NORMAL
+7) MID-LAD   NORMAL
+8) DISTAL LAD   NORMAL
+9) DIAGONAL-1   NORMAL
+10) DIAGONAL-2   NORMAL
+12) PROXIMAL CX   NORMAL
+13) MID CX   NORMAL
+13A) DISTAL CX   NORMAL
+14) OBTUSE MARGINAL-1   NORMAL
+15) OBTUSE MARGINAL-2   DISCRETE 100
+16) OBTUSE MARGINAL-3   NORMAL
+
+**PTCA RESULTS
+  LAD
+
+PTCA COMMENTS:     Initial angiography revealed an occluded OM2.
+We
+planned to treat this with PTCA and stenting. A 6 French XB 3.5
+guide
+provided good support for the procedure. Heparin and Integrillin
+were
+used prophylactically. A PT graphix intermediate wire crossed
+the lesion
+with minimal difficulty. The lesionw as predilated with a 2.0 x
+15
+voyager balloon at 12 ATM. A 3.0 x 33 mm Cypher DES was deployed
+in the
+OM2 at 6 ATM. The proximal portion of the stent was postdilated
+with a
+2.75 x20 mm quantum maverick balloon at 14 and 16 ATM. Final
+angiography
+revealed no residual stenosis.
+At that point the patient complianed of extreme abdominal pain
+and right
+thigh pain. His blood pressure had dropped to 80 mmHg. Right
+fenoral
+angiography revealed a R CFA and iliac perforation with
+extravasation of
+dye. The bladder had a tear drop configuration from compression.
+The
+ PTA was performed with a 6.0 x 60 mm Admiral
+balloon tostabilize the location. An 8 French Balken sheath was
+placed
+in teh Left femoral artery and a 7.0 x 60 mm Admiral balloon was
+
+inflated in the distal EIA/CFA and the Right CFA balloon was
+withdrawn.
+Tamponade of the extravasation site was confirmed
+angiographically 45
+minutes after balloon inflation. The RCFA sheath was removed and
+firm
+pressure was applied for 45 minutes until hemostasis was
+achieved. The
+patient left the lab in stable condition with SBP in the 120s on
+40
+mcg/min of neosynephrine.
+COMMENTS:
+1.  Selective coronary angiography of this right dominant system
+
+revealed single vessel coronary artery disease.  The LMCA and
+LAD had no
+angiographically apparent significant stenoses.  The LCX had a
+100%
+occluded OM2.  The RCA had no angiographically apparent
+flow-limiting
+stenoses.
+2.  Resting hemodynamics revealed initially normal systemic
+arterial
+pressure of 106/69 mm Hg.  There were normal left and right
+sided
+filling pressures with PCWP mean of 6 mm Hg and RVEDP of 4 mm
+Hg.
+Cardiac index was not calculated.
+3.  During the case, patient became hypotensive with abdominal
+and thigh
+pain.  The right common femoral artery was noted to have
+extravasation
+of contrast with a "tear drop" appearance of the bladder,
+consistent
+with retroperitoneal bleed.
+4. Successful PTCA and stenting of the occluded OM2 with a 3.0 x
+33 mm
+CYPHER DES. Final angiography revealed no residual stenosis and
+and no
+angiographicallya pparent dissection (see PTCA comments).
+5. Successful PTA of the R CFA/EIA with a 6.0 and 7.0 x 60 mm
+Admiral
+balloon with tamponade of the dye extravasation.
+FINAL DIAGNOSIS:
+1. Single vessel coronary artery disease.
+2. Normal right and left sided filling pressures.
+3. Perforation of iliac-CFA with subsequent retroperitoneal
+bleed.
+4. Successful stenting of the OM2 with a cypher des.
+5. Successful PTA of a perforated R CFA and EIA with a 7.0 mm
+balloon.
+
+CT ABD & PELVIS [**2741-12-25**]
+CT ABDOMEN WITHOUT IV CONTRAST: There is atelectasis in the lung
+bases and no pleural or pericardial effusion. Contrast is seen
+in the bladder, kidneys and gallbladder. Otherwise, the liver,
+gallbladder, spleen, pancreas, adrenal glands, left kidney, and
+unopacified stomach, small bowel, and bowel are unremarkable. A
+focal region of increased contrast is seen in the posterior
+portion of the upper pole of the right kidney. It's calyceal
+shape and communication with the collecting system favors a
+caliceal diverticula with milk-of-calcium or a naked calix.
+Atherosclerotic calcifications are noted in the abdominal aorta
+and the iliac arteries. No mesenteric or retroperitoneal
+adenopathy is evident. There is minimal free fluid in the right
+colic gutter. No free intra-abdominal air is present.
+CT PELVIS WITHOUT IV CONTRAST: A catheter is noted in the right
+femoral vein. A small amount of subacute hematoma is seen where
+this catheter terminates. A larger extraperitoneal subacute
+hematoma is noted in the right pelvis measuring 4.4 x 3.1 x 3.7
+cm (2:70, 104B:38). Some amount of hematoma also tracks
+superiorly, surrounding the right psoas muscle. Hematoma in the
+space of Retzius, anterior to the bladder, with ill-defined
+margins. Stranding is also noted in the left inguinal region.
+The bladder is decompressed with a Foley catheter in place. The
+seminal vesicles and the rectosigmoid colon are unremarkable. No
+definite free fluid or pelvic or inguinal adenopathy is present.
+Atherosclerotic calcifications are noted in the iliac and
+femoral arteries. There is asymmetry in the size of the psoas
+major muscles, with a more prominent right psoas muscle compared
+to the left. While this may represent an intramuscular hematoma,
+the fat planes are maintained within the muscle, more consistent
+with chronic hypertrophy of the right psoas.
+BONE WINDOWS: Degenerative changes are noted in the lumbar
+spine.
+IMPRESSION: Extraperitoneal subacute hematoma in the pelvis and
+also in the space of Retzius. Right femoral venous catheter in
+place.
+
+TTE [**2741-12-25**]:
+LEFT ATRIUM: Normal LA size.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size. Mild
+regional LV systolic dysfunction.
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Normal aortic diameter at the sinus level.
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR. No
+MVP.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR. Indeterminate PA systolic pressure.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+PERICARDIUM: No pericardial effusion.
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+Conclusions
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size. There is mild
+regional left ventricular systolic dysfunction with severe focal
+hypokinesis of the basal and mid-inferolateral and basal lateral
+segments (c/w left circumflex distribution). The remaining
+segments are normal/slightly hyperkinetic (LVEF = 45-50%). Right
+ventricular chamber size and free wall motion are normal. The
+aortic valve leaflets (3) appear structurally normal with good
+leaflet excursion and no aortic regurgitation. The mitral valve
+appears structurally normal with trivial mitral regurgitation.
+There is no mitral valve prolapse. The pulmonary artery systolic
+pressure could not be determined. There is no pericardial
+effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+mild regional left ventricular systolic dysfunction, c/w CAD.
+
+
+Brief Hospital Course:
+# NSTEMI: On admission the patient was taken to the cath lab
+where initial angiography revealed an occluded OM2. A cypher [**Name Prefix (Prefixes) **]
+[**Last Name (Prefixes) **] was deployed in OMS. The pt. then complained of abdominal
+pain and right thigh pain and BP dropped to 80mmg Hg. Right
+femoral angiography revealed a R CFA and iliac perforation with
+extravasation of dye. The bladder had a tear drop configuration
+from compression. A balloon was inflated in the distal EIA/CFA
+and the Right CFA balloon was withdrawn. Tamponade of the
+extravasation site was confirmed angiographically 45 minutes
+after balloon inflation. The patient left the lab in stable
+condition with SBP in the 120s on 40mcg/min of neosynephrine.
+Pressors were weaned quickly post procedure. The patient
+remained hemodynamically stable overnight. CT abd and pelvis the
+following morning demonstrated an extraperitoneal subacute
+hematoma in the pelvis and also in the space of Retzius. The
+patient was chest pain free until discharge. He was contined on
+aspirin and plavix. Prior to discharge he was started on
+atenolol 50mg daily. TTE demonstrated an EF 40-45% and mild
+symmetric left ventricular hypertrophy with mild regional left
+ventricular systolic dysfunction.
+.
+# Urinary Retention: the patient has a foley placed over a wire
+in the cath lab due to urinary retention. He was discharged home
+with the foley to place to follow up with urology in seven days.
+He also received ciprofloxacin 500mg twice daily for three days/
+
+.
+The patient was discharged home in good condition.
+
+Medications on Admission:
+Atenolol 50mg/day
+Norvasc 10 mg/day
+Proscar
+
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Myocardial infarction (heart attack)
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted for chest pain.  We took you to the cardiac
+catheterization lab and placed a stent in one of your coronary
+arteries so that you would have normal blood flow to your heart.
+ During the procedure you had a small amount of blood leak from
+your blood vessels, however you have remained stable despite
+this.  We also had urology place a foley catheter to help drain
+urine, which you will need to have removed in a few days.
+.
+.
+We have made the following changes to your medications:
+1. Plavix 75mg daily
+2. Aspirin 325mg daily
+3. Atorvastatin 80mg daily
+.
+.
+Please follow up with Drs [**First Name (STitle) **] and [**Name5 (PTitle) **] as indicated below.
+You need to see your urologist to have your foley catheter
+removed.
+.
+.
+If you have any symptoms of chest pain, shortness of breath,
+nausea, vomiting, or excessive sweating, please come to the
+emergency room right away.
+
+Followup Instructions:
+1. Dr. [**Last Name (STitle) 361**] on Wednesday [**2741-12-31**] at 9:30 AM
+2. Dr. [**First Name (STitle) **] please call to make an appointment for 2-4 weeks
+from now at [**Telephone/Fax (1) 28838**]
+
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,226 @@
+SICU
+   HPI:
+   53M s/p OLT [**7-17**], p/w ?sepsis, pSBO & transition point on CT, now s/p
+   neg ex lap [**9-15**], s/p staged closure [**9-22**]. Postop course c/b Pseudomonas
+   PNA.
+   Chief complaint:
+   OLT ? sepsis, PNA
+   PMHx:
+   ETOH cirrhosis s/p OLT [**7-15**], ascites, hepatorenal syndrome, esophageal
+   varices, portal gastropathy, partial portal vein thrombosis, SBP,
+   benign polyp (vs adenoCA), cervical stenosis, HTN, Cdiff,
+   hyperlipidemia, anemia, depression, BPH, s/p subtotal colectomy [**1-14**]
+   Current medications:
+    2. 3. 150 mEq Sodium Bicarbonate/ 1000 mL D5W 4. Acetylcysteine 20% 5.
+   Albuterol 0.083% Neb Soln
+   6. Amikacin 7. Calcium Gluconate 8. CefePIME 9. Chlorhexidine Gluconate
+   0.12% Oral Rinse 10. Famotidine
+   11. Heparin Flush (10 units/ml) 12. Heparin 13. Heparin Flush (10
+   units/ml) 14. Insulin 15. Lorazepam
+   16. Magnesium Sulfate 17. Metoprolol Tartrate 18. Nystatin Oral
+   Suspension 19. OxycoDONE (Immediate Release)
+   20. Potassium Chloride 21. PredniSONE 22. Propofol 23. Sertraline 24.
+   Sodium Chloride 0.9% Flush
+   25. Sodium Chloride 0.9% Flush 26. Sodium Chloride 0.9% Flush 27.
+   Tacrolimus 28. ValGANCIclovir Suspension
+   24 Hour Events:
+ STOOL CULTURE - At [**2594-10-8**] 08:24 AM
+   c-diff sample sent down
+   Post operative day:
+   POD#24 - [**9-15**] expl lap, lysis of adhesions, temporary closure of abd
+   with [**State **] patch
+   POD#17 - closure of open abdomen
+   POD#6 - bronch, trach
+   Allergies:
+   Penicillins
+   Unknown;
+   Aspirin
+   Unknown;
+   Ibuprofen
+   Unknown;
+   Ciprofloxacin
+   Tosades ;
+   Last dose of Antibiotics:
+   Amikacin - [**2594-10-6**] 08:08 PM
+   Metronidazole - [**2594-10-9**] 02:00 AM
+   Cefipime - [**2594-10-9**] 08:00 AM
+   Infusions:
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2594-10-9**] 08:00 AM
+   Metoprolol - [**2594-10-9**] 08:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2594-10-9**] 10:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**98**] a.m.
+   Tmax: 37.3
+C (99.2
+   T current: 35.6
+C (96.1
+   HR: 66 (55 - 79) bpm
+   BP: 122/70(88) {122/70(88) - 172/154(167)} mmHg
+   RR: 31 (22 - 35) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 54.6 kg (admission): 70 kg
+   Height: 70 Inch
+             Total In:
+                                                                  2,019 mL
+                                                                    916 mL
+   PO:
+             Tube feeding:
+                                                                    967 mL
+                                                                    421 mL
+   IV Fluid:
+                                                                    642 mL
+                                                                    355 mL
+   Blood products:
+   Total out:
+                                                                  2,810 mL
+                                                                  1,535 mL
+   Urine:
+                                                                  1,860 mL
+                                                                  1,195 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -791 mL
+                                                                   -619 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 499 (435 - 538) mL
+   PS : 10 cmH2O
+   RR (Set): 0
+   RR (Spontaneous): 33
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 64
+   PIP: 23 cmH2O
+   SPO2: 100%
+   ABG: 7.27/32/159/15/-10
+   Ve: 15.7 L/min
+   PaO2 / FiO2: 398
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities
+   Labs / Radiology
+   109 K/uL
+   8.7 g/dL
+   126 mg/dL
+   1.4 mg/dL
+   15 mEq/L
+   4.9 mEq/L
+   65 mg/dL
+   121 mEq/L
+   143 mEq/L
+   25.0 %
+   7.2 K/uL
+        [image002.jpg]
+                             [**2594-10-4**]  05:52 PM
+                             [**2594-10-5**]  03:15 AM
+                             [**2594-10-5**]  02:28 PM
+                             [**2594-10-6**]  04:08 AM
+                             [**2594-10-6**]  04:36 AM
+                             [**2594-10-6**]  05:01 PM
+                             [**2594-10-7**]  02:51 AM
+                             [**2594-10-8**]  03:03 AM
+                             [**2594-10-9**]  03:00 AM
+                             [**2594-10-9**]  07:07 AM
+   WBC
+   6.2
+   6.5
+   7.9
+   8.0
+   6.5
+   7.2
+   Hct
+   22.6
+   23.1
+   27.7
+   26.7
+   24.2
+   25.0
+   Plt
+   95
+   88
+   85
+   92
+   99
+   109
+   Creatinine
+   1.3
+   1.3
+   1.3
+   1.3
+   1.3
+   1.4
+   TCO2
+   22
+   21
+   20
+   18
+   15
+   Glucose
+   152
+   163
+   129
+   109
+   138
+   126
+   Other labs: PT / PTT / INR:14.8/33.3/1.3, CK / CK-MB / Troponin
+   T:18/13/0.17, ALT / AST:[**9-20**], Alk-Phos / T bili:93/0.4, Amylase /
+   Lipase:34/12, Differential-Neuts:39.0 %, Band:9.0 %, Lymph:15.0 %,
+   Mono:18.0 %, Eos:0.0 %, Fibrinogen:638 mg/dL, Lactic Acid:0.9 mmol/L,
+   Albumin:3.1 g/dL, LDH:344 IU/L, Ca:9.0 mg/dL, Mg:1.9 mg/dL, PO4:2.2
+   mg/dL
+   Assessment and Plan
+   PNEUMONIA, ASPIRATION
+   Assessment and Plan: 53M s/p OLT [**7-17**], p/w ?sepsis, pSBO & transition
+   point on CT, now s/p neg ex lap [**9-15**], s/p staged closure [**9-22**]. Postop
+   course c/b Pseudomonas PNA.
+   Neurologic: decrease oxycodone, ativan 0.5mg MR1 agitation
+   Cardiovascular: Beta-blocker, metoprolol 25mg tid PO
+   Pulmonary: Trach, will try to wean to trach mask
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding, replace HC03 IV and PO
+   Renal: Foley, Adequate UO, send urine lytes
+   Hematology: stable
+   Endocrine: stable
+   Infectious Disease: amikacin/cefepime
+   Lines / Tubes / Drains: Dobhoff, Trach
+   Wounds:
+   Imaging:
+   Fluids: HCO3 drip 75/hr
+   Consults:
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   complication
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2594-10-9**] 03:54 AM 40 mL/hour
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2594-9-25**] 02:30 PM
+   PICC Line - [**2594-10-2**] 10:55 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+
+
+
+DOC CLASS

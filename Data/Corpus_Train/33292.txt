@@ -1,0 +1,228 @@
+Admission Date:  [**3345-2-4**]              Discharge Date:   [**3345-2-15**]
+
+Date of Birth:  [**3266-6-4**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Tetracycline
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+syncope
+
+Major Surgical or Invasive Procedure:
+[**3345-2-8**] dental extractions
+
+[**3345-2-9**] MV Repair/cabg x3  (26 mm CE [**Doctor Last Name 1522**] ring/LIMA to LAD,
+SVG to OM, SVG to PDA)
+
+
+History of Present Illness:
+78 yo female with known CAD with medical management. She had a
+syncope 1 week priot to admission. She ruled out for an MI at
+that time. St elevations with ischemia was noted, and the pt.
+refused initial rx and left AMA. She represented
+for further workup.
+
+Past Medical History:
+NIDDM
+HTN
+elev. chol.
+MI
+CAD
+
+Social History:
+retired
+no tobacco use
+no ETOH use
+lives alone
+
+Family History:
+not known
+
+Physical Exam:
+98.8   RR 16   130/80  97% RA sat.
+5'6"  170#
+NAD
+PERRL,anicteric,noninjected,normal oropharynx
+neck supple, no [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] bruit appreciated
+CTAB
+RRR, no m/r/g
+soft, NT, ND, +BS
+warm, well-perfused, no peripheral edema,mild varicosities below
+the knee
+nonfocal exam, alert and oriented x3
+2+ bil. fems.radials
+1+ bil. DP/PTs
+1+ carotids
+
+Pertinent Results:
+[**3345-2-14**] 02:58PM BLOOD WBC-7.7 RBC-3.43* Hgb-10.1* Hct-30.4*
+MCV-89 MCH-29.4 MCHC-33.2 RDW-14.6 Plt Ct-202#
+[**3345-2-14**] 02:58PM BLOOD Plt Ct-202#
+[**3345-2-14**] 02:58PM BLOOD Glucose-277* UreaN-17 Creat-1.0 Na-137
+K-3.9 Cl-103 HCO3-24 AnGap-14
+[**3345-2-4**] 11:55PM BLOOD %HbA1c-7.3*
+
+Conclusions
+PRE-BYPASS:
+1. The left atrium is normal in size. No atrial septal defect is
+seen by 2D or color Doppler.
+2. Left ventricular wall thicknesses and cavity size are normal.
+There is moderate to severe regional left ventricular systolic
+dysfunction with hypokinesis of the inferoseptal, anteroseptal,
+anterior and anterolateral walls. Overall left ventricular
+systolic function is severely depressed (LVEF= 20-25 %).
+[Intrinsic left ventricular systolic function is likely more
+depressed given the severity of valvular regurgitation.]
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. There are complex (>4mm) atheroma in the aortic arch. There
+are complex (>4mm) atheroma in the descending thoracic aorta.
+5. The aortic valve leaflets (3) appear structurally normal with
+good leaflet excursion and no aortic regurgitation. 6. The
+mitral valve leaflets are mildly thickened. Moderate (2+) mitral
+regurgitation is seen.
+
+POST-BYPASS: For the post-bypass study, the patient was
+receiving vasoactive infusions including Milrinone and
+Norepinephrine, Epinephrine and is being AV paced.
+1. A mitral valve annuloplasty ring is well seated. No [**Male First Name (un) **] is
+seen. Trace MR is seen. Mean gradient across the valve is 8mm of
+Hg with a CO of 5.5.
+2. LV function is slightly improved. RV function is preserved.
+3. Aorta is intact post decannulation.
+4. Other findings are unchanged
+I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**Name6 (MD) 12820**] [**Name8 (MD) 11629**], MD, MD,
+Interpreting physician [**Last Name (NamePattern4) **] [**3345-2-9**] 15:56
+
+
+   RADIOLOGY  Final Report
+
+CHEST (PA & LAT)  [**3345-2-14**] 3:01 PM
+
+CHEST (PA & LAT)
+
+Reason: evaluation of effusion
+
+UNDERLYING MEDICAL CONDITION:
+78 year old woman with s/p mvr, cabg
+REASON FOR THIS EXAMINATION:
+evaluation of effusion
+CLINICAL INDICATION: Evaluate for effusion.
+
+FINDINGS: Two views of the chest were obtained and compared to
+the prior examination dated [**3345-2-11**]. There are persistent
+bilateral pleural effusions that have slightly decreased since
+the prior examination. There is a persistent left retrocardiac
+opacity likely secondary to underlying atelectasis, although a
+superimposed pneumonia cannot be entirely excluded. The patient
+is status post mitral valve replacement, CABG and median
+sternotomy. The cardiac silhouette is slightly less prominent as
+noted on the prior examination.
+
+IMPRESSION: Minimal interval decrease in size of bilateral
+moderate-sized pleural effusions. Otherwise, no significant
+interval change.
+
+DR. [**First Name (STitle) **] [**Doctor Last Name 22227**]
+Approved: SUN [**3345-2-14**] 5:25 PM
+
+
+
+
+?????? [**3339**] CareGroup IS. All rights reserved.
+
+
+Brief Hospital Course:
+Admitted [**2-4**] and cardiac workup completed over the next few
+days. Three day course of bactrim started for a UTI.Dental
+consult also done and chest CT done. Continued on IV heparin,
+then stopped for teeth extractions. IV NTG also started. Dental
+extractions done [**2-8**]. MVrepair /cabg x3 done [**2-9**] with Dr.
+[**First Name (STitle) **]. Transferred to the CVICU in fair condition on
+epinephrine, milrinone, levophed, and insulin drips.
+Extubated early in the AM POD #1. Chest tubes removed on POD #2
+and trasnferred to the floor to begin increasing her activity
+level. Pacing wires removed on POD #3. Beta blockade titrated
+and she was gently diuresed toward her preop weight. Cleared for
+discharge to rehab, but pt. refused discharge over the weekend.
+Bed available and discharged to rehab on POD #6. Pt. is being
+covered with SSI and is to make all rehab appts. as per
+discharge instructions.
+
+Medications on Admission:
+glyburide 6 mg daily
+lovastatin 80 mg daily
+enalapril 10 mg daily
+toprol XL 50 mg daily
+ECASA 81 mg daily
+protonix 40 mg daily
+regular insulin SS
+( added at OSH: xanax 0.5 mg HS/prn)
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) for 1 months.
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours).
+3. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours).
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Glyburide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+9. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr
+Sig: 1.5 Tablet Sustained Release 24 hrs PO DAILY (Daily).
+10. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Humalog insulin per sliding scale flowsheet
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Bayberry Commons
+
+Discharge Diagnosis:
+CAD/MR  s/p MVrepair/cabg x3
+NIDDM
+HTN
+MI
+elev. chol.
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+no lotions, creams, or powders on any incision
+no driving for one month
+no lifting greater than 10 pounds for 10 weeks
+call for fever greater than 100.5, redness, or drainage
+SHOWER daily and pat incisions dry
+
+Followup Instructions:
+see Dr. [**First Name (STitle) 230**] in [**12-16**] weeks
+see Dr. [**Last Name (STitle) 6243**] in [**1-17**] weeks
+see Dr. [**First Name (STitle) **] in 4 weeks  [**Telephone/Fax (1) 181**]
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**3345-2-15**]
+
+
+DOC CLASS

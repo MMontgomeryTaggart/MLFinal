@@ -1,0 +1,217 @@
+Chief Complaint:
+   24 Hour Events:
+   - transfused 1U PRBC for low HCT and low central venous O2 -> improved
+   to 62%
+   - blood gases and tachypnea improving
+   - still required levophed throughout the day
+   - C diff pending
+   Allergies:
+   Nsaids
+   pud withperf;
+   Aspirin
+   PUD with perf;
+   Influenza Virus Vaccine
+   [**First Name9 (NamePattern2) 8122**] [**Location (un) **];
+   Last dose of Antibiotics:
+   Piperacillin - [**2692-1-24**] 04:00 AM
+   Azithromycin - [**2692-1-24**] 12:00 PM
+   Vancomycin - [**2692-1-24**] 11:59 PM
+   Metronidazole - [**2692-1-25**] 04:09 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2692-1-25**] 04:09 AM
+   Infusions:
+   Norepinephrine - 0.08 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2692-1-24**] 10:32 PM
+   Pantoprazole (Protonix) - [**2692-1-25**] 02:10 AM
+   Morphine Sulfate - [**2692-1-25**] 04:09 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2692-1-25**] 05:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.3
+C (95.5
+   HR: 95 (90 - 117) bpm
+   BP: 91/63(76) {91/62(75) - 115/83(90)} mmHg
+   RR: 30 (9 - 51) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+    CVP: 15 (10 - 19)mmHg
+   Mixed Venous O2% Sat: 40 - 62
+   Total In:
+                                                                  4,251 mL
+                                                                    569 mL
+   PO:
+                                                                    530 mL
+   TF:
+   IVF:
+                                                                  3,311 mL
+                                                                    569 mL
+   Blood products:
+                                                                    350 mL
+   Total out:
+                                                                    480 mL
+                                                                     70 mL
+   Urine:
+                                                                    430 mL
+                                                                     70 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,771 mL
+                                                                    499 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: 7.41/25/76.[**Numeric Identifier 120**]/14/-6
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   678 K/uL
+   10.6 g/dL
+   98 mg/dL
+   0.6 mg/dL
+   14 mEq/L
+   4.3 mEq/L
+   14 mg/dL
+   111 mEq/L
+   133 mEq/L
+   31.7 %
+   25.2 K/uL
+        [image002.jpg]
+                             [**2692-1-23**]  07:42 PM
+                             [**2692-1-23**]  07:55 PM
+                             [**2692-1-24**]  03:13 AM
+                             [**2692-1-24**]  03:30 AM
+                             [**2692-1-24**]  01:22 PM
+                             [**2692-1-24**]  02:04 PM
+                             [**2692-1-24**]  05:01 PM
+                             [**2692-1-24**]  05:12 PM
+                             [**2692-1-24**]  11:37 PM
+                             [**2692-1-25**]  01:45 AM
+   WBC
+   53.9
+   36.0
+   25.9
+   25.2
+   Hct
+   26.1
+   25.7
+   30.7
+   31.7
+   Plt
+   523
+   537
+   615
+   678
+   Cr
+   0.5
+   0.6
+   0.6
+   0.6
+   TropT
+   <0.01
+   <0.01
+   <0.01
+   TCO2
+   18
+   17
+   12
+   16
+   Glucose
+   114
+   103
+   146
+   100
+   98
+   Other labs: PT / PTT / INR:18.6/43.7/1.7, CK / CKMB /
+   Troponin-T:[**10-26**]/<0.01, ALT / AST:23/33, Alk Phos / T Bili:165/1.4,
+   Differential-Neuts:94.8 %, Band:2.0 %, Lymph:4.1 %, Mono:0.8 %, Eos:0.4
+   %, Lactic Acid:1.5 mmol/L, Albumin:1.9 g/dL, LDH:294 IU/L, Ca++:7.8
+   mg/dL, Mg++:1.8 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   This is a 50F with HCV cirrhosis with septic shock secondary likely to
+   pneumonia with respiratory distress.
+   .
+   # Septic Shock: fever, hypotension, tachycardia, hypoxia, leukocytosis,
+   with LLL infiltrate.  Likely sepsis secondary to pneumonia, but
+   leukocytosis so high that could be c.diff, but also empyema.
+   - vanc/zosyn for PNA
+   - flagyl/po vanc for empiric therapy of C. diff; C. diff neg x 1 on [**1-24**]
+   - continue azithro for atypical coverage (urine legionella negative,
+   though)
+   - Leukocytosis continuing downward trend, lactate returned to WNL. (was
+   up to 2.5 after LR resuscitation)
+   - f/u cultures
+   - CVP > 12
+   - MVP > 65 with levophed was able to wean down overnight to *******
+   .
+   # Leukocytosis:  considering c.diff due to high high leukocytosis
+   - cont flagyl/vanc as above for c.diff until cx negative
+   .
+   # Respiratory Distress:
+   - O2 weaned to NC 4L, continue to wean as tolerated
+   .
+   # Hemodynamics:  over the course of evening after getting IVFs for
+   shock physiology, CVPs started trending upward, JVD high on exam,
+   likely with some R heart failure, stable.
+   - mixed venous sats still low; consider starting dobutamine.
+   - transfused 1u pRBCs overnight
+ Hct 31.7 this morning.
+   - would do pre and post mixed venous sats before and after transfusion
+   - avoid any more IVFs
+   - levophed as needed for pressure support
+   # Low urine output:  unclear etiology unless just poor forward flow due
+   to heart failure; cr stable
+   - will continue to monitor
+   - consider obstruction workup if does not improve
+   .
+   # Hypokalemia:  replete as needed.
+   .
+   # relative hyponatremia: likely secondary to hypovolemia or from
+   pulmonary process.
+   - stable in low-mid 130s. Treat underlying cause and monitor
+   .
+   # HCV:  No active issues.
+   .
+   # Coagulopathy: vit K
+   .
+   # FEN: No IVF, replete electrolytes, regular diet
+   .
+   # Prophylaxis: pneumoboots, protonix, SQ hep
+   # Access: RIJ, PIVs
+   # Code: FULL
+   # Communication: Patient
+   # Disposition: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2692-1-23**] 02:10 AM
+   Arterial Line - [**2692-1-23**] 05:55 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,232 @@
+Chief Complaint:
+   24 Hour Events:
+   - seen by IV access, who were unable to get access, IR placed PICC
+   line.
+   - femoral sheath removed, site checked @ 2153 - 1-2 cm hematoma noted
+   on left femoral site, with bilateral femoral bruits auscultated,
+   bilateral distal pulses 2+
+   - checked HCT @ 10:47, dropped from 28.8 this AM to 25.5, patient is
+   not tachycardiac, maintaining BP, Asx, will recheck at 1 AM and T&S 2
+   units.
+   - 1 am hct 24.2, decided against transfusion because of h/o flash
+   pulmonary edema and patient hemodynamically stable and asx. Will follow
+   up 5 am cbc.  Returned at 27.
+   - temporarily placed on NRB due to O2 sats 85%
+ 93% with NRB.  On
+   exam, diffuse crackles
+ gave 20 mg IV lasix (pt has been
+   auto-diuresing well).  Put out 110 mL in 15 mins after this.
+   Allergies:
+   Codeine
+   Nausea/Vomiting
+   Amoxicillin
+   Nausea/Vomiting
+   Blood-Group Specific Substance
+   Unknown;
+   Adhesive Tape (Topical)
+   "tape absorbs
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2766-8-11**] 08:30 PM
+   Heparin Sodium (Prophylaxis) - [**2766-8-11**] 10:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2766-8-12**] 03:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.7
+C (98.1
+   HR: 82 (77 - 92) bpm
+   BP: 121/69(80) {84/47(62) - 132/95(100)} mmHg
+   RR: 14 (11 - 33) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 55 kg (admission): 57.8 kg
+   Height: 67 Inch
+                  Total In:
+                                                                  1,850 mL
+                  PO:
+                                                                  1,660 mL
+                  TF:
+   IVF:
+                                                                    190 mL
+   Blood products:
+   Total out:
+                                                                  1,425 mL
+                                                                    490 mL
+   Urine:
+                                                                  1,425 mL
+                                                                    490 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    425 mL
+                                                                   -490 mL
+   Respiratory support
+   O2 Delivery Device: Medium conc mask
+   SpO2: 94%
+   ABG: ///23/
+   Physical Examination
+   GENERAL: WDWN woman in NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with no elevated JVP
+   CARDIAC: Regular rate and rhythm.  [**2-18**] holosystolic murmur heard best
+   at apex.  PMI located in 5th intercostal space, midclavicular line.
+   Normal S1, S2. No rubs or gallops. No thrills, lifts.
+   LUNGS: Crackles heard at bases.  Good respiratory effort.   No
+   wheezes.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits. Femoral cath sites bandaged-
+   no signs of hematoma, erythema.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   410 K/uL
+   8.6 g/dL
+   90
+   1.4 mg/dL
+   23 mEq/L
+   4.7 mEq/L
+   30 mg/dL
+   105 mEq/L
+   138 mEq/L
+   27.3 %
+   6.0 K/uL
+        [image002.jpg]
+                             [**2766-8-10**]  09:41 PM
+                             [**2766-8-11**]  05:30 AM
+                             [**2766-8-11**]  08:00 AM
+                             [**2766-8-11**]  10:47 PM
+                             [**2766-8-12**]  01:00 AM
+   WBC
+   6.6
+   6.3
+   Hct
+   29.1
+   28.8
+   25.5
+   24.2
+   Plt
+   454
+   415
+   Cr
+   1.3
+   1.1
+   Glucose
+   30
+   185
+   168
+   Other labs: Ca++:9.1 mg/dL, Mg++:2.0 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+ ANEMIA, ACUTE, SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING)
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ DIABETES MELLITUS (DM), TYPE I
+ CORONARY ARTERY DISEASE (CAD, ISCHEMIC HEART DISEASE)
+ HEART FAILURE (CHF), DIASTOLIC, ACUTE ON CHRONIC
+   Patient is a 45 yo female with CAD s/p CABG, diastolic HF and kidney
+   transplant presenting from [**Hospital1 **] with shortness of breath.
+   .
+   # CORONARIES:  Known CAD s/p CABG in [**2757**].  Was cathed today which
+   showed no change from previous cath in [**3-23**]- no intervention was
+   performed.  Patient continues to deny chest pain.
+   -tele
+   -ASA 81mg daily
+   -atorvastatin 40mg daily
+   -plavix 75mg daily
+   -Ezetimibe 10 mg daily
+   -Isosorbide Mononitrate (Extended Release) 60 mg daily
+   -post-cath check showing small hematoma, bilateral buits
+   - wean oxygen as tolerated
+   -no enzymes ordered given lack of symptoms and cath results which
+   showed no changes from previous cath
+   .
+   # PUMP:  History of diastolic dysfunction now presented with CHF
+   exacerbation.  ECHO shows "the inferolateral wall systolic dysfunction
+   is more evident and the severity of mitral regurgitation has decreased
+   slightly."  Went into flash pulmonary edema overnight, and received
+   20mg IV lasix this AM.
+   -consider 20 mg IV lasix again this AM
+   -O2 wean as tolerated
+   -metoprolol 50mg [**Hospital1 **]
+   -nifedipine cr 60mg daily
+   .
+   # RHYTHM:  Patient in normal sinus rhythm.
+   -increase metoprolol dose if rate elevates for a sustained period of
+   time
+   .
+   # Immune Suppression: Patient is s/p living donor kidney
+   transplant.
+   -continue on sirolimus 3 mg daily and tacrolimus 2 mg twice daily.
+   -contact transplant regarding any dose changes needed
+   -home dose of prednisone (4mg daily) continued
+   .
+   # Diabetes Mellitus Type I: Last A1C on [**8-1**] was 8.7%.
+   -Lantus plus sliding scale insulin.
+   -monitor sugars
+   .
+   # Renal Disease: Patient is s/p kidney transplant. Her creatinine over
+   the last year has ranged from 0.8-1.1.
+   -monitor Cr given lasix administration
+   -currently slightly elevated, but suspect acute pulmonary edema as
+   etiology, and suspect improvement with diuresis
+   .
+   # Hypertension:
+   -continue home doses of metoprolol and nifedipine extended release.
+   .
+   # Depression:
+   -continue home medications of bupropion and citalopram.
+   .
+   # Pain: Questionable allergy to codiene- patient reports
+   nausea/vomiting but has been taking oxycodone recently for ankle
+   fracture.
+   -continue PO oxycodone.
+   .
+   # Insomnia: Continue home dose of trazodone.
+   .
+   # Nausea: Continued reglan and zofran.
+   .
+   # Osteoporosis: Continued vitamin D and calcium.
+   .
+   FEN: replete lytes as needed.  monitor closely given patient on lasix
+   .
+   ACCESS: PICC line
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin SC
+   -Pain management with oxycodone PRN
+   -Bowel regimen with senna, colace
+   .
+   CODE: Presumed full
+   .
+   COMM:  [**Name (NI) 67**] [**Name (NI) 2202**] (mother)- [**Telephone/Fax (1) 9948**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2766-8-11**] 05:07 PM
+   Prophylaxis:
+   DVT: HSQ
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: possible transfer to [**Hospital Ward Name 763**] 3
+
+
+
+DOC CLASS

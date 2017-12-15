@@ -1,0 +1,197 @@
+CVICU
+   HPI:
+   HD3
+   [**3-19**] POD 1
+   77M s/p L carotid to subclavian BPG and TAG [**3-18**]
+   PMH: CAD, HTN, MI, Bladder ca, GERD
+   PSH: Thoracoabdominal AAA repair c supraceliac clamp [**2603-9-14**], s/p CCY,
+   cataract, CABG, AAA repair '[**90**], prostatectomy, hernia
+   [**Last Name (un) 500**]: ASA 81, lipitor 20, Coreg 3.125, coumadin 2.5 6d/wk, 3 1d/wk,
+   diovan 80, MVI
+   Chief complaint:
+   PMHx:
+   Current medications:
+   3. Acetylcysteine 20% 4. Aspirin 5. Atorvastatin 6. Calcium Gluconate
+   7. Carvedilol 8. Insulin 9. Magnesium Sulfate 10. Nitroglycerin 11.
+   Phenylephrine 14. TraMADOL (Ultram)
+   24 Hour Events:
+ INTUBATION - At [**2607-3-18**] 02:55 PM
+   received from OR
+ INVASIVE VENTILATION - START [**2607-3-18**] 02:55 PM
+ OR RECEIVED - At [**2607-3-18**] 03:00 PM
+ ARTERIAL LINE - START [**2607-3-18**] 03:00 PM
+ MULTI LUMEN - START [**2607-3-18**] 03:00 PM
+ EKG - At [**2607-3-18**] 04:00 PM
+ EXTUBATION - At [**2607-3-18**] 08:00 PM
+   Post operative day:
+   POD#1 - endovascular thoracic anuerysm repair with left subclavian to
+   carotid bypass
+   Allergies:
+   Optiray 300 (Intraven) (Ioversol)
+   Rash;
+   Iodine
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**2607-3-18**] 08:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2607-3-19**] 08:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**09**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.8
+C (100
+   HR: 86 (59 - 88) bpm
+   BP: 145/65(95) {130/55(80) - 165/87(119)} mmHg
+   RR: 17 (10 - 24) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+   CVP: 2 (1 - 20) mmHg
+   ICP: 16 (9 - 31) mmHg
+   Total In:
+                                                                  1,809 mL
+                                                                     89 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,809 mL
+                                                                     89 mL
+   Blood products:
+   Total out:
+                                                                    718 mL
+                                                                    675 mL
+   Urine:
+                                                                    515 mL
+                                                                    643 mL
+   NG:
+                                                                    150 mL
+   Stool:
+   Drains:
+                                                                     53 mL
+                                                                     32 mL
+   Balance:
+                                                                  1,091 mL
+                                                                   -586 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 758 (217 - 758) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 11
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   Plateau: 17 cmH2O
+   SPO2: 98%
+   ABG: 7.40/37/127/22/0
+   Ve: 8.3 L/min
+   PaO2 / FiO2: 254
+   Physical Examination
+    General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   143 K/uL
+   9.3 g/dL
+   119 mg/dL
+   1.5 mg/dL
+   22 mEq/L
+   3.5 mEq/L
+   30 mg/dL
+   109 mEq/L
+   140 mEq/L
+   28.1 %
+   8.5 K/uL
+        [image002.jpg]
+                             [**2607-3-18**]  01:43 PM
+                             [**2607-3-18**]  03:29 PM
+                             [**2607-3-18**]  03:33 PM
+                             [**2607-3-18**]  07:16 PM
+                             [**2607-3-18**]  09:12 PM
+                             [**2607-3-18**]  09:19 PM
+                             [**2607-3-19**]  03:27 AM
+   WBC
+   11.9
+   8.5
+   Hct
+   34
+   30.6
+   28.6
+   28.1
+   Plt
+   174
+   143
+   Creatinine
+   1.6
+   1.5
+   TCO2
+   24
+   24
+   23
+   24
+   Glucose
+   168
+   164
+   119
+   Other labs: PT / PTT / INR:15.5/35.3/1.4, Differential-Neuts:88.5 %,
+   Lymph:7.9 %, Mono:3.3 %, Eos:0.1 %, Lactic Acid:1.1 mmol/L, Ca:8.1
+   mg/dL, Mg:2.2 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   AORTIC ANEURYSM, THORACIC (TAA)
+   Assessment and Plan:
+   Neurologic: Lumbar drain open for pressure > 15mmHg.
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: Extubated, HOB 45 degrees
+   Gastrointestinal / Abdomen: standard bowel regimen
+   Nutrition: Advance diet
+   Renal: Foley, Adequate UO; Creat at baseline
+ restart Bicarbonate
+   tabs.
+   Hematology: Mild anemia.
+   Endocrine: RISS
+   Infectious Disease: Periop antibx.
+   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP)
+   Wounds: Dry dressings
+   Imaging: None
+   Fluids: KVO
+   Consults: Vascular Surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2607-3-18**] 03:00 PM
+   Multi Lumen - [**2607-3-18**] 03:00 PM
+   20 Gauge - [**2607-3-18**] 03:00 PM
+   16 Gauge - [**2607-3-18**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

@@ -1,0 +1,263 @@
+Admission Date:  [**2873-11-1**]              Discharge Date:   [**2873-11-7**]
+
+Date of Birth:  [**2799-5-5**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Nsaids / Ambien
+
+Attending:[**First Name3 (LF) 356**]
+Chief Complaint:
+coronary artery disease
+
+Major Surgical or Invasive Procedure:
+left heart catheterization, intravascular ultrasound, placement
+of intra aortic balloon [**2873-11-1**]
+Urgent coronary artery bypass grafts x3(LIMQA-LAD,SVG-OM1->OM2)
+[**2873-11-2**]
+
+
+History of Present Illness:
+This 74 year old female with known coronary disease was referred
+to [**Hospital1 4**] for elective intravascular ultrasound of left main and
+left anterior descending disease as wire tracings at outside
+catheterization was inconclusive for vascular significance.
+
+Past Medical History:
+type 2 diabetes mellitus
+hypertension
+hyperlipidemia
+abd. aortic aneurysm (3.2cm)
+gastroesophageal reflux
+Obesity
+prior renal failure with NSAID use
+s/p lumbar laminectomy
+s/p cervical laminectomy
+Depression
+s/p Bilateral knee replacement
+s/p Appendectomy
+s/p Tonsillectomy
+s/p Cystocele/Rectocele repair
+
+
+Social History:
+Tobacco: Prior light smoker. Quit in [**2850**].
+ETOH:  (-)
+Illicits: (-)
+Residence: Widowed. Lives with one of her daughters. [**Name (NI) **] home
+services.
+
+Family History:
+-Sister with CABG in her early 60's.
+-Brother with coronary stents in his early 60's.
+-Mother died of CHF at age 88.
+-Father died from an MI at age 72.
+
+Physical Exam:
+Admission:
+
+Pulse: 65 Resp:Intubated  O2 sat: 95%
+B/P  Right: 140/84   Left: 140/63
+Height: 5'4"    Weight:210 pounds
+
+General: intubated and sedated on propofol with IABP 1:1 on
+dopamine and neo drips for b/p
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x]
+Neck:  Supple [x]
+Chest: Lungs clear bilaterally [x] intubated
+Heart: RRR [x]  Irregular []  Murmur none
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x] obese no palpable masses
+Extremities: Cool perfused []  Edema none Varicosities: None [x]
+Neuro: intubated and sedated - propofol stopped briefly - able
+to
+open eyes to command - grasp with both hands to voice, withdraws
+to painful stimuli with all 4 extremties
+Pulses:
+Femoral      Right: IABP  Left: +1
+DP           Right: D  Left: D
+PT           [**Name (NI) **]: D  Left: D
+Radial       Right: +1  Left: +1
+
+Carotid Bruit        Right: no bruit     Left: no bruit
+
+
+Pertinent Results:
+[**2873-11-5**] 02:44AM BLOOD WBC-11.8* RBC-3.13* Hgb-10.0* Hct-27.5*
+MCV-88 MCH-31.8 MCHC-36.3* RDW-14.2 Plt Ct-154
+[**2873-11-1**] 12:26PM BLOOD WBC-18.9* RBC-4.65 Hgb-13.8 Hct-41.4
+MCV-89 MCH-29.6 MCHC-33.2 RDW-13.1 Plt Ct-279
+[**2873-11-5**] 02:44AM BLOOD Glucose-129* UreaN-13 Creat-0.8 Na-138
+K-4.0 Cl-104 HCO3-26 AnGap-12
+[**2873-11-1**] 07:30AM BLOOD Glucose-126* UreaN-15 Creat-0.8 Na-140
+K-4.4 Cl-104 HCO3-26 AnGap-14
+[**2873-11-2**] 05:21AM BLOOD CK-MB-7
+[**2873-11-1**] 07:23PM BLOOD CK-MB-6 cTropnT-0.06*
+[**2873-11-1**] 12:26PM BLOOD CK-MB-2 cTropnT-<0.01
+
+PREBYPASS
+No atrial septal defect is seen by 2D or color Doppler. There is
+mild symmetric left ventricular hypertrophy. Regional left
+ventricular wall motion is normal. Overall left ventricular
+systolic function is normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are mildly thickened. Trace aortic regurgitation is
+seen. The mitral valve leaflets are mildly thickened. Trivial
+mitral regurgitation is seen. Mild to moderate tricuspid
+regurgitation is present. There is a well position intra-aortic
+balloon pump catheter in the descending thoracic aorta
+
+POSTBYPASS
+Biventricular systolic pressure remains preserved. The remaining
+study is unchanged from prebypass.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 753**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2873-11-2**] 11:2
+
+
+Brief Hospital Course:
+At catheterization she developed hypotension during ultrasound
+and an intra aortic balloon was placed and pressors begun.  She
+continued to be mildly hypotensive after that and medications
+were adjusted.  On [**11-2**] she was taken to the Operating Room
+where revascularization was undertaken as noted in the operative
+note.  She weaned from bypass with the balloon in place, Neo
+Synephrine and Propofol infusions. She transiently lost foot
+pulses, but these returned.  She was stable, the intra aortic
+balloon was removed on POD 1 and she was aggressively diuresed
+for fluid overload.
+
+A Lasix infusion was continued for 48 hours and she was
+extubated on POD 2. CTs and pacing wires were removed on POD 3,
+she remained stable.  Beta blockade was resumed and oral
+diuretics begun.  Physical Therapy was consulted for mobility
+and strength.  She continued to make good progress and was
+cleared for discharge to [**Location (un) 1969**] Skilled Nursing Home an Rehab
+on  [**11-8**].  All follow up appointments  were made.
+
+
+Medications on Admission:
+ATENOLOL 100 mg QHS
+ATORVASTATIN 40 mg QHS
+ISOSORBIDE MONONITRATE 60 mg QAM
+OLMESARTAN 20 mg QHS
+ASPIRIN 325 mg QHS
+OMEPRAZOLE MAGNESIUM 20 QHS
+.
+METFORMIN 500 mg TID
+CYMBALTA 60 mg Daily
+CALCIUM CARBONATE 600/VIT D3 400U QHS
+
+Discharge Medications:
+1. influenza vaccine tr-s 10 (PF) 45 mcg (15 mcg x 3)/0.5 mL
+Syringe Sig: One (1) ML Intramuscular NOW X1 (Now Times One
+Dose) for 1 doses.
+2. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+4. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+5. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO DAILY (Daily) as needed for constipation.
+6. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+7. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for temperature >38.0.
+8. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+2-4 Puffs Inhalation Q4H (every 4 hours) as needed for wheezing.
+
+9. duloxetine 60 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+10. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+11. metformin 500 mg Tablet Sig: One (1) Tablet PO TID (3 times
+a day).
+12. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+13. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO HS (at bedtime) as needed for constipation.
+14. furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day
+for 7 doses.
+15. potassium chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7
+days.
+16. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital 1969**] Rehab & Skilled Nursing Center - [**Location (un) 415**]
+
+Discharge Diagnosis:
+coronary artery disease
+obesity
+noninsulin dependent diabete mellitus
+s/p coronary artery bypass grafts
+s/p bilateral total knee replacement
+hyperlipidemia
+hypertension
+depression
+gastroesophageal reflux
+s/p cystocoele repair
+s/p lumbar laminectomy
+s/p cervical laminectomy
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Incisional pain managed with Tramadol
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Left - healing well, no erythema or drainage.
+Edema:1+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) 222**] at [**Hospital1 412**] (for Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 294**])
+on Thurs [**11-30**] @9:00 AM
+
+Cardiologist:Dr. [**Last Name (STitle) 1621**] ([**Telephone/Fax (1) 420**]) on [**12-19**] @ 1:30 pm
+
+Please call to schedule appointments with:
+Primary Care Dr. [**Name (NI) 7510**] [**Name (STitle) 7511**] ([**Telephone/Fax (1) 420**]) in [**4-17**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2873-11-7**]
+
+
+DOC CLASS

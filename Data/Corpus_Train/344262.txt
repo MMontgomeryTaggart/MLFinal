@@ -1,0 +1,181 @@
+Chief Complaint:
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3274-10-6**] 08:00 AM
+ INVASIVE VENTILATION - STOP [**3274-10-6**] 04:49 PM
+     * extubated after MS improved
+     * hyponatremic to Na 120 -> restricted PO fluids and re-checked labs
+       -> Na 122
+     * patient stable overnight
+     * still to do: auto cpap v sleep study, consider re-image head
+   Allergies:
+   Amoxicillin
+   Rash;
+   Adhesive Bandage (Topical)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3274-10-7**] 06:42 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.7
+C (98
+   HR: 112 (79 - 112) bpm
+   BP: 116/67(78) {86/40(51) - 138/82(95)} mmHg
+   RR: 16 (9 - 22) insp/min
+   SpO2: 95%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 78.6 kg (admission): 78.6 kg
+                  Total In:
+                                                                    680 mL
+                                                                    270 mL
+   PO:
+                                                                    270 mL
+                                                                    270 mL
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    730 mL
+                                                                    135 mL
+   Urine:
+                                                                    730 mL
+                                                                    135 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -50 mL
+                                                                    135 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 1,022 (979 - 1,069) mL
+   PS : 5 cmH2O
+   RR (Set): 12
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   SpO2: 95%
+   ABG: 7.51/24/292/17/-1
+   Ve: 8.7 L/min
+   PaO2 / FiO2: 973
+   Physical Examination
+   General Appearance: intubated
+   Eyes / Conjunctiva: PERRL, Pupils dilated, icteric sclera
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   at the bases), course breath sounds
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended but soft.
+   Extremities: Right: Absent, Left: Absent
+   Neurologic: Responds to: Unresponsive, Movement: Non -purposeful,
+   Labs / Radiology
+   131 K/uL
+   9.7 g/dL
+   114 mg/dL
+   1.1 mg/dL
+   17 mEq/L
+   3.6 mEq/L
+   29 mg/dL
+   98 mEq/L
+   125 mEq/L
+   28.8 %
+   10.9 K/uL
+        [image002.jpg]
+                            [**3274-10-6**]  09:34 AM
+                            [**3274-10-6**]  12:56 PM
+                            [**3274-10-6**]  09:18 PM
+                            [**3274-10-7**]  03:19 AM
+   WBC
+   10.9
+   Hct
+   28.8
+   Plt
+   131
+   Cr
+   1.1
+   1.0
+   1.1
+   TCO2
+   20
+   Glucose
+   98
+   107
+   114
+   Other labs: PT / PTT / INR:21.9/76.0/2.1, ALT / AST:89/164, Alk Phos /
+   T Bili:150/8.3, Albumin:2.9 g/dL, LDH:328 IU/L, Ca++:8.6 mg/dL,
+   Mg++:2.3 mg/dL, PO4:2.8 mg/dL
+   Assessment and Plan
+   A/P: 41 yo M with pulmonary hypertension, ESLD on transplant list with
+   Hep C cirrhosis, alcoholic cirrhosis, hypothyroidism who presents with
+   his third episode of altered mental status requiring intubation for
+   airway protection.
+   # Recurrent altered mental status: DDX includes infection (less likely
+   given this is the third episode in the last few weeks and work up for
+   infection has been negative, currently leukocytosis or fevers), stroke
+   or head bleed (unlikely for similar reason and prior CT x2 and MRI
+   brain all negative), encephalopathy (likely), hyponatremia (could be
+   contributing given sodium of 120 is lower than he has been given he
+   restarted diuretics yesterday), sleep disorder (given all episodes
+   occur first thing in the AM).
+   -for hepatic encephalopathy- dose lactulose q2hrs until bowel movements
+   then back down with goal bowel movements 5-6 per day, continue
+   rifaximine
+   -for hyponatremia- repeat labs in 4 hrs. If still hyponatremic, will
+   need repletion. Hold diuretics.
+   -sleep disorder- continuous oxygen monitoring, ABG when awake and
+   extubated for baseline. sleep study needed but may not be able to do in
+   house on the weekend. Consider auto titrating CPAP.
+   -infection- unlikely but could consider diagnostic para if not
+   improving. Two diagnostic [**Doctor First Name 3560**] this admission were negative
+   # alkylosis: Would think with altered mental status, that his CO2 would
+   be high causing an acidosis not alkylosis with low CO2. Could imply a
+   sleep disturbance as cause. See above.
+   -monitor ABG
+   -currently changing to PS ventilation and will resend ABG in 30 mins.
+   -ween vent as tolerated.
+   -has been extubated quickly on prior episodes.
+   # ESLD: Hep C and alcohol cirrhosis.
+   -continue lactulose as above, continue rifaximine
+   -hold diuretics
+   -continue ppx cipro for SBP
+   -follow up hepatology recs
+   # Pulmonary HTN: continue sildenafil. [**Month (only) 47**] not be able to get iloprost
+   while on vent. Will discuss with respiratory and pharmacy.
+   # Hypothyroidism: continue levothyroxine
+   # FEN: NPO for now. Monitor lytes as above
+   # PPX: heparin SQ for DVT ppx, PPI per home reg, bowel reg as above
+   # Code: full
+   # communication: mother
+   ICU [**Name (NI) 75**]
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3274-10-6**] 08:00 AM
+   22 Gauge - [**3274-10-6**] 08:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

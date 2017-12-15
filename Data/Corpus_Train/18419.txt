@@ -1,0 +1,93 @@
+Admission Date:  [**3072-11-1**]       Discharge Date: [**3072-11-27**]
+
+Date of Birth:   [**3022-11-7**]       Sex:  F
+
+Service:  CCU
+
+CHIEF COMPLAINT:  Ventricular fibrillation arrest.
+
+HISTORY OF PRESENT ILLNESS:  This is a 50 year old woman with
+a known prior medical history found collapsed at work and
+underwent cardiopulmonary resuscitation by emergency medical
+services within about ten minutes of her collapse.  Found to
+be pulseless and in ventricular fibrillation.  She was
+shocked twice and back in sinus.  Intubation attempted
+multiple times and not successful.  The patient was bagged
+and transported to [**Hospital3 1758**] Hospital continuing to have
+episodes of supraventricular tachycardia and ventricular
+fibrillation.  She received four additional shocks.  She
+received a bolus of Amiodarone times three and then was found
+to have similar ST elevations in leads 3 and aVF.  She was
+given a heparin bolus and started on Integrilin and
+transferred here for cardiac catheterization.
+
+PAST MEDICAL HISTORY:  Notable for ethyl alcohol and tobacco
+history.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Ethyl alcohol and tobacco as mentioned
+above.
+
+PHYSICAL EXAMINATION:  The patient arrived intubated from the
+[**Hospital3 1758**] Hospital for cardiac catheterization.
+
+HOSPITAL COURSE:  The patient underwent cardiac
+catheterization on [**3072-11-1**] elevation,
+myocardial infarction with ventricular fibrillation arrest.
+Cardiac catheterization was notable for the following,
+proximal right coronary artery had 80% stenosis, diffusely
+diseased, mid right coronary artery 80% stenosis and 80%
+stenosis of the distal right coronary artery with a total of
+four stents employed with a gap left in the mid right
+coronary artery in the distribution of a relatively normal
+vessel.  There was a Type B dissection in the mid vessel, but
+clinically she was treated with two of these four stents.
+
+Attention was then turned to the left circumflex.  Rapid
+fluid was used to predilate stenosis.  A pixel stent was then
+deployed into the proximal left circumflex.  The patient's
+post procedure course was notable for the following.  The
+patient was successfully weaned and extubated off of the
+vent, however, due to acute agitation and confusion, status
+post catheterization believed due to ethyl alcohol
+withdrawal, despite treatments with Ativan and Haldol, she
+was intubated for protection.  Psychiatry was consulted at
+that time.
+
+The patient's course was complicated at that point with
+Streptococcal pneumonia and acute respiratory distress
+syndrome.  She was treated with steroids and Zosyn for a
+total course of three weeks.  The patient remained difficult
+to wean off the vent, prompting tracheostomy to be performed
+by Otorhinolaryngology.  The patient's course was notable for
+poor absorption from her nasogastric tube with high residuals
+prompting placement now of the gastrostomy tube by General
+Surgery at the bedside.  The patient was, however,
+successfully weaned off of the vent status post tracheostomy.
+
+Neurology was consulted to evaluate the neurological status
+and prognosis.  Electroencephalogram was performed which was
+within normal limits.  A noncontrast head computerized
+tomography scan was also performed which showed no signs of
+acute bleed.  However, it did show an old infarct in the left
+frontal region, etiology which is unclear.  [**Name2 (NI) **] now is to
+discharge the patient to a rehabilitation facility.
+
+DISCHARGE MEDICATIONS:  To be added as an addendum discharge
+summary.
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 1671**]
+
+Dictated By:[**Last Name (NamePattern1) 15750**]
+MEDQUIST36
+
+D:  [**3072-11-27**]  08:03
+T:  [**3072-11-27**]  08:19
+JOB#:  [**Job Number 28164**]
+
+
+
+DOC CLASS

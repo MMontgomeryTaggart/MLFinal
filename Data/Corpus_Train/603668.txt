@@ -1,0 +1,221 @@
+TITLE:
+   Chief Complaint:  Pleuritic right chest pain
+   24 Hour Events:
+   - patient started on coumadin
+   - [** 919**] briefly decreased (although unclear whether this was due to
+   accidental foley removal), [** 919**] responded appropriately to 500 ml LR
+   bolus with [** 919**] 60-70 cc
+s per hour this am
+   - patient briefly developed non-gap acidosis with bicarb of 19,
+   resolved with substitution of LR for NS for fluid boluses
+   S: The patient is feeling well.  Her chest pain has entirely resolved.
+   She continues to have dry-mouth as well as her baseline amount of cough
+   and shortness or breath.  She has not had N/V diarrhea.  No pain or
+   swelling in her legs.
+   Allergies:
+   Losartan
+   angioedema/lip
+   Lisinopril (Oral)
+   Cough;
+   Penicillins
+   itching;
+   Flagyl (Oral) (Metronidazole)
+   Wheezing;
+   Ultram (Oral) (Tramadol Hcl)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2969-5-16**] 08:00 PM
+   Vancomycin - [**2969-5-17**] 08:02 AM
+   Infusions:
+   Heparin Sodium - 850 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2969-5-18**] 07:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.4
+C (97.6
+   HR: 80 (73 - 94) bpm
+   BP: 99/55(67) {82/37(35) - 125/73(89)} mmHg
+   RR: 18 (18 - 28) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 63 Inch
+             Total In:
+                                                                  2,315 mL
+                                                                    690 mL
+   PO:
+                                                                    270 mL
+                                                                     60 mL
+   TF:
+   IVF:
+                                                                  2,045 mL
+                                                                    630 mL
+   Blood products:
+   Total out:
+                                                                    700 mL
+                                                                    250 mL
+   Urine:
+                                                                    700 mL
+                                                                    250 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,615 mL
+                                                                    440 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///22/
+   Physical Examination
+   Gen: Elderly woman in NAD, sleeping comfortable
+   HEENT: dry MMM, no JVD
+   CV: RRR, no murmurs
+   Lungs: Decreased breath sounds throughout, lungs otherwise clear
+   Abd: Soft, non-tender, +bowel sounds
+   Ext: Warm and well-perfused, no edema or tenderness
+   Neuro: Responds appropriately to questions, grossly non-focal
+   Labs / Radiology
+   293 K/uL
+   8.1 g/dL
+   101 mg/dL
+   0.6 mg/dL
+   22 mEq/L
+   3.2 mEq/L
+   9 mg/dL
+   111 mEq/L
+   143 mEq/L
+   25.0 %
+   8.3 K/uL
+        [image002.jpg]
+                             [**2969-5-16**]  08:16 PM
+                             [**2969-5-17**]  04:10 AM
+                             [**2969-5-18**]  02:55 AM
+   WBC
+   10.6
+   8.3
+   Hct
+   24.7
+   25.0
+   Plt
+   269
+   293
+   Cr
+   0.8
+   0.6
+   TropT
+   0.01
+   <0.01
+   Glucose
+   99
+   101
+   Other labs: PT / PTT / INR:15.3/56.2/1.3, CK / CKMB /
+   Troponin-T:31/3/<0.01, Differential-Neuts:77.2 %, Lymph:17.6 %,
+   Mono:4.6 %, Eos:0.5 %, Lactic Acid:1.1 mmol/L, Ca++:7.3 mg/dL, Mg++:2.0
+   mg/dL, PO4:1.7 mg/dL
+   Assessment and Plan
+   81F with h/o chronic eosinophilic lung disease, COPD, diastolic CHF,
+   and recent admission for MSSA and pan-sensitive Pseudomonas PNA who
+   presents with fevers, right sided pleuritic chest pain and found to
+   have extensive R sided PE on imaging.
+ PULMONARY EMBOLISM: Likely due to prolonged immobilization with
+   inadequate anticoagulation.  TTE performed yesterday appears showed L
+   and R ventricles to be largely unchanged from patient
+s previous echo.
+   Patient started on coumadin 3mg with subsequent INR at 1.3.  Has been
+   hemodynamically stable.
+   - transition from heparin drip to lovenox [**Hospital1 **]
+   - will continue coumadin at 3 mg today and recheck INR; patient is
+   hesitant to take coumadin long-term.  Will need to discuss long term
+   coumadin vs lovenox with her PCP ([**Doctor First Name 9082**] [**Doctor First Name **]) and her pulmonoligist ([**First Name8 (NamePattern2) **]
+   [**Last Name (NamePattern1) 1997**])
+   - continue close monitoring of hemodynamic status
+ FEVER: After initial Tmax of 103.4 in ED, the patient has now been
+   afebrile for over 24 hours.
+   - will d/c abx today given her excellent clinical response to treatment
+   of PE and clinical appearance not consistent with bacterial pneumonia
+   - obtain sputum sample for culture in the event that patient spikes a
+   fever
+   - f/u blood, urine cultures
+   - continue to trend WBC and temp curve
+ HYPOTENSION: Patient has been at at her usual BP (per outpatient OMR
+   notes) of systolics between high-80
+s to low 110
+   - continue fluid bolus to goal SBP >90, [**Last Name (NamePattern1) 919**] >30 cc/hr
+OLIGURIA: It is unclear whether the low recorded [**Name (NI) 919**] overnight was
+   truly oliguria or due to the foley being accidentally removed;
+   regardless her [**Name (NI) 919**] has been satisfactory since this receiving a 500 cc
+   LR bolus.  Creatinine of 0.6 suggests good renal function
+   -d/c foley, encourage PO intake
+   - monitor I
+s and O
+HYPONATREMIA: Patient with Na at nadir value of 133 (down from 138) at
+   4am on [**5-17**], likely dilutional given substantial amount of NS she
+   received since admission.  Has improved overnight with  decreasing
+   frequency of fluid boluses.
+   - check lytes daily
+ HYPOKALEMIA: Patient has refused PO K repletion, therefore will
+   continue to slowly infuse IV K so as to avoid pain at infusion site.
+   Patient
+s daughter reports that she takes her own K supplementation at
+   home; if her daughter brings this in she can take this form of PO K
+   instead.
+   - check pm K
+NON-GAP ACIDOSIS: Likely due to hydration with large volumes of NS.
+   Has improved with changing fluids to LR.
+   - continue LR for fluids
+   - check lytes daily
+HISTORY OF EOSINOPHILIC LUNG DISEASE: No evidence of exacerbation of
+   disease at this time
+   - continue home dose prednisone 5 mg daily
+ DEEP VENOUS THROMBOSIS (DVT), LOWER EXTREMITY: LENI
+s reveal
+   significant clot burden ( R common fem extending into greater saphenous
+   and profunda femorus, L peroneal)
+   - switch heparin drip to lovenox [**Hospital1 **]
+ ANEMIA: Stable at patient
+s baseline Hct in mid-to-high 20
+   - check Hct daily
+ H/O CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS,
+   EMPHYSEMA) WITH ACUTE EXACERBATION: Patient appears at her baseline
+   breathing status without increased SOB or cough, however is requiring
+   supplemental O2 likely due to large PE.
+   -  wean O2 as tolerated
+   - continue home COPD meds
+ H/O HEART FAILURE (CHF), DIASTOLIC, CHRONIC: Patient currently
+   appears euvolemic-to-dry, and is without cardiac symptoms.  Minimal ST
+   depressions seen on initial EKG (< 1mm in V4-V6) likely due to demand
+   since cardiac enzymes have been negative x3.  Echo yesterday showed
+   ventricular size and function largely unchanged from previous echo.
+   - continue home meds
+ H/O Atrial fibrillation: Patient was initially in afib on arrival to
+   [**Hospital Unit Name 42**] in setting of fever, tachycardia and hypotension but has been in
+   sinus rhythm since 7pm.
+   - continue to monitor on tele
+   ICU Care
+   Nutrition: Low-sodium diet
+   Glycemic Control:  Patient has been euglycemic, continue monitoring
+   with daily labs
+   Lines:
+   16 Gauge - [**2969-5-16**] 04:58 PM
+   20 Gauge - [**2969-5-16**] 04:59 PM
+   Prophylaxis:
+   DVT: heparin drip
+   Stress ulcer: PPI
+   Communication:  Daughter [**Name (NI) 642**] [**Telephone/Fax (1) 9067**]
+   [**Name2 (NI) 62**] status: Full code
+   Disposition: Likely call out to medical floor later today
+   13:28
+
+
+
+DOC CLASS

@@ -1,0 +1,224 @@
+Chief Complaint: 68yo M with CAD (s/p CABG), COPD on home O2, h/o lung
+   cancer ( prior RUL lobectomy '[**10**]) admitted with MRSA PNA and sepsis
+   needing intubation & pressors and now awaiting IP bronch/biopsy for
+   concern for recurrent lung CA
+   [**38**] Hour Events:
+   - had occasional self limited episodes of tachycardia
+   - Put out -1.5L overnight on lasix gtt
+   - TF stopped at midnight for possible repeat bronch/biopsy today by IP
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2625-3-21**] 09:30 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2625-3-21**] 12:00 PM
+   Piperacillin - [**2625-3-22**] 04:00 AM
+   Infusions:
+   Furosemide (Lasix) - 3 mg/hour
+   Phenylephrine - 1.5 mcg/Kg/min
+   Propofol - 30 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2625-3-21**] 07:59 AM
+   Pantoprazole (Protonix) - [**2625-3-21**] 12:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2625-3-22**] 07:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.6
+C (97.8
+   HR: 80 (80 - 97) bpm
+   BP: 122/49(72) {87/39(56) - 149/58(88)} mmHg
+   RR: 20 (9 - 25) insp/min
+   SpO2: 97%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+    CVP: 3 (1 - 8)mmHg
+   Total In:
+                                                                  2,727 mL
+                                                                    394 mL
+   PO:
+   TF:
+                                                                  1,051 mL
+   IVF:
+                                                                  1,505 mL
+                                                                    364 mL
+   Blood products:
+   Total out:
+                                                                  3,710 mL
+                                                                    470 mL
+   Urine:
+                                                                  3,710 mL
+                                                                    470 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -983 mL
+                                                                    -76 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 370 (370 - 370) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   PIP: 24 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 23.1 cmH2O/mL
+   SpO2: 97%
+   ABG: 7.48/55/77/38/14
+   Ve: 7.3 L/min
+   PaO2 / FiO2: 220
+   Physical Examination:
+   Gen: Intubated, sedated, NAD
+   HEENT:  pupils reactive 4->3 bilaterally symmetric, EOMI
+   Lungs: Good air movement anteriorly, lateral rhonchi over left side
+   appreciated , no wheeze
+   CV: RRR, no new murmurs / rubs
+   Abd: obese, soft, normoactive bowel sounds throughout
+   LE: 2+ pedal pulses, +pneumoboots in place, warm to touch
+   Labs / Radiology
+   209 K/uL
+   10.1 g/dL
+   138 mg/dL
+   1.8 mg/dL
+   38 mEq/L
+   3.3 mEq/L
+   26 mg/dL
+   97 mEq/L
+   144 mEq/L
+   30.1 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**2625-3-19**]  04:42 PM
+                             [**2625-3-20**]  05:58 AM
+                             [**2625-3-20**]  06:14 AM
+                             [**2625-3-20**]  12:38 PM
+                             [**2625-3-20**]  05:52 PM
+                             [**2625-3-21**]  04:18 AM
+                             [**2625-3-21**]  04:34 AM
+                             [**2625-3-21**]  01:55 PM
+                             [**2625-3-22**]  04:18 AM
+                             [**2625-3-22**]  04:36 AM
+   WBC
+   9.7
+   10.4
+   10.6
+   11.8
+   Hct
+   28.7
+   28.9
+   29.1
+   27.6
+   28.0
+   30.1
+   Plt
+   159
+   175
+   178
+   209
+   Cr
+   1.8
+   1.6
+   1.7
+   1.7
+   1.8
+   TCO2
+   40
+   39
+   43
+   42
+   Glucose
+   [**Telephone/Fax (3) 14331**]36
+   138
+   Other labs: PT / PTT / INR:11.4/27.5/0.9, CK / CKMB /
+   Troponin-T:51/4/0.06, ALT / AST:39/36, Alk Phos / T Bili:87/0.5,
+   Differential-Neuts:85.5 %, Lymph:9.2 %, Mono:3.0 %, Eos:2.1 %,
+   Fibrinogen:675 mg/dL, Lactic Acid:0.8 mmol/L, Albumin:2.6 g/dL, LDH:266
+   IU/L, Ca++:8.2 mg/dL, Mg++:2.0 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan:
+   68 year-old male with COPD, h/o lung cancer with RUL lobectomy, & CAD (
+   s/p CABG) who was admitted with hypotension and respiratory failure in
+   setting of MRSA PNA and bacteremia found to have new L lobe mass on
+   recent bronchoscopy concerning for recurrent cancer & now awaiting IP
+   repeat bronch/biopsy this morning
+   .
+   # Hypercarbic respiratory failure:  Very poor reserve due to baseline
+   COPD. He also had prior RUL lobectomy in
+96 for lung cancer. On serial
+   imaging he has less lung volume on R and now a newer L lung mass and
+   respiratory failure with need for intubation despite multiple broad
+   antibiotics.  He also has ongoing volume overload issue with decreased
+   compliance overall making his ventilation in ICU challenging. Excessive
+   secretions continue. Plan for IP bronch/biopsy today.
+   - IP procedure with bronch/biopsy today
+   - Holding on extubation due to inability to tolerate P/S
+   - Continue diuresis by lasix gtt to goal -1L negative today
+   - Continue steroid taper and MDIs
+ day#15 of predisone 20mg today,
+   plan to switch to 10mg today
+   # L sided lung mass:  major concern for cancer recurrence
+   - follow-up results of repeat bronch/biopsy today by IP
+   - Holding TF until after procedure done
+   - d/w IP when safe to place back on Plavix ( if at all) after biopsy
+   # Hypotension: Still having transient episodes of low BPs to 80/50s.
+   Likely from propofol effects / amiodarone therapy and his overall
+   septic physiology.   Being treated for HAP. Responds well to pressor
+   medications.
+   - continue Zosyn x 10 days total (day #6) and IV Vanco x 6 weeks
+   - Continue neosynephrine  to MAP>65, wean as tolerated
+   - f/up micro/ culture data, none positive so far
+   - took 1.5 L off last night pre-bronch today so may need to ease up on
+   lasix drip later today as long as MAPs appropriate
+   .
+   # Atach/afib : Plan to continue on Amiodarone.  [**Month (only) 47**] switch to quinidine
+   as outpt, but per EP will likely just plan to switch to PO amiodarone
+   as he has responded well to this therapy. Overnight still had several
+   brief runs of SVT but no need for any re-bolus of amiodarone as
+   resolved  quickly. [**Month (only) 47**] have been due to volume changes and increased
+   diuresis.
+   - continue PO amiodarone with re-bolus PRN
+   -cont telemetry
+   -follow K, Mg   PM labs  and replete aggressively
+   .
+   #HCT Drop :  Improved now from 27-28 up to 30 range. [**Month (only) 47**] be stress
+   gastritis. Hct has been stable, has not required transfusions since
+   [**3-18**].
+   -will trend HCTs [**Hospital1 7**], keep >25
+   - active T/S
+   # [**Last Name (un) **] : Cr still elevated at 1.8 range today . Likely elevated In
+   setting of ongoing hypotension issues and probable element of recent
+   ATN.
+   - Repeat PM lytes
+   - Follow urine output (keep UOP>50cc/hr) which has been good
+   # CAD,s/p CABG: No active issues
+   --have been holding Plavix for past week for IP bronch/biopsy today
+   - continue  ASA 81mg
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2625-3-7**] 02:27 PM
+   Arterial Line - [**2625-3-17**] 03:00 AM
+   Multi Lumen - [**2625-3-19**] 01:35 PM
+   Prophylaxis:
+   DVT:   pneumoboots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

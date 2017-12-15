@@ -1,0 +1,198 @@
+Chief Complaint:
+   24 Hour Events:
+   [**4-5**]:
+   - per case manager, screening for LTAC when stable
+   - platelet count decreased 98K --> 38K. TTP, DIC labs negative. repeat
+   HIT screen pending. heparin gtt dc'ed
+   - improvement of plt count to 90K after tranfusion of 1 bag platelets
+   - heme onc consult completed, agree with work-up and will follow
+   - tunnelled HD line successfully placed
+   S: pt with anxiety and SOB overnight. Resolved with neb.  No SOB, CP or
+   pressure currently.  [**3-18**] pain at HD cath site.  No diarrhea overnight.
+   Allergies:
+   Cefazolin
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2844-4-6**] 06:24 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.2
+C (97.1
+   HR: 69 (60 - 72) bpm
+   BP: 89/59(34) {74/31(34) - 101/59(65)} mmHg
+   RR: 15 (8 - 19) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 63.8 kg (admission): 65 kg
+   Height: 58 Inch
+                  Total In:
+                                                                  1,579 mL
+                                                                     80 mL
+   PO:
+                                                                  1,050 mL
+                                                                     80 mL
+   TF:
+   IVF:
+                                                                    331 mL
+   Blood products:
+                                                                    198 mL
+   Total out:
+                                                                     73 mL
+                                                                      0 mL
+   Urine:
+                                                                     73 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,506 mL
+                                                                     80 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 3L
+   SpO2: 97%
+   ABG: ////
+   Physical Examination
+   Gen: Elderly female in NAD
+   HEENT: NCAT. Conjunctiva were pink, no pallor or cyanosis of the oral
+   mucosa. No xanthalesma.
+   Neck: Supple with JVD elevated , Left tunneled HD line in place
+   CV: Regular rate and rhythm, normal S1, S2. 3/6 systolic murmur best
+   heard at apex. Hyperdynamic PMI. No thrills, lifts. No S3 or S4.
+   Chest: crackles bilat at bases
+   Abd: Soft, NTND. No HSM or tenderness.
+   Ext: Bilateral 2+ pitting edema. wwp + dop PT and DP bilat. 1+ radial
+   pulses bilat
+   Skin:stage I ulcer on LLE heel.  No ecchymoses or petechiae.
+   Neurologic: A+OX3
+   Labs / Radiology
+   88 K/uL
+   8.6 g/dL
+   88 mg/dL
+   2.7 mg/dL
+   27 mEq/L
+   4.9 mEq/L
+   43 mg/dL
+   96 mEq/L
+   131 mEq/L
+   26.8 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**2844-4-1**]  05:18 PM
+                             [**2844-4-2**]  06:10 AM
+                             [**2844-4-3**]  05:35 AM
+                             [**2844-4-3**]  03:15 PM
+                             [**2844-4-4**]  05:41 AM
+                             [**2844-4-4**]  03:44 PM
+                             [**2844-4-5**]  02:53 AM
+                             [**2844-4-5**]  09:25 AM
+                             [**2844-4-5**]  02:45 PM
+                             [**2844-4-6**]  05:30 AM
+   WBC
+   14.5
+   15.0
+   14.1
+   16.0
+   11.3
+   Hct
+   31.2
+   30.9
+   30.5
+   29.2
+   26.8
+   Plt
+   70
+   92
+   97
+   38
+   41
+   98
+   88
+   Cr
+   1.5
+   2.4
+   2.7
+   3.0
+   1.5
+   2.0
+   TCO2
+   16
+   Glucose
+   91
+   101
+   90
+   191
+   98
+   Other labs: PT / PTT / INR:12.5/29.9/1.1
+   Differential-Neuts:78.0 %, Band:6.0 %, Lymph:9.0 %, Mono:5.0 %, Eos:0.0
+   %,
+   Fibrinogen:217 mg/dL, LDH:613 IU/L, TB 1.3
+   Ca++:8.3 mg/dL, Mg++:1.9 mg/dL, PO4:2.6 mg/dL
+   TSH 5.3  free T4 1.3
+   Haptoglobin 66,
+   MICRO: stool C. Diff negative x3
+   Assessment and Plan
+   80 yo woman with HTN HL CAD now s/p primary PCI to the mid-RCA for
+   inferior STEMI complicated by posterior pap muscle ischemia and MR.
+   # Mitral Regurgitation: Has posterior pap muscle ischemia and severe MR
+   but not a flail leaflet.
+   - continue Hydral and Imdur given MR
+   # Inferior STEMI: now s/p primary PCI to the mid-RCA.
+   - continuing post cath management with aspirin 325, clopidogrel 75 and
+   simvastatin 80.
+   - holding carvedilol and lisinopril 2/2 HR & BP limitations
+   # Thrombocytopenia:  Platelets improved after transfusion to 98
+   this am.  Thrombocytopenia thought to be [**1-11**] balloon pump in the past.
+   Were improving but now worsening.  PF4 negative in the past, but HIT is
+   possible.  DIC and hemolysis not likely on labs.
+   - hematology consult appreciated.
+   - repeat hep antibodies pending.
+   - monitor platelets dialy
+   - hold PPI
+   - cont to hold heparin gtt and heparin flushes for now.
+   # ARF:Most likely contrast nephropathy but has been slow to improve
+   with continued oliguria. Work-up initiated for outpatient hemodialysis.
+   Pt s/p tunnel line placement yesterday.
+   - monitor uop
+   - continue HD
+   - will read PPD today.  hepatitis serologies pending
+   - follow up renal recs
+   - cont to hold lisinopril
+   # Normocytic anemia:  Hct stable at 26.5 from 29, Fe studies
+   unrevealing.
+   - t/c transfusion
+   - cont to monitor.
+   # Diarrhea:  C Diff negative x3, symptoms improved.
+   # Hyponatremia: Na 131, plan for HD today.  Hypervolemic.
+   # Rhythm: aflutter/fib
+ t/c anticoagulation after thrombocytopenia
+   workup completed.
+   - not anticoagulating with heparin [**1-11**] possible HIT.
+   - continue amiodarone 200mg QD
+   # Gout: Allopurinol QOD
+   ICU Care
+   Nutrition:  Cardiac diet
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2844-4-4**] 08:53 PM
+   20 Gauge - [**2844-4-4**] 05:02 PM
+   Prophylaxis:
+   DVT:  d/c heparin gtt. Pneumoboots.
+   Stress ulcer: d/c ppi,  no GI PPX needed at this time.
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  call out to floor today; screen for LTAC.
+
+
+
+DOC CLASS

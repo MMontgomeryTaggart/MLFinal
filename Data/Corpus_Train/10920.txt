@@ -1,0 +1,372 @@
+Admission Date:  [**3445-6-8**]              Discharge Date:   [**3445-6-10**]
+
+Date of Birth:  [**3365-11-20**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Celecoxib
+
+Attending:[**First Name3 (LF) 7811**]
+Chief Complaint:
+Chief Complaint: Cough, fever, shortness of breath
+Reason for MICU admission: transient hypotension in the ED
+(fluid responsive)
+
+Major Surgical or Invasive Procedure:
+None.
+
+History of Present Illness:
+Patient is a 79 yo woman with complex past medical history
+(asthma, diastolic heart failure, anemia, thrombocytopenia ?[**2-25**]
+MDS) now p/w SOB, cough and fevers (up to 101.5) for 24-48h.
+Cough is non-productive. No chest pain, abdominal pain,
+palpitations, N/V/D. SOB increased from baseline but responding
+to home nebs. Patient also endorsed generalized
+weakness/fatigue, to the point where she was unable to reach the
+bathroom this am because she could not get out of bed. Also
+notes ? LBP with radiation to buttocks/legs, but denies
+urine/stool incontinence and loss of sensation. No recent h/o
+trauma per daughter.
+
+In the ED, initial vital signs were: T 101.8, P 108, BP 171/72,
+RR 24, sat 100% room air. Patient was given acetaminophen,
+aspirin, albuterol nebs x3, ipratropium Bromide nebs x3,
+vancomycin 1g, piperacillin-tazob 4.5 mg and 2L IVF. On exam,
+diffuse wheezes bilaterally > at expiration. CXR and
+l-spine/pelvis X-ray showed no PNA, no fractures. CT abdomen
+showed no acute intra-abdominal or pelvic abnormalities,
+cholelithiasis w/o e/o acute cholecystitis, renal cysts,
+diverticulosis w/o e/o diverticulitis. UA was negative.
+Laboratory showed a white count of 9.8 with 84% neutrophils,
+lipase of 80, lactate of 2.6. EKG showed NSR [**Street Address(2) 7812**]
+depressions in the lateral leads (and TWIs - unchanged from
+prior [**3445-3-10**]) that resolved to near baseline without
+intervention. Cardiac enzymes were negative x2 - six hours
+apart. Vitals at time of transfer were T 98, BP 120/65, HR 104,
+satting 100% RA. Access includes 2 PIVs.
+
+Of note, patient was recently admitted [**Date range (1) 7813**] to general
+medicine service for thrombocytopenia (platelets nadired at 9).
+The cause was felt to be ITP secondary to MDS. She was started
+on prednisone 60 mg daily with plan to taper over a 15-day
+course (this taper ended on [**6-7**]). Patient was to follow-up with
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in hematology clinic on [**6-19**]. Other events
+during that admission were a dropping hct (seen by GI who
+recommended outpatient follow-up), fevers with no clear source
+(she was treated broadly with vancomycin, Zosyn, and
+levofloxacin which were all stopped after negative infectious
+work-up), and acute on chronic renal failure (improved with
+IVF).
+
+Review of systems:
+Patient currently denies headache, photophobia, stiff neck,
+chest pain or tightness, shortness of breath, difficulty
+breathing, abdominal pain or discomfort, diarrhea or
+constipation, nausea/vomiting, or leg pain. Review of systems is
+positive for dry cough, which she says started last night.
+
+Past Medical History:
+# thrombocytopenia: treated with steroids in the past in setting
+of asthma exacerbation with clinical response -> likely
+myelodysplastic disorder as per outpatient heme-onc Dr. [**Last Name (STitle) **]
+
+# asthma
+# diabetes type II dx'd ~[**3438**]
+# hypothyroidism
+# hypertension
+# chronic kidney disease- baseline crt ~1.1; likely secondary to
+hypertensive nephrosclerosis
+# systolic congestive heart failure, EF 45%
+# anemia
+# eosinophilia
+# depression
+# glaucoma
+# osteoarthritis
+# h/o [**First Name8 (NamePattern2) **] [**Location (un) **] syndrome w/ celecoxib
+# facial cellulitis tx w/ Bactrim in [**5-30**]
+# history of atrial fibrillation (uncertain to [**Hospital1 68**]
+cardiologist)
+
+Social History:
+From [**Male First Name (un) 1269**] (immigrated ~20yr ago). Lives with her son and
+has a daughter close by. Supportive family. Has VNA coming into
+the house with rotating family members taking care of her. She
+does not smoke, does not drink, and does not use drugs.
+
+
+Family History:
+Her sister had diabetes, brother has heart disease and stroke in
+sister.
+
+Physical Exam:
+Vitals: BP 124/56, HR 93 (sinus), sat 100% RA
+General: awake, alert and oriented, no distress, breathing
+comfortably
+HEENT: non-icteric sclera, PERRLA
+Neck: supple, no LAD
+Lungs: diffuse wheezes bilaterally
+Cardiovascular: RRR, normal s1/s2
+Abdomen: soft, non-tender, obese
+Extremities: non-edematous, warm/well-perfused
+
+Pertinent Results:
+Labs at Admission:
+
+[**3445-6-8**] 07:30AM BLOOD WBC-9.8 RBC-3.27* Hgb-10.0* Hct-30.9*
+MCV-95 MCH-30.8 MCHC-32.5 RDW-15.2 Plt Ct-111*
+[**3445-6-8**] 07:30AM BLOOD Neuts-84.4* Lymphs-7.2* Monos-3.1
+Eos-5.2* Baso-0.1
+[**3445-6-8**] 07:30AM BLOOD PT-11.2 PTT-22.6 INR(PT)-0.9
+[**3445-6-8**] 07:30AM BLOOD Glucose-110* UreaN-45* Creat-1.6* Na-135
+K-5.1 Cl-99 HCO3-24 AnGap-17
+[**3445-6-8**] 07:30AM BLOOD ALT-37 AST-39 AlkPhos-48 TotBili-0.3
+[**3445-6-8**] 07:30AM BLOOD CK-MB-1 cTropnT-0.01
+[**3445-6-8**] 02:10PM BLOOD cTropnT-<0.01 proBNP-3649*
+[**3445-6-8**] 07:30AM BLOOD Lipase-80*
+[**3445-6-8**] 07:30AM BLOOD Calcium-8.7 Phos-3.0 Mg-2.1
+[**3445-6-8**] 08:26AM BLOOD Glucose-112* Lactate-2.6* K-5.0
+[**3445-6-8**] 10:37AM BLOOD Glucose-121*
+.
+[**3445-6-8**] 02:10PM BLOOD cTropnT-<0.01 proBNP-3649*
+[**3445-6-8**] 02:10PM BLOOD TSH-1.9
+[**3445-6-9**] 05:25AM BLOOD Cortsol-14.3
+.
+Micro Data:
+Flu swab neagtive
+Urine culture negative
+Blood cultures no growth by discharge (>48 hours)
+.
+Images/Studies:
+CXR ([**6-8**]):
+IMPRESSION: No evidence of pneumonia.
+.
+L-spine and pelvis plain film ([**6-8**]):
+IMPRESSION:
+1. No fracture or dislocation.
+2. Possible transitional anatomy with pseudoarthrosis of L5 on
+S1 with
+degenerative changes at the articular surfaces.
+.
+CT A/P with contrast ([**6-8**]):
+No acute intra-abd or pelvic abnl. Cholelithiasis w/o e/o acute
+cholecystitis. Renal cysts. Diverticulosis w/o e/o
+diverticulitis.
+.
+Discharge Labs:
+[**3445-6-10**] 02:50AM BLOOD WBC-7.4 RBC-3.01* Hgb-9.8* Hct-28.4*
+MCV-95 MCH-32.5* MCHC-34.4 RDW-15.5 Plt Ct-106*
+[**3445-6-10**] 02:50AM BLOOD Glucose-248* UreaN-34* Creat-1.5* Na-131*
+K-5.1 Cl-102 HCO3-20* AnGap-14
+[**3445-6-10**] 02:50AM BLOOD Calcium-8.5 Phos-3.2 Mg-2.2
+
+
+Brief Hospital Course:
+A 79-year-old woman with past medical history of
+thrombocytopenia, anemia, asthma, systolic CHF, and chronic
+renal insufficiency, recent admission for GIB and ITP, who now
+p/w fever and cough.
+
+# Fever/cough: The patient had fevers of an unclear source. CXR
+clear. U/A and urine cx negative. Blood cx with no growth. She
+was empirically treated with Vancomycin/Zosyn in ED, but these
+were not continued after admission, and she never had any
+further fevers. She was ruled out for influenza with viral DFA.
+She was kept on bronchodilator nebs given the wheezes on exam.
+Additionally, she was started back on high-dose prednisone with
+plan for continued course of 40mg daily until she sees her
+hematologist in 10 days.
+
+# Hypotension: The patient had transient hypotension in the
+emergency room that was fluid responsive. Given that she just
+finished a 15-day course of high-dose steroids, adrenal
+insufficiency was considered, but was ruled out with a normal AM
+cortisol of 15. TSH was also normal. Infectious workup negative
+as above. Patient was given small boluses of IVF on the first
+hospital day and her hypotension resolved, with no further
+interventions needed. As above, predisone was restarted at high
+dose (60 mg daily), and she was discharged on 40mg daily until
+outpt followup.
+
+# Thrombocytopenia: In the setting of myelodysplastic syndrome
+and recent admission for ITP, her plt counts have improved. She
+had a recent course on prednisone 60 mg daily, with last dose
+approx [**6-6**]. Her platelets had nadired at 9 and were 27 at the
+time of discharge [**3445-5-22**], but rebounded to over 100 during this
+admission. Steroids continued.
+
+# Eosinophilia: Patient with diagnosis of ?myelodysplastic
+syndrome (see heme/onc note from [**3445-2-11**]) and worsening
+eosinophilia despite treatment for two weeks with high-dose
+steroids. She is also an asthmatic. No further workup was
+pursued in the acute inpatient setting.
+
+# Anemia: The patient's Hct was at baseline.
+
+# Acute on chronic renal failure: The patient's creatinine was
+up to 1.6 on admission from baseline of 1.3. She reutrned to 1.3
+with IVF, and was discharged with a creatinine of 1.5, within
+her baseline.
+
+# Diabetes: We continued ISS and home dose Lantus, with qid
+fingersticks.
+
+# H/o Atrial Fibrillation: She remained in sinus. She is not on
+anti-coagulation given her thrombocytopenia.
+
+# Depression: continued on her home Paxil.
+.
+# Prophylaxis: with pneumoboots given thrombocytopenia, PPI per
+home regimen, bowel regimen prn
+# Code: full
+# Communication:
+- [**Doctor First Name 7814**] (dtr): [**Telephone/Fax (1) 7815**]
+# Disposition: was admitted to ICU given transient hypotension,
+but improved dramatically and was quickly called out. However,
+no bed was available for over 2 days, and so she was discharged
+to home from the ICU. She was evaluated by the RN staff for
+stability with her walker, and no formal PT consult was deemed
+necessary.
+
+[**Telephone/Fax (1) **] on Admission:
+(per most recent discharge summary):
+1.  Latanoprost 0.005 % Drops One (1) Drop Ophthalmic HS.
+2.  Lorazepam 0.5 mg Tablet One (1) Tablet PO HS PRN insomnia.
+3.  Levothyroxine 50 mcg Tablet One (1) Tablet PO DAILY.
+4.  Ferrous Sulfate 300 mg (60 mg Iron) Tablet PO DAILY.
+5.  Multivitamin Tablet One (1) Tablet PO DAILY.
+6.  Cyanocobalamin 500 mcg one Tablet PO DAILY.
+7.  Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+
+[**1-25**] Inhalation every six (6) hours as needed for shortness of
+breath or wheezing.
+8.  Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+9.  Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+
+One (1) Cap Inhalation DAILY (Daily).
+10. Prednisone 60 mg Tablet PO DAILY for 15 days.
+11. Paroxetine HCl 20 mg Tablet PO DAILY.
+12. Fexofenadine 60 mg Tablet PO BID.
+13. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**1-25**]
+Drops Ophthalmic PRN (as needed) as needed for burning/dry eyes.
+
+14. Senna 8.6 mg one Tablet PO DAILY.
+15. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+16. Pantoprazole 40 mg Tablet PO Q12H.
+17. Docusate Sodium 100 mg Capsule PO BID.
+18. Lantus 100 unit/mL Solution Sig: Twenty Five (25) units
+Subcutaneous at bedtime.
+19. Insulin Lispro 100 unit/mL Solution Sig: One (1) injection
+Subcutaneous before meals and at bed time: As per insulin
+sliding scale.
+20. Lancets One (1) five times a day.
+Insulin Glargine: 25U at night
+Insulin Humolog Sliding Scale
+
+Discharge [**Month/Day (2) **]:
+1. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+2. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+5. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Cyanocobalamin 500 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. Fluticasone-Salmeterol 500-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+8. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation three times a day as
+needed for shortness of breath or wheezing.
+9. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+10. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily)
+for 10 days.
+Disp:*20 Tablet(s)* Refills:*0*
+11. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+13. Polyvinyl Alcohol-Povidone 1.4-0.6 % Dropperette Sig: [**1-25**]
+drops Ophthalmic as directed as needed for burning/dry eyes.
+14. Senna 8.6 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for constipation.
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+16. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+17. Insulin Glargine 100 unit/mL Solution Sig: Twenty Five (25)
+units Subcutaneous at bedtime.
+18. Insulin Lispro 100 unit/mL Solution Sig: One (1) injection
+Subcutaneous before meals and at bed time: As per insulin
+sliding scale.
+.
+19. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Fever
+Shortness of breath
+.
+Secondary:
+ITP possibly due to MDS
+asthma
+chronic systolic and diastolic heart failure
+type 2 diabetes
+CKD
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 7805**],
+You were admitted to the hospital for shortness of breath. You
+were also found to have a fever and low blood pressure. However,
+all of these problems quickly resolved. There was no evidence of
+any infection in your urine, blood, or lungs. Your blood
+pressure normalized quickly, with only some IV fluids. You had
+no further fevers, even while off of any antibiotics. It is
+possible that your symptoms were due to a flare-up of your
+autoimmune process, since you had just finished your steroids a
+couple of days prior to admission. For this reason, we are
+discharging you home with a continued course of steroids, until
+you see you blood doctor, Dr. [**Last Name (STitle) **].
+.
+Please note the following changes to your [**Last Name (STitle) 5529**]:
+START prednisone 40mg daily, until you see Dr. [**Last Name (STitle) **] on
+[**3445-6-19**]
+.
+No other changes were made to your [**Date Range 5529**].
+
+Followup Instructions:
+Hematology (platelets):
+[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1273**], M.D. Phone:[**Telephone/Fax (1) 202**] Date/Time:[**3445-6-19**] 3:00
+.
+Gastroenterology:
+[**Name6 (MD) 7809**] [**Name8 (MD) 7810**], MD Phone:[**Telephone/Fax (1) 977**] Date/Time:[**3445-6-25**] 1:30
+.
+Puilmonology (asthma)
+Dr. [**First Name (STitle) **], MD. PULMONARY FUNCTION LAB Phone:[**Telephone/Fax (1) 737**]
+Date/Time:[**3445-7-11**] 10:40
+
+
+
+
+ 
+ 
+DOC CLASS

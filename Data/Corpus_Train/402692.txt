@@ -1,0 +1,192 @@
+Chief Complaint:
+   24 Hour Events:
+   - plavix d/c
+   - no significant events overnight
+   Allergies:
+   Phenylephrine
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2568-6-25**] 07:22 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 35.8
+C (96.5
+   HR: 67 (63 - 78) bpm
+   BP: 105/56(67) {98/22(44) - 131/68(84)} mmHg
+   RR: 21 (14 - 22) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    180 mL
+                  PO:
+                                                                    180 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    930 mL
+                                                                    560 mL
+   Urine:
+                                                                    930 mL
+                                                                    560 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -750 mL
+                                                                   -560 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///29/
+   Physical Examination
+   GENERAL: appears in no apparent distress. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple, jvp mildly elevated in a 30% angle
+   CARDIAC: rrr, nl s1, faint s2, [**4-18**] ejection systolic murmur in right
+   second intercostal space with radiation to neck.
+   LUNGS: reduce air entry bilaterally with expiratory wheeze.
+   ABDOMEN: soft, non tender, nl bs
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES: 1+ dp and pt pulses
+   Labs / Radiology
+   288 K/uL
+   9.0 g/dL
+   168 mg/dL
+   1.5 mg/dL
+   29 mEq/L
+   4.4 mEq/L
+   29 mg/dL
+   102 mEq/L
+   138 mEq/L
+   26.9 %
+   4.5 K/uL
+        [image002.jpg]
+                             [**2568-6-24**]  07:08 PM
+                             [**2568-6-25**]  06:00 AM
+   WBC
+   5.3
+   4.5
+   Hct
+   28.4
+   26.9
+   Plt
+   342
+   288
+   Cr
+   1.6
+   1.5
+   TropT
+   0.05
+   Glucose
+   175
+   168
+   Other labs: PT / PTT / INR:14.4/21.1/1.3, CK / CKMB /
+   Troponin-T:61//0.05, ALT / AST:27/22, Alk Phos / T Bili:85/0.6,
+   Differential-Neuts:81.4 %, Lymph:12.4 %, Mono:3.9 %, Eos:2.1 %,
+   Albumin:3.0 g/dL, LDH:213 IU/L, Ca++:8.3 mg/dL, Mg++:2.1 mg/dL, PO4:3.2
+   mg/dL
+   Assessment and Plan
+ CHEST PAIN
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   83 year old man with complex medical issues presents from nursing
+   facility after taking NTG for his chest pain that resulted in
+   hypotension that subsequently resolved spontanously. Chest pain
+   secondary to unstable angina/NSTEMI vs severe AS or both.
+   #) Cardiac: Currently chest pain free. pt has CRI and in the setting of
+   this his 2 sets of trop has been in the indetermined range with a
+   negative ck. this makes an ACS scenario with unstable plaque rupture
+   much less likely. he may have stable coronary artery disease with
+   demand ischemia at times. We need to obtain his recent cardiac cath
+   report from [**Hospital **] to help determine further the extend and amenability
+   of it to revascularization. he also has severe AS and although we can
+   present his case to the CT surgery i'd imagine he's perhaps not the
+   best candidate. short of that we could entertain valvuloplasty as an
+   alternative choice of therapy. his language barrier certainly makes it
+   challenging in determine whether his symptoms are related to his AS.
+   his echo called this severe as with valve area of 0.8-1.0cm2. however
+   the peak gradient is 39 and mean gradient is 20. whether this is
+   secondary to a low output state due to his poor lv function vs genuine
+   severe as is unclear at present. i think we have several priorities
+   here. 1) optimize medical therapy for his cad and cardiac dysfunction.
+   2) further evaluation of ongoing bloody stool and hematuria. 3) further
+   evaluation of his coronary anatomy, coronary ischemia and severeity of
+   AS.
+   - i don't believe this gentleman is having an ACS and will not
+   anticoagulate him at this point. Will continue home regimen of aspirin,
+   zocor, lisinopril and metoprolol. his blood pressure and hr are in the
+   lower range of normal where it should be.
+   - from his lv dysfunction point of view he appears fairly well
+   compensated. will continue chf meds of ace-i, beta blocker and standing
+   dose lasix.
+   - will need his recent cath report from [**Hospital **] with a view of possible
+   repeat cath with right heart study, as study with dobutamine. pending
+   on the result will discuss of options of medical therapy vs surgical
+   option vs interventional options.
+   .
+   #) Pulmonary:
+   - pt has mild pan expiratory wheeze. cxr suggestive of pneumonia but
+   he's afebrile with a normal wcc.
+   - will d/c abx and follow along clinically.
+   .
+   #) GI:
+   - pt has no history of endoscopy. per wife he's had blood streak in his
+   stool since admission in [**Hospital **] without further eval.
+   - serial hct check
+   - iv ppi
+   - gi consult but doubt they'd be happy to pass endoscopy in the current
+   setting. likely will require conservative therapy.
+   - in view of his multiple issues will set transfusion criteria to hct
+   of less than 30 persistently.
+   .
+   #) Hematuria:
+   - no clot at present. per wife this also started recently. no evidence
+   of coagulopathy at present.
+   - no indication for 3 way foley.
+   - maybe foley trauma related during recent admission.
+   - follow conservatively for now.
+   .
+   #) Anemia:
+   - mcv 90. will do anemia eval.
+   - type and screen.
+   .
+   #) CRI:
+   - at baseline.
+   .
+   #) DM:
+   - outpatient lantus dose and sliding scale.
+   .
+   #) Prophylaxis:
+   - ppi and pneumoboots.
+   .
+   #) Full code.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2568-6-24**] 06:47 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

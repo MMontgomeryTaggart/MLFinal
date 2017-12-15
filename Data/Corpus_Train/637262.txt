@@ -1,0 +1,196 @@
+CVICU
+   HPI:
+   HD26
+   [**7-8**] POD 2
+   s/p AVR (21 pericardial), MV repair (28mm ring), CABGx3 (LIMA to LAD,
+   SVG to Diag, SVG to PDA) [**7-6**]
+   Cre: 0.9 Wt: 95kgs HgbA1C: 6.4 EF: 45%
+   PMHx: HTN, ^lipids, Afib on Coumadin, CAD, CHF, DM Type II, PNA [**4-23**],
+   OSA on CPAP, Obesity, s/p appendectomy, s/p cholecystectomy, s/p hernia
+   repair, s/p stomach surgery for [**First Name9 (NamePattern2) 7246**]
+   [**Last Name (un) 500**]:Coumadin 5mg PO daily, Potassium chloride 10mEq PO daily, Lasix
+   40mg PO daily, MVI PPO daily, Digoxin 125mgc PO daily, Calcium 600mg PO
+   daily, Amlodipine 5 mg PO daily, Captopril 50mg PO daily, metformin
+   1000mg PO BID, Atenolol 50mg PO daily
+   Current medications:
+   Aspirin EC 6. Atorvastatin 7. Calcium Gluconate 8. Dextrose 50% 9.
+   Docusate Sodium 10. Insulin 11. Insulin 12. Magnesium Sulfate 13.
+   Metoclopramide 14. Milk of Magnesia 15. Morphine Sulfate 16.
+   Oxycodone-Acetaminophen 17. Phenylephrine 18. Potassium Chloride 19.
+   Ranitidine 20. Sodium Chloride 0.9% Flush 21. Vancomycin 22. Warfarin
+   24 Hour Events:
+   --Weaned off intropes, remains on Neo gtt for post-op hypotension.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3481-7-8**] 08:30 AM
+   Infusions:
+   Phenylephrine - 1.5 mcg/Kg/min
+   Other ICU medications:
+   Coumadin (Warfarin) - [**3481-7-7**] 06:59 PM
+   Furosemide (Lasix) - [**3481-7-8**] 05:45 AM
+   Other medications:
+   Flowsheet Data as of  [**3481-7-8**] 01:38 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**83**] a.m.
+   HR: 88 (68 - 90) bpm
+   BP: 94/48(62) {85/48(59) - 132/67(85)} mmHg
+   RR: 10 (7 - 19) insp/min
+   SPO2: 96%
+   Heart rhythm: A Paced
+   Wgt (current): 93.5 kg (admission): 84.7 kg
+   Height: 64 Inch
+   CVP: 14 (11 - 36) mmHg
+   PAP: (48 mmHg) / (20 mmHg)
+   CO/CI (Fick): (9.7 L/min) / (5.1 L/min/m2)
+   CO/CI (CCO): (5.5 L/min) / (3 L/min/m2)
+   SvO2: 77%
+   Mixed Venous O2% sat: 64 - 67
+   Total In:
+                                                                  1,362 mL
+                                                                  1,062 mL
+   PO:
+                                                                    360 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    652 mL
+                                                                    842 mL
+   Blood products:
+                                                                    350 mL
+                                                                    100 mL
+   Total out:
+                                                                  2,895 mL
+                                                                    610 mL
+   Urine:
+                                                                  1,260 mL
+                                                                    330 mL
+   NG:
+                                                                    250 mL
+   Stool:
+   Drains:
+                                                                     25 mL
+   Balance:
+                                                                 -1,533 mL
+                                                                    452 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 96%
+   ABG: 7.44///24/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), A-Paced
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: Incision: Clean / Dry / Intact), Left EVH ACE wrap, bilateral
+   groin with rash and right breast being treated
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   94 K/uL
+   9.6 g/dL
+   144 mg/dL
+   0.8 mg/dL
+   24 mEq/L
+   4.2 mEq/L
+   14 mg/dL
+   101 mEq/L
+   132 mEq/L
+   29.9 %
+   16.2 K/uL
+        [image002.jpg]
+                             [**3481-7-6**]  05:24 PM
+                             [**3481-7-6**]  05:38 PM
+                             [**3481-7-6**]  07:32 PM
+                             [**3481-7-6**]  10:10 PM
+                             [**3481-7-6**]  10:19 PM
+                             [**3481-7-7**]  03:36 AM
+                             [**3481-7-7**]  03:48 AM
+                             [**3481-7-7**]  06:01 AM
+                             [**3481-7-7**]  08:18 PM
+                             [**3481-7-8**]  02:08 AM
+   WBC
+   17.3
+   16.0
+   16.2
+   Hct
+   26.0
+   25.7
+   29.4
+   28.9
+   29.9
+   Plt
+   86
+   85
+   94
+   Creatinine
+   0.5
+   0.5
+   0.8
+   TCO2
+   25
+   25
+   24
+   25
+   22
+   Glucose
+   130
+   134
+   90
+   130
+   144
+   Other labs: PT / PTT / INR:14.3/31.1/1.2, Fibrinogen:182 mg/dL, Lactic
+   Acid:3.1 mmol/L, Mg:2.0 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan:
+   Neurologic: Pain controlled, Percocet PRN pain
+   Cardiovascular: Aspirin, Full anticoagulation, Statins, Restart
+   Coumadin; Post-op Hypotension --> bolus albumin this AM and wean Neo
+   gtt as tolerated.
+   Pulmonary:  OOB / IS / PT.
+   Gastrointestinal / Abdomen: standard bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, Consider hold lasix while on Neo gtt.
+   Hematology: Mild anemia --> post-op dilutional, cont to follow.
+   Endocrine: RISS
+   Infectious Disease: Vanco Periop
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Post-op hypotension
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3481-7-6**] 06:16 PM
+   CCO PAC - [**3481-7-6**] 06:17 PM
+   Cordis/Introducer - [**3481-7-6**] 06:17 PM
+   22 Gauge - [**3481-7-6**] 06:19 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

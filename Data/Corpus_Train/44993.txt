@@ -1,0 +1,478 @@
+Admission Date:  [**2675-3-2**]              Discharge Date:   [**2675-3-26**]
+
+Date of Birth:  [**2594-2-13**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Codeine
+
+Attending:[**First Name3 (LF) 1130**]
+Chief Complaint:
+Weakness, fall
+
+Major Surgical or Invasive Procedure:
+[**2675-3-5**]: ex-lap with small bowel resection and primary
+anastamosis
+[**2675-3-14**]: re-do ex-lap, small bowel resection and primary
+anastamosis
+
+
+History of Present Illness:
+Ms. [**Known patient lastname **] is an 81F with a history of schizoaffective disorder
+and multiple comorbidities who was admitted to the medical
+service s/p fall in the setting of hypotension and abdominal
+pain. Prior to presentation, patient stated that she was having
+rectal pain, increasing abdominal girth, and intermittent
+abdominal pain. She also reports episodes of bilious vomiting
+over the last year with dark stools. She has had weight loss of
+unknown quantity which she attributes to poor appetite.
+
+On admission, patient was not found to have any injuries but did
+have a CT scan showing a new rectal mass, pancreatic tail mass
+that is increased in size, and multiple pulmonary nodules. Her
+CT also showed mild small bowel thickening with possible
+thickening consistent with gastroenteritis or ischemia.
+Patient's abdominal pain had largely resolved at that point, so
+she was kept NPO, hydrated with IV fluids, and serially
+examined. Lactate trended down from 2 to 1.2. Patient was seen
+by gastroenterology for visceral masses and an NGT was placed.
+Tube put out 850 cc of feculent appearing material over 24
+hours.
+
+On the day the surgical consult was placed, she began to
+complain of worsening right sided abdominal pain. She has had
+low grade tachycardia with moderate urine output (275 for 18
+hours today). Her acute kidney injury has worsened. Surgery was
+consulted after repeat CT showed worsened small bowel thickening
+and interloop fluid. She currently complains of significant
+nausea and abdominal pain.
+
+Past Medical History:
+Diabetes, Schizoaffective disorder, COPD, HTN, CAD,
+Hypercholesterolemia, GERD, h/o head injury @ age 11
+
+Past Surgical History:
+Perforated duodenal ulcer in [**2670**] s/p cholecystectomy, anterior
+parietal cell vagotomy, and [**Location (un) **] patch closure by Dr. [**Last Name (STitle) **].
+
+Social History:
+She denies alcohol and tobacco use. Never married. Patient has a
+sister with whom she has not spoken for several years.
+
+
+Family History:
+Sister has history of breast cancer
+
+Physical Exam:
+ADMISSION EXAM
+VS - Temp 97.9 F, BP 103/31 , HR 100 , R 18, O2-sat 93% RA
+GENERAL - ill appearing female in NAD, appropriate
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp
+unlabored, no accessory muscle use
+HEART - PMI non-displaced, RRR, no MRG, nl S1-S2
+ABDOMEN - distended, TTP across lower abdomen, no rebound or
+guarding, hypoactive BS
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength
+[**6-12**] throughout, sensation grossly intact throughout
+Rectal-painful soft area of rectal fullness near the gluteal
+cleft, soft, no gross blood.
+
+Pertinent Results:
+ADMISSION LABS
+
+[**2675-3-2**] 02:10PM BLOOD WBC-12.5*# RBC-3.27* Hgb-9.8* Hct-30.3*
+MCV-93 MCH-30.0 MCHC-32.4 RDW-13.6 Plt Ct-207
+[**2675-3-2**] 02:10PM BLOOD Neuts-71* Bands-6* Lymphs-17* Monos-5
+Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0
+[**2675-3-2**] 02:10PM BLOOD PT-12.7* PTT-23.6* INR(PT)-1.2*
+[**2675-3-2**] 02:10PM BLOOD Glucose-177* UreaN-49* Creat-1.6* Na-136
+K-4.9 Cl-100 HCO3-27 AnGap-14
+[**2675-3-2**] 02:10PM BLOOD ALT-20 AST-22 AlkPhos-74 TotBili-0.2
+[**2675-3-2**] 02:10PM BLOOD Lipase-17
+[**2675-3-2**] 02:10PM BLOOD cTropnT-<0.01
+.
+URINE STUDIES
+[**2675-3-2**] 02:30PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.014
+[**2675-3-2**] 02:30PM URINE Blood-NEG Nitrite-NEG Protein-30
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+[**2675-3-2**] 02:30PM URINE RBC-0 WBC-<1 Bacteri-NONE Yeast-NONE
+Epi-0
+.
+MICROBIOLOGY
+URINE CULTURE (Final [**2675-3-3**]):    NO GROWTH.
+BLOOD CULTURES [**2675-3-2**] Pending x 2
+.
+STUDIES
+EKG
+Baseline artifact. Probable sinus tachycardia with a single
+ventricular premature beat. ST-T wave abnormalities. Since the
+previous tracing of 11 [**10-19**] the rate is faster. Ventricular
+premature beat is new. ST-T wave abnormalities are new. Clinical
+correlation is suggested.
+.
+FINDINGS: The heart is normal in size. The aortic arch is partly
+calcified. The lungs appear clear. There are no pleural
+effusions or pneumothorax. Cholecystectomy clips project over
+the right upper quadrant.
+.
+CT ABDOMEN PELVIS [**2675-3-2**]
+IMPRESSION: No evidence of acute disease.
+.
+1. Borderline dilated loops of fluid-filled small bowel with
+trace inter-loop fluid in the mesenteric root, which is
+non-specific. A few loops of small bowel in the pelvis have
+bowel wall thickening. While this can be seen in
+gastroenteritis, the history of hypotension raises the
+possibility of a low-flow bowel ischemia. No pneumatosis or free
+intraperitoneal air. There are extensive atherosclerotic
+calcifications in the aorta and its branches without obvious
+arterial thrombus. No bowel obstruction.
+2. No evidence of colitis. Normal appendix.
+3. Eccentric wall thickening in the right posterior rectum.
+Correlate with
+rectal exam. Consider colonoscopy if clinically warranted.
+4. Pancreatic tail cystic lesion is unchanged from [**Month (only) 435**]
+[**2674**], but has
+increased in size from [**2670**], again raising the possibility of
+neoplasm.
+5. 4mm right lower lobe nodule unchanged from [**2674-12-17**]. The
+other pulmonary nodules seen on the prior CT are not included on
+this study and follow is recommended per the [**2674-12-17**] report.
+.
+CT ABDOMEN PELVIS [**2675-3-5**]
+1. Dilated loops of small bowel measuring up to 3.8 cm,
+relatively
+transitioning to normal caliber in the ileum. Worsening
+concentric wall
+thickening in the distal ileum and ascending colon, highly
+concerning for
+bowel ischemia, likely resulting in a non-mechanical SBO.
+2. Eccentric wall thickening in the right posterior rectum and
+pancreatic
+tail cystic lesion, are similar to the prior study and need
+further
+evaluation.
+
+CT Head [**2675-3-12**]:
+No acute intracranial process. If clinical concern for
+intracranial mass or stroke is high, MRI is more sensitive.
+
+EEG [**2675-3-11**]:
+Abnormal EEG due to slowing and disorganization of the
+background, bursts of generalized slowing, and occasional left
+frontocentral sharp waves. The first two abnormalities signify a
+widespread encephalopathy. Medications, metabolic disturbances,
+and infections are among the most common causes. The bifrontal
+sharp waves indicate an area of cortical hypersynchrony. There
+were no repetitive discharges to suggest ongoing seizures.
+
+CXR [**2675-3-25**]
+As compared to the previous radiograph, the left pigtail
+catheter
+has been removed. There is no evidence of recurrent pleural
+effusion.
+Remnant basal atelectasis at the left lung base. No evidence of
+pneumothorax.
+Unchanged moderate cardiomegaly, improvement in lung
+transparency of the right lung, presumably reflecting improved
+ventilation. Unchanged course of the nasogastric tube and of the
+right PICC line.
+
+
+Brief Hospital Course:
+                        ** PRIOR TO SURGICAL INTERVENTION **
+Ms. [**Known patient lastname **] was admitted from the ED to the medical service for
+management of her abdominal pain and hypotension. Her hospital
+course from [**2675-3-2**] to [**2675-3-5**] is described below by problem:
+
+# ABDOMINAL PAIN- On admission patient was noted to have diffuse
+lower abdominal pain with associated abdominal distension.
+Initial CT demonstrated some small bowel thickening which was
+non specific and consistent with gastroenteritis versus ischemia
+from a low flow state from her recent hypotension. Dilated loops
+of bowel were present but there was no clear transition point
+which was suggestive of ileus. There were no signs of colitis.
+The patient was kept NPO and started on IVF for hydration in
+addition to a bowel regimen.  She was noted to be passing gas
+and had one large bowel movement which was guaiac positive. GI
+was consulted and recommended NG decompression in addition to
+initiation of cipro and flagyl.  Pain initially improved with NG
+decompression but subsequently worsened prompting repeat CT
+which showed worsened small bowel thickening and interloop
+fluid.  Surgery was consulted given concern for obstruction and
+mesenteric ischemia.
+.
+# HYPOTENSION- Patient was initially hypotensive in the
+emergency department with SBP in the 70s.  Blood pressure
+improved with administration of IVF and remained stable on
+admission to the floor. Her anti-hypertensives including
+lisinopril and diltiazem were initially held. She was however
+continued on her home metoprolol. As below diltaizem was
+restarted on HD 1 for heart rate control.
+.
+# RECTAL MASS- CT was concerning for rectal wall thickening.
+This had been present in [**2674-12-8**] but not in [**2670**]. Rectal
+exam was notable for a soft mildly tender mass.  GI was
+consulted as above and recommend flexible sigmoidoscopy for
+biopsy once the patient was clinically improved.
+.
+# PANCREATIC MASS- Patient noted to have a cystic lesion in the
+pancreatic
+tail unchanged from a CT done in [**12-20**] but new increasing in
+size from [**2670**]. This was not further evaluation on this
+hospitalization given the patients acute illness.  She will need
+a MRCP for further evaluation
+.
+# ATRIAL FIBRILLATION- Patient has a known history of post
+operative atrial fibrillation.  On HD 1 she was noted to have a
+fib with RVR with rates transiently to the 150s.  Blood remained
+stable and the patient was asymptomatic. On admission she was
+continued on her home metoprolol but diltiazem was held given
+hypotension.  This medication was restarted on HD at a decreased
+dose with improvement in rate control.
+.
+# ACUTE on CHRONIC RENAL FAILURE- Patients creatinine was
+elevated from her baseline of 1.4 to 1.6 on admission.  This was
+felt to likely be pre-renal in etiology as creatinine improved
+to baseline with administration of IVF.  On HD 3 creatinine
+trended upward to 2.0 and urine output decreased suggesting poor
+renal perfusion.
+.
+STABLE ISSUES
+# COPD- Patient was continued on her home regimen
+# ANEMIA- Patients HCT was at baseline throughout admission.
+# CAD- Patient was continued on her home beta blocker and
+aspirin
+# GERD- Patient was continued on omeprazole
+# DM- Patients home glyburide was held and she was maintained on
+a ISS
+#Schizoaffective disorder- Patient was continued on seroquel
+
+                          ** AFTER SURGICAL ASSESSMENT **
+Surgical consultation was requested on [**2675-3-5**] and exam was
+consistent with peritonitis. She was taken to the OR emergently
+for exploratory laparotomy where a closed loop obstruction was
+discovered with ischemic small bowel. After resection and
+primary anastomosis, she was brought to the ICU intubated and on
+pressors. Her postop course was complicated by a wound infection
+and anastomotic leak requiring return to the OR for additional
+resection and repeat anastomosis. Her course is described below
+by system:
+
+Neuro: With weaning of sedation, patient became agitated with
+possible myoclonic jerks of her lower extremities. Neurology was
+consulted and Head CT showed no abnormalities. EEG showed
+diffuse slowing and no evidence of ongoing seizures. After
+extubation, she was conversant with no major neurologic deficit.
+
+CV: Her pressors were weaned off following aggressive fluid
+resusitation. Echo performed on POD 3 showed good systolic
+function and adequate volumes. She was also in afib with RVR.
+Control was attempted with diltiazem drip, however she became
+hypotensive. Patient was loaded with digoxin and given
+intermittent metoprolol with good rate control. Once
+hemodynamically stable, she was diuresed with lasix to good
+effect, however a rising Creatinine limited the ability to push
+her diuresis. Given her inability to take PO digoxin, her A-fib
+was managed with IV metoprolol. As she remained in A-fib, a
+heparin drip was initiated with transitioning to coumadin
+beginning [**3-24**].
+
+Resp: Patient was difficult to wean from the vent due to
+underlying COPD and fluid overload. Her nebulizers were
+continued and she was weaned to extubation on [**2675-3-15**] (POD [**11-8**]).
+She displayed bilateral pleural effusions which were resistant
+to medical diuresis, so bilateral chest tubes were placed which
+each drained several liters of transudate prior to being removed
+HD 22 and 24. A post pull chest x-ray on [**3-25**] revealed no
+reaccumulation of pleural effusions and remnant basal
+atelectasis on the left. She was restarted on home inhalers
+while.
+
+GI: Patient's wound developed erythema on POD#3 for which
+patient was started on cefazolin. The following day her wound
+was opened and culture grew MRSA so vanco was added to the
+regimen. Erythema resolved and a wound vac was placed on [**2675-3-12**].
+By POD 9 from her first ex-lap, she developed increasing
+abdominal pain and fever and was found to have an anastomic leak
+in the small bowel. She returned to the operating room [**2675-3-14**]
+for another ex-lap with small bowel resection and primary
+anastamosis. Given the re-operation and re-anastomosis, her
+progress to PO intake was slow. A CT abdomen [**3-22**] confirmed no
+anastomotic leak. Her tube feeds were advanced to goal.
+Initially, high residuals were noted with tube feeds, and they
+were held and slowly restarted.
+
+GU/FEN: After surgery, patient's Cr normalized with excellent
+urine output. She was intermittently oliguric (never less than
+10-15 cc/hr) though typically had good urine output. She did
+respond to lasix, however, a gradually rising Cr (1.3 on POD #2)
+limited our ability to diurese her. She was given acetazolamide
+for several days, then returned to lasix as needed.  She was
+given TPN for supplemental nutrition while awaiting return of
+bowel function. She should have TPN continued until able to
+tolerate tube feeds.
+
+Heme: Patient was transfused 1U of blood on POD#0. Her Hct was
+stable and she was given heparin sc for DVT prophylaxis, then
+heparin drip while transitioning to coumadin.
+
+ID: Prior to her anastamotic leak, she was on vancomycin for her
+wound infection. Following discovery of the leak and subsequent
+OR, her coverage was broadened to Vanc/Cipro/Flagyl. The
+vancomycin was DC'd [**3-18**] following treatment of her MRSA wound
+infection.  The cipro and flagyl were continued for a total 14
+day course after her reoperation.
+
+Social: Patient has had a healthcare proxy (her sister) who no
+longer functions as one, therefore steps were taken to establish
+Guardianship for medical decision making.
+
+Medications on Admission:
+1. vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+2. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+3. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1)
+Capsule, Extended Release PO DAILY (Daily).
+4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+6. glipizide 5 mg Tablet Sig: 1.5 Tablets PO once a day.
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+8. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+9. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+10. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+
+One (1) puff Inhalation [**Hospital1 **] (2 times a day).
+11. Seroquel 200 mg Tablet Sig: One (1) Tablet PO three times a
+day.
+12. Seroquel 50 mg Tablet Sig: One (1) Tablet PO at bedtime:
+with 200 mg tablet to make 250 mg qhs.
+13. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+14. dextromethorphan-guaifenesin 10-100 mg/5 mL Liquid Sig: Five
+
+(5) ML PO Q6H (every 6 hours) as needed for cough.
+15. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+16. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3
+times a day) as needed for headache.
+Disp:*8 Capsule(s)* Refills:*0*
+17. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) puffs Inhalation four times a day as needed for
+shortness of breath or wheezing.
+Disp:*2 inhalers* Refills:*0*
+18. Calcium 500 500 mg calcium (1,250 mg) Tablet Sig: One (1)
+Tablet PO twice a day.
+19. Senna Lax 8.6 mg Tablet Sig: One (1) Tablet PO once a day.
+20. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+
+Discharge Medications:
+1. glucagon (human recombinant) 1 mg Recon Soln Sig: One (1)
+Recon Soln Injection Q15MIN () as needed for hypoglycemia
+protocol.
+2. fluticasone 110 mcg/actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+3. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: [**2-8**]  Inhalation Q4H (every 4 hours) as needed
+for wheezing.
+4. camphor-menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical
+[**Hospital1 **] (2 times a day) as needed for pruritis.
+5. sodium chloride 0.65 % Aerosol, Spray Sig: [**2-8**] Sprays Nasal
+QID (4 times a day) as needed for dry nares.
+6. ipratropium bromide 0.02 % Solution Sig: [**2-8**]  Inhalation Q4H
+(every 4 hours) as needed for wheezing.
+7. insulin regular human  Injection
+8. quetiapine 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+9. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+10. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol
+11. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+12. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush
+Peripheral line: Flush with 3 mL Normal Saline every 8 hours and
+PRN.
+13. Ondansetron 4 mg IV Q8H:PRN nausea
+14. Acetaminophen IV 1000 mg IV Q8H:PRN pain, fever, HA
+15. HYDROmorphone (Dilaudid) 0.25-2 mg IV Q3H:PRN pain
+16. ciprofloxacin in D5W 400 mg/200 mL Piggyback Sig: One (1)
+Intravenous Q12H (every 12 hours) for 3 days.
+17. MetRONIDAZOLE (FLagyl) 500 mg IV Q8H Duration: 3 Days
+18. Metoprolol Tartrate 5 mg IV Q4H
+hold for SBP<110, HR<60
+19. Pantoprazole 40 mg IV Q24H
+20. heparin (porcine) in D5W 25,000 unit/250 mL Parenteral
+Solution Sig: One (1)  Intravenous ASDIR (AS DIRECTED): continue
+until INR therapeutic.
+21. potassium chloride 20 mEq/50 mL Piggyback Sig: One (1)
+Intravenous PRN (as needed).
+22. magnesium sulfate 4 % Solution Sig: One (1)  Injection PRN
+(as needed).
+23. calcium gluconate in D5W 2 gram/100 mL Solution Sig: One (1)
+ Intravenous ASDIR (AS DIRECTED).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1079**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary:
+Small bowel obstruction
+
+Secondary:
+Anastamotic leak
+Hypotension
+Atrial fibrillation
+MRSA wound infection
+Acute pulmonary edema
+Acute kidney injury
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+Discharge Instructions:
+You were admitted to the hospital after suffering a fall in the
+setting of low blood pressure and abdominal pain.
+
+You sustained no injuries from your fall but a new mass in your
+rectum as well as increase in the size of the known mass in your
+pancreas was seen on CT scan. It is recommended that you have a
+sigmoidoscopy to biopsy the rectal mass as well as a study
+called an
+MRCP to further evaluate the mass seen on your pancreas.
+
+You were also found to have a small bowel obstruction which
+required surgery to fix. However, you had complications from
+your first operation and second operation was required to fix
+this.
+
+You are now being discharged to an extended care facility to
+continue your recovery
+
+Followup Instructions:
+ACS Clinic in 2 weeks. Please call [**Telephone/Fax (1) 21**] to schedule.
+
+
+
+
+
+DOC CLASS

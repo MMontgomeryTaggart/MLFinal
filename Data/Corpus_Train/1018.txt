@@ -1,0 +1,397 @@
+Admission Date:  [**2724-7-31**]              Discharge Date:   [**2724-8-3**]
+
+Date of Birth:  [**2678-4-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Biaxin / Vancomycin / Haldol / Heparin Agents
+
+Attending:[**First Name3 (LF) 886**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+1. hemodialysis
+2. cauterization of bleeding from tooth extraction site
+
+
+History of Present Illness:
+46 yo AA woman with h/o SLE, ESRD on hemodialysis, htn,
+hyperlipidemia, and cardiomyopathy, CHF, and recent
+immunosuppression
+with tacrolimius/cellcept/IVIG in an attempted preparation for
+receiving a kidney transplant from her sister presented
+initially
+on [**7-31**] with atypical chest pain. She had no ischemic EKG
+changes, and her initial set of cardiac enzymes was flat. She
+also complained
+of epigastric/RUQ pain. Finally, she had subacute complaints of
+subjective fever and bronchitis symptoms. In the ED, her
+vitals were T = 97.5, (T@ dialysis = 99.2), BP = 191/97, HR =
+70, RR = 20 and 100% RA.
+.
+She had severe hyperkalemia to 8.1, and underwent urgent
+hemodialysis.
+In hemodialysis, she developed significant bleeding from a site
+of recent tooth extraction, and then arterial bleeding from her
+AV fistula site when the HD line was disconnected. She was
+managed with
+DDAVP 15mcg IV x i, 10units of cryoprecipitate; additionally,
+ENT
+stopped the oral bleeding with Ag local tx, and AV fistula
+bleeding
+stopped after 55min of continuous pressure.  The working
+suspicion
+is that she was suffering from uremic platelet dysfunction.
+.
+She was admitted to MICU after she had developed persistent
+bleeding from the site of her recent tooth extraction as well
+as arterial bleeding from her AV fistula site. The bleeding
+from her tooth extraction site stopped after she was seen by ENT
+and this was treated with local Ag therapy.  The bleeding from
+her AV fistula site stopped after continuous pressure for 55min,
+
+and DDAVP.
+.
+Overnight, several events took place. First, she remained chest
+pain
+free, but her troponin trended from 0.06 to 0.26 and then back
+down
+to 0.06 with the only EKG changes of new TWI in V6 and
+borderline
+Twave flattening in lead I.  Her CK and MB remained flat
+throughout.
+Secondly, she was ruled out for AAA and PE by CTangiogram.
+Next,
+she had a Tmax of 101.6, and repeat blood cultures were drawn.
+She additionally underwent CTangiogram of torso: No evidence of
+PE; no aortic aneurysm/dissection; no pathologic LAD;
+non-specific
+thickening of the pylorus. Also, her labs were significant for
+the following:
+.
+- evidence of hemolysis with hapto < 20, elevated LDH
+- no evidence of TTP, no schistocytes on peripheral smear,
+and no evidence of DIC (nl coags, fibrinogen elevated)
+.
+- platelets remained stable in 50's range
+- DIC Ab returned positive; heme/onc consulted re:
+anticoagulation
+strategy in setting of recent significant bleeding
+.
+- transaminitis trending downward
+- elevated amylase/lipase - now trending downward.
+.
+
+
+Past Medical History:
+PMHx:
+1) End-Stage Renal Disease on hemodialysis Tues, Thurs, Sat; L
+dialysis fistula
+2) SLE: dx [**2709**], h/o lupus cerebri, membranous
+glomerulonephritis, BOOP [**8-/2716**], Raynaud's, DIP arthritis
+3) HTN
+4) Dyslipidemia
+5) Cardiomyopathy & CHF: normal cath in [**2719**]; TTE in [**8-17**] showed
+EF 45%, 1+ MR, mild global left ventricular hypokinesis, LVH;
+Exercise MIBI in [**8-17**] showed EF 62%
+6) History of salmonella bacteremia
+7) Gastritis: dx by EGD [**9-/2722**]
+8) Anemia: ? thallesemia, autoimmune hemolytic anemia
+9) TTP/HUS
+10) Thrombocytopenia/ITP
+11) HSV [**2721-9-13**]
+12) Cervical dysplasia LGSIL [**2716**]-[**2717**]
+13) Breast DCIS
+14) Uterine Prolapse
+15) Fibroids s/p TVH
+16) Adrenal crisis [**2720**] (was on chronic prednisone- finished in
+[**7-17**])
+17) Osteoporosis
+18) Hypothyroidism
+19) Cataracts
+20) Seizures
+21) S/p hysterectomy for dysfunction uterine bleeding of [**Last Name (un) 6641**]
+etiolgoy.
+22) Pancreatitis [**1-16**] pancreatic divisum
+23) status post cholecstectomy in [**2721-6-13**],
+24) adrenal crisis in [**2721-5-14**]
+.
+.
+PSHx:
+1) CCY [**2720**]
+2) D&C/HSC [**2722**]
+3) Breast excision x 3, [**2722**]
+4) TVH [**4-/2724**]
+.
+
+
+Social History:
+Currently on disability.  Denies any alcohol nor tobacco use.
+Supportive contacts / friends in area.
+
+
+Family History:
+She reports a family history of lupus and autoimmune diseases.
+
+Physical Exam:
+PE
+
+Tm 101.6, Tc 100.1, 130-170/60-80, 78-98, 100% RA
+.
+
+gen: a/o, no acute distress; overall appears well, pleasant
+heent: no scleral icterus, perrla; no OP lesions/ulcers. Last
+       molar tooth on left with no evidence of active bleeding
+       after treatment by ENT
+neck: supple, full range of motion
+cv: RRR, [**2-17**] holosystolic murmur throughout precordium
+(unchanged
+    since admission)
+resp: CTA bilaterally throughout
+abd: soft, NABS, minimal epigastric tenderness; no peritoneal
+signs
+extr: -few scattered dark, pigmented 2x2cm nodular lesions in
+      bilateral proximal lower extremities
+      -No evidence of conjunctival/palatal petechiae,
+Oslers/[**Last Name (un) 989**],
+       or splinter hemorrhages
+neuro: no focal deficits appreciated
+
+
+Pertinent Results:
+[**2724-7-31**] 11:00PM   PT-12.7 PTT-27.7 INR(PT)-1.1
+[**2724-7-31**] 08:54PM   GLUCOSE-98 UREA N-23* CREAT-6.2*# SODIUM-142
+POTASSIUM-4.9 CHLORIDE-102 TOTAL CO2-31 ANION GAP-14
+[**2724-7-31**] 08:54PM   ALT(SGPT)-305* AST(SGOT)-286* LD(LDH)-431*
+CK(CPK)-41 ALK PHOS-381* AMYLASE-321* TOT BILI-0.5
+[**2724-7-31**] 08:54PM   LIPASE-251*
+[**2724-7-31**] 08:54PM   CK-MB-NotDone cTropnT-0.25*
+[**2724-7-31**] 08:54PM   CALCIUM-8.8 PHOSPHATE-3.2 MAGNESIUM-1.6
+[**2724-7-31**] 08:54PM   WBC-2.4* RBC-3.66* HGB-10.7* HCT-33.6* MCV-92
+MCH-29.2 MCHC-31.8 RDW-22.6*
+[**2724-7-31**] 08:54PM   PLT COUNT-51* LPLT-3+
+[**2724-7-31**] 11:20AM   POTASSIUM-2.2*
+[**2724-7-31**] 11:20AM   ALT(SGPT)-246* AST(SGOT)-451* LD(LDH)-488*
+ALK PHOS-376* AMYLASE-276* TOT BILI-0.8 DIR BILI-0.5* INDIR
+BIL-0.3
+[**2724-7-31**] 11:20AM   LIPASE-712*
+[**2724-7-31**] 11:20AM   ALBUMIN-3.4
+[**2724-7-31**] 11:20AM   HAPTOGLOB-<20*
+[**2724-7-31**] 11:10AM   POTASSIUM-5.0
+[**2724-7-31**] 09:17AM   K+-8.1*
+[**2724-7-31**] 07:58AM   GLUCOSE-84
+[**2724-7-31**] 07:45AM   GLUCOSE-88 UREA N-80* CREAT-12.4*# SODIUM-134
+POTASSIUM-7.2* CHLORIDE-95* TOTAL CO2-24 ANION GAP-22*
+[**2724-7-31**] 07:45AM   CK(CPK)-74
+[**2724-7-31**] 07:45AM   CK(CPK)-74
+[**2724-7-31**] 07:45AM   cTropnT-0.06*
+[**2724-7-31**] 07:45AM   CK-MB-NotDone
+[**2724-7-31**] 07:45AM   WBC-3.4* RBC-4.21 HGB-12.5 HCT-39.1 MCV-93#
+MCH-29.6# MCHC-31.9 RDW-22.4*
+[**2724-7-31**] 07:45AM   NEUTS-48* BANDS-1 LYMPHS-45* MONOS-5 EOS-1
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-2*
+[**2724-7-31**] 07:45AM   HYPOCHROM-3+ ANISOCYT-2+ POIKILOCY-1+
+MACROCYT-2+ MICROCYT-1+ POLYCHROM-NORMAL OVALOCYT-1+
+[**2724-7-31**] 07:45AM   PLT SMR-VERY LOW PLT COUNT-50*#
+[**2724-7-31**] 07:45AM   PT-11.8 PTT-28.8 INR(PT)-0.9
+[**2724-7-31**] 07:45AM   FIBRINOGE-443*
+[**2724-7-31**] 07:45AM   RET AUT-3.4*
+
+Brief Hospital Course:
+A/P: 46 yo AA woman with h/o SLE, ESRD on hemodialysis, htn,
+hyperlipidemia, and cardiomyopathy, CHF, recent immunosuppresion
+presented with atypical chest pain, abdominal pain, and
+severe hyperkalemia; now stable from MICU after uremic bleeding.
+.
+1. Chest Pain:
+
+Presentation was atypical for angina, and she ruled out for
+acute MI.  Over her MICU course, there was concern for aortic
+dissection or other etiology for her chest pain, and she
+underwent
+a CTangiogram of the torso.  This showed no evidence of any
+aortic dissection, aneurysm, or a pulmonary embolism.
+Her chest pain resolved.
+
+.
+
+2. Abdominal Pain/Diarrhea:
+
+This was a non-specific abdominal pain.  On
+review, it turns out that this is a chronic complaint.
+Her abdominal CT did not demonstrate any acute pathology.
+She does have chronically elevated amylase/lipase and LFT's
+that date back several years. It may be that this is related
+to her SLE or potentially autoimmune hepatitis. Her
+abdominal pain had resolved by time of discharge. She
+will need to f/u with her PCP and nephrologist for further
+management.
+
+.
+
+3. Fever:
+
+She defervesced over her hospital course, and
+her infectious workup was unrevealing. She had no evidence
+of any pulmonary infiltrates, and her blood cultures
+remained no growth to date. No empiric abx coverage was
+initiated and she remained well throughout.
+
+.
+
+4. Hyperkalemia/ESRD:
+
+On presentation, she had an elevated Creatinine at 12, and
+a markedly elevated K at 8.1. She underwent urgent hemodialysis,
+
+with her hyperkalemia and uremia improving. She did have peaked
+T waves on admission EKG, but no other worrisome findings.
+She did have what was suspected to be uremic bleeding on
+day of admission with bleeding from her AV fistula site,
+as well as oral mucosal bleeding from the site of her
+recent tooth extraction. This resolved with DDAVP, pressure,
+and an ENT procedure. She had no further bleeding.
+
+.
+
+5. Heme:
+
+She has chronic pancytopenia, but on admission her platelets
+had dropped from a baseline of 100's to 50's.  She had no
+evidence of DIC. Given her history of TTP, this was considered
+as a potential etiology. Heme/Onc and transfusion medicine were
+involved. There was no definitive evidence of TTP, as there were
+not pathologic levels of schistocytes on her peripheral smear.
+Her HIT Ab did come back positive, but this was felt to be a low
+
+titer and of questionable significance.  She has potentially
+received
+heparin in low quantity in her hemodialysis sessions. However,
+it
+was felt that this Ab positivity may be the result of her recent
+
+IVIG treatment. Given her recently controlled uremic bleeding,
+it
+was decided that she would be anticoagulated with argatroban
+only
+if she developed a thrombotic complication. She remained stable
+and required no anticoagulation.
+
+.
+
+6. CHF/Cardiomyopathy:
+
+TTE in [**8-17**] showed EF 45%, 1+ MR, mild global left ventricular
+hypokinesis, LVH.
+Monitored her volume status closely; there was no evidence of
+CHF.
+.
+
+7. Hypertension:
+
+Continued her home regimen; bp improved after
+hemodialysis. Held her ace-i in setting of hyperkalemia.
+
+.
+
+
+Medications on Admission:
+Meds:
+ativan .5mg 1-2x/day prn
+serax 15mg qhs prn
+fosamax 35mg qweek
+nifedipine 90mg qd
+atenolol 100mg qd
+zestril 40mg qd
+nephrocap 1 cap qd
+folic acid 1 tab qd
+***Immunosuppression (tacrolimus, cellcept, IVIG) recently
+stopped
+.
+All: biaxin, sulfa, vancomycin, haldol
+
+Discharge Medications:
+1. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q12H (every 12
+hours) as needed.
+2. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Nifedipine 90 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO DAILY (Daily).
+5. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4
+to 6 hours) as needed.
+Disp:*10 Tablet(s)* Refills:*0*
+6. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID
+(2 times a day).
+Disp:*120 Tablet(s)* Refills:*1*
+7. Sevelamer 800 mg Tablet Sig: One (1) Tablet PO TID (3 times a
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+9. Alendronate 35 mg Tablet Sig: One (1) Tablet PO QSUN (every
+Sunday).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. SLE
+2. ESRD, hemodialysis dependent
+3. Hyperkalemia
+4. uremic bleeding, s/p DDAVP treatment
+5. chest pain - ruled out for ACS
+6. pancytopenia
+7. worsening thrombocytopenia, HIT Ab positive
+8. hypertension
+9. h/o TTP
+10. s/p immunosuppression in preparation for kidney transplant
+
+
+Discharge Condition:
+fair
+
+
+Discharge Instructions:
+1. Continue to take your usual medications
+2. Call your Nephrologist to schedule a follow up appointment
+within the next week
+3. Call your doctor or return to the emergency room for any
+further
+chest pain, shortness of breath, fever, chills, nausea/vomiting,
+or
+any other concerning symptoms.
+4. If you have any bleeding you should call your PCP and return
+to the closest ED.
+5. You are scheduled for HD next Tuesday [**2724-8-5**] at the Kidney
+Center.
+
+Followup Instructions:
+Call your Nephrologist, Dr [**Last Name (STitle) 1837**],  to schedule a follow up
+appointment
+within the next week
+
+Please call your PCP and make [**Name Initial (PRE) **] follow up appointment for [**12-16**]
+weeks.
+
+Appointment Reminders:
+
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Where: [**Hospital6 29**] MEDICAL
+SPECIALTIES Phone:[**Telephone/Fax (1) 1928**] Date/Time:[**2724-8-5**] 2:20
+
+Provider: [**First Name4 (NamePattern1) 959**] [**Last Name (NamePattern1) 958**], MD Where: LM [**Hospital Unit Name 3078**] CENTER Phone:[**Telephone/Fax (1) 666**] Date/Time:[**2724-8-6**] 9:00
+
+Provider: [**First Name8 (NamePattern2) **] [**Name11 (NameIs) **], [**Name Initial (NameIs) **].D., PH.D.[**MD Number(3) **]: [**Hospital6 29**]
+MEDICAL SPECIALTIES Phone:[**Telephone/Fax (1) 430**] Date/Time:[**2724-8-29**] 2:00
+
+
+
+
+ 
+ 
+DOC CLASS

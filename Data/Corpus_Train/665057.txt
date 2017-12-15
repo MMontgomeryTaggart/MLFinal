@@ -1,0 +1,301 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -family meeting: DNR/DNI, comfort care.
+   -Neuro: no input today, will continue to follow.
+   Allergies:
+   Iodine
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3216-11-15**] 10:52 AM
+   Vancomycin - [**3216-11-16**] 10:08 AM
+   Infusions:
+   Heparin Sodium - 600 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3216-11-18**] 07:45 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 38.2
+C (100.8
+   HR: 115 (108 - 133) bpm
+   BP: 123/66(83) {96/44(60) - 129/69(88)} mmHg
+   RR: 25 (14 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 68 Inch
+    CVP: 12 (6 - 18)mmHg
+   Total In:
+                                                                    643 mL
+                                                                    153 mL
+   PO:
+   TF:
+   IVF:
+                                                                    643 mL
+                                                                    153 mL
+   Blood products:
+   Total out:
+                                                                    365 mL
+                                                                     60 mL
+   Urine:
+                                                                    365 mL
+                                                                     60 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    278 mL
+                                                                     93 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 350 (350 - 525) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 47
+   PIP: 11 cmH2O
+   SpO2: 100%
+   ABG: ////
+   Ve: 6.8 L/min
+   Physical Examination
+   GEN: intubated, nonresponsive, rare spontaneous movement of R hand
+   CV: RRR s mrg
+   RESP: CTA on limited anterior exam
+   ABD: +BS, S, NT/ND
+   EXT: cool, weak but palpable pulses
+   NEURO: constricted pupils at baseline that sluggishly contract to
+   light, no withdrawal to nailbed pressure in all four extremities
+   Labs / Radiology
+   157 K/uL
+   14.4 g/dL
+   201 mg/dL
+   4.1 mg/dL
+   28 mEq/L
+   4.3 mEq/L
+   117 mg/dL
+   96 mEq/L
+   138 mEq/L
+   43.4 %
+   17.3 K/uL
+        [image002.jpg]
+                            [**3216-11-15**]  05:55 PM
+                            [**3216-11-15**]  08:41 PM
+                            [**3216-11-15**]  09:48 PM
+                            [**3216-11-16**]  03:56 AM
+                            [**3216-11-16**]  04:06 AM
+                            [**3216-11-16**]  11:39 AM
+                            [**3216-11-16**]  06:35 PM
+                            [**3216-11-16**]  10:00 PM
+                            [**3216-11-17**]  02:26 AM
+                            [**3216-11-17**]  02:39 AM
+   WBC
+   14.1
+   17.3
+   Hct
+   43.8
+   43.4
+   Plt
+   138
+   157
+   Cr
+   3.4
+   3.2
+   4.1
+   TropT
+   0.95
+   TCO2
+   27
+   23
+   27
+   30
+   28
+   30
+   Glucose
+   174
+   209
+   197
+   201
+   Other labs: PT / PTT / INR:19.3/74.4/1.8, CK / CKMB /
+   Troponin-T:186/10/0.95, ALT / AST:537/799, Alk Phos / T Bili:79/5.4,
+   D-dimer:1264 ng/mL, Fibrinogen:398 mg/dL, Lactic Acid:2.3 mmol/L,
+   Albumin:3.2 g/dL, LDH:698 IU/L, Ca++:7.8 mg/dL, Mg++:2.7 mg/dL, PO4:5.5
+   mg/dL
+   Assessment and Plan
+   81 year old male with history of CAD s/p CABG [**3204**], CHF with EF 10%
+   with h/o flash pulm edema and respiratory arrest, DM, recently
+   diagnosed Afib, and PVD who was transferred from [**Hospital3 1465**] with
+   right leg edema and weeping on [**3216-11-9**] now presents as transfer from
+   [**Hospital1 2222**] to the CCU after being found non-responsive and hypoxic.
+   .
+   # AG Met acidosis: Patient has had an AG that since [**11-12**] with lactate
+   of 8. Patient was alkalotic [**2-8**] to contraction alkolosis from
+   overdiuresis and resp alkalosis compensation for lactate. Elevated
+   lactate, elevated RR, tachycardia, AMS, and leukocytosis concerning for
+   sepsis.  Likely HAP/aspiration given his recent hospitalizations and
+   AMS.  Cdiff neg x1 this admission and no diarrhea currently.
+   Leukocytosis and elevated dbili concerning for cholangitis.  Most
+   likely he is in cardiogenic shock resulting in diffuse hypoperfusion
+   and lactatic acidosis even without underlying infectious etiology.  CTA
+   chest and abd showed no sources of infection/mesenteric ischemia.
+   - on vancomycin for presumed sepsis
+   - AG closing
+   - Lactate decreased to 2.3
+   - CXR from admission did not show evidence of infiltrates
+   .
+   # PUMP: EF 10% on echo [**11-10**], thought to be ischemic in nature. Has
+   recent deterioration in EF as 20% on OSH (down from 40%) which may be
+   [**2-8**] relatively new Afib preventing exta cardiac output from atrial
+   kick. Had been treated for with lasix gtt prior to transfer for CHF
+   exacerbation. Currently, patient does have lower extremity edema but
+   JVP not elevated and CXR without evidence of gross volume overload so
+   likely eu to hypovolemic currently. We are moving towards considering
+   this endstage CHF, we will approach palliative care shortly pending
+   better family understanding.
+   - hold diuresis and milrinone
+   - would benefit from beta-blocker and ACEI
+   - CVP is down, though complicated by poor flow
+   - consider ICD in future if patient stabilizes
+   - currently in cardiogenic shock, ?contribution of sepsis
+   - on levophed
+   .
+   # RHYTHM: Patient currently in Afib, likely [**2-8**] to dilated atria and
+   MR. [**Name13 (STitle) 364**] old LBBB so hard to interpret for new ischemia but should rule
+   it out.  TEE revealed intracardiac thrombus so cannot cardiovert at
+   this time.
+   - monitor on tele
+   - heparin gtt
+   - continue rate control
+   - stopped amiodarone
+   .
+   # CORONARIES: Patient has history of CAD and CABG. No history of CP and
+   LBBB makes it difficult to interpret ischemic pattern on EKG.
+   - trend CEZ, some contribution of renal failure, cath not currently
+   indicated, no ischemic changes on TTE
+   - cont ASA, hold gemfibrozil and BB
+   .
+   # Leukocytosis: Had completed 7 day course of Levaquin for pneumonia at
+   OSH, please see discussion above for concerns of possible infectious
+   etiologies and plan.  Now downtrending.
+   - SIRS + with bacteria in sputum
+   - on vanc
+   .
+   # AMS: Patient's mental status and been normal and AAOx3 prior to this
+   morning. Underlying infectious process combinted with lactic acidosis
+   and respiratory alkalosis likely contributing. Also, did have a fall
+   and hit head two days prior to transfer with normal head CT at the
+   time. In setting of supratherapeutic INR, should obtain head CT to rule
+   out any evolving intraparenchymal hemorrhage. Also having myoclonic
+   jerks which is likely to be toxic-metabolic in nature as lytes are
+   within normal limits.
+   - correct INR (see below)
+   - f/u MRI head, EEG
+   - f/u Neuro recs
+   - intubated for airway protection
+   - treat infection as above
+   .
+   # Supratherapeutic INR: Anticoagulated for Afib. Patient received 7.5
+   mg of coumadin while being bridged on heparin and INR became
+   supratherapeutic to [**5-11**] on [**11-12**] and both medication were discontinued.
+   Unclear etiology but patient may have Vit K consumption [**2-8**] underlying
+   bowel ischemia. DIC less likely given normal platelets and
+   fibrinogen.   Received 4u FFP, INR this AM 2.3 (improved but still
+   elevated).
+   - given [**2-10**] U FFP with get INR<2 prior to central line placement
+   - given 10 IV VitK x1 for now
+   - trend coags
+   .
+   # AOCKD: Patient baseline 1.6, now 3.2 in setting of diuresis so likely
+   pre-renal. C/w urine lytes, FeNa << 1%.  Also possible is ATN is
+   setting of hypoperfusion with low CO. Also has history of elevated PSA
+   so BPH and postobstructive is possible but patient has foley in place
+   but it has been intermittantly clotted.  Progressively worsening, Cr
+   now > 4.
+   - follow urine outputs
+   .
+   # Transaminitis/hyperbilirubinemia: Has AST, LDH elevated which may be
+   [**2-8**] hepatic congestion with low EF. With bili elevated also should
+   consider cholangitis. CT abd is benign.
+   - trend LFTS
+   .
+   # HTN: Has a history of hypertension but currently hypotensive with
+   severe shock.
+   - hold BB and monitor
+   .
+   # HL: Hold gemfibrozil given transaminitis and shock
+   .
+   # DM: HA1C 7.3 on admission, had episodes of hypoglycemia at OSH so
+   holding lantus.
+   - cont RISS
+   .
+   # Polycythemia: Hct elevated since OSH. Likely [**2-8**] to chronic hypoxia
+   and stimulated epo response.  Improved now, could be [**2-8**] fluid shifts.
+   - monitor for now
+   .
+   # COPD: Unclear how severe, no PFTs in computer. Satting well on room
+   air prior to transfer. Does not appear to be chornic CO2 retainer.
+   - hold advair while intubated
+   - ipratropium/albuterol nebs
+   .
+   # LE ulcers/edema: Edema likely [**2-8**] venous insufficiency given multiple
+   venous grafts. Otherwise intravascularly dry so unlikely related to
+   heart failure. Ulcer differential includes PAD and venous
+   insufficiency. Does not appear to be a diabetic ulcer. Vascular
+   following.
+   - vascular to do peripheral graft survival study when more stable
+   - cont wound care
+   - cont pneumoboots
+   .
+   # Hematuria: Apparently started in setting of fall that caused trauma
+   to foley.  CBI was d/ced, currently resolved.
+   .
+   # Anxiety: Apparently started in setting of son's diagnosis of cancer.
+   Had been with poor appetite. Patient to be intubated.
+   - readdress when more stable
+   - hold amytriptilline
+   .
+   # FEN: patient received 1 L NS, follow and replete [**Hospital1 **] elytes
+   .
+   # ACCESS: 1PIV and 1EJ
+   .
+   #PROPHYLAXIS:
+   -DVT ppx with heparin gtt
+   -Pain management with fentanyl
+   -Bowel regimen with colace/senna
+   -VAP bundle
+   -PPI
+   .
+   #CODE: full confirmed
+   .
+   #COMM: [**First Name8 (NamePattern2) 860**] [**Known patient lastname 9026**] [**Telephone/Fax (1) 9027**] wife and HCP.  Repeat family
+   meeting, may need Ethics/Palliative Care consult to establish realistic
+   goals of care.
+   .
+   #DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3216-11-14**] 10:00 AM
+   Multi Lumen - [**3216-11-14**] 06:52 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

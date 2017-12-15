@@ -1,0 +1,160 @@
+TITLE:
+   Chief Complaint:
+   NSTEMI/GI
+   Bleed
+   24 Hour Events:
+   HCT 2 hrs post transfusion 27.  Pt asympt, VSS.  NPO overnight.
+   Allergies:
+   No Known Drug Allergies
+   Other medications:
+   ASA 325mg
+   Lipitor 80mg
+   Protonix IV
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2847-12-15**] 07:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 37.1
+C (98.8
+   HR: 76 (60 - 76) bpm
+   BP: 121/40(60) {120/40(60) - 140/46(68)} mmHg
+   RR: 19 (10 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                                                                    329 mL
+                                                                     47 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+                                                                    329 mL
+                                                                     47 mL
+   Total out:
+                                                                      0 mL
+                                                                    350 mL
+   Urine:
+   350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    329 mL
+                                                                   -304 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///27/
+   Physical Examination
+   GENERAL:  NAD. Oriented x3. Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+   NECK: Supple with no JVP
+   CARDIAC: RR, normal S1, S2. III/VI holosystolic murmur. No thrills,
+   lifts. No S3 or S4.
+   LUNGS:  CTAB, no crackles, wheezes or rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: R back with excoriated lesions on skin in different stages of
+   healing.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   361 K/uL
+   9.2 g/dL
+   83 mg/dL
+   1.5 mg/dL
+   27 mEq/L
+   3.5 mEq/L
+   31 mg/dL
+   104 mEq/L
+   138 mEq/L
+   26.4 %
+   18.5 K/uL
+        [image002.jpg]
+                             [**2847-12-15**]  02:03 AM
+                             [**2847-12-15**]  05:23 AM
+   WBC
+   15.7
+   18.5
+   Hct
+   27.6
+   26.4
+   Plt
+   394
+   361
+   Cr
+   1.5
+   TropT
+   0.22
+   Glucose
+   83
+   Other labs: CK / CKMB / Troponin-T:1707/28/0.22, Mg++:2.5 mg/dL
+   Assessment and Plan
+   68 y/o M with NSTEMI in setting of demand ischemia from GI bleed and
+   likely reactive leukocytosis, presenting with renal insufficiency of
+   unknown chronicity.
+   .
+   # NSTEMI:  Patient with 2 day history of dyspnea and chest discomfort.
+   EKG shows no ST elevations, no tracing for comparison.  Unknown
+   coronary anatomy, ischemia may have been precipitated by anemia, likely
+   sec to GI bleed.  Pt received ASA 325mg.  CE trending down.
+   - In setting GI bleed, hold on plavix or BB
+   -Cont aspirin
+   - Cont Atorvastatin 80mg
+   - Peinding Lipid panel
+   - Likely will need cath.  Will need to discuss with GI whether patient
+   is candidate for scope prior to cath.
+   .
+   # GI Bleed:  Hemodynamically stable.  Unclear if upper or lower.  Guiac
+   positive.  s/p 2u PRBCs, HCT did not respond appropriately.  HCT this
+   AM 26, patient is likely bleeding.  Patient has had no episodes of
+   melena while in CCU.  Recommended transfusing patient as needed.
+   -IV Protonix per GI
+   -Obtain OSH records of previous EGD/colonoscopy
+   - Consult with GI
+   - Hold on BB in light of possible GI bleed.
+   .
+   # Leukocytosis:  WBC 17.2, 23.2 yesterday at PCP's office.  Patient
+   afebrile.  VSS.  BC pending, U/A negative, Lactate 1.0.
+   - Monitor temps, likely reactive.
+   .
+   # Acute on Chronic Renal Failure:  Unclear baseline.  Improved this AM
+   to 1.5.  Likely secondary to poor forward flow. FENA 1.
+   - Renally dose meds
+   -Monitor Creatinine
+   .
+   #  Records:  Patient states much of his care is at [**Hospital1 12**].
+   - Will obtain records from [**Hospital1 12**].
+   .
+   FEN: NPO
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots
+   -Bowel regimen Colace/Senna
+   CODE: FULL
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2847-12-15**] 12:18 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,277 @@
+Chief Complaint: 85 year old male with PMHx of intermittent afib,
+   previous cerebral bleed, remote colon cancer and hematuria presents
+   post-op from transurethral resection for bladder cancer with new onset
+   ischemic stroke.
+   24 Hour Events:
+   Yesterday called neurology as no new notes left in chart. Spoke with
+   resident on-call [**Location (un) 38**] who spoke with chief. Reccomended re-imaging with
+   repeat head CT for progression of stroke. After repeat imaging, spoke
+   again with neurology who said that given size of stroke patient is not
+   a candidate for anticoagulation at this time. Also said okay to come
+   down on blood pressure goals to 160-180s.  Goal for extubation this AM
+   - turn down propofol drip this morning and starting labetalol drip as
+   needed for blood pressure management. Patient was extubated this
+   morning without complication.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Levofloxacin - [**2974-8-28**] 06:18 PM
+   Infusions:
+   Propofol - 5 mcg/Kg/min
+   Labetalol - 2 mg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2974-8-28**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**2974-8-29**] 05:30 AM
+   Other medications:
+   Changes to medical and family history: none
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: none
+   Flowsheet Data as of  [**2974-8-29**] 07:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.3
+   Tcurrent: 36.7
+C (98
+   HR: 54 (49 - 65) bpm
+   BP: 181/64(105) {136/45(73) - 202/74(120)} mmHg
+   RR: 15 (14 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 60 Inch
+    CVP: 9 (6 - 14)mmHg
+   Total In:
+                                                                  1,830 mL
+                                                                    453 mL
+   PO:
+   TF:
+                                                                  1,210 mL
+                                                                    260 mL
+   IVF:
+                                                                    560 mL
+                                                                    193 mL
+   Blood products:
+   Total out:
+                                                                  1,000 mL
+                                                                    650 mL
+   Urine:
+                                                                  1,000 mL
+                                                                    650 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    830 mL
+                                                                   -197 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 495 (391 - 507) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 17
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 40
+   PIP: 17 cmH2O
+   Plateau: 13 cmH2O
+   Compliance: 56.2 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.46/38/168/26/3
+   Ve: 8 L/min
+   PaO2 / FiO2: 420
+   Physical Examination
+   General Appearance: No acute distress, no longer sedated
+   Head, Ears, Nose, Throat: Poor dentition, fask mask in place
+   Cardiovascular: (S1: Normal), (S2: Normal), bradycardic, no murmur
+   appreciated
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: diffuse wheezing bilaterally: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Warm
+   Neurologic: moves right extremity on his own, is now moving left lower
+   leg in response to pain, has withdrawn from painful stimuli on right
+   arm, awake, right eye deviation, blinks to threat on right side, does
+   not blink to threat on left side
+   Labs / Radiology
+   205 K/uL
+   9.2 g/dL
+   122 mg/dL
+   1.1 mg/dL
+   26 mEq/L
+   4.2 mEq/L
+   17 mg/dL
+   104 mEq/L
+   137 mEq/L
+   27.7 %
+   8.0 K/uL
+        [image002.jpg]
+                             [**2974-8-25**]  09:35 PM
+                             [**2974-8-25**]  09:57 PM
+                             [**2974-8-25**]  11:20 PM
+                             [**2974-8-26**]  04:50 AM
+                             [**2974-8-26**]  10:38 AM
+                             [**2974-8-26**]  01:11 PM
+                             [**2974-8-27**]  03:47 AM
+                             [**2974-8-28**]  04:56 AM
+                             [**2974-8-28**]  02:10 PM
+                             [**2974-8-29**]  04:58 AM
+   WBC
+   11.6
+   13.0
+   8.3
+   7.6
+   8.0
+   Hct
+   30.8
+   30.4
+   28.8
+   26.4
+   27.7
+   Plt
+   [**Telephone/Fax (3) 1616**]06
+   205
+   Cr
+   1.2
+   1.3
+   1.3
+   1.2
+   1.1
+   TropT
+   0.10
+   0.07
+   TCO2
+   27
+   28
+   30
+   29
+   28
+   Glucose
+   111
+   128
+   121
+   141
+   122
+   Other labs: PT / PTT / INR:15.6/41.3/1.4, CK / CKMB /
+   Troponin-T:311/10/0.07, ALT / AST:[**8-3**], Alk Phos / T Bili:76/0.5,
+   Albumin:3.6 g/dL, LDH:174 IU/L, Ca++:8.4 mg/dL, Mg++:1.9 mg/dL, PO4:2.7
+   mg/dL
+   Assessment and Plan
+   85 year old male with PMHx of intermittent afib, previous cerebral
+   bleed, remote colon cancer, and hematuria presents post-op from
+   transurethral bladder resection for bladder cancer with new onset
+   ischemic stroke
+   #Embolic Stroke:  Per neurology team, CTA is consistent with thrombus
+   in the M2 segment of the MCA.  Currently maintaining SBP per neuro
+   recs, which as of [**8-28**] can be maintained between 160-180s systolic,
+   continue ASA, and with arterial line to monitor vitals. Echo performed
+   shows EF 45% which is much decreased from previous echo in [**2970**] when EF
+   was 60-70%. Also echo with  regional left systolic dysfunction which is
+   consistent with ischemic event. Evidence of pulmonary hyptertenion. no
+   evidence of thrombus. carotid dopplers with 40% stenosis of right side,
+   left side without significant stenosis. patient cannot receive MRI of
+   the head given previous surgical staples in cranium. repeat CT scan of
+   the head [**8-28**] demonstrates large area of infarct which is confined to
+   MCA territory.
+   - SBP < 180 and > 160, now off propofol for sedation,  using labetalol
+   drip for blood pressure control, ASA 300 mg PR qd, HOB < 30 degrees or
+   flat as tolerated per neurology, however with chest x-ray findings are
+   concerning for aspiration pneumonia, would like to put head upright to
+   prevent furthur aspiration, will need to clarify with neurology plan in
+   regards to this today
+   - no stroke intervention performed, neurologic function is somewhat
+   improved, does move left foot intermittently and withdraws to pain,
+   albeit inconcistently on left arm
+   - continue serial neuro exams
+   - will d/c labetalol drip today, start low dose beta blocker, and will
+   lower blood pressure parameters now that 72+ hours out of stroke
+   - unclear if functionally will be able to [**Last Name (LF) 1059**], [**First Name3 (LF) **] will need speech
+   and [**First Name3 (LF) 1059**] evaluation and then pending this possible peg tube
+   placement
+   - patient likely with previous myocardial insult and also some demand
+   ischemia, new evidence of regional systolic dysfunction and pulmonary
+   hypertension
+   - cardiology consult reccomendations to control blood pressure and also
+   treat CAD
+   - carotid dopplers without acute lesion
+   -follow-up new neuro notes
+    #Pulmonary Edema: Likely related to pulmonary HTN vs. flash pulmonary
+   edema during stroke event. Chest x-ray with much improved edema, and
+   now exam much more clear with some wheezing. Patient now extubated.
+   Patient given IV lasix on admission to the unit for pulmonary
+   hypertension however has not required much in the way of additional
+   lasix in last day.
+   - continue to follow serial chest x-rays
+   - start nebs for wheezing
+   - check a post-extubation gas later this evening
+    #Hypertension:  BPs remained within range set by neurology. Periods of
+   atrial fibrillation with RVR, attempted IV lopressor and also diltiazem
+   drip. Patient takes only atenolol 50 mg daily as an outpatient. Also
+   concern for ischemic event given EKG changes and elevated CE which
+   would likely suggest ischemia. However, neurology wants to maintain
+   goal blood pressure of 160-180s.
+   - as per neuro this morning, can again lower blood pressure goals to
+   140-160s
+   - d/c dilt drip, start low dose b-blocker with additional PRN as
+   tolerated
+   - continue tight BP monitoring
+   #Atrial Fibrillation: Patient had not been anticoagulated x3weeks given
+   presenting hematuria and wet macular degeneration. Would benefit from
+   heart rate control to avoid demand ischemia. Currently not candidate
+   for further anticoagulation as evidence of large infarct on repeat CT
+   scan.
+   - on ASA 325 mg PO daily, not candidate for anticoagulation at this
+   time given extent of stroke
+   - cardiology has been seeing patient, suspect that LV dysfunction from
+   CAD, reccomending HTN management as well as CAD treatment - on asa and
+   statin
+   - re-start beta blocker as above
+   #Bladder Cancer:  Now s/p transurethral ressection with pending
+   pathology.  Will need to follow up with urology.  Patient initially
+   with clear urine but progressively more bloody overnight, restarted
+   CBI.
+   - d/c continuous bladder irrigation for now, if grossly bloody again,
+   would consider restarting as per urolgoy
+   - follow with urology
+   - repeat electrolytes
+    #Macular Degneration:
+   - continue eye drops
+    #Anemia:  Patient's hematocrit is 33.2 with a MCV of 79 concerning for
+   iron deficiency.  Likely secondary to patient
+s long-standing hematuria
+   but given history of malignancy (both bladder and colon ca) also may be
+   playing a role.
+   - started on oral iron for iron studies consistent with iron defiency
+   anemia
+     #FEN: will need speech and [**First Name3 (LF) 1059**] to evaluate whether patient can
+   eat post stroke. If not, then will need peg and nutrition recs
+     #Prophylaxis: pneumoboots, pantoprazole, subQ heparin
+    #Code Status: Full Code, confirmed with neice [**Name (NI) 1545**] [**Name (NI) 1546**]
+    #Communication: Brother [**Name (NI) 29**] ([**Telephone/Fax (1) 1547**]) and niece [**Name (NI) 1545**] [**Name (NI) 1546**]
+   ([**Telephone/Fax (1) 1548**]). Niece is a physician in NY.
+    Dispo: ICU pending improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2974-8-26**] 04:20 AM
+   Arterial Line - [**2974-8-26**] 10:30 AM
+   18 Gauge - [**2974-8-26**] 11:24 AM
+   Multi Lumen - [**2974-8-26**] 06:28 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,312 @@
+Admission Date:  [**2797-2-21**]       Discharge Date:  [**2797-3-4**]
+
+Date of Birth:   [**2722-3-23**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:   The patient is a 74-year-old
+male with a history of coronary artery disease status post
+coronary artery bypass graft in [**2796-10-24**], with
+multiple complications, who was transferred to [**Hospital1 47**] from [**Hospital3 1096**] for management
+of question of possible empyema.  The patient has a
+complicated past medical history.  Please see past medical
+history.  The patient was hospitalized here in the month of
+[**Month (only) 354**] for respiratory failure with pseudomonas pneumonia,
+cryptococcemia and amiodarone-induced lung disease.  The
+patient was transferred to [**Hospital3 1096**] on [**1-21**].
+He was weaned from the ventilator there, although he required
+high FIO2.  Ten days prior to admission, the patient
+developed increased shortness of breath with bilateral
+pleural effusions.  The right-sided effusion was tapped, and
+grew vancomycin-resistant enterococcus.  Linezolid was
+started, with clinical improvement, but four days later, the
+patient had increased shortness of breath and pseudomonas in
+the sputum, sensitive only to amikacin.  One day prior to
+admission, the left-sided effusion was tapped.  Cultures were
+pending at the time of transfer, but the pH was noted to be
+7.08.  Blood pressure has also been decreased over the last
+several days, requiring intravenous fluid resuscitation.
+Sputum was also noted to be positive for methicillin
+resistant staphylococcus aureus on [**2797-2-20**].
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease status post coronary artery
+bypass graft x 3 in [**2795**]
+2.  Hypertension
+3.  Atrial fibrillation for three years, previously on
+anticoagulation, but discontinued secondary to history of
+gastrointestinal bleed
+4.  Chronic obstructive pulmonary disease
+5.  Hypothyroidism
+6.  Congestive heart failure by report
+7.  Left adrenal adenoma
+8.  History of gastrointestinal bleed secondary to mucosal
+tear at the gastrostomy site
+9.  Hyperlipidemia
+10. Depression
+11. Moderate tricuspid regurgitation
+12. Adult respiratory distress syndrome secondary to
+amiodarone toxicity, requiring hospitalization at [**Hospital1 47**] in [**2796-12-24**]
+13. History of pseudomonas pneumonia in [**2796-12-24**]
+14. History of cryptococcemia and cryptococcus in the pleural
+fluid in [**2796-12-24**], treated with AmBisome and now on
+fluconazole
+
+MEDICATIONS ON TRANSFER:
+1.  Prednisone 10 mg by mouth per feeding tube once daily
+2.  Fluconazole 400 mg by mouth per feeding tube once daily
+3.  Lasix 40 mg intravenous push once daily
+4.  Glutamine one scoop per feeding tube twice a day
+5.  Perative full strength at 70 cc/hour
+6.  Protonix 40 mg once daily
+7.  Subcutaneous heparin 5000 units every 12 hours
+8.  Levoxyl 0.125 mg per gastrostomy tube once daily
+9.  Aspirin 81 mg by mouth once daily
+10. Metoprolol 75 mg by mouth once daily
+11. Colace 100 mg per gastrostomy tube twice a day as needed
+12. Regular insulin sliding scale
+13. Lorazepam 1 mg intravenous push every six hours as needed
+
+ALLERGIES:   Dramamine
+
+SOCIAL HISTORY:   The patient has been at [**Hospital3 1096**]
+and [**Hospital1 6197**] for ventilatory rehabilitation.  He has a 70 pack
+year history of smoking.  He has no alcohol abuse or
+substance abuse.  He was recently widowed in [**2795-12-25**].
+
+PHYSICAL EXAMINATION:   Temperature 100.2, blood pressure
+94/65, pulse 140, respiratory rate 20, pulse oximetry 98% on
+room air.  General appearance:  The patient is frail,
+cachectic-appearing male, in no acute distress.  Head, eyes,
+ears, nose and throat:  Pupils equal, round and reactive to
+light, conjunctivae injected, sclerae anicteric.  Moist
+mucous membranes, oropharynx without lesions.  Neck:  Supple,
+with no carotid bruits.  Cardiovascular:  Normal S1 and S2,
+II/VI systolic murmur, irregularly irregular rhythm.  Lungs:
+Decreased effort, clear breath sounds, decreased
+diaphragmatic excursion, coarse crackles, scattered
+bilaterally, with no appreciable rubs.  Abdomen:  Soft,
+hypoactive bowel sounds, nontender to palpation, no
+appreciable mass or hepatosplenomegaly.  Brachial and radial
+pulses appreciable bilaterally, with no lower extremity
+cyanosis or clubbing.  Neurologic examination:  The patient's
+movements are purposeful.  The patient responds to
+conversation and to tactile stimuli.  Strength is decreased
+diffusely, with no focal neurological deficits.
+
+LABORATORY DATA:   White blood count 14.6, hematocrit 26.6,
+platelets 277.  Sodium 143, potassium 4.6, chloride 106,
+bicarbonate 29, BUN 33, creatinine 0.5, glucose 148.  INR
+1.3.  Calcium 7.5, phosphate 3.4, magnesium 1.8.
+
+HOSPITAL COURSE BY SYSTEM:
+1.  Infectious Disease:  The patient presented with bilateral
+pleural effusions, with recently-tapped left pleural effusion
+with a reported pH of 7.08.  On presentation to this
+hospital, the patient underwent chest tube placement for
+tapping of bilateral pleural effusions.  Right pleural
+effusion was notable for the following laboratory findings:
+56 white blood cells, 33,625 red blood cells, protein of 3.2,
+glucose of 44, LDH of [**2731**], pH of 7.94, Gram stain revealing
+1+ polys.  Left-sided pleural effusion notable for 384,000
+red blood cells, 378 white blood cells, 55% polys, protein of
+2.9, glucose of 63, LDH of 630, amylase of 11, pH of 7.50,
+Gram stain revealed 2+ polys.  Cultures and cytology were
+negative.  Ultimately pleural fluid culture did grow out
+vancomycin-resistant enterococcus from one bottle, which was
+thought to be a colonizer.  Analysis of the pleural fluid
+suggested that it was exudative.  It apparently was not
+infectious, however.  Given the high red blood cell count and
+high LDH, it was concerning for malignant effusion, but
+cytology was negative.  It was also thought that there was
+potentially some component of congestive heart failure
+contributing to the effusions.  The patient did not, however,
+present with frank evidence of congestive heart failure
+during this hospitalization, though with an echocardiogram
+that showed no change from prior.
+
+Regarding other Infectious Disease issues, the patient's
+stool was sent for C. difficile, which was negative.  Blood
+was positive for cryptococcal antigen, and the patient was
+continued on his fluconazole.  Blood cultures, both bacterial
+and mycolytic cultures, were negative.  Sputum cultures taken
+early in this hospitalization grew out multi-drug-resistant
+pseudomonas, as has been colonized in the past.  The urine
+also grew out resistant pseudomonas.  The patient was covered
+broadly with two anti-pseudomonal drugs, namely amikacin and
+piperacillin/tazobactam.  Sensitivities revealed that the
+organism was sensitive to both of these.  Cerebrospinal fluid
+cryptococcal antigen was not sent, but had been negative in
+[**2796-12-24**].  The patient did grow vancomycin-resistant
+enterococcus in the pleural fluid in the setting of treatment
+with linezolid.  This was treated as a colonizer, and was not
+specifically treated during this hospitalization.  The
+patient did show evidence of oral thrush, and was treated
+with Nystatin and continued on his fluconazole.
+
+2.  Pulmonary:  As noted above, the patient was treated with
+amikacin and Zosyn for pseudomonal respiratory tract
+infection.  The organism was not cultured from the pleural
+fluid, and the pleural fluid analysis was not entirely
+consistent with an infectious etiology.  Per Infectious
+Disease service recommendations, the patient should receive a
+three week course of antibiotic treatment with these
+anti-pseudomonal agents.  The patient should also receive at
+least an additional six weeks total therapy with fluconazole
+for cryptococcal pneumonia, as the patient has a history of
+cryptococcemia.  The patient remained ventilator dependent
+during this hospitalization secondary to multifactorial
+pulmonary processes, namely pneumonia, possible amiodarone
+toxicity, and bilateral pleural effusions of mixed etiology,
+possibly with components of both transudate and exudate.  The
+patient's chest x-ray revealed pulmonary infiltrates thought
+to reflect prior amiodarone toxicity vs. new ventilator
+associated or hospital-acquired pneumonia.  The patient
+remained essentially afebrile throughout the remainder of his
+hospitalization, with several low-grade fevers on [**3-2**] and
+[**2797-3-3**], for which cultures were sent.  These cultures
+remained negative.  The patient continued on his antibiotics.
+It was noted that he continued to grow moderate pseudomonas
+from his oropharynx despite treatment with amikacin and
+Zosyn.  The patient did very well on trials of pressure
+support of 5, with PEEP of 5, during the last two days of his
+hospitalization.  On [**2797-3-3**], the patient went for
+approximately seven hours on pressure support of 5, with
+little difficulty.  He was switched back to pressure support
+of 12 in the evening.  He continued to have thick secretions.
+Ideally the patient will be weaned from the ventilator and
+then fitted for a fenestrated trach so that he may talk using
+the trach.
+
+3.  Congestive heart failure:  Patient with a history of
+coronary artery disease status post coronary artery bypass
+graft.  He was continued on his aspirin.  The patient's beta
+blocker was held for much of this hospitalization, given low
+blood pressures. The patient was initiated on an ACE
+inhibitor, which he seemed to tolerate well.  This was done,
+in part, given suspicion that congestive heart failure was
+possibly contributing to his bilateral pleural effusions.
+Regarding his history of congestive heart failure, the
+patient had a recent echocardiogram revealing ejection
+fraction of greater than 55%.  The patient had a repeat
+echocardiogram during this hospitalization, which again
+showed ejection fraction greater than 55%, abnormal septal
+motion consistent with a right ventricular pressure overload,
+1+ mitral regurgitation, 3+ tricuspid regurgitation.  The
+patient received several one-time doses of 40 mg of
+intravenous lasix for suspicion for total volume overload.
+The patient, however, did not have any clear evidence of
+acute congestive heart failure compromising his oxygenation
+during this hospitalization.
+
+Regarding history of atrial fibrillation, the patient had
+several periods of atrial fibrillation with rapid ventricular
+response, although he had never had any associated
+hemodynamic instability.  For the most part, he remained on
+Diltiazem with good rate control.  He remained off of chronic
+anticoagulation, which had been previously discontinued in
+the setting of upper gastrointestinal bleed.
+
+4.  Hematology:  Patient with anemia, noted to have a slow
+drop in his hematocrit of approximately 6 to 7 points over
+approximately a week or two.  He is guaiac negative, and had
+no evidence of acute bleeding.  Anemia laboratories were
+consistent with anemia of chronic disease.  The patient was
+not started on iron therapy, given his iron to total iron
+binding capacity ratio.  He did receive a transfusion of two
+units of packed red blood cells and his hematocrit bumped
+appropriately and remained relatively stable.  Given the fact
+that he had been revascularized, it was considered essential
+to keep his hematocrit greater than 30 for cardio-protective
+reasons.
+
+5.  Gastrointestinal:  Patient with several complaints of
+right upper quadrant pain early in his hospitalization, which
+later resolved.  He was noted to have persistently elevated
+alkaline phosphatase  and elevated GGT, although the rest of
+his liver function tests were within normal limits.  There
+was no evidence of any acute biliary process.  Suspicion for
+gastrointestinal bleed was addressed as above.
+
+6.  Fluids, electrolytes and nutrition:  The patient remained
+largely euvolemic.  We gave him lasix on several occasions to
+keep him negative, given suspicion that congestive heart
+failure may be contributing to his respiratory status and his
+bilateral pleural effusions.  These effusions, however, were
+evaluated toward the end of his hospitalization and found to
+be stable.  His electrolytes were aggressively repleted
+during this hospitalization.  He remained on tube feeds per
+his percutaneous endoscopic gastrostomy tube, and these were
+at goal.  He was, however, noted to have an approximately ten
+pound weight loss during his hospitalization.
+
+7.  Access:  Patient with a right PICC line, which he has had
+in place for his antibiotic treatments since [**Month (only) 354**].  The
+PICC line was changed prior to discharge so that he could
+continue intravenous antibiotics for recommended periods of
+time.
+
+8.  The patient was screened by rehabilitation facilities for
+ventilator rehabilitation, as he will require gradual weaning
+from his ventilator.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE DIAGNOSIS:
+1.  Exudative pleural effusions status post chest tube
+placement and discontinuation
+2.  Pseudomonas respiratory tract infection
+3.  History of anemia of chronic disease
+4.  Cryptococcal pneumonia with history of cryptococcemia
+5.  Ventilatory dependence
+6.  Colonization with vancomycin-resistant enterococcus
+7.  Increased alkaline phosphatase
+8.  Coronary artery disease
+9.  Chronic atrial fibrillation
+
+DISCHARGE MEDICATIONS:
+1.  Zosyn 4.5 mg intravenously every eight hours until
+[**2797-3-15**]
+2.  Amikacin 300 mg intravenously every 18 hours until
+[**2797-3-15**]
+3.  Diltiazem 90 mg per gastrostomy tube every six hours
+4.  Levothyroxine 0.15 mg per gastrostomy tube once daily
+5.  Protonix 40 mg per gastrostomy tube once daily
+6.  Aspirin 81 mg per gastrostomy tube once daily
+7.  Subcutaneous heparin 5000 units twice a day
+8.  Peptamen tube feeds at 85 cc/hour per gastrostomy tube
+9.  Effexor 50 mg per gastrostomy tube twice a day
+10. Fluconazole 400 mg per gastrostomy tube until [**2797-4-12**]
+11. Nystatin paint to oral mucous membranes four times a day
+as needed for thrush
+12. Captopril 6.25 mg per gastrostomy tube three times a day;
+hold for systolic blood pressure less than 90
+13. Lorazepam 1 to 2 mg intravenously every four hours as
+needed for agitation
+14. Albuterol six puffs every four hours as needed
+
+DISCHARGE INSTRUCTIONS:   The patient should receive weaning
+from his ventilator while at ventilator rehabilitation.  He
+has tolerated six to seven hour trials of pressure support of
+5 with PEEP of 5 and done well.  We have typically switched
+him back to pressure support of 12 at night in order to rest
+him.  The patient should receive aggressive suctioning.  He
+should be continued on his antibiotics.  His PICC line should
+be monitored for signs of infection.  Ultimately the patient
+should be transitioned back to home.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 4762**]
+
+Dictated By:[**Last Name (NamePattern4) 2625**]
+MEDQUIST36
+
+D:  [**2797-3-3**]  23:09
+T:  [**2797-3-4**]  00:27
+JOB#:  [**Job Number 10209**]
+
+ 
+ 
+DOC CLASS

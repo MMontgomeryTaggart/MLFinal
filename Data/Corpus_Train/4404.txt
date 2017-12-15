@@ -1,0 +1,319 @@
+Admission Date:  [**2516-12-21**]              Discharge Date:   [**2516-12-29**]
+
+Date of Birth:  [**2440-9-9**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Sulfa (Sulfonamides)
+
+Attending:[**First Name3 (LF) 1487**]
+Chief Complaint:
+murmur
+
+Major Surgical or Invasive Procedure:
+[**2516-12-24**] Bentall Procedure (25mm St. [**Male First Name (un) 911**] Aortic Valve Graft)
+
+History of Present Illness:
+76 y/o male who found to have a murmur on his routine physical
+exam. He then underwent an echo which revealed a dilated aorta
+and aortic insufficiency. He was then referred for surgery.
+
+Past Medical History:
+Deep Vein Thrombosis, Arthritis, Melanoma s/p excision,
+Hydrocele, Glaucoma, s/p Appendectomy, s/p Hernia repair
+
+Social History:
+Tobacco: 4 pipes/day
+ETOH [**1-14**] glasses of scotch/day
+Retired, lives at home with wife
+
+Family History:
+Father died of aortic aneurysm at 66. 3 cousins died of aortic
+anuerysms between 40-50.
+
+Physical Exam:
+HEENT: EOMI, PERRL, NCAT
+Neck: Supple, FROM, -JVD, bruits
+Pulm: CTAB -w/r/r
+Heart: RRR 3/6 murmur
+Abd Soft, NT/ND, +BS
+Ext: Warm, bilat varicosities, [**1-14**]+ edema
+Neuro: A&O x 3, MAE, non-focal
+
+Pertinent Results:
+[**2516-12-28**] 03:59PM BLOOD WBC-10.2 RBC-3.57* Hgb-11.5* Hct-33.5*
+MCV-94 MCH-32.3* MCHC-34.4 RDW-13.1 Plt Ct-276#
+[**2516-12-21**] 08:45PM BLOOD WBC-6.8 RBC-4.07* Hgb-13.7* Hct-38.9*
+MCV-96 MCH-33.6* MCHC-35.1* RDW-13.1 Plt Ct-235
+[**2516-12-29**] 06:40AM BLOOD PT-19.9* PTT-65.7* INR(PT)-1.9*
+[**2516-12-27**] 06:34PM BLOOD PT-19.8* PTT-36.0* INR(PT)-1.8*
+[**2516-12-27**] 07:55AM BLOOD PT-18.3* INR(PT)-1.7*
+[**2516-12-26**] 08:25AM BLOOD PT-17.4* INR(PT)-1.6*
+[**2516-12-24**] 01:15PM BLOOD PT-14.5* PTT-43.9* INR(PT)-1.3*
+[**2516-12-21**] 08:45PM BLOOD PT-14.2* PTT-29.2 INR(PT)-1.2*
+[**2516-12-28**] 01:02PM BLOOD Glucose-134* UreaN-14 Creat-0.8 Na-132*
+K-4.2 Cl-96 HCO3-26 AnGap-14
+[**2516-12-21**] 08:45PM BLOOD Glucose-132* UreaN-10 Creat-0.9 Na-138
+K-4.2 Cl-103 HCO3-26 AnGap-13
+[**2516-12-21**] 08:45PM BLOOD ALT-16 AST-23 AlkPhos-67 Amylase-40
+TotBili-0.6
+[**2516-12-21**] 08:45PM BLOOD Lipase-34
+[**2516-12-28**] 01:02PM BLOOD Mg-2.0
+
+   RADIOLOGY   Preliminary Report
+
+CHEST (PA & LAT)  [**2516-12-28**] 2:17 PM
+
+CHEST (PA & LAT)
+
+Reason: evaluate effusion
+
+UNDERLYING MEDICAL CONDITION:
+76 year old man s/p bentall
+REASON FOR THIS EXAMINATION:
+evaluate effusion
+INDICATION: Status post Bentall. Assess effusion.
+
+COMPARISON: [**2516-12-26**].
+
+PA AND LATERAL CHEST: Sternal wires and the valve prosthesis are
+unchanged from the prior exam. There is similar cardiomegaly and
+tortuosity of the aorta. There are small bilateral pleural
+effusions. No pneumonia, failure, or pneumothorax.
+
+IMPRESSION: No short interval change in the appearance of the
+chest, with small bilateral pleural effusions.
+
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 4286**]
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4072**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 5710**]
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname 18693**], [**Known patient firstname **]       [**Hospital1 18**] [**Numeric Identifier 18694**]       TEE (Complete)
+Done [**2516-12-24**] at 10:49:03 AM      PRELIMINARY
+Referring Physician     [**Name9 (PRE) **] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **] R.
+Division of Cardiothoracic [**Doctor First Name **]
+[**Hospital Unit Name 4021**]
+[**Location (un) 86**], [**Numeric Identifier 711**]  Status: Inpatient DOB: [**2440-9-9**]
+Age (years): 76 M  Hgt (in):
+BP (mm Hg): /  Wgt (lb):
+HR (bpm):  BSA (m2):
+Indication: Aortic valve disease. Left ventricular function.
+Valvular heart disease.
+ICD-9 Codes: 440.0
+Test Information
+Date/Time: [**2516-12-24**] at 10:49    Interpret MD: [**First Name8 (NamePattern2) 6427**] [**Name8 (MD) 6428**],
+MD
+Test Type: TEE (Complete) Son[**Name (NI) 918**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6428**], MD
+Doppler: Full Doppler and color Doppler Test Location:
+Anesthesia West OR cardiac
+Contrast: None Tech Quality: Adequate
+Tape #: 2007AW02-: Machine:
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Aorta - Sinus Level:  *4.5 cm  <= 3.6 cm
+Aorta - Ascending:  *6.5 cm  <= 3.4 cm
+
+Findings
+LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo
+contrast or thrombus in the body of the [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. A catheter or
+pacing wire is seen in the RA. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Moderately dilated aortic sinus. Markedly dilated
+ascending aorta. Mildly dilated descending aorta. Simple
+atheroma in descending aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Moderately thickened
+aortic valve leaflets. No AS. Moderate to severe (3+) AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderately
+thickened mitral valve leaflets. Mild mitral annular
+calcification. Physiologic MR (within normal limits).
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets
+with physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The TEE probe was passed with assistance from the
+anesthesioology staff using a laryngoscope. No TEE related
+complications. Suboptimal image quality - poor echo windows.
+
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+
+
+
+
+
+     N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-BYPASS: The left atrium is moderately dilated. No
+spontaneous echo contrast or thrombus is seen in the body of the
+left atrium or left atrial appendage. No atrial septal defect is
+seen by 2D or color Doppler. Left ventricular wall thicknesses
+and cavity size are normal. Right ventricular chamber size and
+free wall motion are normal. The aortic root is moderately
+dilated at the sinus level. The ascending aorta is markedly
+dilated The descending thoracic aorta is mildly dilated. There
+are simple atheroma in the descending thoracic aorta. There are
+three aortic valve leaflets. The aortic valve leaflets are
+moderately thickened. There is no aortic valve stenosis.
+Moderate to severe (3+) aortic regurgitation is seen. The mitral
+valve leaflets are mildly thickened. The mitral valve leaflets
+are moderately thickened. Physiologic mitral regurgitation is
+seen (within normal limits). There is no pericardial effusion.
+
+POST CPB:
+1. Preserved [**Hospital1 **]-ventricular systolic function
+
+2. Mechanical prosthesis in aortic position. Weall seated and
+stable.
+
+3. Trace AI
+
+4. Tube graft in ascending aortic position.
+No other change
+Interpretation assigned to [**First Name8 (NamePattern2) 6427**] [**Name8 (MD) 6428**], MD, Interpreting
+physician
+
+Cardiology Report ECG Study Date of [**2516-12-24**]  2:34:56 PM
+
+
+Baseline artifact. Sinus rhythm. Non-diagnostic Q waves in
+leads II, III and aVF with probable ST-T wave abnormalities.
+However,
+artifact precludes clear visualization of the ST segments. Early
+R wave
+progression. Precordial T wave inversions. There is a single
+atrial premature
+beat. Since the previous tracing of [**2516-12-22**] the atrial
+premature beat is new
+and is probably paced. Inferior ST-T wave abnormalities may have
+appeared as
+well as the inferior Q waves. Clinical correlation is suggested.
+
+
+
+Read by: [**Last Name (LF) **],[**First Name3 (LF) 888**] A.
+
+  Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+76 0 88 398/426 0 7 17
+
+
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted pre-operatively for further cardiac
+work-up and to initiate Heparin therapy (d/t pt. previously
+being on Coumadin). On [**12-24**] he underwent a cardiac cath which
+ruled out any coronary artery disease, but did reveal AI and a
+dilated aorta. On [**12-24**] he was brought to the operating room
+where he underwent a Bentall procedure. Please see op note for
+surgical details. Following surgery he was transferred to the
+CVICU for invasive monitoring in stable condition. Within 24
+hours he was weaned from sedation, awoke neurologically intact
+and extubated. On post-op day one he was started on beta
+blockers and diuretics and gently diuresed towards his pre-op
+weight. Later on this day his chest tubes were removed and he
+was transferred to the SDU for further care. Coumadin was
+initiated and Heparin was used as a bridge until patient was
+therapeutic. Epicardial pacing wires were removed per protocol.
+Physical therapy worked with him on strength and mobility.  He
+was ready for discharge to rehab on POD 5.  Plan for follow up
+at rehab for coumadin dosing, he has received 4mg [**2425-12-25**], 5mg
+[**12-28**], 7.5mg [**12-29**].  first draw wednesday [**12-30**] at rehab.
+
+
+Medications on Admission:
+Xalantan gtts, Coumadin (stopped 1 wk before admission),
+Prednisone (stopped 2 wks before admission), Timolol gtts,
+Alphagan gtts
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic [**Hospital1 **] (2
+times a day).
+4. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic
+DAILY (Daily).
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+7. Warfarin 1 mg Tablet Sig: goal INR 2.5-3.0  Tablets PO once a
+day: please dose based on INR - draws mon/wed/fri goal INR
+2.5-3.0 mech AVR .
+8. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q3H (every 3
+hours) as needed. Tablet(s)
+9. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day. Tablet(s)
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO once a day
+for 7 days.
+11. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day for 7
+days.
+12. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO once a
+day.
+13. Multivitamins     Tablet, Chewable Sig: One (1) Tablet,
+Chewable PO once a day.
+14. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 2520**] - [**Location (un) **]
+
+Discharge Diagnosis:
+Ascending Aortic Aneurysm, Aortic Insufficiency s/p Bentall
+Procedure
+PMH: Deep Vein Thrombosis, Arthritis, Melanoma s/p excision,
+Hydrocele, Glaucoma, s/p Appendectomy, s/p Hernia repair
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+1) Monitor wounds for signs of infection. These include redness,
+drainage or increased pain. In the event that you have drainage
+from your sternal wound, please contact the [**Name2 (NI) 4992**] at ([**Telephone/Fax (1) 3984**].
+2) Report any fever greater then 100.5.
+3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in
+1 week.
+4) No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry. Please shower daily. No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month.
+7) Call with any questions or concerns [**Telephone/Fax (1) 168**]
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in 4 weeks
+Dr. [**Last Name (STitle) **] after discharge from rehab
+Labs: PT/INR mon/wed/fri for dosing - goal 2.5-3.0 for
+mechanical aortic valve
+
+
+
+Completed by:[**2516-12-29**]
+
+
+DOC CLASS

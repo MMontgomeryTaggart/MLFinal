@@ -1,0 +1,123 @@
+Chief Complaint: Hemetemesis
+   HPI:Please see HO note for full details. Briefly 62 y/o woman with PMH
+   of Hep C, etoh chirossis and gastric ulcer presents with hemetemesis
+   and found to have Hct 18 with normal BP but elevated lactate.
+   24 Hour Events:
+Admitted to the MICU
+   Allergies:
+   Lisinopril
+   Angioedema;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Dextrose 50% - [**2719-12-8**] 05:15 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2719-12-8**] 10:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 92 (85 - 106) bpm
+   BP: 133/82(94) {119/59(74) - 157/96(103)} mmHg
+   RR: 14 (8 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 65 Inch
+   CVP: 6 (2 - 6)mmHg
+   Total In:
+                                                                  1,606 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,000 mL
+   Blood products:
+                                                                    556 mL
+   Total out:
+                                                                      0 mL
+                                                                    980 mL
+   Urine:
+                                                                    980 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    626 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///18/
+   Physical Examination
+   NAD
+   RRR, phys. Split S2
+   Lungs slightly diminished at bases
+   Extrme warm
+   Labs / Radiology
+   6.3 g/dL
+   34 K/uL
+   40 mg/dL
+   1.7 mg/dL
+   18 mEq/L
+   3.9 mEq/L
+   22 mg/dL
+   104 mEq/L
+   141 mEq/L
+   18.2 %
+   5.3 K/uL
+        [image002.jpg]
+                             [**2719-12-8**]  04:05 AM
+   WBC
+   5.3
+   Hct
+   18.2
+   Plt
+   34
+   Cr
+   1.7
+   Glucose
+   40
+   Other labs: PT / PTT / INR:20.8/40.2/2.0, ALT / AST:70/213, Alk Phos /
+   T Bili:150/2.7, Lactic Acid:3.6 mmol/L, Albumin:3.1 g/dL, LDH:320 IU/L
+   Assessment and Plan
+   GI Bleed -
+   Hemetemesis with Hct 18. Getting transfused now. Vit K 10mg daily x 3
+   days. GI to see today for endoscopy. CVC for access. Follow Hct q6hrs.
+   Holding anti-hypertensives. Octreotide. Ddx gastritis vs ulcer vs (less
+   likely) variceal bleed.
+   + IV PPI.
+   Acidosis -
+   Lactic acidosis. Trending. Some oxygen delivery deficit with HCt 18,
+   but also in the setting of liver disease.
+   Etoh wd
+   on CIWA scale now.
+   Further plans as per resident note
+   Can likely transfer out of the unit post-EGD.
+   ICU Care
+   Nutrition:
+   Comments: NPO pending EGD
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2719-12-8**] 03:45 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Critical ill from GI bleed
+ now resolved.
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

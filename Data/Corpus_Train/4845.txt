@@ -1,0 +1,601 @@
+Admission Date:  [**2687-3-17**]              Discharge Date:   [**2687-4-1**]
+
+Date of Birth:  [**2623-6-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Demerol / Haldol
+
+Attending:[**First Name3 (LF) 4699**]
+Chief Complaint:
+Syncope.
+
+Major Surgical or Invasive Procedure:
+Permanent pacemaker placed.
+Internal jugular central venous line placed.
+Arterial line placed.
+
+Procedures performed prior to arriving at [**Hospital1 18**]:
+Endotracheal intubation
+Subclavian central venous line
+Transvenous pacing wires
+Interosseous line
+
+
+History of Present Illness:
+  Ms. [**Known patient lastname 4488**] is a 63 yo woman with history of hypothyroid,
+lupus, non-hodgkin's lymphoma s/p xrt and chemotherapy 17 years
+ago who presented to [**Hospital3 1425**] hospital earlier today
+after a syncopal episode at home.
+
+  A couple of weeks ago, Mrs. [**Known patient lastname **] was in the bathroom
+during the night. She awoke her husband and could not get off
+the toilet. She felt faint. Her husband helped her up, noticing
+that both of her legs and arms were cool. She lay back in her
+recliner - in which she has slept since her radiotherapy and
+lymphoma. Her husband asked if he should call EMS, but she
+didn't think it necessary.
+
+  Today, Mrs. [**Known patient lastname 4488**] was at home. Mr. [**Known patient lastname 4488**] went to work.
+During the morning she felt faint and called EMS. They arrived
+to find that she had fallen from her chair to the floor,
+striking her head. Per [**Hospital3 1425**] ED, she was
+unresponsive when the EMS arrived, unable to answer questions.
+However, en route, she apparently complained of neck and back
+pain. She was bradycardic to the 20s and transcutaneous pacing
+was unsuccessful. Dopamine increased her heart rate and atropine
+did little.
+
+  On arrival the [**Hospital3 1425**] ED, she was described as
+lethargic but communicative, but soon after became 'suddenly
+ashen/cyanotic'. Dopamine gtt was started. Slow capillary refil
+was noted. EKG was interpreted as 'complete heart block with AV
+dissociation'. An echo was performed, per the Cardiology consult
+note, which noted global hypokinesis and LVEF of 25-30% while
+paced. Echos have previously been near normal.
+
+  She was intubated for airway protection and sedation in the
+setting of bradycardia and placement of the temp wire.
+Tranvenous pacing wires were placed via a right subclavian line
+under fluroscopy (the left actually has an adjacent 17-year-old
+Port-A-Cath, still in place from treatment of her lymphoma).
+Given likely necessity for a PPM/ICD and her hemodynamic
+instability, she was transferred to [**Hospital1 18**] CCU.
+
+  She arrived in a rigid neck collar - although CT head and neck
+had been performed at [**Hospital1 481**], [**Location (un) 1116**] was not completed. Her
+vitals on arrival were 98.7 F, 85 BPM, 21 RR, 100%. Blood
+pressure messurements varied widely, but were typically from 80s
+to 100s systolic.
+
+Past Medical History:
+- Lupus, [**Doctor First Name **] supressed, manifests as pleural effusions, on
+prednisone
+- Hypothyroidism, s/p partial thyroidectomy w/ lymphoma of neck,
+chemoradiation plus resection, on levothyroxine
+- Hypertension
+- Gastroesophageal reflux disease
+- Fibromyalgia, on oxycodone 7.5 mg [**Hospital1 **]
+- Sleep apnea, diagnosed, but has not wanted CPAP yet
+- Depression, on fluoxetine
+- Obesity
+- Osteoporosis
+- Cerebrovascular (small vessel) disease (on ASA and Plavix)
+
+Social History:
+-Tobacco history: None.
+-ETOH: None.
+-Illicit drugs: None.
+Lives with husband in two family. Daughter and son-in-law live
+upstairs with their son and a dog. Significant discord with
+daughter and son-in-law at present. Also grandchildren upstairs.
+
+
+
+Family History:
+Family history of heart disease, but not of early onset.
+
+Physical Exam:
+General: morbidly obese woman
+HEENT: Pupils symmetrically and markedly dilated (s/p atropine),
+ears clear, tube in place, cannot inspect OP
+Neck: Hematoma and echymosis on right lateral neck (later -
+central line in place in right IJ), very thick neck, cannot
+evaluate JVP.
+Cardiac: Difficult to auscultate due to ventilator and habitus,
+near tachycardic and regular.
+Lungs: Symmetric air entry anteriorly with some transmitted
+upper airway sound and ventilator noise.
+Abdomen: Obese, non-tender to deep palpation.
+Extremities: Trace edema, IO access in place at admission (later
+removed). Extremities cool and dusky.
+Skin: Echymosis on neck, [**Female First Name (un) **] under panus and breasts.
+Pulses: Peripheral pulses barely palpable, but ulnar and radial
+arteries were Dopplerable bilaterally.
+
+At the time of discharge, Mrs.[**Known patient lastname 19981**] physical exam was
+unchanged but for the following: Hematoma and bandage over pacer
+site, right subclavian, [**Female First Name (un) **] cleared, extremities well
+perfused, alert, oriented and appropriate, although drowsy at
+times.
+
+Pertinent Results:
+Labs at Admission
+[**2687-3-17**] 05:24PM BLOOD WBC-10.9# RBC-4.37 Hgb-14.7 Hct-44.0
+MCV-101* MCH-33.8* MCHC-33.5 RDW-12.3 Plt Ct-208
+[**2687-3-17**] 05:24PM BLOOD Neuts-76.4* Lymphs-12.1* Monos-9.3
+Eos-1.9 Baso-0.3
+[**2687-3-17**] 05:24PM BLOOD PT-12.8 PTT-23.4 INR(PT)-1.1
+[**2687-3-19**] 03:56AM BLOOD Ret Aut-1.2
+[**2687-3-17**] 05:24PM BLOOD Glucose-120* UreaN-8 Creat-0.7 Na-140
+K-3.8 Cl-103 HCO3-27 AnGap-14
+[**2687-3-17**] 05:24PM BLOOD ALT-58* AST-90* LD(LDH)-488* CK(CPK)-299*
+AlkPhos-62 TotBili-2.3*
+[**2687-3-17**] 05:24PM BLOOD CK-MB-14* MB Indx-4.7 cTropnT-1.20*
+[**2687-3-17**] 05:24PM BLOOD Albumin-3.6 Calcium-9.1 Phos-2.6* Mg-1.3*
+[**2687-3-19**] 03:56AM BLOOD Hapto-18*
+[**2687-3-22**] 05:39AM BLOOD VitB12-559 Folate-8.2
+[**2687-3-17**] 05:24PM BLOOD T4-8.1
+[**2687-3-18**] 06:14AM BLOOD Free T4-1.5
+[**2687-3-20**] 05:00AM BLOOD C3-122 C4-23
+[**2687-3-17**] 10:17PM BLOOD Type-ART pO2-142* pCO2-36 pH-7.44
+calTCO2-25 Base XS-1
+[**2687-3-17**] 10:17PM BLOOD Lactate-2.0
+[**2687-3-17**] 10:17PM BLOOD O2 Sat-98
+[**2687-3-19**] 10:47AM BLOOD freeCa-1.01*
+[**2687-3-17**] 05:24PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+Cardiac Enzymes and [**Doctor First Name **]
+[**2687-3-17**] 05:24PM BLOOD CK-MB-14* MB Indx-4.7 cTropnT-1.20*
+[**2687-3-18**] 12:49AM BLOOD cTropnT-1.02*
+[**2687-3-18**] 06:14AM BLOOD CK-MB-7 cTropnT-0.56*
+[**2687-3-21**] 08:45AM BLOOD [**Doctor First Name **]-NEGATIVE
+
+Labs Prior to Discharge
+[**2687-4-1**] 04:35AM BLOOD WBC-10.7 RBC-3.35* Hgb-11.4* Hct-35.2*
+MCV-105* MCH-34.1* MCHC-32.5 RDW-15.0 Plt Ct-493*
+[**2687-3-31**] 08:25AM BLOOD Neuts-77.2* Lymphs-13.1* Monos-6.3
+Eos-3.2 Baso-0.2
+[**2687-3-30**] 08:27AM BLOOD PT-15.5* PTT-27.0 INR(PT)-1.4*
+[**2687-4-1**] 04:35AM BLOOD Glucose-91 UreaN-12 Creat-0.7 Na-140
+K-3.4 Cl-98 HCO3-35* AnGap-10
+[**2687-3-22**] 05:39AM BLOOD ALT-39 AST-45* AlkPhos-61 TotBili-1.4
+[**2687-4-1**] 04:35AM BLOOD Calcium-8.9 Phos-4.0 Mg-2.2
+[**2687-3-25**] 02:47PM BLOOD Lactate-1.4 K-3.9
+
+Speech & Swallowing Assessment, [**3-28**]
+Functional Oral Intake Scale (FOIS) rating of 6.
+RECOMMENDATIONS:
+1. Suggest a PO diet of thin liquids and soft, moist solids.
+2. Small bites and sips.
+3. Meds crushed w/ purees [**1-18**] esophageal strictures.
+4. TID Oral care.
+
+EKG [**2687-3-17**]
+Sinus rhythm. Left axis deviation. Right bundle-branch block
+with left anterior fascicular block. There are Q waves in the
+inferior leads consistent with prior myocardial infarction.
+There is lack of R waves in the anterior and anterolateral leads
+consistent with possible prior myocardial infarction.
+Non-specific ST-T wave changes. Low voltage in the precordial
+leads. Compared to the previous tracing right bundle-branch
+block, left anterior fascicular block and evidence of myocardial
+infarction are new.
+Rate PR QRS QT/QTc P QRS T
+87 170 134 398/445 60 -63 105
+
+Echo [**2687-3-18**]
+Regional left ventricular wall motion is normal. Overall left
+ventricular systolic function is normal (LVEF>55%). Right
+ventricular chamber size and free wall motion are normal. There
+is no aortic valve stenosis. No aortic regurgitation is seen.
+The mitral valve leaflets are not well seen. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Very limited study. Grossly preserved biventricular
+systolic function. Unable to comment on any valvular
+vegetations. If clinical suspicion of endocarditis persists,
+recommend obtaining a transesophageal study.
+
+CT chest, abdomen, pelvis [**2687-3-19**]
+IMPRESSION:
+1. Markedly low lung volumes, with asymmetric left basilar
+consolidation, with air bronchograms. This may represent
+atelectasis, though pneumonia is certainly not excluded.
+Clinical correlation is advised.
+2. Adequate positioning of supportive and monitoring devices
+including endotracheal tube, Swan-Ganz catheter, and NG tube.
+3. Marked fatty infiltration of the liver.
+4. Fatty involution of the pancreas.
+5. Sigmoid diverticulosis without diverticulitis. Small bowel
+diverticulosis.
+
+EKG [**2687-3-26**]
+Sinus rhythm. Left axis deviation. Anteroseptal, anterior and
+inferior myocardial infarction. Intraventricular conduction
+delay. Compared to the previous tracing of [**2687-3-24**] there is no
+significant change.
+Rate PR QRS QT/QTc P QRS T
+81 174 108 426/[**PT ID Number 19982**] 44
+
+CXR [**2687-3-29**]
+COMPARISON: Chest radiograph one day prior and multiple
+previous.
+Examination is somewhat limited by patient positioning and
+difficulty penetration. However, there is persistent left
+basilar atelectasis and pleural effusion with possible airspace
+infectious consolidation superimposed. The right lung remains
+clear. A right chest pacing device appears in unchanged position
+since the most recent radiograph. The bony thorax is difficult
+to evaluate.
+IMPRESSION: Persistent left effusion with atelectasis and
+possible superimposed airspace consolidation.
+
+CT head [**2687-3-30**]
+IMPRESSION:
+1. No acute intracranial process.
+2. Sequelae of small vessel disease and old lacunar infarcts in
+the left basal ganglia.
+3. Complete opacification of the sphenoid sinus with inspissated
+secretions, essentially unchanged since [**7-/2677**], consistent with
+chronic sinusitis, with possible contribution of fungal
+colonization.
+
+Brief Hospital Course:
+In summary a 63 yo woman with h/o lupus, morbid obesity, h/o
+large cell lymphoma and hypothyroidism who presented with
+syncope in the setting of bradycardia and hypotension.
+
+Syncope
+  Likely due to bradycardia with conduction block. She has been
+presyncopal numerous times recently, suggestive of intermittent
+heart block. She was hypotensive and bradycardic in the OSH, and
+tranvenous wires were required with restoration of blood
+pressure by pacing to 70 BPM. Transcutaneous pacing was not
+successful given habitus. EKG significant for large voltages and
+prolonged QRS, normal PR, suggesting Hisian disease, rather than
+calcific (CXR does not show marked calcification), infiltrative
+disease (voltages only slightly low in precordial leads but
+otherwise normal), or Rickettsial disease (intermittent rather
+than progressive). However, past MI is suggested by EKG, which
+may be responsible for block. EP planned to place a pacer, but
+she became febrile and hypotensive briefly on HD2, delaying
+placement.  Eventually a permanent pacemaker was placed.  She
+was not pacemaker dependent during most of her admission, only
+intermittantly engaging her device.  Pacemaker placement was
+complicated by right subclavian hematoma - stable and without
+pain (this does increase the risk of post-device infection,
+however, so suspicion should remain for this if she develops a
+fever and inflammation around the site). She will follow-up with
+electrophysiology.
+
+Head Injury upon Syncope
+  She had a contusion on her occiput upon arrival. C-spine and
+head cleared per OSH CT's - discussed with OSH radiologist.
+Given delirium and recent fall, her head CT was repeated late in
+the admission, for concern of slow subdural bleed. This repeat
+head CT was also without any bleeding.
+
+Respiratory failure
+  Patient was intubated prior to arrival to secure airway and
+also because of hypoxia.  Unclear etiology of hypoxia, but
+despite negative sputum favor respiratory infection(see below).
+However, primary cardiac process, including Hisian disease could
+account for respiratory failure, hypotension, hypoxia.
+Endocarditis was also considered given old hardware, arrhythmia,
+and low grade temp. Very high doses of fentanyl, Versed and
+proprofol were required for sedation, likely due to partitioning
+into lipid in a very large volume of distribution.
+Dexmedetomidine was used a bridge to extubation with
+anesthesiology present. This was successful and she remained
+comfortable on nasal cannula and then room air soon afterward.
+Although not taking bronchodilators at home, she was given
+ipratropium and albuterol nebulizer treatments in hospital -
+these may later be discontinued.
+
+Sedation, Mental Status, Delerium
+  High doses of sedative medications were used, as described
+above. She also takes both opioids and benzodiazepines at home
+and has long suffered depression. As she recovered from
+sedation, delirium was prominent, along with some hallucinations
+and delusions. Psychiatry was consulted and recommended Zydis if
+absolutely necessary (not needed) and restarting home
+benzodiazepines (at a lower dose). During her early recovery
+from sedation haloperidol was also required, particularly given
+some outburst - she thumped her husband and grabbed the
+respiratory therapist. However, she had QT prolongation in
+response to this medication and it was discontinued.  By the
+time of discharge she was pleasant, cooperative, without
+delusions and hallucinations, was remebering environmental
+events accurately, but was still drowsy at times during the day.
+
+
+Coronary Artery Disease
+  Evidenced by EKG changes, with impression of normal echo in a
+limited study. Continued aspirin (also indicated by
+cerebrovascular disease) and statin.
+
+Consolidation on Chest X-ray
+  No clinical correlate. Daily body temperature maximum was
+typically 99s, but no infection was identified and pneumonia was
+not suspected upon physical examination. However, breath sounds
+are difficult to appreciate and she was intubated for several
+days, so this should be followed. Yeast was found in sputum and
+urine, but Infectious Diseases recommended not treating this as
+they did not feel she clinically had an infection.
+
+Hypotension and Hypertension
+  In context of fever, mild leukocytosis, considered sepsis.
+Swan-Ganz initially demonstrated increased calculated CO and
+decreased SVR c/w sepsis. Treated broadly for seven days, with
+suspicion much lower immediately after initiation of antibiotics
+(vancomycin, cefepime, and flagyl) - however, given somewhat
+fragile patient we felt that continuing treatement was most
+prudent. Sites of infection considered included
+endo/myocarditis, bacteremia, aspiration pneumonia/itis, along
+with some infected hardware given placement of a Port-a-Cath
+(left subclavian) that was never removed 17 years ago after
+chemotherapy. Urine lytes and physiology was then most
+consistent with a pre-renal, dehydrated state and blood
+pressures overshot after fluid resuscitation was given (also in
+the context of increase of steroids for lupus to stress-doses).
+  Hypertension is treated at home with propranolol, likely given
+desirable anxiolytic effects. This was restarted during the
+admission and blood pressure will need to be followed.
+Aggressive treatment did not occur as some hypertension was
+likely secondary to steroids and there was still quite some
+variation.
+
+Leukocytosis
+  Resolved now. Neutrophilia and leukocytosis, fever,
+hypotension on HD2, together concerning for sepsis. She was
+broadly covered with vancomycin, cefepime, metronidazole,
+completing a seven day course despite spontaneous resolution of
+fever (short latency, unlikely antibiotic effect).  Together
+concerning for sepsis/occult infection. Could well be Gram
+negative sepsis. Recrudescence of lymphoma seems unlikely.
+
+Cardiac Enzyme Leak
+  LDH could be cardiac, CK partially cardiac and TropT obviously
+so. TropT and CKMB trended down, so we attributed this to pacing
+in context of hypotension and hypoxia. However, recent missed MI
+would be consistent with EKG findings and offer an explanation
+for her heart block (EKG changes were also septal).
+
+Sleep Apnea
+  This has been diagnosed by sleep study in the past and noticed
+again during the admission. We discussed this with her and Mr.
+[**Known patient lastname 4488**] and recommended that they follow-up in the future with
+Sleep Medicine to start CPAP at home.
+
+Elevated Total Bilirubin
+  Biliary and hemaptic processes were considered, RUQ ultrasound
+negative. Most likely secondary to hemolysis within hematoma in
+neck after central line placement on arrival.
+
+Anemia
+  Hct drop from 40 to 32. Elevated direct bili and decreased
+haptoglobin, but felt to be more likely secondary to hemotoma
+than hemolysis given resolution. However, did consider DIC in
+septic picture, which later did not fit the clinical picture.
+Most likely dilutional change plus blood breakdown in hematoma.
+
+Lupus
+  Manifested only as pleural effusions in past. Inactive during
+the admission. Her Rheumatologist, Dr. [**Last Name (STitle) **], saw her
+during the admission and explained that here [**Doctor First Name **] is supressed on
+prednisone. She will follow-up with Dr. [**Last Name (STitle) **] in [**Month (only) **].
+Complement also within normal limits. Insulin sliding scale was
+used with stress dose steroids, but not needed when steroids
+were reduced.
+
+Nutrition
+  Tube feeds were given while she was intubated. Speech and
+Swallow deemed soft solids and thin liquids safe for her about
+24 hours after extubation. This can likely be progressed soon,
+however, she has long had difficulty swallowing, reports an
+esophageal diverticulum and crushes pills at home.
+
+Access
+  Venous access was very difficult. A central line (internal
+jugular) was placed and removed after pacer placement to reduce
+chance of infection. A subclavian line (right) was placed at the
+OSH for transvenous pacing. This was removed and right
+subclavian access used for pacer wires and pacer pocket.
+Port-a-Cath of 17 years standing occupies the left subclavian
+position. Placement of arterial line was difficult also.
+Peripheral venous access was maintained.
+
+Hypothyroidism and Past Lymphoma
+  Per Mrs. [**Known patient lastname 4488**]: Had a 'large cell' lymphoma of the neck
+that was attached to the thyroid, resulting in partial
+resection. Chemoradiotherapy was also given. She now requires
+levothyroxine. TSH was suppressed at 0.16 during the admission,
+suggesting that levothyroxine might be later adjusted downward
+after
+
+Chronic Pain
+  Chronic low back pain and fibromyalgia were treated at home
+with Percocet 7.5/500 mg up to four times daily (typically two).
+We changed this to standing Tylenol with oxycodone breakthrough
+on discharge, ensuring that her intake of Tylenol is controlled.
+
+
+Depression and Anxiety
+  Treated with fluoxetine throughout the admission. Trazadone is
+also given at a dose with some antidepressant efficacy,
+possibly, on the cusp of sedative/antidepressant doses (75 mg).
+Trazadone, fluoxetine, propranalol and Xanax are her anxiolytic
+medications.
+
+Hemoptysis
+  Brief self-limited hemoptysis after extubation was thought to
+be due to endothelial scratch during ETT removal. There was only
+one episode.
+
+Hypokalemia
+  Typically received 20-40 mEq per day in hospital. She is
+written for 20 mEq daily, but this will need to be followed,
+perhaps in three to four days.
+
+DVT Prophylaxis
+  Mrs. [**Known patient lastname 4488**] was given 7500 [**Location 19983**] heparins TID.
+
+Code Status and Health Care Proxy
+  She was full code throughout the admission. Her HCP is her
+very helpful, nice and supportive husband, [**Name (NI) **] [**Name (NI) 4488**].
+
+Osteoporosis
+  Vitamin D and calcium were restarted at discharge. Alendronate
+should be resumed as prior to the admission.
+
+Hypercholesterolemia
+  Atorvastatin was continued at home dose during the admission.
+Given likely CAD, patient may warrant uptitration of this
+medication as an outpatient.
+
+Cerebrovascular Disease
+  Continued Plavix and aspirin given CT evidence and history of
+cerebrovascular disease and stroke.
+
+Yeast Cutaneous Infection
+  Resolved during the admission with cleansing and topical
+antifungal.
+
+GERD
+  She was diagnosed with GERD in [**2683**], but without active
+treatment. She was maintained on famotidine throughout the
+admission, starting at intubation. This was stopped at
+discharge.
+
+Disposition
+  She remained in the CCU throughout the admission for nursing
+support and was transferred directly to acute rehabilitation for
+physical therapy and to return to baseline before returning
+home.
+
+Medications on Admission:
+- Alendronate 70 mg once weekly
+- Alprazolam 2 mg qhs
+- Atorvastatin 10 mg qday
+- Clopidogrel 75 mg qday
+- Ergocalciferol 50,000 unit qweek
+- Fluoxetine 60 mg qday
+- Levothyroxine 200 mcg qday
+- Nystatin cream prn
+- Percocet 7.5-500 qid prn
+- Potassium chloride 20 mEq tid
+- Prednisone 6 mg qday
+- Propranolol 80 mg qday
+- Trazodone 75 mg qhs
+- ASA 325 qday
+- Cyanocobalamin 100 mcg qday
+- Multivitamin qday
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 7500 (7500)
+units Injection TID (3 times a day).
+2. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5. Therapeutic Multivitamin     Liquid Sig: Five (5) ML PO DAILY
+(Daily).
+6. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+7. Prednisone 1 mg Tablet Sig: Six (6) Tablet PO DAILY (Daily).
+
+8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+9. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1)  PO BID (2
+times a day) as needed for constipation.
+10. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed for shortness of breath or
+wheezing.
+11. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation every six (6) hours as
+needed for shortness of breath, wheezing.
+12. Acetaminophen 650 mg/20.3 mL Solution Sig: One (1)  PO Q8H
+(every 8 hours).
+13. Propranolol 80 mg Capsule,Sustained Action 24 hr Sig: One
+(1) Capsule,Sustained Action 24 hr PO DAILY (Daily).
+14. Fluoxetine 20 mg Capsule Sig: Three (3) Capsule PO daily ().
+
+15. Oxycodone 5 mg/5 mL Solution Sig: 7.5 mg PO Q8H (every 8
+hours) as needed for pain.
+16. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a
+week.
+17. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID
+(3 times a day) as needed for redness at skin folds.
+18. Alprazolam 0.25 mg Tablet Sig: Two (2) Tablet PO QHS (once a
+day (at bedtime)).
+19. Trazodone 50 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime).
+
+20. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day.
+21. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week:
+weekly on empty stomach with full 8oz of water, do not eat or
+lie down for 30 min after taking .
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Courtyard - [**Location (un) 1450**]
+
+Discharge Diagnosis:
+Primary Diagnoses:
+Syncope
+Symptomatic bradycardia
+
+Secondary Diagnoses:
+- Lupus
+- Hypothyroidism
+- Hypertension
+- Gastroesophageal reflux disease
+- Fibromyalgia
+- Sleep apnea
+- Depression
+- Obesity
+- cerebro-vascular disease
+
+Discharge Condition:
+Mental Status: Confused - sometimes - patient is usually clear
+during the day but sometimes becomes confused at night.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair. Patient requires assistance of a [**Doctor Last Name 9679**] to get out of
+bed to chair.
+
+Discharge Instructions:
+You were admitted to the hospital because you fainted and were
+found to have a very slow heart rate.  You had a permanent
+pacemaker placed. You will need to follow-up in the pacemaker
+device clinic and with an electrophysiologist (a cardiologist
+who specializes in pacemakers).
+
+Followup Instructions:
+Please call the cardiology department at [**Telephone/Fax (1) 62**] on Tuesday
+[**4-5**] to get the dates and times of your device clinic and
+electrophysiology appointments.
+
+Please attend these follow-up appointments with your primary
+care doctor and your rheumatologist:
+
+[**2687-5-2**]  02:45p   [**Last Name (LF) **],[**First Name3 (LF) **] W.
+  [**Location (un) **] ([**Location (un) 2744**], MA), [**Location (un) **]
+  [**Location (un) 2744**] INTERNAL MEDICINE (NHB)
+
+[**2687-5-20**]  01:00p   [**Last Name (LF) 3260**],[**First Name3 (LF) **] (RHEUM LMOB)
+  LM [**Hospital Unit Name **], [**Location (un) **]
+  RHEUMATOLOGY LMOB WEST (SB)
+
+
+
+
+
+DOC CLASS

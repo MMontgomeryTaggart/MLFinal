@@ -1,0 +1,163 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ CARDIAC CATH - At [**2973-12-26**] 04:00 AM
+ SHEATH - START [**2973-12-26**] 05:15 AM
+   - hypotensive o/n, noted swollen eyes with conjunctival hemorrhage.
+   - given bolus of 1L
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Eptifibatide (Integrilin) - 2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2973-12-26**] 07:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 105 (99 - 105) bpm
+   BP: 74/40(76) {74/40(63) - 90/65(76)} mmHg
+   RR: 25 (22 - 27) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 72 Inch
+             Total In:
+             1,353 mL
+   PO:
+             TF:
+   IVF:
+   1,353 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,353 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 94%
+   ABG: ///22/
+   Physical Examination
+   GENERAL: WDWN, in NAD. disoriented.
+   HEENT: NCAT, bloody sclera. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP of 8 cm.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   272 K/uL
+   13.7 g/dL
+   124 mg/dL
+   1.2 mg/dL
+   22 mEq/L
+   4.2 mEq/L
+   14 mg/dL
+   107 mEq/L
+   141 mEq/L
+   39.3 %
+   19.0 K/uL
+        [image002.jpg]
+                            [**2973-12-26**]  04:29 AM
+   WBC
+   19.0
+   Hct
+   39.3
+   Plt
+   272
+   Cr
+   1.2
+   Glucose
+   124
+   Other labs: CK / CKMB / Troponin-T:7946/493/, Differential-Neuts:90.0
+   %, Lymph:7.2 %, Mono:2.5 %, Eos:0.0 %, Ca++:8.2 mg/dL, Mg++:2.8 mg/dL,
+   PO4:2.0 mg/dL
+   Assessment and Plan
+   30 YOM with no pmh p/w CP in the setting of cocaine and etoh use, s/p
+   cardiac arrest and resus.
+   .
+   # CORONARIES:  LAD thrombus was noted on cath, likely [**3-8**] cocaine
+   induced vessel spasms.  resolved after cath and intervention, no stents
+   were placed. given no risk factors in the family or his pmh, plaque
+   rupture is a less likely alternative.
+   - cont. ASA, integrillin gtt
+   - on statin high dose and check lipids and hgA1C in am
+   - no BB, given cocaine use.
+   .
+   # PUMP:  unknown baseline LV function.  Patient was euvolemic on
+   admission exam. cardiac function [**Last Name (un) **] currently will need to reassess
+   with echo and records.
+   - trend CE
+   - holding off BB, give ca channel blockers in am.
+   - consider ACEI if EF < 40%
+   - echo in am
+   .
+   # RHYTHM:  currently in sinus, prior arrythmia is likely [**3-8**] cocaine
+   induced vessel spasm vs thrombus induced ischemia vs electrolyte
+   abnormalities.
+   - on tele, continue to monitor
+   - recieved phentolamine.
+   - mg, k and ca repletion prn
+   .
+   # alcohol/substance use: unsure of the severity of his use, will take
+   precaution on treating/monitoring for withdraw
+   - on ciwa scale, monitor mental status
+   - s/w consult on substance abuse.
+   .
+   FEN:  replete lytes, K>4, mg > 2
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin gtt.
+   -Pain management with morphine.
+   -Bowel regimen with senna, docusate.
+   .
+   CODE: Presumed full
+   .
+   COMM:  Mother - [**Name (NI) 58**] [**Numeric Identifier 11506**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2973-12-26**] 05:12 AM
+   20 Gauge - [**2973-12-26**] 05:13 AM
+   Sheath - [**2973-12-26**] 05:15 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

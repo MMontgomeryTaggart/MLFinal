@@ -1,0 +1,246 @@
+Admission Date:  [**3253-10-28**]              Discharge Date:   [**3253-11-11**]
+
+Date of Birth:  [**3186-7-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Amoxicillin
+
+Attending:[**First Name3 (LF) 5820**]
+Chief Complaint:
+Esophageal Cancer
+
+Major Surgical or Invasive Procedure:
+[**3253-10-30**] Transthoracic esophagectomy with Left cervical
+esophagogastrostomy
+
+
+History of Present Illness:
+This is a 67 year old gentleman with Stage IIA esophageal cancer
+who presented for surgical resection status-post induction
+chemoradiotherapy. His disease presented with regurgitation
+following his CABG surgery in [**10-15**], which was initially
+presumed to be secondary to prolonged intubation, but later
+workup with endoscopy revealed a T3N0Mx lesion and biopsy was
+positive for adenocarcinoma. PET scan revealed FDG uptake to SUV
+of 7.0 and CT scan did not reveal positive metastatic or nodal
+disease. Sympotmatically he denied nausea or vomitting and had
+no dysphagia. He started 1 month of neoadjuvant chemotherapy
+with 5-FU and cisplatin in [**7-16**]. He has been eating small meals
+and is currently on TPN. He had initially lost approximately 15
+pounds while on chemotherapy but has since gained nearly 10
+pounds.
+
+Past Medical History:
+Stage IIA Esophageal AdenoCA, T3N0M0 (PET positive)
+Status-post MVR and CABG x 3 (LIMA to LAD, SVG to OM, SVG to
+PDA) on [**3252-11-8**]
+Status-post J-tube and portacath placement [**7-16**]
+Hypertension
+Status-post pace-maker/defibrillator implantation on [**3253-2-12**]
+Heartburn x 20 years
+Atrial Fibrillation
+Hypothyroidism
+
+Social History:
+The patient is married and lives in [**Location 1221**], MA. He has three
+children and is a former engineer. He has never smoked and
+denies ever drinking alcohol. He does not use recreational
+drugs.
+
+Family History:
+Denies any h/o cancer, CAD.  Parents died when he was young,
+unsure of causes.
+
+
+Physical Exam:
+On admission:
+V/S: wt 114 lbs, 20, 100% on room air, 93/66, pulse 89
+Gen: frail, pleasant elderly gentleman, alert, oriented
+Neuro: no focal abnormalities, CN 2-12 grossly intact
+HEENT: moist mucous membranes, PERRLA
+Neck: no lypmhadenopathy
+Pulm: clear to auscultation bilaterally; Right port site intact
+Abd: soft, non-tender/non-distended, normoactive bowel sounds,
+J-tube site intact without erythema or discharge
+Extr: no edema
+
+Pertinent Results:
+SEROLOGIES:
+
+[**3253-10-28**] 04:37PM BLOOD WBC-5.6 RBC-2.72* Hgb-9.2* Hct-25.4*
+MCV-94 MCH-33.7* MCHC-36.0* RDW-16.5* Plt Ct-128*
+[**3253-10-29**] 09:01AM BLOOD WBC-4.7 RBC-2.69* Hgb-9.1* Hct-25.1*
+MCV-93 MCH-33.6* MCHC-36.1* RDW-16.1* Plt Ct-121*
+[**3253-10-30**] 05:02AM BLOOD WBC-4.7 RBC-3.89*# Hgb-12.6*# Hct-34.8*#
+MCV-89 MCH-32.3* MCHC-36.1* RDW-16.1* Plt Ct-117*
+[**3253-10-31**] 03:06AM BLOOD WBC-14.8* RBC-3.95* Hgb-12.5* Hct-33.4*
+MCV-85 MCH-31.5 MCHC-37.3* RDW-16.2* Plt Ct-90*
+[**3253-11-1**] 03:29AM BLOOD WBC-13.6* RBC-3.09* Hgb-9.8* Hct-27.0*
+MCV-88 MCH-31.8 MCHC-36.3* RDW-15.9* Plt Ct-73*
+[**3253-11-1**] 06:00AM BLOOD WBC-15.3* RBC-3.19* Hgb-10.2* Hct-28.5*
+MCV-89 MCH-32.1* MCHC-35.9* RDW-15.9* Plt Ct-71*
+[**3253-11-1**] 02:22PM BLOOD WBC-15.6* RBC-3.79* Hgb-11.7* Hct-31.9*
+MCV-84 MCH-30.8 MCHC-36.7* RDW-16.3* Plt Ct-66*
+[**3253-11-3**] 03:20AM BLOOD WBC-11.9* RBC-3.29* Hgb-10.2* Hct-28.1*
+MCV-85 MCH-31.1 MCHC-36.4* RDW-16.2* Plt Ct-89*
+[**3253-11-5**] 05:22AM BLOOD WBC-9.0 RBC-3.30* Hgb-10.2* Hct-29.7*
+MCV-90 MCH-30.8 MCHC-34.2 RDW-15.2 Plt Ct-108*
+[**3253-11-10**] 04:45AM BLOOD WBC-10.6 RBC-3.06* Hgb-9.3* Hct-28.3*
+MCV-92 MCH-30.3 MCHC-32.8 RDW-15.2 Plt Ct-218
+
+[**3253-10-28**] 04:37PM BLOOD PT-16.5* PTT-87.4* [**Month/Day/Year 2573**](PT)-1.7
+[**3253-10-29**] 09:01AM BLOOD PT-15.2* PTT-66.0* [**Month/Day/Year 2573**](PT)-1.5
+[**3253-10-29**] 05:26PM BLOOD PT-14.3* PTT-97.5* [**Month/Day/Year 2573**](PT)-1.3
+[**3253-10-31**] 03:06AM BLOOD PT-14.3* PTT-150* [**Month/Day/Year 2573**](PT)-1.3
+[**3253-11-1**] 06:00AM BLOOD PT-13.7* PTT-60.3* [**Month/Day/Year 2573**](PT)-1.2
+[**3253-11-2**] 02:25PM BLOOD PT-13.4 PTT-53.9* [**Month/Day/Year 2573**](PT)-1.1
+[**3253-11-6**] 06:15AM BLOOD PT-21.2* PTT-110.7* [**Month/Day/Year 2573**](PT)-2.8
+[**3253-11-8**] 03:46AM BLOOD PT-23.2* PTT-39.8* [**Month/Day/Year 2573**](PT)-3.4
+[**3253-11-10**] 04:45AM BLOOD PT-21.3* PTT-39.5* [**Month/Day/Year 2573**](PT)-2.9
+
+[**3253-10-28**] 04:37PM BLOOD Glucose-98 UreaN-32* Creat-1.4* Na-138
+K-4.1 Cl-108 HCO3-21* AnGap-13
+[**3253-10-30**] 05:02AM BLOOD Glucose-118* UreaN-27* Creat-1.2 Na-139
+K-3.5 Cl-103 HCO3-25 AnGap-15
+[**3253-10-31**] 03:06AM BLOOD Glucose-158* UreaN-30* Creat-1.2 Na-133
+K-4.3 Cl-109* HCO3-19* AnGap-9
+[**3253-11-1**] 11:04PM BLOOD Glucose-122* UreaN-31* Creat-1.1 Na-136
+K-3.7 Cl-107 HCO3-22 AnGap-11
+[**3253-11-2**] 02:25PM BLOOD Glucose-127* UreaN-29* Creat-1.0 Na-134
+K-3.9 Cl-104 HCO3-25 AnGap-9
+[**3253-11-6**] 06:15AM BLOOD Glucose-134* UreaN-32* Creat-1.1 Na-133
+K-4.3 Cl-101 HCO3-28 AnGap-8
+[**3253-11-8**] 06:15PM BLOOD Glucose-134* UreaN-55* Creat-1.1 Na-140
+K-4.3 Cl-102 HCO3-33* AnGap-9
+[**3253-11-10**] 04:45AM BLOOD Glucose-120* UreaN-38* Creat-1.1 Na-140
+K-4.2 Cl-106 HCO3-28 AnGap-10
+
+[**3253-10-28**] 04:37PM BLOOD ALT-18 AST-30 LD(LDH)-351* AlkPhos-79
+Amylase-73 TotBili-1.1
+[**3253-11-5**] 05:22AM BLOOD ALT-21 AST-38 AlkPhos-156* Amylase-38
+TotBili-0.8
+
+[**3253-10-28**] 04:37PM BLOOD Albumin-3.6 Calcium-9.6 Phos-3.4 Mg-1.9
+[**3253-10-30**] 05:02AM BLOOD Calcium-9.2 Phos-4.9* Mg-2.3
+[**3253-11-9**] 08:58AM BLOOD Calcium-7.5* Phos-3.7 Mg-2.1
+
+RADIOLOGY:
+
+[**3253-11-7**] Video Swallow Study:
+Aspiration secondary to impaired pharyngeal esophageal sphincter
+and left pharyngeal wall paralysis.
+
+[**3253-11-7**] Esophagram: Contrast flowed freely through a patent
+anastomosis into the stomach, duodenum, and distal small bowel.
+No leak was seen at the anastomosis site.
+
+[**3253-11-7**] Chest Xray: 1. No pneumothorax. 2. Bibasiilar
+atelectasis, and small left pleural effusion.
+
+MICROBIOLOGY:
+
+[**3253-11-7**] MRSA screen: negative
+[**3253-11-7**] VRE screen: negative
+
+
+Brief Hospital Course:
+This is a 67 year old gentleman with stage IIA esophageal cancer
+status-post neoadjuvant chemo/radiation who presented for
+surgical resection. He underwent a three-hole thoracic
+esophagectomy with cervical anastamosis on [**3253-10-29**]. He received
+2 units of blood during the procedure and was extubated on
+[**3253-10-31**]. He remained in the surgical intensive care unit for 6
+days. His immediate post-operative period was complicated by
+several episodes of atrial fibrillation and SVT which converted
+on various occasions with beta-blockade; he never required
+electrical cardioversion. He was started back on Coumadin
+post-operatively for his atrial fibrillation and mechanical
+mitral valve.  He also underwent ultra-sound guided aspiration
+of 1500 cc of fluid from his left chest on post-operative day 5
+which resulted in much improvement in his respiratory status. He
+was transfered to the floor on post-operative day 6 and tube
+feeding was begun, with goal reached by post-operative day 10.
+His chest tubes were removed on post-operative day 7. On the
+floor he worked with physical therapy to assist with ambulation.
+He had an esophogram study done on post-operative day 9 which
+revealed no leak from his anastamosis and his cervical JP drain
+was removed. A video swallow study revealed paralysis of the
+left pharynx resulting in aspiration and the patient was kept
+NPO with tube feeds. He was discharged with planned follow-up
+with thoracic surgery.
+
+Medications on Admission:
+Protonix 40 mg oral daily
+Zocor 10 mg oral daily
+Levothyroxin 0.1 mg oral daily
+Coumadin 1 mg oral QHS
+
+Discharge Medications:
+1. Warfarin Sodium 3 mg Tablet Sig: One (1) Tablet PO once a
+day: goal [**Date Range 2573**] 3-3.5.
+[**Date Range **]:*40 Tablet(s)* Refills:*2*
+2. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO
+once a day.
+3. Docusate Sodium 150 mg/15 mL Liquid Sig: Ten (10) ml PO BID
+(2 times a day) as needed for constipation.
+[**Date Range **]:*500 ml* Refills:*0*
+4. Hydromorphone HCl 2 mg Tablet Sig: One (1) Tablet PO Q3-4H ()
+as needed for pain.
+[**Date Range **]:*100 Tablet(s)* Refills:*0*
+5. Amiodarone HCl 200 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+[**Date Range **]:*60 Tablet(s)* Refills:*2*
+6. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day): Hold for SBP < 95.
+[**Date Range **]:*30 Tablet(s)* Refills:*2*
+7. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO once a day.
+[**Date Range **]:*20 Tablet(s)* Refills:*2*
+8. Zocor 10 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Impact/Fiber     Liquid Sig: One (1)  PO once a day: Per tube
+feeding instructions.
+
+Can substitute Nestle equivalent.
+[**Date Range **]:*10 Liters* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital1 1083**] VNA, [**Hospital1 1578**]
+
+Discharge Diagnosis:
+(1) Esophageal Cancer
+(2) Atrial Fibrillation
+(3) Left Pharyngeal Paralysis
+
+
+Discharge Condition:
+Fair
+
+Discharge Instructions:
+Please contact the office or come to the emergeny room with any
+worsening shortness of breath, drainage from your incision site,
+pain not controlled with pain medications, worsening nausea or
+emesis, fever > 101.0. Please call with any questions. Do not
+eat or drink; all your nutrition with be provided with the tube
+feeding. Try to ambulate three times/day.
+
+Followup Instructions:
+Please call the office of Dr. [**First Name (STitle) **] [**Doctor Last Name 3817**] at [**Telephone/Fax (1) 425**] to
+set up a follow-up appointment at a time of your convenience
+within the next 1-2 weeks.
+
+Provider:  [**Name10 (NameIs) 870**] CLINIC Where: [**Hospital6 127**] CARDIAC
+SERVICES Phone:[**Telephone/Fax (1) 869**] Date/Time:[**3253-12-1**] 2:00
+Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD Where: [**Hospital6 127**]
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 302**] Date/Time:[**3253-12-1**] 2:30
+
+
+
+Completed by:[**3253-11-11**]
+
+
+DOC CLASS

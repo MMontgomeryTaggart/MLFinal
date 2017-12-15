@@ -1,0 +1,254 @@
+Admission Date:  [**2979-10-13**]              Discharge Date:   [**2979-10-20**]
+
+Date of Birth:  [**2926-12-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1691**]
+Chief Complaint:
+Back and foot pain.
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+53yoM ESLD (off transplant list [**1-29**] continued alcohol use)
+transferred from [**Hospital3 **] for work-up of hepatic encephalopathy
+and for hepatology care.  By report, patient lives independently
+at home, arrived at [**Hospital3 **] with "weakness" and "back pain,"
+had SBPs 90s, HR 40s - given 1L NS, transferred [**Hospital1 **].
+   In ED, hepatology consult, recommended tox screen, labs.  Pt
+given lactulose, tox screen(-), acetaminophen(+) --> started
+mucomyst, received potassium repletion.  Pt had hypotensive
+episode in high 70's systolic, given 2L NS, BP response to 80s,
+HR 50, RR 18, 96%ra.  -> 2nd IV placed, passed stool, making
+urine >30cc/hr, admitted to ICU after 2L IVF.
+   ROS - as above, reports decreased PO intake for three days.
+Denies fevers, chills, nausea, vomiting
+
+Past Medical History:
+- Type 2 diabetes.
+- Chronic back and neck pain.
+- Cirrhosis secondary to hepatitis C and alcohol abuse.
+- Psychiatric history consistent with his depression/bipolar
+disease.
+- Remote IVDU.
+- Active tobacco use.
+- Basal cell carcinoma of the nose, status post two operations
+with a further operation planned in probably [**2978-11-27**].
+
+
+Social History:
+Patient smokes half a pack per day since the age of 13.  He was
+drinking half a case of beer plus vodka up until [**2978-1-28**].
+He admits to IV drug use for two years in [**2945**] to [**2947**], but
+denies any recent IVDU.  Prior occupation was as a water
+treatment specialist with exposure to multiple chemicals as well
+as driving a rubber truck.  He is currently disabled.  He is
+living with his mother in her house on her couch and is
+currently
+receiving a disability cheque of $300 per month.  He has no
+brothers or sisters, although he does have several cousins who
+are described as being close.  Mr. [**Known patient lastname 13674**] states that he has
+no friends at this time as all of them are deceased from drugs
+and alcohol.
+
+
+Family History:
+Father with MS and history of Liver CA - passed away [**2964**]
+
+Physical Exam:
+PE: T: 97.1 BP:96/52 HR: 58 RR: 16 97 O2%ra
+Gen: NAD, A/Ox3 - oriented to person, place, time, lying in bed,
+conversant, cooperative, but slowed.
+HEENT: no conjunctival pallor, scleral icterus appreciated,
+mildly dry membranes, no posterior pharyngeal erythema.
+NECK: no posterior/anterior LAD, no JVD appreciated.
+CV: RRR, S1+S2+S3-S4-, no murmurs or rubs appreciated.
+LUNGS: CTAB, good air movement bilaterally, mild crackles in
+left lower lobe.
+ABD: NABS, soft, non-tender, non-distended.  Unsure of fluid
+wave, no apparent tense ascites.  +fluid wave.
+EXT: +lower extremity edema.  1+ palpable pulses bilaterally
+dorsalis pedis, posterior tibial, radial, ulnar, all 2+.
+SKIN: diffuse yellowed skin.
+NEURO: A&Ox3, seems apropriate.  Occassional has abnormal
+comments "spider from Mars."  CN 2-12 grossly intact, did not do
+fundoscopy.  Preserved sensation throughout.  MSK [**4-1**]
+bilaterally, upper extremities and lower extremities.  1+
+reflexes L4 bilaterally.
+.
+
+
+Pertinent Results:
+[**2979-10-13**] 07:20PM   PT-28.3* PTT-62.0* INR(PT)-2.9*
+[**2979-10-13**] 07:20PM   PLT COUNT-30*
+[**2979-10-13**] 07:20PM   NEUTS-66.6 LYMPHS-19.9 MONOS-10.9 EOS-2.1
+BASOS-0.5
+[**2979-10-13**] 07:20PM   WBC-3.7* RBC-3.48* HGB-12.9* HCT-36.7*
+MCV-106* MCH-37.2* MCHC-35.3* RDW-18.2*
+[**2979-10-13**] 07:20PM   ASA-NEG ETHANOL-NEG ACETMNPHN-12.5
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2979-10-13**] 07:20PM   HAPTOGLOB-<20*
+[**2979-10-13**] 07:20PM   ALBUMIN-1.9* CALCIUM-8.0* PHOSPHATE-4.3
+MAGNESIUM-2.5
+[**2979-10-13**] 07:20PM   LIPASE-52
+[**2979-10-13**] 07:20PM   ALT(SGPT)-49* AST(SGOT)-96* LD(LDH)-290* ALK
+PHOS-121* AMYLASE-92 TOT BILI-29.9* DIR BILI-21.6* INDIR BIL-8.3
+[**2979-10-13**] 11:17PM   LACTATE-1.9
+
+LIVER OR GALLBLADDER US (SINGL; DUPLEX DOPP ABD/PEL
+
+Reason: ? ascites, ? patency of vesselsplease assess with
+dopplers
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man with ESLD, encephalopathy
+REASON FOR THIS EXAMINATION:
+? ascites, ? patency of vesselsplease assess with dopplers
+ULTRASOUND OF THE LIVER
+
+CLINICAL INDICATION: End-stage liver disease, encephalopathy,
+assess for ascites and patency of liver vessels.
+
+COMPARISON STUDY: [**2979-7-2**].
+
+The liver is grossly abnormal in architecture with a nodular
+pattern and a markedly irregular capsular surface. While no
+discrete hepatic masses are seen, the derangement of
+architecture is so severe that the sensitivity for detection of
+liver lesions is markedly diminished. There is a markedly
+enlarged spleen measuring at least 18 cm in length, and there is
+also evidence of large volume of ascites. Portal vein is patent
+but there is hepatofugal flow in the right portal system and
+flow in the left portal vein is hepatopetal and exits the liver
+via a huge patent umbilical vein collateral.
+
+Pancreas and retroperitoneum are not well seen. There are no
+gallstones identified nor is there evidence of bile duct
+dilatation. There may be some sludge in the dependent portion of
+the gallbladder. Limited views of the kidneys show no obvious
+hydronephrosis.
+
+CONCLUSION: Severe cirrhosis and portal hypertension with large
+patent umbilical vein and massive splenomegaly. The liver
+architecture is markedly deranged and ultrasound is therefore
+insensitive for detection of focal liver lesions, although no
+masses can be identified. Large volume ascites is also noted.
+Portions of the right and middle hepatic veins are visualized
+and are patent.
+
+CHEST (PORTABLE AP)
+
+Reason: infiltrate, edema
+
+UNDERLYING MEDICAL CONDITION:
+52 year old man with hypotension
+REASON FOR THIS EXAMINATION:
+infiltrate, edema
+REASON FOR EXAMINATION: Hypertension in patient with known
+cirrhosis.
+
+The lungs are low. The heart size is slightly enlarged compared
+to [**2979-3-10**] which may be partially explained by low lung
+volumes. The bibasal crowdness of the vessels is more pronounced
+in the left base where developing pneumonia cannot be excluded.
+The upper lungs are unremarkable. The biapical attenuation of
+the lung vessels might represent emphysema. Small left pleural
+effusion cannot be excluded.
+
+IMPRESSION: Questionable left lower lobe pneumonia. Repeated
+radiograph in upright position including the lateral view was
+reccommended for precise evaluation of LLL findings and
+questionable increase in the heart size.
+Findings were discussed with Dr [**First Name (STitle) 1408**] at the time of dictation.
+
+
+Brief Hospital Course:
+Encephalopathy - Patient was thought to have hepatic
+encephalopathy, complicated  renal failure with mild uremia, and
+possible infection of unknown source. There was also a question
+of lactulose non-compliance as well as possible other
+ingestions. Patient's mental status initially cleared, at which
+point he was able to clearly state his wishes to be DNR/DNI, and
+was able to state the meaning of that choice and express it to
+his family as well. During his second admission to the MICU,
+after a family meeting, the decision was made to transition care
+to comfort measures only, given patient's desires as well as
+overall poor prognosis.  His encephalopathy was efractory to
+lactulose/rifaxamine administration.
+.
+His acidosis, renal failure, and encephalopathy were no longer
+addressed, as prior plan outlined below.
+.
+The following represent a list of his current active problems at
+the time he expired.
+.
+- Acidosis: combination of volum depletion and failure to clear
+exogenous lactate admin or endogenous lactate production from
+hypotension.
+.
+- Renal Failure: concern for evolving hepatorenal syndrome
+.
+- Hypotension: multifactorial. concern for infectious cause
+.
+CODE STATUS: Family meeting was held after evaluation by MICU
+team during second admission on to MICU. Patient's family
+decided that comfort should be goals of care and their wishes
+will be followed. The patient was lucid and of sound mind on
+admit [**10-13**] and wished then to be DNR/DNI, with comfort as the
+goals of care. This wish was followed after re-admission to the
+MICU, by the patient's family, HCP and patient.
+.
+At that time, all medications except those for pain control and
+comfort were discontinued. The patient passed away on [**2979-10-20**].
+
+
+Medications on Admission:
+1.  Spirolactone 300 qd
+2.  Nadolol 20qd
+3.  Furosemide 80qd
+4.  Lactulose 15-30 [**Hospital1 **]
+5.  Trazodone 50 mg tablets 2 at bed
+6.  Vitamin D and calcium.
+7.  Remeron 30 qhs
+8.  Seroquel 25 qhs prn
+.
+MEDS ON TRANSFER TO MICU [**2979-10-18**]:
+lactulose 30mg po TID
+albumin 25%
+ceftriaxone
+vancomycin
+dextrose prn
+rifaxamin
+lactulose
+nadolol
+
+
+Discharge Medications:
+None, patient expired.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Patient expired on [**2979-10-20**].
+
+Discharge Condition:
+Patient expired on [**2979-10-20**].
+
+Discharge Instructions:
+Patient expired on [**2979-10-20**].
+
+Followup Instructions:
+Patient expired on [**2979-10-20**].
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1698**] MD, [**MD Number(3) 1699**]
+
+
+
+
+DOC CLASS

@@ -1,0 +1,185 @@
+TITLE:
+   Chief Complaint:  Shortness of breath
+   HPI: 91M PMH CHF EF 35-40% with multiple recent admissions for
+   exacerbations, CAD, CRF (baseline creatinine 3.8-4), DM2, admitted from
+   [**Hospital 11**] Rehab after admission to OSH with GIB, presenting with SOB the
+   morning of admission.  The patient's O2 sat was noted to be 92% on 2L
+   NC, then dropped to the 80s.
+   Of note, the patient was recently admitted to OSH with GI bleed.  ASA
+   was discontinued, and his dose of lasix was decreased from 60 mg PO BID
+   to 20 mg PO daily.
+   In the ED, VS 99.8 91-103 104/55 30 90% NRB->100%BiPAP.  Exam was
+   significant for bilateral crackles; stool is guaiac negative and is
+   brown.  CXR showing bilateral pulm congestion.  Sign-out was that the
+   patient received lasix 60 mg IV x1, however, there is no record of this
+   medication being administered.  Urine output 50cc in the ED.  BP
+   dropped transiently to 83/60 and returned to the 90s with 300cc NS.
+   Bedside TTE was negative for pericardial tamponade or effusion.
+   EKG showed lateral ST depressions and the patient was given ASA 325 mg
+   suppository.  Foley placed with cloudy urine.
+   Allergies:
+   Prednisone
+   Rash;
+   Isordil (Oral) (Isosorbide Dinitrate)
+   Headache;
+   Ace Inhibitors
+   Renal Toxicity;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2760-12-26**] 08:00 AM
+   Furosemide (Lasix) - [**2760-12-26**] 08:00 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   CHF ejection fraction 35-40%
+   CAD on ASA, carvedilol
+   CVA in [**6-/2760**]
+   CRI Cr BL of 3.8
+   DM2 on glipizide
+   HTN on hydralazine, furosimide, and carvedilol
+   Recent duodenal bleed
+   PUD by report
+   Testicular cancer in his 40s
+   Pancreatitis
+   Status post cholecystectomy
+   Lung nodule noted in [**12/2759**] but patient declined any further
+   workup
+   Left parotidectomy
+   Family history of DM and CAD in all 7 siblings
+   Occupation:
+   Drugs:
+Tobacco: Tobacco for about 50 years at two to four packs per day; quit in [**2727**]
+   Alcohol: Currently none
+   Other: Currently at [**Hospital 11**] Rehab where he was discharged after recent
+   admission for GI bleed.  Used to live with wife, two daughters in area.
+   Review of systems:
+   Flowsheet Data as of [**2760-12-26**] 08:47 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.6
+C (96
+   HR: 88 (88 - 94) bpm
+   BP: 131/58(76) {131/58(76) - 151/64(87)} mmHg
+   RR: 14 (14 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 64 Inch
+             Total In:
+             13 mL
+   PO:
+             TF:
+   IVF:
+   13 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    150 mL
+   Urine:
+   150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -138 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula, Venti mask
+   SpO2: 98%
+   Physical Examination
+   General Appearance: Thin, Anxious
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed), JVP to jaw
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Clear : , Crackles : [**1-20**] way up right lung, decrease BS left base),
+   scattered expiratory wheezing
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Oriented (to): person, place,
+   time, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   91M PMH CHF EF 35-40% with multiple recent admissions for
+   exacerbations, CAD, CRF (baseline creatinine 3.8-4), DM2, admitted with
+   shortness of breath and likely CHF exacerbation.
+   # Shortness of breath: Most likely etiology is CHF exacerbation.
+   likely precipitant is recent decrease of lasix from 60 mg PO BID to 20
+   mg PO daily with contribution of urinary tract infection.  Unlikely due
+   to acute coronary syndrome.  Dry weight is 149 pounds prior to recent
+   admissions per family.  No history of fever or cough to suggest
+   pneumonia.  Greater than 100 pack-year smoking history but no diagnosis
+   of COPD.  Patient low-risk for pulmonary embolus.
+   - Check BNP, ROMI
+   - Lasix 80 mg IV now, goal -1L
+   - Standing combivent nebs Q6H
+   - Morphine, nitrates PRN
+   - Low Na diet
+   - Daily weight
+   - Continue carvedilol given hypertension, consider holding for acute
+   exacerbation
+   - Hold thoracentesis for effusion given risks and DNI status
+   # Brief episode of hypotension: Unclear - not well documented.
+   Hypertensive on admission to MICU.  Patient has UTI but well-appearing
+   at this time and unlikely sepsis.
+   - Continue carvedilol
+   - Ceftriaxone for UTI
+   - Urine, blood cultures pending
+   - Monitor
+   # Urinary tract infection: No indwelling Foley or history of resistant
+   organisms in our system or per family.  Recently on ciprofloxacin.
+   - Ceftriaxone pending urine culture
+   - Urine, blood cultures pending
+   # Coronary artery disease: Lateral ST depressions on EKG.  Chest-pain
+   free.
+   - Repeat EKG
+   - Telemetry, ROMI
+   - Restart ASA
+   - Continue BB, statin
+   # Chronic renal failure: Below baseline of 3.8-4, however, patient in
+   and out of hospitals and likely lost muscle mass.
+   - Renally dose all medications
+   - Continue calcitriol, calcium acetate
+   - Monitor
+   # Hypertension: Hypertensive on admission.
+   - Continue carvedilol
+   # Type 2 diabetes: Complicated by neuropathy, nephropathy.
+   - HISS
+   - Hold glipizide
+   - Continue neurontin, decrease for renal dosing
+   # Anemia: Recent OSH admission for duodenal bleed; here brown, guaiac
+   positive stool.  Unclear baseline hematocrit after recent bleeding but
+   low- to mid-30s from last admission here in [**Month (only) 1002**].
+   - Continue omeprazole
+   - Monitor
+   ICU Care
+   Nutrition: Cardiac/[**Doctor First Name 450**]/Renal diet
+   Glycemic Control: HISS
+   Lines:
+   18 Gauge - [**2760-12-26**] 07:40 AM
+   Prophylaxis:
+   DVT: Heparin SC
+   Stress ulcer: PPI
+   VAP: N/A
+   Comments:
+   Communication:  Comments: : Wife [**Telephone/Fax (1) 6810**], daughter [**Name (NI) 1783**] [**Name (NI) 6811**] c.
+   [**Telephone/Fax (1) 6816**], h. [**Telephone/Fax (1) 6813**], w. [**Telephone/Fax (1) 6814**], daughter [**Name (NI) **] c.
+   [**Telephone/Fax (1) 6815**]
+   Code status: DNR (do not resuscitate)
+   Disposition: Consider call-out in the afternoon if oxygen saturations
+   improve
+
+
+
+DOC CLASS

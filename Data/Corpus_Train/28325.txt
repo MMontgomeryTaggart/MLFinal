@@ -1,0 +1,237 @@
+Admission Date:  [**2648-9-22**]              Discharge Date:   [**2648-9-30**]
+
+Date of Birth:  [**2577-10-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+exertional indigestion and abnormal ETT
+
+Major Surgical or Invasive Procedure:
+[**2648-9-25**] CABG x 4 (LIMA->LAD, SVG->PDA/[**Last Name (LF) 13540**], [**First Name3 (LF) **])
+[**2648-9-22**] Cardiac Catherization
+
+
+History of Present Illness:
+70 year old man that over the last several months has been
+bothered ny epigastric burning.  Symptoms occured with over
+exertion and responded to rest and nitroglycerin SL.  +ETT,
+referred for cardiac catherization
+
+Past Medical History:
+HTN
+DM
+GERD
+Gout
+Hernia repair
+
+Social History:
+retired carnival worker
+lives with wife
+- [**Name (NI) **]
+- etoh
+
+Family History:
+NC
+
+Physical Exam:
+NAD
+Lungs CTAB ant/lat
+RRR No M/R/G
+Abd benign
+Extrem warm, no edema, 2+Fem, DP and radial pulses bilat. 1+ PT
+pulses bilat.
+No carotid bruits
+
+Pertinent Results:
+CHEST (PA & LAT)  [**2648-9-29**] 10:20 AM
+
+CHEST (PA & LAT)
+
+Reason: evaluate pleural effusions
+
+UNDERLYING MEDICAL CONDITION:
+70 year old man s/p CABGx4
+REASON FOR THIS EXAMINATION:
+evaluate pleural effusions
+REASON FOR EXAMINATION: Evaluation of the patient after recent
+CABG.
+
+PA and lateral upright chest radiographs compared to [**2648-9-27**] and [**2648-9-24**] (pre-operative examination).
+
+The cardiomediastinal contours is stable post-operatively. The
+right internal jugular line has been removed. The bibasilar
+retrocardiac atelectasis are unchanged. The bilateral pleural
+effusion is small, left more than right, slightly increased on
+the left. The previously demonstrated bilateral pleural plaques
+are unchanged. There is no evidence of congestive heart failure.
+
+IMPRESSION:
+1. Stable cardiomediastinal post-operative appearance.
+2. Slightly increased left pleural effusion, still small size.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name4 (NamePattern1) 1924**] [**Last Name (NamePattern1) 1925**]
+
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify
+I was present in compliance with HCFA regulations. No TEE
+related
+complications. The patient was under general anesthesia
+throughout the
+procedure. The patient appears to be in sinus rhythm. Results
+were personally
+post-bypass
+data
+
+Conclusions:
+PRE-BYPASS:
+
+1. Overall left ventricular systolic function is low normal
+(LVEF 50-55%).
+There is mild regional left ventricular systolic dysfunction
+with hypokinesis
+of the inferior wall. The left ventricular cavity size is
+normal.
+2. The aortic valve leaflets (3) are mildly thickened. The
+non-coronary cusp
+is heavily calcified with restricted systolic motion. However,
+there is no
+aortic valve stenosis. No aortic regurgitation is seen.
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The mitral valve leaflets are mildly thickened. Mild (1+)
+mitral
+regurgitation is seen.
+5. The descending thoracic aorta is mildly dilated. There are
+simple atheroma
+in the descending thoracic aorta.
+6. No atrial septal defect is seen by 2D or color Doppler. .
+
+POST-BYPASS:
+
+1. There is regional left ventricular systolic dysfunction with
+hypokinesis of
+the inferior wall.
+2. The estimated LVEF may be slightly improved from pre-bypass.
+
+3. There is mild eccendtric tricuspid regurgitation
+4. The aortic contours are intact
+4. The remaining exam is unchanged
+5. All results discussed with surgeons at the time of the exam.
+
+
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 256**], MD on [**2648-9-26**] 09:24.
+
+[**Location (un) **] PHYSICIAN:
+
+[**2648-9-22**] 07:13PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 9**]-1.015
+[**2648-9-22**] 07:13PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG
+GLUCOSE-250 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0
+LEUK-NEG
+[**2648-9-22**] 01:00PM   UREA N-29* CREAT-1.1 SODIUM-134 POTASSIUM-3.8
+CHLORIDE-100 TOTAL CO2-25 ANION GAP-13
+[**2648-9-22**] 01:00PM   ALT(SGPT)-20 AST(SGOT)-16 ALK PHOS-89
+AMYLASE-39 TOT BILI-0.3
+[**2648-9-22**] 01:00PM   ALBUMIN-3.9 CHOLEST-113
+[**2648-9-22**] 01:00PM   %HbA1c-8.9* [Hgb]-DONE [A1c]-DONE
+[**2648-9-22**] 01:00PM   TRIGLYCER-205* HDL CHOL-25 CHOL/HDL-4.5
+LDL(CALC)-47
+[**2648-9-22**] 01:00PM   WBC-6.5 RBC-4.28* HGB-13.2* HCT-37.6* MCV-88
+MCH-30.8 MCHC-35.0 RDW-12.6
+[**2648-9-22**] 01:00PM   PLT COUNT-235
+[**2648-9-22**] 01:00PM   PT-12.4 PTT-24.2 INR(PT)-1.1
+
+Brief Hospital Course:
+Mr. [**Known patient lastname 13541**] was referred for cardiac catherization [**2648-9-22**]
+which found left main and 2 vessel CAD.  He was medically
+managed and preoperative workup completed.  On [**2648-9-25**] he was
+taken to the operating room and Dr [**Last Name (STitle) **] performed a coronary
+artery bypass graft surgery, see operative report for further
+details. He was tranferred to the CSRU.  Sedation was weaned off
+and he awoke neurologically intact and was extubated. He was
+weaned from his vasoactive drips and transferred to the floor by
+POD #2. He continued to do well postoperatively, easily
+diuresed, and no atrial dysrhythmias.  He was ready for
+discharge on post operative day 6 with VNA services.
+
+Medications on Admission:
+glipizide, hctz, atenolol, colchicine, asa, prilosec
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+4. Glipizide 10 mg Tab,Sust Rel Osmotic Push 24HR Sig: One (1)
+Tab,Sust Rel Osmotic Push 24HR PO DAILY (Daily).
+Disp:*30 Tab,Sust Rel Osmotic Push 24HR(s)* Refills:*0*
+5. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*0*
+7. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+Disp:*90 Tablet(s)* Refills:*0*
+8. Hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q3-4H as
+needed.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*0*
+10. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+11. Potassium Chloride 20 mEq Packet Sig: One (1) Packet PO Q12H
+(every 12 hours) for 7 days.
+Disp:*14 Packet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+tba
+
+Discharge Diagnosis:
+CAD
+angina
+HTN
+NIDDM
+gout
+GERD
+s/p hernia repair
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Call with fever, redness or drainage from incision or weight
+gain more than 2 pounds in one day or five in one week.
+Shower, no baths, no lotions, creams or powders to incisions.
+No lifting more than 10 pounds in one day or five in one week.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] 4 weeks
+Dr. [**Last Name (STitle) 13542**] 2 weeks
+Dr. [**Last Name (STitle) 7833**] 2 weeks
+
+
+
+Completed by:[**2648-10-2**]
+
+
+DOC CLASS

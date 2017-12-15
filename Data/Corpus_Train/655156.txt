@@ -1,0 +1,173 @@
+Chief Complaint: Shortness of breath, sleep apnea, OHS, pneumonia.
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   24 Hour Events:
+   Progressive somnolence during the day yesterday, PCO2 didnot recover
+   from 80s, didnot tolerate Bipap, electively intubated via fiberoptic
+   nasal route. Overnight then had desaturation with turn, CXR showed
+   collapse of Left lung, bronchoscopy performed, wtih aspiration of
+   mucous plug from left mainstem, bronchoscoped was lodged in ETT and
+   required reintubation fiberoptically. Head CT with bilateral enlarged
+   ventricles, stable from [**2980**]. Spiked a fever to 100.9 s/p pancultured.
+   Patient unable to provide history: Sedated
+   Allergies:
+   Penicillins
+   Anaphylaxis;
+   Cephalosporins
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2982-8-7**] 09:15 AM
+   Midazolam (Versed) - [**2982-8-7**] 01:59 PM
+   Propofol - [**2982-8-7**] 02:19 PM
+   Metoprolol - [**2982-8-7**] 04:55 PM
+   Heparin Sodium (Prophylaxis) - [**2982-8-8**] 12:16 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2982-8-8**] 09:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (100.9
+   Tcurrent: 38.1
+C (100.5
+   HR: 113 (80 - 120) bpm
+   BP: 143/80(99) {95/61(75) - 170/102(117)} mmHg
+   RR: 17 (14 - 34) insp/min
+   SpO2: 92%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                    454 mL
+                                                                    247 mL
+   PO:
+             TF:
+   IVF:
+                                                                    454 mL
+                                                                    247 mL
+   Blood products:
+   Total out:
+                                                                  2,205 mL
+                                                                    245 mL
+   Urine:
+                                                                  2,205 mL
+                                                                    245 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,751 mL
+                                                                      2 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (350 - 450) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   PIP: 31 cmH2O
+   Plateau: 18 cmH2O
+   SpO2: 92%
+   ABG: 7.34/73.[**Numeric Identifier 209**]/73.[**Numeric Identifier 209**]/35/9
+   Ve: 6.9 L/min
+   PaO2 / FiO2: 122
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Distant)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   bilaterally diffusely)
+   Abdominal: Soft, Non-tender, Obese
+   Extremities: Right lower extremity edema: 2+, Left lower extremity
+   edema: 2+
+   Skin:  Warm
+   Neurologic: intubated sedated
+   Labs / Radiology
+   13.3 g/dL
+   197 K/uL
+   107 mg/dL
+   0.6 mg/dL
+   35 mEq/L
+   4.1 mEq/L
+   16 mg/dL
+   97 mEq/L
+   141 mEq/L
+   41.8 %
+   11.4 K/uL
+        [image002.jpg]
+                             [**2982-8-7**]  08:08 AM
+                             [**2982-8-7**]  12:05 PM
+                             [**2982-8-7**]  01:03 PM
+                             [**2982-8-7**]  03:29 PM
+                             [**2982-8-7**]  05:00 PM
+                             [**2982-8-7**]  06:28 PM
+                             [**2982-8-7**]  08:16 PM
+                             [**2982-8-8**]  03:51 AM
+                             [**2982-8-8**]  04:31 AM
+                             [**2982-8-8**]  06:39 AM
+   WBC
+   11.4
+   Hct
+   41.8
+   Plt
+   197
+   Cr
+   0.6
+   TCO2
+   41
+   42
+   41
+   40
+   40
+   42
+   41
+   42
+   41
+   Glucose
+   107
+   Other labs: Lactic Acid:0.7 mmol/L, Ca++:8.7 mg/dL, Mg++:1.8 mg/dL,
+   PO4:3.6 mg/dL
+   Imaging: CXR infiltrate LLL, and possibly in right lung fields
+   Assessment and Plan
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]):
+   OHS/OSA + currently appears to have a blossoming pneumonia on CXR, and
+   fever spike overnight, ? aspiration vs community acquired pneumonia.
+   Started on vancomycina nd levofloxacin. Start on standing nebulizers.
+   Will keep TBB even. Consult IP for tracheostomy.
+   Vent: increased TV to 500, now plateau of 28, AutoPeep of 8 +set PEEP
+   of 10.
+Hematuria: will send U/A and microscopy, monitor Urine output
+   ICU Care
+   Nutrition:
+   Comments: advance OG tube. Nutrition consult for tube feeds
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2982-8-7**] 07:35 AM
+   20 Gauge - [**2982-8-7**] 03:28 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up
+   Comments:
+   Communication:  Comments: Will continue communication with wife today.
+   [**Name2 (NI) 34**] status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

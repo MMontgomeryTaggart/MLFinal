@@ -1,0 +1,299 @@
+Admission Date:  [**3318-3-16**]              Discharge Date:   [**3318-3-21**]
+
+Date of Birth:  [**3259-12-3**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / lisinopril / Losartan
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Old anterior myocardial infarction with Left ventricular
+thrombus. Surgical consultation to examine benefits of
+revascularization. No symptoms of heart failure at this time.
+
+Major Surgical or Invasive Procedure:
+[**3318-3-16**] Coronary artery bypass grafting x2 with the left
+internal mammary artery graft to left anterior descending,
+reverse saphenous vein graft to diagonal branch
+[**3318-3-17**] Right popliteal/tibial artery embolectomy
+
+History of Present Illness:
+58 year old male with history of ischemic cardiomyopathy.
+Calculated EF by MRI is 44%. Regional wall motion abnormalities
+and late gadolinium enhancement consistent with prior anterior,
+anteroseptal, and anteroapical myocardial infarction. No
+evidence of LV thrombus by MRI on [**3317-11-22**].
+
+Past Medical History:
+Ischemic cardiomyopathy. s/p AMI [**3314**], EF 44%
+LV apical thrombus by echo [**3317-11-15**]-now on Pradaxa
+Left anterior fasicular block
+Hyperlipidemia
+Perforated sigmoid diverticulitis
+Post-operative ileus
+Hx DVT/PE
+Abdominal surgery x4 for perforated
+sigmoid diverticulitis-prior [**Doctor Last Name **] colostomy.
+Ventral hernia repair-anterior abdominal wall
+Skin cancer resection
+
+Social History:
+Lives with: alone
+Occupation: Musician/Teacher
+Tobacco: none
+ETOH: [**2-18**]/week
+
+Family History:
+Father-prostate CA(64yo), Mother-uterine CA(68yo),
+Grandfather-MI(50yo)
+
+Physical Exam:
+Pulse: 68   Resp: 18    O2 Sat: 100% RA
+B/P  Right:    Left: 122/82
+Height:  5'[**17**]"   Weight: 189 lbs
+
+General: NAD,
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur
+Abdomen: Softly Distended [x] Bowel sounds
++ [x] well healed mid-line incision, two horizontal scars at
+previous stoma sites, mild TTP at previous stoma sites
+Extremities: Warm [x], well-perfused [x]
+Edema trace
+Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right: 2+  Left:2+
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) **]: 2+  Left:2+
+Radial       Right: 2+  Left:2+
+
+Carotid Bruit  none
+
+Pertinent Results:
+[**3318-3-16**] Echo: PRE-CPB: The left atrium is mildly dilated. No
+thrombus is seen in the left atrial appendage. No atrial septal
+defect is seen by 2D or color Doppler. The left ventricular
+cavity is mildly dilated. The apical anterior and anteroseptal
+wall segments are thinned and akinetic. The apex is also
+akinetic. Overall left ventricular systolic function is
+moderately depressed (LVEF= 35-40 %). A large globular thrombus
+is seen in the apex of the left ventricle, measuring 1.5cm x
+1.7cm. The right ventricular cavity is mildly dilated with
+normal free wall contractility. The aortic root is mildly
+dilated at the sinus level. The ascending aorta is mildly
+dilated. No thoracic aortic dissection is seen. There are three
+aortic valve leaflets. There is no aortic valve stenosis. No
+aortic regurgitation is seen. The mitral valve leaflets are
+structurally normal. Mild (1+) mitral regurgitation is seen.
+POST-CPB: The LV thrombus is no longer seen. The LV continues to
+have regional wall motion abnormalities as described pre-bypass.
+The estimated EF is 40-45%. The RV systolic function is normal.
+There is no evidence of aortic dissection.
+
+[**3318-3-16**] Carotid U/S: Limited study particularly of the right
+carotid due to the central line but no evidence of stenosis seen
+bilaterally.
+
+[**3318-3-17**] CTA: 1. Thrombus in mid-to-distal right below-knee
+popliteal artery extending into the proximal right anterior
+tibial artery and filling the entire right common
+tibial-peroneal trunk. Multiple filling defects in right
+posterior tibial and peroneal arteries. Multiple filling defects
+in left anterior tibial artery and diminutive flow in the left
+distal peroneal artery. 2. Bilateral small pleural effusions and
+adjacent opacities at the lung bases, likely atelectasis.
+Patient is status post CABG with air within the mediastinum
+post-surgical. 3. Ventral abdominal wall hernia with loops of
+bowel; however, no stranding and no evidence of bowel
+obstruction. 4. Colonic diverticulosis.
+[**3318-3-21**] 06:00AM BLOOD WBC-5.8 RBC-3.60* Hgb-11.5* Hct-34.0*
+MCV-95 MCH-31.8 MCHC-33.7 RDW-12.7 Plt Ct-235#
+[**3318-3-16**] 01:19PM BLOOD WBC-10.8# RBC-3.17*# Hgb-10.5*#
+Hct-30.4*# MCV-96 MCH-33.1* MCHC-34.6 RDW-12.9 Plt Ct-129*
+[**3318-3-21**] 06:00AM BLOOD Plt Ct-235#
+[**3318-3-21**] 06:00AM BLOOD PT-30.9* PTT-28.2 INR(PT)-3.0*
+[**3318-3-16**] 01:19PM BLOOD PT-14.7* PTT-27.6 INR(PT)-1.3*
+[**3318-3-16**] 01:19PM BLOOD Fibrino-181
+[**3318-3-21**] 06:00AM BLOOD Glucose-143* UreaN-18 Creat-0.8 Na-137
+K-4.1 Cl-103 HCO3-28 AnGap-10
+[**3318-3-16**] 02:35PM BLOOD UreaN-20 Creat-0.8 Na-138 K-4.0 Cl-108
+HCO3-26 AnGap-8
+[**3318-3-16**] 02:35PM BLOOD UreaN-20 Creat-0.8 Na-138 K-4.0 Cl-108
+HCO3-26 AnGap-8
+[**3318-3-21**] 06:00AM BLOOD Glucose-143* UreaN-18 Creat-0.8 Na-137
+K-4.1 Cl-103 HCO3-28 AnGap-10
+
+Brief Hospital Course:
+Was admitted to same day surgery and was brought to the
+operating room where he underwent a coronary artery bypass graft
+x 2. Please see operative report for surgical details, of note
+there was LV thrombus noted on TEE seen at start of case, not
+present after bypass.  He had dopplerable pulses in both groins
+and both extremities in the OR and following surgery he was
+transferred to the CVICU for invasive monitoring in stable
+condition. He underwent an urgent carotid duplex to further
+examine for thrombus which was negative. Within 24 hours he was
+weaned from sedation, awoke neurologically intact and extubated.
+Shortly after extubation there was a loss of Doppler signals in
+his right lower extremity both DP and PT. Vascular surgery was
+immediately consulted and he underwent a CTA which showed a
+thrombus in mid-to-distal right below-knee popliteal artery
+extending into the proximal right anterior tibial artery and
+filling the entire right common tibial-peroneal trunk. He was
+then brought to the operating room where he underwent a right
+popliteal/tibial artery embolectomy. Following surgery he was
+again transferred back to the CVICU. Heparin was started and
+later that day he was weaned from sedation and extubated without
+incident. Beta blockers and diuretics were started and he was
+gently diuresed towards his pre-op weight. On post-op day two he
+was transferred to the step-down floor for further care. Chest
+tubes and epicardial pacing wires were removed per protocol. He
+continued to make good progress while working with physical
+therapy for strength and mobility.  He was initiated on coumadin
+for LV thrombus and right leg thrombosis.  He was ready for
+discharge home with services on [**3318-3-21**].  He was unable to be
+started on ace inhibitor due to blood pressure and needs to be
+considered as an outpatient.
+
+Medications on Admission:
+Celexa daily (? dose) x past month
+Metoprolol 25'
+Simvastatin 80'
+Fish oil 1000'
+ASA 81'
+Pradaxa 150"
+Temazepam 15 PRN insomnia
+CoQ10 50'
+Calcium
+Melatonin 3 HS
+Vit D
+Saw [**Location (un) 3310**]
+Grape Seed
+Garlic
+Advil 200-400 daily PRN abdominal pain
+ES Tylenol 6-8 tabs/day - stopped
+Hydrocodone cough syrup - pt unable to identify name PRN - ?
+dosage - takes "swigs" occassionally
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO once a
+day.
+Disp:*30 Tablet(s)* Refills:*0*
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+4. simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*0*
+5. warfarin 1 mg Tablet Sig: inr goal 2-3 Tablets PO once a day:
+please take [**12-19**] tablet (0.5 mg) on [**3-22**] then have INR drawn [**3-23**]
+for further dosing .
+Disp:*100 Tablet(s)* Refills:*2*
+6. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+7. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day for
+10 days.
+Disp:*10 Tablet(s)* Refills:*0*
+9. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 10 days.
+Disp:*10 Tablet, ER Particles/Crystals(s)* Refills:*0*
+10. Toprol XL 50 mg Tablet Extended Release 24 hr Sig: One (1)
+Tablet Extended Release 24 hr PO once a day.
+Disp:*30 Tablet Extended Release 24 hr(s)* Refills:*0*
+11. ACE inhibitor
+Please consider starting ace inhibitor as outpatient as he does
+not have enough blood pressure to start as inpatient
+12. coumadin/INR
+Labs: PT/INR for Coumadin ?????? indication:LV clot/s/p right
+popliteal embolectomy
+Goal INR: [**1-20**]
+First draw [**3-23**] wednesday
+Results to [**Hospital1 **] heart center phone [**Telephone/Fax (1) 420**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Gentiva
+
+Discharge Diagnosis:
+Coronary artery disease s/p CABG
+Ischemic right foot with popliteal artery embolus s/p
+embolectomy
+Ischemic cardiomyopathy
+Chronic systolic heart failure
+LV apical thrombus
+Left anterior fasicular block
+Hyperlipidemia
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with percocet
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right - healing well, no erythema or drainage
+Right medial calf - incision from embolectomy - leave open to
+air
+Edema +1 bilateral
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) 222**] at MWMC on [**4-7**] at 9:30AM
+Cardiologist: Dr. [**First Name4 (NamePattern1) 251**] [**Last Name (NamePattern1) 1621**] in [**Location (un) 415**] on [**4-11**] at 11AM
+Vascular surgery: Dr. [**Last Name (STitle) **] [**3318-4-12**] 4:00 pm
+
+Wound check in [**Hospital Unit Name **], [**Hospital Unit Name 387**] on Tues [**3318-3-29**] at
+10:15am
+
+Please call to schedule appointments with your
+Primary Care Dr.[**First Name8 (NamePattern2) 886**] [**Last Name (NamePattern1) 603**] in [**3-22**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication:LV clot/s/p right
+popliteal embolectomy
+Goal INR: [**1-20**]
+First draw [**3-23**] wednesday
+Results to [**Hospital1 **] heart center phone [**Telephone/Fax (1) 420**]
+
+
+
+Completed by:[**3318-3-21**]
+
+
+DOC CLASS

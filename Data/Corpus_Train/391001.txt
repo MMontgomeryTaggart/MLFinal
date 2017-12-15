@@ -1,0 +1,203 @@
+CVICU
+   HPI:
+   VHD6
+   [**6-15**] POD 5
+   71yoM s/p MVRepair(28 Medtr ring)CABGx3(LIMA-LAD, SVG-PDA, SVG-OM2)[**6-10**]
+   EF 55 Cr 1.5 WT 64.2K HgbA1c 5.8
+   PMH:CAD(PTCA), ^chol. HTN, MVP, Subclinical hypothyroid, carotid dz,
+   Nephrolithiasis, Tinnitus, Fatty liver, CHF, MR(mv prolapse)
+   [**Last Name (un) **]: Carvedilol 6.25", Lisinopril 10', Crestor 40', ASA 81', Lasix 20',
+   Plavix 75', Ntg-prn
+   [**6-11**]:Extubated, [**6-12**]-tran F6
+   5/7Controlled Afib -amio, start coumadin 3mg, lopressor decreased to 25
+   [**Hospital1 7**] for junc O/N, lasix increased, wires d/c'd
+   [**6-14**]: Dart attempted for R ptx->frank hemoptysis, intubation,
+   hypotension, CT placed
+   Current medications:
+   Aspirin EC . Docusate Sodium. Furosemide . HydrALAzine. Lisinopril .
+   Metoprolol Tartrate  Metoprolol Tartrate . Morphine Sulfate . Potassium
+   Chloride . Ranitidine .
+   24 Hour Events:
+ INTUBATION - At [**3202-6-14**] 04:00 PM
+ MULTI LUMEN - START [**3202-6-14**] 04:00 PM
+ INVASIVE VENTILATION - START [**3202-6-14**] 04:30 PM
+ ARTERIAL LINE - START [**3202-6-14**] 05:00 PM
+ TRANS ESOPHAGEAL ECHO - At [**3202-6-14**] 05:01 PM
+ BRONCHOSCOPY - At [**3202-6-14**] 05:01 PM
+ TRANS ESOPHAGEAL ECHO - At [**3202-6-14**] 07:15 PM
+ TRAUMA LINE - START [**3202-6-14**] 07:16 PM
+   Post operative day:
+   POD#5 - s/p cabg x 3 lima to lad, svg to om2, svg to pda.  mv repair
+   Allergies:
+   Niacin
+   gout;
+   Colestid (Oral) (Colestipol Hcl)
+   Unknown;
+   Accupril (Oral) (Quinapril Hcl/Mag Carb)
+   Lightheadedness
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Midazolam (Versed) - [**3202-6-14**] 04:15 PM
+   Fentanyl - [**3202-6-14**] 04:15 PM
+   Metoprolol - [**3202-6-14**] 04:20 PM
+   Sodium Bicarbonate 8.4% (Amp) - [**3202-6-14**] 05:07 PM
+   Atropine - [**3202-6-14**] 05:12 PM
+   Hydralazine - [**3202-6-15**] 11:52 AM
+   Other medications:
+   Flowsheet Data as of  [**3202-6-15**] 12:09 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**05**] a.m.
+   Tmax: 37.7
+C (99.9
+   T current: 37.5
+C (99.5
+   HR: 75 (53 - 152) bpm
+   BP: 169/67(99) {72/38(49) - 182/90(118)} mmHg
+   RR: 25 (16 - 38) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 78 kg (admission): 67.2 kg
+   Height: 64 Inch
+   CVP: 11 (9 - 28) mmHg
+   Total In:
+                                                                  3,054 mL
+                                                                    211 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  1,229 mL
+                                                                    211 mL
+   Blood products:
+                                                                  1,725 mL
+   Total out:
+                                                                  1,582 mL
+                                                                  1,657 mL
+   Urine:
+                                                                    882 mL
+                                                                  1,267 mL
+   NG:
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,472 mL
+                                                                 -1,446 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: Standby
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 522 (495 - 522) mL
+   PS : 5 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   RSBI: 69
+   PIP: 24 cmH2O
+   Plateau: 22 cmH2O
+   SPO2: 97%
+   ABG: 7.49/31/72/26/1
+   Ve: 10.6 L/min
+   PaO2 / FiO2: 180
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: CTA bilateral : ), (Sternum:
+   Stable ), No air leak from CT
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   125 K/uL
+   11.4 g/dL
+   129 mg/dL
+   1.6 mg/dL
+   26 mEq/L
+   4.4 mEq/L
+   36 mg/dL
+   108 mEq/L
+   144 mEq/L
+   32.4 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**3202-6-14**]  04:39 PM
+                             [**3202-6-14**]  04:47 PM
+                             [**3202-6-14**]  05:02 PM
+                             [**3202-6-14**]  05:10 PM
+                             [**3202-6-14**]  05:46 PM
+                             [**3202-6-14**]  06:24 PM
+                             [**3202-6-14**]  11:23 PM
+                             [**3202-6-15**]  05:23 AM
+                             [**3202-6-15**]  05:30 AM
+                             [**3202-6-15**]  11:04 AM
+   WBC
+   9.2
+   9.9
+   Hct
+   21.5
+   29
+   26.7
+   35
+   32.4
+   Plt
+   78
+   125
+   Creatinine
+   0.9
+   1.6
+   TCO2
+   25
+   22
+   17
+   22
+   27
+   26
+   24
+   Glucose
+   150
+   171
+   178
+   127
+   129
+   Other labs: PT / PTT / INR:16.7/26.5/1.5, ALT / AST:28/79, Alk-Phos / T
+   bili:56/0.5, Differential-Neuts:83.4 %, Lymph:13.9 %, Mono:1.2 %,
+   Eos:1.3 %, Fibrinogen:166 mg/dL, Lactic Acid:1.1 mmol/L, LDH:214 IU/L,
+   Ca:8.5 mg/dL, Mg:2.4 mg/dL, PO4:4.8 mg/dL
+   Imaging: CXR- Pulm. contusion RUL at tube site from yest. No ptx.
+   Assessment and Plan
+   VALVE REPAIR (ALL VALVES), CORONARY ARTERY BYPASS GRAFT (CABG), PAIN
+   CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: Stable since events of yesterday. Weaned and
+   extubated.
+   Neurologic: Pain controlled
+   Cardiovascular: Aspirin, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Advance diet as tolerated
+   Renal: Foley
+   Endocrine: RISS
+   Lines / Tubes / Drains: Foley
+   Fluids: KVO
+   ICU Care
+   Glycemic Control:  Regular insulin sliding scale
+   Multi Lumen - [**3202-6-14**] 04:00 PM
+   Arterial Line - [**3202-6-14**] 05:00 PM
+   Trauma line - [**3202-6-14**] 07:16 PM
+   Prophylaxis:
+   Stress ulcer: PPI
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

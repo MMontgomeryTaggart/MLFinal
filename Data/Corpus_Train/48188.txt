@@ -1,0 +1,299 @@
+Admission Date:  [**3092-1-3**]              Discharge Date:   [**3092-1-6**]
+
+Date of Birth:  [**3030-11-28**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Penicillins / Clindamycin / Celery / apple / bees
+
+Attending:[**First Name3 (LF) 5153**]
+Chief Complaint:
+Malfunctioning tracheostomy
+
+Major Surgical or Invasive Procedure:
+1. Revision of tracheostomy. Flexible bronchoscopy ([**3092-1-3**])
+2. PICC line placement ([**3092-1-4**])
+
+
+History of Present Illness:
+60F w/ hx of COPD, PAH w/ cor pulmonale, right-sided CHF, CKD
+s/p tracheostomy on [**12-29**]. She presents from rehab facility with
+a few hours of low tidal volume.  Over the past several months
+she has undergone prolonged course with several hospitalizations
+including a recent admission from [**Date range (1) 5152**] for shortness of
+breath thought initially to be pneumonia but eventually
+attributed to COPD exacerbation as opposed to infection. Due to
+respiratory failure she underwent a tracheostomy on [**12-29**]. She
+otherwise has denied any fever, chills, headache, cough, chest
+pain, abdominal pain, nausea or vomiting.
+
+
+Past Medical History:
+1. Morbid obesity (s/p gastric bypass)
+2. Obstructive sleep apnea (noctural BiPAP 18/15, home oxygen
+requirement of 3-4L via nasal cannula)
+3. Obesity hypoventilation syndrome
+4. Severe pulmonary artery hypertension (attributed to OSA)
+5. Cor pulmonale (right heart failure attributed to severe
+pulmonary hypertension)
+6. Asthma
+7. Osteoarthritis (bilateral knee involvement)
+8. Diastolic heart failure (2D-Echo [**2-/3089**] showing LVEF 70-80%,
+PAP 64 mmHg)
+9. Chronic kidney disease (stage III-IV, baseline creatinine
+1.8-2.2)
+10. Rosacea
+11. Hypertension
+12. Iron deficiency anemia
+11. s/p ventral hernia repair with mesh and component separation
+
+([**6-/3084**])
+12. s/p gastric bypass surgery ([**3079**])
+13. s/p debridement of anterior abdominal wall and complex
+repair ([**7-/3084**])
+
+
+Social History:
+Patient lives at home with disability services. She has 2 adult
+children. She notes no toabcco use, rare alcohol use currently
+but notes a former heavy alcohol history in the distant past.
+She denies recreational substance use.
+
+
+Family History:
+Notable for diabetes mellitus in her mother and sister,
+hypertension in siblings, mother and throughout the maternal
+family as well as kidney disease.
+
+Physical Exam:
+On admission:
+
+Vitals: 99.9 88 122/82 12 100% at 60% fio2
+
+GEN: A&O 3, Moving all four extremities
+HEENT:NCAT, Anicteric sclera, mucus membranes moist
+Neck: Tracheostomy tube in place, site c/d/i with cuff up. no
+evidence of subcutaneous emphysema. However most of her Tv is
+come out through her mouth. She is only getting Tv of 105 to
+150's, while she is set for 400.
+CV: RRR no m/r/g
+PULM: Clear to auscultation but diminished breath sound at the
+bases b/l
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, no palpable masses
+Ext: No LE edema, LE warm and well perfused
+
+
+Pertinent Results:
+LABORATORY
+
+On admission:
+
+WBC-10.2 RBC-3.06* Hgb-8.6* Hct-28.9* MCV-95 MCH-28.0 MCHC-29.6*
+RDW-16.3* Plt Ct-298
+Neuts-88.4* Lymphs-7.3* Monos-3.6 Eos-0.5 Baso-0.1
+PT-12.2 PTT-28.3 INR(PT)-1.1
+Glucose-159* UreaN-38* Creat-1.1 Na-147* K-3.7 Cl-99 HCO3-40*
+AnGap-12
+Calcium-7.8* Phos-2.5* Mg-1.7
+Glucose-159* UreaN-38* Creat-1.1 Na-147* K-3.7 Cl-99 HCO3-40*
+AnGap-12
+ART pO2-134* pCO2-63* pH-7.39 calTCO2-40* Base XS-10
+
+On discharge:
+
+WBC-7.1 RBC-2.94* Hgb-8.2* Hct-27.2* MCV-93 MCH-27.8 MCHC-30.1*
+RDW-16.8* Plt Ct-267
+Glucose-114* UreaN-29* Creat-0.8 Na-148* K-2.8* Cl-111* HCO3-32
+AnGap-8
+Calcium-6.4* Phos-1.9* Mg-1.5*
+
+IMAGING
+
+CXR, pre-op ([**3092-1-3**]):
+1. Tracheostomy cannula above the level of the clavicles within
+the upper
+trachea but rotated and potentially malpositioned.
+2. No acute cardiopulmonary process.
+
+CXR, post-op ([**3092-1-4**]):
+A tracheostomy tube is in place, the tip lies approximately 16
+mm above the carina. This appears to represent a change in the
+tracheostomy tube compared with earlier the same day ([**3092-1-3**] at
+9:59 a.m.).  The cardiomediastinal silhouette is prominent but
+unchanged. Some patchy  opacity in the left greater than right
+suprahilar regions is unchanged. Some  bibasilar atelectasis is
+also unchanged. Prominent pulmonary artery is again noted in
+this individual with history of pulmonary arterial hypertension.
+
+
+Left wrist plain films ([**3092-1-4**]):
+1. No obvious fracture. If there has been significant trauma and
+wrist pain  persists, then followup radiographs in [**7-12**] days
+could help to assess for  resorption about an occult fracture.
+2. Widening and ? slight offset at the distal radioulnar joint.
+This could represent a post-traumatic finding, though it is of
+indeterminate acuity.
+3. Possible soft tissue swelling, best assessed by physical
+exam.
+4. First CMC and triscaphe joint degenerative changes.
+
+
+Brief Hospital Course:
+60F admitted on [**3092-1-3**] for tracheostomy malfunction. The patient
+was taken to the operating room and, under direct laryngoscopy,
+was found to have a dislodged tracheostomy.  The tracheostomy
+was replaced with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5154**] tracheostomy piece without
+complication.  The patient was subsequently admitted to the ICU
+for ventilator management and close monitoring.
+
+On hospital day #2 the patient was weaned off the ventilator to
+trach collar.  Given her poor IV access, a PICC line was placed.
+ She was transfused 1 unit PRBC for hematocrit 24.7, with
+subsequent increase to 29.1.  Her anemia was attributed to
+anemia of chronic disease given she had no evidence of active
+bleeding.  Her transfusion was given in conjunction with IV
+Lasix to avoid exacerbation of her congestive heart
+failure/pulmonary edema.  She complained of left wrist pain, for
+which plain films were obtained.  No fracture was identified.
+Given her history of gout, her home allopurinol was restarted
+once enteral access was obtained.
+
+On hospital day #3 the patient went to IR for post-pyloric
+advancement of a Dobhoff tube.  Nutrition was consulted with
+recommendations for Replete with fiber tube feedings at a goal
+of 55cc/hour.  She continued to remain stable from a hemodynamic
+and respiratory standpoint and was deemed appropriate for
+discharge back to rehab.
+
+Medications on Admission:
+- sildenafil 20mg TID
+- aspirin 81mg daily
+- fluticasone 110mcg inhaled [**Hospital1 9**]
+- home oxygen 3-4 L/min N/C
+- albuterol 90mcg HFA Q6hrs prn wheezing/SOB
+- albuterol 2.5mg nebulized Q4hrs prn SOB
+- allopurinol 300mg daily
+- metolazone 5mg [**Hospital1 9**]
+- ISS QID
+- acetaminophen 500mg Q6hrs prn pain
+- ferrous sulfate 300mg daily
+- metronidazole 1% gel topically daily
+- docusate 100mg [**Hospital1 9**]
+- bisacodyl 10mg daily
+- PEG 17g powder daily
+- heparin SQ TID
+
+
+Discharge Medications:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every four (4) hours.
+2. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig:
+1-2 puffs Inhalation every six (6) hours.
+3. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff
+Inhalation [**Hospital1 9**] (2 times a day).
+4. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO once a day as needed for
+constipation.
+5. allopurinol 100 mg Tablet Sig: Three (3) Tablet PO DAILY
+(Daily).
+6. metolazone 5 mg Tablet Sig: One (1) Tablet PO twice a day.
+7. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+8. torsemide 20 mg Tablet Sig: Two (2) Tablet PO twice a day.
+9. Roxicet 5-325 mg/5 mL Solution Sig: [**5-12**] ml PO every six (6)
+hours as needed for pain.
+Disp:*400 ml* Refills:*0*
+10. simethicone 40 mg/0.6 mL Drops, Suspension Sig: Eighty (80)
+mg PO four times a day as needed for indigestion.
+11. phenobarb-hyoscy-atropine-scop 16.2-0.1037 -0.0194 mg/5 mL
+Elixir Sig: Five (5) ml PO three times a day.
+12. ferrous sulfate 300 mg (60 mg iron)/5 mL Liquid Sig: Five
+(5) ml PO once a day.
+13. Miralax 17 gram/dose Powder Sig: Seventeen (17) grams PO
+once a day.
+14. Insulin
+Per insulin sliding scale worksheet.
+15. Sodium Chloride 0.9%  Flush 10 mL IV PRN line flush
+PICC, non-heparin dependent: Flush with 10 mL Normal Saline
+daily and PRN per lumen.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Rehab
+
+Discharge Diagnosis:
+1. Malfunctioning tracheostomy
+2. Hypercarbic respiratory failure
+3. Acute Kidney Injury
+4. Cor pulmonale
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+We appreciated the opportunity to partipate in your care at
+[**Hospital1 52**]. As you transition to your extended care facility we
+wanted to highlight several ongoing issues with your care:
+
+1. Physical therapy: please work each day with the physical
+therapy team. This will increase your strength and improve your
+lung function.
+
+2. Abdominal pain: your pain is similar to the chronic pain you
+experienced prior to admission. The medical team has contact[**Name (NI) **]
+your GI doctor  to discuss your hospitalization, but you should
+also schedule a follow up appointment with your GI doctor within
+the next several weeks to further evaluate and manage your
+chronic abdominal
+pain.
+
+3. Obstructive sleep apnea: while you are on the vent you will
+receive respiratory support while you are both awake and asleep.
+
+When you are weaned from the vent you will need to continue
+using your bipap machine while you are asleep. This is very
+important as sleep apnea contributes to worsening of your
+pulmonary function and heart failure.
+
+4. Rehab course: we believe you are now ready to continue
+rehabilitation from your illness at an extended care facility.
+Please keep in mind that you were very sick while in the
+hospital, and recovery may be prolonged despite not needing to
+remain in the hospital at this time. To help guide what types of
+
+things should prompt calling your primary care physician or
+returning to the hospital, please refer to the information
+listed below.
+
+
+Followup Instructions:
+1. Please follow up with your primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at
+
+the following appointment that has been scheduled for you:
+Provider: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) 1402**], M.D. Date/Time: [**3092-1-19**] 10:20
+
+2. Please follow up with the acute care surgery clinic in 2
+weeks. Your appointment is [**3092-1-14**] at 2pm in the [**Hospital Ward Name 103**]
+Office building at [**Hospital1 52**]. You can call [**Telephone/Fax (1) 553**] for any
+questions.
+
+3.  Provider: [**Name10 (NameIs) 1112**] Phone:[**Telephone/Fax (1) 416**] Date/Time:[**3092-2-8**]
+9:50
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD, [**MD Number(3) 5155**]
+
+
+
+
+DOC CLASS

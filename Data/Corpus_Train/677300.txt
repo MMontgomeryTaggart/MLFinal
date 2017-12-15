@@ -1,0 +1,305 @@
+Chief Complaint:
+   24 Hour Events:
+   confident he is absorbing) and 6 weeks of vanc for CoNS.  Page [**Doctor Last Name 10907**]
+   prn with ?s.
+   -granular casts in urine suggestive of ATN
+   -NIF -29 (normal -90-100, so he has significant weakness)
+   -PTH 34 (normal)
+   -Sputum shows 4+ GNR; presume this is still his serratia, but if spikes
+   again will add cefepime (this came back after ID signed off)
+   -Neuro: dilantin corrected needs to be between 6 and 8 corrected for
+   albumin.  keep checking daily levels for now to see if going up (at
+   rehab can check every few days)(coumadin should make it go up and was
+   only started a few days ago). Needs f/u appt with Dr. [**Last Name (STitle) 10908**]
+   [**Name (STitle) **] in 3 wks.
+   -did better on trach mask (lasted at least an hour), then PS increased
+   from 5 to 10 because RR in 40s --> came down to 20s
+   -plan to get VDVT in AM.
+   -decreased white secretions yetserday
+   Allergies:
+   Amiodarone
+   hyperthryoidism
+   Monosodium Glutamate
+   violent headach
+   Last dose of Antibiotics:
+   Vancomycin - [**3303-11-7**] 07:52 PM
+   Ciprofloxacin - [**3303-11-7**] 10:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Acetaminophen 4. Albuterol Inhaler 5. Aspirin 6. Bisacodyl 7.
+   Chlorhexidine Gluconate 0.12% Oral Rinse
+   8. Ciprofloxacin 9. Docusate Sodium (Liquid) 10. Dronedarone 11.
+   Famotidine 12. Furosemide 13. Heparin Flush (10 units/ml)
+   14. Heparin 15. Heparin Flush (10 units/ml) 16. 17. Ipratropium Bromide
+   MDI 18. LeVETiracetam 19. Lidocaine Jelly 2% (Urojet)
+   20. Lorazepam 21. Metoprolol Tartrate 22. Nystatin Oral Suspension 23.
+   OxycoDONE (Immediate Release)
+   24. Phenytoin 25. Potassium Chloride (Powder) 26. Senna 27. Simvastatin
+   28. Sodium Chloride 0.9% Flush
+   29. Sodium Chloride 0.9% Flush 30. Vancomycin 31. Warfarin
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3303-11-8**] 07:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 36.1
+C (96.9
+   HR: 72 (60 - 79) bpm
+   BP: 78/38(47) {78/38(47) - 152/97(111)} mmHg
+   RR: 25 (19 - 34) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+   Wgt (current): 99.9 kg (admission): 95.4 kg
+   Height: 69 Inch
+             Total In:
+                                                                  3,683 mL
+                                                                    842 mL
+   PO:
+             TF:
+                                                                  1,944 mL
+                                                                    625 mL
+   IVF:
+                                                                  1,375 mL
+                                                                    157 mL
+   Blood products:
+   Total out:
+                                                                  4,098 mL
+                                                                  1,285 mL
+   Urine:
+                                                                  4,080 mL
+                                                                  1,285 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     18 mL
+   Balance:
+                                                                   -415 mL
+                                                                   -443 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 418 (363 - 670) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 21
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI: 92
+   PIP: 14 cmH2O
+   SpO2: 99%
+   ABG: 7.48/42/119/28/7
+   NIF: -29 cmH2O
+   Ve: 8.9 L/min
+   PaO2 / FiO2: 298
+   Physical Examination
+   Gen: NAD
+   CV: rrr nl s1s2 no m
+   Pulm: rhonchorus b/l
+   Abd:: NABS, soft NTND
+   Ext: no edema
+   Labs / Radiology
+   317 K/uL
+   9.7 g/dL
+   106 mg/dL
+   1.5 mg/dL
+   28 mEq/L
+   3.9 mEq/L
+   24 mg/dL
+   97 mEq/L
+   135 mEq/L
+   29.8 %
+   7.8 K/uL
+        [image002.jpg]
+                             [**3303-11-4**]  04:40 AM
+                             [**3303-11-5**]  04:45 AM
+                             [**3303-11-5**]  02:31 PM
+                             [**3303-11-6**]  06:17 AM
+                             [**3303-11-6**]  08:45 AM
+                             [**3303-11-6**]  03:47 PM
+                             [**3303-11-7**]  06:03 AM
+                             [**3303-11-7**]  04:27 PM
+                             [**3303-11-7**]  04:45 PM
+                            [**3303-11-8**]  03:58 AM
+   WBC
+   4.7
+   6.3
+   6.5
+   5.7
+   5.7
+   7.8
+   Hct
+   25.2
+   28.2
+   27.5
+   28.0
+   28.0
+   29.8
+   Plt
+   [**Telephone/Fax (3) 10909**]00
+    300
+   317
+   Cr
+   0.5
+   1.3
+   1.4
+   1.7
+   1.6
+   1.5
+   1.8
+   1.5
+   TCO2
+   32
+   Glucose
+   70
+   116
+   107
+   163
+   92
+   111
+   106
+   Other labs: PT / PTT / INR:31.1/105.6/3.1, Ca++:8.9 mg/dL, Mg++:2.8
+   mg/dL, PO4:4.1 mg/dL
+   12/9,8,6 blood pending
+   [**11-6**] sputum GNR on ctx
+   [**11-6**] right fem catheter pending
+   [**11-6**] urine neg
+   Assessment and Plan
+ AEROBIC CAPACITY / ENDURANCE, IMPAIRED
+ AIRWAY CLEARANCE, IMPAIRED
+ BALANCE, IMPAIRED
+ GAIT, IMPAIRED
+ KNOWLEDGE, IMPAIRED
+ MOTOR FUNCTION, IMPAIRED
+ MUSCLE PERFORMACE, IMPAIRED
+ RANGE OF MOTION, IMPAIRED
+ RESPIRATION / GAS EXCHANGE, IMPAIRED
+ TRANSFERS, IMPAIRED
+ VENTILATION, IMPAIRED
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ CHOLECYSTITIS, CALCULOUS
+ .H/O SEIZURE, WITH STATUS EPILEPTICUS
+ .H/O AORTIC DISSECTION
+ HEART FAILURE (CHF), DIASTOLIC, CHRONIC
+ ATRIAL FIBRILLATION (AFIB)
+ ANEMIA, CHRONIC
+ DYSLIPIDEMIA (CHOLESTEROL, TRIGLYCERIDE, LIPID DISORDER)
+   76yo gentleman who is s/p redo replacement aortic arch with presumed
+   anoxic brain injury and post-op bacteremia as well as cholecystitis s/p
+   cholecystosomy admitted for sepsis, found to have serratia bacteremia.
+   # Respiratory Failure:  Likely secondary to infectious process.
+   Empiric therapy for HAP with Vanc/Cipro (Vanc D1 [**10-11**], Cipro [**10-31**]).
+   Was on trach mask at facility occassionally.  Barriers to extubation
+   currently include muscle weakness and pulmonary edema.
+   - RSBI, SBT and retry trache mask daily
+   - Speech consult pending
+   - Continue combivent
+   - Lasix drip today for goal of 1 L neg today; BP cannot tolerate bolus
+   dosing for diuresis
+   - PM I/O check
+   # Sepsis: Found to have serratia bacteremia on OSH culture. Possible
+   sources include GU or GI. LFTs were normal apart from alk phos, so
+   cholecystitis less likely.  Could also be due to pneumonia or due to
+   PICC line infection (PICC has been removed).
+   Sputum with GNR on [**11-6**].
+   - per ID:  If decompensates, Meropenem appropriate.  Plan to continue
+   cipro X4 weeks (change to PO when is absorbing), vanco for 6 weeks
+   (start [**10-11**])
+   - f/u culture blood, sputum
+   -try to avoid IVF as now volume overloaded
+   # Acute renal failure: decreased .  Likely combination of ATN and
+   hypovolemia given small amount of granual casts
+   - follow urine output
+   -pm lytes
+   - renally dose meds (vancomycin)
+   - renal consult if no improvement
+   # Fever: Currently afebrile Most likely source is femoral CVL.  Pullled
+   on [**11-6**].  Other possible sources of infection include pulmonary
+   effusion, urinary (pt with recent bladder irrigation and GU
+   manipulation).  No leukocytosis currently.
+   - consider CT-guided thoracentesis if fevers continue after femoral
+   line pulled or patient decompensates
+   # Altered mental status and h/o Seizures and Likely Anoxic Cerebral
+   Injury:  No current evidence of seizure activity but he does have a
+   history of non-convulsive status epilepticus.  EEG neg for seizure so
+   likely due to hypotension, possibly oversedation from anti-epileptic
+   medications.  Now improved.
+   - appreciate neurology input; stopped Phenobarbital [**11-4**] with plan to
+   cont Keppra and Dilantin.
+   - dilantin corrected needs to be between 6 and 8 corrected for
+   albumin.  keep checking daily levels for now to see if going up (at
+   rehab can check every few days)(coumadin should make it go up and was
+   only started a few days ago).
+   -add dilantin level onto am labs
+   # Hypercalcemia: New finding, corrected Ca [**03**].9.   PTH is in Normal
+   range of 34.  Differential includes malignancy, renal failure.
+   -continue to monitor to see if decreases with improving renal failure
+   # Hematuria and BPH:  Was described at rehab [**10-29**]  Patient was
+   followed by urology during recent hospital stay and was started on
+   flomax.  Continued to have some hematuria during this hospitalization,
+   has 3 way foley and undergoing bladder irrigation.  Likely due to
+   anticoagulation in the setting of foley placements.  Now resolved.  If
+   recurrs, might consider urology consult
+   - continue Foley, no bladder irrigation currently needed
+   # Atrial Fibrillation and UE DVTs:  INR now 3.1, restarted home
+   metoprolol.
+   - consider stopping dronederone as this is not keeping him in sinus
+   (emailed cardiologist)
+   - coumadin dose at 7.5, decrease today
+s dose to 5mg
+   - stop heparin gtt as now therapeutic
+   # Anemia:  Hct stable, had 1U during admission of prbc.  Note that
+   patient required multiple transfusions during recent hospital stay and
+   he has guaiac positive stool as well as recent hematuria.
+   - check Hct daily
+   - active T&S
+   - ranitidine for guaiac positive stool
+   # Recent Cholecystitis:   As above this may be contributing to the
+   patient's septic picture.  Abdominal exam and LFTs somewhat
+   reassuring.  Gen [**Doctor First Name 438**] states perc tube in place.
+   Per Dr. [**Last Name (STitle) **]
+the tube in is not a problem, especially as it does
+   let us know that his gallbladder is not the source of his sepsis (when
+   he comes in the next time
+.).  I think that management of the tube
+   depends very much on his overall status."
+   # S/p Aortic arch repair/dissection/CABG:  Long, complicated course
+   following the procedure.  CT surgery consulted in the ED.  Recently had
+   TEE that did not show vegetations on grafts or pacemaker leads, but at
+   risk for endovascular seeding, particularly if blood cultures come back
+   positive.
+   - follow any CT [**Doctor First Name 438**] recs
+   - Continue simvastatin and ASA
+   .
+   # h/o diastolic heart failure:
+   - Continue gentle diuresis as above
+   # Infiltrated IV site:  plastics said no compartment syndrome, appears
+   stable
+   -heating compresses, elevate above heart
+   # Hyperlipidemia:  continue statin
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3303-11-7**] 08:16 AM 100 mL/hour
+   Glycemic Control:
+   Lines:
+   Midline - [**3303-11-6**] 04:37 PM
+   Prophylaxis:
+   DVT: heparin gtt, coumadin
+   Stress ulcer: H2B
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: to rehab
+
+
+
+DOC CLASS

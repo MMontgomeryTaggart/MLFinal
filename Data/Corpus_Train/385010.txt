@@ -1,0 +1,233 @@
+Chief Complaint:
+   24 Hour Events:
+ NON-INVASIVE VENTILATION - STOP [**2709-3-10**] 08:00 AM
+ NON-INVASIVE VENTILATION - START [**2709-3-10**] 10:00 AM
+ NON-INVASIVE VENTILATION - STOP [**2709-3-10**] 01:00 PM
+ NON-INVASIVE VENTILATION - START [**2709-3-10**] 03:00 PM
+   - IR recs: cont current management, leukocytosis to be expected
+   - Urology: cont nephrostomy tube, follow up with urology as outpt
+   - Given 250ml NS with little effect in UOP
+   - Given low dose morphine for pain and dyspnea
+   - Intermittently on BiPAP, occationally pulling off and dropping sats
+   to low 80s
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2709-3-10**] 08:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2709-3-11**] 02:20 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2709-3-10**] 04:00 PM
+   Morphine Sulfate - [**2709-3-10**] 04:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2709-3-11**] 07:38 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.8
+C (98.2
+   HR: 62 (60 - 66) bpm
+   BP: 105/41(57) {84/31(45) - 124/48(90)} mmHg
+   RR: 27 (17 - 27) insp/min
+   SpO2: 88%
+   Heart rhythm: A Paced
+             Total In:
+                                                                  2,040 mL
+                                                                    126 mL
+   PO:
+                                                                    450 mL
+             TF:
+   IVF:
+                                                                  1,590 mL
+                                                                    126 mL
+   Blood products:
+   Total out:
+                                                                    625 mL
+                                                                    370 mL
+   Urine:
+                                                                    625 mL
+                                                                    370 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,415 mL
+                                                                   -244 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 320 (320 - 594) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 17
+   PEEP: 8 cmH2O
+   FiO2: 60%
+   PIP: 24 cmH2O
+   SpO2: 88%
+   ABG: ///30/
+   Ve: 5.2 L/min
+   Physical Examination
+   General Appearance: altered sensorium
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, JVP elevated 12cm
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal), holosystolic
+   murmur
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   [**2-3**] lung fields)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 3+, Left: 3+
+   Skin:  Warm
+   Neurologic: Responds to: Not assessed, Oriented (to): x0, Movement: Not
+   assessed, Tone: Not assessed
+   Labs / Radiology
+   159 K/uL
+   9.1 g/dL
+   99 mg/dL
+   3.6 mg/dL
+   30 mEq/L
+   5.2 mEq/L
+   81 mg/dL
+   97 mEq/L
+   139 mEq/L
+   27.9 %
+   11.8 K/uL
+        [image002.jpg]
+                             [**2709-3-9**]  03:50 AM
+                             [**2709-3-9**]  04:07 AM
+                             [**2709-3-9**]  08:02 AM
+                             [**2709-3-9**]  09:31 AM
+                             [**2709-3-9**]  03:14 PM
+                             [**2709-3-9**]  08:45 PM
+                             [**2709-3-10**]  03:48 AM
+                             [**2709-3-10**]  05:21 AM
+                             [**2709-3-10**]  12:54 PM
+                             [**2709-3-11**]  04:20 AM
+   WBC
+   13.3
+   18.4
+   17.5
+   11.8
+   Hct
+   31.0
+   32.7
+   30.3
+   29.8
+   27.9
+   Plt
+   188
+   193
+   174
+   159
+   Cr
+   2.7
+   3.2
+   3.4
+   3.6
+   3.6
+   3.6
+   TropT
+   0.04
+   0.04
+   0.06
+   TCO2
+   38
+   39
+   35
+   Glucose
+   123
+   119
+   131
+   130
+   99
+   Other labs: CK / CKMB / Troponin-T:278/5/0.06, Ca++:8.1 mg/dL, Mg++:2.8
+   mg/dL, PO4:6.5 mg/dL
+   Imaging: no new imaging
+   Microbiology: [**2708-3-9**] Urine Cx: no growth
+   [**2708-3-8**] Urine Cx: pansensitive proteus mirabilis
+   [**2709-3-8**] Blood Cx: ngtd
+   Assessment and Plan
+ NEPHROLITHIASIS (KIDNEY STONES)
+ RENAL FAILURE, CHRONIC (CHRONIC RENAL FAILURE, CRF, CHRONIC KIDNEY
+   DISEASE)
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITH ACUTE EXACERBATION
+   80 yo F with hypercarbic respiratory failure [**1-4**] fluid overload, COPD,
+   OSA, acute on chronic dCHF
+   .
+   # Hypercarbic Respiratory Acidosis: Admission gas: on 6l nc
+   7.22/88/51----> 7.25/83/54 after 30 minutes on bipap. Likely
+   multifactorial [**1-4**] volume overload, COPD, untreated OSA, diastolic
+   failure.  Patient very reluctant to participate with BIPAP, when awake
+   she pulls mask off.
+   - ABG trend
+   - adjust BIPAP as indicated, b/l CO2 60s
+   - aggressive diuresis with lasix boluses
+   .
+   # Acute on chronic diastolic CHF: Currently significantly fluid
+   overloaded and signs of increased pulmonary congestion with crackles to
+   top of lung fields posteriorly.
+   - diuresis with furosemide, goal 1-1.5 L negative overnight, lasix gtt
+   in AM if not at goal
+   - daily weight
+   - monitor UOP
+   - continue BB, asa, statin
+   .
+   # Hypotension: 94 systolic on admission, increase to 120's. Got 500cc
+   bolus in ED. Infection possible as has stone but afebrile and no
+   leukocytosis, will cover broadly with vanc/zosyn. Narrow once ucx
+   returns. Blood cx pending.
+   - no bolus for now as holding pressures in 100-120's
+   - hold antihypertensives
+   .
+   # UTI/Pyelo: Likely secondary to obstructing stone. U/A dirty.
+   -follow up urine culture
+   -on vanc/zosyn for broad spec coverage as above
+   -per Urology, no surgery now given resp failure, will need to be
+   re-addressed in AM as this is acute hydronephrosis
+   .
+   .
+   # Chronic Renal Failure: Baseline 2-2.5, on admission 2.1.
+   - trend
+   .
+   # Atrial fibrillation: Rate controlled
+   -continue dig, check level
+   -continue asa and lopressor
+   .
+   # COPD: on oxygen at home 5L
+   - switch spiriva to ipratropium
+   - albuterol nebs
+   .
+   # Hypothyroidism: continue levothyroxine
+   .
+   # FEN: replete lytes prn, NPO
+   .
+   # PPX:
+   .
+   # Code status: FULL - confirmed on admission and per prior records.
+   Patient aware that if she is intubated she will be challenging to
+   extubate
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2709-3-8**] 08:37 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

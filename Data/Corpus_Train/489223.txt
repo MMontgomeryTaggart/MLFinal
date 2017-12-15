@@ -1,0 +1,222 @@
+Chief Complaint:
+   24 Hour Events:
+ ULTRASOUND - At [**2579-5-3**] 10:19 AM
+ BRONCHOSCOPY - At [**2579-5-3**] 12:00 PM
+ MULTI LUMEN - START [**2579-5-3**] 01:56 PM
+ MULTI LUMEN - STOP [**2579-5-3**] 04:06 PM
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Piperacillin - [**2579-5-2**] 06:09 PM
+   Vancomycin - [**2579-5-3**] 08:00 AM
+   Ciprofloxacin - [**2579-5-3**] 10:32 PM
+   Meropenem - [**2579-5-4**] 02:00 AM
+   Infusions:
+   Propofol - 10 mcg/Kg/min
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2579-5-3**] 09:56 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-4**] 07:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 38
+C (100.4
+   Tcurrent: 37.2
+C (99
+   HR: 96 (83 - 100) bpm
+   BP: 100/53(70) {86/51(64) - 107/65(80)} mmHg
+   RR: 14 (14 - 21) insp/min
+   SpO2: 100%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+    CVP: 8 (5 - 13)mmHg
+   Total In:
+                                                                  5,515 mL
+                                                                    312 mL
+   PO:
+   TF:
+   IVF:
+                                                                  4,615 mL
+                                                                    312 mL
+   Blood products:
+   Total out:
+                                                                  1,040 mL
+                                                                    440 mL
+   Urine:
+                                                                  1,040 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,475 mL
+                                                                   -128 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 273
+   PIP: 25 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 31.3 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.53/38/158//9
+   Ve: 7.2 L/min
+   PaO2 / FiO2: 395
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   84 K/uL
+   12.2 g/dL
+   185 mg/dL
+   1.6 mg/dL
+   26 mEq/L
+   4.0 mEq/L
+   37 mg/dL
+   96 mEq/L
+   135 mEq/L
+   37.2 %
+   9.5 K/uL
+        [image002.jpg]
+                             [**2579-5-2**]  06:55 PM
+                             [**2579-5-2**]  08:13 PM
+                             [**2579-5-2**]  08:26 PM
+                             [**2579-5-2**]  11:08 PM
+                             [**2579-5-3**]  12:27 AM
+                             [**2579-5-3**]  03:58 AM
+                             [**2579-5-3**]  04:10 AM
+                             [**2579-5-3**]  09:10 AM
+                             [**2579-5-4**]  05:59 AM
+                             [**2579-5-4**]  06:25 AM
+   WBC
+   12.2
+   12.2
+   9.5
+   Hct
+   42.7
+   40.7
+   37.2
+   Plt
+   79
+   79
+   84
+   Cr
+   1.4
+   1.6
+   TropT
+   0.05
+   TCO2
+   29
+   34
+   35
+   35
+   29
+   28
+   33
+   Glucose
+   103
+   185
+   Other labs: PT / PTT / INR:18.6/46.8/1.7, CK / CKMB /
+   Troponin-T:33/1/0.05, ALT / AST:280/315, Alk Phos / T Bili:96/1.7,
+   Differential-Neuts:62.0 %, Band:23.0 %, Lymph:5.0 %, Mono:6.0 %,
+   Eos:3.0 %, Fibrinogen:399 mg/dL, Lactic Acid:1.7 mmol/L, Albumin:2.8
+   g/dL, LDH:352 IU/L, Ca++:7.1 mg/dL, Mg++:1.9 mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+ SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+ TACHYCARDIA, OTHER
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 73**])
+ HYPOTENSION (NOT SHOCK)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ ELECTROLYTE & FLUID DISORDER, OTHER
+ PNEUMONIA, OTHER
+ IMPAIRED SKIN INTEGRITY
+   This is a 79 year old male with critical aortic stenosis awaiting AVR
+   who was admitted with pneumonia and s/p 10 day course of broad spectrum
+   antibiotics transferred to the MICU with hypoxia and respiratory
+   distress with new bandemia and high fever, with concern for new
+   infection vs HIT.
+   # Sepsis: the patient respiked to 103F and has a new bandemia in the
+   setting of respiratory distress and likely new RML and RLL infiltrate,
+   likely an aspiration pneumonia which should be treated as ventilator
+   associated pneumonia.  Also could be febrile response from HIT with
+   re-exposure to heparin flush. No spike in LFTs, although bili slightly
+   increased. Patient also with Stage II decubitus ulcer. The patient was
+   on vanc / zosyn at this time so was broadened to vanc / [**Last Name (un) **] / cipro.
+   - continue broadened antibiotics
+   - CT chest/abdomen done yesterday showed worsening multifocal PNA and
+   larger right pleural effusion, tap right effusion if difficulty weaning
+   from vent
+   - send stool for cdiff, pending
+   -f/u blood / urine cultures
+   -monitor fever curve / WBC and bandemia=
+   -pressor switched to levophed from neosynephrine given resolution of
+   atrial tachycardia, CVP is > 12, CVO2 is 59 but hct is already > 30 and
+   given atrial tachycardia augmenting with dobutamine may be difficult,
+   continue to wean off levophed
+   -set up vigelo for better hemodynamic monitoring
+   # Respiratory failure: Patient reintubated last night for respiratory
+   distress. Also with new infiltrate consistent with VAP but could be
+   diffuse alveolar hemorrhage, other abcess/fungal infection.
+   - continue vanc/[**Last Name (un) **]/cipro
+   - rebronched yesterday with BAL sent, f/u cx data, nothing growing to
+   guide abx thus far
+   - continue mechanical intubation
+   # ?HIT: Positive HIT ab with negative SRA. Per Hematology he should
+   stay on Lepirudin gtt, need to rediscuss with heme given hemoptysis and
+   hematuria.  Lepirudin had been stopped in the setting of respiratory
+   compromise and hemoptysis.
+   - Talk to heme regarding possibility of HIT, they will see him today
+   - LENIs and upper extremity US were negative for DVT
+   -holding Lepirudin
+   .
+   # atrial tachycardia: continue amiodarone gtt, triggered by hypoxia, >
+   50% of time in the ICU has been in atrial tachycardia, when more stable
+   convert to PO amio regimen
+   .
+   # Critical AS/systolic CHF: : AVR on hold given current situation and
+   positive HIT.
+   --f/u cardiac [**Doctor First Name 86**] recs (per resident, bypass machine needed for
+   surgery requires use of heparin) and talk to cardiac surgery regarding
+   possibility of valvuloplasty
+   - check cardiac enzymes
+   --control tachycardia as per above to improve filling time
+   #. ARF: worsening cr likely related to sepsis and renal hypoperfusion.
+   -trend cr and monitor UOP
+   --renally dose all meds
+   -recheck vanc level in a.m. [**5-4**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2579-5-1**] 01:00 AM
+   Multi Lumen - [**2579-5-3**] 01:56 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

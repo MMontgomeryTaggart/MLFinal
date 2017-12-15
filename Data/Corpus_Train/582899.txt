@@ -1,0 +1,243 @@
+CVICU
+   HPI:
+   [**4-10**] POD 7
+   64M s/p RVAD-IABP
+   EF: 50% WT:132kg Cr:0.7 HgA1C: 6.0
+   PMHx:
+   PMH Htn, Hyperchol, s/p R TKR, R knee and L knee meniscetomy, Append
+   [**Last Name (un) **] Diovan 80, Simvastatin 20, Vicodin PRN
+   Current medications:
+   20 gm Calcium Gluconate/ 500 mL D5W 3. 250 mL D5W 4. Acetaminophen 5.
+   Artificial Tears 6. Artificial Tear Ointment 7. Aspirin 8. Bisacodyl 9.
+   Calcium Gluconate 10. Chlorhexidine Gluconate 0.12% Oral Rinse 11.
+   Ciprofloxacin 13. Epinephrine HCl 14. Fentanyl Citrate 15. Heparin
+   Flush (5000 Units/mL) 16. Heparin
+   17. Insulin 18. Influenza Virus Vaccine 19. Magnesium Sulfate 20.
+   Metoclopramide 21. Midazolam 22. Norepinephrine 23. Pantoprazole 24.
+   Piperacillin-Tazobactam Na 25. Potassium Chloride 26. Potassium
+   Chloride 27. Potassium Chloride 10 mEq / 100 mL SW (CRRT Only)
+   Prismasate (B32 K2) 31. Sodium CITRATE 4%
+   33. Vancomycin
+   24 Hour Events:
+ EKG - At [**3095-4-9**] 09:00 AM
+ CCO PAC - STOP [**3095-4-9**] 09:05 AM
+ FLUOROSCOPY - At [**3095-4-9**] 10:30 AM
+   attempt rt fem transvenous wire placement.
+ CCO PAC - START [**3095-4-9**] 12:00 PM
+ CORDIS/INTRODUCER - START [**3095-4-9**] 12:22 PM
+ MULTI LUMEN - STOP [**3095-4-9**] 08:00 PM
+ ULTRASOUND - At [**3095-4-9**] 09:07 PM
+   rt groin to r/o bleed
+   [**4-3**]:RVAD down upon CVICU arrival->console changed out. Vaso/Levo/Epi.
+   Milrinone dc'd. 5u PRBCs/2uFFP. VTach->Amio/GTT. Started on Heparin GTT
+   @ 700u/h.ACT goal 170.heading towards anuria->Lasix 80 bolus/GTT
+   [**4-4**]- CVVH,Mult pressors,IABP -> metastable
+   3/37-TEE_LV ok on 1:4 IABP,RV w/o contraction except vacuum of
+   RVAD.Paralyzed for low SV02.IABP removed.
+   [**4-7**]- weaning levo, sl dusky exts. s9inusitis- Afrin. no reaL CHANGES
+   [**4-8**] aline changed, femoral artery right at vein on u/s, dobhoff placed
+   by IR at bedside post pyloric, tb inc 10, afib ^ 130 dopa stopped
+   hypotension - restarted levo and epi
+   [**4-9**]:junc/RAF-attempt TVPW by EP. unable to do. Fresh stick (L)swan.Tx
+   1uPRBC for low SVO2.TEE done=
+   Post operative day:
+   [**4-10**] POD 7
+   64M s/p RVAD-IABP
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3095-4-10**] 04:00 AM
+   Ciprofloxacin - [**3095-4-10**] 08:05 AM
+   Vancomycin - [**3095-4-10**] 10:10 AM
+   Infusions:
+   Epinephrine - 0.04 mcg/Kg/min
+   Heparin Sodium - 1,300 units/hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Norepinephrine - 0.05 mcg/Kg/min
+   KCl (CRRT) - 2 mEq./hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3095-4-9**] 11:17 AM
+   Flowsheet Data as of  [**3095-4-10**] 10:52 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**98**] a.m.
+   HR: 109 (72 - 120) bpm
+   BP: 107/58(73) {86/44(56) - 138/66(85)} mmHg
+   RR: 26 (8 - 34) insp/min
+   SPO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 165.2 kg (admission): 131.8 kg
+   Height: 71 Inch
+   CVP: 24 (21 - 256) mmHg
+   PAP: (48 mmHg) / (29 mmHg)
+   CO/CI (Fick): (11.5 L/min) / (4.7 L/min/m2)
+   CO/CI (CCO): (5.7 L/min) / (2.3 L/min/m2)
+   SvO2: 78%
+   Mixed Venous O2% sat: 61 - 64
+   Total In:
+                                                                  6,594 mL
+                                                                  2,359 mL
+   PO:
+   Tube feeding:
+                                                                    230 mL
+                                                                    103 mL
+   IV Fluid:
+                                                                  5,439 mL
+                                                                  1,781 mL
+   Blood products:
+                                                                    925 mL
+                                                                    475 mL
+   Total out:
+                                                                  2,442 mL
+                                                                  1,750 mL
+   Urine:
+                                                                     12 mL
+                                                                     10 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  1,000 mL
+   Balance:
+                                                                  4,152 mL
+                                                                    609 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 14 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 39 cmH2O
+   Plateau: 25 cmH2O
+   SPO2: 97%
+   ABG: 7.38/40/72/23/0
+   Ve: 15.4 L/min
+   PaO2 / FiO2: 144
+   Physical Examination
+   General Appearance: No acute distress, Intubated and sedated with
+   RVAD/CVVHD
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : throughout), (Sternum: Stable ), RVAD w/o clots-visible
+   fibrin strands
+   Abdominal: Soft, Non-tender, Obese, no bowel sounds appreciated
+   Left Extremities: (Edema: 4+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 4+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), left hand with cyanotic
+   fingers. Left foot with cyanotic plantar surface. Left groin with
+   serosanguinous drainage from previous HD catheter site.
+   Neurologic: (Responds to: Noxious stimuli), Sedated, sedated with
+   fentanyl and versed. Coughs to deep suctioning. does not follow any
+   commmands
+   Labs / Radiology
+   41 K/uL
+   10.5 g/dL
+   90 mg/dL
+   3.9 mg/dL
+   23 mEq/L
+   4.2 mEq/L
+   39 mg/dL
+   96 mEq/L
+   129 mEq/L
+   29.7 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**3095-4-9**]  05:43 AM
+                             [**3095-4-9**]  12:15 PM
+                             [**3095-4-9**]  12:24 PM
+                             [**3095-4-9**]  06:05 PM
+                             [**3095-4-9**]  06:18 PM
+                             [**3095-4-9**]  11:55 PM
+                             [**3095-4-10**]  12:00 AM
+                             [**3095-4-10**]  12:05 AM
+                             [**3095-4-10**]  05:51 AM
+                             [**3095-4-10**]  05:59 AM
+   WBC
+   11.0
+   10.6
+   Hct
+   28.3
+   25.9
+   27.5
+   27.5
+   29.7
+   Plt
+   37
+   41
+   Creatinine
+   2.0
+   3.0
+   3.9
+   TCO2
+   23
+   24
+   24
+   24
+   25
+   Glucose
+   93
+   97
+   94
+   93
+   90
+   Other labs: PT / PTT / INR:20.1/55.3/1.9, CK / CK-MB / Troponin
+   T:4839/376/24.20, ALT / AST:450/205, Alk-Phos / T bili:47/21.7, Amylase
+   / Lipase:68/194, Differential-Neuts:85.1 %, Lymph:9.8 %, Mono:4.8 %,
+   Eos:0.2 %, Fibrinogen:194 mg/dL, Lactic Acid:1.8 mmol/L, Albumin:3.1
+   g/dL, LDH:551 IU/L, Ca:8.6 mg/dL, Mg:2.3 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), IMPAIRED SKIN
+   INTEGRITY, MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI), SHOCK,
+   CARDIOGENIC, ATRIAL FIBRILLATION (AFIB)
+   Assessment and Plan: 64yo man s/p knee surgery c/b MI and cardiogenic
+   shock requiring RVAD and IABP placement. On multiple pressors and
+   inotropes since then. IABP removed [**4-5**]
+   Neurologic: will lighten sedation to assess neuro status today.
+   Reportedly woke and followed commands on POD1
+   Cardiovascular: Aspirin, Full anticoagulation, Levophed and Epinephrine
+   infusions. Hold Bblockers while on pressors
+   Statins on hold d/t elevated LFT's
+   Pulmonary: Cont ETT, (Ventilator mode: CMV), wean PEEP as tolerated
+   Gastrointestinal / Abdomen: OGT/Dophoff in place. Tube feeds started.
+   Nutrition: Tube feeding, Trophic tube feeds with nutren renal.
+   Renal: Foley, CVVHD ongoing: unable to take off fluid up to this point.
+   Will attempt to run net even today
+   Hematology: hct 29 this AM after 2 units of PRBC's overnight. OGT
+   aspirant guiac negative.
+   Endocrine: RISS
+   Infectious Disease: All lines changed yesterday. All culture data
+   negative to date. Empirically on Vanco/Zosyn Cipro
+   Lines / Tubes / Drains: Foley, OGT, Dobhoff, ETT, Chest tube - pleural
+   , Chest tube - mediastinal, RVAD
+   Wounds: Dry dressings, Left groin wound from previous HD catheter
+   draining serosanguinous fluid.
+   Consults: Vascular surgery, CT surgery, Transplant, Nephrology,
+   Nutrition
+   ICU Care
+   Nutrition: Trophic tube feeds with nutren renal
+   Nutren Renal (Full) - [**3095-4-8**] 09:49 PM 10 mL/hour
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Dialysis Catheter - [**3095-4-3**] 08:34 PM
+   Arterial Line - [**3095-4-8**] 11:00 AM
+   CCO PAC - [**3095-4-9**] 12:00 PM
+   Cordis/Introducer - [**3095-4-9**] 12:22 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

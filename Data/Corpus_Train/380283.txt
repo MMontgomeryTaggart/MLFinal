@@ -1,0 +1,236 @@
+TITLE:
+   Chief Complaint: End stage liver disease
+   24 Hour Events:
+   - tap, took off ~ 5 L
+   - peritoneal fluid: WBC 20, RBC 333, gram stain:
+   - given 25g 25% albumin x 2
+   - Creat 2.5
+   - Decreased lasix gtt to 7/hr given negative status
+   History obtained from Patient
+   Allergies:
+   History obtained from PatientAmoxicillin
+   Rash;
+   Adhesive Bandage (Topical)
+   Rash;
+   Dicloxacillin
+   Unknown;
+   Infusions:
+   Furosemide (Lasix) - 15 mg/hour
+   Other ICU medications:
+   Morphine Sulfate - [**3275-2-14**] 12:00 PM
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Gastrointestinal: Nausea
+   Genitourinary: Foley
+   Heme / Lymph: Anemia, Coagulopathy
+   Psychiatric / Sleep: Delirious
+   Flowsheet Data as of  [**3275-2-15**] 07:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.2
+C (99
+   Tcurrent: 36.8
+C (98.2
+   HR: 78 (74 - 100) bpm
+   BP: 99/55(64) {92/47(59) - 118/68(77)} mmHg
+   RR: 16 (11 - 17) insp/min
+   SpO2: 90%
+   Heart rhythm: SR (Sinus Rhythm)
+    CVP: 10 (10 - 30)mmHg
+   PAP: (54 mmHg) / (22 mmHg)
+   PCWP: 22 (20 - 22) mmHg
+   Mixed Venous O2% Sat: 75 - 75
+   Total In:
+                                                                  1,371 mL
+                                                                     22 mL
+   PO:
+                                                                    950 mL
+   TF:
+   IVF:
+                                                                    221 mL
+                                                                     22 mL
+   Blood products:
+                                                                    200 mL
+   Total out:
+                                                                  9,990 mL
+                                                                    660 mL
+   Urine:
+                                                                  3,990 mL
+                                                                    660 mL
+   NG:
+   Stool:
+   Drains:
+                                                                  6,000 mL
+   Balance:
+                                                                 -8,619 mL
+                                                                   -638 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula    SpO2: 90%
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Poor dentition
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Extremities: Right: 1+, Left: 1+
+   Musculoskeletal: Muscle wasting
+   Skin:  Not assessed, Jaundice
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   54 K/uL
+   7.7 g/dL
+   119 mg/dL
+   2.1 mg/dL
+   33 mEq/L
+   3.3 mEq/L
+   46 mg/dL
+   91 mEq/L
+   133 mEq/L
+   22.4 %
+   4.9 K/uL
+        [image002.jpg]
+                             [**3275-2-11**]  08:58 PM
+                             [**3275-2-12**]  03:54 AM
+                             [**3275-2-12**]  05:35 PM
+                             [**3275-2-13**]  04:08 AM
+                             [**3275-2-13**]  06:49 AM
+                             [**3275-2-13**]  10:55 PM
+                             [**3275-2-14**]  03:53 AM
+                             [**3275-2-14**]  03:59 PM
+                             [**3275-2-14**]  04:17 PM
+                             [**3275-2-15**]  03:17 AM
+   WBC
+   6.1
+   6.3
+   4.7
+   5.4
+   4.9
+   Hct
+   24.3
+   22.6
+   20.6
+   20.6
+   22.4
+   23.5
+   26
+   22.4
+   Plt
+   58
+   57
+   50
+   71
+   60
+   54
+   Cr
+   2.7
+   2.4
+   2.4
+   2.1
+   2.5
+   2.1
+   Glucose
+   113
+   113
+   116
+   97
+   110
+   119
+   Other labs: PT / PTT / INR:27.8/58.0/2.8, ALT / AST:[**9-17**], Alk Phos / T
+   Bili:86/19.3, Amylase / Lipase:53/26, Differential-Neuts:80.7 %,
+   Lymph:9.1 %, Mono:8.0 %, Eos:2.0 %, LDH:268 IU/L, Ca++:9.1 mg/dL,
+   Mg++:2.0 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+ PULMONARY HYPERTENSION (PULM HTN, PHTN)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ CIRRHOSIS OF LIVER, ALCOHOLIC
+   41M with history of cirrhosis secondary to EtOH + HCV, pulmonary HTN,
+   severe ascites, and recurrent encephalopathy, admitted to SICU post
+   aborted liver trx due to elevation in pulmonary pressures. He is now
+   transferred to medicine for diuresis, treatment of acute renal failure
+   and pulmonary hypertension, and transferred to MICU for diuresis while
+   Swan in place, with possible consideration of Flolan therapy.
+   # Volume Status: elevated left sided pressure on PA catheter, so
+   suspect volume overload.  Currently on Lasix gtt. Essentially even this
+   AM.
+   - Goal -[**Telephone/Fax (1) 173**] ml today
+   - PM lytes
+   - Lasix gtt, uptitrate & consider Diural if needed
+   .
+   # Cirrhosis/Liver failure:  MELD score 34-36; c/b ascites,
+   encephalopathy and SBP.  Therapeutic paracentesis on [**2-1**] (6L off) and
+   [**2-5**] (5L off). Lasix and spironolactone increased from 20 and 50 to 40
+   and 100 on [**2-6**], stopped on [**2-9**] d/t worsening renal function,
+   continuing to hold through [**2-11**].  Intermittent paracentecis for
+   relief.
+   - continue lactulose and Rifaximin for hepatic encephalopathy
+   - continue ciprofloxacin for SBP prophylaxis
+   - ursodiol for elevated bilirubin/pruritis
+   - low-dose morphine prn for abdominal pain  (MAX 0.5mg)
+   - off transplant list until pulmonary arterial hypertension is treated;
+   need PA mean of 35 for transplant
+   - New nausea/vomiting [**2-14**], may be [**12-24**] dyspepsia following breakfast,
+   compazine x 1; consider tap
+   #  Acute renal failure: thought to be secondary to volume overload +/-
+   HRS at time of transfer from SICU.   Diuretic increased [**2-6**] and then
+   held [**Date range (1) 6361**] d/t worsening renal function.  Cr improving on laxix
+   gtt, may be due to ventricular interdependence.
+   - diuresis as above
+   - Follow-up urine lytes
+   - therapeutic paracenteses and albumin as above  (possibly today if
+   abdominal paint / nausea does not improve)
+   - on midodrine for renal perfusion; holding octreotide d/t concern this
+   might elevate pulmonary arterial pressures
+   .
+   # Pulmonary hypertension:  plan at time of transfer from SICU was
+   diuresis with goal to lower pulmonary pressures; it was felt at time
+   that volume overload was contributing to elevated PA pressures (which
+   were increased from cardiac cath in [**Month (only) 23**]).  In MICU for continued
+   diuresis (watching the creatinine) in preparation for possible Flolan
+   once diuresed, new swan in place in R IJ
+   - repeat right heart cath on [**2-11**] (after diuresis) showed mean PA
+   pressure of 52 with wedge pressure of 28
+   - increase Lasix gtt with goal negative -1000mL+ today
+   - f/u with Pulm (Dr [**Last Name (STitle) 869**] is following) for ?Flolan versus more
+   diuresis
+   - Pulmonary catheter to IJ [**2-12**]
+   .
+   # Hypothyroid:  Continue outpatient Synthroid
+   .
+   # Anemia: normocytic; felt to be due primarily to marrow suppression .
+   Hct down to 20 on [**2-13**] AM.
+   - s/p transfusion 1U PRBCs [**2-1**], [**2-5**], and [**2-8**]; 2U PRBCs on [**2-10**]
+   - guaiac positive on [**2-10**] and [**2-11**], hapto <20, LDH WNL, retic count
+   2.4
+   - patient with h/o diverticulosis per [**3269**] colonoscopy; may need repeat
+   colonoscopy during this admission
+   - guaiac all stools
+   - transfsue 1u pRBCs [**2-13**], increased appropriately, check daily
+   # Sacral Ulcer: Stage 2 noted on buttocks.
+   - wound care consult [**2-14**]
+   FEN-   Fluid restrict 1200mL d/t concern of volume overload;
+   hyponatremia stable; renal shakes
+   ICU Care
+   Glycemic Control:  ISS
+   Lines:  20 Gauge - [**3275-2-11**] 06:21 PM; PA Catheter - [**3275-2-12**] 09:27
+   PM
+   Prophylaxis:
+   DVT:  Boots, no heparin given coags
+   Stress ulcer:  PPI
+   Code status:  FULL
+   Disposition: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PA Catheter - [**3275-2-12**] 09:27 PM
+
+
+
+DOC CLASS

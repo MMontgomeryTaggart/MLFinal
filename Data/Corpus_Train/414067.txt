@@ -1,0 +1,270 @@
+Chief Complaint:  Reason for ICU admission: GI Bleed
+   HPI:
+   Ms. [**Known patient lastname 5471**] is a 63 female with alcoholic cirrhosis, who was initially
+   admitted for acute renal failure 9 days ago.  She was briefly in the
+   MICU after she triggered for arrival for hypotension thought to be due
+   to hypovolemia.  She was given albumin and IVF and her BP improved.
+   .
+   On the floor, her ARF improved; Her Cr went down from 4.0 to 1.2 (still
+   up from baseline of 0.8 - 1) with IVF and holding diuretics.
+   Additionally, she developed a drug rash ?secondary to midodrine.  He is
+   also being work up to put on the liver transplant, including a right
+   heart cath which showed pulmonary HTN.
+   .
+   On the day of transfer, she had three black/marroon colored stools.
+   She was transfused 1 unit of PRBCs and then 3 units of FFP and her Hct
+   went from 22.3 --> 19.6.  She was started on Octreotide drip and IV PPI
+   [**Hospital1 7**].  Of note, patient has a history of grade two esophageal varices
+   and an 8 cm antral ulcer.
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Octreotide - 25 mcg/hour
+   Midazolam (Versed) - 4 mg/hour
+   Fentanyl (Concentrate) - 150 mcg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**2964-9-4**] 06:00 PM
+   Fentanyl - [**2964-9-4**] 06:00 PM
+   Other medications:
+   MEDS:
+   Ciprofloxacin 250 mg daily
+   Folic Acid 1 mg Tablet daily
+   Lactulose 30ml TID
+   Omeprazole 40 mg daily
+   Rifaximin 400 mg TID
+   Ursodiol 300 mg TID
+   Ferrous Sulfate 325 mg daily
+   Thiamine HCl 100 mg daily
+   Zinc Sulfate 220 mg daily
+   Vitamin K 100 mcg daily
+   nadolol 20 daily
+   .
+   Transfer Meds:
+   Octreotide Acetate 25 mcg/hr IV DRIP INFUSION
+   Pantoprazole 40 mg IV Q12H
+   Sodium Bicarbonate 650 mg PO QAM
+   Triamcinolone Acetonide 0.1% Ointment 1 Appl TP [**Hospital1 7**] rash
+   Vitamin D 50,000 UNIT PO 1X/WEEK (WE)
+   Ondansetron 4 mg IV Q8H:PRN nausea
+   Sarna Lotion 1 Appl TP QID:PRN pruritis
+   sevelamer HYDROCHLORIDE 800 mg PO TID W/MEALS
+   Lactulose 30 mL PO TID  [**9-4**] @ 1617
+   Phytonadione 5 mg PO DAILY
+   Zinc Sulfate 220 mg PO DAILY
+   Thiamine 100 mg PO DAILY
+   Ferrous Sulfate 325 mg PO DAILY
+   Ursodiol 300 mg PO TID
+   FoLIC Acid 1 mg PO DAILY
+   .
+   Past medical history:
+   Family history:
+   Social History:
+   # EtOH cirrhosis - dx [**10-23**], last drink [**11-12**]. [**2963**].
+   - Grade II varices on EGD.
+   - h/o encephalopathy.
+   - dilated CBD s/p ERCP felt benign stricture, 5 mm indeterminate lesion
+   of the posterior right hepatic lobe.
+   # intrapyloric mass s/p EUS with biopsy
+   # Iron deficiency anemia
+   # GERD
+   # Basal cell carcinoma s/p excision.
+   .
+   Family History:
+   Father died of alcohol-related disease
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Social History:
+   Lives with her husband. [**Name (NI) **] alcohol or tobacco. Denies illicit drug use,
+   including IVDU.
+   .
+   Review of systems:
+   Flowsheet Data as of [**2964-9-4**] 09:50 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 35.6
+C (96
+   HR: 90 (90 - 106) bpm
+   BP: 103/76(101) {98/57(68) - 173/114(127)} mmHg
+   RR: 17 (15 - 30) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+           Total In:
+           5,015 mL
+   PO:
+           TF:
+   IVF:
+   361 mL
+   Blood products:
+   4,654 mL
+   Total out:
+                                                                      0 mL
+                                                                    230 mL
+   Urine:
+   230 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  4,785 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 350 (350 - 350) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 60%
+   PIP: 31 cmH2O
+   SpO2: 98%
+   Ve: 6 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   86 K/uL
+   8.5 g/dL
+   24.6 %
+   8.6 K/uL
+        [image002.jpg]
+                                  [**2961-2-16**]
+                          2:33 A7/21/[**2964**]  07:23 PM
+                                  [**2961-2-20**]
+                                   10:20 P
+                                  [**2961-2-21**]
+                                   1:20 P
+                                  [**2961-2-22**]
+                                   11:50 P
+                                  [**2961-2-23**]
+                                   1:20 A
+                                  [**2961-2-24**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2961-3-19**]
+                                   1:20 P
+                                  [**2961-3-19**]
+                                   11:20 P
+                                  [**2961-3-19**]
+                                   4:20 P
+   WBC
+                                     8.6
+   Hct
+                                    24.6
+   Plt
+                                     86
+   Other labs: PT / PTT / INR:17.8/46.6/1.6
+   STUDIES:
+   [**2964-8-31**].
+   Right heart cath.
+   FINAL DIAGNOSIS:
+   1. Elevated right and left sided filling pressures.
+   2. Pulmonary artery hypertension
+   .
+   Echo. [**2964-8-29**].
+   IMPRESSION: Moderate pulmonary artery hypertension. Moderate to severe
+   tricuspid regurgitation. Likey patent foramen ovale/atrial septal
+   defect. Compared with the prior study (images reviewed) of [**2964-6-15**], the
+   severity of tricuspid regurgitation and the estimated PA systolic
+   pressure are higher. A PFO/ASD is now suggested.
+   Assessment and Plan
+   A/P:  Ms. [**Known patient lastname 5471**] is a 63 yo female with alcoholic cirrhosis who was
+   initially admitted on [**2964-8-26**] for ARF which has improved with albumin
+   and holding diuretics, now trasnferred to MICU for GIB.
+   .
+   1. GIB.  Patient has history of esophageal varices and antral ulcer.
+   Her symptoms are consistent with either upper GIB or right sided lower
+   bleed.  She remains hemodynamically stable.
+   - IV octreotide for therapy of esophageal variceal bleed
+   - IVV PPI
+   - transfuse to keep Hct > 30
+   - FFP to keep INR < 2
+   - EGD today
+   - q 4-6 hour Hcts
+   - Access: right sided picc, 2 20 guage peripherals, consider cordis if
+   needed
+   - type and cross 4 units
+   - hold nadolol for now
+   - NPO for now
+   .
+   2. Alcoholic cirrhosis.  Patient has alcoholic cirrhosis complicated by
+   ascites, and encephalopathy in the past.  She requires weekly [**Doctor First Name 3560**].
+   No need for para today.  MELD today is 28 today, but was recently 42.
+   Currently undergoing liver transplant eval and hopes to be put on the
+   list in the upcoming days.
+   - hold nadolol
+   - continue lactulose & rifaximin
+   - ?ceftriaxone for SBP ppx in settin gof GI bleed
+   - continue vitamin K daily
+   - hold diuretics
+   .
+   3.  ARF.  ARF has improved from Cr of 4.0 to 1.2 today with albumin and
+   holding diuretics.  There was concern for AIN secondary to ?midodrine
+   versus cipro.
+   - follow Cr
+   - renally dose all meds
+   - blood transfusions for colloid rather than albumin
+   .
+   4.  Exfoliative Dermatitis.  Was evaluated by derm and thought to be
+   consistent wtih a drug rash.  Now resolving.
+   - continue triamcinolone and sarna
+   .
+   5.  Pulmonary Hypertension.  Pulmonary HTN noted on right heart cath as
+   part of transplant workup.  It is most likely related to fluid
+   overload, though unable to diurese at current time due to GIB.
+   - hold diuresis
+   .
+   6.  RLE edema.  Patient with Right greater than Left edema.  Though
+   there is concern for possible DVT, could not get anticoagulated given
+   elevated INR and GIB.
+   - RLE LENI
+   .
+   FEN: PRBC transfusions, replete electrolytes, NPO tonight
+   .
+   Prophylaxis: pneumoboots
+   .
+   Access: right PICC, 2 20s
+   .
+   Code: full, confirmed with patient, ICU consent signed
+   .
+   Communication: Patient
+   .
+   Disposition: pending stability of hct and cessation of GIB
+   .
+   .
+   ..
+   [**First Name4 (NamePattern1) 908**] [**Last Name (NamePattern1) **]
+   [**Pager number 8786**]
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   PICC Line - [**2964-9-4**] 04:59 PM
+   20 Gauge - [**2964-9-4**] 04:59 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

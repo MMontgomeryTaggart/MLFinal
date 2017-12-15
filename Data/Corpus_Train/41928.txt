@@ -1,0 +1,405 @@
+Admission Date:  [**3251-10-3**]              Discharge Date:   [**3251-10-5**]
+
+Date of Birth:  [**3166-12-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1145**]
+Chief Complaint:
+Shortness of breath and chest tightness
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+84M year old male with past medical history of COPD, CAD s/p MI,
+HTN, HL and recent hospitalization for bronchitis who presents
+with shortness of breath and "burning" chest tightness. Pt
+reported 2 weeks of chest discomfort, productive cough, +SOB and
+chills in the ED but tells this interviewer that the tightness
+has been going on for months. He denies cough or chills but
+endorses shortness of breath that is worse with lying down and
+improved when standing up. He notes that food makes him feel
+better. He also notes that his inhalers he uses at home have not
+been helping. Pt is poor historian, difficult to elicit
+specifics of chest pain. Denies fevers, nausea, vomiting,
+abdominal pain, leg swelling. Not on home O2. Reports recent
+fall that he attributes to "dizziness" he gets when he gets out
+of bed. Lives at home but says he was hospitalized 1 month ago
+for bronchitis. Pt reports he was supposed to go to the [**Location 7252**] VA this morning for an appointment (with what looks like
+to have been for an ECHO based on paperwork he has), but when he
+went there with his current symptoms they sent him here. In the
+ED, he reported that he went to the wrong VA because apparently
+the ER moved after he was there last.
+
+In [**Hospital1 4**] ED VS were T 98.2, BP 121/77, P 90, R 16, O2 sat 97.
+Labs were remarkable for negative troponin. EKG was not
+concerning for a STEMI. Pt was given 1L NS. He was also given
+levofloxacin and vancomycin out of concern for pneumonia based
+on retrocardiac opacity from a wet read of chest x-ray. Vitals
+on transfer were 122/34, 88, 23, 98% 3L.
+
+On arrival to the floor, vitals were T 96.0, BP 130/70, P 88,
+18, O2 100 3L NC. Pt states he feels much improved. Currently
+feeling well, but describes a feeling of chest tightness that he
+attributes to [**Hospital1 15153**].
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied nausea,
+vomiting, diarrhea, constipation or abdominal pain. No recent
+change in bowel or bladder habits. No dysuria. Denied
+arthralgias or myalgias.
+
+Past Medical History:
+HTN
+COPD not on home O2
+CHF, EF 20-25% [**9-/3250**]
+CAD s/p large MI in [**3216**]
+BPH
+GERD
+HL
+Prostate Cancer (per pt)
+[**Name (NI) **] with post-herpetic neuralgia of his back
+
+Social History:
+Lives at home with his wife and step-daughter and
+step-daughter's husband. Retired post office worker of 33 years.
+Remote smoking history 50 years ago. Denies alcohol use or drug
+use.
+
+Family History:
+Negative for DM, HTN, cancers, MI.
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: T 96.0, BP 130/70, P 88, 18, O2 100 3L NC
+GA: AOx3, NAD
+HEENT:  PERRLA. MMM. no LAD. no JVD. neck supple.
+Cards: RRR S1/S2 heard. no murmurs/gallops/rubs.
+Pulm: CTAB, with the exception of bilateral wheezes
+Abd: soft, NT, ND +BS.
+Extremities: wwp, no edema. DPs 2+.
+Skin: No obvious rash or areas of discoloration
+
+DISCHARGE PHYSICAL EXAM
+VS: T 97.2, BP 122/74, P 55, R 22, O2 94% 2L NC
+GA: AOx3, NAD
+HEENT:  PERRLA. MMM. no lymphadenopathy. neck supple.
+Cards: irregularly irregular, likely attributable to some
+ectopic beats, S1/S2 heard. Systolic murmur heard best in the
+mitral area. no gallops/rubs.
+Pulm: CTAB with the exception of fine crackles at the RLL
+Abd: soft, NT ND, +BS. no organomegaly.
+Extremities: wwp, no edema.
+Skin: warm and dry
+
+Pertinent Results:
+ADMISSION LABS
+[**3251-10-3**] 09:48AM BLOOD WBC-4.7 RBC-3.60* Hgb-11.8* Hct-36.2*
+MCV-101* MCH-33.0* MCHC-32.7 RDW-14.8 Plt Ct-124*
+[**3251-10-3**] 09:48AM BLOOD Neuts-66.5 Lymphs-26.9 Monos-4.4 Eos-1.5
+Baso-0.7
+[**3251-10-4**] 05:00AM BLOOD PT-15.0* INR(PT)-1.3*
+[**3251-10-3**] 09:48AM BLOOD Glucose-93 UreaN-28* Creat-1.1 Na-144
+K-4.0 Cl-112* HCO3-25 AnGap-11
+[**3251-10-3**] 06:06PM BLOOD Calcium-8.9 Phos-3.8 Mg-1.9
+[**3251-10-3**] 06:23PM BLOOD Type-ART pO2-73* pCO2-52* pH-7.31*
+calTCO2-27 Base XS-0 Intubat-NOT INTUBA Comment-O2 DELIVER
+[**3251-10-3**] 09:58AM BLOOD Lactate-1.1
+[**3251-10-5**] 06:50AM BLOOD proBNP-3441*
+
+CARDIAC BIOMARKERS
+[**3251-10-3**] 09:48AM BLOOD cTropnT-0.01
+[**3251-10-3**] 06:06PM BLOOD CK-MB-6 cTropnT-0.01
+[**3251-10-3**] 10:43PM BLOOD CK-MB-6 cTropnT-0.04*
+[**3251-10-4**] 05:00AM BLOOD CK-MB-5 cTropnT-0.04*
+[**3251-10-3**] 06:06PM BLOOD CK(CPK)-118
+[**3251-10-4**] 05:00AM BLOOD CK(CPK)-88
+
+DISCHARGE LABS
+[**3251-10-5**] 06:50AM BLOOD WBC-6.6 RBC-3.36* Hgb-11.1* Hct-32.4*
+MCV-97 MCH-33.0* MCHC-34.1 RDW-14.8 Plt Ct-146*
+[**3251-10-5**] 06:50AM BLOOD Glucose-105* UreaN-46* Creat-1.4* Na-140
+K-3.9 Cl-104 HCO3-26 AnGap-14
+[**3251-10-5**] 06:50AM BLOOD Calcium-9.0 Phos-3.3 Mg-2.2
+
+MICROBIOLOGY
+[**3251-10-3**] Blood cultures x2: NGTD
+[**3251-10-3**] MRSA SCREEN (Final [**3251-10-6**]): No MRSA isolated.
+
+IMAGING
+[**3251-10-3**] 7:06 AM EKG: Normal sinus rhythm. Left atrial
+abnormality. Q waves in leads V1-V4 with ST segment elevation in
+those leads. Q waves in leads I and aVL. No previous tracing
+available for comparison. Tracing is consistent with an
+anteroseptal infarction of undetermined age.
+
+[**3251-10-3**] ECHO (EF 15-20%) The left atrium is markedly dilated.
+Left ventricular wall thicknesses are normal. The left
+ventricular cavity is moderately dilated. There is severe
+regional left ventricular systolic dysfunction with basal to mid
+and apical anteroseptal, anterior and lateral wall
+hypokinesis/akinesis. Right ventricular chamber size and free
+wall motion are normal. The aortic valve leaflets (3) are mildly
+thickened without significant stenosis. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Moderate to severe (3+) mitral regurgitation is seen.
+[Due to acoustic shadowing, the severity of mitral regurgitation
+may be significantly UNDERestimated.] The pulmonary artery
+systolic pressure could not be determined. There is a
+trivial/physiologic pericardial effusion.
+IMPRESSION: Moderately dilated left ventricle with severe
+regional LV systolic dysfunction in the distribution of the
+proximal LAD. Moderate to severe mitral regurgitation. Mild
+aortic regurgitation.
+
+[**3251-10-3**] CHEST (PA & LAT): PA and lateral views of the chest
+were provided. There is no focal consolidation or pneumothorax.
+There is evidence of mild pulmonary edema as demonstrated by
+prominence of the pulmonary vasculature and Kerley B lines. The
+heart size is enlarged. There are small bilateral pleural
+effusions as well as small amount of fluid within the right
+minor fissure. Surgical clips are seen in the right upper
+quadrant likely from prior cholecystectomy.
+
+[**3251-10-3**] CHEST (PORTABLE AP): Widespread relatively symmetric
+basal predominant heterogeneous pulmonary opacification is most
+likely worsening moderate to severe pulmonary edema. Heart is
+only moderately enlarged. Left pleural calcifications should not
+be mistaken for lung nodules, but given the extensive pleural
+and parenchymal abnormalities, significant lung lesions could be
+missed. Presence of central adenopathy cannot be assessed.
+
+[**3251-10-4**] 6:57 AM EKG: Normal sinus rhythm. Compared to tracing
+#1 there is no diagnostic interval change. The tracing continues
+to show Q waves in leads V1-V4 consistent with a prior
+anteroseptal myocardial infarction of undetermined age.
+
+Brief Hospital Course:
+84 yo M w/ PMH HTN, HL, CAD s/p MI who initially p/w shortness
+of breath and chest tightness, sent to CCU for flash pulmonary
+edema in the setting of hypertension likely secondary to
+paroxysmal cough, and thought to have COPD exacerbation, on
+azithromycin, though with an element of CHF exacerbation.
+
+ACTIVE ISSUES
+# Flash Pulmonary Edema - Pt was transferred to the CCU after
+experiencing [**8-5**] chest tightness, dyspnea with desaturation to
+the 70's, hypertension, and diaphoresis with concern for EKG
+changes, consistent with ischemia and worsening pulmonary edema
+on chest xray. This episode occurred shortly after he was
+admitted to the regular medicine floor. It occurred acutely,
+likely secondary to increased left ventricular strain
+precipitated by paroxysmal coughing (after having taken his
+medications in applesauce and coughing quite a bit from this) in
+the setting of an already low ejection fraction (see below).
+Prior to transfer he was given morphine, sublingual
+nitroglycerin, IV lasix 40mg x 1 and started on a nitroglycerin
+drip. Upon reaching the unit his breathing had significantly
+improved with oxygen saturations in the high 90's on 4L nasal
+cannula and he put out well with IV lasix. He had elevated, but
+non-diagnostic troponin and CK-MB after this event, likely due
+to increased demand in the setting of left ventricular strain.
+On review of his EKG's, he was found to have significant old Q
+waves, poor R-wave progression, and repolarization changes but
+not acute changes concerning for ischemia. After he stabilized
+he was sent to the regular medicine floors. He was euvolemic and
+had good oxygen saturations on room air, even while ambulating.
+
+# Questionable COPD Exacerbation - There was concern for COPD
+exacerbation given his cough, chest tightness and sweats prior
+to admission, though he was without significant wheezing on lung
+exam. He was initially started on azithromycin and prednisone
+while in the CCU, given the thought of possible COPD
+exacerbation. Upon admission, there was consideration of a
+retrocardiac opacity. Therefore, the azithromycin was continued
+for a total 5-day course, but his prednisone was discontinued
+because it was felt that it was not needed.
+
+# Chronic systolic congestive heart failure: ECHO was performed,
+which showed a left ventricular ejection fraction (LEVF) of
+15-20% on [**3251-10-3**] and based on [**Location 58**] VA records, ECHO
+from one year ago showed an LEVF of 25-30%. Pt was continued on
+his home lisinopril and metoprolol. Spironolactone was added on
+to complete his heart failure medication regimen, given his low
+ejection fraction.
+
+CHRONIC ISSUES
+# CAD s/p MI: Pt was continued on his home aspirin and
+rosuvastatin.
+
+# Hypertension - Pt was continued on his home metoprolol,
+isosorbide, and lisinopril.
+
+# Hyperlipidemia - Pt was continued on his home rosuvastatin.
+
+# [**Location **]/[**Name (NI) 15154**] Neuralgia - Pt was continued on his
+home lidocaine patch and gabapentin.
+
+# Gastro-esophageal Reflux Disease - Pt was continued on his
+home omeprazole.
+
+# Benign Prostatic [**Name (NI) 15155**] Pt was continued on his home
+tamsulosin.
+
+TRANSITIONAL ISSUES
+# Patient's cardiology records should be reviewed with the
+possibility of starting the patient on a lasix regimen should he
+need it.
+
+Medications on Admission:
+Acetaminophen 500mg tab: 1-2 tabs PO TID prn pain
+Artificial Tears Polyvinyl alcohol: 1 drop each eye TID for eye
+lubrication
+Aspirin 81mg PO daily
+Flunisolide 0.025% 200D Nasal INH spray: 2 sprays each nostril
+[**Hospital1 **]
+Gabapentin 800mg PO qHS
+Gabapentin 400mg PO qAM
+Guaifenesin 1200mg [**Hospital1 **] prn cough
+Isosorbide Mononitrate 30mg SA daily
+Lisinopril 10mg daily
+Metoprolol Succinate 12.5mg daily
+Multivitamin 1 tablet daily
+Lidocaine 5% 5in x 6in patch
+Omeprazole 20mg EC qAM
+Tamsulosin HCL 0.4mg qHS
+Nitroglycerin 0.4mg SL tab
+Docusate 100mg qHS
+Rosuvastatin CA 20mg daily
+Albuterol inhaler
+Spiriva capsules
+
+Discharge Medications:
+1. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO three times a
+day as needed for fever or pain.
+2. Artificial Tears Polyvinyl alcohol: 1 drop each eye TID for
+eye lubrication
+3. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. flunisolide 25 mcg (0.025 %) Spray, Non-Aerosol Sig: Two (2)
+sprays each nostril  Nasal twice a day.
+5. gabapentin 800 mg Tablet Sig: One (1) Tablet PO at bedtime.
+6. gabapentin 400 mg Capsule Sig: One (1) Capsule PO QAM (once a
+day (in the morning)).
+7. Guaifenesin 1200mg [**Hospital1 **] prn cough
+8. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+9. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. metoprolol succinate 25 mg Tablet Extended Release 24 hr
+Sig: 0.5 Tablet Extended Release 24 hr PO DAILY (Daily).
+11. multivitamin     Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+12. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+13. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+14. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1)
+Capsule, Ext Release 24 hr PO HS (at bedtime).
+15. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO at
+bedtime.
+16. rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+17. spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) for 30 days.
+Disp:*30 Tablet(s)* Refills:*1*
+18. azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H
+(every 24 hours) for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+19. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig:
+Two (2) Puffs Inhalation every 4-6 hours as needed for shortness
+of breath or wheezing.
+Disp:*1 Inhaler* Refills:*0*
+20. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device
+Sig: One (1) Capsule Inhalation once a day.
+Disp:*1 HandiHaler* Refills:*0*
+21. nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tab
+Sublingual every 5 minutes (MAX 3 doses in 15 minutes) as needed
+for chest pain.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 100**] VNA
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Community-acquired pneumonia
+Acute systolic congestive heart failure exacerbation
+
+Secondary Diagnosis:
+Acute pulmonary edema secondary to hypertensive episode
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known patient lastname 15156**],
+
+It was a pleasure taking care of you during your hospital stay
+at [**Hospital1 509**]. You were admitted
+because of your shortness of breath and chest tightness. It is
+possible that your shortness of breath was caused by an
+exacerbation of your COPD. This exacerbation can be caused by an
+infection of the lungs, known as pneumonia. Your chest xray had
+a possible pneumonia. For this reason, we started you on an
+antibiotic, Azithromycin, for a total of 5 days. Your shortness
+of breath may also have been caused by extra fluid in your
+lungs, caused by the decreased pumping function of your heart
+(see below). You started to feel better when we gave you lasix,
+a water pill, that helped take the extra fluid off.
+
+During your admission, you had a period of severe coughing that
+increased your blood pressures, and in the setting of decreased
+pumping function of the heart, you ended up with fluid around
+your lungs that made your breathing even more difficult. You
+were given lasix, a water pill, to get the extra fluid out, and
+you were transfered to the Coronary Care Unit for further care.
+When an ultrasound of your heart was performed, it was found
+that your heart is not pumping as well as it should, and so you
+were started on a new medication, Spironolactone. After you
+improved, you were transfered back to the regular floor. You
+were feeling better on the antibiotics and you no longer needed
+extra oxygen. It was felt that it was safe for you to go home.
+
+With regards to your medication, please make the following
+changes.
+Please START taking:
+1. Azithromycin - an antibiotic for your COPD exacerbation
+(5-day course, last dose on [**10-8**])
+2. Spironolactone - because of your heart's decreased pumping
+function
+
+Please continue to take your other home medications as
+prescribed in your discharge paperwork.
+
+Followup Instructions:
+Name: [**Last Name (LF) 15157**],[**First Name3 (LF) **] A
+Location: VA [**Location (un) **]
+Address: [**Location (un) **], [**Location (un) **],[**Numeric Identifier 3992**]
+Phone: [**Telephone/Fax (1) 15158**]
+*Please call your primary care physician to book [**Name Initial (PRE) **] follow up
+appointment within 1-3 days. It is also recommended you follow
+up with a Cardiologist within 1 week of discharge. Please
+discuss this with your primary care physician.
+
+
+
+Completed by:[**3251-10-6**]
+
+
+DOC CLASS

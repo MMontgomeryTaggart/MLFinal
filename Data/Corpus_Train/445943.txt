@@ -1,0 +1,232 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ SBP running in low 80s and high 70s o/n
+   No other events overnight. Patient feels well this morning, though he
+   complains of R foot pain and is asking for additional percocet.
+   He doesn
+t have any shortness of breath, chest pain.  No constipation.
+   Heparin gtt started for suptherapeutic INR
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**2708-8-26**] 06:00 AM
+   Infusions:
+   Furosemide (Lasix) - 20 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2708-8-25**] 08:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2708-8-26**] 06:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.4
+C (97.6
+   HR: 64 (60 - 93) bpm
+   BP: 90/44(55) {76/38(49) - 116/57(67)} mmHg
+   RR: 17 (11 - 20) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 109.4 kg (admission): 109 kg
+             Total In:
+                                                                  1,479 mL
+                                                                    346 mL
+   PO:
+                                                                    700 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                    779 mL
+                                                                    226 mL
+   Blood products:
+   Total out:
+                                                                  3,125 mL
+                                                                    800 mL
+   Urine:
+                                                                  3,125 mL
+                                                                    800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,646 mL
+                                                                   -454 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 96%
+   ABG: ///32/
+   Physical Examination
+   General: NAD, cooperative, conversant, not anxious.
+   CV: RRR, harsh systolic murmur (blurs into 2^nd heart sound)
+   auscultated throughout left upper chest and even heard in epigastric
+   region, with loudest volume at RUSB.
+   PULM: Clear to auscultation anterior and left posterior.  Good air
+   exchange. No rales or wheezes.
+   ABD: +BS, soft, NT, ND.
+   EXTR: left leg amputated; right leg 1+ pitting edema, right foot
+   bandaged from [**2708-8-24**].
+   SKIN: chronic venous stasis changes in  right leg. No rashes
+   appreciated.
+   NEURO: alert, oriented, engages in conversation.
+   Labs / Radiology
+   317 K/uL
+   7.5 g/dL
+   66 mg/dL
+   1.2 mg/dL
+   32 mEq/L
+   3.7 mEq/L
+   34 mg/dL
+   98 mEq/L
+   136 mEq/L
+   23.7 %
+   5.5 K/uL
+        [image002.jpg]
+                             [**2708-8-23**]  06:10 AM
+                             [**2708-8-23**]  09:40 PM
+                             [**2708-8-23**]  09:48 PM
+                             [**2708-8-24**]  02:27 AM
+                             [**2708-8-24**]  04:24 AM
+                             [**2708-8-24**]  05:53 AM
+                             [**2708-8-24**]  09:25 AM
+                             [**2708-8-25**]  02:01 AM
+                             [**2708-8-25**]  02:48 PM
+                             [**2708-8-26**]  04:53 AM
+   WBC
+   8.0
+   6.9
+   5.3
+   5.5
+   Hct
+   25.9
+   24.3
+   22.7
+   23.7
+   Plt
+   274
+   272
+   247
+   317
+   Cr
+   1.3
+   1.3
+   1.2
+   1.3
+   1.2
+   TropT
+   0.11
+   0.11
+   0.12
+   TCO2
+   31
+   30
+   29
+   29
+   Glucose
+   296
+   120
+   156
+   119
+   66
+   Other labs: PT / PTT / INR:22.2/43.7/2.1, CK / CKMB /
+   Troponin-T:23/3/0.12, Differential-Neuts:88.4 %, Band:0.0 %, Lymph:5.6
+   %, Mono:5.2 %, Eos:0.6 %, Ca++:8.4 mg/dL, Mg++:2.1 mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   # Hypoxic respiratory failure:  Patient has had multiple episodes of
+   flash pulmonary edema requiring intubation during his multiple MICU and
+   CCU admissions; this episode was consistent with prior episodes.
+   Although flash pulmonary edema is the most likely etiology of his
+   hypoxic respiratory failure, other potential etiologies include ACS or
+   PE, although these are less likely given his history, unchanged ECGs,
+   and supratherapeutic INR.   Perhaps anxiety provoked his flash
+   pulmonary edema, but unclear if vice-versa is the case. Will attempt to
+   control triggers of anxiety and constipation.
+   - Goal: 1L out today
+   - Continue spironolactone 12.5mg daily, titrate to 25mg daily in the
+   next day
+   - Stop lasix drip
+   - Restart home dose of torsemide
+   - Amytriptyline started [**8-24**], will monitor QT interval (slightly
+   prolonged on recent EKG)
+   - Isordil 10mg tid with MAP goal >50 in attempt to prevent pulmonary
+   edema, will plan to increase to 25 TID on [**8-27**].
+   .
+   #  Pump:  Patient presented with fluid overload, likely exacerbation of
+   well known systolic CHF (EF 20%). Pt with significant diuresis this
+   stay, almost net negative 1L over past 24 hours, currently euvolemic.
+   -Continue to diurese with lasix gtt and start spironolactone today
+   .
+   # Coronaries:  Patient has known CAD s/p CABG. Recent cath showed 2VD,
+   patent LIMA to LAD, and diastolic dysfunction with no interventions
+   performed.
+   - Decrease ASA to 81mg daily
+   - Continue ACE-I and BB, statin
+   .
+   # Rhythmn:  Currently in sinus with 1:1 conduction.  Patient has
+   history of VF arrest with AICD removal given recurrent bloodstream
+   infections.  Coumadin re-started yesterday, on Heparin drip.
+   - monitor on telemetry
+   - Continue Coumadin at home dose
+   - Continue Heparin drip with goal PTT 60-80
+   .
+   # UTI: Pt urine culture positive for ESBL Klebsiella.
+   - Condom catheter to monitor I/Os, UOP
+   - Continue Meropenem for 14 d course (day 1=[**8-23**]).
+   .
+   #  Constipation:
+   - Continue bowel regimen (feels constipated, although last BM was
+   yesterday evening (large, soft)
+   - Patient denies prior colonoscopy; consider colonoscopy as outpatient
+   .
+   #  Blood pressure: Tolerating SBPs in the 80s.
+   - Anti-hypertensive regimen as above.
+   .
+   # Anemia: stable, chronic.  Transfusion not indicated at this time.
+   .
+   # R leg ulcer: s/p surgical debridement by VSurg [**8-11**]. Wound VAC placed
+   [**8-12**], now without wound vac in place.  No new vascular recs.
+   -continue wound care per wound care recs.
+   - D/C Percocet
+   - Standing Tylenol
+   - Re-start Oxycodone prn pain
+   .
+   # AVR: Goal INR 2.5 - 3.5. INR today is 2.7.
+   - Continue coumadin at home dose, 5 mg daily
+   .
+   # DM 2:  Continue glargine 120 u qHS, ISS with accuchecks.
+   .
+   # Hyperlipidemia: Continue atorvastatin.
+   .
+   # Hep C:  Per Hepatology, deferring treatment for now. [**Month (only) 56**] consider
+   reassessment if patient continues to improve.
+   .
+   # Hypothyroidism: Not currently on thyroid replacement therapy given
+   that last TSH was appropriate.
+   .
+   # Hypokalemia:  Repleted with small amt of K given lasix gtt and
+   decline in K.  Expect to stabilize with discontinuation of lasix gtt
+   and spironolactone.
+   ICU Care
+   Nutrition: heart healthy/diabetic
+   Glycemic Control:  insulin glargine and SS
+   Lines: PIV, PICC
+   PICC Line - [**2708-8-23**] 09:38 PM
+   Arterial Line - [**2708-8-24**] 05:22 AM
+   Prophylaxis:
+   DVT: warfarin, heparin ggt added not at goal on coumadin
+   Stress ulcer: H2B
+   VAP:  extubated.
+   Comments:
+   Communication:  Comments: wife, [**Name (NI) 818**] [**Name (NI) 10211**], [**Telephone/Fax (1) 9995**]
+   Code status: Full (confirmed)
+   Disposition: Floor today
+
+
+
+DOC CLASS

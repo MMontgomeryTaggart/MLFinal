@@ -1,0 +1,203 @@
+Chief Complaint:
+   24 Hour Events:
+   - renal: no new recs
+   - complained of right hand cramping, repleted phosphate
+   Allergies:
+   Lisinopril
+   Rash; Abdominal
+   Kefzol (Intraven.) (Cefazolin Sodium)
+   Hives;
+   Sulfa (Sulfonamide Antibiotics)
+   Hives; Nausea/V
+   Shellfish Derived
+   facial swelling
+   Last dose of Antibiotics:
+   Infusions:
+   Calcium Gluconate (CRRT) - 1 grams/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2861-12-24**] 09:40 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2861-12-25**] 07:16 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 83 (65 - 95) bpm
+   BP: 129/78(100) {73/40(52) - 138/130(132)} mmHg
+   RR: 18 (12 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 83 kg (admission): 93.6 kg
+             Total In:
+                                                                  2,973 mL
+                                                                    394 mL
+   PO:
+                                                                    970 mL
+             TF:
+   IVF:
+                                                                  2,003 mL
+                                                                    394 mL
+   Blood products:
+   Total out:
+                                                                  9,319 mL
+                                                                  2,797 mL
+   Urine:
+                                                                    297 mL
+                                                                     40 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -6,346 mL
+                                                                 -2,403 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 98%
+   ABG: 7.40/35/87.[**Numeric Identifier 228**]/19/-1
+   Physical Examination
+   GENERAL: NAD. Drowsy but easily arousable. Mood, affect appropriate.
+   HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor
+   or cyanosis of the oral mucosa. Malar erythematous rash
+   NECK: Supple with JVP at 15cm
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line.
+   Irregularly irregular, normal rate. S1, S2. No m/r/g. No thrills,
+   lifts. Right heart +S3.
+   LUNGS: Resp were unlabored, no accessory muscle use. bibasilar
+   crackles, no wheezes or rhonchi.
+   ABDOMEN: obese, soft, NTND. No HSM or tenderness. Sacral edema to
+   umbilicus
+   EXTREMITIES: No c/c/ +3 pitting edema, somewhat improved since
+   admission.
+   PULSES:  difficult to assess with ankle edema
+   Labs / Radiology
+   192 K/uL
+   7.3 g/dL
+   108 mg/dL
+   0.8 mg/dL
+   19 mEq/L
+   4.9 mEq/L
+   11 mg/dL
+   106 mEq/L
+   134 mEq/L
+   23.9 %
+   5.9 K/uL
+        [image002.jpg]
+                            [**2861-12-24**]  04:01 AM
+                            [**2861-12-24**]  04:18 AM
+                            [**2861-12-24**]  10:13 AM
+                            [**2861-12-24**]  10:35 AM
+                            [**2861-12-24**]  03:54 PM
+                            [**2861-12-24**]  04:11 PM
+                            [**2861-12-24**]  08:00 PM
+                            [**2861-12-24**]  08:19 PM
+                            [**2861-12-25**]  02:31 AM
+                            [**2861-12-25**]  02:52 AM
+   WBC
+   5.6
+   5.9
+   Hct
+   24.0
+   23.9
+   Plt
+   223
+   192
+   Cr
+   0.9
+   0.8
+   0.8
+   0.8
+   TCO2
+   26
+   25
+   23
+   19
+   22
+   Glucose
+   132
+   110
+   124
+   111
+   108
+   Other labs: PT / PTT / INR:14.1/32.9/1.2, Ca++:9.0 mg/dL, Mg++:2.2
+   mg/dL, PO4:2.0 mg/dL
+   Imaging: no new imaging
+   Microbiology: no new micro
+   Assessment and Plan
+   63 year old woman with severe diastolic heart failure, severe tricuspid
+   regurgitation presenting with decompensated heart failure in the
+   setting of medication non compliance, admitted to CCU for initiation of
+   ultrafiltration.
+   # ACUTE DECOMPENSATED DIASTOLIC HEART FAILURE: Patient not responding
+   to intravenous diuretics, now day 2 of ultrafiltration for diuresis.
+   Etiology of diastolic dysfunction unknown: consider infiltrative
+   disease especially with evidence of nephrotic range proteinuria (see
+   below)
+   -- continue UF
+   -- d/c diuretics while pt receiving CVVHD, goal is to remove fluid as
+   BP tolerates
+   -- TTE repeated, no significant change from the last echo, no evidence
+   of amyloidosis.
+   # CORONARIES: No history of CAD
+   - ASA 81mg
+   # RHYTHM: Pt with a-fib. Not on anti-coagulation given history of
+   severe GI bleed.  Has significant bradycardia, although asymptomatic
+   no confusion, dizziness, chest pain
+   - continue to hold b blocker
+   - monitor on tele
+   # Acute on Chronic Kidney Disease: Pt with baseline 1.2-1.4. On
+   admission 1.8 and increased to 2.1 with diuresis and poor forward
+   flow.  However, patient only with minimal urine output with lasix gtt
+   and metolazone. Started on UF for volume removal.  U/A with nephrotic
+   range proteinuria and significant edema.  No hyperlipidemia and SPEP
+   and UPEP without monoclonal spike.  Possible etiologies include
+   amyloidosis (unlikely with negative UPEP), multiple myeloma, minimal
+   change disease, other causes glomerular nephrosis. Cr currently at
+   baseline
+ 1.3.
+   -- f/u renal recs
+   -- renal U/S
+ no hydronephrosis, limited study
+   -- avoid nephrotoxins and renally dose meds
+   # UC: Patient w/ hx of Ulcerative Colitis. Pt with loose stools.
+   - cont mesalamine 800mg TID
+   - guaiac stools
+   #. Anemia: Hct 23, stable. Likely combination of anemia [**2-7**] renal
+   failure and possible GI loss given prior history.
+   - active T&S
+   - monitor Hct
+   - guaiac stools
+   FEN: Cardiac/ replace prn
+   ACCESS: PIV's, a-line  temp CVVH line
+   PROPHYLAXIS:
+   -DVT ppx with heparin sq
+   -Pain management oxycodone q 4hrs prn
+   -Bowel regimen prn
+   COMMUNICATION: family and patient
+   DISPO: CCU for now pending diuresis with ultrafiltration
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Dialysis Catheter - [**2861-12-21**] 05:44 PM
+   Arterial Line - [**2861-12-21**] 06:30 PM
+   22 Gauge - [**2861-12-24**] 11:54 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

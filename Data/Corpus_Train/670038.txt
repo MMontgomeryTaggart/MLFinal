@@ -1,0 +1,226 @@
+CVICU
+   HPI:
+   HD9   POD 8-s/p aorto-[**Hospital1 **]-iliac graft repair of AAA
+   Ejection Fraction:60
+   Pre-Op Weight:239.86 lbs   108.8 kgs
+   Baseline Creatinine:1.4
+   TLD:rt IJ quad lumen :Day5
+   Foley:Day9
+   PMH: hypertension, hyperlipidemia, diabetes type 2, chronic renal
+   insufficency - atretic right kidney,severe COPD, morbid near-massive
+   obesity, smoker x50yrs, 8cm AAA, 5cm right common iliac artery
+   aneurysm, left common iliac aneurysm just under 3 cm
+   PSH: Lft renal artery stent [**3-7**], back surgery/[**3441**]
+   (cath [**3454-11-3**]- clean coronaries)
+   [**Last Name (un) **]: ATENOLOL 25', FUROSEMIDE 20', LISINOPRIL 10', LORAZEPAM 1',
+   METFORMIN 850", PAROXETINE 20', CRESTOR 20', ASPIRIN 81'
+   follow up with vascular will need tunnel line in future - Dr [**First Name (STitle) 393**]
+   said he could do if 24 hours notice otherwise use IR
+   Micro/Imaging:
+   [**3454-11-9**] Colonoscopy Dusky areas of large bowel, no ischemic colitis
+   Events:
+   [**3454-11-14**] weaning vent, TF to goal stopped TPN
+   Assessment:66yom with 8cm AAA s/p aorto-[**Hospital1 **]-iliac graft repair of AAA
+   and bilat CIA aneurysms, left renal artery bypass open AAA repair([**11-7**]
+   Chief complaint:
+   PMHx:
+   PMH: hypertension, hyperlipidemia, diabetes type 2, chronic renal
+   insufficency - atretic right kidney,severe COPD, morbid near-massive
+   obesity, smoker x50yrs, 8cm AAA, 5cm right common iliac artery
+   aneurysm, left common iliac aneurysm just under 3 cm
+   Current medications:
+   1. 2. Acetaminophen (Liquid) 3. Albuterol Inhaler 4. Aspirin 5. Calcium
+   Gluconate 6. Chlorhexidine Gluconate 0.12% Oral Rinse
+   7. Dextrose 50% 8. Esmolol 9. Fentanyl Citrate 10. Furosemide 11.
+   Glucagon 12. Heparin 13. HydrALAzine
+   14. Insulin 15. Insulin 16. Ipratropium Bromide MDI 17. Magnesium
+   Sulfate 18. Metoprolol Tartrate
+   19. Midazolam 20. Nitroglycerin 21. Pantoprazole 22. Paroxetine 23.
+   Potassium Chloride 24. Rosuvastatin Calcium
+   25. Sodium Chloride 0.9% Flush 26. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+   Allergies:
+   Chromium
+   dropped blood s
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3454-11-13**] 02:39 PM
+   Infusions:
+   Esmolol - 25 mcg/Kg/min
+   Other ICU medications:
+   Insulin - Regular - [**3454-11-14**] 04:10 PM
+   Pantoprazole (Protonix) - [**3454-11-14**] 08:30 PM
+   Hydralazine - [**3454-11-15**] 03:26 AM
+   Furosemide (Lasix) - [**3454-11-15**] 08:39 AM
+   Heparin Sodium (Prophylaxis) - [**3454-11-15**] 12:00 PM
+   Other medications:
+   Flowsheet Data as of  [**3454-11-15**] 02:56 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**56**] a.m.
+   Tmax: 37.4
+C (99.3
+   T current: 36.9
+C (98.4
+   HR: 97 (80 - 97) bpm
+   BP: 141/62(88) {101/46(60) - 161/69(94)} mmHg
+   RR: 26 (13 - 31) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 116.4 kg (admission): 109.1 kg
+   Height: 72 Inch
+   CVP: -2 (-2 - 15) mmHg
+   Total In:
+                                                                  2,337 mL
+                                                                    354 mL
+   PO:
+   Tube feeding:
+                                                                    274 mL
+                                                                     17 mL
+   IV Fluid:
+                                                                    426 mL
+                                                                    287 mL
+   Blood products:
+   Total out:
+                                                                  3,565 mL
+                                                                  3,260 mL
+   Urine:
+                                                                  3,515 mL
+                                                                  3,260 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,228 mL
+                                                                 -2,906 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 482 (458 - 621) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 69
+   PIP: 11 cmH2O
+   SPO2: 96%
+   ABG: 7.41/44/86.[**Numeric Identifier 136**]/26/2
+   Ve: 10.8 L/min
+   PaO2 / FiO2: 174
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   , Rhonchorous : ), (Sternum: Stable )
+   Abdominal: Soft, Obese, approp tender
+   Left Extremities: (Edema: 1+, No(t) 2+), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 1), (Responds to: Verbal
+   stimuli, Tactile stimuli, Noxious stimuli), Moves all extremities
+   Labs / Radiology
+   284 K/uL
+   9.5 g/dL
+   88 mg/dL
+   4.2 mg/dL
+   26 mEq/L
+   3.6 mEq/L
+   84 mg/dL
+   109 mEq/L
+   144 mEq/L
+   28.0 %
+   8.0 K/uL
+        [image002.jpg]
+                            [**3454-11-13**]  05:28 PM
+                            [**3454-11-14**]  03:23 AM
+                            [**3454-11-14**]  03:30 AM
+                            [**3454-11-14**]  12:05 PM
+                            [**3454-11-14**]  01:16 PM
+                            [**3454-11-14**]  05:24 PM
+                            [**3454-11-15**]  03:57 AM
+                            [**3454-11-15**]  04:02 AM
+                            [**3454-11-15**]  06:43 AM
+                            [**3454-11-15**]  10:31 AM
+   WBC
+   7.9
+   8.0
+   Hct
+   27.0
+   28.0
+   Plt
+   231
+   284
+   Creatinine
+   4.1
+   3.9
+   4.2
+   TCO2
+   26
+   29
+   25
+   28
+   29
+   26
+   29
+   Glucose
+   178
+   230
+   105
+   90
+   80
+   88
+   Other labs: PT / PTT / INR:12.4/29.8/1.0, ALT / AST:5/208, Alk-Phos / T
+   bili:61/0.5, Amylase / Lipase:82/120, Differential-Neuts:87.9 %,
+   Lymph:7.5 %, Mono:4.4 %, Eos:0.1 %, Fibrinogen:146 mg/dL, Lactic
+   Acid:0.7 mmol/L, Albumin:2.6 g/dL, LDH:553 IU/L, Ca:8.6 mg/dL, Mg:2.2
+   mg/dL, PO4:3.1 mg/dL
+   Assessment and Plan
+   AORTIC ANEURYSM, ABDOMINAL WITHOUT RUPTURE (AAA), PAIN CONTROL (ACUTE
+   PAIN, CHRONIC PAIN)
+   Assessment and Plan: Pt is a POD 8-s/p aorto-[**Hospital1 **]-iliac graft repair of
+   AAA
+   Neurologic: Neuro checks Q: 4 hr, lethargic,awake most likely due to
+   uremia, will continue to follow renal function, able to respond to
+   commands
+   Cardiovascular: Aspirin, Beta-blocker, Statins, hemodynamically stable
+   Pulmonary: IS, extubated, adequate oxygenation, on lasix for diuresis-
+   currently over 2L negative
+   Gastrointestinal / Abdomen: s/p AAA repair with supra celiac clamp
+   Nutrition: Tube feeding
+   Renal: Foley, acute on chronic renal failure with plateauing
+   creatinine, no current need for dialysis, but will continue to follow
+   neuro status/ renal function
+   Hematology: Serial Hct, stable
+   Endocrine: RISS
+   Infectious Disease: no abx, normal wbc count, afebrile
+   Lines / Tubes / Drains: right IJ
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: Vascular surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Acute renal failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3454-11-7**] 03:34 PM
+   Multi Lumen - [**3454-11-11**] 11:45 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 37 minutes
+
+
+
+DOC CLASS

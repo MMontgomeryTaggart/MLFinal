@@ -1,0 +1,250 @@
+Chief Complaint:  transferred for management of new seizure and
+   unresponsiveness
+   HPI:
+   Mr. [**Known patient lastname 1099**] is an 84 year old male with past medical history of CAD
+   status-post CABG in [**3473**], systolic CHF, TIA and adenocarinoma of brain
+   s/p resection, DVT and PE s/p IVC filter who had witnessed tonic-clonic
+   seizure and subsequent unresponsiveness. Patient developed shortness of
+   breath at his long term care facility yesterday and desatted to 88%.
+   Per EMS report he developed focal R sided sz that then generalized to
+   tonic clonic sz while in the ambulance. He was initially transported to
+   [**Hospital3 514**] where he was dilantin loaded and then transferred to
+   [**Hospital1 52**] for further care.
+   .
+   In the [**Hospital1 52**] ED, initial vs were: T100.8 P77 BP97/62 R14 O2 sat99% on
+   BIPAP. TMax in the ED was 102.8. Head CT from [**Hospital1 **] was re-read as
+   post-craniotomy with possible residual tumor. UA found to be suggestive
+   of UTI. CXR showed L sided pleural effusion.  He received Vancomycin,
+   Levofloxacin and 2g ceftriaxone.
+   .
+   In the ICU, patient on BIPAP. He moves both of his legs to light touch
+   but is not moving his upper extremities.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Unresponsive
+   Allergies:
+   Epinephrine
+   induction of AF
+   Adhesive Tape (Topical)
+   Unknown;
+   Home Meds (per OMR)
+   AMIODARONE 200mg daily
+   CARVEDILOL [COREG] 25mg [**Hospital1 **]
+   CITRACAL PLUS
+   ENOXAPARIN 40mg sc BID
+   FUROSEMIDE 20-30mg daily
+   GABAPENTIN 400mg qhs
+   LEVOTHYROXINE 75mcg daily
+   LIDOCAINE patch
+   OMEPRAZOLE 40mg daily
+   OXYCODONE 5-10mg prn pain
+   SIMVASTATIN 10mg daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. Dyslipidemia.
+   2. Hypertension.
+   3. CABG in [**3473**]
+   4. Pacemaker/ICD due to AV block and tachybrady syndrome
+   5. Cardiomyopathy with LVEF = 35% in [**8-22**].
+   6. PAF
+   7. TIA in [**3473**].
+   8. Macrocytic anemia, attributed to MDS with bone marrow biopsy
+   in [**State 399**].
+   9. Spinal stenosis.
+   10. Hypothyroidism.
+   11. H/o gastric ulcer; GERD.
+   12. OSA on nocturnal CPAP.
+   13. Prostate cancer s/p XRT.
+   14. Adenocarcinoma of unknown primary metastatic to the left
+   occipitoparietal region s/p resection in [**5-23**]
+   15. DVT/PE s/p IVC filter on Lovenox [**Hospital1 **]
+   unable to obtain
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: unable to obtain
+   Review of systems: unable to obtain
+   Flowsheet Data as of [**3482-8-31**] 04:38 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.7
+   Tcurrent: 35.3
+C (95.5
+   HR: 70 (70 - 71) bpm
+   BP: 92/48(59) {87/46(58) - 112/60(72)} mmHg
+   RR: 17 (16 - 19) insp/min
+   SpO2: 100%
+   Heart rhythm: AV Paced
+   Height: 68 Inch
+             Total In:
+             1,233 mL
+   PO:
+             TF:
+   IVF:
+   1,233 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    190 mL
+   Urine:
+   190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,043 mL
+   Respiratory
+   O2 Delivery Device: Other
+   Ventilator mode: CPAP/PSV
+   PS : 10 cmH2O
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   SpO2: 100%
+   ABG: 7.40/49/171//4
+   Ve: 9.7 L/min
+   PaO2 / FiO2: 428
+   Physical Examination
+   General: Obtunded, BIPAP mask in place
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: Reduced breath sounds at left base, no wheezes or crackles
+   appreciated
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: 2+ LE edema
+   Neuro: Unresponsive to verbal stimuli. Pupils minimally reactive. Moves
+   lower extremities with light touch to feet, does not withdraw upper
+   extremities to painful stim.
+   Labs / Radiology
+   425 K/uL
+   9.4 g/dL
+   214
+   1.2
+   20
+   28
+   97
+   4.8
+   135
+   30.3 %
+   15.3 K/uL
+        [image002.jpg]
+                                  [**3478-12-16**]
+                          2:33 A9/17/[**3481**]  03:34 AM
+                                  [**3478-12-20**]
+                         10:20 P9/17/[**3481**]  03:50 AM
+                                  [**3478-12-21**]
+                                   1:20 P
+                                  [**3478-12-22**]
+                                   11:50 P
+                                  [**3478-12-23**]
+                                   1:20 A
+                                  [**3478-12-24**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3479-1-16**]
+                                   1:20 P
+                                  [**3479-1-16**]
+                                   11:20 P
+                                  [**3479-1-16**]
+                                   4:20 P
+   WBC
+                                    15.3
+   Hct
+                                    30.3
+   Plt
+                                     425
+   TC02
+                                     31
+   Other labs: CK / CKMB / Troponin-T:CK/T:0.2, Differential-Neuts:84.6 %,
+   Lymph:10.0 %, Mono:5.0 %, Eos:0.2 %, Lactic Acid:1.3 mmol/L
+   Assessment and Plan
+   84 y/o M with PMHx of CAD, CHF, adenocarcinoma of the brain s/p
+   resection in [**5-23**] and DVT/PE who presents with new onset tonic clonic
+   seizure and now persistently unresponsive.
+   .
+   # Obtundation: Patient remains non-verbal and unresponsive. Given
+   witnessed seizure activity this could certainly represent a post-ictal
+   state. Since he is also febrile with leukocytosis must also consider
+   CNS infection, which could possibly also account for sz. Unlikely
+   stroke given findings of head CT not suggestive. Would expect that if
+   this was [**1-16**] hypercapnia this would have improved on BIPAP, if CO2
+   trending down.
+   - Hold off on LP at this time given concern for possible mild midline
+   shift. Will cover for meningitis empirically with ceftriaxone and
+   acyclovir.
+   - Continuous EEG monitoring to r/o status
+   - Follow ABGs
+   - F/U Neuro recs: Discuss goal dilantin level
+   - F/U final head CT read. MRI not possible given pacemaker in place.
+   .
+   #  Sepsis: Pt hypotensive to 88-89 systolic on arrival to ICU.
+   Pressures have responded to 1L fluid bolus. Given dirty UA and
+   leukocytosis this could represent urosepsis. Must also be concerned
+   about bacteremia given many open sores. PNA also possibility though
+   chest xray does not clearly show any infiltrates.
+   - cont IVF boluses, titrate to MAPs>60
+   - consider central access (family would prefer PICC to central line)
+   - ABX coverage with ceftriaxone, cipro, vanco
+   - monitor fever curve and trend leukocytosis
+   - follow CVP
+   - follow lactate
+   - f/u blood and urine cxs
+   .
+   #  Seizure: New onset sz for this patient. Concerning that CT head
+   shows new areas of hyperdensity as well as ?mild midline shift.
+   Possible mass effect and edema could contribute to sz. Given infection
+   must also consider this as an inciting factor. He is not on meds that
+   are associated with lowering sz threshold.
+   - EEG as pre above
+   - discuss dilantin dosing with renal
+   - cont to monitor
+   - seizure precautions
+   .
+   # Respiratory Acidosis: Unclear if ABG measured while pt on a trial off
+   BIPAP as he was reportedly started on BIPAP at OSH.
+   - recheck ABG
+   - pt DNR/DNI so intubation not an option. depending on results of gas
+   could consider dc'ing BIPAP.
+   .
+   # PAF: Hold Amiodarone for now given sepsis and concern for further
+   hypotension. Pt currently rate controlled.
+   - check coags
+   - hold amio
+   - monitor on tele
+   .
+   # Cardiomyopathy: Hold carvedilol and furosemide given sepsis.
+   .
+   # h/o DVT/PE: Cont Lovenox 40mg [**Hospital1 **]
+   .
+   # CAD/s/p CABG: Pt with troponin bump of 0.2 though flat CKs. Most
+   likely this elevation related to sepsis and possible sz activity. ECG
+   did not suggest ischemia.
+   - cont to trend CEs
+   - hold BB as per above
+   ICU Care
+   Nutrition:
+   Glycemic Control: Blood sugar well controlled
+   Lines:
+   20 Gauge - [**3482-8-31**] 01:56 AM
+   18 Gauge - [**3482-8-31**] 02:00 AM
+   Prophylaxis:
+   DVT: Boots, LMW Heparin
+   Stress ulcer: none for now
+   VAP: HOB elevation
+   Comments:
+   Communication:  son, Dr. [**Known patient lastname 1099**] [**Telephone/Fax (1) 9660**]
+   Code status: DNR / DNI
+   Disposition: ICU
+
+
+
+DOC CLASS

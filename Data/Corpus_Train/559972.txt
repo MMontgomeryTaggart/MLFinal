@@ -1,0 +1,232 @@
+Chief Complaint:
+   24 Hour Events:
+   -PICC attempted, will need to go to IR to have it placed on Monday
+   -tried on PS 5/5 but only lasted a few minutes and put back on [**9-13**]
+   Allergies:
+   Codeine
+   Unknown;
+   Oxycodone/Acetaminophen (Oral) (Oxycodone Hcl/Acetaminophen
+   Unknown;
+   Morphine Sulfate
+   Unknown;
+   Last dose of Antibiotics:
+   Metronidazole - [**2668-11-28**] 04:00 AM
+   Vancomycin - [**2668-11-28**] 08:42 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2668-11-29**] 12:06 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2668-11-28**] 08:43 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2668-11-29**] 06:34 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37.3
+C (99.1
+   HR: 86 (80 - 124) bpm
+   BP: 113/68(84) {100/56(74) - 146/116(125)} mmHg
+   RR: 30 (16 - 30) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 60 Inch
+             Total In:
+                                                                    703 mL
+                                                                    166 mL
+   PO:
+             TF:
+   IVF:
+                                                                    643 mL
+                                                                    166 mL
+   Blood products:
+   Total out:
+                                                                    550 mL
+                                                                    240 mL
+   Urine:
+                                                                    550 mL
+                                                                    240 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    153 mL
+                                                                    -74 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 319 (219 - 524) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 31
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 100
+   PIP: 15 cmH2O
+   SpO2: 97%
+   ABG: ////
+   Ve: 8.6 L/min
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   242 K/uL
+   9.9 g/dL
+   109 mg/dL
+   1.1 mg/dL
+   39 mEq/L
+   4.0 mEq/L
+   27 mg/dL
+   94 mEq/L
+   139 mEq/L
+   28.1 %
+   6.4 K/uL
+        [image002.jpg]
+                            [**2668-11-26**]  01:25 AM
+                            [**2668-11-26**]  01:34 AM
+                            [**2668-11-26**]  05:16 AM
+                            [**2668-11-26**]  05:27 AM
+                            [**2668-11-26**]  07:40 PM
+                            [**2668-11-27**]  01:45 AM
+                            [**2668-11-27**]  03:12 AM
+                            [**2668-11-27**]  04:20 AM
+                            [**2668-11-27**]  03:40 PM
+                            [**2668-11-28**]  04:10 AM
+   WBC
+   7.5
+   7.3
+   5.8
+   6.4
+   Hct
+   28.0
+   25.5
+   26.7
+   28.1
+   Plt
+   [**Telephone/Fax (3) 6993**]42
+   Cr
+   1.0
+   1.0
+   1.4
+   1.1
+   TropT
+   0.01
+   TCO2
+   46
+   40
+   39
+   42
+   43
+   42
+   Glucose
+   164
+   190
+   136
+   109
+   Other labs: PT / PTT / INR:13.0/25.3/1.1, CK / CKMB /
+   Troponin-T:83//0.01, ALT / AST:[**6-19**], Alk Phos / T Bili:66/0.5, Amylase
+   / Lipase:55/27, Differential-Neuts:81.4 %, Lymph:14.5 %, Mono:2.8 %,
+   Eos:1.1 %, Lactic Acid:0.8 mmol/L, Albumin:3.0 g/dL, LDH:216 IU/L,
+   Ca++:8.8 mg/dL, Mg++:2.2 mg/dL, PO4:3.8 mg/dL
+   Assessment and Plan
+   73 yo female with PMH significant for ILD on home O2, diastolic CHF,
+   cor pulmonale, s/p liver transplant on immunosuppression,
+   post-transplant myeloproliferative disorder s/p CHOP and rituximab who
+   was initially admitted to hospital after a mechanical fall for pain
+   control who is now being transferred to the MICU for
+   hypercarbic/hypoxic respiratory failure in the setting of emesis
+   .
+   # Hypercarbic/hypoxic respiratory failure: In the setting of witnessed
+   emesis prior to decompensation, it is reasonable to suspect aspiration
+   pneumonia. Will continue to wean as tolerated, keeping in mind her
+   small reserve. Has been doing very well on minimal PS, will attempt to
+   decrease to 5/0 today. If she does well, might need to consider trach
+   placement.  Having thick secretions which may be barrier to extubation.
+   - continue Vancomycin/Zosyn (last day [**12-2**])
+   - wean as tolerated today, eval for extubation
+   - IV Lasix prn
+   -nebs prn
+   -will d/w pt and family plans options and status of resp support
+   .
+   # SVT: Pt had sinus tachycardia to SVT on [**11-26**], ? of atrial
+   fibrillation w/PACs vs MAT. Has resolved since.
+   -d/c
+d amiodarone [**11-27**]
+   -monitor on telemetry
+   - toprol to 50mg po tid
+   -if reverts to SVT reload with amiodarone
+   .
+   # s/p fall: no evidence of fracture. Pain well controlled minus
+   lidocaine patch.  Now pt with no c/o pain.  Tylenol PRN
+   - PT following
+   .
+   # DM: Good FSBG control. Currently NPO and on sliding scale.  Will
+   adjust accordingly when tube feeds start
+   .
+   # ILD: Pulmonary following, resistant to steroids as outpatient
+   treatment.  For now, treat for hypercarbic/hypoxic respiratory failure.
+   - wean off ventilator if tolerates PS
+   - treat PNA
+   - alb/atrovent nebs
+   .
+   # Emesis: unclear cause. History of one dose of ultram written for on
+   the floor however it is unclear if this was the cause of her emesis.
+   Has not recurred overnight, not tender to palp on exam, LFTs normal.
+   Tac level pending. CE negative.
+   - OG in place
+   - currently resolved, will start tube feeds today based on nutrition
+   recs
+   .
+   # PTLD: no known active issues currently.
+   - LFTs normal
+   - continue tacrolimus
+   .
+   # HTN: significantly hypotensive overnight, held beta blocker. Will
+   restart today given improvement.
+   - On toprol 50mg TID
+   .
+   # Hypothyroidism: Continue Levothyroxine
+   .
+   # Access: PIV  - PICC eval and possible placement in AM
+   .
+   # FEN: TF, replete electrolytes prn
+   .
+   # Prophylaxis: Heparin SC 5000 tid, PPI
+   - Bactrim M/W/F
+   .
+   # Code status: DNR (DNI ok); no escalation in care per family
+   .
+   # Contact: [**Name (NI) 3258**] [**Name (NI) 5051**] [**Telephone/Fax (1) 6955**], [**Doctor First Name 498**] (daughter)
+   [**Telephone/Fax (1) 6971**]
+   .
+   # Dispo: ICU for now
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ HYPOTENSION (NOT SHOCK)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ NAUSEA / VOMITING
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**2668-11-26**] 12:10 AM
+   20 Gauge - [**2668-11-26**] 09:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate)
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,270 @@
+Admission Date:  [**2790-6-11**]              Discharge Date:   [**2790-6-19**]
+
+Date of Birth:  [**2729-10-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Ascending aortic aneurysm, bicuspid aortic valve
+
+Major Surgical or Invasive Procedure:
+Bental(27mm [**Doctor Last Name 1804**]/28mm Gelweave graft)[**2790-6-11**]
+
+
+History of Present Illness:
+This 59 year old male with a known ascending aneruysm for at
+least 7 years, followed by serial echocardiograms.  His last
+echo revealed a 5cm dilated root with a probable bicuspid valve
+and moderate aortic insufficiency.  He had a negative stress
+echo and catheterization revealed no significant coronary
+disease.  He was admitted for elective surgery.
+
+Past Medical History:
+thoracic ascending aneurysm
+depression
+vertigo
+paroxysmal atrial fibrillation
+
+Social History:
+self employed/actor
+20pk year history, stopped [**2765**]
+bottle of wine /week
+demntal exam <6 months
+
+Family History:
+father had aneurysm sx in his 80s(? type)
+
+Physical Exam:
+HR 54     BP 122/75     RR  18  SAT 99%
+
+Physical Exam-
+General: WDWN in NAD
+Cardiac:  RRR with Quiet [**12-28**] diastolic murmur
+Chest: Lungs clear bilateral [X]
+Abdomen: Soft [X]  Nontender [X] Nondistended [X]
+Extremities: Warm [X] Well perfused [X]
+Edema: None
+
+
+Pertinent Results:
+Day of surgery:
+[**2790-6-11**] 05:19PM BLOOD WBC-12.3*# RBC-2.86*# Hgb-9.1*#
+Hct-25.5*# MCV-89 MCH-31.8 MCHC-35.6* RDW-12.9 Plt Ct-132*
+[**2790-6-11**] 05:19PM BLOOD PT-15.3* PTT-33.8 INR(PT)-1.3*
+[**2790-6-11**] 05:19PM BLOOD Fibrino-167
+[**2790-6-11**] 10:16PM BLOOD UreaN-13 Creat-1.1 Na-145 K-4.0 Cl-106
+HCO3-28 AnGap-15
+Day of discharge:
+[**2790-6-19**] 04:45AM BLOOD WBC-9.5 RBC-4.15* Hgb-12.4* Hct-36.5*
+MCV-88 MCH-29.8 MCHC-33.9 RDW-13.8 Plt Ct-199
+[**2790-6-19**] 04:45AM BLOOD Plt Ct-199
+[**2790-6-19**] 04:45AM BLOOD Glucose-117* UreaN-47* Creat-1.2 Na-137
+K-4.1 Cl-102 HCO3-23 AnGap-16
+
+Radiology Report CHEST (PA & LAT) Study Date of [**2790-6-17**] 2:25 PM
+
+CHEST TWO VIEWS ON [**6-17**]
+FINDINGS: The right IJ line has been removed. There is dense
+retrocardiac
+opacification consistent with volume loss/infiltrate. There is
+also small
+left effusion, small right effusion. The upper lungs are clear.
+Compared to the study from three days ago the lung aeration is
+improved.
+DR. [**First Name (STitle) **] [**Doctor Last Name **]
+
+[**Hospital1 4**] ECHOCARDIOGRAPHY REPORT
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Ventricle - Ejection Fraction:  55% to 65%  >= 55%
+Aorta - Ascending:  *4.9 cm  <= 3.4 cm
+Aortic Valve - LVOT diam:  2.2 cm
+Findings
+LEFT ATRIUM: Normal LA size. Good (>20 cm/s) LAA ejection
+velocity. No thrombus in the LAA.
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size.
+LEFT VENTRICLE: Normal LV wall thickness. Normal LV cavity size.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+AORTA: Mildy dilated aortic root. Moderately dilated ascending
+aorta Mildly dilated aortic arch. Normal descending aorta
+diameter.
+AORTIC VALVE: Bicuspid aortic valve. No AS. Moderate to severe
+(3+) AR.
+MITRAL VALVE: Normal mitral valve leaflets with trivial MR.
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial
+TR.
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet.
+No PS. Physiologic PR.
+PERICARDIUM: No pericardial effusion.
+GENERAL COMMENTS: A TEE was performed in the location listed
+above. I certify I was present in compliance with HCFA
+regulations. The patient was under general anesthesia throughout
+the procedure. The patient received antibiotic prophylaxis. The
+TEE probe was passed with assistance from the anesthesioology
+staff using a laryngoscope. No TEE related complications.
+patient.
+REGIONAL LEFT VENTRICULAR WALL MOTION:
+    N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic
+Conclusions
+PRE-CPB: 1. The left atrium is normal in size. No thrombus is
+seen in the left atrial appendage.
+2. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal.
+3. Right ventricular chamber size and free wall motion are
+normal.
+4. The aortic root is mildly dilated at the sinus level. The
+ascending aorta is moderately dilated. The aortic arch is mildly
+dilated.
+5. The aortic valve is bicuspid. There is no aortic valve
+stenosis. Moderate to severe (3+) aortic regurgitation is seen.
+6. The mitral valve appears structurally normal with trivial
+mitral regurgitation.
+7. There is no pericardial effusion.
+Dr. [**Last Name (STitle) 222**] was notified in person of the results.
+POST-CPB: On infusion of nitroglycerine, AV pacing for slow SR
+with 1 degree AV block. Pt placed on CPB x 3 for bleeding,
+dehiscence of aortic valve. Well-seated bioprosthetic valve in
+the aortic position. Trace AI. Trivial systolic gradient with
+CO= 5 L/min. Small pericardial efusion. Aortic contour in the
+descending arch is normal post decannulation.
+  I certify that I was present for this procedure in compliance
+with HCFA regulations.
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3641**], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2790-6-11**] 21:38
+
+
+Brief Hospital Course:
+This patient is a same day admission, he was taken to the
+Operating Room where a Bental procedure was performed. The valve
+was indeed bicuspid. At the end of the case he had significant
+bleeding from the right coronary button which required reopening
+of the chest, the bleeding was then controlled surgically. he
+required multiple blood products to correct a coagulopathy but
+stabilized and was brought to the cardiac surgery ICU in stable
+condition. He was relatively hypoxic post-operatively likely
+from the volume of blood products he received. He was kept
+sedated and aggressively diuresed over the next several days.
+He awoke neurologically intact but cognitively slowed, he was
+weaned from the ventilator and extubated on POD 3. He continued
+to be diuresed, beta blockade was begun and he was seen by
+Physical Therapy to assist with mobility and endurance.  He
+remained in the ICU to monitor his pulmonary status. All tubes,
+lines and drains were removed per cardiac surgery protocols.
+On POD5 he transferred to the step down floor. Over the next
+several days he worked with physical therapy and nursing to
+improve his conditioning and allow his cognitive status to
+improve. By POD8 he was ready for discharge home with a visiting
+nurse. Followup in 1 week for wound check and 4 weeks with Dr
+[**Last Name (STitle) 222**]
+
+
+
+Medications on Admission:
+Medications - Prescription
+BUPROPION HCL [WELLBUTRIN SR] -  (Prescribed by Other Provider)
+-
+150 mg Tablet Sustained Release - 1 Tablet(s) by mouth once a
+day
+ESCITALOPRAM [LEXAPRO] -  (Prescribed by Other Provider) - 20 mg
+Tablet - 1 Tablet(s) by mouth once a day
+
+
+Discharge Medications:
+1. escitalopram 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+2. bupropion HCl 150 mg Tablet Extended Release Sig: One (1)
+Tablet Extended Release PO QAM (once a day (in the morning)).
+3. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for temperature >38.0.
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+5. tramadol 50 mg Tablet Sig: One (1) Tablet PO every 4-6 hours
+as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+6. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO every eight
+(8) hours as needed for pain.
+Disp:*60 Tablet(s)* Refills:*1*
+8. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+for 2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+11. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO DAILY (Daily) for 2 weeks.
+Disp:*28 Tablet Extended Release(s)* Refills:*0*
+12. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+HomeHealth Visiting Nurses
+
+Discharge Diagnosis:
+ascending thoracic aortic aneurysm
+paroxysmal atrial fibrillation
+depression
+vertigo
+s/p Bental procedure
+s/p bilateral knee arthroscopies
+
+
+Discharge Condition:
+Alert and oriented x3, nonfocal
+Ambulating with steady gait
+Incisional pain managed with Ultram/Ibuprophen
+Incisions:
+Sternal - healing well, no erythema or drainage
+Edema -trace pedal edema bilaterally
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for one month or while taking narcotics. Driving will
+be discussed at follow up appointment with surgeon.
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) 222**] ([**Telephone/Fax (1) 294**]) on [**7-5**] at 1:45pm
+Cardiologist: Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9826**] on [**7-11**] at 2:40pm
+
+Wound check [**6-27**] @10AM [**Hospital Unit Name **] [**Hospital Unit Name **] phone [**Telephone/Fax (1) 229**]
+
+Please call to schedule appointments with your
+Primary Care Dr. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 10215**] ([**Telephone/Fax (1) 10216**]in [**3-27**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2790-6-19**]
+
+
+DOC CLASS

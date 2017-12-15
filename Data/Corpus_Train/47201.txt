@@ -1,0 +1,349 @@
+Admission Date:  [**2823-1-9**]              Discharge Date:   [**2823-1-25**]
+
+
+Service: MEDICINE
+
+Allergies:
+Sulfonamides / Tetanus Antitoxin
+
+Attending:[**Last Name (NamePattern1) 1064**]
+Chief Complaint:
+nausea
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+Thoracentesis
+Esophagogastroduodenoscopy
+
+
+History of Present Illness:
+84F with history of coronary artery disease, status post PTCA of
+LCx ([**2814**]) who presented to [**Hospital1 4**] ED this morning with nausea
+and lethargy. Pt was recently seen in [**Hospital **] clinic with fevers and
+increased cough and CXR showed Right middle and lower lobe
+infiltrate and small surrounding effusion consistent with
+pneumonia. EKG in ED notable for 2 mm STE in III and F. MB index
+17 and troponin I 0.73. Pt started on heparin gtt and
+integrillin gtt, given ASA 325 mg PO and metoprolol 5 mg IV and
+transferred to cath lab.
+.
+In cath lab, found to have elevated filling pressures: RA 17, RV
+42/2, PA 39/17, W 17. Pt has 3VD with LMCA 30%, LAD 70% prox,
+70% dist, LCx 70% OM1, RCA 70% dist with cut off at RPL after
+spontaneous reperfusion at dist RCA stenosis. 40% after stenosis
+patent. distal RCA stented with Vision stent, unable to deliver
+DES.
+.
+Post cath, pt denies any chest pain, SOB, orthopnea, PND or leg
+swelling. She does report moderate rRight groin discomfort and
+back pain related to her spinal stenosis and laying flat on the
+stretcher. Pt usually sleeps in a recliner secondary to back
+pain from spinal stenosis.
+
+
+Social History:
+Patient lives at [**Hospital1 2046**] house. She denies smoking, alcohol, or
+illicit drug use. Children live in the area. Retired fashion
+consultant/dressmaker. Currently enjoys painting watercolors and
+acrylics.
+
+
+Family History:
+Mother and sister with Type 2 DM. Mother died of MI. Father died
+of "heart trouble"
+
+Physical Exam:
+PE: VS 97.2 BP 100/61 HR 65 R 15 100% RA
+Gen: NAD, laying flat on stretcher, pale appearing
+HEENT: EOMI, PERRL, O/O clear
+Neck: unable to assess neck veins laying flat, no LAD
+Chest: clear anteriorly
+CV: RRR Nl s1 s2 no mrg appreciated
+Abd: soft, NT, ND + BS
+Ext: Pt has clamp on R groin so pulses not palp on R side, but
+full on L at DP and PT. R groin without hematoma or bruit.
+
+
+Pertinent Results:
+[**2823-1-22**] 07:10AM BLOOD WBC-15.7* RBC-2.87* Hgb-8.6* Hct-26.3*
+MCV-92 MCH-30.1 MCHC-32.8 RDW-16.3* Plt Ct-224
+[**2823-1-21**] 07:20AM BLOOD WBC-16.7* RBC-3.06* Hgb-9.3* Hct-27.6*
+MCV-90 MCH-30.3 MCHC-33.6 RDW-16.3* Plt Ct-291
+[**2823-1-20**] 12:50PM BLOOD WBC-20.5* RBC-3.32* Hgb-10.0* Hct-29.8*
+MCV-90 MCH-30.0 MCHC-33.4 RDW-16.2* Plt Ct-348
+[**2823-1-19**] 03:57AM BLOOD WBC-22.8* RBC-3.60* Hgb-10.6* Hct-32.1*
+MCV-89 MCH-29.5 MCHC-33.1 RDW-15.6* Plt Ct-380
+[**2823-1-18**] 08:00AM BLOOD WBC-17.1* RBC-3.31* Hgb-9.9* Hct-29.7*
+MCV-90 MCH-29.9 MCHC-33.3 RDW-16.2* Plt Ct-328
+[**2823-1-17**] 02:22PM BLOOD WBC-18.5* RBC-3.11* Hgb-9.1* Hct-27.8*
+MCV-90 MCH-29.2 MCHC-32.7 RDW-15.9* Plt Ct-282
+[**2823-1-20**] 12:50PM BLOOD Neuts-91.7* Bands-0 Lymphs-4.2* Monos-3.8
+Eos-0.1 Baso-0.2
+[**2823-1-20**] 12:50PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+
+Macrocy-NORMAL Microcy-NORMAL Polychr-1+ Ovalocy-1+
+[**2823-1-21**] 07:20AM BLOOD PT-14.1* PTT-27.7 INR(PT)-1.3
+[**2823-1-21**] 07:20AM BLOOD Plt Ct-291
+[**2823-1-22**] 07:10AM BLOOD Plt Ct-224
+[**2823-1-22**] 07:10AM BLOOD Glucose-129* UreaN-125* Creat-3.8*
+Na-132* K-4.5 Cl-101 HCO3-18* AnGap-18
+[**2823-1-19**] 03:57AM BLOOD LD(LDH)-638*
+[**2823-1-10**] 07:10AM BLOOD CK(CPK)-331*
+[**2823-1-9**] 09:21PM BLOOD CK(CPK)-434*
+[**2823-1-9**] 12:05PM BLOOD CK(CPK)-298*
+[**2823-1-10**] 07:10AM BLOOD CK-MB-45* MB Indx-13.6* cTropnT-2.66*
+[**2823-1-9**] 09:21PM BLOOD CK-MB-61* MB Indx-14.1* cTropnT-2.54*
+[**2823-1-9**] 12:05PM BLOOD CK-MB-52* MB Indx-17.4* cTropnT-0.73*
+[**2823-1-22**] 07:10AM BLOOD Calcium-8.6 Phos-4.7* Mg-2.2
+[**2823-1-21**] 07:20AM BLOOD Hapto-281*
+[**2823-1-11**] 07:00AM BLOOD calTIBC-143* Ferritn-379* TRF-110*
+[**2823-1-16**] 04:58PM BLOOD freeCa-1.12
+CXR:[**2823-1-20**]
+reduction in the size of the right pleural effusion since the
+prior film of the same date. No pneumothorax. There is
+persistent small right pleural effusion and atelectases are
+present at both lung bases.
+.
+EGD:[**2823-1-18**]:
+-Small hiatal hernia
+-Grade II esophagitis in the middle third of the esophagus and
+lower third of the esophagus
+-Erythema and congestion and mild atrophy in the stomach body
+and antrum compatible with gastropathy
+-Otherwise normal egd to fourth part of the duodenum
+**
+Recommendations: Followup biopsies
+Continue current medications
+Additional notes: The esophagitis is a possible source of GI
+bleeding, although there is no blood or stigmata of bleeding at
+present. The etiology is likely reflux, but biopsies were done
+to rule out [**Female First Name (un) 609**] or other infectious causes
+*
+CXR [**2823-1-15**]:
+-interval increase in opacity overlying the R lung c/w effusion
+layering posteriorly. Likely element of volume loss and
+infiltrate in the right lower lung as well. There is an
+increased left effusion with retrocardiac opacity consistent
+with volume loss/infiltrate/
+effusion.
+Impression:worsening pulmonary edema. Underlying infectious
+etiology cannot be totally excluded.
+.
+CXR [**2823-1-7**]: IMPRESSION: New right effusion and associated air
+space consolidation affecting right middle and lower lobes.
+Findings consistent with pneumonia in the appropriate clinical
+setting.
+.
+[**2820**] echo: EF > 55%, 1+ AR
+.
+EKG [**2823-1-9**] (pre cath): NSR at 70 bpm with 2 mm STE in III and
+F. QTc 440.
+.
+EKG [**2823-1-9**] (post cath): 65 bpm, L axis, bad baseline, QTc 458,
+0.5 mm STE in III and F. LVH by aVL criteria.
+.
+Studies:
+ECHO [**2823-1-11**]
+The left atrium is mildly dilated. Left ventricular wall
+thickness, cavity size, and systolic function are normal
+(LVEF>55%). WMA cannot be fully excluded. RV chamber size and
+free wall motion are normal. The AV leaflets are mildly
+thickened. Mild (1+) AR. MV leaflets are mildly thickened.
+([**2-6**]+) MR. There is mild PA systolic HTN.
+.
+CARDIAC CATH [**2823-1-11**]:
+L main coronary art: 30% stenosis
+LAD 70% prox stenosis; 70% stenosis of diag branch
+OM1 w/ 70% lesion
+40% prox RCA lesion
+70% distal RCA lesion w/ cut-off in distal RCA branch
+distal RCA w/ minivision stent
+RVEDP: 16mmHg, PCWP: 15mmHg
+
+
+Brief Hospital Course:
+84 female with recent pneumonia who presented with malaise and
+nausea and was found to have an inferior STEMI. Pt underwent a
+cardiac catheterization, found to have thrombosed RCA with
+distal embolization which was stented with a Vision stent. After
+the catheterization the [**Hospital **] hospital course has been
+complicated by pleural effusions, gastrointestinal bleeding and
+acute renal failure. Ms. [**Known patient lastname 31034**] [**Last Name (Titles) 5671**] at 1300 on [**2823-1-25**].
+.
+CARDIAC: Ischemia
+Ms. [**Known patient lastname 31034**] has a history of coronary artery disease and is status
+post myocardial infarction (CK peak: 434, Trop-T peak: 2.66).
+She presented with EKG changes suggestive of a right ventricular
+coronary artery disease. She likely had a right ventricular
+infarction. The pt underwent a cardiac catheterization showed
+three vessel coronary artery disease, the left main coronary
+artery had a 30% stenosis, the left anterior descending artery
+had a 70% proximal stenosis.  There was no angiographic evidence
+of obstructive coronary artery disease in the mid and distal
+LAD.  There was a 70% stenosis of the a diagonal branch.  The
+left circumflex artery had no angiographic evidence of
+obstructive coronary artery disease. The OM1 had a 70% lesion.
+There was angiographic evidence of a 40% proximal RCA lesion and
+a 70% distal RCA lesion and there was a cut off in the PL
+branch, likely after spontaneous reperfusion at the distal RCA
+stenosis.  The pt underwent successful stenting of the distal
+RCA with a 2.5 mm MiniVision stent. The pt was recommended
+medical therapy as initial treatment, she was determine to not
+be a surgical candidate. After cardiac catheterization, the pt
+was noted to have a dropping hematocrit for which she was
+transfused 1 unit of PRBC. During the transfusion, the patient
+became acutely short of breath and was noted to have flash
+pulmonary edema. She was transferred to the Cardiac Care Unit
+(CCU) where she responded to aggressive lasix diuresis. She was
+transferred back to the [**Hospital1 **] the following day. She was
+continued on aspirin, plavix, statins and beta-blockers (which
+were titrated down in the setting of low blood pressure).
+
+.
+CARDIAC: Pump
+The patient was noted tohave a left ventricular ejection
+fraction of >50% on ECHO. She was continued on an ACE inhibitor
+for remodeling benefit. The patient's hemodynamics during the
+cathterization were notable for elevated right sided pressures.
+The patient was managed with diuresis.
+.
+CARDIAC: Rhythm
+The patient has a pacemaker and has been A sensed V paced. She
+was noted to have no significant events on telemetry.
+.
+RENAL FAILURE: Acute on Chronic
+Ms. [**Known patient lastname 31034**] has a history of chronic renal failure with a baseline
+creatinine of 1.4. During her hospital stay Ms. [**Known patient lastname 31035**]
+creatinine was monitored daily. In the post-catheterization
+setting her creatinine was noted to rise as high as 3.9 with a
+corresponding rise in phosphate to a maximum of 6.0. Ms. [**Known patient lastname 31034**]
+was also noted to have aninitial pre-renal failure and had poor
+presponse to IV fluids in teh setting of decreased PO intake.
+She was seen by the nephrology team and was offered dialysis,
+which she refused. A renal ultrasound to assess her kidneys
+showed atrophic changes but not evidence of hydronephrosis.
+During the hospital stay, Ms. [**Known patient lastname 31034**] was also noted to have a
+yeast urinary tract infection which was treated with
+Fluconazole.
+.
+ANEMIA:
+Ms. [**Known patient lastname **] has a history of normocytic anemia )with a negative
+bone marrow biopsy in the past) for whihc she was treated with
+Procrit in the past. She underwent several transfusions for
+gastrointestinal bleeding (in the setting of guaiac stools). Ms.
+[**Known patient lastname **] an EGD on [**1-18**]. Esophageal biopsies taken during the EGD
+showed fragments of granulation tissue and exudate with acute
+and chronic inflammation consistent with ulceration. The pt was
+offered a colonoscopy but declined to undergo the procedure
+after weighing the risks and benefits. She was medically managed
+with a [**Hospital1 **] dose of pantoprazole.
+.
+DIABETES MELLITUS:
+Ms. [**Known patient lastname 31034**] was on NPH (qAM) and regular insulin sliding scale at
+home. She was maintained on teh sliding scale with QID
+fingersticks.
+.
+POLYMYALGIA RHEUMATICA:
+Ms. [**Known patient lastname 31034**] has a history of discoid lupus and polymyalgia
+rheumatica for which she was on 7.5 mg PO prednisone daily.
+Given the risk of wall rupture, Ms. [**Known patient lastname 31034**] was not given a stress
+dose of steroids. She was maintained on her home dose of
+prednisone.
+.
+PNEUMONIA:
+Ms. [**Known patient lastname 31034**] presented to the hospital with a recent diagosis of
+pneumonia. She was treated with a 5 day course of azithromycin
+and IV Ceftriaxone (for total 14 day course). She remained
+afebrile during the hospital stay. She was noted to have
+progressive bilateral (right more than left) pleural effusions.
+She underwent two thoracocentesis (with removal of 1 liter each
+time). The effusions were noted to be inflammatory in nature (no
+empyema). A post-procedure chest x-ray did not show any evidence
+of pneumothorax.
+.
+HYPERTENSION:
+Ms. [**Known patient lastname 31034**] was continued on lopressor and lisinopril. Her HCTZ
+was held while in hospital because she was not hypertensive.
+.
+SPINAL STENOSIS:
+Ms. [**Known patient lastname **] was maintained on tylenol, oxycodone and morphine
+(once she was CMO status) for pain control.
+.
+MACULAR DEGENERATION:
+Ms. [**Known patient lastname 31034**] was continued on her vitamins.
+.
+FLUIDS/ELECTROLYTES/NUTRITION:
+Ms. [**Known patient lastname **] was maintained on a diabetic, heart healthy diet. Her
+electrolytes were monitored and relpeted as needed.
+.
+Access:
+peripheral IV
+.
+CODE STATUS:
+DNR/DNI with Comfort Measures Only. During a family meeting with
+the pt and her daughters on [**2823-1-21**] the goals of continued care
+were discussed. The patient and her family were reluctant to
+pursue further medical intervention and they decided (with the
+patient in agreement) that she would be comfort measures only.
+It was decided that the patient would be offered medications
+(aspirin, plavix) that would prevent instent
+thrombosis/stenosis. She will be maintained on medications that
+would make her comfortable.
+.
+Prophylaxis:
+Subcutaneous heparin
+Pantoprazole [**Hospital1 **] for Gi protection
+
+
+Medications on Admission:
+Metoprolol Tartrate 50 mg PO BID
+Hydrochlorothiazide 25 mg PO DAILY
+Acetaminophen 325 mg PO q 4-6 h prn
+Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Ferrous Gluconate 300 mg PO DAILY
+Aspirin 325 mg PO DAILY
+Prednisone 7.5 mg PO DAILY
+B-Complex with Vitamin C Tablet PO qD
+Calcium Carbonate 500 mg PO DAILY
+Cholecalciferol (Vitamin D3) 200 unit Tablet PO DAILY
+Clopidogrel 75 mg PO DAILY
+Lisinopril 20 mg PO DAILY
+Insulin NPH (18) units Subcutaneous QAM.
+Procrit Injection
+Borrage oil Sig: 1000 (1000) mg once a day.
+Pantoprazole 40 mg PO once a day.
+Azithromycin 500 mg PO qd (D3)
+
+
+Discharge Disposition:
+Extended Care
+
+Discharge Diagnosis:
+Non ST elevation Myocardial Infarction
+Community Acquired Pneumonia
+Congestive heart failure
+Acute Renal Failure
+Blood loss anemia
+Polymyalgia rheumatica
+Restless Legs
+Transudative Pleural Effusions
+GI Bleed
+Grade II Esophagitis
+Yeast Urinary Tract Infection
+
+
+Discharge Condition:
+Fair - Comfort management only
+
+
+Discharge Instructions:
+COMFORT MANAGEMENT ONLY- patient [**Hospital1 5671**] at 1300 on [**2823-1-25**]
+Symptom management and support.
+
+Followup Instructions:
+none
+
+
+Completed by:[**2823-1-25**]
+
+
+DOC CLASS

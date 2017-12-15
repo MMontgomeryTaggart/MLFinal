@@ -1,0 +1,246 @@
+Admission Date:  [**3206-8-16**]              Discharge Date:   [**3206-8-20**]
+
+Date of Birth:  [**3148-11-4**]             Sex:   M
+
+Service: [**Hospital Unit Name 194**]
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 9433**]
+Chief Complaint:
+trasferred from OSH for cardiac cath
+
+Major Surgical or Invasive Procedure:
+Cardiac Cath with 2 Hepacoat stents placed in RCA
+
+
+History of Present Illness:
+57 y/o M with h/o RBBB, DM2, HTN, s/p parathyroidectomy,
+presented with radiating substernal CP (initally [**3212-3-26**],
+increased to [**3212-7-30**]) to L shoulder that woke him from sleep,
+associated with numbness/diaphoresis/N and Vomitting that
+relieved the pressure. BS noted to be 450's. Went to outside
+hosp, and received asa, heparin gtt, integrelin, insulin 10
+units, ntg gttasn compezine. Subsequently transferred to [**Hospital1 18**]
+for emergent cath.
+
+Past Medical History:
+DM, Hyperchole, HTN, asbestose exposure, GERD, h/o kidney
+stones, s/p parathyroidectomy, h/o perirectal abscess, RBBB, h/o
+necrotizing fascitis
+
+Social History:
+quit tob 15 yrs ago.
+
+Family History:
+CAD, DM. Father w/ MI in 50's
+
+Physical Exam:
+T AFeb, BP 160/90, HR 90, RR 18
+Gen: pale, s/p emesis
+Neck: JVD 10 cm
+Resp: CTAB
+CV: RRR, Nl S1S2, No murmers
+Abd: obese, hepatomegaly, pos BS
+Ext: 1 plus pittting edema
+
+Pertinent Results:
+[**3206-8-16**] 09:30PM   O2 SAT-67
+[**3206-8-16**] 09:25PM   TYPE-ART PO2-70* PCO2-43 PH-7.39 TOTAL CO2-27
+BASE XS-0
+[**3206-8-16**] 09:25PM   GLUCOSE-262*
+[**3206-8-16**] 09:25PM   HGB-15.1 calcHCT-45 O2 SAT-93
+[**3206-8-16**] 06:38PM   GLUCOSE-332* UREA N-21* CREAT-1.0 SODIUM-139
+POTASSIUM-4.4 CHLORIDE-105 TOTAL CO2-24 ANION GAP-14
+[**3206-8-16**] 06:38PM   ALT(SGPT)-64* AST(SGOT)-301* LD(LDH)-842*
+CK(CPK)-4203* ALK PHOS-87 TOT BILI-0.6
+[**3206-8-16**] 06:38PM   CK-MB-215* MB INDX-5.1 cTropnT-12.75*
+[**3206-8-16**] 06:38PM   CALCIUM-8.2* PHOSPHATE-3.4 MAGNESIUM-1.7
+CHOLEST-192
+[**3206-8-16**] 06:38PM   %HbA1c-11.7*
+[**3206-8-16**] 06:38PM   TRIGLYCER-256* HDL CHOL-35 CHOL/HDL-5.5
+LDL(CALC)-106
+[**3206-8-16**] 06:38PM   WBC-13.7* RBC-5.25 HGB-14.9 HCT-41.5 MCV-79*
+MCH-28.3 MCHC-35.9* RDW-13.2
+[**3206-8-16**] 06:38PM   PLT COUNT-216
+[**3206-8-16**] 06:38PM   PT-12.7 PTT-25.5 INR(PT)-1.0
+[**3206-8-16**] 01:58PM   TYPE-ART O2-100 PO2-96 PCO2-58* PH-7.20*
+TOTAL CO2-24 BASE XS--5 AADO2-572 REQ O2-93 INTUBATED-NOT INTUBA
+COMMENTS-NON-REBREA
+[**3206-8-16**] 01:58PM   GLUCOSE-461* K+-4.5
+[**3206-8-16**] 01:58PM   HGB-15.4 calcHCT-46 O2 SAT-96
+[**3206-8-16**] 12:45PM   CK(CPK)-267*
+[**3206-8-16**] 12:45PM   CK-MB-21* MB INDX-7.9* cTropnT-0.19*
+
+Brief Hospital Course:
+57 y/o M with h/o RBBB, DM2, HTN, s/p parathyroidectomy,
+presented with radiating substernal CP to L shoulder.
+Subsequently transferred to [**Hospital1 18**] for emergent cath.
+
+ECG on admission: RBBB, AV dissociation, STE III>II and AVF, STD
+V2,V3,I,AVL
+
+Echo ([**3204-2-5**]) [**Name Prefix (Prefixes) **]-[**Last Name (Prefixes) 3785**] dilated, LV- wall thickness, cavity,
+and systolic fxn normal, trivial TR
+
+Cath:
+HD: RA 23/25/21          PA Sat 57%
+    RV 44/15/28          CO 3.46
+    PA 41/22/31          CI 1.43
+    PCW 28
+    LV 126/25
+LMCA: Nl
+LAD: Mild dz prox, tubular 60% lesion in midsegment
+LCx: mild diffuse dz
+RCA: dominant vessel occluded proximally
+Intervention: stenting of RCA proximally w/ 3.5x18mm Cypher
+stent x2, residual 0% with TIMI III flow, after mulitple rounds
+of vasodilator therapy
+
+ECHO ([**3206-8-18**]):
+Conclusions:
+1. The left atrium is mildly dilated.
+2. The left ventricular cavity is mildly dilated. There is mild
+global left
+ventricular hypokinesis. Lateral and apical hypokinesis and
+inferior akinesis
+are present. Overall left ventricular systolic function is
+moderately
+depressed. EF 35% to 40%
+3. Compared with the findings of the prior report (tape
+unavailable for
+review) of [**3204-2-5**], LV function and wall motion abnormalities
+are new.
+
+CXR ([**3206-8-18**]):
+Possible slight LV decompensation. No other significant
+abnormality. Slight thickening of the pleura on the right side
+cannot be excluded.
+
+1. CAD. Cath w/ stenting x2 of prox RCA requiring IABP for low
+CI. Pos enzymes. cath c/b bradycardia and hypotension secondary
+to RV involvement
+IPMI -- initially held antihypertensives and gave post cath
+hydration with nabicarb.  Once hemodyanically stable restarted
+b-b and then added acei as tolerated. Initially kept PAD btw
+15-17, pt required preload in setting of right heart ischemia.
+Swan was pulled and the pt was weaned off the IABP.
+He was continued on ASA, Plavix, Lipitor, integrilin x18hrs, and
+heparin while IABP in place and after the integrilin was off.
+
+2. Pump. EF now 35% to 40% with mild global left ventricular
+hypokinesis. Lateral and apical hypokinesis and inferior
+akinesis which are new since previous study in '[**03**]. Increased
+right sided filling pressures secondary to RV infarct.  Pt is
+preload dependent. PAD kept btw 15-19 while pt had a swan. Pt
+was carefully diuresed with goal 500 to 1L negative per day.
+
+3. Rhythm. Pt initially presented with high degree AV block with
+a rate in the 40's.  Pacing wire placed in cath lab and set at
+50.  Block most likely secondary to AV node ischemia from RCA
+occlusion. Pt w/o evidence of block in native rhythm since
+returned from cath. Temp pacer removed without further
+arrythmias.
+
+4. DM. Insulin gtt initially started for elevated BS'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+followed pt and recommended Glargine 60 Units qhs with a regular
+insulin sliding scale. Arrangements were made for the pt to f/u
+at the [**Last Name (un) **].
+
+5. HTN. BP managed on acei and bb.
+
+Medications on Admission:
+Novolin N 60 U qam
+
+Discharge Medications:
+1. Potassium Chloride 10 mEq Tablet Sustained Release Sig: One
+(1) Tablet Sustained Release PO once a day: please have primary
+care physician check you electrolytes.
+Disp:*30 Tablet Sustained Release(s)* Refills:*2*
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR Sig:
+One (1) Tablet Sustained Release 24HR PO QD (once a day).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+4. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO once
+a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO QD
+(once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO QD (once a
+day).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day for
+3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+8. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet PO
+once a day for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+9. Atorvastatin Calcium 80 mg Tablet Sig: One (1) Tablet PO once
+a day for 3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+10. Metoprolol Succinate 50 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO once a day for 3
+days.
+Disp:*3 Tablet Sustained Release 24HR(s)* Refills:*0*
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day for
+3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+12. glargine  Sig: Sixty (60) Units  at bedtime.
+Disp:*2400 U* Refills:*2*
+13. Lancets     Misc Sig: One (1)  Miscell.  three times a day.
+Disp:*90 * Refills:*2*
+14. Alcohol Pads     Pads, Medicated Sig: One (1)  Topical
+three times a day.
+Disp:*90 * Refills:*2*
+15. Accu-Chek Active Care Kit     Kit Sig: One (1)  Miscell.
+once a day for 1 doses.
+Disp:*1 * Refills:*0*
+16. Potassium Chloride 10 mEq Capsule, Sustained Release Sig:
+One (1) Capsule, Sustained Release PO once a day for 3 days.
+Disp:*3 Capsule, Sustained Release(s)* Refills:*0*
+17. Insulin Regular Human 300 unit/3 mL Syringe Sig: as directed
+ Subcutaneous four times a day: please keep a log of blood
+sugars and bring to [**Hospital **] Clinic.
+Disp:*1 vial* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Posterior Inferior MI
+Insulin Resistant DM
+
+
+Discharge Condition:
+Stable
+
+Discharge Instructions:
+Take all medications as directed. In particular, do not stop
+taking aspirin or clopidogrel. Please return to the hospital or
+call your primary care physician if you experience chest pain,
+shortness of breath, vomitting, or any other symptoms.
+
+Followup Instructions:
+1. Please call your pirmary care physician [**Last Name (NamePattern4) **]. [**Known patient firstname **] [**Last Name (NamePattern1) 1664**] at
+[**Telephone/Fax (1) 19699**] to make an appointment for next week.
+2. Please call [**Telephone/Fax (1) 62**] on Monday [**3206-8-21**] to schedule a
+cardiology appointment with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and Dr. [**Last Name (STitle) **] within
+the next 3-4 weeks.
+3. Please call the [**Last Name (un) **] Diabetes Center at ([**Telephone/Fax (1) 3488**] to
+make an  appointment within the next 2 weeks. Please check your
+glucose before meals and at bedtime. Bring your daily glucose
+readings as well as your insulin sliding scale to your
+appoinment.
+
+
+                             [**First Name8 (NamePattern2) 2036**] [**Last Name (NamePattern1) **] MD [**MD Number(2) 2111**]
+
+
+
+
+DOC CLASS

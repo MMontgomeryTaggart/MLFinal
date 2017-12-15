@@ -1,0 +1,185 @@
+TSICU
+   HPI:
+   44yo man with a history of dilated cardiomyopathy (EF 25%)with synovial
+   sarcoma of the left psoas, s/p L pelvic sarcoma removal, L EIV
+   ligation, L EIA reconstruction, rectus flap closure [**8-8**].
+   Chief complaint:
+   Synovial sarcoma, s/p resection
+   PMHx:
+   PMH:sarcoma as above, anxiety/depression, asthma, MRSA folliculitis,
+   CHF/HTN, ?syphilis with +RPR, sinusitis, gerd
+   PSH:?appy, port placement
+   Current medications:
+   1. 2. 1000 mL LR 3. 1000 mL LR 4. 1000 mL LR 5. 1000 mL LR 6. 1000 mL
+   LR 7. Acetaminophen 8. Albuterol Inhaler
+   9. Aspirin 10. Calcium Gluconate 11. Carvedilol 12. CefazoLIN 13.
+   Citalopram Hydrobromide 14. Digoxin
+   15. Famotidine 16. Gabapentin 17. Heparin 18. Insulin 19. Ipratropium
+   Bromide MDI 20. Lisinopril
+   21. Lorazepam 22. Magnesium Sulfate 23. Metoprolol Tartrate 24.
+   Morphine SR (MS Contin) 25. Morphine Sulfate
+   26. Potassium Chloride 27. Potassium Phosphate 28. Sodium Chloride 0.9%
+   Flush
+   24 Hour Events:
+   Seen by CPS in AM - started on Morphine PO and PCA
+   Recv'd fluids overniht for MAP < 60
+   Crit this AM 23.4, crossed for 2 additional units
+   Tachycardia resolving with decreased pain
+ EXTUBATION - At [**3186-8-8**] 08:18 AM
+ INVASIVE VENTILATION - STOP [**3186-8-8**] 08:19 AM
+   Post operative day:
+   2
+   Allergies:
+   Latex
+   Rash;
+   Adhesive Tape (Topical)
+   red skin/paper
+   Last dose of Antibiotics:
+   Cefazolin - [**3186-8-9**] 12:32 AM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**3186-8-8**] 10:44 AM
+   Metoprolol - [**3186-8-8**] 05:20 PM
+   Famotidine (Pepcid) - [**3186-8-9**] 12:33 AM
+   Morphine Sulfate - [**3186-8-9**] 02:15 AM
+   Heparin Sodium (Prophylaxis) - [**3186-8-9**] 02:45 AM
+   Other medications:
+   Flowsheet Data as of  [**3186-8-9**] 05:13 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**89**] a.m.
+   Tmax: 37.8
+C (100.1
+   T current: 37.4
+C (99.4
+   HR: 101 (90 - 130) bpm
+   BP: 98/51(65) {81/45(57) - 139/68(87)} mmHg
+   RR: 12 (10 - 23) insp/min
+   SPO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 94 kg (admission): 83 kg
+   Height: 69 Inch
+   CVP: 0 (0 - 10) mmHg
+   Total In:
+                                                                  5,663 mL
+                                                                  1,069 mL
+   PO:
+                                                                    470 mL
+                                                                    120 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  5,193 mL
+                                                                    949 mL
+   Blood products:
+   Total out:
+                                                                  1,918 mL
+                                                                    395 mL
+   Urine:
+                                                                  1,043 mL
+                                                                    275 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    875 mL
+                                                                    120 mL
+   Balance:
+                                                                  3,745 mL
+                                                                    674 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 99%
+   ABG: 7.35/30/189/24/-7
+   PaO2 / FiO2: 473
+   Physical Examination
+   Labs / Radiology
+   102 K/uL
+   8.3 g/dL
+   107 mg/dL
+   0.7 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   8 mg/dL
+   108 mEq/L
+   120
+   23.4 %
+   5.6 K/uL
+        [image002.jpg]
+                             [**3186-8-7**]  11:38 PM
+                             [**3186-8-7**]  11:56 PM
+                             [**3186-8-8**]  04:48 AM
+                             [**3186-8-8**]  05:03 AM
+                             [**3186-8-8**]  06:36 AM
+                             [**3186-8-9**]  01:56 AM
+   WBC
+   6.9
+   7.6
+   5.6
+   Hct
+   31.0
+   29.4
+   23.4
+   Plt
+   116
+   107
+   102
+   Creatinine
+   0.8
+   0.8
+   0.7
+   TCO2
+   25
+   24
+   17
+   Glucose
+   163
+   147
+   107
+   Other labs: PT / PTT / INR:12.1/26.2/1.0, Fibrinogen:294 mg/dL, Lactic
+   Acid:1.1 mmol/L, Ca:7.1 mg/dL, Mg:1.9 mg/dL, PO4:1.8 mg/dL
+   Assessment and Plan
+   ASSESSMENT AND PLAN:
+   44yo man with a history of dilated cardiomyopathy (EF 25%)with synovial
+   sarcoma of the left psoas, s/p L pelvic sarcoma removal, L EIV
+   ligation, L EIA reconstruction, rectus flap closure [**8-8**]. >2L EBL.
+   NEURO: AO X 3
+   Neuro checks Q: shift
+   Pain: seen by APS -> on Morphine PO and PCA, Gabapentin
+   CVS: dilated CM. on carvedilol, tachycardia resolving with fluids and
+   pain control
+   PULM: 2L NC, tolerating well
+   GI: npo until extubated
+   RENAL: f/c, follow UOP
+   HEME: last crit 23.8, will monitor, typed/crossed for 2 addt
+l units.
+   Will defer to primary team for transfusion. ASA and SQ hep for flap.
+   ENDO: ssi
+   ID: no issues.
+   TLD: [**Location (un) 330**], F/C
+   IVF: LR @ 125cc/h
+   CONSULTS:
+   BILLING DIAGNOSIS:
+   ICU CARE:
+   GLYCEMIC CONTROL: ssi
+   PROPHYLAXIS:
+   DVT - sq hep 5000 [**Hospital1 **] and asa
+   STRESS ULCER - pepcid
+   VAP BUNDLE - NA
+   COMMUNICATIONS: pt
+   ICU Consent:
+   CODE STATUS: full
+   DISPOSITION: icu, txfr to east if pressures stable
+   ICU Care
+   Nutrition: NPO
+   Lines:
+   [**First Name4 (NamePattern1) 330**] [**Last Name (NamePattern1) **] - [**3186-8-7**] 11:28 PM Pull prior to D/C or replace with CVL if
+   no peripheral access
+   16 Gauge - [**3186-8-7**] 11:30 PM
+   Arterial Line - [**3186-8-7**] 11:31 PM
+   Indwelling Port (PortaCath) - [**3186-8-8**] 01:05 AM
+   Total time spent:  30 min
+
+
+
+DOC CLASS

@@ -1,0 +1,184 @@
+Chief Complaint:
+   24 Hour Events:
+ ULTRASOUND - At [**3107-5-3**] 04:00 PM
+ EKG - At [**3107-5-3**] 05:01 PM
+   - pt s/p cath with clean coronaries.  No CP but EKG with STE and
+   positive troponins at OSH
+   - pt refused hip surgery and hip x-rays here.  Pt wishes to return to
+   [**Hospital3 **] to get hip surgery.  Pt would not give permission to
+   have us talk with family members.
+   - K 5.5, EKG unchanged. Kayexylate given.  Need to repeat K later
+   today.
+   S:
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3107-5-4**] 12:14 AM
+   Morphine Sulfate - [**3107-5-4**] 12:14 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3107-5-4**] 06:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.7
+C (98
+   HR: 87 (79 - 90) bpm
+   BP: 103/42(56) {89/40(51) - 109/56(68)} mmHg
+   RR: 18 (11 - 24) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 62 Inch
+                  Total In:
+                                                                    120 mL
+                  PO:
+                                                                    120 mL
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                    245 mL
+                                                                    135 mL
+   Urine:
+                                                                    245 mL
+                                                                    135 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -125 mL
+                                                                   -135 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 5L
+   SpO2: 95%
+   ABG: ///28/
+   Physical Examination
+   Labs / Radiology
+   235 K/uL
+   11.7 g/dL
+   105 mg/dL
+   1.2 mg/dL
+   28 mEq/L
+   5.5 mEq/L
+   28 mg/dL
+   101 mEq/L
+   133 mEq/L
+   35.4 %
+   10.5 K/uL
+        [image002.jpg]
+                             [**3107-5-3**]  09:28 PM
+                             [**3107-5-4**]  03:58 AM
+   WBC
+   10.4
+   10.5
+   Hct
+   36.9
+   35.4
+   Plt
+   259
+   235
+   Cr
+   1.2
+   1.2
+   Glucose
+   123
+   105
+   Other labs: CK / CKMB / Troponin-T:41//,
+   Ca++:9.0 mg/dL, Mg++:2.0 mg/dL, PO4:3.7 mg/dL
+   ECHO:
+   2D-ECHOCARDIOGRAM: The left atrium is normal in size. The estimated
+   right atrial pressure is 10-20mmHg. Left ventricular wall thicknesses
+   are normal. The left ventricular cavity is small. Overall left
+   ventricular systolic function is normal (LVEF 70%). The right
+   ventricular free wall is hypertrophied. The right ventricular cavity is
+   dilated with borderline normal free wall function. There is abnormal
+   systolic septal motion/position consistent with right ventricular
+   pressure overload. The aortic valve leaflets are moderately thickened.
+   There is a minimally increased gradient consistent with minimal aortic
+   valve stenosis. No aortic regurgitation is seen. The mitral valve
+   leaflets are mildly thickened. There is no mitral valve prolapse. The
+   left ventricular inflow pattern suggests impaired relaxation. The
+   tricuspid valve leaflets are mildly thickened. Moderate to severe [3+]
+   tricuspid regurgitation is seen. There is severe pulmonary artery
+   systolic hypertension. There is no pericardial effusion.
+   Assessment and Plan
+   86 yo female with PMHx of chronic back pain, diabetes, HTN, pulmonary
+   HTN and triscupid regurgitation who presented to OSH with mechanical
+   fall and found to have a hip fracture who was incidentially noted to
+   have ST elevation on EKG and troponin leak.  Doing well overall
+   .
+   # CORONARIES/ACS:  Pt with positive enzymes and EKG changes c/w a
+   STEMI, however cath revealed clean coronaries.  ST changes persist and
+   were possibly secondary to demand vs. vasospasm.
+   - post cath check
+   - cont lisinopril
+   - trend CE
+   - EKG in am
+   - aspirin 81 mg
+   - ECHO obtained on arrival to CCU
+   .
+   # PUMP: Echo with LVEF of 70%.  Pt with right ventricular failure.
+   Most likely chronic secondary to pulmonary HTN which is long-standing
+   per son.  However, possibly secondary to PE.
+   - monitor O2 sats and RR, if decompensates t/c empiric heparin vs stat
+   CTA chest.
+   .
+   # RHYTHM: NSR
+   - monitor on telemetry.
+   .
+   # Hip fracture: Pt with documented hip fx on imaging and PE.
+   - ortho consult appreciated
+   - Pt refusing both OR and plain films currently.
+   - pain control with morphine and tylenol.
+   .
+   # Hyperkalemia - K elevated at 5.5. EKG without evidence of hyper K.
+   - kayexylate
+   - repeat K this PM.
+   .
+   # Diabetes Mellitus vs. IGT: pt not on medications as outpt and has no
+   knowledge of carrying the diagnosis.  Blood glucose measurements have
+   been elevated while in-house.
+   - Monitor FS
+   - humalog SS prn
+   .
+   # Osteoporosis/back pain: Cont calcium and vit D
+   - lidoderm patch
+   .
+   # GERD: Continue ppi
+   .
+   # Depression: stable, though possibly playing a role in patient's
+   refusal to got to OR for hip repair.
+   - cont celexa.
+   - t/c SW consult.
+   .
+   FEN: diabetic and cardiac diet, no IVF, bowel reg
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with hep SQ and pneumoboots.
+   -cont PPI.
+   CODE: DNR/DNI
+   DISPO: CCU pending resolution of above.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3107-5-3**] 04:45 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI
+   Disposition:
+
+
+
+DOC CLASS

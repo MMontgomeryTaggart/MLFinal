@@ -1,0 +1,63 @@
+Admission Date:  [**2523-10-17**]     Discharge Date:  [**2523-10-21**]
+
+Date of Birth:   [**2503-9-14**]     Sex:  M
+
+Service:  Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 22 year old
+man, unrestrained driver with positive air bag deployment, in
+a head-on collision.  The patient was found at the scene
+unconscious.  It took five minutes to extricate him from the
+vehicle.  He became combative at the scene, was intubated and
+transferred to [**First Name4 (NamePattern1) 1212**] [**Last Name (NamePattern1) **] [**First Name (Titles) **] [**Last Name (Titles) **] for
+further management.  A head CT showed a right temporal and
+left occipital parietal lobe contusions and intraparenchymal
+hemorrhage.
+
+PAST MEDICAL HISTORY:  None.
+
+PHYSICAL EXAMINATION:  On physical examination, the patient
+was intubated and sedated.  He had a laceration of the left
+occipital scalp.  Pupils were 1.5 mm and equal and slightly
+reactive.  He responded to pain in all four extremities.  He
+had normal tone.  Reflexes were symmetric.  He had bilateral
+downgoing toes.
+
+LABORATORY DATA:  Head CT:  Extra-axial blood, subdural, over
+the right anterior temporal with no midline shift and
+intraparenchymal contusion in the left posterior temporal
+area.
+
+HOSPITAL COURSE:  The patient was admitted to the Surgical
+Intensive Care Unit for close monitoring.  He was taken off
+sedation on [**2523-10-18**] and extubated.  He was
+transferred to the neurosurgery service and to the floor in
+stable condition.  He was sleepy but arousable, following
+commands.  The patient was seen by physical therapy and
+occupational therapy and found to be safe for discharge to
+home.
+
+DISCHARGE MEDICATIONS:
+Dilantin 100 mg p.o.q.8h. times one week.
+Percocet one to two tablets p.o.q.4h.p.r.n. pain.
+
+FOLLOW-UP:  The patient was discharged to home with follow-up
+with Dr. [**Last Name (STitle) 2498**] in three weeks.
+
+CONDITION ON DISCHARGE:  Stable.
+
+
+
+                          [**Name6 (MD) 2499**] [**Name8 (MD) **], MD  [**MD Number(1) 2500**]
+
+Dictated By:[**Last Name (NamePattern1) 326**]
+
+MEDQUIST36
+
+D:  [**2523-10-21**]  10:51
+T:  [**2523-10-25**]  18:46
+JOB#:  [**Job Number 8238**]
+
+
+
+DOC CLASS

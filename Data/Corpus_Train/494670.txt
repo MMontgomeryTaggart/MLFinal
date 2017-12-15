@@ -1,0 +1,235 @@
+Chief Complaint:
+   68yo M with COPD, CAD ( s/p CABG) admitted with hypotension and
+   respiratory failure in setting of MRSA PNA &  bacteremia and now with
+   recurrent lung cancer with continued hypoxemia and delirium
+   24 Hour Events:
+   - replaced dophoff
+   - patient with increased difficulty breathing in AM with wheezing,
+   given 40mg IV lasix x 1, solumedrol Q8hr, and one trial of racemic epi
+   for possible upper airway obstruction -> breathing improved
+   - given free water boluses for hypernatremia
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2625-3-28**] 11:30 AM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Metoprolol - [**2625-3-28**] 08:45 AM
+   Furosemide (Lasix) - [**2625-3-28**] 11:40 AM
+   Lansoprazole (Prevacid) - [**2625-3-28**] 04:00 PM
+   Morphine Sulfate - [**2625-3-28**] 06:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2625-3-29**] 07:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**26**] AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.7
+C (98
+   HR: 99 (81 - 104) bpm
+   BP: 138/62(80) {87/38(49) - 138/66(80)} mmHg
+   RR: 33 (17 - 38) insp/min
+   SpO2: 99%
+   Heart rhythm: A Paced
+   Wgt (current): 85.5 kg (admission): 87.2 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,702 mL
+                                                                    445 mL
+   PO:
+             TF:
+                                                                    363 mL
+                                                                    349 mL
+   IVF:
+                                                                  1,199 mL
+                                                                     96 mL
+   Blood products:
+   Total out:
+                                                                  2,025 mL
+                                                                    330 mL
+   Urine:
+                                                                  2,025 mL
+                                                                    330 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -323 mL
+                                                                    115 mL
+   Respiratory support
+   O2 Delivery Device: High flow neb
+   SpO2: 99%
+   ABG: ///36/
+   Physical Examination
+   General: face mask and NC in place, NAD, using accessory muscles to
+   breathe
+   HEENT: PERRL, EOMI
+   CVS: S1/S2 reg, no m/r/g
+   LUNGS: crackles on left, expiratory wheezes in all lung fields
+   EXT: 2+ pedal pulses, boots
+   ABD: NABs , nontender / nondistended , soft
+   SKIN: pallid complexion, warm , no new rashes
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   319 K/uL
+   9.8 g/dL
+   253 mg/dL
+   1.7 mg/dL
+   36 mEq/L
+   4.4 mEq/L
+   41 mg/dL
+   101 mEq/L
+   146 mEq/L
+   30.7 %
+   9.3 K/uL
+        [image002.jpg]
+                             [**2625-3-25**]  06:02 AM
+                             [**2625-3-25**]  01:24 PM
+                             [**2625-3-26**]  12:13 AM
+                             [**2625-3-26**]  05:58 AM
+                             [**2625-3-26**]  04:37 PM
+                             [**2625-3-27**]  04:11 AM
+                             [**2625-3-27**]  02:50 PM
+                             [**2625-3-28**]  04:13 AM
+                             [**2625-3-28**]  07:38 PM
+                             [**2625-3-29**]  05:20 AM
+   WBC
+   7.5
+   7.3
+   9.4
+   9.3
+   9.3
+   Hct
+   27.3
+   28.6
+   28.1
+   28.8
+   28.7
+   30.7
+   Plt
+   172
+   203
+   260
+   270
+   319
+   Cr
+   1.8
+   1.6
+   1.8
+   1.7
+   1.6
+   1.6
+   1.5
+   1.8
+   1.7
+   TCO2
+   38
+   Glucose
+   137
+   113
+   141
+   164
+   165
+   156
+   152
+   215
+   253
+   Other labs: PT / PTT / INR:12.9/25.5/1.1, CK / CKMB /
+   Troponin-T:51/4/0.06, ALT / AST:41/37, Alk Phos / T Bili:120/0.5,
+   Differential-Neuts:85.5 %, Lymph:9.2 %, Mono:3.0 %, Eos:2.1 %,
+   Fibrinogen:675 mg/dL, Lactic Acid:0.9 mmol/L, Albumin:2.6 g/dL, LDH:266
+   IU/L, Ca++:9.1 mg/dL, Mg++:2.5 mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   68 year-old male with COPD, h/o lung cancer with RUL lobectomy, & CAD (
+   s/p CABG) who was admitted with hypotension and respiratory failure in
+   setting of MRSA PNA and bacteremia now found to have recurrent lung
+   cancer with continued hypoxemia and delirium.
+   .
+   # Respiratory failure:   Respiratory status worsened overnight.
+   Multifactorial with wheezes consistent with worsened COPD, increased
+   fluid, with baseline poor lung function, low lung volumes.
+   - keeping UOP > 30cc/hr , aim for diuresis today with goal I/O -500cc.
+   Will give 40mg IV lasix now, if still with air hunger, give 0.5mg IV
+   morphine
+   - if no improvement, increase steroids back up to prednisone 40mg daily
+   (has been on 5mg prednisone of long steroid taper)
+   - continue  on standing nebs & MDIs; increased  nebs overnight
+   - aim for O2 sat 90-95%
+   # Delirium:  Less delirium overnight.
+   - continue Haldol 3mg qpm and 1-2 mg PRN q 8 hrs during daytime
+   - continue Zydis QHS as patient with decreased delirium yesterday night
+   on this regimen
+   - check EKG / QT  today given higher doses of Haldol
+   - reorient frequently, out of bed, enforce sleep/wake cycles
+   - light restraints as needed
+   .
+   # NSCLC recurrence:  IP biopsy results now confirmed as squamous cell
+   lung cancer. Per recent family meetings, goals of care changed to
+   DNR/DNI and optimizing patients comfort levels.
+   - f/up palliative care team recs
+ will be by to see team on Tuesday in
+   person.
+   - talk with oncology regarding whether palliative therapies/workup
+   would be relevant for patient
+   - social work involved / f/up notes and recs
+   # Goals of care: Per meeting with family on Friday
+ plan was to focus
+   on nutrition and delirium over weekend. However, if no improvement, may
+   need to focus more on comfort.  Also consider whether patient could
+   transfer somewhere closer to family
+   - talk to oncology today to weigh in on any options for
+   treatment/prognosis for recurrent squamous cell ca
+   - talk to family today with update/readdress goals in setting of
+   worsened respiratory status
+   # CAD,s/p CABG: No active issues
+   - continue ASA, plavix  BB
+   # systolic CHF:  recent EF 35% on ECHO. Patient has slightly increased
+   volume today with overnight 24h I/O positive 600cc.
+   -f/up CXR today
+   -switch IV beta blocker back to PO metoprolol
+   -keep patient even to negative -500L out, watching PM lytes and Cr
+   - consider adding ACEI when Cr trending back down
+   .
+   # Atach/afib: Patient had flare up of his atrial fibrillation
+   overnight.  He needed additional beta blocker boluses and Amiodarone to
+   control his ectopy.
+   - EP physician, [**Name10 (NameIs) 5660**] to come to evaluate/talk to family
+   - continue metoprolol TID IV, uptitrate as tolerates
+   - switch amio gtt back to amiodarone 400mg [**Hospital1 7**] via Dophoff
+   - follow K, Mg  PM labs  and replete aggressively
+   .
+   # Anemia: Stable at 28 range now.  Has been stable for several days and
+   etiology felt to be [**1-11**] some occult  stress gastritis. Has not required
+   transfusions since [**3-18**].
+   - continue on PPI
+   - will trend HCTs daily  keep >25 given CAD history
+   - make sure updated active T/S
+   - guaiac stools
+   # CRI : Trending downwards
+   - continue to follow urine output, Cr
+   ICU Care
+   Nutrition: Dophoff in place
+   Nutren Pulmonary (Full) - [**2625-3-29**] 03:01 AM 45 mL/hour
+   Glycemic Control:  ISS
+   Lines:
+   PICC Line - [**2625-3-7**] 02:27 PM
+   Prophylaxis:
+   DVT: Pneumoboots, SC heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments: Wife
+   [**Name (NI) 34**] status: DNR/DNI
+   Disposition: ICU
+
+
+
+DOC CLASS

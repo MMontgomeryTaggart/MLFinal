@@ -1,0 +1,279 @@
+Admission Date:  [**2526-11-19**]              Discharge Date:   [**2526-11-26**]
+
+Date of Birth:  [**2445-2-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 6394**]
+Chief Complaint:
+fever, hypotension
+
+Major Surgical or Invasive Procedure:
+Hemodialysis
+Central line placement
+Tunneled hemodialysis line placement
+
+
+History of Present Illness:
+This is a 81 M with pmh of ESRD on HD, AFib, CHF, C diff
+colitis, h/o klebsiella urosepsis, recent MRSA line infeciton on
+vancomycin, presenting with fever, chills, and hypotension.  He
+reports feeling well until the morning of [**11-19**], when he awoke
+with fevers, chills, and lightheadedness.  He also experienced
+non-bloody emesis X1.  he went to the ED where his temperature
+was 101.4,  blood pressure was in the 60's.  He was immediatley
+bolused with 2 liters of NS, had LIJ placed and started on
+levophed.  He was also given vancomycin, zosyn, and
+levofloxacin.  ABG showed lactate trending from 2.5 to 1.1 after
+fluid resuscitation.  On arrival to the patient was afebrile
+with BP 109/65, HR 86, 21 100% on face mask, CVP 9. levophed was
+weaned down from .05 to .02. Central Venous O2 sat was 85%, and
+lactate was 0.9.
+
+Past Medical History:
+- Stage IV CKD
+- Atrial fibrillation
+- h/o GI bleed, diverticulitis
+- C. Diff colitis
+- h/o stroke 12 years ago w/ right-sided weakness; second stroke
+
+5 years ago
+- h/o nephrolithiasis w/ stent and nephrostomy tube
+- CAD s/p MI
+- sleep apnea not on cpap
+- h/o klebsiella urosepsis
+- depression
+- PFTs [**2519**] with mild restrictive ventilatory defect
+-Anemia with h/o iron deficiency
+
+
+Social History:
+Lives with wife [**Name (NI) **], h/o smoking [**1-23**] PPD for 50 years, quit
+20 years ago, does not drink alcohol, no drugs.
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Tmax: 36.2 ??????C (97.2 ??????F)
+
+Tcurrent: 34.9 ??????C (94.9 ??????F)
+
+HR: 82 (70 - 93) bpm
+
+BP: 101/54(63) {96/47(58) - 113/69(77)} mmHg
+
+RR: 16 (16 - 27) insp/min
+
+SpO2: 97%
+
+Heart rhythm: A Flut (Atrial Flutter)
+
+Height: 66 Inch
+
+General Appearance: Well nourished, Overweight / Obese
+
+Eyes / Conjunctiva: PERRL
+
+Head, Ears, Nose, Throat: Normocephalic
+
+Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t)
+Systolic, No(t) Diastolic)
+
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Not assessed), (Left DP pulse:
+Not assessed)
+
+Respiratory / Chest: (Breath Sounds: Clear : , No(t) Crackles :
+, No(t) Wheezes : )
+
+Abdominal: Soft, Non-tender, Bowel sounds present, No(t)
+Distended
+
+Extremities: Right: Trace, Left: Trace, No(t) Cyanosis, No(t)
+Clubbing
+
+Skin:  Not assessed
+
+Neurologic: Attentive, Responds to: Not assessed, Movement: Not
+assessed, Tone: Not assessed
+
+
+Pertinent Results:
+[**2526-11-19**] 08:15PM   TYPE-CENTRAL VE
+[**2526-11-19**] 08:15PM   LACTATE-0.9
+[**2526-11-19**] 06:00PM   CALCIUM-8.3* PHOSPHATE-3.8 MAGNESIUM-1.5*
+[**2526-11-19**] 06:00PM   CALCIUM-8.3* PHOSPHATE-3.8 MAGNESIUM-1.5*
+[**2526-11-19**] 04:10PM URINE  COLOR-Amber APPEAR-Clear SP [**Last Name (un) 154**]-1.016
+[**2526-11-19**] 04:10PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-5.0
+LEUK-NEG
+[**2526-11-19**] 04:10PM URINE  RBC-0 WBC-0-2 BACTERIA-FEW YEAST-NONE
+EPI-0-2
+[**2526-11-19**] 03:53PM   TYPE-MIX PO2-75* PCO2-43 PH-7.42 TOTAL CO2-29
+BASE XS-2 INTUBATED-NOT INTUBA
+[**2526-11-19**] 03:53PM   LACTATE-1.1
+[**2526-11-19**] 03:53PM   O2 SAT-93
+[**2526-11-19**] 12:43PM   COMMENTS-GREEN TOP
+[**2526-11-19**] 12:43PM   LACTATE-2.5*
+[**2526-11-19**] 12:30PM   GLUCOSE-111* UREA N-37* CREAT-4.1*#
+SODIUM-138 POTASSIUM-4.1 CHLORIDE-95* TOTAL CO2-30 ANION GAP-17
+[**2526-11-19**] 12:30PM   ALT(SGPT)-23 AST(SGOT)-30 ALK PHOS-139*
+AMYLASE-56 TOT BILI-0.7
+[**2526-11-19**] 12:30PM   GLUCOSE-111* UREA N-37* CREAT-4.1*#
+SODIUM-138 POTASSIUM-4.1 CHLORIDE-95* TOTAL CO2-30 ANION GAP-17
+[**2526-11-19**] 12:30PM   ALT(SGPT)-23 AST(SGOT)-30 ALK PHOS-139*
+AMYLASE-56 TOT BILI-0.7
+[**2526-11-19**] 12:30PM   proBNP-9288*
+[**2526-11-19**] 12:30PM   WBC-10.8 RBC-3.13* HGB-9.6* HCT-28.5* MCV-91
+MCH-30.5 MCHC-33.5 RDW-18.6*
+[**2526-11-19**] 12:30PM   NEUTS-93.1* LYMPHS-4.4* MONOS-2.1 EOS-0.2
+BASOS-0.1
+[**2526-11-19**] 12:30PM   PLT COUNT-172
+[**2526-11-19**] 12:30PM   PT-15.8* PTT-27.0 INR(PT)-1.4*
+
+CXR [**2526-11-23**]
+FINDINGS: In comparison with the study of [**11-21**], there has been
+placement of a right internal jugular catheter that extends to
+the level of the carina in the mid portion of the SVC. Left
+jugular catheter has been pulled back so that the tip is near
+the junction with the subclavian vein.
+The retrocardiac region appears somewhat clearer than on the
+previous study.
+
+
+Brief Hospital Course:
+Assessment: 81M w/ ESRD on HD, Diastolic CHF, afib, previous
+line infections currently being treated with vancomycin,
+presenting with GNR bacteremia.
+
+Hospital course:
+The patient was admitted to the medical ICU with fever and
+hypotension. He was empirically treated with linezolid for MRSA
+and VRE, and zosyn for broad gram negative coverage.  He
+underwent hemodialysis the day after admission and the line was
+removed by interventional radiology at that time. Blood cultures
+eventually grew out e.coli, sensitive to gentamicin, zosyn, and
+bactrim, and resistent to ampicillin and all cephalosporins.  He
+was continued on zosyn but then switched to gent for dosing
+during HD.  A temporary line was placed on [**2526-11-22**] for HD use
+and then converted to a tunnelled line on [**2526-11-25**].  The new line
+was successfully used for hemodialysis on [**2526-11-26**].
+
+He initally had low BPs and required low doses of levophed, but
+this was weaned off on hospital day four. He was initially
+covered with linezolid as well while blood cultures were pending
+given h/o VRE, but this was changed back to vancomycin to
+complete his course for MRSA bacteremia from prior admission.
+His last dose of vancomycin was administered on [**2526-11-26**].  He
+will continue gentamicin, dosed at hemodialysis, until [**2526-12-4**].
+
+The patient also has a history of atrial fibrillation but has
+previously declined warfarin anticoagulation.  He was continued
+on aspirin during his hospital stay.  The patient's anemia was
+also evaluated as an inpatient and he made be a candidate for
+epogen in the future.  His iron studies were consistent with an
+anemia of chronic disease.  Because he has COPD, the patient was
+continued on his tiotroprium inhalers.
+
+The patient also has obstructive sleep apnea and was continued
+on CPAP qHS at home settings: CPAP 10 with 4 liters 02 at 150 mL
+of dead space. He periodically refused to wear his CPAP mask and
+subsequently desatted to the 70s during these episodes.
+
+Medications on Admission:
+1. Tiotropium Bromide 18 mcg Capsule,
+2. Aspirin 81 mg Tablet, Chewable Sig:
+3. Fluoxetine 10 mg Tablet
+4. Multivitamin
+5. B Complex-Vitamin C-Folic Acid 1 mg Capsule
+6. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H
+7. Atrovent HFA 17 mcg/Actuation Aerosol Sig: One (1) inhalation
+
+Inhalation every four (4) hours
+11. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO twice a day.
+
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+3. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap
+PO DAILY (Daily).
+4. Fluoxetine 10 mg Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+5. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+8. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+10. Gentamicin 40 mg/mL Solution Sig: Ninety (90) mg Injection
+QHD (each hemodialysis) for 8 days: Last dose 11/12.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] [**Hospital **] Nursing Home - [**Location (un) **]
+
+Discharge Diagnosis:
+Primary:
+Staph aureas bacteremia
+E. coli sepsis
+.
+Secondary:
+Atrial fibrillation
+Hypertension
+Diabetes
+Dyslipidemia
+End stage renal disease
+
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted because of an infection from your hemodialysis
+line.  We treated you with antibiotics to clear the infection.
+You also developed a second infection and we started you on an
+additional antibiotic.  We also performed hemodialysis while you
+were here.
+.
+Please take all of your medications as prescribed. Please keep
+all of your follow-up appointments.  You should continue to take
+your antibiotics as prescribed.
+.
+Please call your doctor or return to the hospital if you
+experience fevers, chills, sweats, chest pain, shortness of
+breath or anything else of concern.
+
+Followup Instructions:
+Provider MASK FITTING TECHNICIAN Phone:[**Telephone/Fax (1) 606**]
+Date/Time:[**2526-11-27**] 1:00
+
+Provider [**First Name4 (NamePattern1) 1556**] [**Last Name (NamePattern1) 1557**], MD Phone:[**Telephone/Fax (1) 1560**]
+Date/Time:[**2527-1-7**] 1:30
+
+Provider [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]/DR. [**First Name (STitle) **] Phone:[**Telephone/Fax (1) 606**]
+Date/Time:[**2527-2-7**] 11:20
+
+
+
+Completed by:[**2526-11-28**]
+
+
+DOC CLASS

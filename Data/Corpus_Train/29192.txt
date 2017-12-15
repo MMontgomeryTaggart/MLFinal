@@ -1,0 +1,197 @@
+Admission Date:  [**2783-11-28**]              Discharge Date:   [**2783-12-1**]
+
+Date of Birth:  [**2737-1-14**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 899**]
+Chief Complaint:
+hemoptysis
+
+Major Surgical or Invasive Procedure:
+rigid bronchoscopy with cautery ([**2783-11-28**])
+
+History of Present Illness:
+Mr. [**Name13 (STitle) **] is a 46 year-old man with a history of morbid
+obesity, obstructive sleep apnea, and depression who presented
+to an outside hospital yesterday with massive hematemesis.  He
+was in his usual state of health until yesterday morning when he
+suddenly began coughing up large volumes of liquid bright red
+blood and one large, solid clot of blood.  This persisted for
+approximately 45 minutes before resolving spotaneously while he
+was in the ambulance in transit to [**Hospital 229**] Hospital.  At the
+outside hospital, his hematocrit was reportedly 38.7 and an NG
+lavage was positive.  His hemoptysis then recurred (approx [**1-24**]
+hours after initial event) and he was transferred here for
+emergent bronchoscopy.  He was intubated in the ED in
+preparation for bronchoscopy.  On presentation here, his
+hematocrit was noted to be 34.8 and a CXR showed clear lungs.
+.
+ROS: Denies fevers, chills, change in weight/appetite, dysuria,
+N/V/D, hematuria, hematochezia, melena, headaches, visual
+changes.
+
+
+Past Medical History:
+- depression: reports recent worsening with intermittent passive
+SI and some preliminary plan formation; denies HI; denies any
+AH/VH in the past but does report some paranoid delusions
+- obstructive sleep apnea: on CPAP at home
+- morbid obesity: has worsened over past year
+- lymphedema
+- psoriasis
+
+
+Social History:
+Has not left his house in >1 year due to depression and now
+worsening obesity; lives with his sister.  Formerly smoked 1 ppd
+up until 3 yrs ago.  Was a binge drinker in his 20s, but no
+longer drinks.  Distant marijuana and intranasal cocaine use.
+Denies IVDU.
+
+
+Family History:
+Father with 2 [**Name2 (NI) **] in his 50s but still living in his 70s
+currently.  Mother with schizophrenia.
+
+Physical Exam:
+T 100.4  BP  107/75  HR 94  RR 20  Sat 99% on ra
+Weight: 550 lbs
+Height: 6'2"
+Gen: morbidly obese, no acute distress, breathing comfortably
+HEENT: no icterus, OP clear, MMM
+Neck: no carotid bruits, no cervical/clavicular lymphadenopathy,
+unable to assess JVP due to neck size
+Chest: diffuse faint expiratory ronchi, no wheezes/rales
+CV: regular rate/rhythm, distant HS, no murmurs heard
+Abd: morbidly obese, nontender, nondistended, normal BS, unable
+to palpate liver/spleen edge due to obesity
+Extr: massive firm ruggated hyperpigmented edema in both legs,
+2+ pitting edema in both feet with 1+ bilateral DP pulses
+Skin: numerous scattered patches of scaling plaques on arms,
+torso, back
+Neuro: A&O x3, CN 2-12 intact
+
+
+Pertinent Results:
+[**2783-11-28**] 04:45PM   WBC-11.7* RBC-3.94* HGB-12.6* HCT-34.8*
+MCV-89 MCH-31.9 MCHC-36.1* RDW-14.7
+[**2783-11-28**] 04:45PM   NEUTS-90.5* LYMPHS-6.9* MONOS-2.0 EOS-0.5
+BASOS-0.2
+[**2783-11-28**] 04:45PM   cTropnT-<0.01
+[**2783-11-28**] 04:45PM   GLUCOSE-157* UREA N-18 CREAT-0.8 SODIUM-140
+POTASSIUM-4.5 CHLORIDE-107 TOTAL CO2-22 ANION GAP-16
+
+Brief Hospital Course:
+He underwent an emergent rigid bronchoscopy upon admission to
+the ED which showed a large amount of fresh blood.  He was found
+to have a LLL medial wall arterial "[**Last Name (un) 15991**]" gushing fresh blood,
+which was cauterized.  He also had a large cast of
+clot/tissue/tumor in the LLL which was removed and sent for
+pathology.  He was sent to the SICU post-procedure where he
+remained hemodynamically stable and was extubated without
+difficulty.  He was sent to the medicine floor team at this
+point where he remained hemodynamically stable with no evidence
+of recurrent bleeding.  Because of his morbid obesity, he could
+not undergo any further imaging (CT, MRI, etc) to evaluate for
+potential causes of his massive hemoptysis.  The tissue sent
+from his bronchoscopy returned as clot only, and cytology on the
+bronchial brushings was negative.  He was arranged to have
+follow up with interventional pulmonology for a repeat
+bronchscopy in [**4-28**] weeks.
+
+For his sleep apnea, he was continued on nightly BiPAP per his
+home regimen.  His sister brought in his BiPAP machine fromhome
+(since he didn't tolerate the hospital's machine) and it
+accidentally fell and broke while in-house.  He was set up to
+have a new machine delivered to his home immediately after
+discharge.
+
+Due to this bleeding and lack of documented CAD, his aspirin was
+held while in-house and he was advised to continue holding it,
+unless directed otherwise by his PCP.
+
+For his depression, he was started on Effexor 225mg daily (he
+had previously been on this dose before running out and never
+refilled his prescriptions).  A social work consult saw the
+patient and referred him to the Disabled Persons Protection
+Commission and gave him the phone number for [**Hospital3 15992**]
+Commission homemaker services for assistance due to his morbid
+obesity.
+
+He was set up with PCP follow up for the day after discharge
+since he hadn't seen his PCP in over [**Name Initial (PRE) **] year.
+
+Medications on Admission:
+aspirin 81mg daily
+Lubriderm prn
+
+
+Discharge Medications:
+1. Venlafaxine 75 mg Capsule, Sust. Release 24HR Sig: Three (3)
+Capsule, Sust. Release 24HR PO DAILY (Daily).
+Disp:*90 Capsule, Sust. Release 24HR(s)* Refills:*3*
+2. Calcipotriene 0.005 % Ointment Sig: One (1) Appl Topical  [**Hospital1 **]
+(2 times a day).
+Disp:*1 tube* Refills:*3*
+3. Triamcinolone Acetonide 0.025 % Ointment Sig: One (1) appl
+Topical  twice a day: apply thin layer to affected areas twice
+daily.
+Disp:*1 tube* Refills:*3*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary diagnosis: massive hemoptysis
+
+Secondary diagnosis: obesity, obstructive sleep apnea,
+depression, psoriasis
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+You were admitted to the hospital after coughing up large
+amounts of blood.  You emergently underwent a bronchoscopy which
+showed an artery pumping blood into one of your major airways.
+This blood vessel was cauterized and the bleeding stopped.  You
+had a breathing tube placed down your throat to protect your
+airway during this event.  You were taken off the breathing tube
+without difficulty and remained stable when transferred to the
+floor.  We do not yet have an explanation for why you had this
+large episode of bleeding, so you need to follow up with our
+pulmonologists (as scheduled below) for a repeat bronchoscopy.
+
+Please attend all follow-up appointments as scheduled.  Please
+take all medications as prescribed.
+
+If you experience chest pain, shortness of breath, high fevers,
+loss of consciousness, coughing up of blood, or any other
+concerning symptoms, you need to seek medical attention.
+
+Followup Instructions:
+Primary care physician [**Last Name (NamePattern4) 21**]. [**First Name4 (NamePattern1) 1027**] [**Last Name (NamePattern1) **] ([**Hospital 229**] Hospital):
+Friday [**2783-12-2**] at 11:15 am; [**Telephone/Fax (1) 5192**]
+
+Pulmonology for repeat bronchoscopy (Dr. [**Last Name (STitle) **]: [**2784-1-2**];
+arrive at 7:30 am to [**Hospital Ward Name **] 8 Day Care Unit; you cannot have any
+food or drink (except for medications) after midnight the
+evening before the procedure.  You should not take aspirin for
+the five days prior to the procedure because it thins the blood.
+
+Provider: [**Name10 (NameIs) 5789**],NINE DAY CARE [**Hospital Ward Name **] 8 Date/Time:[**2784-1-2**] 7:30
+Provider: [**Name10 (NameIs) **],IP PROC IP PROCEDURES Date/Time:[**2784-1-2**] 8:30
+
+
+
+
+
+
+DOC CLASS

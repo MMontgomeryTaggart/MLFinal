@@ -1,0 +1,250 @@
+Admission Date:  [**3312-4-11**]              Discharge Date:   [**3312-4-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Anesthesia IV Set-Clamp / Flagyl
+
+Attending:[**First Name3 (LF) 5969**]
+Chief Complaint:
+BRBPR
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+99 F with a history of hypertension, atrial fibrillation on
+Coumadin, polycythemia [**Doctor First Name 1552**], prior LGIB managed conservatively,
+who presents with one day of BRBPR. She recently had a fever
+last week and was treated with a 5-day course of Bactrim
+beginning Friday for presumed UTI (culture from [**3312-4-7**] gre
+pan-sensitive E. coli). She held Coumadin on Friday and Saturday
+but resumed yesterday, with plan to re-check INR today. She
+awoke this morning at 5:00 AM with an episode of BRBPR. She had
+no associated pain, nausea, or vomiting. She had a second
+episode at 9:00 AM, and a third at noon; she then came into the
+ED.
+.
+Upon arrival to the ED vitals were: T 99.2, HR 67, BP 129/40, RR
+18, O2 sat 99% on RA. She was noted to be guaiac-positive on
+exam with BRB on the glove during exam. She had another episode
+of bleeding in the ED of 400 cc of blood mixed with stool. Her
+Hct was noted to be 28 from recent baseline of 34 and her INR
+was elevated at 4.7. She was seen by the GI consult team in the
+ED and received 40 mg IV Protonix, 5 mg of PO vitamin K, and 1
+unit of FFP. Vitals prior to transfer to the MICU were: BP
+134/39, HR 69, RR 19, O2 sat 97% on RA.
+.
+On arrival to the MICU, patient is comfortable. She is awake and
+alert, denies any pain. Daughter [**Name (NI) **] is with her.
+
+
+Past Medical History:
+HTN
+Paroxysmal afib
+Osteoarthritis
+Hearing loss
+s/p Appy
+3 C sections
+Diverticulitis
+Mitral regurgitation- ECHO '[**03**] w/ EF 65%, 3+ MR, 2+TR, LVH
+Depression
+Osteoporosis
+s/p right knee replacement
+
+Social History:
+Social history is significant for the absence of current or past
+tobacco use. There is no history of alcohol abuse. Pt lives in
+duplex with her dtr living upstairs and her son next door.
+
+
+Family History:
+There is no family history of premature coronary artery disease
+or sudden death.
+
+Physical Exam:
+ADMISSION:
+GEN: Awake, alert, mildly hard of hearing
+HEENT: Pink conjunctiva, PERRL, clear OP, moist MM
+NECK: Supple, no JVD
+PULM: CTA bilaterally
+CARD: RRR, + 2/6 systolic murmur at apex
+ABD: Soft, NT/ND, + slightly hyperactive bowel sounds, no
+rebound/guarding
+EXT: palpable DP pulses, bony protrusion (non-tender) over
+dorsum of right foot, trace pedal edema
+PSYCH: Appropriate, cooperative
+
+
+Pertinent Results:
+Labs on Admission:
+[**3312-4-13**] 04:02AM BLOOD WBC-7.5 RBC-3.13*# Hgb-10.4* Hct-29.9*
+MCV-96 MCH-33.4* MCHC-34.9 RDW-19.0* Plt Ct-236
+[**3312-4-12**] 07:59PM BLOOD Hct-34.1*
+[**3312-4-12**] 01:49PM BLOOD Hct-28.8*
+[**3312-4-12**] 12:34PM BLOOD Hct-29.7*
+[**3312-4-12**] 04:44AM BLOOD WBC-6.9 RBC-2.47* Hgb-8.7* Hct-24.7*
+MCV-100* MCH-35.4* MCHC-35.4* RDW-18.3* Plt Ct-242
+[**3312-4-11**] 11:36PM BLOOD Hct-22.1*
+[**3312-4-11**] 04:00PM BLOOD WBC-7.5 RBC-2.67* Hgb-9.6* Hct-28.2*
+MCV-106* MCH-36.2* MCHC-34.2 RDW-14.6 Plt Ct-271
+[**3312-4-13**] 04:02AM BLOOD PT-17.0* PTT-30.0 INR(PT)-1.5*
+[**3312-4-12**] 04:44AM BLOOD PT-26.8* PTT-35.3* INR(PT)-2.6*
+[**3312-4-11**] 04:00PM BLOOD PT-44.0* PTT-42.5* INR(PT)-4.7*
+[**3312-4-13**] 04:02AM BLOOD Glucose-80 UreaN-33* Creat-1.5* Na-141
+K-4.9 Cl-108 HCO3-25 AnGap-13
+.
+Labs on Discharge:
+[**3312-4-17**] 07:10AM BLOOD WBC-11.3* RBC-2.84* Hgb-9.4* Hct-28.9*
+MCV-102* MCH-33.2* MCHC-32.6 RDW-18.0* Plt Ct-301
+[**3312-4-17**] 07:10AM BLOOD Glucose-94 UreaN-40* Creat-1.4* Na-141
+K-4.4 Cl-112* HCO3-21* AnGap-12
+.
+CXR: FINDINGS: No focal consolidation is seen. No pneumothorax
+is seen.  Prominent hila and elevation of the left hilum are
+unchanged compared to prior. Heart size is within normal limits
+and unchanged. Calcification of the mitral annulus is again
+seen. Left atrial enlargement is noted on lateral view. The
+aorta is calcified. There is no evidence for pulmonary edema.
+Blunting of the left costophrenic angle is unchanged and likely
+represents scarring.  IMPRESSION: No radiographic evidence for
+acute pulmonary abnormality.
+
+Brief Hospital Course:
+99 F with history of prior diverticulitis 12 years ago and GI
+bleed two years ago managed conservatively (no scope) who
+presented with BRBPR and falling Hct in the setting of
+suprtherapeutic INR to 4.7.
+.
+1. GI BLEED: Given painless GIB, likely LGIB in setting of
+supratherapeutic INR from interaction of TMP/SMX with coumadin.
+Patient was treated conservatively with reversal of
+supratherapeutic INR with FFP and vitamin K, and transfusion
+with PRBC. Total transfusion requirement was 3 units PRBC and 3
+units FFP.  Patient was evaluated by Gastroenterology during
+admission, with further diagnostic/therapeutic procedures
+including colonoscopy deferred. HCT remained stable following
+transfusion. She continued to have small volume guaiac positive
+stools, but believed to represent old blood in right colon.
+Coumadin held at discharge.
+.
+2. ATRIAL FIBRILLATION: Patient with known PAF on coumadin, with
+supratherapeutic INR on admission that was reversed as above.
+Coumadin was held during hospital course and at discharge.
+Decision will be made as outpatient visit regarding the
+initiation of aspirin therapy.
+.
+3. ACUTE-ON-CHRONIC RENAL FAILURE: Believed to be pre-renal
+etiology in the setting of bleeding and poor appetite.
+.
+4. POLYCYTHEMIA [**Doctor First Name **]: Dr. [**Last Name (STitle) **] made aware, and hydroxyurea held
+during presentation given bleed and anemia. Will be re-started
+as outpatient.
+
+6. HYPERTENSION: Antihypertensives held on initial presentation,
+and discharged home off these medications as she remained
+orthostatic.
+.
+Transitions of Care:
+--Coumadin, hydroxyurea, and anti-hypertensives held at
+discharge.
+
+Medications on Admission:
+- PERI-COLACE 8.6 mg-50 mg Tab by mouth twice a day
+- sulfamethoxazole-trimethoprim 800 mg-160 mg Tab PO BID
+- Acetaminophen Extra Strength 500 mg Tab as needed
+- hydroxyurea 500 mg Cap by mouth once a day except on Sundays
+and Thursdays
+- Lisinopril 40 mg PO twice a day
+- Amiodarone 100 mg PO daily
+- Warfarin 2.5 mg PO daily (held Friday and Saturday)
+- Amlodipine 5 mg by mouth twice a day
+- Multiple Vitamins 1 tab by mouth daily
+- Ranitidine 75 mg PO daily
+- Calcium citrate + vitamin D
+- Vitamin C 1000 mg PO daily
+- Acidophilus PO daily (recently stopped)
+
+
+Discharge Medications:
+1. PERI-COLACE 8.6-50 mg Tablet Sig: One (1) Tablet PO twice a
+day as needed for constipation.
+2. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO every six
+(6) hours as needed for pain.
+3. hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO daily
+except on Sunday and Thursday.
+4. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. ranitidine HCl 150 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+6. calcium citrate-vitamin D3  Oral
+7. Vitamin C 1,000 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 364**] Homecare
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Lower Gastrointestinal Bleeding
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+Dear Ms. [**Known patient lastname 9788**],
+It was a pleasure taking care of you at [**Hospital1 **]. You were admitted to the hospital with rectal
+bleeding. This bleeding was likely due to a condition of the
+bowel called diverticulosis. You were given several blood
+transfusions in order to maintain your blood counts. These blood
+counts remained stable prior to your discharge from the
+hospital.
+.
+Please STOP the following medications:
+COUMADIN
+LISINOPRIL
+AMLODIPINE
+.
+Please discuss re-starting your blood pressure medications with
+Dr. [**Last Name (STitle) 2253**] when you see her in follow-up. You should also
+discuss the use of Aspirin (in place of coumadin) at your
+follow-up appointment.
+.
+If you experience any further epsisodes of bleeding, abdominal
+pain, dizziness or weakness, please call your primary care
+doctor or return to the emergency room.
+.
+
+Followup Instructions:
+We would like you to call Dr.[**Name (NI) 9786**] office in order to
+schedule an appointment for the next 2-3 days. We were unable to
+set this up over the weekend.
+.
+Department: GERONTOLOGY
+When: THURSDAY [**3312-5-5**] at 11:30 AM
+With: [**First Name8 (NamePattern2) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 2222**]
+Building: LM [**Hospital Unit Name **] [**Location (un) 620**]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+.
+Department: HEMATOLOGY/ONCOLOGY
+When: TUESDAY [**3312-6-7**] at 2:30 PM
+With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 9789**], RN [**Telephone/Fax (1) 844**]
+Building: [**Hospital6 127**] [**Location (un) 45**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+
+
+
+ 
+ 
+DOC CLASS

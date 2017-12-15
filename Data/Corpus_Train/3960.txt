@@ -1,0 +1,240 @@
+Admission Date:  [**2709-2-6**]              Discharge Date:   [**2709-2-17**]
+
+Date of Birth:  [**2647-3-20**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Bacitracin
+
+Attending:[**First Name3 (LF) 1252**]
+Chief Complaint:
+Dyspnea on exertion, angina
+
+Major Surgical or Invasive Procedure:
+[**2709-2-8**] Cardiac catheterization
+[**2709-2-11**] Four Vessel CABG(LIMA to LAD with vein grafts to OM,
+DIAG, and PDA). RF MAZE Procedure. Ligation of Left Atrial
+Appendage.
+
+History of Present Illness:
+This is a 61 year old gentleman with a history of
+hyperlipidemia,  smoking (quit 2 months ago), and a family
+history of CAD.  He reports that he has had jaw pain associated
+with dyspnea for the past few weeks.  He was seen by PCP and
+sent for a stress MIBI on [**2709-2-5**], the resting portion was
+completed and he was noted to be in atrial fibrillation, the
+stress test was terminated and he was seen by his PCP who
+started him on Warfarin and Atenolol and sent cardiac enzymes.
+Troponin T returned elevated at 0.16 and he was sent to the ED.
+
+On further questioning, the patient has had this jaw pain for
+about a year.  It occurred only with exertion and never with
+rest.  Only in the last few weeks was it associated with dyspnea
+and this was what prompted him to seek medical attention. In the
+ED , VS were T 97.9 P 97 BP 116/63 RR 16 O2 96 RA his isolated
+troponin was 0.16 (CK 124 MB 4), no significant ekg changes, TSH
+was wnl, he was started on Heparin, Aspirin, beta blockade
+administered.  He was subsequently admitted for further
+evaluation and treatment.
+
+Past Medical History:
+Hypercholesterolemia, Atrial Fibrillation, s/p Disc/Back Surgery
+
+Social History:
+Quit smoking tobacco 3 months ago, 40 pack-year history. Denies
+ETOH. He is married and is a semi-retired carpenter.
+
+Family History:
+Father died of MI at age 46. No known heart disease in mother.
+[**Name (NI) **] known history of sudden death or arrhythmias.
+
+Physical Exam:
+T 98.3; P 70; BP 110/74; RR 18; O2 96 on RA
+Gen: NAD, pleasant, obese
+Eyes: PERRL, EOMI, anicteric
+Mouth: OP Clear, MMM
+Neck: Supple, no LAD, JVP to 7 cm
+CV: Irreg, irreg no murmur
+Chest: CTA b/l anteriorly
+Abd: Normoactive BS, soft, NT/ND, no organomegaly
+Ext: No edema, 2+ DP Pulses
+Neurol: alert, follows commands.
+
+Pertinent Results:
+[**2709-2-6**] ECHO: The left atrium is mildly dilated. There is mild
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. LV systolic function appears mildly to
+moderately depressed (ejection fraction ?40-45%?). There is
+inferior hypokinesis. Views are technically suboptimal for
+assessment of regional wall motion. Right ventricular chamber
+size is normal. Right ventricular systolic function is
+borderline normal. The aortic valve leaflets are mildly
+thickened. There is no aortic valve stenosis. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. There is a
+trivial/physiologic pericardial effusion.
+[**2709-2-8**] Cath: Coronary angiography in this right dominant system
+
+demonstrated an LMCA with 40% ostial and 30% distal stenoses.
+The LAD
+was moderately calcified with a 70% ostial lesion and a 60%
+mid-vessel
+stenosis. The LCX was mildly calcified with a 30% stenosis at
+its origin; the proximal-mid portion of the LCX had a complex,
+ulcerated 80-90% stenosis just before the origins of the OM1 and
+the major OM2. The RCA was proximally occluded just after the
+conus branch; there was minimal filling of the acute marginals
+via vasa collaterals. LVEDP was mildly elevated at 16 mmHg
+consistent with mild diastolic dysfunction. Left
+ventriculography showed mild global hypokinesis with calculated
+ejection fraction of 50%.
+[**2-16**] CXR: The patient is status post median sternotomy with
+sternal wires and clips. There has been interval removal of a
+right internal jugular central venous catheter. The cardiac
+silhouette remains stably enlarged. The mediastinal and hilar
+contours are within normal limits. The pulmonary vasculature is
+normal and there is no pneumothorax. A small right pleural
+effusion appears slightly larger than on prior exam. There has
+been interval decrease in size of a small left pleural effusion.
+Linear atelectasis at the left lung base has decreased. There
+are no new consolidations.
+[**2709-2-6**] 01:40AM BLOOD WBC-11.5* RBC-4.75 Hgb-14.8 Hct-41.8
+MCV-88 MCH-31.1 MCHC-35.4* RDW-12.6 Plt Ct-241
+[**2709-2-11**] 12:37PM BLOOD WBC-24.3*# RBC-2.90*# Hgb-9.0*#
+Hct-25.1*# MCV-87 MCH-31.2 MCHC-35.9* RDW-12.8 Plt Ct-146*
+[**2709-2-17**] 07:25AM BLOOD WBC-14.4* RBC-2.91* Hgb-9.1* Hct-25.5*
+MCV-88 MCH-31.4 MCHC-35.8* RDW-15.2 Plt Ct-338
+[**2709-2-5**] 02:53PM BLOOD PT-12.6 INR(PT)-1.1
+[**2709-2-11**] 12:37PM BLOOD PT-18.2* PTT-46.8* INR(PT)-1.7*
+[**2709-2-17**] 07:25AM BLOOD PT-20.7* PTT-35.7* INR(PT)-2.0*
+[**2709-2-6**] 01:40AM BLOOD Glucose-136* UreaN-23* Creat-1.2 Na-142
+K-3.9 Cl-103 HCO3-28 AnGap-15
+[**2709-2-17**] 07:25AM BLOOD Glucose-127* UreaN-21* Creat-1.3* Na-135
+K-4.4 Cl-100 HCO3-27 AnGap-12
+[**2709-2-16**] 01:02AM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-4* pH-7.0 Leuks-NEG
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted under cardiology service with an NSTEMI
+and new onset atrial fibrillation. He remained pain free on
+intravenous Heparin and was loaded with Plavix prior to cardiac
+catheterization. Cardiac enzymes continued to trend downward.
+Echocardiogram showed mild mitral regurgitation and a mildly to
+moderately depressed ejection fraction, around 40-45%. Cardiac
+catheterization revealed severe three vessel disease(please see
+result section for specific details). Based upon multivessel
+disease, cardiac surgery was consulted and further evaluation
+was performed. In anticipation for surgery, Plavix was
+discontinued. He continued to remain pain free on medical
+therapy and was eventually cleared for surgery. On [**2-11**],
+Dr. [**Last Name (STitle) **] performed coronary artery bypass grafting surgery
+along with MAZE procedure and ligation of left atrial appendage.
+For surgical details, please see separate dictated operative
+note. Following the operation, he was brought to the CSRU for
+invasive monitoring. Given atrial fibrillation and MAZE
+procedure, Amiodarone therapy was initiated. Within 24 hours, he
+awoke neurologically intact and was extubated without incident.
+He weaned from pressor support and maintained stable
+hemodynamics. While in the CSRU, he remained mostly in a normal
+sinus rhythm and transferred to the SDU on postoperative day
+one. Despite medical therapy, he continued to experience
+paroxysmal atrial fibrillation. Beta blockade was advanced as
+tolerated and Warfarin was dosed for a goal INR around 2.0. Over
+several days, he continued to make clinical improvements with
+diuresis and made steady progress with physical therapy. He was
+noted to have a postop leukocytosis, white count as high as 32K.
+Also noted was sternal drainage and he was started and
+discharged on antibiotics. By discharge, his white count
+dramatically improved. He was eventually cleared for discharge
+to home on postoperative day six. Dr. [**Last Name (STitle) **] was contact[**Name (NI) **] to
+manage his Warfarin as an outpatient.
+
+Medications on Admission:
+1) Lipitor
+2) Coumadin (recently started)
+3) Atenolol (recently started)
+
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 6-8 hours as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*100 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*90 Tablet(s)* Refills:*2*
+6. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO once a day
+for 7 days: Then decrease to one tablet(200mg) daily
+indefinitely.
+Disp:*60 Tablet(s)* Refills:*1*
+11. Furosemide 20 mg Tablet Sig: One (1) Tablet PO Q12H (every
+12 hours) for 7 days: Stop after 7 days, and please take with
+KCL.
+Disp:*14 Tablet(s)* Refills:*0*
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal
+Sig: One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 7
+days: Stop after 7 days, and please take with Lasix.
+Disp:*14 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO qpm: Take as
+directed by MD. Daily dose may vary according to PT/INR.
+Disp:*60 Tablet(s)* Refills:*2*
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+CAregroup VNA
+
+Discharge Diagnosis:
+Coronary artery disease - s/p Coronary Artery Bypass Graft x 4
+and MAZE procedure
+Myocardial Infarction(NSTEMI)
+Atrial Fibrillation
+Sternal Drainage
+PMH: Hypercholesterolemia, s/p Disc/Back Surgery
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+Patient may shower, no baths. No creams, lotions or ointments to
+incisions. No driving for at least one month. No lifting more
+than 10 lbs for at least 10 weeks from the date of surgery.
+Monitor wounds for signs of infection. Please call with any
+concerns or questions. Take Warfarin as directed by Dr. [**Last Name (STitle) **].
+Please have PT/INR checked within 48-72 hours of discharge by
+VNA. Dr. [**Last Name (STitle) **] will titrate Warfarin accordingly as an
+outpatient.
+
+Followup Instructions:
+Follow-up at [**Hospital Ward Name 120**] 2 for wound check and staple removal in 1
+week.
+Cardiac surgeon, Dr. [**Last Name (STitle) **] in [**4-22**] weeks - call for appt.
+Local PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] in [**2-20**] weeks - call for appt.
+Local cardiologist, Dr. [**Last Name (STitle) 73**] in [**2-20**] weeks - call for appt.
+
+
+Completed by:[**2709-2-17**]
+
+
+DOC CLASS

@@ -1,0 +1,146 @@
+Admission Date:  [**2878-11-30**]       Discharge Date:  [**2878-12-6**]
+
+Date of Birth:   [**2818-11-28**]       Sex:  M
+
+Service:  CARDIOTHORACIC
+
+HISTORY OF PRESENT ILLNESS:  We were asked to see the patient
+by Dr. [**Last Name (STitle) 32345**] following cardiac catheterization.  The patient
+is a 60-year-old white male with a history of hypertension
+and tobacco use who has had intermittent chest pain over the
+past two weeks.  He presented to an outside hospital with an
+episode of chest pain and was found to have a troponin I of
+11.8.  He was then transferred to [**Hospital6 2138**] for cardiac catheterization.
+
+Catheterization showed an ejection fraction of 40%, no mitral
+regurgitation, left anterior descending with a proximal 60%
+lesion and 70% midlesion after the diagonal, circumflex with
+a 70% proximal lesion and 80% major OM, 90% ramus, right
+coronary artery with 100% distal occlusion.
+
+PAST MEDICAL HISTORY:  Hypertension, appendectomy as a child.
+
+SOCIAL HISTORY:  He lives with his wife.  [**Name (NI) **] runs a tack
+shop.  Positive tobacco, 1?????? packs per day times 40 years.
+Positive ETOH, two drinks per night.
+
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+
+MEDICATIONS ON ADMISSION:  Atenolol 50 mg q.d.
+
+PHYSICAL EXAMINATION:  Vital signs:  Heart rate 53, blood
+pressure 143/65, respirations 18, oxygen saturation 97% on 2
+L nasal cannula.  General:  The patient was a pleasant man in
+no acute distress.  HEENT:  Pupils equal, round and reactive
+to light.  Extraocular movements intact.  Oropharynx clear.
+Neck:  Supple.  No jugular venous distention or bruits.
+Lungs:  Clear to auscultation bilaterally.  Heart:  Regular,
+rate and rhythm.  S1 and S2.  No murmurs, rubs, or gallops.
+Abdomen:  Soft, nontender, nondistended.  Positive bowel
+sounds.  Extremities:  Warm and well perfused with no
+clubbing, cyanosis, or edema.  Neurological:  The patient was
+alert and oriented times three.  Nonfocal exam.  Grossly
+intact.  Pulses:  Carotids 2+ bilaterally with no bruits,
+radial 2+ bilaterally, dorsalis pedis 2+ bilaterally,
+posterior tibial 2+ bilaterally.
+
+LABORATORY DATA:  White count 8, hematocrit 40.5, platelet
+count 87,000; potassium 4.8, BUN 7, creatinine 0.8; PT 13.5,
+PTT 36.2, INR 1.2.
+
+HOSPITAL COURSE:  The benefits and risks of surgery were
+explained to the patient, and he was scheduled to undergo
+coronary artery bypass grafting following an official
+Hematology consult to investigate the patient's
+thrombocytopenia.
+
+The patient was seen by Hematology in consultation prior to
+undergoing surgery.  They had no recommendations to change
+any current treatment.
+
+On [**12-2**], the patient was brought to the Operating Room
+at which time he underwent coronary artery bypass grafting.
+Please see the operative report for full details.  In summary
+the patient had a coronary artery bypass grafting times three
+with LIMA to the diagonal, saphenous vein graft to the
+posterior descending artery and to the obtuse marginal
+sequentially.  His bypass time was 77 min with a cross-clamp
+time of 60 min.  He tolerated the operation well and was
+transferred from the Operating Room to the Cardiothoracic
+Intensive Care Unit.
+
+At the time of transfer, the patient's mean arterial pressure
+was 87.  He was A-paced at 80 beats per minute, and he had
+Propofol at 35 mcg/kg/min.  He did well in the immediate
+postoperative period.  His anesthesia was reversed.  He was
+weaned from the ventilator and successfully extubated.
+
+On postoperative day #1, the patient remained hemodynamically
+stable.  He was weaned from all intravenous medications.  His
+Swan-Ganz catheter was removed, and he was transferred to the
+floor for continuing postoperative care and cardiac
+rehabilitation.
+
+On postoperative day #2, the patient's chest tubes were
+removed with the assistance of the nursing staff and Physical
+Therapy.  The patient's activity level was gradually
+increased.  He had an uneventful postoperative course once on
+the floor.
+
+On postoperative day #4, it was decided that the patient was
+stable and ready to be discharged to home.
+
+DISCHARGE PHYSICAL EXAMINATION:  Vital signs:  Temperature
+98.6??????, heart rate 73 in sinus rhythm, blood pressure 130/70,
+respirations 20, oxygen saturation 96% on room air, weight
+preoperatively 107 kg, discharge 104.9 kg.  General:  The
+patient was alert and oriented times three.  He moves all
+extremities.  He follows commands.  Respirations:  Clear to
+auscultation bilaterally.  Heart:  Regular, rate and rhythm.
+S1 and S2 with no murmur.  Sternum:  Stable.  Incision with
+Steri-Strips, open to air, clean and dry.  Abdomen:  Soft,
+nontender, nondistended.  Positive bowel sounds.
+Extremities:  Warm and well perfused with no edema.  Right
+saphenous vein graft incision with Steri-Strips, open to air,
+clean and dry.
+
+DISCHARGE LABORATORY DATA:  White count 8.6, hematocrit 29.1,
+platelet count 110; sodium 135, potassium 3.7, chloride 100,
+CO2 28, BUN 11, creatinine 0.9, glucose 137.
+
+DISCHARGE MEDICATIONS:  Colace 100 mg b.i.d., Aspirin 325 mg
+q.d., Metoprolol 25 mg b.i.d., Lasix 20 mg q.d. x 7 days,
+Potassium Chloride 20 mEq q.d. x 7 days, Percocet 5/325 [**1-20**]
+tab q.4 hours p.r.n.
+
+DISCHARGE DIAGNOSIS:
+1.  Coronary artery disease status post coronary artery
+bypass grafting times three with LIMA to the diagonal,
+saphenous vein graft to the posterior descending artery and
+obtuse marginal.
+2.  Status post appendectomy.
+3.  Hypertension.
+4.  Thrombocytopenia.
+
+DISCHARGE STATUS:  The patient is to be discharged to home.
+
+FOLLOW-UP:  He is to have follow-up in the Wound Clinic in
+two weeks.  He is to follow-up with Dr. [**Last Name (STitle) **] in six
+weeks.  Follow-up with his primary care physician [**Last Name (NamePattern4) **].
+[**Last Name (STitle) 32346**] in [**3-22**] weeks.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 187**]
+
+Dictated By:[**Last Name (NamePattern4) 9472**]
+MEDQUIST36
+
+D:  [**2878-12-6**]  09:05
+T:  [**2878-12-6**]  09:08
+JOB#:  [**Job Number 32347**]
+
+
+
+DOC CLASS

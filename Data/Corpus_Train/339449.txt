@@ -1,0 +1,214 @@
+CVICU
+   HPI:
+   85M POD 9 from AVR(#21 StJude porcine) CABGx3 (LIMA-LAD,SVG-PDA,SVG-OM)
+   complicated by multiple CVAs and seizures
+   Chief complaint:
+   PMHx:
+   AS/CAD, ^chol, NIDDM, Obesity, BPH, Spinal stenosis, Herpes zoster
+   PSH: Appy, Lumbar laminectomy, Umbil herinorrhaphy, R carpal tunnel
+   repair, hemorrhoidectomy
+   Current medications:
+   24 Hour Events:
+ EEG - At [**3346-10-12**] 08:30 AM
+   Post operative day:
+   24 hr events:
+   - Keppra dose decreased to 1500 mg/d
+   - EEG done
+   - ? opening eyes to voice
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 2 mcg/Kg/min
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3346-10-12**] 12:00 PM
+   Fosphenytoin - [**3346-10-13**] 12:09 AM
+   Ranitidine (Prophylaxis) - [**3346-10-13**] 07:11 AM
+   Other medications:
+   Flowsheet Data as of  [**3346-10-13**] 10:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**49**] a.m.
+   Tmax: 37.7
+C (99.9
+   T current: 37.7
+C (99.8
+   HR: 81 (72 - 105) bpm
+   BP: 87/76(82) {87/50(71) - 172/98(140)} mmHg
+   RR: 30 (22 - 34) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 103.8 kg (admission): 98.3 kg
+   Height: 71 Inch
+   CVP: 10 (3 - 12) mmHg
+   Total In:
+                                                                  2,722 mL
+                                                                  1,575 mL
+   PO:
+   Tube feeding:
+                                                                  1,211 mL
+                                                                    488 mL
+   IV Fluid:
+                                                                  1,362 mL
+                                                                  1,027 mL
+   Blood products:
+   Total out:
+                                                                  3,320 mL
+                                                                  1,690 mL
+   Urine:
+                                                                  3,320 mL
+                                                                  1,690 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -598 mL
+                                                                   -115 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 368 (351 - 581) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 32
+   PEEP: 5 cmH2O
+   FiO2: 35%
+   RSBI: 118
+   PIP: 16 cmH2O
+   SPO2: 96%
+   ABG: 7.46/33/94.[**Numeric Identifier 287**]/24/0
+   Ve: 11.2 L/min
+   PaO2 / FiO2: 269
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular), (Murmur: No(t) Systolic, No(t)
+   Diastolic)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : Bilateral)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: No(t) Follows simple commands, (Responds to: Noxious
+   stimuli), Moves all extremities, Pt appears to be more responding,
+   although did not follow commands. Appear to try opening eyes when
+   calling his name.
+   Labs / Radiology
+   610 K/uL
+   12.4 g/dL
+   171 mg/dL
+   0.5 mg/dL
+   24 mEq/L
+   4.4 mEq/L
+   19 mg/dL
+   104 mEq/L
+   138 mEq/L
+   36.3 %
+   13.9 K/uL
+        [image002.jpg]
+                             [**3346-10-10**]  05:51 PM
+                             [**3346-10-10**]  11:24 PM
+                             [**3346-10-11**]  04:25 AM
+                             [**3346-10-11**]  09:04 AM
+                             [**3346-10-11**]  06:20 PM
+                             [**3346-10-12**]  03:11 AM
+                             [**3346-10-12**]  05:44 AM
+                             [**3346-10-12**]  08:22 AM
+                             [**3346-10-13**]  03:10 AM
+                             [**3346-10-13**]  05:29 AM
+   WBC
+   11.6
+   12.1
+   13.9
+   Hct
+   33.3
+   35.4
+   32.9
+   36.3
+   Plt
+   399
+   483
+   610
+   Creatinine
+   0.8
+   0.7
+   0.5
+   TCO2
+   25
+   24
+   23
+   20
+   24
+   Glucose
+   179
+   184
+   135
+   161
+   138
+   180
+   171
+   Other labs: PT / PTT / INR:14.1/25.0/1.2, ALT / AST:19/23, Alk-Phos / T
+   bili:59/0.5, Amylase / Lipase:25/15, Differential-Neuts:78.8 %,
+   Lymph:13.3 %, Mono:6.1 %, Eos:1.6 %, Fibrinogen:118 mg/dL, Lactic
+   Acid:1.0 mmol/L, Albumin:2.7 g/dL, LDH:277 IU/L, Ca:8.1 mg/dL, Mg:1.9
+   mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   ALTERATION IN NUTRITION, ALTERED MENTAL STATUS (NOT DELIRIUM),
+   HYPOTENSION (NOT SHOCK), HYPERGLYCEMIA, SEIZURE, WITHOUT STATUS
+   EPILEPTICUS, CVA (STROKE, CEREBRAL INFARCTION), OTHER , CORONARY ARTERY
+   BYPASS GRAFT (CABG)
+   Assessment and Plan: 85M POD 9 from AVR(#21 StJude porcine) CABGx3
+   (LIMA-LAD,SVG-PDA,SVG-OM) complicated by multiple CVAs and seizures.
+   Neurologic: Neuro checks Q: 2  hr, Phenytoin - therapeutic, Keppra -- ?
+   d/c as per nurology can lead to sedation and may not contributing to
+   contolling seizure activity. On Fosphenytoin -- check dilantin level
+   today. If pt does not wake up despite off sedation and keppra, would
+   recommend brain function scan to r/o midbrain lesion.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Stable hemodynamically.
+   On neo gtt for SBP > 120 to keep CPP higher.
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), Patient will need a
+   trach.
+   Gastrointestinal / Abdomen: No bowel movement. On bowel regimen. Pt
+   will need a PEG
+   Nutrition: Tube feeding, @ goal
+   Renal: Foley, Adequate UO, No issues
+   Hematology: Serial Hct, Hct stable. Thrombocytosis (? infection). Will
+   monitor
+   Endocrine: RISS, Lantus (R), Hyperglycemic. Incrase Lantus to 50 u
+   today.
+   Infectious Disease: Afebrile, but WBC is elevated, thrombocytosis, ?
+   "brewing" infection. Minimal secretions, no evidence of pneumonia on
+   CXR yesterday. Will monitor.
+   Lines / Tubes / Drains: Foley, Dobhoff, ETT
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: CVA, Seizure, (Respiratory distress: Failure),
+   Post-op complication
+   ICU Care
+   Nutrition:
+   Nutren Pulmonary (Full) - [**3346-10-12**] 08:32 PM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3346-10-6**] 06:19 PM
+   Arterial Line - [**3346-10-11**] 12:46 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker. (Will d/c H2 blocker as may contribute to low
+   MS. [**First Name (Titles) **] [**Last Name (Titles) 2370**] TF and would not start on PPI as higher risk for
+   complications (c-diff, pneumonia). Risk/benefit at this stage favors
+   stopping H2 blocker )
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

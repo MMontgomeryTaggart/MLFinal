@@ -1,0 +1,474 @@
+Admission Date:  [**2526-6-1**]              Discharge Date:   [**2526-6-4**]
+
+Date of Birth:  [**2451-10-21**]             Sex:   F
+
+Service: [**Year (4 digits) 6584**]
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 387**]
+Chief Complaint:
+hypotension
+
+Major Surgical or Invasive Procedure:
+None this hospitalization
+
+
+History of Present Illness:
+74 year-old woman with afib on coumadin, chronic diastolic CHF,
+COPD, and GERD who presented to [**Hospital1 22**] [**Location (un) **] with N/V and was
+found to be hypotensive in systolic 80s-90s.
+.
+Of note, patient was recently hospitalized [**Date range (3) 28914**] to
+the cardiology service for afib with rvr associated with ST
+depressions, troponin leak, and elevated BNP. She underwent TEE
+with cardioversion which was complicated by hypoxia that
+resolved with IV lasix drip diuresis. During this admission, she
+also had N/V that was felt to be due to digoxin toxicity and
+digoxin was discontinued.
+.
+Since being discharged from the hospital, she states that she
+has been doing poorly. She has had ongoing N/V, having
+difficulty keeping even water down. Reports pain in
+mid-epigastrium. Also reports approximately 3 loose bowel
+movements daily, had initially been bloody but not recently. She
+carries a diagnosis of colitis, presumably crohn's but has not
+followed up with repeat colonoscopy to confirm diagnosis. Feels
+that she has lost 20 lbs over several months. She had not been
+taking her asacol until recent hospital admission. She was seen
+by her gastroenterologist today who noted BP to be 80/60 and
+referred her to ED for hypotension and inability to tolerate
+po's.
+At [**Hospital1 22**] [**Location (un) **] ED, she was afebrile, HR 60s-90s, SBP 80s-90s,
+satting high 90s-100% on 2L. She received 4mg iv zofran, 2mg iv
+morphine, 5mg po oxycodone. EKG showed afib wtih ST depressions
+diffusely. Trop was elevated to 0.116 (up from 0.07 on last
+admission with Cr 1.2-1.5 at that time), Cr 1.38 (up from 0.9 on
+discharge [**5-25**]), and Hct 45.6 (up from 35 on discharge [**5-25**]).
+Dig level was low. U/A was bland. INR was 3.6. She was guaiac
+positive on rectal exam. IV access was difficult; options for
+central access were discussed but family declined. She was given
+3L NS with little response in blood pressures. CT abdomen
+reportedly showed no colitis or ischemic gut; there was some CBD
+dilatation 16mm with some intrahepatic ductal dilatation. LFTs
+were wnl.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+- Atrial fibrillation CHADS 2 equals 2, CHF, hypertension.
+- Diastolic congestive heart failure.
+- Mild valvular disease 1+ MR, MR 1+ TR.
+- Hypertension.
+- GERD.
+- Colitis
+- COPD.
+- History of depression.
+- New diagnosis of blistering skin disease
+
+Social History:
+She is married and lives with husband. She is retired. She used
+to work as a telephone operator and also in schools serving
+school lunches. She has smoked in the past and quit to [**2516**]. She
+does not drink alcohol or use recreational drugs.
+
+
+Family History:
+Mother died at 72 of MI. Father died at 75 of MI. She has 2 to
+half brothers, 1 who died at age 54 of gastric cancer, the other
+died at age 30 of an accident. She had 1 sister who died at age
+56 of unknown cause.
+
+
+Physical Exam:
+ON ADMISSION:
+General: Alert, oriented x 3, appears pale and fatigued, no
+acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL
+Neck: supple, JVP not elevated, no LAD
+CV: irregularly irregular, normal S1 + S2, no murmurs, rubs,
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+Abdomen: soft, non-tender, non-distended, large mass in right
+side of abdomen that pt reports is "fatty tumor"
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Neuro: CNII-XII intact
+.
+DISCHARGE EXAM:
+VITALS: 98.6  98.5  46-107  108-112/62-73  18  93-95% RA
+I/Os: 900 | BRP x 2 (BM x 2)
+WEIGHT: 57.5 kg
+GENERAL: Appears in no acute distress. Alert and interactive.
+HEENT: Normocephalic, atraumatic. EOMI. PERRL. Nares clear.
+Mucous membranes moist.
+NECK: supple without lymphadenopathy. JVD 2-3 cm above clavicle
+at 30-degrees.
+CVS: Irregularly irregular rate and rhythm, without murmurs,
+rubs or gallops. S1 and S2 normal.
+RESP: Decreased breath sounds at bases with faint bibasilar dry
+crackles; no rhonchi or wheezing. Stable inspiratory effort.
+ABD: soft, non-tender, non-distended, with normoactive bowel
+sounds. No peritoneal signs.
+EXTR: no cyanosis, clubbing or edema, 2+ peripheral pulses
+NEURO: CN II-XII intact throughout. Alert and oriented x 3.
+Sensation grossly intact. Gait deferred.
+
+
+Pertinent Results:
+ON ADMISSION:
+.
+[**2526-6-1**] 02:35AM BLOOD WBC-9.2 RBC-4.33 Hgb-13.2 Hct-39.3 MCV-91
+MCH-30.5 MCHC-33.5 RDW-15.6* Plt Ct-302
+[**2526-6-1**] 02:35AM BLOOD PT-39.0* PTT-32.5 INR(PT)-3.8*
+[**2526-6-2**] 02:53AM BLOOD ESR-28*
+[**2526-6-1**] 02:35AM BLOOD Glucose-82 UreaN-23* Creat-1.2* Na-133
+K-3.8 Cl-100 HCO3-24 AnGap-13
+[**2526-6-1**] 02:35AM BLOOD CK(CPK)-100
+[**2526-6-1**] 06:22AM BLOOD ALT-19 AST-35 DirBili-0.2
+[**2526-6-1**] 02:35AM BLOOD CK-MB-2 cTropnT-0.10*
+[**2526-6-1**] 02:35AM BLOOD Calcium-8.2* Phos-2.8 Mg-1.9
+[**2526-6-1**] 06:22AM BLOOD TSH-5.5*
+[**2526-6-1**] 06:22AM BLOOD T4-6.6
+[**2526-6-1**] 06:22AM BLOOD Cortsol-13.6
+[**2526-6-1**] 06:22AM BLOOD CRP-19.1*
+[**2526-6-1**] 02:47AM BLOOD Lactate-1.0
+.
+DISCHARGE LABS:
+.
+[**2526-6-4**] 06:35AM BLOOD WBC-7.5 RBC-4.34 Hgb-12.8 Hct-40.6 MCV-94
+MCH-29.5 MCHC-31.5 RDW-16.5* Plt Ct-292
+[**2526-6-4**] 06:35AM BLOOD PT-29.3* PTT-36.5 INR(PT)-2.8*
+[**2526-6-4**] 06:35AM BLOOD Glucose-86 UreaN-12 Creat-0.7 Na-137
+K-4.1 Cl-105 HCO3-22 AnGap-14
+.
+MICROBIOLOGY DATA:
+[**2526-6-1**] MRSA screen -negative
+[**2526-6-1**] Blood culture - pending
+[**2526-6-1**] Urine culture - no growth
+[**2526-6-2**] CMV viral load - pending
+[**2526-6-3**] Stool cultures - pending
+[**2526-6-3**] C.diff toxin - negative
+
+IMAGING:
+[**2526-6-1**] CXR (PORTABLE) - Cardiomegaly and mediastinal silhouette
+are unchanged. There is minimal pulmonary vascular
+re-distribution improved compared to prior. The right lower lobe
+opacity has partially cleared. Right middle lobe opacity is also
+partially cleared. The old rib fractures and compression
+deformities are
+again visualized.
+
+Brief Hospital Course:
+IMPRESSION: 74F with PMH significant for A.fib (on Coumadin),
+chronic diastolic CHF, COPD, GERD who presented to [**Hospital1 22**] [**Location (un) **]
+with nausea, emesis and was found to be hypotensive which
+responded to IV hydration; occurring in the setting of her
+chronic diarrhea issues with preliminary diagnosis of
+inflammatory colitis.
+.
+# CHRONIC DIARRHEA COMPLAINTS - The patient has had on-going
+complaints of watery, loose and intermittently bloody stools. A
+sigmoidoscopy in [**7-/2525**] demonstrated sigmoid colitis with
+biopsies noting mild inactive colitis and rare cryptic
+abscesses; a sessile serrated adenoma and small internal
+hemorrhoids. The patien't diarrhea complaints continued this
+admission and she had notably poor PO intake resulting in
+dehydration. Gastroenterology consulted and felt colonoscopy and
+EGD was warranted, but felt that cardiac optimization would be
+necessary before performing this procedure. Stool cultures and
+C.diff toxin were reassuring. CMV viral load was pending at
+discharge. A CT of the abdomen and pelvis did not demonstrate
+evidence of active colitis and Mesalamine was continued in the
+meantime. The differential still includes an inflammatory bowel
+disorder vs. colonic ischemia. Conservative management was
+recommended until an endoscopy can be performed in the future;
+in [**5-3**] weeks, once her cardiac issues have stabilized.
+.
+# HYPOTENSION - Presented to [**Hospital1 22**] [**Location (un) **] with hypotension
+80-90 mmHg which responded to IV fluids. She subsequently
+developed atrial fibrillation with rapid ventricular response in
+this setting with resulting EKG findings suggestive of demand
+ischemia and a troponin elevation to 0.10 with a flat CK-MB.
+This was all improved with hydration, thought to be volume
+losses in the setting of her diarrhea and nausea complaints. Her
+Lasix was initially held in this setting and resumed at half
+dosing on discharge.
+.
+# ELEVATED TROPONIN - Troponin elevated to 0.116 and 0.10 at
+[**Hospital1 22**]; had previously been 0.07 in the setting of similar
+creatinine. EKG showing ST depressions in V5-6. This was
+attributed to demand ischemia from hypotension issues (as noted
+above). Serial EKGs remained stable and no acute plaque rupture
+was suspected. Her cardiac medications were optimized. We
+continued her beta-blocker.
+.
+# ATRIAL FIBRILLATION - Status-post recent TEE with
+cardioversion that was unsuccessful ([**2526-5-22**]). Currently in
+A.fib on admission. INR supertherapeutic at 4.2 on admission. We
+continued rate control with Metoprolol succinate 100 mg XL daily
+once her blood pressure and volume status stabilized. We
+deferred rhythm control given her recently failed cardioversion.
+She presented with a supratherapeutic INR (3.8) and her Coumadin
+was held. At discharge, this will be resumed.
+.
+# CHRONIC DIASTOLIC HEART FAILURE - Known LVEF 55%. Mild
+valvular disease 1+ MR, MR 1+ TR noted on recent 2D-Echo.
+Outpatient regimen includes: beta-blocker, digoxin and Lasix. We
+continued her Metoprolol and resumed her Digoxin. We resumed her
+Lasix at half dose on discharge, given her improved volume
+status.
+.
+# (?) CONCERN FOR PLASMA CELL DYSCRASIA - Prior sternal fracture
+and L1 vertebroplaty in [**2523**]; concern on imaging at that time of
+possible pathologic fracture component. She also has an SPEP
+noting monoclonal free kappa (BJ-protein) is small amounts with
+low immunoglobulin profile (4/[**2526**]). Normal TP, 30+ protein in
+her admission U/A. Will need outpatient work-up for possible
+plasma cell dyscrasia given recent weight loss concerns.
+.
+# DEPRESSION - We continued Citalopram.
+.
+# COPD - We continued Spiriva and Tiotroprium.
+.
+# GERD - Likely contributing to nausea or vomiting pre GI. We
+continued her Ranitidine and added Omeprazole to her
+medications. She will need outpatient endoscopy (as above).
+.
+TRANSITION OF CARE ISSUES:
+1. Monitoring of heart rate - known atrial fibrillation with
+rapid ventricular response; improved HR with hydration. Fluid
+status needs to be closely monitored. Increased potential for
+dehydration. Encourage PO intake at this point given euvolemic
+status. Resumed Lasix 80 mg PO daily (half of prior dose).
+2. Will be maintained on telemetry for now at rehab. Optimized
+heart rate on beta-blocker and digoxin.
+3. Known chronic nausea and chronic diarrhea complaints.
+Gastroenterology feels this warrants upper and lower endoscopy
+in the future; roughly 4-6 weeks following cardiac improvement.
+Has follow-up scheduled with GI at [**Location (un) **] (Dr. [**Last Name (STitle) 8119**].
+4. Has Cardiology follow-up scheduled on discharge.
+5. Anticoagulation monitoring - held Coumadin dosing on
+discharge given INR returned to [**Location 223**] level from being
+supratherapeutic. Resume Coumadin dosing and monitor INR daily
+for now.
+7. Needs physical therapy. Likely able to ambulate to bathroom
+with walker and sit in chair; monitor HR during these periods.
+8. Known parotid tumor with need for repeat MR imaging in [**3-31**]
+months.
+9. ** UPEP and SPEP notably positive from last admission
+(4/[**2526**]). Prior sternal fracture and L1 vertebroplaty in [**2523**];
+concern on imaging at that time of possible pathologic fracture
+component. She also has an SPEP noting monoclonal free kappa
+(BJ-protein) is small amounts with low immunoglobulin profile
+(4/[**2526**]). Normal TP, 30+ protein in her admission U/A. Will need
+outpatient work-up for possible plasma cell dyscrasia given
+recent weight loss concerns. Would recommend: repeat UPEP,
+beta-microglobulin, free light chain analysis, LDH, CRP; also
+consider possible periheral smear, marrow biopsy in the future;
+monitor renal function closely and consider bone survery.
+Scheduled with Heme-Onc for follow-up. **
+.
+** NOTE: The news about the positive UPEP and SPEP findings were
+discussed in detail with the patient's daughter, [**Name (NI) 1057**] [**Name (NI) 14137**]
+([**Telephone/Fax (1) 28915**]) who felt that they would rather pursue this
+work-up for a plasma cell dyscrasia with the patient's primary
+care physician. [**Name10 (NameIs) **], we scheduled Heme-Onc follow-up for
+now. [**Doctor First Name 1057**] also noted that she would prefer her mother not be
+informed of these findings until her work-up was completed and
+the full spectrum of the clinical picture was investigated. We
+respected her concerns. **
+
+Medications on Admission:
+1. warfarin 2.5 mg Tablet Sig: 0.5 Tablet PO 4X/WEEK
+(MO,WE,FR,SA).
+2. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO 3X/WEEK
+([**Doctor First Name **],TU,TH).
+3. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+4. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+
+day) as needed for anxiety.
+6. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day.
+7. Calcarb 600 With Vitamin D 600 mg(1,500mg) -400 unit Tablet
+Sig: One (1) Tablet PO once a day.
+8. Multi-Vite 50 & Over     Tablet Sig: One (1) Tablet PO once a
+
+day.
+9. Flonase 50 mcg/actuation Spray, Suspension Sig: One (1) spray
+
+Nasal once a day.
+10. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+11. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO QID (4 times a day).
+Disp:*120 Tablet, Chewable(s)* Refills:*0*
+12. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+13. Lasix 80 mg Tablet Sig: Two (2) Tablet PO once a day.
+14. ranitidine HCl 300 mg Tablet Sig: One (1) Tablet PO once a
+day.
+15. mesalamine 800 mg Tablet, Delayed Release (E.C.) Sig: Two
+(2) Tablet, Delayed Release (E.C.) PO three times a day
+
+Discharge Medications:
+1. warfarin 2.5 mg Tablet Sig: 0.5 Tablet PO Mon, Wed, Fri, Sat.
+
+2. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO Sun, Tues,
+Thurs.
+3. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+4. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+5. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day.
+6. Calcarb 600 With Vitamin D 600 mg(1,500mg) -400 unit Tablet
+Sig: One (1) Tablet PO once a day.
+7. Multi-Vite 50 & Over     Tablet Sig: One (1) Tablet PO once a
+day.
+8. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1)
+Spray Nasal DAILY (Daily).
+9. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) Cap Inhalation DAILY (Daily).
+10. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable
+Sig: One (1) Tablet, Chewable PO four times a day.
+11. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO once a day.
+12. Lasix 80 mg Tablet Sig: One (1) Tablet PO once a day.
+13. ranitidine HCl 300 mg Tablet Sig: One (1) Tablet PO once a
+day.
+14. mesalamine 400 mg Tablet, Delayed Release (E.C.) Sig: Four
+(4) Tablet, Delayed Release (E.C.) PO TID (3 times a day).
+15. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+16. digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+17. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO
+Q6H (every 6 hours) as needed for nausea.
+18. ZOFRAN ODT 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet,
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 45**] for the Aged - MACU
+
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Atrial fibrillation with rapid ventricular response
+2. Hypotension
+3. Chronic diarrhea
+4. Elevated cardiac biomarkers; Troponin elevation
+.
+Secondary Diagnoses:
+1. Chronic diastolic heart failure
+2. GERD; reflux esophagitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the Internal [**Hospital6 **] service at [**Hospital1 2762**] on CC7 regarding management of
+your low blood pressue, eleveated heart rate and dehydration in
+the setting of your chronic diarrhea complaints and nausea with
+emesis. You were treated in the medical ICU on admission and
+improved with hydration. Once arriving on the floor, you
+steadily improved and we optimized your medications. You are
+being transferred to a higher level care facility for further
+management and physical therapy needs.
+.
+Please call your doctor or go to the emergency department if:
+* You experience new chest pain, pressure, squeezing or
+tightness.
+* You develop new or worsening cough, shortness of breath, or
+wheezing.
+* You are vomiting and cannot keep down fluids, or your
+medications.
+* If you are getting dehydrated due to continued vomiting,
+diarrhea, or other reasons. Signs of dehydration include: dry
+mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+* You see blood or dark/black material when you vomit, or have a
+bowel movement.
+* You experience burning when you urinate, have blood in your
+urine, or experience an unusual discharge.
+* Your pain is not improving within 12 hours or is not under
+control within 24 hours.
+* Your pain worsens or changes location.
+* You have shaking chills, or fever greater than 101.5 degrees
+Fahrenheit or 38 degrees Celsius.
+* You develop any other concerning symptoms.
+.
+CHANGES IN YOUR MEDICATION RECONCILIATION:
+.
+* Upon admission, we ADDED:
+START: Prochlorperazine 10 mg by mouth every 6-hours, as needed
+for nausea
+START: Zofran (Ondansetron) ODT 8 mg by mouth every 8-hours as
+needed for nausea
+START: Omeprazole 20 mg by mouth daily
+START: Digoxin 0.125 mg by mouth daily
+.
+* We made the following medication changes:
+CHANGE: Decreased Lasix from 160 mg by mouth daily to 80 mg by
+mouth daily.
+.
+* The following medications were DISCONTINUED on admission and
+you should NOT resume:
+DISCONTINUE: Ativan (Lorazepam)
+.
+* You should continue all of your other home medications as
+prescribed, unless otherwise directed above.
+
+Followup Instructions:
+Department: HEMATOLOGY/BMT
+When: THURSDAY [**2526-6-13**] at 2:30 PM
+With: [**First Name11 (Name Pattern1) 5573**] [**Last Name (NamePattern4) 10883**], NP [**Telephone/Fax (1) 27788**]
+Building: SC [**Hospital Ward Name 211**] Clinical Ctr [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+.
+Department: HEMATOLOGY/ONCOLOGY
+When: THURSDAY [**2526-6-13**] at 2:30 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 28916**], MD [**Telephone/Fax (1) 205**]
+Building: SC [**Hospital Ward Name 211**] Clinical Ctr [**Location (un) 855**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 211**] Garage
+.
+Cardiology Appointment: [**Last Name (LF) 598**], [**6-14**] at 9am
+With:[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 28913**], MD
+Location: BIDH-[**Location (un) 321**] CARDIOLOGY
+Address: [**Street Address(2) **], [**Location (un) 321**],[**Numeric Identifier 7109**]
+Phone: [**Telephone/Fax (1) 2557**]
+.
+** The [**2526-6-5**] appt at 3pm with Dr. [**First Name (STitle) 2632**] has been changed to the
+appointment above.
+.
+Gastroenterology Appointment: [**Last Name (LF) 598**], [**6-21**] at 3:45pm
+With:[**Name (NI) **] [**Name8 (MD) **], MD
+Address: [**Location (un) 28917**], [**Location (un) 321**],[**Numeric Identifier 17418**]
+Phone: [**Telephone/Fax (1) 5605**]
+.
+** Please discuss with the staff at the facility a follow up
+appointment with your PCP below when you are ready for
+discharge.
+PCP:[**Name10 (NameIs) **] [**Last Name (NamePattern4) 28918**],MD
+Location: [**Hospital1 **] [**First Name (Titles) **] [**Last Name (Titles) 6584**] OF [**Location (un) 321**]
+HEIGHTS
+Address: [**Location (un) 28911**],STE 302, [**Location (un) 321**],[**Numeric Identifier 28912**]
+Phone: [**Telephone/Fax (1) 17313**]
+
+
+
+
+
+
+DOC CLASS

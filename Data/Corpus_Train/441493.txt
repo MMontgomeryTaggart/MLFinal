@@ -1,0 +1,206 @@
+CVICU
+   HPI:
+   HD2   POD 1-AoArch endograft/carot-carot BPG/Lcarot-Lsubclav BPG
+   Ejection Fraction:55
+   Hemoglobin A1c:6.2
+   Pre-Op Weight:198.63 lbs   90.1 kgs
+   Baseline Creatinine:1.1
+   Foley:Day2
+   PMHx:
+   PMH: Coronary Artery Disease, COPD, Hyperlipidemia, Hypertension,
+   Calcified aorta, Left lingula lung mass, Bilateral Pleural Effusions;
+   s/p left thoracentesis [**3341-10-2**], Hypothyroidism, Trauma to lower
+   extremities, Emphysema
+   PSH: CABG x5 in '[**26**]([**Hospital1 **]/Dr[**Name (NI) 8898**]), Polypectomy [**3340**], Rt elbow
+   seroma, s/p debridement and drainage, Appendectomy
+   [**Last Name (un) 500**]: Lipitor 80mg daily, Lisinopril 10mg daily, Synthroid 137mcg daily,
+   Lasix 20mg daily, Atenolol 50mg daily, Aspirin 81mg daily, Proventil
+   inhaler prn
+   Current medications:
+   Acetaminophen 3. Albuterol-Ipratropium 4. Albuterol 0.083% Neb Soln 5.
+   Aspirin EC  Atorvastatin 8. Calcium Gluconate 9. CefazoLIN  Docusate
+   Sodium . Furosemide  Insulin 19. Ipratropium Bromide Neb 20.
+   Levothyroxine Sodium  Magnesium Sulfate 22. Metoclopramide 23. Milk of
+   Magnesia 24. Morphine Sulfate 26. Nitroglycerin 27.
+   Oxycodone-Acetaminophen 28. Phenylephrine  Potassium Chloride 31.
+   Ranitidine 32.
+   24 Hour Events:
+ ARTERIAL LINE - START [**3341-10-9**] 03:30 PM
+ OR RECEIVED - At [**3341-10-9**] 03:30 PM
+ ARTERIAL LINE - START [**3341-10-9**] 03:30 PM
+ INVASIVE VENTILATION - START [**3341-10-9**] 04:06 PM
+ NASAL SWAB - At [**3341-10-9**] 04:14 PM
+ EKG - At [**3341-10-9**] 04:30 PM
+   Post operative day:
+   POD#1 - Carotid to carotid bypass graft (gortex 8mm) left carotid to
+   left sc bypass graft(gortex 8mm)Endostent graftto aortic arch([**Company 1308**]
+   talent 40x46
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**3341-10-10**] 04:18 AM
+   Infusions:
+   Phenylephrine - 0.8 mcg/Kg/min
+   Other ICU medications:
+   Insulin - Regular - [**3341-10-10**] 12:23 AM
+   Dextrose 50% - [**3341-10-10**] 12:24 AM
+   Morphine Sulfate - [**3341-10-10**] 08:45 AM
+   Flowsheet Data as of  [**3341-10-10**] 10:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**43**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.6
+C (97.8
+   HR: 82 (51 - 82) bpm
+   BP: 98/53(69) {95/40(61) - 140/73(93)} mmHg
+   RR: 20 (8 - 20) insp/min
+   SPO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 101.8 kg (admission): 90.2 kg
+   Height: 69 Inch
+             Total In:
+                                                                 10,875 mL
+                                                                    675 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  9,675 mL
+                                                                    535 mL
+   Blood products:
+                                                                  1,200 mL
+   Total out:
+                                                                  1,140 mL
+                                                                    815 mL
+   Urine:
+                                                                    600 mL
+                                                                    815 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  9,735 mL
+                                                                   -140 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   Ventilator mode: Standby
+   Vt (Set): 600 (0 - 600) mL
+   Vt (Spontaneous): 545 (0 - 545) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 70%
+   PIP: 27 cmH2O
+   Plateau: 22 cmH2O
+   SPO2: 92%
+   ABG: 7.32/41/99.[**Numeric Identifier 428**]/23/-4
+   Ve: 8.2 L/min
+   PaO2 / FiO2: 141
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Diminished: bases)
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), upper chest incisions with some
+   eccymosis otherwise CDI. Groin incision CDI
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   210 K/uL
+   10.7 g/dL
+   89 mg/dL
+   1.0 mg/dL
+   23 mEq/L
+   4.5 mEq/L
+   16 mg/dL
+   105 mEq/L
+   135 mEq/L
+   33.5 %
+   13.2 K/uL
+        [image002.jpg]
+                             [**3341-10-9**]  04:22 PM
+                             [**3341-10-9**]  08:52 PM
+                             [**3341-10-9**]  08:57 PM
+                             [**3341-10-9**]  10:16 PM
+                             [**3341-10-9**]  11:21 PM
+                             [**3341-10-9**]  11:29 PM
+                             [**3341-10-10**]  01:55 AM
+                             [**3341-10-10**]  03:41 AM
+                             [**3341-10-10**]  05:32 AM
+                             [**3341-10-10**]  08:20 AM
+   WBC
+   13.2
+   Hct
+   35.3
+   33.5
+   Plt
+   210
+   Creatinine
+   0.9
+   1.0
+   TCO2
+   25
+   27
+   25
+   25
+   23
+   24
+   22
+   Glucose
+   123
+   121
+   104
+   80
+   89
+   Other labs: PT / PTT / INR:14.7/38.7/1.3, Differential-Neuts:75.5 %,
+   Lymph:16.9 %, Mono:5.8 %, Eos:1.6 %, Fibrinogen:253 mg/dL, Lactic
+   Acid:2.2 mmol/L
+   Assessment and Plan
+   .H/O AORTIC ANEURYSM, THORACIC (TAA)
+   Assessment and Plan: 66 M s/p ascending aortic/arch endograft
+   placement, carotid-carotid BPG, L carotid-L subclavian BPG,  doing well
+   post operatively.
+   Extubated this AM
+   Neurologic: Pain controlled, Percocet/Morphine for pain control
+   Cardiovascular: Aspirin, Statins, Currently on Neosynephrine infusion
+   to support BP, will start BBlockers after neo infusion weaned to off
+   Pulmonary: IS, Extubate today, C&DB-OOB today
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Advance diet as tolerated , heart healthy diet
+   Renal: Foley, Adequate UO, Start lasix-goal net neg 1 liter today
+   Monitor u/o-BUN/Cr
+   hyperkalemic overnight-tx with insulin/D50 will monitor
+   Hematology: stable post-op anemia
+   Endocrine: RISS
+   Infectious Disease: No active issues
+   Afebrile-slightly elevated WBC-likely inflamatory reaction
+   Lines / Tubes / Drains: Foley, OGT, ETT, Extubate today
+   Wounds: Dry dressings, bilat clavicular wounds w/eccymosis but CDI
+   left groin wound CDI
+   Consults: Vascular surgery, CT surgery
+   ICU Care
+   Nutrition: heart healthy diet-ADAT
+   Glycemic Control:  Regular insulin sliding scale
+   Lines: Arterial Line - [**3341-10-9**] 03:30 PM
+   16 Gauge - [**3341-10-9**] 03:30 PM
+   Prophylaxis: DVT:  (OOB today)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Comments: Potentially transfer to floor if able to wean off neo
+   infusion
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,453 @@
+Admission Date:  [**3423-2-23**]              Discharge Date:   [**3423-3-1**]
+
+Date of Birth:  [**3347-3-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**Last Name (NamePattern1) 107**]
+Chief Complaint:
+Shortness of breath
+
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with DES to RCA and POBA to PDA
+
+
+History of Present Illness:
+75 M h/o severe CAD s/p CABG [**3408**], s/p recent complicated
+admission ([**Date range (1) 19328**]/07) for NSTEMI with multiple interventions,
+presented to ED after calling EMS c/o increased SOB. Patient
+reports that he had noticed increased BLE edema over the last
+few days PTA. Yesterday, he noted more SOB and diaphoresis. Pt
+reported taking SLNTG x3 at home with some relief of these
+symptoms. BP 160/80, RR 36, O2sat 91-92% in field per MICU note.
+Patient reports being compliant with his medications and denies
+any change in diet recently. He did have 1 week of a
+nonproductive cough.
+
+In the ED, HR 63, BP 143/77, SaO2 85% RA, increasing to 90-92%
+on nonrebreather (no T recorded). Pt refused CPAP, stated that
+he would prefer intubation, and was ultimately intubated for
+increasing WOB/SOB. Pt then received furosemide 80 mg IV, nitro
+gtt, and ASA 300mg PR. TropT 0.03 noted on first set of CE. He
+put out only 200mL to the furosemide. He was transferred to the
+MICU.
+
+In the MICU, he received diuril 250mg and furosemide 100mg IV
+once. To this he has continually put out urine to over 2.5L
+negative thus far. He was awake and alert the morning after
+admission and was extubated at 9am. Since then, he has not
+received any more diuretics, but continues to make urine. He has
+been on room air with sats in the 90's. Currently, he complains
+of some bilateral leg pain secondary to the swelling. No CP, no
+SOB, no n/v, no f/c, no diarrhea or abdominal pain. +sore throat
+from intubation.
+
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. Coronary artery disease
+---CABG ([**3408**])
+- LIMA-->LAD
+- SVG-->RCA
+- SVG-->OM
+---PCI ([**12/3416**])
+- Ostial LIMA-LAD stent --> restenosis and brachytherapy
+([**6-/3417**])
+- Stenotic LIMA to the LAD stented
+- SVG to the PDA (patent)
+- SVG to the RCA (occluded)
+---PCI ([**2-/3420**])
+- SVG-RCA and SVG-OM (occluded)
+- LIMA-LAD (patent)
+- RCA and r-PDA stented (DES)
+---PCI ([**4-/3420**])
+- rPDA stented stented (Taxus)
+- r-PL balloon rescue
+- ostial RCA stented (DES)
+---PCI ([**6-/3420**])
+- LMCA-LCx stented (DES)
+- RCA stented (DES)
+---PCI ([**6-/3421**])
+- Left subclavian artery stented
+- [**Name (NI) 19331**] PTCA
+---PCI ([**9-/3422**])
+- RPDA POBA
+- RCA POBA
+---PCI ([**9-/3422**])
+- ostial LIMA stented (Cypher DES)
+.
+2. Congestive heart disease
+- Systolic and [**Last Name (LF) 19327**], [**First Name3 (LF) **] 23% ([**11-4**])
+3. Valvular disease
+- 1+ AR
+- 2+ MR
+4. Atrial fibrillation
+5. Episode of atrial tachycardia ([**3422**])
+6. Episode of phase 4 block secondary to PVC ([**10/3422**])
+.
+Cardiac Risk Factors:
+(+) Diabetes
+(+) Dyslipidemia
+(+) Hypertension
+.
+OTHER PAST HISTORY
+1. Peripheral [**Year (4 digits) **] disease
+- Right CEA ([**8-/3408**])
+- Left fem-bk [**Doctor Last Name **] w/ ISSVG ([**9-/3408**])
+- Left fem-pt w/ vein ([**1-29**])
+- Right CFA-ak [**Doctor Last Name **] w/ NRSVG ([**3-1**])
+- Bilateral 5th toe amps ([**3-1**])
+- Successful atherectomy of the right anterior tibial and
+popliteal
+arteries ([**5-2**])
+- Successful cryoplasty of the L fem-[**Doctor Last Name **] graft ([**6-1**])
+2. Chronic kidney disease
+3. Grade II internal hemrohrroids
+4. Colonic diverticulosis
+5. GERD
+6. Acalculous cholecystitis s/p indwelling gallbladder catheter
+7. Obstructive lung disease?
+8. Low back pain
+
+Social History:
+No current tobacco use. 60+ pack-year history. Past heavy
+drinker. Lives alone, son lives upstairs from him.
+
+
+
+Family History:
+No family history of sudden cardiac death or early coronary
+artery disease.
+
+
+Physical Exam:
+Physical Exam:
+VS: T 97.3, BP 104/54 (99-120/41-58), HR 80 (76-90), O2sat 96%
+on RA RR 17. In 1030/Out 3476 net 2446 (LOS negative 2837mL)
+Gen: tired appearing male with eyes closed but awakens to answer
+questions appropriately
+HEENT: NCAT, dry MM, clear OP, PERRL, EOMI, anicteric sclera,
+non-injected conjunctiva.
+Neck: Elevated JVP to edge of jaw
+CV: difficult to hear secondary to upper airway secretions, but
+RRR, could not appreciate m/r/g
+Chest: clear bilaterally without w/r/r with mild crackles at R
+base. Anterior breath sounds obscured with upper airway
+secretion noises.
+Abd: Soft, NT, ND, BS+.
+Ext: 2+ BLE, very dry skin.
+
+
+Pertinent Results:
+[**3423-2-23**] 06:30PM BLOOD WBC-9.0 RBC-3.83* Hgb-10.8* Hct-34.7*
+MCV-91 MCH-28.3 MCHC-31.2 RDW-15.6* Plt Ct-217
+[**3423-2-25**] 03:05AM BLOOD WBC-4.7 RBC-3.29* Hgb-9.3* Hct-28.5*
+MCV-87 MCH-28.3 MCHC-32.6 RDW-15.7* Plt Ct-167
+[**3423-2-25**] 10:47AM BLOOD WBC-5.5 RBC-3.50* Hgb-10.1* Hct-30.4*
+MCV-87 MCH-28.8 MCHC-33.1 RDW-15.9* Plt Ct-171
+[**3423-2-28**] 06:07AM BLOOD WBC-3.6* RBC-3.13* Hgb-8.8* Hct-27.3*
+MCV-87 MCH-28.1 MCHC-32.2 RDW-15.5 Plt Ct-164
+[**3423-3-1**] 06:23AM BLOOD WBC-3.0* RBC-2.96* Hgb-8.1* Hct-25.8*
+MCV-87 MCH-27.4 MCHC-31.4 RDW-15.4 Plt Ct-129*
+[**3423-3-1**] 09:14AM BLOOD Hct-31.0*
+[**3423-2-23**] 06:30PM BLOOD PT-14.1* PTT-27.1 INR(PT)-1.2*
+[**3423-2-24**] 02:14AM BLOOD PT-12.7 PTT-20.7* INR(PT)-1.1
+[**3423-3-1**] 06:23AM BLOOD PT-13.1 PTT-31.3 INR(PT)-1.1
+[**3423-3-1**] 06:23AM BLOOD Ret Aut-2.1
+[**3423-2-23**] 06:30PM BLOOD Fibrino-509*
+[**3423-3-1**] 06:23AM BLOOD calTIBC-316 Hapto-207* Ferritn-79 TRF-243
+[**3423-2-23**] 06:30PM BLOOD Glucose-207* UreaN-30* Creat-2.5* Na-141
+K-5.8* Cl-105 HCO3-20* AnGap-22*
+[**3423-2-23**] 09:35PM BLOOD Glucose-192* UreaN-31* Creat-2.5* Na-142
+K-4.5 Cl-106 HCO3-22 AnGap-19
+[**3423-2-26**] 06:00AM BLOOD Glucose-122* UreaN-44* Creat-2.9* Na-138
+K-3.8 Cl-104 HCO3-24 AnGap-14
+[**3423-3-1**] 06:23AM BLOOD Glucose-129* UreaN-32* Creat-2.6* Na-142
+K-4.1 Cl-101 HCO3-28 AnGap-17
+[**3423-2-23**] 06:30PM BLOOD CK(CPK)-146 Amylase-102*
+[**3423-2-24**] 02:14AM BLOOD CK(CPK)-188*
+[**3423-2-24**] 10:03AM BLOOD CK(CPK)-207*
+[**3423-2-24**] 04:02PM BLOOD CK(CPK)-194*
+[**3423-2-27**] 05:26AM BLOOD CK(CPK)-89
+[**3423-3-1**] 06:23AM BLOOD LD(LDH)-247 TotBili-0.4
+[**3423-2-23**] 06:30PM BLOOD CK-MB-4 cTropnT-0.03*
+[**3423-2-24**] 02:14AM BLOOD CK-MB-13* MB Indx-6.9* cTropnT-0.20*
+proBNP-8368*
+[**3423-2-24**] 10:03AM BLOOD CK-MB-11* MB Indx-5.3 cTropnT-0.24*
+proBNP-9154*
+[**3423-2-25**] 10:47AM BLOOD CK-MB-4 cTropnT-0.21*
+[**3423-2-23**] 09:35PM BLOOD Calcium-9.3 Phos-5.4*# Mg-2.3
+[**3423-2-24**] 02:14AM BLOOD Calcium-9.6 Phos-4.4 Mg-2.4
+[**3423-3-1**] 06:23AM BLOOD Calcium-9.4 Phos-4.2 Mg-2.2 Iron-37*
+
+Notable labs:
+143 104 35 133
+-------------<
+3.6 25 2.6* (elevated from baseline 1.8)
+
+CK: 194 MB: 7 Trop-T: 0.25 *
+([**3423-2-24**] 10am: CK: 207 MB: 11 MBI: 5.3 Trop-T: 0.24
+[**3423-2-23**] 2am: CK: 188 MB: 13 MBI: 6.9 Trop-T: 0.20)
+
+Ca: 9.3 Mg: 2.1 P: 3.4
+
+proBNP: 9154
+
+WBC 5.5 Hgb 11.5 HCT 34.4 PLT 172 MCV 88
+
+PT: 12.7 PTT: 20.7 INR: 1.1
+
+
+EKG: Rate 100bpm, rhythm, Axis LAD, RBBB, ST depressions at
+V2-V3 new but ST depressions in V4-6 appear chronic.
+
+STUDIES:
+
+[**3423-2-23**] CXR: Cardiomegaly and moderate CHF
+[**3423-2-24**]: no more fluid overload. ETT tube in place
+.
+Echo [**3423-2-24**]:
+The left atrium is moderately dilated. The estimated right
+atrial pressure is 0-5 mmHg. Left ventricular wall thicknesses
+are normal. The left ventricular cavity is moderately dilated.
+There is severe global left ventricular hypokinesis with best
+preserved motion in the anteroseptum (LVEF = 25 %). [Intrinsic
+left ventricular systolic function is likely more depressed
+given the severity of valvular regurgitation.] Tissue Doppler
+imaging suggests an increased left ventricular filling pressure
+(PCWP>18mmHg). Right ventricular chamber size is normal. with
+mild global free wall hypokinesis. There are three aortic valve
+leaflets. The aortic valve leaflets are moderately thickened.
+There is mild aortic valve stenosis (area 1.6 cm2). Mild to
+moderate ([**1-29**]+) aortic regurgitation is seen. The mitral valve
+leaflets are mildly thickened. Moderate (2+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity
+of mitral regurgitation may be significantly UNDERestimated.]
+There is borderline pulmonary artery systolic hypertension. Mild
+pulmonic regurgitation is seen. There is a trivial/physiologic
+pericardial effusion.
+
+Compared with the prior study (images reviewed) of [**3422-11-15**],
+regional left ventricular dysfunction now extends to the
+anterior and anterolateral walls. The overall ejection fraction
+is likely decreased. The severity of aortic regurgitation may
+have increased slightly.
+
+[**3423-2-26**] Cardiac Cath:
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Patent LIMA-LAD
+3. Stenting of ostial and mid RCA with DES and POBA to ostial
+PDA.
+
+[**3423-2-26**] ECG:
+Sinus rhythm
+Ventricular premature complex
+Marked left axis deviation
+Left atrial abnormality
+RBBB with left anterior fascicular block
+Since previous tracing of the same date, no significant change
+
+
+
+Brief Hospital Course:
+75 year old male with history of CAD s/p CABGx3 and multiple
+PCI's, CHF with EF 30%, diastolic and systolic HF, CRI, HTN, now
+presenting with SOB likely [**3-1**] CHF. Pt was intubated in ED and
+sent to the MICU.  He was extubated the following day and
+transferred out to the Cardiology floor.
+
+# Respiratory distress: Respiratory distress likely combination
+of COPD and CHF, but more CHF given bilateral lower exttremity
+edema, CXR finding of fluid overload, and overload on exam
+initially.  Mr. [**Known patient lastname 19317**] has a known LVEF of 25% based on ECHO
+here. Patient was intubated in the ED and transferred to the
+MICU.  He was much improved the following day and was extubated
+successfully.  He was treated with IV Furosemide during this
+time.  He was transferred to the Cardiology Service and was
+placed on a Lasix drip for further diuresis.  Given his new
+onset worsening left ventricular function, he was sent for
+cardiac cath which was significant for 3VD and is now s/p
+stenting of ostial and mid RCA with DES and POBA to ostial PDA.
+
+#CHF: Systolic acute on chronic CHF exacerbation as above.
+Patient was to continue carvedilol 12.5 mg [**Hospital1 9**], isosorbide
+dinitrate 20mg TID.  Furosemide was incresed to 80mg [**Hospital1 9**]
+.
+#CAD: CABG x 3 in [**3408**] (LIMA-LAD, SVG-OM, SVG-PDA) with only
+LIMA-LAD
+patent multiple PCI's and multiple stents placed.  Patient has
+tropopin leak up to 0.25 up from 0.03. This was thought to be
+due to demand ischemia as CK levels were not elevated.  Patient
+was sent for Cardiac Cath as above.  He is to  continue home
+regimen of clopidogrel 75mg daily, ASA 325mg daily, simvastatin
+80mg daily, isosorbide dinitrate 20mg TID.  Pt started on
+Carvedilol 12.5 mg [**Hospital1 9**].
+
+# Rhythm: Atrial fibrillation: Pt not anticoagulated [**3-1**] massive
+GI bleed; rate controlled only with nondihydropyridine
+nifedipine at home. Switched to carvedilol this admission per
+cardiology.  Patient was monitored for bronchospasm given hx of
+COPD.  He did not have any adverse reaction and was discharged
+on Carvedilol for management of his A-fib and CHF.
+
+# COPD: Pt has known obstructive lung disease [**3-1**] extensive
+smoking history.  He is to continue on his home Combivent.
+.
+# CRI: Baseline Cr (1.7-2.2), now elevated to 2.6 and remained
+there upon discharge.  ACE-I was held and will be restarted by
+Dr. [**First Name (STitle) 90**] in clinic if kidney function improves.
+.
+# HTN: Patient is to continue Carvedilol, Isosorbide dinitrate,
+Amlodipine
+
+# Diabetes mellitus: Cont home glipizide
+.
+# Dyslipidemia: Continued simvastatin 80 daily.
+
+# Phase 4 Paroxysmal AV block: Patient has been seen by Dr.
+[**Last Name (STitle) **] regarding ICD/PM placement.  This should be follow up
+by his PCP.
+
+Medications on Admission:
+MEDICATIONS ON ADMISSION: ([**First Name8 (NamePattern2) **] [**Doctor Last Name **] [**3423-2-3**] OMR note):
+Nifedipine 60 mg--one tablet by mouth once a day
+ASPIRIN 325MG--Take one by mouth every day
+Amlodipine 5 mg--one tablet by mouth once a day
+CLOPIDOGREL BISULFATE 75MG--One by mouth every day
+COMBIVENT 103-18 mcg/Actuation--take 2 puffs three times a day
+as needed for wheezing
+FUROSEMIDE 20 mg--three tablets by mouth once a day
+GLIPIZIDE 5 mg--take 1 tablet(s) by mouth once a day 1 hour
+after a meal
+ISOSORBIDE DINITRATE 20 mg--one tablet by mouth three times a
+day
+NITROGLYCERIN 400 MCG (1/150 GR)--Take as directed as needed for
+
+chest pain
+PROTONIX 40 mg--take 1 tablet(s) by mouth once a day (20 minutes
+
+before a meal)
+ROXICET 5 mg-325 mg--take 1 tablet(s) by mouth four times a day
+
+as needed for pain (twenty-eight day supply)
+SIMVASTATIN 80 mg--take 1 tablet(s) by mouth at bedtime
+***** Pt does not appear to be on LISINOPRIL per PCP [**3423-2-3**]
+note, although he was discharged on lisinopril after his last
+hospital admission. *****
+
+Discharge Medications:
+1. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Isosorbide Dinitrate 10 mg Tablet Sig: Two (2) Tablet PO TID
+(3 times a day).
+5. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Petrolatum     Ointment Sig: One (1) Appl Topical TID (3
+times a day) as needed.
+Disp:*1 tube* Refills:*2*
+7. Glipizide 5 mg Tablet Sig: One (1) Tablet PO once a day: 1
+hour after a meal.
+8. Combivent 18-103 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation TID PRN as needed for shortness of breath or
+wheezing.
+9. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+10. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)
+Sublingual q5min PRN as needed for chest pain: one tablet every
+5min for a total of 3 doses if needed for chest pain.
+11. Nifedipine 60 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO once a day.
+12. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO once a day.
+13. Roxicet 5-325 mg Tablet Sig: One (1) Tablet PO QID prn as
+needed for pain.
+14. Furosemide 80 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 13**] VNA
+
+Discharge Diagnosis:
+Primary:
+Systolic Heart Failure Exacerbation
+Coronary Artery disease s/p PCI with DES to RCA and POBA to PDA
+
+Secondary:
+- Coronary Artery Disease
+- Atrial Fibrillation, not anticoagulated due to massive GI
+bleed [**3417**]
+- PVD with B fem to distal bypass
+- Hypertension
+- Hypercholesterolemia
+- COPD
+- DM2
+- GERD
+- Chronic renal insufficiency baseline 1.5 - 2.0
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+You were admitted into [**Hospital1 170**] for
+treatment of your Congestive Heart Failure.  You were in severe
+respiratory distress on arrival and you were intubated and
+placed on a breathing machine for 24 hours.  Your heart failure
+has been treated successfully with Intravenous Diuretics.  An
+Ultrasound of the heart was done which showed worsening heart
+function.  A cardiac catheterization was done to evaluate your
+arteries.  You had a new occlusion of your right coronary artery
+which was opened with a drug eluting stent.  A balloon was also
+used to open up a second artery.
+
+Please stop taking your Lisinopril for the time being.  Your
+kidney function has slightly worsened with the diuresis and you
+should not take your Lisinopril as it may contribute to
+worsening kidney function.  Your kidney function will be
+reevaluated by Dr. [**First Name (STitle) 90**] at your visit with him.
+
+Your Lasix has been increased from Lasix 60mg daily to Lasix
+80mg twice per day.
+
+Please continue with your remaining regular home medications.
+
+Please attend recommended follow up below.
+
+If you experience worsening chest pain, shortness of breath,
+palpitations, nausea, vomiting, increased leg swelling,
+dizziness, lightheadedness, fainting or any other concerning
+symptoms then please call your doctor or report to the nearest
+emergency room.
+
+Weigh yourself every morning, [**Name8 (MD) 15**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+
+
+Followup Instructions:
+Please call your new Cardiologist, Dr. [**First Name (STitle) 90**] at [**Telephone/Fax (1) 441**] to
+set up an appointment to be seen on [**3423-3-13**].
+
+Provider: [**First Name11 (Name Pattern1) 81**] [**Last Name (NamePattern4) 2810**], MD Phone:[**Telephone/Fax (1) 151**]
+Date/Time:[**3423-3-12**] 8:20
+Provider: [**First Name11 (Name Pattern1) 81**] [**Last Name (NamePattern4) 2810**], MD Phone:[**Telephone/Fax (1) 151**]
+Date/Time:[**3423-4-23**] 8:20
+
+
+
+
+
+
+DOC CLASS

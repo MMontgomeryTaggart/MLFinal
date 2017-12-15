@@ -1,0 +1,206 @@
+Chief Complaint:
+   24 Hour Events:
+   - Family meeting. Family wants full code. If seems like futile can stop
+   code. Wants eventual trach/peg if 7-10days from now can't be weaned off
+   vent. Wants pressors if necessary.
+   - A-line d/c'd because of dusky extremities
+   - hypoglycemia to 50s-> 1amp D50 given
+   - Neurology saw more seizures on EEG so started ativan 2mg Q4H
+   - U/A positive so started CTX (h/o proteus and enterococcus in urine
+   sensitive to CTX - not cipro)
+   - UOP trended down to 15mL/hr after lasix in am wore off. Gave another
+   40mg IV lasix with good urine output however, BPs then trended down
+   into 70s. Gave 500mL then re-started levophed with pressures into 110s
+   and HR 100.
+   - On levophed patient developed rapid AF (HR 120s-140s) and BPs
+   110s/50s. Gave 5mg IV lopressor and turned down levo as much as BP
+   would tolerate.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3178-2-28**] 02:00 PM
+   Piperacillin - [**3178-2-28**] 03:00 PM
+   Ceftriaxone - [**3178-3-2**] 05:00 PM
+   Infusions:
+   Heparin Sodium - 650 units/hour
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Dextrose 50% - [**3178-3-2**] 04:50 PM
+   Furosemide (Lasix) - [**3178-3-2**] 10:42 PM
+   Lorazepam (Ativan) - [**3178-3-3**] 01:59 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3178-3-3**] 04:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36
+C (96.8
+   HR: 102 (67 - 102) bpm
+   BP: 110/44(61) {73/36(7) - 134/58(72)} mmHg
+   RR: 16 (15 - 23) insp/min
+   SpO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                    738 mL
+                                                                    546 mL
+   PO:
+             TF:
+   IVF:
+                                                                    538 mL
+                                                                    546 mL
+   Blood products:
+   Total out:
+                                                                    589 mL
+                                                                    470 mL
+   Urine:
+                                                                    589 mL
+                                                                    470 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    149 mL
+                                                                     76 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 317 (317 - 317) mL
+   PS : 12 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 21 cmH2O
+   Plateau: 16 cmH2O
+   SpO2: 96%
+   ABG: 7.45/37/94.[**Numeric Identifier 119**]//1
+   Ve: 7.7 L/min
+   PaO2 / FiO2: 235
+   Physical Examination
+   GENERAL: Elderly man, sedated, intubated
+   HEENT: NCAT. Sclera anicteric.
+   NECK: JVP of 8 cm.
+   CARDIAC: II/VI systolic murmur heard best at RUSB, otherwise distant
+   heart sounds
+   LUNGS:  no wheeze or rales anteriorly
+   ABDOMEN: Soft, NABS
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   NEURO: R pupil 5 mm and fixed, L pupil 3mm and fixed; no corneal
+   reflex; full neuro exam limited by sedation
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ DP dopplerable
+   Left: Carotid 2+ Femoral 2+ DP dopplerable
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   264 K/uL
+   8.0 g/dL
+   40 mg/dL
+   2.2 mg/dL
+   23 mEq/L
+   4.0 mEq/L
+   73 mg/dL
+   108 mEq/L
+   140 mEq/L
+   24.7 %
+   9.9 K/uL
+        [image002.jpg]
+                             [**3178-3-1**]  04:19 AM
+                             [**3178-3-1**]  05:45 AM
+                             [**3178-3-1**]  01:29 PM
+                             [**3178-3-1**]  01:49 PM
+                             [**3178-3-1**]  05:28 PM
+                             [**3178-3-2**]  04:30 AM
+                             [**3178-3-2**]  04:33 AM
+                             [**3178-3-2**]  01:30 PM
+                             [**3178-3-2**]  02:09 PM
+                             [**3178-3-3**]  04:25 AM
+   WBC
+   11.5
+   9.9
+   Hct
+   25.5
+   26.6
+   24.7
+   Plt
+   253
+   264
+   Cr
+   2.3
+   2.2
+   TCO2
+   25
+   25
+   26
+   28
+   25
+   27
+   Glucose
+   76
+   40
+   Other labs: PT / PTT / INR:17.2/81.4/1.6, CK / CKMB /
+   Troponin-T:226/13/0.07, ALT / AST:47/55, Alk Phos / T Bili:98/0.3,
+   Lactic Acid:1.0 mmol/L, Albumin:2.6 g/dL, LDH:359 IU/L, Ca++:6.8 mg/dL,
+   Mg++:2.4 mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   This is a [**Age over 90 **] yo man with DM2, PAD presents with asystolic cardiac
+   arrest.
+   # Asystolic arrest:  Etiology includes respiratory arrest leading to
+   cardiac arrest, especially since had been complaining of dyspnea and
+   chocking sensation prior to presentation. Alternatively, the evidence
+   of systolic failure and hypokinetic areas in LV may represent a recent
+   ischemic event (but no q waves on ECG).  Most likely is a combination
+   of respiratory arrest in setting of CHF.
+   - back on pressors
+   - Full code per family
+   - AC with no spontaneous BR despite being off sedation.
+   # Seizure activity: EEG c/w generalized periodic epileptiform
+   activity.  Per Neurology these indicate severe brain anoxia and are
+   associated with poor outcomes (>90% mortality or severe neurologic
+   disability).
+   - Will continue Levitiracetam and ativan.
+   - Continue EEG monitoring.
+   # Afib: RVR overnight after levo started. Down titrated levo. Responded
+   to metoprolol IV x1.
+   - continue to monitor
+   # ARF: Cr stable. Most likely related to CHF. Will monitor U/O in the
+   setting of pressor support. Careful diuresis as needed.
+   # Coagulopathy: Likely [**1-2**] combination of warfarin and antibiotic use.
+   No evidence of DIC. Resolved with FFP/VitK. Now on heparin ggt for AVR
+   and PTT 60-90.
+   # Anemia: HCT stable. VS stable. Will continue to monitor.
+   # Hypoglycemia: Unclear etiology. Possibilities include poor
+   elimination of insulin in the setting of ARF or poor GNG in the setting
+   of arrest. Also very likely is hypoxic brain injury affecting the
+   pituitary.
+   - Will continue D50 infusions and D5 KVO.
+   # DM2: hold PO hypoglycemics
+   - insulin sliding scale
+   # Complicated UTI: Ceftriaxone x 10 days
+   ICU Care
+   Nutrition:  start tube feeds today
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3178-2-28**] 03:00 PM
+   20 Gauge - [**3178-2-28**] 03:00 PM
+   Prophylaxis:
+   DVT:  heparin gtt
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

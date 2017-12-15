@@ -1,0 +1,140 @@
+Admission Date:  [**2871-5-21**]       Discharge Date:  [**2871-6-1**]
+
+Date of Birth:   [**2801-7-14**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is a 60 year old male who
+is status post fall and was being worked up for rotator cuff
+repair when he had an abnormal electrocardiogram.  He has a
+history of chronic obstructive pulmonary disease, diet
+controlled diabetes mellitus, high cholesterol and
+pericarditis.  He had an exercise treadmill test on [**2871-5-20**],
+which was negative for chest pain but revealed moderate to
+severe anterior apical ischemia with an ejection fraction of
+54%.  He underwent cardiac catheterization on [**2871-5-21**], which
+showed left main short nonobstructive, nonobstructive left
+anterior descending, heavily obstructed proximal 60%, distal
+100% occluded, filled by bridging collaterals, left
+circumflex midsection 50% stenosed, right coronary artery
+proximal 50% stenosed, left ventricular ejection fraction of
+55% with no mitral regurgitation.
+
+PAST MEDICAL HISTORY:
+1.  Chronic obstructive pulmonary disease.
+2.  Diet controlled diabetes mellitus.
+3.  High cholesterol.
+4.  Pericarditis.
+5.  Back surgery.
+6.  Carpal tunnel surgery.
+7.  Transurethral resection of prostate.
+8.  Hypertension.
+
+MEDICATIONS ON ADMISSION:
+1.  Ecotrin.
+2.  Lopressor.
+3.  Lisinopril.
+4.  Atorvastatin.
+5.  Zantac.
+
+ALLERGIES:  Codeine which causes nausea and vomiting.
+
+SOCIAL HISTORY:  The patient is an ex-smoker and quit 33
+years ago.
+
+FAMILY HISTORY:  Positive for coronary artery disease.  He
+has two brothers who both have had coronary artery bypass
+grafts.
+
+PHYSICAL EXAMINATION:  In general, the patient is alert and
+oriented in no acute distress.  His neurologic examination is
+grossly intact.  No carotid bruits noted.  Pulmonary - The
+lungs are clear to auscultation bilaterally.  Cardiac -
+Regular rate and rhythm, no murmurs noted.  The abdomen is
+soft, nontender, nondistended.  Extremities - Cool feet,
+positive dorsalis pedis and popliteal pulses bilaterally.  No
+edema and no varicosities.
+
+HOSPITAL COURSE:  The patient was admitted on [**2871-5-21**], and
+taken to the operating room on [**2871-5-22**], where coronary
+artery bypass graft times three was performed.
+Postoperatively, the patient required Propofol and
+Neo-Synephrine drip.  He left the operating room as well with
+chest tubes and pacing wires in place.  He received four
+doses of perioperative Vancomycin as antimicrobial
+prophylaxis.  The patient initially did quite well and was
+started on his postoperative medications of Lopressor and
+Lasix.  His diet was advanced successfully.  His drips were
+eventually weaned.  His chest tubes and pacing wires were
+removed at the appropriate time.  The patient was initially
+going to leave the Intensive Care Unit on postoperative day
+number one but once he arrived to the floor, the patient had
+an episode of rapid atrial fibrillation.  He received 8 mg of
+Lopressor which caused his blood pressure to drop
+precipitously.  He was then transferred back to the Intensive
+Care Unit where he required a Neo-Synephrine drip again and
+close observation.  The patient subsequently did well and he
+was started on Amiodarone and continued on his Lopressor.
+While in the Intensive Care Unit, the patient required a unit
+of packed red blood cells for acute anemia.  When the patient
+was adequately stable, he was transferred to the regular
+cardiothoracic floor where he continued to do well.  He was
+seen by physical therapy who were happy with his progress and
+eventually cleared him to go home without continuing physical
+therapy.  The patient was also seen by the Electrophysiology
+team regarding his rapid atrial fibrillation.  They made
+recommendations for anticoagulation and continued Lopressor
+and Amiodarone treatment.  Over the next couple days, the
+patient continued to have short bursts of rapid atrial
+fibrillation that would spontaneously break within
+approximately two minutes.  Finally on [**2871-5-30**], the patient
+had another episode of rapid atrial fibrillation although
+this episode did not break quickly.  He required 10 mg of
+Lopressor and 150 mg of intravenous Amiodarone bolus to break
+the episode.  Electrophysiology again was notified and they
+recommended Lopressor 100 mg twice a day, Amiodarone 400 mg
+twice a day times five days, Amiodarone 400 mg once daily
+thereafter with follow-up in a couple weeks.  They also
+recommended [**Doctor Last Name 852**] of Hearts for discharge.  They did indicate
+that the patient would be safe for discharge.
+
+It is now [**2871-5-30**], and the patient is ready for discharge.
+He will likely go home in the morning on [**2871-5-31**], once INR
+monitoring and [**Doctor Last Name 852**] of Hearts are organized.  The patient
+will be discharged in good condition.
+
+FOLLOW-UP:  He is to follow-up with Dr. [**Last Name (STitle) **] in four
+weeks.  He is to follow-up with Dr. [**Last Name (STitle) 957**] in two weeks and
+Dr. [**First Name4 (NamePattern1) 2092**] [**Last Name (NamePattern1) 6556**] in one to two weeks.
+
+MEDICATIONS ON DISCHARGE:
+1.  Lopressor 100 mg twice a day.
+2.  Amiodarone 400 mg twice a day times five days and then
+once daily.
+3.  Coumadin dose daily per recommendations of Dr. [**First Name4 (NamePattern1) 2092**]
+[**Last Name (NamePattern1) 6556**] after daily INR checks.
+4.  Percocet one to two tablets p.o. q4-6hours p.r.n. pain.
+5.  Atorvastatin 20 mg p.o. once daily.
+6.  Ranitidine 150 mg p.o. twice a day.
+7.  Enteric Coated Aspirin 325 mg p.o. once daily.
+8.  Colace 100 mg p.o. twice a day p.r.n.
+
+The patient may shower but should not take baths.  The
+patient should not drive while on pain medication.  The
+patient should avoid strenuous activity.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 186**], M.D.  [**MD Number(1) 187**]
+
+Dictated By:[**Last Name (NamePattern4) 2915**]
+MEDQUIST36
+
+D:  [**2871-5-31**]  11:16
+T:  [**2871-5-31**]  12:06
+JOB#:  [**Job Number 26967**]
+
+
+
+DOC CLASS

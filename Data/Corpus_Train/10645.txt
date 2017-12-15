@@ -1,0 +1,129 @@
+Admission Date:  [**2990-8-19**]     Discharge Date:  [**2990-8-19**]
+
+Date of Birth:   [**2944-1-4**]     Sex:  F
+
+Service:  TRAUMA
+HISTORY OF PRESENT ILLNESS:  This is a 63-year-old female who
+had a mechanical fall.  The [**Known patient firstname **] fell down several cement
+and concrete stairs head over heels.  She landed at the
+bottom of the stairs supine.  This occurred at the [**Known patient firstname **]
+dentist's office.  A doctor on the scene responded within one
+was found down in a large pool of blood from her head, mostly
+the blood was coming from her left ear.  She was apneic and
+the doctor gave several mouth to mouth rescue breaths.  The
+[**Known patient firstname **] reportedly regained spontaneous respirations.  Heart
+rate was in the 90s and she had a full radial pulse.  EMS
+arrived on the scene.  They attempted intubation without
+success.  The [**Known patient firstname **] was subsequently brought to the [**Location (un) **]
+intubated.  Lateral C spine films there reportedly showed a
+C6 fracture.  [**Known patient firstname 253**] was then transferred to [**Hospital6 1900**] for further care.  She was
+transferred on dopamine for blood pressure control and upon
+arrival was already intubated.  She was not paralyzed or sedated
+but she was completely unresponsive.
+
+PAST MEDICAL HISTORY:  Myopathy with gait abnormality and
+hysterectomy in [**2976**].
+
+MEDICATIONS:  Unknown.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  The [**Known patient firstname **] had a heart rate of 95.
+She had initially no blood pressure, but then 63/32 was
+recorded.  Heart rate 106, saturation was 100% intubated and
+bagged.  Neurologically, GCS was 3T.  Pupils were fixed and
+dilated at 6 mm bilaterally.  The [**Known patient firstname **] was unresponsive.
+There was no corneal reflex.  There was no gag reflex.  There
+was no spontaneous movement of the extremities.  There are
+bilateral ecchymoses around the eyes with swelling.  There
+was perfuse bleeding from the left ear and right naris of the
+nose.  The endotracheal tube and oral gastric tube appeared
+in place.  Her face was stable.  Neck was C spine
+immobilized.  Chest was without bony abnormalities and
+without deformity.  Lungs were with equal air movement
+bilaterally.  Heart was tachycardic with a normal S1, S2
+without murmur.  Abdomen was soft, nondistended without
+bases.  There was decreased rectal tone.  The [**Known patient firstname **] was
+guaiac negative.  Her back was with a left flank hematoma and
+no spine deformity or step-off.  Pelvis was stable.
+Extremities were cool.  There are palpable femoral pulses
+bilaterally.
+
+LABORATORY STUDIES:  Showed a white blood cell count of 24.1,
+hematocrit of 20, down from 33.6 at the outside hospital,
+platelets 51,000.  PT 100, INR greater than 65, PTT 150.
+Sodium 141, potassium 3.3, chloride 113, CO2 15, BUN 23,
+creatinine 0.9, glucose 198.  Urinalysis showed a specific
+gravity of 1.005, greater than 50 red blood cells and nitrate
+positive.  Lactate was 6.6.  Serum toxicology screen was
+negative.  Arterial blood gases showed a pH of 7.22, pCO2 34,
+pO2 356.  CT of the head was obtained which showed large
+comminuted fracture involving the entire skull and face with
+evidence of subarachnoid hemorrhage extending into all
+sinuses.  There was also extensive pneumocephalus.  CT of the
+cervical spine showed multiple fractures involving the base
+of the skull.  There was a question of a superior facet
+fracture of C5.  CT of the chest, abdomen and pelvis showed
+hemorrhagic fluid around the superior portion of the ET tube.
+A mediastinal low attenuation density suggestive of blood.  A
+wedge shaped right mid pole probable renal infarct.  A
+moderate amount of free abdominal fluid and small
+intraperitoneal air.  There was also extravasation of
+contrast into the soft tissues posterior to the lumbosacral
+region, bowel wall thickening enhancement and a flattened IVC
+consistent with volume depletion and shock.  A fast exam done
+by ultrasound was negative.  There was no pericardial
+effusion, no fluid into the Morison's pouch.  A diagnostic
+peritoneal lavage was also performed which showed no frank
+blood.
+
+HOSPITAL COURSE:  An arterial line was placed and a femoral
+cordis line was placed.  Posterior nasal packing was
+undertaken.  The [**Known patient firstname **] was then transferred to the Surgical
+Intensive Care Unit.  Between her stay in the Emergency
+Department and Surgical Intensive Care Unit, the [**Known patient firstname **]
+received 10 units of packed red blood cells, 10 liters of
+isotonic intravenous fluid, 4 units of FFP, 6 units of
+platelets and 2 units of cryoprecipitate. The [**Known patient firstname **] blood
+pressure was remained around the 70s to 90s systolic with
+Neo-Synephrine and dopamine.
+
+In the Intensive Care Unit, the [**Known patient firstname **] developed several
+runs of non-sustained ventricular tachycardia.  She was given
+lidocaine and amiodarone.  Her heart rate then decreased for
+which she was given atropine and epinephrine.  The [**Known patient firstname **]
+was found to be in pulseless electrical activity.  Chest
+compressions were undertaken and epinephrine was given.  The
+[**Known patient firstname **] rhythm degenerated into ventricular fibrillation.
+She received electrical defibrillation at 200, 300 and 360
+joules without response.  After further cardiac
+resuscitation, the [**Known patient firstname **] received an additional two more
+attempts cardioversions at 360 joules, epinephrine and chest
+compressions without any return of function. Despite our attempts
+at mechanical compression of bleeding and aggressive
+attempts at correction of coagulaopathy, the [**Known patient firstname **]
+succumbed and was pronounced dead at 21:15 on [**2990-8-19**].
+
+DISCHARGE DIAGNOSES:
+1.  Exsanguination from head injury.
+2.  Coagulopathy.
+3.  Ventricular fibrillation and cardiopulmonary arrest.
+
+
+
+
+
+
+                          [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD  [**MD Number(1) 887**]
+
+Dictated By:[**Last Name (NamePattern1) 6780**]
+
+MEDQUIST36
+
+D:  [**2990-11-18**]  17:27
+T:  [**2990-11-18**]  17:27
+JOB#:  [**Job Number 6792**]
+
+ 
+ 
+DOC CLASS

@@ -1,0 +1,168 @@
+Chief Complaint: Respiratory Distress
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+ MULTI LUMEN - START [**2920-10-1**] 03:40 PM
+ BLOOD CULTURED - At [**2920-10-1**] 04:00 PM
+ URINE CULTURE - At [**2920-10-1**] 04:00 PM
+ MIDLINE - STOP [**2920-10-1**] 06:28 PM
+ FEVER - 102.6
+F - [**2920-10-1**] 01:00 PM
+   CVL placed without event
+   History obtained from Patient, Medical records
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Cefipime - [**2920-10-1**] 05:00 PM
+   Vancomycin - [**2920-10-1**] 05:47 PM
+   Metronidazole - [**2920-10-2**] 08:10 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2920-10-2**] 12:38 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Constitutional: Fever
+   Flowsheet Data as of  [**2920-10-2**] 11:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.2
+C (102.6
+   Tcurrent: 37.3
+C (99.1
+   HR: 89 (89 - 117) bpm
+   BP: 110/96(122) {93/24(28) - 145/107(131)} mmHg
+   RR: 26 (18 - 29) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 67 Inch
+   CVP: 14 (8 - 15)mmHg
+   Total In:
+                                                                  1,515 mL
+                                                                  2,332 mL
+   PO:
+   TF:
+                                                                     94 mL
+                                                                    637 mL
+   IVF:
+                                                                  1,160 mL
+                                                                  1,486 mL
+   Blood products:
+   Total out:
+                                                                    685 mL
+                                                                    360 mL
+   Urine:
+                                                                    685 mL
+                                                                    360 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    830 mL
+                                                                  1,972 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: Thin
+   Head, Ears, Nose, Throat: Poor dentition
+   Cardiovascular: (S1: Normal), (S2: Distant)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Dullness : )
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Verbal stimuli, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   7.9 g/dL
+   373 K/uL
+   128 mg/dL
+   2.0 mg/dL
+   23 mEq/L
+   4.2 mEq/L
+   42 mg/dL
+   113 mEq/L
+   144 mEq/L
+   23.9 %
+   14.6 K/uL
+        [image002.jpg]
+                             [**2920-9-28**]  06:29 PM
+                             [**2920-9-29**]  04:42 AM
+                             [**2920-9-29**]  12:10 PM
+                             [**2920-10-1**]  05:54 PM
+                             [**2920-10-2**]  04:20 AM
+   WBC
+   14.6
+   Hct
+   27.7
+   23.9
+   Plt
+   373
+   Cr
+   2.5
+   2.1
+   1.9
+   2.0
+   2.0
+   Glucose
+   135
+   141
+   157
+   120
+   128
+   Other labs: Differential-Neuts:76.7 %, Lymph:16.3 %, Mono:5.1 %,
+   Eos:1.8 %, Ca++:8.6 mg/dL, Mg++:2.1 mg/dL, PO4:3.2 mg/dL
+   Assessment and Plan
+   [**Age over 90 363**] yo male with prolonged hosptial course following initial admission
+   with altered mental status and hypernatremia.  He did have urinary
+   system stones identified and implicated in generation of acute renal
+   failure with obstruction now improved.  In that setting he is now
+   admitted with alteration in mental status and respiratory distress to
+   ICU and has shown reasonable response to chagne in VCL and some mild
+   volume support and broad spectrum antibiotics.
+   1)Respiratory Distress-
+   -Vanco/cefepime/Flagyl started but patient has rapid resolution of
+   respiratory compromise which argues largely against primary pulmonary
+   insult.  Distress may well have been related to SIRS from persistent
+   urinary source.
+   2)Sepsis-
+   -Possible urine source, this may have been suggestive of urinary source
+   of persistent SIRS and altered mental status, resp distress.
+   -Klebsiella seen and will Rx with CTX
+   -C-Diff
+PO Flagyl
+   3)Altered Mental Status-
+   -Patient near baseline
+   -Will continue to Rx medical issues as they present and maintain
+   hypernatremia stability via free H2O replacement
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**2920-10-1**] 10:17 PM 55 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2920-10-1**] 03:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :To Floor
+   Total time spent: 40
+
+
+
+DOC CLASS

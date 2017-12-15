@@ -1,0 +1,5 @@
+glove*
+*.pyc
+.DS_Store
+.idea/
+Tex/

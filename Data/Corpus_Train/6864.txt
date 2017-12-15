@@ -1,0 +1,623 @@
+Admission Date:  [**2511-4-14**]              Discharge Date:   [**2511-4-23**]
+
+Date of Birth:  [**2453-6-10**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Percocet / Bactrim Ds / Lisinopril
+
+Attending:[**First Name3 (LF) 682**]
+Chief Complaint:
+[**First Name3 (LF) **]
+
+Major Surgical or Invasive Procedure:
+Intensive Care, Mechanical Ventilation
+
+
+History of Present Illness:
+57 y.o. male with history of MS [**First Name (Titles) **] [**Last Name (Titles) **] who presented
+to [**Hospital1 **] with complaints of fatigue, "low vision" and
+nausea, and decreased function of his hands, b/l hip pain,
+constipation x 1 week.
+
+While being worked up was found to have a low-grade fever (per
+wife- baseline temp is 94-95F) and UTI for which he received
+Ceftriaxone and Vancomcyin and was also hyponatremic to 120.
+
+He was given NS and shortly thereafter had two seizures and bit
+his tongue during one of them with bleeding and was thus
+intubated for airway protection in addition to receiving a total
+of 3 mg IV Ativan.
+
+He was then transferred to [**Hospital1 18**] for neurological evaluation. Of
+note, patient does not have a history of seizure disorder and is
+not on seizure medications. He has had one seizure in the past,
+in the setting of an infection. After arriving to [**Hospital1 18**], he was
+evaluated by neurology who felt that the patient's seizure was
+likely multifactorial in etiology with infection and
+[**Hospital1 **] being the likely contributors. Meningitis was on
+the differential, though not felt to be very likely and given
+his clinical instability, an LP was deferred and Ceftriaxone and
+Vancomycin were continued. Head CT was also unremarkable. He was
+then admitted to the MICU for further management.
+
+ROS: No HA. No menigismus. Inc confusion, clumsiness, low vision
+(typical of infection per wife). Erythema around suprapubic cath
+site, but no exudate.
+
+
+Past Medical History:
+MS - since [**2488**], progressive, quadriplegic, neurogenic bladder
+with suprapubic catheter, restrictive [**Year (4 digits) 1551**]'s
+History of Aspiration PNAs
+Esophageal Ulcer - [**1-31**] NSAIDs, [**2508**], small bowel bx negative
+Recurrent UTIs
+CHF (EF > 65% with moderate LVH in '[**08**])
+HTN
+Legally Blind
+
+
+Social History:
+He is married 32 years and lives with his wife at home.  He has
+three children and three grandchildren. He was a professor [**First Name (Titles) **] [**Last Name (Titles) 25581**] engineering at [**University/College 25582**], but
+retired on disability after the [**2497**] spring semester due to his
+MS. [**Name13 (STitle) **] is wheelchair-bound.  He denies tobacco, alcohol, and
+recreational drug use.  Has personal care assistant.
+
+
+
+Family History:
+Father had CAD and CVA. Mother has [**Name (NI) 2447**] disease. Brother
+has diabetes.
+
+Physical Exam:
+Vitals: T 99.9, HR 71, BP 118/66, R 16, 98% intubated
+Gen- obese, critically ill, bleeding from the mouth, intubated
+and sedated.
+HEENT: NCAT, R corneal hyphema at 3 0'clock, anicteric sclera,
+blood from mouth, + tongue trauma.
+NECK: no carotid bruits bilaterally, no nuchal rigidity.
+CV: distant sounds, RRR, accentuated split S2, no MRG
+PULM: CTA B
+Abd: obese, RLQ with baclofen pump, + BS, ND
+Extrem: generalized edema with 1+ pitting LE edema bilaterally
+to
+above the knee. 1+ dp pulses bilaterally.
+
+NEUROLOGIC EXAM:
+MS- occasionally chewing on ET tube. pt does not open eyes to
+voice. he does not follow commands. he does not localize noxious
+stimuli.
+
+CN- PERRL 5-->3 sluggish, corneal reflex intact bilaterally,
+when
+eyelids are opened he has conjugate roving eye movements, he
+does
+not regard the examiner, oculocephalic reflex intact, brisk gag
+reflex.
+
+Motor- withdraws left arm purposefully to nailbed pressure, no
+withdrawal to pain on left, nail bed pressure on right foot
+induces clonus but no withdrawal, left foot nailbed pressure
+results in slight withdrawal.
+
+left toe muted, right babinski reflex induces clonus.
+
+Sensory- as above in motor exam. withdraws R arm, grimace on L
+arm, RLE clonus, LLE grimace.
+
+Reflexes- clonus at R ankle, absent patellar reflexes, 2+
+symmetric brachioradialis, unable to elicit bicep or triceps
+reflexes.
+
+
+Pertinent Results:
+EKG: Normal sinus at approximately 80, nl axis, nl PR, narrow
+QRS, < 1 mm STD in II and TWI in III.
+
+CT Head ([**4-14**]):
+There is no intracranial mass lesion, hydrocephalus, shift of
+normally midline structures, major vascular territorial infarct,
+or intracranial hemorrhage. The [**Doctor Last Name 347**]-white matter
+differentiation is preserved. The osseous structures are
+unremarkable. The visualized paranasal sinuses demonstrate
+opacification of the ethmoid sinus.
+IMPRESSION: No acute intracranial pathology.
+
+CXR ([**4-14**]): Limited study due to low lung volumes. Endotracheal
+tube
+terminates approximately 5 cm above the carina. Retrocardiac
+opacity may represent the combination of atelectasis and pleural
+effusion, cannot rule out consolidation. Followup is
+recommended.
+
+EEG
+ABNORMALITY #1: Throughout the recording, there is an
+interhemispheric
+asymmetry with more complex rhythms, at times with faster
+frequencies,
+noted on the left compared with a slightly lower voltage and
+slower
+frequency activity over the right side.
+
+ABNORMALITY #2: The background was of low voltage, disorganized,
+and
+slow typically in the [**6-6**] Hz frequency range, admixed with
+bursts of
+generalized mixed frequency theta and delta frequency slowing.
+
+BACKGROUND: As above.
+HYPERVENTILATION: Could not be performed as this was a portable
+study.
+INTERMITTENT PHOTIC STIMULATION: Could not be performed as this
+was a
+portable study.
+SLEEP: No normal waking or sleeping morphologies were noted.
+CARDIAC MONITOR: Showed a generally regular rhythm with an
+average rate
+of 78 bpm.
+
+IMPRESSION: This is an abnormal portable EEG due to the
+interhemispheric asymmetry with somewhat more complex and faster
+
+frequency rhythms noted broadly over the left side compared with
+lower
+voltage and slower frequency rhythms noted over the right. The
+findings
+suggest bilateral subcortical dysfunction which is more
+prominent over
+the right side. In addition, the background was disorganized,
+low
+voltage and slow with admixed bursts of generalized mixed
+frequency
+slowing with this constellation of findings being consistent
+with a
+diffuse moderately severe encephalopathy. Medications, metabolic
+
+disturbances, and infection are among the common causes of
+encephalopathy but there are others. There were no epileptiform
+features and no electrographic seizure activity was noted.
+
+ECHO:
+The left atrium is mildly dilated. There is moderate symmetric
+left ventricular hypertrophy. The left ventricular cavity is
+small. Overall left ventricular systolic function is normal
+(LVEF 70%). There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+aortic root is mildly dilated at the sinus level. The aortic
+valve leaflets (3) appear structurally normal with good leaflet
+excursion and no aortic regurgitation. The mitral valve appears
+structurally normal with trivial mitral regurgitation. There is
+no mitral valve prolapse. The pulmonary artery systolic pressure
+could not be determined. There is no pericardial effusion.
+
+Compared with the findings of the prior study (images reviewed)
+of [**2509-11-11**], the findings are similar.
+
+VIDEO SWALLOW
+OROPHARYNGEAL VIDEO FLUOROSCOPIC SWALLOWING EVALUATION:
+
+An oral and pharyngeal swallow evaluation was performed in
+conjunction with speech and pathology department. Under
+continuous videofluoroscopy, barium of various consistencies was
+administered orally to the patient.
+
+ORAL PHASE: Mastication of solids was slow. There was reduction
+in AP tongue movement secondary to weakness. Bolus control was
+mildly reduced with premature spillover into the pharynx. A mild
+coating of the oral cavity residue remained after the swallow.
+This was cleared with repeat swallows.
+
+PHARYNGEAL PHASE: There was mild delay in swallowing initiation.
+Epiglottic deflection was incomplete, although NG tube presence
+may have been partially responsible. Pharyngeal transit time was
+normal, but pharyngeal constriction appeared mildly reduced. A
+mild coating of residue remained in the vallecula and piriform
+sinuses after liquids and solids. This was cleared with repeat
+swallows.
+
+ASPIRATION/PENETRATION: There was penetration before the swallow
+with thin liquids, nectar thick liquids and pureed solids. There
+was one trace aspiration episode after the swallow. A
+spontaneous throat clear was effective in clearing the aspirated
+material.
+
+IMPRESSION:
+1. Mild oral and pharyngeal dysphagia.
+2. Premature spillover, swallow delay and reduced pharyngeal
+constriction.
+3. Penetration before the swallow, with one episode of trace
+aspiration.
+
+CXR [**2511-4-23**]
+PORTABLE CHEST RADIOGRAPH: Nasogastric tube is seen with tip
+overlying the stomach, with residual contrast material within
+the stomach. Cardiac and mediastinal contours appear stable.
+Pulmonary vasculature is within normal limits. Improved aeration
+of the left base is noted. No definite consolidation identified,
+although the left costophrenic angle is excluded from the image.
+
+IMPRESSION: Improved aeration of the left base. No definite
+focal consolidations are identified.
+
+LABORATORY STUDIES
+
+HEMATOLOGY
+[**2511-4-14**] 12:10AM BLOOD WBC-16.3*# RBC-3.82* Hgb-11.3* Hct-32.9*
+MCV-86 MCH-29.7 MCHC-34.5 RDW-14.2 Plt Ct-307
+[**2511-4-14**] 04:25AM BLOOD WBC-15.9* RBC-3.58* Hgb-10.5* Hct-31.2*
+MCV-87 MCH-29.4 MCHC-33.7 RDW-14.2 Plt Ct-278
+[**2511-4-14**] 07:24PM BLOOD WBC-11.9* RBC-2.95* Hgb-8.9* Hct-25.7*
+MCV-87 MCH-30.1 MCHC-34.5 RDW-14.6 Plt Ct-252
+[**2511-4-14**] 09:02PM BLOOD Hct-25.2*
+[**2511-4-15**] 03:45AM BLOOD WBC-10.0 RBC-2.84* Hgb-8.4* Hct-24.6*
+MCV-87 MCH-29.7 MCHC-34.3 RDW-14.8 Plt Ct-250
+[**2511-4-19**] 02:27AM BLOOD WBC-10.7 RBC-3.01* Hgb-9.0* Hct-26.6*
+MCV-88 MCH-29.9 MCHC-33.9 RDW-14.7 Plt Ct-474*
+[**2511-4-20**] 05:02AM BLOOD WBC-9.4 RBC-2.96* Hgb-8.9* Hct-26.6*
+MCV-90 MCH-30.0 MCHC-33.4 RDW-14.3 Plt Ct-547*
+[**2511-4-21**] 06:45AM BLOOD WBC-11.7* RBC-3.15* Hgb-9.0* Hct-28.4*
+MCV-90 MCH-28.5 MCHC-31.7 RDW-14.3 Plt Ct-688*
+[**2511-4-22**] 05:45AM BLOOD WBC-10.7 RBC-3.24* Hgb-9.5* Hct-29.0*
+MCV-90 MCH-29.4 MCHC-32.8 RDW-14.6 Plt Ct-810*
+[**2511-4-23**] 06:05AM BLOOD WBC-10.7 RBC-3.13* Hgb-9.2* Hct-28.3*
+MCV-91 MCH-29.5 MCHC-32.6 RDW-14.9 Plt Ct-868*
+
+COAGULATION
+[**2511-4-14**] 12:10AM BLOOD PT-12.2 PTT-33.3 INR(PT)-1.0
+[**2511-4-14**] 04:25AM BLOOD PT-11.5 PTT-33.0 INR(PT)-1.0
+[**2511-4-22**] 05:45AM BLOOD PT-13.0 PTT-27.1 INR(PT)-1.1
+[**2511-4-22**] 05:45AM BLOOD Plt Ct-810*
+[**2511-4-23**] 06:05AM BLOOD Plt Ct-868*
+
+CHEMISTRIES
+[**2511-4-14**] 12:10AM BLOOD Glucose-137* UreaN-13 Creat-0.8 Na-120*
+K-4.8 Cl-89* HCO3-26 AnGap-10
+[**2511-4-14**] 04:25AM BLOOD Glucose-114* UreaN-15 Creat-0.8 Na-121*
+K-5.8* Cl-87* HCO3-27 AnGap-13
+[**2511-4-14**] 07:24PM BLOOD Glucose-134* UreaN-23* Creat-1.4* Na-121*
+K-5.5* Cl-89* HCO3-24 AnGap-14
+[**2511-4-14**] 09:02PM BLOOD Na-121* K-4.7 Cl-90* HCO3-24 AnGap-12
+[**2511-4-15**] 03:45AM BLOOD Glucose-120* UreaN-28* Creat-1.5* Na-125*
+Cl-92* HCO3-23
+[**2511-4-21**] 06:45AM BLOOD Glucose-111* UreaN-9 Creat-0.5 Na-139
+K-4.2 Cl-103 HCO3-27 AnGap-13
+[**2511-4-22**] 05:45AM BLOOD Glucose-118* UreaN-7 Creat-0.6 Na-139
+K-4.6 Cl-103 HCO3-26 AnGap-15
+[**2511-4-23**] 06:05AM BLOOD Glucose-99 UreaN-17 Creat-1.0 Na-138
+K-5.1 Cl-101 HCO3-24 AnGap-18
+[**2511-4-14**] 04:25AM BLOOD Calcium-9.1 Phos-3.8 Mg-1.6
+[**2511-4-14**] 07:24PM BLOOD Calcium-9.1 Phos-3.4 Mg-2.4
+[**2511-4-22**] 05:45AM BLOOD Calcium-9.7 Phos-3.1 Mg-2.1
+[**2511-4-23**] 06:05AM BLOOD Calcium-9.9 Phos-4.6* Mg-2.3
+[**2511-4-15**] 04:02PM BLOOD LD(LDH)-287* TotBili-0.3
+[**2511-4-14**] 12:10AM BLOOD Osmolal-260*
+[**2511-4-14**] 02:05PM BLOOD Osmolal-260*
+
+ENDOCRINOLOGY
+[**2511-4-14**] 04:25AM BLOOD TSH-3.0
+[**2511-4-14**] 02:05PM BLOOD TSH-2.0
+[**2511-4-14**] 02:05PM BLOOD Cortsol-47.6*
+
+HAPTO
+[**2511-4-15**] 04:02PM BLOOD Hapto-323*
+
+URINALYSIS
+                         Color Appear Sp [**Last Name (un) **]
+[**2511-4-23**] 12:38AM      Yellow Clear 1.014
+Source: Catheter
+[**2511-4-20**] 09:10AM      Yellow Clear 1.011
+Source: Catheter
+[**2511-4-18**] 10:32PM      Yellow Hazy 1.021
+Source: Catheter
+[**2511-4-15**] 05:18PM      Yellow Clear 1.006
+Source: Catheter
+[**2511-4-14**] 04:53AM      Yellow Hazy 1.017
+Source: Catheter
+[**2511-4-14**] 12:25AM      Yellow Cloudy 1.020
+
+DIPSTICK URINALYSIS   Bld Nit Prtn G  Ket Bil Urb pH Leuks
+[**2511-4-23**] 12:38AM    NEG NEG TR NEG NEG NEG NEG 7.5 TR
+Source: Catheter
+[**2511-4-20**] 09:10AM    SM NEG NEG NEG NEG NEG NEG 6.5 SM
+Source: Catheter
+[**2511-4-18**] 10:32PM    TR NEG 30 70 NEG NEG NEG 5.5 MOD
+Source: Catheter
+[**2511-4-15**] 05:18PM    SM NEG NEG NEG NEG NEG NEG 5.0 SM
+Source: Catheter
+[**2511-4-14**] 04:53AM    MOD NEG TR NEG NEG NEG NEG 7.0 SM
+Source: Catheter
+[**2511-4-14**] 12:25AM    MOD NEG 30 NEG NEG NEG NEG 8.0 MOD
+
+MICROSCOPIC EXAM      RBC WBC Bac Yeast Epi TransE RenalEp
+[**2511-4-23**] 12:38AM    11* 7* NONE MOD <1
+Source: Catheter
+[**2511-4-20**] 09:10AM    0 [**3-4**] 0 MANY [**3-4**]
+Source: Catheter
+[**2511-4-18**] 10:32PM    16* 43* NONE MANY 1
+Source: Catheter
+[**2511-4-15**] 05:18PM    0-2 [**3-4**] OCC MOD 0
+Source: Catheter
+[**2511-4-14**] 04:53AM    0-2 [**3-4**] FEW OCC 0
+Source: Catheter
+[**2511-4-14**] 12:25AM    [**3-4**]* >50 MOD NONE 0-2   0-2
+
+MICROBIOLOGY
+[**2511-4-23**] URINE URINE CULTURE-PENDING INPATIENT
+[**2511-4-22**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2511-4-22**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2511-4-20**] STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT
+[**2511-4-20**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2511-4-20**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2511-4-20**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2511-4-19**] STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT
+[**2511-4-19**] BLOOD CULTURE Blood Culture, Routine-PENDING
+INPATIENT
+[**2511-4-18**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2511-4-18**] STOOL CLOSTRIDIUM DIFFICILE TOXIN ASSAY-FINAL
+INPATIENT
+[**2511-4-15**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+INPATIENT
+[**2511-4-15**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2511-4-14**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+INPATIENT
+[**2511-4-14**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT
+[**2511-4-14**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT
+[**2511-4-14**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+INPATIENT
+[**2511-4-14**] URINE URINE CULTURE-FINAL {YEAST} INPATIENT
+[**2511-4-14**] BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT
+
+
+Brief Hospital Course:
+A/P: 57 y.o. male with MS who presented wtih UTI and
+[**Year (4 digits) **] s/p seizures x 2.
+
+
+SEIZURES
+Patient does not have a history of a seizure disorder though he
+has had one seizure in the past, in the setting of an infection.
+He was found to have both UTI and pneumonia (possibly
+aspiration) on admission. Additionally, he was hyponatremic to
+120. Both of these factors likely contributed to the patient's
+seizures. CT head was unremarkable. Neuro followed during his
+admission.  He was loaded with dilantin and then transitioned to
+Keppra.  No further seizures during admission. He should
+continue to increase his keppra per schedule up to 1500mg PO
+BID, up 500mg/day every 3 days.
+
+WEAKNESS / MULTIPLE SCLEROSIS
+At baseline he is wheelchair bound and unable to life his legs.
+He can raise both of his arms antigravity, and is typically able
+to operate the remote control with his right hand.
+
+The patient was followed by neurology. He has LE weakness at
+baseline (in a wheelchair) and ha owrsening UE weakness that was
+starting to improve on discharge. Admission exam as detailed
+above.  It was not felt that he was having an MS flare; he
+should follow up with his MS doctor, Dr. [**Last Name (STitle) 8651**], within [**12-31**]
+weeks of discharge.
+
+[**Month/Day (2) **]
+Possible etiologies included hypovolemic hypoNa and SIADH. Given
+that this was symptomatic [**Month/Day (2) **] and not clearly
+hypovolemic in nature, slow infusion of hypertonic saline was
+used to increase sodium by [**4-4**] mEq.  Urine osmoles initially
+above 500.  The lowest urine osmolarity achieved was 390 despite
+normal volume status, suggesting SIADH as a component.  Renal
+saw the patient and agreed with SIADH, recommending a high salt
+diet. The importance of fluid restriction was discussed
+(previously drinking 3 liters per day free water). However, if
+the patient needs to drink copious amounts for his suprapub
+catheter (as recommended by urology), then he should have high
+salt, high protein diet. With mild fluid restriction, sodium
+improved into mid to upper 130s.
+
+
+UTI / PROTEUS, YEAST
+Patient has a history of recurrent UTIs s/p suprapubic catheter.
+ UA appeared infected rather than colonized given the high
+amount of WBCs. Cultures from OSH grew Klebsiella sensitive to
+ceftriaxone and he completed a 7 day course.  Suprapubic
+catheter was changed on [**4-17**].
+
+He had low grade temperature to 100.1 and was pancultured. His
+urine continued to grow yeast, and he was started on 5 days of
+fluconazole on [**2511-4-23**].
+
+BLOOD CULTURES were drawn sevaral points during this admission
+and have all been negative in house.
+
+ASPIRATION PNEUMONIA
+Had infiltrate, fever, and clear aspiration after seizing with
+tongue trauma.  He was treated with a 7 day course of
+ceftriaxone/metronidazole.  Sputum cultures did not isolate
+pathogens.  Support for respiratory failure as detailed below.
+
+The patient was evaluated for recurrent aspiration risk. A
+modified soft solid diet with thin liquids was recommended after
+video swallow.
+
+
+RESPIRATORY FAILURE
+Patient reportedly has a history of restrictive lung disease,
+which is evidenced on CXR, though by history, he was only
+intubated for airway protection in the setting of a seizure. He
+initially had higher than anticipated oxygenation requirements,
+but this improved with treatment of his pneumonia.  He was
+extubated [**4-16**].
+
+[**Hospital1 **]/PAP was used on the medical floor at home settings [**12-9**].
+
+THROMBOCYTOSIS
+The patient developed elevated platelet counts while in house.
+This was felt to be reactive process, possibly from yeast UTI.
+
+CHF
+Appears euvolemic to mildly fluid-up.  Some evidence of
+pulmonary and peripheral edema.  Echo showed mod LVH with EF
+70%.
+
+
+DYSAUTONOMIA
+The patient's wife reports that he runs low temperatures, and
+was very concerned about temperatures which were 98-99, which
+she considered fever. He was pancultured for these in the ICU
+but cultures were all negative or no growth to date.
+
+He had several swings in his blood pressure, for which iv
+medication for hypertensive urgency (BP 200/100) were avoided.
+
+HTN
+Initially with borderline hypotension requiring decrease in
+hypertension regimen.  Eventually HTN worsened - added back home
+regimen (clonidine and beta blockade) plus hydralazine and
+amlodipine.  He was transitioned to carvedilol from lopressor.
+BP was overall quite labile and required frequent adjustment of
+his regimen.
+
+
+Medications on Admission:
+Baclofen (pump)
+Brimonidine
+Clonidine 0.2 mg PO BID
+Fentanyl 25 mcg TD Q 72
+Combivent
+Lactulose 10 mL PRN
+Metoprolol 25 mg PO BID
+Minocycline 100 mg PO BID
+Omeprazole 20 mg PO BID
+Oxazepam 15 mg PO QHS
+Oxybutynin Chloride 5 mg PO BID
+Paroxetine 40 mg PO QD
+Simvastatin 40 mg PO QD
+Ascorbic Acid 500 mg PO BID
+Dulcolax 10 mg PRN
+Calcium 500 mg PO TID
+Cranberry 475 mg [**Hospital1 **]
+Vitamin D 400 mg [**Hospital1 **]
+Iron 45 mg PO QD
+MVI
+Omega 3 Fatty Acids
+Metamucil
+Senna
+
+
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) [**Hospital1 **]: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+2. Senna 8.6 mg Tablet [**Hospital1 **]: One (1) Tablet PO BID (2 times a
+day) as needed.
+3. Heparin (Porcine) 5,000 unit/mL Solution [**Hospital1 **]: 5000 (5000)
+UNITS Injection TID (3 times a day).
+4. Brimonidine 0.15 % Drops [**Hospital1 **]: One (1) Drop Ophthalmic Q8H
+(every 8 hours).
+5. Omega-3 Fatty Acids     Capsule [**Hospital1 **]: One (1) Capsule PO BID
+(2 times a day).
+6. Calcium Carbonate 500 mg Tablet, Chewable [**Hospital1 **]: One (1)
+Tablet, Chewable PO TID (3 times a day).
+7. Cholecalciferol (Vitamin D3) 400 unit Tablet [**Hospital1 **]: One (1)
+Tablet PO DAILY (Daily).
+8. Simvastatin 40 mg Tablet [**Hospital1 **]: One (1) Tablet PO DAILY
+(Daily).
+9. Oxybutynin Chloride 5 mg Tablet [**Hospital1 **]: Three (3) Tablet PO HS
+(at bedtime).
+10. Paroxetine HCl 20 mg Tablet [**Hospital1 **]: Two (2) Tablet PO HS (at
+bedtime).
+11. Acetaminophen 325 mg Tablet [**Hospital1 **]: 1-2 Tablets PO Q6H (every 6
+hours) as needed.
+12. Baclofen pump
+Please continue Baclofen pump.
+13. Clonidine 0.1 mg Tablet [**Hospital1 **]: Two (2) Tablet PO BID (2 times
+a day).
+14. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization [**Hospital1 **]:
+0.083% neb solution Inhalation Q6H (every 6 hours) as needed for
+shortness of breath or wheezing.
+15. Ipratropium Bromide 0.02 % Solution [**Hospital1 **]: One (1) neb
+Inhalation Q6H (every 6 hours) as needed for shortness of breath
+or wheezing.
+16. Multivitamin     Capsule [**Hospital1 **]: One (1) Capsule PO once a day.
+
+17. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1)
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).
+18. Ferrous Sulfate 325 mg (65 mg Iron) Tablet [**Last Name (STitle) **]: One (1)
+Tablet PO once a day.
+19. Latanoprost 0.005 % Drops [**Last Name (STitle) **]: One (1) Drop Ophthalmic HS
+(at bedtime).
+20. Docusate Sodium 100 mg Capsule [**Last Name (STitle) **]: One (1) Capsule PO BID
+(2 times a day) as needed for constipation.
+21. Carvedilol 12.5 mg Tablet [**Last Name (STitle) **]: Two (2) Tablet PO BID (2
+times a day).
+22. Fentanyl 12 mcg/hr Patch 72 hr [**Last Name (STitle) **]: One (1) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+23. Amlodipine 5 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily).
+
+24. Keppra 1,000 mg Tablet [**Last Name (STitle) **]: One (1) Tablet PO twice a day:
+After 3 days, increase to 1250 [**Hospital1 **] for 3 days, then 1500 [**Hospital1 **] for
+final dose.
+25. Fluconazole 100 mg Tablet [**Hospital1 **]: One (1) Tablet PO Q24H (every
+24 hours) for 4 days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital3 1093**] Rehabilitation Hospital - [**Location (un) 38**]
+
+Discharge Diagnosis:
+PRIMARY:
+SEIZURE DISORDER, NOS
+MULTIPLE SCLEROSIS
+
+SECONDARY:
+CONGESTIVE HEART FAILURE, CHRONIC DIASTOLIC
+HYPERTENSION
+Legally Blind
+
+
+Discharge Condition:
+Hemodynamically stable, afebrile.
+
+
+Discharge Instructions:
+You were transferred to [**Hospital1 18**] with new seizures, and a urinary
+tract infection. You were started on an antiseizure medication
+called KEPPRA. You were treated for a urinary tract infection;
+you received antibiotics for a bacterial UTI and started on
+fluconazole for a yeast UTI. You were evaluated by neurology and
+felt not to have a new multiple sclerosis flare.
+
+Your medications have changed. Please review your new medication
+list.
+
+If you develop fever > 100.4, chills, new pain, or other
+concerning symptoms, please notify the doctor on call or return
+to the hospital.
+
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 1556**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 21904**]
+Date/Time:[**2511-4-27**] 9:45
+
+Provider: [**First Name11 (Name Pattern1) 1023**] [**Last Name (NamePattern4) 2301**], MD Phone:[**Telephone/Fax (1) 452**]
+Date/Time:[**2511-5-11**] 4:30
+
+Provider: [**Name Initial (NameIs) 696**] (H3) GENERAL 2 RADIOLOGY Phone:[**Telephone/Fax (1) 323**]
+Date/Time:[**2511-7-13**] 11:00
+
+Provider: [**First Name8 (NamePattern2) 159**] [**Name11 (NameIs) 160**] [**Name8 (MD) 161**], MD Phone:[**Telephone/Fax (1) 909**]
+Date/Time:[**2511-7-13**] 1:00
+
+
+
+
+
+
+DOC CLASS

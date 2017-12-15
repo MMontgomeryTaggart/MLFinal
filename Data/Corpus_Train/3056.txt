@@ -1,0 +1,247 @@
+Admission Date:  [**2552-1-25**]              Discharge Date:   [**2552-2-4**]
+
+Date of Birth:  [**2499-7-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ampicillin / Valium / Allopurinol
+
+Attending:[**First Name3 (LF) 343**]
+Chief Complaint:
+SOB
+
+Major Surgical or Invasive Procedure:
+DCCV
+
+History of Present Illness:
+52 YO female with Hx of CHF (EF55%) seen by Dr. [**First Name (STitle) 432**] in
+Cardiology clinic , COPD (FEV1 1.8), Hx of afib, HTN, PVD, CRI
+who c/o 1-2 weeks of increased dyspnea on excertion. Patient
+states her symptoms have been getting worse over the past few
+days. She also noticed that she had increased swelling of her
+legs and abdomen. She states she has been taking her lasix but
+not too much UOP. She came to the ED because her symptoms were
+not improving and got nebulizer treatments, steroids, and dose
+of abx in the ED. She was breifly on BiPap in the ED and
+transferred to the [**Hospital Unit Name 152**] where her symptoms quickly improved and
+she was put back on nasal cannula.
+
+.
+Pt uses 2L O2 at home when needed and uses inhalers when needed
+at home. She denies any fever or chills. She describes her
+dyspnea as "chest tightness."
+(+) PND and has 2 pillow orthopnea. No Palpitation.
+
+Also in the ED patient EKG was noted to be in Afib.
+
+
+Past Medical History:
+1. CHF: history of both right- and left-sided CHF with
+significant pulmonary hypertension. Most recent cardiac
+catheterization in [**1-/2548**] revealed PCW of 32, PAP of 78/33, RA
+
+mean 22 and normal cardiac output. Last echo on [**4-10**],
+showed normal left ventricular wall thickness, cavity size, and
+
+systolic function (LVEF>55%). Right ventricular chamber size and
+
+free wall motion were also normal. A left-to-right shunt across
+the
+interatrial septum is seen at rest. A small secundum atrial
+septal defect (ASD) is present.
+2. Hypertension
+3. COPD: Her PFT??????s on [**2548-9-9**] were within normal limits
+(FEV1=1.8 L, FVC= 2.44 L)
+4. Atrial fibrillation: Since [**2549-12-13**]
+5. ASD: a left-to-right shunt across the interatrial septum was
+
+first observed on echo on [**2547-12-20**].
+6. Positive PPD in [**2542**] with negative chest x-ray; no
+prophylaxis given.
+7. Peripheral vascular disease: s/p left femoral-popliteal
+bypass on [**11/2542**]
+8. Renal insufficiency: Elevated creatinines since [**2542**],
+baseline creatinine is 2.5 on [**2550-8-24**]
+9. Gout: First episode in [**2549-12-6**] during hospitalization
+for CHF exacerbation.
+10. Eczematous dermatitis: Biopsied in [**2550-7-23**], reaction to
+allopurinol
+11. Fibroid uterus: diagnosed during pelvic ultrasound on
+[**2547-5-4**].
+12. Duodenitis
+
+
+Social History:
+Patient works as a bus monitor. She lives with her boyfriend.
+She quit smoking 4 years ago after a 26-pack-year history. She
+drinks socially and denies illegal drug use.
+
+Family History:
+Mother died of heart problems at age 27. Grandmother died of
+heart problems at 73. Father had kidney problems and died in his
+
+50??????s.
+
+Physical Exam:
+T 98.4 BP 149/79 HR 89 RR 20 O2Sat 94% on 2L NC
+Gen: Patient sitting up in bed [**Location (un) 1116**] magazine, able to talk
+w/o difficulty
+Heent: PERRL, EOMI, OP clear, MMM
+Neck: Increased JVD not appreciated
+Lungs: Bibasilar crackles, no wheezes
+Cardiac: Irregularly Irregular, S1/S2 no murmurs
+Abdomen: Obese, soft, +BS
+Ext: Healed scar on LE B/L, +1 pitting edema upto shin B/L
+Neuro: AAOx3
+
+
+Pertinent Results:
+CXR: AP UPRIGHT CHEST RADIOGRAPH: Lung volumes are low. There is
+moderate stable cardiomegaly. A left retrocardiac opacity
+represents
+atelectasis and/or consolidation. No demonstrable pleural
+effusions are
+seen. No evidence of pneumothorax. Osseous structures are
+unchanged.
+
+[**2552-1-26**] 06:19AM BLOOD WBC-6.3 RBC-3.90* Hgb-10.0* Hct-31.9*
+MCV-82 MCH-25.5* MCHC-31.3 RDW-16.7* Plt Ct-263
+[**2552-1-26**] 06:19AM BLOOD Neuts-87.2* Lymphs-10.7* Monos-1.8* Eos-0
+Baso-0.2
+[**2552-1-26**] 06:19AM BLOOD PT-14.4* PTT-25.8 INR(PT)-1.4
+[**2552-1-26**] 06:19AM BLOOD Glucose-146* UreaN-46* Creat-3.2* Na-142
+K-4.4 Cl-103 HCO3-26 AnGap-17
+[**2552-1-25**] 09:35AM BLOOD CK(CPK)-68
+[**2552-1-25**] 09:35AM BLOOD CK-MB-NotDone cTropnT-<0.01 proBNP-4537*
+[**2552-1-25**] 03:50PM BLOOD CK(CPK)-15*
+[**2552-1-25**] 03:50PM BLOOD CK-MB-2 cTropnT-<0.01
+[**2552-1-25**] 08:03PM BLOOD CK(CPK)-59
+[**2552-1-25**] 08:03PM BLOOD CK-MB-1 cTropnT-<0.01
+
+Brief Hospital Course:
+52 YO female with Hx of diastolic CHF, A fib, COPD admitted with
+shortness of breath which has improved, attempted chemical
+cardioversion to SR with propafenone.
+.
+1. Afib - New onset, TEE without clot. Started on propafenone on
+[**1-27**] --> [**1-28**] still in AF 80s. [**2552-1-30**] - DCCV after 3 days of
+Propafenone. Patient converted to sinus. Patient continued on
+propafenone 150mg tid and carvedilol.  Started on coumadin by
+[**Hospital Unit Name 152**] team. Bridged with Heparin. INR still sub-therapeutic at
+1.9 at time of discharge. Coumadin dose increased to 7.5 mg QHS.
+ She will have INR checked in 2 days as an out-patient.  On day
+of discharge she went back into a fib, however, she remained
+rate controlled. She was discharged on amlodipine and Coreg. She
+will follow-up with EP as an out-pt.
+.
+2. Acute on CRI - Cr up to 3.6 when discharged, BUN 48, likely
+secondary to overdiuresis. Lasix IV was held with plan to
+restart at Lasix 80mg po qd when discharged. Should have BUN/Cr
+checked by PCP in the week following her discharge.
+.
+3. Heart failure - Hx of diastolic heart failure probably
+exacerbated with a fib, symptoms improved when patient was
+cardioverted.
+.
+4. HTN - BP well controlled during her stay.  Lisinopril was
+discontinued due to her worsening renal failure.
+.
+5. GERD - Recent EGD which showed duodenitis. Hct stable during
+her admission. Patient received pantoprazole. Aspirin was held.
+.
+6. COPD: Stable, on O2 prn at home. Ipratroprium and albuterol
+continued prn.
+.
+
+
+Medications on Admission:
+Coreg 75 mg twice daily
+Norvasc 10 mg twice daily
+lisinopril 10 mg once daily,
+folic acid,
+Lipitor 20 mg once daily,
+Protonix 40 mg once daily,
+Imdur 60 mg once daily,
+Lasix 80 mg in the morning and 40 mg in the afternoon,
+colchicine as needed
+Flovent
+Atrovent prn
+
+Discharge Medications:
+1. Carvedilol 12.5 mg Tablet Sig: Six (6) Tablet PO BID (2 times
+a day).
+2. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a
+day).
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+5. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR
+Sig: One (1) Tablet Sustained Release 24HR PO HS (at bedtime).
+6. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2)
+Puff Inhalation Q4-6H (every 4 to 6 hours) as needed.
+7. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation
+Q4-6H (every 4 to 6 hours) as needed.
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+10. Propafenone 150 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+11. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+12. Warfarin 5 mg Tablet Sig: 1.5 Tablets PO HS (at bedtime):
+You should have your INR checked regularly with a goal of [**3-11**].
+Disp:*30 Tablet(s)* Refills:*2*
+13. Furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+14. Outpatient Lab Work
+Please draw PT/INR, BUN, creatinine, potassium on Monday [**2-8**] and send results to [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2981**], [**Telephone/Fax (1) 247**].
+15. Return to [**Known patient lastname 14369**] was hospitalized under my care from [**2552-1-25**] -
+[**2552-2-4**]. She may return to work as tolerated beginning [**2552-2-5**]
+as tolerated. For further questions, please contact myself or
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2981**] at [**Telephone/Fax (1) 247**].
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Atrial fibrillation
+Diastolic Heart failure
+Acute Renal Failure
+Chronic Renal Failure
+
+
+Discharge Condition:
+Good- able to ambulate and perform ADLs without assistance.
+
+
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) 137**] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction:  1 liter per day.
+
+Please check INR, please call your PCP SHIP,[**Name9 (PRE) 667**] [**Name Initial (PRE) **]. [**Telephone/Fax (1) 247**]
+to arrange blood draws.
+
+Followup Instructions:
+Please follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2981**] (at [**Company 189**]) in [**2-7**] weeks. You
+should have your INR/creatinine/potassium drawn with the
+accompanying lab slip and have results sent to her if you are
+not planning on going to the [**Company 189**] laboratory.
+
+You also have follow up with DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **] Phone:[**Telephone/Fax (1) 3462**]
+Date/Time:[**2552-3-6**] 9:30 from cardiology.
+
+You also have an appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] which you
+scheduled.
+
+
+
+
+
+
+DOC CLASS

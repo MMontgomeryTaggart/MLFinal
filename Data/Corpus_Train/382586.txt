@@ -1,0 +1,220 @@
+SICU
+   HPI:
+   54M s/p OLT with complex post-op course who was transferred to ER by
+   VNA due to altered mental status and low O2 sats.  In the OSH ER he had
+   several bouts of coffee-ground emesis.  Patient was transferred to
+   [**Hospital1 52**] on dopamine which was chosen due to peripheral access only.
+   Patient was given central line in ER, started on epinephrine, and
+   transferred to SICU for further management.  Patient was recently
+   treated for Cdiff and had a recent hospital discharge for a hip
+   fracture.
+   Chief complaint:
+   urosepsis
+   PMHx:
+   PMH: ascites, hepatorenal syndrome, esophageal varices, portal
+   gastropathy, partial portal vein thrombosis, benign polyp (vs adenoCA),
+   cervical stenosis, HTN, Cdiff, hyperlipidemia, anemia, depression, BPH,
+   positive PF4 antibody, Torsades while on ciprofloxacin, hypertension,
+   colorectal cancer, candidal and bacterial (SBP) peritonitis
+   .
+   PSH: OLT [**7-15**], subtotal colectomy [**1-15**], neg ex lap [**9-15**] for SBO, s/p
+   staged closure [**9-22**], Cannulated screws right hip [**2595-3-5**],
+   ureteroscopy+laser lithotripsy+and stent placement;
+   Current medications:
+   Calcium Gluconate. Colistin. Fentanyl gtt. Insulin. Linezolid.
+   MetRONIDAZOLE. Meropenem. Miconazole Powder 2%. Norepinephrine.
+   Pantoprazole. Propofol. Vancomycin Oral Liquid.
+   24 Hour Events:
+ ENDOSCOPY - At [**2595-4-8**] 02:00 PM
+ BLOOD CULTURED - At [**2595-4-8**] 04:00 PM
+   [**4-8**] continued with IVF resuscitation, EGD showed small [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+   tear and gastritis, ID consulted and amikacin stopped and colistin
+   began, UOP improved overnight
+   Allergies:
+   Penicillins
+   Unknown;
+   Aspirin
+   Unknown;
+   Ibuprofen
+   Unknown;
+   Ciprofloxacin
+   Tosades ;
+   Last dose of Antibiotics:
+   Amikacin - [**2595-4-7**] 09:45 PM
+   Colistin - [**2595-4-8**] 03:00 PM
+   Metronidazole - [**2595-4-9**] 12:00 AM
+   Meropenem - [**2595-4-9**] 04:00 AM
+   Linezolid - [**2595-4-9**] 06:00 AM
+   Vancomycin - [**2595-4-9**] 06:00 AM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Propofol - 10 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2595-4-9**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**2595-4-9**] 06:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**98**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37
+C (98.6
+   HR: 56 (50 - 67) bpm
+   BP: 103/55(74) {87/43(59) - 125/62(85)} mmHg
+   RR: 14 (12 - 22) insp/min
+   SPO2: 100%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 75 kg (admission): 70 kg
+   Height: 70 Inch
+   CVP: 12 (6 - 16) mmHg
+   Total In:
+                                                                  9,264 mL
+                                                                  2,440 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  9,209 mL
+                                                                  2,440 mL
+   Blood products:
+   Total out:
+                                                                    833 mL
+                                                                    374 mL
+   Urine:
+                                                                    533 mL
+                                                                    224 mL
+   NG:
+                                                                    300 mL
+                                                                    150 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  8,431 mL
+                                                                  2,068 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 21 cmH2O
+   Plateau: 18 cmH2O
+   SPO2: 100%
+   ABG: 7.26/36/142/15/-9
+   Ve: 7.1 L/min
+   PaO2 / FiO2: 355
+   Physical Examination
+   General Appearance: Intubated and sedated
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), bradycardic
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: No(t) Trace, 1+)
+   Right Extremities: (Edema: 1+)
+   Neurologic: (Responds to: Noxious stimuli), Sedated, Opens eyes and
+   withdraws extremities to painful stimuli
+   Labs / Radiology
+   75 K/uL
+   8.9 g/dL
+   98 mg/dL
+   4.6 mg/dL
+   15 mEq/L
+   4.0 mEq/L
+   48 mg/dL
+   116 mEq/L
+   141 mEq/L
+   26.9 %
+   5.5 K/uL
+        [image002.jpg]
+                             [**2595-4-8**]  09:20 AM
+                             [**2595-4-8**]  10:49 AM
+                             [**2595-4-8**]  12:00 PM
+                             [**2595-4-8**]  12:01 PM
+                             [**2595-4-8**]  01:27 PM
+                             [**2595-4-8**]  03:01 PM
+                             [**2595-4-8**]  03:25 PM
+                             [**2595-4-8**]  09:31 PM
+                             [**2595-4-9**]  02:07 AM
+                             [**2595-4-9**]  02:21 AM
+   WBC
+   6.3
+   5.5
+   Hct
+   27.9
+   28.3
+   26.9
+   Plt
+   85
+   75
+   Creatinine
+   4.7
+   4.6
+   Troponin T
+   0.18
+   TCO2
+   14
+   17
+   15
+   16
+   16
+   17
+   Glucose
+   122
+   97
+   98
+   Other labs: PT / PTT / INR:16.1/40.0/1.4, CK / CK-MB / Troponin
+   T:127/8/0.18, ALT / AST:[**7-20**], Alk-Phos / T bili:47/0.2, Fibrinogen:391
+   mg/dL, Lactic Acid:0.5 mmol/L, Albumin:1.9 g/dL, LDH:149 IU/L, Ca:7.3
+   mg/dL, Mg:2.1 mg/dL, PO4:4.5 mg/dL
+   Assessment and Plan
+   IMPAIRED SKIN INTEGRITY, .H/O TRANSPLANT, LIVER, ACIDOSIS, METABOLIC,
+   AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH)
+   Assessment and Plan: ASSESSMENT/PLAN: 54M s/p OLT c/b multiple
+   infections now with urosepsis and ARF
+   Neuro: intubated & sedated, on fentanyl and propofol, will wake up this
+   am and obtain neuro exam
+   CV: Levo weaned to off
+   Pulm: intubated, RLL/RML collapse, will bronch today and obtain BAL
+   GI: s/p OLT, EGD showed small [**First Name8 (NamePattern2) 1809**] [**Last Name (NamePattern1) **] tear and gastritis with no
+   active bleeding, protonix changed to [**Hospital1 **]
+   FEN: NPO
+   Renal: ARF (baseline 1.5), U/S showed no obstructive uropathy,
+   creatinine 4.6 today (down from 4.7)
+   Heme: Hct stable at 27-28
+   Endo: insulin gtt temporarily yesterday, sugars improved
+   ID: immunosuppressed, f/u cultures, resistent Psuedomonas UTI,
+   antibiotics are colistin, [**Last Name (un) 411**], linezolid, flagyl, and PO Vanc
+   T/L/D: Aline, RIJ CVL, foley, PIV, ETT
+   Wounds: stage 2 sacral decub
+   Imaging: CXR
+   Prophylaxis: PPI, VAP bundle, boots
+   Consults: ID, nephrology, hepatology, transplant surgery
+   Disposition: SICU
+   Billing Diagnosis:  sepsis
+   ICU Care
+   Nutrition: NPO
+   Glycemic Control:
+   Lines:
+   Presep Catheter - [**2595-4-7**] 05:02 PM
+   18 Gauge - [**2595-4-7**] 05:03 PM
+   Arterial Line - [**2595-4-7**] 08:30 PM
+   Prophylaxis:
+   DVT: boots,
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  SICU
+   Total time spent: 30 min
+
+
+
+DOC CLASS

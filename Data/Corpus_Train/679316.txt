@@ -1,0 +1,189 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   - pressor requirement up (neo+levophed)
+   - s/p 2u pRBC, NS, bicarb, trying to increase intravascular volume to
+   help with BP; CVP consistently around 10
+   - oliguric; FeNa = 0.1%; osmolality = 334 consistent with mixed
+   pre-renal and intrinsic renal injury
+   - pan-scan undecided; pt too unstable to leave floor
+   - family meeting held, made pt DNR
+   - ABG-->more acidotic, lactate rising; started bicarb gtt
+   - ID recs: cont. IV and oral vanc; switch zosyn/ flagyl to meropenem
+   for greater GNR coverage
+   - renal recs: wanted to start CVVHD but family elected to hold off
+   - repeat KUB wet read: Non specific bowel gas pattern, with paucity of
+   gas in the upper abdomen, could reflect ascites/fluid filled loops of
+   bowel or organomegaly. no evidence of high grade obstruction or
+   perforation. NG tube in standard location
+   - LENIs: UE wnl although right IJ not evaluated; possible DVT in
+   posterior tibial veins right calf. recommend repeat US in several dys
+   Allergies:
+   Hydrochlorothiazide
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3466-11-28**] 07:17 PM
+   Piperacillin - [**3466-11-29**] 12:00 AM
+   Vancomycin - [**3466-11-29**] 08:00 AM
+   Metronidazole - [**3466-11-29**] 09:00 AM
+   Meropenem - [**3466-11-29**] 04:30 PM
+   Infusions:
+   Norepinephrine - 0.22 mcg/Kg/min
+   Amiodarone - 0.5 mg/min
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Heparin Sodium - 1,500 units/hour
+   Midazolam (Versed) - 1 mg/hour
+   Phenylephrine - 2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3466-11-30**] 06:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**68**] AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 38.1
+C (100.6
+   HR: 124 (77 - 144) bpm
+   BP: 82/62(72) {61/33(42) - 101/70(82)} mmHg
+   RR: 0 (0 - 26) insp/min
+   SpO2: 94%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 75 kg (admission): 74.4 kg
+   Height: 65 Inch
+    CVP: 347 (8 - 359)mmHg
+   PAP: (23 mmHg) / (9 mmHg)
+   CO/CI (Fick): (10.8 L/min) / (5.9 L/min/m2)
+   Mixed Venous O2% Sat: 59 - 84
+   Total In:
+                                                                  7,395 mL
+                                                                  1,513 mL
+   PO:
+   TF:
+   IVF:
+                                                                  6,585 mL
+                                                                  1,453 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                    330 mL
+                                                                    145 mL
+   Urine:
+                                                                    250 mL
+                                                                    145 mL
+   NG:
+                                                                     80 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  7,065 mL
+                                                                  1,368 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 32 cmH2O
+   Plateau: 20 cmH2O
+   Compliance: 32.1 cmH2O/mL
+   SpO2: 94%
+   ABG: 7.33/36/143/21/-6
+   Ve: 11.7 L/min
+   PaO2 / FiO2: 358
+   Physical Examination
+   Intubated, sedated; anasarca
+   Cordis in place
+   Bibasilar crackles when auscultating from anterior
+   Regular rhythm, normal rate.
+   NABS, sof/ND, no masses or HSM
+   WWP, 3+ UE and LE edema bilaterally
+   Labs / Radiology
+   144 K/uL
+   11.2 g/dL
+   140 mg/dL
+   1.9 mg/dL
+   21 mEq/L
+   4.4 mEq/L
+   41 mg/dL
+   95 mEq/L
+   126 mEq/L
+   32.9 %
+   48.8 K/uL
+        [image002.jpg]
+                            [**3466-11-29**]  01:13 PM
+                            [**3466-11-29**]  02:33 PM
+                            [**3466-11-29**]  03:07 PM
+                            [**3466-11-29**]  06:22 PM
+                            [**3466-11-29**]  08:02 PM
+                            [**3466-11-29**]  08:24 PM
+                            [**3466-11-29**]  08:26 PM
+                             [**3466-11-30**]  12:46 AM
+                             [**3466-11-30**]  03:27 AM
+                             [**3466-11-30**]  03:41 AM
+   WBC
+   42.9
+   48.8
+   Hct
+   36.1
+   36.1
+   36.1
+   36.1
+   32.9
+   Plt
+   208
+   144
+   Cr
+   2.0
+   1.8
+   1.9
+   TCO2
+   14
+   15
+   16
+   14
+   16
+   20
+   Glucose
+   106
+   129
+   140
+   Other labs: PT / PTT / INR:21.7/121.8/2.0, ALT / AST:17/43, Alk Phos /
+   T Bili:118/1.1, Differential-Neuts:80.0 %, Band:7.0 %, Lymph:9.0 %,
+   Mono:2.0 %, Eos:1.0 %, Lactic Acid:4.5 mmol/L, Albumin:2.2 g/dL,
+   LDH:528 IU/L, Ca++:7.1 mg/dL, Mg++:2.2 mg/dL, PO4:4.0 mg/dL
+   Assessment and Plan
+ FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN)
+ ALTERATION IN ELIMINATION RELATED TO CONSTIPATION
+ ATRIAL FIBRILLATION (AFIB)
+ HYPOTENSION (NOT SHOCK)
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+ PNEUMONIA, BACTERIAL, HOSPITAL ACQUIRED (NON-VAP)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3466-11-27**] 03:00 PM
+   Arterial Line - [**3466-11-28**] 01:19 PM
+   Cordis/Introducer - [**3466-11-28**] 02:35 PM
+   IABP line - [**3466-11-28**] 05:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

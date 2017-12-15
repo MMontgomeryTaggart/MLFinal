@@ -1,0 +1,178 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ EKG - At [**3429-10-30**] 08:15 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 750 units/hour
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3429-10-31**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 34.7
+C (94.4
+   Tcurrent: 34.7
+C (94.4
+   HR: 73 (68 - 83) bpm
+   BP: 97/57(66) {97/47(62) - 114/60(70)} mmHg
+   RR: 12 (12 - 17) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 70 Inch
+             Total In:
+                                                                     26 mL
+                                                                    160 mL
+   PO:
+             TF:
+   IVF:
+                                                                     26 mL
+                                                                    160 mL
+   Blood products:
+   Total out:
+                                                                     60 mL
+                                                                    100 mL
+   Urine:
+                                                                     50 mL
+                                                                    100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    -34 mL
+                                                                     60 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///28/
+   Physical Examination
+   GENERAL: Cachectic male, NAD, lying flat. Alert, Oriented. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP flat.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line.
+   irregular, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   161 K/uL
+   8.9 g/dL
+   88 mg/dL
+   0.6 mg/dL
+   28 mEq/L
+   4.1 mEq/L
+   12 mg/dL
+   110 mEq/L
+   143 mEq/L
+   27.6 %
+   3.7 K/uL
+        [image002.jpg]
+                            [**3429-10-30**]  08:02 PM
+                            [**3429-10-31**]  04:04 AM
+   WBC
+   3.4
+   3.7
+   Hct
+   28.2
+   27.6
+   Plt
+   164
+   161
+   Cr
+   0.5
+   0.6
+   Glucose
+   88
+   Other labs: PT / PTT / INR:16.7/32.4/1.5, CK / CKMB / Troponin-T:39//,
+   Mg++:1.7 mg/dL
+   [**3429-10-30**] ECHO:
+   The left atrium is dilated. Mild spontaneous echo contrast is seen in
+   the body of the left atrium. No thrombus/mass is seen in the body of
+   the left atrium. Overall left ventricular systolic function is normal
+   (LVEF>55%). There is normal right ventricular free wall contractility.
+   The mitral valve leaflets are mildly thickened. The mitral valve shows
+   characteristic rheumatic deformity. There is moderate valvular mitral
+   stenosis (mean gradient, 8 mmHg). Mild (1+) mitral regurgitation is
+   seen. Moderate [2+] tricuspid regurgitation is seen. There is mild
+   pulmonary artery systolic hypertension. There is no pericardial
+   effusion.
+   Repeat ECHO: pending
+   Assessment and Plan
+   73 yo gentleman with PMH significant for CVA, B-cell non-hodgkin's
+   lymphoma, chronic afib on anticoagulation, s/p elective valvuloplasty
+   for mitral stenosis.
+   .
+   #: MITRAL STENOSIS: Patient s/p mitral valvuloplasty without
+   complication. Gradient significantly reduced post-intervention.
+   -- Post cath check
+   -- Monitor for evidence of embolization
+   -- ECHO in AM.
+   .
+   # ATRIAL FIBRILLATION: Continue rate control and IV heparin for
+   systemic anticoagulation.
+   -- resume warfarin and heparin 4 hrs after sheath pull
+   -- currently rate controlled off agents, will monitor
+   .
+   # PUMP: Normal systolic function. PCWP elevated pre-intervention,
+   expect diminished post.
+   .
+   # Wt Loss: Concern for progression of his lymphoma vs deconditioning
+   and poor PO intake in the setting of his valvular dysfunction.
+   -valvuloplasty as above
+   -will attempt to obtain outside heme/onc notes today
+   .
+   # Hx B-cell lymphoma: s/p chemo/radiation/diverting colostomy.
+   .
+   # Hx seizures: no recent seizure activity
+   -- continue depakote
+   .
+   # Depression: continue fluoxetine
+   .
+   FEN:  Regular diet
+   .
+   ACCESS: PIV's, venous and arterial sheaths to be pulled later
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin IV
+   -Pain management with tylenol prn
+   -Bowel regimen
+   .
+   CODE: Full
+   .
+   COMM: patient, family
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**3429-10-30**] 08:58 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

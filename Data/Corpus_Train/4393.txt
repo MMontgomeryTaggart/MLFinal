@@ -1,0 +1,286 @@
+Admission Date:  [**2642-9-27**]              Discharge Date:   [**2642-9-28**]
+
+Date of Birth:  [**2582-7-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1130**]
+Chief Complaint:
+Chest pain and palpitations
+
+Major Surgical or Invasive Procedure:
+Cardiac cath s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (Prefixes) **] to LAD
+
+History of Present Illness:
+60-year-old female with HTN, hyperlipidemia, and multinodular
+goiter who presented to the ED with progressive chest pains and
+palpitations over the past 4 months.  She reports that she has
+had intermittent chest pressures associated with palpitations
+that usually last 2-3 minutes and occur mostly at rest. They are
+not associated with exertion, and stressful/emotional situations
+tend to exacerbate her symptoms. She was recently admitted to
+[**Hospital1 2148**] over the weekend (although per ED resident, no record of
+this at [**Hospital1 2148**]) with chest pains and, per pt, they wanted to do a
+cardiac cath but she was not comfortable with the facilities
+there. She presents here now with chest pressures and
+palpitations since 5 AM this morning that woke her from sleep.
+They are a bit more severe than usual, and have been
+intermittent throughout the morning.  Patient also had excrcise
+stress test in [**2642-9-15**] ischemic EKG changes in the absence of
+anginal symptoms at a high cardiac demand good exercise
+tolerance.
+.
+In the ED, initial vitals were T 97.0, HR 99, BP 159/81, RR 16,
+and SpO2 100% on RA.  EKG showed SR at 72 bpm with NA, NI, and
+TWI in III similar to prior EKG.  Initial Troponin was negative.
+ Labs were otherwise unremarkable.  Cardiology consult was
+called and recommended Aspirin 325 mg PO, Nitroglycerin SL PRN,
+and urgent coronary catheterization.
+.
+Patient was taken directly to the cath lab, with no heparin.
+Patient was loaded with prasugrel and started on integrillin. In
+the cath lab patient was found to have single vessle CAD with
+moderate LAD lesion at the takeoff of the D2.  The diag ostial
+lesion was 80-90% stenosis.  She had successful POBA of the D2
+and then successful stening of LAD with [**Date Range **].  During the
+procedure patient became diaphoretic and dropped BPs to the
+70-80s with HR in the 60s treated with atropine and rewuired
+dopamine which was weaned off over few minutes with improvemnt
+in BP to 110s-110s. Limited echo showed no effusion.  Patient
+was admitted to CCU for monitoring.
+.
+In the CCU, patient denies any chest pain, shortness of breath,
+lightheadedness, dizziness, fevers. No diaphoresis or
+nausea/vomiting. Also denies orthopnea, PND. All other ROS
+negative.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: (Pre)Diabetes, +Dyslipidemia,
++Hypertension
+2. CARDIAC HISTORY:
+# PERCUTANEOUS CORONARY INTERVENTIONS:
+3. OTHER PAST MEDICAL HISTORY:
+# Multinodular goiter -- negative FNA per notes
+# Borderline diabetes-- per patient was told she had elevated
+sugars at recent admission.
+
+Social History:
+# Tobacco: None
+# ETOH: None
+# Illicit: None
+
+Family History:
+No family history of early MIs.
+
+Physical Exam:
+GENERAL: Appears well in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+NECK: Supple with flat JVP.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No lesions
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+Admission/Relevant Labs:
+[**2642-9-27**] 08:25AM BLOOD WBC-6.6 RBC-4.18* Hgb-13.7 Hct-39.9
+MCV-96 MCH-32.7* MCHC-34.3 RDW-13.5 Plt Ct-257
+[**2642-9-27**] 08:25AM BLOOD Neuts-57.2 Lymphs-33.3 Monos-7.0 Eos-1.9
+Baso-0.6
+[**2642-9-27**] 08:25AM BLOOD PT-11.6 PTT-29.1 INR(PT)-1.1
+[**2642-9-27**] 08:25AM BLOOD Glucose-139* UreaN-10 Creat-0.6 Na-142
+K-3.6 Cl-105 HCO3-27 AnGap-14
+[**2642-9-27**] 08:25AM BLOOD cTropnT-<0.01
+[**2642-9-28**] 06:15AM BLOOD CK-MB-10
+[**2642-9-27**] 08:25AM BLOOD Calcium-9.3 Phos-2.6* Mg-2.1
+.
+Discharged Labs:
+[**2642-9-28**] 06:15AM BLOOD WBC-9.7 RBC-3.69* Hgb-11.8* Hct-35.3*
+MCV-96 MCH-32.0 MCHC-33.5 RDW-13.3 Plt Ct-242
+[**2642-9-28**] 06:15AM BLOOD Glucose-104* UreaN-8 Creat-0.5 Na-140
+K-3.7 Cl-104 HCO3-30 AnGap-10
+[**2642-9-28**] 06:15AM BLOOD Calcium-8.5 Phos-3.1 Mg-2.2
+.
+Cath: [**2642-9-27**]:
+1. Coronary angriography in this right dominant system
+demonstrated single vessel disease. The LMCA was a long vessel
+with a 10% mid-vessel lesion. The LAD had mild luminal
+irregularities proximally and 60% hazy mid vessel at the take
+off of the D2. The D2 had an 80% ostial lesion. The distal LAD
+was otherwise patent and long, wrapping around the apex. The LCx
+had mild luminal irregularities and gave a large bifurcating OM
+with relatively large upper and lower poles. The RCA was patent
+with mild luminal irregularities.
+2. Resting hemodynamics revealed normal left sided filling
+pressures and mild systemic arterial systolic hypertension with
+SBP 146 mmHg.
+3. FFR of the LAD lesion 0.82 with [**Month (only) **] showing the MLA at
+2.7-2.8m2
+4. Successful POBA of D2
+5. Succesful stenting of mid LAD with 3.0 x 12 [**Month (only) **]
+6. Likely vagal reaction following LAD stenting requiring
+fluids, atropine and transient dopamine infusion.
+7. Non flow limiting dissection of D2 with antegrade flow.
+
+FINAL DIAGNOSIS:
+1. One vessel coronary artery disease with moderate hazy mid LAD
+lesion at the takeoff of the D2. D2 ostial lesion was 80-90%.
+2. FFR of mid LAD lesion of 0.82 and [**Month (only) **] showing the LAD lesion
+area of 2.7-2.8m2.
+3. Successful POBA of D2 with 2.0mm balloon.
+4. Succesful stenting of LAD with 3.0 X 12mm Promus element [**Month (only) **]
+5. Vagal reaction following LAD stent post dilation treated with
+atropine, fluids and brief dopamine gtt with normalization of
+hemodynamics
+6. Non flow limiting ostial D2 dissection with normal antegrade
+flow
+7. Closure of right radial artery access site with TR band.
+.
+CXR: [**2642-9-27**]
+FINDINGS:  Frontal and lateral views of the chest were obtained.
+ The heart is of normal size with normal cardiomediastinal
+contours.  The pulmonary vasculature is unremarkable.  The lungs
+are clear without focal or diffuse abnormality.  No pleural
+effusion or pneumothorax is visualized.  Osseous structures are
+unremarkable.  No radiopaque foreign body.
+IMPRESSION:  No acute cardiopulmonary process.  No pneumothorax.
+
+Brief Hospital Course:
+60 yo F with HTN, hyperlipidemia presented with recurrent
+progressively worsening chest pains with recent abnormal stress
+test concerning for unstable angina and CAD. Negative troponins
+and now s/p cath with [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] to LAD.
+.
+# Coronary Artery Disease: Patient presented with 3-4 months of
+worsening chest pains at rest lasting 2-3 minutes.  Patient had
+recent exercise tolerance test which showed ischemic EKG changes
+without any symptoms.  ON the day of admission patient was
+awakened by [**8-16**] constant chest pain.  In the ED, EKG showed
+non-Specific ST changes, initial troponins were negative.  Given
+concern fro unstable angina and CAD, patient had cardiac cath
+which showed single vessel CAD with moderate LAD lesion at the
+takeoff of the D2.  The diag ostial lesion had 80-90% stenosis.
+She had successful POBA of the D2 and then successful stenting
+of LAD with [**Month/Year (2) **].  During the procedure patient became
+diaphoretic with drop in BP to 70s and HR 60s most likely vagal
+reaction.  She was briefly on pressors for BP support. Post cath
+EKG was essentially unchanged.  She was prasugrel loaded in the
+cath lab and started on 18 hours of Integrilin.  She was
+transferred to CCU for further hemodynamic monitoring.  During
+her CCU stay her blood pressure stayed stable and she did not
+have any chest pain or shortness of breath.  She was continued
+on aspirin, valsartan, prasugrel.  Her simvastatin was changed
+to atorvastatin.  She will follow up with Dr. [**First Name (STitle) **] for
+further care who will make decision regarding patient's
+anti-platelet therapy and getting a follow up TTE in one month.
+
+.
+# Hypertension: Patient was hypotensive in the cath lab
+requiring atropine and dopamine.  Patient has remained stable in
+the 120s-130s systolic in the CCU. She was discharged on her
+home valsartan and HCT combination med.
+- Continue HCTZ 12.5mg daily
+.
+# Hyperlipidemia: Her simvastatin was switched to atorvastatin
+80mg daily
+.
+# Prediabetes: Patient blood sugars continued to be in the
+120-130s.  Patient will follow up with PCP who will check an A1C
+level.
+.
+CODE: Full
+EMERGENCY CONTACT: [**Name (NI) **] [**Name (NI) 18668**] [**Telephone/Fax (1) 18669**]
+
+Transitions of Care:
+- Patient will follow up with PCP who will check A1C level on
+patient and start appropriate meds if indicated.
+- Patient had [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] placed in LAD and started on Prasugrel
+10mg daily. She will follow up with Dr. [**First Name (STitle) **] who will make
+further decision regarding patient's antiplatelet therapy and
+consider TTE one month after cath.
+
+Medications on Admission:
+Preadmissions medications listed are incomplete and require
+futher investigation.  Information was obtained from webOMR.
+1. valsartan-hydrochlorothiazide *NF* 160-12.5 mg Oral Daily
+2. Atenolol 50 mg PO DAILY
+3. Simvastatin 20 mg PO DAILY
+4. Aspirin 100 mg PO DAILY
+
+
+Discharge Medications:
+1. Prasugrel 10 mg PO DAILY
+RX *prasugrel [Effient] 10 mg 1 tablet(s) by mouth Daily Disp
+#*30 Tablet Refills:*3
+2. Aspirin 100 mg PO DAILY
+3. Atenolol 50 mg PO DAILY
+4. valsartan-hydrochlorothiazide *NF* 160-12.5 mg Oral Daily
+5. Atorvastatin 80 mg PO DAILY
+RX *atorvastatin 80 mg 1 tablet(s) by mouth Daily Disp #*30
+Tablet Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+1. Coronary Artery Disease s/p cardiac catherization with
+placement of [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] to LAD.
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mrs. [**Known patient lastname 18670**],
+It was a pleasure taking care of your during your
+hospitalization at [**Hospital1 18**].  You had a procedure to place a stent
+in your heart because of your recurrent chest pains.  You did
+not have a heart attack.  You were admitted to cardiac intensive
+unit because of brief episode of low blood pressure during the
+procedure.  You were monitored overnight in the cardiac
+intensive unit and your blood pressures remained normal.  On the
+day of discharge you did not have any chest pain or shortness of
+breath.  Following your heart procedure you have been started on
+a blood thinning medication called prasugrel which you should
+continue to take for at least one year unless told otherwise by
+Dr. [**First Name (STitle) **].  You should follow up with Dr. [**First Name (STitle) **].  (see
+below) Your simvastain is also being replaced with atorvastain.
+.
+You can pick up your Prasugrel and atorvastatain medication from
+CarePlus Pharmacy [**Hospital1 18671**]. Phone: [**Telephone/Fax (1) 18672**]
+
+Followup Instructions:
+Department: [**Hospital1 7880**] INTERNAL MEDICINE
+When: MONDAY [**2642-10-3**] at 10:00 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 7883**], MD [**Telephone/Fax (1) 7881**]
+Building: [**Hospital1 7882**] ([**Location (un) 679**], MA) [**Location (un) **]
+Campus: OFF CAMPUS     Best Parking: Free Parking on Site
+
+Department: CARDIAC SERVICES
+When: THURSDAY [**2642-10-27**] at 9:00 AM
+With: [**Name6 (MD) **] [**Name8 (MD) **], MD [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+
+Completed by:[**2642-9-28**]
+
+
+DOC CLASS

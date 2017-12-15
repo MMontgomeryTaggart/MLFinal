@@ -1,0 +1,137 @@
+Chief Complaint:
+   24 Hour Events:
+   - Dopamine weaned from 5 to 4
+   - TTE: EF 40%, Dilated and hypocontractile right ventricle, c/w right
+   ventricular infarction. Moderate ischemic mitral regurgitation. Mild
+   pulmonary hypertension. Dilated aorta.
+   - HgbA1c 6.2%
+   - Cholesterol 137, TG 57, HDL 37, LDL 89
+   - On insulin gtt @ 7u/hr, blood sugar goal 120-150
+   - got compazine & IVF's for nausea/emesis
+   - 2 episodes of pleuritic chest pain, improved with morphine, EKG's
+   improved compared, VSS
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Insulin - Regular - 1 units/hour
+   Dopamine - 4 mcg/Kg/min
+   Heparin Sodium - 1,600 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**2652-1-23**] 12:12 PM
+   Lorazepam (Ativan) - [**2652-1-24**] 05:28 AM
+   Morphine Sulfate - [**2652-1-24**] 05:46 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2652-1-24**] 07:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**53**] AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 35.9
+C (96.6
+   HR: 100 (100 - 114) bpm
+   BP: 96/68(81) {88/57(75) - 108/81(94)} mmHg
+   RR: 22 (19 - 32) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 89.4 kg (admission): 89 kg
+             Total In:
+                                                                  5,080 mL
+                                                                  1,133 mL
+   PO:
+                                                                  1,470 mL
+                                                                    300 mL
+   TF:
+   IVF:
+                                                                  3,610 mL
+                                                                    833 mL
+   Blood products:
+   Total out:
+                                                                  3,150 mL
+                                                                    268 mL
+   Urine:
+                                                                  1,100 mL
+                                                                    268 mL
+   NG:
+                                                                  2,050 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,930 mL
+                                                                    865 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 98%
+   ABG: ///18/
+   Physical Examination
+   Labs / Radiology
+   241 K/uL
+   12.4 g/dL
+   106
+   1.1 mg/dL
+   18 mEq/L
+   4.1 mEq/L
+   31 mg/dL
+   105 mEq/L
+   136 mEq/L
+   36.5 %
+   17.0 K/uL
+        [image002.jpg]
+                             [**2652-1-23**]  10:00 PM
+                             [**2652-1-23**]  11:00 PM
+                             [**2652-1-24**]  12:00 AM
+                             [**2652-1-24**]  01:00 AM
+                             [**2652-1-24**]  02:00 AM
+                             [**2652-1-24**]  03:00 AM
+                             [**2652-1-24**]  04:00 AM
+                             [**2652-1-24**]  04:58 AM
+                             [**2652-1-24**]  05:00 AM
+                             [**2652-1-24**]  06:00 AM
+   WBC
+   17.0
+   Hct
+   36.5
+   Plt
+   241
+   Cr
+   1.1
+   Glucose
+   135
+   145
+   139
+   138
+   124
+   104
+   115
+   102
+   112
+   106
+   Other labs: PT / PTT / INR:14.6/79.2/1.3, CK / CKMB /
+   Troponin-T:443/30/2.92, Ca++:7.8 mg/dL, Mg++:2.2 mg/dL, PO4:4.9 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition: Cardiac/diabetic diet
+   Glycemic Control:  Insulin gtt
+   Lines:
+   IABP line - [**2652-1-23**] 02:30 AM
+   18 Gauge - [**2652-1-23**] 02:30 AM
+   20 Gauge - [**2652-1-23**] 02:59 AM
+   Sheath - [**2652-1-23**] 03:28 AM
+   Prophylaxis:
+   DVT: Heparin gtt
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Patient
+   Code status: FULL
+   Disposition: pending clinical improvement
+
+
+
+DOC CLASS

@@ -1,0 +1,303 @@
+Admission Date:  [**2982-12-5**]              Discharge Date:   [**2982-12-7**]
+
+Date of Birth:  [**2936-1-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Vicodin / AndroGel / gabapentin / Amoxicillin / Levaquin
+
+Attending:[**Last Name (NamePattern4) 612**]
+Chief Complaint:
+dyspnea, chest pain
+
+Major Surgical or Invasive Procedure:
+pericardiocentesis [**2982-12-6**]
+
+
+History of Present Illness:
+46 y/o M h/o metastatic melanoma (BRAF V600E s/p radiation to
+spinal metastatis, on zelboraf), who presented with shortness of
+breath. Recent dx of pericarditis, given motrin and colchicine.
+Colchicine stopped [**12-26**] diarrhea, prednisone started [**2982-11-26**].
+[**2982-12-5**] seen by Dr. [**First Name (STitle) **] in clinic, dyspneic and pulsus of
+12. Echo showed circumferential pericardial effusion, no
+evidence of tamponade.
+.
+On arrival to the floor pt seemed confused and lethargic.
+c/o pains in arms, trapezius muscles, and chest pain but changes
+his story frequently. Appears that SOB worsening over weeks with
+significant decline in the last 2 days.
+.
+When asked what his normal functional status was before this
+event, they state that he is not normally able to do much at
+baseline, but his SOB is definitely worse. The patietn denies
+any rashes, but admits to decrease in appetite. Denies nausea
+and vomiting. Denies fevers or chills.
+Also, the patient has not had a BM in 2 days and has increased
+his pain medications.
+REVIEW OF SYSTEMS
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, cough, hemoptysis, black stools or red stools.
+S/he denies recent fevers, chills or rigors. S/he denies
+exertional buttock or calf pain. All of the other review of
+systems were negative.
+.
+Cardiac review of systems is notable for absence of paroxysmal
+nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope
+or presyncope.
+
+
+Past Medical History:
+-metastatic melanoma BRAF positive
+-blindness from optic atrophy at age 16
+-depression
+-migraines
+-chronic pain with a long history of opioid dependence
+-prurigo nodularis
+-candidial esophagitis,
+-"psychological and emotional instability documented by previous
+
+providers"
+- pericarditis
+
+
+Social History:
+The patient lives with his wife in [**Name (NI) 1746**], [**State 2663**].  He
+does not have a significant history of smoking, drinking.
+Previously worked as an arts entertainer reporter for the brail
+news.
+
+
+Family History:
+blindness on his mother's side of the family.
+Mother had [**Name2 (NI) 72**] cancer.  Father had lung cancer.
+
+
+Physical Exam:
+ON ADMISSION:
+VS: T= 98.5 BP= 135/73 HR= 107 RR= 18 O2 sat= 92% RA
+GENERAL: extremely lethargic, easily distracted/forgetful.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: external jugulars are easily visible and engorged. JVD to
+the ear
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. tachycardia, normal S1, S2. No m/r/g. No thrills, lifts.
+No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: minimal pitting edema but definite non-pitting
+edema bilaterally. legs are warm and well perfused
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+.
+AT DISCHARGE:
+exam unchanged.
+
+Pertinent Results:
+[**2982-12-5**] 09:15PM BLOOD WBC-8.3 RBC-2.64* Hgb-7.9* Hct-24.7*
+MCV-94 MCH-30.0 MCHC-32.1 RDW-20.6* Plt Ct-63*#
+[**2982-12-6**] 10:30PM BLOOD WBC-10.0 RBC-2.79* Hgb-8.4* Hct-26.5*
+MCV-95 MCH-30.0 MCHC-31.6 RDW-21.2* Plt Ct-59*
+[**2982-12-7**] 05:08AM BLOOD WBC-9.9 RBC-2.80* Hgb-8.2* Hct-26.6*
+MCV-95 MCH-29.3 MCHC-30.9* RDW-21.1* Plt Ct-60*
+[**2982-12-5**] 09:15PM BLOOD Neuts-87* Bands-0 Lymphs-10* Monos-3
+Eos-0 Baso-0 Atyps-0 Metas-0 Myelos-0 NRBC-1*
+[**2982-12-5**] 09:15PM BLOOD PT-22.9* PTT-32.0 INR(PT)-2.2*
+[**2982-12-6**] 03:30PM BLOOD PT-29.6* PTT-33.6 INR(PT)-2.9*
+[**2982-12-7**] 05:08AM BLOOD PT-22.2* PTT-30.9 INR(PT)-2.1*
+[**2982-12-5**] 09:15PM BLOOD Glucose-115* UreaN-17 Creat-0.8 Na-137
+K-3.9 Cl-97 HCO3-28 AnGap-16
+[**2982-12-5**] 09:15PM BLOOD ALT-176* AST-296* LD(LDH)-4630*
+AlkPhos-751* TotBili-5.2*
+[**2982-12-7**] 05:08AM BLOOD ALT-170* AST-319* LD(LDH)-4440*
+AlkPhos-596* TotBili-5.0*
+[**2982-12-5**] 09:15PM BLOOD Albumin-3.3* Calcium-8.2* Phos-1.7*#
+Mg-1.7
+[**2982-12-6**] 06:20AM BLOOD Hapto-69
+[**2982-12-7**] 05:08AM BLOOD Hapto-79
+.
+ECHO [**2982-12-7**]
+LEFT VENTRICLE: Normal LV wall thickness, cavity size, and
+global systolic function (LVEF>55%).
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+PERICARDIUM: Small pericardial effusion. Effusion
+circumferential. Effusion echo dense, c/w blood, inflammation or
+other cellular elements. No echocardiographic signs of
+tamponade. No evidence of constriction.
+Conclusions
+Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). Right ventricular
+chamber size and free wall motion are normal. There is a small,
+partially echo filled circumferential pericardial effusion most
+promient anterior to the apical right ventricle. There are no
+echocardiographic signs of tamponade or of constriction.
+Compared with the prior post-pericardiocentesis study (images)
+reviewed of [**2982-12-6**], the findings are similar.
+.
+.
+ECHO [**2982-12-6**] (TTE)
+.PERICARDIUM: Small pericardial effusion. Effusion
+circumferential. No echocardiographic signs of tamponade.
+Conclusions
+There is a small pericardial effusion. The effusion appears
+circumferential. There are no echocardiographic signs of
+tamponade.
+Compared with the findings of the prior study (images reviewed)
+of [**2983-12-7**], the pericardial effusion is much smaller and
+cardiac tamponade is no longer present.
+
+
+Brief Hospital Course:
+46 YO gentleman with metastatic melanoma presents with SOB, CP
+found to have circumferential pericardial effusions and pulsus
+of 14.
+.
+# pericardial effusion - patient was found to have a pulsus of
+12 on admission. Chest pain persisted and pulsus went up to 14
+overnight. Imaging showed pericardial effusions. Pt underwent
+emergent pericardiocentesis on [**2982-12-6**] and 570 ccs were drained.
+Thoracic surgery was consulted for possible pericardial window
+procedure but it was felt the pt was too high risk and with
+severely poor prognosis. Drain put out roughly 1.5 L of bloody
+fluid overnight. F/u echo showed no reaccumulation of fluid.
+Drain was pulled [**2982-12-7**] as output had trailed off and plan was
+for pt to go home with hospice care.
+.
+#DIC - fibrinogen of 90 on presentation, plts of 63, INR 2.2,
+elevated Tbili. FDB 160-320. Fibrinogen went up to 140 overnight
+and INR up to 2.9 then down to 2.1 on [**2982-12-7**]. DIC could be [**12-26**]
+malignancy itself or [**12-26**] zelboraf use. DIC labs monitored and pt
+given 1 unit of FFP along with vitamin K. No evidence of
+bleeding other than bloodly fluid from pericardial drain.
+.
+# Melanoma- patient started on zelboraf recently. The medication
+is known to lead to melanoma flair if stopped for prolonged
+periods of time if stopped for prolong period of time. zelboraf
+was held on admission. Pt with metastatic disease. Zelboraf
+serum levels sent to genentech. Palliative care and oncology
+were following. Pt requested to go home with palliative care.
+Pain controlled with home regimen while in house along with IV
+dilaudid. On discharge pt was sent with fentanyl patch, liquid
+dilaudid, liquid ativan, and home dose oxycontin and klonipin.
+.
+TRANSITIONAL ISSUES:
+needed followup:
+pericardial fluid studies
+zelboraf blood levels
+
+
+Medications on Admission:
+1. oxycodone 40 mg Tablet Extended Release Two (2) Tablet
+Extended Release q8r
+3. clonazepam 2 mg Tablet Sig: One (1) Tablet PO twice a day prn
+anxiety.
+4. hydromorphone 4 mg Tablet Sig: 3-4 Tablets PO Q3H (every 3
+hours) as needed for pain.
+5. vemurafenib 240 mg Tablet Sig: Four (4) Tablet PO BID (2times
+a day).
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) PO
+DAILY (Daily) as needed for constipation.
+10. Zomig 5 mg Tablet Sig: One (1) Tablet PO QD () as needed for
+migraine.
+11. citalopram 20 mg Tablet Sig: 1 Tablet PO DAILY
+14. Zofran 8 mg Tablet Sig: One (1) Tablet PO every eight (8)
+hours as needed for nausea.
+15. Reglan 10 mg Tablet Sig: One (1) Tablet PO every six (6)
+hours as needed for nausea.
+16. esomeprazole magnesium 20 mg Capsule, Delayed Release(E.C.)
+
+Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day.
+
+
+Discharge Medications:
+1. ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8
+hours) as needed for pain.
+2. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. oxycodone 40 mg Tablet Extended Release 12 hr Sig: Two (2)
+Tablet Extended Release 12 hr PO Q6H (every 6 hours).
+Disp:*50 Tablet Extended Release 12 hr(s)* Refills:*0*
+4. clonazepam 1 mg Tablet Sig: Two (2) Tablet PO twice a day as
+needed for anxiety.
+Disp:*20 Tablet(s)* Refills:*0*
+5. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO Q6H (every
+6 hours) as needed for nausea.
+6. fentanyl 100 mcg/hr Patch 72 hr Sig: Two (2) Patch 72 hr
+Transdermal Q72H (every 72 hours).
+Disp:*10 Patch 72 hr(s)* Refills:*0*
+7. Dilaudid-5 1 mg/mL Liquid Sig: 12-16 mg PO q3h:prn as needed
+for pain.
+Disp:*500 ML* Refills:*0*
+8. Lorazepam Intensol 2 mg/mL Concentrate Sig: [**11-25**]  PO every six
+(6) hours as needed for agitation/discomfort/pain.
+Disp:*50 mL* Refills:*0*
+9. Zofran 8 mg Tablet Sig: One (1) Tablet PO q8hr as needed for
+nausea.
+10. senna 8.6 mg Capsule Sig: [**11-25**] Capsules PO twice a day as
+needed for constipation.
+11. docusate calcium 240 mg Capsule Sig: One (1) Capsule PO
+twice a day as needed for constipation.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital 2061**] Hospice Care
+
+Discharge Diagnosis:
+PRIMARY
+pericardial effusion
+pericarditis
+
+SECONDARY
+metastatic melanoma
+
+
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you during your recent
+hospitalization. You came in with chest pain and we found there
+was a sizeable amount of fluid around the heart. We drained this
+fluid.
+
+the following CHANGES were made to your medications:
+STARTED fentanyl patch
+STARTED liquid dilaudid
+STARTED liquid ativan
+STOPPED omeprazole
+
+
+Followup Instructions:
+Department: HEMATOLOGY/ONCOLOGY
+When: MONDAY [**2982-12-16**] at 1:30 PM
+With: DRS. [**Name5 (PTitle) **]/[**Doctor Last Name 1763**] [**Telephone/Fax (1) 20829**]
+Building: SC [**Hospital Ward Name **] Clinical Ctr [**Location (un) 65**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 616**]
+
+
+
+
+DOC CLASS

@@ -1,0 +1,179 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   extubated yest pm.
+   History obtained from Patient
+   Allergies:
+   Penicillins
+   Rash;
+   Iodine; Iodine Containing
+   Rash;
+   Carbamazepine
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Lorazepam (Ativan) - [**2772-2-17**] 01:30 PM
+   Metoprolol - [**2772-2-17**] 02:10 PM
+   Labetalol - [**2772-2-18**] 05:30 AM
+   Other medications:
+   Lamotrigine, Clonidine, [**Last Name (LF) 11525**], [**First Name3 (LF) 350**], Keppra, nifedipine, Dilantin,
+   famotidine
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2772-2-18**] 11:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**73**] AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 36.2
+C (97.2
+   HR: 92 (80 - 101) bpm
+   BP: 178/70(96) {100/39(64) - 206/91(115)} mmHg
+   RR: 25 (11 - 25) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 60.2 kg (admission): 62.5 kg
+                  Total In:
+                                                                    355 mL
+                                                                     50 mL
+   PO:
+                                                                    200 mL
+                                                                     50 mL
+   TF:
+   IVF:
+                                                                     95 mL
+   Blood products:
+   Total out:
+                                                                    500 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -145 mL
+                                                                     50 mL
+   Respiratory support
+   O2 Delivery Device: None
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 700 (700 - 700) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 20
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 10 cmH2O
+   SpO2: 97%
+   ABG: ///26/
+   Ve: 9.6 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : )
+   Abdominal: Soft, Non-tender, Distended
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): name and place only, Movement: Not assessed,
+   Tone: Not assessed
+   Labs / Radiology
+   10.1 g/dL
+   146 K/uL
+   93 mg/dL
+   4.9 mg/dL
+   26 mEq/L
+   4.4 mEq/L
+   27 mg/dL
+   100 mEq/L
+   141 mEq/L
+   31.2 %
+   3.5 K/uL
+        [image002.jpg]
+                             [**2772-2-16**]  08:46 PM
+                             [**2772-2-17**]  04:18 AM
+                             [**2772-2-17**]  03:41 PM
+                             [**2772-2-18**]  05:19 AM
+   WBC
+   2.6
+   3.5
+   Hct
+   31.0
+   30.3
+   31.2
+   Plt
+   137
+   146
+   Cr
+   7.1
+   4.9
+   TCO2
+   31
+   Glucose
+   81
+   93
+   Other labs: PT / PTT / INR:14.2/30.2/1.2, ALT / AST:14/67, Alk Phos / T
+   Bili:158/0.6, Albumin:3.3 g/dL, Ca++:7.6 mg/dL, Mg++:1.8 mg/dL, PO4:5.8
+   mg/dL
+   Fluid analysis / Other labs: dilantin- 6.5 (uncorrected)
+   Microbiology: c diff- pending
+   Assessment and Plan
+   61-year-old man with ESRD on dialysis MWF, liver disease, seizure
+   disorder presented from [**Hospital3 **] facility with 2-3 days of
+   diarrhea, nausea, vomiting.
+   1. Resp failure- intubated for airway protection, extubated
+   successfully yest pm
+   -can dc h2 blocker
+   2. Acute GI illness- most concerning for viral gastroenteritis
+   (especially norovirus given ongoing infections at his facility)
+   - contact precautions
+   - hold off on abx for now
+   - IVF to support volume loss
+   - can start po as tolerated following HD cath as below
+   3. Seizures- seized in ED, broke, then vomited. Phenytoin level low at
+   5.8; unclear compliance at facility.
+   - continue phenytoin, lamotrigine, levetiracetam
+   - f/u neuro recs, may need MRI brain
+   4. HTN- suboptimal control
+   - cont home meds, incr nifedipine to 90 XR [**Hospital1 **] if not controlling
+   - IV anti-hypertensive as needed
+   5. ESRD- Cr. 6.0
+   - HD today; to get line changed
+   - f/u renal recs
+   6. Pulm nodule- RUL, FDG avid, concern for malig; per email discussion
+   w/ Dr. [**Last Name (STitle) 1099**], would ask thoracics to comment on whether any inpatient
+   resection/ biopsy would be considered.
+   ICU Care
+   Nutrition:
+   Comments: will advance diet today
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   18 Gauge - [**2772-2-17**] 01:12 AM
+   Dialysis Catheter - [**2772-2-17**] 01:16 AM
+   20 Gauge - [**2772-2-17**] 04:17 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :Transfer to floor
+   Total time spent: 30 minutes
+
+
+
+DOC CLASS

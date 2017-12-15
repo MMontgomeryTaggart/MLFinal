@@ -1,0 +1,226 @@
+Chief Complaint: 74 yom w/ paranoid schizophrenia, hypothyroidism,
+   hypoadrenalism a/w pneumo vs. urosepsis, now with sputum cultures
+   positive for MRSA and acinetobacter.
+   24 Hour Events:
+   - patient re-intubated
+   - patient scheduled for trach / peg on thursday by [**Last Name (LF) **], [**First Name3 (LF) 114**] require
+   dose of DDVAP prio.
+   - renal: continue lasix and metolazone and adding acetazolamide for
+   contraction alkalosis
+   - urine output picked up s/p intubation with
+3L for day
+   .
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Meropenem - [**2807-9-19**] 12:25 AM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**2807-9-18**] 04:30 PM
+   Midazolam (Versed) - [**2807-9-18**] 05:00 PM
+   Heparin Sodium (Prophylaxis) - [**2807-9-18**] 10:09 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2807-9-19**] 07:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 36.9
+C (98.5
+   HR: 67 (57 - 84) bpm
+   BP: 97/38(53) {97/37(53) - 144/89(96)} mmHg
+   RR: 14 (10 - 20) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 107 kg (admission): 100 kg
+   Height: 71 Inch
+             Total In:
+                                                                  1,941 mL
+                                                                    783 mL
+   PO:
+             TF:
+                                                                    787 mL
+                                                                    314 mL
+   IVF:
+                                                                    574 mL
+                                                                    170 mL
+   Blood products:
+   Total out:
+                                                                  4,990 mL
+                                                                    740 mL
+   Urine:
+                                                                  4,140 mL
+                                                                    740 mL
+   NG:
+   Stool:
+                                                                    350 mL
+   Drains:
+   Balance:
+                                                                 -3,049 mL
+                                                                     43 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 20 cmH2O
+   Plateau: 16 cmH2O
+   SpO2: 98%
+   ABG: 7.49/58/400/41/18
+   Ve: 7.4 L/min
+   PaO2 / FiO2: 1,000
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   243 K/uL
+   8.1 g/dL
+   126 mg/dL
+   2.9 mg/dL
+   41 mEq/L
+   3.1 mEq/L
+   96 mg/dL
+   99 mEq/L
+   145 mEq/L
+   25.0 %
+   4.7 K/uL
+        [image002.jpg]
+                             [**2807-9-14**]  03:44 AM
+                             [**2807-9-14**]  04:33 PM
+                             [**2807-9-15**]  04:07 AM
+                             [**2807-9-16**]  03:36 AM
+                             [**2807-9-17**]  02:39 AM
+                             [**2807-9-17**]  02:40 PM
+                             [**2807-9-18**]  02:54 AM
+                             [**2807-9-18**]  12:37 PM
+                             [**2807-9-18**]  05:48 PM
+                             [**2807-9-19**]  02:07 AM
+   WBC
+   8.7
+   7.6
+   7.6
+   6.0
+   5.0
+   4.7
+   Hct
+   25.4
+   28.0
+   26.2
+   25.8
+   23.0
+   25.2
+   26.5
+   25.0
+   Plt
+   271
+   298
+   316
+   300
+   255
+   243
+   Cr
+   3.2
+   3.2
+   3.1
+   3.0
+   2.9
+   3.0
+   3.1
+   2.9
+   TCO2
+   45
+   Glucose
+   178
+   167
+   191
+   [**Telephone/Fax (3) 8429**]
+   168
+   126
+   Other labs: PT / PTT / INR:11.8/42.4/1.0, CK / CKMB /
+   Troponin-T:739/98/0.09, ALT / AST:48/25, Alk Phos / T Bili:50/0.3,
+   Differential-Neuts:86.2 %, Band:21.0 %, Lymph:8.1 %, Mono:4.9 %,
+   Eos:0.6 %, Fibrinogen:626 mg/dL, Lactic Acid:0.9 mmol/L, Albumin:2.3
+   g/dL, LDH:275 IU/L, Ca++:8.3 mg/dL, Mg++:3.1 mg/dL, PO4:3.7 mg/dL
+   Microbiology
+   - sputum [**9-9**]
+ MRSA (vancomycin), acinetobacter (meropenem)
+   Imaging
+   - CXR [**9-19**]
+ stable pulmonary edema and effusions
+   Assessment and Plan
+   74 yom w/ paranoid schizophrenia, hypothyroidism, hypoadrenalism
+   admitted with pneumosepsis vs, urosepsis c/b by NSTEMI and now VAP with
+   acinetobacter and MRSA, now extubated but continued thick [**Last Name (un) **] secretions
+   and elevated oxygen requirements.
+   ##. Respiratory Failure/PNA:  most recent cultures from [**9-9**] showing
+   Acinetobacter and MRSA pneumonia in setting of fluid overload and
+   pulmonary edema.  Patient now re-intubated for airway protection.
+   - mental status: trach / peg scheduled for Thursday
+   - pneumonia:  continue meropenum (11 of 14) and linezolid  (11 of 14)
+   - pulmonary edema: continue lasix drip with metolazone  and
+   acetazolamide for goal of  - 2L / day
+ titrate to BP
+   # Hypertension
+ patient remains normotensive and now transitioned back
+   to home Amlodipine dose.
+   - continue Amlodipine 10 mg daily
+   # [**Last Name (un) 2359**]: likely resulting from ATN in septic shock state with normal
+   baseline 1.8-2, now trending down from peak of 4.6  to 3.0.  Cr remains
+   constant despite aggressive diuresis.
+   - continue Lasix gtt and Mitolazone and Acetazolamide diuresis for goal
+   of
+ 2L / day, titrating as BP tolerates
+   - follow [**Hospital1 **] lytes
+   # Schizophrenia:   will hold clozaril until linezolid course complete
+   for risk of pancyotopenia.  On home dose of perphenzine.
+   # Hypernatremia: likely combination of pre-renal azotemia in setting of
+   hypertonic tube feeds.
+   - continue to monitor with daily electrolytes and titrate free water
+   flushes, transition to 200 QID
+   # Anemia: patient received 1 unit PRBC
+s with slightly lower than
+   expected HCT bump.  Patient has poor reticulocyte output suggestive
+   marrow suppression or low epo as source.  Stool remains guiac negative.
+   - continue to trend [**Hospital1 **] HCT and transfuse PRN to goal > 23
+   #.Hypothyroidism: continue levothyroxine
+   # COPD: continue atrovent and albuterol
+   # Adrenal insufficiency: continue home decadron dose
+   # DM: continue insulin SQ with ISS
+   # FEN: [**Hospital1 **] lytes with PRN repleteion, tube feeds at goal
+   # Prophylaxis: SQH , bowel regimine, lansoprazole
+   # Access: PICC line
+   # Code: FULL
+   # Disposition: d/w case management placement into step down unit at
+   Rehab as require significant level of nursing care
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**2807-9-18**] 06:30 PM 45 mL/hour
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2807-9-13**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

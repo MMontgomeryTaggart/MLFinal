@@ -1,0 +1,247 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   76 y/o, female with history of CAD s/p CABG, HTN, and asthma visiting
+   from [**Location (un) 9641**], originally admitted to MICU for PNA, hypercarbic
+   respiratory failure (intubated), ARF, CHF, NSTEMI, bradycardia
+   requiring temp pacer wire, and afib with RVR.  Went to floor [**9-30**] -
+   got cath, pacer placed and then bounced back to us from [**Hospital Ward Name **] 3 [**10-4**]
+   with acute on CRI, hypotension, decreased urine output, new anion gap,
+   and increased leukocytosis.
+   24 Hour Events:
+   -pacer set to VVI 60 by EP yest
+   -per Renal, ARF felt to be pre-renal
+   -transfused 1u prbc for Hct 26 and hypotension
+   -also got 500c IVF for hypotension
+   -got furosemide 20 mg IV for incr sob this am
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefipime - [**2598-10-4**] 04:48 PM
+   Vancomycin - [**2598-10-4**] 06:06 PM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Zantac, Synthroid, allopurinol, Atorvastatin, [**Last Name (LF) **], [**First Name3 (LF) 114**], nystatin S&S
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2598-10-6**] 09:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 35.3
+C (95.5
+   HR: 92 (87 - 103) bpm
+   BP: 83/68(71) {83/39(48) - 130/96(104)} mmHg
+   RR: 21 (15 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 69.4 kg (admission): 72.3 kg
+   Height: 62 Inch
+             Total In:
+                                                                  3,923 mL
+                                                                    157 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,485 mL
+                                                                    157 mL
+   Blood products:
+                                                                    438 mL
+   Total out:
+                                                                    273 mL
+                                                                    190 mL
+   Urine:
+                                                                    273 mL
+                                                                    190 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,650 mL
+                                                                    -33 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///20/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Distant), irreg irreg, no m/r/g
+   noted
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bibasilar 1/2 up)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace, asymmetric LUE edema
+   Skin:  Cool
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+   10.4 g/dL
+   295 K/uL
+   155 mg/dL
+   2.1 mg/dL
+   20 mEq/L
+   4.0 mEq/L
+   49 mg/dL
+   106 mEq/L
+   138 mEq/L
+   33.3 %
+   19.7 K/uL
+        [image002.jpg]
+                            [**2598-9-28**]  03:20 AM
+                            [**2598-9-29**]  04:49 AM
+                            [**2598-9-29**]  09:16 PM
+                            [**2598-9-30**]  03:24 AM
+                            [**2598-10-4**]  04:47 PM
+                            [**2598-10-4**]  09:09 PM
+                            [**2598-10-5**]  12:11 AM
+                            [**2598-10-5**]  05:44 AM
+                            [**2598-10-5**]  06:03 PM
+                            [**2598-10-6**]  04:47 AM
+   WBC
+   11.8
+   14.6
+   16.0
+   21.1
+   24.3
+   19.2
+   19.7
+   Hct
+   27.8
+   27.9
+   27.3
+   26.9
+   26.9
+   26.7
+   31.1
+   33.3
+   Plt
+   143
+   144
+   163
+   292
+   310
+   286
+   295
+   Cr
+   1.2
+   1.1
+   1.2
+   2.3
+   2.2
+   2.2
+   2.1
+   TropT
+   2.01
+   1.93
+   2.02
+   TCO2
+   24
+   Glucose
+   118
+   123
+   115
+   126
+   104
+   163
+   155
+   Other labs: PT / PTT / INR:15.1/44.8/1.3, CK / CKMB /
+   Troponin-T:97/5/2.02, ALT / AST:75/90, Alk Phos / T Bili:114/0.7,
+   Amylase / Lipase:/134, Differential-Neuts:89.1 %, Lymph:5.8 %, Mono:3.6
+   %, Eos:1.2 %, Fibrinogen:560 mg/dL, Lactic Acid:0.9 mmol/L, LDH:517
+   IU/L, Ca++:7.7 mg/dL, Mg++:2.3 mg/dL, PO4:4.6 mg/dL
+   Imaging: CXR- L > R effusion, cardiomeg. No sig change compared to
+   [**9-26**]
+   Renal US- unremarkable
+   [**10-5**] Echo- EF 25%, mild to mod MR, inferobasal LV aneurysm, PASP est
+   48, nl RV size and fxn; no change from 2 wks ago
+   Microbiology: No positive micro data. [**10-4**] - Blood pending. C. diff
+   negative. Urine w/ yeast
+   Assessment and Plan
+   76 y/o, female with history of CAD s/p CABG, HTN, and asthma visiting
+   from [**Location (un) 9641**], originally admitted to MICU for PNA, hypercarbic
+   respiratory failure (intubated), ARF, CHF, NSTEMI, bradycardia
+   requiring temp pacer wire, and afib with RVR.  Went to floor [**9-30**] -
+   got cath, pacer placed and then bounced back to us from [**Hospital Ward Name **] 3 [**10-4**]
+   with acute on CRI, hypotension, decreased urine output, new anion gap,
+   and increased leukocytosis.
+   Hypotension- DDx includes underfilled vs overfilled LV. Initially
+   resuscitated w/ PRBC and IVF and now with incr dypnea. I suspect more
+   of a cardiorenal picture at this point as well as low oncotic pressure.
+   HR control also important to aid filling. Doubt sepsis given lack of
+   symptoms, signs suggsting infxn
+   -TTE demonstrates stable ICM, EF 25% and likely Class II pHTN
+   -check albumin
+   -Lasix gtt and monitor pressor requirement, goal MAP 55, UOP; goal TBB
+   -500 today
+   -HR control as below
+   -ok to maintain low-dose Neo to aid diuresis
+   -f/u cx and resume ABX if any sign/ symptom suggesting infxn
+   Oliguric acute renal failure- suspect cardiorenal plus poss contrast
+   nephropathy
+   -diuresis today and trend
+   -renal US yest unremarkable
+   CAD/ICM- 3VD of both native vessels and grafts, EF 25% as above
+   - Continue [**Month/Year (2) **], [**Month/Year (2) **], Lipitor
+   - Hold ACE/metoprolol for BP
+   Afib and heart block- s/p pacer w/ interrogation yest and pacer set
+   -start dig renally dosed to aid HR control
+   LUE swelling- LUE Dopplers today
+   Transaminitis- modest elevation on admission; will repeat today
+   Guaiac + stools- will need to address colonoscopy prior to dc since
+   long-term anticoag will be likely (if not for afib then for low EF and
+   LV aneurysm)
+   ICU Care
+   Nutrition:
+   Comments: speech and swallow eval for po tolerance; poor po intake
+   Glycemic Control:  Blood sugar well controlled
+   Lines:
+   PICC Line - [**2598-10-4**] 06:07 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   resident for key portions of the services provided.  I agree with his
+   note above, including assessment and plan.
+   CC: resp failure
+   Acute on chronic systolic heart failure
+   Diuresing on lasix gtt for oliguric acute renal failure.
+   New supplemental oxygen requirement, 3L NC .
+   Stopped antibiotics due to very low suspicion infection.
+   Mild hypotension, on low dose neosynephrine.
+   Exam sig for: not in distress. 110/67 (on neo) 100-112 (afib) 96% on 3L
+   Bibasilar crackles
+   Increased JVD
+Continue Lasix gtt, low dose pressor as needed for diuresis.
+Cardiac regimen as outlined above.
+   Critically ill, 35 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 61**], MD
+   on:[**2598-10-6**] 18:20 ------
+
+
+
+DOC CLASS

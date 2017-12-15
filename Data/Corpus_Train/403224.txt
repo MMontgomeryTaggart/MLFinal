@@ -1,0 +1,221 @@
+Chief Complaint:  Hypoglycemia, hypotension and leukocytosis
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Mr. [**Known patient lastname 8839**] is a 66 yo M with Obesity hypoventilation syndrome, ?COPD,
+   afib s/p cardioverson (not on coumadin), ESRD on HD (s/p failed renal
+   tx, T,Th,Sa), PVD with recent admission for TMA ulcer s/p debridement
+   who presents altered mental status in the setting of hypoglycemia.
+   .
+   In the ER his initial VS were: T 97.8   HR 81 irreg.  BP 108/72   RR
+   18   O2 sat 96%
+   .
+   BG 30s in the nursing home, given glucagon IM x 2.  Transferred to the
+   ER, BG upon arrival to the ER was 120.  In the ER he was normotensive
+   but then began more obtunded and his BG was in the 30s and he was given
+   D50 and his BG improved to 66 and was given 1 additional amp of D50.
+   The patient has been intermittently hypotensive- with systolics between
+   70-80.  His obtundation slightly improved with D50 but still with
+   altered mental status.  L femoral line placed, 1L NS given, also given
+   vanc / zosyn.  Some periumbilical abd pain so underwent CT abd / pelvis
+   which was prelim negative, renal fellow contact[**Name (NI) **].   Cultures drawn
+   from HD line.
+   .
+   Prior to his transfer to the floor his VS were: BP 105/59, 79  RR 12
+   O2 100% on non rebreather.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from [**Name8 (MD) 51**], MD
+   Allergies:
+   Neupogen (Injection) (Filgrastim)
+   "violent";
+   Neurontin (Oral) (Gabapentin)
+   Unknown;
+   Dilaudid (Injection) (Hydromorphone Hcl/Pf)
+   Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   -Obesity Hypoventilation syndrome
+   -? COPD
+   -Atrial Fibrillation - s/p cardioversion in [**11-5**]. Was maintained on
+   coumadin for 6 months. Currently not anticoagulated due to fall risk.
+   -Pericardial effusion - s/p drainage, unclear etiology
+   -ESRD from ATN in setting of acute gastroenteritis, s/p failed
+   cadaveric kidney transplant in [**2564**]. Dialyzed at [**Location (un) 322**] Tues, Thurs,
+   Sat.
+   - Recent admit [**2571-7-1**] for VRE HD sepsis with line intiially changed
+   over wire and then new line placed. Daptomycin ending [**2571-7-12**]
+   -Abdominal wall hernia - s/p repair after transplant
+   -Multiple knee surgeries 20 years ago
+   -Poor access, Right Tunnelled line
+   -Baseline SBP's in 90s
+   -Hypercapnia due to obesity hypoventilation syndrome
+   -non-melanoma skin cancer
+   -septic knee
+   -TMA ulcer/ganrene x2 s/p debridement [**2571-6-3**]
+   -PVD s/p angioplasty/stent of R popliteal artery
+   non contrib
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Denies any history of Tobacco use, no EtOh use for [**Last Name (un) **] than 20
+   years, no drug use. Lives with his wife, now on disability. Used to
+   work as a spray painter. Has 3 children and multiple grandchildren.
+   .
+   Review of systems:
+   Flowsheet Data as of [**2571-7-11**] 04:28 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   ABG: ////
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, femoral CVC
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Breath Sounds: Crackles : , Diminished: )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: Trace
+   Musculoskeletal: Unable to stand
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Oriented (to): , Movement: Not assessed, No(t) Sedated, Tone:
+   Not assessed
+   Labs / Radiology
+   13
+        [image002.jpg]
+   Fluid analysis / Other labs: COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV
+   MCH MCHC RDW Plt Ct
+   [**2571-7-11**] 11:25AM    13.4*# 2.79* 8.6* 29.0* 104* 30.9 29.7* 17.9*
+   263
+   DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas
+   [**2571-7-11**] 11:25AM    86.1*   10.8* 1.5* 1.3 0.2
+   BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+   [**2571-7-11**] 11:25AM        263
+   [**2571-7-11**] 11:25AM    13.4 31.1   1.2*
+   Chemistry
+   RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+   [**2571-7-11**] 11:25AM    25*1 30* 4.7* 141 4.4 100 30 15
+   Imaging: Imaging:
+   CT ABD/PELVIS W/ CONTRAST [**2571-7-11**]: No CT evidence for abscess or
+   colitis. No change compared to [**2571-6-24**]
+   .
+   CXR [**2571-7-11**]: New edema. Left upper lung opacity is difficult to assess
+   due to low lung volumes and may represent asymmetric edema, though a
+   focus of infection cannot be excluded. Reassessment following diuresis
+   is recommended.
+   [**2571-7-3**] TEE
+   The left atrium is elongated. No spontaneous echo contrast or thrombus
+   is seen in the body of the left atrium/left atrial appendage or the
+   body of the right atrium/right atrial appendage. No atrial septal
+   defect is seen by 2D or color Doppler. Overall left ventricular
+   systolic function is normal (LVEF>55%). Right ventricular chamber size
+   and free wall motion are normal. There are simple atheroma in the
+   descending thoracic aorta. The aortic valve leaflets (3) are mildly
+   thickened. No masses or vegetations are seen on the aortic valve. Mild
+   (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly
+   thickened. No mass or vegetation is seen on the mitral valve. Trivial
+   mitral regurgitation is seen. Moderate [2+] tricuspid regurgitation is
+   seen. There is mild pulmonary artery systolic hypertension. No
+   vegetation/mass is seen on the pulmonic valve. There is no pericardial
+   effusion.
+   IMPRESSION: No vegetation or intracardiac mass found. Mild aortic
+   regurgitation and moderate tricuspid regurgitation.
+   Microbiology: [**2571-7-11**]  URINE URINE CULTURE-PENDING EMERGENCY [**Hospital1 **]
+   [**2571-7-11**]  BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **]
+   [**2571-7-11**]  BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **]
+   Assessment and Plan
+   66 yo M with obesity hypoventilation, ? COPD, afib, ESRD on HD, PVD
+   with recent TMA ulcer, presents with confusion in the setting of
+   hypoglycemia and hypotension with recent admission concering for
+   infected HD catheter (early [**2571-7-1**]) which ws changed over a wire
+   (growing out VRE) then new line sited. Now with concern for new source
+   of sepsis
+   > Hypotension /  Leukocytosis:  recent VRE HD line sepsis still on
+   treatment with  Daptomycin. Will need to check peripheral and HD line
+   cultures. His TMA is also a potneital souce although was OK on last
+   admit. No obvious path on CT abd/pel and CXR is unchanged. Given hx
+   would favor broad coverage (Pip-tazo and Daptomycin). No linezolid
+   secondary to chronic low counts
+   Also likely to have steroid deficiency with this new septic source.
+   Will start stress: Hydrocortisone 50 mg IV q 8
+   - Hydrocortisone 50 mg IV q 6
+   - Daptomycin and Pip Tazo
+   - F/u clx as above
+   > Hypoxia: hx of COPD, may be hypercarbic in setting of sepsis and
+   increased metabolic production of CO2. Will check ABG and utilize BiPAP
+   if needed. Target SaO2 90-93%.
+   > ESRD:  Clx off HD line and T, Th, Sat HD
+   > Altered mental status:   likely secondary to hypoxia initially and to
+   hypoglycemia for his second episode of altered mental status, also
+   concern for hypercarbia.  Will correct these and w/u for leukocytosis.
+   Also will discontinue digoxin.
+   - check ABG
+   - support for infection
+   > Atrial fibrillation: Digoxin not indicated (although seemes to work),
+   Will hold metoprolol in setting of hypotension
+   > hypoglycemia: differential diagnosis includes sepsis, hypothryoidism
+   or adrenal insufficiency or insulinoma versus medication error /
+   surreptitious insulin use.
+   -send insulin level and c peptide level during hypoglycemia, confirm
+   low BG on FS with serum glucose level
+   -send TSH
+   -a.m. cortisol(prob low yield in ths patient on chronic steroids (for
+   chronic rejection)
+   -w/u for leukocytosis as above.
+   > PVD s/p TMA debridement: has wound vac.  Continue, possible source of
+   infection.  s/p surgery on [**6-3**]. Has known peripheral vascular disease.
+   Tissue culture without growth on culture. Was seen on [**6-14**] by Dr.
+   [**Last Name (STitle) 7211**] with good granulation tissue
+   - Cont VAC dressing
+   - Wound care consult
+   - Cont [**Last Name (LF) **], [**First Name3 (LF) 350**]
+   - Pain control cautiously with low dose morphine -> hold for now
+   Additional issues per ICU resident note.
+   ICU Care
+   Nutrition:
+   Comments: advance diet as tolerated
+   Glycemic Control:
+   Lines / Intubation:
+   Comments:
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: DNR / DNI, no "invasive" procedure
+   Disposition: ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

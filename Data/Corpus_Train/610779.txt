@@ -1,0 +1,200 @@
+CVICU
+   HPI:
+   HD13
+   [**4-19**] POD7
+   76M s/p CABG x4 (Lima->LAD/SVG->Diag/OM/PDA )/LAA resection-[**4-11**]
+   EF:45-50% Cr:1.5 Wt:220lbs HgA1c: 6.6
+   PMH: MI 30y ago, remote tob, severe COPD, severe PVD, Afib HTN,
+   ^lipids, Obesity, Glaucoma, Cholelithiasis, right pericardial Cyst
+   (noted on CT [**3-16**]), skin CA x 2
+   [**Last Name (un) **]: Lasix 40' Xalatan Timoptic prilosec 20' Zocor 80' Plavix 75'
+   Cardizem CD 120' Aspirin 81' Lopressor 50'' Fluorouracil 5% cream
+   Combivent inhaler 2 puffs QID
+   Current medications:
+   Acetaminophen, AcetaZOLamide, Albuterol-Ipratropium, Amiodarone,
+   Aspirin, Bisacodyl, Carvedilol, Docusate Sodium, Furosemide, Heparin,
+   Insulin, Latanoprost 0.005% Ophth. Soln, Lansoprazole Oral
+   Disintegrating Tab,  Milk of Magnesia, Timolol Maleate 0.5%, Vancomycin
+   24 Hour Events:
+   Remains in ICU intubated and on lasix drip, resolving renal failure
+ CCO PAC - STOP [**3133-4-18**] 10:00 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3133-4-17**] 11:40 PM
+   Vancomycin - [**3133-4-18**] 04:30 PM
+   Infusions:
+   Furosemide (Lasix) - 7.5 mg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**3133-4-18**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**3133-4-19**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3133-4-19**] 11:05 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**35**] a.m.
+   Tmax: 37.4
+C (99.4
+   T current: 37.1
+C (98.7
+   HR: 93 (83 - 101) bpm
+   BP: 95/51(65) {93/47(62) - 130/65(86)} mmHg
+   RR: 27 (21 - 29) insp/min
+   SPO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 113 kg (admission): 98.6 kg
+   Height: 68 Inch
+             Total In:
+                                                                  2,145 mL
+                                                                  1,118 mL
+   PO:
+             Tube feeding:
+                                                                    950 mL
+                                                                    413 mL
+   IV Fluid:
+                                                                    925 mL
+                                                                    704 mL
+   Blood products:
+   Total out:
+                                                                  3,195 mL
+                                                                  1,900 mL
+   Urine:
+                                                                  3,035 mL
+                                                                  1,810 mL
+   NG:
+                                                                    160 mL
+                                                                     90 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,050 mL
+                                                                   -782 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 460 (420 - 464) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 28
+   PEEP: 10 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 21 cmH2O
+   SPO2: 95%
+   ABG: 7.46/43/94.[**Numeric Identifier 287**]/29/5
+   Ve: 13.1 L/min
+   PaO2 / FiO2: 188
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : decreased bilateral bases ), (Sternum: Stable , Drainage),
+   serosangous on dressing distal end unable to express
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended, bowel
+   movement [**4-18**]
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present), skin tears on
+   left calf
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Responds to: Noxious stimuli), Moves all extremities,
+   extremities withdraws to pain minimal movement - right arm > left arm
+   bilat legs equal
+   Labs / Radiology
+   158 K/uL
+   11.8 g/dL
+   188 mg/dL
+   1.5 mg/dL
+   29 mEq/L
+   3.9 mEq/L
+   45 mg/dL
+   102 mEq/L
+   139 mEq/L
+   34.8 %
+   11.2 K/uL
+        [image002.jpg]
+                             [**3133-4-17**]  06:03 AM
+                             [**3133-4-17**]  09:03 AM
+                             [**3133-4-17**]  11:43 AM
+                             [**3133-4-17**]  02:47 PM
+                             [**3133-4-18**]  03:13 AM
+                             [**3133-4-18**]  10:55 AM
+                             [**3133-4-18**]  10:24 PM
+                             [**3133-4-19**]  03:22 AM
+                             [**3133-4-19**]  03:31 AM
+                             [**3133-4-19**]  09:45 AM
+   WBC
+   12.1
+   11.2
+   Hct
+   33.9
+   34.8
+   Plt
+   122
+   158
+   Creatinine
+   1.7
+   1.5
+   TCO2
+   27
+   27
+   25
+   26
+   28
+   28
+   32
+   32
+   Glucose
+   200
+   188
+   Other labs: PT / PTT / INR:16.1/39.3/1.4, CK / CK-MB / Troponin
+   T:48/3/0.05, ALT / AST:26/32, Alk-Phos / T bili:75/2.2, Amylase /
+   Lipase:[**8-15**], Differential-Neuts:71.5 %, Lymph:15.6 %, Mono:7.0 %,
+   Eos:5.5 %, Fibrinogen:301 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:2.8
+   g/dL, LDH:273 IU/L, Ca:8.1 mg/dL, Mg:2.5 mg/dL, PO4:1.9 mg/dL
+   Assessment and Plan
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, acetaminophen prn
+   Cardiovascular: Aspirin, Beta-blocker, Statins, stop amiodarone due to
+   chronic atrial fibrillation
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS), continue CPAP as
+   tolerated, wean peep as tolerated, PAO2 > 60
+   Gastrointestinal / Abdomen: bowel regimen, dobhoff post pyloric
+   Nutrition: Tube feeding
+   Renal: Foley, Adequate UO, rsolving acute renal failure with cr 1.5
+   down from 1.7, contraction alkalosis stop lasix, diamox x2 doses and
+   reevaluate
+   Hematology: stable anemia
+   Endocrine: blood glucose not at goal of < 150, increase lantus and
+   tighten sliding scale coverage
+   Infectious Disease: WBC 11 from 12, afebrile - staph in sputum -
+   continue vancomycin goal trough 15-20, check level prior to next dose
+   due to improving renal function
+   Lines / Tubes / Drains: Foley, OGT, Dobhoff, ETT
+   Wounds: Dry dressings
+   Consults: P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Nutren Renal (Full) - [**3133-4-18**] 01:35 PM 40 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines:
+   Arterial Line - [**3133-4-11**] 02:10 PM
+   Trauma line - [**3133-4-11**] 02:10 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments: start IV heparin for atrial fibrillation
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 788**].
+   ------ Protected Section Addendum Entered By:[**Name (NI) 749**] [**Last Name (NamePattern1) **], MD
+   on:[**3133-4-20**] 07:20 AM ------
+
+
+
+DOC CLASS

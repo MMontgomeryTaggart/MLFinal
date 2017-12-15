@@ -1,0 +1,215 @@
+CVICU
+   HPI:
+   HD44
+   [**3-16**] POD 44/43/39/32/26
+   79M s/p open AAA repair, reexploration for bleeding(open abd)[**2-2**],
+   takeback for washout/colectomy [**2-3**],washout in OR [**2-6**]
+   EF 3-40% Wt 87.3K Cr 1.0-1.3 HgA1c 5.9
+   PMH: Dyslipidemia, Ischemic heart disease, HTN, Severe Rt common iliac
+   dz, s/p stent but still w/ claudication, CAD s/p CABG [**4-/3463**],
+   Meds: ASA 325', HCTZ 25', Univasc 15', Prilosec 20', Plavix 75',
+   Pravastatin 20', Aldactone, Toprol XL 25'
+   ABX: zosyn
+   Cultures: [**3-7**] MSSA sputum
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 3. Albumin 5% (25g / 500mL) 4. Albuterol Inhaler 7.
+   Aspirin EC 12. Erythromycin 0.5% Ophth Oint 13. Furosemide 15.
+   HYDROmorphone (Dilaudid) 18. Heparin 22. Lansoprazole Oral
+   Disintegrating Tab 23. Piperacillin-Tazobactam Na 30. Ursodiol
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3480-3-15**] 05:25 PM
+   >  CPAP/PS overnight.
+   Post operative day:
+   POD#43 - [**2-2**]: evacuation of hematoma from ex-lap with [**State **] patch
+   POD#42 - left colectomy.
+   POD#41 - [**2-4**] exp lap w/ removal of sigmoid colon, L colon, transverse
+   colon and rectum. placement of [**Doctor Last Name **] and malecot tubes.
+   POD#39 - colostomy with partial colure of abd
+   POD#37 - tighten mesh--resecured outer fascia
+   POD#35 - s/p wound exploration, partial abdominal closure, VAC
+   placement and temp meshing in place under VAC for tissue protection.
+   POD#32 - ABDOMINAL CLOSURE- FASCIA OPEN VAC DRSG [**Name5 (PTitle) **] [**Name5 (PTitle) **]
+   [**Name5 (PTitle) 2085**]:
+   No Known Drug [**Name5 (PTitle) 2085**]
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3480-3-16**] 01:46 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3480-3-15**] 10:29 PM
+   Heparin Sodium (Prophylaxis) - [**3480-3-16**] 08:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3480-3-16**] 09:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**83**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 37.8
+C (100
+   HR: 89 (78 - 105) bpm
+   BP: 120/52(67) {69/25(35) - 120/64(74)} mmHg
+   RR: 27 (18 - 39) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 80.8 kg (admission): 87.3 kg
+   Height: 69 Inch
+             Total In:
+                                                                  2,250 mL
+                                                                    145 mL
+   PO:
+                                                                    600 mL
+             Tube feeding:
+                                                                    660 mL
+   IV Fluid:
+                                                                    490 mL
+                                                                    145 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  1,625 mL
+                                                                  1,635 mL
+   Urine:
+                                                                  1,125 mL
+                                                                  1,260 mL
+   NG:
+   Stool:
+                                                                    500 mL
+   Drains:
+   Balance:
+                                                                    625 mL
+                                                                 -1,490 mL
+   Respiratory support
+   O2 Delivery Device: Trach mask
+   Ventilator mode: Standby
+   Vt (Spontaneous): 510 (313 - 510) mL
+   PS : 12 cmH2O
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 105
+   PIP: 1 cmH2O
+   SPO2: 100%
+   ABG: ///23/
+   Ve: 8.5 L/min
+   Physical Examination
+   Labs / Radiology
+   302 K/uL
+   8.1 g/dL
+   76 mg/dL
+   2.8 mg/dL
+   23 mEq/L
+   4.6 mEq/L
+   50 mg/dL
+   112 mEq/L
+   146 mEq/L
+   24.4 %
+   13.2 K/uL
+        [image002.jpg]
+                             [**3480-3-9**]  04:08 AM
+                             [**3480-3-10**]  02:06 AM
+                             [**3480-3-11**]  04:01 AM
+                             [**3480-3-12**]  12:47 AM
+                             [**3480-3-13**]  02:14 AM
+                             [**3480-3-13**]  02:33 PM
+                             [**3480-3-13**]  05:12 PM
+                             [**3480-3-14**]  06:24 AM
+                             [**3480-3-15**]  01:58 AM
+                             [**3480-3-16**]  04:46 AM
+   WBC
+   12.1
+   10.5
+   9.7
+   14.7
+   11.5
+   13.1
+   12.0
+   13.2
+   Hct
+   25.7
+   25.3
+   26.2
+   28.6
+   28.3
+   28.7
+   28.0
+   24.4
+   Plt
+   [**Telephone/Fax (2) 6108**]02
+   Creatinine
+   1.9
+   2.1
+   2.0
+   2.2
+   2.3
+   2.2
+   2.4
+   2.8
+   TCO2
+   25
+   24
+   Glucose
+   72
+   81
+   139
+   112
+   127
+   85
+   78
+   76
+   Other labs: PT / PTT / INR:15.8/36.1/1.4, CK / CK-MB / Troponin
+   T:183/4/0.32, ALT / AST:36/29, Alk-Phos / T bili:261/4.1, Amylase /
+   Lipase:78/99, Differential-Neuts:88.0 %, Band:2.0 %, Lymph:3.0 %,
+   Mono:3.0 %, Eos:2.0 %, Fibrinogen:343 mg/dL, Lactic Acid:1.0 mmol/L,
+   Albumin:2.3 g/dL, LDH:232 IU/L, Ca:9.2 mg/dL, Mg:2.4 mg/dL, PO4:5.1
+   mg/dL
+   Assessment and Plan
+   HYPERNATREMIA (HIGH SODIUM), HYPOTENSION (NOT SHOCK), LIVER FUNCTION
+   ABNORMALITIES, VENTRICULAR PREMATURE BEATS (VPB, VPC, PVC), RENAL
+   FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), RESPIRATORY FAILURE, ACUTE
+   (NOT ARDS/[**Doctor Last Name 11**]), KNOWLEDGE, IMPAIRED, ALTERATION IN NUTRITION, IMPAIRED
+   SKIN INTEGRITY, ELECTROLYTE & FLUID DISORDER, OTHER, [**Last Name 12**] PROBLEM -
+   ENTER DESCRIPTION IN COMMENTS, AORTIC ANEURYSM, ABDOMINAL WITH RUPTURE
+   (AAA)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Cont minimize sedatives.
+   Cardiovascular: Aspirin, Hypotension improved.
+   Pulmonary: Trach, (Ventilator mode: CPAP + PS), Cont PS QHS PRN with
+   daily trach mask trials.
+   Gastrointestinal / Abdomen: Dobhoff
+   Nutrition: Tube feeding, Full liquids
+   Renal: Foley, Adequate UO, Rising creatinine --> consider decreasing
+   lasix.
+   Hematology: Mod anemia with mild creat drop --> repeat in AM .
+   Endocrine: RISS
+   Infectious Disease: Check cultures, Cont Zosyn for Klebsiella
+   pneumonia.
+   Lines / Tubes / Drains: Foley, Dobhoff, Trach
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: Vascular surgery, ID dept, P.T., O.T., Nutrition
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   complication
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3480-3-4**] 12:41 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

@@ -1,0 +1,385 @@
+Chief Complaint:
+   24 Hour Events:
+   Stable overnight. Bolused briefly for hypotension. On nasal canula for
+   some of the night.
+   [ ] family meeting
+   [ ] current respiratory
+   Allergies:
+   Belladonna Alkaloids
+   itching; swolle
+   Flagyl (Oral) (Metronidazole)
+   Diarrhea;
+   Last dose of Antibiotics:
+   Cefipime - [**2831-2-26**] 10:06 PM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2831-2-26**] 08:07 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2831-2-27**] 06:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**32**] AM
+   Tmax: 35.8
+C (96.5
+   Tcurrent: 35.1
+C (95.2
+   HR: 83 (67 - 97) bpm
+   BP: 76/27(39) {62/17(39) - 105/70(73)} mmHg
+   RR: 23 (13 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 63 Inch
+             Total In:
+                                                                  3,858 mL
+                                                                     70 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,858 mL
+                                                                     70 mL
+   Blood products:
+   Total out:
+                                                                    120 mL
+                                                                     25 mL
+   Urine:
+                                                                    120 mL
+                                                                     25 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,738 mL
+                                                                     45 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 278 (278 - 588) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 23
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 23 cmH2O
+   SpO2: 93%
+   ABG: ///19/
+   Ve: 9.4 L/min
+   Physical Examination
+   General: NAD
+   HEENT: MMM
+   Neck: supple, no LAD
+   Lungs: Clear to auscultation bilaterally anteriorly
+   CV: Regular rate and rhythm, normal S1 + S2, soft systolic murmur but
+   difficult to auscultate over breath sounds. most notable at LLSB
+   Abdomen: soft, mildly distended, no R/G, bowel sounds present, no
+   organomegaly
+   Ext: Warm, well perfused, 2+ pulses, large bandage on right arm with
+   eccymoses in R shoulder, and brace on right leg, bandages on both lower
+   extremities with 2+; multiple skins tears with wound care
+   Labs / Radiology
+   141 K/uL
+   9.0 g/dL
+   90 mg/dL
+   3.1 mg/dL
+   19 mEq/L
+   4.7 mEq/L
+   82 mg/dL
+   113 mEq/L
+   139 mEq/L
+   29.3 %
+   15.0 K/uL
+        [image002.jpg]
+                             [**2831-2-21**]  02:22 AM
+                             [**2831-2-21**]  04:43 AM
+                             [**2831-2-21**]  12:28 PM
+                             [**2831-2-22**]  06:05 AM
+                             [**2831-2-23**]  05:17 AM
+                             [**2831-2-25**]  03:25 PM
+                             [**2831-2-26**]  04:00 AM
+                             [**2831-2-26**]  04:17 AM
+                             [**2831-2-26**]  07:32 PM
+                             [**2831-2-27**]  03:37 AM
+   WBC
+   4.6
+   6.4
+   7.3
+   10.5
+   15.0
+   Hct
+   25.2
+   24.9
+   26
+   24.5
+   24.3
+   27.5
+   26.2
+   29.3
+   Plt
+   114
+   136
+   132
+   104
+   141
+   Cr
+   2.9
+   2.7
+   2.4
+   2.7
+   2.7
+   3.0
+   3.1
+   Glucose
+   108
+   94
+   97
+   127
+   107
+   91
+   90
+   Other labs: PT / PTT / INR:10.6/27.0/0.9, ALT / AST:[**1-23**], Alk Phos / T
+   Bili:75/0.4, Lactic Acid:1.0 mmol/L, LDH:189 IU/L, Ca++:7.7 mg/dL,
+   Mg++:2.3 mg/dL, PO4:6.0 mg/dL
+                                                                [**2831-2-27**]
+                                                                    05:01a
+   _______________________________________________________________________
+                                     pH
+                                    7.01
+                                    pCO2
+                                     76
+                                     pO2
+                                     53
+                                    HCO3
+                                     21
+                                   BaseXS
+                                     -13
+   Type:Central Venous
+                                                                [**2831-2-27**]
+                                                                    04:28a
+   _______________________________________________________________________
+                                     pH
+                                    7.06
+                                    pCO2
+                                     58
+                                     pO2
+                                     185
+                                    HCO3
+                                     17
+                                   BaseXS
+                                     -14
+   Type:Central Venous; Green Top; Temp:35.1
+   Lactate:1.0
+                                                                [**2831-2-26**]
+                                                                    10:49p
+   _______________________________________________________________________
+                                     pH
+                                    7.08
+                                    pCO2
+                                     62
+                                     pO2
+                                     50
+                                    HCO3
+                                     19
+                                   BaseXS
+                                     -12
+   Type:Mix
+                                                                [**2831-2-26**]
+                                                                     2:33p
+   _______________________________________________________________________
+                                     pH
+                                    7.08
+                                    pCO2
+                                     66
+                                     pO2
+                                     71
+                                    HCO3
+                                     21
+                                   BaseXS
+                                     -11
+   Type:Mix
+   Lactate:0.6
+                                                                [**2831-2-26**]
+                                                                     2:20p
+   _______________________________________________________________________
+   Source: Catheter
+   Other Urine Chemistry:
+   UreaN:379
+   Creat:50
+   Na:41
+   Osmolal:327
+   FENa:
+   Source: Catheter
+   Color
+   Yellow
+   Appear
+   Clear
+   SpecGr
+   1.013
+   pH
+   5.0
+   Urobil
+   Neg
+   Bili
+   Neg
+   Leuk
+   Tr
+   Bld
+   Mod
+   Nitr
+   Neg
+   Prot
+   75
+   Glu
+   Neg
+   Ket
+   Tr
+   RBC
+   [**5-29**]
+   WBC
+   0-2
+   Bact
+   None
+   Yeast
+   None
+   Epi
+   0-2
+   Other Urine Counts
+   Eos: Negative No Eos Seen
+   Assessment and Plan
+   83F chronic hypoventilation, CRI c/b ARF in the setting of recent falls
+   / fractures, IBD, DVT, MDS treated yesterday with lasix for low urine
+   output, started on tramadol - hypotensive this AM despite 3L NS, vbg c
+   pH 7.09, lac 0.8 - returns to unit for management of progressive
+   hypercarbia and respiratory acidosis for non-invasive ventilation.
+   # Hypotension with Concern for Sepsis: New hypotension on day of
+   transfer back to ICU in the context of recent Lasix (given night prior
+   to transfer with hope for increasing UOP) but minimal UOP. Concerning
+   for sepsis especially given low temperatures and rising WBC. Cultures
+   all pending. Some response to NS boluses but limited due to lack of
+   UOP. Burst steroids slightly decreased day prior to transfer (4mg TID
+   to [**Hospital1 **]). Patient likely has some degree of adrenal insufficiency given
+   chronic steroid use (for Crohn
+    - serial lactates
+    - continue hydrocortisone succinate 100 mg [**Hospital1 **]
+    - continue Cefepime / Vancomycin
+   - Will start Flagyl IV today
+    - Vanco level this morning 19.5 so will give next dose
+    - follow-up Micro / C.diff (Negative x 3)
+    - follow-up urine and blood cultures, check c diff x3
+    - SBP 100 on arrival, will continue to bolus PRN for low pressure with
+   careful consideration of respiratory status. Will target SBP in 80s,
+   will give 250-500 D5 w/ 3 amps HCO3 cc bolus now.
+   # Oliguria + Acute on Chronic Renal Failure: Intermittent and now
+   worsening oliguria across hospitalization in conjunction with poor PO
+   intake and acute on chronic renal insufficiency, likely pre-renal vs
+   ATN. Creatinine slightly up on transfer to 2.8 from 2.5 now stable,
+   baseline prior to admission ~1.7-2.0, renal U/S without hydronephrosis.
+   Now making ~10-20 cc per hour in setting of significant hypotension and
+   now with worsening metabolic acidosis. No eos on UA. FEUrea: 26.53%
+    - continue to monitor urine output closely
+    - renally dose all medications
+    - continue IVF for now
+    - urine lytes, urine eosinophils (multiple antibiotics exposures)
+    - kayexelate PR/PO if becomes hyperkalemic
+   - Will hold bactrim dose today
+   .
+   # Hypercarbic respiratory failure: Worsening hypercarbia across past
+   weeks, now returning to ICU hypercarbic with ABG 7.02/92/26 ([**2-25**])
+   possibly [**1-21**] poor mask fit on floor +/- sedating meds (tramadol +
+   morphine for femur fracture) with likely contribution from an
+   underlying PNA. CXR today with worsened atelectasis vs effusion vs PNA.
+   Cannot r/o PE given history, femur fx, and currently being off lovenox
+   ([**1-21**] renal function) however less likely given that she is on SQH ([**Hospital1 **])
+   and that her hypercarbia improvement with BIPAP.
+    - continue NPPV/BiPAP
+    - monitor VBGs while continuing NPPV for ongoing hypercarbic
+   respiratory failure in addition to abx for possible LLL pneumonia.
+    - will hold on CTA given ARF/CKD; d-dimer not helpful in this context
+    - IS as tolerated
+   # Acidosis: Mixed respiratory and non-gap metabolic acidosis, with
+   intermittent respiratory acidosis as above, and metabolic acidosis
+   likely [**1-21**] declining renal function. ABG reflects progressive acidosis
+   despite improved ventilation
+ likely evolving ARF in the setting of
+   hypotension and low UOP, check lactate.
+   # AMS: multifactorial including toxic-metabolic, hypercapnia, hospital
+   delirium +/- infection. Treating underlying causes as above.
+    - Avoid sedating medications while trying to control pain
+    - Avoid unnessary wake-ups
+   - Will give Tylenol PR for pain
+   .
+   # Fall with mulitple fractures and lacteration: Intraarticular right
+   knee/femur fracture and right elbow fracture with associated head
+   injury and deep laceration to right arm and tear of left leg. Patient
+   became more sleepy with oxycodone, so this was discontinued.  She was
+   then treated with 7 days of Cefazolin per Ortho recs.  This was
+   discontinued [**2831-2-20**].
+    - Pain management: Tylenol scheduled (PR while NPO), Morphine PRN
+    - Hold Tramadol given change in respiratory status
+    - Ortho recs (will need follows in 2 weeks with [**Doctor Last Name 3169**] [**Telephone/Fax (1) 11575**])
+    - Vitamin A per Plastics
+    - Take down brace once daily for skin checks
+    - Avoid creams/lotions as may macerate skin further
+    - Will need Plastics follow-up Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] @ [**Hospital3 271**]
+   [**Telephone/Fax (1) 11576**]
+    - Dressing changes Q3 days per Plastics
+   .
+   # Acute on chronic anemia: History of myelodysplastic disorder, now
+   with acute blood loss [**1-21**] to multiple eccymoses /  hematomas.  CT
+   abdomen negative for RP bleed.  S/p 5U PRBC (last [**2831-2-23**]).
+    - Steroids as above (increased dosing)
+    - PPx Bactrim once taking improved PO
+    - monitor Hct daily
+    - T&S
+    - B12 injections monthly, Folate
+   .
+   # Crohn's: During admission, has had diarrhea though may be related to
+   Kayexelate given for hyperkalemia
+    - continue mesalamine once tolerating PO
+    - could consider Mesalamine enemas if truly thought to be flair
+    - Increased steroids as above
+    - On Cefepime for HAP
+   .
+   # Hx of PE/DVT: last DVT [**3-28**] with PICC. Was on lovenox at home, but
+   now concern for bleeding in setting of significant laceractions and
+   fractures.
+   - Will continue Hep SC BID
+   - Holding lovenox
+   # Loss of vision/cataracts: per daughter lost vision in left eye 2
+   months ago, no eye evaluation since due to unable to get to doctors
+   [**Name5 (PTitle) **].  Ophthalmology consulted while inpatient and recommended
+   continuation of home eye drops.
+    - Eye gtts per home regimen
+   # Decubitus ulcer: Being followed by wound care with multiple
+   recommendations.
+    - Atmos Air Matress
+    - Wound Care recs
+   # FEN:
+    - IVF boluses as needed, w/ 3amps HCO3
+    - Replete lytes PRN & monitor for hyperkalemia
+    - NPO while mental status poor
+   # Prophylaxis:
+    - DVT ppx with lovenox
+    - Bowel regimen
+    - PPI given steroids
+    - Insulin Sliding Scale while on increased Decadron
+   # Access: PIV, Port
+   # Code: DNR/DNI per daughter (who is at the bedside)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  ISS
+   Lines:
+   Indwelling Port (PortaCath) - [**2831-2-25**] 12:40 PM
+   Prophylaxis:
+   DVT: SQH [**Hospital1 **]
+   Stress ulcer:
+   Comments:
+   Communication:  Patient (Russsian), Emergency Contact: Daughter
+   [**Name2 (NI) 62**] status: DNR / DNI
+   Disposition: ICU pending improvement
+
+
+
+DOC CLASS

@@ -1,0 +1,252 @@
+Admission Date:  [**2706-5-10**]              Discharge Date:   [**2706-5-20**]
+
+Date of Birth:  [**2651-3-11**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Percocet
+
+Attending:[**First Name3 (LF) 433**]
+Chief Complaint:
+chest pain
+
+
+Major Surgical or Invasive Procedure:
+Coronary artery bypass grafting x4:  Left
+internal mammary artery to left anterior descending artery;
+and reverse saphenous vein graft to the posterior descending
+artery, obtuse marginal artery and diagonal arteries.
+
+
+History of Present Illness:
+55 year old male with known diabetes,
+hypertension, high cholesterol, and a negative stress test done
+in [**2704-4-14**] who presented to [**Hospital6 15280**] on [**5-9**]
+complaining of retrosternal intermittent chest pain x 2 days. He
+described it as crushing chest pain which became worse and had
+associated  shortness of breath and nausea. He was  treated with
+NTG in the OSH ED and became pain free.  Further cardiac workup
+reveals multivessel coronary artery disease. He was transferred
+to [**Hospital1 52**] for evaluation of coronary revascularization
+
+Past Medical History:
+Coronary Artery Disease
+PMH:
+Diabetes, hypertension, high cholesterol,
+obesity, gout, gastroesophageal reflux, hx of renal stone
+
+
+Social History:
+Lives with:wife
+Contact:                      Phone #
+Occupation: disabled
+Cigarettes: Smoked no [] yes [x] last cigarette _____ Hx:
+Other Tobacco use:
+ETOH:denies < 1 drink/week []  [**2-20**] drinks/week [] >8 drinks/week
+[]
+Illicit drug use: denies
+
+
+Family History:
+non-contributory
+
+Physical Exam:
+Pulse:72 Resp:14  O2 sat:99% on RA
+B/P  Right:117/59    Left:
+Height:     Weight:
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [x]  Edema none
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+DP           Right: 2+  Left:2+
+PT           [**Name (NI) 278**]: 2+  Left:2+
+Radial       Right:2+   Left:2+
+
+Carotid Bruit -        Right:none    Left:none
+
+
+Pertinent Results:
+[**2706-5-14**] Intra-op TEE:
+Conclusions
+PRE-CPB: 1. The left atrium is normal in size. No thrombus is
+seen in the left atrial appendage.
+2. No spontaneous echo contrast is seen in the body of the right
+atrium.
+3. No atrial septal defect is seen by 2D or color Doppler.
+4. Left ventricular wall thicknesses are normal. The left
+ventricular cavity size is normal. Regional left ventricular
+wall motion is normal.
+5. Right ventricular chamber size and free wall motion are
+normal.
+6. The ascending, transverse and descending thoracic aorta are
+normal in diameter and free of atherosclerotic plaque. There are
+simple atheroma in the descending thoracic aorta.
+7. There are three aortic valve leaflets. The aortic valve
+leaflets (3) are mildly thickened. There is no aortic valve
+stenosis. No aortic regurgitation is seen.
+8. Trivial mitral regurgitation is seen.
+Dr. [**Last Name (STitle) **] was notified in person of the results.
+
+POST-CPB: On phenylephrine briefly. AV pacing, then NSR.
+Preserved biventricular systolic function post CPB. LVEF is now
+65%. Trace MR. [**First Name (Titles) 556**] aortic contour is normal post decannulation.
+
+
+[**2706-5-20**] 04:59AM BLOOD WBC-8.6 RBC-3.82* Hgb-10.9* Hct-34.4*
+MCV-90 MCH-28.6 MCHC-31.7 RDW-13.4 Plt Ct-275
+[**2706-5-19**] 04:06AM BLOOD WBC-7.2 RBC-3.61* Hgb-10.4* Hct-32.9*
+MCV-91 MCH-28.9 MCHC-31.8 RDW-13.4 Plt Ct-252
+[**2706-5-18**] 03:44AM BLOOD WBC-6.1 RBC-3.38* Hgb-10.0* Hct-30.8*
+MCV-91 MCH-29.5 MCHC-32.3 RDW-13.7 Plt Ct-193
+[**2706-5-20**] 04:59AM BLOOD Na-138 K-4.2 Cl-96
+[**2706-5-19**] 04:06AM BLOOD Glucose-168* UreaN-23* Creat-1.0 Na-138
+K-4.7 Cl-97 HCO3-30 AnGap-16
+[**2706-5-18**] 03:15PM BLOOD Na-138 K-4.1 Cl-98
+[**2706-5-18**] 03:44AM BLOOD Glucose-134* UreaN-25* Creat-0.9 Na-139
+K-3.8 Cl-101 HCO3-30 AnGap-12
+[**2706-5-17**] 03:39AM BLOOD Glucose-134* UreaN-20 Creat-1.0 Na-138
+K-4.0 Cl-99 HCO3-29 AnGap-14
+
+Brief Hospital Course:
+Mr. [**Known patient lastname **] was admitted to the [**Hospital1 52**] on [**2706-5-10**] for surgical
+management of his coronary artery disease and required Plavix
+washout. On [**2706-5-14**], Mr. [**Known patient lastname **] was taken to the Operating
+Room where the patient underwent coronary artery bypass grafting
+to four vessels. Please see operative note for details. Overall
+the patient tolerated the procedure well and post-operatively
+was transferred to the CVICU in stable condition for recovery
+and invasive monitoring. He was initially hypoxic and his
+extubation was deferred for several hours. He eventually
+extubated late in the evening and required high flow oxygen.
+Patient was a smoker pre-op. He remained in the unit for several
+days due to continued hypoxia and the need for pulmonary
+toileting. He was started on beta blocker and aggressive
+diuresis which he has tolerated well. Pacing wires and chest
+tubes were discontinued without incident. Eventually on POD #4
+he was transferred to the  floor for the remainder of his
+post-op course. He had been very motivated and was evaluated by
+the physical therapy service for assistance with strength and
+mobility. By the time of discharge on POD 6 the patient was
+ambulating freely, the wound was healing and pain was controlled
+with oral analgesics and he was weaned to room air with oxygen
+saturation of 88-93% on room air with ambulation 94% on room air
+at rest. The patient was discharged home with visiting nurse
+services in good condition with appropriate follow up
+instructions.  Cardiac service office to call patient on Mon [**5-21**]
+with follow up appointment times and dates.
+
+
+Medications on Admission:
+Simvastatin 20(1), Metformin 500(1),
+Lisinopril 20(2), Amlodipine 10(1), Atenolol 25(1), Aspirin
+81(1), Allopurinol 300(1), omeprazole 20(1)
+
+Discharge Medications:
+1. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every
+4 hours) as needed for temperature >38.0.
+2. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO DAILY (Daily) as needed for constipation.
+5. Zocor 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*1*
+6. allopurinol 300 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+9. metformin 500 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+10. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+11. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+12. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day for 10
+days.
+Disp:*10 Tablet(s)* Refills:*0*
+13. potassium chloride 20 mEq Tablet, ER Particles/Crystals Sig:
+One (1) Tablet, ER Particles/Crystals PO once a day for 10 days.
+Disp:*10 Tablet, ER Particles/Crystals(s)* Refills:*0*
+14. Combivent 18-103 mcg/actuation Aerosol Sig: [**1-15**]  Inhalation
+four times a day as needed for shortness of breath or wheezing.
+Disp:*1 1* Refills:*0*
+15. Flovent Diskus 100 mcg/actuation Disk with Device Sig: One
+(1)  Inhalation twice a day for 1 months.
+Disp:*1 1* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company 2163**]
+
+Discharge Diagnosis:
+Coronary Artery Disease
+PMH:
+Diabetes, hypertension, high cholesterol,
+obesity, gout, gastroesophageal reflux, hx of renal stone
+
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Left lower extremity with 1+ edema
+Sternal Incision - healing well, no erythema or drainage
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 279**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+Followup Instructions:
+You are scheduled for the following appointments:
+Wound Check at Cardiac Surgery Office [**Telephone/Fax (1) 279**] - office to
+call you with appointment time
+Surgeon Dr. [**Last Name (STitle) **] [**Telephone/Fax (1) 279**] - office to call you with
+appointment time
+Cardiologist Dr. [**Last Name (STitle) 24211**] - office will call you with
+appointment time
+
+Please call to schedule the following:
+Primary Care Greater [**Hospital1 **] Family Center in [**4-19**] weeks
+[**Telephone/Fax (1) 24212**]
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 279**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**2706-5-20**]
+
+
+DOC CLASS

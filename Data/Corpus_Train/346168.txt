@@ -1,0 +1,190 @@
+CVICU
+   HPI:
+   HD4
+   81F w/chronic type B Ao dissection, possible hepatic art involvement
+   PMHx: HTN, hyperlipidemia, Dysphagia w/esophageal stricture,
+   hiatal hernia, gastritis, IBS, Migraines
+   PSHx: Bladder suspension
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Aspirin , Bisacodyl , Docusate Sodium (Liquid) , Furosemide , Heparin ,
+   Influenza Virus Vaccine, Labetalol , Lisinopril, Milk of Magnesia ,
+   Nitroglycerin , Pantoprazole , Pneumococcal Vac Polyvalent,
+   Simvastatin, Sodium Chloride 0.9% Flush , Vancomycin
+   24 Hour Events:
+ ULTRASOUND - At [**3081-11-25**] 11:13 AM
+   u/s of gallbladder r/o obstruction
+   Allergies:
+   Medroxyprogesterone
+   Unknown;
+   Ethoxzolamide
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3081-11-25**] 08:10 AM
+   Vancomycin - [**3081-11-25**] 05:10 PM
+   Infusions:
+   Heparin Sodium - 800 units/hour
+   Nitroglycerin - 1 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3081-11-25**] 08:00 PM
+   Furosemide (Lasix) - [**3081-11-26**] 01:30 AM
+   Other medications:
+   Flowsheet Data as of  [**3081-11-26**] 12:19 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**85**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 36.8
+C (98.2
+   HR: 60 (58 - 75) bpm
+   BP: 151/56(87) {95/43(58) - 173/68(104)} mmHg
+   RR: 16 (15 - 27) insp/min
+   SPO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Wgt (current): 64.4 kg (admission): 64.1 kg
+   Height: 60 Inch
+             Total In:
+                                                                  2,504 mL
+                                                                    435 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  2,494 mL
+                                                                    255 mL
+   Blood products:
+   Total out:
+                                                                  1,614 mL
+                                                                    704 mL
+   Urine:
+                                                                  1,614 mL
+                                                                    704 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    890 mL
+                                                                   -269 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 97%
+   ABG: 7.51/29/72/22/0
+   PaO2 / FiO2: 144
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: CTA bilateral : )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 1), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   214 K/uL
+   9.5 g/dL
+   149
+   0.7 mg/dL
+   22 mEq/L
+   3.5 mEq/L
+   29 mg/dL
+   102 mEq/L
+   133 mEq/L
+   26.8 %
+   10.7 K/uL
+        [image002.jpg]
+                            [**3081-11-24**]  01:07 PM
+                            [**3081-11-24**]  08:52 PM
+                            [**3081-11-25**]  02:04 AM
+                            [**3081-11-25**]  02:18 AM
+                            [**3081-11-25**]  12:32 PM
+                            [**3081-11-25**]  12:42 PM
+                            [**3081-11-25**]  08:23 PM
+                            [**3081-11-25**]  08:40 PM
+                            [**3081-11-26**]  03:00 AM
+                            [**3081-11-26**]  06:00 AM
+   WBC
+   10.9
+   10.6
+   10.7
+   Hct
+   22.5
+   26.8
+   26.6
+   29.0
+   28.2
+   26.8
+   Plt
+   189
+   215
+   214
+   Creatinine
+   0.7
+   0.6
+   0.7
+   0.7
+   TCO2
+   24
+   23
+   Glucose
+   123
+   130
+   156
+   172
+   127
+   149
+   Other labs: PT / PTT / INR:15.9/35.1/1.4, CK / CK-MB / Troponin
+   T:/4/0.04, ALT / AST:282/216, Alk-Phos / T bili:225/1.4, Amylase /
+   Lipase:113/188, Differential-Neuts:72.5 %, Lymph:11.4 %, Mono:14.2 %,
+   Eos:1.5 %, Lactic Acid:1.4 mmol/L, Albumin:2.2 g/dL, LDH:204 IU/L,
+   Ca:8.8 mg/dL, Mg:2.1 mg/dL, PO4:3.4 mg/dL
+   Imaging: Multiple films to look for metal for MRI.  All negative for
+   metal.
+   Head CT, official read pending.
+   Assessment and Plan
+   CVA (STROKE, CEREBRAL INFARCTION), ISCHEMIC , DELIRIUM / CONFUSION,
+   HYPERTENSION, BENIGN, AORTIC DISSECTION, ANXIETY
+   Assessment and Plan: Pt mental status is improving.  Head CT last PM is
+   not officially read but shows old vs. new CVA.  Pt. was started on
+   Heparin and is going to have MRI/MRA of brain and neck today.  Cont. to
+   increase BP meds and transfer to VICU.  TF started today.
+   Neurologic: Neuro checks Q: 1 hr
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins
+   Pulmonary: IS
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding, Start replete with fiber today.
+   Renal: Foley
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: All neg. to date.
+   Lines / Tubes / Drains: Foley, Dobhoff
+   Wounds:
+   Imaging: MRI/MRA of brain today.
+   Cardiac echo today.
+   Fluids:
+   Consults: Neurology, Geriatrics is continuing to follow.
+   ICU Care
+   Nutrition:
+   Comments: Start TF today.
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3081-11-23**] 09:08 PM
+   20 Gauge - [**3081-11-24**] 05:02 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin (Systemic anticoagulation: Heparin drip)
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

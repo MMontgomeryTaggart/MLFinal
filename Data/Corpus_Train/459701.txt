@@ -1,0 +1,201 @@
+TITLE:
+   Chief Complaint: Wegner's and TB
+   24 Hour Events:
+ EKG - At [**2599-10-26**] 09:29 PM
+ DIALYSIS CATHETER - START [**2599-10-27**] 02:00 AM
+   rt ij
+ EKG - At [**2599-10-27**] 02:15 AM
+   -ART line
+   Allergies:
+   Simvastatin
+   Hepatic toxicit
+   Pravastatin
+   elevated LFTs;
+   Last dose of Antibiotics:
+   Infusions:
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2599-10-27**] 08:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.7
+   Tcurrent: 34.6
+C (94.3
+   HR: 66 (66 - 126) bpm
+   BP: 116/45(65) {116/43(34) - 128/46(65)} mmHg
+   RR: 12 (12 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+           Total In:
+                                                                  1,083 mL
+                                                                    435 mL
+   PO:
+           TF:
+   IVF:
+   146 mL
+   Blood products:
+                                                                    843 mL
+                                                                    289 mL
+   Total out:
+                                                                    270 mL
+                                                                     35 mL
+   Urine:
+                                                                    270 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    813 mL
+                                                                    400 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: 7.37/25/77/15/-8
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   190 K/uL
+   6.8 g/dL
+   248 mg/dL
+   5.0 mg/dL
+   15 mEq/L
+   4.8 mEq/L
+   101 mg/dL
+   104 mEq/L
+   129 mEq/L
+   20.8 %
+   7.0 K/uL
+        [image002.jpg]
+                            [**2599-10-26**]  07:35 PM
+                            [**2599-10-27**]  03:39 AM
+                            [**2599-10-27**]  04:56 AM
+   WBC
+   8.3
+   7.0
+   Hct
+   24.4
+   20.8
+   Plt
+   173
+   190
+   Cr
+   4.9
+   5.0
+   TropT
+   0.05
+   0.12
+   TCO2
+   15
+   Glucose
+   200
+   278
+   248
+   Other labs: PT / PTT / INR:24.1/150.0/2.3, CK / CKMB /
+   Troponin-T:77/8/0.12, ALT / AST:19/22, Alk Phos / T Bili:83/0.6,
+   Albumin:2.7 g/dL, LDH:215 IU/L, Ca++:8.1 mg/dL, Mg++:2.1 mg/dL, PO4:5.4
+   mg/dL
+   Imaging: ECHO [**2599-10-26**]
+   There is mild symmetric left ventricular hypertrophy with normal cavity
+   size and global systolic function (LVEF>55%). Right ventricular chamber
+   size and free wall motion are normal. The aortic valve leaflets (3) are
+   mildly thickened but aortic stenosis is not present. Mitral
+   regurgitation is present but cannot be quantified. There is no
+   pericardial effusion
+   Microbiology: [**2599-10-21**]  URINE URINE CULTURE-FINAL {KLEBSIELLA
+   PNEUMONIAE}
+   [**2599-10-22**] BAL
+   10,000-100,000 ORGANISMS/ML..
+         Staphylococcus
+   STAPH AUREUS COAG +.
+   Assessment and Plan
+   An 84 year old gentleman with worsening renal failure and acidosis from
+   Wegener's, presumed pulmonary TB transferred to the ICU for urgent
+   dialysis planning. At the time of transfer he is fairly comfortable on
+   2L nasal cannula.
+   .
+   1. Hypoxia: The patient is currently hypoxic with some dyspnea.  His
+   multiple etiologies include fluid overload from renal failure,
+   pulmonary mycobacterial infection and hemoptysis status post bronch.
+   He is doing well on 2L nasal cannula at this time.  Concern for
+   underlying tamponade physiology not likely given stat Echo today
+   revealing a resolved pericardial effusion.
+   - Plan for each underlying problem as below
+   - OK to intubate if needed, no need at this time
+   - ABG today
+   - F/U Final CXR read
+   .
+   2. Tachycardia: The patient is intermittently tachycardic, likely sick
+   sinus syndrome. New EKG changes as above concerning for ischemia versus
+   rate related change.  No acute failure on Echo.
+   - Diltiazem for rate goal ~ 100, pending blood pressure tolerance.
+   .
+   3. Renal failure:  The patient has acute on chronic renal failure from
+   worsening Wegener's.  Given his fluid overload causing hypoxia, the
+   plan is for HD/CVVH today.
+   - Correct coagulopathy
+   - Obtain HD line access
+   - Begin CVVH to remove large volumes.
+   - Renal recs
+   .
+   4. Coagulopathy: The patient's INR is 4.0, likely from recent warfarin
+   and multiple antibiotic administration given new diagnosis of TB. No
+   reason to suspect worsening liver function at this time, although
+   multiple meds may cause this in the future.
+   - FFP to correct to 1.5 for procedures (such as lines abovE)
+   - Vit K 2mg
+   .
+   5. Wegener's Granulomatosis: The patient has biopsy evidence of renal
+   Wegener's with unknown pulmonary status.
+   - Continue Prednisone & Cyclophosphamide
+   - Continue Bactrim Ppx
+   .
+   6. Pulmonary TB: The patient has evidence of Pulmonary Mycobacterial
+   infection, presumed to be TB until proven otherwise.  Cultures
+   outstanding.
+   - F/u further TB testing
+   - Continue Rifampin, INH, Pyrazinamide and Ethambutol
+   - Continue B6 for liver protection.
+   - respiratory isolation
+   .
+   7. Hemoptysis: The patient has bronchiectasis, recent bronchoscopy,
+   pulmonary TB and a supratherpeutic INR giving him multiple reasons to
+   have hemoptysis.
+   - Continue to monitor, correct coagulopathy.
+   .
+   8. Diabetes Mellitus: Continue SSI
+   .
+   FEN: No IVF, CVVH, NPO until line placed, then renal diet
+   Prophylaxis: Pneumoboots while supratherapeutic
+   Access: Peripheral, better access pending
+   Code:  Full (confirmed with patient)
+   Communication: Patient and wife [**Name (NI) 5946**] [**Name (NI) 11498**] [**Telephone/Fax (1) 11499**]
+   Disposition: MICU pending CVVH/HD
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2599-10-26**] 05:45 PM
+   Dialysis Catheter - [**2599-10-27**] 02:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

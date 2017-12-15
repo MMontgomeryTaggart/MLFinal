@@ -1,0 +1,243 @@
+TITLE:
+   Chief Complaint:
+   n/a
+   24 Hour Events:
+ MULTI LUMEN - START [**2718-11-16**] 10:48 PM (RIJ)
+ FEVER - 101.7
+F - [**2718-11-16**] 09:10 AM
+   (following fever, per neuro, patient was re-cooled to maintenance at
+   37
+   Per neuro: d/c lamictal; load with depakote (valpoic acid) at 20mg/kg
+   x1 and then 6 hours later start depakote at 10 mg/kg q6h. Check
+   depakote and dilantin levels tomorrow AM. (Neuro note in chart and
+   OMR).
+   Required 1mg IV ativan and increased propofol from 20 to 30 at around
+   9pm for increased seizure activity seen on EEG - resolved back to prior
+   pattern.
+   Patient with hypotension that responded to decreasing propofol dose.
+   Central line placed so could use pressors if needed.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**2718-11-14**] 10:45 PM
+   Metronidazole - [**2718-11-16**] 06:01 AM
+   Levofloxacin - [**2718-11-16**] 08:46 AM
+   Clindamycin - [**2718-11-17**] 01:39 AM
+   Vancomycin - [**2718-11-17**] 06:28 AM
+   Infusions:
+   Heparin Sodium - 1,500 units/hour
+   Propofol - 30 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2718-11-16**] 06:36 PM
+   Lorazepam (Ativan) - [**2718-11-16**] 09:30 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2718-11-17**] 08:00 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.7
+C (101.7
+   Tcurrent: 38.7
+C (101.7
+   HR: 61 (46 - 84) bpm
+   BP: 102/58(72) {88/48(61) - 142/73(96)} mmHg
+   RR: 16 (11 - 40) insp/min
+   SpO2: 100%
+   Heart rhythm: JR (Junctional Rhythm)
+   Height: 64 Inch
+             Total In:
+                                                                  2,302 mL
+                                                                    779 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,242 mL
+                                                                    779 mL
+   Blood products:
+   Total out:
+                                                                  1,045 mL
+                                                                    460 mL
+   Urine:
+                                                                    685 mL
+                                                                    260 mL
+   NG:
+                                                                    360 mL
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,257 mL
+                                                                    319 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 480 (480 - 500) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI Deferred: No Spon Resp
+   PIP: 34 cmH2O
+   Plateau: 22 cmH2O
+   Compliance: 28.2 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.43/31/126/20/-2
+   Ve: 8.1 L/min
+   PaO2 / FiO2: 252
+   Physical Examination
+   GEN: NAD, intubated
+   NEURO: pupils non-reactive per team
+   CV: RRR, no m/r/g; right IJ in place on right neck
+   PULM: ventilator sounds so difficult to auscultate
+   ABD: soft, nt, nd, obese
+   EXTR: no edema, obese
+   SKIN: arctic sun pads in place; petechial rash on left scapula is
+   relatively unchanged and unenlarged since yesterday.
+   Labs / Radiology
+   234 K/uL
+   11.0 g/dL
+   115 mg/dL
+   0.7 mg/dL
+   20 mEq/L
+   4.5 mEq/L
+   14 mg/dL
+   109 mEq/L
+   138 mEq/L
+   32.6 %
+   10.8 K/uL
+        [image002.jpg]
+                            [**2718-11-15**]  04:50 AM
+                            [**2718-11-15**]  07:56 AM
+                            [**2718-11-15**]  03:12 PM
+                            [**2718-11-15**]  06:43 PM
+                            [**2718-11-16**]  05:38 AM
+                            [**2718-11-16**]  05:55 AM
+                            [**2718-11-16**]  08:22 AM
+                            [**2718-11-16**]  03:36 PM
+                            [**2718-11-17**]  05:47 AM
+                            [**2718-11-17**]  06:01 AM
+   WBC
+   18.8
+   13.0
+   10.8
+   Hct
+   42.3
+   34.3
+   33.4
+   32.9
+   32.6
+   Plt
+   [**Telephone/Fax (3) 8597**]
+   Cr
+   0.8
+   0.9
+   0.8
+   0.7
+   TCO2
+   18
+   20
+   20
+   21
+   Glucose
+   [**Telephone/Fax (3) 8598**]15
+   Other labs: PT / PTT / INR:17.3/150.0/1.5, ALT / AST:53/166, Alk Phos /
+   T Bili:67/0.6, Differential-Neuts:87.5 %, Lymph:6.9 %, Mono:5.1 %,
+   Eos:0.1 %, D-dimer:469 ng/mL, Fibrinogen:526 mg/dL, Lactic Acid:1.9
+   mmol/L, Albumin:3.3 g/dL, LDH:614 IU/L, Ca++:7.8 mg/dL, Mg++:1.8 mg/dL,
+   PO4:2.2 mg/dL
+   Assessment and Plan
+   63-year-old woman with history of atrial fibrillation/flutter presented
+   after v-fib arrest.
+   .
+   # Cardiac arrest: unclear precipitant for initial v-fib. Might have
+   been atrial arrhythmias degenerating into v-fib, or a pulmonary process
+   (aspiration; no evidence of PE) leading to cardiac arrest. No evidence
+   of ischemia. Now intubated. Patient now in junctional rhythm.  s/p
+   arctic sun protocol.
+   - continue amiodarone 400mg po bid
+   - continue ventilatory support
+   - telemetry
+   .
+   # Seizure: Patient with seizure activity on EEG
+ being monitored by
+   neuro as part of cardiac arrest cooling protocol. CT head negative for
+   acute process.
+   - ask neuro about potential repeat head CT today given patient
+   bradycardia, fixed pupils, and concern for herniation
+   - ask neuro about prognosis, and plan for Monday family meeting
+   (confirm this with neuro)
+   - f/u neuro recs
+   - continuous EEG
+   - continue fosphenytoin, depakote, propofol, dilantin (d/c
+d lamictal
+   yesterday per neuro)
+   .
+   # ?Aspiration PNA vs. Pneumonitis:  CT chest showed LUL and LLL
+   findings consistent with atelectasis vs. PNA, also with leukocytosis
+   (downtrending again today) and was febrile yesterday. On vancomycin,
+   levaquin, clindamycin regimen.
+   - Continue vancomycin, levofloxacin, clindamycin
+   - Trend leukocytosis, fever curve
+   - F/u pending cultures/micro
+   .
+   # Coagulopathy
+ PT, PTT, INR no longer elevated; yesterday received
+   10mg IV vitamin K to reverse coagulopathy. DIC labs negative. Now INR
+   below therapeutic range, so patient on heparin gtt (for afib history).
+   Hct stable. Still with GIbleed concern d/t gastroccult positive OG tube
+   secretions. Petechial rash stable.
+   - 5pm Hct, PT, PTT, INR
+   - Cont. [**Hospital1 **] PPI IV
+   - Follow petechial rash on back, as concern for bleed site (marked in
+   black marker the outline)
+   .`
+   # CORONARIES: no evidence of ischemia on ECG. Elevated trop and CK most
+   likely from cardiac arrest and CPR. S/p RCA DES in [**2718-7-31**].  TTE this
+   morning did not show inferior wall hypokinesis, unlikely ischemic event
+   which triggered V fib arrest.
+   - Continue ASA (if bleeds more and Hct drops, could change 325mg to
+   81mg), clopidogrel.
+   .
+   # PUMP: BP stable with SBP in 90s to 140s; no longer on Levophed (off
+   since the [**11-15**]). EF >55% in [**2718-7-31**].  Does not appear volume
+   overloaded, though difficult to assess. Now has central access in case
+   patient needs pressors, especially since on propofol the patient
+s BP
+   has been running lower.
+   .
+   # RHYTHM: h/o afib, was initially in V fib then asystole, unclear
+   precipitant. s/p arctic sun cooling protocol. Now in junctional rhythm
+   in 40s/50s on telemetry this morning.
+   - on heparin gtt for h/o afib as INR infratherapeutic today
+   - monitor on telemetry
+   .
+   # Rash: dependent rash on upper back, ?dependent hematoma [**3-4**] rib
+   fracture ? petechial, d/t chest compressions trauma
+   - 5pm Hct
+   - monitor clinically
+   .
+   # Hypothyroidism:
+   - continue levothyroxine at home dose; do not change dose even with low
+   lab TSH, given stressed state currently
+   .
+   FEN: NPO; starting D5-1/2NS at 75cc/hour x1L
+   Lines:
+   Arterial Line - [**2718-11-15**] 06:37 PM
+   20 Gauge - [**2718-11-16**] 05:26 PM
+   Multi Lumen - [**2718-11-16**] 10:48 PM
+   PROPHYLAXIS:
+   -DVT ppx: heparin gtt (holding home coumadin in setting of
+   antiepileptics, fluoroquinolones, post-vitamin K administration on
+   [**11-16**], and previously significantly supratherapeutic INR).
+   -VAP ppx: IV bid PPI, elevate HOB
+   CODE: Full code
+   DISPO: CCU for now
+
+
+
+DOC CLASS

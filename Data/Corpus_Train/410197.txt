@@ -1,0 +1,237 @@
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2913-7-11**] 11:00 PM
+   -stopped heparin gtt
+   -will place a line and start CVVH tomorrow
+   -began having afib with intermittent trigeminy - VSS
+   -d/c'ed aromatase inhibitor because c/i in ischemic heart dz - to be
+   discussed with team in am
+   -sputum growing pseudomonas + another GNR - holding off on changing abx
+   unless febrile
+   -vanc dosing changed
+   -per renal recs, will give pt diuril and lasix prior to CVVH
+   Allergies:
+   Flagyl (Oral) (Metronidazole)
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2913-7-9**] 11:42 PM
+   Ceftriaxone - [**2913-7-11**] 12:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2913-7-12**] 07:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.9
+C (96.7
+   Tcurrent: 35.5
+C (95.9
+   HR: 75 (59 - 100) bpm
+   BP: 116/62(76) {85/35(32) - 133/96(100)} mmHg
+   RR: 20 (16 - 36) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+                  Total In:
+                                                                  2,476 mL
+                                                                    150 mL
+   PO:
+                  TF:
+                                                                  1,791 mL
+   IVF:
+                                                                    155 mL
+   Blood products:
+   Total out:
+                                                                    980 mL
+                                                                    132 mL
+   Urine:
+                                                                    980 mL
+                                                                    132 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,496 mL
+                                                                     18 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 450) mL
+   RR (Set): 15
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 50%
+   RSBI Deferred: PEEP > 10
+   PIP: 26 cmH2O
+   Plateau: 29 cmH2O
+   Compliance: 26.5 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.38/55/38/30/5
+   Ve: 10.1 L/min
+   PaO2 / FiO2: 76
+   Physical Examination
+   Unable to exam patient because she was undergoing nursing care at the
+   time.
+   However, I was able to listen to her lungs while she was turned on her
+   side by the nurses
+ the lungs sounded clear, but her breath sounds
+   were decreased on the dependent side
+   Labs / Radiology
+   258 K/uL
+   7.3 g/dL
+   121 mg/dL
+   1.9 mg/dL
+   30 mEq/L
+   4.1 mEq/L
+   85 mg/dL
+   101 mEq/L
+   141 mEq/L
+   24.5 %
+   9.1 K/uL
+        [image002.jpg]
+                             [**2913-7-9**]  03:15 AM
+                             [**2913-7-9**]  07:16 AM
+                             [**2913-7-9**]  06:57 PM
+                             [**2913-7-10**]  03:45 AM
+                             [**2913-7-10**]  11:47 AM
+                             [**2913-7-11**]  03:53 AM
+                             [**2913-7-11**]  03:09 PM
+                             [**2913-7-11**]  08:29 PM
+                             [**2913-7-11**]  11:30 PM
+                             [**2913-7-12**]  02:57 AM
+   WBC
+   9.4
+   12.7
+   12.0
+   9.1
+   Hct
+   26.1
+   25.7
+   25.0
+   24.5
+   Plt
+   [**Telephone/Fax (3) 9387**]58
+   Cr
+   1.9
+   1.9
+   1.9
+   2.0
+   1.9
+   1.9
+   TropT
+   0.62
+   0.61
+   0.76
+   TCO2
+   33
+   35
+   34
+   Glucose
+   116
+   139
+   190
+   142
+   138
+   121
+   Other labs: PT / PTT / INR:24.6/78.3/2.4, CK / CKMB /
+   Troponin-T:88/10/0.76, ALT / AST:32/66, Alk Phos / T Bili:114/0.2,
+   Differential-Neuts:85.3 %, Band:0.0 %, Lymph:11.0 %, Mono:3.3 %,
+   Eos:0.2 %, Lactic Acid:2.4 mmol/L, Albumin:2.4 g/dL, LDH:274 IU/L,
+   Ca++:8.5 mg/dL, Mg++:2.2 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+   78 y/o female with MMP including OSA requiring trach, d CHF, AFib,
+   chronic C. diff infection presents from LTAC with worsening mental
+   status and failure to improve.
+   # Altered Mental Status
+ most likely etiology is infection
+   - blood cx pending
+   - sputum cx was done
+ growing out pseudomonas and GNR
+   - urine cx growing out citrobacter koseri and klebsiella pneumo
+   - f/u repeat sputum cx
+   - head CT
+ no acute intracranial process
+   - will keep pt on ceftriaxone at this time until all sensitivities are
+   back
+   # Elevated cardiac enzymes
+ pt had c/o chest tightness
+ EKG was done
+   and unchanged from prior
+   - troponin bumped to 0.7; however, CPK trending down
+   - stopped heparin gtt and will restart anticoagulation after dialysis
+   catheter is placed
+   - pt also on a statin
+   - not started on BB due to her periods of bradycardia
+   - pt did develop a.fib. with trigeminy last night
+ held arimidex
+   # Leukocytosis
+ likely stress response vs. infectious response
+   - pt on ceftriaxone for urine cx with GNR
+s and sputum with pseudomonas
+   - WBC down to 9.1
+   - continue to monitor WBC
+ continue ceftriaxone until sensitivity data
+   is back
+   # Hx of C.diff Infection
+   - C diff negative x 1 here
+   - [**Hospital1 696**] records
+ C.diff + in [**Month (only) 1948**] and then [**2913-6-9**]
+   - consider GI consult for further options if she is positive here
+   - ID Recs
+ vanco 125 mg PO QID
+ also provided a vanco taper for when
+   pt is done with tx
+   # Respiratory Failure
+ currently with trach; CMV 450 x 15, 12 PEEP and
+   50% FIO2
+   - consider repeat ABG
+   - sputum culture growing pseudomonas
+   - consider CT to evaluate for lung process
+   - diuretics were d/c
+ed yesterday [**2-6**] to pt no UOP
+ to get CVVH today
+   # Diastolic Heart Failure/volume overload
+   - no response to lasix or zaroxylyn
+   - to get CVVH today
+   # Acute on Chronic Renal Failure
+   - Cr was 1.9 on admit
+ same today
+   - Baseline is 1.1-1.3
+   - UOP was 980mL yesterday
+   - continue to monitor BUN, Cr, UOP
+   # A.fib
+   - was in AFib on transfer but converted to sinus
+   - last night, pt had a.fib with trigeminy
+   - will restart coumadin after pt has her dialysis catheter placed
+   - rate control PRN
+   # H/o Breast Cancer
+   - continue arimidex.
+   # DM2
+   - on ISS
+   # GERD
+   - pt off of PPI as it may interfere with PO vanc
+   # Decubitus Ulcers
+   - wound care consulted; will f/u recs
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Midline - [**2913-7-8**] 04:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

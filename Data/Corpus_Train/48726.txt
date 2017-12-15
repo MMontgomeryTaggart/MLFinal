@@ -1,0 +1,445 @@
+Admission Date:  [**3444-2-6**]              Discharge Date:   [**3444-2-9**]
+
+Date of Birth:  [**3358-7-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 777**]
+Chief Complaint:
+Transfer for evaluation of sinus bradycardia.
+
+Major Surgical or Invasive Procedure:
+None.
+
+
+History of Present Illness:
+This is an 85 year old lady with a past medical history
+significant for erythromelalgia, OSA and hypothyroid who was
+transferred from [**Location (un) 240**] for evaluation of sinus bradycardia in
+the setting of pneumonia and zoster infection.
+.
+Briefly, she presented to the OSH on two days ago with symptoms
+of worsening generalized weakness, daytime somnolence,
+imbalance, poor PO intake and decreased UOP. She had been
+diagnosed with herpes zoster ten days prior in the right groin
+and was started on acyclovir. On admission, her presenting
+symptoms of fatigue were felt to be most likely secondary to
+acyclovir and pneumonia.  She has baseline dysphagia and CXR was
+concerning for right lower lobe infiltrate.  She was started on
+ceftrixone, azithromycin and flagyl. Antibiotic coverage was
+narrowed to ceftriaxone alone when a sputum culture grew out
+gram positive rods. Interestingly she was noted to be
+hypothermic (temperature of 92 rectally), hypoglycemic (glucose
+55) and lethargic. Thyroid function tests were normal (TSH 0.94,
+free T4 of 1.69). Cortisol, lactate and CPK were normal. The
+patient also presented with acute kidney injury felt to be
+pre-renal in the setting of poor PO intake (Creatinine 1.5,
+Baseline 0.8).  She was treated with D51/2W for hydration and
+correction of mild hypernatremia. For management of her zoster
+pain, she was started on gabapentin, vicodin and ativan.
+.
+On HD2 at 8AM, while the patient was asleep, cardiac monitoring
+revealed she was bradycardic to the 30s with systolic blood
+pressure in the 70s. She was awoken given a NS bolus with
+improvement of her vital signs. Later in the day, she was again
+bradycardic to the 30s with accomagning hypotension. She was
+started on dopamine at 2 mcg/kg/min.  Dr. [**Last Name (STitle) **] was
+consulted. An echo demonstrated preserved global systolic
+function with moderate MR and mild to moderate TR. Given her
+underlying pancytopenia, an SPEP and UPEP were sent to evaluate
+for amyloidosis associated arrythmia.  Transfer to [**Hospital1 52**] was
+initiated given concern that the patient's lethargy represented
+symptomatic bradycardia and thus indicated formal evaluation for
+pacemaker placement.
+.
+Vitals on tranfer were 135-140/67-92, RR 18, HR SR 54-67, Sat
+94-97% on 4L NC
+.
+REVIEW OF SYSTEMS
+(+) dyspnea w/ sleeping, myalgias, joint pains, AM headaches, AM
+somnolence, lower back pain
+(-) stroke, fevers, chills, bleeding disorders, chest pain, leg
+swelling, PND, orthopnea, palpitations, syncope
+
+Past Medical History:
+1. Obstructive sleep apnea.
+2. Hypothyroidism.
+3. Dysphagia evaluated by neurology, Dr. [**Last Name (STitle) 7774**].
+4. History of erythromelalgia.
+5. Anxiety and depression.
+6. Osteoporosis.
+7. Status post appendectomy.
+8. Status post left tibial fracture.
+9. Cervical spondylosis.
+10. History of intermittent diplopia.
+11. History of ataxia.
+12. Spinal stenosis.
+13. Constipation.
+14. Anemia.
+15. Herpes zoster of the L1 distribution and right groin
+
+Social History:
+She had formerly worked as a school counselor in [**Location (un) **],
+[**State 2663**]. She was born and raised in [**State 7775**].  She had
+no children and was never married, but lives at [**Hospital3 5121**]
+Residential Facility together with her partner, [**Name (NI) **] [**Name (NI) **],
+of over 20 years. Retired elementry school counselor.  Denies
+alcohol, tobacco, or drug use.
+
+Family History:
+Mother died of renal failure.  Brother died of leukemia.
+
+Physical Exam:
+Upon admission:
+VS: 94.6 66 129/67 13 92% on 2 liters
+GENERAL: Depressed affect, Oriented x3. Conversant, with slowed
+speech
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no
+pallor or cyanosis of the oral mucosa. No xanthalesma.
+NECK: Supple neck, JVP not appreciable, there is a Right IJ
+preventing examination of right neck.
+CARDIAC: Bradycardic, normal S1S2, no murmurs auscultated.
+LUNGS: crackles at right lower lung base posteriorly, otherwise
+clear to auscultation. Mild kyphosis.  Respirations were
+unlabored without accessory muscle use.
+ABDOMEN: Soft, NT to palpation. No rebound tenderness, +BS
+EXTREMITIES: Hyeremic bilateral shins, no cynaosis edema.
+SKIN: Scabbing, crusty rash noted right sided T12/L1 dermatomal
+distribution primarily anterior region, with some lesions
+posterior.  No vesicular lesions. No stasis dermatitis, ulcers,
+scars, or xanthomas.
+PULSES:  Right: Carotid 2+  DP 2+ PT 2+  Left: Carotid 2+  DP 2+
+PT 2+
+.
+At discharge:
+V/S: 93.2 95.1 126/72 65 18 97% on 4L
+I/O: 100/[**Telephone/Fax (1) 7776**]+1BM
+General: Slow speaking but alert and oriented, no acute distress
+HEENT: Sclera anicteric, MMM without exudates or lesions
+Lungs: crackles at right base
+CV: RRR, no m/r/g
+Abdomen: +BS, soft, RUQ tenderness, but no guarding. Crusted
+over vesicles across her right flank/RLQ/into right groin.
+Ext: warm, well perfused, with no LE edema, cyanosis or
+clubbing, DP 2+ intact
+Neuro: CNs2-12 intact, motor function grossly normal
+
+Pertinent Results:
+Labs upon admission:  Urinalysis clean and clear. WBC 4.7,
+differential normal. Hemoglobin 10.8, hematocrit 31.6, platelet
+163. Sodium 149, potassium 4.9, chloride 109, bicarb 34.8, anion
+gap 5, glucose 55, BUN 41, creatinine 1.5, GFR 50, calcium 9.4.
+LFTs normal except for alk phos 173, AST 49, albumin is 3.0,
+total protein 5.9, TSH 0.94, free T4 is 1.69.
+
+Labs prior to discharge:
+CBC:  4.2/9.7/28.3/135 MCV 91
+N:69.6 L:22.3 M:5.3 E:2.5 Bas:0.3
+Chem 7: 146/3.8/114/27/11/1.1< 78
+Chem 10: Ca: 8.6 Mg: 2.1 P: 1.9
+
+Micro:
+[**2-8**] blood culture pending
+[**2-8**] urine culture negative
+[**2-6**] urine legionella negative
+[**2-6**] urine culture negative
+[**2-6**] blood culture pending
+
+Imaging:
+[**3444-2-8**] video swallow aspirating to thin liquids, mildly worse
+than baseline
+
+[**3444-2-6**] portable CXR: Right IJ catheter tip is in the cavoatrial
+junction. Cardiac size is normal. Bibasilar opacities right
+greater than left are a combination of pleural effusions and
+atelectasis. Superimposed infection cannot be excluded. Of note,
+the patient's chin obscures the apices of the lungs.
+
+[**3444-2-6**] [**Hospital1 **] [**Location (un) **] TTE: The left atrium is elongated. The left
+atrial volume is normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Tissue Doppler imaging suggests an increased left
+ventricular filling pressure (PCWP>18mmHg). Right ventricular
+chamber size and free wall motion are normal. The aortic valve
+leaflets (3) are mildly thickened but aortic stenosis is not
+present. There are filamentous strands on the aortic leaflets
+consistent with Lambl's excresences (normal variant). Trace
+aortic regurgitation is seen. The mitral valve leaflets are
+mildly thickened. Moderate (2+) mitral regurgitation is seen.
+The estimated pulmonary artery systolic pressure is normal.
+There is a trivial/physiologic pericardial effusion. IMPRESSION:
+Normal left ventricular cavity size with mildly thickened
+anteroseptal segment of left ventricle (given anteroseptal to
+inferolateral wall thickness ratio of only 1.3 does not meet
+criterion for asymmetric septal hypertrophy). Preserved global
+and regional biventricular systolic function. Elevated left
+ventricular filling pressures. Moderate mitral regurgitation.
+Mild to moderate tricuspid regurgitation.
+
+[**3444-2-5**] [**Hospital1 **] [**Location (un) **] CT ABDOMEN AND PELVIS: 1. Limited study
+demonstrating non-specific thickening of the wall of the cecum
+that may reflect colitis.
+2. Bibasilar pulmonary consolidation consistent with known
+pneumonia.
+3. Small pleural effusions.  4. Cholelithiasis  5. Compression
+deformity multiple verterbal bodies of uncertain age.  6. Tiny
+right middle lobe pulmonary nodule. Comparison with previous
+studies or follow up with repeat CT is recommended if this
+patient is at high risk for pulmonary neoplasm.
+
+[**3444-2-3**] [**Hospital1 **] [**Location (un) **] CHEST XRAY: PA and lateral chest compared
+to [**3438-4-19**]: 1. Lung volumes are much lower exaggerating any
+mild abnormality, particularly at the lung base where there
+could be mild interstitial
+abnormality or even evidence of aspiration.  I doubt pneumonia
+and
+there is no mediastinal or pulmonary vascular engorgement to
+suggest
+cardiac decompensation.  Tiny pleural effusions could be
+present. Heart size is top normal and there is no good evidence
+for central lymph node enlarged.  2. Lateral view clearly shows
+new moderate compression of at least one mid thoracic vertebral
+body.
+
+[**3444-2-3**] [**Hospital1 **] [**Location (un) **] RIGHT UPPER QUADRANT ULTRASOUND:  There is
+normal 2D [**Doctor Last Name 8**] scale appearance of the liver without evidence of
+diffuse disease or focal lesion.  No intrahepatic bile duct
+dilation.  Extrahepatic bile ducts are within normal limits at 5
+mm.  The gallbladder is normal in appearance without stones,
+sludge, wall thickening, or pericholecystic fluid.  There is no
+hydronephrosis within the right kidney.  No other abnormality
+seen in the right kidney, though the assessment was limited.
+
+Brief Hospital Course:
+85 year old lady with a past medical history significant for
+erythromelalgia, OSA, chronic dysphagia and hypothyroidism who
+was transferred from [**Location (un) 240**] for evaluation of sinus bradycardia
+in the setting of pneumonia and zoster infection.
+
+# SINUS BRADYCARDIA: Most likely etiology sinus bradycardia in
+this particular patient is underlying OSA, hypothermia
+exacerbated by administration of vicodin / gabapentin.  Review
+of medication list prior to transfer reveals two medicinal
+culprits for bradycardia; both gabapentin and vicodin. Review of
+EKGs reveal sinus bradycardia with normal intervals. While she
+has a history of hyothyoid, TFTs wnl at OSH confirmed on
+admission. No evidence of hyperkalmia, or active ischemia on
+history or laboratory tests, cardiac enzymes flat and echo not
+consistent with ischemic cardiomyopathy. In this elderly
+patient, sick sinus syndrome possible, however more often
+associated with paroxysmal atrial fibrillation or flutter. There
+is no indication for pacemaker.  Pacer pads were placed and
+atropine at bedside overnight.  Dopamine was weaned off within
+several hours of admission with heart rates stable in the 50s to
+70s and systolic blood pressures above 90.  Heart rates were
+stable in the 60's prior to discharge.
+
+# HYPOTHERMIA: Etiology of hypothermia with rectal temperature
+to 92 at OSH unclear. Endocrine disorders including
+hypo-pituitarism, hypoaldrenalism and hypothyroidism all may
+present with hypothermia and concerning for pan hypo-pit in
+setting of hypotension, malaise, relative hypoglycemia, and
+bradycardia.  Initial TFTs and AM cortisol level at OSH
+appropriate. Random cortisol level on transfer here (23.4)
+reflects appropriate stress response. Hypothermia may be
+secondary to pneumonia, no indication of sepsis or bacteremia.
+Etiology of hypothermia also includes impaired central
+thermoregulation w/ ddx including CNS trauma, tumor, empty sella
+or drug toxicity. Syphillis negative recently. She was continued
+on a bair hugger and coagulation studies were monitored.  If
+there is a mental status change at rehab, please consider head
+imaging for an intracranial process.
+
+# HYPOTHYROID: Symptoms of lethargy, depression, bradycardia,
+and hypothermia concerning for hypothyroid, however thyroid
+function tests at OSH demonstrated normal thyroid function which
+was confirmed here. She was continued on IV dosing of home
+levothyroxine.
+
+# HERPES ZOSTER: The patient presented 2 days after completing
+10 days of acyclovir therapy for treatment of herpes zoster out
+break in the L1/T12 dermatomal distribution.  She is status post
+ten days of 800mg 5xday per day. Physical exam consistent with
+late infection, absence of appearance of crusted vesicles
+reassuring for immunocompentant host.  She was started on a
+lidocaine patch for this issue.
+
+# PNEUMONIA: Right lower lobe infiltrated noted on CXR and CT
+chest prior to transfer.  Baseline history of dysphagia
+concerning for aspiration pneumonia given geography of
+infiltrate.  She was initially started on azithromycin,
+ceftriaxone and flagyl for broad spectrum coverage narrowed to
+ceftriaxone for sputum cx positive for gram positive rods.
+Sputum culture on following morning positive for respiratory
+flora and [**Female First Name (un) **]. She was covered for community acquired
+pneumonia and aspiration pneumonia with levofloxacin and flagyl
+for a total of seven days.
+
+# ACUTE KIDNEY INJURY: Resolved. The patient presented to the
+outside hospital with acute kidney injury likely pre-renal, she
+was also hypernatremic and hyperchloremic. She was treated with
+IV fluids (D51/2W) with resolution of her renal function.
+
+# OBSTRUCTIVE SLEEP APNEA: History of OSA seen in neurology
+sleep clinic in the past.  She has declined diagnostic sleep
+study and reports not tolerating CPAP in the past. No evidence
+of pulmonary hypertension on recent echo.  She does report
+daytime somnolence, AM headaches and unrestful sleep on history.
+Observed apnea on admission with associated desaturations on
+admission.
+
+# DYSPHAGIA: History of dysphagia. Esophagram from [**3436**] revealed
+small Zenkers diverticulum however no significant dysmotility.
+She was kept NPO at OSH for dysphagia awaiting speech and
+swallow evaluation given concern for aspiration pneumonia.
+Multiple speech and swallow evaluations documented in past with
+variable recommendations. Video swallow revealed aspiration to
+thin liquids.  Her diet was advanced to nectar thick liquids and
+ground solids.  She is to follow up with speech and swallow at
+rehab.
+
+# NORMOCYTIC ANEMIA: Iron studies at OSH consistent with low
+normal iron and TIBC and normal ferritin. Hematocrit at baseline
+on admission in low 30s. Anemia dates back at least ten years.
+
+# ERYTHROMELAGIA: Rare neurovascular peripheral pain disorder
+characterized by episodic microvascular thrombosis often seen as
+a complication of polycythemia [**Doctor First Name 1116**]. Often associated with
+thrombocytopenia and responsive to aspirin therapy.  Attacks
+exacerbated by stress, heat, exertion and insomnia. Unclear
+diagnosis, seen by neurology and endocrine here at the [**Hospital1 52**]
+with concern for patient self-diagnosis. Ongoing work-up for
+possible related rheumatologic manifestations thus far negative.
+
+# DEPRESSION: She was tried briefly on celexa for managment of
+coping with new diagnosis and anxiety several years ago.  Seen
+by psychiatry in the past.
+
+# RIGHT UPPER QUADRANT PAIN: Resolved. Reported right upper
+quadrant pain at OSH evaluated by RUQ ultrasound and CT abdomen
+revealing cholelithiasis and non specific thickening of cecum.
+Abdominal sx resolved and benign exam.
+
+# CORONARIES:  No history of coronary artery disease or evidence
+of ischemic disease on most recent echo.
+
+# PUMP:  No history of cardiomyopathy. Echo performed prior to
+admission from outside hospital revealed preserved global and
+regional biventricular systolic function with elevated left
+ventricular filling pressures moderate MR and mild to moderate
+TR.
+
+# Code Status: The patient was confirmed full code during this
+admission.
+
+Medications on Admission:
+MEDICATIONS: (ON TRANSFER)
+1. Levoxyl 25 mcg IV
+2. Heparin SubQ
+3. Ceftriaxone 1gm IV qdaily
+4. Dopamine 2-10mcg/[**Doctor Last Name **] per min SBP>95, HR>55
+.
+MEDICATIONS: (HOME)
+1. Acyclovir 800 mg p.o. 5 times a day since [**3444-1-25**].
+2. Levoxyl 50 mcg p.o. daily.
+3. Vitamin C 500 mg p.o. daily.
+4. Multivitamin 1 tablet p.o. daily.
+5. Os-Cal D 1 tablet p.o. b.i.d.
+
+Discharge Medications:
+1. Levoxyl 50 mcg Tablet Sig: One (1) Tablet PO once a day.
+2. Vitamin C 500 mg Tablet Sig: One (1) Tablet PO once a day.
+3. multivitamin     Tablet Sig: One (1) Tablet PO once a day.
+4. Os-Cal 500 + D 500 mg(1,250mg) -500 unit Tablet Sig: One (1)
+Tablet PO twice a day.
+5. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily) as
+needed for pain: Do not apply directly over crusted zoster
+lesions.
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+7. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+8. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+Constipation.
+9. phenol 1.4 % Aerosol, Spray Sig: One (1) Spray Mucous
+membrane Q6H (every 6 hours) as needed for throat pain.
+10. metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H
+(every 8 hours) for 2 doses. Tablet(s)
+11. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO four
+times a day as needed for pain.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the [**Doctor Last Name **] - [**Location (un) 596**]
+
+Discharge Diagnosis:
+Primary Diagnosis:  Aspiration pneumonia, Dysphagia, Hypothermia
+Secondary Diagnosis:  Herpes Zoster, Obstructive sleep apnea
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or
+wheelchair.
+Weight at discharge: 124lbs.
+
+Discharge Instructions:
+It was a pleasure taking care of you during your stay here at
+[**Hospital1 52**].
+
+You were admitted for fatigue.  It was discovered that you have
+a pneumonia, likely because you swallowed food into your lungs.
+This is known as an aspiration event, and is a result of your
+poor swallowing function.  Your swallow reflex was evaluated and
+your diet was change to nectar thick liquids and ground solids
+in order to prevent further aspirations.  You were treated with
+antibiotics for your pneumonia.
+
+You also have low body temperatures.  This does not appear to be
+related to infection.  It is likely that your body's thermostat
+is reset to a different average temperature.
+
+The following changes were made to your medication regimen:
+START lidocaine patch as needed for right abdominal pain
+START metronidazole for one more day
+START colace, senna, bisacodyl for constipation
+START chloraseptic for sore throat
+
+Followup Instructions:
+Please see your primary care physician within one week of
+leaving the hospital.
+
+Please follow up with the speech and swallow team at rehab.
+
+The following appointments were previously made:
+
+Department: MEDICAL SPECIALTIES
+When: TUESDAY [**3444-7-23**] at 1 PM
+With:  BONE DENSITY TESTING [**Telephone/Fax (1) 1389**]
+Building: [**Hospital6 64**] [**Location (un) 99**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: MEDICAL SPECIALTIES
+When: TUESDAY [**3444-7-23**] at 2:00 PM
+With: [**First Name11 (Name Pattern1) 496**] [**Last Name (NamePattern4) 1390**], M.D. [**Telephone/Fax (1) 1389**]
+Building: SC [**Hospital Ward Name **] Clinical Ctr [**Location (un) 99**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+
+Department: NEUROLOGY
+When: TUESDAY [**3444-8-6**] at 12:00 PM
+With: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. [**Telephone/Fax (1) 1734**]
+Building: SC [**Hospital Ward Name **] Clinical Ctr [**Location (un) 586**]
+Campus: EAST     Best Parking: [**Hospital Ward Name **] Garage
+
+
+
+
+
+DOC CLASS

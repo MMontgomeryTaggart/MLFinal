@@ -1,0 +1,250 @@
+Chief Complaint:  SAH, elevated troponin
+   HPI:
+   [**Age over 90 363**] y.o. male with PMHx of atrial fibrillation recently stopped taking
+   Coumadin for unclear reasons, CAD s/p CABG on ASA/Plavix CHF, HTN,
+   brought into an [**Hospital 924**] Hospital after an unwitnessed fall. Patient
+   was found at the bottom of the stairs of his home by his wife,
+   unconscious. [**Name2 (NI) **] only last recalls climbing the stairs with his walker
+   after returning from the bank. He denies CP, SOB, palpitations,
+   lightheadedness/dizziness as he was ascending the stairs. As he was
+   taking the last step, he seemingly lost consciousness, not recalling
+   anything else until he regained consciousness in [**Hospital 924**] Hospital.
+   Imaging at [**Hospital1 924**] revealed a SAH as well as a posterior laceration
+   that was stapled. His neck was cleared based on plain films and
+   physical exam which was notable for an awake and alert patient, denying
+   pain. Patient was noted to have an elevated troponin of 0.1. He was
+   thus transferred to [**Hospital1 52**] for neurosurgical and cardiac evaluation.
+   .
+   In the [**Hospital1 52**] ED, repeat imaging showed a stable SAH. Neurosurgery was
+   consulted and noted a normal neurological exam and deferred surgical
+   management. He was loaded with Dilantin and his INR of 1.8 was reversed
+   with vitamin K and FFP. Repeat cardiac enzymes were significant for a
+   troponin of 0.11 with an EKG significant for atrial fibrillation,
+   otherwise no ischemic changes. Given the combination of SAH, though
+   stable and not necessitating surgical intervention as well as the
+   question of NSTEMI, patient was admitted to the ICU for further
+   monitoring.
+   .
+   Upon arrival to the floor, patient was well-appearing, resting
+   comfortably in bed without complaints. He specifically denied chest
+   pain, shortness of breath, palpitations. He lives alone with his wife
+   at home and ambulates with a walker at baseline. He reports infrequent
+   falls and says that what few falls he has experienced is usually as a
+   result of ambulating too quickly or getting up from a seated position
+   too quickly and getting dizzy. However, he is always aware of his falls
+   and can recall them. He says that this event is distinctly different in
+   that he cannot recall what happened.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   1. Clopidogrel 75 mg PO QD
+   2. Aspirin 81 mg PO QD
+   3. Prednisone 9 mg PO QD
+   4. Pantoprazole 40 mg PO QD
+   6. Atorvastatin 10 mg PO QD
+   7. Metoprolol Tartrate 100 mg PO BID
+   8. Docusate Sodium 100 mg PO BID
+   9. Lisinopril 2.5 mg PO QD
+   Past medical history:
+   Family history:
+   Social History:
+   - CAD s/p CABG (Off-pump coronary artery bypass graft x4,
+   saphenous vein grafts to left anterior descending artery,
+   diagonal, obtuse marginal and posterior descending arteries)
+   - CHF ([**12-18**] EF 35-40%, mild symmetric LV hypertrophy, mild to
+   moderate regional left ventricular systolic dysfunction with
+   anteroseptal inferior hypokinesis with Apical akinesis, mild AS,
+   mild MR, normal RV function)
+   - hypertension
+   - polymyalgia rheumatica, duration of prednisone tx unkown
+   - h/o kidney stones
+   - TIA 7 years ago
+   - s/p hernia repair for bilateral inguinal hernia
+   - s/p lap cholecystectomy for cholelithiasis
+   - Scarlet fever, [**4-2**] yrs old.
+   Non-contributory
+   Occupation:
+   Drugs: denies
+   Tobacco: remote history
+   Alcohol: remote history
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**2597-5-20**] 02:27 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.7
+C (98
+   HR: 92 (90 - 94) bpm
+   BP: 126/66(79) {120/66(79) - 141/81(95)} mmHg
+   RR: 21 (18 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 97%
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: CT Head ([**5-19**] - Preliminary Read): Stable appearance of SAH
+   when compared to earlier scan, bilateral, but predominantly over left
+   hemisphere. No new ICH seen. Complete opacification of left max. sinus
+   with high density material, unchanged, may just be chronic
+   sinus disease but please correlate clinically with pain at this site
+   TTE (1/'[**95**]):The left atrium is elongated. The estimated right atrial
+   pressure is 0-5 mmHg. Left ventricular wall thicknesses are normal. The
+   left ventricular cavity size is normal. There is severe regional left
+   ventricular systolic dysfunction with akinesis of the anterior septum,
+   apex, and basal to mid inferior walls and severe hypokinesis of the
+   anterior wall . Overall EF severely depressed (25%). Right ventricular
+   chamber size and free wall motion are normal. The number of aortic
+   valve leaflets cannot be determined. The aortic valve leaflets are
+   moderately thickened. There is moderate aortic valve stenosis (area
+   1.2cm2). Trace aortic regurgitation is seen. The mitral valve leaflets
+   are structurally normal. Mild (1+) mitral regurgitation is seen. The
+   estimated pulmonary artery systolic pressure is normal. There is a
+   small to moderate sized pericardial effusion. The effusion appears
+   loculated inferior to the left ventricle and anterior to the right
+   atrium without evidence for tamponade.
+   .
+   Compared with the prior study (images reviewed) of [**2595-12-16**], the left
+   ventricular function has severely decreased. Compared with the
+   immediate prior study (image reviewed) of [**2596-1-13**], the right
+   ventricular function is now normal.
+   ECG: Atrial Fibrillation, LAD, no ischemic changes
+   Assessment and Plan: [**Age over 90 363**] y.o. male with an extensive cardiac history who
+   presents s/p what appears to be a syncopal episode with resultant head
+   laceration and subarachnoid hemorrhage.
+   .
+   # Syncope: Suggested by history and injuries sustained. Patient without
+   a prodrome to help localize cause. Exam significant for murmur of
+   aortic stenosis and echo confirms this in [**2595**]. Concern for symptomatic
+   aortic stenosis. Differential otherwise would include arrhythmia,
+   seizure, orthostasis and less likely MI/ACS or PE.
+   - Will repeat TTE
+   - Monitor on telemetry
+   - Cycle enzymes
+   .
+   # SAH: Per neurosurgery, pursuing conservative management. Neuro exam
+   largely normal less some brisk DTRs. Mental status appropriate. INR
+   reversed with vitamin K and FFP.
+   - Continue Dilantin
+   - Q4 neuro checks
+   - f/u neurosurgery recs otherwise
+   .
+   # Troponin Leak: Patient with extensive cardiac disease, now with
+   troponin leak in despite normal renal function, though arguably,
+   creatinine of 1.1 in this elderly gentleman still likely reflects
+   decreased creatinine clearance. Still, concern is obviously for
+   myocardial ischemia, which given normal EKG would likely be NSTEMI,
+   specifically. Patient is already on ASA, BB, statin and ace-inhibitor
+   as well as Plavix. ASA and Plavix will obviously have to be held in the
+   setting of SAH.
+   - Continue to hold ASA and Plavix
+   - Can likely continue BB, ace-inhibitor and statin
+   - Cycle enzymes
+   - Repeat EKG in AM
+   - TTE as above as well as to rule out WMA and evaluate EF
+   .
+   # Atrial Fibrillation: Currently hemodynamically stable. Holding
+   anticoagulation as above, though patient's CHADS2 score is at least 3
+   as he denies a history of stroke and has no known DM, though OMR
+   reports a history of TIA which would increase his score to 5.
+   - Continue BB as BP tolerates
+   - Hold Coumadin while with SAH
+   .
+   # Anion Gap Acidosis: Unclear etiology. BUN is only mildly elevated and
+   likely attributable to steroids and certainly not at the level of
+   uremia that might otherwise account for an anion gap. Pt. is
+   hemodynamically stable without a fever to suggest lactic acidosis,
+   though lactate has not been checked. Pt. does not have a history of DM
+   and tox screen is negative for alcohol or salicylates.
+   - Will check a lactate
+   - Continue to monitor
+   .
+   # Thrombocytopenia: Unclear etiology and platelet count has never been
+   this low before. Differential is obviously broad in general and
+   includes consumptive vs. poor production. Patient has been on Plavix,
+   but otherwise has no signs of TTP. Isolated throbocytopenia raises ITP
+   higher on the differential. Regardless, will need to be closely watched
+   while with SAH.
+   - Continue to monitor and transfuse for acute bleeding and or < 10
+   - Hold PPI for now
+   .
+   # PMR
+   - Continue steroids
+   .
+   # FEN:
+   - Correct/Replete electrolytes PRN
+   - NPO for now in case patient goes for surgery. Otherwise,
+     cardiac/heart-healthy diet
+   .
+   # Prophylaxis
+   - Pneumoboots
+   .
+   # Access
+   - PIV
+   .
+   # Code: Full, though patient has living will in chart with specifics
+   .
+   # Communication: Patient and daughter/HCP: [**Name (NI) 357**] [**Name (NI) 4191**] ([**Telephone/Fax (1) 8986**]
+   .
+   # Disposition: pending above
+   .
+   ------ Protected Section ------
+   Critical Care
+   Present for the key portions of the resident
+s history and exam. Agree
+   substantially with assessment and plan as outlined.  He does not
+   remember fall or any events immed prior to hosp.  Denies CP, light
+   headedness.  Now comfortable w/o headache.
+   126/66  88 20
+   3/6 SEM at LSB upstroke min delayed
+   Chest
+ few basilar crackles
+   Abd
+ soft w/o pain
+   Ox3 strength equal DTR symmetrical
+   Agree with plan to hold ASA/ Plavyx.  Unclear why plt ct is down
+ need
+   to follow closely and review meds.  Agree fall sounds mechanical but
+   will evaluate for causes of syncope.  Doubt his AS is signif worse but
+   echo this adm.
+   Time spent 55 min
+   Critically ill
+   ------ Protected Section Addendum Entered By:[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 107**] [**Last Name (NamePattern1) 108**], MD
+   on:[**2597-5-20**] 07:10 ------
+
+
+
+DOC CLASS

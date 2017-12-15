@@ -1,0 +1,169 @@
+Chief Complaint:
+   24 Hour Events:
+ DIALYSIS CATHETER - START [**3118-6-19**] 03:00 PM
+   - pulled out OG tube, replaced
+   - had IR-guided non-tunnelled line placed
+   - initiated CVVH
+   - updates given to both daughters
+   Allergies:
+   Benadryl (Injection) (Diphenhydramine Hcl)
+   Confusion/Delir
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3118-6-19**] 04:00 AM
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Calcium Gluconate (CRRT) - 1.2 grams/hour
+   Norepinephrine - 0.12 mcg/Kg/min
+   Other ICU medications:
+   Midazolam (Versed) - [**3118-6-19**] 03:00 PM
+   Fentanyl - [**3118-6-19**] 03:44 PM
+   Pantoprazole (Protonix) - [**3118-6-20**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3118-6-20**] 05:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 35.6
+C (96
+   HR: 71 (64 - 82) bpm
+   BP: 115/61(81) {90/47(60) - 126/69(90)} mmHg
+   RR: 17 (7 - 20) insp/min
+   SpO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 71 Inch
+    CVP: 20 (18 - 30)mmHg
+   CO/CI (Fick): (5.9 L/min) / (2.7 L/min/m2)
+   Mixed Venous O2% Sat: 60 - 60
+   Total In:
+                                                                  1,126 mL
+                                                                    873 mL
+   PO:
+   TF:
+                                                                     70 mL
+                                                                     53 mL
+   IVF:
+                                                                  1,056 mL
+                                                                    820 mL
+   Blood products:
+   Total out:
+                                                                  1,116 mL
+                                                                    866 mL
+   Urine:
+                                                                    445 mL
+                                                                     80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                     10 mL
+                                                                      7 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 30%
+   PIP: 29 cmH2O
+   Plateau: 21 cmH2O
+   Compliance: 38.5 cmH2O/mL
+   SpO2: 99%
+   ABG: 7.38/41/91/23/0
+   Ve: 8.4 L/min
+   PaO2 / FiO2: 303
+   Physical Examination
+   General
+   CV
+   Resp
+   Abdomen
+   Extremities
+   Labs / Radiology
+   146 K/uL
+   8.8 g/dL
+   133 mg/dL
+   5.1 mg/dL
+   23 mEq/L
+   3.9 mEq/L
+   90 mg/dL
+   99 mEq/L
+   134 mEq/L
+   26.6 %
+   14.5 K/uL
+        [image002.jpg]
+                             [**3118-6-18**]  04:16 AM
+                             [**3118-6-18**]  02:57 PM
+                             [**3118-6-19**]  02:00 AM
+                             [**3118-6-19**]  02:55 AM
+                             [**3118-6-19**]  04:42 PM
+                             [**3118-6-19**]  04:59 PM
+                             [**3118-6-19**]  09:51 PM
+                             [**3118-6-19**]  10:02 PM
+                             [**3118-6-20**]  03:48 AM
+                             [**3118-6-20**]  04:15 AM
+   WBC
+   9.1
+   14.5
+   Hct
+   26.0
+   26.9
+   27.4
+   26.6
+   Plt
+   110
+   146
+   Cr
+   4.9
+   5.1
+   TCO2
+   27
+   25
+   26
+   26
+   25
+   Glucose
+   146
+   155
+   148
+   133
+   Other labs: PT / PTT / INR:14.5/37.3/1.3, CK / CKMB /
+   Troponin-T:26//0.11, ALT / AST:[**11-9**], Alk Phos / T Bili:258/1.0, Lactic
+   Acid:1.4 mmol/L, Albumin:3.2 g/dL, LDH:157 IU/L, Ca++:8.3 mg/dL,
+   Mg++:2.3 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+ GASTROINTESTINAL BLEED, OTHER (GI BLEED, GIB)
+ CONSTIPATION (OBSTIPATION, FOS)
+ IMPAIRED SKIN INTEGRITY
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+ RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF)
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ HYPOTHERMIA
+ SHOCK, CARDIOGENIC
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3118-6-19**] 05:00 PM 10 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3118-6-12**] 08:29 PM
+   Multi Lumen - [**3118-6-12**] 08:31 PM
+   Dialysis Catheter - [**3118-6-19**] 03:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate); ok to intubate
+   Disposition:ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,234 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ PA CATHETER - START [**3414-12-19**] 08:00 PM
+   - admitted to CCU after cath
+   - put out over 1L to 40mg IV lasix overnight
+   - has some lower abdominal discomfort this morning, EKG no change
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3414-12-19**] 11:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3414-12-20**] 07:01 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**16**] AM
+   Tmax: 35.7
+C (96.2
+   Tcurrent: 35.7
+C (96.2
+   HR: 78 (65 - 85) bpm
+   BP: 152/87(104) {133/66(87) - 159/96(136)} mmHg
+   RR: 31 (18 - 31) insp/min
+   SpO2: 98%
+   Heart rhythm: 1st AV (First degree AV Block)
+    PAP: (63 mmHg) / (43 mmHg)
+   Total In:
+                                                                    410 mL
+                                                                     70 mL
+   PO:
+   TF:
+   IVF:
+                                                                    410 mL
+                                                                     70 mL
+   Blood products:
+   Total out:
+                                                                    890 mL
+                                                                    630 mL
+   Urine:
+                                                                    890 mL
+                                                                    630 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -480 mL
+                                                                   -560 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SpO2: 98%
+   ABG: ///32/
+   Physical Examination
+   Gen: face tent in place, NAD, pleasant
+   Neck: JVP to ear lobes when lying flat. Neck supple. No
+   lymphadenopathy.
+   CV: regular rhythm, normal rate, no m/r/g
+   Resp: overall decreased breath sounds throughout the lung fields, more
+   significantly decreased breath sounds at R base, mild crackles at right
+   base, prolonged expiratory phase
+   Abd: BS+, soft/NT/ND, no masses palpated
+   Groin: right groin no hematoma, no femoral bruits.
+   Ext: trace pulmonary edema, feet warm
+   Peripheral Vascular: (Right radial pulse: 1+), (Left radial pulse: 1+),
+   (Right DP pulse: 1+), (Left DP pulse: 1+)
+   Neurologic: AOx3, grossly intact
+   Labs / Radiology
+   306 K/uL
+   12.8 g/dL
+   169 mg/dL
+   0.9 mg/dL
+   32 mEq/L
+   3.8 mEq/L
+   19 mg/dL
+   100 mEq/L
+   142 mEq/L
+   37.4 %
+   12.6 K/uL
+        [image002.jpg]
+                             [**3414-12-20**]  05:14 AM
+   WBC
+   12.6
+   Hct
+   37.4
+   Plt
+   306
+   Cr
+   0.9
+   TropT
+   0.87
+   Glucose
+   169
+   Other labs: PT / PTT / INR:13.4/26.1/1.1, CK / CKMB /
+   Troponin-T:35//0.87, Ca++:8.5 mg/dL, Mg++:1.8 mg/dL, PO4:4.6 mg/dL
+   Cardiac cath: [**3413-12-19**]
+   FINAL DIAGNOSIS:
+   1. Three vessel coronary artery disease.
+   2. Severe left and right ventricular diastolic dysfunction.
+   3. Severe pulmonary hypertension.
+   OSH blood culture:
+ bottles positive for GPC, speciation and
+   sensitivities pending
+   Assessment and Plan
+   72 yo F with known CAD presenting with progressive dypnea on exertion,
+   with NSTEMI and acute decompensated congestive heart failure. Has known
+   3VD on cardiac cath, and is awaiting evaluation for CABG.
+   .
+   # CORONARIES:  Multiple risk factors for CAD including DMII, HTN, HLD,
+   and current smoker. s/p IMI in '[**00**] with RCA BMS placement. Transferred
+   from OSH with NSTEMI, now down-trending cardiac enzymes. Given low CK,
+   elevated troponin, and temporal symptoms x3 weeks, likely patient had
+   acute ACS event a few weeks ago. Troponins are now down-trending.
+   Patient had no anginal equivalent symptoms, which may be in the setting
+   of diabetic neuropathy. Has 3VD on cardiac cath, with critical left
+   main stenosis. Awaiting CABG.
+   - continue ASA, beta-blocker, high dose statin
+   - encourage smoking cessation
+   - started low dose ACEI (captopril 6.25 mg PO TID) on CCU transfer
+   given EF of 30%
+   - hold heparin gtt for now, will restart when pt has anginal equivalent
+   ("heart-burn" sx)
+   - plavix washout for 5 days prior to CABG
+   - f/u Csurg recs
+   - may need carotid US and UA as part of the pre-op eval
+   - urgent surgery if chest pain / angina equivalent unresponsive to
+   nitro, morphine, oxygen
+   - restart heparin gtt
+   - remove swan catheter today
+   .
+   # PUMP:  Acute decompensated diastolic congestive heart failure (EF 30%
+   on TTE on [**3414-12-19**]) likely in setting of ischemia.  Left heart cath shows
+   elevated pulmonary wedge pressures, indicating elevated LVEDP. Patient
+   with evidence of pulmonary hypertension (elevated pulmonary arterial
+   pressures) likely worsened in setting of elevated PCWP. Patient has
+   evidence of both right and left sided heart failure. Received 60 mg of
+   IV lasix in cath lab, and another dose of 40mg IV lasix, with good UOP.
+   - low Na diet, fluid restriction < 2 L daily, strict Is and Os, daily
+   weight
+   - lasix 40mg IV this am, with goal -1L to -1.5L today
+   - [**Hospital1 **] electrolytes
+   - continue ACEI (captopril) given depressed EF
+   - continue BB
+   - remove swan today
+   .
+   # Pulmonary Hypertension: patient is a current smoker, and her lung
+   exam reveals decreased breath sounds throughout lung fields, prolonged
+   expiratory phase, consistent with COPD.  COPD could have contributed to
+   pulmonary hypertension.  Furthermore, elevated wedge pressure could
+   also worsen pulmonary hypertension.  Another source of pulmonary
+   hypertension is cor pulmonale from malignancy.  Pt admits to 30 lb
+   weight loss over past 6 months, unintentional. States up to date cancer
+   screening including mammograms and pap smears, but no colonoscopies.
+   CXR from [**12-18**] indicates that the interstitial abnormality in the left
+   lung with sufficient nodularity to raise concern for lymphangitic
+   carcinomatosis.  This is concerning especially given her smoking
+   history.  However, her weight loss and decreased appetite could be due
+   to related to heart failure and bowel congestion, especially given her
+   elevated PA pressure.
+   - aggressively treat heart failure as above to reduce wedge pressure
+   - encourage smoking cessation
+   - f/u final CTA read
+   - pt will need outpatient pulm f/u for pulmonary hypertension
+   - need colonoscopy to work up this weight loss
+   - pt will need regular outpatient f/u
+   - remove swan today
+   .
+   # RHYTHM: sinus rhythm, has 1' AV block on EKG. 1' AV block may be due
+   to decreased coronary supply to AV node from RCA. Hemodynamically
+   stable.
+   - continue beta-blocker
+   - monitor pt on telemetry
+   .
+   # SOB: likely secondary to heart failure.  PE is less likely given pt
+   is ambulatory, no calf pain, no recent plain rides, no asymmetric LE
+   exam.
+   - treat CHF as above
+   - f/u on final PE-CT read
+   - O2 as needed
+   .
+   # Diabetes Mellitus II: non-insulin dependent. HgA1c 7.0%
+   - continue RISS
+   - diabetic diet
+   - bloos sugar QID
+   .
+   # Hypertension:
+   - continue BB, captopril
+   - will uptitrate captopril and down-titrate hydralazine
+   .
+   # Peripheral vascular disease: Patient has known PVD and is s/p R iliac
+   stent. Stable exertional calf claudication. LDL on lipid panel not at
+   goal (98, goal 70-80).
+   - continue ASA, high dose statin
+   .
+   # Positive blood culture from OSH:
+ bottles positive for GPC at [**Hospital1 **].  Possible contamination but need to f/u OSH micro.
+   - call [**Hospital3 **] today regarding speciation and sensitivity
+   .
+   # Med non-compliance:
+   - SW consult
+   .
+   # Smoking cessation:
+   - offered nicotine patch, pt refused
+   ICU Care
+   Nutrition: diabetic cardiac diet
+   Glycemic Control:  insulin
+   Lines:
+   PA Catheter - [**3414-12-19**] 08:00 PM
+   20 Gauge - [**3414-12-19**] 08:33 PM
+   Prophylaxis:
+   DVT: heparin gtt
+   Stress ulcer: none
+   VAP:  n/a
+   Comments:
+   Communication:  Comments: [**Doctor First Name 2427**] (dtr) [**Telephone/Fax (1) 10010**] (cell)
+   Code status: Full code
+   Disposition: CCU
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   [**Name Initial (PRE) **] have seen and examined the patient. I have reviewed the above note
+   and plans.
+   I have also reviewed the notes of Dr(s). [**Doctor Last Name **].
+   I would add the following remarks:
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 3224**], MD
+   on:[**3414-12-20**] 15:25 ------
+
+
+
+DOC CLASS

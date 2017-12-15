@@ -1,0 +1,177 @@
+24 Hour Events:
+   - Esophageal balloon placed, plateau pressures fine, PEEP increased by
+   2
+   - Bladder pressures went down to 15 mm Hg once paralyzed
+   - Urine output steady to improved
+   - Minute ventilation increased
+   - Vassopressin added to help maintain systolic blood pressure above 90
+   (not enough access of levophed)
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3088-12-16**] 12:00 PM
+   Metronidazole - [**3088-12-16**] 11:21 PM
+   Meropenem - [**3088-12-17**] 03:45 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Phenylephrine - 3.3 mcg/Kg/min
+   Midazolam (Versed) - 4 mg/hour
+   Cisatracurium - 0.13 mg/Kg/hour
+   Insulin - Regular - 2 units/hour
+   Other ICU medications:
+   Cisatracurium - [**3088-12-16**] 11:26 AM
+   Heparin Sodium (Prophylaxis) - [**3088-12-16**] 11:21 PM
+   Other medications:
+   Aspirin 300 mg PR, Albuterol inhaler, Heparin SQ TID, Atrovent,
+   Pantoprazole 40 mg IV daily
+   Changes to medical and family history:
+   None
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   No changes
+   Flowsheet Data as of  [**3088-12-17**] 07:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 38.2
+C (100.8
+   HR: 102 (98 - 111) bpm
+   BP: 117/75(91) {83/57(68) - 117/75(91)} mmHg
+   RR: 28 (15 - 28) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+    CVP: 18 (14 - 20)mmHg
+   Bladder pressure: 16 (15 - 23) mmHg
+   Total In:
+                                                                  9,622 mL
+                                                                    953 mL
+   PO:
+   TF:
+   IVF:
+                                                                  9,488 mL
+                                                                    630 mL
+   Blood products:
+   Total out:
+                                                                    695 mL
+                                                                    875 mL
+   Urine:
+                                                                    635 mL
+                                                                    535 mL
+   NG:
+                                                                     60 mL
+                                                                    340 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  8,927 mL
+                                                                     80 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: PRVC/AC
+   Vt (Set): 650 (600 - 650) mL
+   Vt (Spontaneous): 0 (0 - 0) mL
+   RR (Set): 28
+   RR (Spontaneous): 0
+   PEEP: 12 cmH2O
+   FiO2: 70%
+   RSBI Deferred: PEEP > 10
+   PIP: 34 cmH2O
+   Plateau: 24 cmH2O
+   Compliance: 72.2 cmH2O/mL
+   SpO2: 93%
+   ABG: 7.28/39/81.[**Numeric Identifier 582**]/17/-7
+   Ve: 18.8 L/min
+   PaO2 / FiO2: 116
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   150 K/uL
+   12.5 g/dL
+   311 mg/dL
+   3.1 mg/dL
+   17 mEq/L
+   5.3 mEq/L
+   54 mg/dL
+   111 mEq/L
+   139 mEq/L
+   36.5 %
+   13.5 K/uL
+        [image002.jpg]
+                            [**3088-12-16**]  09:56 AM
+                            [**3088-12-16**]  01:10 PM
+                            [**3088-12-16**]  03:23 PM
+                            [**3088-12-16**]  04:14 PM
+                            [**3088-12-16**]  06:12 PM
+                            [**3088-12-16**]  11:44 PM
+                            [**3088-12-17**]  12:54 AM
+                            [**3088-12-17**]  03:46 AM
+                            [**3088-12-17**]  04:00 AM
+                            [**3088-12-17**]  05:54 AM
+   WBC
+   12.5
+   13.3
+   13.5
+   Hct
+   37.8
+   37.3
+   36.5
+   Plt
+   194
+   179
+   150
+   Cr
+   2.8
+   3.1
+   3.1
+   TropT
+   0.38
+   0.63
+   0.94
+   TCO2
+   22
+   22
+   19
+   20
+   19
+   19
+   19
+   Glucose
+   138
+   70
+   311
+   Other labs: PT / PTT / INR:14.7/30.4/1.3, CK / CKMB /
+   Troponin-T:1439/40/0.94, ALT / AST:66/139, Alk Phos / T Bili:90/1.0,
+   Amylase / Lipase:[**3070**]/1103, Differential-Neuts:79.0 %, Band:7.0 %,
+   Lymph:9.0 %, Mono:5.0 %, Eos:0.0 %, Lactic Acid:2.2 mmol/L, Albumin:2.8
+   g/dL, LDH:655 IU/L, Ca++:7.4 mg/dL, Mg++:1.8 mg/dL, PO4:4.1 mg/dL
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   TPN w/ Lipids - [**3088-12-16**] 09:00 PM 44.[**Telephone/Fax (5) 3100**] mL/hour
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3088-12-15**] 09:30 PM
+   Arterial Line - [**3088-12-15**] 10:18 PM
+   Multi Lumen - [**3088-12-15**] 10:22 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

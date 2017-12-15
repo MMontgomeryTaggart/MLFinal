@@ -1,0 +1,333 @@
+Admission Date:  [**2525-2-8**]              Discharge Date:   [**2525-3-16**]
+
+Date of Birth:  [**2450-8-8**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Trovafloxacin / Albuterol
+
+Attending:[**First Name3 (LF) 3834**]
+Chief Complaint:
+transfer from OSH with fever/shortness of breath/left sided
+effusion
+
+Major Surgical or Invasive Procedure:
+chest tube placement
+
+History of Present Illness:
+s/p CABG [**2524-12-21**] transferred to rehab after prolonged hospital
+stay on [**2-1**]. Transferred from rehab to [**Hospital3 **] on [**2-5**]. Transferred back to [**Hospital1 22**] on [**2-8**]
+
+Past Medical History:
+CAD with ostial LCX 90% lesion per cath on [**2524-8-30**] with
+successful BMS
+HTN
+Hyperlipidemia
+CVA 4 yrs ago with R scotoma
+esophageal ulcer.
++ GERD
++ Asthma/Emphysema, home O2 not required
+osteoporosis
+R carpal tunnel surgery
+Cardiac Risk Factors: - Diabetes, + Dyslipidemia, + Hypertension
+
+
+
+
+
+Social History:
+Patient lives with husband in [**Name (NI) 481**].  Quit smoking 11 yrs
+ago, smoked 1ppd since age 14.  Social EtOH, no recreational
+drugs
+
+
+Family History:
+Family history is significant for mother who died from
+alcoholism at age 50.  Father died at age 62 of unknown cause.
+No early death.
+
+Physical Exam:
+Admission
+VS T 99.7  HR 80 SR   BP 98/63  RR 21  O2sat 96%(assist control)
+Gen NAD
+Neuro Alert, generalized weakness. non focal exam
+Pulm coarse throughout, no wheezes
+CV  RRR no M/R/G. Sternal wound healing w/exception of distal
+wound which had VAC in place
+Abdm soft, NT/+BS
+Ext warm, 2= edema bilat. doppler pulse
+
+
+Pertinent Results:
+RADIOLOGY  Final Report
+
+CHEST (PORTABLE AP)  [**2525-3-12**] 10:48 AM
+
+CHEST (PORTABLE AP)
+
+Reason: eval effusion, ? pneumothorax- please do this study at
+11 am
+
+UNDERLYING MEDICAL CONDITION:
+74 year old woman s/p removal of left sided chest tube today
+REASON FOR THIS EXAMINATION:
+eval effusion, ? pneumothorax- please do this study at 11 am
+INDICATION: 74-year-old female status post removal of left-sided
+chest tube.
+
+COMPARISON: [**2521-3-6**].
+
+FRONTAL CHEST RADIOGRAPH: A tracheostomy tube is in unchanged
+position. There has been interval removal of the left-sided
+chest tube. There is no recurrent or residual pneumothorax. The
+remainder of the examination is little changed with no
+significant improvement in the degree of moderate pulmonary
+edema, bibasilar atelectasis and small pleural effusions.
+
+IMPRESSION:
+1. No pneumothorax.
+2. Moderate pulmonary edema and small bilateral pleural
+effusions.
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) 10960**] [**Doctor Last Name 10961**]
+DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4618**]
+Approved: MON [**2525-3-12**] 6:42 PM
+
+CT CHEST W/O CONTRAST  [**2525-2-18**] 10:09 AM
+
+CT CHEST W/O CONTRAST
+
+Reason: re-evaluate left pleural effusion
+
+UNDERLYING MEDICAL CONDITION:
+74 year old woman with
+REASON FOR THIS EXAMINATION:
+re-evaluate left pleural effusion
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+HISTORY: 74-year-old female for re-evaluation of left pleural
+effusion.
+
+COMPARISON: [**2525-2-14**].
+
+TECHNIQUE: MDCT-acquired axial imaging of the chest without
+intravenous contrast. Multiplanar reformatted images were
+obtained and reviewed.
+
+FINDINGS: Left PICC remains in place, tip in the upper right
+atrium. Evidence of prior coronary artery bypass grafting is
+unchanged, with sternotomy wires, unchanged sternal dehiscence,
+and densely calcified native coronary arteries. Moderate
+cardiomegaly is unchanged. Multiple prominent mediastinal and
+hilar lymph nodes are unchanged. Tracheostomy tube remains in
+place, approximately 5 cm above the carina. Left chest tube
+remains in place, with tip positioned medially near the apex.
+New drainage catheter is in place at the left lung base, and the
+small left pleural effusion is slightly decreased in size, with
+small foci of gas now seen within the effusion . Small right
+pleural effusion is little changed.
+
+Diffuse ground-glass opacity throughout both lungs, along with
+small centrilobular nodules, and mild apical predominant
+interlobular septal thickening is again noted, slightly improved
+since prior exam.
+
+Osseous structures are unremarkable.
+
+IMPRESSION:
+1. Slightly decreased size of small left pleural effusion, with
+new left basilar chest tube in place, and second old left chest
+tube unchanged in position medially near the left apex.
+2. Unchanged small right pleural effusion.
+3. Slightly improved appearance of diffuse ground-glass opacity,
+small centrilobular nodules, and apical predominant interlobular
+septal thickening. This could represent improvement in pulmonary
+edema, infectious process, or both.
+
+[**2525-3-16**] 02:37AM BLOOD WBC-13.4* RBC-2.78* Hgb-8.1* Hct-25.1*
+MCV-90 MCH-29.1 MCHC-32.2 RDW-17.9* Plt Ct-303
+[**2525-3-15**] 01:46AM BLOOD PT-13.6* PTT-30.3 INR(PT)-1.2*
+[**2525-3-16**] 02:37AM BLOOD Glucose-86 UreaN-37* Creat-1.8* Na-132*
+K-4.9 Cl-99 HCO3-23 AnGap-15
+[**2525-3-8**] 01:31AM BLOOD ALT-21 AST-24 AlkPhos-149* TotBili-0.3
+[**Hospital1 22**] ECHOCARDIOGRAPHY REPORT
+
+[**Known patient lastname 23229**], [**Known patient firstname **]       [**Hospital1 22**] [**Numeric Identifier 23230**]       Portable TTE
+(Complete) Done [**2525-3-2**] at 11:34:54 AM      FINAL
+Referring Physician     [**Name9 (PRE) 447**] Information
+[**Name9 (PRE) **], [**First Name3 (LF) **]
+Division of Cardiothoracic [**Doctor First Name **]
+[**First Name (Titles) **] [**Last Name (Titles) **]
+[**Hospital Unit Name 4615**]
+[**Location (un) 268**], [**Numeric Identifier 278**]  Status: Inpatient DOB: [**2450-8-8**]
+Age (years): 74 F  Hgt (in): 58
+BP (mm Hg): 100/56  Wgt (lb): 163
+HR (bpm): 77  BSA (m2): 1.67 m2
+Indication: Left ventricular function. Right ventricular
+function.
+ICD-9 Codes: 428.0, 414.8, 424.0, 424.2
+Test Information
+Date/Time: [**2525-3-2**] at 11:34    Interpret MD: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **],
+MD
+Test Type: Portable TTE (Complete) Son[**Name (NI) 652**]: [**Name2 (NI) 963**]
+[**Last Name (un) 964**], RDCS
+Doppler: Full Doppler and color Doppler Test Location: West
+SICU/CTIC/VICU
+Contrast: None Tech Quality: Suboptimal
+Tape #: 2008W000-0:00 Machine: Vivid i-3
+Echocardiographic Measurements
+Results  Measurements  Normal Range
+Left Atrium - Four Chamber Length:  *5.6 cm  <= 5.2 cm
+Right Atrium - Four Chamber Length:  *5.1 cm  <= 5.0 cm
+Left Ventricle - Ejection Fraction:  30%  >= 55%
+Aortic Valve - Peak Velocity:  1.6 m/sec  <= 2.0 m/sec
+Mitral Valve - E Wave:  1.3 m/sec
+Mitral Valve - A Wave:  0.4 m/sec
+Mitral Valve - E/A ratio:  3.25
+Mitral Valve - E Wave deceleration time:  172 ms  140-250 ms
+TR Gradient (+ RA = PASP):  25 mm Hg  <= 25 mm Hg
+
+Findings
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Increased IVC diameter (>2.1cm)
+with <35% decrease during respiration (estimated RAP
+(10-20mmHg).
+
+LEFT VENTRICLE: Depressed LVEF.
+
+RIGHT VENTRICLE: RV not well seen.
+
+AORTIC VALVE: Mildly thickened aortic valve leaflets (3). No AS.
+
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.
+Mild mitral annular calcification. Mild thickening of mitral
+valve chordae. Calcified tips of papillary muscles. No MS.
+Moderate (2+) MR.
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets.
+Thickened/fibrotic tricuspid valve supporting structures. No TS.
+Mild [1+] TR. Normal PA systolic pressure.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows.
+Suboptimal image quality - poor parasternal views. Suboptimal
+image quality - poor apical views. Suboptimal image quality -
+poor subcostal views. Suboptimal image quality - bandages,
+defibrillator pads or electrodes.
+Conclusions
+The estimated right atrial pressure is 10-20mmHg. LV systolic
+function appears moderately-to-severely depressed (ejection
+fraction 30 percent). The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. The mitral valve
+leaflets are mildly thickened. There is no mitral valve
+prolapse. Moderate (2+) mitral regurgitation is seen. The
+tricuspid valve leaflets are mildly thickened. The supporting
+structures of the tricuspid valve are thickened/fibrotic. The
+estimated pulmonary artery systolic pressure is normal. There is
+no pericardial effusion.
+
+Compared with the findings of the prior study (images reviewed)
+of [**2525-1-15**], findings are grossly similar although the
+suboptimal nature of both studies precludes definitive
+comparison.
+Electronically signed by [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD, Interpreting
+physician [**Last Name (NamePattern4) **] [**2525-3-2**] 12:27
+
+
+
+Brief Hospital Course:
+Patient well know to our service, was transferred to
+rehabilitation on [**2-1**]. transferred from rehabilitation center
+to [**Hospital6 11441**] because of hypotension associated
+with atrial fibrillation, started on Neosynephrine gtt. Patient
+then transferred from [**Hospital6 11441**] to [**Hospital1 22**] for
+further management. Atrial fibrillation converted to sinus
+rhythm after treatment with IV Amiodarone, Neosynephrine
+infusion then weaned to off. Patient arrived on full ventilatory
+support and was changed to pressure support ventilation and
+weaned from there. She had a chest CT which revealed a left
+effusion Thoracic surgery was consulted and a chest tube was
+placed, the pleural fluid was positive for VRE. A subsequent
+pigtail catheter was placed to drain a small loculated effusion.
+After the pigtail catheter was removed the pleural chest tube
+was gradually pulled back by the thoracic surgery team. It was
+then changed to an empyema tube. TPA was instilled x 3. The
+patient was also followed by the infectious disease service. She
+remains on fluconazole (8 weeks from [**1-12**]) for her previous
+candidemia and candidal sternal wound infection, and daptomycin
+(total 6 weeks from [**2-10**]) and ciprofloxacin (4 weeks from [**2-15**])
+for VRE in pleural effusion and E coli and VRE in thigh wound.
+Bronchoscopy showed tracheomalacia and she was seen by IP. BAL
+grew psuedomonas.
+On [**2-27**] she again underwent bronchoscopy, a Y stent was placed
+for severe tracheobroncheomalacia, and her trach was changed.
+She was started on mucinex, normal saline via trach tube and
+mucomyst nebs for stent maintenance.
+She continued to have low urine output, and her BUN and
+creatinie rose. THis did not improve with multiple interventions
+including milrinone, netrecor, lasix drip, and albumin. She was
+seen by renal, and eventually started on CVVH.  She was
+continued on CVVH until [**3-14**] and was going to be transitioned to
+HD.  It was felt she would not tolerate HD and the family
+discussed the options with the patient.  She had a living will
+and after multiple meetings with all of the family members and
+Dr. [**First Name (STitle) **] they decided to withdraw support.  On [**3-16**] the
+ventilator was discontinued and the pt. expired at 3:16PM with
+the family present.
+
+
+Medications on Admission:
+ASA 81'
+Vit C 500"
+Iron 325'
+Metalazone 5'
+Lasix 40'
+Celexa 20'
+MVI
+Colace 100'
+Heparin 5000 TID
+Cardizem 60 QID
+Reglan 10 TID
+Zosyn 3.25 QID
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 967**] - [**Location (un) **]
+
+Discharge Diagnosis:
+CAD s/p cabg
+Respiratory failure s/p tracheostomy/PEG
+HTN
+Afib
+Asthma
+Emphysema
+Anemia
+GERD
+Anxiety
+^chol
+Carpal tunnel
+
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+None
+
+Followup Instructions:
+None
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 3836**]
+
+Completed by:[**2525-3-16**]
+
+
+DOC CLASS

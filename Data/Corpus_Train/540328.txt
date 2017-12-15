@@ -1,0 +1,186 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ MULTI LUMEN - START [**2787-10-11**] 06:39 PM
+   Allergies:
+   Zidovudine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2787-10-12**] 01:13 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2787-10-12**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98
+   Tcurrent: 36.1
+C (96.9
+   HR: 75 (75 - 96) bpm
+   BP: 90/73(77) {79/48(62) - 122/82(89)} mmHg
+   RR: 30 (16 - 42) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+    CVP: 7 (5 - 9)mmHg
+   Total In:
+                                                                  7,771 mL
+                                                                  1,033 mL
+   PO:
+                                                                    240 mL
+                                                                    480 mL
+   TF:
+   IVF:
+                                                                     31 mL
+                                                                    553 mL
+   Blood products:
+   Total out:
+                                                                  2,700 mL
+                                                                    880 mL
+   Urine:
+                                                                  2,700 mL
+                                                                    880 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,071 mL
+                                                                    153 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///14/
+   Physical Examination
+   General: ill-appearing disheavaled woman, moderate distress, tachypneic
+   HEENT: anicteric sclera, non-injected. white plaques on tongue. MM
+   appear dry. no LAD.
+   CV: RRR, no murmurs, rubs, gallops
+   Lungs: using accessory muscles, retractions but able to speak in full
+   sentences. diffuse rhonchi throughout. no wheezing
+   Abdomen: +BS, soft, non-tender. midline scar from prior hysterectomy
+   well healed.
+   EXT: no peripheral edema, no clubbing.
+   Neuro: alert and oriented X 3, CN intact II-XII, [**3-23**] muscle strength
+   throughout.
+   Labs / Radiology
+   95 mg/dL
+   1.0 mg/dL
+   14 mEq/L
+   3.2 mEq/L
+   18 mg/dL
+   115 mEq/L
+   139 mEq/L
+        [image002.jpg]
+                            [**2787-10-11**]  08:03 PM
+   Cr
+   1.0
+   Glucose
+   95
+   Other labs: Lactic Acid:1.0 mmol/L, LDH:188 IU/L, Ca++:6.6 mg/dL,
+   Mg++:1.5 mg/dL, PO4:2.0 mg/dL
+   Assessment and Plan
+   A/P: 47 yo F with HIV not on HARRT (last CD4 327 with VL 136K in [**5-26**])
+   who presents with fevers, cough, diarrhea and multifocal pneumonia.
+   .
+   # fevers, cough: CXR suggests multifocal pneumonia and u/a suggests
+   UTI. There was concern for hypotension in the ED and she was given 8L
+   IVF and started on levophed. ? sepsis from pneumonia and UTI.
+   -will continue broad spectrum antibiotics including vanco, ceftriaxone
+   and levofloxacin for atypicals. Her last CD4 would make PCP unlikely
+   but that was from [**2787-5-19**] and she had a noticable VL at the time and
+   not on HAART. So reasonable to continue bactrim for ?PCP [**Name9 (PRE) **] given
+   multifocal pneumonia. She was mildly hypoxic to low 90s on RA in the
+   ED.  Will recheck CD4 count and if > 200, will stop Bactrim.
+   -follow up blood cultures, urine culture
+   -send sputum culture (induced) to for gram stain and to rule out PCP
+   [**Name9 (PRE) 3642**] repeating ABG to assess for hypoxia and consider steroids,
+   although suspicion is low at this time.  Will reassess after CD4 count
+   returns.
+   .
+   # sepsis/hypotension: likely secondary to several sources of infection
+   (pneumonia and UTI). Unclear what her baseline BP is given she was
+   mentating normally despite hypotension and lactate was 1 in the ED. She
+   was given plenty of IVF in the ED (8liters).
+   -monitor CVP- currently 13
+   -monitor lactate
+   -ween levophed as tolerated
+   -f/u culture data as above
+   .
+   # trichomonas seen in U/A: treat with flagyl.  Other pathogens with
+   +UTI will be covered with Levo.
+   .
+   # headache: does not seem as though meningitis is a problem here. [**Name2 (NI) 55**]
+   focal signs and no neck stiffness. INR too high for LP especially given
+   low concern currently.
+   -if headache does not resolve, consider LP
+   .
+   # acute renal failure: Cr elevated to 1.4 from baseline 1.1. Likely
+   prerenal given description of being clinically dry on exam in the ED.
+   Currently euvolemic.
+   -monitor Cr.
+   .
+   # afib: currently rate controlled.
+   -hold metoprolol while on pressors
+   -hold coumadin given supratherapeutic currently
+   .
+   # hx of pulmonary nodules: followed by CT scans, last CT [**12-26**].  CT scan
+   likely to show infiltrate with acute event.
+   - will monitor status and if no improvement in a few days, can consider
+   repeating it
+   .
+   # Cardiomyopathy: EF 20-25% per echo this year.
+   - holding ACE and B-blocker due to hypotension, consider adding as
+   sepsis resolves
+   .
+   # Substance Abuse: pt reports smoking cocaine today.
+   - urine and serum tox screens
+   - SW and addiction consults
+   .
+   # HTN: currently on pressors
+   -hold lisinopril and metoprolol
+   .
+   # HIV: last CD4 was in [**5-26**] 327 and VL was 136K. Not on HAART given
+   poor compliance.
+   -check CD4 count
+   -ID consult in AM
+   -she was on ppx bactrim and fluconazole
+   .
+   # depression: per patient, fluoxetine was not helping and she was not
+   currently taking it.  Continue ativan.
+   .
+   # FEN: low salt diet. Hold IVF for now.
+   .
+   # PPX: supratherapeutic on coumadin for DVT ppx, bowel regimen, no GI
+   ppx indicated
+   .
+   # Code: full, confirmed with patient
+   .
+   # Comm: patient (per pt, has health care proxy who is currently
+   incarcerated.
+   .
+   # Dispo: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2787-10-11**] 06:39 PM
+   18 Gauge - [**2787-10-11**] 06:40 PM
+   20 Gauge - [**2787-10-11**] 06:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,189 @@
+Chief Complaint: Syncope, Bradycardia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   82 year old man with PMH of CRI transitioing to HD with recent fistula
+   placement. Presented to OSH with 1 day history of malaise. On daily
+   kayexlate for hyperkalemia, missed a dose and  began to complain of low
+   back pain, nausea, had pre-syncope - EMS was called and found him
+   vomitting and hypotensive. On arrival to OSH ED was in junctional
+   bradycardia with rate to 15. Failed transcutaneous pacing and was
+   transfered to [**Hospital1 17**]. On arrival ABG 7.02/43/102. K 7.3 and lactate of
+   7.0 -> PEA arrest. Epi + atropine as well as hyper K -> [**Hospital1 4459**].
+   Intubated during the code and transferred to the CCU where he was
+   initiatiated on CVVH. Also got chest/ab/pelvis CT which showed possible
+   ischemic colitis and pancreatiac edema c/w pancreatitis. Transfered
+   from CCU to MICU on dopamine but this was rapidly weaned off.
+   24 Hour Events:
+   Allergies:
+   Ace Inhibitors
+   Cough;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2672-1-22**] 02:00 PM
+   Vancomycin - [**2672-1-22**] 04:28 PM
+   Piperacillin - [**2672-1-23**] 06:00 AM
+   Infusions:
+   Fentanyl - 50 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2672-1-22**] 02:00 PM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2672-1-23**] 08:35 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.6
+   Tcurrent: 37.5
+C (99.5
+   HR: 93 (64 - 97) bpm
+   BP: 128/48(73) {86/37(54) - 171/57(90)} mmHg
+   RR: 20 (17 - 22) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 56.6 kg (admission): 56 kg
+             Total In:
+                                                                  4,082 mL
+                                                                  1,624 mL
+   PO:
+             TF:
+   IVF:
+                                                                  3,912 mL
+                                                                  1,624 mL
+   Blood products:
+   Total out:
+                                                                  1,307 mL
+                                                                    275 mL
+   Urine:
+                                                                    638 mL
+                                                                    275 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,775 mL
+                                                                  1,349 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 165 (165 - 165) mL
+   PS : 0 cmH2O
+   RR (Set): 20
+   RR (Spontaneous): 9
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 13
+   PIP: 20 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 40 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.34/52/127/25/1
+   Ve: 6.9 L/min
+   PaO2 / FiO2: 318
+   Physical Examination
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Percussion: Resonant : )
+   Abdominal: Soft, Non-tender
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Purposeful, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   7.9 g/dL
+   155 K/uL
+   67 mg/dL
+   2.9 mg/dL
+   25 mEq/L
+   4.6 mEq/L
+   46 mg/dL
+   110 mEq/L
+   144 mEq/L
+   23.0 %
+   10.4 K/uL
+        [image002.jpg]
+                            [**2672-1-22**]  08:49 AM
+                            [**2672-1-22**]  12:06 PM
+                            [**2672-1-22**]  12:09 PM
+                            [**2672-1-22**]  03:44 PM
+                            [**2672-1-22**]  07:02 PM
+                            [**2672-1-22**]  07:27 PM
+                            [**2672-1-22**]  10:28 PM
+                            [**2672-1-22**]  10:50 PM
+                            [**2672-1-23**]  04:40 AM
+                            [**2672-1-23**]  04:51 AM
+   WBC
+   10.4
+   Hct
+   29
+   25.0
+   27
+   23.0
+   Plt
+   155
+   Cr
+   3.2
+   3.0
+   2.8
+   2.8
+   2.9
+   TCO2
+   24
+   26
+   28
+   27
+   29
+   Glucose
+   146
+   73
+   159
+   137
+   67
+   Other labs: PT / PTT / INR:14.7/49.9/1.3, ALT / AST:164/102, Alk Phos /
+   T Bili:32/0.5, Amylase / Lipase:1485/68, Differential-Neuts:82.4 %,
+   Lymph:10.7 %, Mono:5.3 %, Eos:0.9 %, Lactic Acid:2.1 mmol/L,
+   Albumin:4.1 g/dL, LDH:254 IU/L, Ca++:9.2 mg/dL, Mg++:1.6 mg/dL, PO4:5.2
+   mg/dL
+   Assessment and Plan
+   82 year old man s/p apparent hyperkalemic PEA with unclear time until
+   [**Name (NI) 4459**]. Making purposeful movements today. Got RRT overnight, now on
+   holiday.  Hemodynamics
+   normalized this morning. Plan as per resident note. Will need to DC
+   sedation and look to extubate. Currently not overbreathing the vent.
+   Reasonable
+   to continue empiric abx for now but unclear if there has been a primary
+   abdominal event. Further plans as per resident note.
+   ICU Care
+   Nutrition:
+   Comments: On hold
+   Glycemic Control:  Regular insulin sliding scale, Blood sugar well
+   controlled, Comments: hypoglycemia this am
+   Lines:
+   Multi Lumen - [**2672-1-22**] 03:20 AM
+   Arterial Line - [**2672-1-22**] 03:20 AM
+   Dialysis Catheter - [**2672-1-22**] 05:32 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

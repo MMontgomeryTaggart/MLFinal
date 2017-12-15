@@ -1,0 +1,251 @@
+Admission Date:  [**3263-4-30**]              Discharge Date:   [**3263-5-4**]
+
+Date of Birth:  [**3214-3-19**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 233**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+[**3263-4-30**] Coronary artery bypass graft x 3 (Saphenous vein graft
+to distal right coronary artery, Saphenous vein graft to Obtuse
+marginal 1, Saphenous vein graft to obtuse marginal 2)
+
+History of Present Illness:
+49 year old female with past medical history of coronary artery
+disease and myocardial infarction s/p stenting of RCA and left
+circumflex. She recently underwent another cardiac cath after
+complaining of angina and had positive stress test. Cath showed
+90% in-stent restenosis in LCX and 80% RCA disease. She is now
+referred for surgical revascularization.
+
+Past Medical History:
+- Coronary artery disease, status post myocardial infarction in
+[**3251**], [**3253**] and [**3260**]- s/p stenting on all occasions
+- Hypothyroidism on Levothyroxine
+- C-section [**3248**]
+- Hyperlipidemia
+- Hypertension
+- Uterine fibriods s/p embolization
+- s/p Bilateral uterine artery embolization on [**3262-7-31**]
+- s/p C-section
+- s/p Tonsillectomy
+
+Social History:
+Race: Indian
+Last Dental Exam: N/A
+Lives with: Husband
+Contact: [**Name (NI) 2541**]                 Phone #
+Occupation: retail pharmacist at a local rehab facility
+Cigarettes: Smoked no [X] yes [] last cigarette _____ Hx:
+Other Tobacco use: Denies
+ETOH: < 1 drink/week [X] [**12-26**] drinks/week [] >8 drinks/week []
+Illicit drug use: Denies
+
+Family History:
+Premature coronary artery disease - Father had CABG in early
+70's, died 1 month later. Brother with MI in his 40's
+
+Physical Exam:
+Pulse: 71  Resp: 16  O2 sat: 100%
+B/P  Right: 120/83   Left: 108/77
+Height: 63"    Weight: 171 lbs
+
+General: Well-developed female in no acute distress
+Skin: Dry [X] intact [X]
+HEENT: PERRLA [X] EOMI [X]
+Neck: Supple [X] Full ROM [X]
+Chest: Lungs clear bilaterally [X]
+Heart: RRR [X] Irregular [] Murmur [] grade ______
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds
++ [X]
+Extremities: Warm [X], well-perfused [X] Edema/Varicosities:
+None [X]
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right: 2+  Left: 2+
+DP           Right: 2+  Left: 2+
+PT           [**Name (NI) **]: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit     Right: -   Left: -
+
+Pertinent Results:
+[**3263-4-30**] Echo: PRE-BYPASS: No spontaneous echo contrast is seen
+in the body of the left atrium or left atrial appendage. No
+atrial septal defect is seen by 2D or color Doppler. Left
+ventricular wall thicknesses are normal. The left ventricular
+cavity size is normal. Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). Right ventricular chamber size and free wall motion
+are normal. There are three aortic valve leaflets. There is no
+aortic valve stenosis. Mild to moderate ([**11-20**]+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. Mild (1+) mitral regurgitation is seen. There is no
+pericardial effusion. Dr. [**Last Name (STitle) 222**] was notified in person of the
+results at time of surgery. POST-BYPASS: The patient is in sinus
+rhythm. The patient is on no inotropes. Biventricular function
+is unchanged. Mitral regurgitation is unchanged. Tricuspid
+regurgitation is unchanged. The aorta is intact
+post-decannulation.
+
+[**3263-5-3**] 04:51AM BLOOD WBC-8.7 RBC-3.94* Hgb-9.6* Hct-29.8*
+MCV-76* MCH-24.4* MCHC-32.2 RDW-17.7* Plt Ct-171
+[**3263-5-2**] 06:10AM BLOOD WBC-10.4 RBC-3.90* Hgb-9.4* Hct-29.6*
+MCV-76* MCH-24.1* MCHC-31.7 RDW-18.0* Plt Ct-165
+[**3263-5-1**] 04:08AM BLOOD WBC-11.5* RBC-4.31 Hgb-10.3* Hct-32.5*
+MCV-75* MCH-23.9* MCHC-31.8 RDW-17.3* Plt Ct-201
+[**3263-5-3**] 04:51AM BLOOD Glucose-105* UreaN-10 Creat-0.6 Na-139
+K-4.4 Cl-106 HCO3-30 AnGap-7*
+[**3263-5-2**] 06:10AM BLOOD Glucose-113* UreaN-11 Creat-0.7 Na-135
+K-4.9 Cl-103 HCO3-25 AnGap-12
+[**3263-5-1**] 04:08AM BLOOD Glucose-100 UreaN-8 Creat-0.5 Na-134
+K-4.5 Cl-106 HCO3-23 AnGap-10
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname **] was a same day admit and was brought directly to the
+operating room where she underwent a coronary artery bypass
+graft x 3. Please see operative report for surgical details.
+Following surgery she was transferred to the CVICU for invasive
+monitoring in stable condition. POD 1 found the patient
+extubated, alert and oriented and breathing comfortably.  The
+patient was neurologically intact and hemodynamically stable on
+no inotropic or vasopressor support. Beta blocker was initiated
+and the patient was gently diuresed toward the preoperative
+weight. Pain control was an issue and she was treated with
+Toradol, Dilaudid and Tylenol, which  provided good relief. The
+patient was transferred to the telemetry floor for further
+recovery. Dr. [**Last Name (STitle) 1336**] was contact[**Name (NI) **] and said that it was
+acceptable to stop Prasugrel. Chest tubes and pacing wires were
+discontinued without complication.  The patient was evaluated by
+the physical therapy service for assistance with strength and
+mobility.  By the time of discharge on POD 4the patient was
+ambulating freely, the wound was healing and pain was controlled
+with oral analgesics.  The patient was discharged home in good
+condition with appropriate follow up instructions.
+
+Medications on Admission:
+ATORVASTATIN [LIPITOR] - (Prescribed by Other Provider) - 80 mg
+Tablet - 1 Tablet(s) by mouth once a day
+FOLIC ACID - (Prescribed by Other Provider) - 1 mg Tablet - 1
+Tablet(s) by mouth once a day
+LEVOTHYROXINE - (Prescribed by Other Provider) - 75 mcg Tablet -
+1 Tablet(s) by mouth once a day
+METOPROLOL SUCCINATE - (Prescribed by Other Provider) - 50 mg
+Tablet Extended Release 24 hr - 1 Tablet(s) by mouth once a day
+PRASUGREL [EFFIENT] - (Prescribed by Other Provider) - 10 mg
+Tablet - 1 Tablet(s) by mouth once a day
+
+Medications - OTC
+ASPIRIN [ADULT LOW DOSE ASPIRIN] - (Prescribed by Other
+Provider) - 81 mg Tablet, Delayed Release (E.C.) - 1 Tablet(s)
+by mouth once a day
+POLYSACCHARIDE IRON COMPLEX - (Prescribed by Other Provider) -
+150 mg Capsule - 1 Capsule(s) by mouth once a day
+
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY
+2. Atorvastatin 80 mg PO DAILY
+3. FoLIC Acid 1 mg PO DAILY
+4. Levothyroxine Sodium 75 mcg PO DAILY
+5. Metoprolol Tartrate 25 mg PO TID
+Hold for HR < 55 or SBP < 90 and call medical provider.
+[**Last Name (NamePattern4) **] *metoprolol tartrate 25 mg three times a day Disp #*90 Tablet
+Refills:*0
+6. Ranitidine 150 mg PO BID Duration: 2 Weeks
+RX *ranitidine HCl 150 mg twice a day Disp #*28 Tablet
+Refills:*0
+7. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain
+RX *tramadol 50 mg every four (4) hours Disp #*75 Tablet
+Refills:*0
+8. Iron Polysaccharides Complex 150 mg PO DAILY
+9. Acetaminophen 650 mg PO Q4H:PRN pain, fever
+10. HYDROmorphone (Dilaudid) 2-6 mg PO Q3H:PRN pain
+RX *hydromorphone 2 mg q 3hrs Disp #*40 Tablet Refills:*0
+11. Potassium Chloride 20 mEq PO DAILY Duration: 7 Days
+Hold for K+ > 4.5
+RX *potassium chloride 20 mEq daily Disp #*7 Tablet Refills:*0
+12. Ibuprofen 600 mg PO Q6H
+Start once Toradol completed
+RX *ibuprofen 200 mg every six (6) hours Disp #*120 Tablet
+Refills:*0
+13. Furosemide 20 mg PO DAILY Duration: 7 Days
+RX *Lasix 20 mg daily Disp #*7 Tablet Refills:*0
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Company **]
+
+Discharge Diagnosis:
+Coronary artery disease s/p Coronary artery bypass graft x 3
+Past medical history:
+- Status post myocardial infarction in [**3251**], [**3253**] and [**3260**] with
+stenting on all occasions
+- Hypothyroidism on Levothyroxine
+- C-section [**3248**]
+- Hyperlipidemia
+- Hypertension
+- Uterine fibriods s/p embolization
+- s/p Bilateral uterine artery embolization on [**3262-7-31**]
+- s/p C-section
+- s/p Tonsillectomy
+
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with ultram, motrin and Dilaudid as
+needed
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right - healing well, no erythema or drainage.
+Edema: trace lower extremity edema
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Followup Instructions:
+You are scheduled for the following appointments
+Surgeon: Dr. [**Last Name (STitle) 222**] [**Telephone/Fax (1) 294**] on Date/Time:[**3263-6-6**] 1:30pm
+in the [**Hospital **] medical office building, [**Doctor First Name **] [**Hospital Unit Name **]
+WOUND CARE NURSE Phone:[**Telephone/Fax (1) 294**] Date/Time:[**3263-5-10**] 10:15pm
+in the [**Hospital **] medical office building, [**Doctor First Name **] [**Hospital Unit Name **]
+
+Please call to schedule appointments with your
+Cardiologist: Dr. [**Last Name (STitle) 2073**] [**Name (STitle) 1336**] in [**12-22**] weeks
+Primary Care Dr. [**Last Name (STitle) 13185**] Sri Reddi in [**2-22**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Completed by:[**3263-5-4**]
+
+
+DOC CLASS

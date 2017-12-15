@@ -1,0 +1,224 @@
+CVICU
+   HPI:
+   HD9   POD 7-redostern,repair of innom-SVC,removal of pacer leads
+   Ejection Fraction:15-20
+   Pre-Op Weight:0 lbs   0 kgs
+   TLD:RT fem Quinton:Day4
+   35 year old male with PMH significant for familial hypertrophic CM,
+   PAF, CHB, ASD (repaired in [**3445**]), multiple pacemaker surgeries, s/p
+   AICD revision on [**3484-9-3**] here at [**Hospital1 5**] admitted [**3484-9-30**] for infection at
+   the pacemaker site. Patient was discharged [**3484-10-3**] on Vancomycin 1500
+   mg IV BID for 7 days with plan to follow-up with his cardiogist Dr.
+   [**Last Name (STitle) **] re device removal.
+   PMHx: ASD repair [**3449**] at age 14 months, familial Hypertrophic
+   Cardiomyopathy,CHB, Pacemaker placement [**3466**], [**3482**] with repositioning
+   [**1-10**] and [**2-10**], PAF, Lumbar Discitis [**3-/3484**] requiring 6 weeks of IV
+   antibiotics,Laminectomy [**3473**], Lung Mass, biopsy negative for
+   malignancy, migraine, Anxiety, GERD, Vasectomy
+   [**Last Name (un) **]: Zolpidem 10, Quinapril 2.5, Famotidine 40 [**Hospital1 **], Paroxetine HCl 20,
+   Vancomycin 1500 [**Hospital1 **] 7 days, Sotalol 120 [**Hospital1 **], Lorazepam 1 Q8 PRN
+   Current medications:
+   Acetaminophen, Albuterol Inhaler, Docusate Sodium,  Epinephrine HCl ,
+   Fentanyl Citrate, Furosemide, Heparin, Insulin, Ipratropium Bromide
+   MDI, Magnesium Sulfate, Metoclopramide, Milk of Magnesia, Milrinone,
+   Midazolam,  Norepinephrine, Pantoprazole, Piperacillin-Tazobactam,
+   Vancomycin,  Vasopressin
+   24 Hour Events:
+   Weaning on pressors, vent.   Bronch
+d with minimal secretions
+ WOUND CULTURE - At [**3484-10-15**] 09:31 AM Pacer Pocket
+ ULTRASOUND - At [**3484-10-15**] 01:35 PM
+ BRONCHOSCOPY - At [**3484-10-15**] 04:00 PM
+ [**Location (un) 534**] LINE - STOP [**3484-10-15**] 06:01 PM
+ ARTERIAL LINE - START [**3484-10-15**] 06:39 PM L radial
+ ARTERIAL LINE - STOP [**3484-10-15**] 08:57 PM R radial
+   Allergies:
+   Morphine
+   Rash;
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3484-10-16**] 08:39 AM
+   Infusions:
+   Epinephrine - 0.04 mcg/Kg/min
+   Vasopressin - 1.2 units/hour
+   Norepinephrine - 0.12 mcg/Kg/min
+   Milrinone - 0.5 mcg/Kg/min
+   Furosemide (Lasix) - 10 mg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl - 25 mcg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3484-10-15**] 08:42 PM
+   Heparin Sodium (Prophylaxis) - [**3484-10-16**] 05:50 AM
+   Other medications:
+   Flowsheet Data as of  [**3484-10-16**] 09:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**87**] a.m.
+   HR: 65 (53 - 77) bpm
+   BP: 117/58(71) {86/48(58) - 140/67(82)} mmHg
+   RR: 21 (5 - 27) insp/min
+   SPO2: 88%
+   Heart rhythm: JR (Junctional Rhythm)
+   Wgt (current): 109.2 kg (admission): 88 kg
+   Height: 71 Inch
+   CVP: 22 (19 - 27) mmHg
+   PAP: (33 mmHg) / (21 mmHg)
+   CO/CI (Fick): (4.3 L/min) / (2.1 L/min/m2)
+   CO/CI (CCO): (6.8 L/min) / (3.3 L/min/m2)
+   SvO2: 50%
+   Mixed Venous O2% sat: 35 - 56
+   Total In:
+                                                                  2,487 mL
+                                                                  1,287 mL
+   PO:
+   Tube feeding:
+                                                                    125 mL
+   IV Fluid:
+                                                                  2,231 mL
+                                                                  1,069 mL
+   Blood products:
+                                                                    132 mL
+                                                                    218 mL
+   Total out:
+                                                                  1,305 mL
+                                                                    483 mL
+   Urine:
+                                                                  1,105 mL
+                                                                    483 mL
+   NG:
+                                                                    200 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,182 mL
+                                                                    804 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   PS : 0 cmH2O
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 80%
+   RSBI Deferred: PEEP > 10
+   PIP: 22 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 42.3 cmH2O/mL
+   SPO2: 88%
+   ABG: 7.47/33/80.[**Numeric Identifier 18**]/22/0
+   Ve: 13.4 L/min
+   PaO2 / FiO2: 100
+   Physical Examination
+   General Appearance: No acute distress, intubated
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Breath Sounds: Diminished: @left base), (Sternum:
+   Stable )
+   Abdominal: Soft, hypoactive BS
+   Left Extremities: (Edema: 3+), (Temperature: No(t) Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 3+), (Temperature: Warm)
+   Neurologic: Follows simple commands with sedation weaned, (LLE: No
+   movement)
+   Labs / Radiology
+   141 K/uL
+   11.0 g/dL
+   109 mg/dL
+   7.2 mg/dL
+   22 mEq/L
+   4.1 mEq/L
+   54 mg/dL
+   94 mEq/L
+   130 mEq/L
+   31.1 %
+   14.5 K/uL
+                            [**3484-10-15**]  06:35 PM
+                            [**3484-10-15**]  06:46 PM
+                            [**3484-10-15**]  10:52 PM
+                            [**3484-10-16**]  12:24 AM
+                            [**3484-10-16**]  01:10 AM
+                            [**3484-10-16**]  03:00 AM
+                            [**3484-10-16**]  04:04 AM
+                            [**3484-10-16**]  04:54 AM
+                            [**3484-10-16**]  06:04 AM
+                            [**3484-10-16**]  06:51 AM
+   WBC
+   14.5
+   Hct
+   31.1
+   Plt
+   141
+   Creatinine
+   7.2
+   7.2
+   TCO2
+   23
+   20
+   22
+   21
+   23
+   20
+   20
+   25
+   Glucose
+   113
+   117
+   128
+   107
+   109
+   Other labs: PT / PTT / INR:17.2/28.1/1.5, CK / CK-MB / Troponin
+   T:118/4/, ALT / AST:369/64, Alk-Phos / T bili:74/21.7, Amylase /
+   Lipase:45/64, Differential-Neuts:78.9 %, Band:14.0 %, Lymph:15.5 %,
+   Mono:4.9 %, Eos:0.1 %, Fibrinogen:383 mg/dL, Lactic Acid:1.8 mmol/L,
+   Albumin:2.8 g/dL, LDH:575 IU/L, Ca:9.5 mg/dL, Mg:2.4 mg/dL, PO4:4.6
+   mg/dL
+   Assessment and Plan
+   CARDIOMYOPATHY, HYPERTROPHIC, CARDIAC DEVICE INFECTION (PACEMAKER,
+   DEFIBRILLATOR)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 2 hr, Sedated / Intubated-Moves all
+   extremities except left leg of sedation and responds to commands.
+   Conts on Fentanyl / versed
+   Cardiovascular: RV dysfunction with resolving septic shock. Weaning
+   levo , Vaso  Milrinone and epi. Mixed venous sats low 50's consistent
+   with low output state from RV dysfunction.  Echo today to eval RV
+   function
+   Pulmonary: Cont ETT, Intubated for hypoxic respiratory failure no
+   evidence of pneumonia,likely worsening right to left shunt from RV
+   dysfunction
+   Gastrointestinal / Abdomen: Post-op ileus, Decreasing lft's with an
+   increase bilirubin.Likely cholestasis of critical illness.Gall bladder
+   ultrasound negative.  Consult hepatology today
+   Nutrition:  Restart TF at 10 cc/hr and check residuals.  Reglan for
+   gastric motility
+   Renal: Foley, Progressive ATN ,on lasix drip with marginal urine
+   output.Likely intravascular deplete/ total body water
+   overloaded.Hyponatremia -combination of Volume depletion and
+   ?SIADH.Serum and urine osmolality to evaluate
+   Hematology: stable,resolving thrombocytopenia-HIT negative
+   Endocrine: RISS
+   Infectious Disease: Decreasing white count- Likely sinusitis given all
+   negative cultures and positive sinus culture.On Vanc and Zosyn.Pacer
+   pocket not infected
+   Lines / Tubes / Drains: Foley, ETT
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Consults Heart Failure, Hepatology. PT , Renal
+   ICU Care
+   Nutrition:
+   Glycemic Control RISS:
+   Dialysis Catheter - [**3484-10-13**] 11:59 AM
+   Cordis/Introducer - [**3484-10-14**] 01:30 PM
+   CCO PAC - [**3484-10-14**] 01:30 PM
+   Arterial Line - [**3484-10-15**] 06:39 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   Communication:  Comments:
+   Code status: Full code
+
+
+
+DOC CLASS

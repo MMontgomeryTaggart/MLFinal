@@ -1,0 +1,222 @@
+CVICU
+   HPI:
+   HD3   POD 2-TAA repair
+   Pre-Op Weight:0 lbs   0 kgs
+   TLD:rt IJ cordis/PA:Day3
+   Foley:Day3
+   PMH: HTN
+   [**Last Name (un) **]:benicar 40/12.5mg daily
+   Current medications:
+   Acetaminophen 4. Artificial Tears 5. Aspirin 6. Calcium Gluconate 7.
+   Calcium Gluconate
+   8. Chlorhexidine Gluconate 0.12% Oral Rinse 9. Cisatracurium Besylate
+   10. Ciprofloxacin 11. Epinephrine
+   12. Fentanyl Citrate 13. Insulin 14. Magnesium Sulfate 15. Magnesium
+   Sulfate 16. MetRONIDAZOLE (FLagyl)
+   17. Pantoprazole 18. Phenylephrine 19. Potassium Chloride 20. Potassium
+   Chloride 21. Propofol 22. Sodium Chloride 0.9% Flush
+   23. Vasopressin 24. Vancomycin
+   24 Hour Events:
+ TRAUMA LINE - START [**2972-4-13**] 08:00 AM
+ TRIPLE INTRODUCER - STOP [**2972-4-13**] 08:01 AM
+ CHEST TUBE PLACED - At [**2972-4-13**] 09:00 AM
+ BRONCHOSCOPY - At [**2972-4-13**] 09:35 AM
+   Events:
+   [**2972-4-13**] Levophed weaned, epi 0.03, and vaso 2.4. FIO2 to 60%.
+   diuresing. OR tues?
+   [**2972-4-12**] open chest and abdomen
+   Allergies:
+   Last dose of Antibiotics:
+   Cefazolin - [**2972-4-13**] 05:00 AM
+   Vancomycin - [**2972-4-13**] 08:31 PM
+   Ciprofloxacin - [**2972-4-14**] 12:14 AM
+   Metronidazole - [**2972-4-14**] 06:07 AM
+   Infusions:
+   Vasopressin - 2.4 units/hour
+   Epinephrine - 0.02 mcg/Kg/min
+   Propofol - 20 mcg/Kg/min
+   Other ICU medications:
+   Insulin - Regular - [**2972-4-13**] 08:30 AM
+   Furosemide (Lasix) - [**2972-4-13**] 06:00 PM
+   Pantoprazole (Protonix) - [**2972-4-14**] 05:06 AM
+   Fentanyl - [**2972-4-14**] 05:15 AM
+   Other medications:
+   Flowsheet Data as of  [**2972-4-14**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**74**] a.m.
+   HR: 89 (89 - 113) bpm
+   BP: 102/57(73) {89/45(64) - 154/86(112)} mmHg
+   RR: 18 (17 - 25) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 127.7 kg (admission): 113.6 kg
+   Height: 68 Inch
+   CVP: 9 (8 - 24) mmHg
+   PAP: (35 mmHg) / (20 mmHg)
+   CO/CI (Fick): (4.5 L/min) / (2 L/min/m2)
+   CO/CI (CCO): (5.9 L/min) / (1.2 L/min/m2)
+   SvO2: 55%
+   Mixed Venous O2% sat: 53 - 59
+   Total In:
+                                                                 10,491 mL
+                                                                    590 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  8,420 mL
+                                                                    590 mL
+   Blood products:
+                                                                  2,021 mL
+   Total out:
+                                                                 10,805 mL
+                                                                  1,095 mL
+   Urine:
+                                                                  3,645 mL
+                                                                    445 mL
+   NG:
+                                                                     50 mL
+   Stool:
+   Drains:
+                                                                  3,950 mL
+                                                                    300 mL
+   Balance:
+                                                                   -314 mL
+                                                                   -505 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (600 - 600) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 15 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%
+   PIP: 28 cmH2O
+   Plateau: 26 cmH2O
+   SPO2: 98%
+   ABG: 7.46/41/124/27/5
+   Ve: 10.8 L/min
+   PaO2 / FiO2: 207
+   Physical Examination
+   General Appearance: No acute distress, Intubated, sedated.
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Crackles : , Rhonchorous : ,
+   Diminished on Left: ), (thorax: Open)
+   Abdominal: Soft, No(t) Bowel sounds present, Distended
+   Left Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 3+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Diminished)
+   Skin: Serous Drainage
+   Neurologic: (Responds to: Noxious stimuli), No(t) Moves all
+   extremities, (RUE: Weakness), (LUE: Weakness), (RLE: No movement),
+   (LLE: No movement)
+   Labs / Radiology
+   140 K/uL
+   10.3 g/dL
+   79 mg/dL
+   1.2 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   19 mg/dL
+   111 mEq/L
+   144 mEq/L
+   29.1 %
+   10.7 K/uL
+        [image002.jpg]
+                             [**2972-4-13**]  05:54 AM
+                             [**2972-4-13**]  07:17 AM
+                             [**2972-4-13**]  10:24 AM
+                             [**2972-4-13**]  01:02 PM
+                             [**2972-4-13**]  01:18 PM
+                             [**2972-4-13**]  04:08 PM
+                             [**2972-4-13**]  04:26 PM
+                             [**2972-4-13**]  11:46 PM
+                             [**2972-4-14**]  03:13 AM
+                             [**2972-4-14**]  05:26 AM
+   WBC
+   8.5
+   10.7
+   Hct
+   29.8
+   30.3
+   29.1
+   Plt
+   148
+   140
+   Creatinine
+   1.4
+   1.2
+   1.2
+   TCO2
+   31
+   27
+   31
+   30
+   30
+   Glucose
+   126
+   116
+   110
+   116
+   97
+   85
+   93
+   79
+   Other labs: PT / PTT / INR:13.7/36.4/1.2, ALT / AST:53/169, Alk-Phos /
+   T bili:38/3.2, Fibrinogen:271 mg/dL, Lactic Acid:1.4 mmol/L, LDH:465
+   IU/L, Ca:8.0 mg/dL, Mg:1.9 mg/dL, PO4:3.3 mg/dL
+   Imaging: CXR -
+   Assessment and Plan
+   IMPAIRED SKIN INTEGRITY, AORTIC ANEURYSM, THORACIC (TAA), AORTIC
+   RUPTURE
+   Assessment and Plan: Assessment:60yo [**Male First Name (un) **] with ruptured TAAA. TAAA repair
+   [**4-12**], to CVICU with open chest/abdomen
+   Neurologic: PPF gtt for sedation. Fentanyl gtt for pain.
+   Cardiovascular: Cont to wean epi for Index > 2.0 and Vasopressin for
+   MAP > 60.
+   Pulmonary: Cont ETT, Will consider exchanging ETT today to single lumen
+   for better pulmonary toilet; If unable, will reposition DLT with
+   bronchoscope for better ventilation; wean PEEP and FiO2 as tolerated.
+   Gastrointestinal / Abdomen: Cont to follow LFT's.
+   Nutrition: NPO
+   Renal: Foley, Creatinine improving; Cont to attempt gentle diuresis
+   with blood and lasix.
+   Hematology: Serial Hct, transfuse 1 unit with Lasix this AM  --> cont
+   to follow Q8 today.
+   Endocrine: Insulin drip
+   Infectious Disease: Periop antibx
+   Lines / Tubes / Drains: Foley, OGT, ETT, Surgical drains (hemovac, JP),
+   Chest tube - pleural , Chest tube - mediastinal, Pacing wires
+   Wounds: Open chest with Ioband.
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Failure), Post-op
+   hypotension, Post-op shock
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Insulin infusion
+   Lines:
+   PA Catheter - [**2972-4-12**] 08:00 PM
+   Arterial Line - [**2972-4-12**] 08:02 PM
+   18 Gauge - [**2972-4-12**] 08:08 PM
+   Trauma line - [**2972-4-13**] 08:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 41 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

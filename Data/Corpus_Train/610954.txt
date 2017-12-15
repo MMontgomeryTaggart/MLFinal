@@ -1,0 +1,196 @@
+CVICU
+   HPI:
+   HD11
+   [**4-19**] POD 10
+   69M s/p AVR(23 CE Magma,CABGx2(SVG-OM,SVG-PDA), Ao endarterectomy [**4-9**]
+   EF:60% Cr:84KG Wt:84KG HgA1c:5.8
+   PMH:as/cad,HTN,hypercholesterolemia,psoriasis,NIDDM
+   [**Last Name (un) **]:ASA 162mg/D,Omeprazole 20mg/D,Lisinopril 5mg/D,Simvastatin
+   40mg/D,Metformin 500mg/D,lopressor 25mg/D,Glypizide 2.5mg/D,HumiraPen
+   40mcgevery other week, Clobetasol 0.05%QD to psoriasis
+   Current medications:
+   In ICU for monitoring due to abdominal distention and confusion
+   On IVF for hydration while NPO, TPN delayed due to access, awaiting
+   PICC
+   Acetaminophen, Albuterol Inhaler, Albuterol 0.083% Neb Soln,
+   Amiodarone, Aspirin EC, Bisacodyl, Clobetasol Propionate 0.05% Cream,
+   Furosemide, Insulin, Ipratropium Bromide MDI, Lactulose,
+   Metoclopramide, Metoprolol Tartrate, Pantoprazole
+   24 Hour Events:
+ ULTRASOUND - At [**2559-4-18**] 01:00 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2559-4-18**] 10:14 PM
+   Furosemide (Lasix) - [**2559-4-19**] 06:12 AM
+   Metoprolol - [**2559-4-19**] 06:12 AM
+   Other medications:
+   Flowsheet Data as of  [**2559-4-19**] 10:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**61**] a.m.
+   Tmax: 37
+C (98.6
+   T current: 36.8
+C (98.2
+   HR: 82 (70 - 82) bpm
+   BP: 87/60(65) {87/39(55) - 134/60(74)} mmHg
+   RR: 24 (18 - 27) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95.4 kg (admission): 84.1 kg
+   Height: 65 Inch
+             Total In:
+                                                                  1,010 mL
+                                                                    416 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  1,010 mL
+                                                                    416 mL
+   Blood products:
+   Total out:
+                                                                  2,995 mL
+                                                                  1,440 mL
+   Urine:
+                                                                  1,765 mL
+                                                                    675 mL
+   NG:
+                                                                  1,200 mL
+                                                                    750 mL
+   Stool:
+   Drains:
+                                                                     30 mL
+                                                                     15 mL
+   Balance:
+                                                                 -1,985 mL
+                                                                 -1,024 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 97%
+   ABG: ///21/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear ),
+   (Sternum:  no drainage
+   Abdominal: Soft, Non-tender, Bowel sounds present, hypoactive, Obese,
+   NGT-gravity draining bilious fluid
+   Left Extremities: (Edema: 2+ pitting), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+ pitting), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact) left leg EVH, multiple skin
+   tears on abdomen and right knee
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   178 K/uL
+   9.8 g/dL
+   130 mg/dL
+   1.1 mg/dL
+   21 mEq/L
+   4.0 mEq/L
+   41 mg/dL
+   111 mEq/L
+   142 mEq/L
+   29.5 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**2559-4-18**]  04:08 AM
+                             [**2559-4-19**]  03:58 AM
+   WBC
+   7.1
+   10.2
+   Hct
+   29.4
+   29.5
+   Plt
+   126
+   178
+   Creatinine
+   1.2
+   1.1
+   Glucose
+   132
+   130
+   Other labs: PT / PTT / INR:18.3/31.1/1.7, ALT / AST:33/48, Alk-Phos / T
+   bili:97/1.6, Amylase / Lipase:213/632, Albumin:2.2 g/dL, Ca:8.1 mg/dL,
+   Mg:2.2 mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   AIRWAY CLEARANCE, IMPAIRED, COUGH, IMPAIRED, GAIT, IMPAIRED, MUSCLE
+   PERFORMACE, IMPAIRED, TRANSFERS, IMPAIRED, VENTILATION, IMPAIRED, .H/O
+   ABDOMINAL PAIN (INCLUDING ABDOMINAL TENDERNESS)
+   Assessment and Plan:
+   Neurologic:
+   Cardiovascular:
+   Pulmonary:
+   Gastrointestinal / Abdomen:
+   Nutrition:
+   Renal:
+   Hematology:
+   Endocrine:
+   Infectious Disease:
+   Lines / Tubes / Drains:
+   Wounds:
+   Imaging:
+   Fluids:
+   Consults:
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   22 Gauge - [**2559-4-18**] 10:30 AM
+   PICC Line - [**2559-4-19**] 08:00 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   Assessment and Plan
+   AIRWAY CLEARANCE, IMPAIRED, COUGH, IMPAIRED, GAIT, IMPAIRED, MUSCLE
+   PERFORMACE, IMPAIRED, TRANSFERS, IMPAIRED, VENTILATION, IMPAIRED, .H/O
+   ABDOMINAL PAIN (INCLUDING ABDOMINAL TENDERNESS)
+   Assessment and Plan:
+   Neurologic: Pain controlled, Ultram and Tylenol prn effective
+   Cardiovascular: Aspirin, Beta-blocker, Amiodarone,  hold statin while
+   npo
+   Pulmonary: IS, cough and deep breath
+   Gastrointestinal / Abdomen: Post-op abdominal distention, resolved with
+   NG decompression, continue NG to LIWS, TPN for nutrition
+   Nutrition: Start TPN for nutrition
+   Renal: Foley, Adequate UO, lasix to keep net even, continue IVF while
+   NPO until TPN starts
+   Hematology: stable hct , INR 1.7
+   Endocrine: RISS
+   Infectious Disease:wbc 10 from 7 but normal range, Afebrile no evidence
+   of infection
+   Lines / Tubes / Drains: Foley, NGT, place PICC today for TPN
+   Wounds: Dry dressings
+   Imaging: Abdominal US today to assess for cholecystitis/ascites
+   Fluids: D5 1/2 NS, @70cc/hr
+   Consults: General surgery, CT surgery, P.T.
+   ICU Care
+   Nutrition: NPO start TPN today
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2559-4-18**] 10:30 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

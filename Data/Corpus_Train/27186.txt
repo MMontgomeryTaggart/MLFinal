@@ -1,0 +1,238 @@
+Admission Date:  [**3478-10-9**]              Discharge Date:   [**3478-10-26**]
+
+Date of Birth:  [**3424-1-18**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Penicillins / Sulfur / Iodine
+
+Attending:[**First Name3 (LF) 2209**]
+Chief Complaint:
+Increased cough and wheezes
+
+Major Surgical or Invasive Procedure:
+[**3478-10-18**] Bronchoscopy, Right thoracotomy, Right lower lobe
+nodule Biopsy, Right Bronchoplasty
+[**3478-10-16**] Rigid Bronchoscopy with Stent Removal
+[**3478-10-14**] Flexible Bronchoscopy, Rigid bronchoscopy, Stent
+Placement
+
+
+History of Present Illness:
+Ms. [**Known patient lastname 9877**] is a 54-year-old woman who had previously undergone
+tracheoplasty and bilateral bronchoplasty with mesh on [**3477-5-18**] by Dr. [**First Name4 (NamePattern1) 1219**] [**Last Name (NamePattern1) 699**].
+She represented recently with shortness of breath symptoms and
+was found to have severe recurrent bronchomalacia in the
+bronchus intermedius on the right. Placement of a bronchus
+intermedius silicone stent alleviated her symptoms markedly and
+because of this, she was considered for reoperation.
+
+
+Past Medical History:
+Tracheobronchomalacia s/p tracheobronoplasty with mesh [**5-/3477**]
+Recurrent Bronchomalacia
+Hypercholesterolemia
+Multiple sclerosis
+Urinary incontinence
+Tremors
+Postmenopausal
+Tonsillectomy
+Appendectomy
+Hysterectomy
+
+
+Social History:
+She works as a  respiratory therapist in the past, currently on
+disability
+Lives with her husband
+
+Family History:
+non-contributory
+
+Physical Exam:
+General: 54 year-old well-appearing female in no acute distress
+HEENT: normocephalic, mucus membranes mosit
+Neck:  supple no lymphadenopathy
+Card:  regular, rate & rhythm, normal S1,S2 no murmur/gallop or
+rub
+Resp:  decreased breath sounds  ---
+GI: bowel  sounds positive, abdomen soft
+non-tender/non-distended
+Extre: warm no edema
+Wound:  clean, dry intact
+Neuro: non-focal
+
+
+Pertinent Results:
+[**3478-10-20**] WBC-16.3* RBC-3.68* Hgb-11.3* Hct-32.3* Plt Ct-233
+[**3478-10-20**] Glucose-86 UreaN-13 Creat-0.8 Na-135 K-4.1 Cl-98
+HCO3-26
+
+Pathology Examination: SPECIMEN SUBMITTED:  FS Right Lower Lobe
+Nodule.
+DIAGNOSIS:
+Lung, right lower lobe: Lung parenchyma with subpleural
+fibrosis, focal alveolar lining reactive changes, and scar.
+Clinical:  Tracheal bronchomalacia.
+
+
+Brief Hospital Course:
+Mrs. [**Known patient lastname 9877**] was admitted on [**3478-10-9**] with increased shortness of
+breath and cough and underwent a flex bronchoscopy which
+revealed recurrent severe distal tracheobronchomalacia.
+Pulmonary was consulted and recommenced increasing her Nexium to
+40 mg [**Hospital1 **] and Flovent and Serevent.  GI was consulted and
+recommended aggressive reflux management.  On HD #2 her cough
+and wheezes persisted and she was started on pulse steroids.
+ENT was consulted to assess her vocal cords which was normal.
+Her symptoms improved slightly and underwent a rigid
+bronchoscopy and silicone stent placement on HD #6.  Her
+respiratory status continued to improved and the stent was
+removed on HD#8.  On HD #9 ([**3478-10-18**]) she underwent successful
+Redo right thoracotomy, Removal of previous bronchoplasty Marlex
+mesh, Suture bronchoplasty of the right bronchus intermedius,
+coverage with a pleural flap buttress, flexible bronchoscopy and
+right lower lobe wedge resection. Post-operative pain was
+controlled with an epidural catheter which was later switched to
+a PCA. Two chest tubes were placed intraoperatively. Pt was
+extubated [**10-18**] and remained in the ICU post-operatively and was
+oxygenating well with a face mask. Pt was advanced to a regular
+diet on [**10-20**], was transferred out of the ICU to a regular floor
+bed, the chest tube was removed and the chest [**Doctor Last Name **] drain was
+placed to bulb suction. During the night of [**12-10**] pt had a
+decreased respiratory rate and oxygenation due to over
+narcotization and was given Narcan, supplemental O2, and a
+nebulizer with good effect. On [**10-21**] the pt underwent a flexible
+bronchoscopy which showed normal clearing airways. Pt was
+switched to oral pain medication on [**10-22**], supplemental oxygen
+was weaned, [**Doctor Last Name **] drain was removed, and central venous line was
+removed. peri-operative Levofloxacin and Vancomycin were
+completed on [**10-25**]. Pt was discharged on [**10-26**] tolerating a
+regular diet, pain well controlled with oral medication, and
+ambulating without assistance.
+
+Medications on Admission:
+-Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO QID (4 times
+a day).
+-Conjugated Estrogens 0.625 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+-Hydrochlorothiazide 25 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+-Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+-Cymbalta 1tab QHS
+-Betaseron 1cc QOD
+-Ambien CR PRN QHS
+-Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed.
+-B-Complex with Vitamin C Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+-Vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+-Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day).
+-Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+-Salmeterol 50 mcg/Dose Disk with Device Sig: One (1) Disk with
+Device Inhalation Q12H (every 12 hours).
+-Ditropan XL 10 mg Tab,Sust Rel Osmotic Push 24hr Sig: One (1)
+Tab,Sust Rel Osmotic Push 24hr PO once a day.
+-Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO BID -30 MIN BEFORE B-FAST AND
+DINNER ().
+-Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+as needed for asthma.
+- Potassium 90mg. Two QAM
+- ASA 81 QDay
+
+Discharge Medications:
+1. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO QID (4
+times a day).
+2. Conjugated Estrogens 0.625 mg Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+3. Hydrochlorothiazide 25 mg Tablet Sig: 0.5 Tablet PO DAILY
+(Daily).
+4. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+5. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed.
+6. B-Complex with Vitamin C     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+7. Vitamin E 400 unit Capsule Sig: One (1) Capsule PO DAILY
+(Daily).
+8. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+9. Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff
+Inhalation [**Hospital1 **] (2 times a day).
+10. Salmeterol 50 mcg/Dose Disk with Device Sig: One (1) Disk
+with Device Inhalation Q12H (every 12 hours).
+11. Ditropan XL 10 mg Tab,Sust Rel Osmotic Push 24hr Sig: One
+(1) Tab,Sust Rel Osmotic Push 24hr PO once a day.
+12. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO BID -30 MIN BEFORE  B-FAST
+AND DINNER ().
+13. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily) as needed for asthma.
+14. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID
+(2 times a day).
+15. Zantac 150 mg Capsule Sig: One (1) Capsule PO once a day.
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+17. Prednisone 5 mg Tablet Sig: One (1) Tablet PO once a day as
+needed for asthma: [**10-26**]: 2 tabs (10mg)
+[**10-27**]: 1 tab (5mg)
+[**10-28**]: 1 tab (5mg).
+Disp:*4 Tablet(s)* Refills:*0*
+18. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for pain.
+19. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+every 4-6 hours as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+20. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Tracheobronchomalacia s/p tracheobronoplasty with mesh
+Hypercholesterolemia
+Multiple sclerosis
+Urinary incontinence
+Tremors
+Postmenopausal
+Tonsillectomy
+Appendectomy
+Hysterectomy
+
+
+Discharge Condition:
+Good
+
+
+Discharge Instructions:
+Call Dr.[**Name (NI) 2211**] office if experience while here in [**Location (un) 268**]
+-Fever >101 or chills
+-Increased shortness of breath, cough or sputum production
+-Chest pain
+-Incision develops drainage
+Chest-tube site cover with a bandaid.  Should site begin to
+drain cover with a clean dressing and change as needed to keep
+site clean and dry.
+No driving while taking narcotics
+No bathing or swimming for 6 weeks
+
+Followup Instructions:
+Follow-up with Dr. [**Last Name (STitle) **]. Please call [**Telephone/Fax (1) 181**] to
+schedule a follow-up appointment
+Follow-up with your pulmonologist in [**State **]
+
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,202 @@
+CVICU
+   HPI:
+   HD2   POD 1-CABGx3 (LIMA to LAD, SVG to OM, SVG to PDA)
+   Ejection Fraction:55
+   Hemoglobin A1c:6
+   Pre-Op Weight:213.84 lbs   97 kgs
+   Baseline Creatinine:1
+   PMHx: Hypothyroidism, Hypertension, Palpitations/PVCs, L1-5, S1
+   herniations- no stenosis, Appendectomy age 16
+   [**Last Name (un) 500**]: Norvasc 10 mg po daily, Toprol XL 50mg po daily, Levothyroxine 50
+   mcg daily, Pantoprazole 40mg po daily, ASA 325mg po daily, MVI daily,
+   Coenzyme Q 10 daily, Fish oil, Vit E, Albuterol PRN, Metamucil
+   Chief complaint:
+   PMHx:
+   Current medications:
+   Acetaminophen 5. Albuterol 0.083% Neb Soln 6. Aspirin EC 7. Calcium
+   Gluconate 8. CefazoLIN 9. Dextrose 50% 10. Docusate Sodium 11.
+   Furosemide 12. Furosemide 13. HYDROmorphone (Dilaudid) 14.
+   HYDROmorphone (Dilaudid) 15. Insulin 16. Levothyroxine Sodium 17.
+   Magnesium Sulfate 18. Metoclopramide 19. Metoprolol Tartrate 20. Milk
+   of Magnesia 21. Morphine Sulfate 22. Nitroglycerin 23. Pantoprazole 24.
+   Phenylephrine 25. Pneumococcal Vac Polyvalent 26. Potassium Chloride
+   27. Sodium Chloride 0.9% Flush 29. Sodium Chloride Nasal 30. TraMADOL
+   (Ultram)
+   24 Hour Events:
+ OR RECEIVED - At [**3077-11-28**] 01:31 PM
+   cabg x3
+ ARTERIAL LINE - START [**3077-11-28**] 01:31 PM
+ INTUBATION - At [**3077-11-28**] 01:32 PM
+   pt recieved intuabted from the OR
+ INVASIVE VENTILATION - START [**3077-11-28**] 01:32 PM
+ MULTI LUMEN - START [**3077-11-28**] 01:32 PM
+ EKG - At [**3077-11-28**] 01:54 PM
+ NASAL SWAB - At [**3077-11-28**] 01:54 PM
+ EXTUBATION - At [**3077-11-28**] 05:07 PM
+   cuff leak present
+ INVASIVE VENTILATION - STOP [**3077-11-28**] 05:07 PM
+   Post operative day:
+   POD#1 - cabg x3
+   Allergies:
+   Sulfa (Sulfonamide Antibiotics)
+   Rash;
+   Lipitor (Oral) (Atorvastatin Calcium)
+   myalgias;
+   Last dose of Antibiotics:
+   Cefazolin - [**3077-11-29**] 10:00 AM
+   Infusions:
+   Other ICU medications:
+   Insulin - Regular - [**3077-11-28**] 10:30 PM
+   Morphine Sulfate - [**3077-11-29**] 05:02 AM
+   Furosemide (Lasix) - [**3077-11-29**] 12:55 PM
+   Other medications:
+   Flowsheet Data as of  [**3077-11-29**] 04:18 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**80**] a.m.
+   Tmax: 37.3
+C (99.1
+   T current: 36.9
+C (98.5
+   HR: 80 (58 - 98) bpm
+   BP: 119/54(71) {85/46(58) - 157/75(238)} mmHg
+   RR: 25 (13 - 33) insp/min
+   SPO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 69 Inch
+   CVP: 10 (4 - 20) mmHg
+   Total In:
+                                                                  4,346 mL
+                                                                  2,360 mL
+   PO:
+                                                                    360 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  4,346 mL
+                                                                  2,000 mL
+   Blood products:
+   Total out:
+                                                                  1,453 mL
+                                                                  1,794 mL
+   Urine:
+                                                                  1,113 mL
+                                                                    874 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,893 mL
+                                                                    566 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 93%
+   ABG: 7.44/40/75/25/2
+   PaO2 / FiO2: 107
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact), left EVH ace wrap
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   154 K/uL
+   10.9 g/dL
+   115 mg/dL
+   1.1 mg/dL
+   25 mEq/L
+   4.1 mEq/L
+   17 mg/dL
+   112 mEq/L
+   143 mEq/L
+   30.7 %
+   9.3 K/uL
+        [image002.jpg]
+                             [**3077-11-28**]  01:53 PM
+                             [**3077-11-28**]  02:10 PM
+                             [**3077-11-28**]  04:57 PM
+                             [**3077-11-28**]  07:09 PM
+                             [**3077-11-29**]  03:32 AM
+                             [**3077-11-29**]  03:47 AM
+                             [**3077-11-29**]  05:00 AM
+                             [**3077-11-29**]  06:37 AM
+                             [**3077-11-29**]  12:03 PM
+                             [**3077-11-29**]  12:59 PM
+   WBC
+   9.6
+   9.3
+   Hct
+   35.1
+   35.5
+   30.4
+   31.8
+   30.7
+   Plt
+   128
+   154
+   Creatinine
+   1.0
+   1.1
+   TCO2
+   29
+   28
+   28
+   Glucose
+   115
+   111
+   90
+   115
+   Other labs: PT / PTT / INR:13.5/28.0/1.2, Fibrinogen:397 mg/dL
+   Assessment and Plan
+   CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: 69 y.o. s/p CABGx3 (LIMA to LAD, SVG to OM, SVG to
+   PDA) [**11-28**]
+   Neurologic: Pain controlled, Percocet PRN
+   Cardiovascular: Aspirin, Beta-blocker, Post Hypertension --> start beta
+   blockers and wean NTG gtt off this AM; Reaction to statins.
+   Pulmonary: Extubated successfully overnight --> OOB / IS / Pt consult.
+   Gastrointestinal / Abdomen: standard bowel regimen
+   Nutrition: Advance diet as tolerated
+   Renal: Foley, Adequate UO, start lasix [**Hospital1 **] for goal 1 liter negative
+   today.
+   Hematology: Mild anemia Post-op --> cont to follow.
+   Endocrine: RISS
+   Infectious Disease: Periop Cefazolin; Afebrile.
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Post-op hypertension
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3077-11-28**] 01:31 PM
+   Multi Lumen - [**3077-11-28**] 01:32 PM
+   20 Gauge - [**3077-11-29**] 11:45 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 32 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

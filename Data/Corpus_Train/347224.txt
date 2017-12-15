@@ -1,0 +1,261 @@
+TITLE:
+   Chief Complaint:  Altered mental status
+   HPI:
+   62M PMH CAD s/p CABG, DM2, HTN, CRF (baseline Cr 2.0), depression with
+   past suicide attempt presenting with acute mental status change. The
+   patient was unable to give a clear history due to altered mental
+   status. Per his case manager [**Female First Name (un) 6731**] through [**Street Address(1) 6732**] Inn and
+   his partner, [**Name (NI) 6733**] [**Name (NI) 6734**], he has been "sick" for the last two months,
+   with complaints of abdominal pain, nausea, vomiting, and dermatologic
+   lesions. He has been evaluated by his primary care physician over the
+   past few months for these complaints and per report had an MRI abdomen
+   at the VA that was unrevealing. Both his case manager and partner last
+   saw him three days prior to admission and state that his mental status
+   was at baseline at that time, AAOx3 and independent with IADLs.  His
+   case manager saw him this morning and sent him to the ED for confusion.
+   In the ED: 98.7 165/93 99 18 100% RA. His initial FS was 393. Blood
+   cultures were sent. The patient was found to have a large erythematous
+   hard collection on his left shoulder and multiple small pustules. An
+   U/S of the back did not show a fluid collection. He was started
+   empirically on Vancomycin 1 gm and Unasyn 3 gm IV. His K was 5.9 and
+   patient was given Ca gluconate, 10U insulin & [**1-10**] amp of D50 and
+   kayexalte. A urine tox was sent and the patient was transferred to the
+   floor.
+   On the floor: VS 100.5 158/114 114 18 98%RA.  The patient was found to
+   be extremely lethargic and minimally responsive.  He was able to answer
+   yes/no questions.  He was given 10U insulin.  Initial
+   VBG:7.36/27/40/16, ABG:7.51/18/101/15.  CXR was performed.  Foley was
+   placed and drained 1.7L.
+   On arrival to the unit, the patient was initially minimally responsive,
+   however, he was subsequently responsive to voice and answering yes/no
+   questions, however,  oriented only x 1.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Encephalopathy
+   Allergies:
+   Atenolol
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Insulin - Regular - 6 units/hour
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p CABG x 5 [**12/3420**]
+   DM2
+   HTN
+   Hypercholesterolemia
+   Depression (suicide attempt [**3409**])
+   Vertigo
+   BPH
+   Penile implant [**3419**]
+   Sciatica
+   GERD
+   From previous d/c summary:
+   There is no family history of premature coronary artery disease or
+   sudden death. Father has hx of DM, died at age 89. Mother has hx of
+   skin ca.
+   Occupation: Unknown
+   Drugs: History of cocaine abuse
+ denied IVDU previously
+   Tobacco: History
+ no current use
+   Alcohol: 2 drinks/week per previous notes, although history of abuse
+   not abusing currently per partner
+   [**Name (NI) **]: Lives in independent housing associated [**Street Address(1) 6735**] Inn.
+   Review of systems: Unable to obtain due to mental status.
+   Flowsheet Data as of [**3421-12-12**] 11:34 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 37.1
+C (98.7
+   HR: 107 (102 - 107) bpm
+   BP: 166/109(121) {162/100(114) - 167/109(121)} mmHg
+   RR: 21 (19 - 24) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+             1,225 mL
+   PO:
+             TF:
+   IVF:
+   225 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    640 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    585 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///14/
+   Physical Examination
+   General Appearance: No acute distress
+   Eyes / Conjunctiva: Sclera anicteric, PERRL, not cooperative for
+   cranial nerve examination, MMM
+   Cardiovascular: (S1: Normal), (S2: Normal), no murmurs, rubs, or
+   gallops
+   Peripheral Vascular: (Right radial pulse: 2+), (Left radial pulse: 2+),
+   (Right DP pulse: 2+), (Left DP pulse: 2+)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, normoactive bowel sounds, nondistended, tenderness to
+   deep palpation throughout, no rebound/guarding
+   Extremities: No clubbing, cyanosis, or edema
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm; large erythematous, weeping lesion over left shoulder
+   blade demarcated with skin marker; small crusted papules on left arm
+   Neurologic: Responds to: Verbal stimuli, Cranial nerves II through XII
+   intact, Movement: Purposeful, Reflexes 2+ biceps/Patella
+   Labs / Radiology
+   422 K/uL
+   12.3 g/dL
+   283 mg/dL
+   3.3 mg/dL
+   72 mg/dL
+   14 mEq/L
+   112 mEq/L
+   5.7 mEq/L
+   136 mEq/L
+   34.2 %
+   16.8 K/uL
+        [image002.jpg]
+                                  [**3419-1-11**]
+                          2:33 A12/3/[**3421**]  09:06 PM
+                                  [**3419-1-15**]
+                                   10:20 P
+                                  [**3419-1-16**]
+                                   1:20 P
+                                  [**3419-1-17**]
+                                   11:50 P
+                                  [**3419-1-18**]
+                                   1:20 A
+                                  [**3419-1-19**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3419-2-11**]
+                                   1:20 P
+                                  [**3419-2-11**]
+                                   11:20 P
+                                  [**3419-2-11**]
+                                   4:20 P
+   WBC
+                                    16.8
+   Hct
+                                    34.2
+   Plt
+                                     422
+   Cr
+                                     3.3
+   Glucose
+                                     283
+   Other labs: PT / PTT / INR:15.7/33.0/1.4, Ca++:8.2 mg/dL, Mg++:2.1
+   mg/dL, PO4:3.6 mg/dL
+   Assessment and Plan
+   62M PMH CAD s/p CABG, DM2, HTN, CRF (baseline Cr 2.0), depression with
+   past suicide attempt presenting with altered mental status.
+   # Altered Mental Status: Unclear etiology and broad differential.
+   Low-grade temperature and leukocytosis suggest infection, although
+   stress response is also possible.  Most likely etiology of infection
+   would be intra-abdominal process versus cellulitis
+ chest x-ray,
+   urinalysis negative.  Unlikely to be meningitis.  Medication overdose
+   also likely, intentional or unintentional
+ tox screens positive for
+   tricyclics, otherwise unrevealing.  Uremia and metabolic derangements
+   contributing.  Patient is hyperglycemic but there is no indication of
+   ketoacidosis or HONK.  Calcium, liver function tests normal.
+   - Continue vancomycin and start zosyn for now for empiric coverage of
+   skin and abdominal pathogens
+   - CT head and torso without contrast
+   - Toxicology curbside
+ monitor EKG for QRS widening which would
+   suggest tricyclic overdose
+   - Hold all sedating medications
+   - NPO for now
+   - Continue to monitor
+   - Consider HIV test when patient able to consent
+   .
+   # Acute on chronic renal failure: Baseline creatinine is 2.0 and 4.0 on
+   admission.  A Foley was placed and patient drained 1.7L.  Could
+   represent post-obstructive physiology given history of BPH.  Urine
+   electrolytes not indicative of a prerenal etiology.
+   - CT abdomen/pelvis
+   - Urine eosinophils pending
+   - Renally dose medications and avoid nephrotoxins
+   - Continue to trend
+   - Consider renal consult in the morning if no improvement
+   # Acid base status: Patient has primary respiratory alkalosis with
+   non-gap metabolic acidosis of unclear etiology.  Consider CNS lesion or
+   medications for respiratory alkalosis
+ unlikely hepatic failure or
+   sepsis.  Most likely etiology of metabolic acidosis is early renal
+   disease versus ingestion versus intra-abdominal process; no history of
+   diarrhea.
+   - D5 with 3 amps bicarbonate x 1 L
+   - CT head and torso without contrast
+   - Monitor closely
+   # Left shoulder lesion:  Unclear etiology
+ per patient
+s partner,
+   there is no history of trauma and the lesion has been progressively
+   worsening over weeks.  He also has a number of smaller lesions on his
+   left arm that may represent excoriations.
+   - Consider dermatology consult for further evaluation
+   - Wound care
+   # Elevated lipase: Normal amylase.  [**Month (only) 56**] be elevated in the setting of
+   acute renal failure.  The patient does not clinically have
+   pancreatitis.
+   - Continue to monitor
+   # Type 2 diabetes: Currently not controlled.
+   - Insulin gtt overnight
+   #Hyperkalemia: In the setting of ARF.  No EKG changes.
+   - Patient received kayexalate in the ED
+   - Monitor
+   # Coagulopathy: Unclear etiology
+ likely due to nutritional deficiency
+   since low albumin as well.  No signs or symptoms of active bleeding.
+   - Consider vitamin K PO if mental status improves
+   # Coronary artery disease: Status post CABG in [**3420**].  No ischemic
+   changes on EKG.
+   - Will give metoprolol IV overnight
+   - Consider rectal aspirin in the morning if mental status not improved
+   - Unclear regimen; will clarify regimen with home pharmacy in the
+   morning
+   # Hypertension: Currently hypertensive.  Unclear home regimen.
+   - Metoprolol 10 mg IV Q6H
+   - Will clarify regimen with home pharmacy in the morning
+   # Depression: Unclear home regimen.
+   - Would hold all medications in the setting of altered mental status,
+   but will clarify regimen with home pharmacy in the morning
+   ICU Care
+   Nutrition: NPO; consider NG tube if mental status continues altered
+   Glycemic Control: Insulin gtt
+   Lines:
+   18 Gauge - [**3421-12-12**] 09:01 PM
+   20 Gauge - [**3421-12-12**] 09:30 PM
+   Prophylaxis:
+   DVT: Heparin SC
+   Stress ulcer: Protonix IV
+   VAP: N/A
+   Comments:
+   Communication:  Comments:
+   Code status: Full
+   Disposition: ICU for now
+
+
+
+DOC CLASS

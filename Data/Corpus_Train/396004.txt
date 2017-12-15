@@ -1,0 +1,235 @@
+Chief Complaint:  Shortness of breath, desaturation
+   HPI:
+   This is a 50 year old woman with a history of T2 paraplegia and
+   recurrent pneumonias who was recently found to have pneumonia and
+   started on levofloxacin who presents with SOB and desaturation in the
+   80s at home.
+   Several days ago she developed shortness of breath, worsening and
+   productive cough and elevated temp and presented to her PCP's office
+   where a CXR was consistent with pneumonia. She was started on
+   levofloxacin and continued treatment at home. She uses 02 at home and
+   has oxygen saturation monitor. Yesterday, one day after treatment
+   started, she complained of worsening shortness of breath and her O2 sat
+   decreased to 80s, while at room air. Also noted fever at 101. Her
+   husband noted that she and lethargic. She presented to ED where she was
+   noted to have a low blood pressure (SBP 70s, HR 94) and new TW
+   inversions on lateral leads. First set CE was negative. She underwent
+   central line placement and was given intravenous fluid ressucitation.
+   Subsequently her SBP was noted in the 100s. Her oxygen saturations
+   remained stable in mid to high 90s on 3 Lt, RR 20. CXR showed RLL
+   infiltrate and although she did not have leukocytosis (WBC 9) she had
+   80% PMNs and 10% lymphs.  She was given vancomycin and pip/tazo as
+   empirical treatment for CAP that failed to symptomatically improve with
+   outpaitne levofloxacin therapy.
+   She was admitted at [**Hospital1 **] (MICU then wards) one month ago with these same
+   symptoms, i.e. dyspnea, hypoxia, and hypotension. She was diagnosed
+   with HAP and treated with vanc and pip/tazo through a PICC line which
+   was discontinued on discharge. She was given a brief course of
+   norepinephrine while in the MICU.
+   On the floor, she is denies any symptoms and feels comfortable.
+   Review of sytems:
+   (+) Per HPI , paraplegic, intermittent self caths.
+   (-) Denies recent weight loss or gain. Denies headache, sinus
+   tenderness, rhinorrhea or congestion. Denied cough, shortness of
+   breath. Denied chest pain or tightness, palpitations. Denied nausea,
+   vomiting, diarrhea, constipation or abdominal pain. No recent change in
+   bowel or bladder habits.
+   Patient admitted from: [**Hospital1 5**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   - confirmed with patient
+   1. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as
+   needed for muscle spasms.
+   2. Citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+   3. Methadone 5 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).
+   4. Levothyroxine 75 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+   5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+   Capsule, Delayed Release(E.C.) PO BID (2 times a day).
+   6. Pregabalin 75 mg Capsule Sig: [**1-2**] Capsules PO TID (3 times a day):
+   Please take 150mg in the morning and at night. Please take 75mg in the
+   afternoon.
+   7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet,
+   Chewable PO three times a day.
+   8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as
+   needed for constipation.
+   9. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times
+   a day).
+   10. Polyethylene Glycol 3350 100 % Powder Sig: One (1)  PO DAILY
+   Daily).
+   11. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO QHS (once a day (at
+   bedtime)) as needed for anxiety.
+   12. Oxycodone acetaminophen 5/325 every eight hrs prn pain
+   13. trazodone 50 mg qhs prn insomnia
+   Past medical history:
+   Family history:
+   Social History:
+   1. T1-T2 paraplegia following MVC [**12-3**]
+   2. Recurrent UTIs
+   3. HCV, viral load suppressed after 3 months of therapy
+   4. H/o recurrent PNAs
+   5. Anxiety
+   6. DVT in [**3418**] -IVC filter placed in [**3418**]
+   7. Pulmonary nodules
+   8. Hypothyroidism
+   9. Chronic pain
+   10. Chronic gastritis
+   11. H/o obstructive lung disease
+   12. Anemia of chronic disease
+   NC
+   The patient currently lives at home wiht her husband and 2 children,
+   ages 15 and 22. Former 35 packyear smoker. Denies current tobacco or
+   alcohol use.
+   Review of systems:
+   Flowsheet Data as of [**3424-5-14**] 02:54 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   HR: 62 (62 - 63) bpm
+   BP: 121/79(88) {116/78(87) - 121/79(88)} mmHg
+   RR: 18 (16 - 19) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  3,000 mL
+   PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,500 mL
+   Urine:
+   100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  1,500 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   Physical Examination
+   General: Alert, oriented x 3, no acute distress, breathing comfortably,
+   tired-appearing
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: decreased BS at L base, no wheezes, rales, ronchi
+   CV: Irregularly irregular, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen: soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Neuro: CNs II-XII grossly intact, slow finger-to-nose, [**5-4**] motor
+   strength throughout, intact sensation to light touch
+   Labs / Radiology
+   145
+   0.5
+   12
+   30
+   98
+   4.3
+   135
+   32
+   9.1
+        [image002.jpg]
+   Other labs: PT / PTT / INR:16.5/57.8/1.5, CK: 27  MB: Notdone  Trop-T:
+   <0.01  , Lactic Acid:1.0 mmol/L
+   Fluid analysis / Other labs:  N:86.4 L:10.5 M:2.3 E:0.3 Bas:0.5
+   Imaging: CXR: RLL infiltrate, unchanged from [**4-8**]
+   Microbiology: [**3424-5-14**] Sputum, blood, urine PND
+   [**3-8**] sputum with rare GNR
+   [**3424-3-16**] URINE with KLEBSIELLA PNEUMONIAE (bactrim, pip tazo,
+   meropenem sensitive)
+   ECG: TWi in V2,3,4 new vs [**4-8**]; flat tw in II, III, aVF
+   Assessment and Plan
+   This is a 50 year old woman with a history of T2 paraplegia and
+   recurrent pneumonias who was recently found to have pneumonia and
+   started on levofloxacin who presents with dyspnea and oxygen
+   desaturation.
+   # Fever, SOB, hypoTN, desaturation, CXR evidence of infiltrate: Likely
+   CAP in the background of recurrent pulmonary infections. Note that her
+   CXR appears unchanged compared to one month ago, but her symptoms and
+   past history are suggestive on PNA. She did not have recurrent PNAs
+   prior to her MVA, suggesting that her predisposing factor is poor
+   clearance of secretions in setting of T2 paraplegia. Has had pneumovax
+   and flu shot; both several months ago. In addition, the history of
+   smoking suggests an underlying COPD like picture which may also
+   predispose her to recurrent infection. Alternatively, micro aspiration
+   may be contributing. H/O of pulmonary nodules, but of unclear relevance
+   in this presentation (very low concern for malignancy).  CHF, PE highly
+   unlikely. Since her symptoms became worse despite levofloxacin will
+   treat with broad spectrum abx untill further speciation (sputum cx,
+   blood cx, urine legionella sent). Will continue vanc and pip/tazo and
+   tailor based on cx. If no growth will treat with levo for 7 days. Will
+   continue 02 prn for O2 sats >90. Monitor RR and mental status, if
+   fatigued or cannot protect a/w will intubate. Given coarseness on exam
+   will add nebs and expectorant. IVF as needed to keep MAP >65. S/S c/s.
+   Currently no evidence of SIRS. If fluid unresponsive (as per past
+   history), neosynephrine.
+   # TW inversion in anterior leads, in otherwise asymptomatic patient:
+   Unlikely ACS. Will romi with three sets and ECG.
+   # h/o DVT in [**3418**] s/p IVC filter placed in [**3418**]: SQ heparin ppx
+   # Normocytic anemia (baseline 25-30): HCT 32 and stable at
+   presentation.
+   # Chronic pain: continue methadone and prn oxycodone; both with holding
+   parameters
+   # Hypothyroidism: Continue Levothyroxine.
+   # Depression: continue citalopram
+   # Constipation: senna docussate miralax
+   # FEN: PRN IVF, replete electrolytes, regular diet
+   # Prophylaxis: Subcutaneous heparin
+   # Access: peripherals
+   # Code: Full
+   # Communication: Patient
+   # Disposition: Call out.
+   [**Name6 (MD) **] [**Name8 (MD) **], MD. PhD.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3424-5-14**] 01:54 PM
+   20 Gauge - [**3424-5-14**] 01:55 PM
+   Prophylaxis:
+   DVT: hep SC
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:  FULL
+   Disposition:  Call out
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 50F T2 paraplegia, recurrent pneumonia, p/w
+   fevers (101) and progressive hypoxemia with RA sat down to mid 80s. SBP
+   80s in ED - CVL placed, given 2L IVF with resolution of hypotension.
+   CXR c ? RLL infiltrate - mostly chronic changes.
+   Exam notable for Tm 97.8 BP 118/77 HR 76 RR 18 with sat 96 on 2L. WD
+   woman, JVD 8cm. Coarse BS B. RRR s1s2. Soft +BS, trace edema. Labs
+   notable for WBC 9K, HCT 32, K+ 4.3, Cr 0.5. CXR with chronic RLL
+   changes.
+   Agree with plan to manage likely pneumonia with vanco / zosyn, but
+   would narrow this quickly if CXR does not progress and cultures are
+   negative. BP has resolved with fluid resuscitation; will check CVP,
+   CvO2, and f/u lactate but looks euvolemic on exam. Will continue CPT
+   and try a flutter valve to help with mobilization of secretions. Her
+   chronic lung disease is not well quantified - chronic elevation in HCO3
+   with risks for both obstructive and restrictive disease. Will notify
+   PCP of admission and continue remainder of home meds. Remainder of plan
+   as outlined above.
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 98**] [**Last Name (NamePattern1) 730**], MD
+   on:[**3424-5-14**] 04:50 PM ------
+
+
+
+DOC CLASS

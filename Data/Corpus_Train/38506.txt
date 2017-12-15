@@ -1,0 +1,271 @@
+Admission Date:  [**3072-4-30**]              Discharge Date:   [**3072-5-23**]
+
+Date of Birth:  [**3005-2-10**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+Right foot infection
+
+Major Surgical or Invasive Procedure:
+Right foot incision and drainage with hallux debridement
+
+left heart catheterization,coronary angiogram
+
+mitral valve repair(26mm Ring), coronary artery bypass
+x2(LIMA-LAD,SVG-OM1)
+
+History of Present Illness:
+This 67 year old black  female with infected right hallux/1st
+metatarsal ulceration.  Patient has been receiving care from
+outside podiatrist on a monthly basis. She also has a stable sub
+1st met ulceration on the left foot.
+The patient states that four days ago, she noticed drainage and
+a
+malodor from her right big toe.  Patient has had partial hallux
+amputations done at [**Hospital6 2685**] "years ago."  She
+denies any nausea, vomiting, fever, or chills.
+
+
+Past Medical History:
+insulin dependent diabetes mellitus
+hypertension
+depression
+hypercholesterolemia
+chronic feet infections
+coronary artery disease
+mitral regurgitation
+s/p multiple foot operations/resections
+diabetic retinopathy
+diabetic neuropathy
+
+Social History:
+Lives at home.  No alcohol, tobacco, illicit drugs
+
+Family History:
+N/C
+
+Physical Exam:
+PHYSICAL EXAM
+Tc:98.4  Rate:84    BP: 115/48  RR: 17 P02:100% RA Appearance:
+AAO x 3 in NAD
+HEENT: EOMI, NC/AT
+Heart: RRR
+Lungs: CTAB
+Abdomen: Obese, soft, non-tender
+VASCULAR
+Pedal Pulses:      [] Palpable  [x] Non-palpable
+Sub-Papillary VFT: [] < 3 sec.  [x] > 3 sec. [] Immediate
+Extremities:       [x] pitting edema  [] non-pitting edema
+                   [] Anasarca
+NEUROLOGICAL       Sensation:      [] Intact  [x] Absent
+
+
+INTEGUMENT:
+Ulceration(s):     [x] Full thickness   [] Partial thickness
+                   [] Pre/Post-ulcerative  [] Absent
+Location:          [] Heel   [] Midfoot  [x] Forefoot [] Digital
+Malleolar Size:
+Drainage:          [] Serous  [x] Sanguineous [x] Purulent
+                   [] Absent
+Base:              [] Granular  [] Fibrous  [] Eschar
+                   [x] Tendon/Capsule/Bone
+Margins:           [] Regular   [x] Irregular [x] Hyperkeratotic
+                   [] Macerated [] Thin/Atrophic
+Qualities:         [x] Undermines  [x] Tracks [x] Probes to bone
+                   [x] Malodorous
+
+
+Pertinent Results:
+[**3072-4-30**] 01:30PM BLOOD WBC-12.8* RBC-3.52* Hgb-9.2* Hct-28.8*
+MCV-82 MCH-26.1* MCHC-32.0 RDW-14.5 Plt Ct-430
+[**3072-5-1**] 06:30AM BLOOD WBC-12.5* RBC-3.29* Hgb-8.4* Hct-26.5*
+MCV-81* MCH-25.6* MCHC-31.7 RDW-14.3 Plt Ct-426
+[**3072-4-30**] 01:30PM BLOOD Glucose-163* UreaN-38* Creat-1.4* Na-134
+K-4.8 Cl-99 HCO3-24 AnGap-16
+[**3072-5-1**] 06:30AM BLOOD Glucose-123* UreaN-43* Creat-1.5* Na-135
+K-5.3* Cl-100 HCO3-25 AnGap-15
+[**3072-5-23**] 05:25AM BLOOD WBC-12.7* RBC-3.58* Hgb-9.9* Hct-29.2*
+MCV-82 MCH-27.6 MCHC-33.7 RDW-16.5* Plt Ct-278
+[**3072-5-23**] 05:25AM BLOOD PT-15.6* INR(PT)-1.4*
+[**3072-5-18**] 02:19PM BLOOD PT-17.3* PTT-52.9* INR(PT)-1.5*
+[**3072-5-18**] 12:47PM BLOOD PT-17.8* PTT-47.2* INR(PT)-1.6*
+[**3072-5-22**] 05:15AM BLOOD Glucose-82 UreaN-60* Creat-1.5* Na-133
+K-4.3 Cl-99 HCO3-24 AnGap-14
+[**3072-5-23**] 05:25AM BLOOD UreaN-56* Creat-1.4* Na-134 K-4.1 Cl-100
+[**3072-5-16**] 05:40AM BLOOD Glucose-59* UreaN-47* Creat-1.2* Na-139
+K-4.2 Cl-98 HCO3-32 AnGap-13
+
+Brief Hospital Course:
+She presented to the Emergency Room on [**3072-4-30**] with a right foot
+infection.  Her WBC was 12.8, and clinically her wound was
+swollen with purulent drainage.  An aggressive bedside
+debridement was performed, and cultures were taken that grew
+mul;tiple organisms.  Xrays did not show gas, but vascular
+calcifications were seen.  There was no cortical involvement
+noted.  She was admitted to the podiatry service with IV
+antibiotics, NPO status, and plans for OR debridement on
+[**3072-5-1**].
+
+On [**5-1**], the patient underwent a right hallux debridement.  The
+base of the proximal phalanx was removed, and the patient
+tolerated the procedure well.  She was transferred to the PACU
+with vital signs stable.  The medicine department was consulted
+for co-management of her creatinine/renal status.  The patient's
+creatinine responded with IV fluids, although it appears that
+her baseline may now be 1.3 instead of 0.8 (notes from PCP).  On
+[**5-2**], she had NIVS that showed suboptimal blood flow (monophasic
+DP, PT).  Vascular was consulted for revascularization options.
+From [**Date range (1) 3718**], the patient remained on the floor with vital
+signs stable.  Her dressing was changed daily with a wet to dry
+dressing change. On [**5-5**] at midnight, the patient had bicarb/IVF
+for diagnostic angiogram on [**5-6**].  Angio results indicated that
+a fem-distal bypass would be necessary, for which the patient
+agreed to on the morning of [**5-7**].
+
+She had recurrent episodes of heart failure and nausea while
+here.  Work up eventually revealed coronary disease and
+significnat mitral regurgitation. She underwent mitral repair
+and revascularization on [**5-18**], which was well tolerated.  She
+extubated and tubes and lines were removed per protocol.
+
+She transferred to the floor where she progressed and was reqady
+for discharge. A stay at rehabilitation was deemed appropriate
+for continued IV diuresis and Physical therapy.  The Left foot
+first toe inferiorly and rtigh t great toe amputation site were
+clean and being treated with wet to dry dressing and bactrim
+orally was being given. She remained above her preoperative
+weight and diuretics were continued.
+
+Due to paroxysmal atrial fibrillation, Coumadin was begun with a
+target INR of [**12-19**].5. Followup appointments with Cardiac Surgery
+were made and Dr. [**Last Name (STitle) **] will need to see her in three weeks.
+
+
+Medications on Admission:
+Paroxetine HCL 20 mg qdaily; Lisinopril 80 mg daily; HCTZ 12.5
+mg capsule qdaily; Simvastatin 20 mg qdaily; Calcium Acetate
+
+Discharge Medications:
+1. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+2. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+4. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every four (4)
+hours.
+5. Simvastatin 20 mg Tablet Sig: One (1) Tablet PO at bedtime.
+6. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO three
+times a day.
+7. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO four times a
+day.
+8. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4
+hours) as needed for fever or pain.
+9. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+10. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+11. Polyethylene Glycol 3350 17 gram/dose Powder Sig: One (1)
+PO DAILY (Daily) as needed for constipation .
+12. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO DAILY (Daily) as needed for constipation.
+13. Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1)
+Tablet PO BID (2 times a day).
+14. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+15. Heparin, Porcine (PF) 10 unit/mL Syringe Sig: One (1) ML
+Intravenous PRN (as needed) as needed for line flush.
+16. Coumadin 2.5 mg Tablet Sig: as ordered Tablet PO once a day:
+INR goal 2-2.5. 2.5 mg on [**5-23**] to be given.
+17. Amiodarone 200 mg Tablet Sig: as below Tablet PO twice a
+day: two tablets (400mg) [**Hospital1 **] for 2 weeks, then one (200mg)twice
+daily for two weeks, then one daily.
+18. Furosemide 10 mg/mL Solution Sig: Twenty (20) mg Injection
+twice a day for 2 weeks.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital **] Hospital - [**Hospital1 373**]
+
+Discharge Diagnosis:
+bilateral foot infections/osteomyelitis
+foot debridements
+mitral regurgitation
+coronary artey disease
+insulin dependent diabetes mellitus
+paroxysmal atrial fibrillation
+hypertension
+hyperlipidemia
+depression
+obesity
+diabetic neuropathy
+diabetic retinopathy
+s/p cholecystectomy
+s./p Nissen Fundoplication
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+Discharge Instructions:
+Shower daily including washing incisions gently with mild soap,
+no baths or swimming until cleared by surgeon. Look at your
+incisions daily for redness or drainage.
+No lotions, cream, powder, or ointments to incisions.
+Each morning you should weigh yourself and then in the evening
+take your temperature, These should be written down on the chart
+.
+No driving for approximately one month, until follow up with
+surgeon.
+No lifting more than 10 pounds for 10 weeks.
+Please call with any questions or concerns ([**Telephone/Fax (1) 294**]).
+Females: Please wear bra to reduce pulling on incision, avoid
+rubbing on lower edge of sternal wound.
+
+
+
+**Please call cardiac surgery office with any questions or
+concerns ([**Telephone/Fax (1) 294**]). Answering service will contact on call
+person during off hours.**
+
+
+Followup Instructions:
+You are scheduled for the following appointments
+
+Surgeon: Dr. [**Last Name (STitle) **] on [**6-25**] at 1:15pm
+
+Please call to schedule appointments with:
+
+Primary Care:  Dr. [**First Name4 (NamePattern1) 163**] [**Last Name (NamePattern1) **] ([**Telephone/Fax (1) 2102**]) in [**11-18**] weeks
+Cardiologist:  Dr. [**Last Name (STitle) **] in [**11-18**] weeks
+vascular surgery in 3 weeks.
+
+**Please call cardiac surgery office with any questions or
+concerns ([**Telephone/Fax (1) 294**]). Answering service will contact on call
+person during off hours.**
+
+Labs: PT/INR for Coumadin ?????? indication: paroxysmal atrial
+fibrillation
+
+Goal INR: 2-2.5
+
+First draw:[**5-24**]
+
+
+
+
+
+Completed by:[**3072-5-23**]
+
+
+DOC CLASS

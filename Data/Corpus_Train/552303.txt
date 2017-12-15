@@ -1,0 +1,254 @@
+SICU
+   HPI:
+   75M admitted to OSH for dyspnea, treated for pna with levaquin,
+   developed worsening abd distension/colonic pseudo-obstruction,
+   transferred to [**Hospital1 **].  originally was passing gas with promotility agents,
+   but found to have free air on KUB on [**2-6**].  Treated originally
+   conservatively, but became peritoneal on [**2-8**], so was taken to the OR
+   for ex lap.  found to have cecal perf, now s/p extended R colectomy,
+   end ileostomy ([**2-8**]).  Was extubated on POD #1 but developed worsening
+   resp status POD #2 and was reintubated.  Now with acute on chronic
+   renal failure, persistent resp failure s/p trach.
+   Chief complaint:
+   Respiratory Failure
+   PMHx:
+    1. CVA x 2 s/p left vertebral artery stent in [**3298**]; s/p right
+   carotid endarterectomy and left carotid endarterectomy [**3298**]
+   2. CAD s/p 5 vessel CABG [**3289**], s/p cath in [**1-/3299**] (preop) with stent
+   to SVG-RCA
+   3. HTN
+   4. Prostate cancer last psa 8.2, treated with watchful waiting
+   5. Hep C VL zero in [**3292**]
+   6. hyperlipidemia
+   7. COPD/emphysema
+   8. right upper lobectomy for lung CA, adenocarcinoma [**3291**]
+   9. s/p hernia repair
+   10. thrombosed pseudoaneurysm dxed [**1-/3299**], medically managed
+   11. CRI baseline creatinine 2.5-3.0
+   12. Cavitary RLL abscess/PNA in [**4-19**]- treated with 4 week course
+   of levo/flagyl.
+   13. PVD, s/p R common and external iliac stents.
+   .
+   Current medications:
+   150 mEq Sodium Bicarbonate/ 1000 mL D5W 6. Acetaminophen (Liquid)
+   7. Albuterol 0.083% Neb Soln 8. Albuterol-Ipratropium 9. Albumin 5%
+   (12.5g / 250mL) 10. Amiodarone
+   11. Amiodarone 12. Calcium Gluconate 13. Chlorhexidine Gluconate 0.12%
+   Oral Rinse 14. Fat Emulsion 20%
+   15. Fluticasone Propionate 110mcg 16. HYDROmorphone (Dilaudid) 17.
+   Heparin 18. HydrALAzine 19. Insulin
+   20. Magnesium Sulfate 21. Metoprolol Tartrate 22. Metoprolol Tartrate
+   23. Metoprolol Tartrate 24. Midazolam
+   25. Norepinephrine 26. OxycoDONE-Acetaminophen Elixir 27. Pantoprazole
+   28. Phenylephrine 29. Potassium Chloride
+   30. PredniSONE 31. Salmeterol Xinafoate Diskus (50 mcg) 32. Sodium
+   Chloride 0.9% Flush 33. Sodium Chloride 0.9% Flush
+   34. Sodium Bicarbonate 35. Vancomycin
+   24 Hour Events:
+ EKG - At [**3303-2-15**] 02:30 PM
+   [**2-15**] zosyn flagyl stopped, hypotension to 90s fluid boluses and  albumin
+   given, TPN changed to Nephramine. episode of RVR A-fib rate 140s, 10 mg
+   lopressor, 150 mg bolus amiodarone and amiodarone gtt started,
+   cardiology consulted, bicarb drip started, Trop returned at 0.91, CKMB
+   11, transfused 2 U PRBC, brief levophed gtt weaned, converted to sinus
+   Allergies:
+   Neurontin (Oral) (Gabapentin)
+   Unknown;
+   Last dose of Antibiotics:
+   Metronidazole - [**3303-2-15**] 12:46 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3303-2-15**] 04:22 AM
+   Vancomycin - [**3303-2-15**] 08:45 AM
+   Infusions:
+   Heparin Sodium - 700 units/hour
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Midazolam (Versed) - [**3303-2-15**] 08:45 AM
+   Sodium Bicarbonate 8.4% (Amp) - [**3303-2-15**] 11:04 AM
+   Metoprolol - [**3303-2-15**] 03:00 PM
+   Hydromorphone (Dilaudid) - [**3303-2-15**] 03:45 PM
+   Pantoprazole (Protonix) - [**3303-2-15**] 09:17 PM
+   Other medications:
+   Flowsheet Data as of  [**3303-2-16**] 06:44 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**06**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 37.3
+C (99.1
+   HR: 79 (57 - 140) bpm
+   BP: 141/49(70) {0/0(0) - 0/0(0)} mmHg
+   RR: 30 (20 - 30) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 76 kg (admission): 77 kg
+   Height: 68 Inch
+   CVP: 19 (8 - 273) mmHg
+   Total In:
+                                                                  8,572 mL
+                                                                  1,493 mL
+   PO:
+   Tube feeding:
+                                                                    217 mL
+   IV Fluid:
+                                                                  5,691 mL
+                                                                    917 mL
+   Blood products:
+                                                                    885 mL
+   Total out:
+                                                                  1,311 mL
+                                                                    325 mL
+   Urine:
+                                                                    846 mL
+                                                                    175 mL
+   NG:
+                                                                    240 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  7,261 mL
+                                                                  1,168 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 600 (500 - 600) mL
+   RR (Set): 16
+   RR (Spontaneous): 0
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: RR >35, Hemodynamic Instability
+   PIP: 29 cmH2O
+   SPO2: 97%
+   ABG: 7.26/36/135/15/-9
+   Ve: 17.4 L/min
+   PaO2 / FiO2: 338
+   Physical Examination
+   General Appearance: Cachectic
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Crackles : )
+   Abdominal: Soft
+   Left Extremities: (Edema: 2+), (Temperature: Warm)
+   Right Extremities: (Edema: 2+), (Temperature: Warm)
+   Neurologic: (Responds to: Noxious stimuli), Moves all extremities
+   Labs / Radiology
+   38 K/uL
+   9.9 g/dL
+   260 mg/dL
+   2.2 mg/dL
+   15 mEq/L
+   4.1 mEq/L
+   96 mg/dL
+   110 mEq/L
+   136 mEq/L
+   28.0 %
+   5.7 K/uL
+        [image002.jpg]
+                             [**3303-2-15**]  06:25 AM
+                             [**3303-2-15**]  09:30 AM
+                             [**3303-2-15**]  02:32 PM
+                             [**3303-2-15**]  02:54 PM
+                             [**3303-2-15**]  04:59 PM
+                             [**3303-2-15**]  05:12 PM
+                             [**3303-2-15**]  11:01 PM
+                             [**3303-2-15**]  11:12 PM
+                             [**3303-2-16**]  02:14 AM
+                             [**3303-2-16**]  02:28 AM
+   WBC
+   5.0
+   5.7
+   Hct
+   23.8
+   25.1
+   29.7
+   28.0
+   Plt
+   44
+   38
+   Creatinine
+   2.3
+   2.2
+   Troponin T
+   0.91
+   0.86
+   TCO2
+   12
+   15
+   18
+   17
+   17
+   17
+   Glucose
+   193
+   227
+   260
+   Other labs: PT / PTT / INR:14.5/74.5/1.3, CK / CK-MB / Troponin
+   T:983/12/0.86, ALT / AST:107/85, Alk-Phos / T bili:116/1.3, Amylase /
+   Lipase:406/517, Differential-Neuts:86.0 %, Band:0.0 %, Lymph:7.0 %,
+   Mono:6.0 %, Eos:0.0 %, Fibrinogen:726 mg/dL, Lactic Acid:1.8 mmol/L,
+   Albumin:1.8 g/dL, LDH:377 IU/L, Ca:7.1 mg/dL, Mg:1.9 mg/dL, PO4:2.6
+   mg/dL
+   Assessment and Plan
+   ACUTE CONFUSION, ATRIAL FIBRILLATION (AFIB), RESPIRATORY FAILURE, ACUTE
+   (NOT ARDS/[**Doctor Last Name **]), RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF),
+   IMPAIRED PHYSICAL MOBILITY, AIRWAY, INABILITY TO PROTECT (RISK FOR
+   ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH), HYPERTENSION,
+   BENIGN, HYPOTENSION (NOT SHOCK), ACIDOSIS, METABOLIC, INTESTINE,
+   PERFORATION OF (PERFORATION OF HOLLOW VISCUS), IMPAIRED SKIN INTEGRITY,
+   CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD, BRONCHITIS, EMPHYSEMA)
+   WITH ACUTE EXACERBATION
+   Assessment and Plan: 75M found to have free air on KUB on [**2-6**], had
+   colectomy and ileostomy with post op respiratory failure
+   Neurologic: Percocet/tylenol for pain. Dilaudid for breakthrough.
+   Versed prn for agitation.
+   Cardiovascular: hx CAD, CABG, CHF (LVEF > 55%).  HTN tx w/ lopressor
+   and hydralPO. RVR A-fib 5 mg lopressor x 2, 150 mg bolus amiodarone and
+   amiodarone gtt started, cardiology consulted, cycle cardiac enzymes x3,
+   anticaogulation heparin goal PTT 50 - 70, ECHO in am
+   Pulmonary: hx COPD - on prednisone taper preop - prednisone 15mg on
+   [**2-11**], 10mg [**2-14**]; on advair/spiriva (home meds);  Trach, to continue
+   to wean to trach collar.  Likely PNA LLL, f/u BAL cx's.  on vanco
+   GI: s/p R colectomy; DHT in place.
+   Gastrointestinal / Abdomen: NPO,
+   Nutrition: TPN Nephramine, TF started [**2-14**]
+   Renal: CRI (bCr actually closer to 3.0 per renal), Acute on chronic
+   renal failure, FeNa = 8.  Hyperchloremic met acidosis.  Renal recs 1
+   amp bicarb daily
+   Hematology: transfused 2 units pRBC [**2-15**] for goal Hgb 10. Currently
+   24.6. Thrombocytopenia: HIT neg. PLT stable at 50 (from 111)
+   Endocrine: RISS tightened, if insufficient plan on insulin gtt, FS
+   somewhat labile (45-250), adjust TPN  as necessary
+   Infectious Disease: Vanco for ?LLL PNA, Stopped Zosyn/Flagyl, f/u on
+   cultures;
+   Lines / Tubes / Drains: Foley, A-line, R SubClav, trach, Dobhoff
+   Wounds: C/D/I;  stage 2 decub ulcer; skin tears b/l arms, follow wound
+   consult
+   Imaging: CXR today
+   Fluids:  D5 1/2 NS at 75 cc/hr and 50 cc/hr D5w +HCO3-
+   Consults: General surgery
+   Billing Diagnosis: (Respiratory distress: Failure, Insufficiency /
+   Post-op)
+   ICU Care
+   Nutrition:
+   TPN without Lipids - [**3303-2-15**] 07:19 PM 62.5 mL/hour
+   Lipids 20% - [**3303-2-15**] 09:39 PM 25 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Insulin in TPN
+   Lines:
+   Arterial Line - [**3303-2-10**] 10:40 AM
+   Multi Lumen - [**3303-2-12**] 10:54 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   Total time spent:
+   Patient is critically ill
+
+
+
+DOC CLASS

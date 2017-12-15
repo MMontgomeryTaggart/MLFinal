@@ -1,0 +1,186 @@
+CVICU
+   HPI:
+   HD8   POD 2-AVR(19m CE Magma)
+   Ejection Fraction:40%
+   Pre-Op Weight:110.01 lbs   49.9 kgs
+   Baseline Creatinine:0.7
+   TLD:RIJ SG,radial aline:Day3
+   Foley:Day3
+   PMH: AS, COPD, DJD, AFib
+   Medications at home: Diltiazem CD 180', HCTZ 12.5', Advair,
+   Atrovent, MVI, Calcium, Warfarin, Ultram, Methimazole, Tylenol
+   [**8-22**]-emergent bypass.Off on Milrinone/Vasopressin/Levophed/Propofol
+   [**2597-8-23**] Extubated at 3 PM
+   [**2597-8-19**] echo: EF40%, severe MR w/ annular calcification, Critical
+   AS/no AR
+   [**2597-8-18**] PFTs/Dental cleared/carotids<40 bilat
+   [**2597-8-18**] Chest ct - aortic calcification
+   87 yo s/p AVR(19mm CE Magma) [**8-22**]
+   Current medications:
+   Acetaminophen, Albuterol 0.083% Neb Soln, Aspirin EC, Docusate Sodium,
+   Furosemide, Insulin, Ipratropium Bromide Neb, Lisinopril, Methimazole.
+   Ranitidine, TraMADOL (Ultram)
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**2597-8-23**] 03:05 PM
+ EXTUBATION - At [**2597-8-23**] 03:09 PM
+   Post operative day:
+   POD#2 - AVR
+   Allergies:
+   Fentanyl
+   Unknown;
+   Demerol (Injection) (Meperidine Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2597-8-22**] 07:30 PM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2597-8-23**] 05:30 PM
+   Furosemide (Lasix) - [**2597-8-24**] 09:04 AM
+   Other medications:
+   Flowsheet Data as of  [**2597-8-24**] 10:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**99**] a.m.
+   HR: 70 (68 - 94) bpm
+   BP: 93/43(59) {93/43(59) - 154/65(94)} mmHg
+   RR: 17 (16 - 36) insp/min
+   SPO2: 96%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 55.2 kg (admission): 50 kg
+   Height: 58 Inch
+   CVP: 7 (1 - 13) mmHg
+   PAP: (36 mmHg) / (13 mmHg)
+   CO/CI (Fick): (4 L/min) / (2.8 L/min/m2)
+   CO/CI (CCO): (3 L/min) / (2.2 L/min/m2)
+   SvO2: 61%
+   Total In:
+                                                                  1,192 mL
+                                                                    411 mL
+   PO:
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,192 mL
+                                                                    351 mL
+   Blood products:
+   Total out:
+                                                                  3,730 mL
+                                                                    758 mL
+   Urine:
+                                                                  3,015 mL
+                                                                    518 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,538 mL
+                                                                   -347 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV+ApnVol
+   Vt (Spontaneous): 310 (310 - 310) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 23
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   SPO2: 96%
+   ABG: 7.43/40/161/27/2
+   Ve: 6.6 L/min
+   PaO2 / FiO2: 403
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Wheezes : diffuse exp wheezes),
+   (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows commands, Moves
+   all extremities
+   Labs / Radiology
+   75 K/uL
+   9.4 g/dL
+   118 mg/dL
+   0.6 mg/dL
+   27 mEq/L
+    4.2 mEq/L
+   14 mg/dL
+   101 mEq/L
+   132 mEq/L
+   28.2 %
+   10.1 K/uL
+        [image002.jpg]
+                             [**2597-8-23**]  07:03 AM
+                             [**2597-8-23**]  09:18 AM
+                             [**2597-8-23**]  10:40 AM
+                             [**2597-8-23**]  10:53 AM
+                             [**2597-8-23**]  12:47 PM
+                             [**2597-8-23**]  02:16 PM
+                             [**2597-8-23**]  02:48 PM
+                             [**2597-8-23**]  05:37 PM
+                             [**2597-8-23**]  06:25 PM
+                             [**2597-8-24**]  02:28 AM
+   WBC
+   10.1
+   Hct
+   35
+   30.7
+   30.3
+   28.2
+   Plt
+   75
+   Creatinine
+   0.6
+   TCO2
+   23
+   24
+   25
+   31
+   17
+   27
+   Glucose
+   120
+   138
+   112
+   111
+   118
+   Other labs: PT / PTT / INR:13.0/30.1/1.1, Fibrinogen:269 mg/dL, Lactic
+   Acid:0.9 mmol/L, Mg:2.6 mg/dL
+   Assessment and Plan
+   87 yo s/p AVR(19mm CE Magma) [**8-22**]
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Ultram for pain
+   Cardiovascular: Aspirin, Discontinue PA monitor, Dobutamine weaned off
+   with good CI.  Start ACE-I for BP control.  Hold on Beta blockers for
+   now with HR high 50's-low 60's
+   Pulmonary: IS, Discontinue chest tube(s) today
+   Gastrointestinal / Abdomen: Tolerating po diet
+   Nutrition: Regular diet, ADAT
+   Renal: Foley, Adequate UO, Cont to diuresis with lasix 20 IV BID.  Crea
+   stable
+   Hematology: Serial Hct, Hct stable.  Hold ASA tomorrow if plts low
+   Endocrine: RISS
+   Infectious Disease: Afebrile.  WBC 10
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Consults: P.T.
+   ICU Care
+   Nutrition: Cardiac diet
+   Glycemic Control:  Regular insulin sliding scale
+   Cordis/Introducer - [**2597-8-22**] 12:30 PM
+   Arterial Line - [**2597-8-22**] 12:30 PM
+   CCO PAC - [**2597-8-22**] 01:00 PM
+   Prophylaxis:
+   Stress ulcer: H2 blocker
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor if bed available
+
+
+
+DOC CLASS

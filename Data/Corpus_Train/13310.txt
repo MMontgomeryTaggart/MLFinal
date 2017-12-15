@@ -1,0 +1,348 @@
+Admission Date:  [**3377-11-28**]              Discharge Date:   [**3377-12-9**]
+
+Date of Birth:  [**3305-5-23**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Influenza Virus Vaccine
+
+Attending:[**Doctor First Name 3481**]
+Chief Complaint:
+Fall
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+72 F with history of COPD (does not use home O2), non small cell
+Lung CA of lingula s/p resection, hyperparathyroidism who
+presents s/p fall.
+She was in her usual state of health until yesterday when she
+got up from her couch in her socks, slipped and fell on her left
+arm. Did not hit her head, no LOC. She reported to the ED where
+she was found to have a left proximal humeral fracture and left
+superior rami fracture. Ortho evaluted pt- the superior rami
+fracture is managed medically. The proximal humeral fracture
+might be surgically managed but pt declines at this time.
+.
+In the ED, initial vs were: T 97.3 P103 BP 104/65 R 20 97% O2
+sat. Patient was given 4mg zofran, morphine (4mg IV x2, 15mg
+PO), 500mg tylenol, 1mg IV dilaudid.
+Prior to transfer, vitals were: HR 90, BP 118/60, RR 18, 94%RA.
+
+.
+On the floor, pt reports hip and shoulder pain. Has some nausea
+from the dilaudid. Otherwise feels comfortable. T 95.7, BP
+110/60, HR 70, 16, 95% RA.
+
+
+Past Medical History:
+1. Severe COPD/Bronchitis (multiple hospitalizations)
+2. Asthma/COPD - never intubated. FEV1/FVC = 39%
+3. GERD - pt cannot tolerate H2 blockers or PPIs; s/p
+fundoplication [**3374**]
+4. Barrett's esophagus [**1-7**] GERD; esophagitis confirmed [**1-13**] EGD
+
+5. Lingular non-small cell lung CA, s/p resxn [**3368**]
+6. H/o sinusitis
+7. h/o allergic rhinitis
+8. constipation,
+9. hyperparathyroidism,
+10. hyperkalemia
+11. vitamin D deficiency
+12. osteopenia
+13. Right middle lobe pulmonary nodule - stable for 3 years
+
+
+Social History:
+Lives in [**Location 15342**] by herself. No children, not married. 40
+year smoking history, smoking 1-2 packs per day. Retired
+guidance counselor of middle school in [**Location (un) **].
+
+Family History:
+Mother died of a stroke at 77. Father died of lung CA age 70. +
+tobacco use.
+
+Physical Exam:
+ADmission Exam:
+Vitals: T 95.7, BP 110/60, HR 70, 16, 95% RA.
+General: Alert, oriented, comfortable
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP around 8, no LAD
+Lungs: few scattered crackles bilaterally in lower bases, no
+wheezes, no rhales
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+Left arm in a sling. No bruising.
+
+
+Pertinent Results:
+CXR:
+IMPRESSION: Left fifth posterior rib defect from prior
+thoracotomy. No acute
+fracture is seen.
+
+Shoulder:
+Impacted left humeral head fracture.
+
+C-spine:
+Incomplete views of the cervical spine on the lateral
+projection.
+No significant malalignment is seen, however, CT examination is
+recommended
+for further evaluation.
+
+Hip:
+
+IMPRESSION: Stepoff at the left superior pubic ramus raises the
+concern for a
+pelvic fracture. A CT examination can be considered for further
+evaluation.
+
+
+Brief Hospital Course:
+72 year-old F with history of COPD, non small cell Lung CA of
+lingula s/p resection, hyperparathyroidism who presents s/p
+mechanical fall found to have left proximal humeral fx and left
+superior pubic rami fracture.
+.
+# Left proximal humeral fx: Orthopedic team evaluated patient.
+Patient declined surgery as she has several comorbitities
+putting her at risk.  Pain was controlled with narcotics. Arm
+supported with sling. She has a sling for comfort and is not
+allowed to do heavy lifting.  She might re-consider ORIF vs
+hemiarthoplasty in future if patient reconsiders surgery.  She
+was to follow-up with orthopedic surgery in late [**Month (only) 354**]. She
+does not require dvt prophylaxis with lovenox for her upper
+extremity fracture per ortho.  She was seen by PT/OT while in
+the hospital.  She received MS Contin 15mg [**Hospital1 **] while in the
+hospital and this should be tapered off as her pain improves.
+.
+# Left pubic ramus fracture: Medicaly managed. No ROM
+restrictions
+.
+#Pneumonia: She developed a fever up to 101.5, despite 1 g of
+Tylenol. UA was clean, but CXR showed a RLL pneumonia. She was
+started on Levoflox/Flagyl on [**3377-11-30**], but continued to
+deteriorate requiring more oxygen. She was switched to
+Vanc/Zosyn/Levoflox and required ICU transfer for monitoring
+where she was stable on 35-50% shovel mask. She was continued on
+ceftriaxone and azithromycin and completed an 8 day course on
+[**3377-12-8**]. She was also started on a 7-day prednisone taper
+60-40-40-20-20-20-20 mg out of concern for wheezing and
+concomitant COPD exacerbation which completed on [**3377-12-8**]. CXR on
+HD#7 showed worsening R pleural effusion. Ultrasound showed
+small effusion with some organization. On [**12-4**], she was satting
+95% on RA she was transferred to the floor. At the time of
+transfer to rehab her 02 sat was 93% on 1-2L/min nasal cannula.
+Continue to wean oxygen as tolerated to maintain SpO2 > 93%.
+Recommend continuing scheduled nebulizer or MDI treatments while
+patient requires supplemental oxygen.
+.
+# Osteopenia: Patient has several risk factors for fractures
+including hyperparathyroidism, repeated prednisone use for COPD
+exacerbations, vit D deficiency.  She was on calcium and vitamin
+D at home.  She was continued on vitamin D and calcium. She has
+been approved by her insurance for reclast but has not yet
+received a dose.  Please recommend that patient address starting
+Reclast with her primary care provider after discharge.
+.
+# COPD: She was also started on a 7-day prednisone taper
+60-40-40-20-20-20-20 out of concern for wheezing and concomitant
+COPD exacerbation which completed on [**3377-12-8**]. She had no cough,
+no fevers, or wheezing on discharged. Her O2 requirement
+gradually decreased during her hospitalization. She is being
+discharged on her home inhalers.
+.
+# She was on lovenox for DVT prophylaxis and sent to rehab on
+hep sc which can be stopped once she is ambulating regularly.
+.
+# Acute Renal Failure: Her creatinine climbed up to 1.2 and
+later her ARF resolved and her creatinine was 1.2. This ARF may
+be secondary to dye as well as pre-renal azotemia as the patient
+was clinically dry at the time of her renal failure.
+.
+# Constipation: She had no BM for 8 days. She then moved her
+bowels on [**3377-12-7**].  She is being dicharged on colace, senna, and
+miralax.
+.
+# Pulmonary Nodule: Per Pulm notes has been stable for 3 years.
+
+.
+#Communication was with the patient and her brother Father [**Name (NI) 164**]
+[**Name (NI) 11726**]
+.
+[**Name (NI) 15343**] fathers
+[**Name2 (NI) 15344**]
+[**Location (un) 15345**], [**Numeric Identifier 15346**]
+([**Telephone/Fax (1) 15347**].
+.
+# Code status: Full
+
+
+
+Medications on Admission:
+FLUTICASONE - 50 mcg Spray, Suspension - 2 squirts(s) nasally
+once daily
+FLUTICASONE [FLOVENT HFA] - 220 mcg Aerosol - 2 Puffs(s) inhaled
+
+twice a day
+LEVALBUTEROL TARTRATE [XOPENEX HFA] - 45 mcg/Actuation HFA
+Aerosol Inhaler - 2 puffs(s) inhaled up to four times daily as
+needed for shortness of breath or wheezing
+POLYETHYLENE GLYCOL 3350 [MIRALAX] - once a day
+TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule -
+1 capsule(s) inhaled once a day
+ACETAMINOPHEN - (OTC) - 325 mg Tablet - 2 Tablet(s) by mouth
+every 6 hours as needed for fever or pain
+CALCIUM CARBONATE-VIT D3-MIN [CALTRATE PLUS] - 1 Tablet(s) by
+mouth once a day
+CHOLECALCIFEROL (VITAMIN D3) - 1,000 unit Tablet - 2
+Tablet(s) by mouth once a day
+LORATADINE-PSEUDOEPHEDRINE [CLARITIN-D 24 HOUR] - 240 mg-10 mg
+Tablet Sustained Release, 1 tab daily
+SODIUM BICARB-SODIUM CHLORIDE [NEILMED SINUS RINSE COMPLETE] -
+Packet - once a day
+
+
+Discharge Medications:
+1. morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO Q12H (every 12 hours): One left
+arm/shoulder pain improves this should be tapered off.
+2. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily): 12 hrs
+on and 12 hrs off.
+3. fluticasone 220 mcg/Actuation Aerosol Sig: Two (2) puffs
+Inhalation twice a day.
+4. Xopenex HFA 45 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2)
+puff Inhalation four times a day as needed for shortness of
+breath or wheezing.
+5. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)
+dose PO DAILY (Daily) as needed for constipation.
+6. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig:
+One (1) inhalation Inhalation once a day.
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day): hold for loose stool and can stop when no longer
+on pain meds.
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+9. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: Two (2)
+Tablet PO once a day.
+10. loratadine-pseudoephedrine 10-240 mg Tablet Sustained
+Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO
+once a day as needed for congestion.
+11. heparin (porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection three times a day: while not moving a lot at rehab.
+12. calcium carbonate 600 mg (1,500 mg) Tablet Sig: One (1)
+Tablet PO twice a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 1845**] - [**Location (un) 211**]
+
+Discharge Diagnosis:
+Left proximal humeral fracture
+Left pubic rami fracture
+Healthcare acquired pneumonia
+COPD exacerbation
+
+
+Discharge Condition:
+Alert and oriented x3
+Ambulatory Status with assistance
+On supplemental oxygen 1-3L/min per nasal cannula
+
+
+Discharge Instructions:
+It was a pleasure providing care for your during your
+hospitalization.
+
+You were admitted for a fracture in your left arm and in your
+pelvis. The decision was made to treat you with pain medications
+and physical therapy instead of surgery. You developed a
+pneumonia and you have completed your course of antibiotics. You
+developed an exacerbation of your COPD and you completed your
+course of steroids.
+
+The following medications were started:
+-ducosate sodium 100mg twice a day as stool softener while on
+pain meds
+-senna 1 tab twice a day as needed for constipation
+-miralax 17g once a day as needed for constipation
+-morphine sustained release (MS Contin) 15mg twice a day for
+pain
+-lidocaine patch applied daily to arm as needed for pain
+
+After rehab you will likely start a medication called Reclast
+for your osteopenia (weak bones).  It is important that you
+discuss this medication with your primary care provider.
+.
+There were no other changes to your medications as you completed
+your antibiotics and steroids in the hospital.  Please take the
+following medications as previously prescribed.
+
+-FLUTICASONE [FLOVENT HFA] - 220 mcg Aerosol - 2 Puffs(s)
+inhaled
+twice a day
+-LEVALBUTEROL TARTRATE [XOPENEX HFA] - 45 mcg/Actuation HFA
+Aerosol Inhaler - 2 puffs(s) inhaled up to four times daily as
+needed for shortness of breath or wheezing
+-POLYETHYLENE GLYCOL 3350 [MIRALAX] - once a day as needed for
+constipation
+-TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule -
+1 capsule(s) inhaled once a day
+-CALCIUM CARBONATE 600mg twice a day
+-CHOLECALCIFEROL (VITAMIN D3) - 1,000 unit Tablet - 2
+Tablet(s) by mouth once a day
+-LORATADINE-PSEUDOEPHEDRINE [CLARITIN-D 24 HOUR] - 240 mg-10 mg
+Tablet Sustained Release, 1 tab daily
+-SODIUM BICARB-SODIUM CHLORIDE [NEILMED SINUS RINSE COMPLETE] -
+
+Packet - once a day
+
+Please follow up with your primary care doctor within 1 week of
+discharge from rehab.
+
+Followup Instructions:
+Please follow up with your primary care provider within one week
+of discharge from rehabilitation.
+.
+Department: ORTHOPEDICS
+When: THURSDAY [**3377-12-25**] at 10:00 AM
+With: ORTHO XRAY (SCC 2) [**Telephone/Fax (1) 637**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) 644**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: ORTHOPEDICS
+When: THURSDAY [**3377-12-25**] at 10:20 AM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 645**], NP [**Telephone/Fax (1) 637**]
+Building: [**Hospital6 127**] [**Location (un) 644**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: ORTHOPEDICS
+When: FRIDAY [**3377-12-26**] at 10:40 AM
+With: ORTHO XRAY (SCC 2) [**Telephone/Fax (1) 637**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) 644**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+Department: ORTHOPEDICS
+When: FRIDAY [**3377-12-26**] at 11:00 AM
+With: [**First Name4 (NamePattern1) 3191**] [**Last Name (NamePattern1) 3192**] [**Telephone/Fax (1) 637**]
+Building: [**Hospital6 127**] [**Location (un) 644**]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+
+
+
+
+
+DOC CLASS

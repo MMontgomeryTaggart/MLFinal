@@ -1,0 +1,223 @@
+CVICU
+   HPI:
+   65M POD1 S/P MV repair (28 mm CE [**Doctor Last Name 7957**] band) CABG x 1 (LIMA>LAD) [**5-25**]
+   Chief complaint:
+   PMHx:
+   HTN, MR, arthritis, BPH, depression, hernia repair, appendectomy, left
+   rotator cuff repair, right total hip replacement, left
+   total hip replacement, bilateral carpal tunnel surgery
+   [**Last Name (un) **]: Atenolol 25', Citalopram 20', Flomax 0.4', Flonase 50 two sprays
+   bilat nares', Lorazepam 0.5" prn, Naprosyn 500", Nifedipine 30 SR',
+   Protonix 40', Viagra 50 prn
+   Current medications:
+   1. 2. 250 mL D5W 3. Acetaminophen 4. Albuterol Inhaler 5. Aspirin EC 6.
+   Calcium Gluconate 7. CefazoLIN
+   8. Chlorhexidine Gluconate 0.12% Oral Rinse 9. Citalopram Hydrobromide
+   10. Dextrose 50% 11. Docusate Sodium
+   12. FoLIC Acid 13. Furosemide 14. Insulin 15. Lorazepam 16. Magnesium
+   Sulfate 17. Metoclopramide
+   18. Metoprolol Tartrate 19. Milk of Magnesia 20. Morphine Sulfate 21.
+   Multivitamins 22. Nitroglycerin
+   23. Oxycodone-Acetaminophen 24. Pantoprazole 25. Phenylephrine 26.
+   Pneumococcal Vac Polyvalent 27. Potassium Chloride
+   28. Sodium Chloride 0.9% Flush 29. Sodium Chloride Nasal 30. Tamsulosin
+   31. Thiamine
+   24 Hour Events:
+ OR RECEIVED - At [**2516-5-25**] 02:15 PM
+ INVASIVE VENTILATION - START [**2516-5-25**] 02:15 PM
+ ARTERIAL LINE - START [**2516-5-25**] 02:15 PM
+ CCO PAC - START [**2516-5-25**] 02:15 PM
+ CORDIS/INTRODUCER - START [**2516-5-25**] 02:15 PM
+ EKG - At [**2516-5-25**] 02:45 PM
+ EKG - At [**2516-5-25**] 08:00 PM
+ INVASIVE VENTILATION - STOP [**2516-5-25**] 09:36 PM
+ EXTUBATION - At [**2516-5-25**] 09:40 PM
+   - Feeling anxious overnight, has hx of anxiety on Lorazpeam at home
+   - Extuated successfullly, enrolled in low Vt study
+   Post operative day:
+   POD#1 - lima to lad cabg, mv repair with ring. no issues. out on
+   propofol + neo. min ct drainage. low tv study*****.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2516-5-26**] 12:16 AM
+   Infusions:
+   Insulin - Regular - 3 units/hour
+   Nitroglycerin - 2.5 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2516-5-25**] 10:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2516-5-26**] 06:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**18**] a.m.
+   Tmax: 36.1
+C (97
+   T current: 35.8
+C (96.4
+   HR: 94 (71 - 97) bpm
+   BP: 129/56(77) {84/49(61) - 149/84(100)} mmHg
+   RR: 16 (8 - 21) insp/min
+   SPO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 67 Inch
+   CVP: 9 (6 - 22) mmHg
+   PAP: (35 mmHg) / (16 mmHg)
+   CO/CI (Fick): (7.8 L/min) / (3.9 L/min/m2)
+   CO/CI (CCO): (6.7 L/min) / (4.8 L/min/m2)
+   SvO2: 66%
+   Mixed Venous O2% sat: 76 - 76
+   Total In:
+                                                                  7,235 mL
+                                                                  1,038 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  6,735 mL
+                                                                  1,038 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  1,410 mL
+                                                                    850 mL
+   Urine:
+                                                                  1,120 mL
+                                                                    570 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,825 mL
+                                                                    188 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 0 (0 - 400) mL
+   Vt (Spontaneous): 4,988 (0 - 4,988) mL
+   PS : 5 cmH2O
+   RR (Set): 26
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 26 cmH2O
+   Plateau: 17 cmH2O
+   SPO2: 94%
+   ABG: 7.36/48/111/25/1
+   Ve: 7.2 L/min
+   PaO2 / FiO2: 277
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bilateral bases), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   hypoactive
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   161 K/uL
+   9.9 g/dL
+   130
+   0.9 mg/dL
+   25 mEq/L
+   4.0 mEq/L
+   10 mg/dL
+   105 mEq/L
+   136 mEq/L
+   29.6 %
+   8.1 K/uL
+        [image002.jpg]
+                             [**2516-5-25**]  02:39 PM
+                             [**2516-5-25**]  03:48 PM
+                             [**2516-5-25**]  05:17 PM
+                             [**2516-5-25**]  07:15 PM
+                             [**2516-5-25**]  09:01 PM
+                             [**2516-5-25**]  09:11 PM
+                             [**2516-5-26**]  03:00 AM
+                             [**2516-5-26**]  04:00 AM
+                             [**2516-5-26**]  05:00 AM
+                             [**2516-5-26**]  06:00 AM
+   WBC
+   8.1
+   Hct
+   29.9
+   29.6
+   Plt
+   161
+   Creatinine
+   0.9
+   TCO2
+   29
+   30
+   27
+   29
+   28
+   Glucose
+   141
+   98
+   137
+   147
+   130
+   Other labs: PT / PTT / INR:14.6/37.0/1.3, Fibrinogen:178 mg/dL, Lactic
+   Acid:1.8 mmol/L
+   Imaging: [**5-25**] CXR: Normal post-op
+   Microbiology: MRSA screen: P
+   Assessment and Plan
+   MITRAL REGURGITATION (MITRAL INSUFFICIENCY), CORONARY ARTERY BYPASS
+   GRAFT (CABG), .H/O ALCOHOL ABUSE
+   Assessment and Plan: 65M POD1 S/P MV repair (28 mm CE [**Doctor Last Name 7957**] band)
+   CABG x 1 (LIMA>LAD) [**5-25**]
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Transition to
+   percocet from morphine. Hx EtoH, on thiamine, folate, MVI, on CIWA
+   scale, has standing Ativan ordered, uptitrate PRN.
+   Cardiovascular: Aspirin, Beta-blocker, Discontinue PA monitor, Start
+   statin today. Normal EF.
+   Pulmonary: IS, Cough, deep breathe, OOB to chair. Ordered for MDIs for
+   hx COPD.
+   Gastrointestinal / Abdomen: Had some nausea earlier, not passing flatus
+   currently.  Get pt OOB to chair, Reglan PRN for motility, monitor for
+   ileus.  Zofran ordered.
+   Nutrition: Clear liquids, Advance diet as tolerated
+   Renal: Foley, Adequate UO, Lasix for diuresis with goal 1 L negative
+   over next 24 hours.
+   Hematology: Stable anemia.  PLT count stable.
+   Endocrine: Insulin drip, Goal BG <150. Consider Lantus when on stable
+   insulin gtt dose.
+   Infectious Disease: WBC normal, afebrile. No cx pending. On Cefazolin
+   for peri-operative abx.
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery, P.T.
+   Billing Diagnosis: Post-op hypertension
+   ICU Care
+   Nutrition:
+   Comments: Clears ADAT
+   Glycemic Control:  Insulin infusion
+   Lines:
+   Arterial Line - [**2516-5-25**] 02:15 PM
+   CCO PAC - [**2516-5-25**] 02:15 PM
+   Cordis/Introducer - [**2516-5-25**] 02:15 PM
+   18 Gauge - [**2516-5-25**] 02:15 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 31 minutes
+
+
+
+DOC CLASS

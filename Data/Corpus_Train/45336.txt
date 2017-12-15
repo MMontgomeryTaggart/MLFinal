@@ -1,0 +1,225 @@
+Admission Date:  [**3336-1-25**]              Discharge Date:   [**3336-2-1**]
+
+Date of Birth:  [**3263-10-17**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodine Containing Agents Classifier
+
+Attending:[**First Name3 (LF) 2014**]
+Chief Complaint:
+Chest pain
+
+Major Surgical or Invasive Procedure:
+DDD pacer placement ([**3336-1-25**])
+
+History of Present Illness:
+72 yo F with CAD s/p PTCA, DM, HTN, COPD on 2 L home O2, OSA on
+BiPAP, and obesity who presents with acute onset of substernal
+CP radiating to her back and left arm associated with SOB.  Pain
+did not resolve with SL NTG and she went to [**Hospital 516**] Hospital.
+Pt given ASA in the ambulance.  Received an additional SL NTG at
+[**Hospital 516**] Hosp which decreased her pain to [**1-28**].  At OSH creat
+elevated at 2.0.  First set of cardiac enzymes were negative.
+Her ECG showed bradycardia, likely afib with a juctional escape,
+rate 40.  She was recently admitted to [**Hospital1 4**] in [**10-23**] for chest
+pain and underwent stress test (nonconclusive given her habitus)
+and was d/c'ed home with mild medication adjustments.  Of note,
+she has a h/o a junctional rhythm requiring a temporary pacer
+[**8-23**].  Etiology at that time thought to be renal
+failure/hyperkalemia and B-B toxicity.  A permanent pacemaker
+was considered, however, the patient began pacing on her own.
+.
+In our ED K noted to be 5.8.  Pt received Glucagon 4 mg, Insulin
+10 Units, D50, Cal Gluc 1 gm, Combivent neb, alb neb, lasix 40
+IV, and Solumedrol 125.  Pt is currently chest pain free.
+Reports SOB at baseline.  HR in the low 40's with SBP in the low
+100's.
+
+
+Past Medical History:
+1. DM (most recent HbA1C 7.7)
+2. HTN
+3. Hyperlipidemia
+4. CHF - EF > 55%, RV dilation
+5. OSA- uses BiPAP 21/17
+6. COPD - on home O2 2 liters (PFTs [**3330**] - FEV 1.08 (64%), FVC
+1.24 (53%),FEV/FVC: 122%)
+7. OA - unable to ambulate at baseline, uses wheelchair
+8. Chronic back pain
+9. Spinal Stenosis
+10. s/p cholecystectomy
+[**39**]. s/p hysterectomy
+12. CAD s/p LAD PTCA [**5-23**]
+13. PAF s/p 6wk coumadin therapy
+
+Social History:
+Denies tobacco, EtOH, or drug use.
+
+Family History:
+Mother - CAD, DM, died age 80
+Father - CAD, died age 89
+
+Physical Exam:
+VS:  HR 42, BP 105/60, RR 18, O2 sat 97% RA
+GEN:  obese female, NAD
+HEENT:  Dry MM
+Neck:  unable to appreciate JVD
+Chest:  decreased air movement, exp wheezes, bibasilar crackles
+CV:  regular, bradycardic, no murmurs
+Abd:  soft, obese, NT/ND,
+Ext:  [**1-21**]+ pitting edema
+Neuro:  A&Ox3
+
+
+Pertinent Results:
+[**3336-1-25**] 01:20AM   CK-MB-2 cTropnT-0.02* proBNP-6008*
+[**3336-1-25**] 01:22AM   GLUCOSE-132* NA+-140 K+-5.8* CL--109 TCO2-21
+[**3336-1-25**] 01:20AM   UREA N-27* CREAT-1.9*
+[**3336-1-25**] 01:20AM   WBC-6.8 RBC-3.50* HGB-8.7* HCT-28.6* MCV-82
+MCH-25.0* MCHC-30.6* RDW-16.2*
+
+CXR [**3336-1-25**]:  blunting of costophrenic angles. pulm vasc
+congestion. no infiltrate
+.
+ECG:  RBBB and L ant fascicular block with sinus arrest,
+ventricular rate 40 bpm, no ST-T changes
+
+Brief Hospital Course:
+Upon admission, Ms. [**Known patient lastname 2516**] ECG showed a RBBB with L anterior
+fascicular block with sinus arrest and a ventricular rate of
+approximately 40 bpm.  Due to the instability of this rhythm, EP
+was consulted and she was taken for implantable DDD pacemaker
+placement on [**3336-1-25**].  Due to her underlying pulmonary disease,
+she was intubated for the procedure and remained intubated
+post-procedure.  She was easily weaned off the vent and
+extubated on the morning of [**3336-1-26**].  Her beta-blocker was held
+due to her conduction abnormalities and she was started on
+diltiazem in its place and this was titrated up; per EP, beta
+blockade can be resumed as an outpatient as she tolerates.  She
+will complete a 5-day course of peri-procedure antibiotics and
+will follow up in device clinic in approximately one week. After
+the pacer was placed she was noted to be intermittantly in
+atrial flutter. She was started on coumadin for anticoagulation
+(without heparin bridge) and will likely have cardioversion in a
+few weeks with Dr. [**Last Name (STitle) **].
+Additionally she noted bilateral knee pain consistent with
+osteoarthritic pain that she has had in the past documented back
+to the [**3308**]'s, previously evaluated for knee replacement in [**3327**]
+but determined to be a poor surgical candidate given her
+comorbidities. This was thought secondary to recent increased
+mobilization with physical therapy and controlled with tylenol
+and occaisional oxycodone.
+
+Medications on Admission:
+1. Advair 250-50 mcg [**Hospital1 **]
+2. Albuterol prn
+3. Amitriptyline 50mg
+4. Aspirin 325mg
+5. Atorvastatin 80mg
+6. Clopidogrel 75mg
+7. Furosemide 40mg
+8. Ipratropium qid
+9. Ferrous Sulfate 325mg [**Hospital1 **]
+10. Gabapentin 600mg tid
+11. Potassium & Sodium Phosphates 278-164-250mg [**Hospital1 **]
+12. SL NTG prn
+13. Clotrimazole 1 % Cream [**Hospital1 **]
+14. Nystatin 100,000 unit/g Ointment [**Hospital1 **]
+15. Pantoprazole 40mg
+16. KCL 40meq
+17. Docusate [**Hospital1 **]
+18. Oxycodone 5mg prn
+19. Toprol XL 50mg
+20. Senna [**Hospital1 **]
+21. Bisacodyl prn
+22. Magnesium Hydroxide prn
+23. Acetaminophen 1g qid
+
+Discharge Medications:
+1. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+2. Amitriptyline 50 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: One (1)
+Inhalation four times a day.
+7. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q24H (every
+24 hours).
+8. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed.
+9. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Twenty
+(20) units Subcutaneous once a day: in am.
+10. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Fifteen
+(15) units Subcutaneous at bedtime.
+11. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet,
+Sublingual Sublingual PRN (as needed) as needed for chest pain.
+
+12. Ferrous Sulfate 300 mg/5 mL Liquid Sig: Three Hundred (300)
+mg PO once a day.
+13. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+14. Diltiazem HCl 300 mg Capsule, Sustained Release Sig: One (1)
+Capsule, Sustained Release PO DAILY (Daily).
+15. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2
+times a day).
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Charlwell
+
+Discharge Diagnosis:
+Sinus arrest with symptomatic bradycardia.
+.
+Morbid obesity, obstructive sleep apnea, chronic obstructive
+pulmonary disease, diabetes mellitus, hypertension, congestive
+heart failure, spinal stenosis, coronary artery disease, atrial
+fibrilation.
+
+
+Discharge Condition:
+Good.
+
+
+Discharge Instructions:
+Please take all medications as prescribed, please keep all
+follow-up appointments. Please notify your primary care doctor,
+Dr. [**First Name8 (NamePattern2) **] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 15596**] ([**Telephone/Fax (1) 189**] or your cardiologist,
+Dr. [**First Name4 (NamePattern1) 304**] [**Last Name (NamePattern1) **], ([**Telephone/Fax (1) 20626**] if you experience worsening
+chest pain, shortness of breath, nausea, vomiting, wheezing,
+dizziness, light headedness, increased swelling in your legs, or
+any symptoms that concern you.
+.
+Weigh yourself every morning, call your doctor if weight > 3
+lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: Please limit your fluid intake to 1500mL
+(1.5L) of fluid daily
+
+Followup Instructions:
+Please follow-up in device clinic to be sure your pacer is
+working properly on [**3336-2-2**] at 10:00am in radiology
+([**Telephone/Fax (1) 351**]) for imaging, followed by your appointment in
+device clinic ([**Telephone/Fax (1) 2993**]) at 11:30am
+.
+Please follow-up with Dr. [**First Name4 (NamePattern1) 304**] [**Last Name (NamePattern1) **] on [**3336-2-15**] at
+11:45am. Please call if questions: ([**Telephone/Fax (1) 20626**].
+.
+Please follow-up with Dr. [**First Name (STitle) **] [**Name (STitle) **] on [**3336-2-2**] at
+1:20pm. It is very important that you have your INR checked at
+this visit so your dose of coumadin can be adjusted. Please call
+if questions: ([**Telephone/Fax (1) 20626**].
+
+
+
+
+
+
+DOC CLASS

@@ -1,0 +1,253 @@
+CVICU
+   HPI:
+   [**7-17**] POD 1
+   80M s/p TAA endovasc. stent graft [**2509-7-16**]
+   PMHx:
+   PMH: AS s/p AVR (mech) [**2499**], BPH, hypothyroidism, ?lymphoma s/p
+   surgery, XRT, chemo [**2507**], recent syncopal episodes- no work-up
+   PSH: appy, lymph node (cervical?) resection, AVR [**2499**]
+   Current medications:
+   Esmolol, Finasteride,  Heparin,  Levothyroxine Sodium, Metoprolol
+   Tartrate, Morphine Sulfate, Nitroglycerin, Phenylephrine,  Potassium
+   Chloride, Tamsulosin
+   24 Hour Events:
+ OR RECEIVED - At [**2509-7-16**] 11:48 AM
+ NASAL SWAB - At [**2509-7-16**] 11:49 AM
+ INVASIVE VENTILATION - START [**2509-7-16**] 11:49 AM
+ ARTERIAL LINE - START [**2509-7-16**] 12:36 PM
+ CORDIS/INTRODUCER - START [**2509-7-16**] 12:37 PM
+ EKG - At [**2509-7-16**] 12:38 PM
+ ICP CATHETER - START [**2509-7-16**] 12:50 PM
+   bleeding at insertion site   located l4-5
+ EXTUBATION - At [**2509-7-16**] 04:10 PM
+ INVASIVE VENTILATION - STOP [**2509-7-16**] 04:12 PM
+   Post operative day:
+   [**7-17**] POD 1
+   80M s/p TAA endovasc. stent graft [**2509-7-16**]
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Morphine Sulfate - [**2509-7-16**] 03:30 PM
+   Metoprolol - [**2509-7-16**] 09:00 PM
+   Other medications:
+   Flowsheet Data as of  [**2509-7-17**] 09:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**11**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.7
+C (99.8
+   HR: 79 (43 - 95) bpm
+   BP: 125/50(77) {83/44(59) - 151/75(103)} mmHg
+   RR: 21 (11 - 29) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+   CVP: -38 (-38 - -38) mmHg
+   ICP: 1 (1 - 16) mmHg
+   Total In:
+                                                                  1,522 mL
+                                                                  1,326 mL
+   PO:
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  1,462 mL
+                                                                  1,327 mL
+   Blood products:
+   Total out:
+                                                                    950 mL
+                                                                    560 mL
+   Urine:
+                                                                    940 mL
+                                                                    555 mL
+   NG:
+   Stool:
+   Drains:
+                                                                     10 mL
+                                                                      5 mL
+   Balance:
+                                                                    572 mL
+                                                                    767 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 452 (452 - 452) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 22 cmH2O
+   Plateau: 15 cmH2O
+   Compliance: 50 cmH2O/mL
+   SPO2: 97%
+   ABG: 7.42/44/364/25/4
+   Ve: 6.3 L/min
+   PaO2 / FiO2: 728
+   Physical Examination
+   General Appearance: No acute distress
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Tender: Left groin incision with
+   hematoma/ecchymosis and tenderness, stable from yesterday. Area
+   outlined this morning.  Hct stable.
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present), (Pulse - Posterior tibial: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   104 K/uL
+   10.0 g/dL
+   129 mg/dL
+   1.0 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   15 mg/dL
+   105 mEq/L
+   138 mEq/L
+   29.0 %
+   11.3 K/uL
+        [image002.jpg]
+                             [**2509-7-16**]  11:05 AM
+                             [**2509-7-16**]  12:08 PM
+                             [**2509-7-16**]  12:16 PM
+                             [**2509-7-16**]  04:02 PM
+                             [**2509-7-16**]  10:14 PM
+                             [**2509-7-17**]  02:13 AM
+                             [**2509-7-17**]  05:57 AM
+   WBC
+   3.5
+   11.3
+   Hct
+   30
+   29.9
+   29.6
+   29.3
+   29.0
+   Plt
+   110
+   104
+   Creatinine
+   0.9
+   1.0
+   TCO2
+   26
+   30
+   Glucose
+   152
+   137
+   129
+   Other labs: PT / PTT / INR:14.3/34.6/1.2, Amylase / Lipase:20/19,
+   Differential-Neuts:81.8 %, Lymph:10.8 %, Mono:4.7 %, Eos:2.4 %, Ca:7.9
+   mg/dL, Mg:2.0 mg/dL, PO4:2.6 mg/dL
+   Imaging: [**Known patient lastname 7743**],[**Known patient firstname **] H [**PT ID Number 7744**] M  85  [**2424-3-3**]
+   Radiology Report CHEST PORT. LINE PLACEMENT Study Date of [**2509-7-16**]
+   12:19 PM
+   [**Last Name (LF) 799**],[**First Name7 (NamePattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 7745**] CSRU [**2509-7-16**] 12:19 PM
+   CHEST PORT. LINE PLACEMENT   Clip # [**Clip Number (Radiology) 7746**]
+   Reason: eval CVC placement
+   -----------------------------------------------------------------------
+   ---------
+   UNDERLYING MEDICAL CONDITION:
+      85 year old man s/p right IJ placement
+   REASON FOR THIS EXAMINATION:
+      eval CVC placement
+   -----------------------------------------------------------------------
+   ---------
+   Provisional Findings Impression: SP TUE [**2509-7-16**] 3:15 PM
+   PFI: Internal jugular approach sheath in place, no pneumothorax. ETT in
+   trachea 5 cm above the carina. Thoracic stent prosthesis in place now.
+   No
+   signs of pulmonary congestion or pneumothorax.
+   -----------------------------------------------------------------------
+   ---------
+   Final Report
+   TYPE OF EXAMINATION: Chest AP portable single view.
+   INDICATION: Status post right internal jugular central venous line
+   placement.
+   Evaluate.
+   FINDINGS: AP single view of the chest has been obtained with patient in
+   supine position. The patient is intubated and ETT is seen to terminate
+   in the
+   trachea some 5 cm above the level of the carina. A right internal
+   jugular
+   vein approach sheath is seen and terminates overlying the SVC shadow
+   reaching
+   the level just at the lower border of the clavicle. No pneumothorax is
+   present. He is status post sternotomy, and an extremely wide and
+   elongated
+   thoracic aorta is identified. From the mid portion of the arch down to
+   the
+   level of lumbar vertebral body, one the metallic structures of an
+   endovascular
+   prosthesis is noted. On the next preceding PA and lateral chest
+   examination
+   of [**2509-7-14**], which was the preoperative examination the stent
+   structures
+   were not in place as yet. Otherwise, heart size and status post very
+   aneurysmatic thoracic aorta is unaltered. No CHF or pulmonary
+   vasculature.
+   Microbiology: [**2509-7-16**]  MRSA SCREEN MRSA SCREEN-PENDING INPATIENT
+   [**2509-7-15**]  URINE URINE CULTURE-FINAL INPATIENT
+   ECG: [**Known patient lastname 7743**],[**Known patient firstname **] H [**PT ID Number 7744**] M  85  [**2424-3-3**]
+   Cardiology Report ECG Study Date of [**2509-7-15**]  8:24:36 AM
+   Sinus bradycardia. A-V conduction delay. Left atrial abnormality.
+   Frequent
+   ventricular ectopy. Right bundle-branch block. No previous tracing
+   available
+   for comparison.
+   Read by: [**Last Name (LF) **],[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 7747**]
+     Intervals Axes
+   Rate PR QRS QT/QTc P QRS T
+   53 [**Telephone/Fax (3) 7748**]/441 52 32 53
+   Assessment and Plan
+   AORTIC ANEURYSM, THORACIC (TAA)
+   Assessment and Plan: IS/ambulation. Wean neosynepherine.  Remove lumbar
+   drain (ICP 8).  Restart heparin 2 hours after lumbar drain removal per
+   Dr. [**Last Name (STitle) 7749**] and initiate 10mg coumadin for mechanical AVR.  Monitor
+   left groin hematoma.  Transfer to floor.
+   Neurologic: ICP monitor, Pain controlled, remove lumbar drain (ICP 8)
+   Cardiovascular: Aspirin, Beta-blocker, Restart heparin and initiate
+   10mg coumadin for mechanical AVR
+   Pulmonary: IS
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Regular diet, ADAT
+   Renal: Foley, remove foley tonight.  start to diurese later today.
+   Hematology: Hct stable
+   Endocrine: RISS
+   Infectious Disease: none indicated
+   Lines / Tubes / Drains: Foley
+   Wounds: Left groin OTA
+   Imaging: none indicated
+   Consults: Vascular surgery, CT surgery, Anesthesia for lumbar drain
+   ICU Care
+   Nutrition: ADAT, regular cardiac diet
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2509-7-16**] 12:36 PM
+   Cordis/Introducer - [**2509-7-16**] 12:37 PM
+   16 Gauge - [**2509-7-16**] 12:37 PM
+   20 Gauge - [**2509-7-16**] 12:38 PM
+   ICP Catheter - [**2509-7-16**] 12:50 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Heparin drip, Coumadin (R))
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Disposition: Transfer to floor
+
+
+
+DOC CLASS

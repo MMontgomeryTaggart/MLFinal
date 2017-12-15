@@ -1,0 +1,213 @@
+CVICU
+   HPI:
+   HD12   POD 6-CABG x4 (LIMA>LAD, SVG>diag, SVG>om, SVG>rca)
+    POD 1-cardiac catheterization, ICD placement
+   Ejection Fraction:20
+   Hemoglobin A1c:5.7
+   Pre-Op Weight:216.05 lbs   98 kgs
+   Baseline Creatinine:2.0-2.3
+   PMH: HTN, Dyslipidemia, DM, CAD s/p Cypher DES to LCx and D1 [**9-28**]
+   GERD, BPH, CRI, LUE tremor x 2 years s/p left leg surgery after
+   fracture, s/p bilat cataract surgery, s/p excision of malignant skin CA
+   on back
+   [**Last Name (un) **]: Actos 30', Atenolol 25', Flomax 0.4', Lasix 20", Lopid 600"
+   Simvastatin 80', ASA 325', MVI
+   Current medications:
+   Acetaminophen 3. Albuterol 0.083% Neb Soln 4. Albumin 25% (12.5g /
+   50mL) 5. Aspirin EC 6. Atropine Sulfate
+   7. Bisacodyl 8. Calcium Gluconate 9. Carvedilol 10. Captopril 11.
+   Cyanocobalamin 12. Dextrose 50%
+   13. Docusate Sodium 14. Furosemide 15. Gemfibrozil 16. Heparin 17.
+   Heparin Flush (10 units/ml) 18.
+   19. Ipratropium Bromide Neb 20. Magnesium Sulfate 21. Metolazone 22.
+   Milk of Magnesia 23. Morphine Sulfate
+   24. Oxycodone-Acetaminophen 25. Potassium Chloride 26. Polyethylene
+   Glycol 27. Ranitidine 28. Simvastatin
+   31. Tamsulosin 32. Vancomycin
+   24 Hour Events:
+ CARDIAC CATH - At [**3460-11-26**] 08:45 AM
+ MULTI LUMEN - STOP [**3460-11-26**] 04:30 PM
+ MIDLINE - START [**3460-11-26**] 06:28 PM
+   left basilic
+ AICD placement.
+   Post operative day:
+   POD#6 - recieved fromOR for CABG
+   Allergies:
+   Lisinopril
+   hyperkalemia;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3460-11-27**] 12:11 AM
+   Morphine Sulfate - [**3460-11-27**] 06:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3460-11-27**] 08:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**62**] a.m.
+   Tmax: 37.1
+C (98.8
+   T current: 36.7
+C (98
+   HR: 103 (84 - 103) bpm
+   BP: 110/58(76) {99/50(67) - 128/66(90)} mmHg
+   RR: 29 (15 - 31) insp/min
+   SPO2: 92%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 111 kg (admission): 98 kg
+   Height: 66 Inch
+             Total In:
+                                                                    729 mL
+                                                                    743 mL
+   PO:
+                                                                    120 mL
+                                                                    660 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    609 mL
+                                                                     83 mL
+   Blood products:
+   Total out:
+                                                                  1,060 mL
+                                                                    910 mL
+   Urine:
+                                                                  1,060 mL
+                                                                    910 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -331 mL
+                                                                   -167 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 92%
+   ABG: 7.41/47/82/27/3
+   PaO2 / FiO2: 207
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: throughout), mid incision click, small amount serosanguous
+   drainage
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), left EVH steristrips
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   360 K/uL
+   8.6 g/dL
+   103 mg/dL
+   2.0 mg/dL
+   27 mEq/L
+   4.2 mEq/L
+   53 mg/dL
+   101 mEq/L
+   138 mEq/L
+   26.1 %
+   9.2 K/uL
+        [image002.jpg]
+                             [**3460-11-24**]  08:42 AM
+                             [**3460-11-24**]  02:16 PM
+                             [**3460-11-24**]  04:15 PM
+                             [**3460-11-24**]  05:00 PM
+                             [**3460-11-25**]  12:50 AM
+                             [**3460-11-25**]  12:00 PM
+                             [**3460-11-25**]  03:40 PM
+                             [**3460-11-26**]  03:05 AM
+                             [**3460-11-26**]  11:31 AM
+                             [**3460-11-27**]  04:00 AM
+   WBC
+   12.1
+   11.6
+   10.6
+   9.2
+   Hct
+   28.4
+   29.2
+   27.7
+   26.1
+   Plt
+   [**Telephone/Fax (3) 12315**]60
+   Creatinine
+   2.2
+   2.2
+   2.3
+   2.0
+   Troponin T
+   5.51
+   5.73
+   TCO2
+   23
+   28
+   25
+   31
+   Glucose
+   140
+   127
+   129
+   121
+   118
+   150
+   138
+   103
+   Other labs: PT / PTT / INR:20.1/33.4/1.9, CK / CK-MB / Troponin
+   T:120/3/5.73, ALT / AST:65/54, Alk-Phos / T bili:99/0.4, Amylase /
+   Lipase:41/36, Fibrinogen:643 mg/dL, Lactic Acid:1.2 mmol/L, Albumin:3.0
+   g/dL, LDH:412 IU/L, Ca:7.9 mg/dL, Mg:2.9 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   CARDIAC ARREST, AEROBIC CAPACITY / ENDURANCE, IMPAIRED, AIRWAY
+   CLEARANCE, IMPAIRED, KNOWLEDGE, IMPAIRED, RESPIRATION / GAS EXCHANGE,
+   IMPAIRED, TRANSFERS, IMPAIRED, CORONARY ARTERY BYPASS GRAFT (CABG)
+   Assessment and Plan: 69 year old male s/p CABG x4 (LIMA>LAD, SVG>diag,
+   SVG>om, SVG>rca) [**11-21**]
+   Neurologic: Minimize sedatives.
+   Cardiovascular: Aspirin, Beta-blocker, Statins, Cath yesterday
+   demonstrating good graft patency.  AICD inserted yesterday; Restarted
+   Coreg and decreased ace-inhibitor.
+   Pulmonary: IS, OOB.
+   Gastrointestinal / Abdomen: standard bowel regimen.
+   Nutrition: Advance diet as tolerated , Encourage PO intake.
+   Renal: Foley, Adequate UO, Bicarb gtt overnight following cath
+   yesterday, cont to follow urine output today and agree with supplement
+   intravascular volume with albumin and lasix as creat is improved and he
+   remains globally volume overloaded.
+   Hematology: Mod anemia.
+   Endocrine: RISS
+   Infectious Disease: Vanco for AICD inserted.
+   Lines / Tubes / Drains: Foley
+   Wounds: Dry dressings
+   Imaging:
+   Fluids: KVO
+   Consults: CT surgery
+   Billing Diagnosis: Cardiac arrest, (Respiratory distress: Insufficiency
+   / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3460-11-26**] 07:27 AM
+   22 Gauge - [**3460-11-26**] 04:30 PM
+   20 Gauge - [**3460-11-26**] 06:00 PM
+   Midline - [**3460-11-26**] 06:28 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 33 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

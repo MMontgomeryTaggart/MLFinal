@@ -1,0 +1,236 @@
+CVICU
+   HPI:
+   HD22
+   [**1-12**] POD 20/3
+   72F CABGX3 (LIMA-LAD,SVG-OM,SVG-PDA)IABP-preop [**12-24**], trach and peg
+   [**1-9**]
+   EF:40% CR:1.3 WT: 64kg HgA1c:5.1
+   PMH;COPD,depression,DJD,FeDef.anemia,HTN,monoclonal gammopathy
+   [**Last Name (un) 500**]:albuterol1-2p prn,alprazolam 0.5 HS,Atenolol100/D,Tricor
+   145/D,Spiriva 1 IH/D,Verapamil 200/HS,Torsemide 20BID,Lisinopril
+   40/D,Advair 1p [**Hospital1 **],Fluoxetine 20/D ASA, FeSO4 [**Hospital1 **] VitD
+   Current medications:
+   Acetaminophen, Albuterol-Ipratropium, Albuterol 0.083% Neb Soln,
+   Amiodarone, Aspirin, Atorvastatin, Beclomethasone Dipropionate,
+   Bisacodyl, Docusate Sodium, Fluoxetine, Furosemide, Heparin,
+   Ipratropium Bromide Neb, Lactulose, Lansoprazole Oral Disintegrating
+   Tab, Metoprolol Tartrate, Warfarin
+   24 Hour Events:
+   Remains in ICU ventilated, weaning as tolerated
+   Remains in atrial flutter
+ EKG - At [**3105-1-11**] 10:14 AM
+   to check QTc
+   Post operative day:
+   POD#19 - cabg x3
+   POD#3 - open trach and PEG
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**3105-1-10**] 08:00 PM
+   Fluconazole - [**3105-1-10**] 08:00 PM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**3105-1-11**] 08:00 AM
+   Metoprolol - [**3105-1-11**] 02:15 PM
+   Heparin Sodium - [**3105-1-12**] 04:00 AM
+   Other medications:
+   Flowsheet Data as of  [**3105-1-12**] 08:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**07**] a.m.
+   Tmax: 37.6
+C (99.7
+   T current: 37.3
+C (99.2
+   HR: 66 (66 - 104) bpm
+   BP: 128/50(69) {90/37(58) - 149/74(91)} mmHg
+   RR: 25 (23 - 39) insp/min
+   SPO2: 100%
+   Heart rhythm: A Flut (Atrial Flutter)
+   Wgt (current): 79 kg (admission): 62.7 kg
+   Height: 56 Inch
+                  Total In:
+                                                                  1,721 mL
+                                                                    710 mL
+   PO:
+                  Tube feeding:
+                                                                  1,200 mL
+                                                                    400 mL
+   IV Fluid:
+                                                                    281 mL
+   Blood products:
+   Total out:
+                                                                  1,454 mL
+                                                                    611 mL
+   Urine:
+                                                                  1,404 mL
+                                                                    611 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    267 mL
+                                                                     99 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 315 (250 - 356) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 24
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 104
+   PIP: 16 cmH2O
+   SPO2: 100%
+   ABG: ///31/
+   Ve: 5.1 L/min
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ), (Sternum: Stable ), sternal incision, tissue pink no
+   drainage - wet to dry dressing [**Hospital1 **]
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present,
+   Obese, diarrhea [**1-11**] 50 ml
+   Left Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 3+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), left EVH
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities, alert, nods yes and no appropriately, mouth
+   words
+   Labs / Radiology
+   259 K/uL
+   10.0 g/dL
+   105 mg/dL
+   0.7 mg/dL
+   31 mEq/L
+   4.2 mEq/L
+   25 mg/dL
+   107 mEq/L
+   143 mEq/L
+   30.6 %
+   16.0 K/uL
+        [image002.jpg]
+                             [**3105-1-7**]  02:57 AM
+                             [**3105-1-7**]  06:12 AM
+                             [**3105-1-7**]  12:02 PM
+                             [**3105-1-8**]  03:00 AM
+                             [**3105-1-9**]  01:01 AM
+                             [**3105-1-9**]  04:38 PM
+                             [**3105-1-10**]  01:47 AM
+                             [**3105-1-10**]  02:24 AM
+                             [**3105-1-11**]  02:04 AM
+                             [**3105-1-12**]  03:37 AM
+   WBC
+   16.1
+   15.5
+   15.6
+   15.4
+   16.2
+   16.0
+   Hct
+   31.1
+   31.0
+   31.2
+   39.6
+   31.8
+   30.6
+   Plt
+   400
+   352
+   315
+   272
+   228
+   259
+   Creatinine
+   1.6
+   1.1
+   0.8
+   0.8
+   0.7
+   0.7
+   TCO2
+   23
+   25
+   30
+   Glucose
+   88
+   82
+   87
+   96
+   98
+   83
+   80
+   95
+   105
+   Other labs: PT / PTT / INR:17.3/33.1/1.6, ALT / AST:16/48, Alk-Phos / T
+   bili:82/1.8, Amylase / Lipase:76/165, Differential-Neuts:85.6 %,
+   Band:0.0 %, Lymph:6.3 %, Mono:5.3 %, Eos:2.5 %, Fibrinogen:401 mg/dL,
+   Lactic Acid:1.3 mmol/L, Albumin:3.0 g/dL, LDH:243 IU/L, Ca:8.3 mg/dL,
+   Mg:1.9 mg/dL, PO4:2.5 mg/dL
+   Imaging: [**1-10**] CXR sm left effusion, bilateral atelectasis
+   Microbiology: MRSA [**1-9**] no growth
+   sputum [**1-9**] no growth
+   urine [**1-6**] no growth
+   blood cx [**1-9**] pending
+   cdiff [**1-2**] negative
+   Assessment and Plan
+   WOUND DEHISCENCE, ADLS (ACTIVITIES OF DAILY LIVING), INABILITY TO
+   PERFORM, BALANCE, IMPAIRED, KNOWLEDGE, IMPAIRED, MUSCLE PERFORMACE,
+   IMPAIRED, POSTURE, IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED,
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**]), HYPOTENSION (NOT SHOCK),
+   ALTERED MENTAL STATUS (NOT DELIRIUM), CORONARY ARTERY BYPASS GRAFT
+   (CABG), .H/O HEPATITIS, ISCHEMIC (SHOCK LIVER), .H/O ANXIETY, .H/O
+   BACTEREMIA, ALTERATION IN NUTRITION, ALTERATION IN ELIMINATION RELATED
+   TO CONSTIPATION, HYPOKALEMIA (LOW POTASSIUM, HYPOPOTASSEMIA), [**Last Name **]
+   PROBLEM - ENTER DESCRIPTION IN COMMENTS, ACIDOSIS, RESPIRATORY, ATRIAL
+   FIBRILLATION (AFIB), HYPONATREMIA (LOW SODIUM, HYPOSMOLALITY), FEVER
+   (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), RENAL FAILURE,
+   ACUTE (ACUTE RENAL FAILURE, ARF), CORONARY ARTERY DISEASE (CAD,
+   ISCHEMIC HEART DISEASE)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, tyenol prn pain,
+   continue home fluoxetine
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   atrial flutter rate controlled
+   Pulmonary: Trach, (Ventilator mode: CPAP + PS), trach collar trials
+   today, tolerated 4 hours [**1-11**], nebs ATC
+   Gastrointestinal / Abdomen: Diarrhea resolving
+   Nutrition: Tube feeding, Impact with fiber rate 50 ml/hr with 250 ml
+   q6h free water
+   Renal: Foley, hypernatremia resolved, continue free water with tube
+   feeds and monitor sodium level, continue lasix for diuresis with goal
+   1000 ml negative in 24 hours still 15 kg up from preoperative weight,
+   goal for gentle diuresis due to previous acute renal failure
+   Hematology: stable anemia, coumadin for atrial flutter - 4mg today with
+   goal INR 2-2.5 for atrial flutter
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: WBC stable, afebrile - fluconazole stopped per ID,
+   completed course,
+   Lines / Tubes / Drains: Foley, Trach
+   Wounds: Wet / Dry dressings
+   Consults: ID dept, P.T., Nutrition
+   ICU Care
+   Nutrition:
+   Impact with Fiber (Full) - [**3105-1-11**] 11:53 PM 50 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3105-1-10**] 12:35 PM
+   Prophylaxis:
+   DVT: Boots (Systemic anticoagulation: Coumadin (R))
+   Stress ulcer: PPI
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to rehab / long term facility
+
+
+
+DOC CLASS

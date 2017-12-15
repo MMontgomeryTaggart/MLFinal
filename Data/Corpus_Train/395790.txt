@@ -1,0 +1,315 @@
+Chief Complaint:  dyspnea
+   HPI:
+   This is an 83 year old woman who is transferred to us from the general
+   surgical service POD3 s/p ileocecectomy for a colonic lesion identified
+   as adenocarcinoma by colonoscopy. Her operation evidently was without
+   complication with anastomosis made without difficulty by staple and
+   silks and the abdominal incision healing well post-operatively. She has
+   had a hematocrit drop post-operatively but has been stable. Overnight
+   by report of the surgical resident she became tachypneic and was having
+   progressively lower O2 sats. She was given 10 mg IV lasix (apparently
+   x3 doses; at 1650 on the day prior to transfer, which was then followed
+   by 500 ml NS over 2 hours also recorded at 1650; then with another 10
+   mg at 0050, and another at 0225) to which she had some urine output but
+   her oxygen saturation did not improve. The initial trigger note was
+   written at 0040 on the morning of transfer and noted that she was
+   satting 85% on 3L, then 90% on 6L NC evidently plus nebulizer at 0.70
+   FiO2. She was maintained on a NRB but continued to have respiratory
+   difficult and did not improve, at which point in the morning she was
+   transferred to the [**Hospital Unit Name 1**] for further evaluation and care.
+   In the [**Hospital Unit Name 1**], she denied chest pain or chest tightness. She was
+   complaining of cough (and coughing up small amounts of brownish/
+   rust-colored sputum) and was finding her mask to be uncomfortable. She
+   said she had abdominal pain only with coughing. She was also noting
+   that for the past three days after her operation she was having
+   hallucinations although she was able to distinguish this from reality.
+   She was fully oriented.
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2775-6-16**] 10:15 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2775-6-16**] 09:30 AM
+   Heparin Sodium (Prophylaxis) - [**2775-6-16**] 10:15 AM
+   Other medications:
+   Home medications:
+   Tylenol, warfarin(stopped [**2775-5-25**]), vaginal cream, simvastatin 20',
+   atenolol 50", verapamil 120"", metformin 500", alprazolam 0.25' prn,
+   iron, citracal, MVI
+   TRANSFER MEDICATIONS
+   Verapamil 120 mg PO Q12H
+   Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain
+   Docusate Sodium 100 mg PO BID
+   Ipratropium Bromide Neb 1 NEB IH Q6H:PRN wheezing
+   Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing
+   Atenolol 50 mg PO DAILY
+   Past medical history:
+   Family history:
+   Social History:
+   spinal stenosis
+   HTN
+   PAF
+   Vertigo
+   Obesity
+   DMII
+   Anemia (noted pre-colonoscopy, etc)
+   denies past pulmonary disease or asthma
+   PSH
+   hysterectomy
+   rotary cuff repair
+   breast reduction
+   father died in accident; mother had liver cancer; brother and sister
+   are alive and well
+   Occupation: Worked in bank; also making gold-leaf frames. Denies any
+   past exposure to asbestos, solvents or other chemicals
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: denies any
+   Other: Immigrated from [**Country 6215**] >30 years ago; of Russian and Polish
+   [**Hospital1 217**] ancestry. Sometimes attends synagogue for high holy day services
+   "for tradition" but is otherwise not religious. States that daughter
+   and son should make decisions together but also states that grandson is
+   healthcare proxy.
+   Review of systems:
+   Constitutional: Fatigue
+   Eyes:  Blurry vision, some diplopia
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations
+   Respiratory: Cough, Dyspnea, Tachypnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, +flatus
+   Genitourinary: Foley
+   Integumentary (skin): No(t) Rash
+   Flowsheet Data as of [**2775-6-16**] 12:00 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.3
+   Tcurrent: 36.8
+C (98.3
+   HR: 104 (64 - 104) bpm
+   BP: 136/61(80) {117/43(67) - 138/61(80)} mmHg
+   RR: 31 (20 - 31) insp/min
+   SpO2: 93%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             100 mL
+   PO:
+             TF:
+   IVF:
+   100 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    965 mL
+   Urine:
+   965 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -865 mL
+   Respiratory
+   O2 Delivery Device: High flow neb
+   SpO2: 93%
+   ABG: ///22/
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: S3, S4
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   , Rhonchorous: )
+   Abdominal: Non-tender, Distended, very faint bowel sounds; well-healing
+   abdominal incision w staples
+   Extremities: Right: Absent, Left: Absent, No(t) Cyanosis
+   Skin:  Not assessed, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to):
+   hospital, year, reason for being here, medical circumstances; is having
+   hallucinations however, Movement: moving all 4 ext w/o difficulty;
+   strength intact in grip and biceps symmetrically, Tone: Not assessed,
+   reports seeing people who are not here
+   Labs / Radiology
+   147 mg/dL
+   0.8 mg/dL
+   22 mg/dL
+   22 mEq/L
+   99 mEq/L
+   5.1 mEq/L
+   135 mEq/L
+        [image002.jpg]
+                                  [**2772-1-31**]
+                          2:33 A5/18/[**2775**]  09:22 AM
+                                  [**2772-2-4**]
+                                   10:20 P
+                                  [**2772-2-5**]
+                                   1:20 P
+                                  [**2772-2-6**]
+                                   11:50 P
+                                  [**2772-2-7**]
+                                   1:20 A
+                                  [**2772-2-8**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2772-3-2**]
+                                   1:20 P
+                                  [**2772-3-2**]
+                                   11:20 P
+                                  [**2772-3-2**]
+                                   4:20 P
+   Cr
+                                     0.8
+   Glucose
+                                     147
+   Other labs: PT / PTT / INR:12.4/19.4/1.0
+   Assessment and Plan
+   This is an 83 year old woman with past Afib and hypertension who is now
+   POD 3 s/p ileocecectomy.
+   DYSPNEA / HYPOXIA
+   Ongoing evidence of worsening pulmonary edema. Unclear reason. No past
+   dx of heart failure, but has been 4.5 liters up post-op. Currently
+   cardiac enzymes are negative. EKG changes probably c/w demand [**3-3**] afib
+   and tachycardia, but may be concerning for ischemia; may suggest R
+   heart strain, is potentially concerning for PE although if pulm edema
+   is evidence of left heart failure this would argue against a pulm
+   source of R heart failure; no signs of R heart failure currently
+   peripherally. Evolving CXR is not symmetrical, concern for possible
+   aspiration
+ pneumonia although evolving pulm edema is probably still
+   more likely; lack of fever not persuasive argument against PNA given pt
+   age.
+   -          cycle cardiac enzymes
+   -          cardiac echo
+   -          CTA once able to lay flat, less agitated; post lasix if
+   continuing to have good urine output; check lytes to ensure OK renal
+   function for contrast
+   -          Follow EKG
+   -          Hi-flow mask for now, low threshold for BiPAP; may intubate
+   if needed but holding O2 sats for now
+   -          Control HR; sent down on home atenolol which she got at 0330
+   today. Advancing metoprolol.
+   -          Consider afterload reduction if continuing to worsen w high
+   BP
+   -          Start zosyn to cover HAP including pseudomonas given time on
+   vent in OR, etc
+   -          Sending blood cultures
+   -          Giving aspirin
+   DELIRIUM
+   Hallucinating, some agitation (picking at bedclothes); remains oriented
+   to place, year, and situation. Most likely hospital delirium. Question
+   of benzo w/d but no tremor; anxiety not a prominent feature. Hypoxia is
+   likely contributor although she reportedly has had this problem since
+   after her surgery, arguing for earlier onset of delirium. Was on
+   reglan, this was d/c
+ed earlier by surgical team.
+   -          try low doze zydis for now; Haldol if not effective
+   -          monitor closely for signs of benzo w/d
+   -          UA, UCx
+   POST-ABDOMINAL SURGERY
+   Cautious low-dose opiates for pain prn. Concern for delirium.
+   -          Monitor BMs closely.
+   -          Increase bowel regimen.
+   -          Per surgery, may advance diet given +flatus; would do so v
+   cautiously given delirium, supervised sips only for now, ADAT if safe
+   DMII
+   Holding home metformin. Continue ISS, FSBS.
+   HTN
+   While in unit moving atenolol back to metoprolol, starting this at MN
+   tonight given has already received atenolol. Normotensive currently in
+   setting of afib, received atenolol and verapamil.
+   -      advancing metoprolol, holding atenolol, for greater speed of
+   response and flexibility
+   -      continue verapamil but see below
+   AFIB
+   See above re metoprolol. Continue verapamil for now; she will be having
+   effects of verapamil+atenolol through the day today. Continuing to be
+   in afib but not in RVR at this point.
+   -          Increasing metoprolol for now, give IV to cover increasing
+   rate
+   PAIN
+   Can receive prn opiates if needed. Given delirium, and b/c pt now
+   denying pain, have not put this in as an order yet, but monitor
+   closely.
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   22 Gauge - [**2775-6-16**] 08:45 AM
+   18 Gauge - [**2775-6-16**] 10:01 AM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: Full code (discussed w patient and daughter)
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING PROGRESS NOTE
+   I saw and examined the patient and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan.I would emphasize and add
+   the following points:  83 yo F with a-fib, htn, dm, post-op day 3 from
+   ileocecectomy (for colon adeno ca) transferred to [**Hospital Unit Name 1**] for increasing
+   dyspnea, hypoxia, and delerium. Tachycardic but not hypotensive.
+   Progressive increase in O2 requirements yesterday despite lasix now on
+   100% NRB. CXR appears most c/w failure.. Given lasix 40 IV
+   peritransfer--> 1 L u/out since arrival to ICU.  Abg --> 7.49/35/75
+   (high flow 100%).
+   PMH--A-fib, DM, htn
+   fm, sh, meds, as per resident h and p.
+   Exam notable for Tm AF  BP 141/77  HR a-fib 80-90's--> 110's  RR 30
+   with sat on 99-100% high flow .
+   Elderly F, confused, but oriented, without acc muscle use, coarse
+   BS/rales throughout, [**Last Name (un) **] tachy, +bs, soft, trace edema
+   Labs notable for WBC 10 K,  HCT 29, plt  215   K+ 3.7, Cr   0.8, trop
+   0.04, c k222
+   CXR with evolving diffuse b/l pulm edema, full hilar vessels, small
+   lung volumes, prob sm L effusion
+   EKG change in qrs axis 1, 3, TW flattening 2, 3, 1mm st dep in V2.
+   Issues include:
+     * Hypoxemia
+     * Resp alkalosis
+     * Pulmonary edema/diffuse asd
+     * htn,
+     * atrial fibrillation,
+     * delerium/AMS
+     * trop elevation, probable demand ischemia
+   Cxr appearance is most c/w pulm edema though pna/asd possible.  PE
+   seems much less likely given the abnormal cxr finding to explain
+   hypoxemia and elevated bp. Agree with plan to diurese with lasix and
+   rate control with bb and optimize bp.  Consider low dose
+   morphine/nitro.   Could try nippv though pt unlikely to tolerate given
+   agitation. If unable to wean o2 and pt with increased wob/fatigue will
+   need intubation.   Follow serial cardiac enzymes given elevated initial
+   trop --? demand ischemia vs acs.  Give asa (clear with surgery) and
+   heparin gtt if repeat trop elevated.  TTE. Consider cta pending
+   additional w/u given higher concern for chf,, as ct will also provide
+   additional info on lung parecnchyma.  Pt too agitated to tolerate lying
+   still and would require intubation for procedure. Given lower
+   suspicion, will start with lenis, tte.  Cover empirically with
+   zosyn/vanco given slightly assym appearance of cxr findings, though
+   without leukocytosis infection is lower ddx and send cxs.  Delerium
+   likely post-op in elderly pt, but infection or less likely benzo
+   withdrawal could play role.  C/s pysch for input on management given
+   high outpt use of xanax, give zyprexa/haldol for agitation and follow
+   ecg.  Check tsh, b12, folate. Post=op management and additional input
+   per surgery team.   PIVs.  A-line if pt able to tolerate, sq hep, ssi.
+   Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 206**] [**Last Name (NamePattern1) 207**], MD
+   on:[**2775-6-16**] 08:35 PM ------
+
+
+
+DOC CLASS

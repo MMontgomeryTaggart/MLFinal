@@ -1,0 +1,66 @@
+Admission Date:  [**3508-8-25**]       Discharge Date:
+
+Date of Birth:   [**3459-2-15**]       Sex:  F
+
+Service:
+CONTINUATION:
+
+PRETRANSPLANT LABORATORY DATA:  Abdominal ultrasound to rule
+out gallstones in precardiac transplant patient.  The
+gallbladder is normal without evidence of stones.  The common
+Both right and left kidneys are normal without hydronephrosis
+or stones.  The pancreas and spleen are unremarkable.  The
+impression is that this is a normal abdominal ultrasound.
+
+Most recent complete blood count revealed white blood cell
+count 3.3, hemoglobin 9.0, hematocrit 26.7, platelets
+241,000.  Bleeding time was 7 minutes.  Chemistry revealed
+blood urea nitrogen 35, creatinine 1.0 and glucose 77.
+Magnesium 1.9.
+
+Respiratory culture of the sputum revealed no predominance of
+these respiratory pathogens, Streptococcus pneumoniae, H.
+influenzae, and M. catarrhalis.  Fungal culture of the sputum
+revealed no fungus isolated.  Gram stain of the sputum
+contamination with oropharyngeal secretions.  Fungal culture
+of the urine revealed no fungus isolated.
+
+CONDITION ON DISCHARGE:  Stable, on transfer.
+
+DISCHARGE STATUS:  Transferred to [**Hospital 3952**]
+under the Cardiology Service with Dr. [**First Name8 (NamePattern2) 25**] [**Last Name (NamePattern1) 3953**] as
+cardiology attending, for management/listing for cardiac
+transplantation.
+
+DISCHARGE DIAGNOSIS:  Severe dilated cardiomyopathy, status post
+mitral valve replacement times three. NYHA class IV.
+
+DISCHARGE MEDICATIONS:
+1.  Captopril 50 mg p.o. t.i.d.
+2.  Milrinone 0.375 mg/kg/minute intravenous drip.
+3.  Nitroglycerin intravenous drip 100 mg/minute.
+4.  Coreg 3.125 mg p.o. b.i.d.
+5.  Amiodarone 200 mg p.o. q.d.
+6.  Premarin 0.625 mg q.d.
+7.  Lasix 120 mg p.o. b.i.d.
+
+
+
+
+
+
+
+DR.[**Last Name (STitle) 3954**],[**First Name3 (LF) **] H. 11-628
+
+MEDQUIST36
+
+D:  [**3508-9-8**]  16:34
+T:  [**3508-9-8**]  18:13
+JOB#:  [**Job Number 3955**]
+
+
+
+
+
+
+DOC CLASS

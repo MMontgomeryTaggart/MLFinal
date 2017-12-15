@@ -1,0 +1,455 @@
+Admission Date:  [**3451-7-8**]              Discharge Date:   [**3451-7-22**]
+
+Date of Birth:  [**3386-7-24**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 1460**]
+Chief Complaint:
+cardiac arrest
+
+Major Surgical or Invasive Procedure:
+Endotraceal intubation on [**3451-7-8**]
+Central line placement
+Cardiac catheterization with no intervention
+
+
+History of Present Illness:
+65M w/PMHx CAD s/p 5v CABG, aortic valve replacement, aortic
+arch graft, DM, HLD, HTN was transferred to the CCU s/p cardiac
+arrest. Patient was found by family members to suddenly slump
+over while sitting. Per family he was having problems with GI
+upset and breathing after returning from a trip to CVS.  He was
+dyspneic which turned to lethargy, cold clammy skin,
+diaphoretic, pale, and finally unresponsiveness. He was held in
+sitting position by family member. [**Name (NI) **] EMS, he was found to be
+in agonal respirations shortly followed by cardiac arrest,
+received 2min of CPR AED with no shock advised, had ROSC. He was
+subsequently intubated in the field using RSI.  EKG in the field
+reported 2nd degree AV block type 1 with LBBB.
+
+On presentation to the ED, he was initialy HDS and a cardiology
+consult was called.  Given setting of high K (6.7) and old LBBB
+and possible respiratory arrest, cardiology decided to not take
+patient to cath lab.
+
+Patient continued to be persistently hypotensive and cards
+consult was called back.  At this time levophed was started 0.03
+which corrected the hypotension, and the fellow did a bedside
+echo.  EF mildly depressed about 40% with possible apical
+hypokinesis.  However, patient was bradycardic to 40s during
+bedside Echo and received 0.5 g atropine which increased his
+rate to the mid 60s transiently.   Also given 2L and put out
+about 1 L
+
+The patient's intial hyperkalemia was treated with 2g of calcium
+gluconate for membrane stabilization, as well as 10U of insulin
+with concomittant D50 administration. Repeat measurement of
+potassium demonstrated an appropriate decrease.  He was also
+given albuterol/ipatropium nebs which decreased his peak
+pressures and improved breath sounds.  Vanc/Zosyn were started
+for empiric antibiotic coverage. A R femoral central line was
+placed due to his persistent hypotension- RIJ was not
+accessible.  CT head obtained and neg for acute intracrainal
+process per wet read.  CTA also obtained for concern of PE and
+found no PE but bilateral groundglass opacities and widespread
+consolidation.
+
+On arrival to the floor, patient was intubated and sedated.
+Dopamine drip started and levophed weaned off.
+
+REVIEW OF SYSTEMS: Not able to obtain as patient is intubated
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS: +Diabetes, +Dyslipidemia, +Hypertension
+
+2. CARDIAC HISTORY:
+[**3441**] abnl nuc went to cath, had to fix dilated ascending aorta,
+avr, 5 vessel cabg.  Not much f/u last couple of years.  Did
+have a nuc that was abnl in [**3448**] that showed moderate lateral
+ischemia- looked like his OM graft went down.  Had 70% stenosis
+of [**Last Name (LF) **], [**First Name3 (LF) **] maybe some perfusion through [**First Name3 (LF) **].  Last echo 1 year
+ago pretty normal.  Incomplete LBBB on nuclear in [**3448**].  Follows
+with Dr. [**Last Name (STitle) **]
+[**Name (STitle) 27996**]:  [**3441**]
+-AVR replacement
+-Asc Aortic aneurysm
+-GERD
+
+
+Social History:
+The patient lives with his wife
+Occupation: Retired pharmaceutical industry
+Mobility: unaided although does still walk with cicrumduction of
+his right leg
+Smoking: Ex-smoker quit 20 years ago previosu 20/day
+Alcohol: Rare
+Illicits: No
+
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death;
+Father - DM
+Sibs - 2 brothers - 1 died from sequelae of drig use, other
+brother well
+
+Physical Exam:
+Vitals: T:36.9oC P:68  R:20  BP:141/64  SaO2:100% 40% O2
+General: Intubbated, drowsy and agitated on awakening not
+following commands.
+HEENT: NC/AT, no scleral icterus noted
+Neck: Reduced ROM, no carotid bruits appreciated. No clear
+nuchal
+rigidity.
+Pulmonary: Lungs CTA bilaterally with decreased breath sounds
+both bases.
+Cardiac: RRR, nl. no ESM with prosthetic S2.
+Abdomen: soft, normoactive bowel sounds.
+Extremities: Slight ankle edema, 2+ radial, DP pulses
+bilaterally. Calves soft bilaterally.
+Skin: no rashes or lesions noted.
+
+Pertinent Results:
+Admission Labs:
+[**3451-7-8**] 02:00AM BLOOD WBC-9.4 RBC-3.08* Hgb-9.5* Hct-29.2*
+MCV-95 MCH-30.7 MCHC-32.4 RDW-13.3 Plt Ct-225
+[**3451-7-8**] 02:00AM BLOOD Neuts-78.7* Lymphs-13.2* Monos-5.4
+Eos-2.4 Baso-0.2
+[**3451-7-8**] 12:00AM BLOOD PT-10.6 PTT-30.5 INR(PT)-1.0
+[**3451-7-8**] 12:00AM BLOOD Glucose-257* UreaN-16 Creat-1.4* Na-133
+K-6.7* Cl-100 HCO3-26 AnGap-14
+[**3451-7-8**] 12:00AM BLOOD ALT-31 AST-60* AlkPhos-93 TotBili-0.2
+[**3451-7-8**] 12:00AM BLOOD cTropnT-<0.01
+[**3451-7-8**] 08:51AM BLOOD CK-MB-5 cTropnT-<0.01
+[**3451-7-8**] 05:35PM BLOOD CK-MB-5 cTropnT-<0.01
+[**3451-7-8**] 12:00AM BLOOD Albumin-4.2 Calcium-8.6 Phos-6.0* Mg-2.5
+Iron-72
+[**3451-7-8**] 12:00AM BLOOD TSH-13*
+[**3451-7-8**] 12:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3451-7-8**] 12:14AM BLOOD Lactate-2.5* Na-135 K-6.3* Cl-103
+.
+Discharged Labs:
+[**3451-7-21**] 10:40AM BLOOD WBC-8.4 RBC-3.11* Hgb-9.6* Hct-29.1*
+MCV-94 MCH-30.8 MCHC-32.9 RDW-13.4 Plt Ct-422
+[**3451-7-12**] 04:59AM BLOOD Neuts-66.4 Lymphs-21.1 Monos-7.2 Eos-5.0*
+Baso-0.3
+[**3451-7-21**] 10:40AM BLOOD PT-11.4 PTT-35.6 INR(PT)-1.1
+[**3451-7-21**] 10:40AM BLOOD Glucose-195* UreaN-24* Creat-1.2 Na-139
+K-4.7 Cl-103 HCO3-26 AnGap-15
+[**3451-7-11**] 03:13AM BLOOD ALT-21 AST-26 LD(LDH)-170
+[**3451-7-20**] 07:55AM BLOOD Calcium-9.1 Phos-3.7 Mg-2.3
+.
+[**7-9**]: Cardiac Echo
+The left atrium is normal in size. There is mild symmetric left
+ventricular hypertrophy with normal cavity size and global
+systolic function (LVEF>55%). Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully
+excluded. There is no ventricular septal defect. Right
+ventricular chamber size and free wall motion are normal. The
+diameters of aorta at the sinus, ascending and arch levels are
+normal. A bioprosthetic aortic valve prosthesis is present. The
+aortic valve prosthesis appears well seated, with normal
+leaflet/disc motion and transvalvular gradients. The mitral
+valve leaflets are mildly thickened. Trivial mitral
+regurgitation is seen. There is borderline pulmonary artery
+systolic hypertension. There is no pericardial effusion.
+Compared with the prior study (images reviewed) of [**3451-7-8**], no
+clear change.
+
+[**7-8**]: Head CT w/o Contrast
+1.There is no evidence of acute hemorrhage, edema or acute
+territorial infarction.
+2.There are multiple areas of hypoattenuation that likely
+represent encephalomalacia from prior chronic infarctions.
+3.The left maxillary sinus is completely opacified with
+high-density material that could be due to inspissated
+secretions or possibly due to fungual nfection.  Clinical
+correlation is recommended to exclude a fungal infection.
+.
+[**7-8**]: CT Chest with and without contrast: IMPRESSION:
+1.No evidence of pulmonary embolism or acute aortic pathology.
+2.Status post aortic valve replacement and ascending aorta graft
+placement for aneurysm repair, with no evidence of graft
+failure.
+3.Dependent patchy pulmonary consolidations likely represent
+aspiration and or evolving pneumonia, in the appropriate
+setting.  Upper lung ground glass opacities could reflect
+additional component of pulmonary edema.
+4.Low-lying ET tube extends only 1.1 cm above the carina, and
+should be
+retracted by at least 2 to 3 cm.
+
+[**7-10**]: [**Doctor First Name 10194**] Duplex upper extermity: Normal appearance of the
+bilateral internal jugular and subclavian veins.
+
+[**7-10**]: Carotid U/S: The study is somewhat limited due to the
+dressing for the right internal jugular line and the neck
+swelling. There is mild heterogenous plaque bilaterally in the
+internal carotid arteries. On the right side, the peak systolic
+velocity in the common carotid artery is 114 cm/sec, in the ICA
+proximally is 96 cm/sec, in the mid portion of the ICA is 111
+cm/sec and in the distal portion 132 cm/sec. This yields an
+ICA/CCA ratio of 1.2, within normal limits. The right vertebral
+artery could not be clearly seen.
+The peak systolic velocity in the left common carotid artery was
+124 cm/sec. The peak systolic velocity in the left ICA
+proximally was 140 cm/sec, in the mid portion 121 cm/sec and
+distally 99 cm/sec yielding an ICA/CCA ratio of 1.1, within
+normal limits.  The vertebral artery on the left demonstrates
+antegrade flow.
+
+[**7-11**]: EEG: This is an abnormal continuous ICU EEG monitoring
+study because
+the background activity is continuous diffuse polymorphic delta
+and occasional [**3-21**] Hz theta activity. This is suggestive of
+moderate diffuse encephalopathy of nonspecific etiology. With
+history of cardiac arrest, hypoxic brain injury is one of the
+possibilities along with sedative medication, as the patient is
+still on a midazolam infusion. There are no epileptifrom
+discharges or electrographic seizures. Compared to the prior
+day's EEG, background activity is slightly slower, indicating
+slight worsening of cerebral function or additional medication
+effects.
+.
+[**7-15**]: Cardiac Cath:
+1. Selective coronary angiography of this right dominant system
+demonstrated severe three vessel native coronary artery disease.
+The LMCA had a distal 20% stenosis. The LAD was totally occluded
+proximally. The LCx had a totally occluded OM2. The RCA had a
+new appearing total occlusion distally and an 80% AM stenosis
+similar to cath in [**3441**].
+2. Selective arterial conduit angiography revealed a patent
+LIMA-LAD.
+3. Selective venous conduit angiography revealed a patent
+SVG-LAD. The SVG-OM-D1 and SVG-RPDA were occluded.
+4. Limited resting hemodynamics revealed systemic arterial
+hypertension with central aortic pressure of 156/68 mmHg.
+5. Unsuccessful attempt at opening CTO of RCA
+6. No other suitable targets for intervention
+
+FINAL DIAGNOSIS:
+1. Native three vessel coronary artery disease.
+2. Patent LIMA-LAD.
+3. Patent SVG-LAD. Occluded SVG-OM-D1 and SVG-RPDA.
+4. Systemic arterial hypertension.
+5. Unsuccesful attempt at opening CTO of RCA.
+.
+[**7-18**]: ECHO
+Left ventricular wall thickness, cavity size, and global
+systolic function are normal (LVEF>55%). Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be
+fully excluded. Right ventricular chamber size is normal. The
+aortic valve is not well seen. No aortic stenosis is seen. Trace
+aortic regurgitation is seen. The mitral valve leaflets are not
+well seen. Trivial mitral regurgitation is seen. The pulmonary
+artery systolic pressure could not be determined. There is no
+pericardial effusion.
+.
+IMPRESSION: Suboptimal image quality. Normal biventricular
+cavity sizes with preserved global left ventricular systolic
+function.
+.
+[**7-21**]: EP study
+1. No inducible sustained tachyarrythemias
+2. No evidence of an accessory pathway
+3. No evidence of conduction system abnormalities
+
+Brief Hospital Course:
+64 y/o male with PMHx of 5 v CABG, aortic valve replacement, and
+asc aortic aneurysm repair with CVA, was admitted to the CCU s/p
+"cardiac arrest" of unclear etiology.
+.
+ACTIVE ISSUES:
+#Cardiac Arrest/Syncope: The etiology of the patient's loss of
+consciousness remains in question. It is undocumented whether he
+ever truly lost his pulse. Given the patient's extensive cardiac
+history, arrhythmia, ischemia, and poor contractile function
+were considered as potential etiologies. The patient presented
+initially with unresponsiveness and with presumed conduction
+delays given his prolonged QRS and bradycardia. He was also
+hypotensive in the ED. Echo was relatively unrevealing at
+bedside (EF 45%)and his troponins was stable over subsequent
+days. ARDS, PE, Pneumonia, and aspiration were considered.  The
+chest CT suggested a pulmonary process, but greatly improved on
+the second day, suggesting aspiration pneumonitis. Patient was
+initially also started on broad spectrum antibiotics which were
+discontinued on subsequent days as he remained afebrile with
+normal urine and blood cultures and without any source of
+infection.
+.
+The patient received 0.5mg of atropine in the emergency
+department for bradycardia and was admitted to the cardiac care
+unit. He was stuporous; he had non-purposeful movement to
+noxious stimuli. Patient was continued on pressors for better BP
+management. He was brought to the CCU intubated and he was
+easily ventilated and oxygenated. Based upon presumption
+diagnosis of cardiac arrest, the cooling protocol was initiated
+and continuous EEG was started, revealing nonspecific slowing.
+The patient's primary process was thought unlikely neurologic in
+origin given dramatic hemodynamic sequelae of the event and
+negative CT head along with nonspecific slowing  on EEG.  On
+[**7-13**] patient was weaned off sedation and weaned off pressors.
+The patient was extubated as he was following commands and
+appeared to be neurologically intact although he was delirious.
+He was orientated to person and time and intermittently to
+place.
+.
+During his CCU stay he had an episode of bradycardia with
+complete heart block in the setting of severe GERD symptoms.  He
+was found to have lost his consciousness temporarily. Based on
+this episode, it was felt that his initiall presenting symptom
+may have also been vagally mediated due to severe GERD.  He was
+started on PPI and ranitidine with no further episode of
+arrhythmias on telemetry.  He also had a cath which showed
+severe three vessel disease with new occlusion in the RCA and
+attempt at opening CTO of RCA was unsuccessful.  Subsequently he
+han EP study which did not reveal any inducible tachyarrhythmia
+or any new conduction abnormalities.  He will follow up with Dr.
+[**Last Name (STitle) **] as an outpatient for further evaluation and management of
+his CAD.
+.
+# Delirium: After coming off of sedation and being extubated
+patient was agitated and delirious. No infectious or neurologic
+etiologies were identified. CT's showed no acute bleed, no Sz
+activity, neuro has signed off.  His mental status continued to
+improve as he was moved to the floors. On the day of discharge
+patient was able to carry out intelligent conversations. Patient
+was seen by PT and OT who initially recommended rehab however
+after his quick recovery recommended sending patient home with
+services and with outpatient OT.  Patient was also seen by
+speech and swallow and his diet was advanced from nectar thick
+diet to full diet on discharge.  Since being extubated patient
+continued to have horse voice therefore he will follow up with
+ENT on outpatient basis if his voice does not return completely.
+
+
+INACTIVE ISSUES:
+#CAD s/p 5v CABG, aortic aneurysm repair, and AVR: ASA, plavix,
+statin, coreg were continued.
+.
+#DM: the patient received ISS while in house to good effect.  He
+was discharged on his home metformin and Glyburide.
+.
+#HLD: The patient's atorvastatin was increased to 80mg daily.
+.
+# HTN: Patient was continued on his lisinopril.
+.
+TRANSITIONAL ISSUES:
+- Patient will follow up with PCP for further management of his
+severe GERD
+- Patient will follow with Dr. [**Last Name (STitle) **] for further evaluation for
+his CAD.
+- Patient will follow up with ENT if his hoarse voice does not
+become normal.
+
+Medications on Admission:
+Preadmission medications listed are correct and complete.
+Information was obtained from Family/Caregiver.
+1. Clopidogrel 75 mg PO DAILY
+2. Atorvastatin 20 mg PO DAILY
+3. GlyBURIDE 5 mg PO DAILY
+4. Coreg CR *NF* (carvedilol phosphate) 20 mg Oral daily
+5. Lisinopril 10 mg PO DAILY
+6. MetFORMIN (Glucophage) 500 mg PO BID
+7. Ferrous Sulfate 27 mg PO DAILY
+
+
+Discharge Medications:
+1. Atorvastatin 80 mg PO DAILY
+RX *atorvastatin 80 mg one tablet(s) by mouth dailyi Disp #*30
+Tablet Refills:*2
+2. Clopidogrel 75 mg PO DAILY
+3. Aspirin 325 mg PO DAILY
+4. Coreg CR *NF* (carvedilol phosphate) 20 mg Oral daily
+5. Ferrous Sulfate 27 mg PO DAILY
+6. GlyBURIDE 5 mg PO DAILY
+7. Omeprazole 40 mg PO DAILY
+RX *omeprazole 40 mg one capsule(s) by mouth daily Disp #*30
+Tablet Refills:*2
+8. Ranitidine 150 mg PO BID
+RX *ranitidine HCl 150 mg one tablet(s) by mouth twice a day
+Disp #*60 Tablet Refills:*2
+9. MetFORMIN (Glucophage) 500 mg PO BID
+10. Aluminum-Magnesium Hydrox.-Simethicone 15-30 mL PO QID:PRN
+heartburn
+11. Lisinopril 5 mg PO DAILY
+RX *lisinopril 5 mg one tablet(s) by mouth daily Disp #*30
+Tablet Refills:*2
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 211**] VNA
+
+Discharge Diagnosis:
+Vagal response with sinus arrest
+Hypotension
+Delerium
+Coronary artery disease
+Diabetes Mellitus
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+It was a pleasure taking care of you at [**Hospital1 68**].
+You collapsed at home and came to [**Hospital1 68**]. You were on a breathing
+machine with low blood pressure and underwent a cooling
+protocol. A cardiac catheterization showed blockages in your
+arteries but the physician was unable to open any artery. You
+did not have a heart attack and your heart function is strong
+according to the echocardiogram. An electrophysiology study to
+assess your conduction system did not show any abnormalities
+besides a known mild type of heart block (left buncle branch
+block). We think that severe heartburn led to your collapse and
+we have started three new medicines to help prevent another
+episode. Dr. [**Last Name (STitle) **] may be able to further assess your heartburn
+and may change your medicines or treatment for this.
+You had delerium that was caused by your illness and sedatives
+that was exacerbated by lack of sleep. It is unclear if lack of
+oxygen to your brain has been a factor in your confusion as
+well. Your memory is improving quickly and you are safe to go
+home with continued occupational therapy at home. Your voice is
+hoarse after the breathing tube and you have an appt with an
+ear, nose and throat doctor on [**7-31**]. You can cancel this if your
+voice returns to normal before the appt.
+
+Followup Instructions:
+PCP [**Name Initial (PRE) **]: Tuesday, [**7-29**] at 1:15pm
+With:[**Doctor First Name 680**] [**Last Name (NamePattern4) 27997**],MD
+Address: [**Location (un) 19847**] STE 201, [**Location (un) **],[**Numeric Identifier 12600**]
+Phone: [**Telephone/Fax (1) 8209**]
+
+Department: OTOLARYNGOLOGY-AUDIOLOGY
+When: THURSDAY [**3451-7-31**] at 9:15 AM
+With: [**Name6 (MD) 27998**] [**Last Name (NamePattern4) 27999**], MD [**Telephone/Fax (1) 307**]
+Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **]
+Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+** Please arrive at 9am for this appointment and be aware the
+building is being redone so you might experience dust in the
+halls.
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**3451-8-6**] at 2:00 PM
+With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1020**], MD [**Telephone/Fax (1) 654**]
+Building: SC [**Hospital Ward Name 44**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 44**] Garage
+
+
+
+Completed by:[**3451-7-22**]
+
+
+DOC CLASS

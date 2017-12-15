@@ -1,0 +1,95 @@
+Admission Date:  [**2516-2-25**]     Discharge Date:  [**2516-3-2**]
+
+Date of Birth:   [**2471-6-17**]     Sex:  M
+
+Service:  CARDIOTHOR
+
+CHIEF COMPLAINT:  Coronary artery disease.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 44 year old
+male with known coronary artery disease status post inferior
+myocardial infarction and status post stenting of the right
+coronary artery in [**2515-10-26**].  The catheterization at
+that time also demonstrated multiple lesions of the left
+anterior descending and left circumflex.  Subsequently he was
+stable and underwent a second catheterization in [**2516-10-25**] because of more recurrent chest pain, which showed good
+result in the right coronary artery, no change in the left
+coronary artery lesion.  Since then he continued on a stable
+course until the past week when he developed progressive
+episodes of chest pain.  The pain began to occur at rest and
+it was not relieved with Nitroglycerin sublingual.  He was
+promptly brought to [**Hospital1 69**].
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Hypercholesterolemia.
+3.  Decreased HDL.
+4.  Coronary artery disease; myocardial infarction in
+12/[**2514**].
+
+PAST SURGICAL HISTORY:
+1.  Status post right coronary artery stenting in [**2515-10-26**].
+2.  Status post left ankle surgery.
+
+ALLERGIES:   Include Vicodin and question of an intravenous
+antibiotics, unknown name.
+
+MEDICATIONS ON ADMISSION:
+1.  Aspirin 325 mg p.o. q. day.
+2.  Toprol XL 100 mg p.o. q. day.
+3.  Lisinopril 5 mg p.o. q. day.
+4.  Lipitor 10 mg p.o. q. day.
+5.  Multivitamin one p.o. q. day.
+6.  Calcium supplement q. day.
+
+SOCIAL HISTORY:  The patient is married with three children,
+exercises on a regular basis.  He is a past smoker who quit
+in [**2497**].  Denies any ETOH.
+
+PHYSICAL EXAMINATION:  On admission, the patient has vital
+signs which are stable.  HEENT is within normal limits.  Neck
+shows no lymphadenopathy, no bruits.  Chest is clear to
+auscultation.  Heart is regular rate and rhythm with no
+murmur.  Abdomen is soft, nontender.  Extremities with normal
+pulses; no edema.
+
+LABORATORY:  On admission, white blood cell count of 6.0,
+hematocrit of 39, platelets of 216.  Sodium of 143, potassium
+of 4.5, BUN of 14, creatinine of 1.2, glucose of 69, INR 1.0.
+
+EKG was significant for normal sinus rhythm with normal axis.
+No evidence of ischemia.
+
+HOSPITAL COURSE:  On the day of admission, the patient
+underwent cardiac catheterization.  This revealed 90%
+stenosis of the right coronary artery, 70% stenosis of the
+proximal left anterior descending, mid-LAD, and 70% stenosis
+of the diagonal 1, 70% stenosis of the proximal circumflex
+and 90% stenosis of the obtuse marginal 1.
+
+On hospital day two, the patient went to the Operating Room
+where he underwent coronary artery bypass graft times five.
+He had left internal mammary artery to the left anterior
+descending, saphenous vein graft to diagonal, saphenous vein
+graft ramus; saphenous vein graft to right coronary artery
+and left radial artery to the obtuse marginal.  He tolerated
+this procedure well; was transferred to the Intensive Care
+Unit, intubated and on a Nitroglycerin drip.
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Last Name (NamePattern1) 3779**]
+
+MEDQUIST36
+
+D:  [**2516-3-1**]  14:39
+T:  [**2516-3-2**]  14:01
+JOB#:  [**Job Number 11959**]
+
+
+
+DOC CLASS

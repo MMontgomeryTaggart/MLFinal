@@ -1,0 +1,256 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   Given patients occasional blood per rectum GI was reconsulted and
+   agreed to perform a sigmoidoscopy on [**2955-9-5**] (NPO after midnight and
+   fleet enema at 6am) meanwhile patient started on sucralfate enemas. His
+   4pm HCT was 27.8 decreased from 30.5 this AM subsequently transfused 1
+   unit of PRBCs.  HCT was rechecked at 9:45pm with a raise to 30.4.
+   This AM patient feels better than yesterday, denies dizziness,
+   lightheadedness, he did have an episode of cp yesterday that lasted
+   about 15 seconds and resolved on its own. He had several bowel
+   movements yesterday [**2-17**] sucralfate enemas, does not know if they were
+   bloody. His foley was removed yesterday and he reports pinkish urine at
+   times, but denies dysuria or increased frequency.
+   Allergies:
+   Penicillins
+   Unknown;
+   Persantine (Oral) (Dipyridamole)
+   Unknown;
+   Allopurinol
+   Lightheadedness
+   Cipro I.V. (Intraven) (Ciprofloxacin Lactate)
+   Rash; itching;
+   Last dose of Antibiotics:
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2955-9-5**] 06:46 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 37.3
+C (99.2
+   HR: 95 (81 - 104) bpm
+   BP: 133/60(139) {82/29(26) - 134/77(139)} mmHg
+   RR: 22 (14 - 27) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 118 kg (admission): 116.1 kg
+             Total In:
+                                                                  1,493 mL
+                                                                     85 mL
+   PO:
+                                                                    360 mL
+             TF:
+   IVF:
+                                                                    758 mL
+                                                                     85 mL
+   Blood products:
+                                                                    375 mL
+   Total out:
+                                                                  1,710 mL
+                                                                    400 mL
+   Urine:
+                                                                  1,710 mL
+                                                                    400 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -217 mL
+                                                                   -315 mL
+   Respiratory support
+   SpO2: 95%
+   ABG: ///25/
+   Physical Examination
+   GENERAL: WDWN male in no apparent distress. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, Conjunctiva were pink, no pallor
+   or cyanosis of the oral mucosa
+   NECK: Supple with no JVP.
+   CARDIAC: irregularly irregular, normal S1, S2. No m/r/g appreciated. No
+   thrills, lifts
+   LUNGS:  Decreased bs at bases.  Mildly coarse breath sounds.
+   ABDOMEN: Soft, obese. Nondistended, mildly TTP, gauze covering
+   surigical sites over RUQ and epigastric area, c/d/i. BS present x 4,
+   EXTREMITIES: No c/c/e. No femoral bruits.  Cath site shows no sign of
+   hematoma, erythema.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Popliteal 2+ DP 2+ PT 2+
+   Left:  Popliteal 2+ DP 2+ PT 2+
+   Labs / Radiology
+   142 K/uL
+   9.8 g/dL
+   182 mg/dL
+   1.3 mg/dL
+   25 mEq/L
+   4.1 mEq/L
+   23 mg/dL
+   103 mEq/L
+   137 mEq/L
+   29.6 %
+   8.8 K/uL
+        [image002.jpg]
+                             [**2955-9-2**]  01:23 PM
+                             [**2955-9-2**]  05:57 PM
+                             [**2955-9-2**]  11:27 PM
+                             [**2955-9-3**]  05:49 AM
+                             [**2955-9-3**]  12:10 PM
+                             [**2955-9-3**]  04:49 PM
+                             [**2955-9-4**]  01:37 AM
+                             [**2955-9-4**]  04:20 PM
+                             [**2955-9-4**]  09:44 PM
+                             [**2955-9-5**]  03:04 AM
+   WBC
+   8.5
+   9.1
+   9.2
+   8.8
+   Hct
+   28.6
+   29.2
+   31.6
+   28.6
+   31.0
+   30.5
+   27.8
+   30.4
+   29.6
+   Plt
+   139
+   130
+   147
+   119
+   142
+   Cr
+   1.2
+   1.2
+   1.2
+   1.3
+   Glucose
+   172
+   157
+   166
+   182
+   Other labs: PT / PTT / INR:13.1/23.2/1.1, CK / CKMB /
+   Troponin-T:708/26/3.88, Fibrinogen:444 mg/dL, Ca++:8.4 mg/dL, Mg++:2.0
+   mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   The patient is a 74 year old man with diabetes, coronary artery
+   disease, presenting with a STEMI in the setting of hypertension while
+   recovering from laparoscopic cholecystectomy, now s/p thrombectomy with
+   DES to LCX at cath lab, now with BRBPR, awaiting sigmoidoscopy
+   tomorrow.
+   .
+   # CORONARIES: History of significant coronary artery disease s/p
+   multiple percutaneous coronary interventions.  Current chest pain
+   accompanied by ekg changes and new depressed ejection fraction, along
+   with posterior wall hypokinesis.  The chest pain was in the setting of
+   urinary retention and hypertension, and was relieved with nitro and
+   foley placement.  In addition, ekg changes resolved with resolution of
+   chest pain.  S/p thrombectomy with DES to LCX at cath lab.
+   -aspirin 325mg indefinitely
+   -plavix 75 mg for at least 1 year
+   -now off integrilin (d/c
+d early secondary to blood per rectum)
+   -holding home dose of metoprolol now given multiple hypotensive
+   episodes
+   .
+   # Acute blood loss: had frank blood in foley on [**9-3**] as well as
+   continued clots per rectum.  GI following.  Bleeding improved
+   overnight, foley removed, intermittent episodes of blood-tinted urine.
+   -received 1U O/N, 30.4 o/n, now 29.6.
+   -re-check Hct at 3PM and transfuse as necessary
+   -bleeding in foley likely [**2-17**] h/o prostrate cancer, improved, continue
+   to monitor
+   .
+   # Atrial Fibrillation: Patient still in A fib this AM, still on amio
+   drip @ 0.5.
+   -Holding coumadin in setting of GI bleeding, INR 1.1 this AM
+   - continue metoprolol.
+   - amiodarone  decreased to .5mg for 18hrs, switch to PO today (400mg PO
+   BID)
+   .
+   # s/p Cholecystectomy: POD 3.  Elevated white count s/p procedure,
+   trending downwards, 8.8 this AM. Surgery following.
+   -f/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 86**] recs
+   .
+   # Hypertension:
+   -metoprolol 12.5mg [**Hospital1 **] today
+   -monitor pressures
+   -restart home dose meds when BP return to baseline
+   .
+   # Acute Systolic Congestive heart failure: Monitor fluid status.
+   - hold home metoprolol and valsartan for now.
+   .
+   # Diabetes mellitis: insulin sliding scale, holding glipizide
+   -Glucose levels better controlled this AM
+   .
+   # Parkinson's disease: continue seligiline
+   .
+   # Gout: Will restart colchicine today.
+   .
+   # Migraine and cluster headaches: continue dilaudid PRN
+   .
+   # Deconditioning
+   -f/u PT recs, ambulate today
+   .
+   # Flatus
+   -simethicone 40-80mg PO QID:PRN flatus
+   .
+   FEN: cardiac healthy diet resumed today
+   .
+   ACCESS: PIV's
+   .
+   PROPHYLAXIS:
+   -DVT ppx with pneumoboots
+   -Pain management with dilaudid
+   -Bowel regimen with colace, senna
+   .
+   CODE: Presumed full
+   .
+   COMM: [**Name (NI) 5238**] [**Name (NI) 8159**] wife, [**Telephone/Fax (1) 8160**] home, [**Telephone/Fax (1) 8161**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2955-9-5**] 12:11 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I would add the following remarks:
+   History
+   Nothing to add
+   Physical Examination
+   Nothing to add
+   Medical Decision Making
+   Nothing to add
+   Total time spent on patient care: 50 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 1674**] [**Name (NI) 4157**],MD
+   on:[**2955-9-5**] 08:48 ------
+
+
+
+DOC CLASS

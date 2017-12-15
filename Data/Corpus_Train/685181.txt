@@ -1,0 +1,284 @@
+SICU
+   HPI:
+   61 y/o syncope @ home, presented to ED in septic shock, fever to 104,
+   rigors, with 90 sec PEA arrest. Given atropine/epi in ED with return to
+   NSR. In [**1-23**], had exploration and R colonic resection after mesenteric
+   ischemia following an aortic dissection. Had Hartmann's/ CCY and
+   delayed abdominal closure, then reversal of Hartmann's and procedure
+   component separation [**11-26**].  Presented to ED [**3465-12-26**] with fevers and
+   drainage from prior drain site, without evidence of abscess. Was not
+   admitted at this time, had follow up with Dr. [**First Name (STitle) **] [**12-29**] without
+   issues. On day of admission, pt with small amount of yellow drainage
+   from prior drain site again and abdominal pain. Pt admitted to SICU for
+   further management. Had beside abdominal wall exploration which did not
+   show frank evidence of abscess.
+   Chief complaint:
+   Septic shock, PEA arrest
+   PMHx:
+   Coronary artery disease
+   2-vessel CABG [**3452**] (at [**Hospital3 3034**])
+   Aortic valve replacement [**1-23**]
+   R->L Fem-fem BPG [**1-23**]
+   Ascending aortic aneurysm repair [**3465-1-15**]
+   Hypertension
+   Hyperlipidemia
+   Peripheral vascular disease
+   R colectomy, subtotal colectomy [**1-23**]
+   Cholecystectomy, ileostomy, abd closure [**1-23**]
+   Hartmann's reversal, component separation [**3465-11-24**]
+   Peptic ulcer disease - H.Pylori (no operative intervention, no
+   massive hemorrhage)
+   Current medications:
+   1. 1000 mL NS
+   Continuous at 125 ml/hr Order date: [**1-9**] @ 1714 11. Insulin SC  (per
+   Insulin Flowsheet)
+         Sliding Scale Order date: [**1-8**] @ [**3486**]
+   2. Acetaminophen 650 mg PR Q6H:PRN temp > 101.5  Order date: [**1-8**] @
+   [**3496**] 12. Magnesium Sulfate  IV Sliding Scale Order date: [**1-8**] @ [**3467**]
+   3. Calcium Gluconate  IV Sliding Scale Order date: [**1-8**] @ [**3467**] 13.
+   MetRONIDAZOLE (FLagyl) 500 mg IV Q8H  Order date: [**1-8**] @ 1421
+   4. Chlorhexidine Gluconate 0.12% Oral Rinse 15 ml ORAL [**Hospital1 **]
+   Use only if patient is on mechanical ventilation.  Order date: [**1-8**] @
+   1234 14. Midazolam 0.5-2 mg IV Q2H:PRN anxiety  Order date: [**1-8**] @
+   [**3457**]
+   5. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol  Order date: [**1-8**]
+   @ [**3486**] 15. Midazolam 0.5-2 mg/hr IV DRIP TITRATE TO sedation
+   Patient must have adequate airway support prior to administration of
+   dose.  Order date: [**1-8**] @ [**3497**]
+   6. Famotidine 20 mg IV Q24H  Order date: [**1-8**] @ [**3356**] 16.
+   Norepinephrine 0.3-0.5 mcg/kg/min IV DRIP TITRATE TO MAP >60  Order
+   date: [**1-8**] @ 1401
+   7. Fentanyl Citrate 75 mcg IV ONCE Duration: 1 Doses Order date: [**1-9**]
+   @ 1626 17. Piperacillin-Tazobactam 2.25 g IV Q8H  Order date: [**1-9**] @
+   1017
+   8. Fentanyl Citrate 25-100 mcg/hr IV DRIP INFUSION  Order date: [**1-8**] @
+   1457 18. Vancomycin 1000 mg IV Q48H
+   ID Approval will be required for this order in 31 hours.  Order date:
+   [**1-9**] @ 1037
+   9. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  Order date: [**1-8**]
+   @ [**3486**] 19. Vasopressin 2.4 UNIT/HR IV DRIP TITRATE TO MAP >60  Order
+   date: [**1-8**] @ [**3457**]
+   10. Heparin 5000 UNIT SC TID  Order date: [**1-8**] @ 1234
+   24 Hour Events:
+ NASAL SWAB - At [**3466-1-9**] 09:08 AM
+   mrsa
+ EKG - At [**3466-1-9**] 11:15 AM
+ URINE CULTURE - At [**3466-1-9**] 01:05 PM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3466-1-9**] 08:54 AM
+   Metronidazole - [**3466-1-10**] 12:29 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3466-1-10**] 12:29 AM
+   Infusions:
+   Vasopressin - 1.5 units/hour
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Other ICU medications:
+   Insulin - Regular - [**3466-1-9**] 11:04 AM
+   Fentanyl - [**3466-1-9**] 03:50 PM
+   Famotidine (Pepcid) - [**3466-1-9**] 11:57 PM
+   Heparin Sodium (Prophylaxis) - [**3466-1-10**] 04:04 AM
+   Other medications:
+   Flowsheet Data as of  [**3466-1-10**] 08:07 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**67**] a.m.
+   Tmax: 36.6
+C (97.9
+   T current: 36.5
+C (97.7
+   HR: 76 (53 - 77) bpm
+   BP: 102/52(72) {95/44(63) - 132/58(84)} mmHg
+   RR: 13 (10 - 20) insp/min
+   SPO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 77.2 kg (admission): 72 kg
+   Height: 68 Inch
+   CVP: 7 (3 - 15) mmHg
+   CO/CI (Thermodilution): (6.76 L/min) / (3.6 L/min/m2)
+   CO/CI (CCO): (6.9 L/min) / (3.7 L/min/m2)
+   SVR: 710 dynes*sec/cm5
+   SV: 93 mL
+   SVI: 50 mL/m2
+   Total In:
+                                                                  5,221 mL
+                                                                  2,013 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  4,926 mL
+                                                                  1,453 mL
+   Blood products:
+                                                                    283 mL
+                                                                    560 mL
+   Total out:
+                                                                    651 mL
+                                                                    265 mL
+   Urine:
+                                                                    501 mL
+                                                                    165 mL
+   NG:
+                                                                    150 mL
+                                                                    100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,570 mL
+                                                                  1,748 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 550 (550 - 550) mL
+   Vt (Spontaneous): 509 (509 - 546) mL
+   PS : 5 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 16
+   PIP: 11 cmH2O
+   Plateau: 17 cmH2O
+   Compliance: 50.5 cmH2O/mL
+   SPO2: 98%
+   ABG: 7.29/36/149/17/-8
+   Ve: 8 L/min
+   PaO2 / FiO2: 373
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: CTA bilateral : ), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+)
+   Right Extremities: (Edema: 1+)
+   Skin: No(t) Rash: , No(t) Jaundice, 2 surgical wounds open and packed
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities, Sedated
+   Labs / Radiology
+   171 K/uL
+   8.4 g/dL
+   110 mg/dL
+   4.2 mg/dL
+   17 mEq/L
+   4.6 mEq/L
+   38 mg/dL
+   108 mEq/L
+   135 mEq/L
+   25.8 %
+   7.7 K/uL
+        [image002.jpg]
+                             [**3466-1-9**]  04:00 AM
+                             [**3466-1-9**]  04:11 AM
+                             [**3466-1-9**]  08:30 AM
+                             [**3466-1-9**]  08:39 AM
+                             [**3466-1-9**]  12:32 PM
+                             [**3466-1-9**]  04:03 PM
+                             [**3466-1-9**]  04:21 PM
+                             [**3466-1-9**]  11:46 PM
+                             [**3466-1-10**]  01:55 AM
+                             [**3466-1-10**]  04:33 AM
+   WBC
+   12.1
+   8.3
+   7.7
+   Hct
+   28.1
+   28.7
+   25.8
+   Plt
+   222
+   189
+   171
+   Creatinine
+   3.0
+   3.3
+   3.7
+   4.2
+   Troponin T
+   0.20
+   0.18
+   0.17
+   TCO2
+   18
+   19
+   20
+   20
+   18
+   18
+   Glucose
+   155
+   126
+   110
+   Other labs: PT / PTT / INR:14.2/32.2/1.2, CK / CK-MB / Troponin
+   T:631/8/0.17, ALT / AST:31/32, Alk-Phos / T bili:98/0.3,
+   Differential-Neuts:93.2 %, Lymph:4.7 %, Mono:1.8 %, Eos:0.3 %, Lactic
+   Acid:1.0 mmol/L, Albumin:2.5 g/dL, LDH:274 IU/L, Ca:7.8 mg/dL, Mg:2.9
+   mg/dL, PO4:4.8 mg/dL
+   Assessment and Plan
+   CARDIAC ARREST, SEPSIS, SEVERE (WITH ORGAN DYSFUNCTION)
+   Assessment and Plan: 61M hx mesenteric isc from aortic dissection, s/p
+   Hartmann's [**1-23**], Hartmann's reversal/component separation [**11-26**], p/w
+   syncope, septic shock, PEA arrest.
+   Neurologic: --intubated and sedated with fentanyl, versed. Follows
+   commands. Legally blind @ baseline
+   --transitioned off versed gtt to prn
+   Cardiovascular: --PEA arrest responded to epi/atropine --> sinus tach
+   -> bigeminy ->NSR
+   --trop trending downward
+   --off levo, weaning vasopressin
+   --PCCO monitor
+   --[**Hospital1 **] electrolyte checks and repletion
+   --NS @ 125
+   Pulmonary: --intubated, wean vent, on minimal settings
+   Gastrointestinal / Abdomen: --bedside abdominal wall exploration to
+   eval for abscess, incisions x 2, kerlex dressing
+   --OGT to suction
+   Nutrition: NPO
+   Renal: --BUN 33->38, Cr 3.0->4.2 (baseline 1.0), renal following, may
+   initiate CVVH
+   --FENa 5.7, Uosm 327
+   --Foley- UOP improving
+   --f/u UCX
+   --Hyperkalemia resolved
+   Hematology: --hct 32.5 -> 28.1-> 1 u prbc -> 28.7-> 25.8 -> 2 u prbc
+   --INR 1.5->1.3->1.2
+   Endocrine: RISS
+   Infectious Disease: --Blood cx positive for Staph aureus. Daily BCx
+   until negative
+   --Resite lines
+   --F/u ID recommendations
+   --vanc/zosyn/flagyl. F/u vanco trough
+   --Follow up sensitivies
+   Lines / Tubes / Drains: Foley, RIJ CVL, right axillary aline, ETT,
+   PIVx2, OGT
+   Wounds: Abdominal wall I&D incisions x 2
+   Imaging:
+   Fluids: NS @ 125
+   Consults: Cardiology, Transplant, Neurology, ID dept
+   Billing Diagnosis: Cardiac arrest, Arrhythmia, (Shock: Septic), Liver
+   failure, Acute renal failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**3466-1-8**] 05:00 PM
+   Arterial Line - [**3466-1-8**] 05:00 PM
+   16 Gauge - [**3466-1-8**] 05:00 PM
+   18 Gauge - [**3466-1-8**] 05:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status:
+   Disposition: ICU
+   Total time spent:
+   Patient is critically ill
+
+
+
+DOC CLASS

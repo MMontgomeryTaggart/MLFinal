@@ -1,0 +1,187 @@
+TSICU
+   HPI:
+   70 y/o M unrestrained driver pick-up truck vs tree.   Reportedly
+   unrestrained driver, windshield starred, significant intrusion.
+   Extricated.  +LOC.  Intermittently conscious en route to [**Hospital1 693**],
+   intubated shortly after arrival, rec'd pRBCs.  Medflighted to [**Hospital1 52**].
+   H/o AVR
+   Injuries:
+   R SDH
+   Large L scalp laceration and hematoma
+   Bl hand lacerations
+   Chief complaint:
+   s/p MVC, SDH, scalp hematoma
+   PMHx:
+   CAD s/p STEMI w/ RCA stents [**2725**], IDDM, CHF (EF 40-45%), HTN,
+   hyperlipidemia, PVD w/p SFA stent [**12-5**], GERD, Asbestosis, CRI (Cr 1.2)
+   Anemia, PUD s/p partial gastrectomy, depression, dementia
+   .
+   PSH: Roux en Y gastric bypass, C3-4 laminectomy, L SFA stent, L renal
+   artery stent
+   Current medications:
+   1000 mL NS 6. Albuterol Inhaler 7. Calcium Gluconate 8. CefazoLIN 9.
+   Chlorhexidine Gluconate 0.12% Oral Rinse
+   10. Famotidine 11. Gentamicin 12. HYDROmorphone (Dilaudid) 13. Insulin
+   14. Magnesium Sulfate 15. NiCARdipine
+   16. PNEUMOcoccal Vac Polyvalent 17. Phenytoin 18. Potassium Chloride
+   19. Potassium Phosphate 20. Propofol
+   24 Hour Events:
+   Allergies:
+   Last dose of Antibiotics:
+   Cefazolin - [**2730-12-7**] 01:40 PM
+   Gentamicin - [**2730-12-7**] 02:19 PM
+   Infusions:
+   Propofol - 30 mcg/Kg/min
+   Nicardipine - 3 mcg/Kg/min
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2730-12-7**] 03:50 PM
+   Dilantin - [**2730-12-7**] 04:33 PM
+   Hydromorphone (Dilaudid) - [**2730-12-7**] 04:54 PM
+   Other medications:
+   Flowsheet Data as of  [**2730-12-7**] 05:24 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**33**] a.m.
+   Tmax: 36.3
+C (97.3
+   T current: 36.3
+C (97.3
+   HR: 85 (74 - 94) bpm
+   BP: 185/64(104) {126/53(-7) - 191/78(122)} mmHg
+   RR: 22 (14 - 23) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.6 kg (admission): 82.6 kg
+             Total In:
+             7,265 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+   2,265 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,380 mL
+   Urine:
+   1,380 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  5,885 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (450 - 500) mL
+   RR (Set): 22
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 32 cmH2O
+   Plateau: 23 cmH2O
+   SPO2: 100%
+   ABG: 7.36/44/84.[**Numeric Identifier 1582**]/24/0
+   Ve: 11 L/min
+   PaO2 / FiO2: 210
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, constricted pupils
+   L lac closed by staples, boggy hematoma
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : )
+   Abdominal: Soft, slightly distended
+   Left Extremities: (Edema: Absent), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished)
+   Right Extremities: (Edema: Absent), (Temperature: Cool), (Pulse -
+   Dorsalis pedis: Diminished)
+   Neurologic: (Responds to: Noxious stimuli), Sedated
+   Labs / Radiology
+   148 K/uL
+   10.0 g/dL
+   132 mg/dL
+   1.1 mg/dL
+   24 mEq/L
+   3.8 mEq/L
+   22 mg/dL
+   109 mEq/L
+   139 mEq/L
+   28.7 %
+   11.7 K/uL
+        [image002.jpg]
+                             [**2730-12-7**]  12:30 PM
+                             [**2730-12-7**]  12:37 PM
+                             [**2730-12-7**]  03:00 PM
+                             [**2730-12-7**]  04:50 PM
+   WBC
+   11.7
+   Hct
+   28.7
+   Plt
+   148
+   Creatinine
+   1.1
+   TCO2
+   24
+   26
+   Glucose
+   [**Telephone/Fax (3) 10620**]32
+   Other labs: PT / PTT / INR:13.8/28.3/1.2, Lactic Acid:1.8 mmol/L,
+   Albumin:3.3 g/dL, Ca:7.0 mg/dL, Mg:1.5 mg/dL, PO4:2.7 mg/dL
+   Assessment and Plan
+   Assessment and Plan: 70 yo M on coumadin s/p single car MVC with small
+   SDH, scalp hematoma, intubated for airway protection.
+   Neurologic: Best GCS 6T (E1V1M4) in TICU, reportedly intermittently
+   conscious en route to OSH ED.  Sm SDH, repeat head CT 1800.  Goal SBP
+   100-140 per neurosurgery, on nicardipine gtt.  INR reversed in ED.
+   Loaded with dilantin, getting 100 mg TID.  C-collar, logroll for now.
+   Neuro checks Q: 1 hr
+   Pain: Dilaudid prn
+   Cardiovascular: Intially  hypertensive, briefly hypotensive on arrival
+   to ICU (? [**3-3**] propofol), improved with 1 L bolus and time off
+   sedation.  Goal SBP 100-140, on nicardipine gtt.  Hct decreased 10 pts
+   since arrival, will recheck this evening.
+   Pulmonary: ETT, CMV 450/22/0.4/5, ABG improved 7.25/57/430/26/-3 to
+   7.36/44/84/24 since arrival.  ? Asbestosis on CT scan, possibly some
+   restrictive component, PIPs 32.  Will try pressure support and receck
+   ABG.
+   Gastrointestinal / Abdomen: soft, slightly distended, no injuries on
+   prelim read.  NPO/OG in place.  Famotidine for prophylaxsis.
+   Nutrition: NPO
+   Renal: Foley in place, Cr 1.5, UOP 80-200/hr, but 5.8 L positive
+   today.  Monitor UOP.
+   Hematology: Coags 19.1/26.8/1.7, rec'd 10 mg IV vit K, 2 units FFP, and
+   profilnine in ED.  Repeat INR 1.2.  Hct 38.5 --> 28.7, will recheck
+   this PM.
+   Endocrine: RISS
+   Infectious Disease: On ancef/gent per neurosurgery, large scalp wound,
+   monitor for fever.
+   Lines / Tubes / Drains: ETT, OG, foley, R subclavian, R art line
+   Wounds:
+   Imaging: CT scan head today
+   Fluids: NS @ 75
+   Consults: Neuro surgery
+   Billing Diagnosis:
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   16 Gauge - [**2730-12-7**] 10:45 AM
+   Arterial Line - [**2730-12-7**] 12:15 PM
+   Multi Lumen - [**2730-12-7**] 12:46 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent:
+
+
+
+DOC CLASS

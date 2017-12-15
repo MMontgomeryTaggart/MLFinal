@@ -1,0 +1,316 @@
+Admission Date:  [**2893-4-29**]              Discharge Date:   [**2893-5-4**]
+
+Date of Birth:  [**2811-9-5**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**Last Name (un) 11824**]
+Chief Complaint:
+bradycardia
+
+Major Surgical or Invasive Procedure:
+pacemaker lead revision
+
+
+History of Present Illness:
+This 81 year old woman with known CHB, s/p dual chamber PPM in
+[**2879**], generator change in [**2887**], with lead fracture noted prior
+to the [**2887**] change, with placement of a second RV lead (old RV
+lead left in place), now presents with bradycardia secondary to
+failure of her RV lead to capture.
+
+She presented to her PCP on the day of admission complaining of
+gout pain in her left 3rd MCP. Her pulse was noted to be in the
+30's and she was sent to the local ER and then to the [**Hospital1 18**]
+device clinic. Interrogation demontstrated failure of the RV
+lead to capture. Aside from mild fatigue over the past few weeks
+the patient has been completely asymptomatic without dyspnea,
+orthopnea, LE edema, or dizziness. She has a good appetite and
+energy and has excellent funcitonal status, able to bathe, clean
+and cook without limitation.
+
+Past Medical History:
+Type 2 DM
+CHB, as above
+Hypertension
+Gout
+
+
+Social History:
+Splits her time between [**Doctor Last Name 18658**] and [**Location (un) 86**]. Daughter lives
+here. No smoking. Drinks a bottle of brandy a week. No illicit
+drugs.
+
+
+Family History:
+Father: died from stroke
+Mother: unknown
+siblings are in good health
+
+
+Physical Exam:
+Physical Exam on Admission:
+VS: T=97.8  BP=132/114 HR=43 RR=14 O2 sat= 99% on RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: (+)Supple with JVP of 8 cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No wheezes or rhonchi.
+(+) basilar crackles b/l
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: AAOx3, CNII-XII intact, 5/5 strength biceps, triceps,
+wrist, knee/hip flexors/extensors, 2+ reflexes biceps,
+brachioradialis, patellar, ankle.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Physical Exam on Discharge:
+Tm 99 T current 98.1, HR 59-79, RR 18 BP 153-194/86-101 98%RA
+I/O;
+24 h: [**Telephone/Fax (1) 18659**]
+8 h: 240/240
+WEight: (74.2)
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: Conjunctiva were pink, no pallor or cyanosis of the oral
+mucosa. No xanthalesma.
+NECK: Supple with JVP of 8 cm.
+CARDIAC: RR, normal S1, S2. III/VI systolic murmur heard best at
+apex. No thrills, lifts. No S3 or S4. Right pacer site with mild
+TTP but no swelling or redness.
+LUNGS: Resp were unlabored, no accessory muscle use. No wheezes
+or rhonhi, no crackles
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: AAOx3, anxious.
+PULSES:
+Right: DP 2+ PT 2+
+Left: DP 2+ PT 2+
+
+
+Pertinent Results:
+Labs on Admission:
+[**2893-4-29**] 05:05PM   WBC-6.1# RBC-4.68 HGB-13.8 HCT-45.3# MCV-97
+MCH-29.6 MCHC-30.6* RDW-15.3
+[**2893-4-29**] 05:05PM   NEUTS-64.1 LYMPHS-29.0 MONOS-4.8 EOS-1.2
+BASOS-0.9
+[**2893-4-29**] 05:05PM   GLUCOSE-131* UREA N-18 CREAT-1.3* SODIUM-145
+POTASSIUM-3.8 CHLORIDE-106 TOTAL CO2-27 ANION GAP-16
+[**2893-4-29**] 05:05PM   CALCIUM-10.1 PHOSPHATE-3.2 MAGNESIUM-1.7
+
+Labs on Discharge:
+[**2893-5-4**] 07:16AM BLOOD WBC-4.3 RBC-3.54* Hgb-10.4* Hct-33.9*
+MCV-96 MCH-29.4 MCHC-30.7* RDW-14.7 Plt Ct-144*
+[**2893-5-4**] 07:16AM BLOOD PT-10.3 PTT-31.0 INR(PT)-0.9
+[**2893-5-4**] 07:16AM BLOOD Glucose-120* UreaN-11 Creat-1.2* Na-143
+K-4.2 Cl-107 HCO3-28 AnGap-12
+[**2893-5-3**] 06:50AM BLOOD ALT-15 AST-16 LD(LDH)-158 AlkPhos-68
+TotBili-0.3
+[**2893-5-4**] 07:16AM BLOOD Calcium-9.8 Phos-3.6 Mg-2.0
+[**2893-5-4**] 07:06AM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.005
+[**2893-5-4**] 07:06AM URINE Blood-MOD Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+[**2893-5-4**] 07:06AM URINE RBC-5* WBC-2 Bacteri-FEW Yeast-NONE Epi-1
+
+STUDIES:
+ECG:
+Complete heart block, narrow complex escape at 30 bpm, QT 660ms,
+QTc ~500ms. Atrially sensed ventricular pacing spikes noted that
+do not capture the ventricule. Intermittent a-pacing noted.
+
+Chest x-ray ([**2893-4-29**]):
+1. No acute cardiopulmonary process.
+2. Unchanged position of three pacemaker leads.
+3. Stable moderate cardiomegaly.
+
+Chest x-ray s/p ICD revision ([**2893-5-2**]):
+A right-sided pacemaker is in place, with one right atrial and
+two right
+ventricular leads are present.  Curvilinear lucency seen along
+the anterior mediastinum on the lateral view is thought to
+represent [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] artifact related to the patient's overlying the
+humerus.  Allowing for this, no pneumothorax or
+pneumomediastinum is detected.   A small left effusion is new
+compared with [**2893-5-1**] at 18:37 p.m. Minimal left base
+atelectasis is noted.Cardiomediastinal silhouette is unchanged.
+ No CHF, focal infiltrate, or effusion is identified.Probable
+background COPD.
+IMPRESSION: New small left effusion.  Otherwise, no significant
+change
+compared with [**2893-5-1**].
+
+ECHO ([**2893-5-3**]):
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and global systolic function (LVEF>55%). Due to
+suboptimal technical quality, a focal wall motion abnormality
+cannot be fully excluded. Right ventricular chamber size and
+free wall motion are normal. Wire/catheter seen in RA and RV.
+There is no pericardial effusion.
+IMPRESSION: Suboptimal image quality. Normal biventricular
+cavity sizes with preserved global biventricular systolic
+function. No pericardial effusion.
+
+Brief Hospital Course:
+BRIEF CLINICAL SUMMARY:
+Mrs. [**Known patient lastname **] is an 81 year-old woman with known complete heart
+block s/p pacer placement in [**2870**]'s found to have asyptomatic
+bradycardia secondary to malfunctioning pacer lead.  The
+pacemaker lead was revised on [**2893-5-1**], with resolution of
+bradycardia.
+.
+ISSUES:
+# Complete heart block: Secondary to malfunctioning pacer lead.
+Asyptomatic. Patient's heart rate in 30s-40s, with SBP in
+190s-200s.  The patient was transiently treated with
+isoproterenol and hydralazine to attempt to mitigate some of the
+significant hypertension, prior to lead revision.  On [**2893-5-1**],
+the patient underwent lead revision. The patient received
+cefazolin for the first procedural day, then cefpodoxime for the
+next 5 days s/p procedure. CXR confirmed correct lead placement.
+Echo on [**2893-5-3**] demonstrated normal biventricular cavity sizes
+with preserved global biventricular systolic function. No
+pericardial effusion.
+.
+# Abdominal pain: Patient c/o epigastric pain s/p pacer
+placement so bedside echo was obtained to r/o perf and showed no
+effusion. Also checked LFTs, which were normal. Most likely
+abdominal pain secondary to gas pain, resolved w/ administration
+of simethicone. Discomfort resolved on discharge.
+.
+# HTN: Expected in setting of decreased HR. Asymptomatic without
+evidence of end organ damage. SBP in 190s on floor even s/p lead
+revision.  The patient most likely is hypertensive at home, as
+the patient was noted to have poor compliance with medications
+at home. On the floor, he was re-started on losartan 100mg
+daily, started HCTZ 25mg daily, and carvedilol 40mg ER
+multiphase 24 hr qd at bedtime. The patient will need close
+blood pressure monitoring as an outpatient, with titration as
+necessary.
+.
+# ?? Gout: Patient actually reports she has not had a flare in
+weeks and has not been taking her colchicine or allopurinol. Her
+joints are not hot or tender although there is some significant
+crepitus and deformity in her left wrist and right knee. She is
+afebrile without leukocytosis so no concern for septic joint at
+this time. We restarted the patient's allopurinol and recommend
+PCP [**Name9 (PRE) 695**] of her poly-articular joint pain.  The patient was
+sent home with allopurinol and colchicine.
+
+TRANSITIONAL ISSUES:
+1. follow-up in device clinic MONDAY [**2893-5-11**] at 10:00 AM
+2. peri-procedural antibiotics: cefpodoxime  100 mg Tablet.  Two
+(2) Tablets by mouth every 12 hours: Final day of therapy
+[**2893-5-8**].
+3. PCP f/u of gout and hypertension
+4. [**Month (only) 115**] consider outpatient renal artery ultrasound for
+refractory hypertension as an outpatient if HTN continues to be
+difficult to manage
+
+Medications on Admission:
+Toprol XL 75
+Cozaar 100 qD
+Januvia 50 qD
+Allopurinol 100 qD
+Colchicine 0.6 qD
+Tylenol PRN
+
+Discharge Medications:
+1. Januvia 50 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Cozaar 100 mg Tablet Sig: One (1) Tablet PO once a day.
+3. allopurinol 100 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+4. cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every
+12 hours) for 4 days: Final day of therapy [**2893-5-8**].
+Disp:*16 Tablet(s)* Refills:*0*
+5. hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once
+a day.
+Disp:*30 Tablet(s)* Refills:*2*
+6. carvedilol phosphate 40 mg Cap, ER Multiphase 24 hr Sig: One
+(1) Cap, ER Multiphase 24 hr PO at bedtime.
+Disp:*30 Cap, ER Multiphase 24 hr(s)* Refills:*2*
+7. acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO three times a
+day as needed for pain.
+8. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO once a day.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Location (un) 86**] VNA
+
+Discharge Diagnosis:
+Bradycardia
+Hypertension
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mrs. [**Known patient lastname **],
+
+You were admitted to the [**Hospital1 69**]
+for a low heart rate.  You had a procedure that repaired the
+leads on  your pacemaker device. Your pacemaker was working well
+upon your discharge. Your blood pressure is high so we have
+adjusted your medicines to lower your blood pressure.
+
+You should continue to take all of your home medications as you
+previously had, except:
+
+ADD cefpodoxime  100 mg Tablet.  Two (2) Tablets by mouth every
+12 hours for 4 days: Final day of therapy [**2893-5-8**].
+
+STOP Taking Toprol, take Coreg XR instead at bedtime for your
+blood pressure
+
+START taking Hydrochlorothiazide (HCTZ) for your blood pressure
+
+Followup Instructions:
+.
+Department: CARDIAC SERVICES
+When: MONDAY [**2893-5-11**] at 10:00 AM
+With:  DEVICE CLINIC [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2893-7-29**] at 4:00 PM
+With:  DEVICE CLINIC [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Name: [**Location (un) **],WON M
+Address: [**Street Address(2) 18660**] YAWKEY BLDG, [**Location (un) **],[**Numeric Identifier 5072**]
+Phone: [**Telephone/Fax (1) 18661**]
+Appointment: Wednesday [**2893-5-13**] 1:30pm
+
+Department: CARDIAC SERVICES
+When: FRIDAY [**2893-7-3**] at 9:40 AM
+With: [**Name6 (MD) **] [**Name8 (MD) 161**], MD [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 11825**]
+
+
+
+
+DOC CLASS

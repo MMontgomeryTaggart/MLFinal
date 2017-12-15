@@ -1,0 +1,202 @@
+Admission Date:  [**2780-8-28**]              Discharge Date:   [**2780-9-14**]
+
+Date of Birth:  [**2696-7-17**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 173**]
+Chief Complaint:
+Fatgiue
+
+Major Surgical or Invasive Procedure:
+[**2780-9-8**] Aortic Valve Replacement (21mm St. [**Male First Name (un) 262**] tissue),Coronary
+Artery Bypass Graft x 1 (Left internal mammary artery to left
+anterior descending)
+
+History of Present Illness:
+84 yo female  with PMHX significantfor chronic Afib on coumadin,
+HTN, high cholesterol, celiac sprue, right BKA secondary to
+peripheral vascular disease and recent anorexia and weight loss
+presented to OSH with lethargy, SOB and shaking chills.  Pt was
+found to have an E coli UTI and started on ceftriaxone on
+[**2780-8-20**].  Echo done revealed EF 50% and severe Aortic stenosis.
+Pt has CT head, chest, abdomen as part of preop work up which
+was unrevealing with the exception of benign pelvic mass.  Cath
+performed [**8-27**] showed 80% LAD stenosis. Pt
+transferred to [**Hospital1 22**] for surgical intervention.
+
+Past Medical History:
+Hypertension
+Hypercholesterolemia
+Atrial Fibrillation
+Peripheral vascular disease s/p left below knee amputation
+Celiac Sprue
+Hypothyroidism
+s/p B/L breast implants 20 yrs ago
+
+Social History:
+Last Dental Exam: years?
+Lives with: daughter
+[**Name (NI) 3826**]:1 PPD x5 years- quit 30 years ago
+ETOH: rare
+
+Family History:
+non-contributory
+
+Physical Exam:
+Skin: Dry [x] intact [stage one on coccyx]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR []  Irregular [x]  Murmur- LSB II/VI radiating to
+carotids bilat and left axilla
+Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds
++ [x]
+Extremities: Warm [x], well-perfused [doppler pulses :DP/PT;
+palapable femoral and popliteal.]  Edema Varicosities: None [x]
+Neuro: Grossly intact
+Pulses:
+Femoral      Right:  +2 Left: +2
+DP           Right: BKA  Left: doppler
+PT           [**Name (NI) 647**]:  BKA Left: doppler
+Radial       Right:   Left:
+
+Carotid Bruit        Right/Left: +2  -radiating from Aorta
+
+Pertinent Results:
+[**2780-8-29**] Echo: The left atrium and right atrium are normal in
+cavity size. The estimated right atrial pressure is 0-5 mmHg.
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size and regional/global systolic function (LVEF>55%).
+Right ventricular chamber size and free wall motion are normal.
+The diameters of aorta at the sinus, ascending and arch levels
+are normal. The aortic valve leaflets are severely
+thickened/deformed. There is critical aortic valve stenosis
+(valve area <0.8cm2). No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. There is no mitral
+valve prolapse. Mild (1+) mitral regurgitation is seen. [Due to
+acoustic shadowing, the severity of mitral regurgitation may be
+significantly UNDERestimated.] Moderate [2+] tricuspid
+regurgitation is seen. There is mild pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+[**2780-9-13**] 06:45AM BLOOD WBC-6.2 RBC-3.26* Hgb-9.3* Hct-28.7*
+MCV-88 MCH-28.5 MCHC-32.3 RDW-16.1* Plt Ct-246
+[**2780-9-14**] 07:40AM BLOOD PT-16.3* INR(PT)-1.4*
+[**2780-9-13**] 06:45AM BLOOD Glucose-80 UreaN-15 Creat-0.7 Na-136
+K-4.2 Cl-101 HCO3-27 AnGap-12
+
+Brief Hospital Course:
+As mentioned in the HPI, Ms. [**Known patient lastname **] was transferred to [**Hospital1 22**] for
+surgical intervention. She underwent appropriate surgical
+work-up which included an echocardiogram and dental clearance.
+Heparin gtt was started d/t Atrial fibrillation history. She was
+treated for her E coli urosepsis with completion of 10 days of
+ceftriaxone therapy and was then noted to have minimal pyuria
+and VRE in urine. ID was consulted and appropriate antibiotics
+were given based on there recommendations. She was eventually
+brought to the operating room on [**9-8**] where she underwent a
+aortic valve replacement and coronary artery bypass graft x 1.
+Please see operative report for surgical details. Following
+surgery she was transferred to the CVICU for invasive monitoring
+in stable condition. Within 24 hours she was weaned from
+sedation, awoke neurologically intact and extubated. She was
+tranferred to the floor and continued to progress well.  Chest
+tubes and pacing wires were removed per cardiac surgery
+protocol.  She was started on coumadin for atrial fibrillation
+and INR was monitored daily.  She was seen by ophthamology for
+left eye pain and was found to have inflammation of her eye lid.
+ She was treated with warm compresses.  She worked with
+physicial therapy and was fitted with a prosthetic shrinker.
+Repeat urinalysis was done which was negative and the patient
+was off antibiotics at the time of discharge.  Her heart rate in
+atrial fibrillation elevated and her lopressor was uptitrated.
+She was discharged on post op day # 6 in stable condition to
+rehab.
+
+Medications on Admission:
+At Home:  coumadin 3 mg on M, W, Thurs, Fri, Sat, Sun; 2 mg on
+Tues, Fri. Gabapentin 300 mg (unsure of times) simvastatin 20',
+atenolol 25", digoxin 0.125', diltiazem 30 QID, levothyroxine 88
+mcg', omeprazole 20', oxycontin 5" (for phantom leg pain),
+ambien PRN, lorazepam 0.5-1 mg q 8 hrs PRN, advair
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Fluticasone-Salmeterol 100-50 mcg/Dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*2*
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+8. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: for
+goal INR of [**1-22**] for atrial fibrillation.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID
+(3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+10. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+Disp:*90 Capsule(s)* Refills:*2*
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) 297**] health care center
+
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic Valve Replacement
+Coronary Artery Disease s/p Coronary Artery Bypass Graft x 1
+PMH: Hypertension, Hypercholesterolemia, Atrial Fibrillation,
+Peripheral vascular disease s/p left below knee amputation,
+Celiac Sprue, Hypothyroidism
+
+Discharge Condition:
+Good
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 3620**] at
+([**Telephone/Fax (1) 72**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks from date of
+surgery.
+6) No driving for 1 month or while taking narcotics for pain.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+Dr. [**Last Name (STitle) **] in 4 weeks
+Dr. [**Last Name (STitle) **] in [**1-22**] weeks
+Dr. [**Last Name (STitle) 35251**] in [**12-21**] weeks
+
+
+Completed by:[**2780-9-14**]
+
+
+DOC CLASS

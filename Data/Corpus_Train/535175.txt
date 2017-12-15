@@ -1,0 +1,345 @@
+TITLE: PGY3 MICU Admission Note
+   Chief Complaint:  cardiac arrest
+   HPI:
+   46 year old man with history of ESRD on HD, CAD, systolic CHF (EF 20%),
+   prior cardiac arrest s/p ICD implantation for secondary prevention
+   presenting with a cardiac arrest.  He was recently at [**Hospital1 52**] for
+   attempted ICD revision due to a malfunctioning ICD lead ([**Date range (1) 5441**]).
+   However, the procedure was not done as his INR was >2.  He was
+   scheduled to come back to [**Hospital1 52**] on [**3329-10-24**] for elective admission and
+   lead revision.
+   His mother, who lives with him, stated that he has felt poorly since ~
+   2 weeks ago after he had a cardiac arrest at HD.  At that time he was
+   shocked and had CPR and sent to [**Hospital 1899**] Hospital.  He has had chest
+   pain eversince.  She stated that he was complaining of chest pain and
+   had not been able to fill the lidocaine patches that had been
+   prescribed from his recent [**Hospital1 52**] admission.  He ate poorly in the
+   evening. She stated that he gets dialysis on MWF and had a shortened
+   session on Friday as he returned home early (likely due to low blood
+   pressure on the HD circuit). Approximately at 1AM, he called him mother
+   to his room for chest pain.  She found him diaphoretic and gasping for
+   air.  He lay on the floor and had his eyes roll in his head and yelled
+   to his mother to help him.  She called EMS. Found pt agonal by EMS -
+   wide complex on monitor.  Intubated in the field, CPR, 2 epis given per
+   EMS.  There was intermittant ROSC. In [**Hospital1 **]-[**Location (un) 5442**] ED lost pulse with
+   reported sine wave/WCT on monitor. Tx for hyperK then received
+   additional dose of Epi x 1 + shock at 200 with ROSC and reported
+   narrowing of the WCT (tele strips not sent with patient).  Following
+   that he required no further pressors/fluids - SBP 100-120 HR 80-100.
+   Initial report from the lab was a K of
+ - 2nd round of
+   bicarb/D50+insulin + kayex via ngt given.  Actual result reported by
+   computer was 4.3.    Kayexelate suctioned from ngt.  Repeat K was drawn
+   -- 5.5 (non-hemolyzed). It is not clear if his hyperkalemia was ever
+   severe and no tele strips were sent with the patient.
+   He was transfered to [**Hospital1 52**] for further evaluation.  On arrival to the
+   [**Hospital1 52**] ED he was described as awake and moving all 4 [**Last Name (LF) 5443**], [**First Name3 (LF) **] he
+   was not placed on the cooling protocol.  His initial vital signs were
+   97.5  62  107/75  14  100%.  He was sedated was prn versed.  A repeat K
+   was 5 and lactate 7.4.  His EKG was interpreted as LBBB unchanged from
+   priors.
+   ROS: unable to obtain
+   Patient admitted from: Transfer from other hospital
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Demerol (Oral) (Meperidine Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Midazolam (Versed) - 1 mg/hour
+   Fentanyl
+   Other ICU medications:
+   Other medications:
+   1. Aspirin 81 mg daily
+   2. Nephro-cap daily
+   3. Folic Acid 1 mg DAILY
+   4. Multivitamin DAILY
+   5. Metoclopramide 5 mg PO QIDACHS
+   6. Sevelamer HCl 800 mg q8hours
+   7. Simvastatin 40 mg PO DAILY
+   8. Carvedilol 3.125 mg [**Hospital1 **]
+   9. Ascorbic Acid 500 mg DAILY
+   10. Zolpidem 5 mg QHS
+   11. Docusate Sodium 100 mg [**Hospital1 **]
+   12. Senna 8.6-17.2 mg [**Hospital1 **]:prn
+   13. Amiodarone 200 mg DAILY
+   14. Oxycodone 5 mg Q6H prn
+   15. Acetaminophen 325-650 mg Q6H
+   17. Lidocaine 5 %(700 mg/patch) q12 hours
+   Past medical history:
+   Family history:
+   Social History:
+   1. Heart disease:
+   - s/p Anterior MI ([**3319**]) with tPA and rescue PCI of LAD
+   --> 4.0x22mm in proximal LAD
+   --> 4.0x15mm in mid LAD
+   - s/p MI ([**11-3**])
+   - ICD placed in [**12-4**] with Pacemaker/ICD generator change on
+   [**3326-10-15**] and known ICD lead damage in [**3329-10-14**]
+   - PCI ([**3325-2-15**])
+   --> LMCA: free of disease
+   --> LAD: patent previously placed stents with 20% ISR in the
+   proximal segment
+   --> LCX: free of flow limitations
+   - s/p Cardiac arrest ([**10-7**])
+   - EF 20% and LV thrombus
+   2. Hypertension
+   3. Hyperlipidemia: [**11-3**]: TC 177; LDL 103; HDL 54
+   4. End-stage renal disease:
+   - s/p basilic vein brachial artery AV fistula
+   5. h/o line sepsis
+   father with CAD
+   Occupation: unemployed
+   Drugs: No IVDU but remote cocaine use per OMR.
+   Tobacco: Remote tobacco (10pk/yr; quit 9yr ago).
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**3329-10-24**] 08:21 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.8
+C (96.4
+   Tcurrent: 35.8
+C (96.4
+   HR: 65 (65 - 65) bpm
+   BP: 131/86(97) {131/86(97) - 131/86(97)} mmHg
+   RR: 15 (15 - 16) insp/min
+   SpO2: 100%
+   Heart rhythm: 1st AV (First degree AV Block)
+   Height: 75 Inch
+             Total In:
+             19 mL
+   PO:
+             TF:
+   IVF:
+   19 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     19 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Hemodynamic Instability
+   PIP: 18 cmH2O
+   Plateau: 13 cmH2O
+   SpO2: 100%
+   ABG: 7.39/43/314//1
+   Ve: 6.8 L/min
+   PaO2 / FiO2: 785
+   Physical Examination
+   General Appearance: Thin
+   Eyes / Conjunctiva: PERRL, 3->2mm bilat with conserved response
+   Head, Ears, Nose, Throat: Normocephalic, Poor dentition, Endotracheal
+   tube, OG tube
+   Cardiovascular: (PMI Hyperdynamic), (S1: Normal), (S2: Normal),
+   (Murmur: Systolic), 3/6 systolic murmur at LLSB
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Diminished), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended
+   Extremities: Right: Absent, Left: Absent
+   Skin:  Cool
+   Neurologic: No(t) Attentive, No(t) Follows simple commands, Responds
+   to: Noxious stimuli, Movement: Not assessed, Sedated, Tone: Not
+   assessed, sedated. prior moving all 4 extremities and sitting up in bed
+   prior to sedation
+   Labs / Radiology
+   157 K/uL
+   10.0 g/dL
+   32.0 %
+   15.9 K/uL
+        [image002.jpg]
+                                  [**3327-2-3**]
+                          2:33 A9/22/[**3329**]  05:45 AM
+                                  [**3327-2-7**]
+                         10:20 P9/22/[**3329**]  05:55 AM
+                                  [**3327-2-8**]
+                                   1:20 P
+                                  [**3327-2-9**]
+                                   11:50 P
+                                  [**3327-2-10**]
+                                   1:20 A
+                                  [**3327-2-11**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3327-3-6**]
+                                   1:20 P
+                                  [**3327-3-6**]
+                                   11:20 P
+                                  [**3327-3-6**]
+                                   4:20 P
+   WBC
+                                    15.9
+   Hct
+                                    32.0
+   Plt
+                                     157
+   TropT
+                                    0.06
+   TC02
+                                     27
+   Other labs: CK / CKMB / Troponin-T:183/4/0.06, ALT / AST:38/93, Alk
+   Phos / T Bili:166/1.1, Amylase / Lipase:/39, Differential-Neuts:89.4 %,
+   Lymph:7.1 %, Mono:2.8 %, Eos:0.6 %, Albumin:3.4 g/dL, Ca++:10.1 mg/dL,
+   Mg++:2.3 mg/dL, PO4:7.0 mg/dL
+   Fluid analysis / Other labs: pH
+   7.39 pCO2
+   43 pO2
+   314 HCO3
+   27 BaseXS
+   1
+   Type:Art; Intubated; FiO2%:100; AADO2:365; Req:64; Rate:/14; TV:550;
+   PEEP:5; Mode:Assist/Control; Temp:36.4
+   Trop-T: 0.06
+   Comments: cTropnT: Ctropnt > 0.10 Ng/Ml Suggests Acute Mi
+   CK: 183  MB: 4
+   Ca: 10.1 Mg: 2.3 P: 7.0 D
+   ALT: 38 AP: 166 Tbili: 1.1 Alb: 3.4
+   AST: 93
+   [**Doctor First Name 410**]:  Lip: 39
+   WBC 15.9 Hb 10.0 Hct 32 Plt 157
+   N:89.4 L:7.1 M:2.8 E:0.6 Bas:0.1
+   Green Top
+   Na:140 K:5.0 Cl:95 TCO2:24 Glu:100 freeCa:1.20
+   Lactate:7.4
+   pH:7.27
+   Hgb:11.8
+   CalcHCT:35
+   PT: 19.2  PTT: 31.4  INR: 1.8
+   Imaging: CXR (unofficial read) ETT and OGT in good position. dual lead
+   ICD in left chest. cardiomegaly, no pleural effusion. bilateral hilar
+   congestion
+   TTE ([**3329-10-10**]) - The left atrium is markedly dilated. The right atrium is
+   markedly dilated. No atrial septal defect is seen by 2D or color
+   Doppler. The estimated right atrial pressure is 10-20mmHg. There is
+   mild symmetric left ventricular hypertrophy. The left ventricular
+   cavity is severely dilated. There is severe global left ventricular
+   hypokinesis (LVEF = 20 %). The basal lateral wall moves best and the
+   remaining segments are akinetic.. No masses or thrombi are seen in the
+   left ventricle. There is no ventricular septal defect. The right
+   ventricular cavity is markedly dilated with moderate global free wall
+   hypokinesis. There is no mass/thrombus in the right ventricle. The
+   aortic root is mildly dilated at the sinus level. The aortic arch is
+   mildly dilated. The aortic valve leaflets (3) appear structurally
+   normal with good leaflet excursion and no aortic regurgitation. There
+   is no aortic valve stenosis. The mitral valve leaflets are mildly
+   thickened. There is no mitral valve prolapse. Mild (1+) mitral
+   regurgitation is seen. The tricuspid valve leaflets are mildly
+   thickened. Moderate to severe [3+] tricuspid regurgitation is seen.
+   There is severe pulmonary artery systolic hypertension. There is no
+   pericardial effusion.
+   Microbiology: none
+   ECG: sinus with prolong PR interval.  LBBB, LAD. poor RWP
+   Assessment and Plan
+   46 year old man with history of ischemic cardiomyopathy s/p PCI with hx
+   of SCD s/p ICD implanation c/b ICD malfunction, ESRD on HD presenting
+   with cardiac arrest.
+   1) Cardiac arrest: the patient's initial rhythm was pulseless VT. He
+   has an ischemic substrate and a history of SCD and with his
+   malfunctioning ICD, this was the likely trigger to the events.  He has
+   missed no dialysis sessions and it is unlikely that primary
+   hyperkalemia would be the primary cause to the arrthymia in the absence
+   of regional organ hypoperfusion and massive cellular breakdown.  EKG is
+   unremarkable for dramatic concordant or discordant ST segment changes
+   and initial cardiac enzymes are remarkably low which would point away
+   from ACS as driving cause.  he has shown neurologic recovery (prior to
+   sedation) and does not meet criteria for cooling. alternative
+   explanation was CHF exacerbation with hypoxia driving pulseless arrest,
+   however patient not total body wet.
+   - EP consult +/- CCU transfer
+   - r/o MI, monitor on tele
+   - daily neuro exams off sedation to assess mental status recovery
+   2) ESRD on HD: it is unclear what his primary renal disease is.
+   however currently he has adequate HD access. Has K = 5 and acidosis
+   adequately controlled with ventilation.
+   - renal recs
+   - phos-binders per renal
+   - HD today
+   3) Cardiac:
+   ischemia: r/o MI although low prob for ACS
+   - aspirin 325 mg until r/o complete then 81 mg thereafter
+   - continue beta-blocker
+   - continue statin
+   - hold heparin
+   rhythm: pulseless VT as above
+   - EP consult
+   - amiodarone gtt for now
+   - telemetry
+   pump: euvolemic except for pulmonary edema.
+   - volume control
+   - beta-block as able
+   4) Respiratory failure: currently gas exchanging well on the vent. mild
+   pulmonary edema on CXR.
+   - PSV trial
+   - light sedation with fentanyl
+   - follow ABG
+   - VAP prevention
+   ICU Care
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**3329-10-24**] 06:40 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   mother [**Name (NI) 5444**] [**Name (NI) 5445**] [**Telephone/Fax (1) 5446**]
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 46M ESRD, DCM s/p multiple LAD stents and EF
+   of 20% / LV thrombus on coumadin with history of cardiac arrest and
+   AICD, which was scheduled for revision. Arrested at home, initially had
+   elevated K but on repeat was in the 5-6 range.
+   Exam notable for Tm 96.4 BP 103/67 HR 60 (paced) RR 14 with sat 99 on
+   A/C 550x14, 0.4, PEEP 5, ABG 7.39/43/314. PERRL, decreased movement LUE
+   but arousable and follows some commands. Chest clear, RRR s1s2 [**3-9**] SM.
+   Abdomen is soft, now edema. Labs notable for WBC 16K, HCT 32, K+ 5.0,
+   Cr P, lactate 7.4, Trop 0.06. CXR with clear lungs, EKG LB3 / paced.
+   Agree with plan to discuss with EP / CCU service given likely primary
+   arrhythmic event; needs device interrogation and likely revision based
+   on prior plan. For now, will continue amiodarone IV and monitor on
+   telemetry. Will check CT head to exclude focal lesion given question of
+   L weakness / neglect on exam and hold anticoagulation. No role for
+   cooling given generally good prognosis based on exam and distance out
+   from arrest. Continue ASA, BBL and statin, though not obviously
+   ischemic at this time. Will get renal evaluation and likely
+   hemodialysis once rhythm issues have settled. Continue mechanical
+   ventilation and sedation until need for further procedures has been
+   clarified. Continue NPO, RISS (not diabetic), and H2B for prophylaxis.
+   Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 50 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3329-10-24**] 02:35 PM ------
+
+
+
+DOC CLASS

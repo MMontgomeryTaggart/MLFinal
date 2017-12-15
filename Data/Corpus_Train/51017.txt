@@ -1,0 +1,172 @@
+Admission Date:  [**2578-4-10**]       Discharge Date:  [**2578-4-18**]
+
+Date of Birth:   [**2519-3-15**]       Sex:  M
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 59-year-old male
+with a past medical history of coronary artery disease,
+status post CABG in [**2563**] and hypercholesterolemia who was
+admitted to the [**Hospital Unit Name 519**] Service on [**2578-4-10**].  The patient
+initially presented to [**Hospital1 413**] with a three week history of
+intermittent band-like chest pain radiating down both arms
+with some associated numbness and tingling in his fingertips
+bilaterally.  The patient also complained of associated
+fatigue, and mild shortness of breath.  The patient claimed
+that each episode of pain lasted approximately three to four
+minutes.  The patient additionally complained of
+approximately a weeks history of nausea, vomiting, and
+diarrhea, which he attributed to a "flu-like illness".  The
+EKG at the outside hospital reportedly demonstrated T wave
+depression in leads V1 through V3 and ST depression in leads
+V2 and V3.  The patient's CK was negative but he did
+demonstrate elevated troponin to 1.2.  Transthoracic
+echocardiogram conducted at the outside hospital reportedly
+demonstrated an inferior wall reversible defect and the
+patient was subsequently transferred to the [**Hospital6 117**] on [**2578-4-10**] for further
+evaluation and treatment.
+
+PAST MEDICAL HISTORY:
+1.  Hypercholesterolemia.
+2.  Coronary artery disease, status post CABG in [**2563**] with
+anastomoses from the LIMA to the LAD and RSVG to the OM and
+PDA.
+3.  Rectal prolapse.
+4.  Nasal polyps.
+5.  Status post pelvic fracture in [**2556**].
+6.  Chronic lower back pain and arthritis.
+
+ADMISSION MEDICATIONS:
+1.  Cardizem.
+2.  Aspirin.
+3.  Lopid.
+4.  Lipitor.
+5.  K-Dur.
+
+ALLERGIES:  Penicillin causes anaphylactic shock.
+
+SOCIAL HISTORY:  The patient lives mainly in [**Country 2933**] with his
+girlfriend but has a home in [**Name (NI) 3178**], [**State 2663**] and is
+here for approximately two months of the year.  The patient
+has a four pack year history of smoking but is currently
+abstinent.  The patient consumes occasional alcohol.  There
+is no history of IV drug use but does reportedly smoke
+marijuana as an adjunct to his low back pain therapy.
+
+HOSPITAL COURSE:  The patient was admitted to the [**Hospital Unit Name 519**]
+Service on [**2578-4-10**] under the direction of Dr. [**Last Name (STitle) **].
+Cardiac catheterization conducted on [**2578-4-10**] demonstrated
+three vessel coronary artery disease with complete occlusion
+of the saphenous vein graft to the PDA.  In addition, the
+saphenous vein graft to the OM1 was diffusely diseased.  As
+well, the LAD was noted to have a 95% stenosis just after D1
+and mild diffuse disease in its proximal segment.  The
+patient's ejection fraction was noted to be 52%. The patient
+was treated medically with beta blockers and aspirin for
+hospital days number one and two, after which point, a
+prolonged discussion was held with the patient regarding
+surgical options.
+
+Following a discussion of the relative risks and benefits of
+cardiac surgery, the patient agreed to a coronary artery
+bypass graft to be scheduled on [**2578-4-13**].
+
+On [**2578-4-13**], the patient underwent a re-do coronary artery
+bypass graft.  Anastomoses included SVG to LAD, SVG to PDA,
+and SVG to OM.  The patient tolerated the procedure well with
+a bypass time of 85 minutes and a crossclamp time of 57
+minutes.  The patient's pericardium was left open; lines
+placed included an arterial line and a Swan-Ganz catheter;
+both ventricular and atrial wires were placed; mediastinal
+and bilateral pleural tubes were placed.
+
+The patient was subsequently transferred to the Cardiac
+Surgery Recovery Unit, intubated, for further evaluation and
+management.  On transfer, the patient's mean arterial
+pressure was 78, CVP 11, PAD 20, and his [**Doctor First Name **] was 27.  The
+patient was noted to be in normal sinus rhythm with a heart
+rate of 85 beats per minute.  On transfer, active drips
+included Neo-Synephrine and propofol.  In the hour shortly
+following his arrival in the CSRU, the patient was noted to
+have a hypotensive episode which was responsive to additional
+Neo-Synephrine and aggressive fluid resuscitation.
+
+The patient's postoperative hematocrit was noted to be 25.4.
+On postoperative day number one, the patient was successfully
+weaned and extubated in the CSRU.  He was subsequently
+advanced to p.o. intake, which he tolerated well, and
+tolerated removal of his chest tubes and Foley catheter well.
+The patient was subsequently noted to be independently
+productive of adequate amounts of urine for the duration of
+his stay.
+
+On the evening of postoperative day number two, the patient
+was cleared for transfer to the floor and was subsequently
+admitted to the Cardiothoracic Service under the direction of
+Dr. [**First Name (STitle) **] [**Last Name (Prefixes) **].  Postoperatively, the patient had an
+uneventful clinical course.  The patient was evaluated by
+physical therapy, who deemed him an acceptable candidate for
+discharge home following a course of acute medical treatment.
+The patient's epicardial wires were successfully removed
+without complication and he was noted to remain in sinus
+rhythm for the duration of his stay.  The patient was
+advanced to a full regular diet, which he tolerated well, and
+was noted to have adequate pain control via oral pain
+medications.
+
+By postoperative day number five, the patient was noted to be
+independently ambulatory with good oxygen saturations on room
+air.  His dressing was noted to be clean, dry, and intact,
+and his sternal incision was noted to be intact with
+Steri-Strips neatly in place.  No evidence of erythema or
+purulence was noted in any of his surgical regions.  The
+patient was subsequently cleared for discharge to home with
+instructions for follow-up on postoperative day number five,
+[**2578-4-18**].
+
+CONDITION AT DISCHARGE:  The patient is to be discharged to
+home with instructions for follow-up.
+
+STATUS AT DISCHARGE:  Stable.
+
+DISCHARGE MEDICATIONS:
+1.  Lasix 20 mg p.o. q. 12 hours times ten days.
+2.  Potassium chloride 20 mEq p.o. q. 12 hours times ten
+days.
+3.  Colace 100 mg p.o. b.i.d.
+4.  Aspirin 325 mg p.o. q.d.
+5.  Percocet 5/325 mg one to two tablets p.o. q. four to six
+hours p.r.n. pain.
+6.  Lipitor 60 mg p.o. q.d.
+7.  Gemfibrozil 600 mg p.o. b.i.d.
+8.  Lopressor 75 mg p.o. b.i.d.
+
+DISCHARGE INSTRUCTIONS:  The patient has been instructed to
+maintain his incisions clean and dry at all times.  The
+patient may shower but should pat dry incisions afterwards.
+No bathing or swimming until further notice.  The patient is
+to resume a cardiac diet.  The patient is to limit physical
+exercise; no heavy exertion.  No driving while taking
+prescription pain medications.
+
+FOLLOW-UP:  The patient is to follow-up with his primary care
+provider within one to two weeks following discharge.  The
+patient is to follow-up with Dr. [**First Name (STitle) **] [**Last Name (Prefixes) **] four weeks
+following discharge.  The patient is to call to schedule an
+appointment.
+
+
+
+
+                            [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D.  [**MD Number(1) 774**]
+
+Dictated By:[**Last Name (NamePattern1) 4566**]
+MEDQUIST36
+
+D:  [**2578-4-18**]  01:45
+T:  [**2578-4-18**]  14:02
+JOB#:  [**Job Number 15976**]
+
+
+
+DOC CLASS

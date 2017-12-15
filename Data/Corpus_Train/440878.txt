@@ -1,0 +1,237 @@
+CVICU
+   HPI:
+   Ejection Fraction:55%
+   Pre-Op Weight:193.56 lbs   87.8 kgs
+   Baseline Creatinine:1.2
+   TLD:left ulnar A line:Day7   L PICC:Day6
+   Foley:Day9
+   PMHx:
+   PMH: hyperlipidemia, HTN,AAA, AF 2 yrs ago-> coumadin, hemorrhoids
+   [**Last Name (un) **]:Atenolol 100',Lisinopril 20',Diliatzem 180', ASA 81', coumadin 5',
+   (7.5 [**Last Name (un) **]), Simvastatin 40',VitC 500', VitE 400', BuprionCR 150
+   Current medications:
+   Acetaminophen 4. Albuterol Inhaler 5. Amlodipine 6. Amiodarone 7.
+   Aspirin 8. BuPROPion 9. Calcium Gluconate 10. Chlorhexidine Gluconate
+   0.12% Oral Rinse 11. Ciprofloxacin 12. Dextrose 50%. Docusate Sodium
+   (Liquid) 14. Furosemide 15. Heparin 16. HydrALAzine 17. HydrALAzine 18.
+   19. Insulin 20. Lactulose 21. Lisinopril 22. Magnesium Sulfate 23.
+   Metoprolol Tartrate 24. Nitroglycerin 26. Nystatin Oral Suspension 27.
+   OxycoDONE-Acetaminophen Elixir 29. Potassium Chloride 30. Ranitidine
+   31. Simvastatin 34. Vancomycin Oral Liquid 35. Warfarin
+   24 Hour Events:
+ SPUTUM CULTURE - At [**3012-9-21**] 08:00 AM
+ STOOL CULTURE - At [**3012-9-21**] 02:16 PM
+   C diff #2
+   Events:
+   [**3012-9-20**] Trach collar x 2 hrs, TM 103. recx'd, Cdiff sent, flagyl
+   started
+   [**3012-9-19**] Trach colllar, cipro increased to 400 q 12 hr. Vanco trough
+   18
+   [**3012-9-18**] Left Groin debrided by vascular - cx sent
+   [**3012-9-16**] TF, heparin restarted, new Aline, vanco changed to q 24 hrs
+   [**3012-9-15**] +blood cx from aline
+   [**3012-9-14**] foley changed, pan cx, vanco added for bilat groins
+   [**3012-9-12**] Coumadin 2'AF/Milrinone weaned.DeSAT on
+   CPAP.oliguric->vol/Lasix,Cipro 2'+UA
+   Post operative day:
+   [**9-22**]-HD17   POD 15-Asc Ao graft(32mm gelweave)/AVR(29mm porcine)
+    POD 7-Trach and PEG
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3012-9-21**] 09:48 PM
+   Ciprofloxacin - [**3012-9-22**] 05:51 AM
+   Infusions:
+   Heparin Sodium - 950 units/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3012-9-21**] 01:30 PM
+   Hydralazine - [**3012-9-21**] 03:59 PM
+   Flowsheet Data as of  [**3012-9-22**] 01:28 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**14**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 37
+C (98.6
+   HR: 62 (62 - 77) bpm
+   BP: 111/54(73) {111/49(70) - 159/151(155)} mmHg
+   RR: 22 (17 - 36) insp/min
+   SPO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 95 kg (admission): 89 kg
+   Height: 66 Inch
+             Total In:
+                                                                  2,926 mL
+                                                                  1,174 mL
+   PO:
+             Tube feeding:
+                                                                    723 mL
+                                                                    383 mL
+   IV Fluid:
+                                                                  1,243 mL
+                                                                    451 mL
+   Blood products:
+   Total out:
+                                                                  2,355 mL
+                                                                    750 mL
+   Urine:
+                                                                  1,855 mL
+                                                                    750 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    571 mL
+                                                                    425 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 323 (323 - 676) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 22
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 50
+   PIP: 15 cmH2O
+   SPO2: 99%
+   ABG: 7.47/37/55/28/3
+   Ve: 9.1 L/min
+   PaO2 / FiO2: 110
+   Physical Examination
+   General Appearance: No acute distress, Well nourished
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : throughout), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present, peg
+   site CDI
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands, (Responds to: Verbal stimuli),
+   Moves all extremities, awake/responsive/follows commands
+   Labs / Radiology
+   353 K/uL
+   8.8 g/dL
+   153 mg/dL
+   1.1 mg/dL
+   28 mEq/L
+   4.2 mEq/L
+   51 mg/dL
+   110 mEq/L
+   146 mEq/L
+   27.8 %
+   14.1 K/uL
+        [image002.jpg]
+                            [**3012-9-19**]  04:58 AM
+                            [**3012-9-20**]  03:37 AM
+                            [**3012-9-20**]  03:49 AM
+                            [**3012-9-20**]  06:00 AM
+                            [**3012-9-20**]  12:00 PM
+                            [**3012-9-20**]  06:00 PM
+                            [**3012-9-21**]  03:50 AM
+                            [**3012-9-21**]  06:12 AM
+                            [**3012-9-21**]  02:12 PM
+                            [**3012-9-22**]  04:22 AM
+   WBC
+   11.7
+   13.1
+   14.1
+   Hct
+   29.1
+   29.0
+   27.8
+   Plt
+   399
+   360
+   353
+   Creatinine
+   1.3
+   1.1
+   1.1
+   TCO2
+   27
+   29
+   28
+   28
+   Glucose
+   144
+   193
+   134
+   163
+   146
+   153
+   Other labs: PT / PTT / INR:18.6/74.5/1.7, CK / CK-MB / Troponin
+   T:441/13/, ALT / AST:32/103, Alk-Phos / T bili:54/1.6, Amylase /
+   Lipase:89/92, Differential-Neuts:87.0 %, Lymph:9.8 %, Mono:2.3 %,
+   Eos:0.4 %, Fibrinogen:280 mg/dL, Lactic Acid:1.1 mmol/L, Albumin:3.9
+   g/dL, LDH:442 IU/L, Ca:8.6 mg/dL, Mg:2.1 mg/dL, PO4:3.4 mg/dL
+   Imaging: Micro/Imaging:
+   [**3012-9-18**] Head CT Neg for acute infarct
+   [**3012-9-16**] Echo EF 60%, 1+ MR, LVH
+   Microbiology: [**3012-9-14**] blood gram + - vancomycin
+   [**3012-9-11**] sputum,urine Serratia, proteus > cipro
+   Assessment and Plan
+   DIARRHEA, .H/O HYPERTENSION, BENIGN, HYPERGLYCEMIA, PAIN CONTROL (ACUTE
+   PAIN, CHRONIC PAIN), AORTIC DISSECTION, HYPOXEMIA, RENAL FAILURE, ACUTE
+   (ACUTE RENAL FAILURE, ARF), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC
+   (AVR), PNEUMONIA, OTHER, AIRWAY, INABILITY TO PROTECT (RISK FOR
+   ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH)
+   Assessment and Plan: 72 year old male s/p Asc Ao graft(32mm
+   gelweave)/AVR(29mm porcine)  postop course c/b ARF-resp failure both
+   now resolving. Hemodynamically stable
+   Neurologic: Pain controlled, percocet for pain control-no complaints at
+   this time
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, Statins,
+   started ace yesterday
+   Pulmonary: Trach, Spontaneous breathing trial, (Ventilator mode: CPAP +
+   PS), wean to trach collar as tolerated.
+   Echo to assess effusions with small rt effusion-no indication for
+   thoracentesis
+   Gastrointestinal / Abdomen: PEG site CDI
+   Nutrition: Tube feeding, continue tube feeds at goal rate
+   Renal: Foley, Adequate UO, diuretic started yestreday, elevated BUN Cr
+   continue slow trend down
+   Hematology: stable post-op anemia
+   comadin for afib
+   continue to trend INR/HCT
+   Endocrine: RISS, Lantus (R)
+   Infectious Disease: gm positive in blood tx w/Vanco
+   Serratia/Proteus  in sputum-urine tx w cipro
+   PO vanco for presumed CDiff.
+   Afebrile last 24 hrs, wbc down 14
+   Lines / Tubes / Drains: Foley, Trach, PEG
+   Flexiseal
+   Wounds: Dry dressings, Sternum CDI
+   PEG site CDI
+   Bilat groin site with 1cm surrounding erythema, fibrinous tissue base
+   of wound
+   Imaging: CXR today, pleural US today
+   Consults: Vascular surgery, CT surgery, Transplant, ID dept, P.T.,
+   Nutrition
+   ICU Care
+   Nutrition: NovaSource Renal (Full) - [**3012-9-22**] 07:18 AM 30 mL/hour
+   Glycemic Control:  Regular insulin sliding scale, Lantus (R) protocol
+   Lines: Arterial Line - [**3012-9-16**] 12:40 PM
+   PICC Line - [**3012-9-17**] 09:32 AM
+   Prophylaxis: DVT: Boots (Systemic anticoagulation: Heparin drip,
+   Coumadin (R), OOB-chair)
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Agree with above note by [**First Name8 (NamePattern2) **] [**Doctor Last Name 2257**].
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Last Name (NamePattern1) 1895**], MD
+   on:[**3012-9-22**] 03:23 PM ------
+
+
+
+DOC CLASS

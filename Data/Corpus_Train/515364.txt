@@ -1,0 +1,244 @@
+Chief Complaint:
+   24 Hour Events:
+ ULTRASOUND - At [**3177-8-3**] 12:00 PM
+   RUQ US
+ TRANSTHORACIC ECHO - At [**3177-8-3**] 03:49 PM
+ URINE CULTURE - At [**3177-8-4**] 04:38 AM
+ BLOOD CULTURED - At [**3177-8-4**] 04:45 AM
+   a line
+ BLOOD CULTURED - At [**3177-8-4**] 04:46 AM
+   central line
+ SPUTUM CULTURE - At [**3177-8-4**] 06:23 AM
+ FEVER - 102.9
+F - [**3177-8-4**] 04:00 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3177-8-4**] 06:23 AM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Other ICU medications:
+   Midazolam (Versed) - [**3177-8-3**] 03:15 PM
+   Fentanyl - [**3177-8-3**] 08:03 PM
+   Morphine Sulfate - [**3177-8-3**] 09:45 PM
+   Metoprolol - [**3177-8-3**] 10:38 PM
+   Heparin Sodium (Prophylaxis) - [**3177-8-4**] 06:23 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3177-8-4**] 06:29 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.4
+C (102.9
+   Tcurrent: 38.2
+C (100.8
+   HR: 93 (71 - 104) bpm
+   BP: 81/49(59) {81/49(59) - 230/91(132)} mmHg
+   RR: 25 (11 - 34) insp/min
+   SpO2: 93%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 71 Inch
+    CVP: 16 (12 - 24)mmHg
+   CO/CI (Fick): (13.7 L/min) / (5.4 L/min/m2)
+   SvO2: 81%
+   Total In:
+                                                                  7,495 mL
+                                                                    214 mL
+   PO:
+   TF:
+                                                                    118 mL
+                                                                     40 mL
+   IVF:
+                                                                  7,217 mL
+                                                                    174 mL
+   Blood products:
+   Total out:
+                                                                  1,027 mL
+                                                                    520 mL
+   Urine:
+                                                                  1,027 mL
+                                                                    520 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,468 mL
+                                                                   -306 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 550 (550 - 700) mL
+   Vt (Spontaneous): 812 (460 - 812) mL
+   PS : 12 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 70%
+   RSBI Deferred: PEEP > 10, FiO2 > 60%
+   PIP: 34 cmH2O
+   Plateau: 27 cmH2O
+   SpO2: 93%
+   ABG: 7.28/45/62/20/-5
+   Ve: 15.1 L/min
+   PaO2 / FiO2: 89
+   Physical Examination
+   Labs / Radiology
+   175 K/uL
+   10.7 g/dL
+   104 mg/dL
+   12.3 mg/dL
+   20 mEq/L
+   4.8 mEq/L
+   58 mg/dL
+   101 mEq/L
+   140 mEq/L
+   33.1 %
+   6.5 K/uL
+        [image002.jpg]
+                             [**3177-8-2**]  10:22 PM
+                             [**3177-8-3**]  02:13 AM
+                             [**3177-8-3**]  02:23 AM
+                             [**3177-8-3**]  04:55 AM
+                             [**3177-8-3**]  08:51 AM
+                             [**3177-8-3**]  05:23 PM
+                             [**3177-8-3**]  11:19 PM
+                             [**3177-8-4**]  01:12 AM
+                             [**3177-8-4**]  03:49 AM
+                             [**3177-8-4**]  04:05 AM
+   WBC
+   5.3
+   6.5
+   Hct
+   26.7
+   37
+   33.1
+   Plt
+   157
+   175
+   Cr
+   10.6
+   12.3
+   TropT
+   0.59
+   TCO2
+   28
+   26
+   28
+   26
+   24
+   25
+   22
+   Glucose
+   128
+   130
+   104
+   Other labs: PT / PTT / INR:14.6//1.3, CK / CKMB /
+   Troponin-T:154/4/0.59, ALT / AST:44/24, Alk Phos / T Bili:214/4.2,
+   Amylase / Lipase:408/867, Differential-Neuts:82.4 %, Lymph:10.8 %,
+   Mono:5.0 %, Eos:1.6 %, Lactic Acid:1.6 mmol/L, Albumin:3.0 g/dL,
+   LDH:202 IU/L, Ca++:8.3 mg/dL, Mg++:2.3 mg/dL, PO4:6.7 mg/dL
+   Assessment and Plan
+   43 yo man with CAD, HTN, stage V CKF on HD who presented with
+   hypotension, fever, pancreatitis and hepatitis concerning for bilary
+   pancreatitis and biliary sepsis.
+   .
+   # Hypotension/Sepsis: Patient meets SIRS criteria with fever,
+   tachypnea, tachycardia and lactate of 2.5 consistent with sepsis.
+   Infectious source likely biliary tract vs. HD line infection, pulmonary
+   source (although CXR does not support PNA). Patient has required both
+   fluids and pressors overnight to maintain MAP>65. Lactate responded
+   with initial fluid to 1.7, Sv02 78. Random cortisol 34.3. Patient
+   currently on PS PEEP 8 FIO2 60%. In setting of unknown etiology of
+   sepsis would not move to extubate at this time.
+   - continue to treat underlying infection with IV
+   vancomycin/unasyn/gentamycin
+   - IVF to maintain CVP 12-14, MAP >65
+   - attempt to wean off levophed today if BP is stable
+   - check serial lactates
+   - f/u ERCP recs and findings
+   - f/u final OSH CT read, outside blood cultures
+   .
+   # Gallstone Pancreatitis: Bump in amylase/lipase may be [**12-25**] ERCP and
+   not pancreatitis. If patient initially presented w/pancreatitis then
+   standard of care would be to treat with PO nutrition, IV fluids and
+   pain medication. Patient may be able to tolerate TF slowly. Monitor
+   iCa, vanco/zosyn/gent as above.
+   - TF unless unable to tolerate or contraindicated in treatment of
+   underlying sepsis
+   - replete calcium, monitor [**Hospital1 **] Ca levels
+   - aggressive volume resuscitation
+   - f/u ERCP recs and any further recommended studies (ie. RUQ US)
+   .
+   # ESRD: On HD as outpatient, M/W/F. Renal is following patient and
+   suggested waiting until tomorrow to resume HD>
+   - f/u renal recs, will plan for HD tomorrow
+   - dose all abx w/ HD
+   - monitor UOP  (if any)
+   - resume phos binders when taking po
+   - resume sensipar when taking po
+   - monitor chem daily
+   .
+   # Hepatitis: Likely congestive with obstruction. Trending down today.
+   - Trend LFTs daily
+   .
+   # Hypoxia: Sepsis vs. CHF although CXR without infiltrate, no sputum or
+   cough, but also on differential.
+   - continue supplemental o2
+   .
+   # CAD: S/p stent in [**12-31**], still on plavix so suspect DES. Records at
+   [**Hospital1 470**]. ECG with some ischemic changes of unclear duration, no active
+   symptoms. CE stably elevated on admission. In setting of ESRD, unlikely
+   to be acute event.
+   - continue aspirin/plavix
+   - continue statin as shown to have some anti-inflammatory effect in
+   setting of chronic disease and infection
+   - consider ECHO to further work-up cardiac etiology and as baseline
+   - telemetry
+   .
+   # OSA: Witnessed apenic episodes while asleep. Known h/o of OSA on CPAP
+   as outpatient but has not been tolerating of recent.
+   - intubated
+   .
+   # Anemia: Normocytic with normal RDW, this may be chronic given CKD.
+   Hemolysis are within normal limits and hct has been stable.
+   - guaiac stools
+   - monitor Hct
+   - f/u iron studies/retic/b12/folate
+   .
+   # FEN: ?NPO pending ERCP recs; if NPO allow for IVF, aggressive calcium
+   and mag repetion.
+   .
+   # PPx: Heparin, colace, senna, PPI, ssi.
+   .
+   # Acccess: right IJ triple lumen, PIV x1.
+   .
+   # Code: Full.
+   .
+   # Communication: Patient, ex-wife [**Name (NI) 473**] [**Name (NI) 474**] [**Telephone/Fax (1) 475**] or sister
+   [**Name (NI) 476**] [**Name (NI) **] [**Telephone/Fax (1) 477**].
+   .
+   # Dispo: ICU
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3177-8-2**] 12:07 PM
+   20 Gauge - [**3177-8-2**] 12:08 PM
+   Arterial Line - [**3177-8-2**] 07:40 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,181 @@
+TITLE:
+   Chief Complaint: respiratory distress
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 Hour Events:
+   Continued hypoxemia, essentially stable.
+   Hypertension better controlled
+   Says her dyspnea is improved
+   History obtained from Patient, Medical records
+   Allergies:
+   Penicillins
+   Hives;
+   Aspirin
+   Hives;
+   Motrin (Oral) (Ibuprofen)
+   Hives;
+   Tylenol (Oral) (Dm Hb/Pseudoephed/Acetamin/Cp)
+   Hives;
+   Codeine
+   Hives;
+   Plavix (Oral) (Clopidogrel Bisulfate)
+   Hives;
+   Percocet (Oral) (Oxycodone Hcl/Acetaminophen)
+   Shortness of br
+   Zofran (Oral) (Ondansetron Hcl)
+   Hives;
+   Morphine
+   Shortness of br
+   Optiray 320 (Intraven) (Ioversol)
+   Hives;
+   Visipaque (Injection) (Iodixanol)
+   Hives;
+   Tramadol
+   Unknown;
+   Ketorolac
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Alteplase (TPA) - 0.5 mg/hour
+   Heparin Sodium - 250 units/hour
+   Other ICU medications:
+   Hydralazine - [**2498-1-7**] 06:30 PM
+   Other medications:
+   heparin, TPA, NAC, prednisone @ 40, Reglan, iron, PPI, SQI, statin,
+   Klonopin
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2498-1-8**] 09:02 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100
+   Tcurrent: 37.8
+C (100
+   HR: 102 (96 - 118) bpm
+   BP: 138/59(79) {125/59(77) - 185/92(112)} mmHg
+   RR: 24 (20 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+                                                                  1,924 mL
+                                                                  2,626 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,924 mL
+                                                                  2,626 mL
+   Blood products:
+   Total out:
+                                                                    340 mL
+                                                                    790 mL
+   Urine:
+                                                                    340 mL
+                                                                    690 mL
+   NG:
+   100 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,584 mL
+                                                                  1,836 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SpO2: 100%
+   ABG: ///24/
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Clear : ), anterior exam; unable
+   to examine posterior due to groin catheters
+   Abdominal: Soft, Tender: continued discomfort with palpation
+   Extremities: Right: 2+ edema, Left: 2+ edema
+   Musculoskeletal: Unable to stand
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   8.7 g/dL
+   371 K/uL
+   217 mg/dL
+   1.4 mg/dL
+   24 mEq/L
+   4.6 mEq/L
+   27 mg/dL
+   106 mEq/L
+   138 mEq/L
+   26.3 %
+   15.4 K/uL
+        [image002.jpg]
+                             [**2498-1-7**]  06:20 PM
+                             [**2498-1-7**]  08:54 PM
+                             [**2498-1-7**]  11:51 PM
+                             [**2498-1-8**]  03:02 AM
+                             [**2498-1-8**]  05:37 AM
+   WBC
+   11.7
+   15.4
+   Hct
+   26.5
+   25.7
+   26.3
+   25.1
+   26.3
+   Plt
+   384
+   371
+   Cr
+   1.5
+   1.4
+   TropT
+   0.02
+   0.04
+   Glucose
+   215
+   217
+   Other labs: PT / PTT / INR:15.3/34.8/1.4, CK / CKMB /
+   Troponin-T:175/3/0.04, Differential-Neuts:89.3 %, Lymph:4.6 %, Mono:5.3
+   %, Eos:0.6 %, Fibrinogen:249 mg/dL, Ca++:8.1 mg/dL, Mg++:1.6 mg/dL,
+   PO4:3.8 mg/dL
+   CXR today shows increased right base opacity and left base
+   consolidation
+   Assessment and Plan
+   40-year-old woman with
+          Marked deep venous thrombosis, including IVC filter clot
+          Hypoxemia
+          Acute renal failure
+ improving
+          Obesity and probable OSA
+          Contrast allergy
+   We have discussed with the IR team.  They favor CT imaging to assess
+   clot burden, as well as
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2498-1-7**] 09:17 PM
+   Prophylaxis:
+   DVT: Boots(on local heparin and TPA)
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent:
+   Patient is critically ill
+
+
+
+DOC CLASS

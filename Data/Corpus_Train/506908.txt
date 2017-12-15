@@ -1,0 +1,208 @@
+Chief Complaint:
+   24 Hour Events:
+   - PICC LINE - START [**3424-3-28**] 07:24 PM
+   - Hypotensive to high 70s systolic. Received 5+ L of NS, including
+   fluid given in ED. Started Levophed.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3424-3-29**] 12:00 AM
+   Vancomycin - [**3424-3-29**] 03:00 AM
+   Infusions:
+   Norepinephrine - 0.05 mcg/Kg/min
+   Other ICU medications:
+   Omeprazole (Prilosec) - [**3424-3-28**] 11:00 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3424-3-29**] 07:14 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 38.2
+C (100.8
+   HR: 83 (75 - 113) bpm
+   BP: 105/58(70) {75/43(53) - 139/98(103)} mmHg
+   RR: 15 (14 - 32) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  5,131 mL
+                                                                    469 mL
+   PO:
+                                                                    120 mL
+                                                                    120 mL
+   TF:
+   IVF:
+                                                                  3,011 mL
+                                                                    349 mL
+   Blood products:
+   Total out:
+                                                                    340 mL
+                                                                    800 mL
+   Urine:
+                                                                    340 mL
+                                                                    800 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  4,791 mL
+                                                                   -331 mL
+   Respiratory support
+   O2 Delivery Device: Aerosol-cool
+   SpO2: 95%
+   ABG: 7.41/53/43/26/
+   PaO2 / FiO2: 61
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   146 K/uL
+   9.9 g/dL
+   150 mg/dL
+   0.2 mg/dL
+   26 mEq/L
+   3.2 mEq/L
+   8 mg/dL
+   108 mEq/L
+   141 mEq/L
+   30.5 %
+   16.6 K/uL
+        [image002.jpg]
+                             [**3424-3-29**]  03:30 AM
+   WBC
+   16.6
+   Hct
+   30.5
+   Plt
+   146
+   Cr
+   0.2
+   Glucose
+   150
+   Other labs: PT / PTT / INR:17.4/43.5/1.6, Differential-Neuts:91.2 %,
+   Lymph:7.2 %, Mono:1.5 %, Eos:0.0 %, Ca++:7.7 mg/dL, Mg++:1.8 mg/dL,
+   PO4:1.9 mg/dL
+   Assessment and Plan
+   This is a 50 yo f with paraplegia secondonary to MVA in [**3418**], h/o
+   recurrent resistant infections, here with pneumonia and hypotesion.
+   .
+   1.  PNA.  Patient has purulent productive cough, leukocytosis and
+   radiographic evidence of PNA.  Of note, patient hospitalized
+   [**Date range (1) 5332**] for PNA and was treated with 7 day course of levaquin.
+   - f/u sputum culture
+   - vanco/zosyn/levaquin
+   - f/u blood cultures
+   - mucinex
+   - chest pt
+   .
+   2. Hypotension.  Sepsis +/- hypovolemia in setting of infection.
+   Normal lactate is reassuring.
+   - check mixed venous sat to determine volume/cardiogenic vs. septic
+   cause
+    - on levophed, attempting to wean today
+   - IVF boluses for hypotension
+   .
+   3.  Leukocytosis.  Most likely source is pneumonia, however, will
+   evaluate for other sources. Recent UTI, s/p 10 day course of irtapenem,
+   however, repeat UA appears unremarkable.  PICC line does not appear
+   infected and has only been in for two weeks.
+   - vanco/zosyn/levaquin for PNA.
+   - follow up sputum, urine, blood cultures
+   - follow fever curve, wbc
+   .
+   4.  ARF.  Patient has baseline cr of 0.2.  Cr of 0.4 on admission.
+   - follow Cr, uop
+   .
+   5.  H/o DVT.  IVF in place since [**3418**].  Suspician for PE currently low
+   given PNA is much more likely diagnosis in setting of productive cough,
+   infiltrate on CXR and leukocytosis, so will not pursue CTA at this
+   point.
+   - HSQ prophylaxis
+   .
+   6.  Anemia.  Baseline Hct 30-35.  Most recent anemia studies in [**10-8**]
+   consistent with anemia of chronic disease.
+   - trend Hct
+   .
+   7.  Anxiety.
+   - klonopin at minimum doses to prevent hypotension
+   .
+   8.  Chronic pain.
+   - methadone, baclofen, lyrica
+   .
+   9.  Hypothyroidism.
+   - levothyroxine
+   10.  Depression.
+   - Citalopram 40 mg
+   11. Constipation
+   - Sucralfate 1 gram QID
+   - bowel regimen of Polyethylene Glycol 17 grams daily, Docusate Sodium
+   100 mg PO BID, Senna 8.6 mg [**Hospital1 **]
+   .
+   FEN: IVF boluses as needed, replete electrolytes, regular diet
+   .
+   Prophylaxis: Subcutaneous heparin
+   .
+   Access: picc, unable to place peripherals
+   .
+   Code: FULL, confirmed with patient and husband
+   .
+   Communication: Patient, husband
+   .
+   Disposition: ICU care for now
+   .
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3424-3-28**] 07:24 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 54F paraplegia s/p MVA [**3418**] c/b multiple
+   episodes of sepsis / resistant UTIs. Admitted yesterday with lethargy,
+   hypotension and hypoxemia. RLL infiltrate on CXR, responded to IVF
+   overnight via PICC. Refuses alternative access.
+   Exam notable for Tm 100.8 BP 100/60 HR 75-115 RR 18 with sat 99 on RA.
+   WD woman, NAD. Coarse BS B. RRR s1s2. Soft +BS. Chronic edema. Labs
+   notable for WBC 16K, HCT 30, Cr 0.2, lactate 0.8. CXR with RLL
+   infiltrate.
+   Agree with plan to manage pneumonia c/b likely sepsis with broad
+   antibiotic coverage, IVF resuscitation, wean pressors down as able.
+   Will check f/u lactate and CVO2, but appears well perfused and only
+   mildly hypovolemic at this point. Agree with broad coverage for now,
+   will check legionella Ag and d/c levo if negative. She has passed S+S
+   evals in the past, but aspiration may be contributing to this
+   presentation as well. PICC is a potential primary or secondary source
+   for infection, will d/c if BCX are positive or if exam changes. Will
+   hold off on echo unless BCx are positive or CVO2 low despite adequate
+   fluids. Will continue home meds for neuropatic pain. Supportive care as
+   outlined. Remainder of plan as outlined above.
+   Patient is critically ill
+   Total time: 40 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 98**] [**Last Name (NamePattern1) 730**], MD
+   on:[**3424-3-29**] 06:13 PM ------
+
+
+
+DOC CLASS

@@ -1,0 +1,36 @@
+TITLE:
+   Clinician:  Resident
+   Reintubated today in setting of worsening mental status and
+   hypercapneic resp failure, vbg 7.04/88. Uncomplicated re-intubation.
+   Notified family, they visited him after he was stabilized.  Likely
+   etiology infection and toxic metabolic, possible sources include
+   abdomen, lines, lung, and graft/cellulitis.  Will broaden antibiotics,
+   correct acidemia, f/u culture data.
+   Total time spent:  45 minutes
+   Patient is critically ill.
+   ------ Protected Section ------
+   Mr. [**Known patient lastname 7470**] noted to have worsening mental status ~13:30.  VBG obtained
+   -- 7.04/88.  Mental status continued worsening subsequently so
+   intubated.  Significant whitish/yellow secretions suctioned after
+   intubation.  .  Lt femoral Aline placed, Rt femoral CVL placed.
+   Required bump in levophed post intubation. Able to wean it back since
+   though not to pre-intubation level.
+   Current vent settings: PCV28  +7 R30 Ve10.5-11.5 F,O2 .60.
+   BP110/56 P122 100% R31
+   Etiology of decompensation most likely med related
+ restarted on MS
+   Contin yesterday (as well as MSIR) and received MS Contin today as
+   well.  Sepsis/infection also possibilities through has been on
+   meropenem and had been on vanc until several days ago (given renal
+   function still significant level on board).   Could be resistant org,
+   viral though not spiking and no sig elevation wbc.   Continue
+   supportive care.  Pan-cultured, Vanc restarted.  Wean FiO2.  Follow
+   bp/pressor requirement closely.
+   Patient is critically ill.
+   Time spent on care 45minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 169**] [**Last Name (NamePattern1) 891**], MD
+   on:[**3276-12-24**] 18:28 ------
+
+
+
+DOC CLASS

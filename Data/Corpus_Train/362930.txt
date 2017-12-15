@@ -1,0 +1,218 @@
+CCU Intern Progress Note:
+   History of Present Illness
+   EVENTS:
+   - TTE - pericardial effusion slightly larger, incr PA pressure, but no
+   signs of tamponade --> no pericardiocentesis
+   - low PO intake, pt does not have appetite
+   - heparin gtt restarted, pinkish urine at first, but cleared
+   - Hct ~30
+   - dilaudid prn for groin pain
+   CONSULTS:
+   - Neuro: cont keppra, cont heparin anticoagulation
+   - Heme: heparin anticoag, HIT negative
+   - Nephro: repeat renal U/S on [**1-11**] to re-eval hydronephrosis, start
+   lasix 40 [**Hospital1 **] standing, cont bicarb
+   - ID: f/u cxs, f/u G6PD before PCP [**Name Initial (PRE) 1951**] (bactrim vs atovaqone), f/u
+   mycoplasma, CMV VL
+   - Rheum: day #2 IVIg for thrombocytopenia, will need 2nd [**Doctor Last Name **] for LSE
+   (cellcept vs cytoxan), d/w pt who needs to decide
+   - ObGyn: discussed fertility issues w pt given risk with cytoxan
+   - Vasc [**Doctor First Name **]: no new recs
+   - Gen [**Doctor First Name **]: signed off
+   - Nutrition: following
+   - PT c/s ordered
+   This AM- no pain, no SOB now or last night, otherwise no new issues.
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 36.7 C
+   Tmax F last 24 hours: 98 F
+   T current C: 35.9 C
+   T current F: 96.6 F
+   Previous day:
+   Intake: 582 mL
+   Output: 1,800 mL
+   Fluid balance: -1,218 mL
+   Today:
+   Intake: 35 mL
+   Output: 300 mL
+   Fluid balance: -265 mL
+   VS: HR 76-99, currently 99; BP 119-133/93-104, currently 133/101; RR
+   17; 96% RA
+   Gen: thin, quiet young woman, flat affect
+   HEENT: PERRL, EOMI, anicteric sclerae, OP clear, MMM
+   Neck: supple, JVP, carotid pulses present, no bruit
+   CV: RRR, S1S2, no m/r/g, prominent either split S2 vs S3
+   PULM: no w/r/r; decreased breath sounds
+ up left lung, unchanged, no
+   crackles
+   ABD: soft, mildly distended, NT, NABS
+   EXT: 2+ edema b/l at ankles, wwp, palpable pulses
+   NEURO: AOx3, moves all 4 extremities, full sentences
+   Labs
+   CBC:
+   Chem7:
+   [**2986-1-7**]  06:00 PM
+                            [**2986-1-7**]  09:49 PM
+                            [**2986-1-7**]  09:50 PM
+                            [**2986-1-8**]  04:48 AM
+                            [**2986-1-8**]  05:40 PM
+                            [**2986-1-8**]  05:46 PM
+                            [**2986-1-9**]  01:14 AM
+                            [**2986-1-9**]  05:40 AM
+                            [**2986-1-9**]  10:00 PM
+                            [**2986-1-10**]  12:00 AM
+   WBC
+   9.5
+   10.0
+   10.9
+   Hgb
+   10.9
+   10.9
+   10.8
+   Hct (Serum)
+   31.5
+   30.2
+   29.7
+   31.4
+   30.5
+   Plt
+   118
+   115
+   89
+   153
+   184
+   INR
+   1.0
+   1.0
+   PTT
+   31.3
+   29.5
+   0.0
+   84.5
+   Na+
+   142
+   144
+   144
+   K + (Serum)
+   3.5
+   4.0
+   3.8
+   Cl
+   115
+   115
+   HCO3
+   17
+   18
+   BUN
+   36
+   36
+   38
+   Creatinine
+   2.1
+   2.1
+   2.0
+   Glucose
+   107
+   135
+   CK
+   34
+   Troponin T
+   0.07
+   Assessment and Plan
+   Ms [**Known patient lastname 4110**] is a 21-y/o F w h/o SLE c/b nephritis, pleural and pericardial
+   effusions, s/p recent 1-month-long admission at OSH for lupus flare,
+   who now presented with new-onset generalized tonic-clonic seizures x3
+   at home and was found to have multiterritorial strokes, pericardial
+   effusion w tamponade physiology as well as intraabdominal bleed.
+   Currently consulting: rheum, neuro, nephro, heme, urology, ob/gyn,
+   vascular surgery; as well as general surgery (signed-off).
+   # Myopericarditis with pericardial effusion: Dilated CMP w decreased
+   LVEF 20-30%. Most likely lupus-induced myopericarditis. Pt has h/o of
+   tamponade and had signs of early tamponade on TTE [**1-6**], not responding
+   to IV fluids.  No CP
+   - repeat echocardiogram to determine if pericardiocentesis or window is
+   indicated
+   - consider afterload reduction with low dose lisinopril, holding in
+   setting of acute renal failure.
+   - now on prednisone 50mg per day
+   # SOB/systolic CHF- episodes for last two nights, appears to become
+   fluid overloaded, crackles on exam and CXR. Improved with dilaudid and
+   lasix.
+   - monitor fluid status
+   - lasix PRN, if no pulsus or sx of tamponade
+   # SLE: Complicated by nephritis and pleural/pericardial effusions.
+   Concerning for associated thromboembolic disease with brain infarcts.
+   Rheum considering cyclophosphamide vs cell cept.  Will ask for OB/GYN
+   for recs regarding egg preservation once decision is made.  Options
+   include cryopreservation or GnRH agonists at time of cyclophosphamide
+   administration.  anti-cardiolipin and antiphospholipid antibodies
+   negative.
+   - prednisone 50mg daily
+   - considering cyclophosphamide vs. cytoxan, likely to start this week
+   - monitor c3/c4 levels for flare- pending
+   - will start atovaquone for PCP prophylaxis, pending G6PD
+   # Hemoperitoneum: Unclear etiology. Baseline anemia ? Hct ~30. Large
+   intraabdominal hematoma on [**1-6**]/209 appears ?subacute (organized debris
+   with peripheral rim on U/S). Hct drop from 27 to 23 on argatroban,
+   which was temporarily discontinued. Hct increased to 27 after one unit
+   of pRBC. Once bleed appeared non-acute, argatroban was restarted, but
+   Hct then dropped again to 24; argatroban stopped. PF4 negative.
+   - hct stable
+   - active T+C
+   - consider further studies to find source of bleeding if hct drops
+   again
+   - consider anticoagulation w heparin, if Hct stable
+   # Thrombocytopenia: most likely associated with her lupus. PF4
+   antibodies negative.  Now on IVIG, day 2 in an attempt to achieve
+   sustained platelet elevation.  Had one unit transfused last night.
+   -IVIG
+ continue tx
+   -keep plts >100
+   # Seizure/Strokes: Likely [**1-16**] thromboembolic stroke in right
+   parietal-temporal-occipital lobes as seen on MRI of brain, which is
+   consistent with the clinical presentation (visual hallucinations). Also
+   concern for lupus cerebritis. Much less liikely is meningitis given
+   immunosuppression.
+   - consider heparin gtt anticoagulation
+   - f/u hypercoag panel
+   - continue levetiracetam
+   - lorazepam prn should seize
+   - f/u EEG read
+   - hold off on LP; until more stable
+   .
+   # Recent infections: Outside hospital cultures with Morganella growing
+   from thoracentesis fluid from [**12-7**], citrobacter freundii blood culture
+   from blood culture on [**12-8**], and bacteroides blood culture from [**12-17**].
+   She was sent home on [**1-3**] and instructed to complete a course of cipro
+   and flagyl through [**1-8**].  Her antibiotics were switched to pip-tazo,
+   given that cipro can lower the seizure threshold. Abx stopped per ID on
+   [**1-8**].
+   - f/u cultures
+   - f/u G6PD before starting abx ppx (dapsone)
+   - f/u ID regarding PCP [**Name Initial (PRE) 1957**]
+   .
+   # Chronic renal failure: Due to SLE, with renal biopsy showing grade
+   [**3-19**] membranoproliferative and membanous nephropathy. Also,
+   hydronephrosis (right) on imaging with no clear sign of obstruction,
+   likely [**1-16**] intraabdominal bleed compressing the ureter.
+   - continue phos binders
+   - bicarb now TID
+   - renally dose meds, follow Cre daily
+   - appreciate renal recs (will likely need to be on cellcept at some
+   point)
+   .
+   #Hydronephrosis: US showing stable/improving hydronephrosis, creatinine
+   stable.
+   -urology recs- pt refusing foley for now
+   .
+   # FEN: regular diet, replete lytes prn
+   # ACCESS: PICC
+   # PPX:  pneumoboots, PPI, bowel regimen, seizure precautions
+   # Code: FULL
+   # Dispo: ICU
+   # Communication: Mother [**Name (NI) 36**] (cell: [**Telephone/Fax (1) 4105**])
+
+
+
+DOC CLASS

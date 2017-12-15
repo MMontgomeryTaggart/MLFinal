@@ -1,0 +1,222 @@
+TITLE:
+   Chief Complaint: Chest pain
+   24 Hour Events:
+   [**6-10**]:
+   - Alternating sinus w/ afib this morning, BP stable throughout.
+   - Then had 20 minutes of flutter at HR 120, converted back with Ativan
+   for anxiety. Given morning Lopressor at 6am.
+   [**6-9**]:
+   - Low grade fever (100.7), pancx'd and PA/Lat ordered (UA neg for UTI)
+   - Recurrent episodes of aflutter/afib today. Started on Amio, coumadin;
+   cont beta blocker. Plan to continue IV Amio x 24 hours then transition
+   to oral maintenance dose.
+   - Started on ACE-I for ant STEMI
+   - Given Lasix for fluid overload on CXR, balance -1.4L @8pm.
+   Allergies:
+   Aspartame
+   Hives;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,400 units/hour
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Metoprolol - [**2696-6-9**] 12:30 PM
+   Heparin Sodium - [**2696-6-9**] 11:00 PM
+   Lorazepam (Ativan) - [**2696-6-10**] 06:11 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2696-6-10**] 06:57 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.2
+   Tcurrent: 37.2
+C (98.9
+   HR: 77 (64 - 129) bpm
+   BP: 117/59(73) {84/29(54) - 120/82(86)} mmHg
+   RR: 20 (15 - 27) insp/min
+   SpO2: 91%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 66 Inch
+             Total In:
+                                                                  1,388 mL
+                                                                    425 mL
+   PO:
+                                                                  1,080 mL
+                                                                    240 mL
+   TF:
+   IVF:
+                                                                    308 mL
+                                                                    185 mL
+   Blood products:
+   Total out:
+                                                                  3,230 mL
+                                                                    350 mL
+   Urine:
+                                                                  3,230 mL
+                                                                    350 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,842 mL
+                                                                     75 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 91%
+   ABG: ///24/
+   Physical Examination
+   GENERAL: Well appearing caucasian female, NAD. Oriented x3. Mood,
+   affect appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple without elevation of JVP.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.  Pt hemoptysis is increasing sputum vs. blood in consistency
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES: DP/PT dopplerable bilaterally
+   Labs / Radiology
+   405 K/uL
+   8.2 g/dL
+   125 mg/dL
+   0.9 mg/dL
+   24 mEq/L
+   3.8 mEq/L
+   19 mg/dL
+   98 mEq/L
+   136 mEq/L
+   23.5 %
+   20.4 K/uL
+        [image002.jpg]
+                             [**2696-6-7**]  01:00 AM
+                             [**2696-6-7**]  08:40 AM
+                             [**2696-6-7**]  11:00 PM
+                             [**2696-6-8**]  08:40 AM
+                             [**2696-6-8**]  05:32 PM
+                             [**2696-6-9**]  06:23 AM
+                             [**2696-6-10**]  05:11 AM
+   WBC
+   20.2
+   15.9
+   13.7
+   15.8
+   12.4
+   20.4
+   Hct
+   43.2
+   38.7
+   33.6
+   33.5
+   32.5
+   32.0
+   23.5
+   Plt
+   [**Telephone/Fax (3) 9258**]
+   Cr
+   1.1
+   1.0
+   1.1
+   1.0
+   0.8
+   0.9
+   TropT
+   4.89
+   4.84
+   2.51
+   2.53
+   Glucose
+   167
+   124
+   116
+   122
+   108
+   125
+   Other labs: PT / PTT / INR:13.2/37.1/1.1, CK / CKMB /
+   Troponin-T:664/29/2.53, ALT / AST:42/122, Alk Phos / T Bili:67/1.0,
+   LDH:728 IU/L, Ca++:9.2 mg/dL, Mg++:2.3 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   This is a 71 year old female with a history of MVR, AFib, and CAD who
+   presented to the ED with chest pain and found to be having anterior
+   STEMI requiring BMS to LAD and placement of IABP post procedure.
+   .
+   CORONARIES: s/p anterior STEMI and s/p BMS to LAD. Patient currently
+   hemodynamically stable and chest pain free.  Finished on integrillin
+   and started heparin gtt; heparin dc
+d [**2696-6-8**]. IABP dc
+   - cont plavix 75mg daily
+   - cont ASA 325 mg daily
+   - start atorvastatin 80 mg daily
+   - cont metoprolol 37.5mg [**Hospital1 **]
+   - start ACE-I today
+   - monitor on CCU telemetry
+   .
+   PUMP: As noted above, anterior wall motion abnormalities noted during
+   cath. Currently negative 84cc, still with crackles at lung bases. Will
+   continue gentle diuresis.
+   - monitor I/O's with goal -500 cc
+   - cont BB, lasix
+   .
+   RHYTHM: Currently in sinus rhythm. Pt has a hx of PAF (not on coumadin
+   at home due to pt insistence). Pt with episode of A-fib w/ RVR
+   overnight 06/21-22/09 that resolved to sinus after lopessor, then went
+   into a-flutter w/ RVR and given dilt.  She reverted to sinus the
+   morning of [**2696-6-8**] and has remained in NSR since then.
+   - cont metoprolol 37.5mg TID
+   - monitor on telemetry
+   - consider EP input regarding a-flutter
+   - cont ASA and Plavix
+   - if goes back into Afib will conisder amio
+   - Holding coumadin today pending echo read, given bleeding diathesis
+   .
+   HEMOPTYSIS: Patient with  episode of hemoptysis . She has never
+   experienced this before in the past. Hct currently stable. Likely
+   exacerbated by heparin gtt and related to pulmonary edema in setting of
+   high wedge pressures.
+   - monitor resp status
+   - follow Hct
+   .
+   BRBPR: Patient has noted BRBPR in the past but never any gross lower GI
+   bleeding. One of the reasons she has stopped taking ASA consistently is
+   because she associates ASA with these episodes of BRBPR. Patient has
+   never had a colonoscopy
+   - guiac stools
+   - monitor Hct, currently stable
+   - Suggest outpatient colonoscopy and GI follow-up
+   .
+   FEN: HH, replete lytes PRN
+   ACCESS: PIV's, 8F sheath x 2
+   PROPHYLAXIS:
+   -Pain management with percocet (patient denies any allergy to this
+   medication which she is listed as allergic to in OMR)
+   -Bowel regimen with docusate and senna
+   CODE: FULL (confirmed with patient)
+   DISPO: To floor today
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2696-6-7**] 02:16 AM
+   20 Gauge - [**2696-6-9**] 04:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

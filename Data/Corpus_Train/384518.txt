@@ -1,0 +1,200 @@
+TITLE:
+   Chief Complaint:   SOB
+   HPI:
+   68 yo M with severe COPD p/w shortness of breath and subjective fevers
+   and chills for the past five days.  He states that he has not felt well
+   and has been taking his inhalers as directed.  Patient called EMS and
+   received nebs.  Patient denies any chest pain or dizziness associated
+   with his shortness of breath.  Patient has had multiple
+   hospitalizations requiring intubation in the past for COPD.
+   .
+   On arrival to the ED, patient appeared better.  Patient had an episode
+   where he desaturated to the low 80s and received Mg, solumedrol, nebs.
+   His VS were 119/43 HR 84 93% on NC 5L RR 25.  Patient improved with
+   these measures.  He also had tranient altered mental status, that
+   resolved while in the ER.  Patient's CXR was c/w a RLL infiltrate and
+   received ceftriaxone and azithro.
+   .
+   On arrival to [**Hospital Unit Name 42**], patient denies any nausea, vomiting.  Admits to
+   diarrhea over past several days and persistent lumbar pain.  All other
+   ROS is otherwise negative.
+   Allergies:
+   Levofloxacin
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Alendronate 70 mg Tablet qsunday.
+   Calcium Carbonate 500 mg [**Hospital1 **]
+   Cholecalciferol 800 unit qday.
+   Fluticasone-Salmeterol 250-50 mcg/Dose [**Hospital1 **]
+   Lorazepam 0.5 mg qHS prn.
+   Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+   Capsule, Delayed Release(E.C.) PO once a day.
+   Oxycodone-Acetaminophen 5-325 mg 1-2 Tablets PO Q4H prn
+   Pravastatin 40 mg DAILY
+   Sertraline 50 mg Daily
+   Tiotropium Bromide 18 mcg Capsule Daily
+   Aspirin 81 mg qday.
+   Trimethoprim-Sulfamethoxazole 160-800 mg qMWF
+   Prednisone 30 mg qDaily
+   Prednisolone Acetate 1 % Drops [**Hospital1 **]
+   Lisinopril 5 mg qday.
+   Albuterol Sulfate 2.5 mg /3 mL 2puffs Q4H
+   Finasteride 5 mg qDaily
+   Montelukast 10 mg qdaily
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p NSTEMI in [**3369**] - [**5-21**] cath showed 10% LMCA stenosis, TTE
+   [**9-20**] showed mild RV enlargement and preserved BiV function
+   COPD on baseline 4L NC, nightly BiPAP 12/5
+   Iron-deficiency anemia b/l Hct ~30%
+   GERD
+   Diverticulosis
+   VRE and Pseudomonas UTI
+   HTN
+   Hyperlipidemia
+   Chronic low back pain s/p L1-L2 laminectomy
+   Bilateral cataract surgery
+   BPH s/p TURP
+   Mother w/ asthma, Alzheimer's disease. Father w/ [**Name2 (NI) 774**] cancer.
+   The patient currently lives in [**Location 393**] with his wife. [**Name (NI) **] is
+   initially from [**Country 4597**], now retired but previously employed as a
+   mechanic for [**Company 5622**].
+   Tobacco: Patient quit 30 years ago, previous 20 pk-year history. ETOH:
+   Rare social use
+   Illicits: + Marijuana use up to 1 to 2 marijuana cigarettes daily
+   Review of systems:
+   Flowsheet Data as of [**3375-5-25**] 02:29 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 37.8
+C (100.1
+   HR: 90 (90 - 97) bpm
+   BP: 100/48(61) {100/48(61) - 103/51(64)} mmHg
+   RR: 26 (26 - 26) insp/min
+   SpO2: 92%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    200 mL
+   Urine:
+   200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -200 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   ABG: 7.32/77/65//9
+   Physical Examination
+   GENERAL: Pleasant, well appearing male in NAD
+   HEENT: Normocephalic, atraumatic.  No conjunctival pallor. No scleral
+   icterus. PERRLA/EOMI. MMM. OP clear.  Neck Supple, No LAD, No
+   thyromegaly.
+   CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, rubs
+   or [**Last Name (un) 1747**].  JVP not appreciated.
+   LUNGS: Mild basilar crackles, poor air movement biaterally.
+   ABDOMEN: NABS. Soft, NT, ND.  No HSM
+   EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial
+   pulses.
+   SKIN: No rashes/lesions, ecchymoses.
+   NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact.
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+        [image002.jpg]
+                                  [**3372-2-17**]
+                          2:33 A4/8/[**3375**]  11:17 PM
+                                  [**3372-2-21**]
+                                   10:20 P
+                                  [**3372-2-22**]
+                                   1:20 P
+                                  [**3372-2-23**]
+                                   11:50 P
+                                  [**3372-2-24**]
+                                   1:20 A
+                                  [**3372-2-25**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3372-3-19**]
+                                   1:20 P
+                                  [**3372-3-19**]
+                                   11:20 P
+                                  [**3372-3-19**]
+                                   4:20 P
+   TC02
+                                     42
+   Assessment and Plan
+   68 y/o M with a history of COPD who presents with COPD exacerbation
+   .
+   #.  COPD:  Patient is currently at basline, on 4L NC.  Patient's last
+   ABG was 7.32/77/65/42 and is consistent with his propensity to be a CO2
+   retainer.  Patient's mental status was altered while he was in the ER,
+   and may be related to either hypercapnea or hypoxia, but is now
+   resolved.  He is currently on his home oxygen requirement.
+   - Continue albuterol nebs q4hrs prn
+   - Continue montelukast daily
+   - Ipratropium Bromide Neb q6hrs prn
+   - Start IV Methylprednisolone 125mg q8hrs for 3 days
+   - Continue Bactrim M-W-F
+   .
+   #. Hospital Acquired Pneumonia, RLL:  Patient had 5 days of subjective
+   fevers and chills, has leukocytosis, and has hospitalization within
+   past three months.  Will treat as HAP and cover for MRSA, and have
+   double gram negative coverage.
+   - Start Vancomycin, Cefepime, Levofloxacin
+   - Trend WBC and lactate
+   .
+   #.  CAD:  Stable.
+   - Continue ASA, Statin, ACE-I
+   .
+   #.  Glaucoma:
+   - Continue eye drops
+   .
+   FEN: Regular diet
+   .
+   PPX:
+   -DVT ppx with SCH
+   -Bowel regimen with senna
+   -Pain management with percocet elixer
+   .
+   ACCESS: PIV's
+   .
+   CODE STATUS: DNR/DNI - confirmed, but will readdress in am again as
+   patient has had multiple intubations in past
+   .
+   EMERGENCY CONTACT: Wife [**Name (NI) 8061**] [**Telephone/Fax (1) 8062**]
+   .
+   DISPOSITION:  Pending
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3375-5-25**] 01:05 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+
+
+
+DOC CLASS

@@ -1,0 +1,182 @@
+TITLE:
+   CVICU
+   HPI:
+   HD6   POD 5-AVR [**86**] mm tissue CABG x 3 (2 OMs, LAD)
+   Ejection Fraction:25
+   Hemoglobin A1c:5.9
+   Pre-Op Weight:174.16 lbs   79 kgs
+   Baseline Creatinine:1
+   PMH: tobacco abuse, MVA [**3171**], drinks 8 beers/day per family
+   [**Last Name (un) 500**]: Naproxen 500"', ASA 81 daily
+   Current medications:
+   Acetaminophen, Amiodarone,  Aspirin EC, Bisacodyl, Captopril, Docusate
+   Sodium, FoLIC Acid, HydrALAzine, Insulin, Milrinone, Multivitamins,
+   Oxycodone-Acetaminophen, Polyethylene Glycol, Ranitidine, Simvastatin,
+   Thiamine
+   24 Hour Events:
+   Remains in ICU on milirone
+   weaned down to 0.3, tolerating well
+   CT removed
+   increased ambulating
+   Titrating captopril for b/p management
+ CHEST TUBE REMOVED - At [**3173-11-11**] 09:29 AM
+ EKG - At [**3173-11-11**] 09:29 AM
+ CORDIS/INTRODUCER - STOP [**3173-11-11**] 10:01 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Milrinone - 0.2 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**3173-11-12**] 11:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**75**] a.m.
+   Tmax: 36.9
+C (98.4
+   T current: 36.1
+C (97
+   HR: 80 (69 - 90) bpm
+   BP: 114/64(78) {99/56(65) - 160/84(101)} mmHg
+   RR: 16 (8 - 23) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 81.8 kg (admission): 80.3 kg
+   Height: 69 Inch
+             Total In:
+                                                                    293 mL
+                                                                    823 mL
+   PO:
+             600 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    293 mL
+                                                                    223 mL
+   Blood products:
+   Total out:
+                                                                  1,978 mL
+                                                                  1,720 mL
+   Urine:
+                                                                  1,758 mL
+                                                                  1,720 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,685 mL
+                                                                   -897 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 97%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bilateral bases), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact), RLE EVH
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   202 K/uL
+   9.7 g/dL
+   148 mg/dL
+   0.6 mg/dL
+   29 mEq/L
+    4.2 mEq/L
+   7 mg/dL
+   102 mEq/L
+   137 mEq/L
+   29.2 %
+   8.1 K/uL
+        [image002.jpg]
+                            [**3173-11-9**]  10:56 AM
+                            [**3173-11-9**]  03:49 PM
+                            [**3173-11-9**]  08:50 PM
+                            [**3173-11-10**]  03:11 AM
+                            [**3173-11-10**]  05:13 AM
+                            [**3173-11-10**]  05:07 PM
+                            [**3173-11-11**]  02:26 AM
+                            [**3173-11-11**]  05:00 AM
+                            [**3173-11-11**]  02:43 PM
+                            [**3173-11-12**]  03:51 AM
+   WBC
+   9.4
+   7.9
+   8.1
+   Hct
+   27.2
+   27.8
+   29.1
+   28.0
+   29.2
+   Plt
+   178
+   205
+   202
+   Creatinine
+   0.7
+   0.7
+   0.6
+   0.7
+   0.6
+   0.6
+   TCO2
+   28
+   29
+   Glucose
+   118
+   259
+   104
+   148
+   Other labs: PT / PTT / INR:13.7/33.4/1.2, ALT / AST:13/33, Alk-Phos / T
+   bili:52/0.7, Amylase / Lipase:27/33, Fibrinogen:166 mg/dL, Lactic
+   Acid:0.7 mmol/L, Albumin:2.9 g/dL, LDH:297 IU/L, Ca:7.9 mg/dL, Mg:1.9
+   mg/dL, PO4:4.3 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), CORONARY ARTERY BYPASS GRAFT
+   (CABG), VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR)
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, percocet prn pain
+   effective
+   Cardiovascular: Aspirin, Statins, On milirone for acute and chronic
+   systolic heart failure, continue ace inhibitor increased for blood
+   pressure management and wean milirone to 0.2mcg/kg/min, consider BB,
+   awaiting EP consult , heart failure consult
+   Pulmonary: IS, cough and deep breath, OOB to chair increase ambulation
+   Gastrointestinal / Abdomen: bowel regimen
+   Nutrition: Regular diet
+   Renal: Foley, Adequate UO, monitor output - autodiuresing
+   Hematology: anemia
+   Endocrine: RISS, goal BG < 150
+   Infectious Disease: WBC normal, afebrile no evidence of infection
+   Lines / Tubes / Drains: Foley, Pacing wires remain in awaiting to start
+   betablockers prior to removal, maintain foley while on milirone for
+   close monitoring urine output
+   Wounds: Dry dressings
+   Consults: P.T.. EP, heart failure
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   PICC Line - [**3173-11-10**] 02:59 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

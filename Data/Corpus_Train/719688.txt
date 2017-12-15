@@ -1,0 +1,263 @@
+Chief Complaint: 79 yo M with critical aortic stenosis awaiting AVR who
+   was admitted with pneumonia, hypoxia and respiratory distress. Being
+   treated for VAP/aspiration PNA with plan for TEE/valvuloplasty today
+   24 Hour Events:
+   - ruq without significant change, biliary sludge. UENI left arm done
+   given slight increase in swelling, negative for clot.
+   - still febrile -> CT torso: R sided consolidation, large R effusion
+   - ID consulted
+   - resumed diuresis
+   - seen by cards, will get valvuloplasty tomorrow & swan. tee prior
+   Allergies:
+   No Known Drug Allergies
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2579-5-9**] 10:01 AM
+   Metronidazole - [**2579-5-11**] 04:38 PM
+   Vancomycin - [**2579-5-11**] 08:00 PM
+   Meropenem - [**2579-5-12**] 04:24 AM
+   Infusions:
+   Midazolam (Versed) - 0.5 mg/hour
+   Fentanyl (Concentrate) - 25 mcg/hour
+   Norepinephrine - 0.14 mcg/Kg/min
+   Furosemide (Lasix) - 9 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2579-5-11**] 07:24 AM
+   Heparin Sodium (Prophylaxis) - [**2579-5-12**] 12:16 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2579-5-12**] 06:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**81**] AM
+   Tmax: 37.3
+C (99.2
+   Tcurrent: 37.1
+C (98.7
+   HR: 103 (97 - 111) bpm
+   BP: 82/51(64) {82/51(64) - 82/51(64)} mmHg
+   RR: 21 (15 - 24) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 72.7 kg (admission): 77.4 kg
+   Height: 69 Inch
+    CVP: 15 (8 - 24)mmHg
+   Mixed Venous O2% Sat: 66 - 66
+   Total In:
+                                                                  3,486 mL
+                                                                    382 mL
+   PO:
+   TF:
+                                                                    835 mL
+                                                                      4 mL
+   IVF:
+                                                                  1,451 mL
+                                                                    378 mL
+   Blood products:
+   Total out:
+                                                                  1,141 mL
+                                                                    280 mL
+   Urine:
+                                                                  1,141 mL
+                                                                    280 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,345 mL
+                                                                    102 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 40%
+   PIP: 28 cmH2O
+   Plateau: 27 cmH2O
+   SpO2: 99%
+   ABG: 7.46/43/132/33/6
+   Ve: 7.3 L/min
+   PaO2 / FiO2: 330
+   Physical Examination
+   general : sedated, intubated, arousable , appears NAD
+   HEENT: PERRL, EOMI, OP clear
+   neck : R IJ in place
+   CVS: 3/6 systolic murmur at LUSB, no other murmurs, no rubs
+   LUNGS: rhonchi bilaterally at bases, left sided crackles
+   EXT: 2+ pedal pulses, boots in place
+   Neuro: Awakens to voice, follows commands to squeeze hands
+   Labs / Radiology
+   109 K/uL
+   9.8 g/dL
+   142 mg/dL
+   1.1 mg/dL
+   33 mEq/L
+   4.8 mEq/L
+   47 mg/dL
+   100 mEq/L
+   137 mEq/L
+   31.4 %
+   12.0 K/uL
+        [image002.jpg]
+   neg urine legionella
+   hep B labs , ANCA pending
+                             [**2579-5-9**]  07:54 PM
+                             [**2579-5-10**]  02:59 AM
+                             [**2579-5-10**]  08:10 AM
+                             [**2579-5-10**]  02:43 PM
+                             [**2579-5-10**]  10:15 PM
+                             [**2579-5-11**]  03:47 AM
+                             [**2579-5-11**]  06:13 AM
+                             [**2579-5-11**]  08:24 AM
+                             [**2579-5-12**]  12:05 AM
+                             [**2579-5-12**]  04:08 AM
+   WBC
+   14.0
+   12.7
+   13.1
+   12.0
+   Hct
+   30.6
+   31.2
+   31.7
+   31.4
+   Plt
+   80
+   87
+   86
+   109
+   Cr
+   1.1
+   1.0
+   1.0
+   0.9
+   1.1
+   TCO2
+   34
+   34
+   33
+   33
+   32
+   Glucose
+   166
+   159
+   176
+   117
+   142
+   Other labs: PT / PTT / INR:20.9/44.8/1.9, CK / CKMB /
+   Troponin-T:33/1/0.02, ALT / AST:56/34, Alk Phos / T Bili:108/2.3,
+   Amylase / Lipase:68/57, Differential-Neuts:69.0 %, Band:1.0 %,
+   Lymph:17.0 %, Mono:9.5 %, Eos:4.0 %, Fibrinogen:399 mg/dL, Lactic
+   Acid:2.0 mmol/L, Albumin:1.7 g/dL, LDH:395 IU/L, Ca++:6.7 mg/dL,
+   Mg++:2.1 mg/dL, PO4:3.4 mg/dL
+   Assessment and Plan
+   79 yo M with critical aortic stenosis awaiting AVR who was admitted
+   with pneumonia, hypoxia and respiratory distress. Being treated for
+   VAP/aspiration PNA with plan for TEE/valvuloplasty today.
+   # Leukocytosis , PNA
+ WBC trending downwards, 12 today, no fever
+   spikes overnight.  Nothing on repeat RUQ US or CT torso indicating
+   locus of untreated infection. ID involved yesterday. Continues on broad
+   spectrum abx.
+   - ID consulted yesterday: recs:
+Suggest:
+1)                 would do TEE with valvuloplasty: r/o vegs
+2)                 repeat urine legionella
+3)                 sputum for legionella
+4)                 ANCA
+5)                 ESR; CRP
+6)                 Beta glucan and galactomannan
+7)                 Continue IV vanco and meropenem for empiric broad coverage at
+this point
+8)                 d/c flagyl
+9)                 c diff
+10)               consider VAT after valvular repair
+11)               Repeat BC for fever spikes
+   - continue meropenem d12,  vanc d14
+ would continue for 15d course. DC
+   flagyl
+   - CIS, f/u micro and fungal markers
+   - f/u RUQ u/s
+ sludging otherwise no change
+   - f/u final read CT torso
+   # Critical AS/systolic CHF:
+   Plan for valvuloplasty by interventional cards today
+ with TEE and PA
+   cath placement
+   - monitor CVPs and swan numbers post procedure
+   - per  heme, ok to use heparin if needed to in cards procedure as [**Male First Name (un) **]
+   feel true HIT
+   - control tachycardia as per above to improve filling time
+   .
+   # Hypotension: DDX septic vs cardiogenic in etiology.  Appears to be
+   perfusing better running CVP on higher range, which has allowed weaning
+   down on pressors.  Hope that hemodynamics will improve after
+   valvuloplasty, will also have PA catheter in place after
+   - Continue levophed, at 0.14 this AM
+   - Keep CVPs 12-14 --- will start lasix back today goal -1L
+   - Follow urine output, MAPS goal >65
+   - repeat central venous O2 and lactate
+ check PM levels
+   # Respiratory failure:  Still intubated on A/C. Likely cause is HAP/
+   aspiration PNA. Patient has a left sided PNA and pleural effusion
+   (mostly right side).  Patient with derecruitment over weekend following
+   line placement, better with increased PEEP
+ continues at PEEP 10
+   - continue diuresis as above
+   - pneumonia treatment as above
+   - wean PEEP as tolerated
+   - family agrees to tracheostomy / PEG given longterm vent
+   # transaminitis: Suspect shock liver, LFTs are stable. GB wall
+   thickening on US nonspecific.
+   - continue to trend
+   - f/u final read RUQ US but no significant change
+   - liver recs appreciated
+   .
+   #elevated INR
+   - add dose vit K today
+   - trend coags
+   # thrombocytopenias:  Heme following and after [**Doctor First Name 998**] x2 positive but
+   serotonin lab f/up negative, felt that overall unlikely true HIT
+   was significantly lower on 2^nd PF4 assay. Platelets trending upwards.
+   Final heme note in chart.
+   - continue SC heparin for ppx
+   - cont to trend, recently ~stable
+   - likely ok to use in cardiology procedures
+   # atrial tachycardia:
+   Likely exacerbated by pressors, infection, and some degree of volume
+   depletion
+   - continue amio
+   - try to wean levophed as possible
+   # Coagulapathy: PT , PTT and INR all better now so DIC picture less
+   likely.  Likely from
+   Medications vs.  poor nutrition. Slightly increased to 1.9 this AM
+   - hold on FFP for now.
+   - cont trend daily
+   .
+   #sacral decubitus sore
+   - f/up local wound care recs
+   - s/p debridement with plastic surgery
+   ICU Care
+   Nutrition: TF on hold for procedure
+   Glycemic Control:  ISS
+   Lines:
+   Arterial Line - [**2579-5-6**] 02:47 AM
+   Multi Lumen - [**2579-5-8**] 12:58 PM
+   Prophylaxis:
+   DVT: mechanical / boots and SC heparin
+   Stress ulcer: PPI
+   VAP:  VAP bundle
+   Comments:
+   Communication:  Comments: With family
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,261 @@
+TITLE: Physician Resident Progress Note
+   Chief Complaint:
+   24 Hour Events:
+ EEG - At [**3073-4-2**] 11:30 AM
+   continuous eeg placed
+   - stopped coumadin today, as pt's INR went from 1.8 to 2.7 after
+   getting 1 mg x 1 day yesterday
+   - spoke with neuro: previous head bleed not an active issue and not
+   likely causing pt's current symptoms; anticoagulation not likely a
+   problem in the setting of this previous bleed; neuro does feel that
+   there is a change in her exam (she lost her doll's eye reflex) and
+   there is concern that there could be a pons lesion, therefore they are
+   recommending MRI; they are also recommending LP to look for partially
+   treated meningitis as possible cause for patient's AMS
+   - per neuro recs, phenobarbital decreased to 45 mg [**Hospital1 **], gave 300 mg IV
+   bolus of phenytoin and increased dose to 125 mg TID; ordered MRI; put
+   in for daily dilantin level
+   - spoke with Dr. [**Last Name (STitle) 8766**] and he felt we should try more diuresis; wrote
+   for 120 mg IV lasix
+   Allergies:
+   Penicillins
+   Rash;
+   Erythromycin Base
+   Rash;
+   Motrin (Oral) (Ibuprofen)
+   Unknown; sores
+   Ampicillin
+   Unknown;
+   Lactose
+   Unknown; Abdomi
+   Latex
+   Rash;
+   Adaptic (Topical) (Non-Adherent Bandage)
+   Rash;
+   Amiodarone
+   Hepatic toxicit
+   Last dose of Antibiotics:
+   Infusions:
+   Phenylephrine - 0.3 mcg/Kg/min
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3073-4-2**] 08:00 PM
+   Furosemide (Lasix) - [**3073-4-2**] 08:30 PM
+   Dilantin - [**3073-4-2**] 09:36 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3073-4-3**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**75**] AM
+   Tmax: 37.7
+C (99.9
+   Tcurrent: 37
+C (98.6
+   HR: 95 (82 - 98) bpm
+   BP: 148/66(97) {93/44(60) - 148/69(97)} mmHg
+   RR: 24 (17 - 29) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 104.2 kg (admission): 80.1 kg
+   Height: 66 Inch
+    CVP: 14 (12 - 19)mmHg
+   Total In:
+                                                                  1,277 mL
+                                                                    284 mL
+   PO:
+                                                                    150 mL
+                                                                     30 mL
+   TF:
+                                                                    840 mL
+                                                                    244 mL
+   IVF:
+                                                                    156 mL
+                                                                     10 mL
+   Blood products:
+   Total out:
+                                                                    190 mL
+                                                                     80 mL
+   Urine:
+                                                                    190 mL
+                                                                     80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,087 mL
+                                                                    204 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 228 (228 - 376) mL
+   PS : 15 cmH2O
+   RR (Spontaneous): 26
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 136
+   PIP: 21 cmH2O
+   SpO2: 97%
+   ABG: ///19/
+   Ve: 7.4 L/min
+   Physical Examination
+   GENERAL: Intubated, Sedated. Not responsive to verbal stimuli.
+   NECK: Trach in place.
+   CARDIAC: Irregular. [**2-15**] late-peaking high-pitched crescendo/decrescendo
+   murmur loudest at RUSB.
+   LUNGS: Ventilated breath sounds.
+   ABDOMEN: Obese, S/NT/ND, BS present. PEG in place.
+   EXTREMITIES: Pitting edema noted in all 4 extremities.
+   NEURO: Sedated. Does not respond to verbal stimuli. Minimal response to
+   painful stimuli.  PERRL. No oculovestibular reflex.
+   Labs / Radiology
+   469 K/uL
+   8.4 g/dL
+   132 mg/dL
+   3.6 mg/dL
+   19 mEq/L
+   5.0 mEq/L
+   110 mg/dL
+   102 mEq/L
+   136 mEq/L
+   26.1 %
+   7.4 K/uL
+        [image002.jpg]
+                             [**3073-3-29**]  11:21 PM
+                             [**3073-3-30**]  03:29 AM
+                             [**3073-3-30**]  03:47 AM
+                             [**3073-3-30**]  05:57 AM
+                             [**3073-3-30**]  05:45 PM
+                             [**3073-3-31**]  02:19 AM
+                             [**3073-3-31**]  02:38 AM
+                             [**3073-4-1**]  02:12 AM
+                             [**3073-4-2**]  02:44 AM
+                             [**3073-4-3**]  02:34 AM
+   WBC
+   10.8
+   9.7
+   8.1
+   7.4
+   7.4
+   Hct
+   27.8
+   27.8
+   25.3
+   25.6
+   26.1
+   Plt
+   [**Telephone/Fax (3) 11774**]36
+   469
+   Cr
+   3.1
+   3.2
+   3.3
+   3.6
+   3.6
+   TCO2
+   22
+   26
+   23
+   24
+   22
+   Glucose
+   133
+   124
+   116
+   122
+   89
+   96
+   132
+   Other labs: PT / PTT / INR:23.5/29.4/2.2, CK / CKMB /
+   Troponin-T:9/2/0.03, ALT / AST:[**6-6**], Alk Phos / T Bili:60/0.2, Amylase
+   / Lipase:/47, Differential-Neuts:75.9 %, Lymph:13.5 %, Mono:4.8 %,
+   Eos:5.7 %, Fibrinogen:499 mg/dL, Lactic Acid:1.7 mmol/L, Albumin:2.7
+   g/dL, LDH:202 IU/L, Ca++:8.2 mg/dL, Mg++:2.2 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+   86 y/o female with hx CAD s/p CABG, Afib, with severe AS s/p
+   valvuloplasty, diastolic CHF, colon adenocarcinoma, chronic c.diff,
+   admitted with new onset tonic clonic seizures, who subsequently flashed
+   on the floor in the setting of holding lasix. Course complicated by
+   subclinical seizures and deteriorating mental status, aspiration
+   pneumonia, now w/respiratory acidosis and failure resulting in
+   intubation ([**3-23**]), ARF, hypotension requiring phenylephrine.
+   Transferred to CCU at request of family and consulting cardiologist.
+   .
+   # Aortic Stenosis: Pt with known severe aortic stenosis s/p
+   valvuloplasty in [**12-18**]. She was initially on the CCU service early in
+   her hospitalization in the setting of flash pulmonary edema when her
+   lasix were held. Now, she is intubated in the ICU. Continues to be
+   severely fluid overloaded and oliguric. Does not respond well to lasix.
+   - attempt to diurese with Lasix 200 mg IV + Diuril 500 mg IV
+   - monitor volume status
+   - likely repeat valvuloplasty on Monday
+   .
+   # Atrial Fibrillation: Pt has good control of HR on beta blockade and
+   digoxin. Coumadin was being held before for trach/PEG; restarted
+   yesterday and INR went from 1.8 to 2.7.
+   - continue metoprolol tartrate 25 mg TID
+   - continue digoxin 0.0625 mg daily
+   - holding Coumadin for possible procedure. INR currently therapeutic.
+   Will need heparin gtt when subtherapeutic.
+   - will d/w neurology and rest of CCU team risks and benefits of
+   Coumadin in this pt
+   .
+   # Coronary Artery Disease: Pt is s/p CABG [**75**]/[**3066**].
+   - continue metoprolol as above
+   - continue aspirin 81 mg daily, atorvastatin 40 mg daily
+   .
+   # Altered Mental Status: Per prior notes, pt has had seizures, loaded
+   with dilantin and ativan PRN prior to admission with poor mental
+   status. Despite loading dose continued to have sub clinical seziures on
+   EEG. Medication regimen changed, currently on phenytoin and
+   phenobarbitol. Neuro not sure what is causing continued depressed
+   mental status, states she is not having active seizures on EEG.
+   - continue phenytoin and Phenobarbital, adjusting per neuro recs: Will
+   wean phenobarbital to 30 mg [**Hospital1 **] today
+   - appreciate neuro recs: recommending LP and MRI
+   .
+   # Respiratory Failure: Now, s/p trach.
+   - trach in place
+   - continue albuterol/atrovent PRN
+   .
+   # Pressor Requirement: Etiology unclear. Likely cardiogenic in setting
+   of tight AS, but will need to consider sepsis if patient begins to
+   spike fevers. Currently without fever or luekocytosis.
+   - will lower MAP goal to 65 to try to keep pt off of pressors
+   .
+   # Acute Renal Failure: Still worsening. Per previous notes, renal
+   believes that this is ATN. Recommend to not diurese or give IVF's.
+   - holding on further diuresis, as above
+   - continue to monitor fluid status otherwise
+   .
+   # Hypothyroidism:
+   - continue synthroid 75 mcg daily
+   .
+   # Fevers: Per notes, pt completed vanc/cefepime 7 day course for
+   pneumonia as well as 3 days course of abx for positive UA. Afebrile
+   overnight.
+   - f/u cx data
+   - follow fever curve
+   - stool for c.diff
+   ICU Care
+   Nutrition:
+   Nutren 2.0 (Full) - [**3073-4-3**] 12:29 AM 35 mL/hour
+   Glycemic Control:  ISS
+   Lines:
+   Arterial Line - [**3073-3-20**] 04:39 PM
+   Multi Lumen - [**3073-3-25**] 01:49 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

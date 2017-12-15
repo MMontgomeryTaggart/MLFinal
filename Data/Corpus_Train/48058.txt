@@ -1,0 +1,148 @@
+Admission Date:  [**3408-2-19**]     Discharge Date:  [**3408-3-1**]
+
+Date of Birth:   [**3362-1-10**]     Sex:  F
+
+Service:  CCU
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  A 46-year-old female postpartum
+dilated cardiomyopathy who presented with shortness of breath
+and chest pain in the context of not taking Bumex for several
+days.  The patient apparently had branch of brandname of
+Bumex, and was unwilling to take generic Bumex.  Therefore,
+did not take the medication for at least five days.
+
+She complains of some malaise, fatigue.  On further
+questioning, it appears that she has not been taking her ACE
+inhibitor because she is also worried that generic ACE
+inhibitor is bad for her heart.  At baseline, she has Class
+II Heart congestive heart failure, able to do activities of
+daily living and climb one flight of stairs.  Over the last
+few days, however, she noticed a worsening dyspnea on
+exertion, inability to walk more than 10 feet, and this
+morning, she had chest pain, diaphoresis, and shortness of
+breath.  She has no lower extremity edema.
+
+In the Emergency Department, she had a systolic blood
+pressure of 90 and was attempted diuresis, which actually
+worsened the blood pressure to 70.  She was started on
+dobutamine drip, pulse IV fluids, and transferred to CCU.
+
+PAST MEDICAL HISTORY:
+1. Postpartum dilated cardiomyopathy, ejection fraction of
+15% with pulmonary capillary wedge pressure of 40.
+Catheterization in [**3401**] reveals normal coronary arteries.
+2. Diabetes mellitus.
+3. Chronic renal failure with creatinine at baseline of about
+2.
+4. Hepatitis B.
+5. Hepatitis C.
+6. Increased cholesterol.
+7. Chest pain cholecystectomy.
+8. Gout.
+9. Asthma.
+
+ALLERGIES:  The patient claims to be allergic to all sorts of
+generic medications.
+
+MEDICATIONS:
+1. Enalapril 10 q day.
+2. Digoxin 0.125 q day.
+3. Avandia 4 q day.
+4. Bumex 4 tid.
+5. Albuterol inhaler.
+6. Flovent inhaler.
+
+SOCIAL HISTORY:  She lives in a two-level home.  Former
+cocaine user.  Has not used any cocaine for the last 10
+years.  No tobacco, alcohol.
+
+PHYSICAL EXAMINATION:  Blood pressure 90/40, pulse 100,
+respiratory rate 30, and sating 96 on nasal cannula.
+General:  Anxious female in no acute distress.  HEENT:
+Anicteric.  Equal and reactive pupils.  Neck is supple,
+jugular venous distention about 10 cm.  Lungs are clear to
+auscultation bilaterally.  Abdomen is soft, obese,
+nondistended, and nontender.  Cardiovascular:  Distant heart
+sounds, no murmurs.  Extremities:  No pitting edema.
+Neurologic examination is generally unremarkable.
+
+LABORATORIES ON ADMISSION:  White count is 3.9, hematocrit is
+32.3, platelets 166.  Chem-7 is significant for a creatinine
+of 2.2.  Initial subsequent CKs were normal.
+
+BRIEF HOSPITAL COURSE:
+1. Cardiovascular:  Presentation is most consistent with
+recent noncompliance with medication, volume overload, and
+now worsening of the congestive heart failure.  A Swan-Ganz
+catheter was placed which revealed markedly elevated
+pulmonary artery and wedge pressures consistent with volume
+overload.  She was started on aggressive diuresis with IV
+Bumex with significant results.  A question of a pulmonary
+embolus was raised given continuing sinus tachycardia.
+
+Unfortunately, we were not able to obtain examination given
+patient's chronic renal failure in addition to her apparent
+reaction to shellfish.  We plan to obtain a MRA of the
+pulmonary artery to confirm pulmonary embolus, but after
+significant delay following malfunctioning of the magnet, the
+patient was unable to fit into the machine secondary to body
+habitus.  At that point, she has already been experiencing
+significant improvement and had no further episodes of
+shortness of breath or chest pain.
+
+It should be noted that after the first several days, and
+after she had diuresed a significant amount of fluid, her
+chest pain and shortness of breath in particular resolved.
+She was able to breathe comfortably on room air with no
+significant distress.
+
+In the context of her acute management, all of her outpatient
+medications such as ACE inhibitor and beta blocker are being
+withheld, she is continued on her digoxin.  After about seven
+days of close monitoring, the patient achieved an euvolemic
+state and was slowly started on her ACE inhibitor and beta
+blocker, which are currently at a much lower dose in the
+past.
+
+2. Pulmonary.  Patient continued on her inhalers for a
+history of asthma.  It is highly unlikely that she had a
+pulmonary embolus as her condition clinically improved with
+improvement of her volume overload.
+
+3. Renal.  Baseline creatinine is 2.0-2.3 range.  With
+improvement of her forward flow and improved kidney
+perfusion, the creatinine improved to about 1.6-1.7, which is
+low at time of discharge.  This can be expected to come up a
+little bit with reinstitution of ACE inhibitor.
+
+DISCHARGE STATUS:  Home.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE MEDICATIONS:
+1. Lipitor 10 q day.
+2. Digoxin 0.125 q day.
+3. Flovent 110 mcg two puffs [**Hospital1 **].
+4. Lisinopril 2.5 q day.
+5. Bumex 2 mg po bid.
+6. Avandia 4 mg po q day.
+7. Lopressor 12.5 po bid.
+
+
+
+
+                          [**First Name8 (NamePattern2) 2310**] [**Last Name (NamePattern1) 2311**], M.D.  [**MD Number(2) 2312**]
+
+Dictated By:[**Name8 (MD) 4407**]
+
+MEDQUIST36
+
+D:  [**3408-2-29**]  18:43
+T:  [**3408-3-2**]  10:50
+JOB#:  [**Job Number 4408**]
+
+
+
+DOC CLASS

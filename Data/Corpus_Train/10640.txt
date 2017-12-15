@@ -1,0 +1,116 @@
+Admission Date:  [**2983-8-13**]     Discharge Date:  [**2983-8-23**]
+
+Date of Birth:   [**2946-4-20**]     Sex:  F
+
+Service:  TRAUMA
+
+HISTORY OF PRESENT ILLNESS:  This is a 36-year-old female who
+sustained a motor vehicle accident.  The patient was a
+passenger in the car.  She had positive loss of consciousness
+after the car struck a tree at approximately 35 miles per
+hour.  On arrival, the patient had [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3576**] coma scale of
+15.  Her vital signs were stable in the field and she was
+alert and oriented times three.  She is complaining of left
+shoulder pain and knee pain.
+
+PAST MEDICAL HISTORY:  Asthma.
+
+PAST SURGICAL HISTORY:  Cholecystectomy.
+
+ALLERGIES:  Codeine and erythromycin.
+
+MEDICATIONS:  Asthma inhalers.
+
+PHYSICAL EXAMINATION:  The patient has a temperature of
+101.8.  Heart rate 87.  Blood pressure 125/65.  Saturation
+was 99% on ten liters of oxygen.  Respiratory rate 21.
+General:  She was alert and oriented times three.  There was
+no distress.  Pupils were equally round and reactive to
+light.  Tympanic membranes were clear bilaterally.  Chest was
+without obvious deformity.  She was tender on the left lower
+chest.  Lungs were clear to auscultation bilaterally.  Heart
+is a regular rate and rhythm without murmur.  Abdomen was
+tender in the right upper quadrant greater than the left
+upper quadrant.  She had positive guarding and left flank
+abrasions without laceration.  Extremities had palpable
+pulses and were warm and dry.  There was no tenderness on
+exam.  Back was normal without step-off or deformity except
+for the left flank abrasions.  The rectal was with normal
+sphincter tone and no gross blood.  She was guaiac negative.
+
+LABORATORY STUDIES:   White blood cell count of 15.5,
+hematocrit 33.1, platelets 242,000.  Sodium 140, potassium
+3.4, chloride 105, CO2 24, BUN 12, creatinine 0.9, glucose
+106.  Toxicology screen was negative.  Beta HCG was negative.
+A C spine film showed asymmetry of the lateral masses of the
+dens with unknown clinical significance.  A CT of the head
+was normal.  CT scan of the abdomen and pelvis showed a Grade
+3 splenic laceration and a posterior rib fracture found on
+the 9th, 11th and 12th ribs.  There was also radiopaque
+foreign body seen near the fractured 12th rib.  A retrograde
+cystourethrogram and CT scan were also obtained which showed
+extravasation of urine by a renal parenychmal injury.
+
+HOSPITAL COURSE:  Patient was, therefore, brought to the
+Operating Room for exploratory laparotomy.  During that
+operation, a small amount of blood in the splenic bed was
+seen.  There was no blood in the spleen capsule itself.  The
+bowel was run and there were no injuries seen.  The left
+retroperitoneum reveals no urinoma.  Urology was consulted
+intraoperatively who agreed with the management.  The wound
+was then closed and the patient was admitted to the Surgical
+Intensive Care Unit.  The patient did well in the Intensive
+Care Unit.  She had her pain controlled by the Acute Pain
+Service.  She was on Levaquin.  She was given vaccines for
+bacterial infections normally cleared by the spleen.  The
+patient was transferred to the hospital floor on [**2983-8-16**].
+
+By hospital day number five, the patient was doing well.  Her
+pain was well-controlled and got out of bed without
+difficulty.  Her epidural catheter for pain control was
+removed.  On [**2983-8-17**], the patient had some left
+substernal chest pain.  Her electrocardiogram was normal and
+a chest x-ray showed a dilated gastric bubble.  A STAT
+hematocrit was 26.2.  The patient had a nasogastric tube
+placed without complication.  The patient was left on bowel
+arrest and TPN was started for nutrition.  By hospital day
+number five, the patient was doing much better.  She was able
+to tolerate a diet and TPN was discontinued.  On [**2983-8-22**], the patient had a follow-up ultrasound of her kidney
+which showed no fluid collection.  A repeat urinalysis showed
+0-3 red blood cells.  The Foley catheter was removed and the
+patient will follow up with Urology as an outpatient.
+
+By hospital day number 11, the patient was doing much better.
+She was tolerating a normal diet.  She was ambulating without
+difficulty.  Her vital signs are stable and she was afebrile.
+She was discharged to home with Trauma Clinic follow-up.
+
+DISCHARGE CONDITION:  The patient was discharged in improved
+condition.
+
+DISCHARGE STATUS:  To home.
+
+DISCHARGE DIAGNOSES:
+1.  Grade 3 splenic laceration.
+2.  Motor vehicle accident.
+3.  Renal contusion.
+4.  Rib fractures of the 9th, 11th and 12th ribs.
+
+
+
+
+
+
+                          [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD  [**MD Number(1) 887**]
+
+Dictated By:[**Last Name (NamePattern1) 6780**]
+
+MEDQUIST36
+
+D:  [**2983-11-13**]  18:57
+T:  [**2983-11-13**]  18:57
+JOB#:  [**Job Number 6781**]
+
+ 
+ 
+DOC CLASS

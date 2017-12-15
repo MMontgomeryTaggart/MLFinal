@@ -1,0 +1,218 @@
+TITLE:
+   CVICU
+   HPI:
+   HD12   POD 4-Emergent CABGx2 (LIMA>LAD, SVG to PDA)
+   Ejection Fraction:35
+   Hemoglobin A1c:7.2
+   Pre-Op Weight:202.82 lbs   92 kgs
+   Baseline Creatinine:0.8
+   Foley:Day5
+   PMHx: Diabetes Mellitus, Hypercholesterolemia, h/o L MCA CVA with
+   expressive aphasia [**7-/3398**], prior TIA [**3390**], Seizure disorder, RHM
+   [**Last Name (un) **]: Atenolol 25mg po daily, atorvastatin 40mg po daily, furosemide
+   20mg po daily, lisinopril 40mg po daily, Flomax 0.4mg po daily,
+   Warfarin, Amlactin XL to affected areas [**Hospital1 **]
+   Micro/Imaging:
+   [**3408-3-30**] Head CT
+   [**3408-3-29**] head CT
+   Events:
+   [**3408-3-30**] chest tubes out
+   [**3408-3-30**] extubated
+   [**3408-3-28**] SVT on arrival to CVICU. spont converted. pressure labile.
+   Assessment:77 yoM s/p emergent CABGx2 (LIMA>LAD,SVG>PDA)[**3-28**]
+   Chief complaint:
+   PMHx:
+   Current medications:
+   1. 2. 150 mEq Sodium Bicarbonate/ 1000 ml D5W 3. 250 mL D5W 4.
+   Acetaminophen 5. Albuterol Inhaler
+   6. Amiodarone 7. Aspirin EC 8. Aspirin 9. Atorvastatin 10. Bisacodyl
+   11. Calcium Gluconate 12. Ciprofloxacin
+   13. Ciprofloxacin 14. Dextrose 50% 15. Docusate Sodium 16. Docusate
+   Sodium (Liquid) 17. Furosemide
+   18. Haloperidol 19. Heparin 20. HydrALAzine 21. Insulin 22. Magnesium
+   Sulfate 23. Metoclopramide
+   24. Metoprolol Tartrate 25. Milk of Magnesia 26. Nitroglycerin 27.
+   Pantoprazole 28. Pantoprazole
+   29. Phenylephrine 30. Piperacillin-Tazobactam 31.
+   Piperacillin-Tazobactam 32. Piperacillin-Tazobactam
+   33. Pneumococcal Vac Polyvalent 34. Potassium Chloride 35. Sodium
+   Chloride 0.9% Flush 36. Tamsulosin
+   37. Vancomycin 38. Vancomycin
+   24 Hour Events:
+ TEMPORARY PACEMAKER WIRES DISCONTINUED - At [**3408-3-31**] 10:55 AM
+ SPUTUM CULTURE - At [**3408-3-31**] 11:30 AM
+ MAGNETIC RESONANCE IMAGING - At [**3408-3-31**] 09:00 PM
+   Post operative day:
+   POD#4 - cabg x2
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**3408-4-1**] 03:30 AM
+   Ciprofloxacin - [**3408-4-1**] 06:55 AM
+   Vancomycin - [**3408-4-1**] 08:23 AM
+   Infusions:
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**3408-3-31**] 03:30 PM
+   Heparin Sodium (Prophylaxis) - [**3408-4-1**] 05:00 AM
+   Metoprolol - [**3408-4-1**] 08:30 AM
+   Furosemide (Lasix) - [**3408-4-1**] 09:27 AM
+   Other medications:
+   Flowsheet Data as of  [**3408-4-1**] 09:59 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**10**] a.m.
+   Tmax: 37.8
+C (100
+   T current: 35.3
+C (95.5
+   HR: 62 (62 - 90) bpm
+   BP: 94/52(56) {94/41(56) - 145/109(114)} mmHg
+   RR: 20 (17 - 31) insp/min
+   SPO2: 98%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 103.5 kg (admission): 91 kg
+   Height: 72 Inch
+             Total In:
+                                                                    776 mL
+                                                                  1,528 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    776 mL
+                                                                  1,528 mL
+   Blood products:
+   Total out:
+                                                                  1,285 mL
+                                                                    910 mL
+   Urine:
+                                                                  1,285 mL
+                                                                    910 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -509 mL
+                                                                    618 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SPO2: 98%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Breath Sounds: Diminished: @bases), (Sternum:
+   Stable )
+   Abdominal: Soft, Non-distended, Non-tender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Right Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished), (Pulse - Posterior tibial: Diminished)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Responds to: Noxious stimuli)
+   Labs / Radiology
+   176 K/uL
+    g/dL
+   219 mg/dL
+   1.1 mg/dL
+   30 mEq/L
+   3.9 mEq/L
+   30 mg/dL
+   98 mEq/L
+   135 mEq/L
+   30.7 %
+   10.2 K/uL
+        [image002.jpg]
+                             [**3408-3-30**]  02:04 AM
+                             [**3408-3-30**]  03:00 AM
+                             [**3408-3-30**]  03:03 AM
+                             [**3408-3-30**]  04:00 AM
+                             [**3408-3-30**]  12:49 PM
+                             [**3408-3-30**]  06:06 PM
+                             [**3408-3-30**]  10:39 PM
+                             [**3408-3-31**]  03:31 AM
+                             [**3408-4-1**]  03:13 AM
+                             [**3408-4-1**]  03:26 AM
+   WBC
+   14.9
+   14.1
+   12.1
+   Hct
+   27.5
+   33.2
+   30.4
+   Plt
+   149
+   153
+   192
+   Creatinine
+   1.0
+   0.9
+   1.0
+   TCO2
+   26
+   22
+   2
+   Glucose
+   136
+   139
+   142
+   135
+   155
+   111
+   143
+   183
+   170
+   Other labs: PT / PTT / INR:17.6/31.2/1.6, Differential-Neuts:68.0 %,
+   Lymph:26.4 %, Mono:4.0 %, Eos:1.5 %, Fibrinogen:379 mg/dL, Lactic
+   Acid:1.1 mmol/L, Albumin:3.2 g/dL, Ca:8.5 mg/dL, Mg:2.3 mg/dL, PO4:3.1
+   mg/dL
+   Assessment and Plan
+   AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY
+   CLEARANCE, COUGH), ALTERED MENTAL STATUS (NOT DELIRIUM), IMPAIRED
+   PHYSICAL MOBILITY, CORONARY ARTERY BYPASS GRAFT (CABG), CORONARY ARTERY
+   DISEASE (CAD, ISCHEMIC HEART DISEASE), .H/O CVA (STROKE, CEREBRAL
+   INFARCTION), OTHER
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, Responds only to noxious stimuli,with
+   no movement of lower extremities.MRI of spine shows possible cord
+   infarction [**Company 2681**]-4.will discuss with neuroradiologist / neurology today
+   Cardiovascular: Aspirin, Beta-blocker, Statins, S/P cabg
+   .Hemodynamically stable- rate controlled afib- Amio drip. Coumadin
+   after all neuroradiology imaging performed
+   Pulmonary: Extubated with poor secretion control. Sputum with gram
+   postive/gram negative. On Vanc /Zosyn/cipro.Decreasiing white count
+   Gastrointestinal / Abdomen: stable
+   Nutrition: NPO, Dobhoff ->TF goal =80cc/h
+   Renal: Foley, Adequate UO
+   Hematology: stable
+   Endocrine: RISS
+   Infectious Disease: Antibiotics for Pneumonia/Afebrile with decreasing
+   white count
+   Lines / Tubes / Drains:
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: CT surgery, P.T.
+   Billing Diagnosis: CVA, (Respiratory distress: Insufficiency / Post-op)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Cordis/Introducer - [**3408-3-28**] 08:30 AM
+   18 Gauge - [**3408-3-31**] 11:17 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds  Comments:
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

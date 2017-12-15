@@ -1,0 +1,198 @@
+Chief Complaint: Respiratory Failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Net positive 1L yesterday.  [**Last Name (un) **] yesterday showed no active bleeding.
+   CT chest/abd/pelvis with abcess or fluid collection.
+   24 Hour Events:
+ BRONCHOSCOPY - At [**2913-8-3**] 10:00 AM
+ BLOOD CULTURED - At [**2913-8-4**] 02:44 AM
+   picc line
+ BLOOD CULTURED - At [**2913-8-4**] 04:00 AM
+   a-line
+   History obtained from icu team
+   Patient unable to provide history: Sedated
+   Allergies:
+   Flagyl (Oral) (Metronidazole)
+   Rash;
+   Last dose of Antibiotics:
+   Cefipime - [**2913-8-3**] 04:00 PM
+   Ciprofloxacin - [**2913-8-3**] 06:00 PM
+   Vancomycin - [**2913-8-3**] 06:00 PM
+   Micafungin - [**2913-8-3**] 07:50 PM
+   Infusions:
+   KCl (CRRT) - 2 mEq./hour
+   Calcium Gluconate (CRRT) - 1.4 grams/hour
+   Other ICU medications:
+   Dextrose 50% - [**2913-8-3**] 04:00 PM
+   Heparin Sodium (Prophylaxis) - [**2913-8-4**] 08:00 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Ear, Nose, Throat: OG / NG tube
+   Nutritional Support: Tube feeds
+   Respiratory: mechanical ventilation
+   Heme / Lymph: Anemia
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of  [**2913-8-4**] 09:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.4
+   Tcurrent: 35.9
+C (96.6
+   HR: 92 (67 - 95) bpm
+   BP: 101/48(65) {75/39(50) - 114/56(73)} mmHg
+   RR: 20 (11 - 28) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 106.7 kg (admission): 110 kg
+   Height: 66 Inch
+             Total In:
+                                                                  4,071 mL
+                                                                  3,607 mL
+   PO:
+             TF:
+                                                                  1,365 mL
+                                                                    602 mL
+   IVF:
+                                                                  2,561 mL
+                                                                  2,946 mL
+   Blood products:
+   Total out:
+                                                                  2,978 mL
+                                                                  4,145 mL
+   Urine:
+                                                                     42 mL
+                                                                     10 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,093 mL
+                                                                   -538 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 400) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 10 cmH2O
+   FiO2: 60%
+   RSBI Deferred: PEEP > 10
+   PIP: 21 cmH2O
+   Plateau: 23 cmH2O
+   Compliance: 30.8 cmH2O/mL
+   SpO2: 100%
+   ABG: 7.34/48/86.[**Numeric Identifier 88**]/24/0
+   Ve: 9.8 L/min
+   PaO2 / FiO2: 145
+   Physical Examination
+   General Appearance: Overweight / Obese
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (S1: Normal), (S2: Normal), (Murmur: No(t) Systolic)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous: scattered anteriorly)
+   Abdominal: Soft, Non-tender
+   Extremities: Right: 1+, Left: 1+
+   Skin:  Warm
+   Neurologic: No(t) Follows simple commands, Responds to: Noxious
+   stimuli, Movement: Not assessed, Sedated, Tone: Not assessed
+   Labs / Radiology
+   7.9 g/dL
+   195 K/uL
+   160 mg/dL
+   2.4 mg/dL
+   24 mEq/L
+   4.3 mEq/L
+   33 mg/dL
+   93 mEq/L
+   131 mEq/L
+   25.9 %
+   8.4 K/uL
+        [image002.jpg]
+                             [**2913-8-3**]  04:17 AM
+                             [**2913-8-3**]  01:04 PM
+                             [**2913-8-3**]  03:28 PM
+                             [**2913-8-3**]  03:47 PM
+                             [**2913-8-3**]  06:20 PM
+                             [**2913-8-3**]  07:59 PM
+                             [**2913-8-3**]  09:50 PM
+                             [**2913-8-3**]  09:54 PM
+                             [**2913-8-4**]  04:00 AM
+                             [**2913-8-4**]  04:02 AM
+   WBC
+   9.7
+   8.4
+   Hct
+   25.3
+   25.2
+   25.3
+   25.9
+   Plt
+   226
+   195
+   Cr
+   3.2
+   2.7
+   2.4
+   TCO2
+   33
+   31
+   30
+   22
+   27
+   27
+   Glucose
+   42
+   128
+   160
+   Other labs: PT / PTT / INR:16.0/37.4/1.4, CK / CKMB /
+   Troponin-T:88/10/0.76, ALT / AST:20/21, Alk Phos / T Bili:98/0.3,
+   Differential-Neuts:75.0 %, Band:0.0 %, Lymph:16.0 %, Mono:9.0 %,
+   Eos:0.0 %, Fibrinogen:489 mg/dL, Lactic Acid:3.2 mmol/L, Albumin:3.1
+   g/dL, LDH:363 IU/L, Ca++:8.8 mg/dL, Mg++:2.1 mg/dL, PO4:2.6 mg/dL
+   Assessment and Plan
+   78-year-old woman with complex pulmonary disease (PHTN, OSA, etc.)
+   admitted with massive volume overload and respiratory failure.  Now
+   recovering from recent episode of likely septic shock.
+   1. Septic shock: Off pressors.  Awaiting results of cultures.  Cont
+   vanc/cefepime/cipro/micafungin.  D/C abx if cultures negative.
+   2. Respiratory Failure: Try pressure support again today.
+   3. Volume overload: net negative 1L goal today
+   4. Renal Failure: Cont CVVH
+   5. C Diff: oral vanco
+   6. Delerium: Ongoing ICU delerium
+   ICU Care
+   Nutrition:
+   Vivonex (Full) - [**2913-8-3**] 12:00 PM 65 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Dialysis Catheter - [**2913-8-1**] 03:30 PM
+   PICC Line - [**2913-8-1**] 04:16 PM
+   Arterial Line - [**2913-8-2**] 03:00 PM
+   20 Gauge - [**2913-8-3**] 09:30 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition :ICU
+   Total time spent: 30 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

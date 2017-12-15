@@ -1,0 +1,229 @@
+CVICU
+   HPI:
+   HD3   POD 1-MVRepair(32 [**Company 1958**] CG ring
+   Ejection Fraction:50
+   Hemoglobin A1c:5.6
+   Pre-Op Weight:179.89 lbs   81.6 kgs
+   Baseline Creatinine:0.9
+   TLD:chest tubes:Day2   rt IJ cordis/PA cath:Day2
+   Foley:Day2
+   PMH: mitral valve regurgitation/prolapse, Glaucoma,HTN
+   PSH: Vasectomy
+   [**Last Name (un) **]: Lumigan 0.03 OU Qd, Istalol 0.5 OU [**Hospital1 7**], Cozaar 25 QD,
+   Events:
+   [**3228-11-6**] preop MVr/R, dental clearance/carotids done/ consent done
+   Assessment:67yoM s/p MVRepair(32 [**Company 1958**] CG ring)[**11-7**]
+   Chief complaint:
+   PMHx:
+   Current medications:
+    Acetaminophen 6. Amiodarone 7. Amiodarone 8. Amiodarone
+   9. Aspirin EC 10. Aspirin 11. Calcium Gluconate 12. Chlorhexidine
+   Gluconate 0.12% Oral Rinse 13. Dextrose 50%
+   14. Docusate Sodium 15. Docusate Sodium (Liquid) 16. Epinephrine HCl
+   17. Glycopyrrolate 18. Insulin
+   19. Lumigan 20. Magnesium Sulfate 21. Metoclopramide 22. Milk of
+   Magnesia 23. Morphine Sulfate 24. Neostigmine
+   25. Nitroglycerin 26. Oxycodone-Acetaminophen 27. Phenylephrine 28.
+   Pneumococcal Vac Polyvalent 29. Potassium Chloride
+   30. Propofol 31. Ranitidine 32. Ranitidine 33. Sodium Chloride 0.9%
+   Flush 34. Sodium Chloride 0.9% Flush
+   35. Timolol Maleate 0.5% 36. Vancomycin
+   24 Hour Events:
+[**11-8**]: Weaned off Epi. Extubated. AF overnight. Bursts of NSVT->Amio
+   drip.  Required Neo
+    INTUBATION - At [**3228-11-7**] 12:00 PM
+ ARTERIAL LINE - START [**3228-11-7**] 12:10 PM
+ CORDIS/INTRODUCER - START [**3228-11-7**] 12:10 PM
+ PA CATHETER - START [**3228-11-7**] 12:10 PM
+ INVASIVE VENTILATION - START [**3228-11-7**] 12:21 PM
+ EKG - At [**3228-11-7**] 02:00 PM
+ EXTUBATION - At [**3228-11-7**] 04:00 PM
+ INVASIVE VENTILATION - STOP [**3228-11-7**] 04:04 PM
+   Post operative day:
+   POD#1 MV repair (#32 CG ring)-
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3228-11-7**] 02:00 PM
+   Infusions:
+   Phenylephrine - 0.5 mcg/Kg/min
+   Amiodarone - 0.5 mg/min
+   Other ICU medications:
+   Insulin - Regular - [**3228-11-7**] 05:00 PM
+   Morphine Sulfate - [**3228-11-7**] 09:24 PM
+   Amiodarone - [**3228-11-8**] 02:30 AM
+   Other medications:
+   Flowsheet Data as of  [**3228-11-8**] 09:53 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**31**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 37.4
+C (99.3
+   HR: 64 (60 - 115) bpm
+   RR: 25 (13 - 30) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 89.3 kg (admission): 79 kg
+   Height: 67 Inch
+   CVP: 6 (6 - 19) mmHg
+   PAP: (40 mmHg) / (16 mmHg)
+   CO/CI (Thermodilution): (4.25 L/min) / (2.2 L/min/m2)
+   SVR: 1,336 dynes*sec/cm5
+   SV: 44 mL
+   SVI: 23 mL/m2
+   Total In:
+                                                                  5,749 mL
+                                                                  1,327 mL
+   PO:
+                                                                    170 mL
+                                                                    360 mL
+   Tube feeding:
+   IV Fluid:
+                                                                  4,999 mL
+                                                                    967 mL
+   Blood products:
+                                                                    500 mL
+   Total out:
+                                                                  1,960 mL
+                                                                  1,185 mL
+   Urine:
+                                                                  1,065 mL
+                                                                    990 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,789 mL
+                                                                    142 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 745 (745 - 745) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 19
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 45
+   PIP: 15 cmH2O
+   Plateau: 16 cmH2O
+   Compliance: 57.1 cmH2O/mL
+   SPO2: 97%
+   ABG: 7.36/44/135/23/0
+   Ve: 10 L/min
+   PaO2 / FiO2: 270
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Irregular), (Distant heart sounds: Present),
+   +distant
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : , Diminished: (B)), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Present)
+   Right Extremities: (Edema: 1+), (Temperature: Cool), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   121 K/uL
+   11.1 g/dL
+   115 mg/dL
+   0.7 mg/dL
+   23 mEq/L
+   4.1 mEq/L
+   10 mg/dL
+   104 mEq/L
+   134 mEq/L
+   32.6 %
+   12.9 K/uL
+        [image002.jpg]
+                            [**3228-11-7**]  11:33 AM
+                            [**3228-11-7**]  12:31 PM
+                            [**3228-11-7**]  12:37 PM
+                            [**3228-11-7**]  02:31 PM
+                            [**3228-11-7**]  03:51 PM
+                            [**3228-11-7**]  08:40 PM
+                            [**3228-11-8**]  02:38 AM
+   WBC
+   15.8
+   15.9
+   12.9
+   Hct
+   31.3
+   35.5
+   34.9
+   32.6
+   Plt
+   146
+   157
+   121
+   Creatinine
+   0.8
+   0.7
+   TCO2
+   25
+   24
+   25
+   26
+   Glucose
+   178
+   156
+   126
+   115
+   Other labs: PT / PTT / INR:13.7/39.2/1.2, Differential-Neuts:87.0 %,
+   Lymph:11.0 %, Mono:1.4 %, Eos:0.6 %, Fibrinogen:160 mg/dL, Lactic
+   Acid:2.2 mmol/L, Mg:1.7 mg/dL
+   Assessment and Plan
+   .H/O VALVE REPAIR (ALL VALVES), HYPERGLYCEMIA, HYPOTENSION (NOT SHOCK),
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN)
+   Assessment and Plan: POD#1 MV repair (#32 CG ring)-Weaned off Epi.
+   Extubated. AF overnight. Bursts of NSVT->Amio drip.  Required Neo
+   Neurologic: Neuro checks Q: 4 hr, PCT/[**Last Name (un) **] prn pain. OOB-PT eval.
+   Cardiovascular: Aspirin, Statins, Discontinue PA monitor, Wean off Neo.
+   Cont Amio drip for AF. Converted to NSR this AM. DC PA cath. Plan to
+   start B-BLocker when BP/HR tols , once off pressors. After Amio
+   protocol->change to po
+   Pulmonary: IS, Encourage DB&C, IS, OOB.
+   Gastrointestinal / Abdomen:
+   Nutrition: Regular diet, Advance diet as tolerated , ADAT/cont bowel
+   regimen/prophylaxis.
+   Renal: Foley, Adequate UO, BUN/CR= 10/0.7. Plan to start gentle
+   diuresis once off pressors.
+   Hematology: Stable. No issues.
+   Endocrine: RISS, Insulin drip, Transition Insulin drip to ISS
+   Infectious Disease: Periop ABX. No issues.
+   Lines / Tubes / Drains: Foley, Chest tube - pleural , Chest tube -
+   mediastinal, Pacing wires
+   Wounds: Dry dressings
+   Imaging:
+   Fluids:
+   Consults: CT surgery, P.T.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale, Insulin infusion
+   Lines:
+   Arterial Line - [**3228-11-7**] 12:10 PM
+   Cordis/Introducer - [**3228-11-7**] 12:10 PM
+   PA Catheter - [**3228-11-7**] 12:10 PM
+   16 Gauge - [**3228-11-7**] 12:10 PM
+   20 Gauge - [**3228-11-7**] 12:10 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status:
+   Disposition: ICU, Transfer to floor
+
+
+
+DOC CLASS

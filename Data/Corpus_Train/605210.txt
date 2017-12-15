@@ -1,0 +1,235 @@
+CVICU
+   HPI:
+   73M s/p urgentCABG x 3(LIMA-LAD,SVG-OM2,SVG-PDA)/AVR(21mm CE Magna)/
+   MVR(27mm Mosaic [**Company 1958**] Porcine) [**6-17**]
+   Chief complaint:
+   PMHx:
+   EF:55%, Cr:0.9 , wt:128 kgs, HbA1c: 7.1
+   PMH: DM2, ^chol, Depression, osteoarthritis, Prostate CA,Obesity
+   PSH: Bilat TKR, ORIF Rt femur [**2635-2-18**], Appy, lft shoulder surgery, TURP
+   [**Last Name (un) **]: Metformin 1000", Lisinopril 20', Atorvastatin 80', HCTZ25', Cartia
+   XR 300', Ambien 10-hs, Paxil 40', Lorazepam 0.5 TID/prn, MVI,
+   Glucosamine, Oxycodone 5 Q3hr/prn, Enoxaparin 30", colace 100", Senna
+   8.6", CaCarbonate 500-tid, Vit D
+   Current medications:
+   1. 2. 3. 250 mL D5W 4. Acetaminophen 5. Albuterol Inhaler 6. Albumin 5%
+   (25g / 500mL) 7. Amiodarone
+   8. Argatroban 9. Aspirin 10. Calcium Gluconate 11. Chlorhexidine
+   Gluconate 0.12% Oral Rinse 12. Dextrose 50%
+   13. Docusate Sodium (Liquid) 14. Erythromycin 0.5% Ophth Oint 15. 16.
+   Insulin 17. Insulin 18. Ipratropium Bromide MDI
+   19. Lorazepam 20. Magnesium Sulfate 21. Metoprolol Tartrate 22.
+   Metoprolol Tartrate 23. Milk of Magnesia
+   24. Miconazole Powder 2% 25. Morphine Sulfate 26. Nitroglycerin 27.
+   Paroxetine 28. Phenylephrine
+   29. Potassium Chloride 30. Ranitidine (Liquid) 31. Sodium Chloride 0.9%
+   Flush 32. Sodium Chloride 0.9% Flush
+   33. Sodium Chloride 0.9% Flush
+   24 Hour Events:
+ EXTUBATION - At [**2635-7-1**] 09:50 AM
+ INVASIVE VENTILATION - STOP [**2635-7-1**] 09:50 AM
+ INTUBATION - At [**2635-7-1**] 01:38 PM
+ INVASIVE VENTILATION - START [**2635-7-1**] 01:39 PM
+   Allergies:
+   Heparin Agents
+   Thrombocytopeni
+   Last dose of Antibiotics:
+   Infusions:
+   Argatroban - 2.75 mcg/Kg/min
+   Amiodarone - 1 mg/min
+   Other ICU medications:
+   Ranitidine (Prophylaxis) - [**2635-7-1**] 08:24 AM
+   Furosemide (Lasix) - [**2635-7-1**] 10:26 AM
+   Morphine Sulfate - [**2635-7-2**] 05:03 AM
+   Metoprolol - [**2635-7-2**] 06:38 AM
+   Other medications:
+   Flowsheet Data as of  [**2635-7-2**] 07:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**38**] a.m.
+   Tmax: 38
+C (100.4
+   T current: 38
+C (100.4
+   HR: 100 (93 - 119) bpm
+   BP: 107/66(79) {92/53(65) - 140/79(97)} mmHg
+   RR: 24 (16 - 36) insp/min
+   SPO2: 99%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 150.7 kg (admission): 129 kg
+   Height: 70 Inch
+            Total In:
+                                                                  2,001 mL
+                                                                    877 mL
+   PO:
+            Tube feeding:
+   IV Fluid:
+                                                                  1,061 mL
+                                                                    407 mL
+   Blood products:
+                                                                    700 mL
+                                                                    350 mL
+   Total out:
+                                                                  2,370 mL
+                                                                    905 mL
+   Urine:
+                                                                  2,370 mL
+                                                                    905 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -369 mL
+                                                                    -28 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 500 (500 - 500) mL
+   Vt (Spontaneous): 746 (287 - 849) mL
+   PS : 15 cmH2O
+   RR (Set): 18
+   RR (Spontaneous): 15
+   PEEP: 8 cmH2O
+   FiO2: 50%
+   RSBI: 49
+   PIP: 24 cmH2O
+   Plateau: 22 cmH2O
+   SPO2: 99%
+   ABG: 7.47/38/104/27/3
+   Ve: 9.7 L/min
+   PaO2 / FiO2: 208
+   Physical Examination
+   General Appearance: Overweight / Obese, Intubated
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bases B), (Sternum: Stable )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese
+   Left Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Diminished)
+   Right Extremities: (Edema: 2+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact)
+   Neurologic: Follows simple commands
+   Labs / Radiology
+   182 K/uL
+   9.1 g/dL
+   97 mg/dL
+   2.2 mg/dL
+   27 mEq/L
+   3.7 mEq/L
+   90 mg/dL
+   105 mEq/L
+   144 mEq/L
+   26.6 %
+   13.4 K/uL
+        [image002.jpg]
+                             [**2635-7-1**]  06:20 AM
+                             [**2635-7-1**]  10:21 AM
+                             [**2635-7-1**]  12:01 PM
+                             [**2635-7-1**]  01:26 PM
+                             [**2635-7-1**]  02:24 PM
+                             [**2635-7-1**]  02:51 PM
+                             [**2635-7-2**]  01:32 AM
+                             [**2635-7-2**]  02:54 AM
+                             [**2635-7-2**]  05:53 AM
+                             [**2635-7-2**]  06:17 AM
+   WBC
+   13.4
+   Hct
+   29
+   26.6
+   Plt
+   182
+   Creatinine
+   2.4
+   2.2
+   TCO2
+   30
+   29
+   33
+   30
+   29
+   30
+   29
+   28
+   Glucose
+   74
+   95
+   97
+   Other labs: PT / PTT / INR:33.2/64.4/3.5, ALT / AST:115/56, Alk-Phos /
+   T bili:64/1.9, Amylase / Lipase:186/194, Differential-Neuts:85.4 %,
+   Band:0.0 %, Lymph:8.1 %, Mono:4.3 %, Eos:1.9 %, Fibrinogen:280 mg/dL,
+   Lactic Acid:1.2 mmol/L, Albumin:4.1 g/dL, LDH:393 IU/L, Ca:9.3 mg/dL,
+   Mg:2.6 mg/dL, PO4:4.0 mg/dL
+   Imaging: [**7-1**] CXR: As compared to the previous examination, the tip of
+   the
+   endotracheal tube is now projecting 5 cm above the carina. Unchanged
+   course
+   of the nasogastric tube, the right-sided jugular venous access line was
+   removed and replaced by a right PICC line. The tip of the PICC line
+   projects
+   over the mid SVC. Unchanged size of the cardiac silhouette with
+   moderate
+   cardiomegaly, retrocardiac atelectasis and minimal signs of
+   overhydration.
+   The left-sided pre-existing pleural effusion distributes differently,
+   but is
+   overall unchanged in extent. There are no newly occurred focal
+   parenchymal
+   opacities. No evidence of pneumothorax.
+   [**7-2**] CXR:
+   Microbiology: [**7-1**] Urine cx: P
+   [**6-30**] R IJ cx: P
+   [**6-30**] Urine cx: NG FINAL
+   Assessment and Plan
+   RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 11**]), CORONARY ARTERY BYPASS GRAFT
+   (CABG), VALVE REPLACEMENT, MITRAL MECHANICAL (MVR), VALVE REPLACEMENT,
+   AORTIC MECHANICAL (AVR)
+   Assessment and Plan: 73M s/p urgentCABG x
+   3(LIMA-LAD,SVG-OM2,SVG-PDA)/AVR(21mm CE Magna)/ MVR(27mm Mosaic
+   [**Company 1958**] Porcine) [**6-17**], c/b prolonged intubation, failed extubation
+   yesterday [**2-23**] hypercarbia, now re-intubated.
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, Avoid sedating meds.
+   Pain controlled with tylenol, morphine PRN.
+   Cardiovascular: Aspirin, Full anticoagulation, Beta-blocker, No statin
+   [**2-23**] LFTs. Remains on [**Last Name (LF) 7991**], [**First Name3 (LF) **] plan on starting couamdin once
+   decision about trach/peg made.
+   Pulmonary: Cont ETT, (Ventilator mode: CPAP + PS)
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding, Start today.
+   Renal: Foley, Adequate UO
+   Hematology: Stable anemia, transfsued one unit last night. No e/o
+   active bleeding. PLTs improving daily, HIT positive by Serotonin assay,
+   on Argatroban.
+   Endocrine: [**Last Name (LF) 1536**], [**First Name3 (LF) 126**] restart Lantus once on TF.
+   Infectious Disease: Check cultures, Low grade temp last night. Stable
+   WBC. Urine cx pending.
+   Lines / Tubes / Drains: Foley, Dobhoff, ETT, Fecal collection system.
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids:
+   Consults: CT surgery, Hem / Onc
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Failure), Post-op
+   hypotension, Thrombocytopenia
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2635-6-17**] 07:25 PM
+   PICC Line - [**2635-6-30**] 06:00 PM
+   Prophylaxis:
+   DVT:  (Systemic anticoagulation: Argatroban (TM))
+   Stress ulcer: H2 blocker
+   VAP bundle: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments: Daily wake-up: NOT on sedation
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 31 minutes
+
+
+
+DOC CLASS

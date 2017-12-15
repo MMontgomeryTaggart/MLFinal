@@ -1,0 +1,226 @@
+Chief Complaint: Urosepsis, Acute renal failure
+   24 Hour Events:
+ INVASIVE VENTILATION - START [**3017-6-14**] 05:35 PM
+ ARTERIAL LINE - START [**3017-6-14**] 05:51 PM
+ MULTI LUMEN - START [**3017-6-14**] 05:52 PM
+   -Urine output still minimal despite 4L Normal saline
+   -CVPs still ranging [**8-7**]
+   -[**Last Name (un) **] stim 12.9-11.9-13.4
+   -dysynchronous breathing on vent
+   Allergies:
+   Captopril
+   Renal Toxicity;
+   Neurontin (Oral) (Gabapentin)
+   Unknown;
+   Shellfish
+   Hives;
+   Nsaids
+   Unknown;
+   Promethazine
+   abnormal moveme
+   Valproate Sodium
+   hyperammonemia;
+   Last dose of Antibiotics:
+   Infusions:
+   Norepinephrine - 0.06 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3017-6-15**] 06:55 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 37.5
+C (99.5
+   HR: 106 (88 - 110) bpm
+   BP: 125/63(80) {102/53(69) - 137/68(90)} mmHg
+   RR: 23 (20 - 33) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+    CVP: 14 (-10 - 17)mmHg
+   Total In:
+                                                                  5,603 mL
+                                                                  2,132 mL
+   PO:
+   TF:
+   IVF:
+                                                                  5,603 mL
+                                                                  2,132 mL
+   Blood products:
+   Total out:
+                                                                     28 mL
+                                                                     45 mL
+   Urine:
+                                                                     28 mL
+                                                                     45 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  5,575 mL
+                                                                  2,087 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 400 (400 - 400) mL
+   Vt (Spontaneous): 525 (525 - 525) mL
+   PS : 12 cmH2O
+   RR (Set): 22
+   RR (Spontaneous): 7
+   PEEP: 8 cmH2O
+   FiO2: 40%
+   RSBI Deferred: Vent Dependant
+   PIP: 11 cmH2O
+   SpO2: 98%
+   ABG: 7.27/39/117
+   Ve: 11.6 L/min
+   PaO2 / FiO2: 393
+   Physical Examination
+   General Appearance: Well nourished, Overweight / Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, tracheostomy
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4, No(t)
+   Rub, (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Wheezes :
+   diffuse and bilateral), Prolonged expiratory phase
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended, Obese
+   Extremities: Right: Absent, Left: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm, No(t) Rash:
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   253 K/uL
+   6.9 g/dL
+   100 mg/dL
+   2.5 mg/dL
+   19 mEq/L
+   2.8 mEq/L
+   37 mg/dL
+   117 mEq/L
+   149 mEq/L
+   22.1 %
+   16.7 K/uL
+        [image002.jpg]
+                             [**3017-6-14**]  07:09 PM
+                             [**3017-6-14**]  07:57 PM
+                             [**3017-6-15**]  12:22 AM
+                             [**3017-6-15**]  03:40 AM
+   WBC
+   17.3
+   16.7
+   Hct
+   27.5
+   22.1
+   Plt
+   321
+   253
+   Cr
+   3.1
+   2.5
+   TCO2
+   22
+   22
+   Glucose
+   200
+   100
+   Other labs: PT / PTT / INR:17.3/40.9/1.6, Differential-Neuts:65.0 %,
+   Band:25.0 %, Lymph:9.0 %, Mono:1.0 %, Eos:0.0 %, Fibrinogen:394 mg/dL,
+   Lactic Acid:2.5 mmol/L, Ca++:7.5 mg/dL, Mg++:1.8 mg/dL, PO4:6.0 mg/dL
+   Microbiology: Urine NGTD
+   Blood NGTD
+   Assessment and Plan
+   Ms. [**Known patient lastname 1125**] is a 69F with MMP including chronic ventilator dependence s/p
+   trachostomy [**3-/3017**], highly resistant pseudomonal PNA's, COPD on home
+   oxygen, obstructive sleep apnea, diastolic HF, and Type II diabetes
+   mellitus.  She presented to the ED today after she was found to be
+   hypotensive and febrile at [**Hospital1 77**].
+   .
+   #. Hypotension: Likely sepsis in the setting of fevers, leukocytosis,
+   elevated lactate, and a positive UA.  Possible sources include urine
+   vs. her recently infected PICC line.  Low suspicion for PNA given clear
+   CXR.  She is currently stable after 4L of NS and levophed, with a CVP
+   of [**8-7**] and MAPs in the 70s, and lactates trending down.  Looking at
+   past culture data, she has had many infections with highly resistant
+   organisms, including MRSA and highly resistant pseudomonas.  Last micro
+   from urine [**3-/3017**] with pseudomonas resistant to cipro, otherwise
+   sensitive.
+   -Empiric coverage with vancomycin and cefepime for now to cover for
+   line and urosepsis, can peel off vanco if blood cultures negative.
+   Dosing vanco by levels
+   -Urine and blood cultures pending
+   -IVF boluses with goal CVP >12
+   -Levophed to keep MAP >65
+   -Obtain a mixed venous 02 sat
+   -Monitor UOP
+   .
+   #. ?Distended Abdomen: Some concern for ischemic bowel in the setting
+   of elevated lactate and hypotension.  Passing stool and flatus in the
+   ED with guaiac negative stools.  Surgery has already evaluated the
+   patient, and has low suspicion.
+   -Serial abdominal exams
+   -Trend lactate
+   -F/u surgery recs
+   .
+   #. Acute on chronic renal failure: Baseline creatinine 1.5-1.8, 3.4 on
+   admission, and has trended down to 2.5 with fluid resuscitation.  Urine
+   output has not picked up despite adequate volume resuscitation and CVP
+   at goal.  THis raises suspicion for ATN
+   -Will send urine lytes and sediment
+   .
+   #. Metabolic acidosis: Initially an anion gap lactic acidosis, now a
+   non-gap acidosis likely secondary to normal saline
+   -Switch to LR for volume
+   .
+   #. Chronic vent dependence: Seems to have happened during her last
+   admission, where she required a long period of intubation for
+   respiratory failure in the setting of PNA.  Currently dysynchronous
+   with the ventilator.  Recent ABG 7.29/39/117 on pressure support [**1-5**],
+   with spontanous tidal volumes 525.  PIPs and plateaus under 30
+   -Monitor serial ABGs and adjust prn
+   -Watch PIPs closely as the patient is tachypnic to monitor for auto
+   PEEP
+   .
+   #. COPD
+   -continue home albuterol and ipratropim nebs, continue current steroid
+   taper
+   .
+   #. Diabetes Mellitus
+   -ISS
+   .
+   #. Chronic diastolic heart failure: does not appear volume overloaded
+   on exam.
+   -Holding home beta blocker and lasix in the setting of hypotension
+   .
+   #. Hypertension
+   -Hold home diltiazem, hydralazine, beta blocker
+   .
+   #. Seizure disorder
+   -continue home oxacarbazine
+   ICU Care
+   Nutrition:
+   Comments: NPO
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3017-6-14**] 05:51 PM
+   Multi Lumen - [**3017-6-14**] 05:52 PM
+   Presep Catheter - [**3017-6-14**] 05:52 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

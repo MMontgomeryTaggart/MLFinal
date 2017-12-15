@@ -1,0 +1,259 @@
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**3475-11-27**] 07:45 PM
+ OR SENT - At [**3475-11-27**] 09:20 PM
+ OR RECEIVED - At [**3475-11-27**] 10:30 PM
+ ARTERIAL LINE - START [**3475-11-27**] 10:30 PM
+   - tracheostomy mask coverted to CPAP [**3-1**] agitation.
+   - agitation likely due to high dose steroid - Rheum agrees with
+   assessment, NTD. REC: methotrexate SC should be given at the same dose
+   as PO, leucovorine by NGT 10 hour after.
+   - Increased serosangious output from the site, noted to be tense,
+   echymotic, painful, cross midline - called vascular sx, sent for CT +
+   scan, repeat HCT 27.4, type and crossed 6 units, went to the OR - got
+   250cc of old blood removed, needed jp drain, recieved 1unit and 400
+   crystaloid in OR.
+   - had a respiratory alkalosis when returned from the OR, decreased RR
+   and Vt setting adjusted for over-ventilation.
+   Allergies:
+   Penicillamine
+   rash;
+   Doxycycline
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Cefazolin - [**3475-11-25**] 08:00 AM
+   Ciprofloxacin - [**3475-11-26**] 10:30 PM
+   Vancomycin - [**3475-11-27**] 10:30 PM
+   Infusions:
+   Fentanyl (Concentrate) - 50 mcg/hour
+   Midazolam (Versed) - 0.5 mg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**3475-11-27**] 09:00 AM
+   Haloperidol (Haldol) - [**3475-11-27**] 11:20 AM
+   Morphine Sulfate - [**3475-11-27**] 03:30 PM
+   Midazolam (Versed) - [**3475-11-28**] 04:00 AM
+   Fentanyl - [**3475-11-28**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3475-11-28**] 07:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.2
+C (100.7
+   Tcurrent: 36.5
+C (97.7
+   HR: 74 (66 - 118) bpm
+   BP: 97/41(60) {97/41(60) - 189/97(251)} mmHg
+   RR: 11 (10 - 31) insp/min
+   SpO2: 99%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 59 kg (admission): 52.8 kg
+   Height: 60 Inch
+             Total In:
+                                                                  3,515 mL
+                                                                    204 mL
+   PO:
+             TF:
+                                                                    743 mL
+   IVF:
+                                                                  1,497 mL
+                                                                     84 mL
+   Blood products:
+                                                                    645 mL
+   Total out:
+                                                                  2,400 mL
+                                                                    565 mL
+   Urine:
+                                                                  2,030 mL
+                                                                    480 mL
+   NG:
+   Stool:
+   Drains:
+   85 mL
+   Balance:
+                                                                  1,115 mL
+                                                                   -361 mL
+   Respiratory support
+   O2 Delivery Device: Tracheostomy tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 400 (400 - 500) mL
+   Vt (Spontaneous): 265 (265 - 403) mL
+   PS : 5 cmH2O
+   RR (Set): 10
+   RR (Spontaneous): 8
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI Deferred: No Spon Resp
+   PIP: 16 cmH2O
+   SpO2: 99%
+   ABG: 7.44/34/177/27/0
+   Ve: 4 L/min
+   PaO2 / FiO2: 443
+   Physical Examination
+   GEN: anxious, eyes closed, delirious
+   CV: regular rhythm, tachycardic, [**4-2**] crescendo/decrescendo murmur heard
+   best @ RUSB
+   RESP: CTA on limited inspiration
+   ABD: S, NT/ND, +BS
+   EXT: warm, weak but palpable distal pulses bilaterally
+   Labs / Radiology
+   133 K/uL
+   10.5 g/dL
+   94 mg/dL
+   0.3 mg/dL
+   27 mEq/L
+   3.9 mEq/L
+   12 mg/dL
+   108 mEq/L
+   137 mEq/L
+   29.8 %
+   9.1 K/uL
+        [image002.jpg]
+                            [**3475-11-26**]  04:00 PM
+                            [**3475-11-27**]  09:00 AM
+                            [**3475-11-27**]  04:14 PM
+                            [**3475-11-27**]  06:39 PM
+                            [**3475-11-27**]  07:43 PM
+                            [**3475-11-27**]  11:13 PM
+                            [**3475-11-27**]  11:24 PM
+                             [**3475-11-28**]  01:15 AM
+                             [**3475-11-28**]  01:26 AM
+                             [**3475-11-28**]  05:27 AM
+   WBC
+   13.4
+   10.9
+   10.1
+   10.6
+   9.1
+   Hct
+   33.0
+   31.0
+   27.4
+   26.7
+   30.8
+   31.5
+   29.8
+   Plt
+   170
+   181
+   156
+   138
+   133
+   Cr
+   0.4
+   0.3
+   0.3
+   0.4
+   0.3
+   0.3
+   TCO2
+   22
+   24
+   24
+   Glucose
+   141
+   119
+   163
+   132
+   94
+   Other labs: PT / PTT / INR:12.0/25.4/1.0, CK / CKMB /
+   Troponin-T:110/5/0.02, ALT / AST:[**9-21**], Alk Phos / T Bili:41/1.5, Lactic
+   Acid:1.2 mmol/L, Albumin:2.3 g/dL, LDH:291 IU/L, Ca++:7.0 mg/dL,
+   Mg++:2.0 mg/dL, PO4:1.6 mg/dL
+   Assessment and Plan
+   86 yo F c h/o RA, HTN, hyperlipidemia, and symptomatic AS who initially
+   presented for elective valvuloplasty, now s/p ruptured right groin
+   pseudoaneurysm and repair.
+   .
+   # Pseudoaneursym s/p repair: Vascular surgery is following. Hct
+   initially trended down with repeat after two units from 29-31, but now
+   stable.  U/S of R groin shows no evidence of continued aneurysm.  On
+   [**11-27**], right groin site had increased swelling and hematoma, reeval for
+   hematoma.  Had mild resp. alkalosis
+ vent readjusted, resolved.
+   - Trend HCT [**Hospital1 7**], transfuse as needed
+   - serial right leg exam, holding heparin
+   - If suspect bleed, will R-CT of R leg, surgery onboard.
+   - appropriate wound care, watch for infection.
+   - pain control with fentanyl and morphine prn as weaning off sedation
+   - restart tubefeed as tolerated
+   - serial left arm exam given thrombus in brachial and cephalic vein.
+   .
+   # S/P tracheostomy: Reported laryngeal edema after multiple intubation
+   attempts, CPAP for now, will wean as tolerated.
+   - Trach management per thoracics, plan to downsize to #6 on wed
+   - Wean as tolerated.
+   .
+   # UTI: Found to have klebsiella UTI.
+   -Con
+t cipro
+   -F/u further cultures
+   -CIS
+   .
+   # Decreased UOP: Significantly positive over the last 24 hours with UOP
+   ~30 cc/hr. Renal function remains normal. [**Month (only) 47**] be poor forward flow due
+   to volume overload, third-spacing with recent trauma.
+   - continue to monitor; IVF if clinically volume depleted on exam
+   .
+   # A. tach: Curbside by EP yesterday suggested BB alone with no further
+   management. Started metoprolol 25mg PO BID with good effect and no
+   recurrence.
+   -Continue metoprolol
+   .
+   # delirium / agitation: Unclear etiology; could be ICU delirium vs.
+   infection vs. steroid-induced delirium vs. drug-induced (trazodone).
+   Rheum agrees that likely due to steroid induced delirium.  Currently
+   not active. Hold all delirium inducing meds.
+   - consider olanzapine and haldol as needed.
+   - continue ciprofloxacin for treatment of UTI
+   - rheum c/s -  cont. chronic steroid dose, watch for steroid induced
+   delirium
+   .
+   # Valves: s/p balloon valvuloplasty with good effect. No signs of
+   volume overload currently.
+   -Continue ASA 81mg
+   ..
+   # RA: Con't prednisone and methotrexate/leucovorin.  Will need to
+   discuss with rheumatology how to dose DMARDs as patient cannot receive
+   POs currently and MTX cannot be given via NGT.
+   .
+   # Hyperlipidemia: Con't statin
+   .
+   FEN:  NPO for now
+   .
+   ACCESS: PIV's, L a-line, PICC
+   .
+   PROPHYLAXIS:
+   -DVT ppx with HSC
+   -Pain management with fentanyl
+   .
+   CODE:  full
+   .
+   COMM:  [**Name (NI) 4470**] [**Name (NI) 10876**] (Son and HCP) [**Telephone/Fax (1) 10879**]
+   .
+   DISPO: CCU for now
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3475-11-24**] 09:53 PM
+   PICC Line - [**3475-11-25**] 06:01 PM
+   Arterial Line - [**3475-11-27**] 10:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

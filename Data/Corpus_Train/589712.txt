@@ -1,0 +1,219 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   64 y/o M with PMHx of Diastolic Heart Failure, OSA/Pulm HTN, Severe
+   COPD on home O2, Afib s/p AV-junction ablation and PCM placement,
+   cirrhosis [**3-15**] EtOH, NASH, and cor pulmonale, who was admitted to the
+   MICU West on [**3-27**] with hematochezia and dark stool in the setting of
+   hypotension (Hct 21, INR 21).  Found to have erosive gastritis on EGD.
+   Electively intubated for procedure - extubated in ICU and transferred
+   to floor.  Moved to [**Hospital Ward Name **] for colonoscopy with planned
+   intubation, which was pending. S/p unsuccessful paracentesis ([**4-1**])
+   with successful ultrasound-guided paracentesis.  Pt c/o abdominal pain
+   overnight.  This am found to be somnolent
+ emergently intubated then
+   sustained PEA arrest with intermittent wide-complex rhythm.  Revived
+   after 15 minutes of CPR and epinephrine.
+   24 Hour Events:
+   Tm 103.8
+   Hypotensive
+   Allergies:
+   Ancef (Intraven.) (Cefazolin Sodium)
+   Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**3193-4-2**] 10:30 AM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Midazolam (Versed) - 1 mg/hour
+   Norepinephrine - 0.1 mcg/Kg/min
+   Other ICU medications:
+   Midazolam (Versed) - [**3193-4-2**] 11:09 AM
+   Fentanyl - [**3193-4-2**] 11:10 AM
+   Other medications:
+   Changes to medical and family history:
+   PMH, SH, FH and ROS are unchanged from Admission except where noted
+   above and below
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3193-4-2**] 11:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39.9
+C (103.8
+   Tcurrent: 39.9
+C (103.8
+   HR: 70 (70 - 71) bpm
+   BP: 66/37(46) {56/30(30) - 72/37(66)} mmHg
+   RR: 23 (20 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 65 Inch
+             Total In:
+             3,208 mL
+   PO:
+             TF:
+   IVF:
+   2,208 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    180 mL
+   Urine:
+   180 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  3,028 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: VOL/AC
+   Vt (Set): 600 (600 - 600) mL
+   Vt (Spontaneous): 0 (0 - 610) mL
+   PS : 8 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 36 cmH2O
+   Plateau: 12 cmH2O
+   SpO2: 100%
+   ABG: 7.37/42/91//0
+   Ve: 13.9 L/min
+   PaO2 / FiO2: 182
+   Physical Examination
+   General Appearance: Well nourished, No acute distress, Overweight /
+   Obese
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: 2+, Left: 2+
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,
+   Tone: Not assessed
+   Labs / Radiology
+   8.6 g/dL
+   153 K/uL
+   106 mg/dL
+   1.9 mg/dL
+   27 mEq/L
+   3.4 mEq/L
+   55 mg/dL
+   103 mEq/L
+   137 mEq/L
+   26.1 %
+   7.7 K/uL
+        [image002.jpg]
+                             [**3193-3-28**]  11:23 AM
+                             [**3193-3-28**]  04:10 PM
+                             [**3193-3-28**]  10:07 PM
+                             [**3193-3-29**]  02:08 AM
+                             [**3193-3-29**]  06:10 AM
+                             [**3193-3-29**]  10:52 AM
+                             [**3193-3-29**]  02:56 PM
+                             [**3193-3-29**]  10:28 PM
+                             [**3193-3-30**]  04:00 AM
+                             [**3193-4-2**]  11:45 AM
+   WBC
+   6.0
+   7.7
+   Hct
+   25
+   23.5
+   24.2
+   24.4
+   23.6
+   23.7
+   23.2
+   26.1
+   26.1
+   Plt
+   118
+   153
+   Cr
+   2.7
+   2.6
+   1.9
+   TCO2
+   27
+   25
+   Glucose
+   168
+   125
+   120
+   106
+   Other labs: PT / PTT / INR:21.5/38.2/2.0, ALT / AST:[**9-26**], Alk Phos / T
+   Bili:67/1.4, Differential-Neuts:93.0 %, Band:0.0 %, Lymph:4.0 %,
+   Mono:3.0 %, Eos:0.0 %, Lactic Acid:3.4 mmol/L, Albumin:2.9 g/dL,
+   LDH:255 IU/L, Ca++:7.5 mg/dL, Mg++:2.3 mg/dL, PO4:2.9 mg/dL
+   CXR: Right infiltrate.
+   Assessment and Plan
+   64 y/o M with PMHx of Diastolic Heart Failure, OSA/Pulm HTN, Severe
+   COPD on home O2, Afib s/p AV-junction ablation and PCM placement,
+   cirrhosis [**3-15**] EtOH, NASH, and cor pulmonale, who was admitted to the
+   MICU West on [**3-27**] with upper GI bleed from erosive gastritis, now
+   sustained PEA arrest in setting of hypoventilation.
+   #PEA arrest:  Could be [**3-15**] ventilatory collapse.  Also potentially due
+   to sepsis/hypovolemia  from bowel perforation [**3-15**] paracentesis vs PNA.
+   Febrile with increasing WBC count.  Lactate 5.0.   Unlikely to be PE
+   given anticoagulation.
+   - Pan culture
+   - IVF as needed to maintain MAP > 60
+ consider levo if needed
+   - Abd/Chest CT scan to eval for potential source
+   - Abx: Vanc/Meropenem
+   #Hypoventilation/Respiratory arrest: Possible hypoventilation due to
+   OSA or in the setting of sepsis/PNA causing increased respirtory drive
+   to compensate causing fatigue.
+   - AC today
+   - Repeat CXR
+   # GI Bleed: Stable since last ICU admit.  Awaiting colonoscopy, defered
+   at this time.
+   - Follow serial Hcts.
+   - PPI
+   # Cirrhosis: New diagnosis of unclear etiology, but thought due to
+   NASH, ETOH, and heart failure.
+   - Liver following
+   - F/U paracentesis results
+   # ARF: Had been improving, but now worsening after paracentesis raising
+   concerns for HRS.
+   - Renal following
+   - Follow creat.
+   # Diastolic Dysfunction:
+   - Holding BP meds given marginal BPs and hypovolemia, would not be
+   aggressive with diuresis
+   Other issues per resident note.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**3193-4-2**] 10:00 AM (non-sterile): will switch to IJ
+   access later today.
+   22 Gauge - [**3193-4-2**] 10:39 AM
+   Arterial Line - [**3193-4-2**] 11:14 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Comments:
+   Communication:  Comments:
+   Code status: Full code, his wife has been updated regarding events
+   today
+   Disposition :ICU
+   Total time spent: 55 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

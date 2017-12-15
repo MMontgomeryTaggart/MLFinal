@@ -1,0 +1,328 @@
+Admission Date:  [**2617-12-3**]              Discharge Date:   [**2618-1-8**]
+
+Date of Birth:  [**2562-12-16**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2923**]
+Chief Complaint:
+Mr. [**Known patient lastname **] is a 54-year-old gentleman with
+biopsy-proven locally advanced T3N1M1A carcinoma of the mid
+esophagus.   He continues to have intense pain with increased
+PET activity at the superior and inferior aspect of the stent.
+
+Major Surgical or Invasive Procedure:
+thoraco-abdominal esophagectomy, esophagogastroduodenoscopy,
+J-tube revision [**2617-12-3**]
+Port-O-Cath removal [**2618-1-2**]
+EGD w/ pylorus dilitation
+
+
+History of Present Illness:
+54 yr old man cervical esophageal cancer requiring
+Mr. [**Known patient lastname **] is a 54-year-old gentleman with
+biopsy-proven locally advanced T3N1M1A carcinoma of the mid
+esophagus.  He has recently completed chemoradiotherapy on an
+induction protocol. He has had a remarkable reduction in his
+documented nodal disease as well as in the T stage.  He
+continues to have intense pain with increased PET activity at
+the superior and inferior aspect of the stent.
+
+Past Medical History:
+Hepatitis C Virus
+Hypertension
+Prostate Cancer s/p brachytherapy.
+Poorly differentiated squamous esophageal CA (stage III)
+-dx'ed [**2617-6-30**] on multiple biopsies with EGD
+-PET found supraclavicular nodes that appeared positive.
+-s/p esophageal stent
+-planned for surgery in 6 weeks
+Gastric esophogeal reflux disease
+
+
+Social History:
+Previously worked at Digital and Polaroid. Lives with his
+daughter. [**Name (NI) **] ?girlfriend. Used to smoke, quit after cancer
+diagnosis. No EtOH currently, never heavy drinker. No IVDU.
+
+
+Family History:
+both brothers have prostate cancer, one passed away 2 month ago
+from this
+
+
+Physical Exam:
+General: cachetic appearing African American male w/ c/o
+epigastric pain on -chronic sq dilaudid PTA
+chest: lungs CTA bilat. POC
+Cor: RRR S1, S2
+Abd: flat, soft, NT, J-tube in place.
+Extrem: no LE edema.
+Neuro: A+OX3 w/no focal neuro deficits
+
+Pertinent Results:
+[**2617-12-3**] 05:57PM   GLUCOSE-147* UREA N-17 CREAT-0.7 SODIUM-134
+POTASSIUM-5.0 CHLORIDE-100 TOTAL CO2-22 ANION GAP-17
+[**2617-12-3**] 05:57PM   WBC-17.2*# RBC-3.98* HGB-12.0* HCT-34.1*
+MCV-86 MCH-30.1 MCHC-35.2* RDW-14.4
+Hematology
+  COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct
+[**2618-1-7**] 06:25AM    6.5 2.91* 8.2* 25.6* 88 28.2 32.2 14.5
+391
+  BASIC COAGULATION (PT, PTT, PLT, INR) PT PTT Plt Ct INR(PT)
+[**2618-1-7**] 06:25AM        391
+
+Chemistry
+  RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap
+[**2618-1-6**] 11:00AM    144* 11 0.6 139 3.9 104 261 13
+1 NOTE UPDATED REFERENCE RANGE AS OF [**2617-7-25**]
+  ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili
+[**2617-12-7**] 03:09AM    742* 160* 190   108   0.9
+Source: Line-arterial
+  OTHER ENZYMES & BILIRUBINS Lipase
+[**2617-12-6**] 03:33AM    8
+  CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron
+Cholest
+[**2618-1-6**] 11:00AM          8.3* 4.0 1.5*
+HEMATOLOGIC calTIBC Ferritn TRF
+[**2617-12-15**] 06:10AM    160* 859* 123*
+LIPID/CHOLESTEROL Cholest Triglyc
+[**2617-12-15**] 06:10AM    109 851
+1 LDL(CALC) INVALID IF TRIG>400 OR NON-FASTING SAMPLE
+  ANTIBIOTICS Vanco
+[**2618-1-7**] 06:25AM    14.4*
+  LAB USE ONLY GreenHd EDTA Ho
+
+
+ CHEST (PA & LAT)  [**2618-1-6**] 10:23 AM
+UNDERLYING MEDICAL CONDITION:
+54 year old man with esoph ca now s/p thoraco-abd esophagectomy.
+
+REASON FOR THIS EXAMINATION:
+?interval change
+TWO VIEW CHEST X-RAY [**2618-1-6**]:
+COMPARISON: Deceember 11, [**2617**].
+INDICATION: Status post esophagectomy.
+IMPRESSION: Stable postoperative appearance of mediastinum.
+Improving multifocal pulmonary opacities.
+BAS/UGI AIR/SBFT
+Reason: please evaluate follow-through of barium from
+oral-pharynx t
+COMPARISON: Upper GI study of [**2617-8-11**].
+LIMITED SINGLE CONTRAST UPPER GI STUDY: Contrast passes freely
+down the remaining esophagus and gastric pull-up. Trace
+aspiration was noted. Adjacent to the site of the drain, there
+is appears to be a focal area of contrast extravasation. There
+is delayed and slow emptying of contrast from the stomach.
+Barium was administered through the J- tube which demonstrated
+filling of the jejunal loops. The patient vomited approximately
+150 cc of barium and the study was terminated due to patient
+intolerance.
+IMPRESSION:
+1. Mild aspiration.
+2. Focal contrast extravasation at the site of the leftsided
+drain.
+The study and the report were reviewed by the staff radiologist.
+
+RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**2618-1-7**] 2:47 PM
+Reason: Please obtain UPRIGHT CXR to assess for pneumothorax
+UNDERLYING MEDICAL CONDITION:
+54 year old man with esoph ca now s/p thoraco-abd esophagectomy
+now s/p EGD w/ balloon dilation of stricture
+REASON FOR THIS EXAMINATION:
+Please obtain UPRIGHT CXR to assess for pneumothorax
+PORTABLE CHEST, [**2618-1-7**]
+COMPARISON: [**2618-1-6**].
+INDICATION: Status post EGD procedure. Evaluate for
+pneumothorax.
+There is no evidence of pneumothorax or pneumomediastinum.
+Postoperative changes are noted in the mediastinum following
+esophagectomy and pull-up procedure. There remains asymmetrical
+perihilar haziness on the right as well as a moderate-sized
+right pleural effusion. Minor atelectatic changes are seen
+within the left lung base, also without interval change.
+IMPRESSION: No evidence of pneumothorax or pneumomediastinum.
+
+CXRY - protable [**2618-1-8**]
+s/p PICC line placement
+Placement of PICC line tip in distal SVC. Confirmed by
+visualization of film by NP and IVRN.
+
+MICROBIOLOGY DATA
+[**2618-1-4**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY
+CULTURE-PRELIMINARY {STAPH AUREUS COAG +} INPATIENT
+[**2618-1-4**] URINE URINE CULTURE-FINAL INPATIENT
+[**2618-1-4**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING INPATIENT
+[**2618-1-4**] BLOOD CULTURE AEROBIC BOTTLE-PENDING; ANAEROBIC
+BOTTLE-PENDING INPATIENT
+[**2618-1-2**] CATHETER TIP-IV WOUND CULTURE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE, STAPHYLOCOCCUS, COAGULASE NEGATIVE}
+INPATIENT
+[**2618-1-1**] BLOOD CULTURE AEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE}; ANAEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE} INPATIENT
+[**2618-1-1**] BLOOD CULTURE AEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE}; ANAEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE} INPATIENT
+[**2618-1-1**] BLOOD CULTURE AEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE}; ANAEROBIC BOTTLE-FINAL {STAPHYLOCOCCUS,
+COAGULASE NEGATIVE} INPATIENT
+[**2618-1-1**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL
+INPATIENT
+
+LIMITED SINGLE CONTRAST UPPER GI STUDY: Contrast passes freely
+down the remaining esophagus and gastric pull-up. Trace
+aspiration was noted. Adjacent to the site of the drain, there
+is appears to be a focal area of contrast extravasation. There
+is delayed and slow emptying of contrast from the stomach.
+Barium was administered through the J- tube which demonstrated
+filling of the jejunal loops. The patient vomited approximately
+150 cc of barium and the study was terminated due to patient
+intolerance.
+
+IMPRESSION:
+1. Mild aspiration.
+2. Focal contrast extravasation at the site of the leftsided
+drain.
+The study and the report were reviewed by the staff radiologist.
+
+Weight [**2618-1-8**] 51.5kg
+
+
+Brief Hospital Course:
+54-year-old gentleman with biopsy-proven locally advanced
+T3N1M1A carcinoma of the mid-esophagus
+esophagoscopy,bronchoscopy, transthoracic near total
+esophagectomy with rightthoracotomy, laparotomy and left
+cervicotomy, left cervical esophagogastrostomy and left tube
+thoracostomy. Patient tolerated procedure well. Transferred to
+ICU for observation, intubated, sedated, neo gtt, IVF, NPO, CT
+to sx- no leak,. Pain control w/ fentanyl gtt iv due to
+non-effective epidural. ICU course significant for:
+POD#2 pt was extubated and new epidural placed, w/ dilaudid
+PCA,+ BS, + flatus; IVF, NPO.Abd JP drains intact and draining.
+Inc- C/D/I.
+POD#3- tube feedings started- probalance at 10/hr. O2 wean trial
+- 90% on 4Lnc.
+POD#5-Tube feedings held for residual >200cc overnight, IVF. CT
+to waterseal; ambulation- physical therapy, lytes repleated.
+Patient transferred out of ICU to floor. Pain control w/ PCA,
+epidural d/c.
+On Floor:
+REsp- pod#6 O2 sat 94% on RA, improving to 98-99% RA pod#33 at
+time of discharge. CT d/c pod#7 w/o complication. Periodic
+CXRY-wnl, w/ some atelectasis improving over hospital course.
+GI- POD#6-+ flatus, + BM; j-tube accidently d/c'd and replaced
+w/o complication.  Tube feeding resumed @30-40cc/hr w/ c/o
+nausea, therefore held. Patient developed prolonged ileus
+(bloating, nausea, distention) w/ multiple unsuccessful tube
+feeding restarts until [**2617-12-28**]-(pod#24). J-tube placed to
+gravity during this time. TPN started as below. Tube feedings
+tolerated w/ slow advancement to max rate of 50/hr w/ goal as
+stated. Patient has persistant c/o nausea and therefore
+[**2618-1-7**]- EGD w/ pyloric dilitation. Pylorus patent on
+visualization, dilitation done to affirm continued patency. Diet
+advanced to clear, then full liquids post-op, then to mechanical
+soft [**2618-1-8**]. See below and page 1 for specific tube
+feeding/nutrition instructions.
+
+Nutrition/ electrolytes-IVF w/ electrolyte replacement until TPN
+started pod#21- [**2617-12-15**] and cont until [**2617-12-29**] when tube
+feedings at 2/3 goal rate on pod#25([**2617-12-31**]). Lytes routinely
+monitored and repleated. Diet advanced to clear, then full
+liquids post-op, then to mechanical soft [**2618-1-8**]. See below and
+page 1 for specific tube feeding/nutrition instructions. Weight
+[**2618-1-8**] 51.5kg
+
+RAD- UGI- SBFT pod#8- + ileus.
+
+Incisions and Drains- Chest tube d/c pod# 7; JP drain d/c pod#8;
+Incisions - thorocotomy, abdominal and cervical all healed,
+staples removed, steri-strips off. Port-o-cath removal site-
+left upper chest- C/D/I, change dsd qd. Sutures remain, to be
+assessed and removed at follow-up appointment [**2618-1-15**].
+
+Infectious Disease- Course of zosyn(prophylaxis) and fluconazole
+(?esophogeal candidiasis). POD#27([**2618-1-1**]) patient developed
+fever to 102, elevated WBC- cx results- [**4-28**] + BC, staph- MRSA,
+Vancomycin started and cont per therapeutic levels for 14 day
+course, levofloxacin- 10 day course. Source- infected port site-
+removed in OR [**2618-1-2**]. Peripheral line placed. PICC line placed
+[**2618-1-8**], confirmed placement in distal SVC by  CXRAY [**2618-1-8**].
+Pain control- Transitioned to percocet elixer and MSO4iv prn
+pod#6. Slowly weaned to off over next 3-4 weeks.Pain med
+restarted post-op [**2618-1-2**] for port removal. At discharge pt
+receiving minimal pain med on prn basis.
+Activity-Physical therapy, ambulation with encouragement. Pt
+gradually independent w/ ambulation with encouragement.
+Consistant encouragement w/ activity necessary.
+
+
+Medications on Admission:
+MS contin, Roxanol, magic mouthwash
+
+Discharge Medications:
+1. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID
+(4 times a day) as needed.
+2. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours) as needed.
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+4. Fentanyl 25 mcg/hr Patch 72HR Sig: One (1) Patch 72HR
+Transdermal Q72H (every 72 hours).
+5. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily):
+give via j-tube.
+6. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) gm
+Intravenous  Q 12H (Every 12 Hours) for 11 days.
+7. Prochlorperazine Edisylate 5 mg/mL Solution Sig: One (1)
+Injection Q6H (every 6 hours) as needed for nausea.
+8. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal
+DAILY (Daily) as needed.
+9. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice
+a day: give via j-Tube.
+10. Hydromorphone 2 mg/mL Syringe Sig: 0.5 mg Injection Q6H
+(every 6 hours) as needed for Breakthrough pain.
+11. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day
+for 4 days.
+12. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**First Name4 (NamePattern1) 3454**] [**Last Name (NamePattern1) **] Rehabilitation & Nursing Center - [**Location (un) 532**]
+
+Discharge Diagnosis:
+esophageal CA
+prolonged post op ileus
+POC bacteremia resulting in removal
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please call Dr.[**Name (NI) **] office at ([**Telephone/Fax (1) 1486**] if you have
+fever, nausea/vomiting, inability to take in your feeds, or
+dizziness/weakness, aor any other post surgical issues.
+
+
+Followup Instructions:
+Follow up appointment with Dr. [**Last Name (STitle) **] in Thoracic Surgery Clinic
+[**2618-1-15**] at 3pm. [**Hospital1 18**], [**Hospital Ward Name 23**] Clinical Center, [**Location (un) 8830**]. Please call [**Telephone/Fax (1) 168**] for any questions.
+
+
+
+Completed by:[**2618-1-8**]
+
+
+DOC CLASS

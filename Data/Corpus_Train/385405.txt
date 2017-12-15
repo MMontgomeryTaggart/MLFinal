@@ -1,0 +1,195 @@
+Chief Complaint:
+   24 Hour Events:
+   - Had low SBP in the 70's, mostly when sleeping. Responsive to 250cc
+   fluid bolus.
+   - No episodes of vtach.
+   Allergies:
+   Penicillins
+   Unknown;
+   Last dose of Antibiotics:
+   Vancomycin - [**2556-3-14**] 11:56 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2556-3-14**] 10:15 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2556-3-15**] 06:54 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.7
+   Tcurrent: 36.7
+C (98.1
+   HR: 82 (75 - 88) bpm
+   BP: 82/56(62) {75/53(59) - 102/79(84)} mmHg
+   RR: 28 (19 - 29) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,842 mL
+                                                                     69 mL
+   PO:
+                                                                    820 mL
+             TF:
+   IVF:
+                                                                  1,022 mL
+                                                                     69 mL
+   Blood products:
+   Total out:
+                                                                    731 mL
+                                                                    330 mL
+   Urine:
+                                                                    731 mL
+                                                                    330 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,111 mL
+                                                                   -261 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///24/
+   Physical Examination
+   GEN: Alert elderly male, no respiratory distress.
+   HEENT: PERRL, EOMI, oral mucosa dry with thick secretions
+   NECK: Prominent carotid pulsations, JVD appears to be at ~ 8 cm, no
+   adenopathy.  Bilat carotid bruits.
+   PULM: Diminished throughout with further decrease at bases, rare wheeze
+   and basilar crackles.
+   CARD: diminished heart sounds, no murmurs appreciated.
+   ABD: + BS, soft, NT, mildly distended and tympanitic throughout.
+   Extrem/Skin: Warm.  2+ pitting edema of dependent extremities, multiple
+   dry gangrene lesions with dark eschar. Most concerning is left lateral
+   lower extremity, which has area of erythema surrounding; however, no
+   exudates
+   NEURO: Oriented to hospital, year and month, but not to specific date
+   Labs / Radiology
+   379 K/uL
+   10.3 g/dL
+   113 mg/dL
+   1.2 mg/dL
+   24 mEq/L
+   3.7 mEq/L
+   16 mg/dL
+   106 mEq/L
+   137 mEq/L
+   30.9 %
+   17.8 K/uL
+        [image002.jpg]
+                             [**2556-3-13**]  03:42 PM
+                             [**2556-3-13**]  07:37 PM
+                             [**2556-3-14**]  03:32 AM
+                             [**2556-3-15**]  04:04 AM
+   WBC
+   19.1
+   17.8
+   Hct
+   31.3
+   30.9
+   Plt
+   347
+   379
+   Cr
+   1.3
+   1.2
+   TropT
+   0.09
+   0.10
+   TCO2
+   27
+   Glucose
+   89
+   113
+   Other labs: PT / PTT / INR:15.2/35.9/1.3, CK / CKMB /
+   Troponin-T:75/3/0.10, Differential-Neuts:73.0 %, Band:2.0 %, Lymph:3.0
+   %, Mono:18.0 %, Eos:1.0 %, Lactic Acid:0.8 mmol/L, Ca++:7.9 mg/dL,
+   Mg++:2.1 mg/dL, PO4:3.0 mg/dL
+   Assessment and Plan
+   A/P: 84M with history of PVD s/p recent axillobifemoral grafting with
+   course c/b wide complex tachycardia; now admit to MICU after getting
+   multiple nodal agents for ?SVT at rehab; however, rhythm appears to be
+   ventricular tachycardia.
+   # Hypotension:
+   Possible causes include sepsis / vasodilatory (given leukocytosis and
+   questionable appearance of gangrenous ulcers), cardiogenic (ACS or poor
+   forward flow from CHF; less likely pericardial effusion), most likely
+   med related (multiple nodal/negative inotropic agents for tachycardia).
+   Lactate not elevated.
+   - Hypotension responded to 250 cc fluid bolus x 1 overnight
+   - Continue to monitor in ICU with possible call-out to cardiology
+   service later today if blood pressures stabilize
+   - D/c vanco as treated for 48 hours with continued negative culture
+   data; Afebrile
+   - Cardiac enzymes
+ trop 0.09->0.10
+   - Hold ACEI and alpha block, continue low dose beta block given
+   arrhythmia.
+   - Attempt diuresis later today if BP stabilizes.
+   # Ventricular tachycardia:
+   Wide complex tachycardia but ECG appearance is Vtach.  Discussed with
+   cards at arrival to MICU. Reason for recurrence of VT unclear - new
+   ischemia, stretch from volume overload, and further disruption of pacer
+   leads leading to more irritation of ventricle. Patient with episode of
+   asymptomatic ventricular tachycardia on night of admission that
+   spontaneously aborted. Patient also received amiodarone 150 mg IV at
+   time of ventricular tachycardic episode. No repeat episodes of v tach
+   since admission.
+   - Replete mag and potassium aggressively.
+   - Appreciate cardiology input- per cards, additional 150 mg IV
+   amiodarone as well as maintenance oral amiodarone dose increase to 400
+   mg twice daily
+   - Needs eventual pacer/ICD lead replacement if appropriate candidate.
+   - Will recheck TTE to eval for any change in the pacer/ICD leads or
+   significant change in function to explain recurrent VT.
+   # Hypoxia:
+   On NRB in ED but easily transitioned to NC in ICU.  Likely volume
+   overload related.  Also with history of COPD though not particularly
+   wheezy on exam. Sating 99-100% RA
+   - Diuresis when able.
+   .
+   # Congestive heart failure, systolic dysfunction, acute on chronic:
+   Elevated BNP and pulmonary edema on CXR.
+   - Continue beta blocker, hold ACEI for now with hypotension.
+   - hold PO lasix, will attempt to diurese once hemodynamic issues
+   resolve.
+   .
+   # Leukocytosis.
+   Patient has no normal recorded WBC count in recent history. Infection
+   vs. hematopatholgy.
+   - Will d/c vanco as Afebrile, cultures negative
+   - Consider outpatient hematology workup for ?myelodysplasia.
+   # PVD with recent revascularization.  ? R chest hematoma however crit
+   stable.
+   - Vascular following.
+   - Lower extremity wound care per vascular
+   # Sacral decubitus.
+   - Wound care consult; may need plastics intervention as well.
+   # CAD
+   - ASA, statin, BB
+   # CKD.  Consistent with recent baseline.  Will follow.
+   ICU Care
+   Nutrition: Regular; Low sodium / Heart healthy Consistency: Pureed
+   (dysphagia); Thin liquids Supplement: Ensure breakfast, lunch, dinner
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2556-3-13**] 06:01 PM
+   22 Gauge - [**2556-3-13**] 07:39 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

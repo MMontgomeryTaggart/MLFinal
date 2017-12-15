@@ -1,0 +1,235 @@
+Chief Complaint:
+   24 Hour Events:
+ PICC LINE - START [**2668-11-25**] 04:59 PM
+ STOOL CULTURE - At [**2668-11-26**] 02:08 AM
+   stool sent for CDiff
+   - ET tube pulled back 2cm, OG tube pulled
+   - Switched Keppra 1500mg [**Hospital1 **] to start in AM
+   - PICC line placed
+   - Femoral line to be pulled
+   - Has very loose stool, flex-seal placed for skin protection and c.
+   diff sent
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2668-11-25**] 02:00 AM
+   Vancomycin - [**2668-11-25**] 08:00 PM
+   Infusions:
+   Fentanyl - 25 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Lansoprazole (Prevacid) - [**2668-11-25**] 08:01 AM
+   Heparin Sodium (Prophylaxis) - [**2668-11-26**] 12:00 AM
+   Dilantin - [**2668-11-26**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2668-11-26**] 06:32 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.6
+C (97.8
+   HR: 84 (69 - 86) bpm
+   BP: 96/59(68) {84/44(57) - 121/70(84)} mmHg
+   RR: 18 (17 - 25) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.7 kg (admission): 81 kg
+             Total In:
+                                                                  7,040 mL
+                                                                    654 mL
+   PO:
+             TF:
+                                                                  1,481 mL
+                                                                    489 mL
+   IVF:
+                                                                  5,089 mL
+                                                                    165 mL
+   Blood products:
+   Total out:
+                                                                    679 mL
+                                                                    718 mL
+   Urine:
+                                                                    679 mL
+                                                                    318 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  6,361 mL
+                                                                    -64 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 18
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 88
+   PIP: 28 cmH2O
+   Plateau: 19 cmH2O
+   SpO2: 100%
+   ABG: ///30/
+   Ve: 8.6 L/min
+   Physical Examination
+   General: intubated and sedated, does not follow commands
+   HEENT: Sclera anicteric, pupils pinpoint, ETT in place, disconjugate
+   gaze
+   Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi
+   CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly; PEG tube in place
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   Labs / Radiology
+   74 K/uL
+   8.8 g/dL
+   215 mg/dL
+   0.9 mg/dL
+   30 mEq/L
+   3.6 mEq/L
+   18 mg/dL
+   113 mEq/L
+   147 mEq/L
+   26.2 %
+   2.5 K/uL
+        [image002.jpg]
+                             [**2668-11-24**]  08:53 PM
+                             [**2668-11-24**]  09:05 PM
+                             [**2668-11-25**]  01:51 AM
+                             [**2668-11-25**]  05:22 AM
+                             [**2668-11-25**]  05:06 PM
+                             [**2668-11-26**]  01:16 AM
+   WBC
+   2.3
+   2.4
+   2.5
+   Hct
+   25.4
+   26.0
+   26.2
+   Plt
+   69
+   76
+   74
+   Cr
+   1.1
+   0.9
+   0.9
+   TCO2
+   31
+   34
+   Glucose
+   173
+   113
+   215
+   Other labs: PT / PTT / INR:15.7/30.3/1.4, ALT / AST:18/20, Alk Phos / T
+   Bili:110/0.2, Differential-Neuts:74.6 %, Lymph:17.2 %, Mono:4.7 %,
+   Eos:2.9 %, Lactic Acid:2.7 mmol/L, Ca++:8.0 mg/dL, Mg++:2.0 mg/dL,
+   PO4:1.8 mg/dL
+   Assessment and Plan
+   This is a 64 M w/ pmh of cirrhosis from NASH, seizure disorder,
+   increasing debilitation presents from a nursing home with lethargy,
+   admitted to medicine and treated for PNA, now s/p an episode of
+   tonic-clonic seizures and intubation for airway protection.
+   .
+   # Status epilpeticus: Has a 3-year history of intermittent seizures w/o
+   obvious cause.  Was on topamax and Zonisamide on admission and keppra
+   was just being added today.  Head CT on admission unchanged from prior.
+   - appreciate neuro recs
+   - will change doses based on neuro recs to eventually taper dilantin
+   off.  Continue Keppra at 1500mg [**Hospital1 **] day [**12-21**], then increase to 2250mg
+   [**Hospital1 **] tomorrow for 2 days.  When increase to that dose of keppra will
+   increase topamax to 200mg [**Hospital1 **].  During that time we will decrease
+   dilantin.  Also, depending on level of sedation, patient may require
+   additional antiseizure meds, and will contact neuro regarding this
+   issue.
+   .
+   # Respiratory failure: Witnessed apnea in the setting of continued
+   siezures so was intubated for both airway protection and ventilation
+   (O2 sats always okay).  Also being treated for a health-care acquired
+   PNA.  Blood cx from admission w/ NGTD.
+   - Will discontinue antibiotics as no clear source for infection
+   - f/u sputum cx
+   - will attempt to change to PS
+   - Will consider diuresis to improve ventilation, but will check urine
+   lytes first, may be limited by blood pressures
+   .
+   # Stage IV sacral decubitous ulcer: XR of sacral area did not suggest
+   osteomyelitis.
+   - continue current would care with packing daily
+   .
+   # Chronic diastolic heart failure: Most recent echo in [**Month (only) 94**].  Mild
+   LVH.  Appears mildly dry by exam/cr/lytes so will bolus IVF and follow
+   urine output.
+   - hold metoprolol for now as pressures have been lower (SBP 100s
+   post-intubation)
+   - will attempt to diurese today to get the patient even
+   .
+   # HTN: Blood pressures well-controlled while in-house on metop 12.5
+   [**Hospital1 **].
+   - hold blood pressure meds for now as above.
+   .
+   # CAD: stress MIBI in [**2-23**] w/ Fixed, medium sized, severe perfusion
+   defect involving the PDA territory.  Increased left ventricular cavity
+   size. Inferior hypokinesis with preserved systolic function.  No recent
+   h/o chest pain.  Most recent echo with improved EF.
+   - follow clinically, no recent lipids, not on ASA, statin
+   .
+   # DM2: BS more elevated over the last day in the 200s.
+   - continue current regimen of lantus and humalog and titrate up prn
+   .
+   # Cirrhosis: [**12-21**] NASH, LFTs/bili/coags have not been elevated.
+   Abdominal U/S of liver w/ normal TIPS evaluation with wall-to-wall
+   flow. No ascites identified.
+   - check an ammonia level given presentation w/ altered mental status
+   - lactulose, rifaxamin-suspect this is contributing to loose stool
+   .
+   # Pancytopenia:  Chronic issue, likely BM suppression or secondary to
+   seizure medications.
+   - trend for now
+   - guaiac stools
+   .
+   # Hypothyroid: levothyroxine
+   .
+   # FEN: IVF as above, replete electrolytes prn, Tube feeds via PEG
+   (failed s/s eval while here)
+   .
+   # Prophylaxis: Subcutaneous heparin
+   .
+   # Access: PICC placed, will need fem line removed
+   .
+   # Code: Full (confirmed w/ family)
+   .
+   # Communication: Patient
+ IMPAIRED SKIN INTEGRITY
+ RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name **])
+ SEIZURE, WITHOUT STATUS EPILEPTICUS
+ HYPOTENSION (NOT SHOCK)
+ OLIGURIA/ANURIA
+   ICU Care
+   Nutrition:
+   Fibersource HN (Full) - [**2668-11-26**] 03:27 AM 75 mL/hour
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2668-11-24**] 08:00 PM
+   18 Gauge - [**2668-11-24**] 08:00 PM
+   PICC Line - [**2668-11-25**] 04:59 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

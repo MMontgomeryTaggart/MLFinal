@@ -1,0 +1,326 @@
+Chief Complaint:  Hypoxia, resp distress
+   HPI:
+   59 y/o F with h/o mental retardation, recent dx of Nodular sclerosing
+   Hodgkins Lymphoma s/p chemo, difficult to control paroxysmal a.fib w/
+   RVR, ileus, pericardial effusion requiring pericardial window and
+   pleural effusions.  Pt recently started ICE on [**2897-8-2**]. This regimen
+   can cause transient neurotoxicity. The patient was noted to have some
+   altered mental status thought to be consistent with neurotoxicity. She
+   also complained of nausea and had non-bloody emesis with breakfast. The
+   patient's caretaker who was in the room with the patient all morning
+   reports that the patient was coughing during breakfast prior to her
+   episode of emesis. After vomiting her coughing stopped. The patient was
+   found on routine vitals to have cold hands and oxygen saturation in the
+   low 80's%, not improved with 3L NC. She improved to 92% on a NRB. EKG
+   during the event revealed pseudonormalization
+   .
+   On arrival to the ICU, pt was in acute respiratory distress with sats
+   in 70s.  Sats came up to low 90s on the NRB but pt continued to have
+   increased work of breathing, not moving air well bilaterally.  Decision
+   was made to intubate for resp distress. ETT was placed successfully, no
+   issues with hypotension.  Nursing noted significant diarrhea post
+   intubation.
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**2897-8-6**] 04:00 PM
+   Infusions:
+   Fentanyl - 30 mcg/hour
+   Midazolam (Versed) - 2 mg/hour
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2897-8-6**] 04:00 PM
+   Furosemide (Lasix) - [**2897-8-6**] 06:00 PM
+   Other medications:
+   - Metoprolol Tartrate 75 mg PO Q 8H
+   - Acetaminophen 650 mg PO Q6H:PRN
+   - Miconazole Powder 2% 1 Appl TP QID:PRN
+   - Acyclovir 400 mg PO Q8H
+   - Nystatin Oral Suspension 5 mL PO QID
+   - Allopurinol 300 mg PO DAILY
+   - Ondansetron 4 mg IV ONCE
+   - Amiodarone 200 mg PO BID
+   - Diltiazem 30 mg PO QID
+   - Polyethylene Glycol 17 g PO DAILY:PRN constipation
+   - Furosemide 10 mg IV ONCE
+   - Senna 2 TAB PO BID:PRN
+   - Simethicone 40-80 mg PO QID:PRN
+   - Heparin 5000 UNIT SC BID
+   - Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY
+   - Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (MO,WE,FR)
+   - Levofloxacin 500 mg PO Q24H
+   - Vancomycin Oral Liquid 250 mg PO Q6H
+   .
+   Past medical history:
+   Family history:
+   Social History:
+   - Hodgkins lymphoma, s/p EACoPP protocol on [**2897-5-14**] with cytoxan,
+   doxorubacin on day 1 and etoposide on days [**12-6**]. Started ICE on
+   [**2897-8-2**].
+   - Complication of pericardial tamponade s/p pericardiocentesis on
+   [**2897-4-17**] and pericardial window on [**2897-5-18**].
+   - Paroxysmal a-fib with rate up to 160 and associated relative
+   hypotension, no anticoagulation 2/2 blood pericardial effusion.
+   - Mental retardation of unknown etiology.
+   - H/o ileus requiring occasional rectal tube
+   - Status post volvulus and sigmoid resection.
+   - DJD
+   - Bilateral knock knees (talus valgus, pes planus).
+   - Neurodermatitis.
+   - Psoriasis.
+   - History of obesity.
+   - Status post left oophorectomy.
+   - Microcytic, iron deficiency anemia, recently started on iron
+   - GERD
+   - S/p left nephrectomy
+   Father with prostate and colon CA as well as CAD. Maternal aunt with
+   ovarian and breast CA.
+   Occupation: lives in long term facility
+   Drugs: none
+   Tobacco: none
+   Alcohol:  none
+   Other:
+   Flowsheet Data as of [**2897-8-6**] 07:40 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 68 (68 - 91) bpm
+   BP: 115/52(71) {106/51(66) - 172/85(117)} mmHg
+   RR: 18 (14 - 24) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             191 mL
+   PO:
+             TF:
+   IVF:
+   131 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  1,495 mL
+   Urine:
+   1,495 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,304 mL
+   Respiratory
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST
+   Vt (Set): 550 (550 - 550) mL
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 23 cmH2O
+   Plateau: 19 cmH2O
+   SpO2: 100%
+   ABG: 7.41/32/146/20/-2
+   Ve: 9.5 L/min
+   PaO2 / FiO2: 365
+   Physical Examination
+   Initial VS on arrival to ICU: T 98.5 BP 115/60 HR 91 RR 24 Sats 93% on
+   NRB
+   Now intubated on AC 500 RR 18 PEEP 5 FiO2 50%
+   Gen: NAD, intubated, sedated
+   HEENT: ETT tube in place
+   CV: RRR no m/r/g
+   Pulm: [**Month (only) 36**] BS at RLL base, some rhonchi, moving air well both lung
+   [**Last Name (un) 4502**], no appreciable wheezes
+   Abd: active BS, mildly distended, soft.
+   Ext: [**12-5**]+ pitting edema, + DP/PT bilaterally
+   Neuro: intubated, sedated (pt does not follow commands at baseline)
+   Labs / Radiology
+   393 K/uL
+   8.3 g/dL
+   114 mg/dL
+   0.5 mg/dL
+   10 mg/dL
+   20 mEq/L
+   118 mEq/L
+   3.8 mEq/L
+   144 mEq/L
+   25.3 %
+   10.6 K/uL
+        [image002.jpg]
+                                  [**2894-12-6**]
+                          2:33 A9/2/[**2896**]  02:05 PM
+                                  [**2894-12-10**]
+                          10:20 P9/2/[**2896**]  02:52 PM
+                                  [**2894-12-11**]
+                          1:20 P9/2/[**2896**]  05:30 PM
+                                  [**2894-12-12**]
+                                   11:50 P
+                                  [**2894-12-13**]
+                                   1:20 A
+                                  [**2894-12-14**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2895-1-6**]
+                                   1:20 P
+                                  [**2895-1-6**]
+                                   11:20 P
+                                  [**2895-1-6**]
+                                   4:20 P
+   WBC
+                                    10.6
+   Hct
+                                    25.3
+   Plt
+                                     393
+   Cr
+                                     0.5
+   TropT
+                                    <0.01
+   TC02
+                                     22
+                                     21
+   Glucose
+                                     114
+   Other labs: CK / CKMB / Troponin-T:[**10-7**]/<0.01, Lactic Acid:1.1 mmol/L,
+   Ca++:8.7 mg/dL, Mg++:1.8 mg/dL, PO4:2.7 mg/dL
+   Fluid analysis / Other labs: 143  117  9  BS 115   AGap=6
+   ------------
+   3.0  23  0.4
+   .
+   Ca: 8.3 Mg: 1.9 P: 2.4
+   .
+   ALT: 11 AP: 70 Tbili: 0.3 AST: 15 LDH: 136
+   .
+   WBC 7.5  Hgb 8.0 HCt 24.3 Plts 346
+   .
+   N:94.2 L:2.2 M:2.9 E:0.6 Bas:0.1
+   .
+   Gran-Ct: 7090
+   .
+   BNP pending
+   .
+   ABG post intubation 7.27/46/93
+   .
+   Imaging: CXR: from am [**2897-8-6**] stable bilateral pleural effusions and CXR
+   obtained at 11:45am prior to intubation showed complete opacification
+   of Right lung (confirmed upright film).  Now CXR s/p intubation shows
+   improved aeration of Right lung with large bilateral effusions
+   .
+   CT Chest [**2897-7-30**]: IMPRESSION:
+   1. Slight interval improvement in anterior mediastinal mass and
+   bilateral axillary lymphadenopathy consistent with slight interval
+   improvement of disease.
+   2. Diffusely distended and featureless rectum to transverse colon with
+   fluid and slight wall thickening consistent with colitis. Clinical
+   correlation is advised.
+   3. Improvement in left upper lobe centrilobular consolidation
+   suggestive of interval improvement in infectious process.
+   4. Unchanged right moderate pleural effusion with associated right
+   lower lobe atelectasis.
+   5. Cholelithiasis without evidence of cholecystitis.
+   .
+   ECHO [**2897-7-15**]: Conclusions
+   Overall left ventricular systolic function is normal (LVEF>55%). Right
+   ventricular chamber size and free wall motion are normal. The mitral
+   valve appears structurally normal with trivial mitral regurgitation.
+   The pulmonary artery systolic pressure could not be determined. There
+   is a small pericardial effusion. The effusion is echo dense, consistent
+   with blood, inflammation or other cellular elements. There are no
+   echocardiographic signs of tamponade.
+   IMPRESSION: Small pericardial effusion located around right atrium and
+   ventricle without evidence of tamponade.
+   .
+   ECG: EKG: NSR with rate in 70s, pseudonormalization of TWaves as
+   compared to prior tracings, stable inferolateral q waves seen in
+   I/II/III/AVF
+   Assessment and Plan
+   59 y/o F with h/o mental retardation, recent dx of Nodular sclerosing
+   Hodgkins Lymphoma s/p chemo on [**2897-8-2**] presented with acute respiratory
+   distress likely due to aspiration & mucus plugging now intubated.
+   .
+   # Hypoxia: Likely due to aspiration & mucus plugging in the setting of
+   depressed mental status, coughing and emesis. A component of volume
+   overload cannot be excluded given her I/O positive >7 liters over the
+   past several days. A primary lung reaction to her chemo is much less
+   likely. Other possibilities including a primary cardiac event or PE are
+   less likely with a relatively unchanged EKG and no tachycardia.  Given
+   rapid improvement of CXR after intubation, suspect that right lung
+   white out was due to mucus plugging. ABG post intubation showed
+   signficant acidosis with pH of 7.27.
+   - increase RR & recheck ABG
+   - advance ETT & recheck placement
+   - no need for Abx currently
+   - f/u sputum Cx & low threshold to start ABx if spikes temp
+   - wean sedation, SBT & RSBI in am
+   - continue regular suction & albuterol MDI
+   - diuresis goal neg 1-2L
+   - consider thoracentesis for diagnosis & therapeutic
+   - recheck EKG (given pseudonormalization on tracing from am)
+   - cycle CE to ROMI
+   # Hodgkins Lymphoma: Pt is s/p EACoPP protocol on [**2897-5-14**] with
+   cytoxan, doxorubacin on day 1 and etoposide on days [**12-6**]. Pt has also
+   had pericardial tamponade s/p pericardiocentesis on [**2897-4-17**] and
+   pericardial window on [**2896-5-17**]. Pt initiated ICE chemo reg on [**2897-8-2**].
+   This acute hypoxia more likely due to aspiration & mucus plug, unlikely
+   due to chemo toxicity.
+   - continue Acyclovir & Bactrim ppx
+   - f/u Onc recs
+   - transfuse to maintain hct>25
+   .
+   # H/o megacolon/Diarrhea: Pt is s/p volvulous & sigmoid resection with
+   large dilated loops of colon visible on portable films.  She has
+   required intermittent rectal tubes, currently having alot of stool
+   output with recent C. Diff toxin + [**2897-6-1**] & [**2897-6-25**].
+   - will keep NPO for now (possible extubation in am)
+   - continue po vanco & IV flagyl
+   - place rectal tube now
+   - OG tube to intermittent suction
+   - f/u C diff toxin
+   - repeat imaging in am
+   .
+   # Paroxysmal A-fib: Recent adm to ICU due to poor rate control (rates
+   of 160 with relative hypotension). Rates have been better controlled on
+   current regimen of Metoprolol, Amiodarone & Diltiazem.  No plan for
+   anticoagulation due to bloody pericardial effusion.  Currently in NSR
+   with rate in 60s.
+   - continue Metoprolol & diltiazem & amiodarone
+   - f/u repeat EKG
+   .
+   # UA: Pt had positive UA on [**8-4**], Urine Cx + fungus 4000-6000 CFUs.
+   Received fluconazole 400mg x 1
+   - change out foley now
+   - resend UA & Urine Cx
+   - hold off on Fluconazole for now
+   .
+   # F/E/N: IVF prn, NPO for now, OG tube to intermittent suction
+   - replete lytes agressively
+   .
+   # PPX: heparin SQ, PPI
+   .
+   # CODE: Intubate/DNR
+   .
+   # ACCESS: L PICC, working on PIV
+   .
+   # CONTACT: HCP - brother [**Name (NI) 3018**] [**Telephone/Fax (1) 3019**] (mobile) and [**Telephone/Fax (1) 3020**]
+   (home); brother also gave permission to speak with his wife [**Name (NI) **]
+   ICU Care
+   Nutrition: NPO for now
+   Lines:
+   PICC Line - [**2897-8-6**] 01:18 PM
+   Arterial Line - [**2897-8-6**] 02:00 PM
+   Prophylaxis:
+   DVT: Heparin sc TID
+   Stress ulcer:  PPI
+   Comments: contact with HCP [**Name (NI) 3018**] [**Name (NI) 3015**]
+   Communication:  Comments:
+   Code status: DNR (do not resuscitate) but Intubatable
+   Disposition: ICU
+
+
+
+DOC CLASS

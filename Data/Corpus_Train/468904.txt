@@ -1,0 +1,226 @@
+Chief Complaint: 71-year-old female with a history of diabetes mellitus
+   type II, hypertension, is transfered from outside hospital s/p cardiac
+   arrest.
+   24 Hour Events:
+   - R IJ TLC placed
+   - started vanc, cefepime, flagyl
+   - 2L IVF bolus for low BP - responded
+   - temperature to 100.8 - blood cultures sent
+   Allergies:
+   Codeine
+   Unknown;
+   Last dose of Antibiotics:
+   Cefipime - [**3441-2-10**] 01:28 PM
+   Ceftriaxone - [**3441-2-10**] 03:52 PM
+   Metronidazole - [**3441-2-10**] 05:00 PM
+   Vancomycin - [**3441-2-10**] 10:00 PM
+   Infusions:
+   Heparin Sodium - 900 units/hour
+   Other ICU medications:
+   Heparin Sodium - [**3441-2-10**] 10:57 PM
+   Fentanyl - [**3441-2-11**] 05:55 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3441-2-11**] 07:08 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**42**] AM
+   Tmax: 38.2
+C (100.8
+   Tcurrent: 37.3
+C (99.1
+   HR: 112 (79 - 119) bpm
+   BP: 78/46(59) {78/44(57) - 138/83(104)} mmHg
+   RR: 17 (13 - 22) insp/min
+   SpO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 62 Inch
+    CVP: 5 (5 - 18)mmHg
+   Mixed Venous O2% Sat: 77 - 77
+   Total In:
+                                                                  3,741 mL
+                                                                    629 mL
+   PO:
+   TF:
+   IVF:
+                                                                  3,741 mL
+                                                                    629 mL
+   Blood products:
+   Total out:
+                                                                  1,400 mL
+                                                                    440 mL
+   Urine:
+                                                                  1,400 mL
+                                                                    440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,341 mL
+                                                                    189 mL
+   Respiratory support
+   O2 Delivery Device: Endotracheal tube
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   Vt (Set): 450 (0 - 450) mL
+   Vt (Spontaneous): 421 (411 - 707) mL
+   PS : 5 cmH2O
+   RR (Set): 14
+   RR (Spontaneous): 0
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   RSBI: 47
+   PIP: 15 cmH2O
+   SpO2: 98%
+   ABG: 7.48/29/131/22/0
+   Ve: 10.3 L/min
+   PaO2 / FiO2: 262
+   Physical Examination
+   General Appearance: Well nourished
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube
+   Cardiovascular: (S1: Normal), (S2: Normal), II/VI systolic murmur at
+   base
+   Peripheral Vascular: (Right radial pulse: Diminished), (Left radial
+   pulse: Diminished), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: Resonant : ),
+   (Breath Sounds: Clear : coarse), anterior exam
+   Abdominal: Soft, Bowel sounds present, appears nontender
+   Extremities: Right lower extremity edema: Absent, Left lower extremity
+   edema: Absent
+   Skin:  Not assessed
+   Neurologic: No(t) Attentive, Responds to: verbal stimuli, able to move
+   hands and toes to command
+   Labs / Radiology
+   368 K/uL
+   8.1 g/dL
+   118 mg/dL
+   0.7 mg/dL
+   22 mEq/L
+   4.1 mEq/L
+   16 mg/dL
+   103 mEq/L
+   135 mEq/L
+   24.2 %
+   10.0 K/uL
+        [image002.jpg]
+                             [**3441-2-9**]  11:15 PM
+                             [**3441-2-9**]  11:27 PM
+                             [**3441-2-10**]  06:15 AM
+                             [**3441-2-10**]  06:26 AM
+                             [**3441-2-10**]  12:00 PM
+                             [**3441-2-10**]  05:10 PM
+                             [**3441-2-10**]  09:15 PM
+                             [**3441-2-10**]  09:22 PM
+                             [**3441-2-11**]  05:12 AM
+                             [**3441-2-11**]  05:24 AM
+   WBC
+   7.3
+   9.7
+   10.0
+   Hct
+   25.0
+   26.8
+   24.2
+   Plt
+   [**Telephone/Fax (3) 10826**]
+   Cr
+   0.7
+   0.8
+   0.7
+   0.7
+   TCO2
+   25
+   24
+   21
+   23
+   22
+   Glucose
+   99
+   94
+   115
+   111
+   141
+   101
+   118
+   Other labs: PT / PTT / INR:13.4/59.4/1.1, CK / CKMB /
+   Troponin-T:427/23/0.95, Lactic Acid:0.6 mmol/L, Ca++:8.0 mg/dL,
+   Mg++:1.8 mg/dL, PO4:3.2 mg/dL
+   Imaging: CXR: ET tube is 5.4 cm from the carina in standard placement.
+   Nasogastric tube tip is in stomach. The cardiac mediastinal and hilar
+   contours are normal. Left lower lobe atelectasis is improved since
+   [**2-9**], [**3440**]. There are no new focal consolidations, pleural effusions, or
+   pneumothorax.
+   Microbiology: Urine cx pending
+   Blood cx pending
+   Sputum cx pending
+   Assessment and Plan
+   71-year-old female with a history of diabetes mellitus type II,
+   hypertension, is transfered from outside hospital s/p cardiac arrest.
+   .
+   # S/P Cardiac Arrest: Appears to have PEA arrest at OSH. 4 rounds of
+   ACLS and transferred to [**Hospital1 1**]. Squeezes hands to command. The etiology
+   may be secondary to in-stent thrombosis vs unstable arrhythmia. s/p
+   Arctic Sun protocol. Patient relatively hemodynamically stable,
+   however, post cooling has had periods of hypotension.
+   - appeciate neuro recs
+   - f/u EEG results
+   - continue heparin gtt for now
+   - monitor on tele
+   - PCI vs CABG when stable
+   - discontinue beta blocker due to hypotension - if pressures tolerate
+   restart
+   .
+   # Respiratory status: appears to have been intubated for protection.
+   Increased sputum production since then. RSBI 47 and tolerated PS
+   relatively well. Has gotten fluids. Retrial this afternoon and consider
+   extubation.
+   - versed/fentanyl
+ limit due to blood pressures (not able to tolerate
+   propofol)
+   .
+   # CAD: s/p STEMI with cardiac cath with multivessel CAD s/p BMS x 3 to
+   mid to distal L circumflex. TTE shows EF 55% with some focal
+   hypokinesis of inferolateral wall. CVP low to normal.
+   - Continue ASA
+   - Continue plavix
+   - Continue statin
+   - heparin gtt
+   - discontinue beta blocker due to hypotension - if pressures tolerate
+   restart
+   .
+   # Hypotension: In setting of Arctic Sun protocol, decreased MS, recent
+   hospitalization, concerning for infection. Had some hypotension.
+   Increased sputum. UA positive at outside hospital without treatment.
+   Patient cultured and started on broad spectrum antibiotics.
+   - f/u culture results
+   - day 2 of broad spectrum abx - vanc, cefepime, flagyl ([**2-1**])
+   .
+   # DMII:
+   - HISS - adjust prn
+   .
+   # Goals of care: need to have family meeting once patient off sedation
+   and neuro status more clear
+   ICU Care
+   Nutrition: consider TF
+   Comments: NPO
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3441-2-9**] 08:00 AM
+   Multi Lumen - [**3441-2-10**] 01:26 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt)
+   Stress ulcer: H2 blocker
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition:ICU
+
+
+
+DOC CLASS

@@ -1,0 +1,239 @@
+TITLE:
+   Chief Complaint: Dyspnea
+   24 Hour Events: nausea x1
+   -nitro gtt turned off
+   Cardiac cath:
+   1. Native two vessel coronary artery disease.
+   2. Patent LIMA-LAD.
+   3. Subtotally occluded SVG-OM graft.
+   Allergies:
+   Penicillins
+   Unknown;
+   Flecainide
+   Arrhythmia/Palp
+   Quinidine/Quinine
+   Fever/Chills;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2765-11-15**] 10:31 PM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2765-11-16**] 06:58 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.3
+C (99.1
+   Tcurrent: 36.8
+C (98.3
+   HR: 68 (68 - 75) bpm
+   BP: 136/58(76) {110/44(61) - 144/66(85)} mmHg
+   RR: 15 (8 - 24) insp/min
+   SpO2: 96%
+   Heart rhythm: AV Paced
+   Height: 78 Inch
+             Total In:
+                                                                  1,621 mL
+                                                                     91 mL
+   PO:
+                                                                    120 mL
+             TF:
+   IVF:
+                                                                  1,501 mL
+                                                                     91 mL
+   Blood products:
+   Total out:
+                                                                  4,705 mL
+                                                                    250 mL
+   Urine:
+                                                                  1,780 mL
+                                                                    250 mL
+   NG:
+                                                                    125 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                 -3,084 mL
+                                                                   -159 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula 3L
+   SpO2: 96%
+   ABG: ///33/
+   Physical Examination
+   GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.
+   NECK: JVP not appreciated
+   CARDIAC: No MRG, RRR
+   LUNGS: CTA B, faint crackles in bases.
+   ABDOMEN: Soft, NTND. No HSM or tenderness.
+   EXTREMITIES: No c/c/e. R-sided cath site intact with no evidence of
+   bleeding or hematoma.  Peripheral pulses 2+.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   Labs / Radiology
+   196 K/uL
+   11.3 g/dL
+   155 mg/dL
+   2.1 mg/dL
+   33 mEq/L
+   4.4 mEq/L
+   34 mg/dL
+   98 mEq/L
+   140 mEq/L
+   33.8 %
+   8.4 K/uL
+        [image002.jpg]
+                            [**2765-11-16**]  05:18 AM
+   WBC
+   8.4
+   Hct
+   33.8
+   Plt
+   196
+   Cr
+   2.1
+   Glucose
+   155
+   Other labs: PT / PTT / INR:15.9/23.0/1.4, Ca++:8.8 mg/dL, Mg++:2.4
+   mg/dL, PO4:3.7 mg/dL
+   Assessment and Plan
+   68 year old male with history of type II DM, HTN, atrial fibrillation
+   on coumadin, s/p two vessel CABG in [**2745**] and s/p nephrectomy admitted
+   to the CCU for evaluation of dyspnea following diagnostic cath.
+   .
+   # PUMP:  The patient has EF of 35-40% on TTE yesterday.  Most likely
+   the patient had an episode of dyspnea secondary to volume overload from
+   pre-cath hydration, fluid during the procedure, and possibly flash
+   pulmonary edema in the setting of hypertension.  Much improved after
+   minimal diuresis.  Nitro gtt weaned o/n.
+   - Home antihypertensive medications started this morning (Imdur 90mg
+   [**Hospital1 **] and Verapamil 120mg [**Hospital1 **], Losartan on hold given ARF - can change to
+   hydralazine PO for afterload reduction if ARF does not improve)
+   -Restart home dose of lasix 40mg TID in AM
+   - Monitor I/Os, daily weights; goal even today
+   - Restart home Digoxin today, as Cr stable this AM
+   .
+   # CORONARIES:  The patient has a history of two vessel CABG with
+   possible presentation of changing/unstable angina over the past 6
+   months.  On diagnostic cath today found to have RCA diffuse disease as
+   well as high grade stenosis of the SVG to Diag.  Intervention planned
+   for the end of the week once heart failure stable.
+   - Continue ASA 325mg given possible unstable angina
+   - Continue atorvastatin 80mg
+   - Mucomyst x2 doses today following cath
+   - Restart home Losartan this AM as Cr stable
+   .
+   # RHYTHM:  The patient has a history of A fib, sick sinus syndrome,
+   atrial flutter s/p cardioversion, SVT with question of pre-excitation
+   bypass tract and pacemaker placement.  Currently, the patient is paced.
+   - Continue amiodarone, disopyramide, metoprolol for rate control
+   - Unclear why the patient was taking propanolol as well as metoprolol,
+   will hold for now
+   - Given renal dysfunction will hold digoxin and restart when renal
+   function returns to baseline.
+   - The patient was instructed to hold coumadin in the setting of cath,
+   will continue to hold until repeat catheterization
+   - Restart Digoxin as above
+   .
+   # Chronic Renal Failure:  The patient is s/p nephrectomy for renal cell
+   carcinoma.  Previous baseline creatinine 1.4, last week Crn 2.3 -
+   likely this is new baseline.  Unclear if new baseline is secondary to
+   Type 2 DM, however likely decreased perfusion in the context of flash
+   pulmonary edema.
+   -Follow creatinine; stable today
+   -FeNa if no improvement with diuresis
+   .
+   # Patient should have outpatient sleep study.
+   .
+   # Type 2 DM:  Continue Insulin sliding scale PRN.  FS BG QID.  Pt is on
+   a lower dose than his home insulin regimen, will likely need to
+   uptitrate regimen.
+   -Losartan re-initiated today as above
+   .
+   # Hyperlipidemia:  Continue atorvastatin (exchange for fluvastatin),
+   ezetimide, and fish oil.
+   .
+   # Hypertension: stable.  Continue out-pt meds, consider out-pt sleep
+   study.
+   .
+   # COPD:  Currently no wheezing on exam, unlikely to have contributed to
+   the patient's respiratory distress earlier.  Wean O2 as tolerated.
+   Continue spiriva, nebs PRN.
+   .
+   # Inner [**Last Name **] problem:  Continue meclizine and valium.
+   .
+   # GERD:  Continue Mylanta PRN and ranitidine
+   ICU Care
+   Nutrition: Diabetic/heart healthy diet
+   Glycemic Control:  Glargine and ISS
+   Lines:
+   20 Gauge - [**2765-11-15**] 05:05 PM
+   Prophylaxis:
+   DVT: hep sc
+   Stress ulcer: n/a
+   VAP:  n/a
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: to [**Hospital1 **] today
+   ------ Protected Section ------
+   Cardiology Teaching Physician Note
+   On this day I saw, examined and was physically present with the
+   resident / fellow for the key portions of the services provided. I
+   agree with the above note and plans.
+   I have also reviewed the notes of Dr(s). [**Name (NI) 6072**], [**Doctor Last Name 3729**].
+   I would add the following remarks:
+   History
+   68 year old man with CAD s/p CABG [**45**]', distal RCA BMS 99', ischemic
+   myopathy with EF 35-40%, sick sinus s/p PPM, obesity, AF/flutter,
+   nephrectomy secondary to RCCA 89', htn admitted post-cardiac
+   catheterization for respiratory distress. Patient with 6 month history
+   of progressive dyspnea on exertion and throat discomfort with minimal
+   exertion. Stress test (report not received) apparently demonstrated
+   inferior wall ischemia for which he was referred for cardiac
+   catheterization. After diagnostic portion (LIMA-LAD patent, SVG-OM with
+   2 tandem lesions) patient developed hypoxemia, progressive respiratory
+   distress and hypertension for which he was given morphine, lasix (160
+   mg IV total), started on NTG gtt (120 mg) with improvement in
+   respiratory status. Currently comfortable and denies shortness of
+   breath, chest/jaw/neck discomfort, or orthopnea/PND overnight. TTE
+   yesterday demonstrated dilated left ventricle, mild MR, anterior and
+   septal hypokinesis, and probable inferior hk (ef 35-40%) with mild
+   pulmonary hypertension. Findings are similar to echo report noted in
+   patient's outpatient notes from Dr.[**Name (NI) 9327**] office.
+   Physical Examination
+   BP 125/55, HR 70 (paced), ~1.5 L negative/24 hours.
+   per housestaff note
+   Medical Decision Making
+   1. CAD, CABG, prior RCA stent: planned stenting of SVG-OM serial
+   stenoses. Patient had episode of pulmonary edema during procedure
+   likely due to hydration protocol for renal protection in the setting of
+   depressed ejection fraction. Now appears comfortable with preserved
+   oxygen saturation and normal blood pressure. Plan for repeat attempt at
+   intervention likely Thursday, if patient in agreement.
+   On extensive medical regimen for CAD, managed by Dr. [**Last Name (STitle) 4505**]. Will
+   need mucomyst administration again if catheterization planned.
+   Attempting to obtain outpatient stress test done 2 weeks ago.
+   2. Cardiomyopathy: not markedly volume overloaded currently, although
+   filling pressures high. On [**Last Name (un) **], furosemide, beta-blocker.
+   3. AF: in chronic AF with paced ventricular rhythm. Anticoagulated
+   chronically. Unclear why patient still on amiodarone given persistent
+   AF. Will defer to outpatient cardiologist.
+   4. ?Sleep disordered breathing: would recommend outpatient sleep study
+   given probable sleep apnea (by history). Will increase
+   morbidity/mortality of CAD and CM if left untreated.
+   Above discussed extensively with patient. I have discussed this plan
+   with Dr(s). [**Name (NI) **], Giurseffi, [**Doctor Last Name 6072**].
+   Total time spent on patient care: 35 minutes of critical care time.
+   Additional comments:
+   Critical care required because of close montoring due to acute
+   respiratory failure during procedure.
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name8 (MD) 1456**], MD
+   on:[**2765-11-16**] 11:41 ------
+
+
+
+DOC CLASS

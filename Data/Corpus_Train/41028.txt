@@ -1,0 +1,334 @@
+Admission Date:  [**2747-3-26**]              Discharge Date:   [**2747-4-1**]
+
+Date of Birth:  [**2683-10-4**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Niacin
+
+Attending:[**First Name3 (LF) 302**]
+Chief Complaint:
+asymptomatic, dilated aorta found on routine CT
+
+Major Surgical or Invasive Procedure:
+1. Aortic valve replacement with a 29 mm [**Company 511**] Mosaic
+    Ultra aortic valve bioprosthesis, model number 305,
+    serial number [**Serial Number 12403**].
+2. Replacement of ascending aorta and hemiarch with a 28 mm
+    Dacron tube graft and deep hypothermic circulatory
+    arrest.
+Graft data:  Catalog number [**Numeric Identifier 12334**].  Lot number [**Telephone/Fax (3) 12404**],
+serial number [**Serial Number 12405**].
+1. Coronary artery bypass grafting x1 with left internal
+    mammary artery to the first diagonal coronary artery.
+2. Pericardial reconstruction with CorMatrix product.
+
+
+History of Present Illness:
+63 year old male with history of Henoch-Schonlein purpura and
+hypertension who was incidentally found to have dilated
+ascending aorta on CT scan in [**2746-2-9**]. His aneurym came to
+fruition when he had lost 30 pounds in the summer of [**2745**] in the
+wake of his wife's passing. An abdominal CT suggested pulmonary
+nodules and a dedicated chest CT was obtained in [**2746-2-9**]
+which revealed the ascending aortic aneurysm. He was seen by Dr.
+[**Last Name (STitle) **] and it appears that his lung nodules are stable.
+Given the size of his ascending aortic aneurysm (5.6cm), he was
+referred for surgical consultation.
+
+Past Medical History:
+1. Migraine-optical(flashing lights-resolves after 5 min-occurs
+Q2 mo)
+2. Essential hypertension
+3. Dyslipidemia.
+4. Prior history of Henoch-Schonlein purpura.
+5. Sciatica.
+6. Seborrheic keratosis.
+7. Erectile dysfunction
+8. Colonic adenoma.
+9. Gout.
+10. Elevated PSA.
+11. Glucose intolerance, diet controlled
+12. Primary hyperparathyroidism
+13. Ventral hernia.
+14. Vasovagal episode -felt to be from Bblockers diminished
+after
+medications adjusted
+15. Aortic Aneurysm
+16. Lung nodule - Followed by Dr. [**Last Name (STitle) **] (Not consistent
+with malignancy as it has decreased in size)
+17. Depression -following death of wife
+18. Bicuspid aortic valve with calcified leaflets.
+
+Social History:
+Race: Caucasian
+Last Dental Exam: 5 months ago
+Lives with: The patient is widowed.  He has been widowed for a
+year and a half.  His wife died of metastatic esophageal cancer.
+
+Contact:[**Last Name (NamePattern4) **] (cousin)       Phone #[**Telephone/Fax (1) 12406**]
+Occupation: Part- Time Chief engineer at [**Doctor Last Name 940**] Controls
+Cigarettes: Smoked no [X] yes []
+Other Tobacco use: none
+ETOH: < 1 drink/week [X] 1 glass wine/night
+Illicit drug use: none
+
+
+Family History:
+Family History: grandfather had MI
+Mother: died CHF at age 87
+Father: died prostate CA age 77
+
+
+Physical Exam:
+Physical Exam
+
+Pulse:57  Resp:12  O2 sat:98/RA
+B/P  Right:149/78  Left: 145/75
+Height:6'1"     Weight:195 lbs
+
+General: NAD
+Skin: Warm [x] Dry [x] intact [x]
+HEENT: NCAT [x] PERRLA [x] EOMI [x]
+Neck: Supple [x] Full ROM [x] JVD []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x] Irregular [x] Murmur - systolic murmur at sternum
+Abdomen: Soft [x] non-distended [x] non-tender [x] +BS []
+Extremities: Warm [x], well-perfused [x] Edema none
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2+ Left: 2+
+DP           Right: 2+ Left: 2+
+PT           [**Name (NI) **]: 2+ Left: 2+
+Radial       Right: 2+ Left: 2+
+
+Carotid Bruit  - none      Right:    Left:
+
+
+Pertinent Results:
+[**2747-3-30**] 05:08AM BLOOD WBC-11.8* RBC-2.53* Hgb-7.7* Hct-22.6*
+MCV-89 MCH-30.4 MCHC-34.0 RDW-12.9 Plt Ct-180
+[**2747-3-30**] 05:08AM BLOOD Plt Ct-180
+[**2747-3-30**] 05:08AM BLOOD Glucose-126* UreaN-21* Creat-0.9 Na-136
+K-3.7 Cl-103 HCO3-27 AnGap-10
+[**2747-3-26**] 09:33PM BLOOD ALT-19 AST-38 LD(LDH)-256* AlkPhos-33*
+Amylase-20 TotBili-1.7*
+[**2747-3-30**] 05:08AM BLOOD Mg-2.1
+
+[**3-28**] CXR:
+FINDINGS: In comparison with study of [**3-27**], there is little
+overall change
+except for the right IJ catheter that extends to the mid portion
+of the SVC.
+Retrocardiac opacification persists, consistent with atelectasis
+and effusion.
+
+EKG [**3-26**]:
+Sinus bradycardia. Prolonged P-R interval. Compared to the
+previous tracing
+of [**2747-2-25**] there is no change.
+
+
+[**2747-4-1**] 03:19AM BLOOD Hct-26.2*
+[**2747-4-1**] 03:19AM BLOOD PT-13.9* INR(PT)-1.3*
+[**2747-4-1**] 03:19AM BLOOD Na-136 K-4.5 Cl-104
+
+Brief Hospital Course:
+Patient with Hx of htn who was incidently found to have dilated
+ascending aorta on Ct scan [**2-/2746**] cardiac cath confirmed
+findings and revealed 70% lesion of the lAD. The patient was
+admitted to the hospital on day of surgery and brought to the
+operating room on [**3-27**] where the patient underwent: aortic valve
+replacement with a 29 mm [**Company 511**] Mosaic, replacement of
+ascending aorta and hemiarch with a 28 mm
+Dacron tube graft and deep hypothermic circulatory arrest,
+coronary artery bypass grafting x1 with left internal mammary
+artery to the first diagonal coronary artery and pericardial
+reconstruction with CorMatrix product.
+     Overall the patient tolerated the procedure well, see
+operative report for further details. Of note, Mr.[**Known patient lastname **] had an
+intraop anaphalactoid reaction during his platlet transfusion.
+Post-operatively he was transferred to the CVICU intubated and
+sedated. He continued to be hypotensive/post-op shock that
+resolved with volume resuscitation and pressor support. POD 1
+found the patient extubated, alert and oriented and breathing
+comfortably.  The patient remained neurologically intact.  His
+neo was weaned off slowly. Low dose Beta blocker was initiated
+and the patient was gently diuresed towards the preoperative
+weight. He was transferred to the telemetry floor for further
+recovery on POD #2. Chest tubes and pacing wires were
+discontinued per protocol, without complication. On POD#3 he
+went into rapid a-fib and was started on Amiodarone. He
+converted within 24hrs however had other transient episodes of
+atrial fibrillation. He was placed on anticoagulation for
+paroxysmal AF. It was arranged with his PCP's office for
+Coumadin follow up. Electrophysiology was consulted due to a
+conversion pause >4 seconds. Amio was discontinued and
+beta-blocker remains. His Hct was low but was not signifcantly
+symptomatic and the decision was made not to transfuse him, he
+was started on Iron/Folate and multivitamin. The patient was
+evaluated by the physical therapy service for assistance with
+strength and mobility.  By the time of discharge on POD #6 he
+was ambulating freely. His wounds were healing well and pain was
+controlled with oral analgesics.  He was discharged to home with
+VNA services in good condition with appropriate follow up
+instructions advised.
+
+Medications on Admission:
+AMLODIPINE 10 mg Daily
+ATORVASTATIN 40 mg Daily
+CITALOPRAMb 20 mg Daily
+LOSARTAN 50 mg Daily
+METOPROLOL SUCCINATE 25 mg  Daily
+TERAZOSIN 10 mg Daily
+ASPIRIN 81 mg Daily
+VITAMIN D3 1,000 unit Daily
+MULTIVITAMIN 1 Capsule Daily
+
+
+Discharge Medications:
+1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+3. terazosin 5 mg Capsule Sig: One (1) Capsule PO HS (at
+bedtime).
+Disp:*60 Capsule(s)* Refills:*2*
+4. citalopram 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+5. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+7. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. oxycodone-acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed for pain.
+Disp:*40 Tablet(s)* Refills:*0*
+9. potassium chloride 10 mEq Tablet Extended Release Sig: Two
+(2) Tablet Extended Release PO Q12H (every 12 hours).
+Disp:*20 Tablet Extended Release(s)* Refills:*2*
+10. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+11. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+12. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+13. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+14. Cepacol Sore Throat 15-2.6 mg Lozenge Sig: [**2-10**]  Mucous
+membrane four times a day as needed for sore throat.
+Disp:*60 * Refills:*0*
+15. Lasix 20 mg Tablet Sig: One (1) Tablet PO twice a day for 10
+days.
+Disp:*20 Tablet(s)* Refills:*0*
+16. losartan 25 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+17. warfarin 2.5 mg Tablet Sig: One (1) Tablet PO ONCE (Once)
+for 1 doses.
+Disp:*1 Tablet(s)* Refills:*0*
+day.
+Disp:*150 Tablet(s)* Refills:*2*
+19. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 385**] VNA
+
+Discharge Diagnosis:
+1. Migraine-optical(flashing lights-resolves after 5 min-occurs
+Q2 mo)
+2. Essential hypertension
+3. Dyslipidemia.
+4. Prior history of Henoch-Schonlein purpura.
+5. Sciatica.
+6. Seborrheic keratosis.
+7. Erectile dysfunction
+8. Colonic adenoma.
+9. Gout.
+10. Elevated PSA.
+11. Glucose intolerance, diet controlled
+12. Primary hyperparathyroidism
+13. Ventral hernia.
+14. Vasovagal episode -felt to be from Bblockers diminished
+after
+medications adjusted
+15. Aortic Aneurysm- s/p ascending aorta replacement [**2747-3-26**]
+16. Lung nodule - Followed by Dr. [**Last Name (STitle) **] (Not consistent
+with malignancy as it has decreased in size)
+17. Depression -following death of wife
+18. Aortic stenosis-s/p AVR [**2747-3-26**]
+19. CAD-s/p CABG - [**2747-3-26**]
+
+
+Discharge Condition:
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating with steady gait
+Incisional pain managed with oral analgesics
+Incisions:
+Sternal - healing well, no erythema or drainage
+Leg Right/Left - healing well, no erythema or drainage.
+Edema +1 Teds applied
+
+
+
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild
+soap, no baths or swimming until cleared by surgeon. Look at
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening
+take your temperature, these should be written down on the chart
+
+No driving for approximately one month and while taking
+narcotics, will be discussed at follow up appointment with
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns [**Telephone/Fax (1) 294**]
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+
+
+Followup Instructions:
+Recommended Follow-up:
+You are scheduled for the following appointments:
+Wound check [**2747-4-10**] at 10:30am at [**Last Name (un) 1860**] building, [**Hospital Unit Name **]
+Surgeon: Dr. [**Last Name (STitle) **] [**2747-4-21**] at 1:45p
+Cardiologist:Dr. [**First Name (STitle) **] [**2747-4-14**] at 3:00p
+
+Please call to schedule appointments with your
+Primary Care Dr.[**Last Name (STitle) 12407**] in [**5-15**] weeks
+
+**Please call cardiac surgery office with any questions or
+concerns [**Telephone/Fax (1) 294**]. Answering service will contact on call
+person during off hours**
+
+Labs: PT/INR for Coumadin ?????? indication :Atrial fibrillation
+Goal INR 2-2.5
+First draw:[**2747-4-2**]
+Results to PCP [**Last Name (un) 12408**] phone:[**Telephone/Fax (1) 1530**]: Coumadin
+RN=[**Doctor Last Name **]
+
+
+
+Completed by:[**2747-4-1**]
+
+
+DOC CLASS

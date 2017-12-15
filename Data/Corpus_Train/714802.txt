@@ -1,0 +1,276 @@
+Chief Complaint:
+   24 Hour Events:
+ OR SENT - At [**3310-5-8**] 03:00 PM
+ OR RECEIVED - At [**3310-5-8**] 05:00 PM
+   s/p thrombectomy
+   [**3310-5-8**]
+   -FYI: patient home dose lasix 20mg being held
+   -plan for graft revision as an add on case for OR on [**3310-5-9**]
+   -NPO after midnight, coags in AM, repeat vancomycin level
+   -pt continues on dextrose drip and insulin gtt
+   -pt hypotensive to SBP 75 after receiving minoxidil.  Received 250ml NS
+   bolus. Now refusing blood pressures.
+   -Pt progressively refusing more care; first no blood pressures, then no
+   finger sticks (insulin gtt off, last check 132), now removed monitor
+   leads.
+   PSYCH RECS (INITIAL):
+-For now, pursue with procedures to which pt and HCP agree
+-If he continues to refuse treatment, should consult legal
+towards modifying guardianship to include substituted judgment.
+Though he lacks capacity, we cannot take him to surgery without
+having a judge declare him incompetent.  Continued discussion of
+alternative options around his care, such that if he agrees to a
+recommended treatment to which his HCP also agrees, would do it.
+-Both pt's sister and father state that, were he thinking
+clearly, he would want to have HD and would also agree to the
+surgery to revise the graft; this has been witnessed by Dr. [**First Name8 (NamePattern2) 372**]
+[**Last Name (NamePattern1) 10902**] and by the primary team
+-[**Month (only) 56**] use low dose quetiapine 12.5-25mg for agitation
+-Pt cannot leave AMA
+PSYCH RECS (FOLLOW-UP):
+1) speak with his [**Last Name (LF) 1570**], [**First Name3 (LF) **] to confirm their support of surgery/treatment as
+he is agreeing to care
+2) in general, given his cognitive dysfunction, it would be best to have a guard
+[**Doctor First Name **] appointment for medical decision making (not just admitted to a nursing faci
+lity) given his processing difficulties and repeated problems with poor self car
+3) he does not appear immediately at risk for suicide or harm to others and his
+statements are more reflective of his frustration and mild confusion than true i
+ntent to end his life
+   Allergies:
+   Tapazole (Oral) (Methimazole)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3310-5-6**] 08:04 PM
+   Vancomycin - [**3310-5-6**] 09:16 PM
+   Piperacillin - [**3310-5-7**] 12:06 AM
+   Piperacillin/Tazobactam (Zosyn) - [**3310-5-8**] 05:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3310-5-9**] 07:23 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since [**12**] AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 36.8
+C (98.2
+   HR: 104 (85 - 110) bpm
+   BP: 0/51(59) {0/51(56) - 161/110(117)} mmHg
+   RR: 14 (12 - 39) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 62.7 kg (admission): 62.7 kg
+             Total In:
+                                                                  2,071 mL
+                                                                    154 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,071 mL
+                                                                    154 mL
+   Blood products:
+   Total out:
+                                                                    275 mL
+                                                                      0 mL
+   Urine:
+   NG:
+                                                                    275 mL
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,796 mL
+                                                                    154 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 97%
+   ABG: ///26/
+   Physical Examination
+   Labs / Radiology
+   317 K/uL
+   10.6 g/dL
+   298 mg/dL
+   7.7 mg/dL
+   26 mEq/L
+   3.3 mEq/L
+   34 mg/dL
+   102 mEq/L
+   138 mEq/L
+   31.1 %
+   9.5 K/uL
+        [image002.jpg]
+                             [**3310-5-6**]  04:55 PM
+                             [**3310-5-6**]  07:28 PM
+                             [**3310-5-6**]  07:32 PM
+                             [**3310-5-6**]  07:47 PM
+                             [**3310-5-7**]  12:00 AM
+                             [**3310-5-7**]  06:00 AM
+                             [**3310-5-7**]  03:25 PM
+                             [**3310-5-8**]  03:35 PM
+   WBC
+   11.8
+   9.5
+   Hct
+   34.7
+   31.1
+   Plt
+   372
+   317
+   Cr
+   7.4
+   6.6
+   7.2
+   7.3
+   7.7
+   TropT
+   0.31
+   0.31
+   0.31
+   TCO2
+   26
+   Glucose
+   259
+   273
+   636
+   53
+   113
+   298
+   Other labs: PT / PTT / INR:11.8/27.8/1.0, CK / CKMB /
+   Troponin-T:68/5/0.31, Lactic Acid:1.4 mmol/L, Ca++:8.6 mg/dL, Mg++:2.4
+   mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   56 yo man with a h/o DM I with insulin autoantibody receptor syndrome,
+   ESRD, PVD, dCHF p/w DKA
+   .
+   # Nonworking graft: Presumed rethrombosed. Went to OR on [**5-8**] for graft
+   thrombectomy and revision, was cleared from OR to use graft for HD.
+   However, prior to HD graft went down. Awaiting repeat procedure in OR
+   today. Will need temp line placement if not able to secure working
+   graft. Renal team aware
+ no acute need for HD given electrolytes from
+   yesterday PM so have held off overnight.
+   - Appreciate surgery recs
+   - Appreciate renal recs
+   - Plan for OR today for graft repair, ? temp line placement
+   .
+   # ESRD:  Per renal team, no acute indication for HD (mild hyperkalemia
+   seen in setting of DKA is likely not reflective of true level).
+   Currently without access.  Last HD prior to admission.
+   - Trend lytes if patient will agree to labs
+   - Renal aware, will need to obtain access as above
+   - Epo in HD
+   - Zemplar in HD
+   - Continue sevelamer
+   - Plan for HD after thrombectomy via functioning graft or temporary HD
+   line
+   - Hold calcitriol and PO iron
+   .
+   # DKA: Pt noncompliant with insulin; hyperglycemia may also have been
+   precipitated by pneumonia or other infection. Gap initially 23, now
+   closed to AG = 10 as of yesterday in the OR mid-afternoon (refused AM
+   labs). Last 5 FS all in 100s range; pt refused further FS overnight.
+   - Seen by [**Last Name (un) 257**] (appreciate recs)
+   - Currently off insulin gtt, no sliding scale active at this time
+   - will try to start his home dose insulin regimen when patient is able
+   to eat
+   - trend electrolytes if possible
+   .
+   # Pneumonia: Given recent hospitalizations and HD pt, will cover
+   broadly for HCAP. Pt is DM but does not have h/o pseudomonas infection
+   and BP currently stable. Coarse BS on initial exam, refuses repeat exam
+   this morning. Afebrile.
+   - On Vanco/Zosyn; plan for short course unless sx of worsening infxn
+   (should define in POE); will consider discontinuing antibiotics and
+   following up with a CXR as outpatient for any interval change.
+   - F/U vanco level from yesterday afternoon elevated to 152, likely
+   artifact. Will attempt re-check today if patient will agree to labs
+   - F/U sputum cx, blood cx (NGTD)
+   - discuss today
+s CXR with radiology re: RLL opacity
+   .
+   # Elevated trop: Has been flat at ~0.3 over multiple sets of enzymes;
+   no rise in CK-MB noted. Therefore, likely elevated troponin is due to
+   ESRD.
+   - Trend CE, tele
+   - Restart aspirin once cleared by surgery
+   .
+   # Blood pressure: Patient actually hypotensive overnight at last check,
+   refused further checks after midnight.
+   - Trend BP if pt will allow
+   - Hold home BP meds for now
+   .
+   # Immunosuppression: On prednisone per med list (restarted yesterday)
+   for insulin Ab production.
+   - Continue prednisone for now
+   .
+   # Hypothyroidism: Check TSH given c/o increased fatigue
+   - Continue levothyroxine
+   .
+   # Capacity: Patient threatened earlier this morning to leave AMA. He
+   has been declared to lack capacity to do so in the past given poor
+   insight into his disease condition and lack of safe place to go. Son
+   serves as limited guardian. Psych recs as above. Currently, pt cannot
+   leave AMA. Will continue to work with family. Patient may need
+   guardian.
+   - F/U legal recs
+   - F/U further psych recs
+   .
+   .
+   # FEN: 75 cc/hr D5W until after surgery, replete electrolytes (K only
+   if low), regular diet
+   # Prophylaxis: Subcutaneous heparin
+   # Access: peripherals
+   # Communication: Patient
+   # Code:  Full - discussed at length with HCP. Pt has been DNR/DNI in
+   the past but with recent discussions, uncertain of current feelings as
+   he has been grateful for resuscitative efforts after the fact.  Ok to
+   intubate for reversible situation (e.g. PNA and fluid overload).
+   Pressors ok.  Less certain about CPR/defibrillation.
+   # Disposition: ICU pending clinical improvement
+ will re-evaluate
+   post-op
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3310-5-6**] 06:11 PM
+   20 Gauge - [**3310-5-8**] 05:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 56M brittle DM (anti-insulin Ab+) c/b ESRD,
+   dCHF now admitted with DKA and clotted AVG and possible pneumonia.
+   Graft clotted yesterday, unable to dialyze. Refused revision this AM,
+   eventually agreed after d/w me, Dr. [**Last Name (STitle) 6896**], and Dr. [**Last Name (STitle) 11915**].
+   Exam notable for Tm 98.4 BP 134/81 HR 70-90 RR 16 with sat 99 on 1LNC
+   TBB +2.5L. Drowsy, minimally arousable but denies pain. Coarse BS B.
+   RRR s1s2. Soft +BS. Chronic edema. Labs refused this AM.
+   Agree with plan to manage DKA with lantus / ISS on PO diet after OR
+   today, monitor FSG and AG. Will need HD following graft revision in OR.
+   Will hold off on stress steroids for now, continue home prednisone. HTN
+   - stable, resume BBL. Possible pneumonia - can d/c abx, outpt CXR f/u.
+   Troponin leak, likely d/t ESRD - asa, statin, home HTN meds. Remainder
+   of plan as outlined above.
+   Patient is critically ill
+   Total time: 40 min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3310-5-9**] 04:35 PM ------
+
+
+
+DOC CLASS

@@ -1,0 +1,323 @@
+Admission Date:  [**2863-5-25**]              Discharge Date:   [**2863-5-30**]
+
+Date of Birth:  [**2779-2-25**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 153**]
+Chief Complaint:
+dyspnea, STEMI
+
+Major Surgical or Invasive Procedure:
+Cardiac catheterization and placement of three bare metal stents
+
+History of Present Illness:
+Ms. [**Known patient lastname 6151**] is a 84 YOF with prior history of 3 vessel coronary
+artery disease, prior NSTEMI presenting as shortness of breath,
+CHF (EF 25%), and COPD who was in her usual state of health with
+almost daily dyspnea on exertion who developed shortness of
+breath associated with diaphoresis, nausea, and diarrhea this
+morning. She notes that her symptoms were similar to her usual
+symptoms, however, they did not go away throughout the day so
+she called her grandson. [**Name (NI) **] called EMS who found ST elevations
+in II, III, and avF as well as depressions in V3 and brought her
+to [**Hospital1 22**]. She took 325 mg aspirin at home.
+
+Past Medical History:
+1. Coronary artery disease
+- prior NSTEMI in [**6-10**]
+- recent hospitalization at [**Location (un) **] for NSTEMI
+2. CHF
+- last EF 20% ([**2862-12-18**])
+3. COPD
+4. Recent GI bleed [**1-10**] at [**Location (un) **] (transfused 3 units RBCs, no
+endoscopy)
+5. Upper back pain, s/p spinal fusion
+6. s/p left femoral neck fracture and left hip hemiarthroplasty
+with chronic hip pain
+
+Social History:
+The patient lives alone in her home. Her grandson and
+granddaughter are her primary caregivers. She denies alcohol
+use, and quit smoking 20 years ago. uses walker at baseline with
+back pain. Husband of many years died in [**Month (only) 882**] and pt admits
+to loneliness and sadness since although this is not new for her
+per family.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+en: pale elderly female, emotionally distressed by
+hospitalization and chest/abdominal pain
+Pale skin
+HEENT: EOMI. MMM. OP clear. tongue midline
+Neck: Supple, without adenopathy or JVD.
+Chest: Lungs clear to auscultation with normal respiratory
+effort.
+Cor: Normal S1, S2. RRR. No murmurs appreciated.
+Abdomen: + BS, tender to palpation in lower abdomen. Soft,
+non-distended. +
+Extremity: Large hematoma at right groin access cath site.
+Otherwise warm, without edema. 2+ DP pulses bilaterally.
+Neuro: Alert and oriented. CN 2-12 intact. Motor strength intact
+in all extremities.
+.
+
+Pertinent Results:
+Labs on admission:
+
+CBC
+[**2863-5-25**] 07:13PM BLOOD WBC-7.7 RBC-2.70*# Hgb-7.3* Hct-22.6*
+MCV-84 MCH-27.2 MCHC-32.5 RDW-14.6 Plt Ct-199
+[**2863-5-25**] 07:13PM BLOOD Plt Ct-199
+
+Chem 7
+[**2863-5-25**] 07:13PM BLOOD Glucose-117* UreaN-48* Creat-0.8 Na-138
+K-4.7 Cl-105 HCO3-26 AnGap-12
+
+LFTs
+[**2863-5-25**] 07:13PM BLOOD ALT-8 AST-28 CK(CPK)-160 AlkPhos-44
+TotBili-0.3
+
+Cardiac biomarkers
+[**2863-5-25**] 07:13PM BLOOD CK-MB-16* MB Indx-10.0* cTropnT-0.55*
+[**2863-5-26**] 05:07AM BLOOD CK-MB-54* MB Indx-11.6* cTropnT-1.46*
+
+Other chemistry
+[**2863-5-25**] 07:13PM BLOOD Albumin-3.4* Calcium-8.1* Phos-3.7 Mg-2.0
+Cholest-108
+[**2863-5-25**] 07:13PM BLOOD Triglyc-51 HDL-37 CHOL/HD-2.9 LDLcalc-61
+[**2863-5-25**] 11:10PM BLOOD Lactate-3.0*
+[**2863-5-26**] 05:24AM BLOOD Lactate-1.2
+[**2863-5-25**] 11:10PM BLOOD freeCa-1.09*
+[**2863-5-25**] 11:10PM BLOOD Type-[**Last Name (un) **] pH-7.27* Comment-PERIPHERAL
+
+Cardiac catheterization [**2863-5-25**]:
+COMMENTS:
+1. Coronary angiography in this right dominant system
+demonstrated three
+vessel disease. The LMCA had mild luminal irregularities but no
+flow
+limiting stenosis. The LAD had a mid subtotal occlusion after
+the 1st
+diagonal branch with collateral filling of the distal vessel.
+The LCx
+had an 80% proximal stenosis of OM1. The RCA had sequential 90%
+mid
+stenoses followed by a subtotal occlusion before the distal
+bifurcation
+of the PDA and PL. There was minimal flow into the PL branch.
+2. Limited resting hemodynamics revealed mild systemic arterial
+hypertension with SBP 141mmHg and DBP 85mmHg.
+
+
+FINAL DIAGNOSIS:
+1. Three vessel coronary artery disease.
+2. Acute subtotal occlusion of the distal RCA.
+
+Echo [**2863-5-26**]
+IMPRESSION: Mild symmetric left ventricular hypertrophy with
+normal cavity size and extensive systolic dysfunction c/w
+multivessel CAD or other diffuse process. Mild aortic
+regurgitation.Minimal aortic valve stenosis. Mild mitral
+regurgitation.
+Compared with the prior study (images reviewed) of [**2862-6-20**],
+the left ventricular cavity is smaller with improved
+inferolateral systolic function. The other findings are similar.
+
+
+CLINICAL IMPLICATIONS:
+The left ventricular ejection fraction is <40%, a threshold for
+which the patient may benefit from a beta blocker and an ACE
+inhibotor or [**Last Name (un) **].
+Based on [**2860**] AHA endocarditis prophylaxis recommendations, the
+echo findings indicate prophylaxis is NOT recommended. Clinical
+decisions regarding the need for prophylaxis should be based on
+clinical and echocardiographic data.
+
+Brief Hospital Course:
+# STEMI:
+In the ED, initial vitals were: HR 100 BP 126/72 RR 24 Sat 98%.
+The patient was given plavix 600 mg, integrillin, and heparin.
+She was taken to the cath lab where she was found to have TIMI 1
+flow in a large rPL branch and serial lesion in the RCA. She was
+given three overlapping bare metal stents. She developed a
+moderate hematoma during case which was compressed and remained
+stable, but for this reason she was not continued on
+integrellin. She was chest pain free at the end of case but with
+residual ST elevations.  She then developed mild chest
+discomfort and was tachycardic.  She was given IV lopresser 2.5
+mg and the chest discomfort resolved.  Her echo showed EF 30%
+and extensive systolic dysfunction consistent with multivessel
+CAD or other diffuse process but with improved inferrolateral
+systolic function compared with prior.  She will need to
+continue the aspirin 81 mg (lower dose given GI bleed below),
+plavix 75 mg for at least one month, atorvastatin 80 mg,
+metoprolol, and lisinopril.  She will need to follow up with her
+cardiologist and Primary Care, Dr. [**Last Name (STitle) 9398**] on Friday [**6-1**].
+
+.
+# GI bleed: After her catheterization the patient had 300 cc of
+melenotic stool. NG lavage was performed and revealed evidence
+of old coffee ground blood. GI was consulted who decided that
+she should be supported medically given her recent
+procedure/STEMI. (Of note, the patient was recently admitted to
+[**Location (un) **] in [**2863-1-2**] where she had a GI bleed and refused
+endoscopy at that time) RBCs were requested, but due to
+antibodies, the pt had to request blood products from the Red
+cross.  The patient was found to be hypotensive to the low
+80s/high 70s and was bolused with LR until she received 3 units
+of RBCs.  She was started on a protonix drip and had no evidence
+of further bloody stools.  Her Hct remained stable and her
+lactate was not elevated.  It was thought that her bleed was
+likely from an upper source in the setting of receiving heparin,
+integrillin, plavix, and aspirin.  She was initially made NPO,
+but her diet was advanced slowly and she tolerated this well.
+Her beta blocker, ACEi, and lasix were initially held and
+restarted before discharge. H pylori is currently pending. She
+has an appt with outpt gastroenterologist at [**Location (un) **] and was
+encouraged to keep the appt.
+.
+# Groin Hematoma: The patient developed a large right hematoma
+as a complication from her catheterization. No bruits were
+auscultated.  She was not continued on integrellin post cath for
+this reason.  The hematoma remained stable and should improve
+over time.
+.
+# Back pain: The patient has chronic back pain at baseline.  To
+treat her pain she was given morphine 1 - 2 mg Q 4 hr while she
+was NPO.  She was also given tylenol 1 gm Q 6 hours and Lidoderm
+patch which she said did not improve the pain. therefore, she
+was sent home with no change to her pain regimen.
+.
+# Depression: noted by pt appearance and history. Gerontology
+consult called and recommended 15 mg Remeron qhs to treat
+depression, help her sleep and possibly improve her appetite.
+This medicine should be uptitrated to effect by PCP.
+[**Name10 (NameIs) 32910**] agree with plan and pt encouraged to make her
+wishes clear about further medical therapy. A social work
+consult was asked for on page 1 to help her with end of life
+decision making.
+.
+# Urinary urgency: pt stated she felt like she had UTI on day of
+discharge, long history of these after foley catheterization.
+U/A mostly bland and cx pending. Given symptoms, pt was sent
+home on 3 day course of ciprofloxacin.
+
+Medications on Admission:
+Aspirin 325 mg Q day
+Atorvastatin 80 mg Tablet Q day
+Carvedilol 3.125 mg [**Hospital1 **]
+Furosemide 40 mg Q day
+Lisinopril 2.5 mg Tablet Q day
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+3. Calcium 500 + D 500 mg(1,250mg) -200 unit Tablet Sig: One (1)
+Tablet PO twice a day.
+4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+5. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+8. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as
+needed for constipation.
+10. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO twice a day.
+11. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet
+Sublingual every 5 minutes x3 as needed for chest pain.
+12. Lidoderm 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) patch Topical once a day.
+Disp:*30 patches* Refills:*2*
+13. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q12H
+(every 12 hours) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+Caregroup
+
+Discharge Diagnosis:
+Primary diagnosis:
+ST Elevation Myocardial Infarction
+GI bleed (source unknown)
+Right groin hematoma
+Depression
+
+Secondary diagnosis:
+low back pain
+systolic CHF
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent
+
+
+Discharge Instructions:
+You came to the hospital because you were having shortness of
+breath and were found to be having a heart attack.  You were
+emergently taken to the cath lab where you received three bare
+metal stents to your blocked artery.  You had some leaking of
+blood from your blood vessel in your groin after the procedure.
+You also developed bleeding from your rectum and this was
+thought to be from bleeding up near your stomach.  You were
+given red blood cells and IV fluids and the bleeding stopped.
+
+Please note the following changes to your medications:
+1. Continue Plavix every day to prevent the stent from clotting
+off. Do not miss [**First Name (Titles) 1588**] [**Last Name (Titles) 1587**] or stop taking Plavix for one month
+unless Dr. [**Last Name (STitle) **] tells you to.
+2. Decrease your aspirin to 81 mg daily
+3. Start taking Calcium with Vitamin D to prevent bone loss
+4. Start Pantoprazole twice daily to prevent further stomach
+bleeding
+5. Start Lidocaine patch to painful back area once daily
+6. Start Mirtazipine 15 mg at night to help your mood and your
+appetite. This will probably need to be increased by Dr.
+[**Last Name (STitle) 9398**].
+8. Take senna up to twice daily to prevent constipation
+9. Take Ciprofloxacin for 3 days to treat your urinary tract
+infection
+.
+Weigh yourself every morning, [**Name8 (MD) 29**] MD if weight goes up more
+than 3 lbs in 1 day or 6 pounds in 3 days.
+
+Followup Instructions:
+Please follow up with the following providers:
+Cardiology and Primary Care:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) 13217**] Phone: [**Telephone/Fax (1) 9399**] Date/time:
+Friday [**6-1**] at 11:30am.
+.
+Gastroenterology: [**Name (NI) 8119**], [**Name (NI) 17309**], MD
+[**Street Address(2) 32911**]
+[**Location (un) **], [**Numeric Identifier 7109**]
+Phone: [**Telephone/Fax (1) 5605**]
+Fax: [**Telephone/Fax (1) 32912**]
+Date: [**6-26**] at 10:15pm.
+
+
+
+Completed by:[**2863-5-31**]
+
+
+DOC CLASS

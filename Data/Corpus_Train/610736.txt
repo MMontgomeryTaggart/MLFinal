@@ -1,0 +1,174 @@
+Chief Complaint:
+   DKA
+   PNA
+   Acute on Chronic renal failue
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   24 year-old male with poorly-controlled IDDM complicated by retinopathy
+   and nephropathy and hypertension admitted with a  day of abdominal
+   pain, nausea and failure to take home insulin or or other medications.
+   When he went to bed [**4-17**] was feeling well, although he did note a few
+   days of dry cough, fatigue, no fevers, chills or night sweats. He also
+   noted that he had increasing #s of bowel movements (he states he
+   normally has a BM 1 X / week). No sick contacts at home. No recent
+   travel or new foods.   He notes that he does make urine.
+   In ED , afebrile, VSS, mildly tachy. and received 4L of IV hydration,
+   insulin push followed by insulin gtt and levofloxacin for PNA.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   Codeine
+   Hives;
+   Last dose of Antibiotics:
+   Levofloxacin [**3079-4-18**]
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   - Diabetes mellitus, type I. Diagnosed in [**3055**]. Poorly  controlled with
+   past DKA. Complicated with retinopathy,
+   nephropathy  with HbA1C ~12
+   - Hypertension, poorly controlled  on multiple agents
+   - Chronic kidney disease with Cr 7.0 over the last month (missed f/u
+   to initiate HD)
+   Father, grandmother with diabetes mellitus. No relatives currently on
+   dialysis.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Lives with aunt in [**Location (un) 393**]. Smokes 2 packs per week since age
+   16. Denies recent alcohol use. Denies illicit drug use, now or in the
+   past.
+   Review of systems:
+   Constitutional: Fatigue
+   Eyes:  Blurry vision
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: Chest pain
+   Gastrointestinal: Abdominal pain, Nausea
+   Endocrine: Hyperglycemia
+   Flowsheet Data as of [**3079-4-18**] 03:48 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Afeb
+   94/min (reg)
+   16/min
+   95% RA
+   138/87 mmHg
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   ABG: ////
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Breath Sounds: Crackles : bases b/l)
+   Abdominal: Soft, Non-tender, Bowel sounds present, Distended
+   Extremities: Right: Trace, Left: Trace
+   Skin:  Warm
+   Neurologic: Attentive, Follows simple commands, Responds to: Not
+   assessed, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   217
+   27
+   691
+   7.9
+   62
+   17
+   100
+   5.4
+   134
+   10
+        [image002.jpg]
+   Other labs: Differential-Neuts:91%PMN
+   Fluid analysis / Other labs: Lactate 1.5
+   Imaging: CXR [**4-18**]: LLL PNA possible, more appreciable on the lateral
+   Microbiology: Blood clx [**4-18**]: NGTD
+   Assessment and Plan
+   24 year-old male with poorly-controlled IDDM complicated by
+   retinopathy and nephropathy, hypertension, and chronic kidney
+   disease with recent Cr near 7 admitted with DKA and worsening [**Doctor First Name **]
+   function as [**Last Name (un) **] as abd pain and ? LLL PNA
+   >DKA: hAs a hx of IDDM. Glucose at 691 on admit (no serum ketones or
+   urine ketones drawn yet) but serum HCO3 is down and he has a AG. Will
+   start hydrate gently and start insulin gtt until gap closed
+   and then restart home long acting reg. PNA and abd pain as possible
+   underlying etiologies on a back drop of poor compliance.
+   - Obtain ABG
+   - insulin gtt and restart long acting when gap closed
+   - Gentle IV hydration as a challenge (and standing D5 1/2NS when blood
+   glucose is <250)
+   - close monitoring of electrolytes (Mg, PO4, K) although also with
+   chronic worsening renal failure
+   - pan clx to r/o infection as an etiology
+   - touch base with Jos DM service for help optimizing management
+   >Renal failue: underlying picture thought to be [**12-23**] DM and HTN. At this
+   point he will probably need to have access established for HD during
+   this admission although perhaps his acute worsening
+   may be in someway related to mild dehydration in the setting of DKA.
+   Over the longer term it seems likely he will need HD soon. There does
+   not appear to be an acute indication at present although we will look
+   at his [**Doctor Last Name **] to make sure compensated from an acid base status.
+   - Renal consult for initiation of HD and ? evaluation for transplant
+   over the longer term
+   - Gentle hydration (he did receive 4L in the ED)
+   - ? phos binders
+   - check coags for possible HD line placement
+   > Abdominal pain: most likely [**12-23**] DKA or PNA although worht checking
+   LFTs to eval liver/gallbladder and [**Doctor First Name **]/lip for pancreatitis.  If any
+   focality to exam or lab abnl's then would favor imaging
+   > PNA: radiographic evidence of PNA but no fever, WBC or other
+   symptoms. He does have GERD and probably diabetic gastroparesis which
+   would increase risk for aspiration
+   -  Seems most reasonable to cover for now with levofloxacin  and
+   ceftriaxone for now
+   > HTN: retstart home medication regimen (metoprolol, hydral and
+   amlodipine) as he can tolerate. We can use IV hydral and metop over the
+   short term if needed.  Notably a TTE in [**3079-1-19**] was nl EF with mild
+   LVH and mild MR.
+   Additional issues per ICU resident note.
+   ICU Care
+   Nutrition:
+   DM diet when able to tolerate
+   Glycemic Control: Insulin infusion
+   Lines / Intubation:
+   Comments:
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 45 minutes
+   Patient is critically ill
+
+
+
+DOC CLASS

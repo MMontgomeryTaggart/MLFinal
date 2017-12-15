@@ -1,0 +1,298 @@
+Admission Date:  [**3186-2-4**]              Discharge Date:   [**3186-2-10**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 5234**]
+Chief Complaint:
+Falls
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+[**Age over 90 **] yo F, h/o A fib on Coumadin, who fell twice 3/12am in
+bathroom and 5-6pm again in her bedroom, both time struck her
+left side of head on to ground. She was uncertain the cause of
+the falls, thought she may have lost balance. Denied LOC, HA,
+N/V, dizziness/lightheaddeness. No bladder/bowel incontinence.
+Able to ambulate after the falls.
+
+
+Past Medical History:
+CHF- ECHO in '[**82**] showed EF 55%
+Afib
+ventral hernia
+neuropathy on L side s/p "neck" tumor surgery
+Diverticulitis
+.
+PSHX:
+-LAR complicated by CHF post-op. Echo at that time EF >55%, mild
+LVH, mild MR.
+[**Name14 (STitle) 12592**] of cervical spinal tumor c/b L sided neuropathy and
+weakness
+
+
+Social History:
+Lives in FL during winter. Recently moved back. Volunteer at
+Hebreb. No Etoh, no smoking hx. Has 24 hour caregiver
+
+
+Family History:
+NC
+
+Physical Exam:
+T: 99.0  BP: 150/102     HR:96    R 20    O2Sats 99%
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils:  PERRLA       EOMs full. No rhinorrhea. No
+otorrhea.
+Neck: no tenderness. on c-collar, ROM not examined.
+Lungs: CTA bilaterally.
+Cardiac: irregular HR 98, +S1S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+ No dysarthria.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2.0mm to
+1.5mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+[**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power [**3-29**] throughout. No pronator drift
+
+Sensation: Intact to light touch bilaterally.
+
+Reflexes: 1+/4 throughout and symmetrical.
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger.
+
+
+Pertinent Results:
+[**3186-2-4**] 05:50AM   PT-36.7* PTT-34.5 INR(PT)-4.0*
+[**3186-2-4**] 05:50AM   PLT COUNT-293
+[**3186-2-4**] 05:50AM   NEUTS-91.1* LYMPHS-5.2* MONOS-3.6 EOS-0
+BASOS-0.1
+[**3186-2-4**] 05:50AM   WBC-17.2*# RBC-4.43 HGB-13.4 HCT-39.3 MCV-89
+MCH-30.3 MCHC-34.1 RDW-14.4
+[**3186-2-4**] 05:50AM   CALCIUM-9.2 PHOSPHATE-2.8 MAGNESIUM-2.0
+[**3186-2-4**] 05:50AM   CK-MB-9
+.
+IMAGING:
+NCHCT [**2-4**] - FINDINGS:  High-density material is seen tracking
+along the left hemisphere consistent with acute subdural
+hematoma.  High-density material also seen tracking along the
+falx and left tentorium, also consistent with subdural hematoma.
+ Hematoma measures approximately 1 cm in greatest width and
+demonstrates mass effect, with subfalcine herniation, with
+rightward shift of approximately 6 mm.  Mass effect is seen on
+the left lateral ventricle.  The posterior aspect of the left
+lateral ventricle is not well visualized.  Left temporal [**Doctor Last Name 528**] is
+also not well seen.  Evidence of previous right MCA territory
+infarct again seen.  Dentate nucleus calcifications also again
+noted. Visualized paranasal sinuses appear normally aerated.
+IMPRESSION:  Left-sided subdural hematoma, with subfalcine
+herniation with
+rightward shift of approximately 6 mm.  Mass effect also seen on
+the left
+lateral ventricle.
+.
+CT C spine [**2-4**] - 1.  No evidence of acute fracture or
+dislocation.
+2.  Stable appearance to extensive degenerative disease and
+vertebral body/ right facet fusion from C5-C7.
+3.  Reidentification of extensive subdural hematoma.  Please
+consult CT
+examination report from same date for further details.
+.
+Shoulder x-ray [**2-4**] - No evidence of acute fracture or
+dislocation.
+.
+NCHCT [**2-5**] - Large left-sided acute subdural hemorrhage which
+appears to be unaltered in extent compared to the prior study of
+[**2-4**]
+.
+CXR [**2-6**] - 1.  Persistent retrocardiac opacity is concerning for
+ongoing pneumonia. 2.  Superior mediastinal prominence is
+consistent with goiter seen on prior chest CT.
+.
+NCHCT [**2-7**] - Little change seen from prior study.  Again seen is
+large left subdural hematoma.  There is no significant change
+seen in the mass effect, or right temporal hyperdensity.
+Calcifications are again noted in the folia of the cerebellar
+hemispheres.  No new hemorrhage identified.
+.
+CTA chest [**2-7**] - 1.  No evidence of pulmonary embolus or
+thoracic aortic dissection.
+2.  Bilateral lower lobe opacities, concerning for pneumonia.
+Small right
+pleural effusion.
+3.  Mild CHF.
+4.  Stable mediastinal mass, likely representing goiter.
+.
+LABS ON DISCHARGE:
+[**3186-2-10**] 05:40AM BLOOD WBC-9.2 RBC-3.86* Hgb-12.2 Hct-34.8*
+MCV-90 MCH-31.5 MCHC-35.0 RDW-14.7 Plt Ct-298
+[**3186-2-10**] 05:40AM BLOOD Glucose-97 UreaN-13 Creat-0.6 Na-137
+K-4.3 Cl-100 HCO3-28 AnGap-13
+[**3186-2-10**] 05:40AM BLOOD Calcium-8.4 Phos-2.7 Mg-1.8
+
+Brief Hospital Course:
+Ms [**Name13 (STitle) **] was admitted to the ICU for frequent neurological
+examinations and blood pressure control.  She had repeat head
+CTs which showed no evidence of new hemorrhage. She was ruled
+out for an MI.  On [**2-6**] she was transferred to the surgical
+floor her Dilantin level was low and she was rebolused with
+Dilantin and became quite lethargic. A repeat CT showed no
+change or evidence of new stroke, however she was noticed to
+have some expressive aphasia which continued into [**2-6**],
+otherwise her exam was fairly intact. An MRI was ordered to eval
+for new stroke but on transport, patient became hypotensive and
+was returned to the floor and evaluated by MICU team for
+transfer.
+.
+S/p MICU transfer:
+# Respiratory distress: Thought to be secondary pneumonia seen
+on CT. Given fever, tachypnea, hypoxia, tachycardia, was treated
+for pneumonia. [**Month (only) 115**] be community-acquired (as had been going on
+since prior to admission) vs aspiration (with altered mental
+status) vs hospital acquired. Was treated as aspiration
+pneumonia with levofloxacin and flagyl. No evidence of CHF on
+exam or xray, and had actually been getting double her usual
+lasix dose on the medical floor and appeared dry on exam. CTA
+chest negative for pulmonary embolus. Upon transfer back to the
+medical floor, the pt's oxygen requirement was weaned down to 2L
+NC and she was sating in the upper 90s by the time of discharge.
+She was discharged to complete a 10 day course of antibiotics at
+rehab.
+.
+# SDH: Was maintained on dilantin 100 mg [**Hospital1 **]. Her dilantin level
+was stable in the 10-15 range s/p her repeat dilantin load in
+the SICU. Coumadin was held throughout hospital course. Per
+neurosurgery, she will need to finish a 7 day course of dilantin
+for seizure prophylaxis. Neurosurgery also cleared the pt to
+restart coumadin in 4 weeks time with a NCHCT to be performed
+once her INR is therapeutic again. Her PCP will decide as an
+outpatient whether or not to resume her coumadin.
+.
+# Altered mental status: Etiology unclear. Possibilities
+included medication effect (dilantin) vs. sepsis and pneumonia,
+vs expanding SDH. Head CT unchanged.  Dilantin held. Treated
+pneumonia as above. Culture data negative. Per neurosurgery,
+restarted dilantin [**2-7**] at decreased frequency (100 [**Hospital1 **]). Upon
+transfer to the floor, the pt was alert and oriented X 3 without
+any deficits noted on neuro exam, including aphasia and
+dysarthria. She remained AAO X 3 during her remaining hospital
+course.
+.
+# AFib: Well rate controlled on atenolol prior to transfer to
+MICU.  Home atenolol continued. Held coumadin given SDH.
+.
+# HTN: Continued atenolol as above.
+.
+# Neuropathic pain: Continued home regimen of neurontin.
+.
+FULL CODE
+
+She was discharged to [**Hospital 99**] Rehab in good condition to finish a
+course of antiobiotics, dilantin, and for PT/OT.
+
+Medications on Admission:
+Coumadin 4mg/d, Tue - Fri; 3mg/d, Mon and Sat; atenolol 25mg/d;
+neurontin 400mg, [**Hospital1 **].
+
+
+Discharge Medications:
+1. Gabapentin 400 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+2. Atenolol 50 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+3. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 5 days.
+Disp:*15 Tablet(s)* Refills:*0*
+4. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 5 days.
+Disp:*5 Tablet(s)* Refills:*0*
+5. Phenytoin Sodium Extended 100 mg Capsule Sig: One (1) Capsule
+PO BID (2 times a day) for 3 days.
+Disp:*6 Capsule(s)* Refills:*0*
+6. Cepacol 2 mg Lozenge Sig: One (1) Lozenge Mucous membrane
+every eight (8) hours as needed for sore throat.
+7. Guaifenesin 100 mg/5 mL Syrup Sig: 5-10 MLs PO Q6H (every 6
+hours) as needed for cough.
+8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day) as needed for constipation.
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every
+4 to 6 hours) as needed for pain.
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed.
+11. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+12. Zolpidem 5 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as
+needed.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Hospital6 454**] for the Aged - MACU
+
+Discharge Diagnosis:
+Left sided subdural hematoma
+Aspiration Pneumonia
+
+
+Discharge Condition:
+Neurologically stable
+
+
+Discharge Instructions:
+You were diagnosed with subdural hematoma (bleeding in your
+brain) after having a fall while on coumadin.  You also
+developed a pneumonia during your ICU stay.  Your coumadin was
+stopped during this hospitalization.   Do not restart your
+coumadin unless instructed by your doctor; you must be off this
+medication for at least 4 weeks.
+
+You were also started on Levaquin and Flagyl to treat your
+pneumonia.  Please complete the full course as instructed below.
+ All of your other medications were continued as prior to your
+hospitalization.
+
+If you develop worsening headache, dizziness, visual problems,
+gait difficulties, or any other concerning symptom, please call
+your doctor or report to the nearest ER.
+
+Followup Instructions:
+Please call Dr. [**Last Name (STitle) 12485**] at [**Telephone/Fax (1) 4550**] to schedule a follow
+up appointment 1-2 weeks after discharge.
+
+Please call Dr [**Last Name (STitle) 542**] (the neurosurgeon) at [**Telephone/Fax (1) 2945**] to
+schedule a follow up appointment 4 weeks after discharge.  He
+would like for you to have a repeat CAT scan of your head just
+prior to this appointment.
+
+
+
+Completed by:[**3186-2-10**]
+
+
+DOC CLASS

@@ -1,0 +1,203 @@
+Chief Complaint:
+   24 Hour Events:
+ ARTERIAL LINE - START [**3286-11-26**] 03:00 PM
+   - Decreased urine OUP - follow.
+   - Need renal consult
+   - Started on vanc/cipro.
+   - Received Kayexelate
+   - Family meeting, at which family decided to make him DNR/DNI.
+   - Arrhythmia?
+   Allergies:
+   Sulfonamides
+   Unknown;
+   A.C.E Inhibitors
+   Cough;
+   Protonix (Oral) (Pantoprazole Sodium)
+   Rash;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3286-11-26**] 11:00 AM
+   Infusions:
+   Dopamine - 4 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3286-11-27**] 06:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 70 (70 - 72) bpm
+   BP: 98/41(66) {77/39(53) - 105/66(79)} mmHg
+   RR: 23 (12 - 25) insp/min
+   SpO2: 99%
+   Heart rhythm: V Paced
+             Total In:
+                                                                  2,470 mL
+                                                                     93 mL
+   PO:
+                                                                    120 mL
+             TF:
+   IVF:
+                                                                  1,850 mL
+                                                                     93 mL
+   Blood products:
+   Total out:
+                                                                     83 mL
+                                                                     55 mL
+   Urine:
+                                                                     83 mL
+                                                                     55 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  2,387 mL
+                                                                     38 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SpO2: 99%
+   ABG: ///18/
+   Physical Examination
+   GEN: lying in bed moaning but not grimacing or in distress (per nursing
+   this is his baseline)
+   HEENT: no JVD, no lymphadenopathy, MM dry, no skin tenting on forehead
+   RESP: unlabored, a small amount of fine bibasilar crackles
+   CVS: RRR, no MRG but diff to hear over pt's moaning
+   ABD: distended, tympanic but not tense, soft, NT, fine pale
+   erythematous vascular rash across lower abdomen
+   EXT: no LE edema; bruising on UE, right forearm with swelling but no
+   edema
+   NEURO: moaning in bed, responds somewhat to voice and makes purposefull
+   movements, but does not follow commands
+   Labs / Radiology
+   111
+   8.1
+   107
+   5.4 mg/dL
+   18 mEq/L
+   5.2 mEq/L
+   123 mg/dL
+   100
+   132          mEq/L
+   24.1 %
+   6.3
+        [image002.jpg]
+                            [**3286-11-26**]  10:25 AM
+                            [**3286-11-26**]  05:00 PM
+                                  [**3286-11-27**]
+                                   5:45 AM
+   Hct
+   26.3
+   24.1
+   Cr
+   4.9
+   5.1
+   5.4
+   TropT
+   0.05
+   0.05
+   Glucose
+   77
+   120
+   107
+   Other labs: CK / CKMB / Troponin-T:139/7/0.05, Ca++:8.9 mg/dL, Mg++:3.0
+   mg/dL, PO4:7.1 mg/dL
+   Urine lytes: Urea 359, creatinine 183, Na 19, Osm 330; FENa 0.4%
+   CXR: moderate CHF
+   KUB: non-obstructive bowel gas pattern
+   CT abd/pelvis: mod pleural effusions R>L; nodular liver; trace
+   ascities; b/l renal cysts unchanged; diverticulosis w/o diverticulitis.
+   Assessment and Plan
+   .
+   # Hypotension: Likely multifactorial.  Could be [**3-2**] infection with UA
+   concerning for UTI.  On cipro, but has been afebrile and without
+   leukocytosis.  Other considerations include dehydration given physical
+   exam, ARF and increased Torsemide/Valsartan.
+   - A line placed
+   - Treat UA with IV Cipro
+   - Hold Torsemide, Valsartan and Carvedilol
+   .
+   # ARF on CRI.  CKD baseline Cr 2-2.2.  Worsened during last hospital
+   course.  Attributed to starting Torsemide and Valsartan, but discharged
+   on these medications despite this.  Hyperkalemia likely attributable to
+   worsened renal function.  Likely prerenal, but will send urine studies
+   to assess.
+   - Urine osms, lytes, sediment
+   - Hold Torsemide/Valsartan
+   - Continue Sevelamer, check phos, consider d/c if improves
+   - Renal diet once diet advanced
+   - Consider renal u/s if no improvement
+   .
+   # Hyperkalemia: Likely [**3-2**] ARF on CRI.  EKG without changes concerning
+   for life-threatening hyperkalemia.
+   - Repeat electrolytes
+   - If continued hyperkalemia, would give kayexelate
+   .
+   # Anemia: Baseline.  On last admission attributed to his CRI.
+   Discharged on ProCrit and iron.  +Guaiac positive in ED.  Would not
+   transfuse unless acute drop > 3pt or Hct <21 or e/o end organ ischemia.
+   - [**Hospital1 7**] HCT
+   - Guaiac stools
+   - Hold iron for ?contribution to AMS
+   .
+   # Falls: Likely [**3-2**] physical decline given repeat hospitalization, as
+   well as possible AMS with UTI, iron, electrolyte abnormalities and
+   hypotension.
+   - d/c iron
+   - treat UTI
+   - Give fluid for hypotension
+   - PT/OT consults after improvement ?safe to d/c home vs placement
+   .
+   # UTI: UA positive in ED.
+   - Follow-up cultures
+   - Continue Cipro
+   .
+   # Type II diabetes mellitus: Hold Glipizide. Monitor on ISS with QID
+   FS.
+   .
+   # CAD s/p CABG in [**3257**]: On ASA, BB. Hold BB for hypotension, will
+   restart as able.
+   - Continue ASA
+   .
+   # BPH s/p TURP: On tamsulosin as outpatient.  Foley in place.
+   - Hold tamsulosin given hypotenion
+   - d/c Foley soon
+   - Restart Tamsulosin once improved
+   .
+   # Sensory deficits: B/L vision loss and hearing loss.  [**Month (only) 47**] worsen AMS
+   and contribute to hospital acquired delirium.
+   - Orient frequently
+   - Discuss with family
+   .
+   FEN:  Hypovolemic - replete / monitor electrolytes [**Hospital1 7**] / NPO while AMS,
+   advance to Renal/DM/Heart Healthy diet as improves
+   Ppx: Pneumoboots / bowel regimen
+   .
+   Code: FULL
+   .
+   Communication: Will attempt to contact and coordinate family meeting
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3286-11-26**] 08:00 AM
+   Arterial Line - [**3286-11-26**] 03:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+
+
+
+DOC CLASS

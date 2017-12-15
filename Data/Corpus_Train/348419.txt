@@ -1,0 +1,209 @@
+CVICU
+   HPI:
+   [**11-22**] POD 7
+   58M s/p AscAo replacement(28gelweave)AVR(27CE perimount tissue)[**11-15**]
+   EF CR 2.1 WT 100K
+   PMHx:
+   PMH: HTN, CRI, s/p pancreatitis, prostate CA, anemia, diverticulosis,
+   s/p CVA L caudate '[**74**], adrenal hyperplasia s/p adrenalectomy '[**73**],
+   pre-diabetic, hypertriglyceridemia,
+   [**Last Name (un) 500**]: atenolol 100', cialis 20', xenical 120"', allopurinol 300',
+   percocet, tylenol#3, HCTZ 25', hytrin 1', prilosec 20', procardia xl
+   60'
+   Current medications:
+   Active Medications [**Known patient lastname 2467**],[**Known patient firstname 2468**]
+   1. 2. 1000 mL D5W 3. Acetaminophen 4. Allopurinol 5. Albuterol 0.083%
+   Neb Soln 6. Albuterol 0.083% Neb Soln
+   7. Amlodipine 8. Amiodarone 9. Aspirin 10. Bisacodyl 11. Calcium
+   Acetate 12. Calcium Gluconate
+   13. Ciprofloxacin 14. Dextrose 50% 15. Docusate Sodium (Liquid) 16.
+   Fentanyl Citrate 17. Furosemide
+   18. Heparin 19. Influenza Virus Vaccine 20. Insulin 21. Ipratropium
+   Bromide Neb 22. Lactulose 23. Magnesium Sulfate
+   24. Metolazone 25. Metoprolol Tartrate 26. Metoprolol Tartrate 27.
+   Nitroglycerin 28. OxycoDONE-Acetaminophen Elixir
+   29. Phenylephrine 30. Potassium Chloride 31. Potassium Chloride 32.
+   Qvar 33. Ranitidine (Liquid)
+   34. Sodium Chloride 0.9% Flush 35. Sodium Chloride 0.9% Flush 36.
+   Terazosin 37. Vancomycin
+   24 Hour Events:
+ CHEST TUBE REMOVED - At [**3283-11-21**] 11:00 AM
+ CHEST TUBE REMOVED - At [**3283-11-21**] 11:00 AM
+   Post operative day:
+   POD#7 - s/p Ascending Aorta replacetment with 28 mm gelweave. AVR with
+   27 mm CE tissue valve. 24 hour events: intermittant Afib
+   Allergies:
+   Lisinopril
+   hyperkalemia;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**3283-11-22**] 12:18 AM
+   Vancomycin - [**3283-11-22**] 07:50 AM
+   Infusions:
+   Furosemide (Lasix) - 2 mg/hour
+   Other ICU medications:
+   Metoprolol - [**3283-11-22**] 06:42 AM
+   Heparin Sodium (Prophylaxis) - [**3283-11-22**] 07:49 AM
+   Flowsheet Data as of  [**3283-11-22**] 09:48 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**86**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.7
+C (99.8
+   HR: 122 (83 - 148) bpm
+   BP: 149/68(91) {97/48(64) - 195/89(111)} mmHg
+   RR: 24 (14 - 25) insp/min
+   SPO2: 95%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 119.9 kg (admission): 120 kg
+   Height: 68 Inch
+   CVP: 9 (2 - 22) mmHg
+   Total In:
+                                                                  2,334 mL
+                                                                  1,186 mL
+   PO:
+   Tube feeding:
+                                                                    179 mL
+                                                                    233 mL
+   IV Fluid:
+                                                                  2,075 mL
+                                                                    838 mL
+   Blood products:
+   Total out:
+                                                                  3,815 mL
+                                                                  1,440 mL
+   Urine:
+                                                                  3,640 mL
+                                                                  1,440 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,481 mL
+                                                                   -253 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 95%
+   ABG: ///29/
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Irregular), tachycardic
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : , Diminished: bilat bases), (Sternum: Stable )
+   Abdominal: Soft, Non-tender, Bowel sounds present, Obese,
+   firm-nontender
+   Left Extremities: (Edema: 1+), (Temperature: Warm), (Pulse - Dorsalis
+   pedis: Present), (Pulse - Posterior tibial: Present)
+   Right Extremities: (Edema: 1+), (Pulse - Dorsalis pedis: Present),
+   (Pulse - Posterior tibial: Present)
+   Skin: toes mottled-bilat
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   287 K/uL
+   9.6 g/dL
+   148 mg/dL
+   3.0 mg/dL
+   29 mEq/L
+   3.6 mEq/L
+   93 mg/dL
+   108 mEq/L
+   147 mEq/L
+   28.1 %
+   13.8 K/uL
+        [image002.jpg]
+                            [**3283-11-20**]  08:26 AM
+                            [**3283-11-20**]  09:58 AM
+                            [**3283-11-20**]  03:12 PM
+                            [**3283-11-20**]  11:54 PM
+                            [**3283-11-21**]  03:00 AM
+                            [**3283-11-21**]  06:54 AM
+                            [**3283-11-21**]  12:09 PM
+                            [**3283-11-21**]  04:59 PM
+                            [**3283-11-21**]  10:47 PM
+                             [**3283-11-22**]  04:14 AM
+   WBC
+   13.5
+   13.8
+   Hct
+   28.9
+   28.8
+   28.1
+   Plt
+   247
+   287
+   Creatinine
+   3.3
+   3.2
+   3.0
+   TCO2
+   26
+   27
+   30
+   28
+   Glucose
+   97
+   161
+   114
+   158
+   116
+   122
+   142
+   112
+   148
+   Other labs: PT / PTT / INR:13.3/29.5/1.1, ALT / AST:[**8-12**], Alk-Phos / T
+   bili:65/0.7, Amylase / Lipase:113/84, Fibrinogen:184 mg/dL, Lactic
+   Acid:1.1 mmol/L, Albumin:2.7 g/dL, LDH:293 IU/L, Ca:8.9 mg/dL, Mg:3.0
+   mg/dL, PO4:4.8 mg/dL
+   Assessment and Plan
+   CVA (STROKE, CEREBRAL INFARCTION), OTHER , MUSCLE PERFORMACE, IMPAIRED,
+   RESPIRATION / GAS EXCHANGE, IMPAIRED, TRANSFERS, IMPAIRED, AEROBIC
+   CAPACITY / ENDURANCE, IMPAIRED, HYPERTENSION, BENIGN, ANEMIA, ACUTE,
+   SECONDARY TO BLOOD LOSS (HEMORRHAGE, BLEEDING), TACHYCARDIA, OTHER,
+   FEVER (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), .H/O CVA
+   (STROKE, CEREBRAL INFARCTION), OTHER , INEFFECTIVE COPING,
+   OLIGURIA/ANURIA, RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), .H/O
+   VALVE REPLACEMENT, AORTIC BIOPROSTHETIC (AVR), [**Last Name **] PROBLEM - ENTER
+   DESCRIPTION IN COMMENTS, HYPERGLYCEMIA, AORTIC DISSECTION
+   Assessment and Plan:
+   Neurologic: Pain controlled, percocet
+   Right sided weakness continues to improve able to hold up arm and leg.
+   Some residual facial droop
+   Cardiovascular: Aspirin, Beta-blocker, Amiodarone. start statin.
+   Increase Bblocker today
+   Pulmonary: IS, OOB-chair
+   Gastrointestinal / Abdomen:
+   Nutrition: Tube feeding, Speech and Swallow eval, continue TF at goal.
+   [**Month (only) 11**] take ice chips.
+   Renal: Foley, d/c lasix/metalazone. Aim for net even today
+   Hematology: Stable hct
+   Endocrine: RISS
+   Infectious Disease: [**11-18**] Sputum w/Serratia
+   [**11-19**] Catheter tip w/Enterococcus
+   Lines / Tubes / Drains: Foley, Dobhoff, rt radial aline to be d/c'd
+   Wounds: Dry dressings
+   Imaging: CXR today, check dophoff placement
+   Fluids: hep lock
+   Consults: General surgery, Neurology, Nephrology, Speech and swallow
+   ICU Care
+   Nutrition: Continue tube feeds to goal rate. OK for ice chips
+   Glycemic Control:  Regular insulin sliding scale
+   Lines: rt subclav TLC
+   Multi Lumen - [**3283-11-19**] 02:11 PM
+   Arterial Line - [**3283-11-19**] 03:57 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments: start coumadin if not contraindicated by neurology
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+
+
+
+DOC CLASS

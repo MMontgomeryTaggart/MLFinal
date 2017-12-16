@@ -8,6 +8,7 @@ import pickle
 import pandas as pd
 import sys
 
+
 TRAIN_CORPUS_PATH = "../../Data/Corpus_Train/"
 TRAIN_TRUTH_PATH = "../../Data/GoldStandard/TrainingDocumentClasses.txt"
 
@@ -62,8 +63,8 @@ X_test = testData["features"]
 Y_test = testData["labels"]
 
 
-learningRateList = [0.1, 0.01, 0.001, 0.0001, 0.00001]
-numEpochsList = [1, 10, 100, 500, 1000, 3000]
+learningRateList = [.5, .3, 0.1, 0.01]
+numEpochsList = [1000, 3000, 6000, 10000, 15000]
 
 results = {"learningRate" : [], "numEpochs" : [], "fscore" : [], "precision" : [], "recall" : []}
 
@@ -89,7 +90,7 @@ for learningRate in learningRateList:
 
 
 dataFrame = pd.DataFrame(results)
-dataFrame.to_csv("./GraphOutput/Rates_LogisticActivation_1Hidden_25Units_30Points.tsv", index=False, sep='\t')
+dataFrame.to_csv("./GraphOutput/Rates_LogisticActivation_1Hidden_25Units_20Points_ShiftedHigherRateMoreEpochs.tsv", index=False, sep='\t')
 
 # rawPredictions = model.predict(X)#, shape=(X.shape[0], 2))
 # predictions = np.where(rawPredictions > .5, 1., 0.)

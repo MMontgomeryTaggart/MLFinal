@@ -1,0 +1,7 @@
+ModelName	Precision	Recall	TestTrain
+Bagged_Forest	0.9511	1.0	0
+Logistic_Regression	0.54479	1.0	0
+Neural_Net	.935	.960	0
+Bagged_Forest	0.7834	0.3973	10
+Logistic_Regression	0.2457	0.9863	10
+Neural_Net	.5	.5 10

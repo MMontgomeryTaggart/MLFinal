@@ -77,7 +77,7 @@ for numLayers in numHiddenLayerList:
             count, totalConfigs, float(count) * 100. / float(totalConfigs)))
         count += 1
         hiddenLayerInputList = [hiddenLayerSize] * numLayers
-        model = FeedForwardNet(X_train.shape[1], 1, activation=ReluActivation, hiddenLayerSizes=hiddenLayerInputList, batchSize=1, epochs=300, lossFunction=linearLoss, randomSeed=0, learningRate=.00001)
+        model = FeedForwardNet(X_train.shape[1], 1, activation=ReluActivation, hiddenLayerSizes=hiddenLayerInputList, batchSize=1, epochs=300, lossFunction=linearLoss, randomSeed=0, learningRate=.00000000001)
         model.fit(X_train, Y_train)
         rawPredictions = model.predict(X_validation)
         predictions = np.where(rawPredictions > .5, 1., 0.)
@@ -91,7 +91,7 @@ for numLayers in numHiddenLayerList:
 
 
 dataFrame = pd.DataFrame(results)
-dataFrame.to_csv("./GraphOutput/Architecture_300Epochs_Rate0.00001_ReluActivation_45Points.tsv", index=False, sep='\t')
+dataFrame.to_csv("./GraphOutput/Architecture_300Epochs_RateE-11_ReluActivation_45Points.tsv", index=False, sep='\t')
 
 # rawPredictions = model.predict(X)#, shape=(X.shape[0], 2))
 # predictions = np.where(rawPredictions > .5, 1., 0.)

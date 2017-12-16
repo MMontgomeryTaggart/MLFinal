@@ -1,0 +1,25 @@
+Bagged Forests ********************************************************
+500 Trees, depth 15
+Training Accuracy: 1.000000
+Training precision, recall, fscore:
+(1.0, 1.0, 1.0, None)
+Testing precision, recall, fscore:
+(0.2817204301075269, 0.89726027397260277, 0.42880523731587561, None)
+
+Bagged Forests ********************************************************
+750 Trees, depth: 5
+Training Accuracy: 0.975556
+Training precision, recall, fscore:
+(1.0, 0.95111111111111113, 0.97494305239179957, None)
+Testing precision, recall, fscore:
+(0.78378378378378377, 0.39726027397260272, 0.52727272727272723, None)
+
+
+Logistic Regression ***************************************************
+Training Accuracy: 0.582222
+Training precision, recall, fscore:
+(0.5447941888619855, 1.0, 0.70532915360501569, None)
+Test Accuracy: 0.327273
+Testing precision, recall, fscore:
+(0.24573378839590443, 0.98630136986301364, 0.39344262295081961, None)
+Test Accuracy: 0.327273

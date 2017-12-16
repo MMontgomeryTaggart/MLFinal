@@ -58,40 +58,56 @@ Y_train = Y_train_all[:numTraining]
 X_validation = X_train_all[numTraining:]
 Y_validation = Y_train_all[numTraining:]
 
-X_test = testData["features"]
+X_test = np.asarray(testData["features"])
 Y_test = testData["labels"]
 
 
-numHiddenLayerList = [0, 1, 2, 3, 4, 5, 6, 7, 8]
-hiddenLayerSizeList = [200, 150, 100, 40, 10]
-# numHiddenLayerList = [2]
+# numHiddenLayerList = [1]
 # hiddenLayerSizeList = [10]
-results = {"numHiddenLayers" : [], "hiddenLayerSizes" : [], "fscore" : [], "precision" : [], "recall" : []}
+# # numHiddenLayerList = [2]
+# # hiddenLayerSizeList = [10]
+# results = {"numHiddenLayers" : [], "hiddenLayerSizes" : [], "fscore" : [], "precision" : [], "recall" : []}
+#
+# totalConfigs = len(numHiddenLayerList) * len(hiddenLayerSizeList)
+# count = 1
+#
+# for numLayers in numHiddenLayerList:
+#     for hiddenLayerSize in hiddenLayerSizeList:
+#         sys.stdout.write("\rRunning Configuration %i of %i. %.2f%% complete" % (
+#             count, totalConfigs, float(count) * 100. / float(totalConfigs)))
+#         count += 1
+#         hiddenLayerInputList = [hiddenLayerSize] * numLayers
+#         model = FeedForwardNet(X_train.shape[1], 1, activation=LogisticActivation, hiddenLayerSizes=hiddenLayerInputList, batchSize=1, epochs=15000, lossFunction=linearLoss, randomSeed=0, learningRate=.1)
+#         model.fit(X_train, Y_train)
+#         rawPredictions = model.predict(X_validation)
+#         predictions = np.where(rawPredictions > .5, 1., 0.)
+#         precision, recall, fscore, _ = precision_recall_fscore_support(Y_validation, predictions, average="binary")
+#         results["numHiddenLayers"].append(numLayers)
+#         results["hiddenLayerSizes"].append(hiddenLayerSize)
+#         results["fscore"].append(fscore)
+#         results["precision"].append(precision)
+#         results["recall"].append(recall)
+#
+#
+# dataFrame = pd.DataFrame(results)
+# dataFrame.to_csv("./GraphOutput/Architecture_300Epochs_RateE-11_ReluActivation_45Points.tsv", index=False, sep='\t')
 
-totalConfigs = len(numHiddenLayerList) * len(hiddenLayerSizeList)
-count = 1
+#Train on whole training, serialize, and run on test data.
+model = FeedForwardNet(X_train.shape[1], 1, activation=LogisticActivation, hiddenLayerSizes=[10], batchSize=1, epochs=15000, lossFunction=linearLoss, randomSeed=0, learningRate=.1, verbose=True)
+model.fit(X_train_all, Y_train_all)
 
-for numLayers in numHiddenLayerList:
-    for hiddenLayerSize in hiddenLayerSizeList:
-        sys.stdout.write("\rRunning Configuration %i of %i. %.2f%% complete" % (
-            count, totalConfigs, float(count) * 100. / float(totalConfigs)))
-        count += 1
-        hiddenLayerInputList = [hiddenLayerSize] * numLayers
-        model = FeedForwardNet(X_train.shape[1], 1, activation=ReluActivation, hiddenLayerSizes=hiddenLayerInputList, batchSize=1, epochs=300, lossFunction=linearLoss, randomSeed=0, learningRate=.00000000001)
-        model.fit(X_train, Y_train)
-        rawPredictions = model.predict(X_validation)
-        predictions = np.where(rawPredictions > .5, 1., 0.)
-        precision, recall, fscore, _ = precision_recall_fscore_support(Y_validation, predictions, average="binary")
-        results["numHiddenLayers"].append(numLayers)
-        results["hiddenLayerSizes"].append(hiddenLayerSize)
-        results["fscore"].append(fscore)
-        results["precision"].append(precision)
-        results["recall"].append(recall)
+pickle.dump(model, open("./SerializedModel/Model15000Epochs10UnitsHidden.pkl", 'wb'))
 
+rawTrainingPredictions = model.predict(X_train_all)
+trainingPredictions = np.where(rawTrainingPredictions > .5, 1., 0.)
+print("Training predictions")
+printScores(Y_train_all, trainingPredictions)
 
+rawTestPredictions = model.predict(X_test)
+testPredictions = np.where(rawTestPredictions > .5, 1., 0.)
+print("Test Predictions:")
+printScores(Y_test, testPredictions)
 
-dataFrame = pd.DataFrame(results)
-dataFrame.to_csv("./GraphOutput/Architecture_300Epochs_RateE-11_ReluActivation_45Points.tsv", index=False, sep='\t')
 
 # rawPredictions = model.predict(X)#, shape=(X.shape[0], 2))
 # predictions = np.where(rawPredictions > .5, 1., 0.)

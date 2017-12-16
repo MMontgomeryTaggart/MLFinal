@@ -16,6 +16,8 @@ Testing precision, recall, fscore:
 
 
 Logistic Regression ***************************************************
+Learning Rate: 0.1
+Tradeoff: 100.0
 Training Accuracy: 0.582222
 Training precision, recall, fscore:
 (0.5447941888619855, 1.0, 0.70532915360501569, None)
@@ -23,3 +25,15 @@ Test Accuracy: 0.327273
 Testing precision, recall, fscore:
 (0.24573378839590443, 0.98630136986301364, 0.39344262295081961, None)
 Test Accuracy: 0.327273
+
+
+NN ************************************************
+Training predictions
+Epochs: 150000
+1 hidden layer, 10 units
+Accuracy: 0.947
+F-Score: 0.947
+Precision: 0.935
+Recall (Sensitivity): 0.960
+Specificity: 0.933
+NPV: 0.959

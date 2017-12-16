@@ -1,0 +1,4 @@
+ModelName	Precision	Recall
+"Bagged Forest"	0.7834	0.3973
+"Logistic Regression"	0.2457	0.9863
+"Neural Net"	.5	.5
